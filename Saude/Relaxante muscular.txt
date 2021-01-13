@@ -1,0 +1,34 @@
+Um relaxante muscular é um fármaco que afeta o músculo esquelético diminuindo o tónus muscular. É usado para aliviar sintomas tais como espasmo muscular, dor e hiperreflexia.
+
+
+== História ==
+A primeira descrição dos relaxantes musculares data do séc. XVI, quando os exploradores europeus encontraram nativos da Amazônia na América do Sul usando setas envenenadas que provocavam a morte por paralisia muscular. Este veneno, conhecido hoje como Curare, liderou os primeiros estudos em Farmacologia. O seu princípio ativo a tubocurarina, assim como muitos dos seus derivados sintéticos, desempenharam um papel importante nas experiências científicas que determinaram a função da acetilcolina na transmissão neuromuscular. A partir de 1943 os bloqueadores neuromuculares foram admitidos como relaxantes musculares na anestesia e cirurgia.
+A Food and Drug Administration (FDA) aprovou o uso do carisoprodol em 1959, a metaxalona em agosto de 1962 e a cyclobenzaprina em agosto de 1977.
+
+
+== Classificação ==
+Consoante o local de ação, os relaxantes musculares pode ser classificados em
+
+Relaxantes musculares de ação periférica ou bloqueadores neuromusculares,  que atuam interferindo na transmissão a nível da junção neuromuscular e não têm atividade a nível do sistema nervoso central (SNC). São frequentemente usados durante a cirurgia e nas Unidades de Cuidados Intensivos para inibir a contratilidade muscular.Relaxantes musculares de ação central  que atuam a nível do sistema nervoso central, a nível encefálico ou medular tais como o Carisoprodol, a Tizanidina de mecanismo de ação ainda mal conhecido e o baclofeno. São usados para aliviar dor musculo-esquelética e espasmos e para reduzir a espasticidade em várias patologias neurológicas.
+
+
+== Mecanismo de ação ==
+
+O relaxamento muscular e a paralisia podem ocorrer teoricamente pela interrupção da função a vários níveis, incluindo o sistema nervoso central, os nervos somáticos mielinizados, os nervos motores terminais desmielinizados, os recetores acetilcolínicos, a junção neuromuscular, a membrana muscular e o aparelho contrátil. A maioria dos bloqueadores neuro-musculares atuam bloqueando a transmissão a nível da junção neuromuscular. Normalmente o impulso nervoso chega ao nervo motor terminal, iniciando um influxo de ions de cálcio, (Ca2+), que causa a exocitose das vesículas sinápticas que contém a acetilcolina. Esta difunde-se então através da abertura sináptica.  Pode ser hidrolisada pela acetilcolinaesterase ou ligada aos recetores nicotínicos localizados na placa neuromuscular. A ligação de duas moléculas de acetilcolina ao recetor originam uma transformação proteica do recetor nicotínico que abre os canais de sódio-potássio. Isto faz com que os iões de Na+ e Ca2+ entrem na célula com saída  do K+, causando a despolarização da placa neuromuscular e a contração muscular. A seguir à despolarização, as moléculas de acetilcolina são removidas da placa e enzimaticamente hidrolisadas pela acetilcolinaesterase. O normal funcionamento da placa neuromuscular pode ser bloquedo por dois mecanismos. Agentes não despolarizantes, como a tubocurarina, bloqueiam a ligação do agonista, acetilcolina, e a ativação dos recetores nicotínicos impedindo assim a despolarização. Por outro lado, agentes despolarizantes como a succinilcolina, são agonistas dos recetores nicotínicos, competem com a acetilcolina na ligação a estes recetores e bloqueiam a contração despolarizando de tal modo o recetor que o dessensibiliza e o torna incapaz de iniciar um um novo potencial de acção. Ambas estas classes de bloqueadores neuromusculares são estruturalmente semelhantes à acetilcolina, em muitos casos contendo duas moléculas de acetilcolina ligadas em termino-terminal por um anel rígido de carbono, como o pancurónio (um agente não despolarizante).
+
+
+== Espasmolíticos ==
+
+A geração do potencial de ação nos neurónios motores que levam à contração muscular, está dependente do equilíbrio entre a excitação e  inibição sináptica que o neurónio motor recebe. Os agentes espasmolíticos atuam ou aumentando o nível de inibição ou reduzindo o nível de excitação. A inibição é ampliada pela imitação ou pelo aumento de ação das susbtâncias inibidoras endógenas, tais como o Ácido gama-aminobutírico(GABA).
+
+
+=== Terminologia ===
+Na medida em que atuam a nível do cortex, do eixo cerebral ou da medula, ou concomitantemente nas  três áreas, foram chamados de "relaxantes musculares de ação central". Contudo sabe-se hoje que nem todas as moléculas nesta classe têm atividade sobre o SNC (por exemplo o dantrolene). Assim, de acordo com MeSH, O dantrolene é classificado de relaxante muscular de ação central. a OMS na ATC, usa o termo de "agentes de ação central" mas adiciona uma categoria diferente "agentes de ação direta" para o dantrolene O uso desta terminologia data de 1973.O termo "espasmolítico é também considerado sinónimo de antiespasmódico.
+
+
+=== Uso clínico ===
+Os espasmolíticos tais como o carisoprodol, ciclobenzaprina, mataxalone e metocarbamol são comumente prescritos para as dores musculares lombares ou cervicais, fibromialgia e a síndrome da mialgia fascicular. Contudo não são recomendados como medicamentos de primeira linha; na dor aguda, não são mais eficazes que o paracetamol ou os antiinflamatórios não esteróides (AINE) e na fibromialgia não são mais eficazes que os antidepressivos. Não está provado que uma droga seja melhor que a outra e todas têm efeitos colaterais, principalmente vertigens e sonolência. Os cuidados a ter contra um possível abuso e a interação com outras drogas limita o seu uso. A escolha de um relaxante muscular deve ser feita com base nos seus efeitos adversos, tolerância e custo.Os relaxantes musculares são recomendados sobretudo em situações neurológicas tais como a paralisia cerebral e a esclerose múltipla O dantroleno embora considerado como um agente de ação periférica tem também ação central, enquanto a aticidade do baclofeno é exclusivamente central.
+Esta classe de medicamentos tem sido usada nas síndromes dolorosas, com base na teoria de que a dor induz um espasmo muscular e o espasmo causa dor. Contudo, vários estudos contradizem esta teoria. Em geral não são aprovados pela FDA para uso a longo termo. contudo os reumatologistas prescrevem frequentemente a ciclobenzaprina à noite, diariamente para prolongar a fase 4 do sono. Aumentando esta fase do sono, os pacientes sentem-se melhor de manhã e também é muito útil nos pacientes que têm fibromialgia.Outros, como a tizanidina são prescritos no tratamento das cefaleias, o diazepam e o carisoprodol não são recomendados na pessoa idosa, na gravidez, nas pessoas que sofrem de depressão e nos aditos de álcool.
+
+
+== Referências ==

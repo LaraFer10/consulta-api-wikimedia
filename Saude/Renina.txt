@@ -1,0 +1,44 @@
+A renina ou angiotensinogenase é uma enzima circulante liberada pelas células justaglomerulares dos rins em resposta a uma série de estímulosidade fisiológicos e provoca a ativação do sistema renina-angiotensina-aldosterona.
+Esta enzima promove a retirada de um fragmento de dez aminoácidos a partir do angiotensinogênio, fragmento este chamado angiotensina I.
+
+
+== Sinonímia ==
+EC 3.4.23.15 (NC-IUBMB)
+Enzima formadora da angiotensina.
+
+
+== Fisiologia ==
+A Renina é uma enzima que regula a entrada e saída de sangue no Glomérulo com aumento ou diminuição da pressão arterial.
+Na entrada do Glomérulo há um conjunto de células denominado Mácula Densa, as quais são sensíveis ao sódio; quando há diminuição de água no sangue, associada a diminuição da pressão arterial, a mácula densa percebe estimula as células justaglomerulares a libertar Renina, a qual fará vasoconstrição, aumentando assim a pressão arterial e diminuindo a filtração dentro do glomérulo.
+
+
+=== Síntese, Armazenagem e Liberação ===
+A renina é sintetizada, armazenada e liberada nas células justaglomerulares. O gene da renina humana tem dez exons e nove introns. O RNAm da renina é inicialmente transcrito em uma proteína com quatrocentos e quatro aminoácidos chamada Pré-pró-renina. É uma forma protéica intermediária, transportada através do retículo endoplasmático rugoso. O passo seguinte na síntese da renina é uma celula de sorvete ácido clivagem de um fragmento peptídeo com vinte e três aminoácidos, a fração “Pré”. A proteína resultante é a Pró-renina. É armazenada em lisossomos. Quando da formação da renina propriamente dita, ocorre a clivagem de um fragmento com quarenta e três aminoácidos, a fração “Pró”. Supõe-se ser este passo catalisado pela enzima Catepsina B. 
+Ocorrendo o estímulo para a liberação da renina, os grânulos de estocagem migram em direção a membrana plasmática, onde são liberados por processo de exocitose. Existe uma liberação basal ou constitutiva de renina. A liberação de renina ocorre na luz vascular e possivelmente no interstício renal.
+
+
+=== Fatores regulatórios da liberação de renina ===
+São fatores regulatórios clássicos da liberação da renina o mecanismo barorreceptor renal, a mácula densa e a inervação simpática renal. Além destes, há outros fatores humorais envolvidos.
+Barorreceptor renal - É um receptor vascular intrarenal, localizado na arteríola aferente, que é ativado pela redução de pressão de perfusão renal. Possivelmente é o mais poderoso fator de regulação da liberação da renina.
+Mácula densa -  É uma placa de células modificadas no túbulo contorcido distal do néfron, logo após o final da alça de Henle, adjacente aos demais componentes do aparelho justaglomerular (Arteríola aferente, células justaglomerulares e Mesângio extraglomerular). A mácula densa responde a diminuição da concentração de NaCl no líquido intratubular com a indução da Ciclooxigenase 2 (COX2) e da Óxido nítrico sintetase 1 (NOX1).
+A COX2 produz Prostaglandina E2 (PGE2).
+A PGE2 atuará sobre a célula justaglomerular ativando a Adenilciclase.
+A Adenilciclase aumenta a produção de Adenosina monofosfato cíclica (AMPc).
+A AMPc estimula a liberação de renina.
+A NOS1 produz Óxido nítrico (NO) e Guanosina monofosfato cíclica (GMPc).
+A GMPc inibe a Fosfodiesterase 3 (PD3) da célula justaglomerular.
+A inibição da PD3 diminui a degradação da Adenosina monofosfato cíclica (AMPc).
+O aumento da concentração de AMPc estimula a liberação da renina.
+Nervos simpáticos - As células justaglomerulares recebem inervação simpática direta. A alça de estimulação simpática se faz através de ativação dos receptores beta adrenérgicos. Estes receptores estimulam a Adeniciclase. Como visto acima, o estímulo desta enzima promove liberação de renina. A ativação simpática é complexa, envolvendo a integração de estímulos aferentes provindos de Mecanorreceptores cardíacos, Pressorreceptores aórticos e  carotídeos, Quimiorreceptores e de fibras vagais aferentes. Existem numerosas vias de integração no encéfalo e a via final de estímulo se dá pelos nervos simpáticos renais. A secreção medida pelo sistema simpático providencia uma resposta aguda de liberação de renina a estímulos como estresse e mudanças posturais.
+Fatores humorais - O estímulo primário intracelular como segundo mensageiro é a Adenosina monofosfato cíclica (AMPc). A ativação e a inibição da Adenilciclase é alvo de vários fatores, como produtos da cascata do ácido araquidônico, angiotensina II, endotelina, peptídeo natriurético atrial. Conforme a resultante da variação da concentração da AMPc, o conjunto destes fatores pode promover maior ou menor liberação de renina na circulação.
+
+
+== Bloqueio Farmacológico ==
+O sítio ativo da renina pode ser bloqueado através de medicamentos da classe dos Inibidores diretos da renina. Várias moléculas se encontram em diferentes fases de estudos clínico e pré-clinico, sendo que o Alisquireno (Brasil) ou Aliscireno (Portugal) já se encontra disponível para uso rotineiro. É basicamente um medicamento anti-hipertensivo.
+
+
+== Referências ==
+
+
+== Ligações externas ==
+European Bioinformatics Institute[ligação inativa] (Em inglês).

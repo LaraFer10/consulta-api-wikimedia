@@ -1,0 +1,42 @@
+Jurimetria é a aplicação de métodos quantitativos, especialmente a Estatística, no Direito.
+
+
+== Histórico ==
+O primeiro trabalho sobre o tema é atribuído ao matemático suíço Nicolau I Bernoulli, que em 1709 tratou em sua tese de doutorado De Usu Artis Conjectandi in Jure sobre precificação de seguros, confiança em testemunhas, probabilidade de inocência de um acusado, entre outros assuntos.
+O termo foi cunhado pelo advogado Lee Loevinger em seu artigo de 1949 Jurimetrics: The Next Step Forward. Nos anos seguintes Loevinger versa sobre a lógica aplicada na lei, discute sobre fatos, evidências e padrões de prova, até que em 1992 apresenta a inferência bayesiana e a álgebra booleana como abordagens para estabelecer regras formais que garantam uma argumentação válida. Kadane aponta os cuidados que se deve tomar ao fazer uso de tais métodos na corte.
+Wechsler et al. fazem uma análise econômica do Direito aplicada a decisões judiciais no caso dos contratos de arrendamento mercantil (leasing) para compra de veículos com cláusulas de reajuste associadas ao dólar em 1999. Stern e Kadane propõem uma descrição abstrata de um caso de "perda de chance", em que existem vários resultados possíveis e que a vítima pode fazer uma escolha que afeta esses resultados.
+Muito embora a tradição das análises jurimétricas venham dando preferência a estudos estatísticos, é possível aplicar métodos algébricos, especialmente, de programação linear em álgebra matemática não-booleana aos fenômenos jurídicos, tal como o caso da eficiência. Botelho aplicou a jurimetria algébrica para estudos empíricos relacionados com a atividade jurisdicional em séries temporais anuais (de 2009 até 2014) com amostras para os 24 Tribunais Regionais do Trabalho, tal como também o mesmo autor tinha realizado para os 27 Tribunais de Justiça no Brasil no período de 2003 e 2014, em séries temporais anuais.
+Em estudo resumido de Botelho, no 56º Congresso Brasileiro de Direito do Trabalho, o pesquisador já defendia a utlização de métodos jurimétricos algébricos para o estudo da eficiência da atividade jurisdicional trabalhista, aplicando como teoria a priori a Análise Econômica do Direito, especialmente, a teoria de alocação eficiente de recursos, e mensuração pela técnica algébrica da Análise Envoltória de Dados (DEA, Data Envelopment Analysis).
+
+
+== Os Três Prismas da Jurimetria ==
+
+
+=== A Elaboração Legislativa e Gestão Pública ===
+Sob a ótica do legislador e do gestor público, a Jurimetria tem o papel de embasar a tomada de decisão formalizando os princípios utilizados. As avaliações devem ser replicáveis, dando-se preferência para dados públicos, a fim de tornar o estudo acessível a todos os cidadãos que desejam compreender melhor os mecanismos legais.
+
+
+=== A Decisão Judicial ===
+Para o julgador, que deve ponderar sobre questões diversas, cabe o papel de avaliar uma série de fatores humanos e sociais à luz das normas legais. O aparato jurimétrico funciona como uma calculadora avançada, que permite ao decisor agregar sua experiência aos fatos observados, calibrando o grau de incerteza (probabilidade) para os cenários avaliados.
+
+
+=== A Instrução Probatória ===
+Ao se valer de bases de dados e outras fontes relacionadas aos seus processos, o litigante pode avaliar a chance de êxito ou estimar valores do seu interesse. Ao formalizar os métodos utilizados, torna compreensível ao magistrado a associação entre o conteúdo legal e os casos sob sua responsabilidade.
+
+
+== Jurimetria vs Law and Economics ==
+A diferença básica entre Jurimetria e Law and Economics está simplesmente no fato de a Jurimetria englobar simultaneamente elementos de Estatística e Direito, enquanto que a análise econômica do Direito lida com Econometria (Economia e Estatística).
+Muito embora se destaque as diferenças entre Jurimetria e Law and Economics (L&E, ou AED, Análise Econômica do Direito), pode-se falar na aplicação da teoria a priori de base econômica para conseguir explicar resultados empíricos captados em estudos jurimétricos, tal como explicado por Botelho e Winter.Quando houver a presença simultânea de Estatística, Direito e Economia, pode-se pensar em termos jurimétricos ou econométricos.
+
+
+== Referências ==
+
+
+== Ligações externas ==
+«Bernoulli (1709). The use of the Art of conjecturing in Law.» (PDF) (em inglês) 
+«Kadane (2006). Misuse of Bayesian Statistics in Court.» (PDF) (em inglês) 
+«Zabala e Silveira (2014). Jurimetria: Estatística Aplicada ao Direito.» 
+«Stern & Kadane (2014). Compensating for the loss of a chance. Department of Statistics, Carnegie Mellon University.» (PDF) (em inglês) 
+«Revista eletrônica Jurimetrics da American Bar Association.» (em inglês) 
+«Zabala e Silveira (2018) - Curso de Introdução à Jurimetria» (PDF) 
+«Trecenti (2018-05-22) - Jurimetria com aplicações em R»

@@ -1,0 +1,11 @@
+Alfa-hélice ou α-hélice está presente na estrutura secundária dos níveis de organização das proteínas. Se assemelha a uma escada em espiral. Nesta estrutura o esqueleto de polipeptídeo está estreitamente enrolado ao longo do maior eixo da molécula e os grupos R dos resíduos de aminoácido projetam-se para fora do esqueleto helicoidal.
+A estabilização se dá pela presença das ligações de hidrogênio entre os grupamentos NH e CO da cadeia principal. O grupamento CO de cada aminoácido forma ponte de hidrogênio com o grupamento NH do aminoácido que está situado a quatro unidades adiante na sequência linear, sendo que todos os grupamentos NH e CO formam pontes de hidrogênio. O sentido de giro de uma α-hélice pode ser para a direita (hélice dextrorsa) ou para a esquerda (hélice sinistrorsa).  As α-hélices encontradas em proteínas são dextrorsas.
+
+
+== Referências ==
+
+Princípios de bioquímica, Albert L. Lehninger.
+
+
+== Ver também ==
+Folha-beta

@@ -1,0 +1,565 @@
+A equação de Michaelis-Menten pode ser transformada algebricamente em equações mais práticas para fazer gráficos com dados experimentais. Quando 
+  
+    
+      
+        [
+        S
+        ]
+      
+    
+    {\textstyle [S]}
+   tem valores muito altos, a velocidade inicial 
+  
+    
+      
+        
+          V
+          
+            0
+          
+        
+      
+    
+    {\textstyle V_{0}}
+   aproxima-se assintoticamente a 
+  
+    
+      
+        
+          V
+          
+            m
+            a
+            x
+          
+        
+      
+    
+    {\textstyle V_{max}}
+  . Na prática, entretanto, é muito difícil obter o valor de 
+  
+    
+      
+        
+          V
+          
+            m
+            a
+            x
+          
+        
+      
+    
+    {\textstyle V_{max}}
+   com precisão a partir dos gráficos de 
+  
+    
+      
+        
+          V
+          
+            0
+          
+        
+      
+    
+    {\textstyle V_{0}}
+   versus 
+  
+    
+      
+        [
+        S
+        ]
+      
+    
+    {\textstyle [S]}
+  . Mesmo em concentrações tão altas de substrato como 
+  
+    
+      
+        [
+        S
+        ]
+        =
+        10
+      
+    
+    {\textstyle [S]=10}
+   
+  
+    
+      
+        k
+        m
+      
+    
+    {\textstyle km}
+  , a equação indica que 
+  
+    
+      
+        
+          V
+          
+            0
+          
+        
+      
+    
+    {\textstyle V_{0}}
+   é apenas 91% da 
+  
+    
+      
+        
+          V
+          
+            m
+            a
+            x
+          
+        
+      
+    
+    {\textstyle V_{max}}
+   de modo que o valor obtido pela extrapolação da assintota será, com toda certeza, subestimado.
+Uma transformação muito comum é deduzida simplesmente tomando as recíprocas dos dois lados da equação de Michaelis-Menten:
+  
+    
+      
+        
+          V
+          
+            0
+          
+        
+        =
+        
+          
+            
+              V
+              
+                m
+                a
+                x
+                [
+                S
+                ]
+              
+            
+            
+              k
+              m
+            
+          
+        
+        +
+        [
+        S
+        ]
+        →
+        
+          
+            1
+            
+              V
+              
+                0
+              
+            
+          
+        
+        =
+        k
+        m
+        +
+        
+          
+            
+              [
+              S
+              ]
+            
+            
+              V
+              
+                m
+                a
+                x
+                [
+                S
+                ]
+              
+            
+          
+        
+      
+    
+    {\textstyle V_{0}={V_{max[S]} \over km}+[S]\rightarrow {1 \over V_{0}}=km+{[S] \over V_{max[S]}}}
+  Separando os componentes do numerador no lado direito da equação obtém-se:
+  
+    
+      
+        
+          
+            1
+            
+              V
+              
+                0
+              
+            
+          
+        
+        =
+        
+          
+            
+              k
+              m
+            
+            
+              V
+              
+                m
+                a
+                x
+                [
+                S
+                ]
+              
+            
+          
+        
+        +
+        
+          
+            
+              [
+              S
+              ]
+            
+            
+              V
+              
+                m
+                a
+                x
+                [
+                S
+                ]
+              
+            
+          
+        
+      
+    
+    {\textstyle {1 \over V_{0}}={km \over V_{max[S]}}+{[S] \over V_{max[S]}}}
+  que é simplificado para
+  
+    
+      
+        
+          
+            1
+            
+              V
+              
+                0
+              
+            
+          
+        
+        =
+        
+          
+            
+              k
+              m
+            
+            
+              V
+              
+                m
+                a
+                x
+                [
+                S
+                ]
+              
+            
+          
+        
+        +
+        
+          
+            1
+            
+              V
+              
+                m
+                a
+                x
+              
+            
+          
+        
+      
+    
+    {\textstyle {1 \over V_{0}}={km \over V_{max[S]}}+{1 \over V_{max}}}
+  
+
+Essa forma da equação de Michaelis-Menten é um método melhor para determinar os valores de 
+  
+    
+      
+        
+          V
+          
+            m
+            a
+            x
+          
+        
+      
+    
+    {\textstyle V_{max}}
+   e 
+  
+    
+      
+        k
+        m
+      
+    
+    {\textstyle km}
+  , que foi formulado por Hans Lineweaver e Dean Burk, sendo a equação denominada  Lineweaver-Burk. No caso das enzimas que obedecem a relação de Michaelis-Menten, um gráfico de 
+  
+    
+      
+        
+          
+            1
+            
+              V
+              
+                0
+              
+            
+          
+        
+      
+    
+    {\textstyle {1 \over V_{0}}}
+   versus 
+  
+    
+      
+        
+          
+            1
+            
+              [
+              S
+              ]
+            
+          
+        
+      
+    
+    {\textstyle {1 \over [S]}}
+   (o “duplo-recíproco” de um gráfico de 
+  
+    
+      
+        
+          V
+          
+            0
+          
+        
+      
+    
+    {\textstyle V_{0}}
+   versus 
+  
+    
+      
+        [
+        S
+        ]
+      
+    
+    {\textstyle [S]}
+   é usado) produz uma linha reta. Essa linha tem uma inclinação de Km/Vmáx no eixo 
+  
+    
+      
+        
+          
+            1
+            
+              V
+              
+                0
+              
+            
+          
+        
+      
+    
+    {\textstyle {1 \over V_{0}}}
+   e uma intersecção de 
+  
+    
+      
+        
+          
+            
+              −
+              1
+            
+            
+              k
+              m
+            
+          
+        
+      
+    
+    {\textstyle {-1 \over km}}
+   no eixo 
+  
+    
+      
+        
+          
+            1
+            
+              [
+              S
+              ]
+            
+          
+        
+      
+    
+    {\textstyle {1 \over [S]}}
+  .A representação duplo-recíproca, também denominada gráfico de Lineweaver-Burk, tem a grande vantagem de permitir uma determinação mais acurada de 
+  
+    
+      
+        
+          V
+          
+            m
+            a
+            x
+          
+        
+      
+    
+    {\textstyle V_{max}}
+   que pode ser obtida apenas aproximadamente nos gráficos simples de 
+  
+    
+      
+        
+          V
+          
+            0
+          
+        
+      
+    
+    {\textstyle V_{0}}
+   versus 
+  
+    
+      
+        [
+        S
+        ]
+      
+    
+    {\textstyle [S]}
+  . No entanto, este gráfico tem uma desvantagem. Uma vez que a maioria das medições experimentais envolve concentrações relativamente altas de 
+  
+    
+      
+        [
+        S
+        ]
+      
+    
+    {\textstyle [S]}
+  , os pontos, portanto, acumulam-se no lado esquerdo do gráfico. Assim, para valores pequenos de 
+  
+    
+      
+        [
+        S
+        ]
+      
+    
+    {\textstyle [S]}
+  , pequenos erros na 
+  
+    
+      
+        
+          V
+          
+            0
+          
+        
+      
+    
+    {\textstyle V_{0}}
+   levam a grandes erros em 
+  
+    
+      
+        
+          
+            1
+            
+              V
+              
+                0
+              
+            
+          
+        
+      
+    
+    {\textstyle {1 \over V_{0}}}
+   e, consequentemente, a grandes erros em 
+  
+    
+      
+        k
+        m
+      
+    
+    {\textstyle km}
+   e 
+  
+    
+      
+        
+          V
+          
+            m
+            a
+            x
+          
+        
+      
+    
+    {\textstyle V_{max}}
+  .Outras transformações da equação de Michaelis-Menten são feitas, cada uma com uma vantagem específica para a análise de dados cinéticos. Com o advento dos computadores, entretanto, os dados cinéticos são geralmente analisados por tratamentos estatísticos matematicamente sofisticados.Contudo, os gráficos de Lineweaver Burk são inestimáveis tanto para a apresentação visual dos dados cinéticos como também são úteis para analisar dados cinéticos de enzimas que usam mais do que um substrato.O gráfico duplo-recíproco das velocidades de uma reação enzimática é muito útil para diferenciar entre certos tipos de mecanismos de reação enzimática e na análise da inibição de enzimas.
+
+
+== Referências ==

@@ -1,0 +1,154 @@
+Formulada em 1896, pelo fisiólogo britânico Ernest Starling, a equação de Starling ilustra o rol das forças hidrostáticas e oncóticas (chamadas também forças de Starling) no movimento do fluxo através das membranas capilares.
+De acordo com a equação de Starling, o movimento do fluido depende de seis variáveis:
+
+Pressão hidrostática capilar (Pc)
+Pressão hidrostática intersticial (Pi)
+Coeficiente de reflexão, (R), um valor que é índice da eficácia da parede capilar para impedir a passagem de proteínas e que, em condições normais, se admite que é igual a 1, o que significa que é totalmente impermeável às mesmas e em situações patológicas inferior a 1, até alcançar o valor 0 quando pode ser atravessado por elas sem dificuldade.
+Pressão oncótica capilar (πc)
+Pressão oncótica intersticial (πi)
+Coeficiente de filtração (Kf), expressa a permeabilidade da parede capilar para os líquidosTodas as pressões são medidas em milímetros de mercúrio (mm Hg), e o coeficiente de filtração se mede em mililitros por minuto por milímetros de mercúrio (ml·min-1·mm Hg-1). A equação de Starling se descreve da seguinte maneira:
+
+  
+    
+      
+         
+        Q
+        =
+        
+          K
+          
+            f
+          
+        
+        (
+        [
+        
+          P
+          
+            c
+          
+        
+        −
+        
+          P
+          
+            i
+          
+        
+        ]
+        −
+        R
+        [
+        
+          π
+          
+            c
+          
+        
+        −
+        
+          π
+          
+            i
+          
+        
+        ]
+        )
+      
+    
+    {\displaystyle \ Q=K_{f}([P_{c}-P_{i}]-R[\pi _{c}-\pi _{i}])}
+  O fluxo de água desde os capilares ao interstício (Q) é medido em mililitros por minuto (ml·min). Se positivo, o fluxo tenderá a deixar o capilar (filtração). Se negativo, o fluxo tenderá a entrar no capilar (absorção). Esta equação tem um importante número de implicações fisiológicas, especialmente quando os processos patológicos alteram de forma considerável uma ou mais destas variáveis.
+
+
+== Aplicada a circulação humana ==
+O movimento da água (o fluido no caso) depende da pressão coloidosmótica (π) e da pressão hidrostática (P) nos capilares (c) e no líquido intersticial (i) que banha os tecidos.
+Pode ser expressa pelas variáveis com os seguintes nomes alternativos e adequados ao caso:
+
+  
+    
+      
+         
+        
+          J
+          
+            v
+          
+        
+        =
+        
+          K
+          
+            f
+          
+        
+        (
+        [
+        
+          P
+          
+            c
+          
+        
+        −
+        
+          P
+          
+            i
+          
+        
+        ]
+        −
+        [
+        
+          π
+          
+            c
+          
+        
+        −
+        
+          π
+          
+            i
+          
+        
+        ]
+        )
+      
+    
+    {\displaystyle \ J_{v}=K_{f}([P_{c}-P_{i}]-[\pi _{c}-\pi _{i}])}
+  Onde:
+
+Jv: movimento de líquido. Sempre que Jv for positivo (+), ocorrerá filtração (passagem de água do capilar para o tecido). Quando Jv for negativo (-), ocorrerá absorção (passagem de água do tecido para o capilar)
+Kf: coeficiente de filtração (depende da condutividade hidráulica e da área de superfície do capilar)
+Pc: pressão hidrostática capilar (varia de 10 à 30 mmHg, dependendo do local onde é medida)
+Pi: pressão hidrostática intersticial; é levemente negativa, devido à constante sucção de líquidos pelos capilares linfáticos (-3 mmHg).
+πc: pressão coloidosmótica capilar; exercida pelas proteínas plasmáticas (28 mmHg)
+πi: pressão coloidosmótica intersticial (8 mmHg)
+
+
+=== Equilíbrio de Starling ===
+Nos indivíduos normais, a quantidade de líquido filtrada será quase igual à quantidade absorvida, sendo que a força efetiva para a filtração é de 0,3 mmHg. Esta pequena quantidade de líquido filtrado irá retornar à circulação através dos capilares linfáticos. 
+Considerando-se que Kf = 1, Pc média = 17,3 mmHg, Pi = - 3,0, πc = 28,0 e πi = 8,0, teremos: 
+
+Jv =  1 [(17,3 + 3) - (28 – 8)] = + 0,3 mmHgNa extremidade arterial do capilar ocorre filtração, enquanto na extremidade venosa ocorre absorção. Isto acontece devido à diferença na pressão hidrostática nas extremidades do capilar: na extremidade arterial é de 30 mmHg, enquanto na extremidade venosa é de 10 mmHg.
+Assim, tem-se, na extremidade arterial: 
+
+Jv =  1 [(30 + 3) - (28 – 8)] =  + 13 mmHgNa extremidade venosa: 
+
+Jv =  1 [(10 + 3) - (28 – 8)] =  - 7 mmHg
+
+
+== Implicações em medicina ==
+A equação de Starling guarda relações com a incidência de derrames, como os pleurais, com o estudo da fisiologia renal, como os edemas. 
+
+
+== Referências ==
+
+
+== Ligações externas ==
+Starling Forces and Factors - www.anaesthesiamcq.com (em inglês)
+
+
+== Ver também ==
+Taxa de filtração glomerular

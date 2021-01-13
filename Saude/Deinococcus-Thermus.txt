@@ -1,0 +1,48 @@
+Deinococcus-Thermus é um procarionte, ou seja, pertencente do Reino Monera, sendo um filo de bactérias cocóides altamente resistente às condições ambientais extremas. Possuem uma grossa parede celular que dão a elas uma coloração gram-positiva, porém são revestidas por uma segunda membrana que é semelhante a estrutura das bactérias gram-negativas. O gênero inclui várias espécies resistentes à radiação; Eles se tornaram famosos por sua capacidade de comer resíduos nucleares e outros materiais tóxicos, sobreviver no vácuo do espaço e sobreviver a extremos de calor e frio.
+Cavalier-Smith denominou este clado como Hadobacteria (do grego: Hades, o submundo da mitologia).
+
+
+== Taxonomia ==
+O filo Deinococcus-Thermus consiste em uma única classe ( Deinococci ) e duas ordens:
+
+Os Deinococcales incluem duas famílias ( Deinococcaceae e Trueperaceae ), com três gêneros, Deinococcus , Deinobacterium e Truepera . A radiovictrix Truepera é o primeiro membro divergente da ordem. Dentro da ordem, Deinococcus forma um aglomerado monofiletico distinta em relação a Deinobacterium e espécies Truepera . O gênero inclui várias espécies resistentes à radiação; Eles se tornaram famosos por sua capacidade de comer resíduos nucleares e outros materiais tóxicos, sobreviver no vácuo do espaço e sobreviver a extremos de calor e frio.Os Thermales incluem vários resistente ao calor (géneros Marinithermus ,Meiothermus , Oceanithermus , Thermus , Vulcanithermus , Rhabdothermus ) colocado dentro de uma única família, Thermaceae . Análises filogenéticas demonstrar que dentro do Thermales , Meiothermus e Thermus espécies formam um aglomerado monofiletico, com respeito a Marinithermus , Oceanithermus , Vulcanithermus eRhabdothermus que ramo como grupo externo dentro da ordem. Isso sugere queAsespécies Meiothermus e Thermus estão mais intimamente relacionadas entre si em relação a outros gêneros dentro da ordem. Thermus aquaticus foi importante no desenvolvimento da reação em cadeia da polimerase, onde ciclos repetidos de aquecimento do DNA até próximo à fervura tornam vantajoso o uso de uma enzima DNA polimerase termoestável.
+Filo Deinococcus - Thermus [Deinococcaeota Oren et al. 2015 ]
+Classe Deinococci Garrity e Holt 2002 ["Hadobacteria" Cavalier-Smith 1992 emendam. Cavalier-Smith 1998 ; Hadobacteria Cavalier-Smith 2002 ; "Xenobacteria"]
+Ordem Deinococcales Rainey et al. 1997
+Família Deinococcaceae Brooks e Murray 1981 emendam. Rainey et al. 1997
+Gênero Deinococcus Brooks e Murray 1981 emendam. Rainey et al. 1997
+Classe Deinobacterium Ekman et al. 2011
+Família Trueperaceae Rainey et al. 2005
+Gênero Truepera da Costa, Rainey e Albuquerque 2005
+Espécies Thermales Rainey e Da Costa 2002
+Família Thermaceae Da Costa e Rainey 2002
+Tipo de Streptococcus Brock e Congelar 1969, emenda. Nobre et al. 1996
+Classe Meiothermus Nobre et al. 1996, emenda. Albuquerque et al. 2009
+Classe Marinithermus Sako et al. 2003
+Classe Oceanithermus Miroshnichenko et al. 2003, a emenda. Mori et al. 2004
+Gênero Rhabdothermus Steinsbu et al. 2011
+Classe Vulcanithermus Miroshnichenko et al. 2003Embora esses dois grupos tenham evoluído de um ancestral comum, os dois mecanismos de resistência parecem ser amplamente independentes.
+
+
+== Assinaturas Moleculares ==
+Foram encontradas assinaturas moleculares na forma de assinaturas conservadas (CSIs) e proteínas (CSPs) que são compartilhadas de maneira única por todos os membros pertencentes ao filo Deinococcus-Thermus . Esses CSIs e CSPs são características distintivas que delineiam o filo único de todos os outros organismos bacterianos, e sua distribuição exclusiva é paralela às diferenças observadas na fisiologia. CSIs e CSPs também foram encontrados na ordem de suporte e na classificação taxonômica de nível familiar dentro do filo. Acredita-se que alguns dos CSIs encontrados para suportar distinções de nível de ordem desempenham um papel nas respectivas características extremofílicas. . Outrossim, alguns gêneros dentro deste grupo, incluindo Deinococcus , Thermus e Meiothermus , também possuem assinaturas moleculares que os demarcam como gêneros individuais, inclusive de suas respectivas espécies, fornecendo um meio de distingui-los do resto do grupo e de todas as outras bactérias. Os CSIs também foram encontrados específicos para o rádio-transmissor Truepera .
+
+
+== Novas descobertas ==
+Em 2017, foi encontrado alta abundancia da bactéria Deinococcus-Thermus no intestino de crocodilo-lagarto selvagem na China, enquanto os de cativeiros, que se encontram doentes não havia a mesma concentração. Além disso, nas amostras selvagens da Reserva Natural de Luokeng, a alta prevalência de filo Deinococcus – Thermus no microbioma intestinal não foi encontrada em outros vertebrados. Deinococcus – Thermus spp. são geralmente encontrados em ambientes extremos. O papel do Deinococcus – Thermus no trato intestinal não é claro. No entanto, foi relatado que as bactérias Deinococcus – Thermus apresentam notável resistência a uma série de estresses, como radiação ionizante, radiação UV, agentes oxidantes e dessecação ( Theodorakopoulos et al., 2013). Portanto, a alta proporção de Deinococcus – Thermus pode ajudar os crocodilo lagarto a se adaptarem ao ambiente selvagem na Reserva Natural de Luokeng.
+
+
+== Genomas sequenciados ==
+Genoma  pode ser composto por DNA ou RNA, é um código genético, que possui toda a informação hereditária de um ser, e é codificada no DNA. É o conjunto de todos os diferentes genes que se encontram em cada núcleo de uma determinada espécie. Atualmente existem 10 genomas sequenciados de cepas neste filo:
+Deinococcus radiodurans R1
+Thermus thermophilus HB27
+Thermus thermophilus HB8
+Deinococcus geothermalis DSM 11300
+Deinococcus deserti VCD115
+Meiothermus ruber DSM 1279
+Meiothermus Silas DSM 9946
+Radiovictrix Truepera DSM 17093
+Oceanithermus profunda ATCC 14977 
+
+
+== Referências ==

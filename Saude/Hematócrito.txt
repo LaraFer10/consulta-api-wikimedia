@@ -1,0 +1,18 @@
+Hematócrito (ou Ht ou Htc) é a percentagem de volume ocupada pelos glóbulos vermelhos ou hemácias no volume total de sangue.
+Os valores médios são diferentes segundo o sexo e idade, e variam entre 0,42-0,52 (42%-52%) nos homens e 0,36-0,48 (36%-48%) nas mulheres. Caso o valor seja inferior à média significa que existe pouca quantidade de glóbulos vermelhos e se for superior existe uma maior quantidade de glóbulos vermelhos para o volume de sangue. Esta é uma medida cada vez mais importante para efeitos clínicos, estando associada ao diagnóstico de anemia.
+
+
+== Procedimento ==
+Atualmente o hematócrito é obtido por aparelhos automatizados. A metodologia automatizada não mede diretamente o hematócrito mas mede o volume da hemácia (eritrócito) ou tamanho médio da hemácia (VCM) e quantifica o número de hemácias no sangue. O hematócrito é obtido então pelo cálculo:
+
+Ht=VCM x número de hemácias/10Antigamente era usado o método do microhematócrito onde se obtinha a porcentagem de hemácias pela centrifugação a 10.000 r.p.m. por 5 minutos do sangue dentro de um tubo capilar.
+
+
+== Aumento do Hematócrito ==
+Policitemia: ocorre a hiperplasia eritróide, aumento da produção de hemácias.
+DPOC (doença pulmonar obstrutiva crônica)
+
+
+== Diminuição do Hematócrito ==
+Hemorragias
+Anemias

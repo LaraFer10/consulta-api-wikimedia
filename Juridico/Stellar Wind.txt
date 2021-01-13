@@ -1,0 +1,43 @@
+Stellar Wind é o nome de código de um programa de vigilância eletrônica da Agência de Segurança Nacional (NSA) dos Estados Unidos. Este programa foi iniciado pelo presidente George W. Bush logo após os ataques de 11 de setembro de 2001.
+Foi revelado por Thomas Tamm ao The New York Times em 2008.Na presidência de Barack Obama foi sucedido durante por quatro grandes linhas de coleta de inteligência dentro dos Estados Unidos, abrangendo toda a gama das telecomunicações modernas.
+As atividades do programa envolvem mineração dos dados de um grande banco de dados das comunicações de cidadãos americanos, incluindo comunicações por e-mail, conversas telefônicas, transações financeiras e atividades na Internet.William Binney, um oficial de inteligência líder técnico aposentado da NSA, discutiu alguns dos os elementos arquitetônicos e operacionais do programa no Chaos Communication Congress de 2012.
+
+
+== Origens do Programa ==
+Uma gama de atividades secretas de coleta de inteligência foi autorizada pelo então presidente dos Estados Unidos George W. Bush depois dos ataques de 11 de setembro de 2001. Esta atividades faziam parte do chamado "Programa de Vigilância do Presidente", o PSP. ("President's Surveillance Program", em inglês).O chamado "Programa de vigilancia de Terroristas" ("Terrorist Surveillance Program", em inglês) era uma das partes do PSP.As informações coletadas como parte deste programa receberam o codinome de Programa Stellar Wind. Em 6 de junho de 2013, foi revelado, com base nos documentos fornecidos por Edward Snowden, que o "Terrorist Surveillance Program" foi substituido pelo PRISM.
+
+
+== Composição ==
+O programa Stellar Wind tem 4 partes sendo duas partes envolvendo o conteúdo das informações e outras duas envolvendo os metadados, segundo explicou o advogado da EFF Kurt Opsahl no Congresso de Comunicação Chaos de dezembro de 2013. A saber:
+
+
+=== Telefonia ===
+Banco de dados e conjunto de ferramentas de análise de coleta de conteúdo de ligações telefônicas feitas pelo programa "NUCLEON"
+Banco de dados e conjunto de ferramentas para análise de metadados da coleta de ligações telefônicas feita pelo programa MAINWAY. O correspondente do MAINWAY na coleta de dados da Internet é O MARINA .
+
+
+=== Internet ===
+Coleta e armazenamento de conteúdo de emails e mensagens de texto pelo programa PINWALE e PRISM
+Coleta e armazenamento de metadados pelo programa MARINA, que é portanto, um dos banco de dados e conjunto de ferramentas de análise de metadados interceptados da Internet pela NSA; O MAINWAY sendo o correspondente do Marina para dados telefônicos.Ha ainda o programa EVILOLIVE, que coleta tráfego de internet com localização de IP e dados,  e o FASCIA, o banco de dados das localizações.
+O nome EVILOLIVE é um palíndromo e um anagrama para "I Love Evil" ("Amo o Mal", em português), segundo revelam os documentos.
+
+
+== Ver Também ==
+PRISM
+Vigilância de Computadores e Redes
+Revelações da Vigilância global (2013-Presente)
+CALEA
+Edward Snowden
+Glenn Greenwald
+Thomas Drake
+Laura Poitras
+
+
+== Referências ==
+
+
+== Ligações externas ==
+[2] Assista o documentário "O Programa" (em inglês) - The New York Times
+[3] Exclusiva: Primeira entrevista de William Binney já em 2012, tendo demitido-se da NSA em 2001.
+Thomas Drake and Jesselyn Radack on Obama Administration Crackdown on Whistleblowers | Democracy Now!
+"Edward Snowden is a Patriot": Ex-NSA CIA, FBI and Justice Whistleblowers Meet Leaker in Moscow | Democracy Now!

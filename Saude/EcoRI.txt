@@ -1,0 +1,7 @@
+EcoRI (pronunciado "eco érre um") é uma enzima isolada a partir de cepas de Escherichia coli e faz parte do sistema de restrição-modificação.
+Em biologia molecular é utilizada como uma enzima de restrição. Ela cria extremidades coesivas com saliências na extremidade 5' de moléculas de DNA. A sequência de ácido nucleico em que ocorrem os cortes é GAATTC, que tem como sequência complementar CTTAAG.
+
+Esta enzima é utilizada em uma grande variedade de técnicas de genética molecular, incluindo a clonagem, triagem de DNA e supressão de segmentos de DNA in vitro. As enzimas de restrição como a EcoRI, que geram extremidades coesivas de DNA são muitas vezes utilizadas para cortar o DNA antes da reação de ligação. EcoRI pode exibir corte não-específico, dependendo das condições presentes na reação. Estas condições incluem baixa concentração de sal, concentração de glicerol elevada, quantidade excessiva de enzima presente na reação, pH elevado e contaminação por certos solventes orgânicos.
+
+
+== Referências ==

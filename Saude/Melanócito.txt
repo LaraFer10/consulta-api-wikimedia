@@ -1,0 +1,41 @@
+Os melanócitos são células produtoras de melanina responsáveis pela pigmentação da pele. São células derivadas da crista neural  , que se localizam não só na camada inferior da epiderme, como também em partes do olho (a úvea ), no ouvido interno ,  no epitélio vaginal , nas meninges , nos ossos  e no coração .  A melanina, uma vez sintetizada, fica armazenada em organelas especiais chamadas melanossomas que podem ser transportadas para queratinócitos próximos. A melanina, e por extensão, os melanócitos, exerce um papel importante na proteção contra a radiação UV .  Os melanócitos também desempenham um papel no sistema imunológico. A proliferação desregulada de melanócitos pode dar origem a um tipo de câncer de pele denominado melanoma.
+
+
+== Função ==
+Através de um processo chamado melanogênese, os melanócitos produzem melanina, que é um pigmento encontrado na pele, olhos, cabelo, cavidade nasal e ouvido interno. A melanogênese leva a uma pigmentação de longa duração, enquanto a oxidação da melanina existente leva à uma pigmentação rápida.
+A melanogênese ocorre em taxas basais que varia entre indivíduos, e pode ser aumentada em resposta a estímulos. Em geral, as pessoas de pele mais clara apresentam baixos níveis basais de melanogênese. A exposição à radiação UV-B promove o aumento da melanogênese. A melanogênese protege a hipoderme , a camada sob a pele, dos danos causados pela radiação UV-B.  A cor da melanina é preta, permitindo absorver a maioria da luz UV-B e impedi-la de atravessar a epiderme.A diferença na cor da pele entre indivíduos  mais ou menos pigmentados não se dá por diferenças na quantidade de melanócitos em sua pele, mas pelas propriedades bioquímicas dos   melanócitos (quantidade absoluta e quantidades relativas de eumelanina e feomelanina ).  Este processo está sob controle de hormônios, incluindo os péptidos MSH e ACTH.
+Pessoas com albinismo oculocutâneo tipicamente têm um nível muito baixo de produção de melanina.  O albinismo é freqüentemente, mas nem sempre, relacionado ao gene TYR que codifica a enzima tirosinase .  A tirosinase é necessária para os melanócitos produzirem melanina a partir do aminoácido tirosina .  O albinismo pode ser causado por mutações em diversos outros genes, como OCA2 , SLC45A2 , TYRP1 , e HPS1 . Cada gene está relacionado a diferentes proteínas que desempenham um papel na produção de pigmentos.
+Pessoas com síndrome de Chédiak – Higashi apresentam um acúmulo de grânulos de melanina devido à função anormal dos microtúbulos.
+
+
+=== Papel no sistema imunológico ===
+Além de seu papel de proteção à luz ultravioleta, os melanócitos também fazem parte do sistema imunológico e são considerados células imunológicas.  Embora o papel completo dos melanócitos na resposta imune não seja totalmente compreendido, os melanócitos compartilham muitas características com as células dendríticas : morfologia ramificada; capacidades fagocíticas ; apresentação de antígenos a células T ; e produção e liberação de citocinas .  Embora os melanócitos sejam dendríticos (ou seja, com ramificações) em forma e compartilhem muitas características com células dendríticas, eles são derivados de duas linhagens celulares diferentes.  As células dendríticas, como as células de Langerhans , são derivadas de células-tronco hematopoiéticas na medula óssea, enquanto os melanócitos, originam-se das células da crista neural.
+Os melanócitos são capazes de expressar proteínas do MHC Classe II , um tipo de MHC expresso apenas por certas células apresentadoras de antígeno do sistema imune.  A maioria das células de vertebrados expressa somente o MHC classe I. A outra classe de MHC, Classe II , é encontrada apenas em células apresentadoras de antígenos "profissionais", como células dendríticas, macrófagos , células B e melanócitos. A ativação de melanócitos por citocinas leva à expressão de proteínas de superfície, como CD40 e ICAM1 , além da classe II do MHC, permitindo a co-estimulação das células T.Além de apresentar antígenos, um dos papéis dos melanócitos na resposta imune é a produção local de citocinas.  Os melanócitos são capazes de produzir muitas citocinas pró-inflamatórias, incluindo IL-1 , IL-3 , IL-6 , IL-8 , TNF-α e TGF-β .  Como outras células imunes, os melanócitos secretam essas citocinas em resposta à ativação de Receptores de Reconhecimento de Padrões (PRRs) que reconhecem os PAMPs (padrões moleculares associados a patógenos).
+O posicionamento dos melanócitos na epiderme torna-os capazes de serem sentinelas contra patógenos nocivos.  Os melanócitos residem no estrato basal  a camada mais baixa da epiderme , mas usam projeções celulares (dendritos) para interagir com células de outras camadas, e para capturar patógenos que penetram na epiderme.  Os melanócitos provavelmente funcionam em conjunto com os queratinócitos e as células de Langerhans , ambos são ativamente fagocíticos  contribuindo para a resposta imune.
+
+
+=== Estimulação ===
+A produção de melanina por melanócitos em cultura de células pode ser modulada por diversas moléculas.  Certas melanocortinas foram mostradas em testes de laboratório para ter efeito sobre o apetite e atividade sexual em camundongos.  O conjunto das subtâncias que já foram demonstradas como indutores da produção de melanina incluieicosanóides , retinóides , estrogênios , hormônio estimulante de melanócitos , endotelinas , psoralênicos , hidantoína , forskolina , toxina da cólera , isobutilmetilxantina e análogos de diacilglicerol .  Aumento da produção de melanina é visto em condições em que o hormônio adrenocorticotrófico (ACTH) é elevado, como as doenças de Addison e de Cushing . Além do ACTH, o  alfa-MSH  também participa na estimulação de melanócitos, sendo um produto de clivagem de ACTH que tem uma afinidade igual para o receptor MC1 em melanócitos como ACTH.Os melanossomas são vesículas intracelulares dentro das quais a melanina é acumulada.  Quando os raios ultravioleta penetram na pele e danificam o DNA, a produção subsequente de fragmentos de dinucleotídeo de timidina (pTpT) do DNA danificado pode induzir melanogênese  , levando também à produção de melanossomos, que são então transferidos por dendritos para a camada superior de queratinócitos.
+
+
+=== Células-tronco ===
+O precursor  imediado do melanócito é denominado melanoblasto .  Em adultos, as células-tronco que dão origem à melanócitos estão contidas na área protuberante da bainha radicular externa dos folículos pilosos .  Quando um cabelo é perdido e o folículo piloso se regenera, as células-tronco são ativadas.  Essas células-tronco se desenvolvem em precursores de queratinócitos e melanoblastos - e esses melanoblastos suprem tanto o cabelo quanto a pele (movendo-se para a camada basal da epiderme ).
+
+
+== Significado clínico ==
+Melanoma
+Vitiligo
+
+
+== Ver também ==
+Cromatóforo
+Cor dos olhos
+Nevo (pinta)
+
+
+== Bibliografia ==
+
+
+== Leitura adicional ==
+«The IFPCS presidential lecture: a chemist's view of melanogenesis». Pigment Cell Research. 16. PMID 12753395. doi:10.1034/j.1600-0749.2003.00037.x 
+«Proopiomelanocortin (POMC): the cutaneous roles of its melanocortin products and receptors». Clinical and Experimental Dermatology. 31. PMID 16681590. doi:10.1111/j.1365-2230.2006.02128.x

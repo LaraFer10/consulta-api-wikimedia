@@ -1,0 +1,50 @@
+As luciferase são enzimas que catalisam reações biológicas transformando energia química em energia luminosa. Assim como todas as enzimas, a luciferase possui alta especificidade ao seu substrato (luciferina), aumenta a velocidade e diminui a energia de ativação da reação, possui alta atividade catalítica e não é consumida no processo.
+A Comissão de Enzimas da União Internacional de Bioquímica classificou a luciferase no grupo das Oxirredutases, que são enzimas que catalisam as reações de oxirredução entre dois substratos. A catalisação realizada pela luciferase atua no processo de bioluminescência.
+A luciferase ocorre predominantemente em organismos marinhos, no ambiente terrestre é encontrada principalmente na classe dos insetos, que é a mais rica em espécies bioluminescentes. A luciferase é encontrada em cerca de 2000 espécies nas ordens Diptera, Collembola e principalmente Coleoptera.  A primeira purificação de luciferase de insetos ocorreu na década de 50, sendo do lampirídeo norte-americano Photinus pyralis.A cerca de 20 anos o cDNA para a luciferase deste vagalume (Photinus pyralis). foi clonado, sequenciado e a estrutura primaria da proteína foi deduzida .O cDNA da luciferase de Photinus pyralis é um fragmento de cerca 1.6 kb que codifica um polipeptídeo de 550 resíduos de aminoácidos.
+
+
+== Bioluminescência ==
+
+O processo de bioluminescência é a emissão de luz fria e visível por organismos vivos, neste processo é imprescindível a presença da enzima luciferase. Ela ocorre entre as bactérias, fungos, algas, "celenterados" (cnidários e ctenóforos), moluscos, artrópodes, anelídeos, equinodermos e "peixes" (osteíctes e condrictes).A bioluminescência é um tipo especial de quimioluminescência. Qualquer célula viva produz quimioluminescência ultrafraca, como subproduto do metabolismo oxidativo, aparentemente sem função biológica. Na bioluminescência a emissão de luz é visível, assumindo importantes funções comunicativas intra e inter-específicas, dentre as quais destacam-se a atração sexual, defesa, camuflagem e atração de presas.
+
+
+== Luciferases de coleópteros ==
+Nos coleópteros  as luciferases provavelmente se originaram a partir de uma AMP-ligase  com alguma função metabólica por duplicação gênica. As luciferases de coleópteros elateroides dividem-se em dois grupos de acordo com a sensibilidade espectral ao Ph  :
+
+as luciferases pH-sensitivas que incluem as luciferases de lampirídeos, sofrem deslocamento batocrômico (grupamento de átomos que promovem o deslocamento da absorção de uma molécula para regiões de maior comprimento de onda) mediante abaixamento de pH, aumento de temperatura e concentração de cátions e
+luciferases pH-insensitivas que incluem as luciferases de fengodídeos e elaterídeos, que não sofrem deslocamento batocrômico mediante diminuição do pH, aumento da concentração de cátions de metais pesados divalentes ou aumento de temperatura.
+
+
+== Reações/atuação ==
+A luciferase tem como substrato um ácido carboxílico complexo denominado luciferina. As luciferases são enzimas bifuncionais que catalisam a oxidação da luciferina por oxigênio, ativada por MgATP. Na primeira etapa da catálise enzimática, a luciferase atua como adenil-transferase, adenilando a luciferina a partir de ATP e liberando pirofosfato. Em seguida a luciferase atua como oxigenase, removendo o próton do carbono alfa a carbonila, tornando-o suscetível ao ataque por oxigênio molecular, com a produção do intermediário dioxetanônico, cuja clivagem produz dióxido de carbono e oxiluciferina excitada. Este processo é acompanhado por emissão de luz. A cor dos lampejos difere em função da espécie de organismo e parece ser determinado por diferenças na estrutura da luciferase. Por meio de uma serie de reações subsequentes, a luciferina é regenerada a partir da oxiluciferina.
+
+
+== Fatores estruturais das luciferases na determinação das cores ==
+
+Em princípio as cores da bioluminescência são governadas a nível do sítio ativo das luciferases por três fatores estruturais:
+(1) efeitos não-específicos como polaridade e polarização orientada do sítio ativo, determinada pela natureza dos resíduos que o compõem;
+(2) efeitos específicos de interação de resíduos ácido básicos no sítio ativo das luciferases com a oxiluciferina. Recentemente experimentos com o adenilato do 5,5 dimetil-análogo da luciferina mostraram que a forma cetônica pode emitir tanto luz
+verde-amarela como vermelha;
+(3) a rotação dos anéis tiazínicos da oxiluciferina em torno da ligação C2-C2’, que está em função da geometria do sítio ativo. Mais recentemente foi proposto que a delocalização de cargas na forma ceto-aniônica constitue fator determinante para os espectros de bioluminescência. Através de deconvolução espectral, foi sugerido a existência de três espécies emissoras que contribuiriam nos espectros de bioluminesciência das luciferases de lampirídeos : (ceto-fenolato) que emitiria luz vermelha, (enol/fenolato) emissor de luz laranja e (enolato/fenolato) o emissor de luz verde.
+Estudos com a quimioluminescência de adenilato de luciferina em meio aquoso e na presença de soroalbumina bovina sugerem que a bioluminescência vermelha requer um  microambiente menos estruturado que a bioluminescência verde.
+A Luciferase Metridia é a luciferase secretada a partir de um copépodo marinho sendo utilizada como “substrato” para produzir uma bioluminescência azul (λmax = 480 nm).
+
+
+== Aplicações ==
+A luciferase de certos animais marinhos pode servir como bioindicador de cálcio, quando há presença de cálcio, ela produz luz.
+A luciferase de bactérias serve para indicar compostos envolvidos em oxirredução, como a flavina nucleotídeo, um transportador de elétrons presente em todas as células.
+As luciferases de vaga-lumes estão sendo amplamente utilizadas para finalidades bioanalíticas nas áreas médicas (Diagnósticos, e estudos pré-clínicos de patologias como infecções bacterianas, virais e câncer), biotecnológica (biosensores luminescentes) e ambiental (biosensores de toxicidade). Todas estas aplicações utilizam umas poucas luciferases oriundas dos vaga-lumes Norte-Americano, europeu e japoneses que produzem luz verde-amarela e são sensitivas ao pH. A clonagem do gene da luciferase de vaga-lumes tornou possível toda uma nova gama de aplicações envolvendo o uso deste gene como marcador altamente sensível da expressão gênica em células e tecidos. O gene das luciferases de vaga-lumes tem sido utilizado como gene repórter em bactérias, leveduras, vegetais, insetos e mamíferos, em análises da função de promotores associados com desenvolvimento e controle circa-diano.
+A Luciferase Metridia tem sido aplicada com sucesso como repórter bioluminescente em células de mamíferos. A principal vantagem da luciferase secretada como um repórter é a capacidade de medir eventos intracelulares, sem destruir as células ou tecidos e essa propriedade é adequada para o desenvolvimento das tecnologias de rastreamento de alta taxa de transferência. No entanto, devido luciferase Metridia ser uma proteína rica em cisteína, sistemas de expressão em E. coli produzem uma proteína incorretamente dobrada, dificultando a sua caracterização bioquímica e aplicação para o desenvolvimento de ensaios em bioluminescentes vitro.
+Os genes de luciferases estão sendo usados também em biosensores ambientais para detecção de bioavaliabilidade de cátions de metais pesados como mercúrio e arsênio ou agrotóxicos e outros disruptores ambientais em águas contaminadas.
+Os genes de luciferase de insetos utilizados até o momento codificavam somente luciferases que emitem luz na região verde amarelada do espectro, limitando consideravelmente suas aplicações. Com a clonagem da luciferase emissora de luz vermelha de Phrixotrix e seus aliados produzidos por engenharia genética, a gama de aplicações foi ampliada, com o uso destas em células de mamíferos e em sistemas repórter múltiplos que utilizam simultaneamente várias luciferases emissoras de diferentes comprimentos de onda para a análise simultânea de múltiplos eventos celulares.
+
+
+== Referências ==
+
+
+== Ligações externas ==
+[1]
+[2]
+[3]
+[4]
+[5]

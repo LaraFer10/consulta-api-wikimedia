@@ -1,0 +1,64 @@
+Coloração ou corante de Giemsa (/ ɡiːmsə /), em homenagem ao químico alemão e bacteriologista Gustav Giemsa, é usado em citogenética e para o diagnóstico histopatológico de malária e outros parasitas.A coloração de Giemsa é um membro do grupo de colorações de Romanowski, que são definidas como sendo o precipitado negro formado pela adição de soluções aquosas de azul de metileno e eosina Y, dissolvidas para o uso em metanol. As variantes do grupo de colorações de Romanowski diferem no grau de oxidação (policromagem) da coloração de azul de metileno antes da precipitação.
+A classe de coloração foi originalmente projetada para incorporar coloração citoplasmática (rosa, fruto da eosina Y) com coloração nuclear (azul, dos alterados do azul de metileno) e fixação como um único passo para esfregaços e filmes finos de tecido ( preparações estendidas de omento). Pequenas modificações da concentração de colorações de trabalho e tempo de coloração foram feitas ao longo dos anos para seções de tecidos fixas.
+Os pós das misturas corantes das colorações de Romanowski são extremamente tediosas de serem preparadas laboratorialmente, e são melhor adquiridas como corantes de estoque pré-fabricados comercialmente disponíveis.
+
+
+== Usos ==
+Ela é específica para os grupos fosfato de DNA e se adere a regiões do DNA em que haja grandes quantidades de ligações timina-adenina. O corante Giemsa é usado no bandeamento de Giemsa, comumente chamado de bandeamento G para tingir cromossomos e, muitas vezes usada para criar um cariograma (mapa cromossomo). Ela pode identificar aberrações cromossómicas tais como translocações e rearranjos.
+Ele colore o trofozoíto Trichomonas vaginalis, que se apresenta com descarga esverdeada e células móveis em um preparação molhada.A coloração Giemsa é também uma coloração diferencial, tal como quando é combinada com a coloração de Wright para formar a coloração de Wright-Giemsa. Ela pode ser usada para estudar a adesão de bactérias patogénicas às células humanas. Ela marca diferencialmente células humanas, roxas e de bactérias rosa. Ela pode ser utilizada para o diagnóstico histopatológico da malária e alguns outros espiroquetas e protozoários parasitas do sangue. É também utilizada na coloração células Wolbachia em Drosophila melanogaster e  Aedes albopictus.O corante de Giemsa é um corante de esfregaço de sangue clássico para esfregaços de sangue periféricos e amostras de medula óssea. Os eritrócitos são marcados em rosa, as plaquetas mostram um rosa pálido claro, os linfócitos do citoplasma marcam azul celeste, monócitos do citoplasma azul pálido, e as cromatinas nucleares dos leucócitos magenta. Ele também é usado para visualizar o clássico "pino de segurança" na forma Yersinia pestis.O corante de Giemsa também é usado para visualizar cromossomos.
+O corante de Giemsa o histoplasma do fungo, bactéria clamídia, e pode ser usado para identificar mastócitos.
+
+
+== Colorações características obtidas ==
+Diferentes componentes celulares e as colorações características obtidas com corante de Giemsa:
+
+
+== Produção ==
+A solução de Giemsa é uma mistura de azul de metileno, eosina, e azure B. O corante é geralmente preparado a partir de pó de corante de Giemsa disponível comercialmente.
+
+
+=== Formulação da mistura corante ===
+Azul de metileno 63,6% em peso, azure B 28,6%, azure A 4,4%, azure C 1,4%, tionina 1,9%. O corante citado “azure I” na publicação original não era um corante “puro”, mas sim uma mistura de tionina e todos os seus derivados 3 e 7-N-metilados. R. D. Lillie inferiu que provavelmente foi preparado por um processo de oxidação ácida.
+
+
+== Técnica de uso ==
+Uma película fina do espécime numa lâmina de microscópio é fixada em metanol puro durante 30 segundos, mergulhando-a ou colocando algumas gotas de metanol na lâmica. A lâmina é imersa numa solução de corante de Giemsa preparada fresca a 5% durante 20-30 minutos (5-10 minutos em situações de emergência em solução a 10%, podem ser utilizados), em seguida, enxaguada com água da torneira e deixada secar.
+
+
+=== Observações técnicas ===
+Geralmente a coloração é realizada à temperatura ambiente durante a noite, contudo, o aumento da temperatura da coloração reduz o tempo de coloração. As seções coradas a 37°C durante várias horas (tempo de coloração avaliado por exame microscópico) produzem melhores resultados do que seções coradas a 60°C durante um período mais curto. Quanto maior a temperatura de coloração, maior a intensidade da coloração azul, mas sem a coloração vermelha sendo aumentada equivalente.
+A diferenciação com ácido acético variará de acordo com o tempo de coloração e a temperatura, mas é geralmente conseguida em 30 segundos. O agente de diferenciação remove apenas o componente corante azul, aumentando assim a intensidade aparente do componente vermelho.
+Uma técnica completa de coloração recomendada é composta das seguintes etapas:
+
+Desengorduramento em xileno (xilol) - 2 minutos.
+Um segundo desengorduramento em xileno - 2 minutos.
+Um terceiro desengorduramento em xileno - 2 minutos.
+Lavagem em álcool absoluto (etanol anidro) - 2 minutos.
+Uma segunda lavagem em álcool absoluto - 2 minutos.
+Lavagem em álcool (etanol) a 90% - 2 minutos.
+Lavagem em álcool (etanol) a 70% - 2 minutos.
+Lavagem em água corrente - 2 minutos.
+Coloração com corante de Giemsa diluído, recentemente preparado.
+Enxague em água destilada.
+Diferenciação com solução aquosa de ácido acético a 0,5%.
+Lavagem rápida com álcool (etanol) a 70%.
+Lavagem rápida com álcool (etanol) a 95%.
+Lavagem rápida com álcool absoluto.
+Uma segunda lavagem rápida com álcool absoluto.
+Uma terceira lavagem rápida com álcool absoluto.
+Banho de clareamento em xileno - 2 minutos.
+Um segundo banho de clareamento em xileno - 2 minutos.
+Um terceiro banho de clareamento em xileno - 2 minutos.
+Montar as lâminas com cobertura de lamínulas usando DPX, Entellan ou formulação de "bálsamo do Canadá sintético" equivalente.
+
+
+== Ver também ==
+Coloração biológica e protocolos de  coloração
+Histologia
+Coloração de Leishman
+Microscopia
+Coloração de Romanowsky
+Coloração de Wright
+
+
+== Referências ==

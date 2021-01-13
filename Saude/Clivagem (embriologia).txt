@@ -1,0 +1,92 @@
+Em embriologia, clivagem é o desenvolvimento de um organismo multicelular através de uma série de divisões mitóticas, onde o grande volume de citoplasma do embrião é dividido em numerosas pequenas células nucleadas, chamadas blastômeros.
+O zigoto é dividido inicialmente ao meio, depois em quartos, oitavos, e assim por diante. Essa divisão sem crescimento do volume citoplasmático ocorre pela ausência das fases G1 e G2 da interfase, entretanto a divisão nuclear ocorre em níveis extremamente altos.
+Há dois tipos de clivagem, a holoblástica (clivagem total) e a meroblástica (clivagem parcial), que possuem subtipos de clivagem, entre elas radial, espiral, rotacional e superficial. O tipo da clivagem está diretamente ligado a distribuição de vitelo no ovo, sendo alguns tipos o isolécito, centrolécito e telolécito.
+
+
+== O Processo ==
+A transição da fertilização para clivagem é causada pela ativação do fator promotor de mitose (MPF). O MPF tem um papel  que foi observado inicialmente nos sapos durante a produção de gameta feminino, e após a fertilização, ela regula o ciclo celular dos primeiros blastômeros.
+Os blastômeros geralmente progridem através de dois ciclos celulares: M (mitose) e S (síntese de DNA). A transição entre as fases M e S nos blastômeros é dirigida unicamente pelo ganho ou perda da atividade de MPF.
+MPF contém duas subunidades: ciclina B e quinase ciclina-dependente (CDK). A primeira apresenta comportamento cíclico que é a chave para a regulação da mitose, acumulando durante a fase S e sendo degrada depois que as células atingem a fase M. Além disso, ela é codificada por ARN mensageiro (mRNAs) presentes no citoplasma do oócito, e se a tradução dessa mensagem é inibida, a célula não irá entrar em mitose. Já a CDK ativa a mitose por fosforilação de proteínas, incluindo histonas e a subunidade regulatória da miosina citoplasmática. São essas ações que causam a condensação da cromatina, despolimerização do envelope nuclear, e a organização do fuso mitótico (processos necessários para que a mitose ocorra normalmente) mas sem a ciclina B, a subunidade CDK não funciona.
+A presença de ciclina B é controlada por várias proteínas que garante a síntese e degradação periódica. Na maioria das espécies, os reguladores de ciclina B estão no citoplasma do ovo, então os ciclos celulares se mantem independentes do genoma por um número de divisões celulares. Essas divisões tendem a ser rápidas e sincronizadas, entretanto, conforme os componentes citoplasmáticos são utilizados e começam a se esgotar, o núcleo começa a sintetiza-los. Em várias espécies, algumas alterações são observadas nas divisões celulares do embrião, como a adição das fases G1 e G2 do ciclo celular, a perda de sincronismo na divisão celular, e novos mRNA são transcritos. Várias dessas mensagens codificadoras de proteínas serão necessárias para a gastrulação.
+
+
+== Tipos de ovos ==
+Diferentes organismos sofrem clivagem de diferentes formas, sendo esse padrão determinado por dois principais parâmetros: A quantidade e distribuição do vitelo no citoplasma, e fatores no citoplasma do embrião que influenciam no ângulo do fuso mitótico e no tempo da sua formação.
+Quanto ao primeiro parâmetro, a quantidade e distribuição do vitelo influencia no tamanho dos blastômeros. Quando um pólo do embrião possui menos vitelo, as divisões ocorrem numa taxa mais rápida do que no pólo oposto. O pólo com maior quantidade de vitelo é chamado de pólo vegetal, enquanto o pólo com menor quantidade de vitelo é chamado de pólo animal. O núcleo é frequentemente deslocado para o pólo animal.
+A distribuição do vitelo dentro do embrião é classificada em quatro categorias:
+
+Isolécito: vitelo é igualmente espaçado (presente em anelídeos, moluscos, tunicados, equinodermas, platelmintos e nematodes).
+Mesolécito: vitelo disposto moderadamente no pólo vegetal. (presente em anfíbios)
+Telolécito: vitelo denso na maior parte da célula (presente em moluscos cefalópodes, peixes, répteis e aves)
+Centrolécito: vitelo no centro do embrião (presente na maioria dos insetos).Há dois tipos básicos de clivagem, embora existem muitos intermediários, que se distinguem devido a quantidade de vitelo do embrião e sua disposição. Clivagem holoblástica ou completa é típica de embriões isolécitos e mesolécitos, onde o fuso de clivagem se estende por todo o embrião, enquanto clivagem meroblástica ou parcial é típica de embriões telolécitos ou centrolécitos, onde somente uma porção do citoplasma do embrião sofre clivagem.
+
+
+== Clivagem em diferentes organismos ==
+Os organismos de estudo na biologia do desenvolvimento foram escolhidos por características que agradavam os pesquisadores, como no caso do ouriço-do-mar, já que seus gametas eram facilmente obtidos em grande número, os oócitos, óvulos e embriões são transparentes, e a fertilização e desenvolvimento podem ocorrer em condições laboratoriais. Tais organismos foram estudados ao decorrer dos anos por diversos cientistas, que permitiu adquirir ricas informações do processo de clivagem.
+
+
+=== Ouriço-do-mar ===
+Ouriços-do-mar possuem clivagem holoblástica radial.
+-       A primeira e segunda clivagem são sempre meridionais e são perpendiculares uma a outra.
+-       A terceira clivagem é equatorial, perpendicular aos dois primeiros planos de clivagem, e separa os pólos animais e vegetais um do outro.
+-       A quarta clivagem, entretanto, é muito diferente das outras três, na qual as quatro células do pólo animal se dividem meridionalmente em oitos blastômeros (chamados de mesômeros). O pólo vegetal passa por uma divisão equatorial desigual que produzem quatro grandes células (macrômeros) e 4 pequenas células (micrômeros).
+-       Na quinta clivagem, os oitos mesômeros se dividem equatorialmente produzindo duas camadas, an1 e an2. Os macrômeros se dividem meridionalmente, formando uma camada de oitos células abaixo de an2. Os micrômeros também se dividem, formando um pequeno aglomerado abaixo da camada maior.
+-       Na sexta clivagem, as células do pólo animal se dividem meridionalmente, enquanto as células do pólo vegetal se dividem equatorialmente, sendo que esse padrão é invertido na sétima clivagem. A partir disto, o embrião é uma blástula de 128 células, onde o padrão de divisões se torna menos regular.
+
+
+=== Caracol ===
+Caracóis são organismos que apresentam clivagem espiral holoblástica.
+-      As duas primeiras clivagens são próximas de meridional, produzindo 4 grandes macrômeros.
+-      Em cada clivagem sucessiva, cada macrômero gera um pequeno micrômero no pólo animal. Cada quarteto de micrômeros é deslocado para a direita ou esquerda do seu macrômero-irmão, criando um padrão espiral.
+
+
+=== Tunicados ===
+Os tunicados apresentam clivagem bilateral holoblástica.
+-       A característica mais marcante desse tipo de clivagem é que o plano de clivagem da primeira divisão estabelece o eixo de simetria inicial do embrião, separando o embrião nos futuros lados direito e esquerdo.
+-       A segunda clivagem é meridional, como a primeira, mas não passa pelo centro do embrião como ocorre na primeira, criando duas grandes células anteriores e duas pequenas células posteriores. Cada lado agora tem um blastômero grande e um pequeno.
+-       Durante as três próximas clivagens, diferenças no tamanho da célula e formato são destacam a simetria bilateral desses embriões. No estágio de 64 células, uma pequena blastocele é formada e a gastrulação inicia do pólo vegetal.
+
+
+=== Caenorhabditis elegans ===
+C. elegans apresenta clivagem rotacional holoblástica, que durante as primeiras clivagens, cada divisão assimétrica produz uma célula fundadora (denominada AB, E, MS, C e D) que produz diferentes descendentes e uma célula-tronco (linhagem P1-P4).
+-       Na primeira clivagem, o fuso mitótico é localizado assimetricamente ao longo do eixo antero-posterior do embrião, próximo no que será o pólo posterior, formando uma célula fundadora anterior (AB) e uma célula-tronco posterior (P1).
+-       Durante a segunda clivagem, a célula fundadora (AB) divide-se equatorialmente enquanto a célula P1 divide-se meridionalmente para produzir outra célula fundadora (SEM) e uma célula-tronco posterior (P2). A linhagem de células-tronco sempre passa por divisões meridionais para produzir uma célula fundadora anterior e uma célula posterior que irá continuar a linhagem da célula-tronco.
+
+
+=== Drosophila melanogaster ===
+D. melanogaster, assim como a maioria dos insetos, passam por clivagem superficial, onde uma massa de vitelo concentrada centralmente confina a clivagem nas bordas do citoplasma do embrião.
+-       O núcleo do zigoto passa por várias divisões mitóticas na porção central do embrião, produzindo 256 núcleos. Os núcleos então migram para a periferia do embrião, onde a mitose continua.
+-       Durante a nono ciclo de divisão, cinco núcleos alcançam a superfície da parte posterior do embrião, que serão enclausurados pela membrana celular e gerarão células polares, que se tornarão os gametas do adulto. A maioria dos outros núcleos alcançam a periferia do embrião no décimo ciclo. Durante esse estágio de divisão nuclear, o embrião é chamado de blastoderme sincicial, já que todas as divisões nucleares dividem o mesmo citoplasma, existindo somente a membrana celular do próprio embrião.
+-       No décimo terceiro ciclo de divisão, a membrana plasmática do oócito dobra para dentro entre os núcleos, eventualmente particionando cada núcleo somático em uma única célula. Esse processo cria o blastoderma celular, em que todas as células estão arranjas em uma capa única que circunda o centro do embrião que contém o vitelo. Esse blastoderma celular é composto aproximadamente de 6000 células e é formada em após 4 horas da fertilização.
+
+
+=== Anfíbios ===
+Clivagem na maioria dos sapos e salamandras é do tipo radialmente simétrica e holoblástica, como nos ouriços-do-mar. Entretanto, o embrião do anfíbio possui muito mais vitelo, que está concentrado no pólo vegetal, que impede a clivagem.
+-       A primeira divisão começa no pólo animal e se estende vagamente até o pólo vegetal.
+-       A segunda clivagem é meridional e perpendicular a primeira, mas enquanto ocorre no pólo animal, no pólo vegetal ainda está ocorrendo a primeira clivagem.
+-       A terceira clivagem é equatorial, mas graças ao pólo vegetal possuir muito vitelo, o fuso é deslocado para o pólo animal, dividindo o embrião em quatro pequenos blastômeros (micrômeros) no pólo animal e quatro grandes blastômeros (macrômeros) no pólo vegetal.
+-       Conforme a clivagem progride, o pólo animal se torna um pacote de numerosas células pequenas, enquanto o pólo vegetal contém um número menor de grandes macrômeros cheios de vitelo.
+
+
+=== Peixes ===
+A maioria dos peixes ósseos possuem clivagem discoidal meroblástica, onde o embrião é formado a partir de uma fina região do citoplasma do pólo animal do embrião chamada blastodisco, já que o resto do embrião é ocupado por vitelo.
+-       As primeiras divisões seguem um padrão de clivagens meridionais e equatoriais, formando um amontoado de células que senta no pólo animal sobre a grande massa de vitelo. Esse amontoado de células constitui a blastoderme.
+-       Começando por volta da décima divisão celular, o começo da transição de meio-blástula pode ser detectada: transcrição gênica zigótica começa, a divisão celular desacelera e os movimentos celulares tornam-se evidentes. Nesse ponto, três tipos de células podem ser distinguidas: a camada sincicial vitelínica, que é formada por celular do pólo vegetal da blastoderme que se fundiram com células vitelínicas subjacentes; a camada do envelope, que é feita de células superficiais da blastoderme, sendo uma cobertura protetora extra-embrionária; e as células profundas, que são as células que gerarão o embrião em si.
+
+
+=== Aves ===
+Assim como os peixes, as aves possuem uma clivagem discoidal meroblástica, ocorrendo somente no blastodisco.
+-       O primeiro fuso de clivagem aparece centralmente no blasto disco, e as outras clivagens a seguem, criando uma blastoderme com única camada. Assim como nos peixes, a clivagem não passa pelo vitelo.
+-       Depois disso, clivagens equatorial e verticais dividem a blastoderme em um tecido com 5 a 6 camadas de células, conectadas por junções apertadas. Entre a blastoderme e o vitelo há um espaço chamado de cavidade subgerminal, que é criado quando as células da blastoderme absorvem água do albúmen e secretam um fluido entre elas e o vitelo.
+-       Nesse estágio, as células que estão no centro da blastoderme morrem, criando a área pelúcida, parte responsável pela formação da maior parte do embrião. A anel periférico das células da blastoderme que não morreram constituem a área opaca. Entre a área pelúcida e a área opaca está uma fina camada chamada zona marginal. Algumas células da zona marginal se tornam muito importantes para a determinação do destino da célula durante o desenvolvimento inicial das aves.
+
+
+=== Mamíferos ===
+Mamíferos possuem clivagem rotacional, ou seja:
+-       a primeira clivagem é uma divisão meridional normal;
+-       na segunda clivagem, um dos dois blastômeros divide-se meridionalmente enquanto o outro divide-se equatorialmente.
+-       Os blastômeros não se dividem ao mesmo tempo, então, seus embriões não aumentam de número exponencialmente de 2 para 4 e de 4 para 8 células, mas sim possuí uma quantidade estranha de células. Além disso, o genoma do embrião está ativo desde as primeiras clivagens, então ele próprio produz as proteínas necessárias para as clivagens e desenvolvimento.
+
+
+== Bibliografia ==
+GILBERT, Scott. Developmental Biology. Eight Edition. Sunderland, Massachussetts USA. Sinauer Associates, Inc. 2006.

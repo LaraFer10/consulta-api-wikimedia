@@ -1,0 +1,7 @@
+Em genética populacional, fixação ocorre quando todos os indivíduos de uma população tem o mesmo alelo num locus particular. O alelo, tal como uma única mutação pontual ou um gene inteiro, será inicialmente raro (originário, por exemplo, num único indivíduo), mas pode espalhar-se pela população por deriva genética e/ou selecção positiva. Quando a frequência do alelo atinge os 100%, sendo possuído por todos os membros, diz-se que ficou "fixado" na população. Da mesma forma, diferenças genéticas entre taxa dizem-se fixadas em cada espécie.
+
+
+== Referências ==
+Gillespie, J.H. (1994) The Causes of Molecular Evolution. Oxford University Press Inc., USA.
+Hartl, D.L. and Clark, A.G. (2006) Principles of Population Genetics (4th edition). Sinauer Associates Inc., USA.
+Kimura, M. (1962) On the Probability of Fixation of Mutant Genes in a Population. Genetics 47: 713–719. PubMed Central

@@ -1,0 +1,17 @@
+TBE ou Tris/Borato/EDTA, é uma solução tampão contendo uma mistura de base T (Tris), ácido Bórico e EDTA.
+Em biologia molecular, tampões TBE e TAE são frequentemente usados em procedimentos envolvendo ácidos nucleicos, a mais comum sendo a eletroforese. As soluções Tris-ácidas são tampões eficientes para condições levemente básicas, as quais mantém o DNA deprotonado e solúvel em água. EDTA é um quelante de cátions divalentes, particularmente de magnésio (Mg2+). Como estes íons são necessariamente co-fatores para muitas enzimas, incluindo nucleases contaminantes, o papel do EDTA é proteger os ácidos nucleicos contra a degradação enzimática. Mas desde que Mg2+ é também um co-fator para muitas enzimas de modificação do DNA tais como enzimas de restrição e polimerases de DNA, sua concentração nos tampões TBE ou TAE é geralmente mantida baixa (tipicamente em torno de 1 mM).
+OBS: Nunca use água tratada com DEPC (dietilpirocarbonato) para o preparo de soluções contendo Tris.
+
+
+== Composição (solução 10X) ==
+Tris (CAS# 37186) 107.81 g/l (0.89 M)
+EDTA (CAS# 60004) 5.8 g/l (0.02 M)
+Ácido bórico (CAS# 11280) 55.0 g/L (0.89 M)
+
+
+== Referências ==
+Ogden, R.C., and Adams, D.A., Electrophoresis in agarose and acrylamide gels. Meth. Enzymol. 152, 61-87, (1987)
+
+
+== Ver também ==
+Tampão TAE

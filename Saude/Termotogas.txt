@@ -1,0 +1,35 @@
+Termotogas (Thermotogae) é uma filo de bactérias. O nome neo-latino feminino "thermotoga", origina-se por sua vez a partir do nome grego θέρμη (therme, calor) ou mais exatamente do θερμός, ή, όν (thermos, e, on, quente) e da palavra latina feminina toga (vestimenta romana), devido a sua forma de bastonete envolta por uma membrana celular externa. 
+Os membros de todo o filo são bactérias gram-negativas, uma vez que possuem uma fina camada de peptidoglicano localizada entre duas bicamadas lipídicas, ambas peculiares.O seu peptidoglicano é pouco comum, uma vez que estabelece ligações cruzadas não apenas com meso-diaminopimelatos tal como acontece na Proteobacteria, mas também com D-lisina.
+As espécies do gênero são organismos anaeróbicos com diferentes graus de tolerância ao oxigênio. Podem reduzir enxofre elementar (S0) para sulfureto de hidrogênio, que por sua vez pode ser posteriormente utilizado.
+São organismos termófilos ou hipertermófilos cujas células são em forma de bastonetes e envoltas em uma membrana celular externa (a 'toga'). As enzimas Thermotoga são ativas em temperaturas elevadas. Metabolizam hidratos de carbono. As diferentes espécies apresentam distintas tolerâncias à salinidade e ao oxigênio. Por serem extremamente termoestáveis, as Thermotogales são  úteis para muitos processos industriais. A estirpe SL1 de Thermotoga subterranea foi encontrada num depósito continental profundo de petróleo a 70 °C numa região denominada East Paris Basin, na França. É um organismo anaeróbio que reduz cistina e tiosulfato a sulfeto de hidrogênio. Dentre os gêneros extremófilos tem-se o Petrotoga, com a espécie Petrotoga mexicana, que consiste em uma bactéria anaeróbica, termofílica, xilanolítica, encontrada um poço de petróleo no Golfo do México, estando ainda sendo sequenciada genomicamente.
+
+
+== Estrutura Genômica Thermotoga marititma ==
+
+O genoma da Thermotoga maritima, sequenciado em 1999, revela a presença de vários genes de origem arqueana (aproximadamente um quarto do genoma), que possivelmente permitiram a sua adaptação biológica para a termofilia. No entanto, o seu núcleo parece ser eubacteriano.
+A estrutura do genoma de T. maritima é composta por um cromossomo circular com 1.860.725 pares de bases (46% do conteúdo médio de G + C). O seu genoma tem 1.877 regiões de codificação preditas, porém somente 54% (1.014) apresentam atribuições funcionais conhecidas.
+
+
+== Reprodução Thermotoga marititma ==
+A reprodução desses organismos é assexuada por bipartição. Nesse tipo de reprodução, uma célula se divide em duas, havendo a duplicação do DNA bacteriano.
+
+
+== Metabolismo ==
+São organismos termofílicos ou hipertermofílicos, com temperatura ideal para crescimento em torno de 80 ° C, e em pH neutro. A característica halófita das espécies varia bastante; pois alguns tem uma tolerância ao sal extremamente alta, e outros estão limitados a ambientes de baixa salinidade. Sendo não-esporulados, metabolizam carboidratos simples e complexos (como a glicose, sacarose, amido, celulose e xilana). Analisando esses micro-organismos, nota-se a semelhança na produção de Thermotogales e das Thermococcales pela L-alanina. Isso sugere que a produção de L-alanina a partir do carboidrato é uma característica de algum antigo metabolismo ancestral. Os membros do Thermotogae podem degradar polissacarídeos em etanol, acetato, CO2 e H2, mas também podem estar envolvidos na degradação de álcoois para CO2 e H2 em associação sintrófica com algum consumidor de hidrogênio.  
+
+
+== Ecologia ==
+Thermotoga envolve o grupo de bactérias com as mais altas temperaturas de crescimento conhecidas (chegando a mais de 90ºC). No caso de Thermotogales, comumente crescem em habitats vulcânicos ou de alta temperatura e baixa salinidade, como sistemas marinhos rasos ou em águas profundas e campos de petróleo continentais. As Petrotoga são encontradas em reservatórios de petróleo, caracterizando a sua sobrevivência nestes ambientes subterrâneos profundos. A espécie T. maritima foi isolado pela primeira vez em Vulcano (Itália), a partir de um sedimento marinho raso aquecido. Também encontrada na Itália, a T. neapolitana foi identificada em um respiradouro submarino termal próximo à Nápoles. Ademais, um artigo publicado trata da otimização da produção de hidrogênio por eubactérias hipertermofílicas, Thermotoga maritima e Thermotoga neapolitana em fermentação descontínua. As espécies BB13-1-L6 foram encontradas recentemente  em águas com aproximadamente 68°C e pH 6,8 na Alemanha. Encontra-se a presença de organismos desse filo em solosFontes termais localizadas nas áreas de Chilas e Hunza, no Paquistão, com temperatura entre 90 e 95°C abrigam micro-organismos do filo Thermotogae.
+Em estudo publicado recentemente, foi encontrado filo de Thermotogae - juntamente com filos de outras bactérias, sendo principalmente: Firmicutes, Proteobacteria, Bacteroidetes, Euryarchaeota (metanogênicos) - em águas residuais de uma estação de tratamento anaeróbica em um matadouro. A análise molecular utilizou o lodo anaeróbico e objetivou determinar a biodiversidade bacteriana presente. Foram detectados 27 filos diferentes, sendo que o Thermotogae estava entre os mais predominantes, caracterizando 9,4% das bactérias totais identificadas.
+
+
+== Filogenia ==
+No cladograma é mostrada a taxonomía actualmente aceitada do grupo, baseada na LPSN (List of Prokaryotic names with Standing in Nomenclature)
+e a filogenia tem por base os datos do ARNr de 16 S da LTP 106 do Projecto The All-Species Living Tree Project.
+
+
+== Evolução ==
+A Thermosipho africanus representa um novo gênero de eubactérias termofílicas. Em estudo, esse gênero foi obtido em uma área hidrotermal marinha em Obock (Djibouti, África), e verificou-se que as células apresentavam-se em forma de bastonete, cercadas por uma estrutura externa semelhante a uma bainha (semelhantes aos demais Thermotoga), porém essas bactérias cresceram agrupadas em cadeias de até doze organismos cercadas pela bainha. Além disso, os isolados podem ser distinguidos por um teor de GC 11% menor, uma RNA polimerase imunologicamente divergente e uma temperatura de crescimento muito menor.
+
+
+== Referências ==

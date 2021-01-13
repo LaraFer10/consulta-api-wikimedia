@@ -1,0 +1,37 @@
+O transportador de glicose 1 (ou GLUT1) é uma proteína de membrana composta por 492 resíduos de aminoácidos, a qual é codificada nos humanos pelo gene SLC2A1. O GLUT1 faz a captação basal de glicose, por meio de difusão facilitada, através da membrana plasmática de células animais, sempre a favor do gradiente de concentração. Tem como substratos predominantes a D-glicose, D-galactose, D-manose e L-glicose. Pode ainda ser inibido por meio da citocalasina B e da Phloretina.
+
+
+== Estrutura proteica ==
+No plasma sanguíneo, onde a concentração de glicose se mantém perto de 5mM, o fornecimento constante da mesma é essencial para o metabolismo energético dos glóbulos vermelhos. Comparando com uma difusão transmembrana não-catalisada, a glicose entra no eritrócito numa taxa 50.000 vezes maior por meio de difusão facilitada graças a um transportador-específico. O GLUT1 é uma proteína integral do tipo III que contém 12 segmentos hidrofóbicos. Esses, por sua vez, formam uma conformação secundária de alfa-hélice. Os detalhes da estrutura do GLUT1 ainda são pouco elucidados, mas um modelo plausível propõe que o agrupamento lado a lado dessas alfa-hélices produz um canal iônico transmembrana alinhado com resíduos hidrofílicos, os quais podem se ligar por meio de pontes de hidrogênio com a glicose enquanto a mesma atravessa esse canal.
+
+
+== Função ==
+O GLUT1 tem papel crucial na absorção da glicose cerebral, pois é o principal isoforma GLUT expressada nas células endoteliais do cérebro. Sob condições fisiológicas normais, o cérebro é dependente da glicose como combustível, e o transporte por meio da barreira sangue-cérebro age como um limitador da taxa de metabolismo cerebral da glicose. O GLUT1 também é expressado por astrócitos, os quais possivelmente fornecem lactato derivado da via glicolítica para os neurônios para servir como fonte de combustível. O transportador de glicose (GLUT1) realiza a mediação da transferência materno-placental de glicose em humanos e os níveis de GLUT1 placental são alterados sob condições patológicas que afetam o feto.
+
+
+== Distribuição nos tecidos ==
+Responsável pela manutenção do nível basal de glicose na célula, o GLUT 1 está amplamente difundido pelo corpo, sendo que sua presença é mais acentuada em tecidos fetais e ao longo do período da infância (por estar relacionado ao crescimento do cérebro), apresentando aumento de expressão em quadros de hipoglicemia. Nesse caso, o transporte de glicose não é limitado pelo metabolismo da mesma e ocorre independentemente da presença de insulina. A expressão se dá principalmente na membrana de eritrócitos humanos e células endoteliais com junções extremamente fortes, que desempenham função de barreira protetora entre o sangue e o cérebro, retina, placenta ou testículos. Apesar de apresentar uma constante de Michaelis (mM) variando entre 1 e 7 mM, está em alta concentração na membrana plasmática, representando cerca de 5% de todas as proteínas existentes nesse meio e promovendo uma estabilização rápida do nível de glicose celular.
+
+
+== Importância clínica ==
+
+
+=== Distúrbios associados à deficiência em GLUT1 ===
+O gene SLC2A1 é responsável por coordenar a produção da proteína transportadora de glicose tipo 1 (GLUT 1). Essa proteína atua na membrana externa das células, onde irá carregar o açúcar (glicose) para ser utilizado como combustível, principalmente no cérebro. Mutações ocorridas no gene SLC2A1 causam a síndrome de deficiência de GLUT1, na qual haverá redução ou eliminação da função da proteína transportadora. Sendo assim, a quantidade de glicose disponível diminui, afetando as células cerebrais e, consequentemente, a atividade do sistema nervoso.
+Os principais sintomas associados a essa síndrome são neurológicos. É comum a presença de convulsões frequentes logo nos primeiros meses de vida, juntamente com movimentos oculares involuntários, rápidos e irregulares. Os indivíduos afetados podem ainda apresentar atraso no desenvolvimento ou deficiência intelectual. Entre outros sintomas pode-se citar o enrijecimento anormal dos músculos, dificuldade em coordenar movimentos e dificuldades na fala. A síndrome possui diferentes níveis de gravidade, podendo ser uma forma mais branda – caso em que não há convulsões.
+A síndrome de deficiência de GLUT1 é uma doença rara, possuindo um padrão de herança autossômico dominante na maioria dos casos. O tratamento consiste em uma dieta cetogênica, sendo ela restrita em carboidratos, adequada em proteínas e rica em lipídeos, o que irá induzir a produção de corpos cetônicos. Essas substâncias são capazes de adentrar nas células cerebrais através de um transportador específico e irão servir como fonte de energia alternativa, uma vez que não há glicose disponível. 
+
+
+=== GLUT1 em situações de hipóxia e/ou isquemia ===
+Sabe-se que a proteína transportadora de glicose tipo 1 (GLUT 1) apresenta um modelo conformacional com 12 domínios transmembranares com terminais amina e carboxílicos citosólicos. Também possui três domínios de ligação a ATP, os quais são de extrema importância para sua conformação e afinidade já que a glicose é retida por esses domínios após a ligação de ATP nos mesmos. Além disso, o GLUT1 é dependente de pH para sua ativação, o que pode, então, influenciar na atividade dessa proteína. Dessa forma, pode-se relacionar a baixa quantidade de ATP com a ativação do GLUT1. Nesse processo, a baixa quantidade de ATP pode causar hipóxia e/ou isquemia, levando as células a uma intensa atividade glicolítica anaeróbica e, consequentemente, reduzindo o pH citosólico. Com o meio mais ácido, a atividade da GLUT1 pode ser intensificada, gerando então um incremento dessa proteína próxima a regiões afetadas.
+
+
+=== Redução de GLUT1 e Alzheimer ===
+A doença de Alzheimer é caracterizada por distúrbios metabólicos e desordem neurodegenerativa progressiva, o que causa comprometimento cognitivo e demência nos pacientes, os quais são, em sua maioria, idosos. Em casos de doenças cerebrais como essa, observam-se anormalidades no metabolismo da glicose cerebral. A proteína responsável pela atividade transportadora de glicose para o cérebro é a GLUT1 (proteína transportadora de glicose tipo 1), a qual está presente na barreira hematoencefálica.  Os efeitos causados pela doença de Alzheimer podem comprometer a regulação neurovascular e a integridade da barreira hematoencefálica, afetando assim a expressão de transportadores de glicose, os quais ficam reduzidos. Dessa forma, o cérebro não recebe a quantidade necessária de glicose (sua principal fonte de energia), podendo contribuir para a progressão da doença. 
+
+
+=== GLUT1 e câncer ===
+O transportador GLUT1 apresenta um papel, ainda não elucidado, na formação tumoral. Sua expressão é encontrada alterada em diversos tipos de cânceres, como: de mama, do esôfago, do cérebro, do rim, do pulmão, do cólon, do reto, do ovário e do colo do útero. Essas alterações ocorrem de forma a fornecer à célula neoplásica a glicose requerida pelo seu elevado metabolismo. Além disso, estudos sugerem a existência de um mecanismo pró-carcinogênico por trás desses elevados níveis de expressão e uma ligação entre a expressão de GLUT-1 e a resistência à quimioterapia.Por conta disso, a inibição desse transportador vem sendo estudada como possível alvo terapêutico para tumores primários do fígado, por meio de de inibidores competitivos deste transportador, como a quercetina e o gossipol, e também à inibição gênica do mesmo.
+
+
+== Referências ==

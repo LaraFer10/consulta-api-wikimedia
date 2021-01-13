@@ -1,0 +1,71 @@
+Os receptores de  histamina H3 são expressos no sistema nervoso central e, de forma menos significativa, no sistema nervoso periférico, onde eles agem como autorreceptores pré-sinápticos em neurônios histaminérgicos, controlando também  a ciclagem de histamina através de inibição por retroalimentação negativa da síntese e liberação da histamina. O receptor H3 também é capaz de inibir a liberação de outros  neurotransmissores (agindo como um heterorreceptor inibitório) incluindo dopamina, GABA, acetilcolina, noradrenalina, histamina e serotonina.
+A sequência gênica dos receptores H3 possui apenas 22% e 20% de homologia com os receptores H1 e H2 respectivamente.
+
+
+== Distribuição tecidual ==
+Sistema nervoso central
+Sistema nervoso periférico
+Coração
+Pulmão
+Trato gastrointestinal
+Células endoteliais
+
+
+== Função ==
+Como todos os receptores de histamina conhecidos, o receptor H3 é um receptor acoplado à proteína G. O receptor  H3 acoplado a uma proteína G do tipo Gi , levando a inibição da formação de cAMP. Além disso, as subunidades β e γ interagem  com canais de cálcio dependentes de voltagem  do tipo N, reduzindo o influxo de cálcio decorrente de potenciais de ação e, consequentemente, a liberação de neurotransmissores. Os receptores H3 agem como autorreceptores  pré-sinápticos em neurônios que contêm histamina, mas também são hetero-receptores, ou seja, estão presentes em neurônios que produzem outros neurotransmissores, como GABA, glutamato, dopamina, serotonina, norepinefrina, acetilcolina e outros. Também já foi relatada a presença do receptor H3 em áreas específicas do cérebro, como o estriado.Devido à localização e função neuronal, os receptores H3 são relacionados à diversas funções no cérebro, tais como formação e consolidação da memória e aprendizado, controle do sono e da fome, controle motor e diversas outras ações.
+
+
+== Isoformas ==
+Há pelo menos 6 isoformas do receptor H3 em humanos e mais de 20 descobertas até hoje. Em ratos, foram encontrados 6 subtipos, enquanto em camundongo, mais 3. Esses subtipos possuem pequenas diferenças farmacológicas e de distribuição, mas o papel fisiológico de cada ainda é obscuro.
+
+
+== Farmacologia ==
+
+
+=== Agonistas ===
+Apesar de não haver produtos terapêuticos agindo como inibidores seletivos de H3, alguns compostos utilizados para pesquisa possuem uma boa seletividade.Alguns exemplos são
+
+(R)-α-metil-histamina
+Cipralisant (possui seletividade funcional, ativando algumas vias acopladas a proteína G, mas não outras
+
+Imbutamina (também agonista de H4)
+Proxyfan (seletividade funcional complexa)
+
+
+=== Antagonistas ===
+Incluem:
+A-349,821
+ABT-239
+Betahistina (também agonista H1 fraco)
+Burimamida (também antagonista H2 fraco)
+Ciproxifan
+Clobenpropit (also H4 antagonist)
+Impentamina
+Iodophenpropit
+Thioperamidae (também agonista H4 )
+Pitolisanto
+
+
+== Potencial terapêutico ==
+Esse receptor é um possivel alvo terapêuticos para diversas aplicações, entre elas alterações do ciclo sono-vigília, da fome, esquizofrenia, epilepsia, TDAH e nas doenças de Parkinson e Alzheimer.
+Recentemente, um antagonista/agonista inverso desse receptor conhecido como pitolisanto (Wakix) foi aprovado na Europa e Estados Unidos para o tratamento da narcolepsia com ou sem cataplexia. Também têm sido utilizado com sucesso no tratamento de jovens portadores da síndrome de Prader-Willi, uma desordem que leva a alterações comportamentais, induz um comportamento hiperfágico e hipersonia.Devido à sua habilidade de modular outros neurotransmissores, os ligantes de receptor H3 vem sendo estudados para tratamendo de diversas condições, incluindo obesidade(devido à interação dos sistema histamina/orexinérgico, transtornos do movimento (devido à modulação pelo receptorf H3 de dopamina e GABA nos núcleos da base), esquizofrenia e ADHD. Além disso, há pesquisas em curso para determinar a utilidade de ligantes de H3 na modulação da vigília (devido aos efeitos em noradrenalina, glutamato e histamina).
+
+
+== História ==
+1983 Identificação farmacológica do receptor H3.
+1988 Descoberta mediação de liberação de serotonina por receptores H3 .
+1997 Demonstrado que receptores H3 podem modular noradrenalina isquêmica em animais.
+1999 Clonagem do receptor H3 
+2000 Receptores H3  são chamados de "nova fronteira na isquemia do miocárdio"
+2002 Produção de camundongos H3(-/-) 
+
+
+== Referências ==
+
+
+== Leitura adicional ==
+
+
+== Ligações externas ==
+«Histamine Receptors: H3». IUPHAR Database of Receptors and Ion Channels. International Union of Basic and Clinical Pharmacology 
+MeSH H3+receptors

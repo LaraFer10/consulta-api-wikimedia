@@ -1,0 +1,43 @@
+Rudiviridae (do Latim rudis, que significa haste ou bordão, referindo-se à forma do virião) é uma família viral que compreende um único gênero, Rudivirus. Os rudivírus são vírus não envelopados em forma de bordão rígido com genoma de ADN linear de cadeia dupla (dsDNA), que infectam archaeas hipertermófilas do Reino Crenarchaeota . Como vírus de ADN, pertencem ao Grupo I da Classificação de Baltimore.
+O estudo de vírus de crenarchaeaotas encontra-se ainda num estado incipiente e o nosso conhecimento sobre os seus processos moleculares básicos, tais como a infecção, as interações entre vírus e hóspede, a replicação e empacotamento do ADN e a regulação transcricional, é bastante limitado. No entanto, os rudivírus apresentam-se como prometedores modelos gerais para estudos detalhados da biologia de vírus que infectem Archaeas. São facilmente mantidos em condições laboratoriais e podem ser obtidos em número elevado, ao contrário de muitos dos outros vírus que infectam este Domínio.
+
+
+== Taxonomia ==
+
+
+=== Gênero Rudivirus ===
+Espécies:
+Sulfolobus islandicus rod-shaped virus 1, SIRV1;
+Sulfolobus islandicus rod-shaped virus 2, SIRV2;
+Acidianus rod-shaped virus 1, ARV1;
+Stygiolobus rod-shaped virus, SRV.As duas espécies principais, os vírus SIRV1 e SIRV2, foram obtidos a partir de 2 estirpes de Sulfolobus islandicus diferentes. As duas estirpes foram isoladas a partir de amostras recolhidas em 1994, de diferentes campos de fontes termais sulfurosas na Islândia,  Kverkfjöll e Hveragerdi, separadas entre elas por uma distância de 250 km. Estas fontes termais sulfurosas atingem uma temperatura de 88°C e um pH de 2,5.
+O Acidianus rod-shaped virus 1, ARV1, foi o primeiro membro identificado desta família que infecta a Archaea hipertermófila do género Acidianus, e foi isolado em 2005 a partir duma fonte hidrotermal em Puzzuoli, Itália .
+O Stygiolobus rod-shaped virus, SRV, que infecta o género hipertermófilo Stygiolobus, foi isolado na Ilha de São Miguel, nos Açores, Portugal em 2008 .
+
+
+== Estrutura ==
+Os viriões são não-envelopados e consistem numa super-hélice em forma de tubo formado pelo ADN de cadeia dupla e pela proteína estrutural principal, com “tampas” em ambas as extremidade às quais estão ancoradas três fibras terminais. Estas fibras terminais parecem estar envolvidas na adsorção à superfície da célula do hóspede e são formadas por uma das proteínas estruturais secundárias. A “tampa” mede aproximadamente 48 nm de largura por 6 nm de diâmetro e cada uma das três fibras terminais atinge 28 nm de comprimento.
+Tanto o Sulfolobus islandicus rod-shaped virus 1 como o Sulfolobus islandicus rod-shaped virus 2 apresentam uma forma de haste rígida de aproximadamente 23 nm de diâmetro, ainda que diferenciando-se em comprimento — o SIRV1 tem aproximadamente 830 nm e o SIRV2 900 nm. O canal central que envolve o ADN tem 6 nm de diâmetro.
+O Acidianus rod-shaped virus 1, que mede 610 nm de comprimento por 22 nm de largura, também apresenta fibras terminais em cada extremidade do virião e o mesmo canal central envolvendo o genoma.
+O Stygiolobus rod-shaped virus apresenta uma morfologia em forma de bordão semelhante aos outros membros da família. O virião do SRV atinge 702 nm de comprimento por 22 nm de diâmetro.
+
+
+== Genoma ==
+O genoma dos rudivírus é composto por ADN linear de cadeia dupla, que varia em tamanho entre 24 kb (ARV1) e 35 kb (SIRV2). As duas cadeias do genoma linear estão covalentemente ligadas e em cada extremidade do genoma existem repetições invertidas terminais.
+Os rudivírus de Sulfolobus atingem 32.3 kbp, no caso de SIRV1, e 35.8 kbp para o SIRV2, ambos com repetições invertidas terminais de 2029 bp nas extremidades do genoma linear. 
+O conteúdo em G+C de ambos os genomas é extremamente baixo, totalizando apenas 25%, enquanto que o genoma do Sulfolobus solfataricus (o genoma completamente sequenciado mais próximo do hospedeiro do vírus) atinge 37%.
+A composição e sequência do genoma do ARV1 é distinta da dos rudivírus de Sulfolobus. O ARV1 tem um genoma de 24655 bp, incluindo as repetições invertidas terminais de 1365 bp em cada extremidade do genoma.
+O SRV encontra-se a uma distância genómica suficiente dos outros membros da família para ser classificado como uma espécie nova. O seu genoma totaliza 28096 bp, com repetições invertidas terminais de 1030 bp em cada extremidade.
+Ainda que as sequências das repetições invertidas terminais dos quatro membros da famìlia Rudiviridae sejam diferentes, todos possuem um motivo nas suas sequências perto do final do genoma que poderá constituir um sinal para a resolvase da junção de Holliday  e para a replicação do ADN.
+
+
+== Padrões Transcricionais e Regulação Transcricional ==
+Os padrões transcricionais dos rudivírus SIRV1 e SIRV2 são relativamente simples, com algumas diferenças na expressão temporal [7]. Por outro lado, estima-se que pelo menos 10 % dos seus genes codifiquem reguladores transcricionais putativos . É notória uma elevada proporção de genes virais que codificam proteínas de ligação ao ADN com o motivo RHH (ribbon-helix-helix). Esta preponderância da superfamília RHH nos genomas de Crenarchaeas e dos seus vírus poderia salientar a importância destas proteínas na regulação transcricional, tanto do hóspede como do vírus, sob as condições adversas às quais ambos estão sujeitos.
+A proteína SvtR  do virus SIRV1 foi o primeiro regulador transcricional codificado por um vírus do Domínio Archaea a ser identificado e caracterizado em detalhe.
+
+
+== Ciclo Viral ==
+O Sulfolobus islandicus rod-shaped virus 2 (SIRV2) é um vírus lítico que desenvolve e orquestra a morte do hóspede como consequência de uma série de processos elaborados e ainda mal estudados. A infecção viral provoca uma degradação massiva dos cromossomas do hóspede e o montagem dos viriões ocorre no citoplasma. Os viriões são libertados da célula hóspede através dum mecanismo que envolve a formação de estruturas celulares especificas .
+
+
+== Referências ==

@@ -1,0 +1,32 @@
+Xenopus (do latim, pé estranho) é um género de rãs estritamente aquáticas nativas da África subsariana. Há dezoito espécies no género Xenopus. A espécie mais conhecida do género é Xenopus laevis, estudada como organismo modelo.
+
+
+== Morfologia ==
+Todas as espécies de Xenopus têm corpos achatados e aerodinâmicos aproximadamente em forma oval, assim como pele muito escorregadia (devido a uma camada de muco protector). A pele da rã é lisa tendo contudo uma linha lateral com uma aparência de sutura. As rãs são nadadores excelentes e têm potentes dedos dos membros posteriores com membranas interdigitais completas apesar dos dedos dos membros anteriores não terem membranas. Três dos dedos dos pés têm garrass pretas conspícuas.
+Os olhos da rã estão posicionados no topo da cabeça. As pupilas são circulares. Não têm pálpebras, línguas (esta está completamente ligada ao chão da boca) ou tímpanos (de modo similar ao sapo Pipa pipa) móveis.Internamente, são algo únicos dado que, ao contrário da maioria dos anfíbios, não têm haptoglobina no sangue.
+
+
+== Comportamento ==
+As espécies de Xenopus são inteiramente aquáticas, apesar de já terem sido observadas a migram em terra para corpos de água próximos durante períodos de seca. São normalmente encontrados em lagos, rios, pântanos e reservatórios artificiais.Rãs adultas são normalmente predadores e detritívoros e dado que a sua língua é inútil, as rãs usam os seus pequenos membros anteriores para ajudar na alimentação. Uma vez que não possuem saco vocal, produzem cliques debaixo de água (novamente de modo semelhante a Pipa pipa. As espécies de Xenopus também são activas durante o crepúsculo).Durante a época de reprodução, os machos têm tubérculos nupciais pretos nos dedos para ajudar a agarrar a fêmea. O acasalamento é inguinal, o que significa que o macho agarra a fêmea pela cintura.Tal como outros anuros, são muitas vezes usados em laboratório para estudo. Em hebraico o nome comum do género significa literalmente "Rã medicinal".
+
+
+== Fecundação e Estabelecimento do eixo Dorso-Ventral em Xenopus ==
+O ovo de Xenopus é circular e possui um polo animal e um polo vegetal, citoplasma cortical (pigmentado no polo animal e não pigmentado no polo vegetal) e citoplasma sub-cortical. A fecundação é externa e a entrada do espermatozóide no ovo ocorre sempre no polo animal, sendo a região de entrada do espermatozóide definida como ventral. Assim que a fecundação ocorre, o citoplasma cortical gira 30 graus na direção de entrada do espermatozóide, enquanto o citoplasma sub-cortical permanece imóvel, e portanto, com uma pequena região agora exposta e denominada grey crescent.
+A rotação cortical do citoplasma do ovo de Xenopus possui algumas funções biológicas, sendo elas: reorganização dos microtúbulos abaixo do citoplasma cortical, especificação do eixo dorso-central e exposição do citoplasma subcortical (área definida como grey crescent).
+O ovo também possui proteínas e RNAs menssageiros herdados da mãe que são chamados determinantes maternos. Estes determinantes são assim chamados por serem herdados da mãe e por agirem no começo do desenvolvimento do embrião, enquanto este não tem seu genoma completamente ativado.
+Alguns destes determinantes maternos são encontrados através de todo o ovo em forma de proteínas, como GSK3 e β-catenina. Outros determinantes maternos são encontrados apenas no polo vegetal em forma de proteínas (Dsh, GBP, Wnt11) ou RNAs menssageiros (VegT, Vg1). Estes determinantes farão parte da via de sinalização Wnt ou TGFβ, sendo a primeira responsável pelo estabelecimento da região dorsal do organismo e a segunda pela especificação da mesoderme.
+
+Via de sinalização Wnt: os determinantes maternos Dsh, GBP e Wnt11 estão localizados no citoplasma cortical do polo vegetal. Ao ocorrer a rotação cortical após a fecundação, estes determinantes também mudam de lugar, sendo encontrados agora 30 graus no sentido anti-horário do polo vegetal em relação à posição anterior. A expressão destes determinantes inibirá a ação de GSK3 na região dorsal do ovo. GSK3 inibe a ação da β-catenina, no entanto, como ele está inibido, a β-catenina está livre e consegue se deslocar para o núcleo das células da região dorsal do ovo.
+A presença de β-catenina na região dorsal do ovo induz a formação do Centro de Nieuwkoop, também chamado de organizador. O Centro de Nieuwkoop irá secretar a proteína Nodal que irá definir as células desta região como mesoderme dorsal. Ou seja, a rotação cortical especifica o eixo dorso-ventral ao tornar β-catenina disponível para agir como um fator de transcrição no núcleo, levando à ativação do Centro de Nieuwkoop que secreta a proteína Nodal e estabelece a identidade da mesoderme dorsal.
+Via de sinalização TGFβ: na região ventral por sua vez, não há expressão de Dsh, GBP ou Wnt11, logo, GSK3 está livre e consegue inibir a β-catenina, levando à sua degradação. Vg1 e VegT são expressos na região ventral, induzindo baixos níveis da proteína Nodal, o que ela à especificação das células dessa região como mesoderme ventral.
+
+
+== Referências ==
+
+
+== Xenopus como modelo de investigação ==
+Xenopus são sitemas-modelo populares para estudos de expressão génica ou proteica e de Knockdown de genes. Com 1 milímetro de diâmetro, os oócitos de Xenopus são células muito grandes que são fáceis de usar em culturas e experiência por cientistas. RNA de outros organismos podem ser injectados nestes grandes oócitos e a expressão resultante estudada por técnicas de biologia molecular ou através de experimentação electrofisiológica. Expressão génica pode ser reduzida ou modificada usando oligonucleotídeos antisense injectados nos oócitos de Xenopus (para efeitos em todo o corpo) ou embriões (para efeitos nas células descendentes da célula injectada).
+
+
+== Ligações externas ==
+Xenbase ~ A Xenopus laevis and tropicalis Web Resource

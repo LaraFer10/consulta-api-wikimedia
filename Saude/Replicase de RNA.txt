@@ -1,0 +1,20 @@
+A replicase de RNA é uma polimerase que catalisa a autorreplicação de cadeias simples de ARN. São vulgares em vírus que possam ter genomas de RNA de cadeia simples. São também conhecidas como polimerases de RNA dependentes de RNA.
+
+
+== História ==
+Os RdRPs virais foram descobertos no início dos anos 60 a partir de estudos sobre mengovírus e vírus da poliomielite, quando se observou que esses vírus não eram sensíveis à actinomicina D , uma droga que inibe a síntese de RNA celular direcionada ao DNA. Essa falta de sensibilidade sugeriu que existe uma enzima específica do vírus que pode copiar o RNA de um modelo de RNA e não de um modelo de DNA.
+
+
+== Ver também ==
+RNA polimerase
+RNA polimerase DNA-dependente
+DNA polimerase RNA-dependente
+DNA polimerase DNA-dependente
+
+
+== Referências ==
+
+
+== Ligações externas ==
+MeSH RNA+Replicase
+EC 2.7.7.48

@@ -1,0 +1,47 @@
+Coding Rights é um think (and do) tank fundado pela pesquisadora Joana Varon, membro do grupo ciberfeminista DeepLab, criado para promover o entendimento e contribuir para a proteção e promoção de Direitos Humanos no mundo digital, e visa avançar na aplicação destes no mundo digital através da integração de usos e percepção da tecnologia nos processos de formulação de políticas.Além de operar na rede, o projeto também é uma experiência organizacional: Estruturou-se um Conselho de Cooperação composto somente por mulheres de diferentes áreas envolvidas e com problemas críticos sobre os desenvolvimentos sociais das tecnologias.
+Este conselho é formado por tecnólogas, advogadas, cientistas sociais, hackers, artistas, jornalistas, pesquisadores, advogados e outros profissionais que possam partilhar das mesmas ideologias.
+
+
+== Objetivo ==
+O objetivo central é deixar a organização de trabalho como uma ponte entre as áreas de conhecimento para capacitar mulheres em um campo liderado atualmente por homens.
+E também garantir que a elaboração de políticas que afetam o desenvolvimento tecnológico e dos direitos digitais sejam guiados pelo atual conhecimento tecnológico, e que o desenvolvimento tecnológico também seja orientado através de direitos humanos fundamentais. Fazendo com que ambos concentrem-se para promover e proteger direitos do indivíduo.Outro objetivo é compreender e usar códigos jurídicos e técnicos para a promoção e proteção dos direitos, que é uma tarefa multidisciplinar. Operando como um laboratório, utiliza-se de pesquisas aplicadas em Ciências Sociais e de Computação, criatividade artística, planejamento de comunicação e codificação como  ferramentas fundamentais para os projetos, que podem ser focados na produção de entregas como a investigação aplicada para as políticas públicas, capacitação, estratégias de advocacia, documentos políticos, oficinas, seminários, visualizações de dados, plataformas tecnológicas e de aplicações ou até mesmo obras de arte destinadas a promover e implementar estratégias de defesa.
+
+
+== Valores Fundamentais ==
+O Coding Rights tem como valores a acessibilidade, transparência, igualdade, privacidade e liberdade no acesso, pois defende que os usos das tecnologias na interação com os processos de governança estão no ponto central do desenvolvimento de uma rede direcionada as pessoas numa sociedade democrática. Os projetos são destinados a enfatizar esses valores, capacitando a sociedade civil, e em particular as mulheres de diferentes áreas em todo o mundo, para promover uma mudança no ambiente de tecnologias da informação e comunicação, que por enquanto é um ambiente liderado em sua maioria por homens.
+
+
+== Projetos ==
+
+
+=== Projetos Policy Hacking ===
+A proteção dos Direitos Humanos no mundo digital demanda conhecimento técnico e legal. Códigos e leis não são neutros. A afirmativa é que a sociedade precisa  de advogados e programadores que entendam códigos para saber como a política pode influenciar o ambiente dos códigos. Esta área é focada em pesquisa e advocacia informada por estes dois campos do conhecimento.
+
+Oficina Antivigilânciaeste projeto tem o objetivo de nutrir uma rede informativa de ameaças e oportunidades para a proteção dos direitos de privacidade na era digital através de workshops de segurança digitação, articulações com organizações regionais, nacionais e internacionais da sociedade civil, participação em debates públicos e a produção trimestral do Jornal Antivigilância, 
+
+Considerações dos Direitos Humanos para Padrões e Protocolos - IETFAperfeiçoamento de rascunhos de Internet e produção do curto documentário, Coding Rights, O documentário nasceu da necessidade de debater os rumos da web e garantir uma internet livre e que assegure os direitos dos cidadãos. Ambos com os objetivos de engajar a comunidade da Força-Tarefa de Engenharia da Internet a desenvolver metodologias de pesquisa para avaliar considerações de direitos humanos para os padrões e protocolos.
+
+Manda nudes! - Guia sexy para segurança digitalMostra que segurança digital pode ser uma coisa divertida. Com o objetivo de disseminar noções de segurança da informação para a usuária e o usuário médio de Internet, que utiliza meios digitais para se comunicar, mas que não estão necessariamente em sintonia com as especificidades do debate sobre privacidade online, O Coding Rights desenvolveu um guia bem diferente para abordar.
+
+WSIS+10Acontecimentos de encontros internacionais para engajar com os tomadores de decisão e representantes da sociedade civil para promoção dos direitos humanos no processo de revisão apra os 10 anos da Cúpula Mundial sobre a Sociedade da informação - WSIS+10
+
+Desafios do Big Data e novas tecnologias para os Direitos de PrivacidadeUma pequena ajuda para garantir o envolvimento com a Rede Internacional de Privacidade para a produção de notas sobre políticas afim de avaliar os desafios das tecnologias emergentes para a proteção e promoção dos direitos de privacidade, bem como para o engajamento no Periódico Universal de Revisão do Conselho dos Direitos Humanos para priorizar problemas de privacidade.
+
+Parceria para divulgação de Segurança em uma Caixa e Expondo o InvisívelDesenvolvido pelo Tactical Tech Collective, Segurança em uma Caixa(Security in a Box, no original) é um dos mais conhecidos e traduzidos guias para ferramentas de segurança digital, enquanto Expondo o Invisível(Exposing the Invisible, no original) é um projeto para discutir ferramentas para jornalismo investigativo. Esta ferramenta envolveu organizar eventos conjuntos, compartilhar metodologias e expandir redes para este tipo de treinamento.
+
+
+=== Projetos Visualizando Digital Rights ===
+Muitas vezes o resultado de um bom projeto de pesquisa e um monte de dados que já estão disponíveis publicamente é subutilizado devido a falta de sistematização e apresentação. Esta área do Coding Rights é focada em produzir visualizações de dados e histórias para ajudar no melhor entendimento do cenário político em que nós estamos.
+
+Desvendando Práticas de Vigilância na LatamReunindo informação para desenvolver visualizações de dados e outras ferramentas visuais, este projeto pretende realizar uma engenharia reversa das práticas de vigilância.
+
+NetGovMap - Visualizando o Campo de JogoVersão beta de uma visualização interativa dos processos de Governança da Internet que deve se desenvolver para servir como uma base de dados visual para habilitar políticos e ativistas a visualizar o todo do campo de jogo.
+
+Base de Dados Legal para Leis de Internet e Jurisdição no BrasilO objetivo da proposta desde projeto é construir um banco de dados de leis e rascunhos de leis para direitos digitais para permitir que advogados da sociedade civil respondam de maneira mais rápida e análises políticas para capturar o todo e fazer correlações.
+
+
+== Referências ==
+
+
+== Ligações externas ==
+Sítio oficial

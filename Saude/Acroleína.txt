@@ -1,0 +1,51 @@
+A acroleína também chamada de propenal, possui a fórmula química C3H4O. É um composto de aldeído etilênico obtido pela desidratação da glicerina por bactérias. Tem características líquidas possuindo odor e sabor amargo. Pode ser produzido no motor quando este utiliza como combustível o óleo vegetal cru. Industrialmente é produzido pela oxidação seletiva de propileno, usando catalisadores à base de bismuto-molibdato. A acroleína pode ainda ser oxidada para ácido acrílico utilizando catalisadores de óxido misto à base de molibdénio e vanádio. Estudos recentes têm mostrado que a adição de vapor na mistura de gás melhora significativamente o rendimento de ácido acrílico.Quando o glicerol (C3H8O3) é aquecido a 150 °C, ele se decompõe em acroleína.
+
+
+== Produção ==
+A acroleína é preparada industrialmente pela oxidação do propeno. O processo utiliza ar como fonte de oxigênio e requer óxidos metálicos como catalisadores heterogêneos.CH2CHCH3 + O2 + H2O → CH2CHCHO
+Cerca de 500.000 toneladas de acroleína são produzidas desta forma anualmente na América do Norte, Europa e Japão. Além disso, todo o ácido acrílico é produzido através da formação transiente da acroleína. O principal desafio é, de fato, a superoxidação da acroleína a COx competindo para a formação desse ácido. O propano representa uma matéria-prima promissora, mas um desafio para a síntese de acroleína (e ácido acrílico).
+Quando o glicerol (também chamado glicerina) é aquecido a 280 °C, decompõe-se em acroleína:
+(CH2OH)2CHOH → CH2 = CHCHO + 2H2O
+Essa forma é interessante quando o glicerol é co-gerado pela produção de biodiesel a partir de óleos vegetais ou de gorduras animais. A desidratação do glicerol foi demonstrado, mas não provou ser competitiva com a rota de petroquímicos.
+
+
+=== Nicho ou Métodos de Laboratório ===
+A rota industrial original para a acroleína, desenvolvido pela Degussa, envolve a condensação de formaldeído e acetaldeído:
+
+HCHO + CH3CHO → CH2=CHCHO + H2OAcroleína pode também ser produzida em escala laboratorial por meio da reação de bissulfato de potássio em glicerol (glicerina).
+
+
+== Reações ==
+A acroleína é um composto relativamente eletrofílico e reativo, fatores que resultam em sua elevada toxicidade. É um bom aceptor de Michael, o que permite sua reação com tióis. Ela forma acetais, como o derivado do pentaeritritol, o dialil pentanotriol. A acroleína participa em muitas reações de Diels-Alder, um precursor para alguns perfumes comerciais.
+
+
+== Usos ==
+
+
+=== Biocida ===
+A acroleína é utilizada principalmente como um herbicida de contato para controlar ervas daninhas submersas e flutuantes, bem como algas em canais de irrigação. Ela é usada a um nível de 10 p.p.m. em águas de irrigação e de recirculação. Na indústria do petróleo e de gás, é utilizada como um biocida na perfuração de águas, bem como um agente de limpeza para sulfeto de hidrogênio e mercaptanas.
+
+
+=== Precursor químico ===
+Muitos compostos úteis são feitos a partir de acroleína, explorando assim sua bifuncionalidade. A metionina, um aminoácido, é produzida por adição de metanotiol seguido pela síntese de Strecker. A acroleína condensa com acetaldeídos e aminas para formar piridinas metílicas. Ela também é planejada para ser um intermediário na síntese Skraup de quinolinas, mas raramente é usada como tal, devido à sua instabilidade.
+A acroleína pode polimerizar na presença de oxigênio e de água a concentrações superiores a 22%. A cor e textura do polímero depende das condições. Com o tempo, ele irá polimerizar com si próprio para formar um sólido amarelo claro. Em água, formará um plástico duro e poroso.
+As vezes, é usada como um fixador para a preparação de espécimes biológicas para microscopia de elétrons.
+
+
+== Riscos para a saúde ==
+A acroleína é tóxica e é fortemente irritante para a pele, os olhos e para as vias aéreas. A via metabólica principal para a acroleína é a alquilação de glutationa. A Organização Mundial de Saúde (OMS) sugere uma "dose oral de acroleína tolerável" de 7,5 ug/dia por quilograma de peso corporal. Embora a acroleína esteja presente em batatas fritas, os níveis são apenas alguns microgramas por quilograma. Em resposta à exposição ocupacional a acroleína, o Ocupacional Safety and Health Administration dos EUA estabeleceu um limite permitido a 0,1 ppm (0,25 mg/m3) a uma média ponderada no tempo de oito horas.
+
+
+=== Fumaça do cigarro ===
+Existem conexões entre a acroleína gasosa no fumo dos cigarros de tabaco e o risco de câncer de pulmão.  Em termos de "quociente de saúde não carcinogênico" para componentes na fumaça do cigarro, a acroleína domina contribuindo 40 vezes mais do que o próximo componente, cianeto de hidrogênio. O teor de acroleína do fumo do cigarro depende do tipo de cigarro e adicionou glicerina perfazendo até 220 ug de acroleína por cigarro. Importante, ao passo que a concentração dos constituintes de fumo da corrente principal pode ser reduzido por filtros, este não tem efeito significativo sobre a composição do fumo de corrente secundária onde acroleína normalmente reside, e que é inalada pelo fumo passivo. Cigarros eletrônicos geram apenas níveis negligenciáveis de acroleína (inferior a 10 mcg "por sopro").
+
+
+=== Quimioterapia metabólica ===
+Tratamentos quimioterápicos com ciclofosfamida e ifosfamida resultam na produção de acroleína. A acroleína produzida durante o tratamento com ciclofosfamida é retida na bexiga urinária e se não for tratada pode causar cistite hemorrágica. 
+
+
+== Métodos analíticos ==
+O "teste de acroleína" é para a presença de glicerina ou gorduras. Uma amostra é aquecida, com bissulfato de potássio, e a acroleína é libertada se o teste é positivo. Quando uma gordura é aquecida na presença de um agente de desidratação, tal como bissulfato de potássio (KHSO4), a porção glicerol com da gordura da molécula é desidratada para formar o aldeído a acroleína, que tem o odor peculiar a queimado gordura de cozinha. Existem outros métodos mais modernos.
+
+
+== Referências ==

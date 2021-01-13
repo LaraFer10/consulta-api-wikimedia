@@ -1,0 +1,41 @@
+A arginase (EC 3.5.3.1) é uma enzima que catalisa a hidrólise da l-arginina em l-ornitina e uréia [1]. Está presente nos mais diversos organismos vivos, como bactéria, fungos, plantas, invertebrados e vertebrados. A maioria, invertebrados, plantas, bactérias e leveduras, têm apenas uma forma de arginase que está localizado em mitocôndrias. Vertebrados e outros animais que metabolizam o excesso de nitrogênio como uréia expressam uma segunda isoforma citosólica. Essas isoformas são denominadas arginase tipo 1 e arginase tipo 2 [2]. A arginase tipo 1, tem um pI alto, está localizado no citosol, é mais abundante no fígado, e é o principal responsável pela destoxificação da amônia como uréia. O gene que codifica esta isoenzima está mutado na hiperargininemia humana. A segunda isoenzima, tem um pI neutro, está localizada na matriz mitocondrial e está envolvida principalmente na produção de ornitina como um precursor de prolina e glutamato. Parece ser expressa na maioria, mas não em todos os tecidos e em quantidades quase iguais. As duas isoenzimas são imunologicamente distintas e são codificadas por dois genes separados. A grande semelhança em todas as propriedades cinéticas e algumas propriedades físico-químicas medidas implica um alto grau de similaridade estrutural no sítio ativo, mas a falta de reatividade cruzada imunológica e hibridação cruzada de DNA implica diferenças substanciais de composição em outras partes das moléculas de enzima [3].
+
+
+== Estrutura e função ==
+A arginase é uma metaloenzima com um centro de manganês binuclear responsável pela ativação de uma molécula de água que é usada para atacar o substrato de l-arginina. Esses dois átomos de manganês são essenciais para a atividade enzimática, uma vez que a dissociação reversível de um deles gera uma enzima com metade de sua atividade catalítica. A enzima ativa requer que o centro de manganês binuclear para formar uma ponte de metal para atividade enzimática máxima [4-8]. Esta especificidade ocorre devido ao elevado número de ligações de hidrogénio entre substrato e enzima. A N-hidroxi-L-arginina (NOHA), um intermediário da biossíntese de NO, é um inibidor moderado da arginase. A estrutura cristalina do seu complexo com a enzima revela que desloca o íon de hidróxido de ligação de metal e faz a ponte do agrupamento binuclear de manganês[9].
+Essa enzima apresenta um importante papel biológico no do ciclo da uréia e na biossíntese da arginina (Figura 1). Usando a l-arginina como substrato, a argininase catalisa uma reação de hidrólise, gerando como produto a l-ornitina e uréia. A l-ornitina, por sua vez, pode servir como precursora da biossíntese de poliaminas, tendo um papel fundamental para diversos eventos celulares. A arginase ainda pode competir com o óxido nítrico sintase (NOS II) pelo mesmo substrato. Dessa maneira, a arginina ainda pode participar de uma via metabólica alternativa pela ação da NOS II gerando metabólitos extremamente reativos que podem causar danos em lipídeos, proteínas e DNA (Figura 2 [10].
+
+
+== Ensaio enzimático ==
+Uma das maneiras mais comuns de se avaliar a atividade enzimática da arginase é através da quantificação de uréia decorrente da hidrólise da l-arginina. Utilizando um espectrofotômetro é possível observar a formação de uréia no comprimento de onda de 540nm [11].
+
+
+== Purificação da arginase ==
+Para a purificação da arginase utilizam-se vários passos que podem variar de acordo com a espécie estudada. Para a purificação da arginase de fígado humano e eritrócitos as etapas incluem a precipitação com acetona e sulfato de amônia. Em seguida, as frações são submetidas à cromatografia de troca iônica usando DEAE-celulose. Em sua última etapa, é realizada a filtração em gel [12].
+
+
+== Efeito do pH na Arginase ==
+O pH ótimo da arginase de granulócitos e linfócitos de humanos foi estimado por Reyero e colaboradores após avaliar a atividade dessa enzima em diferentes valores de pH. Eles observaram que o valor de pH ótimo para ambas as células foi de 8,5. Nesse valor de pH, os valores de Km foi de 3,1mM e 2,7mM para a arginase de granulócitos e de linfócitos, respectivamente [13].
+
+
+== Inibidores e importância clínica ==
+O estudo de inibidores enzimáticos pode levar ao desenvolvimento racional de novos fármacos que venham desempenhar um papel terapêutico para diversas doenças. Um aumento da expressão da arginase pode desencadear alguns problemas fisiológicos, levando, por exemplo, para um caso de doença falciforme. Nesse caso, a hemólise crônica de hemácias falciformes libera hemoglobina livre e arginase, enzima que utiliza o substrato usado para a produção de NO. A depleção de substrato e o sequestro de NO causam redução local desta substância e vasoconstrição. O fenômeno de vasoconstrição, por sua vez, retarda o fluxo sangüíneo e favorece a falcização das hemácias falciformes. Além de produzir NO, as células endoteliais liberam endotelina-1, um peptídeo pró-inflamatório e potente vaso-constritor de grandes e pequenas artérias e veias [14,15].
+Nesse contexto, Iyamu e colaboradores sugeriram que o uso da cloroquina poderia se ligar ao sítio ativo da arginase e inibir competitivamente a sua atividade. Em seus experimentos eles realizaram um ensaio no qual foi possível avaliar a atividade da arginase de eritrócitos falciformes na ausência e na presença da cloroquina. O inibidor demonstrou valores de Ki de 23µM e 41µM para valores de pH de 6,8 e 7,4, respectivamente. Eles também definiram valores de Km e Vmax nas diferentes condições de pH, apresentando Km (mmol/l) de 2,08 e 1,81 e Vmax (mmol/l) de 650 e 560 para valores de pH de 6,8 e 7,4 [14].
+
+
+== Referências ==
+1.       http://www.chem.qmul.ac.uk/iubmb/enzyme/EC3/5/3/1.html;
+2.       Ruth B. Caldwell, Haroldo A. Toque, S. Priya Narayanan, R. William Caldwell. Arginase: an old enzyme with new tricks. Trends Pharmacol Sci. 2015; 36(6). 395 – 405.
+3.       Grody WW, Dizikes GJ, Cederbaum SD. Human arginase isozymes. Isozymes Curr Top Biol Med Res. 1987; 13. 181 – 214;
+4.       Reczkowski RS, Ash DE. EPR evidence for binuclear manganese(II) centers in rat liver arginase. J Am Chem Soc. 1992; 114 (27). 10992 – 4;
+5.       Kanyo ZF, Scolnick LR, Ash DE, et al. Structure of a unique binuclear manganese cluster in arginase. Nature, 1996; 383. 554 – 7;
+6.       Pace CN, Buonanno A, Simmons-Hansen J. Steady-state kinetic studies of arginase with an improved direct spectrophotometric assay. Anal Biochem, 1980; 109. 261–5;
+7.       Scolnick LR, Kanyo ZF, Cavalli RC, et al. Altering the binuclear manganese cluster of arginase diminishes thermostability and catalytic function. Biochemistry, 1997; 36. 10558–65;
+8.       Greenberg DM. Enzymes of protein metabolism: arginase. Methods Enzymol, 1955; 2. 368–74;
+9.       Reczkowski RS, Ash DE. Rat liver arginase: kinetic mechanism, alternate substrates, and inhibitors. Archives of Biochemistry and Biophysics. 1994; 312(1). 31–7;
+10.   Bronte V, Zanovello P. Regulation of immune responses by L-arginine metabolism. Nat Rev Immunol, 2005; 5(8). 641-54;
+11.  Corraliza IM, Campo ML, Soler G, Modolell M. Determination of arginase activity in macrophages: a micromethod. J Immunol Methods. 1994; 174(1-2). 231 – 5.
+12.   Berüter J, Colombo JP, Bachmann C. Purification and properties of arginase from human liver and erythrocytes. Biochem J. 1978; 175(2). 449-54;
+13.  Reyero C, Dorner F. Purification of arginases from human-leukemic lymphocytes and granulocytes: study of their physicochemical and kinetic properties. Eur. J. Biochem. 1975; 56. 137-147;
+14.   Iyamu EW, Ekekezie C, Woods GM. In vitro evidence of the inhibitory capacity of chloroquine on arginase activity in sickle erythrocytes. Br J Haematol. 2007; 139(2). 337 – 43;
+15.  Zago MA, Silva-Pinto AC. The pathophysiology of sickle cell disease: from the genetic mutation to multiorgan disfunction. Rev. Bras. Hematol. Hemoter. 2007; 29(3). 207 – 214.

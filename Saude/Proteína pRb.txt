@@ -1,0 +1,25 @@
+A Proteína Rb (pRb) é uma molécula que funciona como reguladora universal do ciclo de divisão celular, sendo normalmente expressa em praticamente todas as células do organismo. Ela controla um ponto-chave no qual as células decidem entrar no ciclo celular e replicar seu DNA, sendo codificada pelo gene Rb. 
+
+
+== Funcionamento da pRb ==
+            A pRb funciona como um freio que restringe a entrada da célula na fase S, da intérfase, por ligar-se e inibir as proteínas reguladoras de genes da família E2F – necessárias para transcrever genes que codificam proteínas que ativam a fase S. Normalmente, essa inibição por pRb é liberada no tempo apropriado por meio de fosforilação da pRb por várias Cinases Dependentes de Ciclina (Cdks), que fazem com que a pRb libere seu domínio inibidor na proteína E2F(1).
+            Pode-se compreender seu funcionamento por meio da figura 1, que mostra os passos que levam à ativação da síntese de DNA desde o recebimento de um mitógeno – sinal externo indicativo à célula que ela deve duplicar o material genético – por um receptor da membrana celular até a ativação da síntese de DNA no núcleo.
+
+Pela análise da figura 1, percebe-se que a pRb, em condições normais, está ativada e inibindo a síntese de DNA; e que, estando o complexo G1-CdK ativo (observe-se o quadro destacado em vermelho), ocorre fosforilação da pRb e, por conseguinte, sua inativação. Desse modo, o circuito que leva à síntese de DNA passa a ficar desbloqueado, liberando a continuação do ciclo celular. (1)            Nota-se na figura 1 a ocorrência de três retroalimentações positivas relacionadas ao pRb, que amplificam o sinal inicial que leva à síntese de DNA: a ativação da proteína E2F leva à ativação de outras proteínas E2F; e a ativação das ciclinas G1/S, S-ciclina e G1/CDK induz à fosforilação (e consequente inativação) de outras proteínas pRb.          
+
+
+== pRb e o câncer ==
+            Dado que a pRb é um dos principais interruptores do progresso da divisão celular, sua perda pode possibilitar que as células entrem inapropriadamente em ciclos de divisão celular(1) – eventualmente levando à ocorrência de câncer.
+            O gene Rb, que é considerado um gene supressor de tumor, foi descoberto por meio dos estudos de um câncer raro, o retinoblastoma, que surge de células da retina que são convertidas ao estado canceroso por um pequeno número de mutações. Esse câncer, que originou o nome Rb, ocorre na infância, afetando 1 a cada 20 mil crianças, e se desenvolve a partir de células precursoras neurais presentes na retina imatura(1).
+            Esse gene é disfuncional em vários tipos de câncer bastante comuns, incluindo os carcinomas de pulmão, de mama e de bexiga. Entretanto, essas enfermidades são produzidas por uma série de mudanças genéticas muito mais complexas do que aquelas do retinoblastoma, aparecendo em fases mais tardias da vida e em outros tecidos corporais. Parece, no entanto, que em todos eles a perda do Rb frequentemente é a principal etapa que leva à malignidade – estado em que as células cancerosas migram e invadem outros tecidos do organismo, caracterizando a metástase(1).
+
+
+== Localização do gene Rb em humanos ==
+O gene Rb1, que codifica a proteína pRb, localiza-se no cromossomo 13 - mais especificamente, no local 13q14.1-q14.2. Se ambos os alelos deste gene são mutados no início da vida, a proteína é inativada e resulta em desenvolvimento de câncer de retinoblastoma. (1)
+
+
+== Mutações e disfunções da Rb ==
+A perda completa da pRb não causa imediatamente o aumento da proliferação de células da retina ou de outros tipos celulares – em parte porque a Cdhl e as CKIs também ajudam a inibir a progressão para a fase G1 e em parte porque outros tipos celulares contêm proteínas relacionadas à Rb que funcionam como uma cópia de segurança na ausência da Rb. É igualmente provável que outras proteínas, não relacionadas à Rb, ajudem a regular a atividade de E2F. (1)
+
+
+== Referência ==

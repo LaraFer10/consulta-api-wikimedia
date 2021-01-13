@@ -1,0 +1,51 @@
+O Reator em Batelada Sequencial (RBS)é um sistema de tratamento de águas residuárias que utiliza ciclos de enchimento e esvaziamento de efluente a tanques de lodos ativados, onde o esgoto é adicionado a um reator de batelada única, tratado e depois descartado . Nesse tipo de sistema, os processos de oxidação biológica e decantação secundária ocorrem no mesmo reator, através do crescimento biológico em suspensão, onde todos os processos metabólicos e a separação líquido-sólido ocorrem no mesmo tanque, em intervalos sequenciais, contínuos e bem definidos. O sistema não dispõe de um mecanismo de circulação da massa biológica -- esta fica retida no reator, dispensando, portanto, o uso de decantadores, separadores e estações elevatórias para a recirculação do lodo. O RBS pode ser utilizado para o tratamento de águas de origem doméstica e industrial, e também pode receber efluentes de tratamentos anaeróbios, sendo adequado para fluxos baixos e intermitentes.
+
+
+== Estrutura ==
+O sistema de Lodos Ativados em Batelada Sequencial foi aprimorado nas últimas décadas do século XX, através da busca por tecnologias com menor demanda de área e maior eficiência para o tratamento de águas residuárias. As etapas de operação do RBS são: 
+
+Enchimento (entrada do efluente bruto, decantado ou pré-tratado);
+Reação (oxidação da matéria orgânica);
+Sedimentação (separação da massa biológica do efluente tratado);
+Descarte do efluente tratado;
+Repouso.A duração de cada fase pode ser ajustada para diferentes objetivos de tratamento e esses períodos podem ser manipulados para atender a exigências de remoção biológica de nutrientes, alternando entre períodos aeróbios e anóxicos no ciclo de operação (Singh e Srivastava, 2011).
+
+
+== Características ==
+O tratamento de águas servidas em reator em batelada sequencial (RBS) tem despertado interesse recentemente, pois este pode ocupar áreas pequenas, redução de custos em relação aos processos contínuos e possibilidade de remoção da matéria orgânica junto a remoção de nutrientes (nitrogênio e fósforo).
+A característica fundamental dos processos descontínuos como o reator RBS é a magnitude da flexibilidade do processo, que é função da habilidade para simplificar o ajuste do tempo dos ciclos operacionais nos casos de variações de carga.
+Alguns autores assumem que o RBS é capaz de adaptar sistemas contínuos em sistemas descontínuos gerando como consequência o ganho da eficiência e economia de energia. Von Sperling define o processo RBS como um reator de mistura completa onde ocorrem todas as etapas do tratamento.
+
+
+=== Vantagens do Modelo ===
+As vantagens em relação aos métodos convencionais de lodos ativados são:
+
+Forma simplificada de construção;
+Facilidade de colocação de equipamentos com instalações tecnicamente simples;
+Grande flexibilização, no que diz respeito à variação das cargas e vazões;
+Funcionamento relativamente simplificado; e boa decantabilidade do lodo.No decorrer dos anos algumas modificações vêm sendo estudadas para diminuir as desvantagens, são elas:
+
+Necessidade de automação;
+Descarte de efluentes de forma pontual (choque de carga para o corpo receptor).
+
+
+=== Ciclo RBS ===
+O sistema funciona através do estabelecimento de ciclos de operação com durações definidas. A massa biológica permanece no reator durante todos os ciclos, eliminando dessa forma a necessidade de decantadores separados e das elevatórias de recirculação do lodo. Este ciclo pode ser descrito por:
+
+Enchimento: entrada de esgoto bruto ou decantado no reator;
+Reação: aeração/mistura da massa líquida contida no reator;
+Decantação: decantação e separação dos sólidos em suspensão do esgoto tratado;
+Descarga ou esvaziamento: retirada do esgoto tratado do reator;
+Repouso: ajuste de ciclos e remoção do lodo excedente.O tempo de permanência da biomassa no sistema é chamado de Idade do Lodo. A idade do lodo estabelecida é importante para o processo pois o fósforo removido do meio líquido fica praticamente todo agregado no lodo, portanto, é necessário remover o lodo excedente de forma regular.
+
+
+== Ver Também ==
+Estação de Tratamento de Águas Residuais
+Lodo Ativado
+Esgoto
+Água
+Engenharia Ambiental
+Saneamento Básico
+
+
+== Referências ==

@@ -1,0 +1,509 @@
+Lodo ativado é o lodo resultante de um processo de tratamento de esgoto destinado à destruição de poluentes orgânicos biodegradáveis presentes em águas residuárias, efluentes e esgotos. O processo se baseia na oxidação da matéria orgânica, por bactérias aeróbias, controlada pelo excesso de oxigênio em tanques de aeração e posteriormente direcionado aos decantadores. O lodo decantado nos decantadores retorna ao tanque de aeração como forma de reativação da população de bactérias no tanque de aeração. Este retorno se dá na entrada do tanque onde o lodo em fase endógena se mistura ao efluente rico em poluente, aumentando assim a eficiência do processo.
+É fundamental que a água a ser tratada não possua outros componentes que prejudiquem a vida das bactérias presentes no lodo. As condições adequadas para o tratamento, tais como a concentração de oxigênio dissolvido, pH e a velocidade da água são essenciais ao perfeito funcionamento desse processo.
+
+
+== Tratamento de Águas Residuárias através de Lodo Ativado ==
+O sistema de lodo ativado é um processo biológico de tratamento de efluentes, que consiste na formação de uma massa biológica, o lodo, através de um tanque de aeração, que consiste em fornecer oxigênio para os microorganismos, além de proporcionar a completa mistura do lodo com o efluente.
+A matéria orgânica presente no efluente é convertida então em massa biológica, através do processo de assimilação, e também em Dióxido de carbono(
+  
+    
+      
+        
+          
+            CO
+            
+              2
+            
+            
+              
+            
+          
+        
+      
+    
+    {\displaystyle {\ce {CO2}}}
+  ) e água (
+  
+    
+      
+        
+          
+            H
+            
+              2
+            
+            
+              
+            
+          
+          O
+        
+      
+    
+    {\displaystyle {\ce {H2O}}}
+  ) através do catabolismo. A biomassa é separada do efluente tratado através da decantação, e o resultado final consiste num efluente clarificado e de boa qualidade .
+
+
+=== Descrição do Processo ===
+Para o completo processo do sistema de lodos ativados são necessárias algumas unidades:
+
+Tanque de aeração ou reator biológico: parte do processo responsável pelo fornecimento de oxigênio, assim como para a mistura entre o efluente a ser tratado e a massa de microorganismos existentes. É neste reator que também ocorre os processos de biodegradação.
+Decantador: o decantador, também chamado de tanque de decantação ou decantador secundário, consiste em um tanque onde a massa biológica existente será sedimentada no fundo do decantador, clarificando assim o efluente.
+Recirculação e/ou descarte do lodo: o lodo em excesso é descartado do sistema, porém parte do lodo retorna para o reator biológico, a fim de manter alta a idade do lodo, e promover uma melhor biodegradação.Alguns parâmetros são essenciais para manter o sistema em funcionamento adequado
+
+
+=== Tempo de detenção hidráulica (TDH) e Tempo de Residência celular (IL) ===
+Num sistema com recirculação de sólidos, como o de lodos ativados, os sólidos são separados e concentrados no decantador secundário, retornando posteriormente ao reator. O líquido, por outro lado, apesar da recirculação não sofre variação quantitativa, a menos da retirada da vazão do lodo excedente a qual pode ser considerada desprezível para fins de cálculo. Portanto, o que se retém no sistema, são apenas os sólidos, devido a separação e adensamento. Assim, os sólidos permanecem mais tempo no sistema do que os líquidos, o que gera a caracterização dos conceitos de tempo de residência celular e tempo de detenção hidráulica. 
+O Tempo de Detenção Hidráulica é definido como o tempo de permanência do efluente em uma dada unidade ou sistema e expressa a relação entre o volume do reator e a vazão do afluente. Seu cálculo é dado por:
+
+  
+    
+      
+        T
+        d
+        =
+      
+    
+    {\displaystyle Td=}
+  
+  
+    
+      
+        
+          V
+          o
+          l
+          u
+          m
+          e
+           
+          d
+          o
+           
+          r
+          e
+          a
+          t
+          o
+          r
+           
+          (
+          
+            m
+            
+              3
+            
+          
+          )
+        
+        
+          v
+          a
+          z
+          a
+          o
+           
+          m
+          e
+          d
+          i
+          a
+           
+          d
+          i
+          a
+          r
+          i
+          a
+          (
+          
+            m
+            
+              3
+            
+          
+          
+            /
+          
+          d
+          i
+          a
+          )
+        
+      
+    
+    {\displaystyle Volume\ do\ reator\ (m^{3}) \over vazao\ media\ diaria(m^{3}/dia)}
+  
+  
+    
+      
+        =
+        d
+        i
+        a
+      
+    
+    {\displaystyle =dia}
+  
+O tempo médio de residência celular θᴄ (ou idade do lodo), é dado por:
+
+  
+    
+      
+        θ
+        c
+        =
+      
+    
+    {\displaystyle \theta c=}
+  
+  
+    
+      
+        
+           
+          m
+          a
+          s
+          s
+          a
+           
+          d
+          e
+           
+          s
+          o
+          l
+          i
+          d
+          o
+          s
+           
+          n
+          o
+           
+          s
+          i
+          s
+          t
+          e
+          m
+          a
+        
+        
+          m
+          a
+          s
+          s
+          a
+           
+          d
+          e
+           
+          s
+          o
+          l
+          i
+          d
+          o
+          s
+           
+          r
+          e
+          t
+          i
+          r
+          a
+          d
+          a
+           
+          d
+          o
+           
+          s
+          i
+          s
+          t
+          e
+          m
+          a
+           
+          p
+          o
+          r
+           
+          u
+          n
+          i
+          d
+          a
+          d
+          e
+           
+          d
+          e
+           
+          t
+          e
+          m
+          p
+          o
+        
+      
+    
+    {\displaystyle \ massa\ de\ solidos\ no\ sistema \over massa\ de\ solidos\ retirada\ do\ sistema\ por\ unidade\ de\ tempo}
+  
+
+
+=== Sólidos em Suspensão no Tanque de Aeração (SSTA ou Xv) ===
+Para obter-se a concentração de SSV no tanque de aeração (SSVTA) de um sistema com recirculação, temos a seguinte equação:
+
+  
+    
+      
+        
+          X
+          
+            v
+          
+        
+        =
+      
+    
+    {\displaystyle X_{v}=}
+  
+  
+    
+      
+        
+          Y
+          .
+          (
+          
+            S
+            
+              0
+            
+          
+          −
+          S
+          )
+        
+        
+          1
+          +
+          K
+          d
+          .
+          f
+          b
+          .
+          t
+        
+      
+    
+    {\displaystyle Y.(S_{0}-S) \over 1+Kd.fb.t}
+  
+  
+    
+      
+        ×
+        
+          
+            
+              θ
+              c
+            
+            t
+          
+        
+      
+    
+    {\displaystyle \times {\frac {\theta c}{t}}}
+  
+Esta equação é importante na estimativa da concentração de SSV em um determinado sistema, uma vez conhecidos ou estimados os demais parâmetros.
+Num sistema sem recirculação, visto que c = t, a equação fica:
+
+  
+    
+      
+        
+          X
+          
+            v
+          
+        
+        =
+        
+          
+            
+              Y
+              −
+              (
+              
+                S
+                
+                  0
+                
+              
+              −
+              S
+              )
+            
+            
+              1
+              +
+              K
+              d
+              .
+              f
+              b
+              .
+              t
+            
+          
+        
+      
+    
+    {\displaystyle X_{v}={\frac {Y-(S_{0}-S)}{1+Kd.fb.t}}}
+  
+Os valores típicos de Xᵥ num sistema de lodos ativados são:
+
+Lodos ativados convencional = 1.500 a 3.500 mgSSV/LAeração prolongada = 2.500 a 4.000 mgSSV/LA concentração máxima de SSTA (sólidos em suspensão totais) no reator e geralmente limitada a 4.500-5.000 mg/l. Sistemas de aeração prolongada tendem a ter uma concentração de SSTA maiores do que em sistemas de lodos ativados convencionais. Quanto maior a concentração de SS (ou SSV) no reator, maior a disponibilidade de biomassa para assimilar o substrato afluente, resultando na necessidade de menores volumes do reator.
+
+
+=== Relação Alimento / Microrganismo (A/M) ===
+Uma relação amplamente utilizada na hora de projetar uma estação de tratamento e a carga de lodo ou relação Alimento/Microrganismo. Essa relação baseia-se na quantidade de alimento por unidade de massa dos microrganismos que se relaciona com a eficiência do sistema. Pode-se entender que, quanto maior a carga de DBO fornecida a um valor unitário de biomassa (Alto A/M), menor será a eficiência na assimilação desse substrato mas, por outro lado, menor será também o volume requerido para o reator. Inversamente, quanto menos DBO for fornecida as bactérias (Baixo A/M), maior será a avidez pelo alimento, implicando numa maior eficiência na remoção da DBO, requerendo também um maior volume para o reator. Em uma situação em que a quantidade de alimento fornecida e muito baixa, prevalece o mecanismo de respiração endógena, característico de sistemas de aeração prolongada.
+Sendo assim, a carga de alimentos fornecida é dada por:
+
+  
+    
+      
+        A
+        =
+        Q
+        .
+        
+          S
+          
+            0
+          
+        
+      
+    
+    {\displaystyle A=Q.S_{0}}
+  
+
+Q = vazão (m³/d)S₀ = concentração de DBO₅ do afluente (g/m³)E a massa de microrganismos e calculada como:
+
+  
+    
+      
+        M
+        =
+        V
+        .
+        
+          X
+          
+            v
+          
+        
+      
+    
+    {\displaystyle M=V.X_{v}}
+  
+
+V = Volume do reator (m³)Xᵥ = concentração de sólidos em suspensão voláteis (g/m³)Dadas as equações, a relação A/M pode ser expressa como:
+
+  
+    
+      
+        
+          
+            A
+            M
+          
+        
+        =
+        
+          
+            
+              Q
+              ×
+              
+                S
+                
+                  0
+                
+              
+            
+            
+              V
+              ×
+              
+                X
+                
+                  v
+                
+              
+            
+          
+        
+      
+    
+    {\displaystyle {\frac {A}{M}}={\frac {Q\times S_{0}}{V\times X_{v}}}}
+  
+Muitas vezes, a relação A/M e expressa em termos de sólidos em suspensão totais (SST), ao invés de SSV. Há uma relação entre SSV e SS a qual é função da idade do lodo. Elevadas idades do lodo implicam em maiores remoções da fração orgânica, representada pelos sólidos em suspensão voláteis, fazendo com que seja menor a relação SSV/SS.
+
+
+== Descrição de biorreator, clarificação, produção do lodo, processo e controle ==
+
+
+=== Biorreator ===
+Nas ETEs (Estações de Tratamento de Esgoto) que fazem uso de processos biológicos, “os microrganismos são confinados para efetuar a degradação da matéria orgânica em unidades concebidas especificamente para esse fim”. Tais unidades são chamadas de reatores biológicos ou biorreatores, estruturas projetadas para a otimização dos processos e minimização de custos, com o objetivo de se obter a “maior eficiência possível, respeitando-se as restrições impostas para proteção do corpo receptor e as limitações de recursos disponíveis”. Neste sentido, argumenta-se que “a degradação ocorre de forma mais controlada e mais rápida que a observada em ambiente natural, nos corpos receptores” .
+
+
+=== Clarificação ===
+De forma geral, a clarificação objetiva a redução de particulados, resguardando o processo de purificação, como também a coleta diária de litros de efluente tratado por meio da separação deste do lodo biológico. No caso do estudo proposto por Cardero et al. (2015), por meio do qual foram avaliadas alternativas de filtros para clarificação da colheita do biorreator no processo produtivo da eritropoietina humana recombinante (EPOhr), a clarificação é feita mediante filtros de profundidade, seguida por filtração de membrana para controle da carga microbiológica. Não obstante, no estudo em questão, destaca-se que a avaliação do grau de clarificação feita pela análise da turbidez e distribuição de partículas no efluente tratado, e também pela adsorção do produto de interesse às membranas.
+
+
+=== Produção do lodo ===
+Em suma, tem-se que a produção do lodo ocorre no biorreator, sendo que a biomassa constituinte pode ser retirada ou recirculada de acordo com a necessidade do sistema. Dentre os processos biológicos aeróbios, segundo Mendonça (2002), “o sistema de lodos ativados é o mais utilizado no tratamento de águas residuárias, sendo a alternativa empregada em mais de 90% das ETEs de médio e grande portes, nos países desenvolvidos”. Porém, em processos aeróbios, “ocorre formação de cerca de 0,4 a 0,7 kg de lodo seco para cada kg de DBO removida, enquanto que, em processos anaeróbios, há formação de 0,02 a 0,20 kg de lodo seco, aproximadamente, para cada kg de DBO removida”.
+Além disso, é importante ressaltar que, quanto maior for a produção de biomassa (lodo), maiores serão os custos e as dificuldades das etapas de tratamento, transporte e disposição deste subproduto do tratamento de esgoto. Desta forma, uma das vantagens do processo por vias anaeróbias se deve à pequena produção de lodo, quando comparado ao processo por vias aeróbias.
+
+
+=== Controle da produção de lodo ===
+De modo geral, o controle da produção de lodo se refere-se à parte de regular a idade do lodo e a sua taxa de recirculação, assim como o TDH. Ainda de acordo com Mendonça (2002), o sistema de lodos ativados “se baseia em processo biológico aeróbio e fundamenta-se no princípio de que se tem de evitar a fuga descontrolada de bactérias ativas (lodo ativo) produzidas no sistema e que, portanto, deve-se recirculá-las de modo a se manter a maior concentração possível de microrganismos ativos no reator aerado, a fim de acelerar a remoção do material orgânico das águas residuárias”.
+Mais detalhadamente, tais microrganismos se agregam em “flocos que podem ser removidos por sedimentação em decantador secundário (ou flotador por ar dissolvido)”. Em suma, tem-se que “parte do lodo é recirculada ao reator aeróbio e parte é descartada para tratamento”.
+
+
+=== Tipos de reatores existentes ===
+O fluxo nos reatores podem se dar de forma contínua ou por batelada. O reator de fluxo contínuo apresenta entrada e saída do efluente continuamente, neste tipo de reator há a necessidade de um decantador secundário para a separação do lodo e do efluente tratado. Diferentemente do reator de fluxo contínuo, o reator em batelada ou de fluxo intermitente realiza todo o processo em um mesmo tanque, desde a entrada, aeração e decantação, geralmente é realizado em dois reatores em paralelo, permitindo assim que sempre haja um tanque disponível para o recebimento do efluente.
+Com relação aos reatores com configurações recentes, Mendonça (2002) argumenta que se destacam “os de leito expandido e fluidificado, que propiciam condições para que os microrganismos fiquem aderidos em meios suportes móveis”. Mais especificamente, o reator de leito expandido consiste em “um reator vertical com fluxo ascendente da massa líquida que promove a suspensão das partículas componentes do leito, as quais servem de suporte para os consórcios microbianos que realizam a degradação do substrato afluente”. No que se refere aos benefícios trazidos pela expansão do leito, tem-se a redução ou eliminação de problemas de entupimento, o aumento substancial da retenção da biomassa e seu contato com o substrato, o que permite, consequentemente, reduções expressivas do TDH nos reatores.
+Há ainda os biorreatores com membranas, também chamados de MBRs, que combinam o processo biológico com a filtração por membranas. As membranas tem como função separar a biomassa do efluente tratado, não necessitando assim a etapa de decantação, garantindo também um efluente de qualidade superior, uma vez que proporcionam a total separação do efluente da biomassa. As membranas podem estar tanto submersas no tanque de aeração como externas.
+
+
+== Tipos de aeração ==
+
+
+=== Aeração mecânica ou superficial ===
+A aeração mecânica é feita por meio de agitadores, geralmente localizados na superfície do tanque, que promovem o contato do efluente com o ar atmosférico, introduzindo assim o oxigênio no sistema. Os aeradores mecânicos podem variar em características como: orientação do eixo de rotação (vertical ou horizontal); velocidade de rotação (baixa ou alta); fixação (fixos ou flutuantes) . Além disso, apesar da maioria dos aeradores mecânicos serem superficiais, há também modelos que atuam submersos.
+Este tipo de sistema tende a gerar uma grande quantidade de aerossóis devido ao choque das hélices com o fluido. Além disso, os choques interferem na formação de flocos, o que pode provocar maior tempo de decantação no reator. Por outro lado, seu custo de instalação é inferior a um sistema por ar difuso.
+
+
+=== Aeração por ar difuso ===
+Os sistemas de aeração por ar difusos são compostos por tubulações instaladas no fundo dos tanques, pelas quais difusores introduzem ar comprimido no meio. O oxigênio é transferido para o líquido à medida em que as bolhas se elevam à superfície. Os difusores podem variar em termos do tamanho das bolhas de ar produzidas (bolhas grandes para difusores não-porosos e pequenas para difusores porosos).
+A aeração por ar difuso apresenta um gasto energético menor que a aeração mecânica. Outras vantagens do sistema incluem uma melhor decantação dos sólidos, pois o fluxo de ar não interfere na formação de flocos, e uma transferência de oxigênio mais homogênea em todo o líquido, devido ao fluxo ascendente.
+
+
+== Ver Também ==
+Estação de Tratamento de Águas Residuais
+Reator de Batelada Sequencial
+Esgoto
+Água
+Engenharia Ambiental
+Saneamento Básico
+
+
+== Referências ==

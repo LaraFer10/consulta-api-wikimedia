@@ -1,0 +1,159 @@
+Braquiterapia (da palavra grega brachys, que significa "curta distância"), também conhecida por radioterapia interna, radioterapia de fonte selada, curieterapia ou endocurieterapia, é uma forma de radioterapia em que se coloca uma fonte de radiação dentro de, ou junto à área que necessita de tratamento. A braquiterapia é utilizada normalmente como tratamento eficaz contra o cancro (câncer) do colo do útero,
+da próstata,
+da mama
+e da pele,
+podendo também ser utilizada no tratamento de tumores em diversas outras áreas do corpo.
+A braquiterapia pode ser utilizada independentemente ou em combinação com outras técnicas  terapêuticas, como a cirurgia, Radioterapia de Raios Externos (EBRT, External Beam Radiotherapy) e Quimioterapia.
+Ao contrário da EBRT, em que o tumor recebe raios x de alta energia a partir do exterior do corpo, a braquiterapia implica a colocação precisa de fontes de radiação directamente no local do tumor cancerígeno.
+Um dos aspectos fundamentais da braquiterapia é que a radiação afecta apenas uma área muito localizada junto às fontes de radiação. Fica assim reduzida a exposição de tecidos saudáveis que se encontram mais afastados das fontes de radiação. Além disso, se o doente se mover ou se houver algum movimento do tumor dentro do corpo durante o tratamento, as fontes de radiação mantêm a posição correcta relativamente ao tumor. Estas características da braquiterapia oferecem vantagens sobre a EBRT - o tumor pode ser tratado com doses muito elevadas de radiação localizada, reduzindo-se ao mesmo tempo a probabilidade de danos desnecessários nos tecidos saudáveis mais próximos.É possível terminar um ciclo de braquiterapia em menos tempo do que com as outras técnicas de radioterapia. Este factor pode ajudar a evitar que as células cancerígenas sobreviventes se dividam e cresçam nos intervalos entre cada tratamento. Caracteristicamente, os doentes fazem menos visitas à clínica de radioterapia em comparação com a EBRT, e o tratamento é muitas vezes efectuado em regime de ambulatório. Isto torna o tratamento acessível e conveniente para muitos doentes. Estas características da braquiterapia reflectem o facto de muitos doentes conseguirem uma boa tolerância aos procedimentos da braquiterapia.
+A braquiterapia representa uma opção de tratamento eficaz para muitos tipos de cancro. Os resultados do tratamento demonstraram que as taxas de cura do cancro através da braquiterapia são comparáveis às de cirurgia e EBRT, ou melhores se a braquiterapia for utilizada em associação com estas técnicas. Além disso, a braquiterapia está associada a um baixo risco de diversos efeitos secundários graves.
+
+
+== História ==
+A braquiterapia remonta a 1901 (pouco tempo depois da descoberta da radioactividade por Becquerel em 1896), quando Pierre Curie sugeriu a Henri-Alexandre Danlos que se poderia inserir uma fonte radioactiva num tumor.
+Descobriu-se que a radiação fazia com que o tumor reduzisse. De forma independente, Alexander Graham Bell também sugeriu a utilização de radiação desta forma. No início do séc. XX, o instituto Curie em Paris, com Danlos, foi pioneiro nas técnicas de aplicação da braquiterapia, bem como o St Luke's and Memorial Hospital em Nova Iorque, através de Robert Abbe.Após um interesse inicial em braquiterapia na Europa e nos EUA, a sua utilização decresceu em meados do séc. XX, devido ao problema da exposição à radiação que os operadores da aplicação manual das fontes radioactivas sofriam.No entanto, o desenvolvimento de sistemas de afterloading remoto, que permitem que a radiação seja fornecida através de uma fonte protegida, e a utilização de novas fontes de radiação nas décadas de 1950 e 1960, reduziram o risco de exposição desnecessária à radiação por parte dos operadores e dos doentes.
+Estes factores, juntamente com avanços mais recentes em modalidades de imagiologia tridimensionais, sistemas de planeamento de tratamento computorizados e equipamento de fornecimento, fizeram da braquiterapia um tratamento seguro e eficaz para muitos tipos de cancro.
+
+
+== Tipos ==
+É possível definir vários tipos de braquiterapia, segundo (1) a colocação das fontes de radiação na área de tratamento, (2) a taxa ou ‘intensidade’ da dose de radiação fornecida ao tumor e (3) a duração do fornecimento da dose.
+
+
+=== Colocação da fonte ===
+Os dois principais tipos de tratamento por braquiterapia em termos de colocação da fonte radioactiva são intersticial e de contacto.
+
+No caso da braquiterapia intersticial, as fontes são colocadas directamente no tecido alvo do local afectado, como a próstata ou a mama.
+A braquiterapia de contacto implica a colocação da fonte de radiação num espaço junto ao tecido alvo. Este espaço pode ser uma cavidade corporal (braquiterapia intracavitária), como o colo do útero, útero ou vagina; um lúmen corporal (braquiterapia endoluminal), como a traqueia ou o esófago; ou situar-se no exterior (braquiterapia de superfície), como por exemplo a pele. Também é possível colocar uma fonte de radiação nos vasos sanguíneos (braquiterapia intravascular) para o tratamento da re-estenose do stent coronário.
+
+
+=== Taxa de dose ===
+A taxa de dose em braquiterapia refere-se ao nível ou ‘intensidade’ com que a radiação é fornecida ao meio circundante, e é expressa em Grays por hora (Gy/h).
+
+A braquiterapia de baixa taxa de dose (LDR, low-dose rate) implica a implantação de fontes de radiação que emitam a uma taxa de até 2 Gy.hr-1. A braquiterapia de baixa taxa de dose é habitualmente utilizada para cancros da cavidade oral, orofaringe,sarcomas, e cancro da próstata.A braquiterapia com taxa de dose média (MDR, medium-dose rate) é caracterizada por uma taxa média de fornecimento da dose, entre os 2 Gy.hr-1 e os 12 Gy.hr-1.
+A braquiterapia de alta taxa de dose (HDR, high-dose rate) ocorre quando a taxa de fornecimento da dose excede os 12 Gy.hr-1. As aplicações mais comuns da braquiterapia de alta taxa de dose são em tumores do colo do útero,esófago, pulmões, mama e próstata. A maior parte dos tratamentos de alta taxa de dose são efectuados em regime de ambulatório, mas isso depende do local do tratamento.A braquiterapia pulsada (PDR, pulsed-dose rate) envolve curtos pulsos de radiação, normalmente uma vez por hora, para estimular a eficácia e taxa geral do tratamento com alta taxa de dose. Os tumores mais comummente tratados com braquiterapia pulsada são do foro ginecológico, e cancros de cabeça e pescoço.
+
+
+=== Duração do fornecimento da dose ===
+A colocação de fontes de radiação na área alvo pode ser temporária ou permanente.
+
+A braquiterapia temporária implica a colocação de fontes de radiação por um período definido (normalmente um determinado número de minutos ou horas) antes de serem retiradas. A duração específica do tratamento depende de muitos factores diferentes, incluindo a taxa de fornecimento de dose necessária e o tipo, tamanho e localização do cancro. Na braquiterapia pulsada e de baixa taxa de dose, a fonte permanece no lugar, normalmente, até 24 horas antes de ser retirada, enquanto na braquiterapia de alta taxa de dose este tempo é de apenas alguns minutos.A braquiterapia permanente, também conhecida por implantação de sementes, implica a colocação de pequenos blocos ou sementes radioactivos (aproximadamente do tamanho de um grão de arroz) de baixa taxa de dose no local do tumor ou de tratamento, que são deixados permanentemente nesse local e se vão decompondo gradualmente. Durante um período de semanas ou meses o nível de radiação emitido pelas fontes reduz até quase zero. As sementes inactivas permanecem então no local de tratamento sem efeitos duradouros. A braquiterapia permanente é mais frequentemente utilizada no tratamento do cancro da próstata.
+
+
+== Aplicações clínicas ==
+
+A braquiterapia é normalmente utilizada para tratar os cancros do colo do útero,próstata,mama, e pele.A braquiterapia pode também ser utilizada no tratamento de tumores do cérebro, olho, região da cabeça e pescoço (lábios, pavimento da boca, língua, nasofaringe e orofaringe), tracto respiratório (traqueia e brônquios), tracto digestivo (esófago, vesícula, vias biliares, recto, ânus), tracto urinário (bexiga, uretra, pénis), tracto reprodutivo feminino (útero, vagina, vulva), e tecidos moles.Uma vez que as fontes de radiação podem ser posicionadas de forma precisa no local de tratamento do tumor, a braquiterapia permite a aplicação de uma elevada dose de radiação a uma área pequena. Além disso, uma vez que as fontes de radiação são colocadas dentro de, ou junto ao tumor, as fontes mantêm a respectiva posição relativamente ao tumor quando o doente se move ou se houver algum movimento do tumor dentro do corpo. Assim, as fontes de radiação continuam posicionadas correctamente. Isso permite aos médicos atingir um elevado nível de conformidade de dose, ou seja, assegurar que o tumor recebe o melhor nível de radiação. Também reduz o risco de danos aos tecidos, órgãos ou estruturas saudáveis junto ao tumor, aumentando assim as hipóteses de cura e preservação das funções dos órgãos.
+A utilização de braquiterapia de alta taxa de dose permite a redução dos tempos gerais de tratamento em comparação com a EBRT.
+Os doentes que recebem braquiterapia fazem geralmente menos visitas de radioterapia em comparação com a EBRT, e os planos gerais de tratamento de radioterapia podem ser concluídos em menos tempo.
+Muitos procedimentos de braquiterapia são efectuados em regime de ambulatório. Esta conveniência pode ser particularmente relevante para os doentes que têm de trabalhar, doentes mais idosos ou doentes que residem a alguma distância dos centros de tratamento, para assegurar que têm acesso ao tratamento por radioterapia e que possam aderir aos planos de tratamento. Os tempos de tratamento mais curtos e os procedimentos em regime de ambulatório podem ajudar a melhorar a eficácia das clínicas de radioterapia.A braquiterapia pode ser utilizada com o objectivo de curar o cancro em caso de tumores pequenos ou localmente avançados, desde que o cancro não tenha metástases (não se tenha espalhado para outras partes do corpo). Em casos adequadamente seleccionados, a braquiterapia para tumores primários representa frequentemente uma abordagem comparável com a cirurgia, atingindo a mesma probabilidade de cura e com efeitos secundários semelhantes. No entanto, em tumores localmente avançados, a cirurgia pode não proporcionar a melhor hipótese de cura e muitas vezes não é tecnicamente possível de executar. Nestes casos, a radioterapia, incluindo braquiterapia, oferece a única hipótese de cura.
+Em estados mais avançados da doença, a braquiterapia pode ser utilizada como tratamento paliativo para aliviar os sintomas de dor e hemorragia.
+Nos casos em que o tumor não é facilmente acessível ou é demasiado grande para assegurar a melhor distribuição da radiação à área de tratamento, a braquiterapia pode ser associada a outros tratamentos, tais como EBRT e/ou cirurgia. A associação exclusiva da braquiterapia com quimioterapia é rara.
+
+
+=== Cancro do colo do útero ===
+A braquiterapia é normalmente utilizada no tratamento do cancro do colo do útero inicial ou localizado, e é um padrão de tratamento em muitos países.
+O cancro do colo do útero pode ser tratado com braquiterapia de baixa taxa de dose, pulsada ou de alta taxa de dose.
+Utilizada em associação com EBRT, a braquiterapia pode oferecer melhores resultados do que o EBRT só por si.
+A precisão da braquiterapia permite o fornecimento de uma alta dose de radiação específica ao colo do útero, minimizando ao mesmo tempo a exposição à radiação dos tecidos e órgãos adjacentes.As hipóteses de ficar sem doença (sobrevivência livre de doença) e de ficar vivo (sobrevivência total) são semelhantes para os tratamentos com baixa taxa de dose, com alta taxa de dose e de braquiterapia pulsada.
+No entanto, uma vantagem fulcral do tratamento com alta taxa de dose é que cada dose pode ser fornecida em regime de ambulatório com um curto tempo de administração, oferecendo maior conveniência para muitos doentes.
+
+
+=== Cancro da próstata ===
+No tratamento do cancro da próstata, a braquiterapia pode ser administrada em forma de implantação de sementes permanentes com baixa taxa de dose ou como braquiterapia temporária com alta taxa de dose.A implantação de sementes permanentes é adequada para doentes com um tumor localizado e um bom prognóstico, tendo demonstrado ser um tratamento altamente eficaz para evitar que o cancro regresse. A taxa de sobrevivência é semelhante à encontrada com EBRT ou cirurgia (prostatectomia radical), mas com menos efeitos secundários como impotência e incontinência. O procedimento pode ser concluído rapidamente e os doentes podem normalmente ir para casa no mesmo dia do tratamento, e regressar às actividades normais após 1 a 2 dias.
+A implantação de sementes permanentes é frequentemente uma opção de tratamento menos invasiva quando comparada com a remoção cirúrgica da próstata.A braquiterapia de alta taxa de dose temporária é uma abordagem mais recente no tratamento do cancro da próstata, mas é actualmente menos comum do que a implantação de sementes. É predominantemente utilizada para fornecer uma dose extra além da EBRT (conhecida por terapêutica de “impulso”), uma vez que oferece um método alternativo de fornecimento de radiação de alta taxa de dose, que está em conformidade com a forma do tumor dentro da próstata, ao mesmo tempo que espalha radiação nos tecidos circundantes.
+A braquiterapia de alta taxa de dose como impulso para o cancro da próstata significa também que o ciclo de EBRT pode ser mais curto do que quando a EBRT é utilizada por si só.
+
+
+=== Cancro da mama ===
+A terapia de radiação é a norma de tratamento para mulheres que tenham sido submetidas a cirurgia de lumpectomia ou mastectomia, e é um componente integrante da terapêutica de conservação da mama.
+A braquiterapia pode ser utilizada após a cirurgia, antes da quimioterapia ou para cuidados paliativos, em caso de doença avançada. A braquiterapia para tratar o cancro da mama é normalmente efectuada com braquiterapia de alta taxa de dose temporária. Após a cirurgia, a braquiterapia na mama pode ser utilizada como “impulso” após radiação de toda a mama com EBRT.
+Mais recentemente, a braquiterapia só por si é aplicada numa técnica denominada APBI (accelerated partial breast irradiation - radiação acelerada parcial da mama), que implica o fornecimento de radiação apenas à região imediatamente circundante do tumor original.A principal vantagem da braquiterapia da mama em comparação com a EBRT é que permite aplicar uma alta dose de radiação com precisão no tumor, poupando os tecidos saudáveis da mama e as estruturas de suporte, como as costelas e os pulmões, à radiação. A APBI pode, normalmente, ser concluída no espaço de uma semana. A opção de braquiterapia pode ser particularmente importante para assegurar que as mulheres trabalhadoras, idosas ou sem acesso fácil a um centro de tratamento consigam beneficiar de terapia que conserve a mama, devido ao curto ciclo de tratamento, em comparação com EBRT (que exige frequentemente mais visitas durante 1-2 meses). A braquiterapia tem vindo a demonstrar um excelente controlo local do cancro da mama num seguimento até 6 anos após o tratamento.Com a braquiterapia da mama a radiação é fornecida através de tubos de plástico flexíveis denominados cateteres. Duas vezes por dia, durante um número determinado de dias, os cateteres ou o balão serão ligados a uma máquina de braquiterapia, também denominada afterloader de alta taxa de dose, para fornecer segura e eficazmente a radiação ao local da lumpectomia, sob orientação de um computador. A radiação só é deixada no local durante alguns minutos de cada vez. No final do ciclo de tratamento o cateter ou cateteres são removidos. Ainda está em estudo a eficácia deste tratamento em comparação com três a oito semanas de radioterapia por radiação externos.Existem vários tipos diferentes de técnicas de braquiterapia da mama, que divergem com base no número e tipos de cateteres utilizados para fornecer a radiação. O dr. Robert Kuske foi pioneiro na utilização da braquiterapia intersticial, que implica a inserção de 15 a 20 cateteres na mama, em volta da cavidade da lumpectomia. São colocadas fontes de radiação individuais em cada cateter. A utilização de múltiplos cateteres permite aos médicos formar a dose de radiação com base no tamanho, forma e localização da cavidade. No entanto, devido à complexidade do procedimento, a braquiterapia intersticial da mama não é muito utilizada nos Estados Unidos.A braquiterapia intracavitária da mama, também conhecida como braquiterapia de balão (por ex. MammoSite), utiliza um só cateter ligado a um balão para fornecer a radiação. Existem também dispositivos de braquiterapia da mama que combinam as funcionalidades da braquiterapia intersticial e intracavitária (por ex. SAVI). Estes dispositivos são cateteres múltiplos, mas inseridos através de um só ponto de entrada na mama. Há estudos que sugerem que a utilização de cateteres múltiplos permite aos médicos uma aplicação mais precisa da radiação.
+
+
+=== Cancro da pele ===
+A braquiterapia de alta taxa de dose para cancro da pele não melanoma, como o carcinoma basocelular e o carcinoma de células escamosas, oferece uma opção de tratamento alternativa à cirurgia. Isto é especialmente relevante para cancros do nariz, orelhas, pálpebras ou lábios, onde a cirurgia pode desfigurar ou exigir uma reconstrução extensa. Podem ser utilizados diversos aplicadores para assegurar um contacto próximo entre a(s) fonte(s) de radiação e a pele, em conformidade com a curvatura da pele, e para assegurar precisão no fornecimento da melhor dose de radiação.A braquiterapia para o cancro da pele oferece bons resultados cosméticos e eficácia clínica; os estudos com seguimentos até 5 anos demonstraram que a braquiterapia é altamente eficaz em termos de controlo local, e é comparável à EBRT. Os tempos de tratamento são caracteristicamente curtos, o que é conveniente para os doentes.
+Já foi sugerido que a braquiterapia pode tornar-se o padrão de tratamento para o cancro da pele num futuro próximo.
+
+
+=== Outras aplicações ===
+A braquiterapia pode ser utilizada no tratamento da re-estenose do stent coronário, em que um cateter é colocado dentro dos vasos sanguíneos, através do qual são inseridas e removidas as fontes.
+Também tem sido investigada a utilização da terapia no tratamento da estenose dos vasos periféricos, que tem sido considerada para o tratamento da fibrilação atrial.
+
+
+== Efeitos secundários ==
+A probabilidade e natureza de potenciais efeitos secundários agudos, subagudos ou de longo prazo associados à braquiterapia depende da localização do tumor em tratamento e do tipo de braquiterapia utilizado.
+
+
+=== Agudos ===
+Os efeitos secundários agudos associados à braquiterapia incluem contusões localizadas, tumefacção, hemorragia, descarga ou desconforto na região do implante. Estes resolvem-se normalmente num espaço de poucos dias após a conclusão do tratamento.
+Os doentes podem também sentir-se fatigados durante um curto período de tempo após o tratamento.O tratamento por braquiterapia para o cancro do colo do útero ou da próstata pode provocar sintomas urinários agudos e transitórios, como retenção da urina, incontinência urinária ou micção dolorosa (disúria).
+Pode também ocorrer um aumento transitório dos movimentos intestinais, diarreia, obstipação ou pequenas hemorragias rectais. Os efeitos secundários agudos e subagudos resolvem-se normalmente num período de alguns dias ou poucas semanas. Em caso de braquiterapia permanente (sementes) para o cancro da próstata, há uma pequena hipótese de que algumas sementes migrem para fora da região de tratamento e se alojem na bexiga ou uretra, podendo ser expelidas pela urina.
+A braquiterapia para o cancro da pele pode resultar numa perda das camadas exteriores da pele (descamação) junto à área de tratamento nas semanas que se seguem à terapia, que normalmente fica curada após 5 a 8 semanas. Se o cancro estiver localizado no lábio, pode ocorrer ulceração como resultado da braquiterapia, que normalmente se resolve após 4 a 6 semanas.A maior parte dos efeitos secundários agudos associados à braquiterapia podem ser tratados com medicação ou alterações na dieta, e por norma desaparecem com o tempo (caracteristicamente num espaço de semanas), após conclusão do tratamento. Os efeitos secundários agudos da braquiterapia com alta taxa de dose são muito semelhantes aos da EBRT.
+
+
+=== A longo prazo ===
+Num pequeno número de pessoas, a braquiterapia pode provocar efeitos secundários a longo prazo, devido aos danos ou ruptura dos tecidos ou órgãos adjacentes. Os efeitos secundários a longo prazo têm por norma uma natureza ligeira ou moderada. Por exemplo, os problemas urinários ou digestivos podem persistir como resultado da braquiterapia para o cancro do colo do útero ou da próstata, e podem exigir uma atenção permanente.A braquiterapia para o cancro da próstata pode provocar disfunção eréctil em cerca de 15 a 30% dos doentes. No entanto, o risco de disfunção eréctil está relacionado com a idade (os homens mais idosos sofrem um risco mais elevado que os homens mais jovens) e também com o nível da função eréctil anterior ao tratamento por braquiterapia. Nos doentes que sofrem de disfunção eréctil, a maior parte dos casos pode ser tratada com sucesso com medicamentos como o Viagra. É importante referir que o risco de disfunção eréctil após a braquiterapia é inferior ao risco após prostatectomia radical.A braquiterapia para o cancro da mama ou da pele pode originar a formação de cicatrizes à volta da área de tratamento. No caso de braquiterapia da mama pode ocorrer necrose gorda como resultado da entrada de ácidos gordos nos tecidos mamários. Desta forma o tecido mamário pode ficar tumefacto e dorido. A necrose gorda é uma condição benigna que ocorre caracteristicamente 4 a 12 meses após o tratamento e afecta cerca de 2% dos doentes.
+
+
+== Segurança junto a terceiros ==
+Os doentes perguntam frequentemente se têm de tomar precauções de segurança especiais junto da família e amigos após receberem braquiterapia. Se for utilizada braquiterapia temporária o corpo não retém quaisquer fontes de radioactividade após o tratamento. Assim, não há risco de radiação para família e amigos devido à proximidade.Se for utilizada braquiterapia permanente, são deixadas fontes de baixa radioactividade (sementes) no corpo após o tratamento; os níveis de radiação são muito baixos e diminuem com o tempo. Além disso, a radiação só afecta os tecidos num raio de alguns milímetros junto às fontes radioactivas (ou seja, ao tumor que está a ser tratado). Como precaução, algumas pessoas em tratamento com braquiterapia permanente podem ser aconselhadas a não pegar em crianças pequenas e a não se aproximarem de mulheres grávidas durante algum tempo após o tratamento. Os radioterapeutas ou enfermeiras podem fornecer instruções específicas aos doentes e aconselhá-los sobre a o período em que necessitam de ter cuidado.
+
+
+== Procedimento ==
+
+
+=== Planeamento inicial ===
+Para poder planear com precisão o procedimento de braquiterapia, é efectuado um exame clínico abrangente para compreender as características do tumor. Além disso, é possível utilizar uma vasta gama de modalidades de imagiologia para visualizar a forma e dimensões do tumor e respectiva relação com os tecidos e órgãos circundantes. Estas incluem a radiografia, ecografia, tomografia axial computorizada (TAC) e ressonância magnética (RM). Os dados de muitas destas fontes podem ser utilizados para criar uma visualização em 3D do tumor e dos tecidos circundantes.Utilizando estas informações, é possível desenvolver um plano da melhor distribuição possível das fontes de radiação. Este plano inclui a consideração da forma como os portadores da fonte (aplicadores), utilizados para fornecer a radiação ao local de tratamento, devem ser colocados e posicionados. Os aplicadores não são radioactivos, normalmente são agulhas ou cateteres de plástico. O tipo específico de aplicador utilizado irá depender do tipo de cancro a tratar e das características do tumor a atingir.Este planeamento inicial ajuda a assegurar que durante o tratamento se evitam os ‘pontos frios’ (muito pouca radiação) e os ‘pontos quentes’ (demasiada radiação), pois podem resultar respectivamente na falha do tratamento ou em efeitos secundários.
+
+
+=== Inserção e imagiologia do(s) aplicador(es) ===
+Antes de ser possível colocar as fontes radioactivas no local do tumor, é necessário inserir e posicionar correctamente os aplicadores, em alinhamento com o planeamento inicial.
+As técnicas de imagiologia, como radiografia, fluoroscopia e ecografia, são caracteristicamente utilizadas para ajudar a orientar a colocação dos aplicadores nas respectivas posições correctas, e para ajustar melhor o plano de tratamento. Também é possível utilizar TAC e RM. Após inserir os aplicadores, estes são mantidos no lugar contra a pele com suturas ou fita adesiva, para evitar que se movam. Após confirmação de que os aplicadores se encontram na posição correcta, é possível efectuar mais exames de imagiologia para orientar o planeamento detalhado do tratamento.
+
+
+=== Criação de um doente virtual ===
+As imagens do doente com os aplicadores in situ são importadas para um software de planeamento do tratamento e o doente é encaminhado para o tratamento numa sala resguardada específica. O software de planeamento do tratamento permite a tradução de múltiplas imagens 2D do local de tratamento num ‘doente virtual’ em 3D, dentro do qual é possível definir a posição dos aplicadores. As relações espaciais entre os aplicadores, o local de tratamento e os tecidos saudáveis circundantes dentro deste ‘doente virtual’ são uma cópia das relações no doente real.
+
+
+=== Optimizar o plano de radiação ===
+
+Para identificar a melhor distribuição espacial e temporal das fontes de radiação dentro dos aplicadores da cavidade ou tecido implantado, o software de planeamento do tratamento permite a colocação de fontes de radiação virtuais dentro do doente virtual. O software mostra uma representação gráfica da distribuição da radiação. Esta serve de orientação para a equipa de braquiterapia ajustar a distribuição das fontes e fornecer um plano de tratamento ajustado da melhor forma possível à anatomia de cada doente antes do início do fornecimento da radiação. Esta abordagem denomina-se por vezes ‘distribuição da dose’.
+
+
+=== Fornecimento do tratamento ===
+As fontes de radiação utilizadas para braquiterapia são sempre fechadas numa cápsula não radioactiva. As fontes podem ser fornecidas manualmente, mas actalmente são fornecidas na maior parte dos casos através de uma técnica denominada ‘afterloading’.
+O fornecimento manual de braquiterapia é limitado a algumas aplicações de baixa taxa de dose, devido ao risco de exposição à radiação do pessoal clínico.Em contraste, o afterloading implica o posicionamento preciso de aplicadores não radioactivos no local de tratamento, que serão subsequentemente carregados com as fontes de radiação. No afterloading manual, a fonte é fornecida ao aplicador pelo operador.
+Os sistemas de afterloading remoto oferecem protecção aos profissionais dos cuidados de saúde relativamente à exposição à radiação, mantendo a fonte de radiação num invólucro protegido. Após os aplicadores estarem correctamente posicionados no doente, são ligados a uma máquina ‘afterloader’ (que contém as fontes radioactivas) através de uma série de tubos orientadores de ligação. O plano de tratamento é enviado ao afterloader, que controla então o fornecimento das fontes ao longo dos tubos orientadores para as posições pré-especificadas dentro do aplicador. Este processo só é efectuado após o pessoal clinico ser retirado da sala de tratamento. As fontes permanecem no lugar durante um período de tempo pré-especificado, novamente segundo o plano de tratamento, após o qual são devolvidas ao afterloader através dos tubos.
+Após conclusão do fornecimento das fontes radioactivas, os aplicadores são cuidadosamente retirados do corpo. Caracteristicamente, os doentes recuperam rapidamente do procedimento de braquiterapia, permitindo que este seja frequentemente efectuado em regime de ambulatório.
+
+
+== Fontes de radiação ==
+Fontes de radiação normalmente utilizadas (radionuclídeos) para braquiterapia
+
+
+== Braquiterapia electrónica ==
+A Braquiterapia Electrónica (BE) não utiliza radioisótopos como a braquiterapia convencional. Esta BE implica a colocação de tubos de raios-x de baixa energia, em miniatura, num aplicador pré-posicionado (catéter) no corpo do doente (tumor) para fornecer rapidamente doses elevadas a tecidos específicos, enquanto mantém doses baixas para tecidos sãos adjacentes. Três empresas comercializam este tipo de equipamentos:
+
+Advanced X-ray Technologies Inc. Birmingham, MI
+Carl Zeiss Ltd. Oberkochen, Germany
+Xoft Inc. Fremont, CAEstes aparelhos produzem raios-x de energias entre 50kV e 90kV. Estudos demonstram que o perfil de dose em profundidade para esta técnica é muito semelhante ao da braquiterapia convencional com 192Ir, o que pode levar a concluir que podem ter resultados muito semelhantes.
+
+
+== Ver também ==
+Radioterapia
+
+
+== Referências ==
+
+
+== Ligações externas ==
+«European Society for Therapeutic Radiology and Oncology (ESTRO)» 
+«American Society for Therapeutic Radiology and Oncology (ASTRO)» 
+«American Brachytherapy Society (ABS)» 
+«About Brachytherapy - a resource for patients and healthcare professionals» 
+«Brachytherapy – an international disciplinary journal» 
+«Journal of Contemporary Brachytherapy» 
+«Cancerbackup – Brachytherapy» 
+«About breast brachytherapy» 
+«Brachytherapy for breast cancer» 
+«Prostate brachytherapy advisory group» 
+«Understanding Brachytherapy: resources, FAQs, glossary»

@@ -1,0 +1,70 @@
+Projeto Genoma  é um trabalho conjunto realizado por diversos países visando desvendar o código genético de um organismo (podendo ser animal, vegetal, de fungos, bactérias ou de um vírus) através do seu mapeamento.Um destes projetos considerado como marco é o Projeto Genoma Humano que já está tendo um impacto na pesquisa de diversas áreas da ciência, em especial a biologia e medicina, como potencial de lançar diversos desenvolvimentos científicos e comerciais.
+
+
+== Metodologia ==
+
+A montagem do genoma é feito através da união de um grande número de sequências de DNA que são juntadas para criar uma representação do cromossomo original do DNA em estudo. Em um projeto de sequenciamento shotgun, todo o DNA do ser vivo analisado (seja uma bactéria, seja um mamífero) é inicialmente particionado em milhões de pequenos pedaços. Estes pedaços são então "lidos" por máquinas de sequenciamento automático, capazes de ler até 1000 nucleotídeos ou bases de uma só vez. Um algoritmo de montagem de genoma é então utilizado para reunir todas as partes e colocá-las na ordem original, detectando todos os locais onde existe coincidências entre pedaços distintos de DNA. As partes coincidentes podem ser fundidas, unindo dois pedaços de DNA. O processo é repetido até montar a sequência completa. O sequenciamento é um processo computacional difícil pois vários genomas possuem um grande número de sequências idênticas, às vezes com milhares de nucleotídeos, algumas ocorrendo em milhares de locais diferentes.
+O sequenciamento tradicional é feito com o método sequenciamento de Sanger que utiliza iniciadores da reação conhecidos como primers. Os primers são sequências sintéticas que, na reação, se anelam à sequência-alvo, iniciando o processo de replicação e sequenciamento. Estes primers devem ser complementares à sequência a ser determinada e, para sintetizá-los é necessário se conhecer a sequência-alvo. Como não se conhecia a sequência do DNA genômico, essa abordagem não pôde ser aplicada da forma original no Projeto. Como alternativa foi utilizado o método de Hidro Pump sequencing . Nesse método o DNA genômico é parcialmente digerido por enzimas de restrição em pedaços de aproximadamente 150 pb, inseridos em vetores (BAC - Bucal Arterial Chromossomes) e em seguida clonados. O fato de milhares de cópias do DNA serem parcialmente digeridas indica que nem todos os sítios de reconhecimento das enzimas de restrição serão clivados, criando fragmentos diferentes mas que podem possuir algumas regiões idênticas que se sobrepõem. Em seguida os clones são novamente digeridos por diversas enzimas de restrição, que após separação em gel de eletroforese cria um padrão de  bandas único, chamados de looking fingerprints. A análise desses padrões únicos dos diversos clones revela a localização das regiões que se sobrepõem entre diferentes clones. Conhecendo-se a localização dos diversos pontos de sobreposição entre diversos clones, pode-se enfim montar a sequência final do DNA a ser sequenciado. Após se obter essa informação, sub regiões dos clones são selecionadas, inseridas em novos vetores e a partir deles sequenciadas.
+
+A empresa Celera Genomics utilizou uma metodologia semelhante para tentar desvendar o genoma humano. Através do sequenciamento shotgun foi capaz de sequênciar todo o genoma em apenas 9 meses, sem contar o tempo necessário para analisar todo material sequênciado. Essa metodologia já havia sido empregada para sequenciar o genoma do Haemophilus influenzae. Essa técnica é semelhante a técnica utilizada pelo Consórcio Internacional, entretanto não é necessário criar os clones e avaliar seu padrão de bandas após digestão com enzimas de restrição. Nesse método o genoma total é fragmentado em pedaços bem pequenos que são inseridos em vetores e posteriormente clonados. Entretanto para se montar a sequência final é necessário avaliar todas as regiões de sobreposição entre os pequenos fragmentos criados. Para realizar esse último processo foi necessário o uso de um super-computador, que levou vários meses para poder sintetizar o genoma final.
+
+
+== Softwares ==
+A maioria dos institutos de pesquisas usam seu próprio software, dentre os mais conhecidos estão:
+
+AMO
+Celera Assembler
+The Arachne
+Phred/Phrap
+
+
+== Projeto Genoma Humano ==
+
+Em 1990, com iniciativa do Departamento de Energia dos Estados Unidos da América, foi iniciado o Projeto Genoma Humano. Com um financiamento inicial de 50 bilhões de dólares e uma duração prevista de 15 anos, o Projeto Genoma teve como objetivos criar mapas físicos de alta resolução, sequenciar todo o DNA do genoma humano, criar e depositar as informações obtidas em um banco de dados e aperfeiçoar as técnicas moleculares de modo a melhorar a qualidade do estudo.
+O mapa físico foi concluído em 1995 junto com novas técnicas que permitiram a automatização das técnicas de DNA (Genetics - a conceptual approach), tornando o sequenciamento do DNA em larga escala possível.
+Os resultados obtidos pelo Projeto Genoma Humano foram a criação de testes para predisposição à doenças de início tardio como Parkinson e Câncer de pulmão, a criação de teste de diagnóstico conclusivo como craniossinostoses e fibrose cística e permitiu investigação em questões evolutivas através do conhecimento de regiões que são altamente conservadas em todas ou diversas espécies.
+Ainda espera-se que sirva para a localização de genes ainda não identificados, que sirva para a criação de terapias moleculares, análises proteômicas e manipulação genética.
+
+
+== Exemplos de Projetos ==
+Animais
+
+Humanos - Homo sapiens sapiens; veja Projeto Genoma Humano
+Neanderthal - "Homo neanderthalensis", veja Genoma do Neandertal
+Camundongo - Mus musculus
+Rato-marrom - Norvegicus
+Chimpanzé comum - Pan troglodytes
+Macaco-rhesus - Macaca mulatta
+Galinha doméstica - Gallus gallus
+Tammar Wallaby (um pequeno canguru) - Macropus eugenii
+Gato doméstico - Felis silvestris
+Cão doméstico - Canis lupus familiaris
+Um inseto - Drosophila melanogaster
+O peixe Bandeira-paulista - Brachydanio rerio
+Sapo Africano - Xenopus laevis
+Baiacu, Tetraodontidae
+Caenorhabditis elegans - um verme nematoda
+Abelha Européia, Apis melliferaPlantas
+
+Arabidopsis thaliana
+Arroz, Oryza sativa
+Trigo, Triticum aestivum
+Milho, Zea mays
+Choupo ou Álamo
+Tomate Solanum lycopersicum
+Uva, Vitis viniferaMicro-organismos
+
+Haemophilus influenzae - uma bactéria (primeiro totalmente sequenciado)
+Uma levedura do pão e da cerveja - Saccharomyces cerevisiae
+Um fungo - Neurospora crassa
+Escherichia coli - uma bactéria
+Vírus SARS
+Gripe Espanhola
+
+
+== Ver também ==
+Histórico do estudo do DNA
+Projeto 1000 Genomas
+
+
+== Referências ==

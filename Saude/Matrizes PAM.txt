@@ -1,0 +1,21 @@
+Matrizes PAM, ou conjunto de matrizes PAM, de Point Accepted Mutation (do inglês, mutação pontual aceita), também  Percent Accepted Mutation (porcentagem de mutação aceita), e também matriz de dados de mutação de Dayhoff ou MD, é um conjunto de matrizes de mutação de peptídeos, ou matrizes de substituição, calculado por Margaret Dayhoff ao final dos anos 1970, no que se converteria em um trabalho determinante no campo da bioinformática. Cada matriz, quadrada e simétrica, é normalmente de um tamanho de 20 por 20 (pelos vinte aminoácidos padrão, embora nada impeça contemplar o resto e estender, consequentemente, a ordem da matriz).  
+O valor de uma certa célula representa a probabilidade da substituição de um aminoácido por outro, conhecida como mutação pontual. Como a matriz é calculada observando-se diferenças nas proteínas que estão muito próximas evolutivamente (com pelo menos 85% de similaridade), as substituições em questão não têm efeito sobre a função da proteína, portanto trata-se de mutações aceitas (daí seu nome) no processo evolutivo.Este tipo de matriz é geralmente conhecido como matriz de substituição, e é usada em alinhamentos de sequências tanto de pares como múltiplos.  
+Existem diferentes matrizes PAM. PAM1 foi calculado considerando sequências com uma mutação pontual para cada cem aminoácidos. Em outras palavras, a matriz PAM1 estima o ritmo de substituição esperado entre dois aminoácidos se 1% dos aminoácidos são substituídos. Outras matrizes PAM são derivadas da multiplicação da PAM1 por ela mesma, já que se assume que mutações repetidas seguiriam, em termos de suas probabilidades, o mesmo padrão que aquelas estabelecidas na matriz PAM1, assim como múltiplas substituições podem ocorrer ao mesmo tempo. Matrizes assim derivadas são, portanto, mais adequadas para relacionar sequências evolutivamente mais distantes. PAM250, por exemplo, é o resultado de elevar a 250a potência a PAM1, e é equivalente a 250 substituições para cada cem aminoácidos. Este último exemplo, no qual o número de substituições é superior ao de aminoácidos, é ilustrativo quanto à consideração necessária de múltiplas substituições em um determinado aminoácido (ou em sua situação na sequência) por períodos suficientemente longos.
+Devido ao exposto, é perceptível que a Dayhoff fez um trabalho com um forte componente teórico ao assumir que uma matriz pode ser calculada para sequências divergentes de uma matriz para sequências intimamente relacionadas, elevando essa segunda matriz a uma determinada potência. Não se deve esquecer que nos anos de desenvolvimento deste trabalho o número de sequências conhecidas foi relativamente baixo, para que obras posteriores com uma base empírica mais completa estejam oferecendo melhores resultados aos pesquisadores (caso das matrizes BLOSUM). Por outro lado, a mesma metodologia de Dayhoff tem sido usada nas décadas subsequentes, mas aproveitando os grandes bancos de dados de proteínas atuais (caso das matrizes JTT).  
+As matrizes PAM de uso mais comum são as PAM30 e PAM70.
+
+
+== Referências ==
+
+
+== Ligações externas ==
+Matrizes de substituição - web.tecnico.ulisboa.pt
+Calculate PAM Matrix - www.bioinformatics.nl (Calculadora de matrizes PAM)
+Point Accepted Mutations - www.inf.ethz.ch
+
+
+== Ver também ==
+Alinhamento de sequências
+Alinhamento múltiplo de sequências
+BLOSUM, matriz de substituição usada para o  alinhamento de sequências de proteínas.
+Matriz de substituição

@@ -1,0 +1,19 @@
+O Centro Reacional Fotossintético é o componente central das estruturas de obtenção de energia em todos os organismos que realizam processos fotossintéticos. Consiste de um complexo protéico integrado por várias sub-unidades. É nele que a luz absorvida gera uma separação de cargas. Os eléctrons assim formados, possuindo um potencial electroquímico bem mais alto, são retirados do centro reacional e, após várias etapas intermediárias, utilizados para a produção de carboidratos. O centro reacional fotossintético modificou-se muito pouco no decurso da evolução, ao contrário do complexo coletor de luz, que o envolve, e que adquiriu formatos variados. Nos organismos mais modernos, ou seja, plantas, algas e cianobactérias, o centro reacional está embutido em um complexo maior, o fotossistema. Nas bactérias, o centro reacional pode ser isolado. Na descrição a seguir é pormenorizado, como exemplo, o centro reacional da bactéria púrpura Rhodopseudomonas viridis.
+
+
+== Modo de funcionamento ==
+
+O centro reacional das bactérias púrpuras é um complexo constituído de três cadeias proteicas e vários pigmentos encaixados na membrana plasmática, circundado pelo complexo coletor de luz (LH1), às vezes também denominado antena. As três sub-unidades são designadas por meio das letras L, M e H, das quais a última se projeta além da membrana, onde as demais duas, quase simétricas, estão alojadas.
+As unidades L e M contêm, cada uma, duas moléculas de bacterioclorofila, uma de feofitina e uma de ubiquinona. A molécula de ubiquinona da unidade M pode se separar do complexo. Uma molécula de bacterioclorofila da unidade L e uma da unidade M ficam posicionadas lado-a-lado formando o chamado par especial, no qual ocorre a separação de cargas.
+Uma das duas moléculas de bacterioclorofila do par especial é indiretamente excitada quando os pigmentos da antena recebem energia, transferindo-a à molécula de feofitina da unidade L.
+Após 200·10−12 segundos a molécula de ubiquinona ligada firmemente recebe o eléctron, transferindo-o em seguida, após mais 200·10−6 segundos, à molécula de ubiquinona da unidade M.  Após o recebimento de dois eléctrons por este processo, a molécula de ubiquinona deixa o centro reacional transportando-os ao complexo de citocromo bc1. O eléctron retirado do par especial é reposto pelo citocromo c anexo ao centro reacional.
+Ainda não está esclarecida a função da unidade H, que é desprovida de pigmentos.
+A pesquisa do centro reacional das bactérias púrpuras, que realizam fotossíntese anoxigênica, significou para Hartmut Michel, Johann Deisenhofer e Robert Huber a concessão do prêmio Nobel de Química de 1988.
+
+
+== Referências ==
+
+
+== Ver também ==
+Clorofila
+Fotossíntese

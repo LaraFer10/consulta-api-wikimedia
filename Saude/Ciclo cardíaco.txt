@@ -1,0 +1,44 @@
+Ciclo cardíaco é a expressão referente aos eventos relacionados ao fluxo e pressão sanguínea que ocorrem desde o início de um batimento cardíaco até o próximo batimento. Em resumo, dividimos o ciclo em dois períodos: o de relaxamento, chamado diástole, quando o coração se distende ao receber o sangue, e o de contração, denominado sístole, quando ele ejeta o sangue.
+O ciclo cardíaco é iniciado pela geração espontânea de potencial de ação no nodo sinoatrial (NSA), pelas células marcapasso. O impulso elétrico difunde-se pelo miocárdio atrial e, posteriormente, passa para os ventrículos através do feixe atrioventricular, que apresenta velocidade de condução mais baixa, gerando um atraso na transmissão, garantindo que os átriosPortuguês BR (as aurículasPortuguês PT) contraiam-se antes dos ventrículos, favorecendo a função do coração como bomba.
+
+
+== Noções anatômicas ==
+O coração é composto por quatro câmaras. Pelas câmaras esquerdas, circula sangue rico em oxigênio, proveniente dos pulmões e dirigido às demais partes do corpo. Pelas câmaras direitas, circula sangue pobre em oxigênio, vindo de todo o corpo e direcionado ao pulmão.
+No adulto saudável, não existe comunicação entre as câmaras esquerdas e direitas.
+As câmaras de recepção do sangue, mais complacentes, são chamadas de átrios, enquanto que as câmaras de ejeção, mais musculosas, são chamadas de ventrículos.
+Entre os átrios e os ventrículos, existem valvas. Estas valvas permitem a passagem do sangue apenas no sentido do átrio para o ventrículo. São chamadas de valvulas atrioventriculares. No lado direito, temos a valva tricúspide, e no lado esquerdo a valva mitral.
+Entre os ventrículos e as artérias, ficam as valvas semilunares. Estas valvulas permitem apenas a saída do sangue dos ventrículos em direção das artérias. Entre o ventrículo esquerdo e a aorta, fica a valva aórtica. Entre o ventrículo direito e o tronco da artéria pulmonar, fica a valva pulmonar.
+
+
+== Sístole e Diástole ==
+Como dito acima, a sístole é o período em que as câmaras cardíacas se contraem ejetando o sangue. Já a diástole é a fase de dilatação das câmaras ao receber o sangue.
+
+
+=== Sístole - sub-fases ===
+Fase de Contração Isovolumétrica. O ventrículo está cheio de sangue e começa a contrair-se. A pressão ventricular é superior à auricular e as valvas auriculoventriculares fecham-se. No entanto, a pressão ventricular é inferior à aórtica (no caso do ventrículo esquerdo) e à pulmonar (ventrículo direito), contraindo-se assim sem alteração de volume no seu interior. Esta fase é caracterizada por um aumento brusco de pressão. Nesse momento é gerada a primeira bulha cardíaca por conta do choque do sangue com os folhetos das valvas átrio-ventriculares.
+Fase de expulsão rápida. A pressão no interior do ventrículo esquerdo é maior que a aórtica (classicamente valores acima dos 80 mmHg) abrindo-se a valva aórtica de modo a que o sangue saia do ventrículo a grande velocidade e pressão.
+Fase de expulsão lenta. A aorta é uma artéria muito elástica e tem uma grande capacidade de distensão, esta propriedade permite que o fluxo sanguíneo pelo organismo seja continuo. À medida que o sangue entra na aorta, esta se distende para acomodar o volume, aumentando, assim, a pressão no seu interior. Deste modo, a diferença de pressões entre ventrículo e aorta é cada vez menor, saindo o sangue do ventrículo a cada vez com menor velocidade. É necessário ressaltar que, nesse momento, há uma quantidade de sangue que permanece dentro dos ventrículos para que não haja colabamento das suas paredes, o chamado volume sistólico final.
+Protodiástole. É uma fase virtual que separa a sístole da diástole. Em dado momento, a pressão aórtica iguala a ventricular, não havendo, deste modo, qualquer ejeção de sangue, embora ainda haja pouco fluxo devido à inércia. Imediatamente após, o ventrículo começa a distender-se, dando-se origem à diástole.
+
+
+=== Diástole - sub-fases ===
+Fase de Relaxamento Isovolumétrico. Quando a pressão ventricular é inferior à pressão aórtica (no caso do ventrículo esquerdo) mas superior à pressão atrial, estando assim ambas valvas fechadas, não havendo variação no volume de sangue dentro do ventrículo.
+Fase de enchimento rápido. Quando a pressão ventricular por fim se reduz abaixo da pressão atrial, que nesse momento é máxima (ápice da onda v da curva de pressão atrial), as valvas AV se abrem, deixando passar um grande fluxo rapidamente em direção ao ventrículo. 70% do enchimento ventricular ocorre nessa fase.
+Fase de enchimento lento. Também chamado de diástase. Com o enchimento do ventrículo e o fim da fase ativa do relaxamento do músculo cardíaco, ocorre uma desaceleração importante do fluxo. As valvas AV tendem a se fechar passivamente. No momento da desaceleração do fluxo rápido para o fluxo lento é que ocorre o 3º ruído cardíaco. O fluxo do átrio para o ventrículo é bastante reduzido, chegando a quase parar.
+Sístole atrial. Ocorre a contração atrial. As valvas AV se abrem, momento em que ocorre a onda A da válvula mitral ao ECO unidimensional e o 4º ruído cardíaco. A sístole atrial pode representar até 20% do volume diastólico final do ventrículo, sendo de grande importância para a manutenção do débito cardíaco nos pacientes que possuam algum tipo de restrição funcional do VE.
+
+
+== Referências ==
+
+Referências biliográficasLionel H. Opie - Mechanisms of Cardiac Contraction and Relaxation IN Branwauld, Zippes , Libby - Heart Disease, A textbook of cardiovascular medicine - 6th Ed - HIE/SAUNDERS 2001- Cap 14 pag 462~465
+Paulo Lavitola - Ciclo Cardíaco IN Manual de Cardiologia SOCESP - Atheneu 2001.
+
+
+== Ver também ==
+
+Circulação
+Sistema circulatório
+
+
+== Ligações externas ==
+«Videoaula: Introdução ao Ciclo Cardíaco - Prof. Dr. Antonio Couto (Universidade Federal Fluminense)»

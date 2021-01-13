@@ -1,0 +1,48 @@
+O stress oxidativo é uma condição biológica em que ocorre desequilíbrio entre a produção de espécies reactivas de oxigénio (EROs) e a sua remoção através de sistemas (enzimáticos ou não enzimáticos) que as removam ou reparem os danos por elas causados. 
+Todos os organismos vivos possuem um ambiente intracelular de natureza redutora, existindo um equilíbrio entre as formas oxidada e reduzida de moléculas como o NADH, equilíbrio esse mantido por enzimas à custa de energia metabólica. Perturbações neste equilíbrio redox podem provocar a produção de peróxidos e radicais livres que danificam todos os componentes celulares, incluindo proteínas, lípidos e o ADN.
+Em humanos, o stress oxidativo encontra-se ligado a diversas doenças, como a aterosclerose, a doença de Parkinson e a doença de Alzheimer. As espécies reactivas de oxigénio também podem agir de forma benéfica ao organismo, quando usadas pelo sistema imunitário para atacar e aniquilar agentes patogénicos ou quando actuam como moléculas mensageiras em vias de sinalização celular (também designada sinalização redox).
+
+
+== Efeitos químicos e biológicos ==
+Em termos químicos, o stress oxidativo consiste num aumento significativo do potencial de redução celular (tornando-se menos negativo), ou numa diminuição significativa da capacidade redutora de pares redox celulares, como a glutationa. Os efeitos do stress oxidativo dependem da dimensão de tais variações. Uma célula é normalmente capaz de superar os efeitos nefastos do stress oxidativo se as perturbações no equilíbrio redox forem pequenas, restabelecendo o equilíbrio normal intracelular, mas perturbações de maior escala podem levar à morte celular, apoptose e até necrose.Um aspecto particularmente destrutivo do stress oxidativo é a produção de espécies reactivas de oxigénio, como radicais livres e peróxidos. Algumas destas espécies com pouca reactividade, como o anião radical superóxido, podem ser convertidas a espécies mais reactivas através de reacções de oxidorredução envolvendo metais de transição ou outras espécies com capacidade de variar o seu estado de oxidação (como quinonas), espécies essas que podem causar danos celulares. A maioria destas espécies, produzidas através da redução do oxigénio molecular, é produzida em pequenas quantidades em organismos utilizando metabolismo aeróbio e quaisquer danos que provoquem são reparados de forma constante. No entanto, em condições extremas de stress oxidativo, os danos causam esgotamento dos níveis de ATP, o que evita uma apoptose celular controlada e provoca a falha total do funcionamento da célula, causando necrose.
+
+
+== Produção e consumo de oxidantes ==
+A fonte mais significativa de espécies reactivas de oxigénio em condições normais em organismos aeróbios é provavelmente a fuga de oxigénio activado das mitocôndrias, durante a respiração oxidativa normal.
+Algumas enzimas capazes de produzir superóxido são a xantina oxidase, NADPH oxidases e citocromo P450 oxidase. O peróxido de hidrogénio é produzido por diversas enzimas, que incluem monooxigenases e oxidases. As espécies reactivas de oxigénio têm um papel relevante na sinalização celular, num processo conhecido por sinalização redox. Assim, de forma a manter uma homeostase celular adequada, a célula necessita equilibrar a produção de espécies reactivas de oxigénio com o seu consumo.
+Os antioxidantes enzimáticos mais bem estudados são as enzimas superóxido dismutase (SOD), catalase e glutationa peroxidase. Outras proteínas menos estudadas incluem as peroxiredoxinas e enzimas cujo papel principal não é a desintoxicação de espécies reactivas de oxigénio, mas que ainda assim possuem actividade antioxidante, como as glutationa-S-transferases e aldeído desidrogenases.
+O stress oxidativo contribui para danos em tecidos biológicos após irradiação e hiperóxia. Existem indícios que apontam para um papel importante em doenças neurodegenerativas, tais como a doença de Lou Gehrig (esclerose lateral amiotrófica), doença de Parkinson, doença de Alzheimer e doença de Huntington. Existe também alguma correlação entre stress oxidativo e certas doenaçs cardiovasculares, já que a oxidação de LDL no endotélio vascular é precursora da formação de ateromas. O stress oxidativo participa também na cascata isquémica devida a danos causados por reperfusão de tecidos após hipóxia. Esta cascata inclui AVC e enfartes do miocárdio.
+
+
+== Antioxidantes como suplementos ==
+É controverso o uso de antioxidantes para prevenir doenças. Num grupo de alto risco, como em fumadores, doses altas de beta-caroteno aumentam a taxa de cancro do pulmão. Em grupos de menor risco, o uso de vitamina E aparenta reduzir o risco de doença cardíaca. Noutras doenças, como na doença de Alzheimer, a influência da vitamina E é mista. No entanto, o medicamento NXY-059, uma nitrona de captura de radicais livres comercializada pela AstraZeneca, apresenta alguma eficácia no tratamento de AVC.Tal como descrito por Denham Harman na sua teoria do envelhecimento por radicais livres, o stress oxidativo terá um papel neste processo. Existem indícios apoiando esta ideia em organismos modelo, como Drosophila melanogaster e Caenorhabditis elegans,
+ mas também estudos apontando o stress oxidativo como factor de prolongamento da esperança de vida em C. elegans, ao induzir uma resposta secundária a níveis inicialmente elevados de espécies reactivas de oxigénio. Este processo foi inicialmente designado mito-hormese, ou hormese mitocondrial, numa base puramente teórica. A situação em mamíferos é ainda menos clara. Estudos epidemiológicos apoiam a existência de mito-hormese e sugerem até que os antioxidantes possam aumentar a prevalência de doenças em humanos. Além disso, foi mostrado que os alguns benefícios obtidos com exercícios físicos, são perdidos com o co-tratamento com antioxidantes.
+
+
+== Catalisadores metálicos ==
+Metais tais como o ferro, o cobre, o crómio, o vanádio e o cobalto podem sofrer ciclos redox, em que um único electrão é aceite ou doado por um ião metálico. Esta acção é encontrada em reacções que produzem espécies radicalares e que podem produzir espécies reactivas de oxigénio. As reacções mais importantes são provavelmente a reacção de Fenton e a de Haber-Weiss, em que existe produção de radical hidroxilo a partir de ferro no estado reduzido (Fe(II)) e peróxido de hidrogénio. O radical hidroxilo pode causar modificações em aminoácidos (por exemplo, formação de orto- e meta-tirosina a partir de fenilalanina), glícidos, iniciar peroxidação lipídica e oxidar bases azotadas. A presença de tais metais em sistemas biológicos, não complexados a proteínas ou outras moléculas protectoras, pode aumentar de forma significativa os níveis de stress oxidativo.
+
+
+== Catalisadores redox não-metálicos ==
+Alguns compostos orgânicos podem produzir também espécies reactivas de oxigénio. Uma das classes mais importantes destes compostos é a das quinonas. As quinonas podem sofrer ciclos redox com os seus conjugados semiquinonas e hidroquinonas, catalisando nalgumas situações a produção de superóxido a partir de dioxigénio ou peróxido de hidrogénio a partir de superóxido.
+
+
+== Defesa imunitária ==
+O sistema imunitário utiliza os efeitos letais de espécies oxidantes, produzindo-as como parte do seu mecanismo de eliminação de agentes patogénicos. Fagócitos activados podem produzir espécies reactivas de oxigénio e de azoto, que incluem o superóxido, o óxido nítrico e o produto da condensação destas duas espécies, o peroxinitrito. Embora estas espécies sejam também danosas para os tecidos do próprio organismo, a pouca especificidade destes oxidantes é vantajosa por serem capazes de destruir praticamente qualquer componente celular do alvo. Tal evita que um patogénio escape ao sistema imunitário através de mutações que enganariam uma detecção específica de um determinado alvo molecular.
+
+
+== Toxicidade do oxigênio para os seres vivos ==
+O uso do oxigênio para produzir energia na cadeia transportadora de elétrons esconde o fato dele ser um gás combustível e que causa mutações. Os seres aeróbios apenas sobrevivem porque possuem defesas antioxidantes contra o oxigênio. Atualmente o nível de oxigênio na atmosfera é 21%. Porém, o nível foi muito menor no passado. O gás somente surgiu em quantidade expressiva há 2,5 bilhões de anos. Evidências sugerem que isso aconteceu por causa da fotossíntese de algas azuis (cianobactérias). 
+O aumento da concentração de oxigênio teve vantagens e desvantagens. Uma das vantagens foi a formação da camada de ozônio na estratosfera, responsável por filtrar a radiação solar ultravioleta. Isso possibilitou a colonização da terra pelos organismos que se "refugiavam" no ambiente marinho. Uma desvantagem foi o estresse que o oxigênio causou aos organismos.
+
+
+== Ver também ==
+Endotélio
+Arginina
+Óxido nítrico
+Catalase
+Oxigénio
+Peroxidase
+
+
+== Referências ==

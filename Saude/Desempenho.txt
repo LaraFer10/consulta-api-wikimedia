@@ -1,0 +1,16 @@
+Desempenho (ou performance) é um conjunto de características ou capacidades de comportamento e rendimento de um indivíduo, de uma organização ou grupo de seres humanos, de animais ou de outros seres vivos, de máquinas ou equipamentos, de produtos, sistemas, empreendimentos ou processos, em especial quando comparados com metas, requisitos ou expectativas previamente definidos.
+Em geral, é possível expressar o desempenho ou performance do ente que se pretende avaliar utilizando-se uma métrica, função ou índice de desempenho em relação às metas, requisitos ou expectativas previamente definidos.
+A partir de um modelo matemático aceitavelmente representativo deste ente sob avaliação de desempenho, e 
+utilizando a abordagem da teoria de controle e otimização de sistemas dinâmicos, pode-se até mesmo, em determinadas situações, calcular matematicamente qual deva ser seu comportamento para que atinja o máximo desempenho almejado. 
+Esta abordagem é frequentemente aplicada na solução de problemas no âmbito das engenharias, da administração, da logística, dos transportes, da economia, da biologia ou de outras atividades científicas ou tecnológicas, o que requer a construção de modelos matemáticos precisos dos respectivos sistemas dinâmicos em estudo. Dessa forma, é possível aplicar as técnicas matemáticas de otimização para maximizar ou minimizar uma função previamente definida como Índice de Desempenho (ID), ou Índice de Performance (IP), visando encontrar uma "solução ótima" do problema, isto é, que resulte no melhor ID possível. 
+
+
+== Ver também ==
+Avaliação de desempenho
+Avaliação 360 graus
+Feedback
+PDCA
+Performance
+
+
+== Referências ==

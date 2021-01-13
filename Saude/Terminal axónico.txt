@@ -1,0 +1,24 @@
+Os terminais axónicos (também designados botões sinápticos ou arborizações terminais) são as terminações distais das ramificações dum axónio. Uma fibra nervosa axónica é uma longa e delgada projeção de uma célula nervosa ou neurónio, que conduz impulsos eléctricos (chamados "potenciais de ação") desde o corpo celular do neurónio ou soma e transmite-os a outros neurónios.
+Os neurónios estão interligados de forma complexa, e utilizam sinais electroquímicos e neurotransmissores químicos para transmitir impulsos de um neurónio para outro; os terminais axónicos unem-se a outros neurónios na sinapse, e estão separados dos neurónios vizinhos por um pequeno espaço, através do qual são enviados impulsos. O axónio terminal, e o neurónio do qual forma parte, é denominado neurónio pré-sináptico.
+
+
+== Libertação do impulso nervoso ==
+Os neurotransmissores encontram-se empacotados em vesículas sinápticas que se acumulam debaixo da membrana do axónio terminal no lado pré-sináptico da sinapse. Os terminais axónicos estão especializados em liberar o impulso eléctrico da célula pré-sináptica. Os terminais liberam substâncias transmissoras no espaço ou fenda chamada fenda sináptica, situada entre os terminais axónicos e as dendrites do neurónio seguinte. A informação é recebida pelos receptores situados na dendrite da célula pós-sináptica. Os neurónios geralmente não se tocam uns nos outros, mas comunicam-se através da sinapse.
+As moléculas do neurotransmissor estão contidas dentro de vesículas que se formam dentro dos neurónios, que viajam até à extremidade do axónio, onde se fundem com a membrana. Os iões de cálcio activam depois uma cascata bioquímica que dá lugar à fusão de vesículas com a membrana pré-sináptica e liberam o seu conteúdo na fenda sináptica a cerca de 180 µs após a entrada de cálcio. Activadas pela união de iões de cálcio, as proteínas da vesícula sináptica começam a separar-se, dando lugar à criação de um poro de fusão. A presença do poro permite a libertação dos neurotransmissores na fenda sináptica. O processo no qual se libera o conteúdo das vesículas é denominado exocitose.
+Foram desenvolvidos métodos para visualizar a actividade sináptica no cérebro por meio de uma coloração fluorescente que detecta os níveis do cálcio e o fluxo de cálcio no neurónio pré-sináptico. 
+
+
+== Referências ==
+
+
+== Leitura complementar ==
+Cragg, Stephanie J.; Greenfield, Susan A. (1997). «Differential Autoreceptor Control of Somatodendritic and Axon Terminal Dopamine Release in Substantia Nigra, Ventral Tegmental Area, and Striatum». The Journal of Neuroscience. 17 (15): 5738–46. PMID 9221772 
+Vaquero, Cecilia F; de la Villa, Pedro (1999). «Localisation of the GABAC receptors at the axon terminal of the rod bipolar cells of the mouse retina». Neuroscience Research. 35 (1): 1–7. PMID 10555158. doi:10.1016/S0168-0102(99)00050-4 
+Roffler-Tarlov, Suzanne; Beart, P.M.; O'Gorman, Stephen; Sidman, Richard L. (1979). «Neurochemical and morphological consequences of axon terminal degeneration in cerebellar deep nuclei of mice with inherited purkinje cell degeneration». Brain Research. 168 (1): 75–95. PMID 455087. doi:10.1016/0006-8993(79)90129-X 
+Yagi, T; Kaneko, A (1988). «The axon terminal of goldfish retinal horizontal cells: A low membrane conductance measured in solitary preparations and its implication to the signal conduction from the soma». Journal of Neurophysiology. 59 (2): 482–94. PMID 3351572 
+
+
+== Ver também ==
+Vesícula sináptica
+Sinapse química
+Telodendro

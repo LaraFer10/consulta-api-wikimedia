@@ -1,0 +1,10 @@
+A subunidade gama do complexo F1 da ATP sintase é um polipeptídeo que juntamente com outras subunidades proteicas constituem a ATP sintase, a enzima que fornece energia para o funcionamento das células. Forma o eixo central que liga o motor rotativo Fo ao centro catalítico F1. As F-ATP sintases (também conhecidas como F1Fo-ATPase, ou ATPase de dois setores transportador de  H(+)) são compostas por dois complexos ligados: o complexo F1 ATPase é o centro catalítico e é composto por 5 subunidades (alfa, beta, gama, delta, épsilon), enquanto que o complexo Fo ATPase é um canal de protões transmembranar  composto pelo menos por 3 subunidades (A-C), nove nas mitocôndrias (A-G, F6, F8).
+A subunidade gama da ATP sintase humana está codificada no gene ATP5C1.
+
+
+== Interações moleculares ==
+Tanto os complexos F1 como os Fo são motores rotativos agrupados em pares dispostos em direções opostas. No complexo F, a subunidade gama central forma a parte que roda no interior do cilindro composto pelas unidades alfa(3)beta(3), enquanto que no complexo Fo, as subunidades C, em forma de anel, formam a parte rotativa. Os dois motores rotacionais rodam em sentidos opostos, mas o motor rotativo Fo é geralmente mais potente, usando a força do gradiente de protões para empurrar o rotor F1 ao contrário de modo a conduzir a síntese de ATP. Estas ATPases podem também funcionar de forma inversa de modo a hidrolisar ATP para criar um gradiente de protões.
+A subunidade gama do coplexo F1 da ATPase forma o eixo central que liga o rotor Fo ao centro catalítico F1. A subunidade gama funciona como motor rotativo dentro do cilindro formado pelas subunidades alpha(3)beta(3) no complexo F1. Em termos evolutivos, mais bem conservada região da subunidade gama é a extremidade C-terminal, que parece ter um papel importante na montagem das cadeias polipeptídicas e na catálise.
+
+
+== Referências ==

@@ -1,0 +1,10 @@
+O banco de dados DrugBank, disponibilizado pela Universidade de Alberta, é um recurso único de bioinformática e quimioinformática que combina dados químicos e farmacológicos detalhados a respeito de medicamentos, focando-se em registrar informações sobre sua substância ativa, como a seqüência, estrutura química e via metabólica. O banco de dados contém aproximadamente 4.300 registros de drogas.
+
+
+== Ver também ==
+PubChem
+
+
+== Ligações externas ==
+«Página do DrugBank» (em inglês) 
+«Artigo sobre Pesquisa de Ácidos Nucléicos no DrugBank» (em inglês)

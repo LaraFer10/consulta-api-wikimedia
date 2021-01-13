@@ -1,0 +1,30 @@
+No campo da biologia molecular, os receptores ativados por proliferador de peroxissoma, conhecidos como PPAR (Peroxisome proliferator-activated receptor) são um grupo de proteínas receptoras nucleares que funcionam como fatores de transcrição que regulam a expressão dos genes. Os PPARs desempenham um papel essencial na regulação da diferenciação celular, desenvolvimento, e metabolismo (carboidratos, lipídios, proteínas), e carcinogênese de organismos superiores.
+
+
+== Tipos ==
+Três tipos de PPAR foram já identificados: alfa, gama e delta (beta):
+α (alpha) - expressado no fígado, rim, coração, músculo, tecido adiposo e outros
+β/δ (beta/delta) - expressado em muitos tecidos mas marcadamente no cérebro, tecido adiposo e na pele
+γ (gama) - apesar de transcrito pelo mesmo gene, este PPAR é expressado, devido a splicing alternativo, em 3 formas:
+γ1 - expressado em virtualmente todos os tecidos, incluindo o coração, músculo, cólon, rim, pâncreas e baço
+γ2 - expressado principalmente no tecido adiposo (30 aminoácidos maior)
+γ3 - expressado em macrófagos, cólon e tecido adiposo branco.
+
+
+== Estrutura ==
+Os PPARs possuem estrutura comum a outros receptores nucleares. Possuem uma estrutura denominada domínio de trans ativação AF-1, seguido pelo domínio de ligação ao DNA, e possuem o domínio de dimerização e de ligação ao ligante com função de trans ativação ligante dependente AF-2, localizado na região carboxi-terminal.
+
+
+== Mecanismo de ação ==
+PPARs funcionam como heterodímeros em associação a complexos coativadores que ligam-se em sequencias de DNA chamadas de ''elementos responsivos a proliferadores de peroxissomos'' presentes no promotor de vários genes alvo, o que leva a transativação ou transrrepressão de vários genes.
+
+
+== Ver também ==
+Modulador do PPAR
+
+
+== Ligações externas ==
+MeSH Peroxisome+Proliferator-Activated+Receptors
+
+
+== Referências ==

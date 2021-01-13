@@ -1,0 +1,13 @@
+Uma família de proteínas é um grupo de proteínas relacionadas à evolução. Em muitos casos, uma família de proteínas possui uma família de genes correspondente, na qual cada gene codifica uma proteína correspondente com uma relação de 1: 1. O termo família de proteínas não deve ser confundido com família, pois é usado em taxonomia.
+As proteínas de uma família descendem de um ancestral comum e geralmente possuem estruturas tridimensionais semelhantes, funções e similaridade significativa de sequência. O mais importante deles é a similaridade de sequência (geralmente sequência de aminoácidos), pois é o indicador mais estrito da homologia e, portanto, o mais claro indicador de ancestralidade comum.É muito improvável que proteínas que não compartilhem um ancestral comum mostrem similaridade estatisticamente significativa da sequência, tornando o alinhamento de sequências uma ferramenta poderosa para identificar os membros das famílias de proteínas.
+
+
+== Terminologia e uso ==
+Como em muitos termos biológicos, o uso da família de proteínas é um tanto dependente do contexto; pode indicar grandes grupos de proteínas com o menor nível possível de similaridade de sequência detectável ou grupos muito estreitos de proteínas com sequência, função e estrutura tridimensional quase idênticas, ou qualquer tipo de grupo intermediário. Para distinguir entre essas situações, o termo superfamília protéica é freqüentemente usado para proteínas relacionadas à distância, cuja relação não é detectável por similaridade de sequência, mas apenas a partir de características estruturais compartilhadas.
+
+
+== Domínios proteicos e motivos ==
+O conceito de família de proteínas foi concebido em um momento em que poucas estruturas ou sequências de proteínas eram conhecidas; Naquela época, principalmente proteínas pequenas, de domínio único, como mioglobina, hemoglobina e citocromo c eram estruturalmente entendidas. Desde então, verificou-se que muitas proteínas compreendem múltiplas unidades ou domínios estruturais e funcionais independentes.
+
+
+== Referências ==

@@ -1,0 +1,104 @@
+Coloração de Field é um método histológico para coloração de esfregaços de sangue. É utilizada para a coloração de esfregaços de sangue espesso, a fim de descobrir parasitas da malária. A coloração de Field é uma versão da coloração de Romanowsky, usada para o processamento rápido dos espécimes.A coloração de Field usa azul de metileno e Azure 1 dissolvidos em solução tampão de fosfato e Eosina Y em solução tampão. A coloração de Field é nomeado devido ao médico John William Field, que a desenvolveu em 1941.
+
+
+== Soluções corantes ==
+
+
+=== A partir dos reagentes ===
+Preparação das soluções 1 (ou A) e 2 (ou B) da coloração de Field a partir dos reagentes:
+
+
+==== Solução de Field 1 (ou A) ====
+Dissolver 1,6 g de azul de metileno em um litro de água destilada.
+Dissolver 2,6 g de Na2HPO4 (anidro) na solução do passo 1.
+Dissolver 1 g de azure 1 na solução do passo 2.
+Dissolver 2,6 g de KH2PO4 na solução do passo 3.
+Coloque a solução resultante sob aquecimento moderado (sem fervura) com agitação por 45 minutos a 1 hora,
+Deixe a solução descansar em temperatura ambiente por 24 horas.
+Filtre. Envase em frasco de vidro âmbar anotando a data de preparação.
+
+
+==== Solução de Field 2 (ou B) ====
+Dissolver 2 g de eosina Y em um litro de água destilada.
+Dissolver 2,6 g de Na2HPO4 (anidro) na solução do passo 1.
+Dissolver 2,6 g de KH2PO4 na solução do passo 2.
+Filtre. Envase em frasco de vidro âmbar anotando a data de preparação.
+
+
+=== A partir de misturas corantes prontas ===
+Preparação da solução corante de Field 1 (ou A) e 2 (ou B) utilizando a mistura corante em pó comercialmente disponível.
+
+
+==== Solução de Field 1 (ou A) ====
+Pesa-se corante de Field 1 (ou A) em pó: 5 gramas
+Aquece-se 600 mL de água destilada a 80 ° C ou manteve-se a 60 ° C durante 30 minutos.
+Mistura-se o pó na água quente até se dissolver.
+Filtra-se a solução. Envase em frasco de vidro âmbar anotando a data de preparação.
+
+
+==== Solução de Field 2 (ou B) ====
+Pesa-se corante de Field 2 (ou B) em pó: 4,8 gramas
+Aquece-se 600 mL de água destilada a 80 ° C ou manteve-se a 60 ° C durante 30 minutos.
+Mistura-se o pó na água quente até se dissolver.
+Filtra-se a solução. Envase em frasco de vidro âmbar anotando a data de preparação.
+
+
+=== Modificações para Trichomonas e Acanthamoeba ===
+
+
+==== Solução A (ingredientes por litro de metanol) ====
+Fosfato dissódico 2,6 g
+Fosfato monopotássico 2,6 g
+Azul de metileno 1,6 g
+Azure I (Azure B) 1,6 g
+
+
+==== Solução B (ingredientes por litro de metanol) ====
+Eosin Y 2,0 g
+
+
+== Protocolos de coloração ==
+
+
+=== Protocolo de coloração para esfregaços sanguíneos ===
+Preencher duas cubas de coloração ou outro frasco de boca larga adequado com, respectivamente:1.1.Solução de Field A (corante azul).
+1.2.Solução de Field B (corante vermelho).Faça o esfregaço sanguíneo sobre uma lâmina para microscopia e seque ao ar.
+Fixe em metanol por um minuto ou com a aplicação de algum fixador em spray.
+Seque ao ar.
+Mergulhe o esfregaço na solução corante de Field B (corante vermelho) por 5 a 6 segundos (este tempo, com a prática, pode ser ajustado).
+Lavar em água de torneira corrente.
+Mergulhe o esfregaço na solução corante de Field A (corante azul) por 10 a 30 segundos (este tempo, com a prática, pode ser ajustado).
+Lavar novamente em água de torneira corrente.
+Secar ao ar e o esfregaço está pronto para o exame ao microscópio.
+
+
+=== Variação com coloração direta sobre a lâmina ===
+Fixe o esfregaço em metanol anidro por um minuto. Deixe secar por evaporação.
+Dilua a solução corante de Field B na proporção de 1:5 com água tamponada com pH levemente alcalino.
+Cubra o esfregaço com a solução corante Field B diluída.
+Imediatamente, adicione um volume igual de solução de Field A.
+Misture por meio de inclinações alternadas da lâmina e deixe corar por um minuto.
+Lave a solução corante com água com cuidado.
+Limpe a superfície inferior da lâmina e deixe secar ao ar a preparação.
+
+
+=== Protocolo para protozoários em esfregaços fecais ===
+Prepare uma diluição em pequena quantidade da solução corante B (vermelho) diluída a uma parte para 4 com água (por exemplo, 1 mL de corante para 4 mL de água).
+
+Prepare um esfregaço fecal fino na lâmina e seque ao ar.
+Fixe em metanol por alguns minutos.
+Remova o metanol e cubra o esfregaço com 1 mL (aproximadamente 20 gotas) da solução corante B diluída recentemente preparada.
+Imediatamente, adicione 1 mL (novamente, aproximadamente 20 gotas) da solução corante A e deixe misturar cuidadosamente os dois corantes.
+Permita que a coloração ocorra por um período de tempo de 1 a 2 minutos e lave cuidadosamente com água e seque ao ar.Núcleos e flagelos são coloridos de vermelho, citoplasma em azul. Alterações morfológicas de células inflamatórias podem ser também examinadas por aplicação deste mesmo método.
+
+
+== Imagens adicionais ==
+
+		
+
+
+== Referências ==
+
+
+== Ligações externas ==
+Field stain receipe - thelabrat.com; (uma formulação da coloração de Field)

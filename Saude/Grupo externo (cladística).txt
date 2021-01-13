@@ -1,0 +1,27 @@
+Grupo externo (muitas vezes outgroup) é a designação dada em cladística ou filogenética ao um grupo de organismos mais distantemente relacionado que serve como grupo de referência para determinar as relações evolutivas do grupo interno, ou seja do conjunto de organismos em estudo. O conceito é distinto de «grupo externo» ou «exogrupo» utilizado em sociologia ou etnografia.
+
+
+== Descrição ==
+O grupo externo é usado como ponto de comparação para o grupo interno e permite especificamente que a árvore filogenética do grupo em estudo seja enraizada. Como a polaridade (direcção) da mudança de caracteres pode ser determinada apenas numa filogenia enraizada, a escolha do grupo externo é essencial para o entendimento da evolução das características ao longo de uma filogenia.Embora o conceito de grupo externo tenha sido usado desde os primórdios da cladística, acredita-se que o termo «outgroup» tenha sido cunhado no início dos anos 1970 no American Museum of Natural History. Antes da generalização do conceito e do termo, vários outros termos foram usados pelos biólogos evolucionários, incluindo «exogrupo», «grupo relacionado» e «grupos exteriores».
+
+
+== Escolha do grupo externo ==
+Na base da selecção do «grupo externo» está a hipótese de que este esteja menos filogeneticamente próximo do grupo interno (o grupo em estudo) do que qualquer dos membros do grupo interno entre si. A conclusão evolucionária dessas relações é que as espécies pertencentes ao grupo externo têm um ancestral comum com o grupo interno que é mais antigo que o ancestral comum que une os membros do grupo interno. Em consequência, a escolha do grupo externo pode modificar a topologia da filogenia que a partir dele é determinada.Em consequência da potencial arbitrariedade introduzida pela escolha do grupo externo, os filogeneticistas geralmente usam mais de um grupo externo na análise cladística. O uso de múltiplos grupos externos é preferível porque fornece uma filogenia mais robusta, protegendo contra os candidatos de grupos desfavoráveis e testando a monofilia hipotética do grupo interno.Para poder ser qualificado como um bom grupo externo, um táxon deve satisfazer cumulativamente as duas características seguintes:
+
+Não deve ser um membro do grupo interno (do grupo em estudo);
+Deve estar relacionado com o grupo interno, com uma relação filogenética suficientemente próxima para permitir comparações significativas com os caracteres definidores do grupo interno.Portanto, um grupo externo apropriado deve estar inequivocamente fora do clado de interesse no estudo filogenético. Um grupo externo que esteja aninhado dentro do grupo interno, quando usado para radicar a filogenia, resultará inevitavelmente em conclusões incorrectas sobre as relações filogenéticas e a evolução das características dos membros do grupo em estudo. No entanto, o nível óptimo de relacionamento do grupo externo com o grupo interno depende da profundidade da análise filogenética. Escolher um outgroup intimamente relacionado em relação ao grupo interno é mais útil quando se olha para diferenças subtis, enquanto escolher um grupo externo indevidamente distante pode resultar em confundir o fenómeno da evolução convergente com um relacionamento evolutivo directo devido à partilha de um ancestral comum.Para analises filogenéticas superficiais, por exemplo para resolver as relações evolutivas de um clado dentro de um género, um grupo externo apropriado seria um membro do clado irmão. No entanto, para uma análise filogenética mais profunda, os táxons menos próximos podem ser usados. Por exemplo, para investigar os primeiros ramos da filogenia das aves foram usados humanos e crocodilos como grupos externos.Em filogenética molecular, satisfazer o requisito de existência de um ancestral comum próximo tipicamente significa que sequências de DNA, ou de proteínas, do grupo externo possam ser alinhadas com sucesso para comparação com sequências do grupo interno. Embora existam abordagens algorítmicas para identificar os grupos externos com a máxima parcimónia global, estes grupos são frequentemente limitados por não reflectir a natureza quantitativa contínua de certos estados de caracter em estudo. Os estados de caracter são traços, ancestrais ou derivados, que afectam a construção de padrões de ramificação numa árvore filogenética.
+
+
+== Exemplos ==
+
+Em cada exemplo, uma filogenia de organismos no grupo interno pode ser enraizada por referência aos mesmos estados de cada característica (cada traço) em relação a um ou mais membros do grupo externo.
+
+
+== Ver também ==
+Apomorfia, uma característica derivada de um organismo.
+Grupo irmão, um grupo que pode estar intimamente relacionado com um grupo interno.
+Plesiomorfia, uma característica ancestral de um organismo.
+Primitivo (filogenética), um termo para designar características ancestrais.
+
+
+== Referências ==

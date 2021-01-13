@@ -1,0 +1,8 @@
+O triagem de alto rendimento ou HTS (em inglês) é um método para experimentação científica especialmente usado na descoberta de medicamentos e relevante para os campos de biologia e química.
+
+
+== Sistemas de automação ==
+Automação é um elemento importante na utilidade do HTS. Tipicamente, um sistema integrado autômata que consiste em um ou mais robôs transporta ensaios de microplacas de estação em estação para a amostra e adição de reagentes, mistura, incubação, e finalmente leitura ou detecção.
+
+
+== Referências ==

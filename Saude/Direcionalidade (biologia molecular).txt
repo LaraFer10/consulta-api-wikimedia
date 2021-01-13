@@ -1,0 +1,20 @@
+Em biologia molecular e bioquímica, a direcionalidade é a orientação química relativa às extremidades duma cadeia de ácido nucleico. As duas extremidades de uma cadeia de ácido nucleico denominam-se extremidade 5' e extremidade 3'. A convenção química para numerar os átomos de carbono num anel de furanose dum nucleótido consiste em utilizar "plicas" com os números (e nas bases nitrogenadas números sem "plicas"), pelo que se diz de carbono 1' (um plica), 2' (2 plicas), 3', 4' e 5'. Como os nucleótidos se unem uns aos outros pelos substitutos unidos aos seus átomos 5' (onde está o fosfato) e 3' (onde há um OH), os ácidos nucleicos têm extremidades 5' (onde está o fosfato terminal livre) e 3' (onde está o OH terminal livre). As posições relativas das estruturas situadas ao longo da cadeia do ácido nucleico, como os genes e diversos sítios de ligação de proteínas, geralmente se diz que estão em direcção à extremidade 5' (upstream ) ou em direcção à extremidade 3' (downstream). A cadeia do lado esquerdo desenvolve-se, de cima para baixo, na direcção 5’ – 3’, e a cadeia do lado direito desenvolve-se, de baixo para cima, na direcção de 5’ – 3’. 
+Esta convenção é importante porque os ácidos nucleicos só se podem sintetizar in vivo em direcção 5'-3', porque a polimerase utilizada para sintetizar as novas cadeias une os novos nucleótidos à extremidade 3'-OH. Por convenção, as sequências de cada cadeia de ADN e ARN escrevem-se na direcção 5'-3'.
+As duas cadeias que formam um ADN diz-se que são antiparalelas, isto é, desenvolvem-se em direcções opostas, isto é, à extremidade 3’ de uma cadeia corresponde a extremidade 5’ da outra cadeia.
+
+
+== Extremidade 5' ==
+ 
+A extremidade 5' (5') é a extremidade duma cadeia de ARN ou de ADN na qual está o 5º carbono do açucar (ribose ou desoxirribose, respectivamente) com o fosfato livre. O fosfato do carbono 5' poderia ligar-se ao grupo 3'-OH doutro nucleótido formando uma ligação fosfodiéster. A eliminação do 5'-fosfato impede a ligação. Para impedir ligações de ácidos nucleicos indesejadas (por exemplo, a autoligação dum plasmídio usado como vector na clonagem do ADN), os investigadores geralmente eliminam o grupo 5'-fosfato com uma fosfatase.
+A extremidade 5' dum ARNm nascente é o sitio onde se coloca o "capacete" (capping) depois da transcrição, um processo que é vital para o amadurecimento do ARNm. Esta modificação aumenta a estabilidade do ARN durante a sua transferência para o citoplasma. Consiste na ligação dum nucleótido metilado, a metilguanosina na extremidade 5' do ARN por meio duma ligação pouco habitual 5'-5'-trifosfato.
+Na região que flanqueia um gene na extremidade 5' há sequências que não se transcrevem para ARN. Essa região situada na direcção 5' contém o promotor do gene, e pode também conter amplificadores (enhancers) ou sítios de ligação de proteínas.
+A região 5' UTR (Untranslated Region, Região Não-Traduzida) é a região inicial dum gene na sua extremidade 5' que se transcreve para ARNm, mas não se traduz para proteínas no ribossoma. A ela liga-se o capacete 5' durante o amadurecimento do ARNm. Acaba no codão de início da síntese proteica AUG. Ainda que não se traduza, esta região tem sequências, como o sítio de ligação ao ribossoma e a sequência Kozak, que determinam a eficiência da tradução do ARNm, ou afectam a estabilidade do ARNm.
+
+
+== Referências ==
+
+Harvey Lodish, Arnold Berk, Paul Matsudaira and Chris A. Kaiser (2004). Molecular Cell Biology 5th ed. New York: W.H. Freeman and Company. ISBN 0-7167-4366-3  !CS1 manut: Nomes múltiplos: lista de autores (link)
+
+
+== Ligações externas ==
+A Molecular Biology Glossary

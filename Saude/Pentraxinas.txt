@@ -1,0 +1,39 @@
+As pentraxinas, também conhecidas como pentaxinas, são uma família conservada evolutivamente de proteínas caracterizadas por um domínio proteico de pentraxina. As proteínas da família da pentraxina são envolvidas em respostas imune agudas.  Elas são conhecidas  como proteínas de fase aguda (APP) por mais de um século.
+
+
+== Estrutura ==
+As pentranias são caracterizadas pela dependência de cálcio para ligação e uma estrutura chama em inglês de "flattened β-jellyroll", semelhante à de lectinas de legumes. O nome "pentraxina" é derivado das palavras gregas para 5 (penta) e frutas silvestres (ragos), devido a simetria radial de 5 monômeros formando um anel de 95Å de diâmetro e 35Å de profundidade nos primeiros membros identificados. As pentraxinas "curtas" incluem o componente amiloide sérico P (SAP) e a  proteína C reativa (CRP).As pentraxinas "longas" incluem PTX3 (uma molécula modulada por citocinas) e diversas pentraxinas neuronais.
+
+
+== Membros da família ==
+3 dos principais membtros da família são proteínas séricas: a proteína C reativa (CRP), o componente amiloide sérico P (SAP), e a proteína de fêmea (FP). A proteína PTX3 (ou TSG-14) é uma proteína induzida por citocina homóloga à CRP, mas sem função conhecida.
+
+
+=== Proteína C-reativa ===
+A proteína C reativa é expressa durante a fase aguda de resposta ao dano tissular ou inflamação em mamíferos. A proteína assemelha-se a anticorpos e executa diversas funções associadas com a defesa do hospedeiro: promoção de aglutinação, inchaço da capsula bacteriana e fagocitose, além de ativar a via cássica do complemento através da sua ligação dependente de cálcio à fosfocolina. CRPs já foram sequenciadas em um invertebrado, Limulus polyphemus, onde constituem parte normal da hemolinfa
+
+
+=== Componente amiloide sérico P ===
+Componente amiloide sérico P é uma proteína de vertebrados idêntica às formas tissulares do componente amiloide P. Ele é encontrado em todos os tipos de depósitos amiloides, na mebrana basal glomerular e em fibra elásticas nos vasos sanguíneos. SAP liga-seà diversos ligantes de lipoproteínas de forma dependente de cálcio e foi sugerido que, em mamíferos, isso pode ter implicações importantes na aterosclerose e na amiloidose..
+
+
+=== Proteína de fêmea de hamster ===
+A proteína de fêmea de hamster é homóloga ao SAP e é encontrada em Mesocricetus auratus (Hamster sírio). A concentração dessa proteína é alterada por esteroides sexuais.
+
+
+=== Sistema nervoso ===
+Pentraxinas expressas no sistema nervoso são as pentraxinas neurais  I (NPTXI) e II (NPTXII). NPTXI e NPTXII são homólogas e podem coexistir em uma mesma espécie. Sugere-se que ambas as proteínas medeiem a captação de macromoléculas sinápticas e participem da plasticidade sináptica. A apexina, uma proteína espermática acrossomal, é um homólogo de NPTXII encontrada em Cavia porcellus (Porquinho-da-índia).
+
+
+=== Humano ===
+Genes humanos codificando proteínas que contém esse domínio incluem:
+
+APCS
+CRP
+GPR144
+NPTX1; NPTX2; NPTXR
+PTX3
+SVEP1
+
+
+== Referências ==

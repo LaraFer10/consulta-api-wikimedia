@@ -1,0 +1,15 @@
+Em bioquímica, uma sintase é uma enzima que catalisa um processo de síntese. De acordo com a classificação de número EC, ela pertence ao grupo de ligases, com liases catalisando a reação inversa.
+Note-se que, inicialmente, a nomenclatura bioquímica distinguia entre sintetases e sintases. Nos termos da definição original, as sintases não usam energia de trifosfatos de nucleósidos (tais como ATP, GTP, CTP, TTP, e UTP), enquanto as sintetases usam trifosfatos de nucleósidos. No entanto, a Comissão Conjunta de Nomenclatura Bioquímica (JCBN) determina que 'sintase' pode ser usada com qualquer enzima que catalisa a síntese (usando ou não trifosfatos de nucleósidos), ao passo que 'sintetase' é para ser usada como sinônimo de 'ligase'.
+
+
+== Exemplos ==
+ATP sintase
+Citrato sintase
+Tritofano sintase
+Pseudouridina sintase
+Ácido graxo sintase
+Celulose sintase (formadora de UDP)
+Celulose sintase (formadora de GDP)
+
+
+== References ==

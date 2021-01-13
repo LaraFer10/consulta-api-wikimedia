@@ -1,0 +1,20 @@
+A hemofilia B é uma doença causada pela mutação no gene do fator IX. É o segundo maior tipo de hemofilia, sendo superado pela hemofilia A.  Também é conhecida como doença de Christmas em homenagem a Stephen Christmas, o primeiro paciente descrito com esta doença.
+
+
+== Sintomas ==
+Hemorragias nas articulações (hemartroses)
+Hematomas
+Sangramentos constantes
+Dores intra-muscularesOs dados clínicos e de laboratório são similares aos da hemofilia do tipo A.
+
+
+== Diagnóstico Laboratorial ==
+"O diagnóstico laboratorial da hemofilia baseia-se no resultado de TTPA (tempo de tromboplastina parcial ativada) prolongado e deficiência de um dos fatores de coagulação (29). O TTPA valia as vias intrínseca e comum da cascata da coagulação (pré-calicreína, cininogê- nio de alto peso molecular, fatores XII, XI, IX, VIII, X, V, protrombina e fibrinogênio). O TTPA mostra-se mais sensível a deficiências dos fatores VIII e IX ou fatores da via comum (18). O coagulograma é um conjunto de exames que deve ser solicitado pelo médico ou dentista para verificar se a coagulação do paciente está normal, sendo fundamental em pré-operatórios (30). Em testes de triagem, encontra-se em normalidade no tempo de sangramento (TS), pois as rolhas hemostá- ticas podem formar-se normalmente; tempo de protrombina (TP), porque a elevada concentração de fator tecidual usada neste teste resulta em ativação direta do fator tecidual-fator VII do fator X, que reprimi a necessidade dos fatores VIII e IX; tempo de trombina (TT), devido á reação trombina-fibrinogênio ser normal (9,31). Os testes laboratoriais com resultados anormais são: tempo de coagulação (TC) aumentado, tempo de tromboplastina parcial ativado (TTPA) aumentado, teste de geração da tromboplastina alterado, consumo de protrombina alterado com protrombina residual do soro aumentado, dosagem dos fatores VIII ou IX alterada com taxas variáveis (23). Quando o fator IX é o fator deficiente , não são necessários testes posteriores. Mas, se o fator deficiente for o VIII, deve-se dosar o nível plasmático do antígeno Von Willebrand por eletroimunoensaio, para se excluir qualquer possibilidade de doença de Von Willebrand (9)".
+
+
+== Tratamento ==
+O tratamento da hemofilia, basicamente, consiste na reposição do fator anti-hemofílico. Paciente com hemofilia B, a molécula do fator IX. Os hemocentros distribuem gratuitamente essa medicação que é fornecida pelo Ministério da Saúde.
+"A terapia de reposição nas hemofilias depende do quadro clínico e baseia-se nas seguintes fórmulas:
+Unidades internacionais (UI) de fator IX = peso (kg) × ∆ 
+Onde: ∆ = % de fator a ser elevado − % de fator residual endógeno.
+Exemplo para o cálculo de reposição: Paciente com hemofilia A moderada (4% de fator VIII basal), com hemartrose de joelho e peso de 50 kg (elevar o fator VIII a 30% ou 15 UI/kg): UI de fator VIII = 50 × (30 − 4)/2 = 50 × 13 = 650 UI Nota: deve-se considerar a apresentação dos frascos para arredondamento da dose, para cima ou para baixo de acordo com a gravidade do episódio hemorrágico."

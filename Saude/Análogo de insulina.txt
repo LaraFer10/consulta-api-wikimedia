@@ -1,0 +1,94 @@
+Um análogo de insulina é uma forma alterada de insulina, diferente de qualquer que ocorrem na natureza, mas ainda está disponível para o corpo humano para executar a mesma acção de insulina humana em termos de controle glicêmico. Através da engenharia genética do DNA subjacente, a seqüência de aminoácidos da insulina podem ser características alteradas da sua "ADME" (absorção, distribuição, metabolismo e excreção). Oficialmente, a Administração de Alimentos e Drogas dos EUA (FDA) referiu essa insulina como "ligantes do receptor de insulina", embora sejam mais comumente referido como análogos de insulina.
+Estas modificações têm sido usadas para criar dois tipos de análogos de insulina: aqueles que são mais facilmente absorvidos no local da injecção e, portanto, agir mais rápido do que a insulina natural injetado por via subcutânea, destina-se a fornecer o nível de bólus de insulina necessária após uma refeição, e aqueles que são liberado lentamente durante um período de entre 8 e 24 horas, destina-se a fornecer o nível basal de insulina para o dia. Análogo de insulina foi fabricado pela "Eli Lilly and Company".
+
+
+== Insulina animal ==
+A sequência de aminoácidos de insulina é quase o mesmo em mamíferos diferentes. A insulina suína tem apenas uma variação de um único aminoácido da variedade humana e insulina bovina varia de três aminoácidos. Ambas estão presentes no receptor humano, com aproximadamente a mesma força. Antes da introdução da insulina humana biossintética, a insulina proveniente de tubarões foi amplamente utilizado no Japão. Mesmo a insulina de algumas espécies de peixes pode ser eficaz em seres humanos. As insulinas não-humanas podem causar reações alérgicas em um pequeno número de pessoas, como se fosse geneticamente "de insulina humana". A "insulina sintética humana" tem substituído amplamente a insulina animal. Com o advento da cromatografia líquida de alta performance (equipamentos HPLC), o nível de purificação das insulinas de origem animal tenha atingido tão elevado como 99%, enquanto o nível de pureza das insulinas humanas sintéticas feitas através do DNA recombinante tem apenas atingido um nível de pureza máxima de 97%, o que levanta questões sobre a alegação de pureza da insulina sintética em relação às variedades de insulina de origem animal.
+
+
+== Quimicamente e enzimaticamente insulinas modificadas ==
+
+Modificações químicas das cadeias de aminoácidos no lado N-terminal e/ou C-terminal foram feitas a fim de alterar as características ADME do análogo. A empresa farmacologista dinamarquesa Novo Nordisk ® foi capaz de converter enzimaticamente a insulina suína em "insulina humana", removendo o único aminoácido que varia a partir da variedade humana, e quimicamente adicionando o correcto.
+
+
+== Análogos de insulina não-hexaméricas ==
+As insulinas humanas não-modificadas e suínas tendem a complexos de zinco no sangue, formando hexâmeros. Insulina na forma de um hexâmero não liga aos seus receptores, de modo tem de equilibrar lentamente de volta para seus monômeros para ser biologicamente útil. A insulina hexamérica por via subcutânea não está prontamente disponível para o corpo quando a insulina é necessária em doses maiores, como após uma refeição (embora esta seja mais uma função da insulina administrada por via subcutânea, como a insulina administrada por via intravenosa, é distribuído rapidamente aos receptores celulares e, portanto, tem evitar esse problema). Combinações de zinco de insulina são usados para a liberação lenta de insulina basal. Insulina basal é a quantidade que o organismo necessita em um dia, excluindo o montante necessário após as refeições. Insulinas não hexaméricas foram desenvolvidas para ser mais rápido e de qualidade para substituir a injecção de insulina não modificada normal antes de uma refeição.
+
+
+=== Insulina NPH ===
+Insulina NPH, também conhecido como Humulin N, N Novolin, Novolin NPH, Lletin II NPH e insulina isófana, comercializado pela empresa "Eli Lilly and Company", sob o nome Humulin N, é uma insulina de acção intermediária, dado que ajuda a controlar o nível de açúcar no sangue aqueles com diabetes.
+
+
+=== Insulina lispro ===
+"Eli Lilly and Company" teve o primeiro análogo de insulina com "insulina", como um análogo de insulina de accção rápida. É comercializado sob o nome comercial de Humalog. Ele foi projetado com tecnologia de DNA recombinante para que o penúltimo de lisina e de resíduos de prolina no C-terminal da cadeia B foram invertidos. Esta modificação não alterou a ligação ao receptor, mas bloqueou a formação de dímeros de insulina e hexâmeros. Isso permitiu maior quantidade de insulina monomérica activa esteja disponível para pós-prandial (após refeição) injeções.
+A comercialização da insulina lispro (Humalog®) em Portugal tem vindo a ser adiada, aparentemente, por motivo de desacordos burocrático-financeiros.
+
+
+=== Insulina aspártica ===
+
+Novo Nordisk criou "aspart" e comercializou como NovoLog / NovoRapid ( Inglaterra- Canadá) como um análogo de insulina de acção rápida. Ele foi criado através da tecnologia do DNA recombinante, para que o aminoácido, B28, que é normalmente prolina, é substituída por um resíduo de ácido aspártico. A seqüência foi inserido no genoma da levedura, a levedura e expressou o análogo de insulina, o que foi, então, colhida a partir de um biorreator. Este análogo também impede a formação de hexâmeros, para criar uma insulina de acção rápida atuação. É aprovado para uso em bombas CSII e FlexPen, dispositivos de entrega NovoPen para a injecção subcutânea.
+
+
+=== Insulina glulisina ===
+Glulisina é um novo análogo de insulina de acção rápida da Sanofi-Aventis, aprovados para uso com uma seringa normal, em uma bomba de insulina ou a caneta OptiClik . Norma entrega seringa também é uma opção. É vendido sob o nome de Apidra. O FDA aprovou estados rótulo que ele difere da insulina humana regular pelo seu início rápido e curta duração de acção .
+
+
+== Insulinas com pontos isoelétricos deslocados ==
+Insulina não modificada normal é solúvel em pH fisiológico. Análogos foram criados que têm um ponto isoelétrico deslocado de modo que elas existem em um equilíbrio de solubilidade em que a maioria se precipita para fora, mas se dissolve lentamente na corrente sangüínea e eventualmente é excretada pelos rins. Estes análogos de insulina são usadas para substituir o nível basal de insulina, e pode ser eficaz durante um período de aproximadamente 24 horas. No entanto, alguns análogos da insulina, como a insulina detemir, ligam à albumina, em vez de gordura como antes variedades de insulina, e os resultados do uso a longo prazo (por exemplo, mais de 10 anos) nunca foram lançados.
+No Brasil, existem dois análogos de acção prolongada, a insulina glargina (Lantus) e a insulina detemir (Levemir).
+
+
+=== Insulina glargina ===
+Sanofi-Aventis desenvolveu glargina como um análogo de insulina mais duradouro, e o mercado colocou Lantus como nome comercial. Ela foi criada através da modificação três aminoácidos. Duas moléculas de arginina, carregados positivamente foram adicionados ao C-terminal da cadeia B, e eles mudam o ponto isoelétrico 5,4-6,7, fazendo glargina mais solúvel em pH ligeiramente ácidos e menos solúvel em pH fisiológico. Substituição do ácido-sensíveis asparagina na posição 21 na A-corrente por glicina é necessária para evitar desaminação e dimerização do resíduo de arginina. Estas três mudanças estruturais e de formulação, com resultados de zinco em uma acção prolongada quando comparada com a insulina humana biossintética. Quando a solução de pH 4,0 é injetado, a maioria do material precipita e não é biodisponível. Uma pequena quantidade é imediatamente disponível para uso, eo restante é seqüestrado no tecido subcutâneo. Como a insulina glargina é usado, pequenas quantidades do precipitado irá mover-se em solução na corrente sangüínea eo nível basal de insulina será mantida até 24 horas. O início da acção da insulina glargina subcutânea é um pouco mais lento do que a insulina humana NPH.
+
+
+=== Insulina detemir ===
+Novo Nordisk criado insulina detemir e comercializa-lo sob o nome comercial Levemir como um análogo de insulina de longa duração para a manutenção do nível basal de insulina. O nível basal de insulina pode ser mantida até 20 horas, mas o tempo é claramente afetada pelo tamanho da dose injetada. Esta insulina tem uma afinidade elevada para albumina, aumentando a sua duração de acção.
+
+
+== Carcinogenicidade ==
+Todos os análogos de insulina devem ser testados para carcinogenicidade, como a insulina dedica a falar com os caminhos da IGF, que pode causar o crescimento de células anormais e tumorigênese. Modificações insulina para carregar sempre o risco de inadvertidamente reforçar IGF sinalização para além das propriedades farmacológicas desejadas.
+
+
+== Crítica ==
+Uma meta-análise de vários estudos randomizados controlados pela internacional Cochrane Collaboration encontrado "beneficiar apenas uma pequena clínica de tratamento com análogos da insulina de longa acção (incluindo dois estudos de insulina detemir) para pacientes com diabetes mellitus tipo 2",  enquanto outros têm examinado o mesmo problema no diabetes tipo 1.
+Em julho de 2007, o Instituto Alemão para a Qualidade e a Rentabilidade do Setor de Saúde [IQWiG] chegou a uma conclusão muito semelhante. Em seu relatório, IQWiG concluiu que existe actualmente "nenhuma evidência" disponível da superioridade dos análogos de insulina rápida, agindo sobre insulinas humanas sintéticas no tratamento de pacientes adultos com diabetes tipo 1. Muitos dos estudos revisados por IQWiG ou eram muito pequenos para serem considerados estatisticamente confiáveis, e talvez a mais significativa, nenhum dos estudos incluídos na sua revisão generalizada eram cegos, a metodologia padrão-ouro para a realização de investigação clínica. No entanto, os termos de referência do IQWiG explicitamente ignorar quaisquer questões que não podem ser testadas em estudos duplo-cegos, por exemplo, uma comparação dos regimes de tratamento radicalmente diferentes. IQWiG é vista com ceticismo por alguns médicos na Alemanha, sendo visto apenas como um mecanismo para reduzir custos. Mas a falta de cegueira estudo faz aumentar o risco de viés nestes estudos. A razão que esta é importante porque os pacientes, se eles sabem que estão usando um tipo diferente de insulina, podem se comportar de maneira diferente (como testes de glicemia com mais freqüência, por exemplo), o que leva a um viés nos resultados do estudo, tornando os resultados inaplicável ao diabetes população em geral. Numerosos estudos concluiu que qualquer aumento nos testes de níveis de glicose no sangue é susceptível de produzir melhoras no controle glicêmico, o que levanta questões sobre se as melhorias observadas nos ensaios clínicos para análogos de insulina foram o resultado de um teste mais freqüente devido a drogas ou sofrer ensaios.
+Mais recentemente, a Agência Canadense de Medicamentos e Tecnologia em Saúde (CADTH) também encontraram na comparação 2008 sobre os efeitos dos análogos da insulina e da insulina humana biossintética que os análogos de insulina não mostrou qualquer diferença clinicamente relevante, tanto em termos do controle glicêmico e efeitos adversos Perfil de reação.
+
+
+== Produção no Brasil ==
+A produção de análogos de insulina no Brasil, através da técnica de ADN recombinante, foi desenvolvida em 1990, em um projeto desenvolvido por Marcos Luís Mares Guia, bioquímicos da UFMG e pesquisadores da Biobrás e da Universidade de Brasília. A técnica consiste em introduzir na bactéria Escherichia coli, comum na flora intestinal humana, o gene da pró-insulina humana, para que ela passe a produzir o hormônio, um processo que dura 30 dias, um terço do tempo do método tradicional. Em 2001 somente quatro empresas no mundo, incluindo a Biobrás, tinham tecnologia de produção industrial da insulina recombinante. A Biobrás patenteou o processo nos Estados Unidos em 2000  e em 2002 foi comprada pela dinamarquesa Novo Nordisk. Comprada a Biobrás, a Novo Nordisk elevou rapidamente seus preços de fornecimento ao Ministério da Saúde combinando a importação e produção local, até acabarem fechando a produção dos cristais de insulina no Brasil para aqui fazer só envazamento.Em 2013 o governo federal anunciou que o Brasil vai retomar a produção de insulina por meio do Laboratório Biomanguinhos, da Fundação Oswaldo Cruz, parte de um acordo firmado entre o governo e o laboratório ucraniano Indar, um dos três produtores remanescentes de insulina no mundo, que vai transferir a tecnologia para a produção nacional do medicamento.Após o acordo de intenções com a Ucrânia, a Novo Nordisk, embora alegasse que a insulina ucraniana não tinha qualidade, fez proposta de compra do Indar ao governo. Um mês após a assinatura do contrato, em uma nova licitação governamental para aquisição de insulina, os preços da insulina oferecidos pelas empresas concorrentes baixaram quase à metade.
+
+
+== Cronologia ==
+1922 Banting e Best use extrato de insulina bovina em humanos
+1923 Eli Lilly and Company (Lilly) produz quantidades comerciais de insulina bovina
+1923 Hagedorn funda a Insulinlaboratorium Nordisk na Dinamarca precursor da Novo Nordisk
+1926 Nordisk recebe Carta dinamarquês para produzir insulina como uma organização sem fins lucrativos
+1936 canadenses D.M. Scott e A.M. Fisher formular mistura de insulina zinco e licença de Novo
+1936 Hagedorn descobre que a adição de protamina à insulina prolonga o efeito da insulina
+1946 Nordisk formula insulina isófana suína e insulina protamina neutra Hagedorn ou NPH
+1946 Nordisk cristaliza uma mistura de insulina protamina
+1950 Nordisk insulina NPH mercados
+1953 Novo Lente formula insulinas suína e bovina pela adição de zinco para insulina de duração
+1978 Genentech produz insulina humana "Sintético" em bactérias Escherichia Escheria usando a tecnologia do DNA recombinante
+1981 Novo Nordisk química e enzimaticamente convertidos insulina suína de 'insulina humana'
+1982 Genentech produz "insulina humana sintético", e é aprovada em grande parte graças à sua parceria com a Eli Lilly and Company, que guiou o produto através da E.U. Food and Drug Administration (FDA) a aprovação processo
+1983 Lilly Humulin produz "sintéticos e recombinantes" de insulina humana.
+1985 Axel Ullrich sequências do receptor de insulina humana
+1988 Novo Nordisk produz sintética, a insulina recombinante humana "
+1996 Lilly Humalog lispro análogo de insulina aprovado pela Food and Drug Administration E.U.
+2003 Aventis Lantus "glargina" análogo de insulina aprovado em EUA.
+2004 Sanofi Aventis insulina Apidra "glulisina" análogo aprovado para uso clínico no E.U.A..
+2006 Novo Nordisk Levemir "insulina detemir" análogo aprovado em E.U.A.
+
+
+== Referências ==
+
+
+== Ligações externas ==
+«Apidra» 
+«Humalog» 
+«Lantus» 
+«Levemir» 
+«Novolog»

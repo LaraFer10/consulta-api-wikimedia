@@ -1,0 +1,11 @@
+Sequenciação de proteínas é a determinação das sequências de aminoácidos que constituem um péptido; e também a determinação da conformação que adopta e se é complexado com outras moléculas não-péptidas. Descobrir as estruturas e funções de proteínas em organismos vivos é uma ferramenta importante para a compreensão dos processos celulares e permite que sejam mais facilmente desenhados medicamentos que atinjam vias metabólicas específicas.
+Os dois principais métodos directos de sequenciação de proteínas são espectrometria de massa e a reacção de degradação de Edman. Também é possível gerar uma sequência de aminoácidos a partir de uma sequência de DNA ou mRNA que codifiquem a proteína, se esta for conhecida. Há também uma série de outras reacções que podem ser usadas para ganhar informação mais limitada sobre as sequências das proteínas e que podem ser usadas preliminarmente aos métodos já referidos ou para ultrapassar limitações específicas desse métodos.
+
+
+== Referências ==
+Henry Jakubowski. Biochemistry Online, chapter 2 B.[1]
+Hanno Steen & Matthias Mann. The abc's (and xyz's) of peptide sequencing. Nature Reviews Molecular Cell Biology, 5:699-711, 2004.
+Sergio Marchesini Michael W. King. Analysis of protein.[2]
+R A Rastall. Investigating protein structure and function.[3]
+Alberts Bray Johnson Lewis Raff Roberts & Walter. 1998. Essential Cell Biology: An Introduction to the Molecular Biology of the Cell. Garland Publishing, New York.
+Este artigo foi inicialmente traduzido do artigo da Wikipédia em inglês, cujo título é «Protein sequencing».

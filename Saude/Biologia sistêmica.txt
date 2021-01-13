@@ -1,0 +1,44 @@
+Biologia sistémica (português europeu) ou Biologia Sistêmica (português brasileiro), ou mesmo biologia de sistemas, é a averiguação do intercâmbio entre os "componentes" (elementos, entidades) de um Sistema Biológico, e como essas influências mútuas conduzem à manifestação de funções (capacidades) e comportamentos do sistema em tese, tituladas de Propriedades Emergentes, do inglês emergent properties. 
+Como exemplo de estudos em biologia sistêmica tem-se o ritmo cardíaco, ver por exemplo (, ). Como explica . O ritmo cardíaco nasce da influência mútua entre proteínas; em geral, interação entre proteínas e como isso cria propriedade nos sistemas biológicos é estudado pela Proteômica. Quando a ideia de que o ritmo cardíaco era controlado por interação entre proteínas  foi apresentada pela primeira vez, muita aversão foi criada; oscilação nasce sem a demanda física de um eixo rotatório, exclusivamente interação. Esse tipo de propriedade tem sido estudado pela biologia sistêmica valendo-se de sistemas dinâmicos. 
+Como forma de instruir-se de muitas das particularidades da biologia sistêmica, ver vídeo   publicado na língua inglesa, mas com textos em português. Nesse vídeo se espera de entender de forma bem clara as mudanças de paradigma, cada vez mais biólogos precisarão trabalhar em sinergia com físicos, matemáticos, engenheiros e vise-versa  na busca de criar teorias mais completas no que tange explicações científicas.
+A biologia sistêmica faz pleno uso de matemática e computação. Como destaca Pires: "O emprego de modelos matemáticos começou basicamente no começo do século passado, mas ganhou impulso com a criação e disseminação dos computadores. A biologia sistêmica é um dos filhos dessa mudança."
+
+
+== O que é Biologia Sistêmica? ==
+De acordo com : "A Biologia Sistêmica é o ramo da ciência que busca entender os organismos biológicos em todos os seus níveis, desde a caracterização de suas partes constituintes (genes, RNAs, proteínas, metabólitos), a elucidação das interconexões entre os distintos membros dessas redes de interações, até a compreensão do organismo como um todo." (*) Esta definição enquadra alguns estudos da bioinformática dentro do ramo da biologia sistêmica, ou mesmo da biologia molecular. Talvez uma tentativa de aplicar esta definição pode ser encontrado em, no qual se procura modelar a dinâmica do corpo vitral usando informações que potencialmente pertencem ao genótipo, ou seja, uma abordagem bottom-up em vez de top-down. Abordagens para modelar podem ser divididas em bottom-up e top-down. No caso da abordagem bottom-up, usamos a abordagem reducionista e estudamos os componentes básicos e integramos estes para encontrarmos padrões e funções. Na abordagem  top-down, começamos de um sistema intacto e o decompomos em partes e interações. Problemas ocorrem quanto estas abordagens falham, não conhecemos os componentes e interações de forma integral. De acordo com, neste caso devemos aplicar o que se chama de middle-way-out, "caminho do meio".
+
+Na verdade como muitos destacam, um definição direta e simples não é possível, principalmente devido ao fato de que o campo tem mudado com a evolução de paradigmas, o que é claro são as raizes desta que são, usando como referência : biologia matemática (mathematical biology), biologia molecular (Molecular Biology), matemática, física, ciência da computação, engenharia, e outras; ver esquema ao lado.  
+Como destaca, biologia sistêmica busca alcançar certa similaridade ao pensamento da física, pensamento dedutivo, a biologia tradicional foi marcada por experimentos sem generalização; como exemplo alternativo, mas bastante próximo ver estudos em farmacocinética (pharmacokinetics) e farmacodinâmica (pharmacodinamics).
+Exemplos de componentes que "interagem dinamicamente", interação necessariamente envolve dinâmica, incluem: genes, enzimas e metabólitos numa via metabólica, ou  mesmo receptores na superfície celular. Pode ser útil a ilustração de conceber a biologia sistêmica como a aplicação da teoria de sistemas à biologia, algo que se deve manter atenção uma vez que biologia sistêmica possuem "movimentos" próprios. O conceito que certamente serviu como carro-chefe da biologia sistêmica foi o conceito de circuito genético.Ainda, esta seria uma analogia natural com outros termos já incorporados na nossa língua como: princípios e conceitos sistêmicos, pensamento sistêmico, redes sistêmicas, linguística sistêmica, etc. Entretanto, em outras línguas escolheu-se uma tradução "ao pé da letra" do inglês, como para o francês em Biologie des systèmes, espanhol Biología de sistemas ou o italiano em Biologia dei sistemi . Cabe ainda a comunidade científica falante do Português dar a palavra final neste assunto uma vez que, como área nova em Portugal e no Brasil, ainda não existe uma cultura estabelecida.
+A abordagem da biologia sistêmica é caracterizada pelo uso, em alternância cíclica, de: teoria, modelagem computacional/matemática e experimentos para descrever quantitativamente células e processos celulares.
+
+
+== Objetivos da Biologia Sistêmica ==
+Uma vez que o objetivo é modelar todas as interações de um sistema, as técnicas experimentais que melhor se ajustam ao seu paradigma são as "técnicas modernas de larga-escala" (tradução tentativa para high-throughput), também conhecidas como as técnicas da família "ôma" (numa tradução tentativa para omics do inglês) (como genomics, em português genômica, transcriptomics ou transcritômica, proteomics ou proteômica, metabolomics ou metabolômica, e assim por diante). Ver esquema abaixo.
+
+
+== Biologia Sistêmica Computacional ==
+Biologia sistêmica computacional, termo proposto por Kitano em 2002, é um campo que objetiva entender sistemas no "nível de sistemas" através de análises de dados biológicos usando técnicas computacionais. Apesar da definição, de 2006, hoje aparentemente não existem diferenças entre biologia sistêmica computacional e biologia sistêmica; pode-se afirmar que quase cem por cento dos problemas tratados por biologia sistêmica exigem uso de computadores. Talvez uma diferença que possa ter permanecido seja aquela destacada em, no qual a preocupação é em gerar suporte computacional para o crescimento da biologia sistêmica.
+
+
+== Medicina P4 ==
+O surgimento da biologia sistêmica está trazendo a tona  novos desafios na busca de colocar a ciência e tecnologia um passo a frente. através de definindo caminhos de estudos de sistemas biológicos no nível global, integrando dados de grande escala e diferente em origem, lidando com a infraestrutura necessária para fazer biologia sistêmica acontecer, são somente um dos extraordinários movimentos da disciplina em crescimento. Medicina de forma adicional é um campo em crescimento, tratando pontos que revolucionaram as áreas médicas, transformando medicina de reativa para preventiva. Essas mudanças serão catalisadas por um pensamento sistêmico no tratamento de doenças que irão instigar o surgimento da medicina personalizada. Hoje temos o que alguns chamam de P4 Medicine, algo que surgiu do crescimento da biologia sistêmica nos últimos anos, 
+
+
+== Eventos na área ==
+International Course on Theoretical and Applied Aspects of Systems Biology: (Brasil);
+Systems Biology and Systems Medicine: Towards Precision Medicine (Itália)
+CIBio-CBIC Workshop -2017
+
+
+== Ligações externas ==
+Biologia Sistêmica: um novo paradigma para as ciências biológicas e exatas “ou” Biologia Sistêmica e Inteligência Computacional;
+Molecular Systems Biology - open access journal on systems biology
+BMC Systems Biology - open access journal on systems biology
+The International Society for Systems Biology Organizadora da International Conference on Systems Biology (ICSB).
+
+
+== Notas ==
+
+
+== Referências ==

@@ -1,0 +1,7 @@
+Tirosino-quinase 3 Fms-relacionado (FLK2, STK1, CD135 ou FLT3) é um gene relacionado com a proliferação de células sanguíneas.
+Este gene codifica um receptor tirosino-quinase de classe III que regula a hematopoiese. Este receptor consiste de um domínio extracelular composto de cinco domínios semelhantes a imunoglobulina, uma região transmembrana e um domínio citoplasmático dividido em duas partes por um domínio de inserção da quinase.
+Este receptor é ativado pela ligação do ligante FLT3 ao domínio extracelular, o que induz a formação de um homodímero na membrana plasmática levando a autofosforilação do receptor. O receptor ativado subsequentemente fosforila e ativa múltiplas moléculas efetoras citoplasmáticas e vias de sinalização que envolvem apoptose, proliferação e diferenciação de células hematopoiéticas na medula óssea.
+Mutações que resultam na ativação constitutiva deste receptor estão relacionadas com a leucemia mielóide aguda e a leucemia linfóide aguda.
+
+
+== Referências ==

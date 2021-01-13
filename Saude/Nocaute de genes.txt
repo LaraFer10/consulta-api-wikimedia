@@ -1,0 +1,11 @@
+O nocaute (do inglês, knockout) ou inativação de um gene é uma técnica genética que consiste em bloquear a expressão de um gene específico num organismo (um rato, uma planta, uma levedura), substituindo o gene original em seu locus por uma versão modificada do mesmo, da qual se extraiu um ou vários éxons para gerar uma versão não funcional, incapaz de produzir a proteína que codificava o gene original.A técnica “Nocaute” ou “Knock Out” dos genes foi desenvolvida nos anos 1980 pelos cientistas Mario Capecchi, Oliver Smithies e Martin Evans que receberam o Prêmio Nobel de Fisiologia ou Medicina de 2007 graças ao desenvolvimento dessa técnica.
+Esse método permite que um gene específico seja desligado (nocauteado), que possibilita a observação do que acontece quando um organismo se desenvolve sem esse gene, os animais mais utilizados nas pesquisas são camundongos graças a sua gestação rápida, alta taxa de reprodução e rápida maturação, e também pela semelhança com o organismo humano.
+
+Primeiro se clona o gene escolhido e ocorre a modificação in vitro, a modificação ocorre inserindo dois genes, o da resistência a neomicina e o da timidina quinase. Depois os genes modificados são inseridos em um vetor que será inserido em células germinativas primordiais de camundongos. As células serão cultivadas em meio com neomicina e ganciclovir, as células que sofreram modificação conseguem sobreviver e são selecionadas. As células selecionadas são inseridas in vitro em blastocistos de fêmeas de camundongo de coloração diferente da fêmea cujo gene foi retirado, é importante a coloração da pelagem ser diferente pois o processo quando dá certo é evidenciado pela mistura da coloração graças a recombinação dos genes.
+
+
+== Referências ==
+3. https://www1.folha.uol.com.br/fsp/ciencia/fe0910200701.htm
+4. https://www.biomedicinapadrao.com.br/2013/04/o-que-sao-camundongos-nocauteados-knock.html
+
+5. http://www.scielo.br/pdf/%0D/qn/v29n6/33.pdf

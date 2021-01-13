@@ -1,0 +1,21 @@
+Na biologia molecular, o Centrômero e Fator de Transcrição 1 (Cpf1) ou CRISPR-Cas12a, é uma única endonuclease guiada por ARN sem um tracrRNA e que utiliza um par de bases 2-6 rica em base-T de  uma sequência de ADN imediatamente a seguir à PAM, que é uma sequência de ADN destino da nuclease Cas9 no sistema imunitário adaptativo CRISPR bacteriana. Ela reconhece um PAM rico em T (TTTN) mas no lado 5' do guia.  Cpf1 cliva o ADN através de uma ruptura da cadeia dupla de DNA escalonada.  CRISPR-Cas12a é da família Tipo V.  O Cas12a pode ter como alvo uma faixa mais ampla de motifs adjacentes de proto-espaçador (PAM), uma atividade de edição aprimorada e tem efeitos de redução de fora do alvo.
+
+
+== Edição de genoma ==
+Das 16 proteínas da família de Cpf1, os cientistas identificaram duas enzimas candidatas de Acidaminococcus e Lachnospiraceae, com atividade eficiente de edição do genoma em células humanas. Cpf1 foi introduzido com características que  está faltando em SpCas9. Cpf1 requer apenas um curto ARN de CRISPR (crRNA) de 42-nt para encontrar o seu alvo, em vez do RNA de guia de ~100-nt para SpCas9, e reconhece um PAM que é 5' em vez de 3' do destino.
+Os pesquisadores usaram o Cas12a porque ele oferece outras características desejadas não encontradas no Cas9. Mas até 2018, não havia inibidores conhecidos para Cas12a, o que impediu seu uso em pesquisas.  Usando um sistema para pesquisar através de genomas bacterianos que envolvem a procura de fragmentos genéticos que normalmente são letais para as bactérias, mas não para bactérias que têm inibidores, uma equipe encontrou três inibidores, incluindo um que se destacou, chamado AcrVA1. A outra equipe encontrou vários candidatos que também funcionaram como esperado quando testados com células humanas. A segunda equipe também achou o AcrVA1 particularmente eficaz.
+
+
+== COVID-19 ==
+Um teste de fluxo lateral rápido, aproximadamente 30 minutos, barato e preciso, com 95% de concordância preditiva positiva e 100% de concordância preditiva negativa, para detecção de SARS-CoV-2,  baseado em CRISPR-Cas12 foi desenvolvido e recebeu validação inicial em abril de 2020.
+
+
+== Ver também ==
+CRISPR
+CRISPR/Cas
+
+
+== Notas ==
+
+
+== Referências ==

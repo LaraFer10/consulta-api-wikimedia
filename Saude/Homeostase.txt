@@ -1,0 +1,72 @@
+Homeostasia ou homeostase, a partir dos termos gregos homeo, "similar" ou "igual", e stasis, "estático", é a condição de relativa estabilidade da qual o organismo necessita para realizar suas funções adequadamente para o equilíbrio do corpo. É a propriedade de um sistema aberto, especialmente dos seres vivos, de regular o seu ambiente interno, de modo a manter uma condição estável mediante múltiplos ajustes de equilíbrio dinâmico, controlados por mecanismos de regulação inter-relacionados.Este fenómeno foi descrito pela primeira vez por Claude Bernard e posteriormente foi estudado mais profundamente por Walter Cannon. O primeiro, em 1859, disse que todos os mecanismos vitais, por mais variados  que sejam, não têm outro objetivo além da manutenção da estabilidade das condições do meio interno. O segundo, em 1929, chamou essa estabilidade de homeostase.
+
+
+== Generalidades ==
+O uso mais frequente do termo refere-se à homeostase biológica. A sobrevivência de organismos vivos requer um meio interno homeostático; muitos ambientalistas acreditam que este princípio também se aplica ao meio externo. Um grande número de sistemas ecológicos, biológicos e sociais são homeostáticos, mantêm o equilíbrio contrariando qualquer mudança, e caso não sejam bem sucedidos em repor o equilíbrio, isso pode conduzir à interrupção do funcionamento do sistema.
+Sistemas complexos, como por exemplo o corpo humano, precisam de homeostase para manter a estabilidade e sobreviver. Mais do que apenas sobreviver, estes sistemas devem ter a capacidade de se adaptar ao seu ambiente externo e interno.
+
+
+=== Propriedades da homeostase ===
+Os sistemas homeostáticos exibem certas propriedades:
+
+São extremamente estáveis;
+Toda a sua extensão e organização, interna, estrutural e funcional, contribui para a manutenção do equilíbrio;
+São imprevisíveis (o resultado de uma determinada ação pode mesmo ser o oposto do esperado).Seguem-se alguns dos mais importantes exemplos de homeostase em mamíferos:
+
+A regulação da quantidade de água e minerais no corpo, conhecida como osmorregulação. Tem lugar principalmente nos rins;
+A remoção de resíduos metabólicos, conhecida como excreção. Tem lugar em órgãos excretórios como os rins e os pulmões;
+A regulação da temperatura corporal, realizada principalmente pela pele e pela circulação sanguínea;
+A regulação dos níveis de glicose no sangue, realizada principalmente pelo fígado e pela insulina secretada pelo pâncreas;
+Estado de equilíbrio no corpo.
+
+
+=== Mecanismos de homeostase ===
+Ver: Retroalimentação
+Quando ocorre a mudança de uma variável, o sistema pode reagir segundo dois tipos de feedback:
+
+O feedback negativo é a reação pela qual o sistema responde de modo a reverter a direção da mudança. Visando a manter estáveis as variáveis, permite a manutenção da homeostase. Por exemplo: quando a concentração corporal de dióxido de carbono aumenta, os pulmões são estimulados a aumentar a sua atividade e expelir mais dióxido de carbono. A termorregulação é outro exemplo de feedback negativo. Quando a temperatura corporal sobe, ou desce, receptores na pele e no hipotálamo sentem a alteração, desencadeia uma ordem no cérebro que dá início a uma reação no sentido de gerar ou libertar calor, conforme seja o caso.No feedback negativo, o órgão X estimula o órgão Y, cuja função inibe ou paralisa a atividade do órgão X. Em outras palavras, o estímulo bloqueia o seu próprio "estimulador".
+
+No feedback positivo, a resposta amplifica a mudança da variável. Isto tem um efeito desestabilizador, pelo que não contribui para a homeostase. O feedback positivo é menos comum nos sistemas naturais do que o feedback negativo, mas tem as suas aplicações. Por exemplo: nos nervos, um potencial elétrico limite desencadeia a geração de um potencial de ação muito mais elevado (ver também ponto de equilíbrio). Outros eventos de feedback positivo são a coagulação do sangue e vários eventos na gestação.O feedback positivo é quando um órgão y estimula um órgão x, e este, através de produtos da sua atividade, retroestimula o órgão y, intensificando sua ação. Um mecanismo destes, isoladamente, levaria à exaustão ou esgotamento energético do sistema. Por isso, o feedback positivo está sempre acoplado a feedback negativo.
+
+
+== Homeostase ecológica ==
+Na sua hipótese de Gaia, James Lovelock afirma que toda a massa de matéria viva da Terra, ou de qualquer outro planeta com vida, funciona como um vasto organismo que activamente modifica o seu planeta para produzir o ambiente que melhor serve as suas necessidades. Sob este ponto de vista, o planeta inteiro mantém homeostase. Se um sistema deste tipo ocorre ou não na Terra é ainda assunto de debate. Contudo, alguns mecanismos homeostáticos relativamente simples são aceitos na generalidade. Por exemplo, quando os níveis atmosféricos de dióxido de carbono sobem, as plantas crescem mais e removem dióxido de carbono da atmosfera. Quando a luz solar é intensa e a temperatura atmosférica sobe, o fitoplâncton da superfície oceânica prolifera e produz mais dimetilo de enxofre, que age como núcleo de condensação de nuvens conduzindo à produção de mais nuvens, ao aumento do albedo do planeta e à redução da temperatura atmosférica.[carece de fontes?]
+
+
+== Homeostase biológica ==
+A homeostase é uma das características fundamentais dos seres vivos. É a manutenção do ambiente interno dentro de limites toleráveis. O ambiente interno de um organismo vivo consiste basicamente nos seus fluidos corporais. Estes incluem o plasma sanguíneo, a linfa, e vários outros fluidos inter- e intracelulares. A manutenção de condições estáveis nestes fluidos é essencial para os seres vivos, uma vez que a ausência de tais condições é prejudicial ao material genético.
+No que respeita a um dado parâmetro, um dado organismo pode ser conformista ou regulador. Os reguladores tentam manter o parâmetro a um nível constante, independentemente da sua variação no ambiente externo. Os conformistas permitem que o ambiente externo determine o parâmetro. Por exemplo, os animais endotérmicos mantêm uma temperatura corporal constante, enquanto que os animais ectotérmicos exibem uma grande variação deste parâmetro.
+Isto não quer dizer que os conformistas não tenham adaptações que lhes permitam exercer algum controle sobre o parâmetro em questão. Por exemplo, é frequente de manhã observar répteis sobre pedras aquecidas pelo sol a fim de elevar a sua temperatura corporal.
+Uma vantagem da regulação homeostática é permitir um funcionamento mais eficiente do organismo. Por exemplo, os animais ectotérmicos tendem a ficar letárgicos a baixas temperaturas, enquanto que os animais endotérmicos mantêm uma actividade normal. Por outro lado, a regulação requer energia. Uma das razões pelas quais as cobras conseguem sobreviver com uma refeição semanal é porque requerem muito menos energia para manter a homeostase.
+
+
+== Homeostase no corpo humano ==
+A capacidade de sustentar a vida dos fluidos do corpo humano é afetada por todo um leque de fatores, como a temperatura, a salinidade, o pH, ou as concentrações de nutrientes, como a glicose, vários íons, oxigênio, e resíduos, como o dióxido de carbono e a ureia. Dado que estes fatores afetam as reações químicas que mantêm o corpo vivo, este inclui mecanismos fisiológicos para os manter dentro dos limites desejáveis.
+No corpo humano, é possível identificar vários tipos diferentes de homeostasia:
+
+Regulação térmica, que é uma forma de equilíbrio e controle da temperatura do corpo humano que é feita através da pele e da circulação sanguínea. O ambiente externo, quando sujeita o corpo a temperaturas mais baixas, obriga a algumas alterações. Nesse caso, o corpo usa mais energia para manter a temperatura e em situações extremas o corpo envia mais sangue para a região dos órgãos vitais, sendo que os braços e pernas, por serem menos importantes, ficam mais prejudicados:Os músculos esqueléticos tremem para produzir calor quando a temperatura corporal é muito baixa;
+Outra forma de gerar calor envolve o metabolismo de gordura;
+O suor arrefece o corpo por evaporação.Regulação química:
+Os pulmões absorvem oxigênio e expelem dióxido de carbono.homeostasia hídrica, ou osmorregulação, acontece nos rins e significa a regulação da água dentro do organismo. A homeostasia feita pelo fígado e pâncreas (segregação de insulina) serve para regular os níveis de glicose no sangue:Os rins excretam ureia e regulam as concentrações de água e de uma grande variedade de íons;
+O pâncreas produz insulina e glucagon para regular a concentração de açúcar no sangue.homeostasia psicológica consiste no equilíbrio entre as necessidades de um indivíduo e o suprimento dessas mesmas necessidades. Assim, quando essas necessidades não são supridas, acontece uma instabilidade interior, que é solucionada com alterações nos comportamentos, que culminem na satisfação dessas necessidades.Muitos destes órgãos são controlados por hormonas segregadas pela glândula pituitária, cuja ação é, por sua vez, regulada pelo hipotálamo.
+
+
+== Outras áreas ==
+O termo começa a ser usado em outras áreas, além das ciências biológicas. As companhias de seguros podem falar de homeostase de risco quando, por exemplo, condutores com freio ABS apresentam uma sinistralidade semelhante aos condutores sem ABS, porque inconscientemente compensam o veículo mais seguro com hábitos de condução menos seguros.
+Sociólogos e psicólogos referem a "homeostase de estresse", a tendência duma população ou dum indivíduo para manter um certo nível de estresse, frequentemente criando estresse artificial se o nível "natural" de estresse não for suficiente.
+Em qualidade, podemos dizer que homeostase, uma das propriedades fundamentais dos sistemas, é a propriedade que os sistemas apresentam de autorregularem o seu nível de desempenho em torno de um ponto ótimo, quando livre de interferências externas. Sua utilidade para o gerenciamento dos processos industriais consiste no tratamento das manifestações mensuráveis da homeostase baseado na teoria da variação, formulada por Shewhart.
+Em psicologia positiva, a homeostase se aproxima do conceito de resiliência.
+
+
+== Referências ==
+
+
+== Ver também ==
+
+Aclimatização
+Apoptose
+Auto-organização
+Envelhecimento
+Equilíbrio
+Metabolismo
+Cibernética

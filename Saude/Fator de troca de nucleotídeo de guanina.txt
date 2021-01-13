@@ -1,0 +1,26 @@
+Os fatores de troca de nucleotídeos de guanina, também chamados GEFs(do inglês guanine nucleotide exchange factors ) são capazes de ativar GTPases monoméricas estimulando a liberação de difosfato de guanosina (GDP) e permitindo a ligação a trifosfato de guanosina (GTP). Há diversos domínios estruturais não relacionados que possuem capacidade de troca de nucleotídeo de guanina. Alguns GEFs são capazes de ativar diversas 
+
+
+== Função ==
+
+Os fatores de troca de nucleotídeos de guanina(GEFs) são proteínas envolvindas na ativação de GTPases pequenas. Essas proteíans, por sua vez, agem como interruptores moleculares em vias intracelulares de sinalização. As GTPases mais conhecidas pertencem à superfamília Ras e estão envolvidas com processos celulares essenciais, como diferenciação e proliferação celular, organização do citoesqueleto, tráfego de vesícula e transporte nuclear. As GTPases encontram-se na forma ativa quando ligadas ao GTP e inativas quando ligadas a GDP,  permitindo mecanismo de regulação por GEFs e por proteínas antagônicas, proteínas ativadoras de GTPase (GAPs, que apesar de ativar a atividade GTPase das enzimas levam à conformação ligada a GDP, inibindo a atividade de sinalização).A dissociação de GDP de GTPases inativas ocorre lentamente. A ligação de GEFs às suas GTPases-alvo catalisa a dissociação do GDP, permitindo a ligação de uma molécula de GTP em seu lugar. Como a razão citosólica de GTPːGDP é, em geral, de 10:1, a ligação ao GTP é favorecida. A ligação do GTP à GTPase leva à liberação do GEF, que pode então ativar outra GTPase.  Sendo assim, os GEFs desestabilizam a interação das GTPases com GDP e estabilizam a GTPase livre até a ligação do GTP . As GAPs (proteínas ativadoras de GTPase) agem de forma antagonista para inativar GTPS, aumentando a taxa intrínseca de hidrólise de ATP. O GDP permanece, então, ligado à GTPase inativa até a ligação de um GEF, com consequente liberação do GDP. .A localização de GEFs pode determinar onde na células uma GTPase específica estará ativa. Por exemplo, a GEF de Ran, RCC1, está presente no núcleo, enquanto a GAP de Ran está presente no citosol, modulando a exportação e importação nuclear de proteínas. A RCC1 converte RanGDP a RanGTP  no núcleo, ativando a Ran para exportação de proteínas. Quando a GAP citosólica catalisa a conversão de RanGTP a RanGDP no citosol, a carga proteica é liberada.
+
+
+== Exemplos de GEFs ==
+Son of sevenless (SOS1) é uma importante GEF na via MAPK/ERK, relacionada à regulação do crescimento. A SOS1 liga-se a GRB2 na membrana plasmática após a ativação do receptor de EGF. A SOS1 ativa, então, a GTPase monomérica Ras.
+eIF-2B é um fator de transcrição eucariótico necessário para iniciar a tradução proteica. A eIF-2B regenera  a forma ligada a GTP de eIF-2 para cada ciclo adicional de iniciação da síntese proteica, ou seja sua ligação t-RNA carregado com metionina.
+
+Receptores acoplados a proteína G (GPCRs) são receptores transmembranares que agem como GEFs para suas proteínas G cognatas após interação com ligante. Tal interação leva a mudança de confomação que permite ao GPCR ativar a GTPase associada (geralmente uma GTPase trimérica).
+RCC1 é o fator de troca de nucleotídeos para a GTPase Ran.Ele localiza-se no núcleo celular e catalisa a ativação de Ran, permitindo a exportação de proteínas.
+Ras-GRF1
+Kalirin
+
+
+== Veja também ==
+Fator de troca de nucleotídeo
+Guanina
+GTPases pequenas
+Proteínas G
+
+
+== Referências ==

@@ -1,0 +1,24 @@
+zearalenona(ZEA) é uma micotoxina com efeitos estrogénicos produzida por Fusarium graminiarum ou outras espécies Fusarium sp que contaminam frequentemente cereais (principalmente o milho) mas também outros produtos como bananas e tomates. A exposição a micotoxina ocorre diariamente através do consumo de cereais e derivados de cereais contaminados. Frequentemente surge associada a outras micotoxinas produzidas por fungos do mesmo gênero, suspeitando-se que muitas de doenças do gado, como diminuição do potencial reprodutivo, são causadas pelo consumo de rações contendo esta micotoxinasl, provavelmente em associação com outras como com deoxinivalenol e metabolitos secundários dos tricotecenos. A maior prevalência de ZEA tem sido reportada no Canadá, norte da Europa central e Estados Unidos embora tenha sido encontrada em alimentos no Egipto, em Itália, África do Sul e América do Sul.
+
+
+== Variáveis que afectam a contaminação ==
+
+Condições meteorológicas e clima
+Humidade e tempo frio favorecem o desenvolvimento de ZEA.
+Método de produção agrícola – Organofosforados e carbamato reduzem ou inibem a produção de ZEA
+Variedades da planta cultivadas – Diferentes variedades apresentam diferente susceptibilidade à formação de micotoxinas.
+Condições de armazenamento – Se o milho tiver bastante humidade na altura da colheita e não for devidamente seco promove-se o crescimento de fungos produtores de ZEA em colheitas previamente sem fungos. Baixas tensões de CO2 diminuem o crescimento fúngico e formação de micotoxinas.
+Radiação gama - Reduz eficazmente a ocorrência natural de micotoxinas de Fusarium em trigo, farinha e pão, bem como em milho.
+Desinfectantes e preservantes de grãos – Desinfectantes não mostraram ser eficientes na erradicação de espécies produtoras de ZEA ao contrário de preservantes como Luprosil e Gasol (o último diminui os teores de ZEA).
+Processamento de alimentos, preparação e cozimento - ZEA é termo estável, não havendo alteração durante o cozimento. A moagem por via seca concentra a ZEA na fracção glúten e produção de cerveja diminui os teores de ZEA em percentagens variáveis.A dose diária média de ZEA estimada a partir do consumo de cereais e vegetais situa-se nos 1,5 µg/dia na dieta europeia e 3,5 µg/dia no médio oriente o que, assumindo um peso corporal de 60 kg, se traduz num consumo de 0,03 µg/kg e 0,06 µg/kg de massa corporal, respectivamente. A diária admissível indicada provisoriamente pela JECFA é de 0,5 µg/kg e de 0,2 µg/kg na EU.
+
+
+== Metabolismo ==
+ A zearalenona é reduzida pela 3α e 3β – hidroxiesteróide desidrogenase a α-zearalenol e β-zearalenol, respectivamente. O metabolito α é considerado o mais abundante. Esta redução da zearalenona aos seus metabolitos ocorre fundamentalmente no fígado. Os metabolitos podem ser excretados como compostos livres ou sofrem conjugação com o ácido glucurónico pela acção da uridina difosfato glucuronil transferase (UDPGT). Depois da conjugação eles vão ser eliminados na bílis, na urina e nas fezes. A porção eliminada na bílis é re-absorvida, metabolizada pelas células da mucosa intestinal, entra no fígado e na circulação sistémica via veia porta.
+
+
+== Toxicidade ==
+O α- zearalenol tem uma capacidade de se ligar ao receptor dos estrogénios 17x mais forte do que o etinil-estradiol. Daí advém muitos efeitos adversos relacionados com os seus potentes efeitos estrogénicos, nomeadamente puberdade precoce, fibrose do útero, cancro da mama, carcinoma do endométrio, hiperplasia do útero, diminuição da fertilidade (por diminuição da libertação da LH eFSH), influência nas actividades das glândulas adrenal, tiróide e pituitária. Nos indivíduos do sexo masculino, pode ocorrer inflamação da glândula prostática, atrofia testicular e quistos nas glândulas mamárias. A zearalenona parece ser também hematotóxica, podendo haver problemas na coagulação do sangue, com alteração dos parâmetros hematológicos (hematócrito, número de plaquetas…). Como consequência do consumo de alimentos com esta micotoxina podem ainda surgir adenomas ou carcinomas hepáticos comprovados pela alteração dos parâmetros hepáticos (transferases, fosfatase alcalina, bilirrubina, γ-GT). Além disso, a zearalenona reduz a viabilidade celular, inbibe a síntese proteica e de DNA e induz peroxidação lipídica. Quanto ao seu uso farmacológico, existe um medicamento de uso veterinário (Ralgro®), cujo princípio activo é o zeranol, um metabolito da Zearalenona. É usado para promover o crescimento dos animais. Actualmente é proibido o seu uso na EU, devido ao risco de exposição por consumo de derivados de animais (carne, ovos). No que diz respeito ao seu uso humano, estão actualmente a realizar-se ensaios clínicos para o desenvolvimento de um fármaco baseado na Zearalenona, aplicando as suas propriedades estrogénicas na terapia de reposição hormonal.
+
+
+== Referências ==

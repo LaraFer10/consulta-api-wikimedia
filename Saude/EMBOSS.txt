@@ -1,0 +1,18 @@
+EMBOSS é um acrônimo para European Molecular Biology Open Software Suite. EMBOSS é um pacote de análise de código aberto especialmente desenvolvido para as necessidades da comunidade de usuários da biologia molecular e da bioinformática. O software automaticamente lida com dados em uma variedade de formatos e até mesmo permite a recuperação transparente de dados de seqüências a partir da web. Além disso, como bibliotecas extensas são fornecidas com o pacote, é uma plataforma que permite que outros cientistas desenvolvam e lançem softwares em um verdadeiro espírito de código aberto. EMBOSS também integra uma variedade de pacotes atualmente disponíveis e ferramentas para análise de seqüências em um conjunto harmonioso.
+O EMBOSS permite a integração com uma ampla gama de pacotes e ferramentas existentes como o BLAST e o ClustalW.O pacote EMBOSS contém uma variedade de aplicações para alinhamento de sequências, busca rápida em banco de dados com padrões de seqüência, identificação de estruturas secundárias de proteínas (protein motif) (incluindo a análise de domínio), e muito mais.
+
+
+== Grupos de aplicação EMBOSS ==
+
+
+== Ver também ==
+Open Bioinformatics Foundation
+
+
+== Referências ==
+
+
+== Ligações externas ==
+Homepage of EMBOSS
+Homepage of EMBnet
+EMBOSS explorer - web-based GUI for EMBOSS

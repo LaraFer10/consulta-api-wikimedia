@@ -1,0 +1,40 @@
+Epidemia (do grego ἐπιδημία, do adjetivo ἐπιδήμιος, «que está no povo», composto de ἐπί «sobre, acima» e δῆμος «povo») é a manifestação coletiva de uma doença que rapidamente se espalha, por contágio direto ou indireto, até atingir um grande número de pessoas em um determinado território e que depois se extingue após um período.
+Nas infecções meningocócicas, por exemplo, uma taxa de ataque superior a quinze casos por cem mil pessoas por duas semanas consecutivas é considerada uma epidemia.As epidemias de doenças infecciosas são geralmente causadas por vários fatores, incluindo uma mudança na ecologia da população hospedeira (por exemplo, aumento do stress ou aumento da densidade de uma espécie vetor), uma mudança genética no reservatório de patógenos ou a introdução de um patógeno emergente numa população hospedeira (por movimento de patógeno ou hospedeiro). Geralmente, uma epidemia ocorre quando a imunidade do hospedeiro a um patógeno estabelecido ou a um novo patógeno emergente é subitamente reduzida abaixo da encontrada no equilíbrio endémico e o limiar de transmissão é excedido.Um surto epidêmico pode restringir-se a uma comunidade ou região; no entanto, se se espalhar para outros países ou continentes e afetar um número substancial de pessoas, pode ser chamado de pandemia. A declaração de uma epidemia geralmente requer uma boa compreensão da linha de base da taxa de incidência; epidemias para certas doenças, como a gripe, são definidas como atingindo um aumento na incidência dessa linha de base. Alguns casos como uma doença muito rara podem ser classificados como epidemia, enquanto que noutros como uma doença comum (como uma simples constipação) não o seriam.
+
+
+== Doença epidêmica ==
+O número de casos indicativos da presença de uma epidemia devido a um agente transmissível varia de acordo com o agente, dimensão, tipo e estado imunitário da população exposta, experiência ou falta de experiência prévia com o agente responsável e com o tempo, local, forma de ocorrência e seu comportamento na população.
+Uma das formas para se dizer se uma determinada doença é epidêmica ou endêmica, baseia-se na seguinte equação:
+
+Incidência máxima esperada = Media da incidência + 2 vezes o desvio padrãoPara sua utilização é necessário conhecer a incidência de uma determinada enfermidade em um determinado espaço de tempo, que condiga com seu comportamento em uma determinada população. Técnica esta utilizada em bioestatística sob circunstâncias rigorosas. Para exemplificar, toma-se uma doença X, que tem sua incidência medida de ano em ano. Se o número de casos que ocorreram no ano atual superar o valor da "incidência máxima esperada", se tem um caso epidêmico, se for inferior, se tem um caso endêmico.
+
+
+== Interação parasita ==
+Ao longo do tempo a relação entre agente e hospedeiro tende a mudar depredatória (favorecendo o agente) para comensal (que não favorece nem um nem outro). Com o tempo e um ambiente estável a ocorrência de doença passa de epidêmica para endêmica e depois para esporádica. No estado natural o hospedeiro mais resistente tem maior probabilidade de sobrevivência. Do ponto de vista ecológico a produção de doença e a morte não favorece a perpetuação do agente. Portanto, a seleção natural favorece os microorganismos menos patogênicos. A raiva e a Peste bovina são exceções à regra.
+Para exemplificar o que foi dito, pegamos o vírus da mixomatose intencionalmente introduzido na Austrália para controlar os coelhos provocou uma mortalidade elevada (80% a 90%). Depois de alguns anos verificou-se que a taxa de fatalidade inicial de 99% passou para 90% e o tempo entre a infecção e a morte aumentou. Em 15 anos a população de coelhos chegou aos 20%.
+
+
+== Ver também ==
+Pandemia
+Endemia
+Epidemiologia
+Patologia
+Estatística
+Sindemia
+Vigilância epidemiológica
+Lista de doenças de notificação compulsória no Brasil
+
+
+== Referências ==
+
+
+== Bibliografia ==
+PEREIRA, Maurício Gomes. Epidemiologia: teoria e prática, p. 258 (Rio de Janeiro: Guanabara Koogan).
+BRASIL. Ministério da Saúde. Secretaria de Vigilância em Saúde. Dept. de  Vigilância Epidemiológica. Doenças infecciosas e parasitárias : guia de bolso. Brasília : Ministério da Saúde, 2010 PDF
+
+
+== Ligações externas ==
+DATASUS / TabNet (SUS) (pt)
+CDC's / WHO Collaborating Center for Surveillance, Epidemiology and Control of Influenza (en)
+World Health Organization (WHO): Disease outbreaks (en)
+Dicionário de Epidemiologia, Saúde Pública e Zoonoses (USP)

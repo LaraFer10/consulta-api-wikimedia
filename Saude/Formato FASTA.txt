@@ -1,0 +1,86 @@
+Em bioinformática, o formato FASTA é um formato baseado em texto para representar tanto  sequencias de nucleótidos quanto sequencias de peptídeos, no qual os nucleotídeos ou aminoácidos são representados usando códigos de uma única letra. O formato também permite sequências de nomes e comentários precedendo as sequências. O formato se origina do FASTA, pacote de software, mas agora se tornou um padrão na área de bioinformática. A simplicidade do formato FASTA torna mais fácil manipular e analisar sequências usando ferramentas de processamento de texto e linguagens de script como Python, Ruby, e Perl.
+
+
+== Formato ==
+Uma sequência em formato FASTA começa com uma descrição de uma única linha, seguida por linhas de dados em sequência.
+A linha de descrição se distingue a partir da sequência dos dados por um símbolo maior-que (">") na primeira coluna. A palavra que segue o símbolo ">" é o identificador da sequência, e o resto da linha é a descrição (ambos são opcionais). Não deve haver nenhum espaço entre o ">" e a primeira letra do identificador. Recomenda-se que todas as linhas do texto sejam mais curtas do que 80 caracteres. A sequência termina se uma outra linha de partida com um ">" aparece, o que indica o início de outra sequência. Um exemplo simples de uma sequência em formato FASTA:
+
+>gi|5524211|gb|AAD44166.1| cytochrome b [Elephas maximus maximus]
+LCLYTHIGRNIYYGSYLYSETWNTGIMLLLITMATAFMGYVLPWGQMSFWGATVITNLFSAIPYIGTNLV
+EWIWGGFSVDKATLNRFFAFHFILPFTMVALAGVHLTFLHETGSNNPLGLTSDSDKIPFHPYYTIKDFLG
+LLILILLLLLLALLSPDMLGDPDNHMPADPLNTPLHIKPEWYFLFAYAILRSVPNKLGGVLALFLSIVIL
+GLMPFLHTSKHRSMMLRPLSQALFWTLTMDLLTLTWIGSQPVEYPYTIIGQMASILYFSIILAFLPIAGX
+IENY
+
+
+== História ==
+O formato FASTA/Pearson original é descrito na documentação para o conjunto de programas FASTA. Ele pode ser baixado com qualquer distribuição gratuita do FASTA (ver fasta20.doc, fastaNV.doc ou fastaNV.me - onde NV é o número da versão).
+Uma sequência em formato FASTA é representada como uma série de linhas, que não devem ter mais do que 120 caracteres e, geralmente,
+não excedem 80 caracteres. Isso provavelmente ocorreu visando permitir a pré-alocação de tamanhos fixos de linhas no software: naquele momento em que a maioria dos usuários contava com terminais DEC VT (ou compatíveis) só se podia mostrar 80 ou 132 caracteres por linha. A maioria das pessoas preferia a fonte maior nos modos 80 caracteres e por isso tornou-se comum recomendar o uso de 80 caracteres ou menos (geralmente 70) para as linhas FASTA.
+A primeira linha em um arquivo FASTA começa ou com um símbolo ">" (maior que) ou um ";" (ponto e vírgula) e é tomada como um comentário. Linhas subsequentes começando com um ponto e vírgula são ignoradas pelo software. Uma vez que o único comentário utilizado era o primeiro, rapidamente se tornou uso comum armazenar uma descrição sumária da sequência, muitas vezes começando com um número único de acesso à biblioteca, e com o tempo tornou-se comum sempre usar ">" para a primeira linha e não usar mais comentários iniciando por ";" (que de qualquer forma seriam ignorados).
+Após a linha inicial (usada para uma descrição única da sequência) vem a sequência em si no padrão de código de uma letra. Outra coisa além de um código válido é ignorada (incluindo espaços, tabulações, asteriscos, etc ..). Originalmente, era também comum  terminar a sequência com um caracter "*" (asterisco) (em analogia com o uso de sequências formatadas PIR) e, pelo mesmo motivo, deixar uma linha em branco entre a descrição e a sequência.
+Algumas sequências de exemplo:
+
+   ;LCBO - Prolactin precursor - Bovine
+   ; a sample sequence in FASTA format
+   MDSKGSSQKGSRLLLLLVVSNLLLCQGVVSTPVCPNGPGNCQVSLRDLFDRAVMVSHYIHDLSS
+   EMFNEFDKRYAQGKGFITMALNSCHTSSLPTPEDKEQAQQTHHEVLMSLILGLLRSWNDPLYHL
+   VTEVRGMKGAPDAILSRAIEIEEENKRLLEGMEMIFGQVIPGAKETEPYPVWSGLPSLQTKDED
+   ARYSAFYNLLHCLRRDSSKIDTYLKLLNCRIIYNNNC*
+
+   >MCHU - Calmodulin - Human, rabbit, bovine, rat, and chicken
+   ADQLTEEQIAEFKEAFSLFDKDGDGTITTKELGTVMRSLGQNPTEAELQDMINEVDADGNGTID
+   FPEFLTMMARKMKDTDSEEEIREAFRVFDKDGNGYISAAELRHVMTNLGEKLTDEEVDEMIREA
+   DIDGDGQVNYEEFVQMMTAK*
+
+   >gi|5524211|gb|AAD44166.1| cytochrome b [Elephas maximus maximus]
+   LCLYTHIGRNIYYGSYLYSETWNTGIMLLLITMATAFMGYVLPWGQMSFWGATVITNLFSAIPYIGTNLV
+   EWIWGGFSVDKATLNRFFAFHFILPFTMVALAGVHLTFLHETGSNNPLGLTSDSDKIPFHPYYTIKDFLG
+   LLILILLLLLLALLSPDMLGDPDNHMPADPLNTPLHIKPEWYFLFAYAILRSVPNKLGGVLALFLSIVIL
+   GLMPFLHTSKHRSMMLRPLSQALFWTLTMDLLTLTWIGSQPVEYPYTIIGQMASILYFSIILAFLPIAGX
+   IENY
+
+Um formato FASTA de sequências múltiplas seria obtido pela concatenação de vários arquivos FASTA de uma única sequência. Isto não implica uma contradição com o formato pois apenas a primeira linha em um arquivo FASTA pode começar com um ";" ou ">", daí obrigando todas as sequências subsequentes iniciar com um ">", a fim de ser tomadas como diferentes (e ainda forçando a reserva exclusiva de ">" para a linha de definição da sequência). Assim, os exemplos acima podem também ser tomados como um arquivo multisequencial se tomados em conjunto.
+
+
+=== Conversores de formato ===
+Arquivos FASTA podem ser convertidos em lote para ou de um formato MultiFASTA usando ferramentas, algumas das quais estão disponíveis como software gratuito (freeware). Ferramentas também estão disponíveis para a conversão de lotes a partir de formatos de [cromatograma] (ABI/SCF) para FASTA.
+
+
+=== Linha de cabeçalho ===
+A linha de cabeçalho, que começa com '>', dá um nome e/ou um identificador exclusivo para a sequência, e muitas vezes lotes de outras informações também. Muitos banco de dados de sequência diferentes usam cabeçalhos padronizados, o que ajuda quando se quer extrair automaticamente as informações do cabeçalho. A linha de cabeçalho pode conter mais de um cabeçalho, separados por um caracter ^A (Control-A).
+No formato original FASTA Pearson, um ou mais comentários, distinguidos por um ponto e vírgula no início da linha, podem ocorrer após o cabeçalho. A maioria dos bancos de dados e aplicações de bioinformática não reconhecem esses comentários e seguem a especificação NCBI FASTA. Um exemplo de um arquivo de sequências múltiplas FASTA segue:
+
+>SEQUENCE_1
+MTEITAAMVKELRESTGAGMMDCKNALSETNGDFDKAVQLLREKGLGKAAKKADRLAAEG
+LVSVKVSDDFTIAAMRPSYLSYEDLDMTFVENEYKALVAELEKENEERRRLKDPNKPEHK
+IPQFASRKQLSDAILKEAEEKIKEELKAQGKPEKIWDNIIPGKMNSFIADNSQLDSKLTL
+MGQFYVMDDKKTVEQVIAEKEKEFGGKIKIVEFICFEVGEGLEKKTEDFAAEVAAQL
+>SEQUENCE_2
+SATVSEINSETDFVAKNDQFIALTKDTTAHIQSNSLQSVEELHSSTINGVKFEEYLKSQI
+ATIGENLVVRRFATLKAGANGVVNGYIHTNGRVGVVIAAACDSAEVASKSRDLLRQICMH
+
+
+=== Representação de sequências ===
+Após a linha de cabeçalho e comentários, uma ou mais linhas devem seguir descrevendo a sequência: cada linha de uma sequência deve ter menos de 80 caracteres. Sequências podem ser sequências de proteínas ou sequências de ácidos nucleicos, e elas podem conter lacunas ou caracteres de alinhamento (ver alinhamento de sequências). Sequências devem ser representados nos códigos padrão IUB/IUPAC para aminoácidos e ácidos nucleicos, com as seguintes exceções: minúsculas são aceitas e são mapeadas em letras maiúsculas; um único hífen ou traço pode ser usado para representar um caracter de lacuna; e em sequências de aminoácidos, U e * são letras aceitáveis (veja abaixo). Dígitos numéricos não são permitidos, mas são usados ​​em alguns bancos de dados para indicar a posição na sequência.
+Os códigos de ácido nucléico suportados são:
+
+Os códigos suportados (24 aminoácidos e 3 códigos especiais) são:
+
+
+=== Extensão de arquivo ===
+Não existe um padrão de extensão de nome de ficheiro para um arquivo de texto contendo sequências formatadas em FASTA. A tabela abaixo mostra cada extensão e seu respectivo significado.
+
+
+== Referências ==
+
+
+== Ver também ==
+FASTA
+
+
+== Ligações externas ==
+O que é o formato FASTA? Explicação do formato FASTA.
+HUPO-PSI Standard FASTA Format descreve outro formato FASTA como apresentado pela iniciativa da Human Proteome Organisation's Proteomics Standards Initiative.
+Sequence ID (seqID) Fields in the FASTA Deflines of Sequences from NCBI descreve o formato das FASTA Deflines.
+Conversor de formatos de arquivo FASTA

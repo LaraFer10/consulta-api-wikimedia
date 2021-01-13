@@ -1,0 +1,34 @@
+Citocromo P450 (abreviado CYP, P450 ou CYP450) é uma superfamília ampla e diversificada de proteínas responsáveis por oxidar um grande número de substâncias para torná-las mais polares e hidrossolúveis.
+
+
+== Importância ==
+É importante para facilitar a excreção de substâncias indesejáveis, mas também são responsáveis pela ativação ou desativação de muitos fármacos, toxinas e pela síntese de hormônios esteroides e ácidos graxos. Podem ser encontrados em todos os seres vivos. Nos animais vertebrados se encontra principalmente nas células do fígado e do intestino delgado.As enzimas CYP têm sido identificadas em todas as linhagens vivas, incluindo mamíferos, aves, peixes, insetos, vermes, echinoideas, urochordatas, plantas, fungos, mycetozoas, bactérias e  arqueobactérias. Mais de 7.700 seqüências distintas de CYP são conhecidas (até setembro de 2007; veja a página web do Comitê de Nomenclatura do P450 para a atualização desses números).
+
+
+== Origem do nome ==
+O nome citocromo (do grego, pigmento celular) P450 é derivado do fato de que essas proteínas tem o máximo de absorção de ondas com comprimento próximo a 450 nm quando o ferro hemo é reduzido (freqüentemente com ditionito de sódio) e complexado em monóxido de carbono.
+
+
+== Funções ==
+Citocromos P450 usam uma grande variedade de compostos  endógenos e exógenos como substratos nas reações enzimáticas. Geralmente elas fazem parte de multicomponentes das cadeias de transferência de elétron, chamados de sistemas contendo P450.
+A reação mais comum catalisada pelo citocromo P450 é a monooxigenase, isto é, inserção de um átomo de oxigênio em um substrato orgânico ( R-H), enquanto o outro átomo de oxigênio é reduzido a água:
+
+R-H + O2 + 2H+ + 2e– → R-OH + H2O
+
+
+=== Síntese de hormônios esteróides e da oxigenação de compostos endógenos ===
+Citocromos P450 são necessários para converter colesterol em aldosterona e cortisol no córtex adrenal,testosterona nos testículos e estradiol nos ovários. 
+
+
+=== Oxidação de substratos lipofílicos exógenos ===
+Substratos exógenos ou xenobióticos (estranhos à vida) incluem drogas terapêuticas, agentes químicos e subprodutos industriais que se transformam em contaminantes ambientais e aditivos alimentares. Os citocromos P450 oxidam uma variedade de xenobióticos, em particular os compostos lipofílicos.
+
+
+== Os CYP no homem ==
+
+No homem, os CYP são proteínas associadas às membranas citoplasmática, mitocondrial e do retículo endoplasmático liso, onde atuam metabolizando centenas de sustâncias endógenas e exógenas.
+A maioria dos CYP age sobre vários substratos, podendo alguns deles catalisar diferentes tipos de reações. In vivo, esses sustratos incluem os xenobióticos ou componentes tóxicos derivados do metabolismo, como é o caso da bilirrubina.
+As enzimas do citocromo P450 estão presentes na maioria dos tecidos do organismo, tendo um papel fundamental na síntese de hormônios (incluindo estrógenos e testosterona), do  colesterol ou da  vitamina D3, embora as CYP do fígado sejam as mais estudadas.
+
+
+== Referências ==

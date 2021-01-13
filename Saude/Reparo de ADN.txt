@@ -1,0 +1,158 @@
+Reparação de ADN é um conjunto de processos pela qual a célula identifica e corrige os danos das moléculas de DNA que codificam o seu genoma. Em células humanas, tanto atividades metabólicas normais quanto fatores ambientais (como raios UV) podem causar danos no ADN, resultando em cerca de 1 000 000 lesões moleculares individuais por dia.  Muitas dessas lesões causam danos estruturais à molécula de ADN e podem alterar ou eliminar a habilidade celular para transcrição gênica. Outras lesões provocam mutações potencialmente prejudiciais no genoma celular, que afetam a sobrevivência de suas células irmãs que depois sofrem mitose. Como consequência, o processo de reparo de ADN precisa estar funcionando constantemente para resolver rapidamente os danos na estrutura do ADN. A taxa de reparo de ADN é dependente de muitos fatores, inclusive o tipo de célula, a idade celular e o meio extracelular. Uma célula que tem acumulado uma grande quantidade de danos de ADN, ou que não repare efetivamente os danos incorridos nele, terá um dos três possíveis destinos:
+
+um irreversível estado de dormência, conhecido como senescência;
+a célula se "suicida", o que é conhecido como apoptose, ou morte celular programada;
+carcinogênese, a formação de câncer.A maioria das células no corpo primeiramente tornam-se senescentes. Então, depois de danos irreparáveis ao ADN, ocorre a apoptose. Nesse caso, a apoptose funciona como um "último recurso" prevenindo a célula de tornar-se carcinogênica ameaçando o organismo.Quando as células tornam-se senescentes, alterações na biossíntese fazem com que funcionem menos eficientemente. A capacidade do reparo de ADN de uma célula é vital para a integridade do genoma e, consequentemente, para o seu funcionamento normal e o do organismo. Sabe-se que vários genes que inicialmente foram demonstrados como influentes na longevidade estão envolvidos em proteção e reparo aos danos no ADN.Em 2015 o Prêmio Nobel de Química foi concedido Tomas Lindahl, Paul Modrich e Aziz Sancar pelos estudos mecanicísticos para reparo de DNA.
+
+
+== Danos no ADN ==
+Os danos no ADN, devidos aos fatores ambientais e dos processos metabólicos celulares normais, ocorrem a uma taxa de 10 000 a 1 000 000 lesões por célula diariamente.  Ainda assim, várias outras fontes de danos podem elevar ainda mais essa taxa. Enquanto isso constitui apenas 0,000165% do genoma humano, 3 000 000 000 (3 bilhões) de bases, uma única lesão não reparada em um gene relacionado ao câncer (como o gene supressor de tumor) pode ter consequências catastróficas ao indivíduo.
+A maioria dos danos no ADN afectam a estrutura primária da dupla-hélice; isto é, as próprias bases são modificadas quimicamente. Estas modificações podem, por sua vez, alterar a estrutura helicoidal das moléculas ao introduzir ligações químicas não nativas ou adutos volumosos que não se encaixam bem na estrutura da dupla-hélice padrão.
+
+
+=== Danos no DNA nuclear (nDNA) versus danos no DNA mitocondrial (mDNA) ===
+Em humanos, e células eucarióticas em geral, o DNA é encontrado em duas localidades na célula: no núcleo (nDNA) e dentro das mitocôndrias. DNA nuclear existe em larga escala em estruturas agregadas conhecidas como cromossomos, os quais são compostos de DNA e, envolvidas por proteínas chamadas histonas. Sempre que a célula precisa expressar a informação genética codificada no nDNA é requerida uma região cromossômica não-revelada, genes localizados lá são expressos e a região é condensada de volta a conformação quiescente. O DNA mitocondrial (mtDNA) é localizado dentro da mitocôndria; existem em múltiplas cópias e isso é também fortemente associado com o número de proteínas para formar um complexo conhecido como nucleoide. Dentro da mitocôndria, espécies reativas de oxigênio (ERO) ou radicais livres, são produtos da constante produção de trifosfato de adenosina (ATP) via fosforilação oxidativa, criam um ambiente altamente oxidativo que é conhecido por danos no mtDNA.
+
+
+=== Fontes de danos ===
+Os danos no ADN podem ser divididos em dois tipos principais:
+
+Danos endógenos que são devidos a ataques pelas ERO produzidas do metabolismo normal celular, um processo conhecido por mutação espontânea;
+Danos exógenos causados por agentes externos, tais como:
+Radiação ultravioleta [UV 200-300nm] de variadas fontes;
+Outros comprimentos de onda, incluindo raios-X e ondas gama;
+Hidrólise ou rompimentos por temperatura;
+Certas toxinas de plantas, como a ficocianina;
+Produtos industrializados, tais como hidrocarbonetos e derivados da fumaça do cigarro, como a nicotina;
+Câncer por métodos de tratamento tais como a quimioterapia e radioterapia;
+vírus.Antes da divisão celular, a replicação do DNA lesado pode levar a incorporação de bases erradas. Depois que as bases erradas são pareadas, as células-filhas herdam-nas e podem se transformar em células mutadas. Porém, isso pode ser um mecanismo de reparação celular denominado "by-pass", ou seja, a célula se replica e o erro é transmitido para que seja corrigido nas células-filhas. Em geral, esse mecanismo é o último a ser utilizado quando a célula está em iminente divisão.
+
+
+=== Tipos de dano ===
+Danos endógenos afetam a estrutura primária mais do que a secundária de dupla hélice. Podem ser divididos em quatro classes:
+
+Oxidação de Bases [e.g.: 8-oxo-7,8-dihidroxiguanina (8-oxoG)] e geração de interrupções na fita de DNA devido a espécies reativas de oxigênio (ERO).
+Alquilação de bases (usualmente metilação]), formando assim a 7-metilguanina.
+Hidrólise de bases, assim como a depurinação e depirimidinação.
+Erro no pareamento de bases devido a replicação do DNA em que a base errada do DNA é situada no lugar numa nova fita de DNA formada.
+
+
+=== Danos ao DNA e mutação ===
+É importante distinguir entre os danos de DNA e mutação, os dois principais tipos de erros no DNA, pois são fundamentalmente diferentes. Os danos são anormalidades físicas na molécula, como as quebras das ligações simples e duplas, os resíduos de 8’-oxo-deoxiguanosina e adutos de hidrocarbonetos aromáticos policíclicos. Eles podem ser causados pela recodificação por enzimas, e, também, eles podem ser corretamente reparados se a informação redundante, como as sequências não danificadas na extremidade dos complementos de DNA ou em um cromossomo homólogo, é disponível para cópia. Se a célula retém os danos de DNA, a transcrição do gene pode ser evitada, e, também, a tradução dentro da proteína pode também ser bloqueada. A replicação pode também ser bloqueada ou a célula pode morrer.
+Em contraste dos danos de DNA, uma mutação é uma alteração na base da sequência do DNA. Uma mutação não pode ser recodificada por enzimas, uma vez que a alteração da base é presente de ambas as extremidades de DNA, e, também, uma mutação não pode ser reparada. Em nível celular, as mutações podem causar alterações na função e na regulação protéica. As mutações são replicadas quando a célula replica. Na população das células, as mutantes podem crescer ou decrescer de acordo com a freqüência dos efeitos da mutação e na habilidade da célula de sobreviver e reproduzir. Apesar das diferenças distintas de uma para outra, os danos de DNA e as mutações são relatadas porque os danos de DNA muitas vezes causam erros na síntese de DNA durante a replicação ou reparação; estes erros é a maior fonte de mutações. 
+
+
+== Mecanismos de reparo de DNA ==
+Células não podem tolerar danos no DNA que comprometam a integridade e a acessibilidade das informações essenciais do genoma (mas, células permanecem superficialmente funcionais quando os então chamados genes não-essenciais são perdidos ou danificados.). Dependendo do tipo de dano infligido na estrutura duplo-helicoidal de DNA, uma variedade de estratégias de reparo tem sido envolvidos para restaurar informações perdidas. Como modelos de restauração, as células utilizam uma fita complementar não modificada de DNA ou do cromossoma-irmão. Sem acesso a informação modelo, o reparo de DNA é propenso a erros (mas isso pode ser uma via padrão: muitos danos na fita dupla nas células de mamíferos, e.g: são reparados sem ajuda de um modelo; ver mais adiante).
+Danos ao DNA alteram a configuração espacial da hélice e tais alterações podem ser detectadas pela célula. Uma vez o dano seja localizado, moléculas específicas de reparo de DNA são enviadas ao local e se ligam à região ou nas proximidades do local do dano, incluindo outras moléculas para ligar e formar um complexo que habilita o reparo a agir no local. Os tipos de moléculas envolvidas e o mecanismo de reparo que é mobilizado depende:
+
+Do tipo de dano no DNA que está em jogo
+Se a célula entrou no estado de senescência
+A fase do ciclo celular que a célula esteja
+
+
+=== Danos à fita simples ===
+Quando somente uma das fitas de um cromossomo tem defeito, a outra fita pode ser usada como modelo para guiar a correção da fita danificada. Para a reparação do dano de uma das fitas dos domínios helicoidais de DNA, são numerosos mecanismos para qual o reparo de DNA atue. Incluem:
+
+Reversão direta do dano pelos vários mecanismos que são especializados em inverter tipos específicos de dano. Exemplos incluem metil-guanina metil-transferase (MGMT) que remove especificamente grupamentos metila da guanina, e fotólise na bactéria, que, através da luz UV, quebra a ligação química entre bases de timidina adjacentes. Uma fita-molde não é requerida para essa forma de reparo.
+Reparo por mecanismos de excisão que removem o nucleotídeo danificado, recolocando em pareamento um nucleotídeo são na fita de DNA complementar sã.Esses incluem:
+
+Reparo de excisão de bases (BER – Base excison repair, em inglês), que repara danos em nucleotídeos decorrentes de oxidação, alquilação, hidrólise ou desaminação;
+Reparo por excisão de nucleotídeos (NER – Nucleotide excision repair, em inglês), que repara os danos, retirando os nucleotídeos em bloco. Esse reparo inclui vultosos mecanismos de distorção da hélice, assim como a dimerização de timidina causada por luz UV, bem como quebras em fitas-simples. Uma forma especializada de NER conhecida como Reparo de Transcrição Casada (TCR – Transcription-Coupled Repair) que descarrega prioritariamente enzimas de reparo NER em genes que estejam em atividade;
+Reparo de pareamentos errados (MMR – Mismatch repair), que corrige erros da replicação do DNA e da recombinação gênica que resulta em pareamento errôneo em nucleotídeos seguindo a replicação do DNA.
+
+
+=== Quebras em fitas duplas ===
+Um tipo perigoso em particular de dano em DNA às células que estão em divisão é a quebra de ambas as fitas da dupla-hélice. Dois mecanismos existem para reparar esse dano. Eles são geralmente conhecidos como união terminal não-homóloga (em inglês, Non-Homologous End-Joining - NHEJ) e recombinação genética, reparo recombinante e reparo assistido por cópia, ou recombinação homóloga.
+O reparo recombinante requer a presença de uma idêntica ou quase idêntica sequência para ser usada como cópia para o reparo do dano. A maquinaria enzimática responsável para esse processo de reparo é quase idêntica àquela usada para o crossing-over (ou permuta) vista nas células germinativas durante a meiose. O reparo recombinante é predominantemente usado durante as fases do ciclo celular quando o DNA está em replicação ou está terminando a replicação do DNA. Isso permite que o cromossomo danificado seja reparado usando a nova cromátide-irmã como cópia, isto é, uma cópia idêntica que é, além disso, ordinariamente pareada à região danificada. Muitos genes no genoma humano são copiados várias vezes para prover muitas fontes de sequências idênticas para suprir este mecanismo de reparo. Mas o reparo recombinante que confia nessas cópias como cópias de cada gene, é outra problemática porque isso leva a translocação cromossômica e outros tipos de rearranjos cromossômicos.
+A união terminal não-homóloga (em inglês, Non-Homologous End-Joining - NHEJ) reúne dois términos de uma quebra na falta de uma sequência copiada. Porém, há frequentemente sequência de DNA perdida durante esse processo e então o reparo pode ser mutagênico. A NHEJ pode ocorrer em todos os estágios do ciclo celular, mas, nas células dos mamíferos é o principal mecanismo de reparo de DNA até que seja possível a utilização do reparo recombinante operado por cromátides-irmãs como cópias. Desde a vastidão do genoma humano até outros organismos multicelulares, o código genético é composto por regiões que não contêm genes, chamadas então de DNA-lixo (sabe-se no entanto que essas regiões estão implicadas com o controle da expressão de vários genes, sendo importantes mecanismos de repressão e de ativação destes e até de mecanismos de reparo de outros genes que tenham sofrido danos eventuais), o potencialmente mutagênico NHEJ pode ser menos prejudicial do que mecanismos operados por cópias sequenciais múltiplas, desde então nos casos que são indesejáveis os rearranjos de DNA são gerados com mais facilidade do que por NHEJ. A maquinaria enzimática usada pelo reparo NHEJ é também utilizadas em linfócitos-B para reunir quebrar decorrentes de proteínas RAG durante a recombinação VDJ, um passo crucial na geração de variedades de imunoglobulinas diversas pelo sistema imune.
+Veja também Carcinogenesis
+
+
+=== Reparo de DNA em doença e em envelhecimento ===
+Quando as células ficam velhas, a quantidade de danos de DNA acumula-se de tal forma que se sobrepõe a capacidade de reparo resultando numa redução da síntese proteica. As proteínas nas células são usadas para numerosas funções vitais, as células se tornam gradualmente prejudicadas e posteriormente morrem. Quando células suficientes num órgão chegam até este estado, o órgão por si só se torna comprometido e os sintomas de doença começam a se manifestar. Estudos experimentais em animais, onde genes associados ao reparo de DNA foram silenciados, resultaram na aceleração do envelhecimento, manifestação precoce da idade relativa às doenças e susceptibilidade aumentada ao câncer. Em estudos onde a expressão de certos genes relacionados a reparos de DNA foi aumentado, resultou-se em expectativa de vida expandida e resistência a agentes carcinogênicos em células em cultura.
+
+
+=== A taxa de reparo de DNA é variável ===
+Se a taxa de danos no DNA exceder a capacidade da célula em repará-los, o acúmulo de erros pode subjugar a célula e resultar em senescência, apoptose ou câncer, dependendo do número de danos moleculares, quais genes foram atingidos e quais e o número de mecanismos de reparação em atividade. Doenças herdadas associadas à ausência de reparo de DNA funcionante resultam em envelhecimento prematuro (e.g. Síndrome de Werner) e sensibilidade aumentada a carcinógenos (e.g. Xeroderma pigmentosum). Estudos em animais, onde genes de reparo de DNA são impedidos de funcionar, perfis similares dessas doenças são observados.
+Em outra via, organismos com sistemas melhorados de DNA como a  bactéria Deinococus radiodurans (também conhecida por Conan, o Bárbaro a bactéria foi listada no Guiness Book por ser a bactéria mais resistente já conhecida, conseguindo resistir a dosagens de radiação-gama mil vezes mais altas que as letais para seres humanos), exibem resistência notável à radioatividade devido às suas enzimas serem hábeis a conseguir taxas rápidas e incomuns para manter o DNA reparado, mesmo sob altas doses de radiação gama, e devido a isso, ela possui consigo 10 cópias de seu genoma. Em humanos, centenários japoneses tem sido achados como tendo em comum o genótipo mitocondrial, o qual os predispõem a reduzir os danos em DNA mitocondrial nessas organelas. Estudos em fumantes têm indicado que pessoas com mutação têm em suas causas a menor expressão de um poderoso reparo de DNA associado ao gene hOGG1, a vulnerabilidade a câncer do pulmão e a outros casos de câncer tem aumentado. Polimorfismos simples de nucleotídeos (em inglês, SNP - Single nucleotide polymorphism) associados com essa mutação podem ser clinicamente detectados.
+
+
+=== Desordens crônicas do reparo de DNA ===
+Doenças crônicas podem ser associados com aumento dos danos no DNA. Por exemplo, a fumaça do cigarro causa danos oxidativos ao DNA e outros componentes de células do coração e fígado, resultando na formação de adultos de DNA (moléculas que destroem o DNA). Danos no DNA podem agora serem mostrados como fator causal de doenças que variam desde arteriosclerose até o mal de Alzheimer, onde pacientes tem menor capacidade de reparo de DNA nas células nervosas. Danos no DNA mitocondrial podem também estar implicados em numerosas doenças.
+
+
+=== Genes da longevidade e reparos de DNA ===
+Certos genes são conhecidos por influenciar a variação na expectativa de vida de uma população de organismos. Estudos em organismos-modelos como leveduras, vermes, moscas e ratos têm identificado genes simples, os quais quando modificados, poderiam dobrar a expectativa de vida (e.g.: uma mutação no gene-1 do nematódeo “Caenorhabditis elegans”). Esses genes são conhecidos por estarem associados especificamente a outras funções celulares diferentes do reparo de DNA, mas quando as vias que eles influenciam são seguidas ao seu destino final, foi observado que eles mediam uma das três funções, a saber:
+
+Aumento na taxa de reparo de DNA
+Aumento na taxa de produção de antioxidantes
+Decréscimo na taxa de produção de oxidantes
+
+
+== Doença, morte e evolução ==
+Taxas de reparos de DNA desempenham um papel vital na escala celular de doenças (não-infecciosas), envelhecimento e na escala evolucionária populacional. Duas importantes relações foram estabelecidas:
+
+Taxa de reparos de DNA e mutação
+Taxa de reparos de DNA e envelhecimentoComo mutação está diretamente relacionada à evolução, um novo modo de observação dessa relação entre evolução e envelhecimento emerge. É aparente que todos os mecanismos de mutação provêem o genoma à plasticidade a adaptação, e é também responsável por desestabilizá-lo fazendo-o, assim, vulnerável ao envelhecimento e a doenças. São organismos sujeitos a doença e ao envelhecimento primariamente porque a mutação é o guia primário da evolução? Essas questões permanecem numerosas e contendedoras que as teorias sobre o envelhecimento têm oferecido.
+
+
+== Medicina e modulação do reparo de DNA ==
+Um vasto número de evidências correlaciona danos de DNA à morte e às doenças. Como indicado por novos estudos sobre superexpressão, o aumento da atividade de algumas enzimas de reparo de DNA pode diminuir a taxa de envelhecimento e doença. Esse modo resulta num desenvolvimento de intervenções que podem adicionar muitos anos saudáveis e livres de doenças ao envelhecimento populacional. Nem todas as enzimas de reparo de DNA são benéficas quando seus genes estão superexpressos, porém. Algumas enzimas de reparo de DNA podem introduzir novas mutações no DNA sadio. Reduzida especificidade de substrato bioquímico pode estar implicado nesses erros.
+
+
+== Tratamento para o câncer ==
+Procedimentos tais como a quimioterapia e a radioterapia agem para sobrepujar a capacidade de reparo de DNA celular para resultar na morte celular. Células que são capazes de se dividirem rapidamente, assim como o câncer, são preferencialmente afetadas. Esse efeito colateral é que outras células não-cancerosas, mas de capacidade de divisão similar, assim como as células-tronco em medula óssea também são afetadas. Modernos tratamentos de câncer tentam localizar o dano no DNA de células e tecidos somente associados a câncer.
+
+
+== Terapia gênica ==
+Para usos terapêuticos do reparo de DNA, o desafio é descobrir particularmente quais enzimas de reparo de DNA que exibem maior especificidade para locais de dano, então a superexpressão irá levar à melhora da função de reparo de DNA. Uma vez que fatores apropriados de reparo têm sido identificados, o próximo passo é selecionar a via apropriada para entregar às células, para gerarem tratamentos viáveis de doenças e envelhecimento. O desenvolvimento de “genes espertos”, os quais são hábeis em alterar a quantidade de proteínas por eles expressas baseadas na mudança de condições celulares, objetiva o aumento da eficácia do reparo de DNA e das argumentações sobre essa revolucionária terapêutica.
+
+
+== Reparo de genes ==
+Ao contrário, múltiplos mecanismos endógenos de reparo de DNA, reparo gênico ou correção gênica, referem-se à forma de uma terapia gênica, a qual precisamente objetiva e corrige mutações cromossômicas responsáveis por desordens. É feito então pela troca da sequência quebrada de DNA com a sequência desejada, usando técnicas tais como mutagênese dirigida a oligonucleotídeos. Mutações genéticas requerem reparos são normalmente herdados, mas, em alguns casos, eles podem ser induzidos ou adquiridos (assim como o câncer).
+
+
+== Fármacos e modulação de reparo de DNA ==
+
+
+=== Desordens hereditárias no reparo de DNA ===
+Defeitos no mecanismo de reparação são responsáveis por muitas desordens genéticas, incluindo:
+
+Xeroderma pigmentosum: Hipersensibilidade à luz do sol/UV, resultando num aumento do câncer de pele e envelhecimento precoce; 
+Síndrome de Cockayne: Hipersensibilidade à UV e a agentes químicos;
+Tricotiodistrofia: Pele sensível e cabelos e unhas frágeis;Retardo mental frequentemente acompanha as últimas desordens, sugerindo aumento na vulnerabilidade dos neurônios em desenvolvimento.
+Outras desordens do reparo de DNA incluem:
+
+Síndrome de Werner;
+Síndrome de Bloom: hipersensibilidade a luz solar, alta incidência de malignização celular, especialmente leucemias;
+Ataxia Telangiectasia: sensibilidade à radiação ionizante e alguns agentes químicos.As doenças acima são frequentemente chamadas de “progerias segmentais” (doenças do envelhecimento precoce) porque suas vítimas aparentam ser anciãs e sofrem de doenças relacionadas ao envelhecimento numa idade que são muito mais novas do que elas de fato aparentam ser.
+Outras doenças associadas com redução do reparo do DNA são anemia de Fanconi, câncer de seio e de cólon hereditários.
+
+
+== Reparo de DNA e evolução ==
+Os processos básicos de reparo de DNA são altamente conservativas entre os procariotos e eucariotos e até nos fagos (vírus que infetam bactérias); como também, grande quantidade de organismos, genomas e mecanismos de reparo complexos.  A habilidade de catalisar numerosas proteínas nas estruturas principais para relevantes reações químicas tem dado um papel significativo na elaboração de mecanismos de reparo durante a evolução. Os fósseis indicam que uma única célula viva principiava a proliferação no planeta, em algum momento durante o período pré-cambriano, embora não se reconheça quando a primeira vez que a vida moderna surgiu.  Os ácidos nucleicos passaram a ser as únicas organelas a codificar a informação genética,  requerendo mecanismos de reparo de DNA que em sua forma básica têm sido herdados pela todas as formas de vida existentes por seus ancestrais semelhantes. A emergente atmosfera terrestre rica em oxigênio (conhecida como "grande evento de oxigenação") devido aos organismos  fotossintetizantes, como também a presença de potenciais danos por radicais livres na célula devido à fosforilação oxidativa, necessitavam evoluir os mecanismos de reparo DNA que atuam especialmente para combater os tipos de danos induzidos por estresse oxidativo.
+
+
+=== Velocidade das alterações evolutivas ===
+Em algumas situações, os danos de DNA não são reparados, ou é reparado por um mecanismo propenso a erros que resultam em uma alteração segundo a sequência original. Quando isto acontece, a mutação pode propagar dentro dos genomas da progenia da célula. Tal acontecimento deve em uma linha germinal celular que pode eventualmente produzir um gameta, a mutação tem o potencial de ser passado para o organismo descendente. A velocidade das evoluções nas espécies em particular (ou, em um gene em particular) é uma função da taxa de mutação. Como uma conseqüência, a velocidade e a precisão dos mecanismos de DNA influenciam sobre os processos de mudança evolucionária. 
+
+
+== Tecnologia de reparo de DNA ==
+Uma tecnologia nomeada de CRISPR-Cas9 ((do inglês Clustered Regularly Interspaced Short Palindromic Repeats), ou seja, "Repetições Palindrômicas Curtas Agrupadas e Regularmente Interespaçadas") foi descoberta em 2012. A nova tecnologia possibilita qualquer pessoa com conhecimento em biologia molecular a alterar os genes de quaisquer espécies com precisão.
+
+
+== Referências ==
+
+
+== Ligações externas ==
+A comprehensive list of Human DNA Repair Genes
+3D structures of some DNA repair enzymes
+Human DNA repair diseases
+Damage-Based Theories of AgingIncludes a description of the DNA damage theory of aging.
+DNA repair special interest group
+DNA Repair
+DNA Damage and DNA Repair
+Segmental Progeria
+Vegetables contain chemicals that boost DNA repair, Georgetown University Medical Center, February 9, 2006.
+Vegetables contain chemicals that boost DNA repair, British Journal of Cancer, February 13, 2006.

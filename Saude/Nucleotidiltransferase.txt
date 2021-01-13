@@ -1,0 +1,29 @@
+As nucleotidiltransferases são enzimas transferase de grupos contendo fósforo, por exemplo, substituintes de ácidos nucleotidílicos ou simplesmente monofosfatos de nucleósidos. A reação geral de transferir uma porção de monofosfato de nucleósido de A para B, pode ser escrita como:A - P - N + B 
+  
+    
+      
+        ⇋
+      
+    
+    {\displaystyle \leftrightharpoons }
+   A + B- P - NPor exemplo, no caso das polimerases, A é pirofosfato e B é o polinucleótido nascente. Eles são classificados sob o número CE 2.7.7 e podem ser categorizados em:
+Uridililtransferases, que transferem os grupos uridilila
+Adeniltransferases, que transferem grupos adenilila
+Guanililtransferases, que transferem grupos guanosina
+Cititidililtransferases, que transferem os grupos citidilila
+Timidililtransferases, que transferem grupos timidila
+
+
+== Papel no metabolismo ==
+Muitas enzimas metabólicas são modificadas por nucleotiltransferases. A fixação de um AMP (adenililação) ou UMP (uridililação) pode ativar ou inativar uma enzima ou alterar sua especificidade (ver figura). Essas modificações podem levar a intrincadas redes reguladoras que podem sintonizar atividades enzimáticas de forma que somente os compostos necessários sejam produzidos (aqui: glutamina).
+
+
+== Papel nos mecanismos de reparo de DNA ==
+A nucleotidiltransferase é um componente da via de reparo para reparo por excisão de base de nucleotídeo único. Este mecanismo de reparo começa quando um único nucleotídeo é reconhecido pela glicosilase de DNA como incorretamente combinado ou foi mutado de alguma forma (luz UV, mutagênico químico, etc.) e é removido. Posteriormente, uma nucleotidila tranferase é usada para preencher a lacuna com a base correta, usando a fita modelo como referência.
+
+
+== Referências ==
+
+
+== Ligações externas ==
+MeSH Nucleotidyltransferases

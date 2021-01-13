@@ -1,0 +1,9 @@
+Metagenoma é o nome dado ao genoma coletivo da microbiota total encontrada em um determinado habitat.
+A metagenômica é a análise genômica da comunidade de microrganismos de um determinado ambiente por técnicas independentes de cultivo. Essa abordagem consiste na extração de DNA diretamente do ambiente e construção de uma biblioteca metagenômica com este genoma misto. Essa estratégia permite o acesso a genes de bactérias incultiváveis de inúmeros ambientes.
+Através de técnicas de cultivo puro, os microrganismos podem ser estudados individualmente. Entretanto essa abordagem limita a avaliação taxonômica, filogenética e a estimativa da diversidade microbiana da biosfera, porque apenas uma pequena parcela dos microrganismos, em torno de 1%, são cultiváveis em laboratório pelas técnicas padrões de cultivo.  Com a metagenômica foi possível realizar análises de comunidades microbianas de ambiente por técnicas independentes de cultivo. 
+
+
+== Referências ==
+PACE N R (1997) A molecular view of microbial diversity and the biosphere. Science, 276:734-740. 
+AMANN RI, LUDWIG W, SCHLEIFER KH, (1995) Phylogenetic identification and in situ detection of individual microbial cells without cultivation. Microbiological Reviews, 59:143-169. 
+COWAN D, MEYER Q, STAFFORD W, MUYANGA S, CAMERON R, WITTER P. (2005) Metagenomic gene discovery: past, present and future. Trends in Biotechnology, 321-329.

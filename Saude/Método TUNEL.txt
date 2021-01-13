@@ -1,0 +1,16 @@
+O método de marcação de "nicks" por dUTP e deoxinucleotidil terminal transferase (do inglês, Terminal deoxynucleotidyl transferase dUTP nick end labeling (TUNEL) ) é um método para detecção de fragmentação de DNA através da marcação da ponta terminal de ácidos nucleicos.
+
+
+== Método ==
+O método de TUNEL é utilizado normalmente para detectar a fragmentação do DNA resultante de cascatas de sinalização apoptóticas.  O ensaio se baseia na presençã de "nicks" (cortes simples fita) no DNA, identificados pela enzima deoxinucleotidil terminal transferase(terminal deoxynucleotidyl transferase ou TdT). Essa enzima catalisa a adição de dUTPs, marcados com um marcados secundario. Ele pode marcar células que tenham sofrido também dano severo ao DNA (mesmo não sendo fruto direto da cascata apoptótica)
+
+
+== História ==
+Descrito originalmente por Gavrieli, Sherman e Ben-Sasson em 1992,  o método de TUNEL se tornou um dos principais métodos para detectar morte programada por apoptose. Contudo, há um debate sobre sua acurácia, devido a marcação inapropriada no ensaio original de células necróticas como apoptóticas .  O método foi aperfeiçoado posteriormentie e, caso executado corretamente, deve identificar unicamente células na última fase da apoptose. Novos métodos incorporam dUTPS modificados com fluoróforos ou pequenas moléculas, como biotina e bromina, que podem ser detectados diretamente com núcleotídeos modificados com fluorescência (dUDP-fluoresceína) ou indiratamente com streptavidina ou anticorpos marcados, caso dUTP biotinilado ou BrdUTP são usados, respectivamente.
+
+
+== Referências ==
+
+
+== Ligações externas ==
+MeSH TUNEL

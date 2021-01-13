@@ -1,0 +1,9 @@
+Um domínio proteico é a região de uma proteína onde se encontre maior densidade, isto é, onde há mais dobras. Uma cadeia polipeptídica pode ter um ou mais domínios. Se uma proteína é formada por mais de uma cadeia polipeptídica, os domínios de cada cadeia de polipeptídeos são seus domínios. Inclusive uma proteína formada por mais de uma cadeia polipeptídica pode ter um só domínio, compartilhado pelas cadeias de polipeptídeos.
+Um domínio proteico pode ser funcional se é uma unidade modular da proteína que leva a cabo uma função bioquímica determinada, e estrutural se refere-se a um componente estável da estrutura.
+
+
+== Métodos ==
+O método de Wodak e Janin se fundamenta nas regiões de interface calculadas entre dois segmentos da cadeia com várias incidências em posições diferentes de resíduos. As áreas de interface são calculadas mediante a comparação das superfícies dos segmentos divididos com o da estrutura nativa. Domínio de limites potenciais podem ser identificados em um sítio onde a área de interface se encontrava em um mínimo. Outros métodos tem utilizado medidas de acessibilidade do solvente para calcular a compactação.
+
+
+== Referências ==

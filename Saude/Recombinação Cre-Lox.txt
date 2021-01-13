@@ -1,0 +1,37 @@
+Recombinação Cre-Lox é uma tecnologia de recombinação sítio-específica, cujo nome vem do uso da enzima Cre recombinase e sítios loxP. Derivada do mecanismo natural de recombinação do bacteriófago P1, a recombinação Cre-Lox é utilizada para diversos usos científicos e tecnológicos, notavelmente inserções, deleções, inversões e translocações sítio-específicas em sequências de DNA. Diz-se que uma sequência é “floxed” quando está flanqueada por sítios Lox.
+Um dos usos mais conhecidos da recombinação Cre-Lox é a criação de animais knockout condicionais, onde a modificação desejada ocorrerá apenas após um estímulo desejado. Isso permite a alteração de sequências de DNA em tecidos específicos ou em momentos específicos do desenvolvimento, driblando possíveis efeitos letais se a alteração ocorresse globalmente.
+
+
+== Histórico ==
+Este tipo especial de recombinação sítio-específica foi desenvolvida primeiramente pelo Dr. Brian Sauer, usada ativando expressão gênica em células de mamífero. Sequencialmente, pesquisadores no laboratório do Dr. Jamey Marth demonstraram que a recombinação Cre-Lox poderia ser usada para deletar sequências de DNA flanqueadas por sítios loxP  em eficiências altas em células T de animais transgênicos, com os autores propondo que essa abordagem poderia ser usada para definir a função gênica endógena em tipos celulares específicos, marcar progenitores em estudos de determinação de destino celular, induzir rearranjos cromossômicos específicos para modelagem biológica e de doenças e determinar os papéis de lesões genéticas precoces na manutenção de doenças.
+Logo depois, pesquisadores no laboratório do Prof. Klaus Rajewsky relataram a produção de células iPS carregando um gene de DNA polimerase flanqueado por loxP. Combinando esses avanços em colaboração, os laboratórios dos Drs. Marth e Rajewsky relataram em 1994 que a recombinação Cre-Lox poderia ser usada para modificação condicional de genes em células T em desenvolvimento em camundongos. Eles observaram que aproximadamente 50% do gene da DNA polimerase beta havia sido deletado. Ainda estava incerto se apenas um alelo havia sido deletado em cada célula T ou se metade das células T haviam delatedo ambos os alelos.. Pesquisadores relataram então recombinação Cre-Lox condicional mais eficiente no laboratório Marth em 1995. Deleção incompleta de genes em células com dois alelos flanqueados por sítios loxP não é incomum.
+Independentemente, Joe Z. Tsien foi pioneiro no uso do sistema Cre-Lox para manipulação de modo específico a nível de célula e região no cérebro adulto, onde centenas de tipos neuronais podem existir e onde quase todos os neurônios no adulto são pós-mitóticos. Tsien e colaboradores mostraram que recombinação mediada por Cre pode ocorrer nos neurônios piramidais pós-mitóticos no cérebro de camundongos adultos.
+Esses avanços levaram a um uso generalizado de mutagênese condicional em pesquisa biomédica, afetando diversas disciplinas, se tornando uma poderosa ferramenta para determinar função gênica em tipos celulares específicos e em momentos específicos do desenvolvimento.
+
+
+== Componentes ==
+
+
+=== Cre recombinase ===
+A proteína Cre (assim nomeada pela abreviação de "causes recombination" ou "cyclization recombinase") tem 343 aminoácidos e consiste de 4 subunidades e dois domínios: um domínio C-terminal maior e um N-terminal menor. O domínio C-terminal tem estrutura similar a domínios na família de integrases isolada de bacteriófago λ, e também é o sítio catalítico dessa enzima.
+
+
+=== Sítios LoxP ===
+Os sítios loxP são sequências de 34 pb, consistindo de duas sequências simétricas de 13 pb flanqueando uma sequência simétrica de 8 pb, portando sendo dotados de direcionalidade, o que define como a enzima irá modificar a sequência. A recombinação pode ocorrer tanto in cis como in trans, o que abre também possibilidades de troca de sequências ou integração com plasmídeos.
+Para alguns usos é necessário fazer múltiplas recombinações no mesmo organismo em sítios diferentes. Para isso são usados sítios loxP alternativos, que possuem sua sequência central modificada. A Cre recombinase irá interagir ao mesmo tempo apenas com sítios com sequências assimétricas iguais, criando a possibilidade de um sistema com recombinações múltiplas que não interferem umas nas outras (ortogonais).
+
+
+== Mecanismo ==
+
+A Cre recombinase atua nos sítios loxP ligando-se nas regiões simétricas nas bordas dos sítios, formando um dímero. O corte da fita de DNA será feito de acordo com sua direcionalidade, definida pela sequência assimétrica no meio desse sítio. Esse dímero irá então se associar a outro dímero de Cre recombinase, formando um tetrâmero, promovendo o corte de uma das fitas de DNA e, junto à ação de DNA ligase, a criação de um intermediário de junção de Holliday. As fitas simples geradas podem então ser alongadas por uma DNA polimerase para terminar o rearranjo das sequências, gerando deleções, inversões e translocações.
+
+
+== Animais Nocaute ==
+
+Muitos fatores durante o desenvolvimento podem exibir funções múltiplas em locais diferentes do organismo, ou em momentos diferentes da ontogenia, dependendo do contexto em que se encontra. É possível portanto que a criação de um animal nocaute para alguma função específica seja inviável, se o que exerce essa função tem papel vital em outro momento da ontogenia ou em outro órgão ou tecido corporal. Por isso se dá a importância de uma tecnologia capaz de fazer deleções tecido-específicas em momentos específicos, dependendo de um input externo.
+Normalmente são feitos animais nocaute pelo cruzamento de linhagens de animais modificadas, uma com a alteração em questão, a sequência floxed, e outra com expressão de Cre recombinase.  É possível fazer deleção condicional através do uso de uma recombinase expressa por um promotor condicional ou com ação tecido-específica. Deste modo apenas aquelas células que conseguirem ativar o promotor irão ter a sequência floxed modificada.
+Outra forma de controle espacial da deleção é a injeção de Cre recombinase viral manualmente através de vetores de adenovírus ou lentivírus, tornando a expressão de Cre tão específica quanto a capacidade de isolar áreas a serem infectadas com vetores virais.
+O controle temporal de expressão de Cre é mais utilizado com dois sistemas: indução por tetraciclina ou por tamoxifeno. O controle por teraciclina advém do mecanismo bacteriano de resistência a tetraciclina, composto pela proteína tetR e a sequência de DNA operador tetO. O sistema pode ser arranjado para levar à expressão de Cre na ausência ou presença de tetraciclina ou doxiciclina (Tet-Off e Tet-On, respectivamente). O sistema indutível por tamoxifeno funciona à base da fusão da Cre recombinase a um domínio do receptor de estrogênio humano, que na ausência de tamoxifeno impede a entrada da enzima no núcleo da célula, impedindo recombinação. As alterações pela recombinase podem então ser controladas temporalmente de acordo com a administração de tamoxifeno. É importante ressaltar que estes sistemas podem apresentar expressão basal de Cre dependendo do contexto celular e levar a deleções não intencionais, podendo levar a problemas de viabilidade embrionária.
+
+
+== Referências ==

@@ -1,0 +1,8 @@
+Em biologia molecular, as proteínas inibidoras de beta-lactamase (BLIP) são uma família de proteínas produzida por bactérias, incluindo as do género Streptomyces.
+As BLIP actuam como potentes inibidores das betalactamases, tal como a TEM-1, que é a mais difundida enzima de resistência aos antibióticos penicilínicos.
+As BLIP ligam-se competitivamente à superfície de TEM-1 e inserindo resíduos no sítio activo para fazer contactos directos com os resíduos catalíticos. As BIP também são capazes de inibir uma variedade de betalactamases de classe A, possivelmente através da flexibilidade dos seus dois domínios proteicos. Os dois domínios proteicos com repetição em tandem das BLIP têm uma estrutura α2-β4, o hairpin loop β do domínio 1 inserindo-se no sítio activo da betalactamase.As BLIP não mostram semelhanças de sequências com as BLIP-II, apesar de as duas se ligarem e inibirem a TEM-1.
+
+
+== Referências ==
+
+Este artigo contém texto em domínio público de Pfam e InterPro IPR009099

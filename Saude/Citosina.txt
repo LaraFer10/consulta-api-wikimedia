@@ -1,0 +1,17 @@
+Citosina é uma das quatro bases nitrogenadas principais encontradas no DNA e RNA, juntamente com adenina, guanina e timina (uracil no RNA). É um derivado de pirimidina, com um anel aromático heterocíclico e dois substituintes ligados (um grupo amina na posição 4 e um grupo ceto na posição 2).
+A fórmula química da citosina é C4H5N3O e o seu nucleosídeo é a citidina. No emparelhamento de base Watson-Crick, a citosina forma três ligações de hidrogênio com uma guanina.
+
+
+== História ==
+A citosina foi descoberta e nomeada por Albrecht Kossel e Albert Neumann em 1894, quando foi hidrolisada a partir de tecidos do timo de bezerros.  Uma estrutura foi proposta em 1903 e foi sintetizada (e, portanto, confirmada) no laboratório no mesmo ano.
+Em 1998, a citosina foi usada em uma demonstração inicial do processamento de informações quânticas quando os pesquisadores da Universidade de Oxford implementaram o algoritmo Deutsch-Jozsa em um computador quântico de ressonância magnética nuclear de dois bits (NMRQC).
+
+
+== Reações químicas ==
+A citosina pode ser encontrada como parte do DNA, como parte do RNA ou como parte de um nucleotídeo e forma par C-G com a guanina através de três ligações de hidrogênio.
+
+Como trifosfato de citidina (CTP), pode atuar como um cofator para as enzimas e pode transferir um fosfato para converter o difosfato de adenosina (ADP) em trifosfato de adenosina (ATP). A citosina também pode ser metilada em 5-metilcitosina por uma enzima chamada DNA metiltransferase ou ser metilada e hidroxilada para produzir 5-hidroximetilcitosina.
+A citosina é instável e sofre desaminação espontânea, formando uracil. Essa reação pode levar a uma mutação pontual se não for reparada pelas enzimas de reparo do DNA, como a uracil glicosilase, que cliva um uracil no DNA.
+
+
+== Referências ==

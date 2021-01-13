@@ -1,0 +1,13 @@
+Os Desoxirribonucleotídeos Fosfatados dNTP's são nucleotídeos do DNA formados por: Uma base azotada (Adenina, Citosina, Guanina e Timina), um açúcar (desoxirribose) e 3 grupos fosfato.
+
+
+== Os dNTPs ==
+dATP (desoxiAdenosina Trifosfatada),
+dCTP (desoxiCitidina Trifosfatada),
+dGTP (desoxiGuanosina Trifosfatada) e
+dTTP (desoxiTimidina Trifosfatada),Geralmente são utilizados na técnica do PCR(Polymerase Chain Reaction). Após a fase da Desnaturação (Desnaturation) do DNA e do "Anelamento" (Annealing), ocorre o uso dos dNTPs na extensão das novas cadeias de DNA. Durante essa fase, os dNTPs ficam por 2 minutos a 72 graus Célsius. Na realidade, os dNTPs serão a matéria prima das novas cadeias formadas durante o PCR. Vale lembrar que após o período de Extensão há uma volta aos processos de Desnaturation e Annealing, se repetindo em ciclos.
+Podem ser obtidos na forma liofilizada ou de soluções aquosas neutralizadas. Eles são estáveis a -20°C por muitos meses, mas o pó deve ser neutralizado com KOH (hidróxido de potássio) antes do seu uso. A faixa de concentração ótima deve estar entre 20 e 200µM. Apesar da quantidade ideal de dNTPs para suportar os inúmeros ciclos de polimerização, o seu excesso pode acarretar na diminuição da especificidade. Quando existem baixos níveis de dNTPs, a Taq DNA-polimerase catalisa a polimerização com mais precisão.
+
+
+== Referências Bibliográficas ==
+SALES, Pedro Henrique Dias. Reação em Cadeia de Polimerase (PCR) e suas aplicações. Monografia. 1ªed. Belo Horizonte, Minas Gerais. 2006

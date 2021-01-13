@@ -1,0 +1,61 @@
+Em epidemiologia, morbidade ou morbilidade é a taxa de portadores de determinada doença em relação à população total estudada, em determinado local e em determinado momento. A quantificação das doenças ou cálculo das taxas e coeficientes de morbidade e morbi-mortalidade são tarefas essenciais para Vigilância epidemiológica e controle das doenças que, por sua vez para fins de organização dos serviços de saúde e intervenção nos níveis de saúde pública podem ser divididas em doenças transmissíveis e Doenças e Agravos Não Transmissíveis - DANTs.
+
+
+== Introdução ==
+A palavra morbilidade provém da palavra latina morbus, que significa tanto doença física, enfermidade, como doença do espírito, paixão.
+A medida de morbidade é um dos temas centrais da epidemiologia, sendo que sua obtenção apresenta diferentes graus de dificuldade.
+Também é a taxa de portadores de determinadas doenças em relação ao número de habitantes sãos em determinado local ou em determinado doente.
+
+
+== Medidas de Frequência das Doenças ==
+O termo “frequência” necessita ser bem definido na epidemiologia, sofrendo distinção entre “incidência” e “prevalência”, no intuito de separar determinados aspectos que, se não levados em conta, dificultam as comparações de “frequências”.
+Incidência e Prevalência:
+
+A incidência de uma doença refere-se aos casos novos e a prevalência aos casos existentes.Comparando, a incidência é como se fosse um “filme” sobre a ocorrência da doença, constitui-se como uma sucessão de ocorrências de adoecimentos e curas ou óbitos,
+
+Prevalência produz um “retrato” dela na coletividade.Assim uma é dinâmica, a outra é estática.
+Para conhecimento da incidência, especifica-se a duração do tempo de observação de surgimento de casos novos, como por exemplo, a incidência de casos de dengue durante um mês. A prevalência informa o número de casos existentes, como por exemplo, a prevalência de casos de tuberculose nos dias de hoje. Nos seus resultados estão misturados casos novos e antigos.
+
+
+=== O que medem incidência e prevalência? ===
+A incidência reflete a dinâmica com que os casos aparecem no grupo. Por exemplo, ela informa quantos, entre os sadios, se tornam doentes em um dado período de tempo; ou ainda quando, entre os doentes, apresentam uma dada complicação ou morrem decorrido certo período de tempo. Por isso se costuma dizer que a incidência reflete a “força de morbidade” (ou “força de mortalidade", quando referente aos óbitos).
+A incidência é um dos fatores determinantes do nível de prevalência. Essa ultima representa o estoque de casos, ou seja, a proporção da população que apresenta uma dada doença. Ela aumenta com os casos novos e diminui com a cura e o óbito.
+A melhoria no tratamento médico de uma afecção crônica, fazendo prolongar a vida, mas sem curar a doença (exemplo: AIDS), aumenta o número de casos na população, o que eleva a taxa de prevalência. Não tratar doenças curáveis (exemplo hanseníase) faz também aumentar a prevalência. Ao contrário, as condições de evolução lenta, ou as rapidamente fatais, têm baixa prevalência na população. Os exemplos ilustram o fato de que a prevalência e a incidência dependem da duração da afecção.
+
+
+=== Usos de Incidência e Prevalência ===
+A observação da freqüência e da distribuição do evento, sob forma de incidência ou prevalência, informa a magnitude e a importância dos danos à saúde da população, sendo que em pesquisas epidemiológicas ambas são determinadas de modo que sobre elas se baseiem as conclusões do estudo.
+
+
+=== Doenças transmissíveis ===
+Doenças Infecciosas e parasitárias; Doenças Transmissíveis; Doença Contagiosa; Doença Infecto-Contagiosa; Doença Tropical são termos que designam o grupo de doenças causadas por agentes biológicos.
+Os agentes biológicos das principais doenças transmissíveis conhecidas são os vírus; riquétsias;  espiroquetídeos; bactérias; protozoários; fungos e helmintos, algumas classificações incluem as riquétsias e Espiroquetas no grupo das bactérias e incluem os protozoários juntos como os helmintos nos grupo dos parasitos. Os vírus também podem ser subdivididos e distinguidos dos virions e prions ou classificados juntamente com os outras agentes segundo o seu modo de transmissão e características epidemiológicas a exemplo das doenças sexualmente transmissíveis, transmissíveis pela água etc.
+As primeiras explicações sobre as epidemias e tentativas de controle não mágico-religioso já ser referidos desde os gregos com revele o texto de Hipócrates "Sobre os Ares, Águas e Lugares", que identificava a influência da localização geográfica e dos elementos físicos (clima, disponibilidade, qualidade e facilidade de acesso à água, presença de vegetação), à saúde, quantidade de doentes e estereotipo dos habitantes de cada lugar, a teoria do contágio só se desenvolveu nos finais do século XIX com as descobertas dos microorganismos por Louis Pasteur (1822 - 1895).
+
+
+=== Doenças e Agravos Não Transmissíveis ===
+
+As doenças e agravos não transmissíveis - DANTs; doenças não infecciosas ou não transmissíveis também recebem vários nomes e podem ser classificadas de diversas formas. As principais distinções referem-se á condição de se caracterizarem como um estado crônico ou irreversível nos indivíduos afetados, possuírem uma determinação multi-fatorial ou relacionado às causas externas. As primeiras, crônico-degenerativas, geralmente são associadas aos problemas decorrentes do envelhecimento dos indivíduos e populações e o segundo grupo das violências dos acidentes e agressões - agravos decorrentes de causas externas não biológicas associado às más condições de vida, urbanização desorganizada e problemas sócio-econômicos que expõem grandes segmentos da população condições de carência e demanda de consumo não satisfeito ou fatores geradores da criminalidade.
+
+
+=== Referências ===
+Veronesi, Ricardo. Doenças infecciosas e parasitárias. RJ, Guanabara – Koogan, 1976
+Brasil, Ministério da saúde. Secretaria de Vigilância em Saúde. Guia de vigilância epidemiológica – Série A. Normas e manuais Técnicos. DF, MS, 2005
+Fry, John Doenças comuns: incidência, natureza e tratamento. SP, Manole, 1977
+
+
+=== Veja também ===
+Epidemias
+Patologia
+Mortalidade
+Epidemiologia
+Saúde pública
+Coorte (estatística)
+
+
+== Ligações externas ==
+Centro Brasileiro de Classificação de Doenças - CBCD
+Ministério da Saúde Brasil - Vigilância de Doenças e Agravos Não Transmissíveis
+International Classification of Diseases (ICD)
+Centros para el Control y la Prevención de Enfermedades
+Photo Researchers To Your Health Pathogens

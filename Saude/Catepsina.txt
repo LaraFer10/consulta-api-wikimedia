@@ -1,0 +1,37 @@
+As catepsinas são uma família de proteases de cisteína que podem ser
+encontradas em muitos tipos de células. Sintetizadas a partir de pre-pro-catepsinas, são ativadas sob o pH ácido dos lisossomos e representam
+a maioria das proteases presentes nesta organela. São distribuídas de
+maneira desigual entre os diversos tecidos, caracterizando-os.
+
+
+== Introdução ==
+As catepsinas são uma família de proteases que podem ser
+encontradas em muitos tipos de células. Foram registrados aproximadamente 12 membros dessa família, os quais se distinguem com relação à estrutura e ao substrato. São ativas sob o pH ácido dos lisossomos (~5), o que torna sua atividade compreendida quase que inteiramente no interior dessa organela.
+As catepsinas L, B, D e H representam a maior parte das proteases lisossomais e são elas que determinam primariamente a capacidade proteolítica dos lisossomos.
+
+
+== Síntese e direcionamento para os lisossomos ==
+A síntese de catepsinas é realizada a partir de pre-pro-enzimas. O pre-peptídeo guia o precursor de catepsina dentro do lúmen do retículo endoplasmático rugoso e é hidrolisado durante a tradução. Já o pro-peptídeo permite um enovelamento (folding) apropriado da catepsina nascente que inibe sua atividade proteolítica, mas preserva sua estrutura terciária sob condições de pH neutro. Além disso, pro-catepsinas são co-traduzidas glicosiladas.
+O processo de direcionamento de pro-catepsinas para os endossomos/lisossomos se dá através da ligação daquelas com resíduos de manose-6-fosfato (M6PR) na subunidade trans-Golgi, os quais serão translocados para os endossomos maduros (late endosomes), onde o pH - já então ácido (~6) - dissociará as pro-catepsinas dos M6PR.
+O processo proteolítico de conversão de pro-catepsina à protease ativa ocorre nos endossomos maduros ou nos lisossomos. A diminuição do pH devido às bombas de H+ (próton) presentes nas membranas das organelas enfraquecem as interações entre o pro-peptídeo e então o sítio ativo é clivado e exposto.
+
+
+== Proteases lisossomais e tipos de catepsinas ==
+A hidrólise de proteínas nos lisossomos é realizada por um conjunto de endopeptidases e exopeptidases. As primeiras clivam as ligações peptídicas internas à proteína, ao passo que as segundas hidrolisam as extremidades C- ou N-terminal. Duas classes de endopeptidases são encontradas nos lisossomos: aspártico e cisteíno proteases. Estas são ativas no meio ácido e rico em cisteína da organela, mas outras (catepsinas S, K e B) são ativas em pH neutro. A maioria das cisteíno proteases lisossomais são somente endopeptidases (catepsina, F, K, L, S, V e legumaína), mas a catepsina B é também uma carboxipeptidase e a catepsina H, uma aminopeptidase. A catepsina D é o maior representante de aspártico endopeptidases identificada nos lisossomos, é ativa somente em pH < 6 e não requer um ambiente redutor. Catepsinas B, L, H e D funcionam como a ubiquitina. As demais apresentam distribuição variada e específica para cada tecido. Conforme a atividade das endopeptidases procede, novos resíduos de C- e N-terinal são formados e servem de substrato para as exopeptidases. As principais carboxipeptidases lisossomais incluem a catepsina H, a catepsina C e a tripeptidil peptidase I, que removem, respectivamente, um, dois e três aminoácidos do N-terminal. A quantidade de endopeptidases é de, ao menos 10 vezes a quantidade de exopeptidases e acredita-se que sejam aquelas que iniciam a proteólise lisossomal.
+
+
+== Localização das catepsinas nos diferentes tecidos ==
+As catepsinas B, H, L e D revelam uma distribuição específica nos diversos tecidos. Altos níveis são encontrados em tecidos os quais apresentam alta taxa de protein turnover (renovação do material protéico, reciclagem protéica), como é o caso dos rins, fígado e placenta, enquanto baixos níveis são observados onde esta taxa é baixa, como no músculo esquelético.
+
+
+== Referências ==
+
+
+=== Artigos ===
+Daniel Bechet , Amina Tassa , Daniel Taillandier, Lydie Combaret, Didier Attaix "Lysosomal proteolysis in skeletal muscle". The International Journal of Biochemistry & Cell Biology 37 (2005) 2098–2114.
+
+
+== Ver também ==
+lisossomo
+protease
+proteólise

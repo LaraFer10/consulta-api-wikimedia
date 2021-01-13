@@ -1,0 +1,70 @@
+Proteases aspárticas são um tipo de enzimas proteolíticas que utilizam uma molécula de água ligada a um ou mais resíduos aspárticos para a catálise de substratos peptídicos. Estas enzimas possuem geralmente dois resíduos aspárticos altamente conservados no centro activo e possuem actividade máxima a pHs ácidos. Quase todas as proteases aspárticas actualmente conhecidas são inibidas pela pepstatina.
+
+Várias endopeptidases aspárticas EC 3.4.23. com origem em vertebrados, fungos e vírus foram caracterizadas. Mais recentemente, endopeptidases aspárticas associadas com o processamento da prepilina tipo bacteriano 4  e preflagelina de Archaea têm sido descritas.Proteases aspárticas de origem eucariótica incluem pepsinas, catepsinas, e reninas. Estas têm uma estrutura com dois domínios, decorrente de duplicação ancestral. Proteases retrovirais e de retrotransposões (proteases aspárticas retrovirais) são muito mais pequenas e parecem
+possuir homologia com um único domínio das proteases aspárticas eucarióticas. Cada domínio contribui com um resíduo catalítico Asp, estando a fenda catalítica localizada entre os dois lobos da molécula.Um dos lobos terá provavelmente evoluído a partir do outro, através dum fenómeno de duplicação genética num passado distante. Apesar das estruturas tridimensionais das enzimas actualmente conhecidas serem muito semelhantes, as suas sequências aparentam um maior grau de divergência. O centro catalítico é a excepção, sendo muito conservado. A presença e a posição de pontes dissulfito são outra característica conservada  das peptidases aspárticas.
+
+
+== Mecanismo Catalítico ==
+
+As proteases aspárticas são uma família de proteases com actividade altamente específica, clivando tendencialmente ligações entre dipéptidos que possuam resíduos hidrofóbicos, assim como um grupo beta-metileno. Ao contrário de proteases serínicas ou cisteínicas, estas proteases não formam um covalente intermediário durante a clivagem. A proteólise ocorre, portanto, num único passo.
+Enquanto um número de diferentes mecanismos para a actividade das proteases aspárticas têm sido propostos, o mais amplamente aceite é um mecanismo ácido-base geral, que envolve a coordenação de uma molécula de água entre os dois resíduos aspárticos altamente conservados. Um aspartato activa a água pela abstração de um protão, permitindo que a água realize um ataque nucleofílico ao carbono do carbonilo da ligação peptídica, gerando um intermediário oxianiónico tetraédrico. O rearranjo deste intermediário leva à protonação daamida cindível, resultando na divisão do substrato peptídico original em dois produtos peptídicos.
+
+
+== Inibição ==
+A pepstatina é um inibidor de proteases aspárticas.
+
+
+== Classificação ==
+Cinco superfamílias (clãs) de proteases aspárticas são conhecidas, cada uma representando uma evolução independente do mesmo centro ativo e mecanismos. Cada superfamília contém várias famílias com sequências semelhantes. A classificação sistemática MEROPS nomeia estes clãs por ordem alfabética:
+
+Clã AA (e.g. Família da Pepsina)
+Clã CA (e.g. Família da Sinal peptidase II)
+Clã AD (e.g. Família da Presenilina)
+Clã AE (e.g. Família da endopeptidase GPR)
+Clã AF (e.g. Família da Omptina)
+
+
+== Propéptido ==
+Muitas endopeptidases aspárticas de origem eucariótica (MEROPS família A1) são sintetizadas com péptidos sinal e propéptidos. Os propéptidos da endopeptidase-tipo pepsina animal contêm um motivo conservado com cerca de 30 resíduos. No pepsinogénio A, os primeiros 11 resíduos da sequência matura da pepsina são deslocados pelos resíduos do propéptido. O propéptido contem duas hélices que bloqueiam o acesso à fenda catalítica. Em particular o resíduo Asp11 do propéptido da pepsina, liga-se à Arg conservada através de pontes de hidrogénio. Esta ponte de hidrogénio estabiliza a conformação do propéptido e é provavelmente responsável por desencadear a conversão do pepsinogénio em pepsina, quando em condições de pH ácido.
+
+
+== Exemplos ==
+
+
+=== Humano ===
+BACE1, BACE2
+Catepsina D
+Catepsina E
+Quimosina
+Napsina-A
+Pepsina
+Plasmepsina
+Presenilina
+Renina
+
+
+=== Proteínas humanas contendo este domínio ===
+BACE1; BACE2; CTSD; CTSE; NAPSA; PGA5; PGC; REN;
+
+
+=== Outros organismos ===
+Cardosina - Presente na inflorescência do cardo, e muito utilizada para o fabrico artesanal de queijos de pasta mole.
+Protease do HIV-1 - Um dos principais alvos para o tratamento do HIV
+Nepenthesina - Isolada das secreções de plantas carnívoras do género Nepenthes e potencialmente envolvidas na digestão de presas (insectos).
+
+
+== Ligações externas ==
+A base de dados online MEROPS  com informação relativamente a peptidases e os seus inibidores: Peptidases Aspárticas
+MEROPS: Família A1
+Endopeptidases Aspárticas na US National Library of Medicine Medical Subject Headings (MeSH)
+
+
+== Ver também ==
+O Mapa Proteolítico
+Protease Glutâmica
+
+
+== Referências ==
+
+Este artigo contém texto em domínio público de Pfam e InterPro IPR000036
+Este artigo contém texto em domínio público de Pfam e InterPro IPR012848

@@ -1,0 +1,696 @@
+No campo da bioquímica, a eficiência cinética ou 
+  
+    
+      
+        
+          k
+          
+            c
+            a
+            t
+          
+        
+        
+          /
+        
+        
+          K
+          
+            M
+          
+        
+      
+    
+    {\displaystyle k_{cat}/K_{M}}
+   (também chamada de constante de especificidade), é uma medida da eficiência com que uma enzima converte substratos em produtos. Uma comparação de constantes de especificidade também pode ser usada como uma medida da preferência de uma enzima para diferentes substratos (isto é, especificidade do substrato). Quanto maior a constante de especificidade, mais a enzima "prefere" esse substrato.
+
+
+== Cinética de Michaelis–Menten ==
+
+As reacções catalisadas por enzimas são saturáveis, e a sua velocidade de catálise não indica uma resposta linear face ao aumento de substrato. Se a velocidade inicial da reacção é medida sobre uma escala de concentrações de substrato (denotada como [S]), a velocidade de reacção (v) aumenta com o acréscimo de [S]. Todavia, à medida que [S] aumenta, a enzima satura-se e a velocidade atinge o valor máximo Vmax.
+No modelo da cinética de Michaelis-Menten de uma reacção mono-substrato existe uma reacção bimolecular inicial entre a enzima E e o substrato S para formar o complexo ES. Embora o mecanismo enzimático para a reacção unimolecular 
+  
+    
+      
+        E
+        S
+        →
+        E
+        +
+        P
+      
+    
+    {\displaystyle ES\rightarrow E+P}
+   possa ser bastante complexo, há tipicamente um passo na determinação da velocidade que permite que se modele o mecanismo como um passo catalítico simples de velocidade constante k2.
+
+  
+    
+      
+        
+          
+            
+              
+                v
+                =
+                
+                  k
+                  
+                    2
+                  
+                
+                [
+                
+                  
+                    ES
+                  
+                
+                ]
+              
+            
+          
+        
+      
+    
+    {\displaystyle {\begin{matrix}v=k_{2}[{\mbox{ES}}]\end{matrix}}}
+      (Eq. 1).k2 também é designado como kcat ou turnover, o valor máximo de reacções enzimáticas catalisadas por segundo. 
+Com baixas concentrações de substrato [S], a enzima permanece em equilíbrio entre a forma livre E e o complexo enzima-substrato ES; aumentando [S] aumenta [ES] à custa de [E], mudando o equilíbrio para o lado direito. Uma vez que a velocidade de reacção depende da concentração [ES], a velocidade é sensível a pequenas alterações de [S]. Todavia, com altos valores de [S], a enzima fica totalmente saturada com substrato, e existe apenas na forma ES. Nestas condições, a velocidade (v≈k2[E]tot=Vmax) é insensível a pequenas alterações de [S]; assim, [E]tot é a concentração total enzimática 
+
+  
+    
+      
+        [
+        
+          
+            E
+          
+        
+        
+          ]
+          
+            
+              t
+              o
+              t
+            
+          
+        
+         
+        
+          
+            
+              
+                =
+              
+              
+                
+                  d
+                  e
+                  f
+                
+              
+            
+          
+        
+         
+        [
+        
+          
+            E
+          
+        
+        ]
+        +
+        [
+        
+          
+            ES
+          
+        
+        ]
+      
+    
+    {\displaystyle [{\mbox{E}}]_{\mathrm {tot} }\ {\stackrel {\mathrm {def} }{=}}\ [{\mbox{E}}]+[{\mbox{ES}}]}
+  que é aproximadamente igual à concentração [ES] em condições de saturação.
+A equação de Michaelis–Menten descreve como a velocidade de reacção v depende da posição do equilíbrio ligado ao substrato e da constante de velocidade k2. Michaelis e Menten mostraram que se k2 for bem menor que k-1 (chamada a aproximação de equilíbrio), pode obter-se a seguinte equação:
+
+  
+    
+      
+        v
+        =
+        
+          
+            
+              
+                V
+                
+                  max
+                  [
+                
+              
+              
+                
+                  S
+                
+              
+              ]
+            
+            
+              
+                K
+                
+                  m
+                
+              
+              +
+              [
+              
+                
+                  S
+                
+              
+              ]
+            
+          
+        
+      
+    
+    {\displaystyle v={\frac {V_{\max[}{\mbox{S}}]}{K_{m}+[{\mbox{S}}]}}}
+      (Eq. 2)Esta equação de Michaelis-Menten é a base da maior parte da cinética enzimática mono-substrato.
+A constante de Michaelis Km é definida como a concentração para a qual a velocidade da reacção enzimática é metade de Vmax. Isto pode verificar-se ao substituir Km = [S] na equação de Michaelis-Menten. Se o passo de determinação da velocidade for lento, quando comparado com a dissociação do substrato (k2 << k-1), então a constante de Michaelis Km é aproximadamente à constante de dissociação do complexo ES, embora tal situação seja relativamente rara.
+A situação mais normal dá-se quando k2 > k-1 , resultando na por vezes chamada cinética de Briggs-Haldane. A equação ainda se verifica em condições mais gerais, como provém da aproximação ao estado estacionário. Durante o período inicial, a velocidade de reacção v é relativamente constante, indicando que [ES] é também aproximadamente constante (cf. equação 1):
+
+  
+    
+      
+        
+          
+            d
+            
+              d
+              t
+            
+          
+        
+        [
+        
+          
+            ES
+          
+        
+        ]
+        =
+        
+          k
+          
+            1
+          
+        
+        [
+        
+          
+            E
+          
+        
+        ]
+        [
+        
+          
+            S
+          
+        
+        ]
+        −
+        
+          k
+          
+            2
+          
+        
+        [
+        
+          
+            ES
+          
+        
+        ]
+        −
+        
+          k
+          
+            −
+            1
+          
+        
+        [
+        
+          
+            ES
+          
+        
+        ]
+        ≈
+        0
+      
+    
+    {\displaystyle {\frac {d}{dt}}[{\mbox{ES}}]=k_{1}[{\mbox{E}}][{\mbox{S}}]-k_{2}[{\mbox{ES}}]-k_{-1}[{\mbox{ES}}]\approx 0}
+  Assim, a concentração [ES] é dada pela fórmula
+
+  
+    
+      
+        [
+        
+          
+            ES
+          
+        
+        ]
+        ≈
+        
+          
+            
+              [
+              
+                
+                  E
+                
+              
+              
+                ]
+                
+                  
+                    t
+                    o
+                    t
+                  
+                
+              
+              [
+              
+                
+                  S
+                
+              
+              ]
+            
+            
+              [
+              
+                
+                  S
+                
+              
+              ]
+              +
+              
+                K
+                
+                  m
+                
+              
+            
+          
+        
+      
+    
+    {\displaystyle [{\mbox{ES}}]\approx {\frac {[{\mbox{E}}]_{\mathrm {tot} }[{\mbox{S}}]}{[{\mbox{S}}]+K_{m}}}}
+  em que a constante de Michaelis Km é definida por
+
+  
+    
+      
+        
+          K
+          
+            m
+          
+        
+         
+        
+          
+            
+              
+                =
+              
+              
+                
+                  d
+                  e
+                  f
+                
+              
+            
+          
+        
+         
+        
+          
+            
+              
+                k
+                
+                  2
+                
+              
+              +
+              
+                k
+                
+                  −
+                  1
+                
+              
+            
+            
+              k
+              
+                1
+              
+            
+          
+        
+        ≈
+        
+          
+            
+              [
+              
+                
+                  E
+                
+              
+              ]
+              [
+              
+                
+                  S
+                
+              
+              ]
+            
+            
+              [
+              
+                
+                  ES
+                
+              
+              ]
+            
+          
+        
+      
+    
+    {\displaystyle K_{m}\ {\stackrel {\mathrm {def} }{=}}\ {\frac {k_{2}+k_{-1}}{k_{1}}}\approx {\frac {[{\mbox{E}}][{\mbox{S}}]}{[{\mbox{ES}}]}}}
+  ([E] é a concentração de enzima livre). Em conjunto, a fórmula geral para a velocidade de reacção v vem pela equação de Michaelis-Menten:
+
+  
+    
+      
+        v
+        =
+        
+          k
+          
+            2
+          
+        
+        [
+        
+          E
+          S
+        
+        ]
+        =
+        
+          
+            
+              
+                k
+                
+                  2
+                
+              
+              [
+              
+                
+                  E
+                
+              
+              
+                ]
+                
+                  
+                    t
+                    o
+                    t
+                  
+                
+              
+              [
+              
+                
+                  S
+                
+              
+              ]
+            
+            
+              [
+              
+                
+                  S
+                
+              
+              ]
+              +
+              
+                K
+                
+                  m
+                
+              
+            
+          
+        
+        =
+        
+          
+            
+              
+                V
+                
+                  max
+                  [
+                
+              
+              
+                
+                  S
+                
+              
+              ]
+            
+            
+              [
+              
+                
+                  S
+                
+              
+              ]
+              +
+              
+                K
+                
+                  m
+                
+              
+            
+          
+        
+      
+    
+    {\displaystyle v=k_{2}[\mathrm {ES} ]={\frac {k_{2}[{\mbox{E}}]_{\mathrm {tot} }[{\mbox{S}}]}{[{\mbox{S}}]+K_{m}}}={\frac {V_{\max[}{\mbox{S}}]}{[{\mbox{S}}]+K_{m}}}}
+  A constante de especificidade 
+  
+    
+      
+        
+          k
+          
+            c
+            a
+            t
+          
+        
+        
+          /
+        
+        
+          K
+          
+            m
+          
+        
+      
+    
+    {\displaystyle k_{cat}/K_{m}}
+   é uma medida da eficiência de conversão pela enzima do substrato em produto. Usando a definição da constante de Michaelis 
+  
+    
+      
+        
+          K
+          
+            m
+          
+        
+      
+    
+    {\displaystyle K_{m}}
+  , a equação escreve-se na forma 
+
+  
+    
+      
+        v
+        =
+        
+          k
+          
+            2
+          
+        
+        [
+        
+          E
+          S
+        
+        ]
+        =
+        
+          
+            
+              k
+              
+                2
+              
+            
+            
+              K
+              
+                m
+              
+            
+          
+        
+        [
+        
+          
+            E
+          
+        
+        ]
+        [
+        
+          
+            S
+          
+        
+        ]
+      
+    
+    {\displaystyle v=k_{2}[\mathrm {ES} ]={\frac {k_{2}}{K_{m}}}[{\mbox{E}}][{\mbox{S}}]}
+  sendo [E] a concentração de enzima livre. Assim, a constante de especificidade é um modo eficaz de obter a constante de segunda ordem da velocidade para enzimas livres na reacção com substrato livre para formação de produto. A constante de especificidade é limitada pela frequência com que o substrato e a enzima se encontram na solução, podendo atingir 1010 M−1 s−1. Esta taxa máxima é amplamente não dependente da dimensão do substrato ou da enzima. A razão entre constantes de especificidade para dois substratos é uma comparação quantitativa da eficiência da enzima na conversão dos substratos. O declive do gráfico de Michaelis-Menten com baixa concentração de substrato [S] (i.e. [S] << Km) também resulta na constante de especificidade.
+
+
+=== Constante de Michaelis ===
+A constante Michaelis, por sua vez, é definida da seguinte forma:
+
+  
+    
+      
+        
+          K
+          
+            M
+          
+        
+        =
+        
+          
+            
+              
+                k
+                
+                  r
+                
+              
+              +
+              
+                k
+                
+                  c
+                  a
+                  t
+                
+              
+            
+            
+              k
+              
+                f
+              
+            
+          
+        
+      
+    
+    {\displaystyle K_{M}={\frac {k_{r}+k_{cat}}{k_{f}}}}
+  A constante de Michaelis é igual à concentração de substrato na qual a enzima converte substratos em produtos à metade de sua taxa máxima e, portanto, está relacionada à afinidade do substrato pela enzima.
+A constante catalítica (
+  
+    
+      
+        
+          k
+          
+            c
+            a
+            t
+          
+        
+      
+    
+    {\displaystyle k_{cat}}
+  ) é a taxa de formação do produto quando a enzima está saturada com substrato e, portanto, reflete a taxa máxima da enzima. A taxa de formação do produto depende de quão bem a enzima se liga ao substrato e a rapidez com que a enzima converte o substrato no produto depois que o substrato é ligado.
+Para uma enzima cineticamente perfeita, todo encontro entre enzima e substrato leva ao produto e, portanto, a velocidade da reação é limitada apenas pela taxa em que a enzima encontra o substrato em solução. Portanto, o limite superior para 
+  
+    
+      
+        
+          k
+          
+            c
+            a
+            t
+          
+        
+        
+          /
+        
+        
+          K
+          
+            M
+          
+        
+      
+    
+    {\displaystyle k_{cat}/K_{M}}
+    é igual à taxa de difusão do substrato que está entre 108 e 109 s−1M−1.
+
+
+== Referências ==

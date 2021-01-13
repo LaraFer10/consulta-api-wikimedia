@@ -1,0 +1,115 @@
+A atividade aquosa (denominada também como atividade da água) define-se como a relação que existe entre a pressão de vapor de um alimento dado em relação com a pressão do vapor de água pura à mesma temperatura e varia de 0 a 1. Denomina-se pela regra geral como Aw (do inglês: Activity of Water). A atividade aquosa é um parâmetro inteiramente ligado à umidade do alimento o que permite determinar sua capacidade de conservação, de propagação microbiana, etc. A atividade aquosa de um alimento pode ser reduzida aumentando a concentração de solutos na fase aquosa dos alimentos mediante a extração da água (liofilização) ou mediante a adição de novos solutos. A atividade aquosa junto a temperatura, o pH e o oxigênio, são os fatores que mais influenciam na estabilidade dos produtos alimentícios.
+
+
+== Definição formal ==
+Uma definição mais formal da atividade aquosa, representada por aw:
+
+  
+    
+      
+        
+          a
+          
+            w
+          
+        
+        ≡
+        p
+        
+          /
+        
+        
+          p
+          
+            0
+          
+        
+      
+    
+    {\displaystyle a_{w}\equiv p/p_{0}}
+  onde p é a pressão do vapor de água na substância, e po é a pressão do vapor de água pura à mesma temperatura. Existem definições alternativas como expressada em:
+
+  
+    
+      
+        
+          a
+          
+            w
+          
+        
+        ≡
+        
+          l
+          
+            w
+          
+        
+        
+          x
+          
+            w
+          
+        
+      
+    
+    {\displaystyle a_{w}\equiv l_{w}x_{w}}
+  onde lw é o coeficiente da atividade da água e xw é a fração molar da água na fração aquosa.
+Umidade relativa:
+
+  
+    
+      
+        
+          R
+          H
+        
+        =
+        
+          a
+          
+            w
+          
+        
+        ×
+        100
+        %
+      
+    
+    {\displaystyle \mathrm {RH} =a_{w}\times 100\%}
+  Estimado em dias de vida a uma temperatura de 21°C:
+
+  
+    
+      
+        
+          M
+          F
+          S
+          L
+        
+        =
+        
+          10
+          
+            7.91
+            −
+            8.1
+            
+              a
+              
+                w
+              
+            
+          
+        
+      
+    
+    {\displaystyle \mathrm {MFSL} =10^{7.91-8.1a_{w}}}
+  
+
+
+== Valores de aw mínimos para desenvolvimento de microorganismos ==
+
+
+== Referências ==

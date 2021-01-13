@@ -1,0 +1,34 @@
+Fator D (EC 3.4.21.46, convertase do proativador C3, Esterase do fator D da properdina, fator D (complemento), fator do complemento D, CFD, adipsina) uma proteína que em humanos é codificada pelo gene CFD .  O fator D está envolvido na via alternativa do Sistema Complemento, onde cliva o fator B. 
+
+
+== Função ==
+A proteína codificada por esse gene é membro da família das peptidases da tripsina . A proteína codificada é um componente da via alternativa do sistema complemento mais conhecida por seu papel na supressão humoral de agentes infecciosos. Essa proteína também é uma serina protease secretada pelos adipócitos na corrente sanguínea. Por fim, a proteína codificada tem alto nível de expressão em gordura, sugerindo um papel do tecido adiposo na biologia do sistema imunológico. 
+
+O fator D é uma serina protease que estimula o transporte de glicose para o acúmulo de triglicerídeos nas células de gordura e inibe a lipólise. 
+
+
+== Significância clínica ==
+O nível de Fator D é diminuído em pacientes obesos, essa redução pode ser devido à alta atividade ou resistência, mas a causa exata não é totalmente conhecida. 
+
+
+== Estrutura ==
+Todos os membros da família das quimiotripsina (serina proteases) têm estruturas muito semelhantes. Em todos os casos, incluindo o fator D, há dois domínios antiparalelos β-barril com cada barril contendo seis β-fitas com a mesma tipologia em todas as enzimas. A principal diferença na estrutura da espinha dorsal entre o Fator D e as outras serina proteases da família da quimotrpsina está nas alças de superfície que conectam os elementos estruturais secundários. O fator D exibe diferentes conformações dos principais resíduos catalíticos e de ligação ao substrato tipicamente encontrados na família da criotripsina. Essas características sugerem que a atividade catalítica do fator D é proibida, a menos que mudanças conformacionais sejam induzidas por um realinhamento. 
+
+
+== Mecanismo de ação ==
+O fator D é uma serina protease presente no sangue e nos tecidos em uma sequência ativa, mas com conformação auto-inibida. O único substrato natural conhecido do Fator D é o Fator B, e a clivagem da ligação cindível Arg234 -Lys235 no Fator B resulta em dois fragmentos do Fator B, Ba e Bb. Antes que a clivagem da ligação cindível no Fator B possa ocorrer, o Fator B deve primeiro se ligar ao C3b antes de formar o complexo C3bB.  É proposto que esta mudança conformacional do Fator B no complexo C3bB permite que o Fator B se encaixe no sítio de ligação do Fator D. 
+A tríade catalítica do Fator D é composta por Asp102, His57 e Ser195. Outros componentes principais do Fator D são uma ponte de sal Asp189 -Arg218 que estabiliza uma alça auto-inibitória (resíduos de aminoácidos 212 a 218) e a cadeia lateral His 57 na conformação não canônica.   Em sua forma inibida, a alça auto-inibitória impede o acesso do Fator B ao Fator D. Quando a conformação auto-inibida do Fator D é abordada pelo complexo C3bB, C3bB desloca a ponte salina no Fator D e resulta em uma nova ponte salina entre o Arg 234 do Fator B e Asp 189 do Fator D.  O deslocamento da ponte de sal do Fator D resulta em um realinhamento da alça auto-inibitória e uma rotação da cadeia lateral de histidina do local ativo, criando a forma canônica do Fator D. A clivagem da ligação cindível no Fator B então segue, liberando o fragmento Ba e formando C3bBb, a via alternativa C3-convertase . 
+
+
+== Regulação ==
+O fator D é sintetizado pelo fígado e adipócitos, sendo este último a principal fonte. A pro-forma do Fator D que é secretada é clivada pelo MASP-3 para formar a sequência ativa que circula no corpo.  O fator D mantém uma especificidade de substrato extremamente alta e, como resultado, não possui inibidores naturais conhecidos no corpo. No entanto, a maior parte do Fator D permanece na forma auto inibída que limita o acesso do substrato ao sítio catalítico. O fator D tem um peso molecular de 23,5 kD e está presente em uma concentração de 1,8 mg/L de sangue em humanos saudáveis. A taxa de síntese do Fator é de aproximadamente 1,33 mg/kg/dia, e a maior parte do Fator D é eliminado através do rim após catabolismo nos túbulos proximais após reabsorção. O efeito líquido é uma alta taxa metabólica fracionária de 60% por hora.  Em pacientes com função renal normal, nenhum fator D foi detectado na urina. No entanto, em pacientes com doença renal, o fator D foi encontrado em níveis elevados. A via alternativa é capaz de operar mesmo em níveis baixos do Fator D, e as deficiências nos níveis do Fator D são raras.  
+
+
+== Papel nas Doenças ==
+Uma mutação pontual resultando na substituição de um códon de serina (Ser42 na forma de metionina não processada do Fator D) por um códon de parada (TAG) no gene do Fator D no cromossomo 19 foi documentada como uma causa da deficiência do Fator D.  A deficiência de Fator D pode causar um aumento da suscetibilidade a infecções bacterianas, especificamente infecções por Neisseria. O modo de herança da deficiência de Fator D é autossômico recessivo, e indivíduos com mutação em apenas um alelo podem não apresentar a mesma suscetibilidade a infecções recorrentes. Em um paciente com infecções recorrentes, a melhora completa da condição foi obtida pela introdução do Fator D purificado Doenças com ativação excessiva do complemento incluem hemoglobinúria paroxística noturna (PNH) e os inibidores do Fator D podem ter utilidade no tratamento da PNH. Inibidores de moléculas pequenas do Fator D estão em desenvolvimento para o tratamento de HPN, e um inibidor de moléculas pequenas, ACH-4471, se mostrou promissor em um ensaio clínico de Fase 2 para a inibição do Fator D quando combinado com eculizumabe . Os pacientes tratados com inibidores do Fator D devem ser imunizados contra infecções para evitar infecções recorrentes, como em pacientes com deficiência do Fator D.  
+
+
+== Referências ==
+
+
+== Referências ==

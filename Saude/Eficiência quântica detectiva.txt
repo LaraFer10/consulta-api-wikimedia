@@ -1,0 +1,239 @@
+A eficiência quântica detectiva (frequentemente abreviada como DQE) é uma medida dos efeitos combinados do sinal (relacionado ao contraste da imagem) e do desempenho do ruído de um sistema de imagem, geralmente expresso como uma função da frequência espacial. Este valor é usado principalmente para descrever detectores de imagem em imagens ópticas e radiografia médica.Na radiografia médica, o DQE descreve a eficácia com que um sistema de imagem de raios-X pode produzir uma imagem com uma alta relação sinal-ruído (SNR) em relação a um detector ideal. Às vezes, é visto como uma medida substituta da eficiência da dose de radiação de um detector, uma vez que a exposição à radiação necessária para um paciente (e, portanto, o risco biológico dessa exposição à radiação) diminui à medida que o DQE é aumentado para a mesma imagem SNR e condições de exposição.
+
+
+== Definição ==
+O DQE é geralmente expresso em termos de frequências espaciais baseadas em Fourier como:
+
+  
+    
+      
+        
+          D
+          Q
+          E
+        
+        (
+        u
+        )
+        =
+        
+          
+            
+              
+                N
+                E
+                Q
+              
+              (
+              u
+              )
+            
+            q
+          
+        
+        =
+        
+          
+            
+              q
+              
+                G
+                
+                  2
+                
+              
+              
+                
+                  T
+                  
+                    2
+                  
+                
+              
+              (
+              u
+              )
+            
+            
+              
+                W
+              
+              (
+              u
+              )
+            
+          
+        
+      
+    
+    {\displaystyle \mathrm {DQE} (u)={\frac {\mathrm {NEQ} (u)}{q}}={\frac {qG^{2}\mathrm {T^{2}} (u)}{\mathrm {W} (u)}}}
+  onde u é a variável de frequência espacial em ciclos por milímetro, q é a densidade dos quanta de raios-X incidentes em quanta por milímetro quadrado, G é o ganho do sistema relacionado q ao sinal de saída para um detector linear e corrigido por deslocamento, T( u) é a função de transferência de modulação do sistema e W(u) é o espectro de potência de ruído de Wiener da imagem correspondente a q. Como este é um método de análise baseado em Fourier, é válido apenas para sistemas de imagem linear e invariante ao deslocamento (análogo à teoria do sistema linear e invariante no tempo, mas substituindo a invariância do tempo pela invariância do deslocamento espacial) envolvendo senso amplo estacionário ou amplo -sentir processos de ruído cicloestacionário. A DQE pode frequentemente ser modelado teoricamente para sistemas de imagem específicos usando a teoria de sistemas lineares em cascata.O DQE é frequentemente expresso em formas alternativas que são equivalentes se houver cuidado para interpretar os termos corretamente. Por exemplo, o quadrado-SNR de uma distribuição de Poisson incidente de q quanta por milímetro quadrado é dado por
+
+  
+    
+      
+        
+          
+            S
+            N
+            R
+          
+          
+            e
+            n
+            t
+            r
+            a
+            d
+            a
+          
+          
+            2
+          
+        
+        (
+        u
+        )
+        =
+        q
+      
+    
+    {\displaystyle \mathrm {SNR} _{entrada}^{2}(u)=q}
+  e a de uma imagem correspondente a esta entrada é dada por
+
+  
+    
+      
+        
+          
+            S
+            N
+            R
+          
+          
+            s
+            a
+            i
+            d
+            a
+          
+          
+            2
+          
+        
+        (
+        u
+        )
+        =
+        
+          
+            
+              
+                q
+                
+                  2
+                
+              
+              
+                G
+                
+                  2
+                
+              
+              
+                
+                  T
+                
+                
+                  2
+                
+              
+              (
+              u
+              )
+            
+            
+              
+                W
+              
+              (
+              u
+              )
+            
+          
+        
+      
+    
+    {\displaystyle \mathrm {SNR} _{saida}^{2}(u)={\frac {q^{2}G^{2}\mathrm {T} ^{2}(u)}{\mathrm {W} (u)}}}
+  resultando na interpretação popularizada do DQE sendo igual à razão do SNR de saída ao quadrado para o SNR de entrada ao quadrado:
+
+  
+    
+      
+        
+          D
+          Q
+          E
+        
+        (
+        u
+        )
+        =
+        
+          
+            
+              
+                
+                  S
+                  N
+                  R
+                
+                
+                  s
+                  a
+                  i
+                  d
+                  a
+                
+                
+                  2
+                
+              
+              (
+              u
+              )
+            
+            
+              
+                
+                  S
+                  N
+                  R
+                
+                
+                  e
+                  n
+                  t
+                  r
+                  a
+                  d
+                  a
+                
+                
+                  2
+                
+              
+              (
+              u
+              )
+            
+          
+        
+        .
+      
+    
+    {\displaystyle \mathrm {DQE} (u)={\frac {\mathrm {SNR} _{saida}^{2}(u)}{\mathrm {SNR} _{entrada}^{2}(u)}}.}
+  Essa relação só é verdadeira quando a entrada é uma distribuição de Poisson uniforme de quanta de imagem e sinal e ruído são definidos corretamente.
+
+
+== Referências ==

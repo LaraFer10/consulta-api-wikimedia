@@ -1,0 +1,58 @@
+A cafeína é um composto químico de fórmula C8H10N4O2 — classificado como alcaloide do grupo das xantinas e designado quimicamente como 1,3,7-trimetilxantina.
+É encontrado em certas plantas e usado para o consumo em bebidas, na forma de infusão, como estimulante.
+A cafeína apresenta-se sob a forma de um pó branco ou pequenas agulhas, que derretem a 238 °C e sublimam a 178 °C, em condições normais de temperatura e pressão. É extremamente solúvel em água quente, não tem cheiro e apresenta sabor amargo.
+Entre o grupo das xantinas (que incluem a teofilina e a teobromina) a cafeína é a que mais atua sobre o sistema nervoso central. Actua ainda sobre o metabolismo basal e aumenta a produção de suco gástrico.
+Doses terapêuticas de cafeína estimulam o coração aumentando a sua capacidade de trabalho, produzindo também dilatação dos vasos periféricos.
+Uma xícara média de café contém, em média, 100 mg de cafeína. Já numa xícara de chá ou um copo de alguns refrigerantes encontram-se quarenta miligramas da substância. Sua rápida ação estimulante faz dela poderoso antídoto à depressão respiratória em consequência de intoxicação por drogas como morfina e barbitúricos. A ingestão excessiva pode provocar, em algumas pessoas, efeitos negativos como irritabilidade, ansiedade, dor de cabeça e insônia. Os portadores de arritmia cardíaca devem evitar até mesmo dosagens moderadas, ainda que eventuais, da substância. Altas doses de cafeína excitam demasiadamente o sistema nervoso central, inclusive os reflexos medulares, podendo ser letal. Uma concentração no sangue a partir de 80 mg/L é considerada letal, e pode ser atingida com uma ingestão superior a 10 g.Uma equipe da Universidade Johns Hopkins em Baltimore, Maryland, descobriu que a cafeína estimula certas memórias, pelo menos até 24 horas após o consumo. Segundo o estudo, publicado na revista Nature Neuroscience, a cafeína tem um efeito positivo sobre a memória a longo prazo em humanos.
+
+
+== Ocorrência ==
+Cafeína é encontrada em muitas espécies de plantas, sua função no organismo vegetal é atuar como uma espécie de pesticida natural, elevados níveis de cafeína são encontrados em mudas jovens que ainda estão desenvolvendo folhagens, mas ainda não possuem proteção mecânica; a cafeína paralisa e mata determinados insetos que se alimentam na planta. Altos níveis de cafeína também foram encontrados no solo na terra circunvizinha de mudas e grãos de café. Por essa razão é que se imagina que  a cafeína tem uma função natural como praguicida e inibidor de germinação de sementes de outras mudas de café nas proximidades possibilitando assim uma maior chance de sobrevivência.As principais plantas que contém o princípio ativo cafeína são:
+
+Erva-Mate: folhas e talos da Ilex paraguariensis.
+Café: sementes da Coffea arabica.
+Chá: folhas da Camellia sinensis.
+Cacau: frutos da Theobroma cacao.
+Guaraná: frutos da Paullinia cupana.
+Cola: Cola acuminata.Além disso, como a cafeína é muito consumida por praticantes de atividades físicas, os laboratórios produtores de suplementos desenvolveram técnicas para isolar esta substância e até mesmo produzi-la sinteticamente, para ser adicionada em produtos termogênicos (que queimam gordura). Dessa forma, é muito comum encontrar cafeína em cápsulas ou em pó (geralmente misturada a alguma solução, como nos energéticos).
+
+
+== Farmacologia ==
+
+
+=== Farmacodinâmica ===
+Na ausência de cafeína e quando uma pessoa está acordada e alerta, uma pequena quantidade de adenosina está presente nos neurônios (SNC). Com o estado contínuo de despertar, ao longo do tempo, a adenosina se acumula na sinapse  neuronal, por sua vez, vinculando e ativando os receptores de adenosina encontrados em certos neurônios do sistema nervoso central (SNC); Quando ativados, esses receptores produzem uma resposta celular que, finalmente, aumenta a sonolência. Quando a cafeína é consumida, ela antagoniza (bloqueia) os receptores de adenosina; Em outras palavras, a cafeína impede a adenosina de ativar o receptor ao bloquear a localização no receptor onde a adenosina se liga a ela. Como resultado, a cafeína impede temporariamente ou alivia a sonolência e, portanto, mantém ou restaura o estado de alerta
+
+
+==== Receptores e canais iônicos alvos ====
+A cafeína é um antagonista em todos os subtipos de receptores de adenosina (receptores A1, A2A, A2B e A3). O antagonismo nesses receptores estimula os centros fonético, vasomotor e respiratório medulares, que aumentam a frequência respiratória, reduzem o coração e comprime os vasos sanguíneos. O antagonismo dos receptores de adenosina também promove a libertação do neurotransmissor (por exemplo, monoaminas e acetilcolina), que confere a cafeína seus efeitos estimulantes; A adenosina atua como um neuromodulador inibitório que suprime a atividade no sistema nervoso central, diminuindo a quantidade total de transmissões nervosas. As palpitações cardíacas são causadas pelo bloqueio do receptor de adenosina A1.
+Como a cafeína é solúvel em água e lipídios, ele atravessa facilmente a barreira hematoencefálica que separa a circulação sanguínea do interior do cérebro. Uma vez no cérebro, o principal modo de ação é como um antagonista não seletivo dos receptores de adenosina (em outras palavras, um agente que reduz os efeitos da adenosina). A molécula de cafeína é estruturalmente semelhante à adenosina e é capaz de se ligar aos receptores de adenosina na superfície das células sem ativá-las, atuando desse modo como um antagonista competitivo.
+Além da sua atividade nos receptores de adenosina, a cafeína é um antagonista do receptor receptor de inositol trifosfato e um ativador independente de tensão dos receptores de rianodina (RYR1, RYR2 e RYR3). É também um antagonista competitivo do receptor de glicina ionotrópico.
+
+
+==== Alvos enzimáticos ====
+A cafeína, como outras xantinas, também atua como um inibidor da fosfodiesterase. Como inibidor competitivo de fosfodiesterase não-seletivo, a cafeína aumenta o cAMP intracelular, ativa a proteína quinase A, inibe a síntese de TNF-alfa e leucotrieno e reduz a inflamação e a imunidade inata. A cafeína também afeta o sistema colinérgico onde inibe a enzima acetilcolinesterase.
+
+
+==== Efeito sobre a dopamina estriatal ====
+Enquanto a cafeína não se liga diretamente a nenhum receptor de dopamina, ela influencia a atividade de ligação da dopamina em seus receptores no corpo estriado, ligando-se aos receptores de adenosina que formaram heterómeros de GPCR com receptores de dopamina, especificamente o heterodímero de receptor A1-D1 (este é um receptor Complexo com 1 receptor de adenosina A1 e 1 receptor D1 de dopamina) e heterotetrermero de receptor A2A-D2 (este é um complexo receptor com 2 receptores A2A de adenosina e 2 receptores D2 de dopamina). O heterotetramero do receptor A2A-D2 foi identificado como um alvo farmacológico primário da cafeína, principalmente porque medeia alguns de seus efeitos psicossimilhantes e suas interações farmacodinâmicas com psicoestimulantes dopaminérgicos.A cafeína também provoca a liberação de dopamina no estriado dorsal e nucleus accumbens núcleo (uma subestrutura dentro do estriado ventral), mas não o núcleo accumbens, antagonizando os receptores A1 no terminal axonal de neurônios dopaminérgicos e A1-A2A heterodímeros (um receptor Complexo composto por 1 receptor de adenosina A1 e 1 receptor A2A de adenosina) no terminal axônico de neurônios de glutamato. Durante o uso crônico de cafeína, a liberação de dopamina induzida pela cafeína no núcleo accumbens é marcadamente reduzida devido à tolerância ao fármaco.
+
+
+==== Efeitos não-específicos ====
+Cafeína antagoniza os receptores de adenosina A2A na área pré-óptica ventrolateral (VLPO), reduzindo assim a neurotransmissão de GABA inibitória para o núcleo tuberomamilar, um núcleo de projeção histaminérgica que a ativação de forma dependente promove excitação. A desinibição do núcleo tuberomamilateral é o principal mecanismo pelo qual a cafeína produz efeitos promovendo a vigília.
+
+
+=== Farmacocinética ===
+A cafeína do café ou outras bebidas é absorvida pelo intestino delgado dentro de 45 minutos de ingestão e distribuída por todos os tecidos corporais. A concentração máxima de sangue é atingida dentro de 1-2 horas. É eliminado pela cinética de primeira ordem. A cafeína também pode ser absorvida por via retal, evidenciada por supositórios de tartarato de ergotamina e cafeína (para o alívio da enxaqueca) e clorobutanol e cafeína (para o tratamento da hiperemese). No entanto, a absorção retal é menos eficiente do que a oral: a concentração máxima (Cmax) E a quantidade total absorvida (AUC) são tanto cerca de 30% (ou seja, 1 / 3,5) das quantidades orais.A semi-vida biológica da cafeína - o tempo necessário para que o corpo elimine a metade de uma dose - varia amplamente entre os indivíduos de acordo com fatores como gravidez, ingestão outras drogas, nível de função enzimática hepática (necessário para o metabolismo da cafeína) e idade. Em adultos saudáveis, a meia-vida da cafeína é entre 3-7 horas. Fumar diminui a meia-vida em 30-50%, enquanto os contraceptivos orais podem dobrá-lo e a gravidez pode elevá-lo até 15 horas durante o último trimestre. Nos recém-nascidos, a meia-vida pode ser de 80 horas ou mais, caindo muito rapidamente com a idade, possivelmente para um valor menor do que o adulto até os 6 meses de idade. O antidepressivo fluvoxamina (Luvox) reduz a depuração da cafeína em mais de 90%, e aumenta sua semi-vida de eliminação mais do que dez vezes; De 4,9 horas a 56 horas.A cafeína é metabolizada no fígado pelo sistema enzimático do citocromo P450 oxidase, em particular, pela isoenzima CYP1A2, em três dimetilxantinas, cada uma das quais tem seus próprios efeitos no corpo:
+
+Paraxantina (84%): aumenta a lipólise, levando a níveis elevados de glicerol e ácidos graxos livres no plasma sanguíneo.
+Teobromina (12%): dilata os vasos sanguíneos e aumenta o volume de urina. A teobromina também é o principal alcaloide no grão de cacau (chocolate).
+Teofilina (4%): relaxa os músculos lisos dos brônquios e é usada para tratar a asma. A dose terapêutica de teofilina, no entanto, é muitas vezes maior que os níveis atingidos pelo metabolismo da cafeína.
+O ácido 1,3,7-trimetilúrico é um metabolito de cafeína menor. Cada um destes metabolitos é ainda metabolizado e depois excretado na urina. A cafeína pode se acumular em indivíduos com doença hepática grave, aumentando sua meia-vida.Uma revisão de 2011 descobriu que o aumento da ingestão de cafeína foi associado a uma variação em dois genes que aumentam a taxa de catabolismo da cafeína. Os sujeitos que tiveram essa mutação em ambos os cromossomos consumiram 40 mg de cafeína por dia do que outros. Isso é presumivelmente devido à necessidade de uma maior ingestão para conseguir um efeito desejado comparável, e não que o gene tenha levado a uma disposição para maior incentivo à habituação. 
+
+
+== Saúde ==
+Estudos têm mostrado que pessoas que bebem quatro xícaras de café por dia têm um menor risco de morrer de um ataque cardíaco. Este efeito é porque a cafeína ajuda a mover uma proteína chamada p27 para as mitocôndrias, as organelas que produzem energia para as células. O aumento da p27 na mitocôndria eleva a produção de energia da organela e ajuda as células cardíacas a se recuperarem de danos.
+
+
+== Referências ==

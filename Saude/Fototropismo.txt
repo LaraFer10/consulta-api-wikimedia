@@ -1,0 +1,32 @@
+Fototropismo ou fototaxia é a proposito da  designação dada ao movimento de certos dos seres vivos em reação a estímulos luminosos, especialmente dos seres vivos tais como as plantas, com destaque para o girassol; que  em resposta a estímulos luminosos que poderão ser de  frente para a fonte de luz solar (fototaxia positiva), e em sentido oposto a esta (fototaxia negativa) ou perpendicular à direção desta (fototaxia transversal).
+Por exemplo, o fototropismo nas plantas é tal que o caule apresenta reação positiva, isto é alonga-se em direção à luz, e a raiz reação negativa, conduzindo a um crescimento desta em afastamento da fonte luminosa.
+Tropismo cujo agentes excitante é a luz. Os caules aproximam-se da fonte luminosa e, portanto, têm fototropismo positivo. Já as raízes curvam-se em direção oposta à fonte luminosa, apresentando fototropismo negativo. Quando se ilumina um caule de maneira unilateral, na face iluminada ocorre foto destruição de parte do AIA (ácido indolilacético - hormônio dos vegetais conhecido como auxinas) ali existente, o que inibe o crescimento naquela região. Com isso, o lado que permanece no escuro cresce mais, determinando a curvatura do caule em direção à fonte luminosa. Nas raízes, ao contrário, a inativação de parte do AIA presente na face iluminada favorece seu crescimento: daí a curvatura desses órgãos em direção oposta à fonte de luz.
+
+
+== Papel da auxina ==
+Em resposta a um estímulo direcional de luz, a auxina produzida pela planta é transportada lateralmente para o lado sombreado. Assim, na parte aérea o lado sombreado sofre uma aceleração em seu crescimento, provocado pelo estímulo ao alongamento causado pelas auxinas, enquanto o lado iluminado tem seu crescimento inibido. Este crescimento diferencial faz com que a planta se curve em direção à luz, gerando um fototropismo positivo. Já na raiz, a auxina acaba gerando uma inibição no crescimento da área sombreada, causado por uma concentração supraótima, gerando um fototropismo negativo.
+
+
+==== Doses de auxina ====
+As células da raiz e do caule respondem diferentemente à concentração de AIA com relação ao crescimento. Acontece que as células da raiz são muito mais sensíveis à presença de AIA de forma que muita auxina aqui tem como efeito a inibição do crescimento. Isto é fundamental para as raízes crescerem para baixo, em direção à terra, pois a presença de luz na parte superior das raízes faz com que tenhamos mais AIA na parte inferior da seção transversal da raiz. Mas em se tratando de células das raízes, uma grande concentração de AIA age como inibidor para o crescimento, fazendo a parte inferior crescer mais e assim "entortando" a raiz para baixo, em direção ao solo.
+Já a dose ótima para haver estímulo de crescimento nas células do tronco das plantas é bem maior, de forma que para os troncos, muita auxina estimula o crescimento e assim toda a parte do tronco que fica iluminada acaba tendo menos AIA e a parte sombreada tendo mais AIA. Como as células do tronco respondem positivamente ao crescimento com altas concentrações de AIA, e como é a parte sombreada que tem mais AIA, é esta parte que cresce mais, levando o tronco sempre a crescer em direção à luz. 
+
+
+== Comportamento fototáxico das bactérias roxas ==
+Muitas bactérias fotossintéticas podem responder a um gradiente de intensidade de luz, fenômeno conhecido como fototaxia.
+Este comportamento pode ser demonstrado facilmente projetando um feixe de luz brilhante sobre uma pequena zona debilmente iluminada de bactérias roxas móveis, onde as células estão dispersas uniformemente e movendo-se à sorte. Ao cabo de 10 a 30 minutos a maior parte da povoação está cumulada na zona fortemente iluminada. As células móveis entram na zona iluminada por movimento ao acaso. Uma vez dentro, as bactérias não podem abandonar esta zona devido a sofreram uma mudança brusca na direção do movimento cada vez que atravessam o intenso gradiente de luz que separa a zona brilhantemente iluminada da área escura que a rodeia. As bactérias roxas e todas as bactérias com flagelos polares diferem das bactérias peritricas na maneira que mudam de direção durante uma resposta de taxismo.
+Em vez de mudar a sua direção por viragens, invertem bruscamente o sentido de deslocamento.
+Se uma preparação úmida de bactérias roxas se ilumina, não com luz branca, mas com um espectro produzido por um prisma, as bactérias acumulam-se rapidamente na zona que correspondem às principais bandas de absorção dos seus pigmentos fotossintéticos.
+Um estudo quantitativo detalhado da eficácia relativa das diferentes longitudes de onda na intensidade da resposta fototáxica tem mostrado que o espectro de acção da fototaxia nas bactérias roxas é exatamente igual ao correspondente na fotossíntese.
+
+
+== Referências ==
+
+
+== Ver também ==
+Tropismo
+Heliotropismo
+
+
+== Ligações externas ==
+Fototropismo

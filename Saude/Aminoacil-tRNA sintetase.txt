@@ -1,0 +1,13 @@
+Uma aminoacil-tRNA sintetase (aaRS) é uma enzima que catalisa a esterificação de um específico aminoácido (ou de um seu precursor) em um dos possíveis tRNA correspondentes, com vista a formar um aminoacil-tRNA. 
+A sintetase liga inicialmente uma molécula de ATP e o correspondente aminoácido (ou seu precursor), para formar un aminoacil-adenilato, com libertação de uma molécula de pirofosfato. O complexo adenilato-aaRS liga-se então à molécula de tRNA apropriada, e o aminoácido é transferido do aa-AMP para  o 2'- oo 3'-OH da última base de tRNA (A76) no extremo 3' da molécula. Algumas sintetases também mediam a reacção de proofreading, para assegurar uma alta fidelidade no carregamento das moléculas de tRNA; se o tRNA for incorrectamente carregado, a ligação aminoacil-tRNA é hidrolizada.
+l'
+aminoácido + ATP → aminoacil-tRNA + AMP
+
+(aminoácido + ATP → aminoacil-AMP + PPi e aminoacil-AMP + tRNA → aminoacil-tRNA + AMP)
+
+
+== Classes ==
+Existem duas classes de aminoacil-tRNA sintetases:
+
+A classe I apresenta dois motivos de sequências altamente conservados, e aminoacila o 2'-OH;
+A classe II apresenta três motivos de sequências altamente conservados, e aminoacila o 3'-OH.A única excepção é a fenilalanil-tRNA sintetase (PheRS), enzima de classe II que liga a fenilalanina ao 2'-OH do tRNAPhe.

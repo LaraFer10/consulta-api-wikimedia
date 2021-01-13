@@ -1,0 +1,132 @@
+A razão de chances ou razão de possibilidades (em inglês:  odds ratio; abreviatura O.R.) é definida como a razão entre a chance de um evento ocorrer em um grupo e a chance de ocorrer em outro grupo. Chance ou possibilidade é a probabilidade de ocorrência deste evento dividida pela probabilidade da não ocorrência do mesmo evento.  Esses grupos podem ser, por exemplo, amostras de pessoas com ou sem uma doença, no qual se quer medir a chance dessa pessoa ter sido exposta a um determinado agente ambiental; ou grupos/amostras para análise estatística, como homens e mulheres, tratados e não tratados, etc.
+Se as probabilidades de um evento em cada um dos grupos forem p (primeiro grupo) e q (segundo grupo), então a razão de chances é:
+
+  
+    
+      
+        
+          
+            
+              p
+              
+                /
+              
+              (
+              1
+              −
+              p
+              )
+            
+            
+              q
+              
+                /
+              
+              (
+              1
+              −
+              q
+              )
+            
+          
+        
+        =
+        
+          
+            
+              
+              p
+              (
+              1
+              −
+              q
+              )
+              
+            
+            
+              
+              q
+              (
+              1
+              −
+              p
+              )
+              
+            
+          
+        
+        .
+      
+    
+    {\displaystyle {p/(1-p) \over q/(1-q)}={\frac {\;p(1-q)\;}{\;q(1-p)\;}}.}
+  Uma razão de chances de 1 indica que a condição ou evento sob estudo é igualmente provável de ocorrer nos dois grupos. Uma razão de chances maior do que 1 indica que a condição ou evento tem maior probabilidade de ocorrer no primeiro grupo. Finalmente, uma razão de chances menor do que 1 indica que a probabilidade é menor no primeiro grupo do que no segundo.
+A razão de chances precisa ser igual ou maior que zero. Se a chance do primeiro grupo ficar próxima de zero, o O.R. fica próximo de zero. Se a chance do segundo grupo se aproximar de zero, o O.R. tende a aumentar ao infinito positivo.
+Por exemplo, suponhamos que em uma amostra de 100 homens, 90 beberam vinho na semana anterior, enquanto que em um grupo similar de 100 mulheres, apenas 20 beberam vinho no mesmo período. Portanto, a chance (possibilidade) de um homem beber vinho é de 90 para 10, ou 9:1, enquanto que a chance de uma mulher beber vinho é de 20 para 80, ou 1:4 = 0,25:1. Podemos calcular então a razão de chances como sendo 9/0.25, ou 36, mostrando que homens tem muito maior probabilidade de beber vinho do que mulheres. Usando a fórmula acima para este cálculo dá o mesmo resultado, ou seja:
+
+  
+    
+      
+        
+          
+            
+              0.9
+              
+                /
+              
+              0.1
+            
+            
+              0.2
+              
+                /
+              
+              0.8
+            
+          
+        
+        =
+        
+          
+            
+              
+              0.9
+              ×
+              0.8
+              
+            
+            
+              
+              0.1
+              ×
+              0.2
+              
+            
+          
+        
+        =
+        
+          
+            0.72
+            0.02
+          
+        
+        =
+        36.
+      
+    
+    {\displaystyle {0.9/0.1 \over 0.2/0.8}={\frac {\;0.9\times 0.8\;}{\;0.1\times 0.2\;}}={0.72 \over 0.02}=36.}
+  Este exemplo mostra também como a razão de chances é algo sensível para representar posições relativas: nesta amostra, homens são 90/20 = 4.5 vezes mais provável beber vinho, mas têm 36 vezes mais chances. O logaritmo da razão de chances, a diferença do logaritmo das probabilidades, tempera este efeito, e também faz com que a medida seja simétrica em relação ao ordenamento dos grupos. Por exemplo, usando logaritmos naturais, uma razão de chances de 36 para 1 mapeiam para 3.584, e uma razão de chances de 1 para 36 mapena para −3.584.
+O uso crescente de regressão logística em pesquisas médicas e sociais levou a que a razão de chances seja usado como uma forma bastante comum de expressar os resultados em alguns tipos de ensaios clínicos, em análise de enquetes, e em epidemiologia, tal como em estudos caso-controle e estudos de coorte prospectivos para comparar a presença com a ausência de um factor de risco/exposição no grupo de indivíduos em estudo com e sem um determinado "outcome". Contudo, atenção! Se a prevalência do "outcome" ou doença estudada for elevada, o valor de OR é sobrestimado, e dever-se-à nesses casos, utilizar, quando possível, o risco relativo.
+Quando dados de levantamentos múltiplos são combinados, então fala-se de um OR combinado (em inglês, pooled OR)
+
+
+== Ver também ==
+Risco relativo
+Fator de risco
+Epidemiologia
+História natural da doença
+
+
+== Ligações externas ==
+«Calculadora de Razão de Chances» 
+«Definição e exemplos de razões de chance»

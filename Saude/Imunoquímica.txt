@@ -1,0 +1,14 @@
+A Imunoquímica é o estudo da química e bioquímica relacionados ao sistema imunológico, interligando as ciências químicas e bioquímicas como a  Imunologia. Envolve o estudo das propriedades químicas, físico-químicas e bioquímicas de biomoléculas envolvidas na resposta imune assim como o estudo de suas funções biológicas, produção e interação umas com as outras ou com células, tecidos e outros sistemas fisiológicos. De uma forma geral são objetos de estudos:- Anticorpos, Antígenos, Epítopos e Imunoglobulinas
+- Toxinas e Anti-toxinas
+- Citoquinas e quimoquinas
+- Interação Antígeno/Anticorpo, como caso especifico de interação entre biomoléculas.
+Existem diversas técnicas associadas especificamente a esta área científica, explorando a específica reacção existente entre antigénio e anticorpo. Tais técnicas têm aplicação tanto no âmbito da investigação laboratorial como no desenvolvimento e aplicação de ferramentas de diagnóstico médico.
+As principais aplicações a nível médico incluem a determinação de níveis hormonais, identificação de agentes bacterianos ou virais em infecções, determinação de níveis de determinadas proteínas plasmáticas e ainda testes toxicológicos.
+Alguns dos métodos mais usados em Imunoquímica são o ELISA, o RIA, o Western blot, a imunoprecipitação, a seroaglutinação, a imunoelectroforese e a imunofluorescência.
+De uma forma geral, estas técnicas são categorizadas conforme o alvo biológico a ser testado e identificado:
+- Bioquímica Imunológica: Quando o alvo a ser testado e identificado é outra substância química
+-Imunocitoquímica: Quando o alvo a ser testado e identificado é uma célula específica
+-Imunohistoquímica: Quando o alvo a ser testado e identificado é um tecido ou corte histológico.
+
+
+== Referências ==

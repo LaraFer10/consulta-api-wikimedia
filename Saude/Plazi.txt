@@ -1,0 +1,16 @@
+Plazi é uma associação internacional sem fins lucrativos com base na Suíça, que apoia e promove o desenvolvimento digital persistente e abertamente acessível de literatura bio-taxonómica. A Plazi faz a manutenção de um repositório de literatura digital de taxonomia para habilitar o arquivamento dos tratamentos taxonómicos, melhora dados submetidos de taxonomia criando versão em XML, formatos TaxonX e Taxpub, e educa sobre a importância de manter aberto o acesso para o discurso científico e de dados. Ele é um contribuinte para a evolução da e-taxonomia no campo da Informática para a Biodiversidade.A abordagem foi originalmente desenvolvida numa fundação binacional, a Fundação Nacional da Ciência (NSF) e
+Fundação alemã de Pesquisa (DFG), da biblioteca digital do programa para o Museu Americano de História Natural e a Universidade de Karlsruhe, respectivamente, para criar um esquema XML com modelagem de conteúdo de bio-sistemática da literatura. O esquema TaxonX é aplicado ao legado de publicações utilizando o GoldenGATE, um editor semi-automático. No seu estado atual a GoldenGATE é uma suite de ferramentas de mark-up que permite a participação da comunidade no processo de renderização de documentos com os melhoramentos semânticos nesses documentos.
+A Plazi desenvolveu maneiras de fazer registos de distribuição de literatura taxonômica acessível através de um sítio de funções ANTA que é colhida pela Global Biodiversity Information Facility (GBIF). Da mesma forma, as Espécies de Modelo de Página (SPM) para transferir os esquemas científicos, foi implementado para permitir a colheita dos tratamentos (as descrições de espécies e taxa superiores) por terceiros, tais como a Encyclopedia of Life (EOL). Se estiverem disponíveis, os tratamentos, são reforçados com links para os bancos de dados externos, tais como o GenBank, O Servidor de nomes Hymenoptera para nomes científicos ou ZooBank, o registo do zoológico de nomes.
+A Plazi afirma que cumpre a lei de direitos autorais, e argumenta que os tratamentos taxonômicos não se classificam como obra literária e artística. Plazi afirma que tais obras estão portanto no domínio público e pode ser livremente utilizado e divulgado (com a prática científica, exigindo adequadas citações).
+
+
+== Ver também ==
+Biodiversity Informatics
+Biodiversity Information Standards
+
+
+== Referências ==
+
+
+== Ligações externas ==
+Plazi

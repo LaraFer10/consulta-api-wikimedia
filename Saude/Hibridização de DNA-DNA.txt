@@ -1,0 +1,16 @@
+A hibridação de DNA-DNA geralmente refere-se a uma técnica biológica molecular que determina o grau de semelhança genética entre combinações de sequências de DNA. Esta técnica geralmente é usada para determinar a distância genética entre duas espécies. Quando várias espécies são comparadas dessa forma os valores semelhantes permitem que as espécies sejam dispostas em uma árvore filogenética; isto é o que torna possível a realização do sistema molecular.
+Charles Sibley e Jon Ahlquest, pioneiros desta técnica, usada hibridização DNA-DNA para examinar as relações filogenéticas de pássaros (a taxonomia de Sibley-Ahlquist) e primatas. Os críticos argumentam que esta técnica não é muito precisa para a comparação de espécies muito próximas, uma vez que qualquer tentativa para determinar diferenças entre os grupos de ortólogos entre organismos é denominado pela hibridação de sequências parólogo dentro do genoma de um organismo. O sequenciamento de DNA e comparações computacionais de sequências de hoje é geralmente o método para determinar a distância genética, embora a técnica ainda seja usada em microbiologia para identificar as bactérias.
+
+
+== Método ==
+O método desenvolvido por Sibley e Ahlquist, compara uma amostra identificada depois que é hibridizada contra a sua própria fusão após hibridizado com o DNA não identificado de outro organismo. Para ser comparado o DNA das duas espécies; é extraído, purificado e clivado em pequenos fragmentos (por exemplo 600 a 800 par de bases). O DNA de um organismo é identificado para ser comparado um ao outro. A união fica incubada para permitir que as cadeias de DNA se separem e se restabeleçam formando um DNA híbrido de dupla-hélice.
+As sequências hibridizadas com um alto grau de similaridade vão ficar mais firmes e por isto é necessário mais energia para separá-las: por exemplo, elas separam a uma temperatura mais alta do que com animais de diferentes vertentes. Um processo conhecido como Desnaturação do DNA. O DNA é formado com fios de origem animal. Para avaliar o perfil de desnaturação da hibridização do DNA, o DNA dupla-hélice é ligado a uma coluna e a mistura é aquecida em passos pequenos. A cada passo a coluna é lavada; as sequências se dissolvem e ficam sozinhas e fora da coluna. As temperaturas em que o DNA identificado se solta da coluna, reflete o nível de semelhança entre as sequências (e a auto-hibridação que serve como um controle). Estes resultados são combinados para determinar o grau de semelhança genética entre os organismos.
+
+
+== Referências ==
+
+Graur, D. & Li, W-H. 1991 (2nd ed. 1999). Fundamentals of Molecular Evolution. (a good text on these topics)
+
+
+== Veja também ==
+Desnaturação do DNA

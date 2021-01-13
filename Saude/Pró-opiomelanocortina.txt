@@ -1,0 +1,61 @@
+Pró-opiomelanocortin (POMC) é um precursor polipeptídico  com 241 resíduos de aminoácidos. POMC é sintetizado  a partir do precursor de 285 aminoácidos pré-pró-opiomelanocortin (pré-POMC), após a remoção dos 44 aminoácidos que compõe o peptídeo sinal, durante a  tradução.
+
+
+== Função ==
+A POMC é clivada dando origem a diversos hormônios peptídicos. Cada um desses é empacotado em  vesículas  densas e largas, liberadas da célula por exocitose em resposta a estímulos adequados:
+
+O α-MSH produzido por neurônios no núcleo arqueado possui funções cruciais na regulação do apetite e do comportamento sexual humano, enquanto o α-MSH secretado pelo lobo intermediário da pituitária regula a produção de melanina.
+ACTH é um hormônio peptídico que regula a secreção de  glicocorticoides a partir do córtex da adrenal.
+β-Endorfina e [Met]encefalina são peptídeos opioides endógenos com ações espalhadas pelo encéfalo.
+
+
+== Síntese ==
+O gene POMC é localizado no cromossomo 2p23.3. Esse gene é expresso tanto no lobo intermediário quanto no lobo anterior da hipófise. Esse gene codifica um polipeptídeo de 285 aminoácidos que passa por processamento extenso, tecido-específico, sendo clivado por enzimas conhecidas como  pró hormônio convertases. A proteína codificada é sintetizada principalmente por células corticotróficas da adenoipófise, onde 4 sítios de clivagem são usados. Adrenocorticotrofina (ACTH), essencial para síntese de esteroides e manutenção do peso da adrenal, e  β-lipotropina são os produtos finais principais. Contudo, há outros sitíos de clivagem possíveis e dependendo do tecido e das enzimas disponíveis, o processamento pode render até 10 peptídeos ativos diferentes, envolvidos em diversos processos celulares. Os sítios consistem das sequências  Arg-Lys, Lys-Arg, ou Lys-Lys. Enzimas responsáveis pelo processamento de peptídeos  POMC peptides incluem:  pró hormônio convertase 1 (PC1), pró hormônio convertase 2 (PC2), carboxipeptidase E (CPE), peptidil α-amidante monooxigenase (PAM), N-acetiltransferase (N-AT), e prolilcarboxipeptidase (PRCP).
+O processamento de POMC envolve glicosilações, acetilações e clivagem proteolítica intensiva em sítios contendo sequências de aminoácidos básicos. COntudo, as proteases que reconhecem tais sequências são tecido-específicas. Em alguns tecidos, como o hipotálamo, a placenta, e o epitélio, todos os sítos de clivagem podem ser usados, dando origem a peptídeos com papéis na homeostase de dor e energia, estimulação de melanócitos e modulação imune. Esses peptídeos incluem melanotropinas, lipotropinas e endorfinas contidas nos peptídeos de adrenocorticotrofina e β-lipotropina.
+Ela é sintetizada por 
+
+Células corticotróficas da  adenoipófise
+Células melanotróficas do lobo intermediário da hipófise
+3,148±62 neurônios no  núcleo arqueado do hipotálamo
+Populações menores no hipotálamo dorsomedial tronco encefálico
+Melanócitos na pele
+
+
+== Derivados ==
+A molécula de POMC é fonte de diversos peptídeos biologicamente ativos, sendo clivada nos segunites peptídeos:
+
+Peptídeo N-Terminal da Pró-opiomelanocortin (NPP, ou pro-γ-MSH)
+γ-Melanotropina (γ-MSH)
+Corticotropina (Hormônio adrenocorticotrópico, or ACTH)
+α-Melanotropina (Hormônio Estimulador de Melanócito α, ou α-MSH)
+Peptídeo Intermediário semelhante a Corticotropina (CLIP)
+β-Lipotropina (β-LPH)
+Lipotropina Gama (γ-LPH)
+β-Melanotropina (β-MSH)
+β-Endorfina
+[Met]EncefalinaApesar da sequência N-terminal de  5 aminoácidos da   β-endorfina ser idêntica a da  [Met]encefalina, não é aceito, de forma geral, que a β-endorfina é convertida em [Met]encefalina. Em vez disso, [Met]encefalinais  é produzida a partir de seu precursor, proenkephalin A.
+A produção  β-MSH ocorre em humanos, mas não em ratos e camundongos, devido à ausência do sítio de processamento enzimático no POMC de roedores.
+
+
+== Significado clínico ==
+Mutações nesse gene estão relacionadas com obesidade precoce, insufência adrenal, e rutilismo (cabelos ruivos). Trnascritos variantes processados por splicing alternativo já foram descritos
+
+
+== Interações ==
+A pró-opiomelanocortina interage com o receptor de melanocortina tipo 4 .
+
+
+== Veja também ==
+Melanocortina
+Afamelanotide
+Melanotan II
+
+
+== References ==
+
+
+== Leitura adicional ==
+
+
+== Ligações externas ==
+Pro-Opiomelanocortin at the US National Library of Medicine Medical Subject Headings (MeSH) This article incorporates public domain material from websites or documents of the National Center for Biotechnology Information (Reference Sequence collection). (em inglês)

@@ -1,0 +1,42 @@
+A Vitamina A ou Retinol é um micronutriente pertencente ao grupo das vitaminas lipossolúveis, podendo ser encontrada no tecido animal sob a forma de retinóides ou como pró-vitamina em tecidos vegetais, sob a forma de carotenoide. No organismo humano a vitamina A pode ser encontrada de três formas, o retinol, retinal e o Ácido retinoico, sendo o último o principal e mais abundante metabólito intracelular em mamíferos.
+
+
+== Absorção e transporte ==
+As Vitaminas Lipossolúveis são absorvidas quando há presença de lipídeos (gordura), bile e suco pancreático. Após a absorção no intestino, estas são armazenadas nos tecidos. Quando adquirida através de alimentos de origem animal, a vitamina A é consumida sob a forma de palmitato de retinila. Para que possam ser absorvidos no intestino delgado estes ésteres sofrem uma hidrólise catalisada pela enzima retinil éster hidrolase, situada na superfície externa da membrana celular da mucosa intestinal. O retinol produzido é absorvido dessa forma, através de células da mucosa por processo ativo, para o interior da célula, onde volta a combinar-se com um ácido graxo, geralmente o palmitato ou o estearato. O éster de retinil é transportado, então, nos quilomícrons através do sistema linfático e da corrente sanguínea até o fígado, onde é armazenado. As reservas de vitamina A no fígado são hidrolisadas pelas enzimas em retinol livre que é transportado por um complexo proteico ligante de retinol (Retinol Binding Proteins - RBP) aos tecidos do organismo onde existirem necessidades metabólicas. A vitamina A na forma de retinol é tóxica ao organismo humano, por este motivo sempre que é transportada aos tecidos deve estar ligada a RBP e quando no meio intracelular encontra-se ligada a proteínas citoplasmáticas ligadoras de retinol (Celular Binding Retinol Proteins – CBRPs).
+
+
+== Funções ==
+As diferentes formas da vitamina A desempenham várias funções no organismo humano:
+
+
+=== Ciclo Visual ===
+O 11-cis-retinol é de vital importância no ciclo visual, atuando nos bastonetes, células que funcionam com baixa intensidade de luz insensíveis às cores. Esta forma oxidada da vitamina A, o retinal, atua com a opsina formando rodopsina (figura 1). Sobre ação da luz visível, a rodopsina é convertida a metarrodopsina II, na qual o retinol apresenta-se na forma todo-trans, sua forma mais ativa. A metarrodopsina II ativa várias moléculas de transducina, um tipo de proteína G. A transducina, na forma ativa, atua ativando várias moléculas de fosfodiesterase. A fosfodiesterase (Phosphodiesterase - PDE) ativada catalisa a hidrólise de monofosfato cíclico de guanosina (Cyclic guanosine monophosphate - GMPc), formando 5’-GMP. A diminuição da concentração de GMPc leva ao fechamento dos canais de Na+ e Ca2+ da membrana celular do segmento externo dos bastonetes. O GMPc, antes de ser hidrolisado, estava ligado aos canais de Na+ e Ca2+, o que deixava os canais abertos, permitindo o influxo de Ca2+ e Na+, em condições de escuridão. A hidrólise de GMPc provoca o fechamento dos canais de Na+ e Ca2+, dessa forma a membrana hiperpolariza. No período escuro o isômero é reconvertido para 11-cis-retinal.
+
+
+=== Diferenciação Celular ===
+O ácido retinoico é encontrado no interior das células, onde desempenha funções relacionadas ao ciclo celular. A modulação da expressão gênica pelo ácido retinoico é mediada pela ativação dos receptores nucleares para hormônios esteróides/tiroideanos/vitamina D, que são divididos em dois grupos os receptores de ácido retinoico (Retinoic Acid Receptors - RAR) e receptores X retinóides (Retinoid X Receptor - RXR). A ativação destes receptores depende da interação entre a molécula retinóide e seu sítio de ligação no respectivo receptor. O retinol e o retinal possuem baixa atividade pelos receptores nucleares para retinóides, servindo basicamente como precursores diretos do ácido retinoico in vivo. A ligação do ácido retinoico formado a partir do retinol aos RAR promove a interação deste receptor com RXR, e o heterodímero formado, pode então ligar-se a regiões do DNA responsivas ao ácido retinoico denominadas elementos responsivos ao ácido retinoico (retinoic acid response elements - RARE), modulando a expressão gênica, produzindo alterações biológicas significativas através de ativação gênica, transcrição, tradução e acumulação de novas proteínas.
+
+
+=== Outras funções ===
+A vitamina A também está relacionada com o desenvolvimento dos ossos, ação protetora na pele e mucosa, possui função essencial na capacidade funcional dos órgãos do trato reprodutivo, participa do fortalecimento do sistema imunológico, está relacionada com o desenvolvimento e manutenção do tecido epitelial, contribui para o desenvolvimento normal dos dentes, para a conservação do esmalte dentário, manutenção do bom estado do cabelo e na prevenção da oxidação celular através dos carotenoides pró-vitaminicos A, que atuam como fontes desta vitamina.
+
+
+== Pró-vitamina A - Carotenoides ==
+Os carotenoides são uma família de compostos abundantemente encontrados na natureza, sendo os responsáveis pela cor da maioria dos frutos e vegetais que comemos todos os dias, a qual pode variar desde o amarelo até o vermelho vivo. Dos mais de 600 carotenoides conhecidos, aproximadamente 50 são precursores da vitamina A. Para que um carotenoide possua atividade de pró-vitamina A ele precisar ter pelo menos um anel de ciclo-hexinil ligado a uma cadeia de isoprenos, correspondente a uma molécula de retinol.
+Entre os carotenoides, o β-caroteno(beta-caroteno) é o mais abundante em alimentos e o que apresenta a maior atividade de pró-vitamina A. Como o β-caroteno é simétrico e corresponde estruturalmente a duas moléculas de retinol, apresentando maior atividade pró-vitamínica A em relação a outros carotenóides. Existem duas vias para descrever a clivagem do β-caroteno em vitamina A: a central e a excêntrica. A principal via é a clivagem central catalisada pela enzima citossólica 15-15’β-caroteno oxigenase. Ela cliva o β-caroteno em sua ligação dupla central, obtendo retinal, que pode ser convertido reversivelmente em retinol ou irreversivelmente em acido retinoico. Já na via de clivagem excêntrica, a clivagem ocorre nas outras ligações duplas, exceto na central, formando β-Apo-carotenos com tamanhos diferentes de cadeia.
+
+
+== Hipovitaminose A ==
+A hipovitaminose A, ou seja, a deficiência de vitamina A, acarreta xeroftalmia, cegueira e morte de milhares de pessoas no mundo, principalmente crianças constituindo um dos principais problemas nutricionais de populações de países em desenvolvimento. A xeroftalmia é o nome genérico dado aos diversos sinais e sintomas oculares da hipovitaminose A. A forma clínica mais precoce da xeroftalmia é a cegueira noturna onde não se consegue boa adaptação visual em ambientes pouco iluminados; manifestações mais acentuadas da xeroftalmia são:
+
+Mancha de Bitot - normalmente localizada na parte exposta da conjuntiva;
+Xerose - nos estágios mais avançados a córnea também está afetada constituindo a xerose córnea, caracterizada pela perda do brilho assumindo aspecto granular;
+Ceratomalácia - uma cegueira irreversível, causada por ulceração progressiva da córnea levando à necrose e destruição do globo ocular.Além disso, a carência de vitamina A pode levar a Infecções frequentes, que também podem indicar carência, pois a falta de Vitamina A reduz a capacidade do organismo de se defender das doenças.
+
+
+== Ingestão Diária Recomendada - IDR ==
+
+
+== Referências ==
+
+Fonte: Resolução RDC nº 269, de 22 de setembro de 2005. Legenda: *1-3 anos, **4-6 anos, ***7-10 anos

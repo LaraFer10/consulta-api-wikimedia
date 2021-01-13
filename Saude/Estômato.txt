@@ -1,0 +1,61 @@
+Estômatos ou estomas são estruturas  constituídas por um conjunto de células localizadas especialmente na epiderme inferior das folhas, porém, também são encontrados, em menor número, em pecíolos, em caules jovens e partes florais (pétalas, estames e gineceu). Quanto à localização dos estômatos na lâmina foliar, podem receber uma classificação de acordo com a sua disposição: quando são encontrados apenas na face superior (adaxial) a folha é epiestomática; quando são encontrados apenas na face inferior (abaxial) a folha é hipoestomática; e quando são encontrados em ambas as faces, a folha é anfiestomática. Os estômatos originam-se de uma divisão anticlinal assimétrica de uma célula da protoderme e possuem a função de estabelecer comunicação do meio interno com a atmosfera, constituindo-se em um canal para a troca de gases e a transpiração do vegetal.
+
+
+== Constituição dos Estomas ==
+Células-guarda ou labiais são pares de células reniformes ou halteriformes (Poaceae). As suas extremidades estão juntas e a parede celular do lado ostiolar é mais espessa (banda celulósica mais grossa), para diminuir a sua elasticidade. Assim, quando o estoma abre, permanece um orifício entre as células-guarda.As células-guarda possuem ainda "micelação radial", que consiste num envolvimento espiralado da parede celular por microfibrilas de celulose das paredes ventrais do estoma para as paredes dorsais. Esta micelação radial permite que as células-guarda aumentem de tamanho de acordo com o seu comprimento, mas não segundo seu diâmetro, permitindo assim a abertura e fechamento do ostíolo:
+
+O Ostíolo (nome da abertura delimitada pelas células-guarda) faz a comunicação entre o interior do estoma e o ambiente externo.Os ostíolos funcionam como células subsidiárias ou companheiras, que delimitam as fronteiras do estoma.O ostíolo ainda pode ser definido como câmara estomática ou subestomática, que é o espaço interno do estoma, delimitado pelas células subsidiárias e labiais.
+
+
+=== Tipologia ===
+Existem cinco tipos básicos de estômato, que podem ser classificados de acordo com o formato e arranjo das células subsidiárias:
+
+Anomocítico - Estômato envolvido por um número variável de células subsidiárias que não diferem em formato e tamanho das demais células epidérmicas.
+Anisocítico - Estômato circundado por três células subsidiárias de tamanhos diferentes.
+Paracítico - Estômato acompanhado, de cada lado, por uma ou mais células subsidiárias posicionadas de forma que o seu eixo longitudinal fica paralelo à fenda estomática (se localiza entre as duas células-guarda, enquanto o estômato está fechado, quando aberto é denominado ostíolo).
+Diacítico - Estômato envolvido por duas células subsidiárias posicionadas de modo que o seu maior eixo forma um ângulo reto com a fenda estomática.
+Actinocítico - Estômato em torno do qual as células subsidiárias se dispõem radialmente (pouco comum).
+
+
+== Abertura e fechamento dos estômatos ==
+A turgescência ou a plasmólise das células-guarda estão diretamente relacionadas com a entrada e a saída de íões de potássio:
+
+Quando o potássio entra nas células-guarda, por transporte ativo, aumenta a pressão osmótica nestas células, levando a entrada de água por osmose. As células-guarda ficam túrgidas, a parede anticlinal afastada da fenda dilata-se em direção à célula anexa, retraindo a parede anticlinal que delimita a fenda, abrindo o estômato;
+Quando o potássio sai da célula, por difusão simples, diminui a pressão osmótica nestas células, levando a saída de água por osmose. As células-guarda ficam plasmolisadas, fechando o estômato;Quando as células-guarda estão túrgidas, o estômato abre e ocorre transpiração;
+Quando as células-guarda plasmolisam, o estoma fecha e não ocorre transpiração.
+
+
+=== Fatores que condicionam a abertura ou fechamento dos estomas ===
+Os estomas abrem (para a transpiração) quando, no interior das células, a concentração de solutos aumenta, entrando água por osmose.
+
+
+==== Luz ====
+A presença de luz favorece a abertura dos estomas através de mecanismos que ainda não estão totalmente compreendidos.
+
+Um dos motivos pode ser a presença de luz que faz diminuir a concentração de CO2 no mesofilo (devido à fotossíntese).A diminuição de CO2 aumenta o pH do meio que fica alcalino.
+Em ambiente alcalino, enzimas envolvidas na degradação de amido são ativadas, e assim aumenta a concentração de glicose no mesofilo. Este aumento de solutos solúveis faz diminuir o potencial de água, e a água entra por osmose nas células labiais, que ficam inchadas.
+
+A Luz Azul favorece o Transporte activo de íons K+ para as células-guarda (independentemente da concentração de CO2). Sendo assim, o aumento da concentração de solutos resulta na  entrada de água por osmose, ficando as células labiais túrgidas.
+
+
+==== Estresse hídrico ====
+O stress hídrico (défice de água em órgãos vegetais) pode ser provocado por elevadas temperaturas, baixo conteúdo de água no solo, humidade atmosférica relativamente baixa e vento muito forte.
+O stress hídrico favorece o fechamento dos estomas.
+
+O potencial de água excessivamente negativo estimula a produção de ABA (ácido abscísico - hormona de crescimento) que faz os íons K+  saírem das células guarda. A água sai para as células companheiras (que ficaram hipertónicas) por osmose logo o estômato fecha.
+
+
+== Algumas excepções ==
+Em plantas de metabolismo CAM, os estômatos são abertos apenas durante a noite. Desta forma, sem a influência das altas temperaturas diurnas, as plantas pouco transpiram e ainda executam trocas gasosas.
+Além de estratégias fisiológicas para a conservação dos recursos hídricos das plantas, podem ainda ocorrer modificações morfo-anatomicas nos estomas nesse sentido. Em algumas espécies, o número de estomas na superfície foliar é simplesmente reduzido, sendo que as trocas gasosas são auxiliadas por lenticelas ao longo do caule. Por outro lado, as plantas aquáticas, cujo problema reside em eliminar água do organismo, os estomas são abundantes em toda superfície emersa da planta e permanecem abertos a maior parte do dia. Em certas espécies terrestres, as folhas podem apresentar câmaras estomáticas, cavidades na sua superfície com ocasional presença de pêlos, em cujo fundo encontra-se o estoma; a água eliminada pela transpiração mantém-se na cavidade, criando um microclima úmido à volta do estoma, forçando-o a reagir como se o meio externo estivesse saturado de vapor d'água, mesmo em locais muito secos.
+
+
+== Bibliografia ==
+Salisbury,Frank; Ross, Cleon (1992). Plant Physiology Fourth ed. Belmont: Wasworth, Inc. pp. 71–87. ISBN 0-534-15162-0  !CS1 manut: Nomes múltiplos: lista de autores (link)
+Meyer, B.;  et al. (1973). Introdução à Fisiologia Vegetal 2ª ed. Lisboa: Fundação Calouste Gulbenkian. pp. 87–104  !CS1 manut: Uso explícito de et al. (link)
+Appezzato-da-Glória, Beatriz; Carmello-Guerreiro, Sandra Maria (2006). Anatomia vegetal 2ª ed. Viçosa: UFV. pp. 90–93  !CS1 manut: Nomes múltiplos: lista de autores (link)
+
+
+== Ligações externas ==
+Micelação radial nos estomas - em inglês[ligação inativa]
+Informação geral

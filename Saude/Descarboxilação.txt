@@ -1,0 +1,41 @@
+A descarboxilação é uma reação química na qual um grupo carboxilo é eliminado de um composto na forma de dióxido de carbono (CO2).
+
+
+== Em química orgânica ==
+O interesse sintético desta reação é suprimir o grupo carboxilo do produto após ter sido útil em um intermediário da síntese. Iste pode ser mais ou menos fácil, com maior ou menor temperatura para obtê-lo, em função do grupo R unido ao carboxilo. No caso de β-cetoácidos se consegue relativamente fácil através de um estado de transição cíclico:
+
+Um exemplo disto se pode encontrar na síntese malônica.
+
+
+== Em bioquímica ==
+A descarboxilação dos aminoácidos a aminas catalisada por enzimas do tipo descarboxilase é algo muito presente e importante no metabolismo dos seres vivos. Um exemplo particular seria a descarboxilação de histidina a histamina.
+Também se produzem reações de descarboxilação no ciclo do ácido cítrico.
+
+
+== Descarboxilases ==
+Também conhecidas como carboxi-liases são carbono-carbono liases, enzimas que aceleram a descar­boxilação, adicionando ou removendo grupos carboxila de compostos orgânicos. Estas enzimas catalizam especialmente a decarboxilação de aminoácidos, beta-ceto ácidos e alfa-ceto ácidos [1].
+
+
+=== Classificação e nomenclatura ===
+Carboxi-liases são categorizadas sob número EC 4.1.1. [2]
+Normalmente, elas são nomeadas após o substrato sobre o qual catalisam descar­boxilação, por exemplo piruvato decarboxilase catalisa a decarboxilação de piruvato
+
+
+=== Estrutura e funcionamento ===
+A piruvato descarboxilase está caracteristicamente presente nas leveduras de cervejaria e padaria e em todos os outros organismos que promovem a fermentação alcoólica, incluindo algumas plantas. O CO2 produzido na descarboxilação do piruvato pelas leveduras de cervejaria é o responsável pela carbonatação caraterística do champagne.
+A reação da piruvato descarboxilase na fermentação alcoólica é dependente de tiamina pirofosfato (TPP), uma coenzima derivada da vitamina B1. A ausência desta vitamina na dieta humana leva a uma condição conhecida como beribéri, caracterizada por acúmulo de fluidos corporais (inchaço), dores, paralisias e, em última instância, morte.
+A tiamina pirofosfato desempenha um importante papel na clivagem de ligações adjacentes a um grupo carbonila (como ocorre na descarboxilação dos acetácidos) e nos rearranjos químicos envolvendo a transferência de um grupo aldeído ativado de um átomo de carbono para outro.
+A parte funcional da tiamina pirosfosfato é o anel tiazol. O próton em C-2 do anel é relativamente ácido e a perda deste próton acídico produz um carbânion que é a espécie ativa nas reações dependentes de TPP. Este carbânion facilmente adiciona-se a grupos carbonila e o anel tiazol é assim posicionado para agir como um escoadouro de elétrons, que facilita fortemente as reações, como esta, de descarboxilação catalisada pelo piruvato descarboxialse.
+
+
+== Bibliografia ==
+K. Peter C. Vollhardt (1994), Química Orgánica, Barcelona: Ediciones Omega S.A.. ISBN 84-282-0882-4.
+
+
+== Ver também ==
+Descarboxilação oxidativa (piruvato desidrogenase)
+Acetil coenzima A
+
+
+== Ligações externas ==
+MeSH Carboxy-Lyases (em inglês)

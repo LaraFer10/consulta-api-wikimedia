@@ -1,0 +1,42 @@
+O receptor do tipo Toll 4 é uma proteína codificada em humanos pelo gene TLR4.  TLR 4 é um receptor do tipo Toll. Ele detecta lipopolissacarídeo (LPS) de bactérias Gram-negativas e é, por consequência, importante na ativação da resposta imune inata. O TLR 4 também foi denominado como CD284 (cluster of differentiation 284). O peso molecular do TLR 4 é aproximadamente 95 kDa.
+
+
+== Função ==
+Essa proteína faz parte da família dos Toll-like receptors (TLR) que possui um papel crucial no reconhecimento de patógenos e na ativação da imunidade inata. TLRs são altamente conservados de Drosophila até humanos e compartilham semelhanças estruturais e funcionais. Eles reconhecem padrões moleculares associados a patógenos (do inglês, PAMPs) que são expressados por agentes infecciosos e medeiam a produção de citocinas necessárias para o desenvolvimento de uma resposta imune eficiente.
+Os variados TLRS apresentam padrões de expressam diferentes també, Esse receptor é expresso mais abundatemente na  placenta em subpopulações mielomonocíticas dos leucócitos.
+Ele coopera com  LY96 (atambém conhecido comoMD-2) e CD14 para mediar os eventos de transdução de sinal induzidos por lipopolissacarídeo (LPS), encontrado na maior parte das bactérias gram-negativas. 
+
+Muitas variantes transcripcionais já foram descobertas, mas o potencial codificador de proteína da maioria delas é incerto..
+
+
+== Interações ==
+TLR 4  interage com:
+
+Lymphocyte antigen 96,
+Myd88, e
+TOLLIP.O tráfego intracelular de  TLR4 depende da GTPase Rab-11a, e "knock downs" de Rab-11a resultam em recrutamento dificultado de TLR4 para fagossomoas contendo E. coli-ce reduão subsequente do sinal pela via independente de MyD88.
+
+
+== Significado clínico ==
+Vários polimorfismos de sítio único (SNPs) do  TLR4 in já foram identificadose, para alguns deles, foram mostradas associações com a susceptibilidade a infecções por bactérias gram-negativas  ou progressão mais rápida ou mais severa da sepse em pacientes críticos. 
+
+
+== TLR 4 e etanol ==
+Uma correlação entre o receptor  TLR 4 e " binge drinking " ( beber muito de uma vez só) já foi sugerido. Com manipulação dos genes para  TLR 4 e receptores GABA , animais treinados para beber excessivamente demonstraram uma "profunda redução" no comportamento de beber. Adicionalmente, já foi mostrado que etanol, mesmo na ausência de LPS, pode ativar a via de sinalização do TLR4 .
+
+
+== Drogas com TLR4 como alvo ==
+TLR4 é importante para os efeitos adversos de longo prazo de opióides. Diversos ligantes do receptor opióide μ possuem também ação como agonistas ou antagonistas do TLR4, sendo agonistas opióides como morfina, agonistas TLR4 e antonistas opioides, como naloxona, TLR4 antagonistas. A ativação de TLR4 leva à liberação "downstream" de moduladores inflamatórios, incluindo TNF-α e IL-1, e acredita-se que a liberação constante,  em baixo nível, desses moduladores diminui a eficácia do tratamento com o tempo e pode estar envolvida tanto no desenvolvimento de tolerância ao tratamento, como no surgimento de efeitos adversos como hiperalgesia e alodinia . Drogas que bloqueiam a ação de TNF-α ou IL-1β foram testadas, e são capazes de aumentar o efeito analgésico de opióides, diminuindo tolerância e efeitos adversos, demonstrado tambem com drogas que bloqueiam diretamente oTLR4 .A resposta do TLR4 a drogas opióides é independente de enantiomeria , com os enantiômeros inativos de morfina e naloxona, que não tem afinidade por receptores opióides, produzem a mesma atividade dos TLR4  Logo enantiômeros inativos como (+)-naloxone, podem ser usados para bloquear a atividade do TLR4 sem afetar a resposta analgésica do receptor μ.) Morfina causa inflammation ligando-se ao lymphocyte antigen 96, que leva a ligação da proteína ao TLR4. Esse processo de ativação do TLR4 atenua a supressão da dor pelo opióide e diminui o desenvolvimento detolerância e dependência, abuso de drogas e outros efeitos colaterais negativos, como depressão respiratória.Fármacos candidatos que têm como alvo o TLR4 podem melhorar as terapias de controle da dor com opióides
+
+
+=== Agonistas ===
+Glicuronoxilomanano de Cryptococcus
+Morfina-3-glicuronida (inativo em receptores opioides, seletivo para TLR4)
+Isômeros "não-naturais" como a (+)-morfina ativa TLR4 sem ativar normalmente receptores opióides. Contudo, (+)-morfina também um agonista de receptores sigma.
+
+
+=== Antagonistas ===
+O análogo do lipídeo A eritroran age como antagonista do TLR4.  É usado para tratar gripes severas, apesar de não atacar o vírus em si, mas sim prevenir uma reação imune massiva chamada de 'cytokine storm" (tempestade de citocinas")  .(+)-naloxona (isômero "não natural" inativo em receptores opióides, seletivo para inibição do TLR4 )
+
+
+== Referências ==

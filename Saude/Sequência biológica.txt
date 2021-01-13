@@ -1,0 +1,135 @@
+Uma sequência biológica é a descrição da sequência de elementos (ou monômeros) que constituem uma macromolécula biológica, ácido nucleico ou proteína. Essas macromoléculas são de fato polímeros lineares, consistindo de nucleotídeos para os primeiros ou de aminoácidos para os segundos. A sequência é geralmente representada sob a forma de uma cadeia de caracteres que é armazenada em uma arquivo de computador em formato texto.No caso do ADN, isto corresponde à sequência de bases, tal como pode ser obtido na saída de um sequenciador de DNA. Isso corresponde à informação genética bruta. No caso de proteínas, isto corresponde à sequência de aminoácidos que pode ser obtida por sequenciação química ou por tradução da sequência do gene correspondente no DNA.
+
+
+== Sequências nucleotídicas ==
+
+
+=== Sequências genéticas ===
+
+No caso de uma sequência de ADN, o "texto" é um consistindo apenas de 4 letras correspondentes aos quatro nucleotídeos formando a sequência de um dos filamentos de DNA: A para adenina, G para guanina, T para timina, C para citosina. Tem-se que ter cuidado se a direção da leitura puder ser 3' para 5' ou inversa.Exemplo de uma sequência biológica de DNA para o gene Antennapedia CG1028-RH de Drosophila melanogaster:
+       1 ttcagttgtg aatgaatgga cgtgccaaat agacgtgccg ccgccgctcg attcgcactt
+      61 tgctttcggt tttgccgtcg tttcacgcgt ttagttccgt tcggttcatt cccagttctt
+     121 aaataccgga cgtaaaaata cactctaacg gtcccgcgaa gaaaaagata aagacatctc
+     181 gtagaaatat taaaataaat tcctaaagtc gttggtttct cgttcacttt cgctgcctgc
+     241 tcaggacgag ggccacacca agaggcaaga gaaacaaaaa gagggaacat aggaacagga
+     301 accagataat agtgacataa gcgacccttt cgcaaatatt ttggcgcaaa atgagcgggc
+     361 gccaagtgcc gcgtggtgga gccgcctgaa aatgacatgg aaaattcgcc gaaaatcgcg
+     421 cgttttggca gcatcaatcc caaagcacaa aattaatttc tatcataatt tctgggtgca
+     481 acacggaccc ataattgaat cgaatatagg gcttatctga tagcccggca gcaacattga
+     541 actttccggc tgcaaaggag acgacaccga gatcgccaat tttcgttggg ctcgttctct
+     601 gggctccggc gataagaaat ccatgctgat aaggacagga ggacggtctg cggcaaattg
+     661 aattcgattc tgacctgtat gaaagccagc ggagatacgg atacctctgg gtttatgggt
+     721 agaaaacgca gagcgtcgcg ccaacatcga aattatttgc gtttgcatct tctcgtcctt
+     781 tcgtttatcg ttctgattgc catcgtggtg gcgcggtttc tattaatttt gcttctgtat
+     841 cgtttgcaaa atctcaaaag attcaaaaag ttcgtcatca gcagccgcaa cacaaaaacc
+     901 aacgagtgta aagccgagca tacaaatatc aataaaaaca taaacattta cccaatctca
+     961 atctcaaaac attcgcatcg tttccacaca aatatgctta gttcgcccaa attgtgattg
+    1021 tatatatata tttaacggca ttaaatacaa aagattaagc cctaaattaa gtgtaaatct
+    1081 tacaaaacgt ctacgttttt aaacaagaaa ttgtgatatt atatattaat cgggaaattc
+    1141 gaagtatgag aacaaaacgg tgtatatatg taagtgggcg atgaacatca atgaatattt
+    1201 tagctgagca aagtacacac gaatgaatat aaatatacat gaaaatatat tttgggcacc
+    1261 gacttttaca ccacaattat atatcgatag aaaagacacg aaaacaatca cagaaaacta
+    1321 agagtttcaa aatcaaaatt gaggaatacc aactagagga taaggctact taaggatcaa
+    1381 aaaacaccaa ggagacgaga ttttctacca aatcgagaga cgaggggcag gttaatttcg
+    1441 tcatttttgg ccaagacagc aaatagagga acagcaaagc gaaaatcatt ttatacctca
+    1501 cacaacaact acacactaac taagattagg ctacgcaact gtacattgta cttaagtgtt
+    1561 caaagtatat ttagtttact ttgtatataa gaaaagtagc taaaagcacg cggacaggga
+    1621 ggcaggagca ccacagtcac tagccactaa gcagagtcac agtcacgatc acgttcactc
+    1681 caggatcagg actcggggcg ggatcagcag acgctgagga agctgccacg atgacgatga
+    1741 gtacaaacaa ctgcgagagc atgacctcgt acttcaccaa ctcgtacatg ggggcggaca
+    1801 tgcatcatgg gcactacccg ggcaacgggg tcaccgacct ggacgcccag cagatgcacc
+    1861 actacagcca gaacgcgaat caccagggca acatgcccta cccgcgcttt ccaccctacg
+    1921 accgcatgcc ctactacaac ggccagggga tggaccagca gcagcagcac caggtctact
+    1981 cccgcccgga cagcccctcc agccaggtgg gcggggtcat gccccaggcg cagaccaacg
+    2041 gtcagttggg tgttccccag cagcaacagc agcagcagca acagccctcg cagaaccagc
+    2101 agcaacagca ggcgcagcag gccccacagc aactgcagca gcagctgccg caggtgacgc
+    2161 aacaggtgac acatccgcag cagcaacaac agcagcccgt cgtctacgcc agctgcaagt
+    2221 tgcaagcggc cgttggtgga ctgggtatgg ttcccgaggg cggatcgcct ccgctggtgg
+    2281 atcaaatgtc cggtcaccac atgaacgccc agatgacgct gccccatcac atgggacatc
+    2341 cgcaggcgca gttgggctat acggacgttg gagttcccga cgtgacagag gtccatcaga
+    2401 accatcacaa catgggcatg taccagcagc agtcgggagt tccgccggtg ggtgccccac
+    2461 ctcagggcat gatgcaccag ggccagggtc ctccacagat gcaccaggga catcctggcc
+    2521 aacacacgcc tccttcccaa aacccgaact cgcagtcctc ggggatgccg tctccactgt
+    2581 atccctggat gcgaagtcag tttggtaagt gtcaaggaaa gtgatcgaca attccacgaa
+    2641 acgtattaag tggaattttt cttcttctta tcgtagtggg ttgaagtagt tagttccccg
+    2701 tttagaattg gtcgtagttc ccattagaat cgtaactgtg catacaacag ctagagctgt
+    2761 attatcttaa attgtataat accataacta ttacagcgaa cctcgtgcag cgaagcaaag
+    2821 cagtaaaaag cagtctagat gtactgcttt atattgtgtt tcctgcttga tattagatca
+    2881 ctaagcaagc agacgcgcaa gcagttcacg cagatcacgc agacgttaaa aatttaaaaa
+    2941 tgtttttgtt tgcagaaaga agtaccctct tcgcttttca attttgtagt taaaattcga
+    3001 gcaaatatat ttaaattaaa aaggctcaaa cttaaagtac tatgtatgtc ttgtattttt
+    3061 gaaaaaattc taaagtttat tataaaatgc attttaaata cattttttaa cctaccttgt
+    3121 cgcttgaaat atataaaatt taagttttag atatggaata gataaacaaa atatttccct
+    3181 ctgtcttaac taatttcttt aattaaatgt taagccccaa agcgactaca gcttcatgtc
+    3241 aaactcttac cttaaatatt tagagtttgt ttgcatttga actgagaacg ttttgtcgac
+    3301 gaccttgaca cgtccgggta atttcacttt attgccttgg ccaattgctt gacatcatcc
+    3361 gtaatccatc tgcaaagaca tcccgatacc tgacatttgt tcaaatttgc gaatttccca
+    3421 aatccgagca aatcgatgaa tgcaggcaga tgaaagacga aagaggtggc ggaagaggtg
+    3481 ctccttgggt tccgcttgcc cagaagatcg cagcacagga ggcggtcctg ccagctaatg
+    3541 caaattgaca atagctcgaa atcgtgcaag aaaaaggttt gccaaaaccc taggcgtaac
+    3601 taatgagggc tggaaaatag agcacactga ctgcatgtgg tactgcttta ggcttagagg
+    3661 atgttgcata agtggggata gggctcggcc gcctttcgag cgaaaaaggt gtaaggtcta
+    3721 ggaggcgagt ccttttcaaa tatagaattc caatggcatg tcactttcct cggagaaagt
+    3781 gaaagtaggc ctcaagtggt cggtgccttt gccttgccct ccagctgacc tgctccctgg
+    3841 tcattacgca gtccaaggag ctctagctct ccccataccc agctctcaat gttgttgtgg
+    3901 ttttttgttt gtagccggct gaattttttc gccaaagcca gattgagatg taaagcacaa
+    3961 ttgatgagcg ccattagtta cacgttatgt gcaatggatg ccatcaattt attaatctcc
+    4021 agaacacgcc gaggctccat tcatagcacc acttcgtcgt cttaatcccc tccctcatcc
+    4081 gccatggcgg tgcaaaaaat aaaaagaact c
+
+
+=== Sequências de ARN ===
+No caso de uma sequência de ARN, a letra U é utilizada para designar a uracila substituindo a timina para estas moléculas.
+
+
+== Sequências de proteínas (péptidos) ==
+Esta sequência corresponde ao que é chamado de estrutura primária da proteína em bioquímica. Chamamos tradução, a etapa de síntese de proteínas a partir de uma sequência nucleotídica, este passo pode ser facilmente previsto por software de computador para a identificação de genes até agora desconhecidos. O código genético dá uma letra do alfabeto para cada um dos 20 aminoácidos existentes, em correspondência com os diferentes códons. Como um códon é formado por três bases, a sequência da proteína é três vezes menor que a sequência nucleica correspondente.
+Aqui está um exemplo em proteína do gene Antennapedia de Drosophila:
+
+       1 mtmstnnces mtsyftnsym gadmhhghyp gngvtdldaq qmhhysqnan hqgnmpyprf
+      61 ppydrmpyyn gqgmdqqqqh qvysrpdsps sqvggvmpqa qtngqlgvpq qqqqqqqqps
+     121 qnqqqqqaqq apqqlqqqlp qvtqqvthpq qqqqqpvvya scklqaavgg lgmvpeggsp
+     181 plvdqmsghh mnaqmtlphh mghpqaqlgy tdvgvpdvte vhqnhhnmgm yqqqsgvppv
+     241 gappqgmmhq gqgppqmhqg hpgqhtppsq npnsqssgmp splypwmrsq fgkcqgk
+
+
+== Outras sequências ==
+
+
+=== Sequência glicídica ===
+Sequência glicídica ou  glucídica ou ainda, sequência de carboidratos, são moléculas compostas tendo como monômeros carboidratos como constituinte. Diferentemente dos componentes dos ácidos nucléicos, os carboidratos podem se unir de maneiras múltiplas e não-lineares, porque cada bloco de construção tem cerca de quatro grupos funcionais para a ligação, podendo até formar cadeias ramificadas. Assim sendo, o número de possíveis polissacarídeos é enorme. Como os carboidratos assumem uma grande variedade de configurações, muitas proteínas de ligação a carboidratos estão sendo consideradas alvos de novos medicamentos.Deve-se observar que o DNA não codifica para carboidratos, que assim como os lipídios são sintetizados, decompostos e metabolizados com a ajuda das enzimas.
+Sequências de carboidratos tem processos de sequenciamento específicas para sua natureza, como por exemplo a espectrometria de massa de armadilha de íon quadrupolo ou a espectrometria de massa de múltiplos estágios (MSn, de multiple-stage mass spectrometry).A diversidade de estruturas de oligossacarídeos pode conferir a especificidade inerente a muitas interações moleculares e celulares. Cientistas de numerosas disciplinas enfrentam o desafio de determinar sua sequência e decifrar sua função. Um exemplo é o bikunin, o proteoglicano mais simples, com uma única cadeia de glicosaminoglicanos, que  é um inibidor da protease de serina usado no tratamento da pancreatite aguda e inibidor de tripsina urinário.
+
+
+== Processamento por computador ==
+
+
+=== Análise de sequências ===
+
+Sequências como estas podem ser usadas como entrada (copiado/colado com todas as anotações) para fazer análise de sequência como no programa BLAST.
+Outros programas permitem que se pesquise estruturas palindrômicas.
+Bluejay é um programa escrito em Java permitindo transformar dados de sequência de ADN em XML.
+
+
+=== Anotações genômicas ===
+Ensembl é um software usado para anotar sequências genômicas.
+
+
+== Tipos de seqüências biológicas particulares ==
+Sequência repetitiva
+Repetição terminal longa
+Promotor
+Microssatélite
+
+
+== Referências ==
+
+
+== Ver também ==
+Nomenclatura ou classificação filogenética
+Evolução
+Gene, fase de leitura aberta
+Projeto Genoma
+Tradução (genética)
+Análise de sequências (bioinformática)
+Cadeia mais próxima

@@ -1,0 +1,47 @@
+Na genética, uma translocação cromossômica é uma anomalia cromossômica causada pelo rearranjo de partes entre cromossomos não-homólogos. Um gene de fusão pode ser criado quando a translocação se une a outros dois genes separadas, um evento que é comum no câncer. Isto é detectado na citogenética ou em um cariótipo das células afetadas.
+Existem dois tipos principais de translocação cromossômica:
+
+translocação recíproca, também conhecida como não-Robertsoniana
+translocação RobertsonianaAlém disso, as translocações podem ser balanceadas (sem perda ou acréscimo de material genético) ou não-balanceadas (quando a troca de material cromossômico é desigual resultando em genes extras ou ausentes).
+
+
+== Tipos ==
+
+
+=== Translocações recíprocas (não-Robertsonianas) ===
+As translocações recíprocas são geralmente uma troca de material entre cromossomos não-homólogos. Elas são encontradas em cerca de 1 em cada 625 recém-nascidos humanos. Estas translocações geralmente não causam danos e podem ser encontradas durante um diagnóstico pré-natal. Entretanto, os portadores de translocações recíprocas balanceadas possuem riscos aumentados de criarem gametas com translocações cromossômicas não-balanceadas causando abortos ou crianças com anormalidades. O aconselhamento genético e o exame genético é frequentemente oferecido para famílias que possam carregar uma translocação.
+
+
+=== Translocações Robertsonianas ===
+
+Este tipo de rearranjo envolve dois cromossomos acrocêntricos que se fundem próximos da região do centrômero com perda de seus braços curtos. O cariótipo resultante em humanos possui somente 45 cromossomos já que dois cromossomos se uniram com a fusão. As translocações Robertsonianas já foram observadas envolvendo todas combinações de cromossomos acrocêntricos. A translocação mais comum em humanos envolve os cromossomos 13 e 14 e é observada em cerca de 0,97 / 1000 recém-nascidos. Assim como outras translocações, os portadores de translocações Robertsonianas são fenotipicamente normais, mas existe um risco de gametas não-balanceados que podem levar a abortos e uma prole anormal. Por exemplo, portadores de translocações Robertsonianas envolvendo o cromossomo 21 possuem uma maior chance de ter uma criança com síndrome de Down.
+Algumas doenças humanas causadas por translocações são:
+
+Câncer: diversas formas de câncer são causadas por translocações; elas foram descritas principalmente na leucemia (leucemia mielóide aguda e leucemia mielóide crônica).
+Infertilidade: um membro do casal carrega uma translocação balanceada, na qual o membro é assintomático mas a concepção de fetos não é viável.
+Síndrome de Down é causada em uma minoria (5% ou menos) dos casos por uma translocação Robertsoniana de cerca de um terço do cromossomo 21 para o cromossomo 14.
+
+
+== Translocações por cromossomo ==
+
+
+=== Denotação ===
+A abreviação t(A;B)(p1;q2) é usada para denotar a translocação entre um cromossomo A e um cromossomo B. A informação no segundo conjunto de parênteses, quando fornecida, indica a localização precisa no cromossomo para os cromossomos A e B respectivamente—com p indicando o braço curto do cromossomo, q indicando o braço longo e os número após p e q se referindo às regiões, bandas e sub-bandas quando os cromossomos são corados e observados em um microscópio.
+
+
+=== Exemplos ===
+t(2;5)(p23;q35) - Linfoma anaplásico de células grandes
+t(8;14) - Linfoma de Burkitt (c-myc)
+t(9;22)(q34;q11) - Cromossomo Filadélfia, Leucemia mielóide crônica, Leucemia linfóide aguda
+t(11;14) - Linfoma de célula do manto (Bcl-1)
+t(11;22)(q24;q11.2-12) - Sarcoma de Ewing
+t(14;18)(q32;q21) - Linfoma folicular (Bcl-2)
+t(17;22) - dermatofibrosarcoma protuberans
+t(15;17) - Leucemia promielocítica aguda
+t(1;12)(q21;p13) - Leucemia mielóide aguda
+t(9;12)(p24;p13) - Leucemia mielóide crônica, Leucemia linfóide aguda (TEL-JAK2)
+t(X;18)(p11.2;q11.2) - Sarcoma sinovial
+t(1;11)(q42.1;q14.3)- Esquizofrenia
+
+
+== Referências ==

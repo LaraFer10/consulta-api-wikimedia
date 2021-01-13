@@ -1,0 +1,24 @@
+Uma hélice-volta-hélice é um motivo estrutural proteíco que caracteriza uma família de factores de transcrição.
+
+
+== Estrutura ==
+O motivo é caracterizado por duas alfa-hélices conectadas por uma volta. Factores de transcrição que incluem este domínio são tipicamente formados por dímeros, com cada monómero contendo uma hélice com resíduos de aminoácidos básicos que facilitam a ligação oa ADN. Uma das hélices é tipicamente menor e devido à flexibilidade da volta, permite a dimerização. A hélice maior contém normalmente as regiões de ligação ao ADN.
+Proteínas com este motivo ligam-se a uma sequência de consenso denominada caixa E, CANNTG. A caixa E típica é CACGTG (palindrómica), no entanto, alguns destes factores de transcrição ligam-se a diferentes sequências, muitas vezes similares à caixa E.
+
+
+== Exemplos ==
+Exemplos de factores de transcrição que contêm uma hélice-volta-hélice básica incluem:
+
+BMAL-1-CLOCK
+C-Myc
+MyoD
+Pho4
+NPAS1, MOP5
+Scl, também conhecida como Tal1
+
+
+== Referências ==
+
+
+== Ligações externas ==
+MeSH Basic+Helix-Loop-Helix+Transcription+Factors

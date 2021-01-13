@@ -1,0 +1,67 @@
+Ensembl é um projecto científico conjunto entre a European Bioinformatics Institute e o Wellcome Trust Sanger Institute, que foi lançado em 1999, em resposta à iminente conclusão do Projeto Genoma Humano. Depois de 10 anos de existência, o objetivo da Ensembl continua a fornecer uma forma centralizada de recursos para os geneticistas, biólogos moleculares e de outros pesquisadores que estudam o genoma da nossa própria espécie e de outros vertebrados e de organismos modelo. O Ensembl é um dos vários navegadores conhecidos de genoma para a recuperação das informações de genoma.
+Semelhante a navegadores e bancos de dados são encontradas no NCBI e a Universidade da Califórnia, Santa Cruz (UCSC).
+
+
+== Antecedentes ==
+O genoma humano é composto de três bilhões de pares de base, que o codifica por cerca de 20.000 a 25.000 genes. No entanto, o genoma é de pouco uso, a menos que os locais e as relações de genes individuais podem ser identificados. Uma opção é a anotação manual, segundo a qual uma equipe de cientistas tenta localizar genes usando dados experimentais de revistas científicas e bancos de dados públicos. No entanto, esta é uma tarefa lenta e árdua. A alternativa, conhecido como anotação automatizada, é usar a força dos computadores para fazer o cálculo complexo de correspondência de padrões de proteína ao DNA.
+No projeto Ensembl, as sequências de dados são enviados para o sistema de anotação de genes (um conjunto de software de "pipelines", escrito em Perl), que cria um conjunto de locais previstos do gene e salva-los em um banco de dados MySQL para posterior análise e de visualização. O Ensembl faz com que estes dados sejam livremente acessíveis para o mundo da investigação. Todos os dados e o código produzido pelo projeto Ensembl está disponível para transferência, e há também um servido de acesso público de banco de dados, permitindo o acesso remoto. Além disso, o site da Ensembl oferece visualizações gerados pelo apresentador de grande parte dos dados.
+Ao longo do tempo o projeto foi ampliado para incluir outras espécies (incluindo os principais organismos-modelo, tais como rato, mosca da fruta e o peixe-zebra), bem como uma vasta gama de dados genômicos, incluindo variações genéticas e recursos regulamentares. Desde abril de 2009, uma projeto irmã do Genoma Ensembl, ampliou o escopo do Ensembl em invertebrados metazoa, plantas, fungos, bactérias, e protistas, enquanto o projeto original continua a concentrar-se em vertebrados.
+
+
+== Exibindo dados genômicos ==
+A idea central para o conceito da Ensembl é a capacidade de gerar vistas gráficas automaticamente para o alinhamento de genes e outros dados genômicos contra um genoma de referência. Estes são apresentados como dados de pistas e de faixas individuais pode ser ligado e desligado, permitindo que o usuário personalize o visor para atender os seus interesses de pesquisa. A interface também permite que o usuário dê um ampliação para uma região ou de se mover ao longo do genoma em qualquer direção.
+Outras maneira de exibir dados em vários níveis de resolução, a partir de todo o cariótipo para baixo para texto baseado em representações de DNA e aminoácidos sequências, ou apresentar outros tipos de visualização, tais como árvores de genes similares (homólogos) através de uma variedade de espécies. Os gráficos são complementados por tabela apresenta, e, em muitos casos, os dados podem ser exportados diretamente da página em uma variedade de formatos de arquivo padrão, tais como FASTA.
+Externamente dados produzidos também podem ser adicionados para a exibição, através de uma DAS (Distributed Anotação do Sistema) servidor na internet, ou fazendo o upload de uma adequada arquivo em um dos formatos suportados, tais como BAM, CAMA, ou PSL.
+Gráficos são gerados utilizando um conjunto personalizado de módulos Perl com base no GD, o padrão do Perl de exibição de gráficos biblioteca.
+
+
+== Métodos de acesso alternativas ==
+Além de seu site, a Ensembl fornece um APIem Perl (Interface de Programação de Aplicativo) que produz modelos de objetos biológicos, tais como os genes e proteínas, permitindo serem escritos scripts simples para recuperar dados de interesse. A mesma API é utilizada internamente pela interface da web para exibir os dados. Ele é dividido em seções, como o API principal, o API de comparação (para genômica comparativa de dados), a API da variação (para acessar SNPs, SNVs, CNVs..), e a genômica funcional (API de acesso a dados regulatórios).
+O website da Ensembl fornece informações abrangentes sobre como instalar e usar a API.
+Este software pode ser usado para acesso público MySQL de banco de dados, evitando a necessidade de transferir enormes conjuntos de dados. Os usuários podem até mesmo escolher para recuperar dados do MySQL com consultas diretas em SQL, mas isso requer um extenso conhecimento do atual esquema de banco de dados.
+Grandes conjuntos de dados podem ser recuperados usando a ferramenta de extração de dados, o BioMart. Ele fornece uma interface web para descarregar  conjuntos de dados usando consultas complexas.
+Por último, há um servidor FTP, que pode ser usado para transferir toda a bases de dados MySQL, assim como alguns conjuntos de dados selecionados em outros formatos.
+
+
+== Espécies atuais ==
+Os genomas anotados incluem a maioria dos vertebrados totalmente sequenciados e organismos modelo selecionados. Todos eles são seres eucariontes, não há procariotas. Desde 2008 isso inclui:
+
+Cordados
+Mamíferos
+Euarchontoglires
+Primatas: bushbaby, Chimpanzé, humano, macaque, rato lemure, orangutango, Carlito syrichta;
+Scandentia: tree shrew ;
+Glires (= Roedores + Lagomorphs): Porquinho-da-índia, canguru rato, rato, rato, esquilo, pika, coelho ;
+Laurasiatheria: vaca, golfinho, alpaca, suíno, gato, cão, cavalo, megamorcego, micromorcego, Ouriço-terrestre, shrew ;
+Afrotheria: elefante, hyrax, tenrec
+Xenarthra: armadillo, Folivora ;
+Marsupiais: opossum, Macropus eugenii ;
+Monotremata: Ornitorrinco;
+Aves: galinha, mandarim;
+Lepidosauria: cobra anole (pre);
+Lissanfíbio: Xenopus tropicalis;
+Teleostei peixes: Takifugu rubripes (Baiacu), Tetraodon nigroviridis (green spotted pufferfish), Danio rerio (Danio rerio), Oryzias latipes (medaka), Gasterosteus aculeatus (stickleback);
+Cyclostomata: Petromyzon marinus (sea lamprey) (pre);
+Urochordata: Ciona intestinalis, Ciona savignyi;
+Não-vertebrados
+Insetos: Drosophila melanogaster (mosca da fruta), Anopheles gambiae (mosquito), Aedes aegypti (mosquito)
+Vermes: Caenorhabditis elegans
+Leveduras: Saccharomyces cerevisiae (fermento de padeiro)
+
+
+== Ver também ==
+GenBank
+
+
+== Referências ==
+
+
+== Ligações externas ==
+
+Sítio oficial
+Vega
+Pré-Ensembl
+Genoma Ensembl
+UCSC Genome Browser
+NCBI
+Ensembl: Navegação de genomas chordata na EBI de Trem OnLine

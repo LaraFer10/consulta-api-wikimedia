@@ -1,0 +1,15 @@
+SSB (do inglês, Single Strand DNA Binding - Proteínas ligantes a DNA de cadeia simples) fazem parte do complexo de proteínas que atuam no processo de replicação do DNA (Replissoma).
+Duas cadeias de ácidos nucléicos têm uma tendência muito grande em se associarem, tomando a configuração de hélice e formando um mesmo segmento de uma mesma cadeia com sequências complementares de bases, que por afinidade, tendem a se unir e como consequência, dobrando a molécula e formando a estrutura de dupla-hélice (hairpins ou grampos). 
+As cadeias complementares de uma molécula de DNA, mantêm-se separadas na região da forquilha de replicação e sem formarem hairpins ou grampos graças a ação das SSB. 
+Especificamente, as SSB interagem diretamente com cadeias simples de DNA sem cobrir suas bases, as quais ficam disponíveis para servirem de molde para a síntese da cadeia complementar. Ou seja, as SSB apesar de não serem capazes de abrirem uma hélice de DNA, são imprescindíveis para manter as duas cadeias separadas e sem se sobrar sobre elas mesmas. 
+As SSB atuam cooperativamente : a ligação de uma delas facilita a ligação da seguinte de modo que a cadeia recém aberta vai progressivamente sendo coberta por moléculas dessa proteína. A presença de diversas moléculas de proteínas SSB sobre uma cadeia simples de DNA produz uma conformação estendida e pouco flexível, favorável a ação da polimerase III. À medida que as cadeias complementares vão sendo sintetizadas, as proteínas SSB se soltam do DNA, uma vez que elas não têm afinidade por dupla-hélice.               
+Referências:      
+https://edisciplinas.usp.br/pluginfile.php/2937177/mod_resource/content/2/BiologiaMolecular_texto02%20final.pdf               
+
+
+== Ver também ==
+helicase
+DNA
+Gene
+Genética
+RNA

@@ -1,0 +1,50 @@
+Operações de acesso adaptado (TAO) NSA é a divisão de coleta de inteligência para Ciberguerra da agência americana NSA, em funcionamento desde 1998 ao menos. TAO identifica, monitora, infiltra, e reúne informações sobre sistemas de computadores sendo usado por entidades fora dos Estados Unidos.Segundo Bruce Schneier esta é a divisão da NSA que deveria estar sob o comando do Departamento americano de Ciberguerra, o US Cyber Command uma vez que desenvolve e possui capacidades de guerra cibernética por ataque direto aos sistemas de redes, como mostram os equipamentos usados pelo pessoal da divisão revelados através da publicação parcial do Catálogo ANT (NSA) pelo Der Spiegel em 30 de dezembro de 2013. O Catálogo ANT (NSA) foi publicado na íntegra pela LeakSource.O pesquisador de segurança Jacob Appelbaum fez uma palestra em 31 de dezembro de 2013, no Congresso de Comunicação Chaos em Hamburgo, Alemanha, com base nos documentos revelados por Edward Snowden, na qual detalhou as funções de alguns dos dispositivos utilizados pela NSA nos seus programas de vigilância global e em massa, militarizando a Internet.
+
+
+== Atividades ==
+A NSA se refere a tais atividades como "de exploração de rede de computadores", ou (CNE), acrônimo para "computer network exploitation", em inglês. Um documento revelado por Edward Snowden descrevendo o trabalho da unidade, diz que TAO tem modelos de software que lhe permite invadir os hardware comumente utilizados ao redor do mundo, incluindo Roteadores, comutadores de rede, e Firewalls de vários fabricantes.
+
+De acordo com o The Washington Post, os engenheiros da TAO, são considerados "a elite de Hackers da NSA, e preferem atacar redes de computadores ao invés de computadores isolados, porque tipicamente há muitos dispositivos em uma única rede.
+Revelações de Edward Snowden publicadas no Der Spiegel em 29 de Dezembro de 2013, mostram que a unidade possui um catálogo interno, onde são listados os artefatos disponíveis as agências de inteligência para invasão de sistemas computacionais. O catálogo enumera os inúmeros dispositivos eletrônicos para atingir os usuários finais que vão desde Backdoors a implantes no próprio Hardware, em cabos, Conectors e outros.Os dispositivos criados pela divisão, se destinam a criar e desenvolver meios de Hacking. Esta se tornou a divisão da NSA de maior expansão recentemente, dedicada especialmente a criar tais dispositivos.As operações da (TAO) são  consideradas pela agência como extremamente bem sucedidas, incluindo acesso via Backdoor a varios sistemas de Smartphones, incluindo ao iPhone, mostram documentos publicados no The Washington Post.
+
+
+== Contaminando Computadores e eletrônicos adquiridos via Internet ==
+O grupo Operações de acesso adaptado (TAO) NSA (Tailored Access Operations (TAO), em inglês), faz parte das atividades de interceptar encomendas de computadores e outros eletrônicos e instalar software e hardware espião em praticamente qualquer sistema. A instalacao de "implantes" da NSA em produtos adquiridos Online tem sido feita inúmeras vezes sem conhecimento do comprador nem do vendedor, em vários locais.A NSA se refere a esse processo como uma “interdição” que “envolve a instalação de unidades de hardware em um computador ao, por exemplo, interceptá-lo quando ele está no processo de entrega ao alvo visado”.Assim, antes mesmo de um consumidor receber seu equipamento, ele já pode ter chegado ao depósito das revendedoras com um “grampo” instalado pelas equipes da NSA, do grupo de Operações de acesso adaptado (TAO) NSA. Seja um cabo, um teclado, um adaptador, o Catálogo ANT (NSA), mostra que há produtos para todo tipo de necessidade no que diz respeito a implantar um item para realizar interceptação e espionagem.
+Além disso, nos documentos revelados por Edward Snowden, há informações de que em equipamentos da Cisco, Huawei, Dell a (TAO)  é especialista, tendo conseguido infiltrar e manter acesso permanente em qualquer aparelho dessas duas marcas, mesmo que atualizações de firmware sejam realizadas.
+O sistema criado pela NSA, para automatizar o gerenciamento e a manutenção dos "implantes" da NSA é o TURBINE.
+
+
+== Produtos criados pelos Hackers da NSA ==
+Entre documentos revelados por Edward Snowden, publicados no Der Spiegel e apresentados por Jacob Appelbaum, na Congresso de Comunicação Chaos (Chaos Communication Congress (em inglês) de 2013, foi encontrado um catálogo, o Catálogo ANT (NSA), onde é mostrado que a NSA vem criando inúmeros dispositivos especialmente para espionagem eletromagnética de computadores como faz o sistema TEMPEST, que usa o processo conhecido como ataque tempest, uma técnica de ataque à computadores. O RAGEMASTER, criado pela divisão de Operações de acesso adaptado (TAO), é um implantes de hardware para interceptar sinais de imagem a partir de monitores VGA. Ele funciona de forma passiva direcionando o sinal que está sendo refletido vindo do computador sob ataque, para as ondas de radar transmitidos externamente. O implante está escondido no isolamento ferrite do cabo de monitor VGA, que está localizado logo atrás do conector do monitor.A divisão criou também implantes a serem escondidos em USB's que são distribuidas sem conhecimento dos usuários e dispositivos que podem ser escondidos em cabos do proprio computador e que geram ondas de rádio para espionar computadores sem conexão à internet e permitem a NSA analisar dados de máquinas que sequer contam com recursos online.O catálogo foi publicado na integra em dezembro de 2013 como "Catálogo da NSA - Implantes para quase todo os maiores Software, Hardware,  Firmware" (Catálogo da Divisão ANT - NSA explora quase todos os importantes Software/Hardware/Firmware) 
+
+
+== Ataque Quantum ==
+O TAO desenvolveu um conjunto para ataque que eles chamam QUANTUM. Ele se baseia em um roteador comprometido que duplica o tráfego de internet, tipicamente as solicitacoes de acesso HTTP, de modo que eles vão tanto para o alvo pretendido e para um site NSA ao mesmo tempo. O site NSA usa o software FOXACID que envia de volta malwares que se escondem no navegador do alvo antes do destino pretendido ter a chance de responder. Se o navegador estiver explorável, mais "implantes" permanentes (rootkits, etc) são implantados no computador de destino, dando acesso remoto completo para a máquina infectada. [13] Este tipo de ataque é parte da família de ataque chamado Interceptação man-in-the-middle, que em criptografia e segurança de computadores é uma forma de interceptação de  comunicação, embora mais especificamente este seja chamado Interceptação homem-lado-a-lado.
+Em 26 de março de 2014, o Der Spiegel publicou um video produzido com base nos documentos da NSA, mostrando como atua o ataque QUANTUM, com o software FOXACID.
+
+
+== Ver Também ==
+Catálogo ANT (NSA)
+PRISM
+Revelações da Vigilância global (1970–2013)
+Revelações da Vigilância global (2013-Presente)
+Cinco Olhos
+Operações de Fonte Especial(SSO)
+TURBINE
+Vigilância de Computadores e Redes
+
+
+== Referências ==
+
+
+== Ligações externas ==
+[2] - Video  - QUANTUM / FOAXID - Der Spiegel -Março 2014
+[3] Fairview programa que amplia a capacidade da coleta de dados - Mapa mostra volume de rastreamento do governo americano Brasil é o país mais monitorado da América Latina - O Globo - 11 de junho de 2013;
+[4] James Bamford: ‘A NSA hoje pode entrar na mente das pessoas’ , por Flávia Barbosa - O Globo - 19 de março de 2014.
+[5] Vídeo: Você quebrou a Internet. Nós estamos fazendo uma GNU para nós-1h 19 min Jacob Appelbaum (em ingles);
+[6] Catalogo da NSA - Iterativo - com os dispositivos de vigilancia criados pela TAO
+[7] NSA pode escutar todas as chamadas telefônicas em qualquer pais estrangeiro (video em espanhol)
+[8] Der Spiegel Interativo  - Documentos: Video sobre tecnologia de vigilancia da NSA - Catálogo ANT (NSA)
+[9] EUA espionaram milhões de e-mails e ligações de brasileiros. País aparece como alvo na vigilância de dados e é o mais monitorado na América Latina - O Globo - 06 de julho de 2013;
+[10] Jornais destacam sistema de espionagem dos EUA no Brasil. The Guardian, Washington Post e El País foram alguns dos que comentaram denúncia feito pelo O GLOBO - 07 de julho de 2013;
+[11] Veja os documentos ultrassecretos que comprovam espionagem da presidencia do Brasil. Arquivos foram obtidos com o ex-analista da NSA Edward Snowden

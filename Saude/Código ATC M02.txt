@@ -1,0 +1,64 @@
+O Código ATC M02 (Produtos tópicos para dores articulares e musculares) é um subgrupo terapêutico da classificação ATC (Anatomical Therapeutic Chemical Classification System), um sistema de códigos alfanuméricos desenvolvido pela Organização Mundial da Saúde (OMS) para classificar medicamentos e outros produtos médicos. O subgrupo M02 faz parte do grupo anatômico M (sistema musculoesquelético).Os códigos para uso veterinário (códigos ATCvet) podem ser criados colocando a letra Q antes do código ATC para uso humano: por exemplo, QM02. Os códigos ATCvet sem os códigos ATC humanos correspondentes são citados com a letra Q inicial nessa lista. 
+
+
+== M02A Produtos tópicos para dores articulares e musculares ==
+
+
+=== M02AA Preparações antiinflamatórias, não esteróides para uso tópico ===
+M02AA01 Fenilbutazona
+M02AA02 Mofebutazona
+M02AA03 Clofezona
+M02AA04 Oxifenbutazona
+M02AA05 Benzidamina
+M02AA06 Etofenamato
+M02AA07 Piroxicam
+M02AA08 Felbinaco
+M02AA09 Bufexamaco
+M02AA10 Cetoprofeno
+M02AA11 Bendazaco
+M02AA12 Naproxeno
+M02AA13 Ibuprofeno
+M02AA14 Fentiazaco
+M02AA15 Diclofenaco
+M02AA16 Feprazona
+M02AA17 Ácido niflúmico
+M02AA18 Ácido meclofenâmico
+M02AA19 Flurbiprofeno
+M02AA21 Tolmetina
+M02AA22 Suxibuzona
+M02AA23 Indometacina
+M02AA24 Nifenazona
+M02AA25 Aceclofenaco
+M02AA26 Nimesulida
+M02AA27 Dexketoprofeno
+M02AA28 Piketoprofeno
+QM02AA99 Preparações antiinflamatórias, não esteróides para uso tópico, associações
+
+
+=== M02AB Capsaicina e agentes semelhantes ===
+M02AB01 Capsaicina
+M02AB02 Zucapsaicina
+
+
+=== M02AC Preparações com derivados de ácido salicílico ===
+QM02AC99 Preparações com derivados de ácido salicílico, associações
+
+
+=== QM02AQ Agentes vesicantes ===
+
+
+=== M02AX Outros produtos tópicos para dores articulares e musculares ===
+M02AX02 Tolazolina
+M02AX03 Dimetilsulfóxido
+M02AX05 Idrocilamida
+M02AX06 Tolperisona
+M02AX10 Vários
+QM02AX53 Dimetilsulfóxido, associações
+
+
+== Ver também ==
+Classificação ATC
+Código ATC M: Sistema musculo-esquelético
+
+
+== Referências ==

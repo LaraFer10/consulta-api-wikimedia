@@ -1,0 +1,34 @@
+As flavinas (do latim flavus, "amarelo") são um conjunto de compostos orgânicos baseado na pteridina, formado pelo anel orgânico heteronuclear tricíclico isoaloxazina. A fonte bioquímica é a vitamina riboflavina. É frequente encontrar um grupo flavina ligado a difosfato de adenosina formando dinucleótido de flavina e adenina (FAD) ou sob a forma de mononucleótido de flavina (FMN), que é uma forma fosforilada da riboflavina. É sob uma destas duas formas que a flavina é encontrada como grupo prostético em flavoproteínas.
+O grupo flavina pode sofrer reacções de oxidação-redução, podendo aceitar ou doar dois electrões, quer em dois passos consecutivos transferindo um electrão, quer num único passo em que existe transferência simultânea dos dois electrões. A redução é feita através da adição de átomos de hidrogénio a posições específicas na estrutura:
+
+Em solução aquosa, as flavinas são amarelas quando oxidadas, tomando uma cor vermelha na forma semi-reduzida aniónica ou azul na forma semi-reduzida neutra (radical semiquinona) e são incolores quando totalmente reduzidas. As formas oxidada e reduzida encontram-se em rápido equilíbrio com a forma radicalar, encontrando-se o equilíbrio deslocado preferencialmente contra a formação do radical:
+Flox + FlredH2 ⇌ FlH•em que Flox é a forma oxidada, FlredH2 a reduzida (tendo aceite dois átomos de hidrogénio) e FlH• a forma semiquinona (radical, um átomo de hidrogénio adicionado).
+Sob a forma totalmente reduzida de FADH2 (FAD reduzido), é um dos cofactores que transferem electrões na cadeia de transporte electrónico.
+
+
+== Fotorredução ==
+As flavinas, tanto na forma livre como ligadas a proteínas, podem sofrer fotorredução, isto é, redução mediada pela luz, por diversos compostos orgânicos, incluindo alguns aminoácidos, ácidos carboxílicos e aminas.
+
+
+== FAD ==
+
+O dinucleótido de flavina e adenina é um grupo utilizado por diversas enzimas, como a ferredoxina-NADP+ oxidorredutase, monoamina oxidase, D-aminoácido oxidase, glicose oxidase, xantina oxidase e acil-CoA desidrogenase.
+O FADH e o FADH2 são formas reduzidas do FAD. O FADH2 é um grupo prostético da succinato desidrogenase, uma enzima do ciclo dos ácidos tricarboxílicos.
+
+
+== FMN ==
+
+O mononucleótido de flavina é um grupo prostético encontrado em proteínas como a NADH desidrogenase.
+
+
+== Uso como corante ==
+A flavina é o composto mais importante presente no corante quercitron, obtido da casca de Quercus velutina.
+
+
+== Ver também ==
+Fosforilação oxidativa
+Pterina
+
+
+== Referências ==
+VOET, D.; VOET, J.G. (2004). Biochemistry (3rd ed.). John Wiley & Sons. ISBN 0-471-39223-5

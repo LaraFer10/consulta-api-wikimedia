@@ -1,0 +1,18 @@
+
+== Definição ==
+A proteína tus (terminus utilization substance) é uma proteína de procariotos que se liga à sequencias de 21 pares de base do DNA bacteriano denominadas sequências terminadoras (Ter).  Esta ligação de alta afinidade em sítios específicos do cromossomo interrompe o avanço da forquilha de replicação que seguem em determinado sentido em relação à orientação do complexo Tus-Ter, mas não no sentido oposto. 
+
+
+== Mecanismo ==
+Quando uma forquilha de replicação avança de encontro à proteína Tus ligada ao sítio Ter no sentido permissivo à replicação do DNA, o complexo Tus-Ter dissocia-se à medida que a forquilha de replicação é desenrolada. No entanto, quando o avanço da forquilha de replicação ocorre no sentido não permissivo, o complexo Tus-Ter oferece uma barreira mecânica que interrompe o avanço da forquilha de replicação. 
+
+
+== Tus na replicação do DNA bacteriano ==
+A replicação do genoma circular da E. coli ocorre a partir de uma única sequência de origem denominada oriC, e avança em dois sentidos opostos a partir deste ponto. Desse modo, duas forquilhas de replicação se movem em direções contrárias e se encontram na região oposta a oriC. O genoma da E. coli possui dez sítios da ligação à proteína Tus, denominados TerA, TerB, Ter C, e assim sucessivamente até TerJ. As proteínas Tus ligadas a estes sítios bloqueiam a forquilha de replicação que avança em um sentido mas não no outro. Desse modo, os complexos Tus-Ter funcionam como válvulas flanqueando uma região na qual as forquilhas de replicação podem entrar mas não sair (Figura), sincronizando a convergência das duas forquilhas de replicação em um ponto de terminação específico. 
+
+
+== Referências ==
+
+
+== Ligações externas ==
+Estrutura na Protein Data Bank

@@ -1,0 +1,33 @@
+HMGA1 (do inglês High mobility group AT-hook 1) é uma proteína que é codificada pelo gene humano HMGA1.Este gene codifica uma proteína não-histónica envolvida em muitos processos celulares, incluindo a regulação de transcrição genética induzível, integração de retrovírus em cromossomas e a progressão de metástases.
+A proteína codificada liga-se preferencialmente ao sulco menor de regiões ricas em A+T, em ADN de fita dupla. Tem pouca estrutura secundária em solução mas assume diferentes conformações quando ligada a substratos como ADN e outras proteínas.
+A proteína codificada é frequentemente acetilada e encontrada no núcleo celular.Ratos que não possuem este gene desenvolvem um fenótipo de diabetes tipo 2.
+
+
+== Leitura adicional ==
+Reeves R, Beckerbauer L (2001). «HMGI/Y proteins: flexible regulators of transcription and chromatin structure.». Biochim. Biophys. Acta. 1519 (1-2): 13–29. PMID 11406267 
+Hui H, Perfetti R (2002). «Pancreas duodenum homeobox-1 regulates pancreas development during embryogenesis and islet cell function in adulthood.». Eur. J. Endocrinol. 146 (2): 129–41. PMID 11834421. doi:10.1530/eje.0.1460129 
+Van Maele B, Debyser Z (2005). «HIV-1 integration: an interplay between HIV-1 integrase, cellular and viral proteins.». AIDS reviews. 7 (1): 26–43. PMID 15875659 
+Van Maele B, Busschots K, Vandekerckhove L;  et al. (2006). «Cellular co-factors of HIV-1 integration.». Trends Biochem. Sci. 31 (2): 98–105. PMID 16403635. doi:10.1016/j.tibs.2005.12.002  !CS1 manut: Uso explícito de et al. (link) !CS1 manut: Nomes múltiplos: lista de autores (link)
+Reeves R, Nissen MS (1990). «The A.T-DNA-binding domain of mammalian high mobility group I chromosomal proteins. A novel peptide motif for recognizing DNA structure.». J. Biol. Chem. 265 (15): 8573–82. PMID 1692833 
+Nissen MS, Langan TA, Reeves R (1991). «Phosphorylation by cdc2 kinase modulates DNA binding activity of high mobility group I nonhistone chromatin protein.». J. Biol. Chem. 266 (30): 19945–52. PMID 1939057  !CS1 manut: Nomes múltiplos: lista de autores (link)
+Eckner R, Birnstiel ML (1989). «Cloning of cDNAs coding for human HMG I and HMG Y proteins: both are capable of binding to the octamer sequence motif.». Nucleic Acids Res. 17 (15): 5947–59. PMID 2505228. doi:10.1093/nar/17.15.5947 
+Johnson KR, Lehn DA, Reeves R (1989). «Alternative processing of mRNAs encoding mammalian chromosomal high-mobility-group proteins HMG-I and HMG-Y.». Mol. Cell. Biol. 9 (5): 2114–23. PMID 2701943  !CS1 manut: Nomes múltiplos: lista de autores (link)
+Palvimo J, Linnala-Kankkunen A (1989). «Identification of sites on chromosomal protein HMG-I phosphorylated by casein kinase II.». FEBS Lett. 257 (1): 101–4. PMID 2806554. doi:10.1016/0014-5793(89)81796-X 
+Karlson JR, Mørk E, Holtlund J;  et al. (1989). «The amino acid sequence of the chromosomal protein HMG-Y, its relation to HMG-I and possible domains for the preferential binding of the proteins to stretches of A-T base pairs.». Biochem. Biophys. Res. Commun. 158 (3): 646–51. PMID 2920035. doi:10.1016/0006-291X(89)92770-8  !CS1 manut: Uso explícito de et al. (link) !CS1 manut: Nomes múltiplos: lista de autores (link)
+Lund T, Dahl KH, Mørk E;  et al. (1987). «The human chromosomal protein HMG I contains two identical palindrome amino acid sequences.». Biochem. Biophys. Res. Commun. 146 (2): 725–30. PMID 3619901. doi:10.1016/0006-291X(87)90589-4  !CS1 manut: Uso explícito de et al. (link) !CS1 manut: Nomes múltiplos: lista de autores (link)
+Leger H, Sock E, Renner K;  et al. (1995). «Functional interaction between the POU domain protein Tst-1/Oct-6 and the high-mobility-group protein HMG-I/Y.». Mol. Cell. Biol. 15 (7): 3738–47. PMID 7791781  !CS1 manut: Uso explícito de et al. (link) !CS1 manut: Nomes múltiplos: lista de autores (link)
+John S, Reeves RB, Lin JX;  et al. (1995). «Regulation of cell-type-specific interleukin-2 receptor alpha-chain gene expression: potential role of physical interactions between Elf-1, HMG-I(Y), and NF-kappa B family proteins.». Mol. Cell. Biol. 15 (3): 1786–96. PMID 7862168  !CS1 manut: Uso explícito de et al. (link) !CS1 manut: Nomes múltiplos: lista de autores (link)
+Friedmann M, Holth LT, Zoghbi HY, Reeves R (1993). «Organization, inducible-expression and chromosome localization of the human HMG-I(Y) nonhistone protein gene.». Nucleic Acids Res. 21 (18): 4259–67. PMID 8414980. doi:10.1093/nar/21.18.4259  !CS1 manut: Nomes múltiplos: lista de autores (link)
+Farnet CM, Bushman FD (1997). «HIV-1 cDNA integration: requirement of HMG I(Y) protein for function of preintegration complexes in vitro.». Cell. 88 (4): 483–92. PMID 9038339. doi:10.1016/S0092-8674(00)81888-7 
+Miller MD, Farnet CM, Bushman FD (1997). «Human immunodeficiency virus type 1 preintegration complexes: studies of organization and composition.». J. Virol. 71 (7): 5382–90. PMID 9188609  !CS1 manut: Nomes múltiplos: lista de autores (link)
+Huth JR, Bewley CA, Nissen MS;  et al. (1997). «The solution structure of an HMG-I(Y)-DNA complex defines a new architectural minor groove binding motif.». Nat. Struct. Biol. 4 (8): 657–65. PMID 9253416. doi:10.1038/nsb0897-657  !CS1 manut: Uso explícito de et al. (link) !CS1 manut: Nomes múltiplos: lista de autores (link)
+Currie RA (1998). «Functional interaction between the DNA binding subunit trimerization domain of NF-Y and the high mobility group protein HMG-I(Y).». J. Biol. Chem. 272 (49): 30880–8. PMID 9388234. doi:10.1074/jbc.272.49.30880 
+Chin MT, Pellacani A, Wang H;  et al. (1998). «Enhancement of serum-response factor-dependent transcription and DNA binding by the architectural transcription factor HMG-I(Y).». J. Biol. Chem. 273 (16): 9755–60. PMID 9545312. doi:10.1074/jbc.273.16.9755  !CS1 manut: Uso explícito de et al. (link) !CS1 manut: Nomes múltiplos: lista de autores (link)
+Chiappetta G, Tallini G, De Biasio MC;  et al. (1998). «Detection of high mobility group I HMGI(Y) protein in the diagnosis of thyroid tumors: HMGI(Y) expression represents a potential diagnostic indicator of carcinoma.». Cancer Res. 58 (18): 4193–8. PMID 9751634  !CS1 manut: Uso explícito de et al. (link) !CS1 manut: Nomes múltiplos: lista de autores (link)
+
+
+== Referências ==
+
+
+== Ligações externas ==
+MeSH HMGA1+protein,+human

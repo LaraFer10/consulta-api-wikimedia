@@ -1,0 +1,5 @@
+Teste de Kleihauer é a pesquisa de hemoglobina fetal no sangue da mãe.
+O resultado deste teste exprime-se em % de eritrócitos fetais (%EF).
+Volume a neutralizar = %EF x 2400
+Volume a administrar = Volume a neutralizar x 300 ug/30mL
+(300 ug neutralizam 30mL <S.J. Hanson, Anya  J. Ballis e Janine E. Althaus - Johns Hopkins> de eritrócitos fetais transfundidos).

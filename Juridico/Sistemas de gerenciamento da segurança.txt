@@ -1,0 +1,93 @@
+Sistemas de gerenciamento da segurança (SGS, do inglês safety management systems - SMS) é uma terminologia usada para se referir a sistemas abrangentes concebidos para gerenciar aspectos de risco de segurança operacional ("safety", sistema de gerenciamento da segurança operacional - SGSO), de segurança contra atos ilícitos ("security", sistema de gerenciamento da segurança contra atos ilícitos), de saúde ("health", sistema de gerenciamento da segurança da saúde), de meio ambiente ("environment", sistema de gerenciamento da segurança do meio ambiente) e em geral da indústria. Certas estruturas regulatórias e de fiscalização são aplicáveis. Um SGS (SMS) é a aplicação da gestão da qualidade de forma específica para a segurança. 
+
+
+== Objetivos dos Sistemas de Gerenciamento da Segurança ==
+Existem 3 imperativos para a adoção de um SMS em um negócio - eles são ética, legislação e finanças
+Há uma obrigação moral colocada em um empregador para garantir que as atividades de trabalho e o local de trabalho sejam seguros, existem requisitos legais que definem em cada jurisdição como esta segurança precisa ser alcançada, e existe um corpo de pesquisa que mostra que gestão da segurança efetiva (que é a redução de riscos no ambiente de trabalho) pode reduzir a exposição financeira (risco) de uma organização, reduzindo direta ou indiretamente, os custos associados à incidentes ou acidentes.
+Para endereçar estes 3 importantes elementos, um SMS efetivo deveria :
+Definir como a organização é preparada para gerenciar risco
+Identificar as possíveis vulnerabilidades
+Planejar ações para amenizar ou eliminar as vulnerabilidades identificadas
+Implementar uma comunicação efetiva em todos os níveis da organização
+Implementar um processo para identificar e corrigir todas as não-conformidades
+Implementar um processo de melhoria contínua
+
+
+== Descrição dos SGS ("SMS") ==
+Os SGS são sistemas de gerenciamento utilizados para gerenciar todos os aspectos de segurança de uma organização, fornecendo uma maneira sistemática de se identificar os perigos e controlar os riscos, e mantendo a garantia de que esses controles de risco sejam efetivos. O SGS tem sido definido como: 
+
+ ... uma abordagem empresarial para a segurança. É um processo sistemático, explícito e abrangente de gerenciamento de riscos de segurança. Assim como todos os sistemas de gerenciamento, um sistema de gerenciamento da segurança provê a fixação de metas, o planejamento e a medição do desempenho. Um sistema de gerenciamento da segurança é tecido nas entranhas de uma organização. Torna-se parte de sua cultura, o modo como as pessoas fazem seu trabalho.
+Cada indústria tem várias razões para adotar os SGS. Por exemplo, a taxa de acidentes na aviação global tem-se mantido relativamente estável por quase 30 anos. Se as previsões de crescimento para o transporte aéreo vierem a se concretizar, mantidos os atuais níveis de segurança, haverá no futuro um grande acidente aéreo a cada semana, e a indústria sofrerá um número crescente de acidentes sérios nos anos que se seguirão. Se o sistema existente já não é capaz de melhorar a segurança dos passageiros, então é lógico desenvolver novos sistemas. 
+Os sistemas de gerenciamento da segurança impulsionam a cooperação inter-funcional na expectativa de melhoria contínua em segurança.
+
+
+== Perspectiva regulatória ==
+
+
+=== Implicações dos SGS ===
+Os SGS se destinam a apoiar um movimento de afastamento da regulação prescritiva (que especifica os critérios que devem ser respeitados) em direção à regulação baseada em desempenho, que descreve os objetivos e permite que cada entidade regulada desenvolva seu próprio sistema para atingir os objetivos. Em outras palavras, a indústria deve desenvolver suas próprias políticas e sistemas para reduzir o risco, os quais devem incluir a implementação de sistemas para relatar e corrigir as deficiências. O regulador modifica então sua ênfase em verificação da conformidade com os regulamentos, passando a examinar os sistemas organizacionais e sua efetividade. 
+Embora os SGS sejam um avanço importante no gerenciamento da segurança, ele são apenas tão bons quanto sejam suas implementações. Os SGS significam que as organizações precisam assegurar que estão cuidando de todos os riscos dentro da organização como um sistema único, ao invés de ter múltiplos e concorrentes "Silos de Gerenciamento da Segurança". Se a segurança não é vista de forma holística, ela pode interferir na priorização das melhorias ou até mesmo desprezar questões de segurança. Por exemplo, após uma explosão, em março de 2005, na Refinaria de Texas City da British Petroleum (BP), a investigação concluiu que a empresa havia colocado ênfase excessiva na segurança pessoal, ignorando portanto a segurança dos seus processos. O antídoto contra tal tipo de "pensamento em silo" ("silo thinking") é a avaliação apropriada de todos os riscos, um aspecto chave de um SGS efetivo.
+
+
+== Implementação ==
+
+
+=== A adoção internacional dos SGS ===
+Diversas organizações internacionais exigem que os países membros adotem os SGS. 
+
+
+==== Viagens aéreas ====
+Como discutido acima, a Organização da Aviação Civil Internacional (OACI) recomendou que todas as autoridades da aviação implementassem estruturas regulatórias de SGS. A OACI forneceu recursos para ajudar nesta implementação, incluindo o Manual de Gerenciamento da Segurança da OACI.
+
+
+==== Navegação marítima ====
+A Organização Marítima Internacional (OMI) é outra organização que adotou os SGS. Todos os navios de passageiros, petroleiros, graneleiros, de transporte de produtos químicos, de gás e embarcações de carga de 500 toneladas brutas ou mais, são obrigados a ter um sistema de gerenciamento da segurança. No preâmbulo do Código Internacional de Gerenciamento da Segurança (CIGS), a OMI afirma: "A pedra angular do bom gerenciamento da segurança é o comprometimento da diretoria executiva. Em matéria de segurança e prevenção da poluição, são o comprometimento, a competência, as atitudes e a motivação dos indivíduos, em todos os níveis, que determinam o resultado final."
+
+
+=== Implementação dos SGS pelos Estados Unidos ===
+Os Estados Unidos introduziram os SGS para os aeroportos por meio de uma Advisory Circular (AC) (circular de recomendações) e outras orientações da Federal Aviation Administration - FAA ("Administração Federal de Aviação - AFA").Os Estados Unidos anunciaram na Conferência Internacional de Segurança EASA/FAA/TC 2008 que eles desenvolveriam os regulamentos para implementar o SGS nas oficinas de manutenção, nas transportadoras aéreas e nos fabricantes. A FAA formou um comitê de regulação para tratar desta implementação (conhecido como SMS ARC). O comitê SMS ARC relatou os seus achados à FAA, em 31 de março de 2010. O relatório reconhece que muitos dos elementos do SGS já existem nos regulamentos dos EUA, mas que alguns elementos ainda não existem. Uma versão preliminar do que poderá parecer a regra SGS dos EUA foi proposta por uma associação comercial que participou do SMS ARC Atualmente, a FAA está apoiando projetos-pilotos voluntários para os SGS.A FAA também requisitou que todos os seus serviços e escritórios adotem em comum, para a Segurança da Aviação (AVS), um Sistema de Gerenciamento da Segurança (AVSSMS). Isso é o que a OACI chama de Programa de Segurança de Estado (PSE, "State Safety Program - SSP"). 
+Uma visão geral da abordagem da FAA para os SGS pode ser encontrada no seu portal.
+
+
+=== Implementação Indiana dos SGS ===
+O Aeroporto Internacional de Bangalore publicou um sistema de gerenciamento da segurança em 2007.
+
+
+=== Implementação Européia dos SGS ===
+O documento da União Europeia (UE) Guidelines on a Major Accident Prevention Policy and Safety Management System ("Orientações sobre a Política de Prevenção de Acidente Grave e o Sistema de Gerenciamento da Segurança") descreve os requisitos para um SGS. A Diretriz destina-se à prevenção de acidentes graves que envolvem substâncias perigosas e a limitação das suas consequências.O Regulamento (CE) n. º 216/2008 do Parlamento Europeu e do Conselho, de 20 de fevereiro de 2008, sobre regras comuns no âmbito da aviação civil e que cria a Agência Europeia para a Segurança da Aviação (European Aviation Safety Agency - EASA), inclui várias referências a sistemas de gerenciamento da segurança. 
+ANEXO I - Requisitos essenciais de aeronavegabilidade - requer, entre outras coisas, que: 
+3. Organizações (incluindo pessoas naturais que realizem actividades de projeto, fabricação ou manutenção) 
+3.a.2. devem implementar e manter um sistema de gerenciamento para garantir a conformidade com esses requisitos essenciais de aeronavegabilidade, e buscar o contínuo aperfeiçoamento desse sistema; 
+3.a.3. devem estabelecer acordos com outras organizações relevantes, na medida do necessário, para garantir a 
+conformidade continuada com os requisitos essenciais de aeronavegabilidade; 
+3.a.4. devem estabelecer um sistema de comunicação e/ou tratamento de ocorrências, que deve ser utilizado pelo sistema de gerenciamento do item 3.a.2 e segundo os acordos do item 3.a.3, de forma a contribuir para o objetivo da melhoria contínua da segurança dos produtos. 
+ANEXO III - Requisitos essenciais para o licenciamento de pilotos - requer que: 
+3.a.1. Uma organização de formação de pilotos deve cumprir os seguintes requisitos: 
+(ii) implementar e manter um sistema de gerenciamento relativo à segurança e ao nível da formação, e buscar o aperfeiçoamento contínuo desse sistema; 
+ANEXO IV - Os requisitos essenciais para as operações aéreas: 
+8.a.4. O operador deve implementar e manter um sistema de gerenciamento para garantir a conformidade com esses requisitos operacionais essenciais e buscar o aperfeiçoamento contínuo desse sistema; 
+8.a.5. O operador deve estabelecer e manter um programa de prevenção de acidentes e de segurança, incluindo um programa de relato de ocorrências, que deve ser utilizado pelo sistema de gerenciamento, a fim de contribuir para o objetivo da melhoria contínua da segurança das operações.
+
+
+=== Implementação dos SGS pelo Reino Unido ===
+A partir de 1 de janeiro de 2009, a autoridade de aviação civil do Reino Unido (Civil Aviation Authority - CAA) tem incentivado todos os: 
+
+titulares de Certificado de Operador Aéreo;
+organizações definidas na Parte-M subparte G, e;
+Organizações de manutenção;a ter um plano de implementação de sistema de gerenciamento da segurança (SGS), mas ainda não iniciou a confecção de nenhum regulamento. 
+Recursos disponibilizados no portal da autoridade de aviação civil do Reino Unido (CAA) incluem o Material de Orientação do CAA para sistemas de gerenciamento da segurança e a Gap Analysis ("Análise de Desvios ou Pendências")/Checklist ("Lista de Verificação") da CAA.
+
+
+== Veja também ==
+Agência Nacional de Aviação Civil
+Aviação Civil
+International Civil Aviation Organization
+Regulação
+Segurança
+
+
+== Referências ==
+
+
+== Ligações externas ==
+Transport Canada´s Aviation SMS Site.(em inglês)

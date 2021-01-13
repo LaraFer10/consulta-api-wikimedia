@@ -1,0 +1,26 @@
+Cariótipo (em grego: κόμβου, lit. "nó" e τύπου, lit. "tipo") é o conjunto cromossómico ou a constante cromossómica diploide (2n) de uma espécie. Representa o número total de cromossomas de uma célula somática (do corpo). 
+Cariótipo é o conjunto de cromossomas dentro de um núcleo de uma célula.
+A representação do cariótipo pode ser um cariograma (imagem dos cromossomas) ou um idiograma (esquema dos cromossomas), e é ele quem fornece as informações substanciais para o estabelecimento das relações entre espécies, com respeito à organização dos cromossomas. Além das colorações ditas como convencionais (Giemsa, Orceína Acética, reativo de Schiff, hematoxilina/eosina, etc.), podem ser aplicadas nos cromossomas metodologias que identificam "bandas". Os bandamentos (C, G, Q, R, Ag-RON) são importantes para a identificação de cromossomas homólogos e homeólogos, e na caracterização de polimorfismos ou de relações de parentesco entre espécies próximas, distinguindo possíveis rearranjos cromossômicos.O cariótipo, para a realização de si mesmo, é necessária a utilização de células brancas (leucócitos) do sangue. 
+O Cariograma é a representação do conjunto de cromossomos presentes numa célula de um indivíduo, ordenados em pares de homólogos. Os cromossomos do par 23 são idênticos na mulher e diferentes no homem e denominam-se cromossomos sexuais. Os outros 22 pares de cromossomos denominam-se autossomas.
+Os cromossomos dentro de uma célula em geral estão misturados, o que dificulta o seu estudo. Os bioquímicos usam uma técnica simples para resolver este problema:tingem os cromossomos com corantes e, então, podem fotografá-los.Na espécie humana existem 46 cromossomos nas células somáticas (2n = 46).
+
+
+== Notação ==
+Existe uma notação padrão para os cariótipos, que consiste em número (representando o número de cromossomas), os cromossomas sexuais, seguido (opcionalmente) de anomalias cromossômicas. Todos campos são separados por vírgulas. No caso de mosaicos, as diversas linhagens são separadas por uma barra.
+Por exemplo:
+
+46, XX e 46, XY são, respectivamente, o cariótipo de uma mulher e de um homem sem anomalia cromossômica
+45, X é de uma mulher com Síndrome de Turner
+47, XXY é de um homem com Síndrome de Klinefelter. Existem casos de indivíduos com cariótipos 48, XXXY ou mesmo 49, XXXXY.
+47, XX, +21 é de uma mulher com Síndrome de Down. Esta pessoa tem um 21 a mais (conforme +21)
+46, XY, -14, +t(14,21) é de um homem com Síndrome de Down causada pela translocação robertsoniana: a pessoa tem 46 cromossomas, sendo que não tem um 14 (conforme -14) e tem um que combina o 14 com o 21 (conforme +t(14,21))
+46, XX, 5p- é de uma mulher com Cri du chat: conforme 5p-, existe a perda de um pedaço do 5.
+47, XX, +18 / 46, XX é de uma mulher com Síndrome de Edwards  mosaico..
+
+
+== Como montar um cariótipo ==
+De uma amostra de sangue são isoladas células mononucleadas, que serão mantidas em condições apropriadas para sua proliferação in vitro. As células proliferantes são então submetidas a tratamento com colchicina, substância que interfere na formação das fibras do fuso. Assim, a divisão celular será paralisada na etapa de metáfase. As células cultivadas são então colocadas em solução hipotônica e lisadas sobre uma lâmina, de modo a serem espalhados os seus cromossomos.
+A lâmina então é submetida a técnicas de bandeamento, baseadas em diferentes afinidades de substâncias químicas pelo DNA. Subsequentemente a lâmina com os cromossomos corados é analisada por microscopia óptica convencional e o conjuntos correspondentes a células metafásicas são fotografados. Os cromossomos serão identificados pelo seu tamanho, posição de seus centrômeros e padrão de bandeamento, para então serem organizados em pares de homólogos em ordem decrescente de tamanho.
+
+
+== Referências ==

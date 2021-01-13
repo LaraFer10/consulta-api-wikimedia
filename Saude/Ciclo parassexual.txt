@@ -1,0 +1,32 @@
+O ciclo parassexual(ou parassexualidade), um processo peculiar que ocorre em fungos e procariontes (bactérias e archeas), se trata de mecanismos não sexuais de transferência de material genético, sem meiose ou sequer desenvolvimento de estruturas sexuais. O processo foi descrito pela primeira vez pelo geneticista italiano Guido Pontecorvo em 1956 enquanto estudava Aspergillus nidulans (também conhecido como Emericella nidulans quando quer-se referir à forma sexual, ou teleomorfa).Um ciclo parassexual é iniciado pela fusão de hifas (anastomose), durante a qual os núcleos e outros componentes citoplasmáticos ocupam a mesma célula (heterocariose e plasmogamia). A fusão dos núcleos diferentes na célula do heterocarionte resulta na formação de núcleo diploide (cariogamia), que é supostamente instável e produz segregantes por recombinação gênica envolvendo crossing-over mitótico e haploidização. O crossing-ovr mitótico pode levar a troca de genes entre cromossomos, enquanto haploidização provavelmente envolve não-disjunções mitóticas que aleatoriamente distribuem cromossomos levando a produção de aneuplóides e, eventualmente, de um descendente haploide. Assim como um ciclo sexual, a parassexualidade dá à espécie a oportunidade de recombinar o genoma e produzir novos [genótipo]s na sua prole, mas, de forma diferente do ciclo sexual, o processo carece de coordenação e é exclusivamente mitótico.
+O ciclo parassexual é semelhante à reprodução sexuada. Em ambos os casos, hifas diferentes (ou suas modificações) podem fusionar(plasmogamia) e seus núcleos ocuparão a mesma célula. Os núcleos diferentes fusionam-se(cariogamia), formando um núcleo diploide(zigoto). Em contraste com o ciclo sexual, o ciclo parassexual envolve recombinação durante mitose seguida por haploidização (mas sem meiose). Os núcleos haploides recombinados encontram-se em células vegetativas que diferem-se geneticamente daquelas do micélio "mãe"
+Tanto a heterocariose quanto o ciclo parassexual são muito importantes para os fungos que carecem de reprodução sexuada. Esses ciclos permitem o surgimento de variação somática na fase vegetativa dos seus ciclos de vida. Isso também é verdadeiro para os fungosc nos quais a fase sexual está presente, apesar de que, nesse caso, variação adicional e significante é provida através da reprodução sexuada
+
+
+== Estágios ==
+
+
+=== Diploidização ===
+Ocasionalmente, dois núcleos haploides se fusionam para formar um núcleo diploide com duas  cópias homólogas de cada cromossomo. O mecanismo é pouco conhecido e parece ser um evento bem raro, mas no momento que um núcleo diploide se forma, ele pode ser muito estável e formar outros núcleos diploides que coexistem com os núcleos normais, haploides. Dessa forma, o heterokaryon consiste em uma mistura dos dois núcleos haploides originais assim como o núcleo de fusão diploide.
+
+
+=== Formação do quiasma mitótico ===
+A formação do quiasma é comum na meiose, com quebra e rejunção dos cromossomos homólogos, fornecendo cromossomos híbridos. Isso pode ocorrer também durante a mitose, mas em uma frequência muito mais baixa, pois os cromossomos não pareiam de forma regular. De qualquer forma, o resultado é o mesmo - recombinação genética
+
+
+=== Haploidização ===
+Ocasionalmente, a não-disjunção dos cromossomos ocorre durante divisões do núcleo diploide, de forma que  um núcleo filho tem um cromossomo a mais (2n+1) e a outra um a menos (2n-1). Tais núcleos com múltiplos incompletos do haploide são chamados aneuploides, não tendo um conjunto de cromossomos nem n nem 2n. Eles tendem a ser instáveis e perder mais cromossomos durante as mitoses seguintes, revertendo eventualmente até n.
+De forma consistente, em E. nidulans (onde normalmente, n=8) já foram encontrados núcleos com 17 (2n+1), 16 (2n), 15 (2n–1), 12, 11, 10, e 9 cromossomos.
+Cada um desses eventos é relativamente raro e eles não constituem um ciclo regular como o ciclo sexual, mas o resultado é semelhante. Assim que um núcleo diploide se foma pela fusão de dois haploides de pais diferentes, os genes parentais podem potencialmente recombinar. Os cromossomos perdidos na reversão de aneuploide para haploide geralmente são uma mistura daqueles dos pais, contribuindo para mais diversidade.
+
+
+== Organismos ==
+O potencial para deflagar um ciclo parassexual em condições laboratoriais já foi demonstrado para diversas espécies de fungos filamentosos,
+incluindo Fusarium monoliforme, Penicillium roqueforti (usado na produção de queijos), Verticillium dahliae, Verticillium alboatrum, Pseudocercosporella herpotrichoides, Ustilago scabiosae, Magnaporthe grisea, Cladosporium fulvum., e o patógeno humano Candida albicans.
+
+
+== Significância ==
+A parassexualidade se tornou uma ferramenta útil para micologistas industriais para a produção de cepas com a combinação desejada de propriedades. A sua significância na natureza é vastamente desconhecida e dependerá da frequência de heterocariose, determinada por barreiras de incompatibilidade citoplasmática.
+
+
+== Referências ==

@@ -1,0 +1,212 @@
+Nitrobenzeno, também conhecido como nitrobenzol ou óleo de mirbano, é um composto orgânico venenoso com um odor de amêndoas e fórmula química C6H5NO2.  Este líquido oleoso insolúvel em água é normalmente produzido como um precursor para a anilina, mas em laboratório, é usado como um solvente e como um agente oxidante moderado.[carece de fontes?]
+
+
+== Usos ==
+Aproximadamente 98% do nitrobenzeno é consumido na produção de anilina. Aplicações mais especializadas incluem química da borracha, pesticidas, corantes, e fármacos.  O nitrobenzeno é também usado em polidores de sapatos e pisos, roupas de couro, solventes para tintas, e outros materiais para mascarar odores desagradáveis.  Reações de substituição com nitrobenzeno são usadas para formar m-derivados (meta-derivados) (Mannsville 1991; Sittig 1991). Redestilado, como óleo de mirbano, nitrobenzeno tem sido usado como um aromatizante barato para sabões e sabonetes.  Um significativo mercado para o nitrobenzeno é seu uso na produção do analgésico paracetamol (também conhecido como acetaminofeno) (Mannsville 1991). O nitrobenzeno é também usado na célula de Kerr, visto ter uma incomum constante de Kerr alta.
+O nitrobenzeno é facilmente convertido em derivados relacionados tais como o azobenzeno, nitrosobenzeno, fenilidroxilamina.
+
+
+== Produção ==
+O nitrobenzeno é preparado por nitração de benzeno. O método clássico envolve o tratamento de benzeno com uma mistura de ácido sulfúrico e ácido nítrico concentrados (chamada de "mistura sulfonítrica") e água. Esta produção é um dos mais perigosos processos da indústria química devido à exotermicidade da reação (ΔH = −117 kJ/mol).
+A capacidade mundial de produção de nitrobenzeno em 1985 era de aproximadamente 1.7×106 toneladas.
+
+
+== Mecanismo da reação ==
+A marcha da reação envolve a formação de um aduto entre o íon nitrônio, ácido de Lewis, NO2+, e o areno. O íon nitrônio é gerado in situ via a reação com ácido nítrico e um agente desidratante ácido, no caso o próprio ácido sulfúrico:
+
+HNO3  +  H+   ⇌  NO2+  +  H2OEm mais detalhes, os passos desta reação:
+1.Ocorre a protonação do ácido nítrico, em reação com o ácido sulfúrico:
+
+  
+    
+      
+        
+          
+            H
+            
+              2
+            
+          
+          S
+          
+            O
+            
+              4
+            
+          
+          +
+          H
+          N
+          
+            O
+            
+              3
+            
+          
+          →
+          H
+          S
+          
+            O
+            
+              4
+            
+            
+              −
+            
+          
+          +
+          
+            H
+            
+              2
+            
+          
+          N
+          
+            O
+            
+              3
+            
+            
+              +
+            
+          
+        
+      
+    
+    {\displaystyle \mathrm {H_{2}SO_{4}+HNO_{3}\rightarrow HSO_{4}^{-}+H_{2}NO_{3}^{+}} }
+  2.Forma-se o cátion nitrônio:
+
+  
+    
+      
+        
+          
+            H
+            
+              2
+            
+          
+          N
+          
+            O
+            
+              3
+            
+            
+              +
+            
+          
+          →
+          
+            H
+            
+              2
+            
+          
+          O
+          +
+          N
+          
+            O
+            
+              2
+            
+            
+              +
+            
+          
+        
+      
+    
+    {\displaystyle \mathrm {H_{2}NO_{3}^{+}\rightarrow H_{2}O+NO_{2}^{+}} }
+  3.O nitrônio atua sobre o anel benzênico, a nitração propriamente dita, com a liberação de um novo íon hidrogênio.
+
+  
+    
+      
+        
+          N
+          
+            O
+            
+              2
+            
+            
+              +
+            
+          
+          +
+          
+            C
+            
+              6
+            
+          
+          
+            H
+            
+              6
+            
+          
+          →
+          
+            C
+            
+              6
+            
+          
+          
+            H
+            
+              5
+            
+          
+          N
+          
+            O
+            
+              2
+            
+          
+          +
+          
+            H
+            
+              +
+            
+          
+        
+      
+    
+    {\displaystyle \mathrm {NO_{2}^{+}+C_{6}H_{6}\rightarrow C_{6}H_{5}NO_{2}+H^{+}} }
+  Este íon hidrogênio é o próton relacionado ao ânion sulfato, resultando novamente em ácido sulfúrico no meio reagente.
+Este conjunto de passos, que é a mais simples das nitrações de aromáticos, é o mecanismo e o processo fundamental de nitração de inúmeros outros aromáticos, como por exemplo, do tolueno para obter-se o nitrotolueno, os dinitrotoluenos e o trinitrotolueno, ou do fenol para obter-se o ácido pícrico.
+
+
+== Características ==
+
+
+=== Características físicas ===
+O nitrobenzeno é, normalmente, um líquido incolor, excetuando-se quando contaminado (por ocasião de sua preparação por nitração em meio líquido, como visto acima, apresenta-se amarelado, como muitos outros aromáticos após a nitração e antes de sua purificação). Tem odor de amêndoas amargas (como o "marzipan"), com uma nota de aroma penetrante facilmente notável, e numa solução aquosa, tal aroma torna-se agradável. É tóxico e inflamável. Nitrobenzeno apresenta um alto índice de refração. Sob condições normais tem uma densidade de 1,20 g/cm 3, funde-se a 5,7 °C e ebule a 210,85 °C; tem ponto de ignição de 88 °C. Nitrobenzeno é solúvel apenas muito levemente em água, mas mistura-se facilmente com álcoois, éter e benzeno, assim como com outros solventes aromáticos. No ácido sulfúrico o nitrobenzeno separa-se primeiramente mal, começando de uma concentração de 80 % entretanto completamente. A solubilidade é um pouco dependente da temperatura.
+
+
+=== Características químicas ===
+O grupo nitro é repulsivo aos ácidos, aos reagentes eletrófilos e inerte à maioria dos agentes oxidantes. Reage entretanto com reagentes de Grignard e as bases fortes. Pelos fortes efeitos -I e -M do grupo nitro é reduzida fortemente a densidade de elétrons do anel aromático, o que faz mais difíceis as substituições eletrófilas aromáticas, mas favorece as nucleófilas.
+
+
+== Referências ==
+
+
+== Ligações externas ==
+Reações dos compostos aromáticos, incluindo a sua nitração
+International Chemical Safety Card 0065
+NIOSH Pocket Guide to Chemical Hazards
+IARC Monograph: "Nitrobenzene"
+US EPA factsheet
+Nitrobenzeno-Guidechem.com
+
+
+== Ver também ==
+Nitrotolueno

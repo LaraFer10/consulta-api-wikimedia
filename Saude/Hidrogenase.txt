@@ -1,0 +1,6 @@
+A hidrogenase é uma enzima que catalisa a oxidação reversível de hidrogénio molecular (H2). As hidrogenases têm um papel vital no metabolismo anaeróbico.A toma de hidrogénio (oxidação de H2) (1) está acoplada à redução de aceitadores de electrões tais como o oxigénio, o nitrato, o sulfato, dióxido de carbono e fumarato, enquanto que a redução protónica (evolução de H2) (2) é  essential na fermentação de piruvato e na disposição de excesso de electrões. Quer compostos de baixo peso molecular como as ferredoxinas, o citocromo c3, e o citocromo c6 podem agir como dadores fisiológicos de electrões (D) ou aceitadores (A) para hidrogenases:
+H2 + Aox → 2H+ + Ared (1)
+2H+ + Dred → H2 + Dox (2)As hidrogenases foram primeiramente descobertas na década de 1930, e desde então foram alvo de interesse para muitos investigadores, incluindo químicos inorgânicos que sintetizaram mímicas de hidrogenases. Compreendendo o mecanismo catalítico das hidrogenases poderá ajudar os cientistas a desenhar fontes limpas de energia, tal como algas, que produzem oxigénio.[1].
+
+
+== Referências ==

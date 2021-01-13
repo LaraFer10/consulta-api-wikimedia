@@ -1,0 +1,30 @@
+Transdutores ultrassônicos são dispositivos que transformam um tipo de energia em ondas de ultrassom (transmissor) ou o recíproco (receptor).
+A propagação de ultrassom num dado meio pode fornecer várias informações sobre este, de forma não destrutiva, e sem requerer preparação de amostras como usualmente na utilização ondas eletromagnéticas. Assim, propriedades mecânicas, microestruturas, imagens e microscopias podem ser obtidas com a utilização de ultrassom, de forma portátil e com grande custo benefício.
+
+
+== Aspectos históricos ==
+Até meados da década de 1920, ondas de ultrassom nunca haviam sido utilizadas. Nesta década, o primeiro transdutor de ultrassom foi desenvolvido, por Langevin, e sua aplicação foi imediata em transmissores sonoros subaquáticos. O transmissor de Langevin, como foi chamado, consistia essencialmente de cristais de quartzo conectados e acoplados à eletrodos que forneciam potenciais elétricos alternados, gerando o fenômeno piezoelétrico e emitindo ondas de ultrassom.
+Em 1933 desenvolveu-se transdutores de ultrassom magnetostritivos, constituídos de folhas de níquel e baseados no fenômeno de expansão e estricção do material ferromagnético em função da variação da intensidade do campo magnético. Rapidamente estes transdutores magnetostritivos substituíram os baseados em cristais de quartzo.
+Já em 1947, o efeito eletroestritivo possibilitou a construção de transdutores baseados em materiais cerâmicos. A diferença para os transdutores de cristais de quartzo é que esses necessitam de uma polarização elétrica estática. Deu-se início ao desenvolvimento de diversas resinas utilizadas em transdutores de ultrassom.
+Outros transdutores magnetostritivos foram desenvolvidos, juntamente com cerâmicas e alguns cristais com melhores fatores de qualidade, acoplamento eletromecânico, e outras propriedades que melhoraram constantemente estes dispositivos.Recentemente, foram desenvolvidos transdutores em chips de semicondutores, em escala muito reduzida. Estes transdutores receberam o nome de microeletromecânicos (MEMS).
+
+
+== Características básicas ==
+Existem vários tipos de transdutores de ultrassom, dentre eles o piezoelétrico, magnetostritivo, capacitivo e eletromagnético. O mais utilizado e de maior praticidade é o transdutor piezoelétrico, devido a ampla faixa de frequências de operação, e possibilidade de operar em até dezenas de MHz de frequência.
+Um material piezoelétrico é aquele que quando aplicado uma força mecânica resulta na geração de uma força eletromotriz, e o contrário é verdadeiro, quando um sinal elétrico é aplicado sob este material, ele sofrerá deformações mecânicas. Exemplos de materiais piezoelétricos utilizados na fabricação de transdutores são cristais de quartzo e vários tipos de cerâmicas.
+
+
+=== Aspectos fundamentais na determinação do material piezoelétrico ===
+Alguns aspectos são de fundamental importância na determinação do material piezoelétrico a ser utilizado num transdutor:
+
+Fator de Qualidade Mecânica: indica as propriedades ressonantes e de amortecimento do material.Temperatura de Curie: temperatura na qual o efeito piezoelétrico deixa de existir em um material, devido a perda da polarização remanescente.Impedância acústica: resistência a passagem de som em um material, devido à dependência do movimento dos átomos e moléculas do meio para transmissão acústica, e estes estarem ligados uns aos outros por ligações elásticas. Esta impedância é dada pelo produto da densidade do meio e a velocidade neste.Parâmetros piezoelétricos: acoplamento eletromecânico, que indica a eficiência na transformação de energia em um transdutor; constante de transmissão e recepção, indica a mudança dimensional em relação ao sinal elétrico aplicado ou recebido.
+
+
+== Aplicações ==
+Transdutores ultrassônicos são amplamente utilizados em vários ramos da pesquisa científica, na indústria, medicina e comunicações.
+As aplicações normalmente são classificadas em duas categorias, dependendo ou não do uso dos efeitos de cavitação ultrassônica.
+Exemplos de aplicações na indústria e ciência que se baseiam na cavitação ultrassônica em meios líquidos podem ser: desgaseificação, emulsificação, oxidação, depolimerização de grandes polímeros, homogenização, dispersão, aglomeração de partículas entre outros. A partir disto várias aplicações industriais foram desenvolvidas. Outras aplicações industriais são soldas via ultrassom, formação de ligas metálicas.
+Na biologia e medicina, o ultrassom tem destaque na obtenção de imagens através do espalhamento de ultrassom nas diversas partes internas do corpo humano. Também podem ser utilizados sinais de alta intensidade para aquecer determinadas regiões, método utilizado no tratamento de algumas doenças.
+
+
+== Referências ==

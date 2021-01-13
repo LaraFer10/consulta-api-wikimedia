@@ -1,0 +1,2 @@
+A estrutura primária é dada pela sequência de aminoácidos ao longo da cadeia polipeptídica. É o nível estrutural mais simples e mais importante, pois dele deriva todo o arranjo espacial da molécula. São específicas para cada proteína, sendo geralmente determinados geneticamente.
+A estrutura primária da proteína resulta em uma longa cadeia de aminoácidos semelhante a um "colar de contas", com uma extremidade "amino terminal" e uma extremidade "carboxi terminal". Sua estrutura é somente a seqüência dos aminoácidos, sem se preocupar com a orientação espacial da molécula.

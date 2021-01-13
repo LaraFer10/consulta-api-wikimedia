@@ -1,0 +1,18 @@
+Vírus ssRNA-RT (do inglês, Single - stranded RNA reverse-transcribing viruses) são vírus que possuem genoma constituído por RNA fita simples senso positivo e que replicam o material genético gerando moléculas de DNA dupla fita (dsDNA) intermediárias. Neste processo é empregada a enzima denominada Transcriptase Reversa (RT). No Sistema de Classificação de Baltimore, tais vírus pertencem ao grupo VI, que compreende 3 famílias virais.
+
+
+== Características gerais ==
+Os vírus ssRNA-RT possuem genoma linear, com tamanho variando de 4,9 a 11 Kb. Dentro deste grupo, os vírus da família Retroviridae possuem morfologia mais bem caracterizada. Os retovírus apresentam partículas virais esféricas e envelopadas, com 80 a 100 ηm de diâmetro. O nucleocapsídeos possuem forma aproximadamente esférica (gêneros Betaretrovirus, Alpharetrovirus, Gammaretrovirus, Deltaretrovirus, Spumavirus) ou cônica (gênero Lentivirus). Já as famílias Metaviridae e Pseudoviridae são descritas como retrotransposons e possuem partículas virais de morfologia pouco conhecida, as quais são primariamente ou exclusivamente intracelulares. Os vírus ssRNA-RT levam a denominação "RT" em função de codificarem a enzima transcriptase reversa: uma DNA polimerase RNA-dependente. Além desta enzima, todos os vírus deste grupo possuem forma proviral com regiões LTR e sequências para protease, RNase H, e integrase: proteínas fundamentais para o processo de multiplicação. ORFs análogas a Gag, Pol e Env estão presentes na maioria destes vírus.
+
+
+== Classificação taxonômica dos vírus ssRNA-RT ==
+Abaixo estão listadas as famílias que compõem o grupo VI:
+
+
+=== Famílias sem ordem atribuída ===
+Retroviridae
+Metaviridae
+Pseudoviridae
+
+
+== Referências ==

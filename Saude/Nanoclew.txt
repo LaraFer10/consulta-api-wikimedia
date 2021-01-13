@@ -1,0 +1,11 @@
+Nanoclew é um veículo em nanoescala composto de ADN para entregar o gene complexo de edição CRISPR/Cas9 em células tanto in vitro como in vivo.
+
+
+== Mecanismo ==
+Os nanoclews são feitos de um único fio, enrolados com firmeza, de ADN. O ADN é projetado para complementar parcialmente o RNA CRISPR relevante que ele vai transportar, assim permitindo que o CRISPR-Cas9 complexo possa juntar-se folgadamente ao nanoclew. Quando o nanoclew entra em contato com uma célula, a célula absorve o nanoclew completamente através de mecanismos típicas de endocitose. Os nanoclews são revestidos com um polímero carregado positivamente, de modo a quebrar a membrana endossomal e libertar o nanoclew no interior da célula. Os CRISPR-Cas9 complexos libertam-se da estrutura do nanoclew para abrir caminho para o núcleo. Uma vez que o CRISPR-Cas9 complexo atinge o núcleo então o gene de edição pode começar a atuar.
+
+
+== Notas ==
+
+
+== Referências ==

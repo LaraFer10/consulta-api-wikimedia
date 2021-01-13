@@ -1,0 +1,33 @@
+O canal de potássio dependente de voltagem, subfamília A, membro 1, também conhecido como Kv1.1 é um canal de potássio dependente de voltagem relacionado a Shaker que nos humanos é codificado pelo gene KCNA1.A síndrome de Isaacs é resultado de uma reacção autoimune contra o canal iónico Kv1.1.
+
+
+== Genómica ==
+O gene está localizado na fita Watson (positiva) do braço pequeno do cromossoma 12 (12p13.32). O gene tem 8348 bases de comprimento e codifica uma proteína com 495 aminoácidos (peso molecular de 56.466 kiloDaltons).
+
+
+== Nomes alternativos ==
+O nome recomendado para esta proteína é canal de potássio dependente de voltagem, subfamília A, membro 1, mas um número de alternativas têm sido usadas na literatura incluindo HuK1 (canal K+ I humano), RBK1 (canal rubídio potássio 1), MBK (canal do cérebro de rato K+), canal de potássio dependente de voltagem HBK1, canal de potássio dependente de voltagem, subunidade Kv1.1, canal dependente de voltagem K+ HuKI e AEMK (associada com mioquimia com ataxia periódica).
+
+
+== Estrutura ==
+Julga-se que a proteína tenha 6 domínios (S1-S6) com uma volta entre S5 e S6 formando o poro do canal. Esta região também tem um motivo de filtro de selectividade conservado. O canal funcional é um homotetrâmero. O lado N-terminal da proteína associa-se com subunidades beta. Estas subunidades regulam a inactivação do canal assim como a sua expressão. O lado C-terminal está associado com um proteína com domínio PDZ.
+
+
+== Função ==
+A proteína funciona como um canal selectivo de potássio através do qual o ião de potássio pode passar em consenso com o gradiente electroquímico. Desempenham um papel na repolarização da membrana.
+
+
+== Ver também ==
+GABRA3
+
+
+== Referências ==
+
+
+== Leitura adiconal ==
+
+
+== Ligações externas ==
+GeneReviews/NCBI/NIH/UW entry on Episodic Ataxia Type 1,Episodic Ataxia with Myokymia, Hereditary Cerebellar Ataxia with Neuromyotonia
+MeSH Kv1.1+Potassium+Channel
+MeSH KCNA1+protein,+human

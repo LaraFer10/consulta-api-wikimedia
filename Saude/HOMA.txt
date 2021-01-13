@@ -1,0 +1,75 @@
+HOMA (em sigla originária da inglês para a expressão Homeostatic Model Assessment, equivalente em português a Modelo de Avaliação da Homeostase) é um método utilizado para quantificar a resistência à insulina e a função das células beta do pâncreas. O conceito foi estabelecido por Robert Turner e Rury Holman (1976); em 1979 foi publicado um modelo baseado nestas hipóteses. Matthews et al  (1985) posteriormente publicaram um modelo expandido e mais completo que foi denominado HOMA. Em 1998, Jonathan Levy et al publicaram um modelo atualizado do HOMA, designado HOMA2.
+
+
+== Derivação das equações ==
+Os autores do HOMA utilizaram dados oriundos de estudos fisiológicos para desenvolver equações matemáticas de correlação, capazes de descrever a regulação da glicemia como um ciclo de feedback
+
+
+== Construção do modelo ==
+O modelo HOMA foi originalmente desenvolvido como um caso especial de um modelo mais genérico denominado HOMA-CIGMA
+
+
+=== HOMA1: as equações ===
+No modelo "HOMA1", a equação aproximada para a resistência à insulina utilizava uma amostra de sangue com o paciente em jejum (derivada com as premissas de indivíduos normais antes de 35 anos, peso normal, tendo 100% função das células β uma resistência à insulina unitária) é:Nessa equação, a glicemia é dada em milimoles por litro (mmol/l) e a insulinemia, em microunidades por mililitro (μU/ml); deve-se utilizar o valor da constante igual a 405 em lugar de 22,5, no caso de a glicemia ser apresentada em miligramas por decilitro (mg/dl). 
+
+Para a atividade de células beta do pâncreas, a equação proposta é:Nessa equação, a insulinemia é dada em microunidades por litro (μU/l) e a glicemia, em milimoles por litro (mmol/l); o valor da glicemia deve ser dividido por 18 quando se utiliza a unidade miligrama por decilitro (mg/dl).
+Os autores testaram o HOMA extensivamente contra outras medidas de resistência à insulina (ou sua recíproca, sensibilidade à insulina) e função das células beta. Este modelo apresentava uma boa correlação com as estimativas realizadas utilizando-se o método do clamp euglicêmico (r = 0.88). Entretanto, já nesta versão os autores recomendavam o uso do software (disponível gratiutamente para uso educativo) de preferência ao cálculo através das fórmulas.
+
+
+=== HOMA2: o diferencial ===
+No modelo "HOMA2", considera-se melhor a captação hepática e periférica de glicose e permite utilizar níveis tanto de dosagens insulina específica como do Peptídio C para os cálculos, em alternativa à dosagem da insulina total (RIA). Caso sejam possíveis a dosagem tanto do Peptídio C como da insulina, recomenda-se o uso do Peptídio C (marcador de secreção) para calcular a função secretora das células beta e da insulinemia, com o fim de obter a sensibilidade à insulina. Entretanto, na prática, a insulinemia e a glicemia têm sido utilizadas para obtenção de ambos os resultados, uma vez que a dosagem do Peptídio C incrementa o custo do procedimento.
+
+
+== Características do modelo ==
+As curvas do HOMA são classificadas como modelos paradigmáticos - opondo-se ao modelo mínimo, e ao de outros testes como o clamp euglicêmico, clamp hiperglicêmico, Continuous Infusion of Glucose with Model Assessment (CIGMA --- Infusão contínua de glicose com avaliação de modelo) e Insulin Sensitivity Index (ISI --- Índice de Sensibilidade à insulina) --- os quais se baseiam na medida dinâmica das respostas insulínica e/ou glicêmica após estímulo. Estes últimos utilizam dados individuais e dinâmicos, através de equações ajustáveis a curvas, e determinando uma solução matemática ótima (vale dizer, é necessária computação individualizada para cada conjunto de dados). São teoricamente mais sensíveis, contudo são também mais invasivos e trabalhosos. Já o modelo paradigmático utilizado pelo estudo do HOMA  é baseado na computação de  uma estrutura fisiológica, ajustada às normas da população; medem basicamente a sensibilidade hepática à insulina, estimam a sensibilidade periférica em função da mesma e inferem as medidas dos níveis de resistência à insulina e atividade ds células beta a partir do ajuste dos dados individuais ao modelo produzido pela análise populacional. Isto quer dizer que dados individuais podem ser utilizados para produzir estimativas de função das células beta e da sensibilidade à insulina em condições estáticas, sem o uso de computação adicional.
+Dessa maneira, o modelo HOMA é derivado da avaliação matemática da interação entre a função de células beta e resistência à insulina em um modelo idealizado (inserido nas fórmulas ou no software), o qual é utilizado para se computar as concentrações estáticas de insulina e glicose. Os dados de saída são calibrados de maneira a fornecer a função de células beta normal de 100% e uma resistência à insulina normal de 1. Uma vez calculada esta inter-relação, torna-se possível estimar a função de células beta e resistência periférica a partir de qualquer par de valores de glicose e insulina  plasmática, sem que seja necessário realimentar os dados. Este estudo é de realização mais simples e barata, principalmente quando se trata de estudos coletivos.
+
+
+== Calculadora de HOMA ==
+Desde 2004, a Universidade de Oxford disponibiliza ao público, para uso não comercial, um programa (software) capaz de calcular o HOMA, designado HOMA Calculator. Essa "calculadora" é de instalação simples e tem como entradas os resultados de:
+
+Glicose plasmática: 3,5 a 25,0 mmol/l ou 54 a 450 mg/dl;
+Insulilna plasmática: 20 a 400 pmol/l;
+Insulina específica plasmática: 20 a 300 pmol/l;
+C-peptídio plasmático: 0,2 a 3,5;A calculadora informatizada oferece os resultados de:
+
+%B - estimativa da função de células Beta do pâncreas;
+%S = IR - estimativa da sensibilidade (resistência) à Insulina.Tais estimativas são calculadas como percentagem de uma população normal de referência e uma IR normal de 1.  Estes valores correlacionam bem com as estimativas derivadas de modelos estimulatórios como o de resistência hiperinsulinêmico, resistência hiperglicêmico, teste de tolerância intravenosa à insulina, e teste oral de tolerância à glicose. 
+Os autores recomendam que apenas valores realísticos (de acordo com o expresso acima) ordinariamente observados em situações clínicas sejam utilizados. Fora destes limites, os resultados devem ser tratados com cautela, uma vez que não refletem uma condição clínica estável.
+
+
+== Bases fisiológicas ==
+Foram considerados dados como a produção basal de glicose, o nível glicêmico, a meia-vida de decaimento da insulina. A relação entre glicemia e insulinemia no estado basal reflete o balanço entre o débito hepático de glicose e a secreção insulínica, o qual é mantido por um mecanismo de realimentação (feedback) entre o fígado e as células beta. As predições utilizadas neste modelo derivam de dados experimentais realizados em humanos e animais. 
+Dados oriundos de determinações experimentais realizadas em 30 pacientes com Diabetes Tipo 2 tratado com dieta mostram uma correlação quase perfeita entre os dados de %B e %S oriundos do HOMA2 computados a partir da média de três amostras basais, coletadas a intervalos de cinco minutos, e da realização de uma amostra basal única (r= 0,99, p<0.0001). Entretanto, o uso de uma amostra única resultou em uma variação intra-individual (CV) de 10,3% para a %S e 37,5% para a %B --- comparado com 5,8% e 4,4% quando se utilizam três amostras. Assim, a coleta de três amostras, intervaladas de 5 minutos, é preferível à coleta de apenas uma amostra.  Isto se explica porque a secreção de insulina se dá em um padrão pulsátil e não contínuo. 
+
+
+=== Validação e uso ===
+O HOMA foi comparado com diversos métodos validados utilizados para se mensurar a resistência à insulina e a função de células beta --- incluindo o clamp  euglicêmico e o clamp  hiperglicêmico (considerados golden standards) e o modelo mínimo. Tem sido utilizado para avaliar mudanças longitudinais na função das células beta do pâncreas e na resistência à insulina em pacientes com Diabetes, de maneira a se examinar a história natural do Diabetes e avaliar efeitos da terapêutica, bem como em estudos epidemiológicos. Em estudos na população normal, tem sido utilizado para efetuar comparações com a função de células beta e sensibilidade à insulina em pacientes normais e naqueles com tolerância anormal à glicose, bem como na coleta de dados relativos a pacientes que posteriormente desenvolvem intolerância à glicose. Ao utilizar o modelo para estudos individuais, recomenda-se o uso de amostras de insulinemia em triplicata. Nestes casos, pode ser utilizado para detectar mudanças longitudinais na função de células beta e na resistência à insulina, bem como para determinar se existe um predomínio da redução da sensibilidade à insulina ou da insuficiência de células beta.
+
+
+==== Precauções e usos indevidos ====
+O uso do HOMA em estudos que visam realizar comparações inter-culturais, requer cuidados especiais. Nessas circunstâncias, é necessário primeiro determinar a %S de base em cada grupo comparativo, de maneira a se determinar se a diferença em sensibilidade à insulina representa apenas uma diferença na linha de base.
+Em pacientes sob uso de insulina, sua utilização para determinação da sensibilidade à insulina deve ser realizada apenas em situações clínicas em que a glicose e a concentração de insulina se encontram em uma condição estável. Nestes pacientes, o estudo necessita de validação adicional, em função das particularidades da administração da insulina exógena, e os resultados devem ser interpretados com cautela. Para determinação de atividade de células beta, o método não foi validado.
+Em pacientes sob uso de estimulantes de secreção insulínica, deve ser interpretado com cautela: o aumento da função de células beta observado no primeiro ano de uso, por exemplo, reflete apenas o mecanismo secretagogo do medicamento, observando-se que há um declínio subsequente, o que demonstra que o tratamento em si não resulta melhora da insuficiência de células beta..
+Seu uso para determinação apenas na avaliação isolada de função de células beta (sem considerar os valores concomitantes de sensibilidade à insulina) pode levar a erros de avaliação, sendo considerado inapropriado.
+Para a classificação individual dos resultados de pacientes, observa-se uma dificuldade no estabelecimento de um ponto de corte dos valores, que sofre a influência de dois fatores básicos: as diferenças populacionais e as dificuldades de padronização das condições de realização das medidas de insulina e glicose.
+Outra dificuldade é representada pelo grau de especificidade analítica do ensaio para a medida da insulilnemia, sendo recomendados os ensaios mais específicos.
+
+
+== Notas e referências ==
+
+
+=== Notas ===
+
+
+=== Referências ===
+
+
+== Ver também ==
+Diabetes mellitus
+
+
+== Ligações externas ==
+Diabetes Trials Unit, The Oxford Centre for Diabetes, Endocrinology & Metabolism - HOMA Calculator (en)
+Tratamento e Acompanhamento do Diabetes Mellitus - Diretrizes da Sociedade Brasileira de Diabetes
+Resistência à Insulina em Portadores de Diabetes Tipo 1

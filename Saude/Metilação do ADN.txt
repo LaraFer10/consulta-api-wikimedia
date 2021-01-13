@@ -1,0 +1,121 @@
+A metilação do DNA é um tipo de modificação química do ADN que pode ser herdada e subsequentemente removida, sem alterar a sequência original da molécula. Como tal, é interpretada pelo código epigenético e é também o mecanismo epigenético mais bem caracterizado.
+A metilação envolve a adição de um grupo metil ao ADN; por exemplo, ao carbono número 5 da anel de pirimidina da citosina; neste caso, em eucariotos, com o efeito específico de atenuar a expressão gênica pela inibição da transcrição. A metilação do ADN na posição 5 da citosina foi encontrada em todos os vertebrados examinados. Nos tecidos somáticos do adulto, a metilação do ADND tipicamente ocorre num contexto de um dinucleotídeo CpG; a metilação não-CpG é prevalente em células-tronco embrionárias. A adição de um grupo metila ao ADN também desempenha papeis no imprinting genômico, e um desequilíbrio no padrão de metilação de um indivíduo está relacionado ao desenvolvimento de neoplasmas.
+Em plantas, as citosinas são metiladas simetricamente (CpG ou CpNpG) ou assimetricamente (CpNpNp), onde N pode ser qualquer nucleotídeo que não seja guanina. As bactérias E. coli tem seu sistema de metilação do ADN bem caracterizado, e são conhecidas duas funções para essas modificações. São a base do sistema de modificação-restrição, sinalizando pareamentos incorretos de bases durante a replicação do ADN. Com seu ADN metilado, enzimas de restrição de E. coli são capazes de distinguir o próprio ADN de um ácido nucleico exógeno, clivando então apenas o material invasor. A modificação é promovida pela Dam (ADN adenina metilase) nas sequências (5')GATC(3'), após a replicação, permitindo que por um espaço de tempo, eventuais pareamentos incorretos de nucleotídeos sejam detectados e corrigidos.
+
+
+== Bases moleculares da metilação do ADN ==
+
+Em células de vertebrados, a metilação de citosinas existe como um mecanismo pelo qual padrões de expressão gênica podem ser transmitidos para células-filha. A metilação de uma citosina não afeta o pareamento do nucleotídeo no duplex, e é análogo à relação entre timinas e uracilas.A transformação de citosina à 5-metilcitosina se dá por enzimas denominadas ADN metiltransferases - metilases, simplificadamente -, que podem promover a manutenção do padrão de metilação, garantindo sua herdabilidade após a replicação, ou introduzir metilações de novo durante o desenvolvimento embrionário.De modo geral, a metilação do ADN está associada à mecanismos de silenciamento genético. A existência de uma 5-metilcitosina ocupando a cavidade maior da dupla fita dificulta o acesso dos fatores de transcrição gerais, ou fatores regulatórios que dariam início à expressão do gene, reprimindo a síntese do mRNA correspondente. Soma-se a isso a existência de proteínas remodeladoras da cromatina que reconhecem as ilhas CpG metiladas no ADN e promovem alterações químicas nas histonas, induzindo a configuração de heterocromatina, silenciando um gene por modificações conformacionais do conjunto de  nucleossomos.
+
+
+=== ADN metiltransferases ===
+
+
+==== Metilases de manutenção ====
+A metiltransferase responsável pela manutenção do estado de metilação do ADN em humanos é a Dnmt1, que atua constitutivamente sobre a dupla fita hemimetilada, após a replicação. A Dnmt1 reconhece as regiões onde os dinucleotídeos CpG estão metilados na fita parental, e promove a metilação do carbono 5 da citosina na fita recém incorporada (pareada com G do CpG molde), garantindo assim a conservação do estado de metilação após a replicação, o que pode por exemplo, assegurar a manutenção das características de uma célula diferenciada.
+
+
+==== Metilases de novo ====
+As ADN metiltransferases de novo tem como substrato as sequências não metiladas na dupla fita, e inserem um grupo metil na posição 5 das citosinas de uma das fitas. Em camundongos, foram identificadas duas metilases de novo: Dnmt3A  e Dnmt3B, sendo que cada uma possui sítios alvos diferentes.Após a metilação de novo da citosina dos dinucleotídeos CpG, metilases de manutenção atuam sobre o duplex hemimetilado, concluindo o processo.
+As metilases de novo são particularmente relevantes durante o desenvolvimento embrionário, uma vez que logo após a fertilização ocorre uma desmetilação sistemática no genoma induzida pela atenuação da expressão de Dnmt1, inviabilizando a metilação de manutenção, em conjunto da ação de ADN desmetilases. O estado de metilação das ilhas CpG de um indivíduo é estabelecido pela Dnmt3A e Dnmt3B nas fases seguintes do desenvolvimento, e então propagado pela Dnmt1.
+
+
+=== Ilhas CpG ===
+
+A organização das ilhas CpG em mamíferos é devida ao funcionamento das enzimas de reparo de ADN e seus reflexos ao longo do tempo evolutivo. As 5-metilcitosinas tendem a ser excluídas do genoma pois, diferentemente das citosinas, quando sofrem uma desaminação não geram um componente estranho à molécula de ADN, e a mutação é transmitida pela replicação.O produto da desaminação de uma citosina é uma uracila, e por não compor a molécula de ADN normalmente, é reconhecida pela uracila ADN glicosilase, que a remove, e então uma nova citosina é inserida, concluindo o reparo da mutação. No entanto, quando uma 5-metilcitosina é desaminada, o produto da transformação é uma timina, gerando uma mutação indistinguível de algum outro resíduo do mesmo nucleotídeo. Durante a replicação, a T mutante será pareada com uma adenina, substituindo o antigo par C-G por um par T-A.Durante o curso evolutivo, estima-se que três de cada quatro CpGs tenham se perdido, deixando os vertebrados com uma deficiência notável nessas sequências. Os dinucleotídeos remanescentes estão em ilhas CpG, em geral localizadas em regiões relacionadas à promotores de genes. Em humanos, 60% das regiões promotoras estão circundadas por ilhas CpG, sendo que todos os genes constitutivos se encontram nesse quadro, devido à menor taxa de mutação quando comparada com a de CpGs contendo uma 5-metilcitosina.O estado não metilado é mantido por proteínas que reconhecem sequências específicas para associação ao ADN, onde para muitas delas, dinADN desmetilases, convertendo as 5-metilcitosinas em hidroximetil-citosinas, que posteriormente são substituídas por C.
+
+As ilhas CG não-metiladas contribuem para a ativação da transcrição, sendo recrutadoras de proteínas que promovem modificações químicas nas histonas induzindo a conformação de eucromatina.
+
+
+=== Acoplamento entre metilação das histonas e do ADN ===
+Para loci silenciados, na conformação de heterocromatina, a metilação dos resíduos K9 das histonas H3 é diretamente relacionada à metilação dos dubletes CpG. Quando H3K9 se encontra metilada, sua afinidade por HP1 (Proteína 1 de Heterocromatina) é impulsionada, direcionando a associação da proteína remodeladora da cromatina à estrutura a ser silenciada. Na etapa seguinte, metilases do ADN (ADN Metiltransferases, DNMTs) são recrutadas e a expressão do gene é ainda mais atenuada.
+A metilação de H3K9 e do ADN são processos sinérgicos que culminam no silenciamento gênico, onde um resíduo de aminoácido metilado sinaliza para a atividade de DNMTs, e dinucleotídeos CG metilados promovem a atividade de histonas deacetilases e metilases. O sistema de silenciamento gênico por metilação é altamente conservado em fungos, plantas e células animais, modulando a taxa de transcrição de genes processados pelas RNA polimerases I e II, e mantendo a heterocromatinas constitucionais do genoma.
+
+
+== Métodos de análise ==
+Os primeiros métodos para detectar metilação do ADN forneciam informações pouco específicas, como nível total de metilação no genoma, ou a proporção entre citosinas metiladas e não metiladas em determinados sítios de restrição. O surgimento de novas tecnologias de sequenciamento possibilitou a análise de padrões de metilação no genoma total de organismos com resolução de pares de bases individuais. As técnicas são diversas e existem numerosos protocolos disponíveis, cada um com vantagens e limitações; a escolha apropriada depende das particularidades do genoma a ser analisado e do objetivo final. Os protocolos, em geral, requerem um pré-tratamento que permita distinção entre citosinas metiladas e não metiladas. Os principais são digestão por endonucleases, conversão por bissulfito e métodos baseados em enriquecimento por afinidade. A seguir serão brevemente descritos os pré-tratamentos e métodos de sequenciamento e hibridização.
+
+
+=== Digestão por endonucleases ===
+As endonucleases de restrição, ou enzimas de restrição, clivam o DNA em sítios específicos, e algumas delas são inibidas por metilação da citosina em regiões CpG. Os cortes resultantes, portanto, fornecem informações sobre os padrões de metilação. A análise pode ser feita através de amplificação por PCR e eletroforese em gel, ou hibridização em Southern Blot .
+
+
+=== Conversão por Bissulfito ===
+O bissulfito de sódio converte citosinas não metiladas de dinucleotídeos CpG em uracila, enquanto as citosinas metiladas permanecem inalteradas. Algumas técnicas que podem ser utilizadas para detecção de metilação após o tratamento com bissulfito são clonagem e sequenciamento, sequenciamento direto e espectrometria de massas.
+
+
+=== Enriquecimento por afinidade ===
+MeDIP (Imunoprecipitação de DNA metilado) e MIRA (Ensaio de recuperação de ilhas CpG metiladas) são técnicas baseadas em imunoprecipitação. MeDIP consiste na utilização de anticorpos específicos para citosinas metiladas, que ligam apenas em DNA de fita simples. O DNA é, então, hibridizado em microarranjos de DNA (DNA microarray). MIRA utiliza o complexo proteico MBD2b/MBD3L1, que tem alta afinidade por trechos CpG metilados em DNA de dupla fita.
+
+
+=== Análise de metilação global ===
+
+
+==== Cromatografia líquida ====
+Hidrólise do DNA, desoxirribonucleosídeos separados por HPLC, identificação de bases por absorbância. Maior especificidade pode ser alcançada acoplando HPLC com espectrômetro de massas.
+
+
+==== Cromatografia em camada delgada ====
+Enzima de restrição cliva sítios CCGG, independentemente de metilação. Marcação do fosfato 5’ da citosina, hidrólise do DNA em mononucleotídeos, separação em camada delgada de celulose. Citosinas metiladas e não metiladas têm diferentes fatores de retenção e, portanto, estarão em pontos diferentes. A intensidade relativa dos pontos (revelada pela marcação do fosfato) revela a proporção entre sítios metilados e não metilados no genoma.  
+
+
+==== SssI metil-transferase ====
+A enzima adiciona um grupo metil radioativo em todos os trechos CpG não metilados no genoma. Quanto mais radioativa a amostra, menos sítios CpG estavam originalmente metilados.
+
+
+==== Imunofluorescência ====
+Marcação das citosinas metiladas do DNA utilizando anticorpos monoclonais, detecção dos anticorpos através de um anticorpo secundário fluorescente. A intensidade da fluorescência é indicadora do grau de metilação do DNA.  
+
+
+=== Análise de metilação gene-específica ===
+
+
+==== Hibridização com microarranjos de DNA ====
+Microarranjos consistem em um suporte sólido contendo pontos com sequências específicas de DNA. Sequências complementares na amostra analisada se ligam à essas moléculas e, quanto mais bases complementares, mais forte é a ligação. É feita uma lavagem para remoção de hibridizações não específicas, e restam apenas as moléculas fortemente associadas. As ligações podem ser detectadas por fluorescência. Essa técnica é frequentemente combinada com métodos enzimáticos (endonucleases) e de enriquecimento por afinidade. Não é muito adequada para análise de DNA tratado com bissulfito, já que, exceto pelas citosinas metiladas, o DNA consiste em apenas 3 bases, o que aumenta redundâncias na sequência e diminui a especificidade da hibridização.
+
+
+==== Reduced Representation Bisulphite Sequencing (RRBS) ====
+Enzimas de restrição são utilizadas para separar da amostra total as regiões de interesse ricas em CpG. Essas regiões são, então, tratadas com bissulfito e sequenciadas. Vantajoso por ter um custo relativamente baixo.
+
+
+==== Sequenciamento de nova geração ====
+As técnicas podem ser aplicadas em DNA enriquecido por afinidade, tratado com métodos enzimático, e são particularmente adequadas para DNA submetido à conversão por bissulfito (por exemplo, pirosequenciamento). Existem também alternativas que viabilizam detecção direta de metilação no sequenciamento, sem preparação prévia, como SMRT (Single-molecule, real-time sequencing), em que a DNA polimerase incorpora nucleotídeos marcados com fluorescência em uma fita complementar, e características do sinal fluorescente e o intervalo entre os sinais  fornecem informações sobre cinética enzimática, o que permite distinção não só entre nucleotídeos, mas também de modificações epigenéticas; e Nanopore, um método cujo conceito original é passar uma molécula de DNA de fita simples através de um Barril-β sob um potencial aplicado e registrar alterações na corrente elétrica. Uma alternativa do método Nanopore envolve o uso de exonucleases (enzimas que clivam nucleotídeos individuais da molécula de DNA), e detecção das bases, na ordem de clivagem, por interação com um adaptador covalentemente ligado à porina. São discriminadas as bases A, C, T, G, e também a 5-metilcitosina.
+
+
+== Implicações ==
+
+
+=== Metilação do DNA e envelhecimento ===
+A quantidade de regiões CpGs metiladas do genoma de humanos vem sendo recentemente utilizada como biomarcador para envelhecimento. Diferentes conjuntos de regiões metiladas são usadas para criar relógios epigenéticos que servem para estimar, com alta precisão (r>0.8), a idade de certas células e tecidos. Existem hoje diversos modelos de relógios epigenéticos como, por exemplo, o relógio de Horvarth, relógio de Hannum e relógio de Levine, cada um desses relógios têm melhor precisão quando aplicados à análise de um tipo ou conjunto de células específico. Embora seja um método que demonstre alto poder de previsibilidade do envelhecimento e até da longevidade e possíveis causas de morte, ainda não se sabe ao certo se os níveis de metilação são causa ou produto do envelhecimento.Em um estudo de um grupo de 378 gêmeos dinamarqueses que tiveram seus níveis de metilação do DNA analisados com relógios epigenéticos, mostrando correlação de r=0,97 entre idade epigenética (medida em níveis de metilação do DNA) e idade cronológica, foi estendido para um estudo longitudinal onde 86 dos gêmeos mais velhos foram acompanhados ao longo de 10 anos, documentando os óbitos ocorridos neste grupo. A análise dos resultados mostrou que houve, no grupo como um todo, uma taxa de mortalidade média 35% maior para cada 5 anos de idade epigenética maior que o esperado quando comparado à idade cronológica. Ainda no mesmo estudo, comparando os gêmeos, foi demonstrado que cada 5 anos de idade epigenética maior que um gêmeo apresentava comparado ao seu par, a chance de mortalidade do primeiro era 3.2 vezes maior que o segundo, mostrando uma grande correlação entre idade epigenética relativa e mortalidade.Alterações que causem a aceleração do envelhecimento também podem ser herdadas, visto que a metilação do DNA também está, pelo menos em parte, sob controle genético. Estudos mostram que neonatos apresentam 100% de herdabilidade de fatores epigenéticos que aceleram o envelhecimento (definido pela diferença na quantidade de DNA metilado e idade cronológica), enquanto, entre adultos, apenas 39% demonstram essa correlação. Isso indica que embora fatores que aceleram o envelhecimento possam ser herdados, aspectos ambientais são decisivos nos fenótipos relacionados ao envelhecimento apresentados ao longo da vida.
+
+
+=== Metilação e câncer ===
+Diversos estudos mostram alta correlação entre desregulação dos níveis de metilação do DNA e a presença de tumores e cânceres. Embora os níveis estejam alterados nas células e tecidos cancerosos, os efeitos funcionais desses fatores ainda não foram completamente elucidados. Alterações nos níveis de metilação de ilhas CpGs de promotores, metilação de genes relacionados ao reparo do DNA e metilação de genes relacionados à microRNAs já foram demonstrados, em diversos estudos, como possíveis envolvidos no desenvolvimento de câncer.Tanto hipermetilação quanto hipometilação de regiões do genoma parecem estar ligadas à presença de câncer. É proposto que a hipermetilação possa facilitar o desenvolvimento de câncer ao silenciar genes supressores de tumores, fazendo com que fenótipos cancerosos tenham menor resistência dos mecanismos de defesa celulares intrínsecos e, de maneira mais global, do sistema imunológico. Já a hipometilação impediria que genes oncogênicos fossem devidamente silenciados, facilitando o desenvolvimento de quadros cancerosos. Esses dados apontam que a relação entre metilação e câncer seria causada pela instabilidade no funcionamento dos mecanismos de silenciamento genético, o que levaria à desregulação de genes envolvidos no controle de fatores relacionados ao desenvolvimento de câncer.
+
+
+== O Metiloma ==
+Nos últimos anos cientistas vêm juntando esforços para criar “metilomas”, algo como bancos de dados para o reconhecimento e aferimento de regiões contendo pontos característicos de metilação do DNA e seus possíveis efeitos nos organismos. Esses metilomas vem sendo propostos há bastante tempo, mas só com os recentes avanços nos métodos de sequenciamento genético se tornaram alcançáveis.
+Em 2011 foi criado o IHEC (International Human Epigenome Consortium), um grupo de cientistas que tem como foco prover mapas do epigenoma humano em alta resolução e de acesso livre para a comunidade acadêmica, o IHEC tem como objetivo a criação de 1000 mapas epigenômicos até 2020. O grupo também trabalha no desenvolvimento das técnicas de criação e análise de dados epigenéticos, coordenando esforços para impedir a redundância entre as pesquisas, buscando alcançar dados de alta qualidade da maneira mais eficiente possível.
+Metilomas para diferentes organismos já foram propostos, sendo os metilomas de humanos essencial para os avanços nas pesquisas na área de metilação e sua relação com o envelhecimento e desenvolvimento de doenças.
+
+
+== Diferenças nos níveis de metilação entre organismos ==
+Existem diferenças nos padrões de metilação entre os organismos. O grupo dos vertebrados mostram taxas de aproximadamente 60~80% de ilhas CpGs metiladas em células somáticas. Enquanto que outros grupos como os dos invertebrados, plantas e protozoários geralmente apresentam metilações pontuais no genoma, que teriam como alvo elementos genômicos específicos.Em organismos modelo como Drosophila melanogaster as taxas de metilação são baixíssimas. Análises de metilação no DNA de Drosophilas encontraram apenas 0,3-0,4% do total de citosinas do DNA metilado. Estudos recentes mostraram que grande parte da metilação durante as fases do desenvolvimento embrionário de Drosophilas ocorrem em regiões limitadas do genoma (equivalente a aproximadamente 1% do total) que apresentam quantidade elevada de sequências CA- e CT- sem a presença de guanina. Metilação de ilhas CpG foram reportadas em abelhas (Apis melifera), presentes geralmente nas sequências do corpo dos genes. Essas metilações são propostas como responsáveis por mecanismos de controle genético relacionados ao splicing alternativo nesses animais.
+Um estudo recente utilizando um método ultra-sensível de espectrometria de massa para medir os níveis de metilação no DNA de organismos modelos encontrou taxa de 14% de metilação de bases citosina na planta modelo Arabidopsis thaliana, taxa considerada alta. Em plantas as metilações de citosina podem ocorrer tanto em CpG quanto em CpHpG e CpHpH, onde H representa qualquer base exceto guanina. O mesmo estudo não conseguiu detectar níveis mensuráveis (precisão de até <0.00002 citosinas metiladas por citosinas não metiladas) de metilação em linhagens industriais de leveduras (Saccharomyces cerevisiae, Schizosaccharomyces pombe, Saccharomyces boulardii, Saccharomyces paradoxus e Pichia pastoris).
+
+
+== Referências ==
+
+
+== Bibliografia ==
+Elias Daura-Oller, Maria Cabre, Miguel A Montero, Jose L Paternain, and Antoni Romeu (2009)"Specific gene hypomethylation and cancer: New insights into coding region feature trends". Bioinformation. 2009; 3(8): 340–343.PMID PMC2720671
+Shen, L. & Waterland, R.A. (2008): Methods of DNA methylation analysis. In: Curr. Opin. Clin. Nutr. Metab. Care. 10(5):576–581. PMID 17693740 doi:10.1097/MCO.0b013e3282bf6f43
+Beck, S. & Rakyan, V.K. (2008): The methylome: approaches for global DNA methylation profiling. In: Trends Genet. 24(5):231–237. PMID 18325624 doi:10.1016/j.tig.2008.01.006
+Shames, D.S. et al. (2007): DNA methylation in health, disease, and cancer. In: Curr. Mol. Med. 7(1):85–102. PMID 17311535 PDF
+Patra, S. K. (2008) Ras regulation of DNA-methylation and cancer.  Exp Cell Res 314(6): 1193-1201.
+Patra, S.K., Patra, A., Ghosh, T. C. et al. (2008) Demethylation of (cytosine-5-C-methyl) DNA and regulation of transcription in the epigenetic pathways of cancer development Cancer Metast. Rev. 27(2): 315-334
+
+
+== Ligações externas ==
+«DNA Methylation database» 
+MeSH DNA+Methylation

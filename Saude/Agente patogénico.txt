@@ -1,0 +1,80 @@
+Em biologia, um agente patogénico (português europeu) ou agente patogênico (português brasileiro) ou patógeno (em grego:  πάθος pathos "sofrimento", "paixão" and -γενής -genēs "produtor de"), no sentido mais antigo e amplo, é qualquer organismo que pode produzir doença. Um patógeno também pode ser referido como um também chamado de agente infeccioso ou etiológico animado.
+O termo patógeno é tipicamente usado para descrever um organismo ou agente infeccioso, como um vírus, bactéria, protozoário, príon, viroide, ou fungo. Animais pequenos, como certos tipos de vermes e larvas de insetos, também podem produzir doenças. No entanto, esses animais são geralmente, na linguagem comum, referidos como parasitas em vez de patógenos. O estudo científico de organismos microscópicos, incluindo organismos patogênicos microscópicos, é chamado de microbiologia, enquanto o estudo de doenças que podem incluir esses patógenos é chamado de patologia. Parasitologia, entretanto, é o estudo científico dos parasitas e dos organismos que os hospedam.
+Existem várias vias pelas quais os patógenos podem invadir um hospedeiro. As principais vias têm diferentes intervalos de tempo episódicos, mas o solo tem o maior potencial ou o potencial mais persistente para abrigar um patógeno. As doenças em humanos causadas por agentes infecciosos são conhecidas como doenças patogênicas. Nem todas as doenças são causadas por patógenos; outras causas são, por exemplo, toxinas, doenças genéticas e o sistema imunológico do próprio hospedeiro.
+
+
+== Patogenicidade ==
+Patogenicidade é a capacidade de um organismo em causar doença por meio da superação das defesas do hospedeiro. A patogenicidade relaciona-se com a virulência, que por sua vez denota o grau de patogenicidade. Por este padrão, um organismo pode ser considerado patogênico ou não patogênico em um determinado contexto, mas não "mais patogênico" do que outro. Essas comparações são descritas em termos de virulência relativa. A patogenicidade também é distinta da transmissibilidade do vírus, que quantifica o risco de infecção.Um patógeno pode ser descrito em termos de sua capacidade de produzir toxinas, invadir o tecido biológico, colonizar, sequestrar nutrientes e sua capacidade de imunossupressão.
+
+
+=== Patogenicidade dependente do contexto ===
+É comum se referir a uma espécie inteira de bactéria como patogênica quando esta é identificada como a causadora de uma doença (Postulados de Koch). Contudo, a visão moderna é a de que a patogenicidade depende do ecossistema microbiano como um todo. Uma bactéria pode participar de infecções oportunistas em hospedeiros imunocomprometidos, adquirir fator de virulência por infecção de plasmídeo, ser transferida para um local diferente dentro do hospedeiro ou responder a mudanças no número total de outras bactérias presentes. Por exemplo, a infecção mesentérica de linfonodos de camundongos com Yersinia pode abrir caminho para a infecção contínua desses locais por Lactobacillus, possivelmente por um mecanismo de "cicatriz imunológica".
+
+
+=== Conceitos relacionados ===
+
+
+==== Virulência ====
+A virulência corresponde a capacidade relativa de um patógeno em provocar doenças, sendo resultado de interações patógeno-hospedeiro, e é influenciada pelas constantes alterações do patógeno, do hospedeiro e do ambiente. Nem a virulência do patógeno, nem a resistência relativa do hospedeiro são fatores constantes.
+
+
+==== Transmissão ====
+
+
+== Tipos de patógenos ==
+
+
+=== Algas ===
+
+As algas são organismos eucarióticos que geralmente não são patogênicos, embora existam variedades patogênicas, como as algas aclorofiladas do gênero Prototheca, que causam a prototecose, uma doença encontrada em cães, gatos, gado e humanos. Em humanos, a protetecose é rara, ocorrendo principalmente em pacientes imunocomprometidos. Prototheca wickerhamii e Prototheca zopfii foram associadas a doenças humanas.
+
+
+=== Bactérias ===
+
+A grande maioria das bactérias, que podem variar entre 0,15 e 700 μM de comprimento, são inofensivas ou benéficas para os humanos. No entanto, uma lista relativamente pequena de bactérias patogênicas pode causar doenças infecciosas. As bactérias patogênicas têm várias maneiras de causar doenças. Eles podem afetar diretamente as células do hospedeiro, produzir endotoxinas que danificam as células do hospedeiro ou causar uma resposta imune forte o suficiente para que as células do hospedeiro sejam danificadas.
+Muitas vezes, as bactérias patogênicas e as não-patogênicas diferem em um número relativamente pequeno de genes. Os genes que contribuem para a capacidade de um organismo de causar doença são os genes de virulência, e as proteínas que eles codificam são chamadas de fatores de virulência. Frequentemente, tais genes estão agrupados no cromossomo bacteriano (clusters); agrupamentos grandes são chamados de ilhas de patogenicidade.
+
+
+=== Fungos ===
+
+A maioria das espécies de fungos é inofensiva, sendo relativamente baixa a incidência global de infecções fúngicas sérias em humanos saudáveis, embora certas infecções superficiais sejam relativamente comuns. Em indivíduos imunocomprometidos, infecções fúngicas podem se tornar sistêmicas. Exemplos de patógenos fúngicos mais comuns incluem tanto leveduras quanto bolores, e também espécies dimórficas, que podem existir tanto como levedura quanto na forma filamentosa. Exemplos de patógenos fúngicos que infectam humanos incluem Candida albicans, que é a causa mais comum de candidíase (sapinho), e Cryptococcus neoformans, que pode causar uma forma grave de meningite. O tamanho típico dos esporos de fungos é menor que 4,7 μm de comprimento, mas alguns esporos podem ser maiores.
+
+
+=== Príons ===
+
+Os príons são formas aberrantes de proteínas, que agem como agentes infecciosos responsáveis por doenças degenerativas do sistema nervoso. Os príons existem em duas conformações, a forma celular nativa (normal) e sua forma patogênica. Eles não contêm nenhuma informação genética (DNA ou RNA), mas "replicam-se" pela conversão de proteínas normais, codificados pela célula hospedeira, para a conformação patogênica. Podem ser transmitidos hereditariamente, de ocorrência esporádica ou adquiridas de material contaminado. São conhecidas oito doenças causadas por príons e que afetam mamíferos, como scrapie, encefalopatia espongiforme bovina (doença da vaca louca) e encefalopatia espongiforme felina. Os humanos podem ser afetados por dez doenças, como a doença de Creutzfeldt-Jakob e a insônia familiar fatal.
+
+
+=== Viroides ===
+
+Viroides são moléculas de RNA infeccioso que diferem dos vírus pelo fato de serem desprovidos de um envoltório proteico. Os viroides correspondem a pequenas moléculas circulares de RNA de fita simples, estando entre os menores patógenos conhecidos. Eles variam em tamanho de 246 a 399 nucleotídeos e exibem considerável grau de homologia de sequência, sugerindo que possuam raízes evolutivas comuns. Os viroides causam importantes doenças em plantas, e podem representar um grave impacto na agricultura. Não são conhecidos viroides que infectam animais ou microrganismos.
+
+
+=== Vírus ===
+
+Os vírus são pequenos agentes infecciosos, tipicamente medindo entre 20 e 1.000 nanômetros de comprimento, contendo RNA ou DNA. São desprovidos de metabolismo próprio e requerem uma célula viva hospedeira para se replicar. Algumas das doenças causadas por patógenos virais incluem varíola, gripe, caxumba, sarampo, varicela, ebola, HIV, rubéola e COVID-19. Os vírus patogênicos são principalmente das famílias: Adenoviridae, Coronaviridae, Picornaviridae, Herpesviridae, Hepadnaviridae, Flaviviridae, Retroviridae, Orthomyxoviridae, Paramyxoviridae, Rhabdoviridae, e Togaviridae. O HIV é um membro notável da família Retroviridae, que afetou aproximadamente 38 milhões de pessoas em todo o mundo em 2019.
+
+
+=== Outros parasitas ===
+
+
+== Hospedeiros de patógenos ==
+
+
+=== Bactéria ===
+Embora as próprias bactérias possam ser agentes patogênicos, elas também podem ser infectadas por patógenos. Bacteriófagos são vírus, também conhecidos como fagos, que infectam bactérias e geralmente levam à morte da bactéria infectada. Existem bacteriófagos que infectam todos os tipos de bactérias, incluindo gram-negativas e gram-positivas. Mesmo bactérias patogênicas que infectam outras espécies, incluindo humanos, podem ser infectadas com um fago.
+
+
+=== Plantas ===
+Plantas podem hospedar uma ampla gama de patógenos, incluindo vírus, bactérias, fungos, nematoides, etc. Alguns exemplos de fitovírus incluem o vírus do mosaico do tabaco, o vírus da mancha anelar do mamoeiro, mosaico dourado, entre outros. As plantas também podem ser infectadas por patógenos bacterianos, como no caso do cancro cítrico, talo-oco, pinta-bacteriana, etc. Fungos são outro tipo de patógeno para plantas, podendo causar uma ampla variedade de problemas; exemplos de doenças causadas por patógenos fúngicos em plantas incluem a ferrugem asiática, ferrugem-do-café, fusariose do trigo e grafiose. Estima-se que fungos patogênicos por si só causem uma redução de até 65% no rendimento da colheita.
+
+
+=== Animais ===
+Os animais costumam ser infectados com muitos patógenos iguais ou semelhantes aos humanos, incluindo príons, vírus, bactérias e fungos. Tanto animais silvestres quanto domésticos podem contrair uma ampla gama de patógenos. Estima-se que, em ambientes rurais, 90% ou mais das mortes de animais podem ser atribuídas a patógenos.A doença priônica encefalopatia espongiforme bovina, comumente conhecida como doença da vaca louca, é uma das principais doenças causadas por príons que afetam os animais. Outras doenças animais incluem uma variedade de distúrbios de imunodeficiência que são causados por vírus relacionados ao vírus da imunodeficiência humana (HIV) incluindo o vírus da imunodeficiência bovina (BIV) e o vírus da imunodeficiência felina (FIV).
+
+
+=== Humanos ===
+Os seres humanos podem ser infectados com muitos tipos de patógenos, incluindo príons, vírus, bactérias e fungos. Os vírus e bactérias que infectam humanos podem causar sintomas como espirros, tosse, febre, vômito e até levar à morte. Alguns desses sintomas são causados pelo próprio vírus, enquanto outros são causados pelo sistema imunológico da pessoa infectada.
+
+
+== Referências ==

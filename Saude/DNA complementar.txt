@@ -1,0 +1,14 @@
+Em genética, DNA complementar (cDNA) é o DNA sintetizado a partir de uma molécula de RNA mensageiro, cujos íntrons já foram removidos, ou seja, o mRNA já passou pelo processo de splicing, sendo uma reação catalisada pela enzima transcriptase reversa.
+Após isolar um mRNA é inserido um primer para que a  enzima transcriptase reversa se ligue e sintetize a fita única de DNA a partir do molde de RNA, gerando um hibrido complementar de DNA-mRNA e antiparalelo. O RNA é depois degradado pela RNase H, que degrada parcialmente a cadeia de RNA. A DNA polimerase I sintetiza novos fragmentos de DNA usando, como iniciadores, os fragmentos de RNA (deixados pela RNase) associados à cadeia simples de DNA. Por fim, a DNA ligase liga os fragmentos de DNA da nova cadeia, originado uma cadeia dupla de DNA complementar (cDNA).
+Para compreender melhor o assunto, é necessário leitura complementar do que são: DNA-lixo, exons e introns.
+
+
+== Bibliografia ==
+«COMPLEMENTARY DNA (cDNA)». Keith Redway, University of Westminster. Página acedida em 19 de julho de 2011. 
+iGenetics - a Molecular Approach. Peter J. Russel, 2014, Pearson Education Limited.
+
+
+== Ligações externas ==
+H-Invitational Database
+Functional Annotation of the Mouse database
+Complementary DNA tool

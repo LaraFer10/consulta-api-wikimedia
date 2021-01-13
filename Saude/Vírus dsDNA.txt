@@ -1,0 +1,48 @@
+Vírus dsDNA (do inglês, double - stranded DNA viruses) são vírus que possuem material genético constituído por DNA fita dupla. No Sistema de Classificação de Baltimore, tais vírus pertencem ao grupo I, que compreende 28 famílias virais.
+
+
+== Características gerais ==
+Os integrantes do grupo I apresentam genoma circular ou linear, com tamanho variando de 5 a 1180 Kb. Os maiores genomas virais conhecidos até então são encontrados em componentes deste grupo. De todos os vírus dsDNA, apenas os da família Polydnaviridae possui material genético segmentado, ou seja, os membros de todas as outras famílias possuem partículas virais que levam apenas uma única molécula de DNA fita dupla, a qual codifica todos os genes contidos no genoma viral. A maioria dos vírus do grupo I apresenta regiões codificantes em ambas as fitas, exceto os papillomavírus e o fago T7, nos quais apenas umas das fitas codifica todos os genes virais.Quanto às partículas virais, o grupo I apresenta uma grande variedade de morfologias, com capsídeos de simetria icosaédrica, helicoidal ou assiméticos, como os vírus da família Plasmaviridae. Neste grupo são encontrados vírus envelopados e não envelopados, e outros que apresentam envelope interno (e.g. Corticoviridae, Mimiviridae, Tectiviridae). No grupo I são encontrados vírus que infectam organismos dos três domínios: Archaea, Bacteria e Eukarya. A replicação do DNA viral ocorre no núcleo, por meio das enzimas celulares, ou pode acontecer no citosol. Vírus dsDNA que replicam no citosol codificam suas próprias enzimas de replicação e transcrição do DNA, não dependendo, portanto, da maquinaria celular para proceder esta etapa do ciclo de replicação.
+
+
+== Classificação taxonômica dos vírus dsDNA ==
+Abaixo estão listadas as famílias que compõem o grupo I:
+
+
+=== Ordem Caudovirales ===
+Myoviridae
+Podoviridae
+Siphoviridae
+
+
+=== Ordem Herpesvirales ===
+Alloherpesviridae
+Herpesviridae
+Malacoherpesviridae
+
+
+=== Famílias sem ordem atribuída ===
+Ascoviridae
+Adenoviridae
+Asfarviridae
+Baculoviridae
+Bicaudaviridae
+Corticoviridae
+Fuselloviridae
+Globuloviridae
+Guttaviridae
+Iridoviridae
+Lipothrixviridae
+Mimiviridae
+Nimaviridae
+Papillomaviridae
+Phycodnaviridae
+Plasmaviridae
+Polydnaviridae
+Polyomaviridae
+Poxviridae
+Rudiviridae
+Tectiviridae
+
+
+== Referências ==

@@ -1,0 +1,10 @@
+PyMOL é um software de computador, um sistema de visualização molecular criado por Warren Lyford DeLano. É patrocinado pelo usuário, um software de código aberto, lançado sob a Python license. Foi comercializado inicialmente pela DeLano Scientific LLC, que era uma empresa de software privada dedicada à criação de ferramentas úteis que se tornam universalmente acessíveis para comunidades científicas e educacionais. Atualmente é comercializado pela Schrödinger, Inc. PyMOL pode produzir imagens 3D de alta qualidade de moléculas e de macromoléculas biológicas, tais como proteínas. De acordo com o autor original, até 2009, quase um quarto de todas as imagens publicadas de estruturas de proteínas 3D na literatura científica foram feitas usando o PyMOL.
+
+
+== Referências ==
+
+
+== Ligações externas ==
+Sítio oficial
+Wiki do PyMOL
+Schrödinger LLC

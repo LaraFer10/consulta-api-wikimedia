@@ -1,0 +1,19 @@
+Proteínas homólogas são proteínas que derivam de um "ancestral comum". Podem estar presentes numa mesma espécies, tendo derivado por duplicação de genes no genoma de um organismo, por paralogia; ou em espécies diferentes, estando o ancestral comum da proteína presente na espécie ancestral comum às duas espécies.
+
+
+== Recursos sobre superfamílias de proteínas ==
+Varias bases de dados biológicas documentam as superfamílias proteicas e enovelamentos proteicos; como por exemplo:
+
+Pfam - Base de dados de famílias proteicas de alinhamentos e de HMMs
+PROSITE - Base de dados de domínios de proteínas, famílias e sítios funcionais
+InterPro - SuperFamily Classification System
+PASS2 - Protein Alignment as Structural Superfamilies v2
+SUPERFAMILY - Biblioteca de HMMs que representa superfamílias e bases de dados de anotações (superfamílias e famílias) para todos os organismos totalmente sequenciados
+SCOP e CATH - Classificações de estruturas de proteínas em superfamílias, famílias e domíniosIgualmente, existe algoritmos que obtém no PDB proteínas com homologia estrutural com uma estrutura central dada; por exemplo:
+
+DALI - Alinhamento estrutural baseado num método de matriz de alinhamento de distância.
+
+
+== Referências ==
+
+«Química Nova - Protein homology modeling». Consultado em 9 de julho de 2010

@@ -1,0 +1,59 @@
+A influência das actividades antropogénicas sobre o ciclo do carbono pode ser estimada agregando vários sectores de actividades humanas. Os sectores considerados na contabilização são:
+
+1. ENERGIA
+A. Actividades e queima de combustível1. Indústrias de Energia: Estas indústrias produzem electricidade a partir da queima de combustíveis fósseis como os derivados do petróleo, o carvão ou o gás natural
+2. Indústrias de Manufacturação e Construção: as emissões resultam da queima de combustíveis fósseis necessária para funcionamento da maquinaria ou para aquecer fornos e fornalhas
+3. Transportes: Neste sector estão incluídas as emissões relativas ao consumo de combustíveis pelos comboios, camiões, autocarros, aviões dos voos domésticos e, muito importante, pelos automóveis privados. Representa o sector com maior crescimento desde 1990 (cerca de 100%)
+4. Outros Sectores (Comércio/Residencial e Agricultura): emissões resultantes do aquecimento e arrefecimento ambiente e aquecimento de águas sanitárias e de actividades agrícolas.
+
+B. Emissões fugitivas de combustíveis1. Combustíveis sólidos: emissões relativas à exploração de este tipo de combustíveis (durante a extracção)
+2. Petróleo e Gás Natural: emissões relativas à transformação e transporte de combustíveis líquidos
+
+2. PROCESSOS INDUSTRIAISA. Produtos Minerais: emissões resultantes principalmente da indústria cimenteira (descarbonização do calcário)
+B. Indústria Química: emissões resultantes principalmente da produção de amónia (fertilizante)
+C. Produção de Metal: : emissões dos processos de transformação da indústria do ferro, do aço e de outras ligas ferrosas
+D. Outras Produções: emissões da indústria da pasta de papel
+3. SOLVENTES E OUTROS PRODUTOS: na utilização de tintas e vernizes com solventes são emitidos gases com efeito de estufa e compostos orgânicos voláteis não-metanosos.
+5. ALTERAÇÕES DOS SOLOS E SILVICULTURA: nesta categoria são contabilizadas as as emissões resultantes das intervenções nas florestas, como os cortes e os incêndios, e a captura de carbono originado pelo crescimento das florestas. São também considerados outras alterações na utilização de outros solos (solos agrícolas, pastos, zonas húmidas, etc.)
+6. RESÍDUOS: são consideradas as emissões provenientes da incineração dos resíduos sólidos
+Esta contabilização é realizado em Portugal desde 1990 pelo Instituto do Ambiente, podendo assim ser estimada a quantidade de carbono que é adicionada ao ciclo Biológico do Carbono devido às actividades antropógénicas em Portugal.
+
+
+== Dados de Emissões Antropogénicas por sectores ==
+Para Portugal, os valores dos sectores responsáveis pela emissão de dióxido de carbono(CO2), segundo dados do Instituto do Ambiente relativos ao inventário nacional de gases de efeito de estufa de 2004, são:
+
+1. ENERGIA: 58'962.77 Gg
+   1.A. Actividades e queima de combustível: 58'129.44 Gg
+       1.A.1. Indústrias de Energia: 21’256,14 Gg
+       1.A.2. Indústrias de Manufacturação e Construção: 10’667,99 Gg
+       1.A.3. Transportes: 19’373,55 Gg
+       1.A.4. Outros Sectores (Residencial, Serviços e Agricultura): 6’831,76 Gg
+   1.B. Emissões fugitivas de combustíveis: 833,34 Gg
+
+2. PROCESSOS INDUSTRIAIS: 6.058,47 Gg
+
+3. SOLVENTES E OUTROS PRODUTOS: 320,15 Gg
+
+5. ALTERAÇÕES DOS SOLOS E SILVICULTURA: -3’194,62 Gg
+
+6. RESÍDUOS: 330,12 Gg
+
+
+== Total de emissões antropogénicas ==
+O valor total das emissões antropogénicas de CO2 em 2004 foi estimado em cerca de 65'671,52 Gg (Excluindo ALTERAÇÕES DOS SOLOS E SILVICULTURA)
+O balanço ALTERAÇÕES DOS SOLOS E SILVICULTURA resulta num valor negativo (sumidouro de CO2) de -3’194,62 Gg CO2, uma vez que a captura por parte das florestas e de outra tipo de biomassa são superiores às emissões, obtendo-se assim, para o ano de 2004 um total de emissões de 62’476,68 Gg CO2.
+Para além do CO2, é necessário ter em conta que muitas das actividades acima referidas também geram outro tipo de gases considerados como Gases de Efeito de Estufa (GEE). No Protocolo de Quioto foram classificados como GEE, para além do CO2, Metano (CH4), Óxido nitroso (N2O), Hidrofluorcarbonetos (HFCs), Perfluorcarbonetos (PFCs), Hexafluoreto de enxofre (SF6).
+Por forma a poder ter uma contabilização global, a estes gases foram outorgados diferentes pesos de acordo com o potencial como GEE,  trabalhando assim apenas com uma única unidade: CO2 equivalente.
+O balanço em Portugal em 2004 foi estimado em 81'466,55 Gg CO2 equivalente.
+
+
+== Referências e fontes ==
+«Agência Europeia do Ambiente (EEA)» 
+«Portal das Energias Renováveis (PER)» 
+«IPCC» 
+
+
+== Ver também ==
+Ciclo do carbono
+Carbono
+Análise do ciclo de vida

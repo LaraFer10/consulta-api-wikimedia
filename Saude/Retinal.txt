@@ -1,0 +1,31 @@
+O retinal, também conhecido como retinaldeído ou vitamina A aldeído, é uma das muitas formas da vitamina A. Consiste em um cromóforo polieno que é a base química da visão dos animais. Ligado a proteínas chamadas rodopsina tipo 1, o retinal permite que certos microrganismos convertam luz em energia metabólica.
+Animais vertebrados podem obter retinal diretamente da ingestão de carne ou produzem-no através de um dos quatro carotenoides (betacaroteno, alfacaroteno, gamacaroteno e beta-criptoxantina) obtidos a partir de plantas ou outros organismos fotossintéticos. As outras formas principais de vitamina A, retinol e uma forma parcialmente ativa do ácido retinoico podem ser produzidos a partir do retinal.
+Invertebrados como insetos e lulas utilizam formas hidroxiladas de retinal em seus sistemas visuais, as quais derivam da conversão de outras xantofilas.
+
+
+== Metabolismo da vitamina A ==
+Os seres vivos produzem retinal (RAL) por meio da clivagem oxidativa irreversível dos carotenoides. Por exemplo:
+
+betacaroteno + O2 → 2 retinalcatalisada por uma betacaroteno 15,15'-monooxigenase ou por uma betacaroteno 15,15'-dioxigenase. Assim como os carotenoides são precursores do retinal, este, por sua vez, é precursor de outras formas de vitamina A, sendo interconversível com o retinol (ROL), a forma de transporte e armazenamento da vitamina A.
+
+retinal + NADPH + H+ 
+  
+    
+      
+        ⇌
+      
+    
+    {\displaystyle \rightleftharpoons }
+   retinol + NADP+
+retinol + NAD+ 
+  
+    
+      
+        ⇌
+      
+    
+    {\displaystyle \rightleftharpoons }
+   retinal + NADH + H+catalisada pelas retinol desidrogenases (RDHs) e pelas álcool desidrogenases (ADHs). Retinal também pode ser oxidado a ácido retinoico (RA).
+
+retinal + NAD+ + H2O →  ácido retinoico + NADH + H+ (catalisado por RALDH)
+retinal + O2 + H2O →  ácido retinoico + H2O2 (catalisado por retinal oxidase)catalisada por retinal desidrogenases, também conhecidas como retinaldeído desidrogenases (RALDHs), bem como retinal oxidases.

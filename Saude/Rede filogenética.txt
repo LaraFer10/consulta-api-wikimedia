@@ -1,0 +1,5 @@
+Uma rede filogenética é qualquer gráfico usado para visualizar relações evolutivas entre espécies ou organismos. São usadas quando se acredita que eventos reticulados tais como hibridação, transferência horizontal de genes, recombinação ou duplicação génica estão envolvidos. As árvores filogenéticas são um subconjunto das redes filogenéticas. Redes filogenéticas podem ser inferidas e visualizadas usando software como Splitstree, Network ou TCS.
+
+
+== Referências ==
+D. H. Huson and D. Bryant, Application of Phylogenetic Networks in Evolutionary Studies, Mol. Biol. Evol., 23(2):254-267, 2006.|

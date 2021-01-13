@@ -1,0 +1,130 @@
+Linfoma é um grupo de tumores de células sanguíneas que se desenvolvem a partir das células linfáticas. Geralmente, o termo refere-se apenas aos tumores cancerosos. Os sinais e sintomas mais comuns são o aumento de volume dos gânglios linfáticos, febre, suores abundantes, perda de peso não intencional, prurido e fadiga. Os gânglios linfáticos aumentados são geralmente indolores. Os suores são mais comuns durante a noite.Existem dezenas de subtipos de linfomas. As duas principais categorias de linfomas são os linfomas de Hodgkin (LH) e os linfomas não-Hodgkin (LNH). A Organização Mundial de Saúde (OMS) inclui duas outras categorias como tipos de linfoma: o mieloma múltiplo e as doenças imunoproliferativas. Cerca de 90% dos linfomas são linfomas não-Hodgkin. Os linfomas e as leucemias fazem parte de um grupo alargado de doenças denominado tumores dos tecidos hematopoético e linfoide.Entre os fatores de risco para o linfoma de Hodgkin estão a infeção com o vírus Epstein-Barr e historial da doença na família. Entre os fatores de risco para os tipos comuns de linfoma não-Hodgkin estão a presença de doenças autoimunes, SIDA, infeção com vírus T-linfotrópico humano, medicamentos imunossupressores e alguns pesticidas. Consumo excessivo e habitual de carne vermelha ou carne processada também pode aumentar o risco. No caso de haver gânglios linfáticos aumentados, o diagnóstico é feito mediante biópsia aos gânglios linfáticos. Podem também ser realizadas análises ao sangue e à urina e exames à medula óssea. A imagiologia médica ajuda a determinar se o cancro se espalhou. O linfoma espalha-se com maior frequência para os pulmões, fígado ou cérebro.
+O tratamento pode consistir em uma ou mais das seguintes intervenções: quimioterapia, radioterapia, terapia dirigida e cirurgia. Em alguns linfomas não-Hodgkin, o aumento da quantidade de proteínas produzidas pelas células do linfoma faz com que o sangue se torne de tal forma espesso que é necessária a realização de plasmaferese para remover as proteínas. Em determinados tipos pode ser apropriada a espera vigilante. O prognóstico depende do subtipo. Alguns são curáveis e o tratamento prolonga a sobrevivência na maior parte. A taxa de sobrevivência a cinco anos para os subtipos de linfomas de Hodgkin é de 85%, enquanto para os linfomas não-Hodgkin é de 69%. Em 2012 registaram-se 560 000 novos casos de linfomas e 305 000 mortes pela doença. Os linfomas correspondem a 3–4% de todos os cancros, sendo em conjunto a sétima forma mais comum da doença. Em crianças são o terceiro cancro mais comum. A prevalência da doença é maior em países desenvolvidos.
+
+
+== Fisiopatologia ==
+O sistema linfóide é composto pelos órgãos linfóides primários (timo e medula óssea) e pelos órgãos linfóides secundários (linfonodos, baço e tecidos linfóides associados à mucosa (MALT) - como as adenóides, amígdalas, as placas de peyer no intestino dentre outros amplamente espalhados pelo organismo. 
+Linfócitos são células do sistema imune que defendem o organismo contra invasão de agentes estranhos. Todos os linfócitos originam-se na medula óssea. Formam-se a partir de células linfóides progenitoras descendentes de células-tronco hematopoiéticas pluripotentes, e antes de se tornarem células ativas completamente diferenciadas, passam por diversos estágios de maturação.
+Os linfócitos B e T diferenciam-se em múltiplos aspectos. Primeiramente pelo local onde passam pelo processo de maturação, linfócitos T maturam no timo e linfócitos B maturam na medula óssea (do inglês bone marrow), devido a isso recebem as designações B e T. Seus modos de ação também são distintos: células B diferenciam-se em plasmócitos, e sua função final é secretar imunoglobulinas em forma de anticorpos, que se encontram com seu antígeno específico em meio extracelular ou na corrente sanguínea;por sua vez, o encontro das células T com seu antígeno acontece sempre no meio intracelular, com auxílio das proteínas MHC (Complexo de histocompatibilidade principal). Outra notável desigualdade: os linfócitos T diferenciam-se em dois subtipos: os T CD4, que são células auxiliares da imunidade adaptativa, e os T CD8, que são células citotóxicas da imunidade adaptativa; e os linfócitos B transformam-se tão-somente em células plasmáticas da imunidade adaptativa.
+
+A classificação dos linfomas humanos tem sido estudada desde os trabalhos do Dr. Thomas Hodgkin em 1832, que foi o primeiro a diagnosticar os Linfomas Hodgkin. Em seu artigo “alguns aspectos mórbidos das glândulas absorventes e do baço”, descreve diversos casos clínicos, discorrendo a cerca da morfologia dos tumores por ele identificados, que mais tarde seriam chamados de doença de Hodgkin.  Todos os outros linfomas não identificados por ele formam o grupo dos linfomas não-Hodgkin.
+Em 1994, o Grupo Internacional de Estudo de Linfoma, elaborou uma classificação para as neoplasias linfóides que ficou conhecida como REAL (Revisão de Linfomas da Europa e América), e as dividiu em neoplasias de células B, neoplasias de células T e NK e linfomas de Hodgkin.
+Em 2001 a Organização Mundial da Saúde lançou a “Classificação da Organização Mundial da Saúde para as neoplasias dos tecidos linfóides e hematopoiéticos”, baseada na estrutura do REAL, porém com algumas alterações e detalhamentos, como a adição de novas características imunogenéticas, morfológicas e moleculares, descobertas pelo estudo de novos casos clínicos. Atualmente ela é aceita como padrão mundial para a classificação dos linfomas.5 Segue abaixo uma tradução deste sistema elaborada por Paes et al (2002).
+Em 2008 a Organização Mundial de Saúde fez uma nova atualização das classificações dos linfomas. Gurbaxani et al (2009) em seus trabalhos mostra-nos alterações que ocorreram no Linfoma difuso de grandes células B (LDGCB) que foram classificados levando-se em consideração novos aspectos como perfil de expressão gênica, imunofenótipo, morfologia celular, dentre outros.
+
+
+== Linfoma Hodgkin ==
+No Linfoma Hodgkin (LH), existem dois tipos celulares característicos: as células Hodgkin que são mononucleadas e as células Reed-Sternberg (RS) grandes e multinucleadas, que são células B diferenciadas específicas a este tipo de neoplasia representando aproximadamente 1% do tumor.  As células RS foram mencionadas pela primeira vez em 1900 por Dorothy Reed and Carl Sternberg. A RS origina-se sempre de uma célula B do centro germinativo que possui uma expressão diminuída ou inexistente de imunoglobulinas de superfície sIg (Imunoglobulina de Superfície), característica que fez com que sua origem tenha sido de difícil descoberta.
+O complexo formado pelas células de Reed-Sternberg e células de Hodgkin é conhecido como células HRS. Além das HRS são também encontradas misturas de diversos tipos de células do sistema imunológico que se infiltram no tumor, como por exemplo as células L & H (linfócitos e histiócitos) que também se originam de células B.
+
+
+== Linfoma Hodgkin X Linfoma não-Hodgkin ==
+Os LH são bastante caracterizados pela perda substancial das características de suas células de origem, ao contrário dos LNH que as mantêm em grande parte.  Além de apresentarem as vias de sinalização comum as células B (como NF-κB, jak–Stat e PI3K), as células HRS apresentam ativadas vias de sinalização que não são ativas em células B normais, fato que não ocorre em células de LNH. Nos LNH as células neoplásicas geram uma forte resposta inflamatória devido as interações com as células ao redor, isso não ocorre de maneira tão intensa com as células HRS, que através das vias de sinalização que ativam criam um microambiente favorável ao seu desenvolvimento e regulam a ação do sistema imune, impedindo que as células T CD8 as matem em grande escala.
+
+
+== Linfoma não-Hodgkin ==
+Segundo a Organização Mundial de Saúde, os linfomas não-Hodgkin (LNH) incluem mais de 20 subtipos, com aspectos clínicos, morfológicos, imunogenéticos diferenciados, refletindo o estágio de maturação das células linfóides B e T no qual a neoplasia se instala.
+No Brasil, segundo dados do INCA (Instituto Nacional do Câncer), dentre os linfomas, os LNH são os mais comuns na infância. A estimativa de novos casos em mulheres brasileiras para o ano de 2009 foi de 4200 novos casos e para homens brasileiros 4900. Em 2008 o número de mortes foi de 3.568 em ambos os sexos. A incidência de LNH apresentou um aumento nos últimos 25 anos (o número de casos quase duplicou). Grande parcela deste aumento se deve aos novos casos de LNH em pacientes acima de 60 anos.
+Ainda não se sabe ao certo qual a causa dos LNH, porém o surgimento da doença apresenta um risco aumentado em pacientes com sistema imune comprometido, com inflamações crônicas, com imunodeficiências congênitas ou adquiridas, com distúrbios auto-imunes, que se expõem a determinados agente físicos ou químicos (radiação, herbicidas, pesticidas, solventes, fertilizantes,) e ainda em pacientes portadores de alguns agentes infecciosos, como a Helicobacter pylori (causadora de úlceras gástricas), o Vírus Epstein-Barr (EBV), o HTLV-I (Vírus da leucemia das células T humanas), herpes vírus tipo 8 (HPV8). Pacientes com imunodeficiências, passam por uma prolongada desregulação do sistema imunológico e continuada estimulação antigênica, tais fatores aumentam a probabilidade de surgimento de LNH. Distúrbios auto-imunes, como a tireoidite de Hashimoto e a síndrome de Sjogren, a síndrome de Wiskott-Aldrich, também podem promover o desenvolvimento neoplásico do tecido linfóide associado à mucosa (MALT).
+O tratamento dos LNH envolve estratégias que combinam ciclos de quimioterapia alternando-se com radioterapia, transplante de medula óssea e imunoterapia, que variam de acordo com a idade do paciente, grau de desenvolvimento do tumor, número de metástases dentre outros fatores. A quimioterapia padrão mais utilizada atualmente é a CHOP (ciclofosfamida, doxorrubicina, vincristina e prednisona). Tais compostos atuam principalmente no controle da proliferação celular e da reação inflamatória. A radioterapia tem como objetivo reduzir a carga do tumor em local específico reduzindo assim sintomas relacionados a ele. O transplante de medula óssea é realizado em casos reincidentes. A Imunoterapia passiva utilizando-se de anticorpos monoclonais não produzidos pelo organismo (por isso passiva) baseia-se no desenvolvimento de uma droga-alvo que simula a atuação do sistema imune no tumor. O anticorpo sintético mais utilizado é o Rituximab que é uma imunoglobulina IgG1 anti-CD20 monoclonal. Dentre as vantagens deste tipo de tratamento pode-se citar a sua especificidade em atacar somente células tumorais e não células normais do pacientes que não estão relacionadas com o câncer. A quimioterapia quando associada com o anticorpo monoclonal Rituximab (R-CHOP), mostra eficientes resultados. Porém é uma terapia de elevado custo não sendo acessível a todos os pacientes.
+
+Em termos gerais o conjunto de mutações nos genes envolvidos nos processos que controlam proliferação, diferenciação, morte celular e reparo são responsáveis pela formação de câncer. Dentre eles já foram identificados mais de cem, sendo chamados por Alberts et al, (2004), como “Genes Críticos do Câncer”. Estes genes acumulam diversas alterações em sua expressão causando desregulação do ciclo celular e da diferenciação celular levando a um desequilíbrio no balanço entre replicação e morte celular, que resultam na carcinogênese. Os proto-oncogenes quando mutados passam a se chamar oncogenes e o aumento de sua função leva a formação do câncer. Por outro lado os genes supressores de tumor quando perdem a sua função levam a formação do tumor.
+Muitos oncogenes têm sido identificados em linfomas, principalmente devido ao grande número de translocações cromossômicas (quebra de um fragmento de dois cromossomos, o fragmento de um liga-se ao fragmento do outro) que nele podem ser encontradas. As mutações somáticas mais comuns são encontradas em locus envolvendo genes das regiões variáveis (genes V) das imunoglobulinas (Ig) e dos TCR (receptor de células T).  Desta forma rearranjos presentes nos loci de imunoglobulinas são um indicativo de que o tumor originou-se de uma célula B.
+De maneira geral, as neoplasias linfóides são o resultado do acúmulo de alterações nos genes reguladores do Ciclo Celular como por exemplo gene o BCL6 (B-cell CLL/lymphoma 6) e o gene MYC (v-myc myelocytomatosis viral oncogene homolog),18 associadas a alterações em genes essenciais na indução da apoptose, como o gene p53(tumor protein p53), que é o gene responsável por induzir a apoptose em células B do centro germinativo com danos no DNA. Phan e Favera (2004) reportaram que altas taxas de expressão do gene BCL6 bloqueiam a expressão do p53.
+O gene BCL6 age como um regulador multifuncional envolvido com o controle do ciclo celular, com a diferenciação linfocítica e com a resposta imune, devido a isso são bastante expressados em linfócitos e ainda estão relacionados com a formação do centro germinativo. Ele foi inicialmente identificado por apresentar alterações, em alguns casos de linfoma, como por exemplo no Linfoma difuso de grandes células B. Acredita-se que tenha uma função causal na transformação dessas células.
+O gene BCL2 (B-cell CLL/lymphoma 2) codifica uma família de proteínas repressores de transcrição que são reguladoras de apoptose através de uma via mitocondrial. Determinados linfomas de células B, possuem alterações de genes de Imunoglobulinas na cadeia pesada para o oncogene BCL2, o que causa um aumento na produção da proteína bcl-2. Tal proteína bloqueia a apoptose nas células de linhagem B, fazendo com que células B com danos no DNA sobrevivam e que se submetidas a outras alterações genéticas podem levar a formação de um tumor. Nas células do linfoma de Burkitt, o oncogene MYC pode também sofrer recombinações. Essas alterações desregulam a expressão da proteína c-myc, levando a um aumento anormal na proliferação das células B, que somada a outras mutações podem induzir a formação de tumor. Em uma parcela menor dos linfomas podem ser encontradas alterações que afetam os inibidores de quinases dependentes de ciclinas (Cdk), como p16INK4a, p21CIP1 e p27KIP1. As Cdks são uma família de proteínas quinases e fazem parte do sistema de controle do ciclo celular. Diversas enzimas controlam a atividade das Cdks ao longo do ciclo, as mais importantes são as ciclinas. Alterações nestas enzimas podem conferir maior resistência ao tratamento e maior agressividade da neoplasia.
+
+
+== Classificação ==
+
+
+=== OMS ===
+Publicada pela Organização Mundial de Saúde em 2000. Desde 1998 os membros das sociedades européias e norteamericanas de hematopatologia tem colaborado na elaboração de uma nova classificação da Organização Mundial de Saúde que representa uma versão atualizada do sistema REAL (Revised European-American Lymphoma Classification). Ela procura classificar o linfoma de acordo com o tipo celular....
+
+
+==== De Células B ====
+Linfoma Linfocítico de pequenas células/Leucemia Linfocítica Crônica
+Leucemia Prolinfocítica B
+Linfoma Linfoplasmocítico/Macroglobulinemia de Waldenström
+Linfoma esplênico da zona marginal
+Neoplasias dos plasmócitos
+Mieloma múltiplo
+Plasmocitoma
+Doença de depósito de Imunoglobulina Monoclonal
+Doença de cadeia pesada
+Linfoma extranodal/extraganglionar de célula B na zona marginal (MALT)
+Linfoma nodal de células B na zona marginal
+Linfoma Folicular
+Linfoma de células do manto
+Linfoma difuso de grandes células B
+Linfoma Mediastinal (tímico) de células B grandes
+Linfoma Intravascular de células B grandes
+Linfoma primário
+Linfoma de Burkitt
+Granulomatose Linfomatóide
+
+
+==== De Células T e NK (natural killer) ====
+Leucemia prolinfocítica T
+Leucemia Linfocítica de células T grandes granulares
+Leucemia Agressiva de células NK
+Leucemia/Linfoma de células T no adulto
+Linfoma Extranodal células NK/T, tipo nasal
+Linfoma de células T, tipo enteropático
+Linfoma Hepatoesplênico de células T
+Linfoma Blástico de células NK
+Micose fungóide / Síndrome de Sézary
+Doenças linfoproliferativas de células T CD 30 positivo cutâneo primário
+Linfoma Primário cutâneo anaplástico de células grandes
+Papulose Linfomatóide
+Linfoma Angioimmunoblástico de células T
+Linfoma Periférico de células T, inespecífico
+Linfoma Anaplástico de células grandes
+
+
+==== Linfoma de Hodgkin ====
+Linfoma de Hodgkin nodular linfócito predominante
+Linfoma de Hodgkin clássico
+Esclerose Nodular
+De Celularidade Mista
+Rica em Linfócitos
+Linfócito depletado ou não
+
+
+==== Doenças linfoproliferativas associadas a imunodeficiência ====
+Associada com doença imune primária
+Associada com o HIV
+Pós-transplante
+Associada com terapia de Methotrexato
+
+
+==== De Histiócitos e células dendriticas ====
+Sarcoma Histiocítico
+Histiocitose de células de Langerhans
+Sarcoma de células de Langerhans
+Sarcoma de células dendriticas/tumour
+Sarcoma Folicular de células dendriticas/tumour
+Sarcoma de células Dendriticas, inespecífica
+
+
+=== Working formulation ===
+A Working Formulation, publicada em 1982, corresponde a uma classificação morfológica descritiva, atualmente em desuso.
+
+
+==== Baixo grau ====
+Leucemia linfocítica crônica, linfocítico pequeno
+Linfoma folicular, predominantemente pequeno de de células clivadas
+Linfoma folicular, misturado (pequeno clivado e grandes células)
+
+
+==== Alto grau ====
+Linfoma imunoblástico, de células grandes
+Linfoma linfoblástico
+Linfoma de Burkitt de células pequenas não clivadasComposite
+Micose fungóide
+Histiocítico
+Plasmocitoma Extramedular
+Inclassificável
+
+
+== Referências ==

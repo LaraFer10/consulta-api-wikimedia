@@ -1,0 +1,80 @@
+O transportador de serotonina (SERT ou 5-HTT), também conhecido como transportador de serotonina dependente de sódio e transportador de soluto família 6 membro 4, é uma proteína que em humanos é codificada pelo gene SLC6A4. SERT é um tipo de transportador de proteína monoamina que transporta serotonina da fenda sináptica para o neurônio pré-sináptico.Este transporte de serotonina pela proteína SERT termina a ação da serotonina e a recicla em um maneira dependente de sódio. Esta proteína é o alvo de muitos medicamentos antidepressivos do SSRI e da classe dos antidepressivos tricíclicos. É um membro da família sodium: neurotransmitter symporter. Um polimorfismo de repetição no promotor deste gene mostrou que afeta a taxa de absorção de serotonina e pode desempenhar um papel na síndrome da morte súbita infantil, no comportamento agressivo em pacientes com a doença de Alzheimer, estresse pós-traumático e susceptibilidade a depressão em pessoas com trauma emocional.
+
+
+== Mecanismo de ação ==
+Os transportadores de serotonina  dependem tanto da concentração de íon potássio no citoplasma  concentrações de íon sódio e cloreto no fluido extracelular. Para funcionar corretamente o Transportador de Serotonina precisa do potencial de membrana criado pela adenosina trifosfatase de sódio-potássio.
+Primeiro um íon de sódio se liga ao transportador de serotonina, seguido pela serotonina, e então por íons de cloreto, assim, devido ao potencial de membrana, pode entrar na célula e liberar os elementos anteriormente vinculados. Logo após a liberação da serotonina no citoplasma um íon de potássio se liga ao transportador, que é agora capaz de voltar e retornar ao seu estado ativo.
+
+
+== Função ==
+O transportador de serotonina remove serotonina da fenda sináptica e devolve para o botão sináptico. Assim, ele termina os efeitos da serotonina e, simultaneamente, permite a sua reutilização pelo neurônio pré-sináptico.
+Os neurônios se comunicam usando mensageiros químicos, como a serotonina, entre as células. O transportador de proteína, através da reciclagem de serotonina, regula a sua concentração na fenda, ou sinapse, e, portanto, seus efeitos sobre a recepção de neurônio receptores.
+Estudos médicos tem mostrado que as alterações no metabolismo do transportador de serotonina parecem ser associados com diferentes fenômenos, incluindo o alcoolismo, depressão, transtorno obsessivo-compulsivo (TOC), amor romântico, hipertensão efobia social generalizada.
+O transportador de serotonina também está presente nas plaquetas; lá, a serotonina funciona como um substância vasoconstritora. Ele também serve como uma molécula de sinalização para induzir a agregação plaquetária.
+
+
+== Farmacologia ==
+O SERT atravessa a membrana plasmática 12 vezes. Ele pertence à família de transportadores monoaminas NE, DA, SERT. Os transportadores são alvos importantes para os agentes de tratamento de transtornos psiquiátricos. Drogas que reduzem a ligação da serotonina aos transportadores (inibidores da recaptação de serotonina, ou SRIs) são usados para tratar perturbações mentais. O inibidor seletivo da recaptação de serotonina (SIRS), fluoxetina, e os antidepressivos tricíclicos (TCA), clomipramina, são exemplos de inibidores da recptação de serotonina(SRIs).
+A seguir a elucidação de estruturas homólogas bacteriana transportador, LeuT, co-cristalizada com antidepressivos tricíclicos no vestíbulo de líderes do espaço extracelular para o substrato central foi deduzido que este sítio de ligação também representa o sítio de ligação relevante para antidepressivos obrigatório em SERT. No Entanto, estudos sobre SERT mostram que os antidepressivos tricíclicos e inibidores seletivos da recaptação de serotonina  ligam o sitio de ligação central sobrepondo-se ao sítio de ligação do substrato. A Drosophila transportador de dopamina, que exibe farmacologia semelhante a do SERT, foi cristalizada com antidepressivos tricíclicos e confirmou a anterior constatação de que o sítio de ligação do substrato é também o sítio de ligação do antidepressivo. A estrutura cristalina do SERT humano também foi resolvida recentemente.
+
+
+=== Ligantes ===
+DASB
+composto 4b: Ki = 17 pM; 710 vezes e 11,100 vezes seletivo sobre DAT e NET
+composto de (+)-12a: Ki = 180 pM, na hSERT; >1000 vezes seletiva sobre hDAT, hNET, 5-HT1A, e 5-HT6. Isosteres
+3-cis-(3-Aminocyclopentyl)indol 8a: Ki = 220 pM
+alostéricos modulador: 3'-Metoxi-8-metil-spiro{8-azabiciclo[3.2.1]octano-3,5'(4 H)-isoxazole} (composto 7a)
+
+
+== Genética ==
+
+O gene que codifica o transportador de serotonina é chamado de portador de soluto família 6 (transportador do neurotransmissor, serotonina), membro 4 (SLC6A4, consulte Solute carrier family).
+Em humanos, o gene é encontrado no cromossomo 17 na localização 17q11.1–p12.Mutações associadas com o gene podem resultar em alterações na função do transportador de serotonina, e experimentos com ratos identificaram mais de 50 diferentes alterações fenotípicas como resultado de uma variação genética.
+Estas alterações fenotípicas podem, por exemplo, aumentar a ansiedade e disfunção do intestino.
+Algumas das variações genéticas humanas associadas com o gene são:
+
+Comprimento da variação do  serotonina-transportador-gene ligado região polimórfica (5-HTTLPR)
+rs25531 — um único nucleotide polymorphism (SNP) no 5-HTTLPR
+rs25532 — outro SNP no 5-HTTLPR
+STin2 — um número variável de tandem repeats (VNTR) no funcional intron 2
+G56A no segundo éxon
+I425V no nono exão
+
+
+=== Variação de comprimento em 5-HTTLPR ===
+A região promotora do gene SLC6A4 contém um polimorfismo com repetições "short" e "long" em uma região: Região polimórfica ligada a 5-HTT (5-HTTLPR ou SERTPR).
+A variação short tem 14 repetições de uma sequência, enquanto a variação long tem 16 repetições. A variação "short" leva a uma menor transcrição para SLC6A4, e descobriu-se que ela pode em parte explicar os traços de personalidade relacionados à ansiedade.
+Este polimorfismo tem sido amplamente investigado em mais de 300 estudos científicos (desde 2006).
+O 5-HTTLPR polimorfismo pode ser subdividido ainda:
+Um estudo publicado em 2000 encontrou 14 variantes de alelos (14-A, 14-B, 14-C, 14-D, 15, 16-A, 16-B, 16-C, 16-D 16-E, 16-F, 19, 20 e 22) em um grupo de cerca de 200 Japoneses e pessoas caucasianas.
+Além de alterar a expressão da proteína SERT e das concentrações extracelular de serotonina no cérebro, a variação de 5-HTTLPR está associada com alterações na estrutura do cérebro. Um estudo descobriu menos matéria cinzenta no córtex cingulado perigenual anterior e na amígdala para o alelo curto portadores do polimorfismo 5-HTTLPR em comparação com indivíduos do genótipo long/long.Em contraste, uma meta-análise, feita em 2008, não encontrou nenhuma associação significativa entre o polimorfismo  5-HTTLPR e o autismo. Uma hipótese de gene-ambiente de interação entre o alelo short/short do 5-HTTLPR e o estresse de vida como preditor para depressão sofreu um destino semelhante: depois de um influente relatório inicial houve resultados mistos em replicação, e uma meta-análise de 2009 foi negativa. Ver o 5-HTTLPR para obter mais informações.
+
+
+=== rs25532 ===
+rs25532 é um SNP (C>T) próximo ao sítio do 5-HTTLPR.
+Ele foi examinado em conexão com transtorno obsessivo compulsivo (TOC).
+
+
+=== I425V ===
+I425V é uma mutação rara no nono éxon.
+Os pesquisadores encontraram essa variação genética em famílias não relacionadas com o TOC, que leva a problemas na função e regulação do transportador.
+Uma segunda variante no mesmo gene de alguns pacientes com esta mutação sugere um "double hit" genético, resultando em maiores efeitos bioquímicos e sintomas mais graves.
+
+
+=== VNTR no STin2 ===
+Outro polimorfismo não codificado é um VNTR no segundo íntron(STin2). Ele é encontrado com três alelos: 9, 10 e 12 repetições.
+Uma metanálise concluiu que os 12 alelos repetidos do STin2 MVNTR tinham algumas pequenas (com razão de possibilidades de 1,24), mas estatisticamente significativa associação com a esquizofrenia.
+Uma metanálise de 2008 não encontrou nenhuma associação significativa entre o STin2 MVNTR e autismo.
+Além disso, em 2003, uma metanálise de transtornos afetivos, transtorno depressivo maior e transtorno bipolar, encontrou uma pequena associação com o polimorfismo do íntron 2 VNTR, mas os resultados da metanálise dependeram de um grande efeito de um estudo individual.O polimorfismo também tem sido relacionado a traços de personalidade com um estudo russo de 2008 encontrando indivíduos com STin2.10 alelo com menor score de neuroticismo conforme medido com o Eysenck Personality Inventory.
+
+
+== Neuroimagem ==
+A distribuição do transportador de serotonina no cérebro pode ser mapeada com tomografia por emissão de pósitrons usando radioligando chamados DASB e DAPP, os primeiros estudos sobre o cérebro humano foram relatados em 2000. DASB e DAPP não são os únicos radioligantes para o transportador de serotonina. Existem inúmeros outros, com os mais populares provavelmente sendo o β-CIT com iodo-123 isótopo que é usado para digitalização do cérebro com tomografia computadorizada por emissão de fóton único (SPECT). Os radioligantes foram utilizados para examinar se as variáveis como idade, sexo ou genótipo estão associados com a ligação diferencial do transportador de serotonina. Em indivíduos Saudáveis que tem pontuação elevada de neuroceticismo — um traço de personalidade no Inventário de Personalidade NEO Revisado Revised NEO Personality Inventory— foram encontrados mais ligação do transportador de serotonina no tálamo.
+
+
+== Neuroimagem e genética ==
+Estudos sobre o transportador de serotonina têm combinado de métodos de neuroimagem e de genética, por exemplo,
+um estudo de morfometria baseada em voxel descobriu menos matéria cinzenta no córtex perigenual cingulado anterior e na amígdala para portadores de alelos curtos do polimorfismo 5-HTTLPR em comparação com indivíduos com o genótipo long/ long.
+
+
+== Referências ==

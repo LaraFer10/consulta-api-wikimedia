@@ -1,0 +1,13 @@
+Colagenases são enzimas que quebram as ligações peptídicas do colágeno. Elas ajudam a destruir estruturas extracelulares na patogênese de bactérias como Clostridium. Elas são considerados um fator de virulência, facilitando a propagação de gangrena gasosa. Eles normalmente visam o tecido conjuntivo nas células dos músculos e outros órgãos do corpo.Colágeno, um componente essencial da matriz extracelular de animais, é feito através de clivagem de pro-colágeno por colagenase uma vez segregado da célula. Isso interrompe a formação de grandes estruturas dentro da própria célula.
+Além de ser produzida por algumas bactérias, a colagenase pode ser produzida pelo corpo como parte da sua resposta imune normal. Esta produção é induzida por citocinas, que estimulam as células como fibroblastos e osteoblastos, e podem causar dano tecidual indireto.
+
+
+== Usos terapêuticos ==
+Colagenases são indicadas para uso médico no:
+
+tratamento da contratura de Dupuytren e da doença de Peyronie.
+cicatrização.
+
+
+=== A família de MEROPS M9 ===
+Este grupo de metaloproteases constitui a família de peptidases MEROPS M9, subfamílias M9A e M9B (colagenase microbiana, proteína homóloga MA(E)). O enovelamento de proteínas do domínio peptidase para os membros desta família se assemelha a da termolisina, o exemplo do tipo homólogo MA e os resíduos do sítio ativo previstos para os membros desta família e termolisina ocorrem na sequencia motivo de HEXXH.Foram identificadas colagenases microbianas de bactérias dos gêneros Vibrio e Clostridium. A colagenase é usada durante um ataque bacteriano para degradar a barreira de colágeno do hospedeiro durante a invasão. As bactérias do tipo Vibrio às vezes são usadas em hospitais para remover o tecido morto de queimaduras e úlceras. Clostridium histolyticum é o patógeno que causa a gangrena gasosa; no entanto, a colagenase tem sido usada isoladamente no tratamento de escaras. A clivagem do colágeno ocorre na sequencia Xaa+Gly das bactérias Vibrio e Yaa+Gly  nas colagenases de Clostridium.

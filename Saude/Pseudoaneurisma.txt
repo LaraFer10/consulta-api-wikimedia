@@ -1,0 +1,43 @@
+
+== Definição ==
+Um pseudoaneurisma, também conhecido como falso aneurisma, é uma doença vascular em que o sangue flui entre as duas camadas externas de uma artéria, a túnica média e a túnica adventícia. Geralmente é causada por uma lesão penetrante no vaso, que sangra, mas forma um espaço entre as duas camadas acima, em vez de sair do vaso. Pode ser pulsátil e pode assemelhar-se a um aneurisma verdadeiro. Um verdadeiro aneurisma envolve todas as três camadas do vaso sanguíneo. Um aneurisma dissecante ocorre quando o sangue do lúmen do vaso segue entre as duas camadas internas, a túnica íntima e a túnica média. Um hematoma perivascular é uma coleção de sangue externa às três camadas de vasos. Por estar próximo ao vaso, também pode ser pulsátil e pode ser confundido com um pseudoaneurisma ou aneurisma.
+
+
+== Sinais e sintomas ==
+Os pseudoaneurismas geralmente apresentam-se como uma massa dolorosa, sensível e pulsátil. A pele no local é, por vezes, eritematosa (vermelha).O paciente pode descrever uma história de cateterismo ou trauma e pode referir que a massa pulsátil está a crescer gradualmente.
+
+Inchaço ou sensibilidade numa área específica, especialmente se submetido a um procedimento cirúrgico recentemente;
+Massa dolorosa;
+Sopro sibilante audível com estetoscópio;
+
+
+== Diagnóstico ==
+Deve ser suspeitado se o paciente tiver história de trauma arterial, podendo incluir cateterismo, trauma contuso ou trauma penetrante. O trauma contuso ou penetrante pode causar uma rutura na parede arterial, levando a um pseudoaneurisma. Adicionalmente, se o paciente apresenta uma massa dolorosa, pulsátil e sensível no local do cateterismo ou trauma. O diagnóstico deve ser confirmado por ultrassonografia (EcoDoppler), que mostrará o fluxo sanguíneo arterial para o pseudoaneurisma. Um AngioTC/angiotomografia ou angiografia convencional também pode diagnosticar um pseudoaneurisma.
+
+
+== Localizações ==
+Um pseudoaneurisma pode formar-se em qualquer artéria. Hoje, os pseudoaneurismas da artéria femoral e os pseudoaneurismas de fístulas arteriovenosas utilizadas para hemodiálise são os mais comuns. Os pseudoaneurismas podem formar-se nas pernas, dias, meses ou mesmo anos após um trauma contuso ou penetrante.
+Além disso, podem também ocorrer no coração, principalmente após Enfarte Agudo do Miocárdio (EAM).
+Os pseudoaneurismas associados à pancreatite podem ocorrer em vários dos vasos abdominais, incluindo a artéria mesentérica superior, artéria pancreaticoduodenal, entre outras.
+
+
+== Tratamento ==
+
+
+=== Stent ===
+Como o pseudoaneurisma comunica com uma artéria através de um orifício na parede arterial, um stent pode ser colocado endovascularmente através desse orifício para "excluí-lo" ou para evitar que receba fluxo sanguíneo da artéria e agrave o quadro clínico. O stent permanece no local e o pseudoaneurisma, sem fluxo contínuo de sangue arterial, coagula (por trombose). As vantagens dessa técnica são a alta taxa de sucesso e o facto de ser pouco invasivo (sem a necessidade de cirurgia aberta). Possíveis complicações incluem deslocamento do stent, fuga de sangue para o pseudoaneurisma, fratura do stent e infeção do stent ou do local de inserção arterial.
+
+
+=== Compressão da sonda de ultrassom ===
+Outra opção de tratamento é a compressão da sonda de ultrassom do "pescoço" do pseudoaneurisma. O "pescoço" do pseudoaneurisma é o caminho estreito do fluxo sanguíneo entre a artéria, através da parede arterial e para a cavidade do pseudoaneurisma. A artéria, o pescoço e o pseudoaneurisma são vistos na ultrassonografia. A sonda de ultrassom pode ser empurrada firmemente contra a pele do paciente para comprimir o colo do pseudoaneurisma por cerca de 20 minutos, levando à coagulação do sangue dentro do pseudoaneurisma; após a remoção da sonda, o pseudoaneurisma provavelmente permanecerá coagulado e não continuará a expandir. O procedimento pode ser interrompido precocemente devido ao desconforto do paciente. Tem menos sucesso se o paciente for obeso, pois há mais tecido adiposo entre a pele e o pescoço do pseudoaneurisma. Também tem menos sucesso se o colo do pseudoaneurisma for mais largo, pois é menos provável que coagule durante o período de compressão. Finalmente, também é muito menos bem-sucedido se o paciente estiver a tomar aspirina, varfarina ou outro anticoagulante, uma vez que estes são fármacos anticoagulantes. As vantagens desse método é ser menos invasivo a interromper o fluxo sanguíneo arterial de um pseudoaneurisma.
+
+
+=== Injeção de trombina guiada por ultrassom ===
+Outra técnica popular e minimamente invasiva usada hoje é a injeção de trombina com a ajuda de ultrassom. A trombina (fator IIa da cascata de coagulação) é um fator de coagulação que converte o fibrinogénio em fibrina, que então polimeriza para formar um coágulo sanguíneo. Sob a orientação do ultrassom, a trombina pode ser injetada diretamente num pseudoaneurisma, causando a coagulação. Como vantagens, esta técnica é relativamente fácil de executar, é bem-sucedida e é minimamente invasiva. No entanto, uma contra-indicação para esse procedimento é a presença de fístula arteriovenosa (comunicação entre artéria e veia), além do pseudoaneurisma. Se esta condição estiver presente, a trombina injetada no pseudoaneurisma pode entrar na circulação venosa e possivelmente causar trombose à distância (trombose venosa profunda, por exemplo).
+
+
+=== Ligação cirúrgica (com ou sem bypass) ===
+A cirurgia aberta também pode ser realizada para corrigir pseudoaneurismas e/ou evitar que se expandam. Se a artéria for pequena e "dispensável" (os tecidos que fornece têm fluxo sanguíneo colateral adequado) então a artéria que fornece o pseudoaneurisma pode ser ligada proximal e distalmente ao pseudoaneurisma. O pseudoaneurisma pode (ou não) ser removido. Se os tecidos fornecidos pela artéria não tiverem fluxo colateral suficiente, uma veia ou enxerto sintético teria que ser anastomosado proximal e distalmente para permitir o fluxo sanguíneo contínuo ao redor do pseudoaneurisma. Esta técnica obteve sucesso no tratamento de pseudoaneurismas por muitos anos, constituindo uma das suas vantagens. No entanto, é mais invasivo (uma grande incisão na pele é necessária) e há mais dor pós-operatória e risco de infeção. Uma das opções menos invasivas pode ser preferida num paciente com muitas comorbilidades, que apresenta alto risco cirúrgico.
+
+
+== Referências ==

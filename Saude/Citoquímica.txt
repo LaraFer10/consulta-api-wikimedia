@@ -1,0 +1,14 @@
+As técnicas citoquímicas  consistem num corte de tecido (pela rotina histológica) aderido a uma lâmina na qual se irá incubar diferentes reagentes (corantes e não corantes).
+Citoquímica é o estudo da composição química celular e dos processos biológicos a nível molecular que se desenrolam no interior das células ainda que também se inclua aqui a área de histoquímica (coloração em tecidos) uma vez que os tecidos são constituídos por células. A citoquímica dedica-se ainda à identificação e localização dos compostos químicos e macromoléculas nas células. Esse estudo só é possível usando diferentes reagentes que, ao reagirem com as estruturas do tecido, permitem identificar as substâncias/estruturas em estudo bem como a sua localização.
+
+
+== Controlos e contrastante ==
+Para se realizar a técnica e esta ser válida há a necessidade de incluir um controlo positivo - um corte em que previamente sabemos existir a substância/estrutura a detetar e que por isso o resultado deve ser positivo. O controlo negativo é utilizado em apenas algumas técnicas e consiste num corte de tecido onde não existe a substância/estrutura ou esta foi retirada por processos químicos/físicos e que irá demonstrar se existe coloração inespecíficas, ou seja, estruturas que não devem corar por uma técnica, coram. Normalmente, aquando da coloração é também incubado o corte com um contrastante, um corante de uma cor totalmente diferente da da estrutura/substância e que permite uma localização histológica da mesma no tecido.
+
+
+== Técnicas ==
+Há diversas tipos de técnicas, sendo uma delas a impregnação argêntica que apesar de não se tratar de uma coloração mas sim uma deposição de pigmentos ao redor da substância/estrutura a detetar é incluída nas técnicas de coloração. Nesta técnica é utilizado o fator da deposição da prata metálica que depois é substituída por cloreto de ouro para que a coloração possa permanecer igual mesmo quando exposta à luz (exemplo : metanamina prata).Uma técnica cuja deteção não é feita pela coloração da substância mas sim da falta da mesma é o PAS, em que é utilizado dois cortes em que um é feita a incubação com diastase que irá digerir o glicogénio e retirá-lo do corte. Assim, sabendo que o o glicogénio é corado com rosa (como o restante corte) quando no corte tratado com diastase há espaços brancos, estes são atribuídos ao glicogénio.São diversas as técnicas existentes como:
+
+
+== Bibliografia ==
+Bancroft - Theory and Practice of Histological Techniques

@@ -1,0 +1,33 @@
+Os baculovírus, membros da família Baculoviridae, são vírus que infectam artrópodes, majoritariamente insetos da ordem Lepidoptera, assim como insetos das ordens Diptera e Hymenoptera. Por causarem infecção letal nestes animais, tais vírus são aplicados como agentes de controle biológico de insetos pragas da agricultura. Por meio de técnicas de engenharia genética, os baculovírus também são utilizados como vetores de expressão de proteínas heterólogas, e em terapia gênica.
+
+
+== Partícula viral ==
+Baculovírus possuem DNA fita dupla, circular, superenrolado, com tamanho variando de 80 a 180 Kpb, o qual codifica entre 90 e 180 genes. O DNA viral encontra-se associado a uma estrutura protéica e a este conjunto dá-se o nome de nucleocapsídeo. O nucleocapsídeo dos baculovírus tem formato de bastão, com 200 a 450 ηm de comprimento e com 30 a 100 ηm de diâmetro. Quando envoltos por um envelope de bicamada lipídica, são denominados vírions. Adicionalmente, estes vírions são envolvidos por uma matriz protéica, formando o corpo de oclusão (OB, do inglês Occlusion Body), estrutura que confere estabilidade física e biológica às partículas virais. Quando a matriz protéica dos OB é formada por poliedrina, estes são denominados poliedros, quando por granulina, grânulos.
+
+
+== Classificação ==
+A família Baculoviridae apresenta dois grupos: Nucleopolyhedrovirus (NPV) e Granulovirus (GV), designações que fazem referência às proteínas que constituem os OB. Os NPV são classificados como SNPV ou MNPV de acordo com o número de nucleocapsídeos presentes nos ODV: Single (S), quando possui apenas um, ou Multiple (M), caso possua múltiplos nucleocapsídeos por envelope.Os baculovirus apresentam dois fenótipos, Budded virus (BV) e Occlusion-derived virus (ODV), os quais apresentam estrutura de nucleocapsídeo semelhante e possuem a mesma informação genética. Os BV são responsáveis pela infecção sistêmica do hospedeiro (célula a célula), enquanto os ODV são responsáveis pela transmissão dos vírus entre insetos hospedeiros.Atualmente, a família Baculoviridae possui quatro gêneros: Alphabaculovirus (NPVs de Lepidoptera), Betabaculovirus (GVs de Lepidoptera), Gammabaculovirus (NPVs de Hymenoptera) e Deltabaculovirus (NPVs de Diptera).
+
+
+== Ciclo biológico dos baculovírus ==
+A infecção das larvas pelos vírus se dá principalmente por via oral, por ingestão da forma viral oclusa. Após a ingestão, os vírions são liberados mediante a dissolução dos corpos de oclusão nas condições alcalinas (pH>7,5) e sob ação de proteases do tubo digestivo do inseto. Em contato com as microvilosidades intestinais, os nucleocapsídeos invadem as células epiteliais, onde se multiplicam no núcleo da célula sem ainda produzirem corpos de oclusão, formando BV e caracterizando o que é conhecido como infecção primária. Os vírus extracelulares (BV), quando alcançam a hemolinfa da larva hospedeira, podem gerar uma infecção sistêmica. A partir de então ocorre a produção de grandes quantidades de nucleocapsídeos e posterior formação dos corpos de oclusão no núcleo das células dos tecidos susceptíveis da lagarta, caracterizando a infecção secundária. Os insetos mortos são importantes fontes de inóculos virais para infecções seguintes, tanto no campo quanto em laboratório.
+
+
+== Aplicações tecnológicas dos baculovírus ==
+Os baculovírus possuem três principais aplicações tecnológicas, sendo utilizado para: controle biológico de pragas da agricultura; terapia gênica; e como vetor de expressão de proteínas heterólogas.
+
+
+=== Controle biológico ===
+Os insetos são responsáveis por gerar danos a produção agrícola global, gerando perdas que podem chegar a 15% da produção. A utilização de inseticidas químicos gera sérios efeitos negativos derivados de seu uso continuado: apresentam ação em organismos não alvo, favorecem o aumento da resistência dos insetos a estes produtos, poluem o ambiente, entre outras conseqüências negativas. Como alternativa ao uso dos inseticidas químicos, os baculovírus podem ser empregados como uma forma de manejo racional de pragas dos agrossistemas (principalmente da ordem Lepidoptera), sem, porém, trazer danos ao meio ambiente.
+
+
+=== Vetor de expressão ===
+O sistema baculovírus de expressão de proteínas heterólogas apresenta uma série de vantagens, entre as quais se podem destacar:
+
+Oferece um ambiente eucariótico (células de inseto) para expressão de proteínas, que possibilita a obtenção de proteínas biologicamente ativas;
+Possui uma variedade de linhagens celulares que suportam a replicação viral;
+Apresenta intensa expressão de proteínas heterólogas, garantida principalmente pela ação de promotores fortes very late, como o polh (promotor do gene da poliedrina);
+Permite a inserção de grandes seqüências de DNA, sem, no entanto, prejudicar o empacotamento do genoma e formação de novas partículas virais, que proporcionarão novas propagações futuras do vírus recombinante.
+
+
+== Referências ==

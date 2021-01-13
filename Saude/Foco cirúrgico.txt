@@ -1,0 +1,32 @@
+Um foco cirúrgico é um dispositivo médico destinado a auxiliar a equipe médica durante um procedimento cirúrgico, iluminando uma área local ou cavidade do paciente.
+
+
+== História ==
+
+
+=== Desenvolvimento técnico ===
+Em meados da década de 1850, as salas de operações (no Hemisfério norte) foram construídas em direcionadas para o sudeste, com janelas no teto para se beneficiar da luz natural, tanto quanto possível. O maior problema era a dependência da iluminação e se um procedimento poderia ser feito na hora do dia e nas condições climáticas. Além disso, um médico, enfermeiro ou equipamento médico bloqueava facilmente a luz.  O uso de espelhos nos quatro cantos do teto para refletir a luz do sol em direção à mesa de operações apenas aliviou ligeiramente esses problemas.
+Diversas tentativas foram feitas para usar um condensador óptico em uma luz indireta para reduzir o aquecimento, mas sem sucesso. A inserção de luz elétrica na sala de cirurgia, na década de 1880, foi acompanhada por problemas. Com o início da tecnologia elétrica, o controle da luz emitida era ruim. A luz elétrica ainda estava se movendo e difusa, com grande radiação de calor.
+Os diodos emissores de luz, como fontes de luz, removem o problema da radiação de calor e reduzem os requisitos de energia.
+
+
+== Terminologia e medições ==
+Lux
+Unidade para a quantidade de luz visível medida por um luxímetro em um determinado ponto.Iluminância Central (Ec)
+Iluminância (medida em lux) a 1m de distância da superfície emissora de luz no centro do campo de luz .Centro do campo de luz
+Ponto no campo de luz (área iluminada) onde a iluminância atinge a intensidade máxima de lux. É o ponto de referência para a maioria das medições.Profundidade de iluminação
+A distância entre os pontos de 20% de intensidade de iluminação acima e abaixo do ponto central. A partir do ponto de iluminação máxima, que é o centro do campo de luz a 1 metro da superfície emissora de luz, o fotômetro é movido em direção à luz até que a intensidade da luz medida caia para 20% do valor máximo. A distância entre o centro e este ponto é definida como L1. A distância medida de forma semelhante na direção da luz é L2. A profundidade da iluminação sem precisar refocalizar é a soma das duas distâncias L1 e L2. Na segunda edição da norma da IEC, publicada em 2009, o valor limite foi revisado de 20% para 60%.Diluição de sombra
+A capacidade da luz para minimizar o efeito de obstruções.Diâmetro do campo de luz (D10)
+Diâmetro do campo de luz ao redor do centro do campo de luz, terminando onde a iluminância atinge 10% de Ec. O valor relatado é a média de quatro diferentes seções transversais através do centro do campo de luz.D50
+Diâmetro do campo de luz ao redor do centro do campo de luz, terminando onde a iluminância atinge 50% de Ec. O valor relatado é a média de quatro diferentes seções transversais através do centro do campo de luz
+
+
+== Ver também ==
+Oxímetro de pulso
+Otoscópio
+Instrumento cirúrgico
+Bisturi
+Unidade de Terapia Intensiva (UTI)
+
+
+== Referências ==

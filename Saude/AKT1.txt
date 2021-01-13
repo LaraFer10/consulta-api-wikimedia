@@ -1,0 +1,27 @@
+AKT1, do inglês V-akt murine thymoma viral oncogene homolog 1, é uma enzima que em humanos é codificada pelo gene AKT1.
+A proteína quinase serina/treonina codificada pelo gene AKT1 está cataliticamente inactiva em fibroblastos privados de soro e em fibroblastos imortalizados. AKT1 e o ATK2 são activados por factores de crescimento derivados de plaquetas. A activação é rápida e específica, não sendo anulada por mutações no domínio de homologia a plecstrina da AKT1. Foi demonstrado que a activação ocorre através do fosfoinositol 3-quinase.
+No sistema nervoso em desenvolvimento, o AKT é um mediador crítico da sobrevivência neuronal induzida por factores de crescimento. Os factores de crescimento podem suprimir a apoptose de uma maneira independente de transcrição, por activação da quinase serina/treonina AKT1, que depois fosforila e inactiva componentes da apoptose.
+Múltiplos variantes de transcriptos, que sofreram splicing alternativo, foram encontrados para este gene.Ratos que não possuem AKT1 mostram uma redução em 25% da massa corporal, indicando que este gene é fundamental para que os sinais dos factores de crescimento sejam transmitidos, mais provavelmente através do receptor IGF1. Os ratos que não possuem AKT1 são também resistentes ao cancro: apresentam atrasos consideráveis no crescimento de tumores iniciados, por exemplo pelo oncogene NEU.
+
+
+== Interações ==
+AKT1 mostrou interação com Phosphoinositide-dependent kinase-1, Keratin 10, Integrin-linked kinase, TSC2, GAB2, TRIB3, NPM1, BRCA1, BRAF, C-Raf, MAPK14, MARK2, MAP2K4, MTCP1, TCL1A, Nerve Growth factor IB, MAPKAPK2, PRKCQ, Androgen receptor, Heat shock protein 90kDa alpha (cytosolic), member A1, Plexin A1, MAP3K11, TSC1, MAP3K8, Mammalian target of rapamycin, PKN2, AKTIP, YWHAZ, CHUK e CDKN1B.
+
+
+== Referências ==
+
+
+== Leitura adicional ==
+Hemmings BA (1997). «Akt signaling: linking membrane events to life and death decisions.». Science. 275 (5300): 628-30. PMID 9019819 
+Vanhaesebroeck B, Alessi DR (2000). «The PI3K-PDK1 connection: more than just a road to PKB.». Biochem. J. 346 Pt 3: 561-76. PMID 10698680 
+Chan TO, Rittenhouse SE, Tsichlis PN (2000). «AKT/PKB and other D3 phosphoinositide-regulated kinases: kinase activation by phosphoinositide-dependent phosphorylation.». Annu. Rev. Biochem. 68: 965-1014. PMID 10872470. doi:10.1146/annurev.biochem.68.1.965  !CS1 manut: Nomes múltiplos: lista de autores (link)
+Pekarsky Y, Hallas C, Croce CM (2001). «Molecular basis of mature T-cell leukemia.». JAMA. 286 (18): 2308-14. PMID 11710897  !CS1 manut: Nomes múltiplos: lista de autores (link)
+Dickson LM, Rhodes CJ (2004). «Pancreatic beta-cell growth and survival in the onset of type 2 diabetes: a role for protein kinase B in the Akt?». Am. J. Physiol. Endocrinol. Metab. 287 (2): E192-8. PMID 15271644. doi:10.1152/ajpendo.00031.2004 
+Manning BD (2004). «Balancing Akt with S6K: implications for both metabolic diseases and tumorigenesis.». J. Cell Biol. 167 (3): 399-403. PMID 15533996. doi:10.1083/jcb.200408161 
+Shinohara M, Chung YJ, Saji M, Ringel MD (2007). «AKT in thyroid tumorigenesis and progression.». Endocrinology. 148 (3): 942-7. PMID 16946008. doi:10.1210/en.2006-0937  !CS1 manut: Nomes múltiplos: lista de autores (link)
+
+
+== Ver também ==
+AKT
+AKT2
+AKT3

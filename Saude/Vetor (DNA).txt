@@ -1,0 +1,9 @@
+Um vetor é uma molécula de DNA em que o fragmento de DNA a ser clonado é ligado ao DNA de uma célula.
+Um vetor pode, por exemplo, carregar consigo um gene resistente a antibióticos, replicar-se com autonomia, e possuir uma sequência conhecida por endonuclease.
+
+
+== Ver também ==
+Plasmídeo
+Retrovírus
+Bacteriófago lambda
+YaCs

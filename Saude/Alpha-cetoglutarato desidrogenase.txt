@@ -1,0 +1,18 @@
+
+== Introdução ==
+A enzima α-cetoglutarato desidrogenase é responsável por catalisar a descarboxilação de um α-cetoácido, o α-cetoglutarato, produzindo o segundo CO2 e o segundo NADH do ciclo do ácido cítrico. Essa enzima faz parte do complexo multienzimático da α-cetoglutarato desidrogenase ou oxoglutarato desidrogenase, sendo um importante componente do ciclo do ácido cítrico e do metabolismo do glutamato . 
+
+
+== Complexo multienzimático ==
+O complexo da α-cetoglutarato desidrogenase é um importante componente mitocondrial. Ele consiste em três proteínas que são codificadas por genes separados, os quais já foram caracterizados em eucariotos e procariotos , .
+Esse complexo multienzimático é composto pelas enzimas α-cetoglutarato desidrogenase (EC 1.2.4.2) (E1), dihidrolipoamida acetiltransferase (EC 2.3.1.61) (E2) e dihidrolipoamida desidrogenase (EC 1.8.1.4) (E3). Juntas, essas enzimas catalisam a reação de conversão do α-cetoglutarato, coenzima A e NAD+ (dinucleótido de nicotinamida e adenina) em succinil-CoA, NADH e CO2, utilizando tiamina e pirofosfato como cofator. A reação geral catalisada pelo complexo é irreversível devido à remoção do CO2 gerado na primeira etapa pela E1.
+A proteína humana E1 contém 962 aminoácidos ligados e utiliza o difosfato de tiamina (TDP) como cofator. A enzima E1 catalisa a descarboxilação oxidativa do α-cetoglutarato e a ligação subsequente do fragmento succínico resultante a um resíduo de enxofre de um ácido lipóico na proteína E2. Essa reação é fisiologicamente irreversível divido à liberação do CO2.
+A enzima E2  humana é composta por 453 aminoácidos e catalisa a transferência de quatro fragmentos de carbono do TDP ligado à enzima E1 para a coenzima A, produzindo succinil-CoA. A E2 também transfere equivalentes redutores para a flavoproteína presente em E3. As proteínas E1 e E2 são exclusivas do complexo da α-cetoglutarato desidrogenase, entretanto a proteína E3 é comum a esse complexo multienzimático e ao complexo da piruvato desidrogenase.
+E3 é uma flavoproteína com 464 aminoácidos que catalisa a transferência de dois elétrons para o NAD+, gerando NADH + H+. Estudos com a proteína E3 de humanos demonstraram que o resíduo de lisina 54 é necessário para a interação proteína-FAD e para a eficiência catalítica da enzima. As reações catalisadas pela E2 e E3 são reversíveis em condições fisiológicas.
+
+
+== Regulação ==
+Vários inibidores reduzem a atividade do complexo da α-cetoglutarato desidrogenase. As espécies reativas de oxigênio (EROs) podem inativar o complexo, tendo sido proposto o papel dessas moléculas no aumento da sensibilidade dos tecidos à lesão causada pela isquemia e reperfusão. Além disso, esse complexo é altamente regulado por outras moléculas, sendo o principal local de controle do fluxo metabólico através do ciclo do ácido cítrico. A enzima α-cetoglutarato desidrogenase de humanos é inibida por seus produtos finais, succinil-CoA e NADH e também é dependente da relação ATP/ADP, NADH/NAD+ e da atividade da isocitrato desidrogenase , .
+
+
+== Referências ==

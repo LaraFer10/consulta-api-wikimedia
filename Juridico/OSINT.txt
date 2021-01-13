@@ -1,0 +1,21 @@
+OSINT (sigla para Open source intelligence ou Inteligência de Fontes Abertas) é o termo usado, principalmente em inglês, para descrever a inteligência, no sentido de informações, como em serviço de inteligência, obtida através dados disponíveis para o público em geral, como jornais, revistas científicas e emissões de TV. OSINT é uma das fontes de inteligência. É conhecimento produzido através de dados e informações disponíveis e acessíveis a qualquer pessoa.
+Open Source Intelligence (OSINT). É um modelo de inteligência que visa encontrar, selecionar e adquirir informações de fontes públicas e analisá-las para que junto com outras fontes possam produzir um conhecimento. Na comunidade de inteligência (IC), o termo "aberto" refere-se a fontes disponíveis publicamente.
+As fases que abrangem a coleta especializada segundo fontes e meios utilizados para a obtenção das informações englobam basicamente quatro técnicas. Convencionalmente separadas em três de cunho sigiloso e uma de natureza ostensiva. Nos países centrais, cerca de 80 a 90% dos investimentos governamentais na área de Inteligência são absorvidos por este estágio do ciclo. Os trabalhos acadêmicos que versam sobre Inteligência definem as técnicas de coleta através de acrônimos derivados do uso norte-americano: HUMINT (Inteligência de fontes humana), SIGINT (Inteligência de sinais), IMINT (Inteligência de imagens) e OSINT (Inteligência de fontes abertas).
+História da Inteligência de fontes abertas 
+O Foreign Broadcast Information Service (FBIS) foi serviço norte-americano pioneiro no trato com OSINT. Iniciou suas atividades ao final da década de 1930, na Universidade de Princenton. Durante a Segunda Guerra Mundial, teve como função analisar os noticiários internacionais captados por rádio e durante a Guerra Fria, monitorar publicações oficiais provenientes da União das Repúblicas Socialistas Soviéticas, como o Pravda e o Izvestia. Com o fim da Guerra Fria, o FBIS passou por um período de ostracismo, até que os atentados, em setembro de 2001, contra o World Trade Center e o Pentágono, trouxeram à tona a importância da utilização das fontes abertas.
+Em oito de novembro de 2005, John Negroponte, o czar da Inteligência norte-americana, anunciou a criação de um departamento voltado exclusivamente para a coleta, reunião e produção de conhecimento a partir de fontes abertas - processo conhecido na literatura especializada como Open Source Intelligence (OSINT). O departamento, integrante da estrutura da Agência Central de Inteligência (CIA), foi criado com a incumbência de funcionar como um centro especializado da Agência. A  institucionalização do Centro de Fontes Abertas (Open Source Center – OSC) insere-se nos esforços de modernização e reforço da Inteligência dos Estados Unidos da América.
+Por que utilizar fontes abertas?
+As informações coletadas por meio de fontes abertas, possuem baixo custo, se comparado as onerosas operações de campo.
+A maior parte dos gastos com espionagem seria, portanto, desnecessária, ocorrendo principalmente porque autoridades e acadêmicos tendem a confundir Inteligência com segredo. 
+No entanto, a separação entre o que é secreto e o que é ostensivo é incerta; Notícias em jornais muitas vezes são baseadas em informações consideradas secretas. Como exemplo de Vazamento, podemos citar o caso WIKILEAKS.
+Fica óbvio que a grande vantagem das fontes abertas é o alto grau de oportunidade e o baixo custo para obtê-las. A OSINT torna-se atraente principalmente em épocas de contingenciamento orçamentário na atividade de Inteligência.  
+
+
+== Ver também ==
+HUMINT
+IMINT
+MASINT
+COMINT
+ELINT
+FISINT
+SIGINT

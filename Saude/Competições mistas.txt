@@ -1,0 +1,76 @@
+Em competições esportivas, considera-se como de sistema misto todo torneio que não seja estruturado na forma de "todos contra todos" nem seja simplesmente eliminatório. Trata-se de sistemas nos quais, em cada fase, os competidores são organizados em grupos e disputam um determinado número de vagas para a próxima fase.
+
+
+== Elementos dos sistemas mistos ==
+No limite, se houvesse um único grupo formado por todos os competidores do torneio e se o número de vagas fosse apenas 1, então teríamos apenas uma fase, a vaga equivaleria ao título de campeão e o sistema seria de todos contra todos. No limite inverso, se todos os grupos fossem formados por apenas 2 competidores e o número de vagas em cada grupo fosse sempre 1, então o número de fases seria o máximo possível e o sistema seria eliminatório.
+Dentro desses limites, sendo:
+
+n: número total de competidores
+g: número de grupos nesta fase
+ng: número de competidores em cada grupo
+v: número de vagas para a próxima fase em cada grupoteremos:
+
+g >= 1
+n >= ng >= 2
+v >= 1Um sistema de grupos será considerado simétrico se, a cada fase: a) todos os grupos tiverem o mesmo número de competidores; b) todos os competidores tiverem o mesmo número de partidas a disputar; c) todos os grupos concorrerem ao mesmo número de vagas para a próxima fase. Não satisfeita uma ou mais dessas condições, considera-se o sistema como assimétrico.
+
+
+== Classificação dos sistemas mistos ==
+Sendo o objetivo de cada competidor conquistar uma vaga para a próxima fase, e sendo o meio para conquistar esta vaga a disputa de partidas com outros competidores, os sistemas de grupos podem ser classificados pela extensão da disputa dos jogos (meio) e pela extensão da disputa das vagas (objetivo).
+Em termos de meio, alguns sistemas determinam que cada competidor jogue apenas dentro do seu grupo, ou contra todos os outros, ou apenas contra os outros grupos. Em termos de objetivo, em alguns sistemas as vagas são disputadas apenas dentro de cada grupo, em outros as vagas são disputadas entre todos os competidores.
+Resumindo, podemos ter 6 possibilidades:
+
+
+=== Grupos fechados ===
+É o mais comum dos sistema de grupos, que por isso são também chamados de "grupos simples". Os competidores são divididos em grupos que são "fechados", tanto em termos de meio (jogos apenas dentro dos grupos, em um ou mais turnos) quanto de objetivo (classificação apenas dentro dos grupos).
+Utilizado na primeira fase de muitos torneios concentrados, cujas fases seguintes costumam ser eliminatórias, como por exemplo: nas Copas do Mundo de futebol (com exceção da de 1934, que foi toda eliminatória); nas competições dos principais esportes coletivos das Olimpíadas (basquete, voleibol, futebol, etc.). Utilizado também na fase inicial da Libertadores da América desde 1962; e assim por diante.
+Sendo ng o número de competidores do grupo, o número de jogos de cada competidor é ng-1 e a fórmula para o número total de jogos do grupo é:
+jg = t * ng * (ng-1) / 2
+onde:
+
+jg é o número total de jogos do grupo
+t é o número de turnos em que o grupo se enfrenta
+ng é o número de competidores do grupo
+
+
+=== Grupos abertos ===
+Os jogos são apenas dentro dos grupos, mas a classificação é "aberta", ou seja, equipes de grupos diferentes disputam as mesmas vagas.
+Sistema raramente aplicado em sua forma "pura", devido à dificuldade conceitual de se comparar o número de pontos ganhos por competidores que enfrentaram adversários totalmente diferentes. Mas é freqüentemente combinado com o sistema de "grupos fechados", para a disputa de vagas remanescentes a fim de completar o número desejado (em geral uma potência de dois, facilitando o empareamento em fases seguintes disputadas como eliminatórias).
+Por exemplo, nas Copas do Mundo de futebol de 1986 a 1994, as 24 seleções foram divididas em 6 grupos de 4, e era necessário classificar 16 para a próxima fase, das Oitavas de final. Assim, o regulamento reservou 2 vagas para cada grupo (num total de 12), mais 4 vagas "abertas", para os "melhores terceiros lugares", independentemente de grupos. Portanto, tratava-se de grupos semi-abertos.
+O cálculo do número de jogos é idêntico ao do sistema de grupos simples.
+
+
+=== Grupos opostos ===
+Nesse sistema, os jogos são disputados apenas fora dos grupos - ou seja, competidores do mesmo grupo não se enfrentam diretamente, mas disputam apenas entre si as vagas para a próxima fase.
+Os grupos são "opostos", pois os competidores de um grupo enfrentam apenas os do outro; mas não chegam a se constituir em "grupos adversários", já que a classificação ocorre dentro de cada grupo. Pelo contrário, num sistema desses, um competidor do grupo A tende a "torcer" pelos competidores do grupo B nos seus confrontos com outros membros de A.
+No Campeonato Brasileiro de Futebol, um sistema de grupos opostos foi utilizado em 1975 (primeira e segunda fases), 1985 (primeira fase), 1989 (segunda fase).
+
+
+=== Grupos adversários ===
+Semelhante ao sistema de "grupos opostos", no sentido de que cada competidor enfrenta diretamente apenas os competidores de outro grupo que não o seu; mas, nesse caso, as mesmas vagas são disputadas por todos os competidores.
+
+
+=== Grupos classificatórios ===
+Os competidores jogam todos contra todos, mas a classificação é disputada apenas dentro dos grupos. Neste sistema, os grupos muitas vezes são chamados de "chaves classificatórias".
+Os Campeonatos Brasileiros de Futebol de 1971 e 1972 (assim como as quatro edições do Robertão, 1967-1970) tiveram suas primeiras fases disputadas em sistema de chaves classificatórias.
+Nos campeonatos de 1987, 1988, 1990 e 1995, foi usado um sistema misto, muito semelhante ao de chaves classificatórias. Porém, o turno era dividido em duas etapas: numa delas, os jogos eram apenas dentro dos grupos (o que constituiria um sistema de grupos fechados); na outra, os jogos eram apenas fora dos grupos (no que seria um sistema de grupos opostos).
+
+
+=== Turno classificatório ===
+Todos os competidores jogam contra todos e disputam vagas entre todos. Não se trata propriamente de um "sistema de grupos", mas de "grupo único", ou "turno". No entanto, o turno é apenas classificatório, o que impede o enquadramento dessa fórmula entre os "sistemas de todos contra todos". É uma maneira de fazer todos os competidores se enfrentarem (ainda que apenas uma vez cada confronto), reservando algumas datas para a realização das fases decisivas do torneio.
+De 1996 a 2002, o Campeonato Brasileiro de Futebol foi disputado em sistema de turno classificatório, com diferentes números de competidores e vagas, e com diferentes regulamentos para a fase final.
+
+
+== Repescagem ==
+Algumas competições possuem a disputa de uma ou mais fases de repescagem que visam dar uma nova oportunidade aos clubes que foram desclassificados de uma das fases do campeonato. Foi comumente utilizada durante décadas no Campeonato Gaúcho de Futebol da Segunda Divisão até 2008, no Campeonato Uruguaio de Futebol na década de 1990 e no Campeonato Brasileiro de Futebol de 1994. Os clubes eliminados na Primeira Fase destas competições jogavam entre si (divididas em grupos ou não) buscando um número reduzido de vagas a Terceira Fase comparada a quantidade de vagas disponibilizadas entre os clubes participantes da Segunda Fase. No exemplo do Campeonato Gaúcho da Segunda Divisão a Segunda Fase possuia 16 clubes e disponibilizava sete vagas na Terceira Fase enquanto os 14 clubes eliminados na Primeira Fase disputavam na Repescagem apenas uma única fase para a Terceira Fase. No Campeonato Brasileiro de Futebol de 1994 os 16 clubes participantes da Segunda Fase competiam por seis vagas nas Quartas-de-Final enquanto os oito eliminados da Primeira Fase disputavam na Repescagem um total de duas vagas nas Quartas-de-Final. A Repescagem é sempre utilizada nas eliminatórias da Copa do Mundo de Futebol quando um país que não conseguiu classificação direta disputa uma vaga com um país de outro continente que também não obtive vaga direta no Mundial.
+
+
+== Torneios de Consolação ==
+Existem também competições de consolação para os clubes melhores posicionados entre os eliminados de uma fase. Desde o ano de 2010 os dois melhores clubes de cada grupo que não conseguiram chegar a Semi-Final de algum dos turnos do Campeonato Carioca de Futebol disputam um torneio de consolação valendo um troféu simbólico, o mesmo ocorre no Campeonato Paulista de Futebol com a disputa do "Campeão do Interior" que visa reunir os quatro melhores clubes do interior eliminados na Primeira Fase do campeonato. Este sistema difere da repescagem devido ao fato deste torneio não ter ligação alguma com o restante do torneio, desta forma o vencedor do torneio consolação não recebe vaga alguma para uma próxima fase do campeonato. Este tipo de torneio é muito comum principalmente no basquete da NCAA nos Estados Unidos, ele tem como objetivo valorizar as disputas de posições intermediárias na fase classificatória do campeonato já que que entre centenas de universidades apenas 65 classificam-se para a disputa do título.
+
+
+== Bibliografia ==
+DAIUTO, Moacir: "Organização de Competições Desportivas", editora Hemus, São Paulo, 1972.
+RAMOS, Jayr Jordão: "Organização de Campeonatos e Torneios", editora CND/MEC, Brasília, 1973.
+CAPINASSU, José Maurício: "Competições esportivas: organizações e esquemas", Editora Ibrasa, São Paulo, 1986.
+BYL, John: "Organizing Successful Tournaments", Human Kinetics Inc, Champaign/IL, 1990.

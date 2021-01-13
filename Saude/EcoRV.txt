@@ -1,0 +1,20 @@
+EcoRV é uma endonuclease de restrição do tipo II, isolada de certas estirpes de Escherichia coli. O seu nome alternativo é Eco32I.
+Em biologia molecular é uma enzima de restrição de uso comum. A enzima reconhece a sequência palindrómica de 6 bases 5'-GAT|ATC-3' e provoca um corte na linha vertical- A sequência complementar é então 3'-CTA|TAG-5'.
+
+
+== Estrutura ==
+EcoRV foi já cocristalizada com a sequência que normalmente corta. Este cristal foi usado para resolver a estrutura [1] do complexo.
+O núcleo da enzima é composto por 5 folhas beta flanquadas por hélices alfa. O núcleo é conservado em todas as outras endonucleases de restrição de tipo II. Tem também um subdomínio de dimerização N-terminal formado por uma pequena hélice alfa, uma folha antiparalela de duas cadeias e uma hélice alfa longa. Este subdomínio é encontrado na EcoRV e na PvuII.
+
+
+== Usos ==
+A EcoRV é muitas vezes usada para abrir um vetor plasmidial para inserir um gene de interesse durante a clonagem genética. A enzima é fornecida por muitos fabricantes e requer albumina de soro bovino para funcionar corretamente.
+
+
+== Ver também ==
+EcoRI
+EcoRII
+FokI
+
+
+== Referências ==

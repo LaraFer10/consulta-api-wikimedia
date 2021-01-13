@@ -1,0 +1,99 @@
+Biodigestor anaeróbico é um equipamento usado para o processamento de matéria orgânica, como, por exemplo, fezes e urina, de humanos como método alternativo ao convencional, vem sendo utilizado em vários locais do mundo, como por exemplo, o Palácio de Cristal no Rio de Janeiro e em muito países como tecnologia barata, eficaz e ecológica no tratamento de esgoto humano e animal. É possível instalar-se biodigestores em condomínios de prédios em capitais para biodigestar toda massa produzida. Existem empresas que fabricam o sistema e já revendem a um preço accessível todo o equipamento pronto e instalado. Um biodigestor funciona como um reator químico em que as reações químicas têm origem biológica, ou seja, são feitas por bactérias e archaeas que digerem matéria orgânica em condições anaeróbicas (isto é, em ausência de oxigênio). O digestor anaeróbico produz 2 produtos :
+
+biogás, que é uma mistura de gases – cerca de 75% metano e 25% CO2 e
+fertilizantes de ótima qualidade (bem melhores do que os fertilizantes químicos), muitas vezes misturados à água e, portanto, em forma líquida, mas em alguns processos também sólidos.Além de fornecer estes 2 produtos, o uso dos biodigestores proporciona outras importantes vantagens :
+
+é uma forma de se fazer o saneamento básico de uma comunidade, em que seja feita a coleta de fezes humanas e animais sem adição de água e misturada com os resíduos orgânicos, como podas de gramados, e folhas varridas da mesma comunidade;evita a poluição do meio ambiente com os dejetos orgânicos, sobretudo das águas, que tradicionalmente foi o seu principal destino, mas também do solo
+combate o aquecimento global, pela queima do gás metano, 24 vezes mais causador do efeito estufa do que o CO2 resultante da sua queima
+reduz significativamente o espaço utilizado para o tratamento dos dejetos animais, em relação a outro método mais atrasado, as lagoas de decantação
+elimina os maus odores dos dejetos animais
+reduz significativamente as moscas.
+
+
+== Utilização do Biogás ==
+
+O biogás pode ser usado como combustível em substituição do gás natural ou do Gás Liquefeito de Petróleo (GLP), ambos extraídos de reservas minerais. Para os usos abaixo não é necessário nenhum processo a mais para o tratamento do biogás:
+
+cozinhar em residências rurais próximas ao local de produção (economizando outras fontes de energia, como principalmente lenha ou GLP);
+aquecimento de instalações para animais muito sensíveis ao frio (leitões até 15 dias, por exemplo);
+aquecimento de estufas de produção vegetal.
+
+
+=== Reforma do Biogás ===
+Para que ele possa ser usado como o gás natural em aplicações de maior eficiência como em motores, ou para que seja reinserido na rede de distribuição de gás quando mediante legalização do órgão competente, é necessário ser feito a retirada do gás carbônico, gás sulfeto de hidrogênio e vapor de água e outros compostos.
+A retirada de umidade pode acontecer via refrigeração do biogás, ou por uso de sílica-gel, ou qualquer outro material higroscópico.
+A retirada de gás carbônico permite um melhor aproveitamento da energia total disponível do gás metano, já que a presença do gás carbônico reduz a disponibilidade do gás oxigênio presente no ar de oxidar o gás metano e assim aumenta a ocorrência de combustão incompleta que libera menos energia por volume de gás que foi queimado. A retirada desse gás pode ocorrer via lavagem do biogás com chuveiros de água com pH básico, podendo ser utilizado cinzas se não houver a disponibilidade de soda cáustica ou outras bases. É possível também removê-lo em leito com algum material que absorva o gás carbônico na fase sólida.
+A presença do sulfeto de hidrogênio no gás, o faz se tornar um gás azedo e este ataca violentamente o ferro das tubulações e outros metais. Sua retirada pode ser concomitante no processo de retirada de gás carbônico, já que ambos são substâncias ácidas que podem ser retiradas do gás via contato básico tanto de uma fase líquida quanto sólida, contudo também pode ser feita a sua remoção pela passagem do biogás (contendo menos de 40% de umidade relativa) em um leito com óxido de ferro sólido, para que o oxigênio do ferro saia e permita que o ferro presente na molécula de óxido se torne sulfeto de ferro insolúvel. 
+
+
+=== Equivalência energética ===
+Um metro cúbico (1 m³) de biogás equivale energeticamente a :
+
+1,5 m³ de gás de cozinha;
+0,52 a 0,6 litro de gasolina;
+0,9  litro de álcool;
+6,4 KWh de eletricidade;
+2,7 kg de lenha (madeira queimada).O efluente (o líquido que sai do biodigestor após o período de tempo necessário à digestão da matéria orgânica pelas bactérias) possui propriedades fertilizantes. Além de água, o líquido efluente, conhecido como biofertilizante, apresenta elementos químicos como nitrogênio, fósforo e potássio em quantidades e formas químicas tais que podem ser usados diretamente na adubação de espécies vegetais através de fertirrigação.
+O biofertilizante possui entre 90 a 95 % de água  (isto é, 5 a 10% de fração seca do líquido). Nessa base seca, o teor de nitrogênio - dependendo do material que lhe deu origem - fica entre 1,5 a 4% de nitrogênio (N), 1 a 5% de fosfato (P2O5) e 0,5 a 3% de potássio (K20).
+O mesmo biodigestor que trata os dejetos vindos do estábulo ou da pocilga ou do confinamento de bovinos pode ser ligado ao esgoto doméstico das residências. Embora sejam usados primordialmente como fonte de energia e de fertilizantes orgânicos para produtores rurais, o biodigestor também pode ser enfocado como um sistema de tratamento de esgotos humanos para pequenas comunidades urbanas. Dessa maneira se tornaria importante aplicar um processo para desinfecção dos microorganismos presentes nas fezes humanas. utilizar o efluente líquido é na criação de algas, que podem auxiliar na desinfecção do efluente líquido e também do efluente sólido, além de produzirem biomassa com alta concentração de proteínas, esta pode servir a alimentação animal ou diretamente utilizada como adubo.
+
+
+== Modo de funcionamento ==
+Para que ocorra um correto funcionamento do biodigestor, como todos os sistemas que contém vida, são necessárias diversos cuidados. As condições ótimas de vida para as bactérias anaeróbicas são:
+
+
+=== Inexistência de Ar ===
+O Oxigênio (O2) do ar é letal para as bactérias anaeróbicas obrigatórias. Se houver oxigênio no ambiente, as bactérias anaeróbicas paralisam seu metabolismo e deixam de se desenvolver.  As bactérias aeróbicas (que utilizam o oxigênio em seu metabolismo) produzem dióxido de carbono (CO2) como produto final de sua respiração. As Archaeas metanogênicas produzem metano (CH4). Enquanto que o metano é um gás rico em energia química e, portanto, pode ser usado como combustível, o dióxido de carbono já está totalmente oxidado e não pode ser usado como combustível. Se o biodigestor não estiver hermeticamente vedado contra a entrada de ar, a produção de biogás não ocorre porque as bactérias anaeróbicas morrem e as aeróbicas sobrevivem. O biogás produzido será então rico em CO2 e não em metano. Assim, o biodigestor deve assegurar uma completa hermeticidade que cause uma completa falta de oxigênio em seu interior, isto é, a completa anaerobiose do ambiente necessária para o metabolismo das bactérias anaeróbicas.
+
+
+=== Temperatura adequada ===
+A temperatura no interior do biodigestor é um parâmetro importante para a produção de biogás. As archaeas que produzem metano são muito sensíveis a alterações de temperatura. Alterações de temperatura que excedam 45 graus célsius ou vão abaixo de 15 graus célsius paralisam a produção de biogás. Assim, outro papel do biodigestor também é o de assegurar certa estabilidade de temperatura para as bactérias.
+
+
+=== Nutrientes ===
+Os principais nutrientes dos microorganismos são o carbono, nitrogênio e sais minerais. Fontes ricas de nitrogênio são os dejetos de animais (inclusive seres humanos). Fontes ricas de carbono são os restos de culturas vegetais.  Os sais minerais presentes nos dejetos animais e resíduos vegetais são suficientes para a nutrição mineral das bactérias. No entanto, se não houver um adequado equilíbrio de compostos de carbono (que fornecem a energia) e de compostos nitrogenados (que fornecem o nitrogênio) não ocorrerá uma eficiente produção de biogás.
+
+
+=== Teor de água ===
+O material a ser fermentado deve possuir em torno de 90 a 95 %  de umidade em relação ao peso. Tanto muita água quanto pouca água são prejudiciais. O teor da água varia de acordo com as matérias-primas destinadas à fermentação. Esterco de bovino (que possui em média 84% de umidade) precisa ser diluído em 100% de seu peso em água. Já o de suínos (com 19%) precisa de 130% de seu peso em água. O de ovinos e caprino, em 320%.
+
+
+== Tipos de biodigestores ==
+Os biodigestores  podem ser encontrados em diversos modelos (indiano, paquistanês, chinês, tailandês, filipino e etc.) cada qual com suas vantagens e desvantagens e características próprias de operação. Entretanto, existem dois tipos básicos de biodigestores classificados de acordo com a freqüência de operação: os biodigestores “contínuos” e os biodigestores em “batelada”.
+
+
+=== Biodigestor anaeróbico tubular ou de fluxo continuo ===
+Os biodigestores de operação “contínua” operam com cargas diárias de matéria orgânica que se movimenta por meio de carga hidráulica dentro do biodigestor devendo a matéria orgânica, portanto, ser diluída e até mesmo triturada para evitar entupimentos e formação de crostas no interior do biodigestor.O biodigestor é composto de :
+
+Caixa de entrada – Esta é a parte do biodigestor em que é feito o carregamento dos resíduos animais e vegetais. Os resíduos podem  ser submetidos a uma trituração e diluídos com água até atingirem o teor adequado de umidade (90 a 95% de água).
+Câmara de Biodigestão - Dentro do biodigestor, na área de entrada de materiais, processa-se inicialmente uma fermentação aeróbica ácida na qual os açúcares simples presentes no material são fermentados e se transformam em acetato (ou ácido acético). No  corpo do biodigestor passa a ocorrer uma fermentação anaeróbica concomitante. As bactérias que produzem acetato usam todo o oxigênio presente na carga inicial e o ambiente interno do biodigestor tende a ficar anaeróbico e as bactérias que sobrevivem são apenas as anaeróbicas. As archaeas por sua vez utilizam o acetato em seu metabolismo e o transformam em metano. Nessa altura o ambiente torna-se totalmente anaeróbico e a formação de biogás ganha a maior eficiência. O dimensionamento do biodigestor deve permitir a retenção da biomassa. O nível de DBO (Demanda Bioquímica de Oxigênio) do líquido que está para sair da câmara de fermentação declina e ele começa a se transformar em biofertilizante.
+Caixa de saída - A cada volume de carga na entrada  corresponde à saída do mesmo volume de líquido do biodigestor. Este líquido deve ser armazenado em condições aeróbicas para que, sob a ação de bactérias nitrificantes, sofra uma última e  drástica redução do seu nível de DBO (Demanda Bioquímica de Oxigênio). Estas reações bioquímicas finais resultam na formação e estabilização do biofertilizante. Como também deve estocar o produto, este tanque aberto deve ter capacidade de armazenar cerca de 30 dias de produção do biodigestor. É nesse momento que torna-se possível direcionar o efluente para a criação de algas, onde a energia dos raios UV do sol se incorporam na energia oxidativa da molécula de oxigênio e permitem que seja feita uma completa desinfecção do efluente.
+
+
+=== Biodigestor de batelada ou de fluxo não continuo ===
+É indicado locais que não produzem resíduos orgânico diariamente que servira como fonte de alimentação para as bactérias que transformara em biogás. Sua alimentação é descontinua e a produção de gás não é constante.
+Nos biodigestores em batelada a matéria orgânica é inserida toda de uma só vez e então ele é fechado hermeticamente (de forma a não permitir a entrada de oxigênio) até que ocorra o processo de digestão anaeróbia e começar a ocorrer a degradação do material e a produção biogás. O biodigestor será aberto novamente só quando a produção de biogás cair, indicando que a matéria orgânica já foi decomposta e que pode ser feita a retirada da matéria restante, o biofertilizante, para, caso seja necessário, ser inserida nova carga de matéria orgânica.
+Por exemplo, um biodigestor com esterco bovino fica em média trinta a quarenta dias fechado, sem oxigênio, ocorrendo somente a retirada do gás. Depois é aberto, a biomassa restante é retirada, podendo ser utilizada como biofertilizante, e novamente é adicionada a matéria, repetindo-se o processo.
+
+
+== Biodigestores no Brasil ==
+Atualmente no Brasil, a utilização dos biodigestores ainda é em pequena escala, já que o projeto é consideravelmente novo. Os biodigestores se concentram nas poucas propriedades em estados como Paraná e São Paulo com o patrocínio de empresas, como a binacional Itaipu, que incentiva a utilização e instala os biodigestores nas fazendas agro-pecuárias pelo Brasil, afim de reduzir os impactos ambientais causado pelo gás metano (proveniente dos dejetos animais em larga escala), que é prejudicial à atmosfera e um dos percursores do Efeito Estufa. Alguns proprietários das fazendas agro-pecuárias, com esse incentivo, investem em geradores de energia acionados pelo biogás (Pois a Itaipu só incentiva a redução dos impactos ambientais e não a lucratividade desses proprietários,ou seja, a parte da geração de energia fica à custo deles),fazendo com que as fazendas se tornem auto-sustentáveis em relação à utilização de energia. No Brasil, a tendência nos próximos anos, é aumentar a utilização dos biodigestores, já que foi aprovada sua eficiência em questões de sustentabilidade.
+
+
+== Ver também ==
+Biocombustível
+Bioenergia (combustíveis)
+Biogasificação
+Biorrefinaria
+Combustíveis alternativos
+Reator químico
+
+
+== Referências ==
+
+
+== Ligações externas ==
+Desenho de Biodigestor na Costa Rica
+Manual do Biodigestor Sertanejo
+Biodigestor: Um jeito inteligente de cuidar do meio ambiente!
+[1]

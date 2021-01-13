@@ -1,0 +1,9 @@
+O fragmento de união ao antígeno ou fragmento Fab (do inglês fragment antigen-binding) é uma região de um anticorpo que se une aos antígenos. Uma vez que os anticorpos têm forma de Y, o Fab corresponde à zona dos braços do Y. É composto pela cadeia leve e parte da cadeia constante do anticorpo, e compreende um domínio constante e um variável (este na extremidade) de cada uma das cadeias leve e pesada. O domínio variável contém o parátopo (local de união do antígeno), formado por um conjunto de regiões determinantes da complementaridade, na extremidade N-terminal do monómero. Deste modo, cada braço do Y une-se a um epítopo do antígeno. Os dois parátopos, um em cada braço, são iguais.
+No laboratório, um anticorpo pode ser digerido com enzimas e gerar os fragmentos Fc e Fab. Utilizando a enzima papaína pode clivar-se o monómero de inmunoglobulina (anticorpo) em dois fragmentos Fab (separados) e um fragmento Fc. Mas com a enzima pepsina, esta corta a região bisagra do anticorpo e origina um fragmento F(ab')2 (formado pelos dois braços Fab unidos) e um fragmento pFc'. Recentemente uma outra enzima tem sido comercialmente disponibilizada para gerar fragmentos F(ab')2 chamado IdeS (enzima degradadora da imunoglobulina de Streptococcus pyogenes, com o nome comercial FabRICATOR), a qual cliva a IgG de maneira específica sequenciada no pH neutro. O fragmento F(ab')2 pode ser depois separado em dois fragmentos Fab por redução ligeira.As regiões variáveis das correntes leve e variável podem ser fundidas para formar um fragmento variável de cadeia simples (scFv), que só tem metade do tamanho do fragmento Fab, embora mantenha a especificidade original da imunoglobulina parental.
+
+
+== Referências ==
+
+
+== Ver também ==
+Região Fc

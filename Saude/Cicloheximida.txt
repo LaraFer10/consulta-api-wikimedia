@@ -1,0 +1,28 @@
+A cicloheximida é um inibidor da síntese de proteínas, em  eucariotos produzida pela bactéria Streptomyces griseus. A cicloheximida exerce o seu efeito interferindo  na etapa de translocação durante a síntese proteica (movimento de dois tRNA e moléculas de mRNA em relação ao ribossomo), bloqueando a tradução. A cicloheximida é amplamente utilizado na pesquisa clínica para inibir a síntese de proteínas nas células eucarióticas estudadas in vitro (isto é, fora dos organismos). É barata e funciona rapidamente. Seus efeitos são rapidamente revertidas por simplesmente removê-la  do meio de cultura.Devido a significativos efeitos colaterais tóxicos, incluindo danos ao DNA, teratogenesis, e outros reprodutiva efeitos (incluindo defeitos de nascimento e toxicidade para o esperma), a cicloheximida geralmente é usado apenas em in vitro aplicações de pesquisa, e não é adequado para uso humano de forma terapêutica. 
+A cicloheximida é degradada em condições alcalinas  (pH > 7), por isso a descontaminação das superfícies de trabalho e os recipientes podem ser alcançados por meio de lavagem com uma solução de sabão de pH básico.
+Ele é classificada como extremamente perigosa nos Estados Unidos, conforme definido na Seção 302 dos EUA, o Planeamento de Emergência e de Direito Comunitário-to-Know Act (42 U. S. C. 11002), e está sujeita a rigorosas exigências de relatórios pelos estabelecimentos que produzem, armazenam, ou usá-lo em quantidades significativas.
+
+
+== Descoberta ==
+A cicloheximida foi descoberto por Alma Joslyn Whiffen-Barksdale, um profissional micologista de trabalho no The Upjohn Company em Kalamazoo, Michigan, entre 1943 e 1952.
+
+
+== Algumas aplicações experimentais ==
+A cicloheximida pode ser usado como uma ferramenta experimental em biologia molecular para determinar a meia-vida de proteínas. O tratamento de células com cicloheximida de forma temporalmente controlada, seguido por Western blotting de lisados celulares pode mostrar diferenças na meia-vida da proteína de interesse. .
+O congelamento da tradução pode ser usado também para "ribosome profiling", ou perfil ribossomal.  A tradução é interrompida através da adição de cicloheximida, e o RNA é extraído de forma a preservar os ribossomos, sendo tratado com uma endorribonuclease. Dessa forma, partes não ligadas À ribossomos são digeridas, e as sequencias protegidas (e, logo, traducionalmente ativas) podem ser identificadas por sequenciamento do RNA.
+A cicloheximida também tem sido utilizado por suas propriedades antifúngicas para facilitar o isolamento de bactériasl.
+
+
+== Espectro de susceptibilidade de fungos ==
+A cicloheximida tem sido utilizado para isolar dermatófitos e inibir o crescimento de fungos na fabricação de cerveja meios de teste. O que se segue representa a susceptibilidade de dados para alguns comumente alvo de fungos:
+Candida albicans: de 12,5 µg/ml
+Mycosphaerella graminicola: 47.2 µg/ml - 85.4 µg/ml
+Saccharomyces cerevisiae: de 0,05 µg/ml de 1,6 µg/ml
+Scytalidium dimidiatum é um tinea pedis (tinha dos pés), como infecção resistente à maioria dos antifúngicos. ele responde a cicloheximida , então, deve ser cultivada em um meio livre de cicloheximida.
+
+
+== Atividade biológica da cicloheximida ==
+Cicloheximida é um antibiótico altamente efetivo, com atividade contra mofo, leveduras e fungos fitopatogênicos, com menor atividade contra bactérias. Tem sido relatado que inibe a síntese de proteínas e macromoléculas, bem como afeta a apoptose em eucariotos. Acredita-se que a inibição da síntese de proteínas seja mediada captura de translação de RNA, como demonstrado em timócitos de rato. Cicloheximida também tem sido relatado como inibindo FKBP12 (peptidilprolilisomerase hFKBP12, PPIase hFKBP12) via inibição competitiva. Cicloeximida exerce seu efeito interferindo com o passo de translocação na síntese de proteínas (movimento de duas moléculas de tRNA e mRNA em relação ao ribossoma) bloqueando assim o alongamento translacional.
+
+
+== Referências ==

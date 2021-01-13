@@ -1,0 +1,47 @@
+A ADN ligase ou DNA ligase é uma enzima que possui como função facilitar a união de cadeias de DNA, catalisando a formação de uma ligação fosfodiéster. É a enzima responsável por unir covalentemente os fragmentos de Okazaki após a retirada dos iniciadores pela DNA polimerase. Ela possui um papel importante na reparação de quebras de DNA fita simples, porém algumas formas, como por exemplo a DNA ligase IV, podem reparar especificamente quebras de DNA fita dupla. A reparação da quebra de fita simples é feita a partir de uma ligação covalente realizada entre os grupos 3'-OH e 5'-fosfato adjacentes.
+A DNA ligase pode ser utilizada tanto no reparo do DNA como na replicação do mesmo. Ela também possui aplicação em laboratórios de biologia molecular, na realização de experimentos onde utiliza-se a técnica do DNA recombinante e durante a clonagem de genes com a finalidade de unir as moléculas de DNA.
+
+
+== Mecanismo enzimático ==
+Como dito anteriormente, a ação da DNA ligase consiste em formar ligações fosfodiéster covalentes entre as extremidades 3'-OH de um nucleotídeo com a extremidade 5'-fosfato de outro. Para isso é necessário o consumo de duas moléculas de ATP por ligação formada.
+Esta reação ocorre em quatro etapas:
+
+Reorganização do local de atividade, como cortes em segmentos de DNA ou fragmentos de Okazaki, etc.
+Adenilação (adição de AMP) de um resíduo de lisina no centro ativo da enzima, com liberação de pirofosfato;
+Transferência do AMP para a extremidade 5'-fosfato do chamado doador e formação de uma ligação de pirofosfato;
+Formação de uma ligação fosfodiéster entre o fosfato 5' do doador e o hidroxila 3' do receptor.Cabe ressaltar que a ligase também funciona com extremidades cegas, mas para isso é necessário que se utilize concentrações mais altas da enzima além de diferentes concentrações de reação.
+
+
+== Tipos de DNA ligase ==
+
+
+=== DNA ligase de Escherichia coli ===
+A DNA ligase de E. coli é codificada pelo gene lig. Assim como na maioria dos procariotos, a energia utilizada por ela é obtida através da clivagem de Nicotinamida Adenina Dinucleotídeo (NAD) para que a ligação fosfodiéster seja estabelecida. Ela não participa da ligação de DNAs com extremidades cegas, salvo casos onde ocorre algomeração molecular com polietilenoglicol. Além disso ela não realiza a união de RNA ao DNA de forma eficiente.
+DNA polimerase em concentrações correras pode aumentar a atividade desse tipo de DNA ligase porém isso só é possível quando a DNA Pol I encontra-se em concentrações muito mais baixas do que os fragmentos de DNA a serem ligados. Caso contrário, ela (DNA Pol I) possui efeito contrário sobre a DNA ligase de E. coli.
+
+
+=== DNA ligase do bacteriófago T4 ===
+A Enterobacteria fago T4 é um bacteriófago que infecta Escherichia coli, capaz de sofrer um ciclo de vida lítico. Ela é a DNA ligase mais utilizada em laboratórios de biologia molecular, visto que pode ligar extremidades coesivas ou abruptas, além de oligonucleotídeos bem como híbridos de RNA e RNA-DNA, mas não ácidos nucleicos de cadeia simples. Ao contrário da DNA ligase de E. coli, ela não utiliza NAD e precisa utilizar o ATP como cofator.
+
+
+=== DNA ligase de mamífero ===
+Nos mamíferos, existem quatro tipos específicos de DNA ligase.
+
+DNA ligase I: responsável por ligar o DNA nascente do filamento atrasado após a retirada dos iniciadores pela DNA polimerase dos fragmentos de Okazaki;
+DNA ligase II: parece ser usada em reparos. É formada por splicing alternativo de um fragmento proteolítico da DNA ligase III e não possui seu próprio gene, portanto, é frequentemente considerada idêntica ao DNA ligase III;
+DNA-ligase III: responsável por auxiliar na selagem de DNA durante o processo de reparação por excisão de nucleotídeos e fragmentos recombinantes. De todas as ligases descritas em mamíferos essa é a única presente em mitocôndrias;
+DNA ligase IV: responsável por catalisar a etapa final na extremidade não homóloga que une a via de reparação de quebra de fita dupla do DNA.Em eucariotos, a DNA ligase utiliza ATP ao invés de NAT para obter energia.
+
+
+=== DNA ligase termoestável ===
+Esse tipo de DNA ligase é derivada de uma bactéria termofílica, sendo assim, essa enzima é estável e ativa em temperaturas muito mais altas do que as convencionais para as demais ligases. Possui meia vida de 48h a 65 °C e de 1h a 95 °C.
+
+
+== Bibliografia ==
+Pascal JM, O'Brien PJ, Tomkinson AE, Ellenberger T (November 2004). "Human DNA ligase I completely encircles and partially unwinds nicked DNA". Nature. 432 (7016): 473–8. doi:10.1038/nature03082. PMID 15565146;
+Lehman IR (November 1974). "DNA ligase: structure, mechanism, and function". Science. 186 (4166): 790–7. doi:10.1126/science.186.4166.790. PMID 4377758;
+Foster JB, Slonczewski J (2010). Microbiology: An Evolving Science (Second ed.). New York: W. W. Norton & Company. ISBN 978-0-393-93447-2;
+Yang Y, LiCata VJ (February 2018). "Pol I DNA polymerases stimulate DNA end-joining by Escherichia coli DNA ligase". Biochemical and Biophysical Research Communications. 497 (1): 13–18. doi:10.1016/j.bbrc.2018.01.165. PMID 29409896;
+"Ligases" (PDF). Enzyme Resources Guide. Promega Corporation. pp. 8–14;
+Wilson RH, Morton SK, Deiderick H, Gerth ML, Paul HA, Gerber I, Patel A, Ellington AD, Hunicke-Smith SP, Patrick WM (July 2013). "Engineered DNA ligases with improved activities in vitro". Protein Engineering, Design & Selection. 26 (7): 471–8. doi:10.1093/protein/gzt024. PMID 23754529;
+"Ampligase- Thermostable DNA Ligase". www.epibio.com. Retrieved 2017-05-15

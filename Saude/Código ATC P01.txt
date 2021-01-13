@@ -1,0 +1,138 @@
+O Código ATC P01 (Antiprotazoários) é um subgrupo terapêutico da classificação ATC (Anatomical Therapeutic Chemical Classification System), um sistema de códigos alfanuméricos desenvolvido pela Organização Mundial da Saúde (OMS) para classificar medicamentos e outros produtos médicos. O subgrupo P01 faz parte do grupo anatômico P (antiparasitários, insecticidas e repelentes).
+
+
+== P01A Agentes contra amebíase e outras doenças causadas por protozoários ==
+
+
+=== P01AA Derivados de hidroxiquinolina ===
+P01AA01 Broxiquinolina
+P01AA02 Clioquinol
+P01AA04 Clorquinaldol
+P01AA05 Tilbroquinol
+P01AA52 Clioquinol, associações
+
+
+=== P01AB Derivados de nitroimidazol ===
+P01AB01 Metronidazol
+P01AB02 Tinidazol
+P01AB03 Ornidazol
+P01AB04 Azanidazol
+P01AB05 Propenidazol
+P01AB06 Nimorazol
+P01AB07 Secnidazol
+P01AB51 Metronidazol, associações
+
+
+=== P01AC Derivados de dicloroacetamida ===
+P01AC01 Diloxanida
+P01AC02 Clefamida
+P01AC03 Etofamida
+P01AC04 Teclozan
+
+
+=== P01AR compostos de arsênio ===
+P01AR01 Arstinol
+P01AR02 Difetarsona
+P01AR03 Glicobiarsol
+P01AR53 Glicobiarsol, associações
+
+
+=== P01AX Outros agentes contra amebíase e outras doenças por protozoários ===
+P01AX01 Quiniofon
+P01AX02 Emetina
+P01AX04 Fanquinona
+P01AX05 Mepacrina
+P01AX06 Atovaquona
+P01AX07 Trimetrexato
+P01AX08 Tenonitrozol
+P01AX09 Dehidroemetina
+P01AX10 Fumagilina
+P01AX11 Nitazoxanida
+P01AX52 Emetina, associações
+
+
+== P01B Anti-maláricos ==
+
+
+=== P01BA Aminoquinolinas ===
+P01BA01 Cloroquina
+P01BA02 Hidroxicloroquina
+P01BA03 Primaquina
+P01BA06 Amodiaquina
+P01BA07 Tafenoquina
+
+
+=== P01BB Biguanidas ===
+P01BB01 Proguanil
+P01BB02 Embonato de cicloguanil
+P01BB51 Proguanil, associações
+
+
+=== P01BC Methanolquinolines ===
+P01BC01 Quinina
+P01BC02 Mefloquina
+
+
+=== P01BD Diaminopirimidinas ===
+P01BD01 Pirimetamina
+P01BD51 Pirimetamina, associações
+
+
+=== P01BE Artemisinina e derivados, simples ===
+P01BE01 Artemisinina
+P01BE02 Arteméter
+P01BE03 Artesunato
+P01BE04 Artemotil
+P01BE05 Artenimol
+
+
+=== P01BF Artemisinina e derivados, associações ===
+P01BF01 Arteméter e lumefantrina
+P01BF02 Artesunato e mefloquina
+P01BF03 Artesunato e amodiaquina
+P01BF04 Artesunato, sulfametopirazina e pirimetamina
+P01BF05 Artenimol e piperaquina
+P01BF06 Artesunato e pironaridina
+
+
+=== P01BX Outros antimaláricos ===
+P01BX01 Halofantrina
+P01BX02 Arterolano e piperaquina
+
+
+== P01C Agentes contra leishmaniose e tripanossomíase ==
+
+
+=== P01CA Derivados de nitroimidazol ===
+P01CA02 Benzonidazol
+P01CA03 Fexinidazol
+
+
+=== P01CB Compostos de antimônio ===
+P01CB01 Meglumina antimoniato
+P01CB02 Estibogluconato de sódio
+
+
+=== P01CC Derivados de nitrofurano ===
+P01CC01 Nifurtimox
+P01CC02 Nitrofural
+
+
+=== P01CD Compostos arsênicos ===
+P01CD01 Melarsoprol
+P01CD02 Acetarsol
+
+
+=== P01CX Outros agentes contra leishmaniose e tripanossomíase ===
+P01CX01 Isetionato de pentamidina
+P01CX02 Suramina sódica
+P01CX03 Eflornitina
+P01CX04 Miltefosina
+
+
+== Ver também ==
+Classificação ATC
+Código ATC P: Produtos antiparasitários, insecticidas e repelentes
+
+
+== Referências ==

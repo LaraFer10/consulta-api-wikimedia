@@ -1,0 +1,33 @@
+Cloreto de benzenodiazônio é um composto orgânico com a fórmula [C6H5N2]Cl. É um sal de um cátion de diazônio e cloreto. Existe como um sólido incolor que é solúvel em solventes polares. É um composto representativo de uma família de compostos arildiazônio que são usados para produzir corantes azo.
+
+
+== Síntese ==
+
+
+=== Método 1 ===
+Este composto é facilmente preparado por métodos ordinários de diazotação pela dissolução de anilina em ácido clorídrico resfriado com gelo, seguido pela adição de nitrito de sódio. Esta mistura produz ácido nitroso (HNO2), o qual procede uma reação com a anilina:
+
+ C6H5NH2 + HNO2 + HCl → [C6H5N2]Cl + 2 H2OA temperatura deve ser controlada para evitar a decomposição do produto. Devido a esta instabilidade, este sal não é disponível comercialmente.
+
+
+=== Método 2 ===
+Cloreto de diazônio é também preparado pelo tratamento de ésteres nitrito com anilina na presença de HCl. Ésteres nitrito são formados de álcool com ácido nitroso.
+ C5H11ONO + HCl + C6H5NH2 → [C6H5N2]Cl + C5H11OH + H2O
+
+
+== Propriedades físicas ==
+O cloreto de benzenodiazônio é uma sólido cristalino incolor. É facilmente solúvel em água mas menos solúvel em etanol. Torna-se castanho quando exposto ao ar.
+
+
+== Propriedades químicas ==
+
+O grupo diazo (N2) pode ser substituído por muitos outros grupos resultando numa variedade de derivados substituídos de fenilo:
+
+C6H5N+ + Nu- → C6H5Nu + N2Estas transformações estão associados com muitas reações nomeadas incluindo a reação de Schiemann, reação de Sandmeyer e reação de Gomberg-Bachmann. Uma ampla variedade de grupos pode ser usada para substituir o grupo N2 incluindo haletos, SH-, CO2H- e OH-. De valor prático considerável na indústria de corantes são as reações de acoplamentos diazoicos.
+
+
+== Segurança ==
+Trabalhadores tem mencionado a violenta decomposição deste composto.
+
+
+== Referências ==

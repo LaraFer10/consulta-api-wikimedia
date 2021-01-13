@@ -1,0 +1,8 @@
+O reguloma  diz respeito ao arranjo complexo das conexões regulatória de genes, proteínas, hormônios e outros atores que controlam as funções biologicas e celulares de qualquer organismo.
+A regulação interna das células depende tanto de fatores externos como o meio em que a célula está inserida bem como  fatores internos como os genes ativos no momento. Os genes podem ser regulados por uma cadeia complexa de ativação onde genes ativam ou interferem na expressão de outros genes que por sua vez podem influenciar outros genes também. Esta sequência de ativação é chamada cadeia regulatória de genes.
+São métodos utilizados para verificar a expressão dos genes (transcritoma) a análise de microarray e o Northern Blot.
+Pesquisar sobre o reguloma é um dos objetivos da biologia e da bioinformática.
+
+
+== Ligações externas ==
+Bioinformatics Journal

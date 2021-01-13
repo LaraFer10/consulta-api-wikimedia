@@ -1,0 +1,76 @@
+O Código ATC N04 (Antiparkinsonianos) é um subgrupo terapêutico da classificação ATC (Anatomical Therapeutic Chemical Classification System), um sistema de códigos alfanuméricos desenvolvido pela Organização Mundial da Saúde (OMS) para classificar medicamentos e outros produtos médicos. O subgrupo N04 faz parte do grupo anatômico N (sistema nervoso).Os códigos para uso veterinário (códigos ATCvet) podem ser criados colocando a letra Q antes do código ATC para uso humano: por exemplo, QN04. Os códigos ATCvet sem os códigos ATC humanos correspondentes são citados com a letra Q inicial nessa lista.
+
+
+== N04A Agentes anticolinérgicos ==
+
+
+=== N04AA Aminas terciárias ===
+N04AA01 Triexifenidil
+N04AA02 Biperideno
+N04AA03 Metixeno
+N04AA04 Prociclidina
+N04AA05 Profenamina
+N04AA08 Dexetimida
+N04AA09 Fenglutarimida
+N04AA10 Mazaticol
+N04AA11 Bornaprina
+N04AA12 Tropatepina
+
+
+=== N04AB Éteres quimicamente próximos aos anti-histamínicos ===
+N04AB01 Etanautina
+N04AB02 Orfenadrina (cloreto)
+
+
+=== N04AC Éteres de tropina ou derivados de tropina ===
+N04AC01 Benzatropina
+N04AC30 Etibenzatropina
+
+
+== N04B Agentes dopaminérgicos ==
+
+
+=== N04BA Dopa e derivados de dopa ===
+N04BA01 Levodopa
+N04BA02 Levodopa e inibidor de descarboxilase
+N04BA03 Levodopa, inibidor de descarboxilase e inibidor de COMT
+N04BA04 Melevodopa
+N04BA05 Melevodopa e inibidor de descarboxilase
+N04BA06 Etilevodopa e inibidor de descarboxilase
+
+
+=== N04BB Derivados de adamantano ===
+N04BB01 Amantidina
+
+
+=== N04BC Agonistas da dopamina ===
+N04BC01 Bromocriptina
+N04BC02 Pergolida
+N04BC03 Mesilato de diidroergocristina
+N04BC04 Ropinirol
+N04BC05 Pramipexol
+N04BC06 Cabergolina
+N04BC07 Apomorfina
+N04BC08 Piribedil
+N04BC09 Rotigotina
+
+
+=== N04BD Inibidores da monoamina oxidase B ===
+N04BD01 Selegilina
+N04BD02 Rasagilina
+N04BD03 Safinamida
+
+
+=== N04BX Outros agentes dopaminérgicos ===
+N04BX01 Tolcapona
+N04BX02 Entacapone
+N04BX03 Budipina
+N04BX04 Opicapona
+
+
+== Ver também ==
+Classificação ATC
+Código ATC N: Sistema Nervoso
+
+
+== Referências ==

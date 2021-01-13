@@ -1,0 +1,24 @@
+Vírus dsRNA (do inglês, double - stranded RNA viruses) são vírus que possuem material genético constituído por RNA fita dupla. No Sistema de Classificação de Baltimore, tais vírus pertencem ao grupo III, que compreende 9 famílias virais.
+
+
+== Características gerais ==
+Os vírus do grupo III possuem genoma com tamanho variando de 3,7 a 30,5 Kb, sendo todos com topologia linear. O número de segmentos (moléculas de dsRNA) que constituem o genoma pode variar de um (e.g. Totiviridae, Hypoviridae, Endornaviridae) a 12 (e.g. Reoviridae). Em relação a morfologia das partículas virais, com exceção das famílias Hypoviridae e Endornaviridae, as quais não produzem vírions propriamente ditos, todas as outras apresentam capsídeos com simetria icosaédrica. Apenas os vírus da família Cystoviridae possuem envelope. No grupo III são encontrados agentes infecciosos de vertebrados (incluindo humanos), invertebrados, plantas, microrganismos eucarióticos e bactérias. A replicação de todos os vírus deste grupo ocorre no citosol. Quando exposto ao ambiente citoplasmático, o genoma de RNA dupla fita destes vírus pode induzir uma série de mecanismos de defesa celular, como: apoptose; produção de interferons; e RNA interferente. Para evitar o desencadeamento de tais mecanismos, o genoma viral nunca é desnudado por completo no citosol, estando constantemente associado a proteínas do capsídeo. Após o processo de transcrição do material genético, os mRNAs produzidos são liberados no citoplasma.
+
+
+== Classificação taxonômica dos vírus dsRNA ==
+Abaixo estão listadas as famílias que compõem o grupo III:
+
+
+=== Famílias sem ordem atribuída ===
+Birnaviridae
+Chrysoviridae
+Cystoviridae
+Endornaviridae
+Hypoviridae
+Partitiviridae
+Picobirnaviridae
+Reoviridae
+Totiviridae
+
+
+== Referências ==

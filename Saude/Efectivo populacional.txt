@@ -1,0 +1,21 @@
+Em Genética populacional, o conceito de efectivo populacional Ne ,também conhecido como tamanho efetivo populacional, representa a porção de indivíduos de uma determinada população com a capacidade de se reproduzirem. 
+Diferencia-se de N, tamanho populacional, que equivale ao número total de indivíduos de determinada população. Ou seja, no tamanho efetivo populacional são considerados apenas organismos que atingiram a maturidade sexual, de forma que poderão influenciar a continuidade evolutiva da espécie. 
+Esse termo foi originalmente formulado pelo geneticista Sewall Wright, um dos fundadores da Genética populacional, que o definiu como "o número de indivíduos capazes de se reproduzir numa população idealizada que mostrariam a mesma dispersão de frequências alélicas sob deriva genética aleatória ou a mesma quantidade de endocruzamento que a população em questão". 
+O tamanho efetivo populacional Ne é utilizado como um elemento teórico padronizador e, por isso, a população analisada deve seguir alguns padrões para que possa ser equiparada a uma população idealizada;
+
+Não há sobreposição de gerações;
+O número de indivíduos intercruzantes é o mesmo em todas as gerações;
+Todos os indivíduos são potencialmente intercruzantes;
+A união dos gâmetas é aleatória;
+Não há seleção, mutação, ou migração;
+A média de descendentes, por indivíduo adulto, é de um indivíduo.O valor de Ne costuma ser menor do que o valor de N e isto deve-se a 3 principais fatores;
+
+Variância reprodutiva, quando os casais não têm todos o mesmo número de filhotes
+Proporção sexual, quando o número de machos e fêmeas é consideravelmente discrepante
+Estabilidade populacional, quando o número de indivíduos da população varia entre as geraçõesPara o cálculo do valor de Ne  é possível a utilização de diversas fórmulas, considerando ou não os fatores mencionados anteriormente.
+Por exemplo, ao considerar-se a influência da variância populacional;
+
+Agora considerando apenas a razão sexual, temos;onde Nf representa o número de fêmeas reprodutivas na população e Nm o número de machos reprodutivos na mesma.        
+
+
+== Referências ==

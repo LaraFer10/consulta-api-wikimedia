@@ -1,0 +1,20 @@
+A eletroporação ou electro permeabilização, é uma técnica de microbiologia em que um campo eléctrico é aplicado nas células de modo a aumentar a permeabilidade da membrana celular, permitindo que produtos químicos, medicamentos ou DNA possam ser introduzidos na célula. Quando um campo elétrico, suficientemente, intenso é aplicado na célula, há uma redução desta barreira.  Este fenômeno é chamado de eletroporação e permite a transferência de íons e moléculas solúveis em água para dentro da célula.  Em microbiologia, o processo de eletroporação é geralmente utilizado para transformar bactérias, leveduras ou protoplastos vegetais através da introdução de uma nova codificação de DNA. Se as bactérias e os plasmídeos são misturados em conjunto, os plasmídeos podem ser transferidos para as bactérias após a eletroporação.
+
+
+== Utilização ==
+A eletroporação tem sido aplicada em vários campos da bioquímica, biologia molecular, medicina e oncologia. É utilizada como forma de aumentar a eficiência das vacinas de DNA, para ativar a imunidade contra o câncer; na eletroquimioterapia, na transferência de quimioterápicos (e.g., bleomicina, cisplatina) para dentro de células tumorais cutâneas e sub-cutâneas; na transferência de plasmídeos (DNA) e fusão de células, como ferramenta no melhoramento genético; transporte de moléculas (e.g., vitamina C, lidocaina, entre outras) para a pele; e inserção de proteínas na membrana celular. Entretanto, ocorre um efeito indesejado da eletroporação na terapia de desfibrilação cardíaca. Este tratamento é necessário na reversão das arritmias cardíacas, mas causa eletroporação nas membranas e conseqüente desequilíbrio iônico nas células do coração. 
+
+
+== História ==
+O primeiro artigo sobre o rompimento elétrico reversível da membrana celular é atribuído a Stampfli em 1958 e foi publicada nos Anais da Academia Brasileira de Ciências. Na década seguinte, Sale e Hamilton (1967) relatam a destruição de micro-organismos utilizando pulsos elétricos. Na década de 70, Neumann e Rosenhech (1972) mostram que a aplicação de campos elétricos aumenta a permeabilidade da membrana plasmática em vesículas. Kinosita e Tsong (1977) introduzem o conceito de formação de poros na membrana. Nos anos 80, a eletroporação foi aplicada na introdução de DNA, bleomicina, sacarose, marcadores e íons. No início da década seguinte, os poros da membrana eletroporada são visualizados usando microscopia ótica. Na última década, houve um aumento do número de trabalhos focados na eficiência da transferência de moléculas para dentro da célula, e conseqüentemente, nos estudos dos fatores que influenciam a eletroporação.
+
+
+== Estudo ==
+O entendimento dos mecanismos da eletroporação fornece subsídios para aplicação desta ferramenta de forma eficiente e segura. No entanto, as explicações teóricas não concordam com os resultados experimentais. A dificuldade no entendimento da eletroporação está associada aos poros terem diâmetros da ordem de nanômetros (i.e. 0,000000001 metros) e sua dinâmica ocorrer na ordem de nano-microssegundos (i.e. 10-9-10-6 segundos). A dinâmica de abertura e fechamento, bem como o tamanho e quantidade de poros sofrem a influência de fatores como: campo elétrico aplicado e propriedades do meio celular (e.g., raio da célula, condutividade interna e externa do meio).
+
+
+=== Centros de pesquisa ===
+Alguns dos principais centros de pesquisa no Brasil sobre teoria e aplicação da eletroporação:
+
+
+== Referências ==

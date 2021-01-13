@@ -1,0 +1,48 @@
+Clostridium botulinum é uma bactéria patogênica ,que podem gerar uma toxi-infecção alimentar. É uma bactéria em forma de cotonete, flagelada que lhe confere agilidade.
+A toxina produzida em sua esporulação bloqueia a comunicação entre os nervos, deixando a pele mais dura e resistente, por isso é utilizada no "BOTOX".
+Estes organismos em forma de cotonete (Bastonetes) proliferam melhor em meios pobres em oxigênio. Podem sobreviver dormentes até serem expostos a condições favoráveis ao seu desenvolvimento. Os esporos são altamente resistentes, pois suportam a temperatura de autoclave de 121 °C por 15 min.
+Existem sete tipos de toxina do botulismo designadas pelas letras de A a G; apenas os tipos A, B, E e F podem causar doença em humanos. As toxinas geralmente favorecem o processo de multiplicação e disseminação da bactéria no organismo já que produzem necrose dos tecidos afetados e hemólise.
+Segundo alguns especialistas, 8% da produção de mel é contaminada pela bactéria.
+
+
+== Patogenia ==
+Com a ingestão de um alimento contaminado a anaerobiose causa a germinação e produção de toxinas, bloqueando a liberação de acetilcolina pelo sistema nervoso central causando uma paralisia flácida.
+
+
+== Fisiopatologia ==
+O Clostridium botulinum sobrevive no meio ambiente graças a sua capacidade de formar esporos. Encontra-se presente em todo o mundo, no solo e águas, podendo estar presente em alimentos e outros produtos.
+A forma de esporo pode sobreviver por mais de duas horas em temperaturas próximas de 100 °C. Sob condições favoráveis (meio anaeróbio e alcalino) os esporos germinam e o C. botulinum é capaz de se multiplicar e produzir ativamente um pré-polipeptídeo que é constantemente clivado por uma protease em um novo polipeptídio, a toxina botulínica. A toxina botulínica apresenta duas cadeias peptídicas, uma pesada e outra leve, que são unidas por pontes de dissulfeto. A porção pesada é responsável por ligar-se ao tecido neural, enquanto a porção leve é a responsável direta pelos sintomas da doença3.
+Existem sete sorotipos de C. botulinum, sendo cada um responsável pela produção de uma toxina, que são classificadas em A até G. Os tipos A, B e E são os mais prevalentes. No Brasil, há relatos de doença em humanos somente pelos tipos A e B4.
+No sistema nervoso periférico, após a ligação da porção pesada da toxina, a porção leve é translocada mediante endocitose para o citoplasma da célula nervosa. A toxina botulínica inibe a fusão das vesículas contendo acetilcolina na membrana citoplasmática. Desta forma não existe liberação de acetilcolina na fenda sináptica e não ocorre a contração muscular.
+Classifica-se o botulismo pela forma de aquisição, descrevendo-se as formas: alimentar, infantil, através de ferimento, oculto e iatrogênico. No Brasil, a forma mais comum é a alimentar.
+
+
+== Quadro Clínico ==
+Os sintomas do botulismo alimentar iniciam-se dentro de 36 horas com sinais e sintomas gastrointestinais inespecíficos após ingestão do alimento contaminado. No Brasil, o produto mais comumente associado com o botulismo é o palmito em conserva não industrializado, mas a toxina pode ser encontrada em qualquer tipo de alimento que propicie as condições de manutenção do crescimento bacteriano anaeróbio. Após esse “pródromo”, aparecem os sinais neurológicos específicos, que consistem basicamente em alterações de pares cranianos, incluindo ptose palpebral bilateral, diplopia com oftalmoplegia devido paralisia do III, IV, VI e VII pares cranianos5. Pode haver também acometimento dos IX, X e XII pares cranianos. A doença evolui em horas com paralisia flácida descendente de membros superiores evoluindo para tetraparesia e insuficiência respiratória. A doença tem um espectro muito variável, que depende do tipo e quantidade de toxina ingerida, idade e comorbidades do paciente, além do tempo de início do tratamento específico.  A ausência de acometimento de pares cranianos afasta o diagnóstico de botulismo6. Diferente da infecção pelo C. tetani, os sinais disautonômicos são mais raros e menos intensos. A presença de febre só é encontrada nos casos de botulismo associado a ferimento, devendo-se pesquisar outra etiologias nas demais formas.
+O diagnóstico é feito pelo quadro clínico característico e identificação da toxina no paciente ou no alimento tomado como suspeito.
+A identificação da toxina é realizada por método de bio-ensaio em ratos. A pesquisa é feita por exame nas fezes, sangue e aspirado gástrico, devendo- se encaminhar a amostra o mais rapidamente possível para o laboratório especializado, idealmente no máximo em 72 horas. Nos casos de botulismo infantil e através de ferida, pode-se realizar a cultura de material apropriado e identificação do C. botulinum.
+
+
+== Tratamento ==
+Com a melhora do manejo de pacientes em UTI, a letalidade do botulismo diminuiu de 50% para 9% nos últimos anos. As principais causas de óbito nos pacientes com botulismo estão relacionadas às complicações infecciosas do paciente em terapia intensiva.
+Antitoxina botulínica
+A abordagem do paciente inicia-se na unidade de terapia intensiva com o tratamento específico para o botulismo, realizado com a utilização da antitoxina botulínica eqüina. A utilização do soro antibotulínico reduz o tempo de internação e ventilação mecânica, além de diminuir a letalidade da doença. Embora a antitoxina botulínica esteja disponível desde 1940, sua eficácia nunca foi avaliada por um estudo controlado, apenas controles históricos e série de casos de botulismo alimentar e por ferimento7, 8 (Nível de evidência E-IV).
+Publicação recente demonstrou a eficácia da utilização da imunoglobulina humana antibotulínica, a qual foi testada em casos de botulismo infantil, cuja vantagem foi a diminuição dos efeitos adversos graves em relação ao soro eqüino9 (Nível de evidência B-I).
+
+
+== Terapia de Suporte ==
+Consiste basicamente no tratamento do paciente com paralisia flácida de longa duração, que pode perdurar em média por quatro semanas. Deve-se atentar para a necessidade de suporte ventilatório, controle hemodinâmico, analgesia, antibioticoterapia e profilaxias do paciente em UTI.
+
+
+=== Suporte Ventilatório ===
+Não existem trabalhos sobre indicação de intubação orotraqueal em pacientes com botulismo. Os doentes devem ser avaliados quanto ao quadro respiratório determinando se há insuficiência respiratória e necessidade de ventilação mecânica, além de avaliar a necessidade de proteção das vias aéreas devido disfagia alta e o risco de broncoaspiração.
+A utilização de ventilação não invasiva pode ser uma opção em pacientes sem insuficiência respiratória grave, mas sua indicação deve ser criteriosa pelo risco de broncoaspiração devido disfunção neurológica bulbar10 (Nível de evidência E-V).
+A conduta mais segura em pacientes com disfunção ventilatória é a intubação orotraqueal com ventilação mecânica e traqueostomia o mais precoce possível. A traqueostomia precoce diminui a incidência de pneumonia e é mais confortável para o paciente10 (Nível de evidência E-V).
+O tempo médio de ventilação mecânica nestes pacientes é em média quatro semanas e o desmame da ventilação mecânica geralmente não apresenta grandes dificuldades.
+
+
+== Sedação e analgesia ==
+O paciente com botulismo não precisa de sedação, sendo rara a necessidade de analgesia, que pode ser guiada conforme as queixas do doente. O botulismo não compromete o nível de consciência, devendo ser investigada quando ocorrer.
+Antibioticoterapia
+A antibioticoterapia está indicada na forma infantil e na forma por ferimento associada com extenso debridamento cirúrgico. O antibiótico de escolha é a penicilina cristalina intravenosa na dose de 2.000.000 UI a 4.000.000 UI a cada 4 horas. Metronidazol 500 mg EV cada 8 horas é a segunda opção.
+As complicações destes pacientes são secundárias ao tempo prolongado de internação na UTI, aumentando o risco de doenças infecciosas nosocomiais. Deve ser lembrado que é uma contra-indicação relativa o uso de clindamicina e aminoglicosídeos pela possibilidade de exacerbação dos sintomas da doença e atrasar o desmame da ventilação mecânica.

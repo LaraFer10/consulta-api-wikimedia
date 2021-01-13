@@ -1,0 +1,46 @@
+IGL@ ou locus lambda da imunoglobulina (também conhecido como IGL e IGLC6), é uma região do cromossoma 22 que contém genes para as cadeias leves lambda dos anticorpos (imunoglobulinas).
+
+
+== Genes ==
+O locus lambda da imunoglobulina contém os seguintes genes:
+
+IGLC@ – grupo constante
+IGLC1 – imunoglobulina lambda constante 1 (marcador Mcg)
+IGLC2 – imunoglobulina lambda constante 2 (marcador Kern-Oz-)
+IGLC3 – imunoglobulina lambda constante 3 (marcador Kern-Oz+)
+IGLC7 – imunoglobulina lambda constante 7
+IGLJ@ – grupo de união
+IGLJn – imunoglobulina lambda união n
+IGLJ1, IGLJ2, IGLJ3, IGLJ6, IGLJ7
+IGLV@ – grupo variável
+IGLVm-n – imunoglobulina lambda variável n-m
+IGLV1-36, IGLV1-40, IGLV1-44, IGLV1-47, IGLV1-51, IGLV1-62
+IGLV2-5, IGLV2-8, IGLV2-11, IGLV2-14, IGLV2-18, IGLV2-23
+IGLV3-1, IGLV3-10, IGLV3-12, IGLV3-16, IGLV3-19, IGLV3-21, IGLV3-25, IGLV3-27
+IGLV4-3, IGLV4-60, IGLV4-69
+IGLV5-37, IGLV5-39, IGLV5-45, IGLV5-52
+IGLV6-57
+IGLV7-43
+IGLV9-49
+IGLV10-54
+
+
+== Referências ==
+
+
+== Bibliografia ==
+Taussig MJ (1988). «Molecular genetics of immunoglobulins.». Immunology. Supplement. 1: 7–15. PMID 3133312 
+Combriato G, Klobeck HG (1991). «V lambda and J lambda-C lambda gene segments of the human immunoglobulin lambda light chain locus are separated by 14 kb and rearrange by a deletion mechanism.». Eur. J. Immunol. 21 (6): 1513–22. PMID 1904362. doi:10.1002/eji.1830210627 
+Vasicek TJ, Leder P (1990). «Structure and expression of the human immunoglobulin lambda genes.». J. Exp. Med. 172 (2): 609–20. PMC 2188323. PMID 2115572. doi:10.1084/jem.172.2.609 
+Emanuel BS, Cannizzaro LA, Magrath I,  et al. (1985). «Chromosomal orientation of the lambda light chain locus: V lambda is proximal to C lambda in 22q11.». Nucleic Acids Res. 13 (2): 381–7. PMC 341002. PMID 3923432. doi:10.1093/nar/13.2.381 
+Hieter PA, Korsmeyer SJ, Waldmann TA, Leder P (1981). «Human immunoglobulin kappa light-chain genes are deleted or rearranged in lambda-producing B cells.». Nature. 290 (5805): 368–72. PMID 6783958. doi:10.1038/290368a0 
+Erikson J, Martinis J, Croce CM (1982). «Assignment of the genes for human lambda immunoglobulin chains to chromosome 22.». Nature. 294 (5837): 173–5. PMID 6795508. doi:10.1038/294173a0 
+McBride OW, Hieter PA, Hollis GF,  et al. (1982). «Chromosomal location of human kappa and lambda immunoglobulin light chain constant region genes.». J. Exp. Med. 155 (5): 1480–90. PMC 2186665. PMID 6802926. doi:10.1084/jem.155.5.1480 
+Frippiat JP, Williams SC, Tomlinson IM,  et al. (1995). «Organization of the human immunoglobulin lambda light-chain locus on chromosome 22q11.2.». Hum. Mol. Genet. 4 (6): 983–91. PMID 7655473. doi:10.1093/hmg/4.6.983 
+Williams SC, Frippiat JP, Tomlinson IM,  et al. (1997). «Sequence and evolution of the human germline V lambda repertoire.». J. Mol. Biol. 264 (2): 220–32. PMID 8951372. doi:10.1006/jmbi.1996.0636 
+Kawasaki K, Minoshima S, Nakato E,  et al. (1997). «One-megabase sequence analysis of the human immunoglobulin lambda gene locus.». Genome Res. 7 (3): 250–61. PMID 9074928. doi:10.1101/gr.7.3.250 
+Lefranc MP (2002). «Nomenclature of the human immunoglobulin lambda (IGL) genes.». Exp. Clin. Immunogenet. 18 (4): 242–54. PMID 11872955. doi:10.1159/000049203 
+Strausberg RL, Feingold EA, Grouse LH,  et al. (2003). «Generation and initial analysis of more than 15,000 full-length human and mouse cDNA sequences.». Proc. Natl. Acad. Sci. U.S.A. 99 (26): 16899–903. PMC 139241. PMID 12477932. doi:10.1073/pnas.242603899 
+Boursier L, Su W, Spencer J (2003). «Imprint of somatic hypermutation differs in human immunoglobulin heavy and lambda chain variable gene segments.». Mol. Immunol. 39 (16): 1025–34. PMID 12749909. doi:10.1016/S0161-5890(03)00033-6 
+Makino DL, Henschen-Edman AH, McPherson A (2006). «Four crystal forms of a Bence-Jones protein.». Acta Crystallogr. Sect. F Struct. Biol. Cryst. Commun. 61 (Pt 1): 79–82. PMC 1952397. PMID 16508097. doi:10.1107/S1744309104028532 
+Richl P, Stern U, Lipsky PE, Girschick HJ (2007). «The lambda gene immunoglobulin repertoire of human neonatal B cells.». Mol. Immunol. 45 (2): 320–7. PMID 17675156. doi:10.1016/j.molimm.2007.06.155

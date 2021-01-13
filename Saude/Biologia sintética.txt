@@ -1,0 +1,116 @@
+A expressão biologia sintética tem sido utilizada para descrever uma abordagem da biologia que tenta integrar diferentes áreas similares de pesquisa. Mais recentemente, o termo tem sido utilizado de uma forma diferente, assinalando uma nova área de pesquisa que combina biologia e engenharia para projetar e construir novas funções e sistemas biológicos. Aquele primeiro objetivo está cada vez mais sendo associado com a área de biologia sistêmica.
+A biologia sintética tem sido estudada para aplicações em design artificial, engenharia de sistemas biológicos e organismos vivos, com propósito de realizar novas tarefas na indústria e pesquisa biológica. Em outras palavras, visa o desenho, construção e caracterização de novos circuitos regulatórios através da utilização de partes biológicas e modelos computacionais com o objetivo de redesenhar microrganismos para aplicações biotecnológicas.A descoberta da lógica matemática na regulação gênica e as conquistas na engenharia genética, como a tecnologia do DNA recombinante na década de 70, criaram o caminho para a biologia sintética atual. A biologia sintética estende o objetivo da engenharia genética pois ela almeja redes de regulação gênica e entender o organismo como um todo. O objetivo da biologia sintética é estender ou modificar comportamento dos organismos e engenheira-los para novos propósitos, entendendo a célula como um circuito eletrônico.
+
+
+== Histórico ==
+O primeiro uso do termo "biologia sintética" foi com a publicação do artigo Théorie physico-chimique de la vie et générations spontanées(1910) e em 1912 em  La Biologie Synthétique.Em 1978 o Nobel de Medicina foi concedido a Werner Arber, Daniel Nathans e Hamilton O. Smith pela descoberta da enzima de restrição e sua aplicação aos problemas de genética molecular. Em um comentário editorial no jornal Gene, Wacław Szybalski escreveu: "O trabalho em nucleases de restrição não somente permite-nos construir facilmente moléculas de ADN recombinante e analisar genes individuais, mas também nos leva para a nova era da biologia sintética, onde não somente genes existentes são descritos e analisados, mas também novos arranjos de genes podem ser construídos e avaliados".Um notável avanço na área ocorreu nos anos 2000 com a publicação de dois artigos na Nature por Michael B. Elowitz e Stanislas Leibler discutindo a criação circuitos biológicos sintéticos em E. coli.
+
+
+== Criação da célula artificial ==
+Em 2010, o J. Craig Venter Institute anunciou a criação de uma célula bacteriana controlada por um genoma completamente artificial, num artigo científico da revista Science de 20 de Maio de 2010.Após 15 anos de investigação, Craig Venter e a sua equipa anunciaram ter conseguido produzir em laboratório as unidades básicas do ADN de uma bactéria (Mycoplasma mycoides) e introduzir esse material sintético numa outra célula receptora de espécie diferente (Mycoplasma capricolum), que conseguiu reproduzir-se da forma mais natural.
+O genoma sintetizado continha várias marcas d'água incluídas no código para certificar que o genoma obtido não era natural. As marcas de água incluíam os nomes dos autores principais do projecto, um endereço de website que permite contactar o Instituto, e três citações.
+
+
+== Criação do vírus artificial ==
+Em 2010, os cientistas das universidades federais Pernambuco e Rio de Janeiro criaram em laboratório um vírus artificial de HIV, o que pode possibilitar o desenvolvimento de uma nova vacina terapêutica para pacientes portadores de AIDS.O resultado foi gerado por um estudo que começou a ser feito em 2002 para a criação de uma vacina terapêutica contra o vírus HIV e que substitui os métodos tradicionais que utilizam o vírus retirado do próprio paciente soropositivo, o que envolve até dez coletas e é um processo mais demorado e oneroso.
+
+
+=== Método e resultados ===
+O desenvolvimento do protótipo aconteceu duas semanas antes do início da criação do vírus artificial. O procedimento teve apoio financeiro do  Centers for Disease Control and Prevention de Atlanta, equivalente, nos EUA, à Fiocruz. Foram empregados US$ 500 mil na compra de reagentes e pagamento de bolsas nos últimos 12 meses.Os cientistas usaram uma técnica de clonagem que permite cortar e colar os pedaços de DNA, colocando-os dentro de um vetor DNA chamado plasmídeo, até construir um genoma completo do HIV inativado.A partir do experimento, foi produzida uma vacina, cujo efeito em metade  de 18 pacientes foi a redução da carga viral a quase zero.Outros testes devem ser feitos com um grupo de mil pacientes. Os pesquisadores garantem que a medicação deve chegar à população em cerca de cinco anos.A segunda fase, em desenvolvimento, tem duração prevista de três anos e pretende alcançar 100% de eficácia. Os testes com a vacina são feitos no Laboratório de Imunopatologia Keiso Asami (Lika) da UFPE em parceria com a o Laboratório LIM-56 USP.O primeiro protótipo de vírus recombinante tem sido testado em células dendríticas para avaliar o perfil de expressão das células e, posteriormente, a estimulação com o vírus.
+
+
+== Perspectivas ==
+
+
+=== Engenharia ===
+Os engenheiros enxergam a biologia como uma nova tecnologia - Biotecnologia. A biologia sintética abrange uma redefinição e expansão da biotecnologia. Com o propósito de ser capaz de projetar e construir sistemas biológicos que processam informações, manipulam produtos químicos, fabricam materiais, produzam energia e alimento, e mantém a saúde humana e cuida do ambiente.Estudos em biologia sintética podem ser subdivididos em classificações gerais de acordo com a abordagem: padronização de partes biológicas, engenharia biomolecular, engenharia de genoma. Engenharia Biomolecular inclui abordagens que visam criar um kit de ferramentas de unidades funcionais que podem ser introduzidas para apresentar novas funções tecnológicas em células vivas. Biomolecular refere-se à idéia geral do projeto de novo e aditivo combinação de componentes biomoleculares. Cada uma dessas abordagens compartilham uma tarefa semelhante: desenvolver uma entidade mais sintética a um nível mais elevado de complexidade, manipulando intensivamente uma parte mais simples ao nível anterior. A engenharia de genomas inclui abordagens para construir cromossomos sintéticos.
+
+
+=== Re-escrita ===
+Os re-escritores são biólogos sintéticos que almejam testar a irredutibilidade dos sistemas biológicos. Devido a complexidade dos sistemas biológicos naturais, seria mais simples montar um sistema biológico de interesse a partir do zero, afim de prover produtos de mais fácil compreensão e manipulação.
+
+
+== Aplicações ==
+
+
+=== Vida Artificial ===
+
+Um tema importante na biologia sintética é vida sintética, isto é, a vida artificial criada in vitro a partir de biomoléculas e seus materiais componentes. Experiências de vida sintéticas tentam investigar as origens da vida, estudar algumas das propriedades de vida, ou de forma mais ambiciosa para recriar a vida a partir de componentes não-vivos (abióticos). A biologia sintética tenta criar novas moléculas biológicas e até mesmo novas espécies de vida capazes de realizar uma série de importantes funções médicas e industriais, desde a fabricação farmacêutica para desintoxicar terra poluída e água. Em medicina, oferece perspectivas de usar essa tecnologia como ponto de partida para uma classe totalmente nova de terapias e ferramentas de diagnóstico.Um genoma completamente sintético foi produzido por Craig Venter, e sua equipe o introduziu em células hospedeiras bacterianas geneticamente esvaziadas,  e permitiu que as células hospedeiras crescessem e se replicassem.
+
+
+=== Transformação Celular ===
+Atualmente, organismos inteiros não estão sendo criados a partir do zero, mas sim células vivas estão sendo transformadas com inserções de DNA novo. Existem várias maneiras de construir componentes de DNA sintéticos e até mesmo genomas sintéticos inteiros, mas uma vez que o código genético desejado é obtido, ele é integrado em uma célula viva que se espera que manifeste as novas capacidades ou fenótipos desejados ao crescer e prosperar. A transformação celular é usada para criar circuitos biológicos, que podem ser manipulados para produzir as saídas desejadas.
+
+
+=== Armazenamento de Informação ===
+Os cientistas podem codificar grandes quantidades de informação digital em uma única cadeia de DNA sintético. Em 2012, George M. Church codificou um de seus livros sobre biologia sintética no DNA. Os 5,3 Mb de dados do livro é mais de 1000 vezes maior do que a maior quantidade de informação anterior armazenada em DNA sintetizado. [48] Um projeto similar codificara os sonetos completos de William Shakespeare em DNA.
+
+
+=== Vias Genéticas Sintéticas ===
+A engenharia metabólica tradicional foi reforçada pela introdução de combinações de genes estranhos e otimização por evolução direcionada. Talvez a aplicação mais conhecida da biologia sintética até o momento seja a engenharia de E. coli e levedura para a produção comercial de um precursor do fármaco antipalúdico, Artemisinina, pelo laboratório de Jay Keasling.
+
+
+=== Proteínas Projetadas ===
+
+Embora existam métodos para engenharia de proteínas naturais, tais como por evolução dirigida, existem também projetos para projetar novas estruturas de proteína que correspondem ou melhorar a funcionalidade das proteínas existentes. Um grupo gerou um feixe de hélice que era capaz de ligar o oxigênio com propriedades similares à hemoglobina, mas não se ligava ao monóxido de carbono. Foi gerada uma estrutura proteica semelhante para suportar uma variedade de atividades oxidorredutase. Outro grupo gerou uma família de receptores acoplados à proteína G que poderiam ser ativados pela pequena molécula inerte clozapina-N-óxido, mas insensível ao ligante nativo, a acetilcolina.
+
+
+=== Biossensores ===
+Um biossensor refere-se a um organismo, geralmente uma bactéria, que é capaz de relatar algum fenômeno ambiental, como a presença de metais pesados ou toxinas. Nesta capacidade, um sistema muito utilizado é o operon Lux de Aliivibrio fischeri. O operon de Lux codifica uma enzima que é a bioluminescência bacteriana de origem e pode ser colocada depois de um promotor respondente para expressar os genes de luminescência em resposta a um estímulo ambiental específico. Um desses sensores criado em Oak Ridge National Laboratory, e denominado "critter on a chip", consistia em um revestimento bacteriano bioluminescente em um chip de computador fotossensível para detectar certos poluentes de petróleo. Quando as bactérias sentem o poluente, começam a luminescência.
+
+
+=== Exploração Espacial ===
+A biologia sintética levantou o interesse da NASA, pois poderia ajudar a produzir recursos para os astronautas a partir de um portfólio restrito de compostos enviados da Terra. Em Marte, em particular, a biologia sintética também poderia levar a processos de produção baseados em recursos locais, tornando-a uma ferramenta poderosa no desenvolvimento de postos tripulados com mínima dependência da Terra
+
+
+=== Enzimas Industriais ===
+Pesquisadores e empresas que utilizam biologia sintética têm por objetivo sintetizar enzimas com alta atividade, para produzir produtos com produtividade e eficácia ótimas. Estas enzimas sintetizadas visam melhorar produtos como detergentes e produtos lácteos isentos de lactose, bem como torná-los mais rentáveis.As melhorias da engenharia metabólica por biologia sintética é um exemplo de uma técnica biotecnológica utilizada na indústria para descobrir produtos farmacêuticos e produtos químicos fermentativos. A biologia sintética pode investigar os sistemas de vias modulares na produção bioquímica e aumentar os rendimentos da produção metabólica. A atividade enzimática artificial e os efeitos subseqüentes sobre as taxas de reação metabólica e os rendimentos podem desenvolver "novas estratégias eficientes para melhorar as propriedades celulares. . . Para a produção bioquímica industrialmente importante. " 
+
+
+=== Produção de Materiais ===
+Ao integrar as abordagens de biologia sintética com as ciências dos materiais, seria possível imaginar células como fundições moleculares microscópicas para produzir materiais com propriedades que podem ser codificadas geneticamente. Os recentes avanços neste sentido incluem a reengenharia de fibras curli, o componente amilóide de material extracelular de biofilmes, como uma plataforma para nanomaterial programável. Estas nanofibras foram geneticamente construídas para funções específicas, incluindo: adesão a substratos; Modelo de nanopartículas; E imobilização de proteínas.
+
+
+=== Nucleotídeos sintéticos ===
+Muitas tecnologias foram desenvolvidas para incorporar nucleotídeos e aminoácidos não naturais em ácidos nucléicos e proteínas, tanto in vitro quanto in vivo. Por exemplo, em maio de 2014, pesquisadores anunciaram que haviam introduzido com sucesso dois novos nucleotídeos artificiais no DNA bacteriano. Ao incluir nucleótidos artificiais individuais nos meios de cultura, eles conseguiram trocar as bactérias 24 vezes; eles não geraram mRNA ou proteínas capazes de usar os nucleotídeos artificiais. As moléculas guia sintéticas conhecidas como ácidos nucleicos em ponte (BNAs) no lugar dos RNAs guia nativos (gRNAs) do sistema para direcionar a enzima Cas9 para sua seqüência de DNA alvo, e assim reduzir a clivagem do DNA fora do alvo, aprimorou 10.000 vezes a especificidade da edição do gene CRISPR-Cas9.
+
+
+== Bioética e Segurança ==
+Além de inúmeros desafios científicos e técnicos, a biologia sintética levanta questões éticas e questões de biossegurança. No entanto, com a exceção da regulação de empresas de síntese de DNA, as questões não são vistas como novas, porque eles foram levantados durante a fase do DNA recombinante e organismos geneticamente modificados (OGM).
+
+
+=== Preocupações éticas ===
+A biologia sintética traz à tona uma série de questões, incluindo: quem terá o controle e acesso aos produtos da biologia sintética, e quem vai ganhar com essas inovações? Colocar patentes sobre organismos e regulamentos na em bioengenharia de embriões humanos são grandes preocupações no campo da bioética.
+
+
+== Estude Biologia Sintética no Brasil - Pós-Graduação ==
+Departamento de Biologia Celular e Molecular - Faculdade de Medicina de Ribeirão Preto (site) - Universidade de São Paulo (site)
+Departamento de Bioprocessos e Biotécnologia - Faculdade de Ciências Farmacêuticas Campus Araraquara (site) - Universidade Estadual Paulista (site)
+
+
+== Ver também ==
+Bioengenharia
+Biopunk
+Bioinformática
+Biorrobótica
+Biotécnologia
+Biologia Sistêmica
+iGEM
+Biologia Computacional
+Bioética
+
+
+== Referências ==
+
+
+== Ligações externas ==
+
+
+=== Em inglês ===
+(em inglês)-Sítio da comunidade Synthetic Biology
+(em inglês)-Sítio da competição internacional do Genetically Engineered Machines (iGEM)
+
+
+=== Em português ===
+(em português)-Nasce a engenharia de microorganismos, por Mônica Teixeira, em Revista Desafios do Desenvolvimento do IPEA. Recuperado em 14 de maio de 2007.
+(em português)-Vida sintética, por W. Wayt Gibbs, em Scientific American Brasil. Recuperado em 14 de maio de 2007.

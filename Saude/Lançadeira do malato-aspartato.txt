@@ -1,0 +1,20 @@
+A lançadeira do malato-aspartato é um conjunto de reações que transporta os equivalentes de redução produzidos no citosol durante a glicólise ao interior da mitocôndria. Funciona essencialmente no fígado, rim e coração.
+A membrana mitocondrial interna é impermeável ao NADH., de modo que este precisa ser reoxidado a NAD+, transferindo seus elétrons ao oxalacetato, para que a entrada do poder redutor na matriz mitocondrial seja possível. Desse modo, a lançadeira malato-aspartato irá desempenhar o papel de transportadora de elétrons. A lançadeira utiliza várias moléculas que também funcionam como intermediários de vias metabólicas importantes como oxalacetato e o malato do ciclo do ácido cítrico.
+
+
+== Componentes ==
+Enzima malato desidrogenase: na matriz mitocondrial e espaço intermembranal
+Enzima aspartato transferase: na matriz mitocondrial e espaço intermembranal
+Transportador malato-α-cetoglutarato: membrana mitocondrial interna
+Transportador glutamato-aspartato: membrana mitocondrial interna
+
+
+== Mecanismo ==
+NADH citosólico reduz o oxacacetato no citosol, em malato (catalisada pela malato desidrogenase);
+Na mitocôndria, o malato é oxidado também por uma outra isoforma de malato desidrogenase, mitocondrial, que utiliza o NAD+ como coenzima;
+O oxalacetato produzido pela mitocôndria é transaminado a aspartato;
+Esse sai da mitocondria, pela translocase glutamato-aspartato, e no citosol é regenerado a oxalacetato, por uma aspartato aminotransferase;
+O NADH produzido no citosol é regenerado na matriz mitocondrial nesse processo. O resto da lançadeira é responsável pela devolução do oxalacetato a matriz citosólica.
+
+
+== Referências ==

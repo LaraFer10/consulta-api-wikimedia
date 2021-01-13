@@ -1,0 +1,8 @@
+CRISPR-Cas10, também conhecido como CRISPR-Csm1, que faz parte do agrupamento Tipo III-A, é uma tecnologia de edição de ácido nucleico análoga ao sistema CRISPR/Cas9; no entanto, o sistema é superior na segmentação vírus de mutação rápida.
+
+
+== Comparação entre Cas9 e Cas10 ==
+Enquanto CRISPR/Cas9 requer seqüências de DNA específicas para o vírus para ser intacto, a fim de cortá-lo, CRISPR-Cas10, na bactéria Staphylococcus epidermidis, pode montar uma resposta imune eficaz, mesmo quando as mutações estão presentes nessas seqüências.  A flexibilidade do sistema pode ser aproveitada para tecnologias de edição de genes mais robustas, embora menos específicas, do que aquelas baseadas em CRISPR/Cas9, como a segmentação do gene causador de malária em pernilongos, que pode variar dentro das populações.
+
+
+== Referências ==

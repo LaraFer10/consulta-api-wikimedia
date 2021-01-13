@@ -1,0 +1,54 @@
+As histonas deacetilases (HDAC's) são uma vasta família de enzimas que representam papéis cruciais em inúmeros processos biológicos, principalmente através da sua característica repressiva na transcrição. A expressão de muitas isoformas das HDAC's em células eucarióticas levanta questões quanto a sua possível especificidade e redundância, e/ou se controla programas de expressão de gene a nível abrangente ou específico.
+São classificadas como enzimas capazes de remover grupos acetil (O=C-CH3) de uma lisina ácido amino ε-N-acetil em uma histona, permitindo às histonas a capacidade de enrolar o DNA.
+
+
+== Superfamília das histonas deacetilases ==
+A superfamília das histonas deacetilases (HDAC) consiste em 18 membros que, supõe-se, têm dois pontos de origem evolucionária distintos, aos quais exibiram a atividade de lisina deacetilase em comum. A clássica família HDAC é caracterizada pelo bem conservado domínio catalítico Zn2+ (classes I, IIa, IIb, IV). Já as sirtuínas compreendem um grupo diferente de HDAC, as quais se utilizam do cofator NAD+.
+A classe I é definida pelas semelhanças com o fator transcricional em leveduras RPD3. A classe IIa é caracterizada pela sua homologia com a levedura HDA1. A classe IIb também parte de sua homologia com a levedura HDA1, contudo possui dois domínios deacetilases. A classe IV é muito parecida com a classe I de HDAC porém também possui características com a classe II e seus subtipos.
+
+
+== Classes de HDACs ==
+As histonas desacetilases (HDAC) têm sido divididas em quatro classes diferentes, e estão sendo minuciosamente estudadas devido a dois motivos principais: primeiro, elas têm sido relacionadas com a patogênese do câncer, assim como de várias outras doenças; segundo, pequenas moléculas inibidoras das HDAC (iHDAC) possuem a capacidade de interferir com a atividade destas enzimas e podem, portanto, atingir efeitos biológicos significantes em modelos pré- clínicos de câncer. Até agora,11 membros da família HDAC foram identificados em humanos, mas poucos foram caracterizados com detalhes. Essa classificação leva em conta uma análise filogenética que divide HDAC’s não-sirtuínas em dois grupos, classe I e classe II; e uma terceira classe (IV) consistindo em proteínas relacionadas com o gene humano HDAC11 recente identificado. A classe III é distinguida da classe IV, pois a classe IV não possui sirtuínas desacetilases. Todas as classes existem em eubactérias. Em humanos, as HDAC-1, 2 e 3 foram expressas em vários tecidos, mas as outras (HDAC- 4, 5, 6, e 7) apresentaram padrões específicos de tecido de expressão. Estes resultados sugerem que cada membro da família de HDAC apresenta uma forma diferente, a especificidade do substrato individual e função in vivo. HDAC-4, 5, 6, 7, 10, 11 tem pesos moleculares cerca de duas vezes maiores do que os dos membros da classe I.
+
+
+== Subtipos ==
+Muitos dos aspectos biológicos de subtipos foram descobertos ao realçar como cada subtipo tem uma função muito especializada e predominantemente não redundante. Nos mamíferos, os subtipos 1,2,3 e 8 são os mais próximos entre as espécies. Em camundongos, através do nocaute dos genes desses subtipos, foi mostrado que esses animais morreram ainda durante a fase embrionária. Regulações compensatórias de outros subtipos, mesmo que sejam da mesma classe, são insuficientes para contrabalancear os efeitos negativos decorrentes da perda de um subtipo, representando a sua singularidade. 
+O subtipo 1 e 2 estão relacionados com ciclos genéticos importantes. O subtipo 2 ainda tem outras funções especializadas; ambos são nucleares. O subtipo 3 está relacionado com a expressão gênica por receptores nucleares para hormônios e pode ser encontrado tanto no núcleo como no citoplasma e até mesmo na membrana plasmática. O subtipo 8 foi descoberto em músculos lisos, onde é necessário para contração muscular, além de mostrar efeitos antitumorais em cultura de células.
+Os subtipos de classe II (4,5,6,7 e 9) são caracterizados por expressão tecido-específica e dependente de estímulos núcleo-citoplasmático. Notavelmente, controlam a diferenciação e hipertrofia em tecidos musculares e cartilaginosos.
+
+
+== Localizações subcelulares ==
+Dentro da classe I das HDACs, HDAC 1, 2 e 8 são primariamente encontradas no núcleo, enquanto HDAC 3 é encontrada tanto no núcleo, citoplasma e também membranas associadas. A classe II das HDACs (HDAC 4, 5, 6, 7, 9 e 10) são hábeis a movimentar-se para dentro e para fora do núcleo dependendo de diferentes sinais.
+
+
+== Funções ==
+
+
+=== Modificações da Histona ===
+As histonas desempenham um papel fundamental no enrolamento da cromatina. Trata-se de proteínas básicas que têm uma alta proporção de lisina e arginina, ou seja, de aminoácidos carregados positivamente. Isto contribui para a união das histonas aos grupos fosfato negativamente carregados na estrutura principal do DNA. Vale acrescentar que as extremidades amina - ou "caudas" - das histonas projetam-se para fora do nucleossomo.
+A acetilação, a qual ocorre normalmente em uma célula, neutraliza as cargas positivas da cadeia lateral de aminoácidos da histona por transformar aminas em amidas e diminuir a interação das terminações N das histonas com os grupos fosfato negativamente carregados do DNA. Como consequência, a cromatina condensada é transformada em uma estrutura relaxada a qual é relacionada à eucromatina. Essa estrutura possibilita que a RNA polimerase e os fatores de transcrição acessem mais facilmente a região propiciada, por isso está associada com maiores níveis de transcrição de genes. 
+No entanto, todo o processo de modificação mencionado é reversível. A modificação de uma cadeia lateral de um aminoácido específico em um nucleossomo é produzida por uma enzima específica, e cada uma dessas enzimas atuam apenas em um ou poucos sítios. Uma enzima diferente é responsável pela remoção de cada modificação na cadeia lateral. Portanto, por exemplo, os grupos acetil adicionados a lisinas específicas por um conjunto de diferentes de histonas acetil-transferases (HATs, histone acetyltransferases) são removidos por um conjunto de complexos de histonas desacetilases (HDACs, histone deacetylase complexes).
+A histona deacetilase remove estes grupos acetila, aumentando as cargas positivas das caudas de histona e reforçando a ligação de alta-afinidade entre as histonas e a estrutura do DNA. Esse mecanismo é um importante regulador transcricional. Cromatinas hiperacetiladas possibilitam a transcrição, mas cromatinas hipoacetiladas não.
+
+
+=== Efeitos da disfunção na enzima ===
+As mutações ou translocações cromossomais, envolvendo genes HAT e HDAC, resultam no desenvolvimento de malignidades hematológicas, como leucemia promielocítica aguda, linfoma, linfoma de Hodgkin , câncer de cólon e câncer gástrico. O desequilíbrio da acetilação e desacetilação das histonas em regiões promotoras contribui para a desregulação da expressão gênica e tem sido associado à carcinogênese e à progressão do câncer. Tanto histonas acetiltransferases (HAT) quanto histonas desacetilases (HDAC) possuem importante papel na regulação da expressão gênica através da modificação da cromatina. Inibidores das histonas desacetilases (iHDAC) têm emergido como uma nova classe de agentes anticâncer. Estes iHDAC têm demonstrado atividades contra diversos tipos de câncer e notáveis efeitos na proliferação da célula tumoral, na morte celular programada, na diferenciação e angiogênese in vitro e in vivo.
+
+
+== Inibidores de HDAC ==
+Atualmente, diversas classes estruturais de iHDAC, natural e sintética, são conhecidas por se ligar a histonas desacetilases e induzir a acetilação das histonas.
+Os iHDAC podem influenciar a expressão gênica no linfoma por duas maneiras: por modulação do balanço entre cromatinas abertas e fechadas para a transcrição, ou por influenciar o estado de acetilação do BCL6. 
+O HDAC-6 pode atuar como uma desacetilase dupla para tubulina e histonas. Isso sugere a possibilidade que proteínas não-histonas acetiladas podem representar novos alvos para a terapia farmacológica de iHDAC. Dois inibidores HDAC são atualmente aprovados para a quimioterapia, e outros inibidores estão sendo testados. Atualmente, estruturas cristalinas visualizadas por raios-X são disponíveis para quatro HDAC’s humanas (2, 4, 7 e 8) e três desacetilases bacterianas relacionadas com a HDAC (HDLP). 
+Células knock-out de HDAC-8, por exemplo, inibem o crescimento de linhagens de células cancerígenas nos pulmões, cólon e cervical. 
+Os inibidores de HDAC podem restringir e bloquear a inibição da expressão gênica. O maior efeito biológico acarretado vem da indução de diferenciação em células tumorais, prisão do ciclo celular em G0/G1, ativação da apoptose celular e aumento da sensibilidade celular para quimioterapia e radioterapia. 
+Vorinostat é uma das duas iHDAC utilizadas no tratamento de câncer no mercado. É usado para tratar linfoma cutâneo de células T e funciona inibindo a classe I e II de HDAC’s levando a um efeito antiproliferante na expressão gênica. Recentemente, o interesse pelos iHDAC’s como potenciadores da ação cognitiva aumentou. Há algum tempo, é sabido que o aumento da acetilação das histonas no cérebro é associado com a formação de memórias, enquanto a falta de acetilação é ligada a falhas na memória. Foi mostrado que iHDAC’s poderiam resgatar algumas deficiências na memória.
+
+
+== Questões terapêuticas ==
+A desregulação da expressão gênica é base de várias doenças e, notavelmente, de várias formas de câncer. Tentativas de empregar fármacos que visam complexos de transcrição têm sido frustradas pela dificuldade em modificar interações entre proteínas com moléculas pequenas. A descoberta de que a inibição de enzimas que modificam a cromatina permite a modulação da transcrição em células eucariontes permitiu o desenvolvimento de novos agentes farmacológicos.
+Alguns iHDAC têm demonstrado potencial terapêutico, em testes clínicos em fases iniciais, para malignidades hematológicas como linfoma cutâneo de células T, síndromes mielodisplásicas e linfoma difuso de células B. 
+
+
+== Referências ==
+
+(em inglês)

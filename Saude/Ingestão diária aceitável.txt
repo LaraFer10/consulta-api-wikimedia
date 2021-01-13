@@ -1,0 +1,43 @@
+Ingestão diária aceitável, IDA ou ADI é um valor numérico, medido em mg/kg, que determina a quantidade que se pode consumir de uma substância durante todos os dias, com segurança, por toda a vida.
+
+
+== História ==
+O conceito foi primeiramente introduzido em 1961 pelo Conselho da Europa e, mais tarde, pelo Comitê de Especialistas Conjunto FAO/WHO sobre Aditivos Alimentares, um comitê mantido por dois órgãos das Nações Unidas, a Organização das Nações Unidas para Alimentação e Agricultura e a Organização Mundial da Saúde (FAO e WHO, respectivamente, nas siglas em inglês).
+
+
+== Conceito ==
+Um valor de IDA se baseia na pesquisa corrente, com estudos de longo prazo em animais e observações em humanos. Inicialmente, é determinado um Nível com Nenhum Efeito Adverso Observável (No Observable Adverse Effect Level - NOAEL), a quantidade de uma substância que não mostra efeitos tóxicos. Normalmente os estudos são realizados com várias doses, inclusive altas. No caso de vários estudos sobre diferentes efeitos, geralmente é utilizado o menor NOAEL. Posteriormente, o NOAEL (ou outro ponto de partida, como uma dosagem de referência (benchmark dose level  - BMDL) é dividido por um coeficiente de segurança, convencionalmente 100, para levar em conta diferenças entre os animais de teste e os humanos (fator de 10) e possíveis diferenças de sensibilidade entre humanos (outro fator de 10). Coeficientes de segurança com valores diferentes de 100 podem ser usados, se isto for justificado pela incerteza sobre o valor de partida (NOAEL ou BMDL). Por exemplo, se a IDA se baseia em dados de estudos em humanos, o fator de segurança é geralmente de 10.A IDA é considerada uma ingestão segura para um adulto saudável de peso normal que consome uma quantidade média diária da substância em questão. Coeficientes de segurança maiores para crianças foram discutidos, mas considerou-se que não são necessários, porque a eliminação de produtos químicos é normalmente mais rápida em crianças.  A IDA não leva em conta reações alérgicas, que são respostas individuais e não fenômenos dependentes da dosagem.
+Quanto maior a ADI, maiores são as quantidades de um composto seguras para ingestão regular. O conceito de “ingestão diária tolerável” (Tolerable daily intake) é frequentemente usado para contaminantes indesejados ou outros produtos químicos.
+O conceito da IDA pode ser entendido como uma medida para indicar a toxicidade para uma exposição de longo prazo até a ingestão repetida de compostos químicos (presentes ou adicionados), em oposição à toxicidade aguda.
+
+
+== Tipos de IDA ==
+
+
+=== IDA incondicional ===
+Estudo completo de toxicologia, onde uma IDA é recomendada.
+
+
+=== IDA não especificada ===
+A substância em questão não necessita de uma IDA, pois testes prévios mostraram que ela não causa complicações.
+
+
+=== IDA temporária ===
+É atribuida por um determinado tempo, até que todos os estudos toxicológicos tenham sido feitos.
+
+
+=== IDA não alocada ===
+Os dados apresentados não oferecem segurança ao uso da substância.
+
+
+=== IDA de grupo ===
+Ocorre quanto se tem um grupo de compostos, de efeitos tóxicos semelhantes, cuja ingestão acumulativa deve ser evitada.
+
+
+== IDA de algumas substâncias químicas ==
+Funções e valores de Ingestão diária aceitável, recomendados pelo Comitê Conjunto FAO/OMS.
+
+
+== Referências ==
+
+Oga, Seizi (1996). Fundamentos de Toxicologia. São Paulo: Atheneu Editora de São Paulo

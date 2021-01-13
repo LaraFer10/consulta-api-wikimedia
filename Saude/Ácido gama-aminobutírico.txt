@@ -1,0 +1,125 @@
+Ácido gama-aminobutírico (IUPAC: 4-aminobutanóico [ácido]), também conhecido pela sigla inglesa GABA (Gamma-AminoButyric Acid), é um ácido aminobutírico em que o grupo amina está na extremidade da cadeia carbônica. É o principal neurotransmissor inibidor no sistema nervoso central dos mamíferos. Ele desempenha um papel importante na regulação da excitabilidade neuronal ao longo de todo o sistema nervoso. Nos seres humanos, o GABA também é diretamente responsável pela regulação do tônus muscular. A ação inibitória do neurotransmissor GABA, através da ativação do receptor GABA-A, está relacionada com o comportamento agressivo e impulsividade em humanos. Em espécies de insetos, o GABA atua apenas em receptores excitatórios nos nervos.
+Na diplegia espástica em seres humanos, a absorção de GABA por parte de alguns nervos fica danificada, o que leva a hipertonia dos músculos sinalizado por esses nervos.
+
+
+== Função ==
+
+
+=== Neurotransmissor ===
+Nos vertebrados, o GABA atua em sinapses inibitórias no cérebro através da ligação aos receptores específicos transmembranares na membrana plasmática de ambos os neurônios, pré e pós-sináptico, em processos neuronais. Essa ligação provoca a abertura de canais iônicos para permitir o influxo de íons de carga negativa como íons cloreto na célula ou íons potássio carregados positivamente para fora da célula. Esta ação resulta numa mudança negativa no potencial transmembrana, normalmente causando hiperpolarização. Atualmente, são conhecidas três classes de receptores GABA: GABAA e GABAC, que são receptores ionotrópicos, e GABAB, receptor metabotrópico, um receptor ligado a uma proteína G, que abre canais iônicos através de intermediários.
+É um neurotransmissor importante, atuando como inibidor neurossináptico, por ligar-se a receptores específicos. Como neurotransmissor peculiar, o ácido gama aminobutírico induz a inibição do sistema nervoso central (SNC), causando a sedação. Isso porque as células neuronais possuem receptores específicos para o GABA. Quando este se liga aos receptores, abre-se um canal por onde entra íon cloreto na célula neuronal, fazendo com que a célula fique hiperpolarizada, dificultando a despolarização e, como consequência, dá-se a diminuição da condução neuronal, provocando a inibição do SNC.
+Os neurônios que secretam GABA são chamados de GABAérgicos e têm ação inibitória principalmente em receptores nos vertebrados adultos. Em contrapartida, o GABA exibe ações excitatórias em insetos, mediando ativação muscular em sinapses entre os nervos e células musculares, e também o estímulo de certas glândulas.
+A atividade do GABA vai ser excitatória ou inibitória dependendo da direção (para dentro ou para fora da célula) e magnitude das correntes iônicas controlado pelo receptor GABAA. Quando o fluxo de íons positivos estiver direcionado para dentro das células a ação é excitatória, quando direcionado para fora, a ação é inibitória. A troca da maquinaria molecular que controla a polaridade deste curso, durante o desenvolvimento, é responsável pelas alterações no papel funcional do GABA entre os estágios neonatal e adulto. Ou seja, o papel do GABA muda de excitatório para inibitório a partir do desenvolvimento do cérebro na idade adulta.
+
+
+=== Desenvolvimento ===
+No hipocampo e no neocórtex dos cérebros dos mamíferos, o GABA tem inicialmente efeitos excitatórios no início do desenvolvimento, e é de fato o maior neurotransmissor excitatório em muitas regiões do cérebro antes da maturação das sinapses com glutamato.
+Nas fases anteriores de desenvolvimento da formação de contatos sinápticos, o GABA é sintetizado por neurônios e atua tanto como um mediador de sinalização autócrina (agindo sobre a mesma célula) ou parácrina (agem em células vizinhas).O GABA regula a proliferação de células progenitoras neurais, a migração e diferenciação, o alongamento de neuritos e a formação de sinapses.O GABA também regula o crescimento das células estaminais embrionárias e neurais. O GABA pode influenciar o desenvolvimento do cérebro através da expressão de células progenitoras neurais derivadas de fatores neurotróficos (BDNF). O GABA ativa o receptor GABAA, causando a interrupção do ciclo celular na fase S, limitando o crescimento.
+
+
+=== Além do sistema nervoso ===
+Além do sistema nervoso, o GABA também é produzido em níveis relativamente altos nas células β produtoras de insulina do pâncreas. As células β secretam GABA juntamente com a insulina e o GABA se liga aos receptores GABA nas células α das ilhotas vizinhas e os inibe de secretarem glucagon (o que contraria os efeitos da insulina).O GABA pode promover a replicação e sobrevivência de células β  e também promover a conversão de células α em células β, o que pode levar a novos tratamentos para o diabetes. O GABA também foi detectado em outros tecidos periféricos, incluindo intestinos, estômago, trompas de Falópio, útero, ovários, testículos, rins, bexiga urinária, pulmões e fígado, embora em níveis muito mais baixos do que em neurônios ou células β. Mecanismos GABAérgicos foram demonstrados em vários tecidos e órgãos periféricos, incluindo intestinos, estômago, pâncreas, trompas de Falópio, útero, ovários, testículos, rins, bexiga, pulmões e fígado.Experimentos em ratos mostraram que o hipotireoidismo induzido por envenenamento por flúor pode ser interrompido pela administração de GABA. O teste também descobriu que a tireóide se recuperou naturalmente sem mais assistência após o flúor ter sido expulso pelo GABA.As células imunes expressam receptores para GABA e a administração de GABA pode suprimir respostas imunes inflamatórias e promover respostas imunes "regulatórias", tal que a administração de GABA demonstrou inibir doenças auto-imunes em vários modelos animais.Em 2018, o GABA demonstrou regular a secreção de um número maior de citocinas. No plasma de pacientes com DM1, os níveis de 26 citocinas são aumentados e, desses, 16 são inibidos pelo GABA nos ensaios celulares.Em 2007, um sistema GABAérgico excitatório foi descrito no epitélio das vias aéreas. O sistema é ativado pela exposição a alérgenos e pode participar dos mecanismos da asma Sistemas GABAérgicos também foram encontrados nos testículos
+ e na lente ocular.GABA também é encontrado em plantas.
+
+
+== Estrutura e conformação ==
+O GABA é encontrado principalmente como um zwitterion (isto é, com o grupo carboxila desprotonado e o grupo amino protonado). Sua conformação depende do seu ambiente. Na fase gasosa, uma conformação altamente dobrada é fortemente favorecida devido à atração eletrostática entre os dois grupos funcionais. A estabilização é de cerca de 50 kcal/mol, de acordo com os cálculos da química quântica. No estado sólido, é encontrada uma conformação estendida, com uma conformação trans na extremidade amino e uma conformação gauche na extremidade carboxila. Isto é devido às interações de empacotamento com as moléculas vizinhas. Em solução, cinco conformações diferentes, algumas dobradas e outras estendidas, são encontradas como resultado dos efeitos da solvatação. A flexibilidade conformacional do GABA é importante para sua função biológica, pois foi encontrado que se liga a diferentes receptores com diferentes conformações. Muitos análogos de GABA com aplicações farmacêuticas têm estruturas mais rígidas para controlar melhor a ligação.
+
+
+== História ==
+O ácido gama-aminobutírico foi primeiramente sintetizado em 1883, e foi inicialmente conhecido apenas como um produto metabólico de plantas e micróbios. Em 1950, porém, o GABA foi descoberto como uma parte integrante do sistema nervoso central dos mamíferos..
+
+
+== Síntese ==
+O organismo sintetiza o GABA a partir do glutamato, utilizando a enzima L-ácido glutâmico descarboxilase e piridoxal fosfato (que é a forma ativa de B6) como cofator. Este processo converte o principal neurotransmissor excitatório (glutamato) em um dos principais inibitório (GABA).GABA também pode ser sintetizado da putrescina pela ação das enzimas diamina oxidase e aldeído desidrogenase.Tradicionalmente, pensava-se que o GABA exógeno não penetrava a barreira hematoencefálica, porém pesquisas recentes indicam que pode ser possível, ou que o GABA exógeno (isto é, na forma de suplementos nutricionais) pode exercer efeitos GABAérgicos no sistema nervoso entérico que, por sua vez, estimulam a produção endógena de GABA. O envolvimento direto do GABA no ciclo glutamato-glutamina torna a questão de saber se o GABA pode penetrar na barreira hematoencefálica um tanto enganosa, porque tanto o glutamato quanto a glutamina podem atravessar livremente a barreira e se converter em GABA no cérebro.
+
+
+== Metabolismo ==
+As enzimas GABA transaminase catalisam a conversão do ácido 4-aminobutanóico (GABA) e 2-oxoglutarato (α-cetoglutarato) em semialdeído succínico e glutamato. O semialdeído succínico é então oxidado em ácido succínico e, como tal, entra no ciclo do ácido cítrico como fonte utilizável de energia.
+
+
+== Farmacologia ==
+Drogas que atuam como agonistas dos receptores GABA (conhecido como drogas gabaérgica ou análogos do GABA) ou aumentar o montante disponível do GABA normalmente têm efeitos relaxante, antiansiedade e anticonvulsivos. Muitas das substâncias abaixo são conhecidos por causar amnésia anterógrada e amnésia retrógrada.Em geral, o GABA não atravessa a barreira hematoencefálica, embora certas áreas do cérebro que não possuem uma barreira hematoencefálica eficaz, como o núcleo periventricular, possam ser alcançadas por medicamentos como o GABA injetado sistemicamente. Pelo menos um estudo sugere que o GABA administrado por via oral aumenta a quantidade de hormônio do crescimento humano. Foi relatado que o GABA injetado diretamente no cérebro tem efeitos estimuladores e inibitórios na produção do hormônio do crescimento, dependendo da fisiologia do indivíduo.O GABA aumentou o catabolismo da serotonina em N-acetilserotonina (o precursor da melatonina) em ratos. Portanto, suspeita-se que o GABA esteja envolvido na síntese da melatonina e, portanto, possa exercer efeitos reguladores sobre o sono e as funções reprodutivas.
+
+
+== Exemplos de drogas GABAérgicas ==
+Ligantes do Receptor GABAA
+Agonistas
+Barbitúricos
+Amobarbital (Amytal)
+Barbital (Veronal)
+Pentobarbital (Nembutal)
+Fenobarbital (Gardenal)
+Secobarbital (Seconal)
+Benzodiazepinas
+Alprazolam (Frontal)
+Clonazepam(Rivotril)
+Diazepam (Valium)
+Lorazepam (Lorax)
+Carbamatos
+Carisoprodol
+Meprobamato
+Etanol
+Garboxadol
+Glutetimida
+L-Teanina (encontrada no chá verde)
+Inalantes
+Muscimol (encontrado nos cogumelos Amanita Muscaria)
+Esteróides neuroativos
+Não-benzodiazepínicos
+Eszopiclona (Lunesta)
+Zaleplon (Sonata)
+Zolpidem (Ambien)
+Zopiclona (Imovane)
+Piper Methysticum (Kava Kava)
+Scutellaria Lateriflora (Scullcap)
+Valeriana Officinalis (Valeriana)
+Antagonistas
+Bicucullina
+Cicutoxin
+Flumazenil (Lanexat)
+Gabazine (SR-95531)
+Oenantotoxin
+Picrotoxin
+Thujone (encontrado no absinto)
+Ligantes do receptor GABAB
+Agonistas
+Baclofeno (Kemstro, Lioresal)
+GBL
+GHB (Xyrem)
+Fenibut
+Antagonistas
+Faclofeno
+Saclofeno
+Ligantes do receptor GABAC
+Agonistas
+Muscimol (encontrado no cogumelo Amanita Muscaria)
+Antagonistas
+TPMPA
+Inibidores da recaptação de GABA
+Adperforina (encontrado no Hypericum Perforatum, Erva-de-São João)
+Deramciclano
+Hiperforina (encontrado no Hypericum Perforatum, Erva-de-São João)
+Tiagabina
+Inibidores da GABA Transaminase
+Gabaculina
+Fenelzina
+Valproato (Depakote)
+Vigabatrina (Vigabatrine, Sabril)
+Outros
+L-Glutamato
+Picamilon
+Progabide (Gabrene)
+Propofol (Diprivan)
+Tetanoespamina (encontrada na bactéria Clostridium tetani)
+
+
+== Ver também ==
+Receptores:
+
+GABAA
+GABAB
+GABAC
+
+
+== Referências ==

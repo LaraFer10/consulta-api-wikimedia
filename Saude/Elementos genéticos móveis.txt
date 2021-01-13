@@ -1,0 +1,27 @@
+Os elementos genéticos móveis, também o mobiloma são moléculas o macromoléculas compostas de material genético que podem se mover das células de um organismo para outro, inserindo-se em seu genoma ou que podem se mover para diferentes partes do genoma de um organismo. Este mecanismo é conhecido como transferência horizontal de genes e é mais frequente nos organismos unicelulares, como bactérias, mas também pode ocorrer em organismos multicelulares.Existem cinco maneiras diferentes pelas quais a partícula estranha (portadora de informações) pode entrar na célula de outro organismo:
+
+Transformação: É a captação de moléculas de DNA ou RNA do meio circundante.
+Conjugação: É a transferência direta de DNA ou RNA de uma célula para outra.
+Infecção viral: É feito injetando o ácido nucleico viral.
+Transdução: é a transferência de material genético não viral de uma célula para outra por meio de um vírus.
+Transposição: é a inserção de material genético na forma de transposons.Apesar de que os elementos genéticos móveis poderem se mover entre as células e se replicar dentro delas, juntamente com os vírus, não são classificados como vida porque não são células e, sem a célula, não podem desempenhar as funções que definem a vida. Exemplos de elementos genéticos móveis são os plasmídeos e transposons. Os vírus também podem ser considerados elementos genéticos móveis, pois, durante seu ciclo infeccioso, eles injetam genes nas células que invadem. Também são macromoléculas compostas de DNA ou RNA e proteínas que se replicam no interior das células e passam parte de seu ciclo dentro delas. Evolutivamente os vírus se originaram de transposons, plasmídeos ou íntrons escapados de outros organismos que adquiriram a capacidade de se replicar em outros.
+
+
+== Lista de elementos genéticos móveis ==
+As seguintes moléculas o macromoléculas são citadas como elementos genéticos móveis:
+
+Plasmídeo: São moléculas de DNA que se replicam e são transmitidas independentemente do DNA cromossômico. Estão presentes em microorganismos como bactérias e leveduras. Os plasmídeos durante seu ciclo injetam genes de outras bactérias nas bactérias que eles inserem.Vetor de clonagem: Os vetores de clonagem como os cosmídeos e fagemídeos são plasmídeos híbridos com vírus bacterianos. Eles atendem às mesmas características dos plasmídeos e não são infectantes.
+Transposão: São sequências de DNA que podem se mover para várias partes da célula e do genoma. Também são chamados "genes saltadores". Os transposons podem ser transferidos horizontalmente entre organismos que vivem em simbiose, como líquenes ou bactérias.Transposão de DNA: são uma classe de transposons que se movem diretamente de uma posição para outra no genoma usando uma transposase para cortar e colar em outro locus de DNA.
+Retrotransposão: São uma classe de transposons que se move no genoma sendo transcrito em RNA e posteriormente no DNA pela retrotranscriptase. Eles estão intimamente relacionados aos retrovírus.
+Retroposão: são transposons exclusivos de mamíferos que se movem no genoma sendo transcritos para o DNA e depois para o RNA, sem codificar a transcriptase reversa.
+Integrão: São cassetes de genes que tipicamente transportam genes de resistência a antibióticos para plasmídeos e transposons bacterianos.
+Íntron: Os íntrons dos grupos I e II são fragmentos de RNA com atividade catalítica nos transcritos do hospedeiro e atuam como ribozimas que podem invadir genes codificadores de tRNA, rRNA e proteínas.
+
+Agentes virais: São agentes compostos de material genético que se replicam dentro das células hospedeiras e, em muitos casos, causam mutações e doenças no organismo. Durante seu ciclo intracelular injetam genes estranhos nas celulas que invadem. De acordo com vários estudos baseados em DNA polimerase, RNA polimerase, transcriptase reversa, sequência de nucleotídeos e aminoácidos os agentes virais se originaram de transposons, plasmídeos ou íntrons escapados de outros organismos que adquiriram a capacidade de se replicar em outros. Estudos mais recentes revelaram que as camadas de proteínas dos vírus são derivadas de proteínas celulares que foram recrutadas por esses elementos genéticos móveis para poder se mover facilmente entre seus hospedeiros, porque todas as proteínas virais são de origem celular.
+Vírus: São macromoléculas compostas de um único tipo de material genético, DNA ou RNA, e uma camada de proteína que protege o material genético. Eles infectam todos os tipos de organismos.
+Vírus endógeno: São vírus que estão presentes no genoma de um organismo e se comportam como transposons de maneira benéfica. Um exemplo é o retrovírus endógeno que está relacionado à formação da placenta nos placentários. Segundo alguns estudos, os vírus endógenos compreendem 7% do genoma humano.
+Satélite ou virusoide: São móleculas de DNA ou RNA que precisam de ajuda de um vírus para sua replicação. Essas moléculas, diferentemente dos vírus, não têm a capacidade de formar uma camada de proteínas e, portanto, precisam da camada de proteínas dos vírus para se protegerem. Essas moléculas podem transportar genes adicionais entre seus vírus auxiliares.
+Viroide: São moléculas de RNA sem uma camada de proteína que infectam exclusivamente plantas.
+
+
+== Referências ==

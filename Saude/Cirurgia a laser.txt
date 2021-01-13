@@ -1,0 +1,48 @@
+Uma Cirurgia a laser é um tipo de cirurgia onde o cirurgião utiliza instrumentos que emitam lasers para realizar o corte de tecidos ao invés do bisturi.
+As cirurgias a laser são geralmente realizadas na área da oftalmologia. Técnicas que utilizam laser incluem o LASIK, a ceratectomia fotorrefrativa (PRK), a ceratectomia fototerapêutica (PTK) e, mais recentemente, técnicas minimamente invasivas como o SMILE. São comumente utilizadas para o tratamento dos distúrbios da refração (miopia, hipermetropia e astigmatismo), bem como da presbiopia. Também são utilizados para correção de doenças que acometem o fundo de olho, como a degeneração macular e afecções da retina, se valendo do processo de fotocoagulação. 
+Alguns tipos de laser utilizados em cirurgias incluem o Nd:YAG, o laser de argônio, o laser de Krypton e o laser de femtossegundo.
+Para fins clínicos e estéticos, o laser apresenta características específicas de grande interesse como baixo grau de divergência, o que o torna altamente direcional; focalização em pequenas áreas com alta intensidade, capacidade de cortar ou destruir tecidos; alta coerência dos feixes; entre outros.
+
+
+== Aplicações ==
+Em meados de 1960 lasers de argônio e CO2 eram utilizados para realizar cortes em tecidos epiteliais e coagulações de lesões superficiais. Posteriormente, Anderson e Parrish implementaram a especificidade na destruição de células ou organelas utilizando lasers pulsados de alta intensidade. Seus estudos revolucionaram o tratamento de manchas e doenças da pele. Atualmente, os lasers são comumente utilizados como bisturis, cauterizadores, cicatrizadores e são aplicados em cirurgias de olho (cirurgias refrativas); cirurgias gastrointestinais; cirurgias odontológicas e dermatológicas; em remoções de tumores e, especialmente, em cirurgias plásticas. Para tais fins, os avanços na tecnologia buscam refinar cada vez mais a precisão dos lasers, fazendo com que apenas áreas muito específicas sejam atingidas pela radiação eletromagnética.
+
+
+=== Cirurgias refrativas ===
+Nas cirurgias antigas de correção de visão, os cortes eram feitos com bisturis e necessitavam pontos. Atualmente, essas operações são realizadas com laser de luz ultravioleta, não há cortes com necessidade de pontos e, por esse motivo, a recuperação do paciente ocorre mais rapidamente.
+Vários tipos de cirurgia a laser são usados para corrigir erros refrativos:
+
+LASIK: consiste em uma técnica onde um aparelho chamado de microcerátomo é utilizado para realizar um flap na córnea (uma abertura em forma de tampa da porção epitelial - mais superficial - da córnea), permitindo que o laser possa incidir sobre a porção mais interna, o estroma da córnea, onde será realizada a ablação para correção do grau.
+IntraLASIK, uma variação da técnica onde o flap também é realizado com o laser, dispensando uso de microcerátomo.
+Ceratectomia fotorrefrativa (PRK, LASEK), na qual é realizada a correção do glau sem necessidade da confecção de um flap. Neste caso, a porção epitelial da córnea é removida através de um processo de raspagem, para depois ser realizada a ablação a laser.Ceratoplastia termal a laser, na qual um anel de ablações concêntricas é realizada na córnea, causando alteração na sua superfície e permitindo uma melhor visão de perto.
+Mais recentemente, o laser de femtossegundo permite a correção de defeitos de refração através de uma córnea intacta, fazendo com que a tecnologia de cirurgia minimamente invasiva seja aplicada na área da oftalmologia.Durante uma cirurgia refrativa, o movimento do olho é monitorado por um sistema chamado Eye Tracker e o laser é aplicado no local correto mesmo sob movimentos oculares de pequena ordem. A precisão do laser nesse tipo de cirurgia é tamanha que se pode atingir um fio de cabelo sem causar pertubações às áreas adjacentes. Assim, com tamanha precisão, o laser é aplicado na correção de miopia retirando tecidos extremamente finos da região central da córnea, tornando-a mais plana e direcionando o foco em direção à retina; na correção do astigmatismo, pela retirada de tecidos em regiões específicas da córnea, com a intuição de igualar suas curvaturas; e na correção da hipermetropia, pela remoção de tecido periférico da córnea para aumentar a curvatura final.
+
+
+=== Cirurgias oculares ===
+Alguns tipos de laser também são usados para tratar condições não refrativas, tais como:
+
+Ceratectomia fototerapêutica (PTK), na qual opacidades e irregularidades da superfície corneana são removidas.
+Fotocoagulação a laser, onde um laser é utilizado para cauterizar vasos sanguíneos do olho para tratar diversas condições oculares.
+Reparo de descolamentos de retina.
+
+
+=== Cirurgia endovascular ===
+A endarterectomia a laser é uma técnica na qual um laser é utilizado para recanalizar uma artéria através da remoção de uma placa ateromatosa causando obstrução. Outras aplicações do laser na área da cirurgia endovascular incluem angioplastias assistidas a laser e anastomoses vasculares a laser.
+O endolaser (EVLT - Endovenous Laser Treatment) é mais utilizado atualmente para a oclusão de veias, no caso a termoablação de safenas é o tratamento de primeira linha de insuficiência venosa A possibilidade de controle minucioso dos parâmetros do laser ampliou sua utilidade também para vasos menores, como reticulares e perfurantes. Entre os diferentes comprimentos de onda disponíveis, o endolaser de 980nm mostrou-se capaz de obstruir a veia insuficiente, porém sem grandes benefícios sintomáticos no pós operatório. Recentemente o comprimento de onda de 1470nm mostrou que além de ser eficaz na obstrução venosa traz benefícios sintomáticos no pós operatório. <
+
+
+=== Cirurgia gastrintestinal ===
+Na área gastrintestinal, a cirurgia a laser tem várias aplicações:
+
+Fotoablação a laser de doença ulcerosa péptica e varizes de esôfago.
+Coagulação de malformações vasculares de estômago, duodeno e cólon.
+Tratamento a laser de alguns tipos de câncer gástrico em estágios iniciais, desde que sejam menores do que 4 cm e sem envolvimento linfonodal.
+Tratamento de fibrose submucosa oral a laser.
+Adesiólise peritoneal a laser.
+
+
+=== Outras Aplicações ===
+Além de ser aplicado como instrumento cirúrgico de corte e cauterização, os ramos da estética se utilizam da radiação direcional proporcionada pelo laser no clareamento dentário, na remoção de tatuagens, na destruição de pelos (depilação a laser), na remoção de rugas e cicatrizes, entre outras dezenas de aplicações.
+
+
+== Referências ==

@@ -1,0 +1,55 @@
+A biologia molecular é a área da biologia que diz respeito à base molecular da atividade biológica entre biomoléculas nos vários sistemas de uma célula, incluindo as interações entre DNA, RNA, proteínas e sua biossíntese, bem como a regulação dessas interações. Trata-se de um campo de estudos amplo, que abrange  áreas da química, em especial a bioquímica, e a genética.
+
+
+== Relação com outras ciências biológicas de nível molecular ==
+Na biologia molecular são frequentemente combinadas técnicas e ideias provindas da microbiologia, genética, bioquímica e biofísica (veja a secção “Técnicas em Biologia Molecular”, mais abaixo). Historicamente, a microbiologia exerceu um papel fundamental no desenvolvimento da biologia molecular, pois a maioria dos conceitos-chave e das técnicas de biologia molecular se originou a partir de estudos e experimentos realizados principalmente com bactérias, fungos e vírus (especialmente bacteriófagos, que são vírus que infectam bactérias). Não existindo distinções muito definidas entre as disciplinas mencionadas, pode-se considerar a biologia molecular na interface entre a bioquímica e a genética, como mostra o esquema abaixo.A bioquímica define-se, de uma forma geral, como o estudo das reações químicas em organismos vivos; a genética ocupa-se especificamente do estudo das consequências de diferenças no material genético nos organismos. A biologia molecular ocupa então um espaço próprio, mas relacionando conhecimentos dos dois campos, ao investigar os mecanismos de replicação, transcrição e tradução do material genético.
+Muito da investigação em biologia molecular é relativamente recente, e muitos trabalhos têm sido feitos recorrendo-se à bioinformática e biologia computacional. Estes recursos tornaram o estudo da estrutura e função de genes, ou genética molecular, num dos campos mais proeminentes em biologia molecular.
+
+
+== Técnicas em biologia molecular ==
+Muito do trabalho feito no âmbito da biologia molecular relaciona-se com a obtenção, identificação e caracterização de genes. Assim sendo, diversas técnicas têm sido desenvolvidas no meio da biologia aqui vão sendo citadas algumas.
+
+
+=== Reação em cadeia da polimerase ===
+
+A reação em cadeia de polimerase, ou PCR, é uma técnica de grande versatilidade que permite obter múltiplas cópias de um segmento de DNA. O PCR também é usado para introduzir locais de restrição e mutações pontuais ou para identificar um fragmento particular de DNA numa biblioteca de cDNA.v
+
+
+=== Eletroforese em gel ===
+
+A eletroforese em gel é uma das principais ferramentas de trabalho em biologia molecular. Em geral, DNA, RNA e proteínas podem ser separados segundo o seu tamanho numa matriz usando um campo elétrico aplicado. Na eletroforese em gel de agarose, o DNA ou o RNA é separado fazendo a amostra migrar através de um gel de agarose. As proteínas são normalmente separadas segundo o seu tamanho usando eletroforese em gel de acrilamida; também podem ser separadas segundo a sua carga elétrica usando focagem isoelétrica.
+
+
+=== Southern blot ===
+
+O Southern blot é uma técnica que permite obter informação sobre a massa molecular e a quantidade relativa de uma determinada sequência de DNA. A técnica, desenvolvida por Edwin Southern, é uma combinação de eletroforese em gel do DNA (este é frequentemente fragmentado por enzimas de restrição antes de fazer o Southern), transferência deste para uma membrana e hibridização com uma sonda marcada (radioativa ou fluorescente). Após a hibridização, a membrana é lavada para remover sonda não ligada a DNA e obtém-se uma imagem através de autorradiografia ou autofluorescência. A imagem obtida dá a(s) localização(ões) do DNA que liga a sonda, com a intensidade do sinal, dando uma medida relativa da quantidade de DNA que hibridiza.
+
+
+=== Northern blot ===
+
+O Northern blot estuda o perfil de expressão de RNA mensageiro: onde, quando e quanto de determinado RNA mensageiro (correspondente à expressão de um determinado gene) está presente numa dada amostra. É uma das formas mais simples de determinar em que momento certos genes estão a ser expressos em sistemas vivos. Neste processo, o RNA é separado numa eletroforese em gel, transferido para uma membrana e detectado de forma similar ao DNA no Southern blot.
+
+
+=== Western blot ===
+
+Ousa o mesmo princípio do Southern blot e do Northern blot mas é aplicado a proteínas. Estas são separadas usando eletroforese em gel de poliacrilamida, na presença do detergente dodecilo sulfato de sódio (SDS).
+
+
+== Ver também ==
+Microarranjo
+Dogma central da biologia molecular
+Genoma
+Modelagem molecular
+Proteoma
+
+
+== Referências ==
+
+
+== Bibliografia ==
+Matioli, Sergio Russo. Biologia molecular e evolução; Holos, 2001, ISBN 8-586-69927-6
+Zaha, Arnaldo;  Ferreira, Henrique Bunselmeyer; Passaglia, Luciane M. P.. Biologia Molecular Básica, 5ª ed.; Artmed, 2014  ISBN 8-582-71058-5
+
+
+== Ligações externas ==
+«Alcor em Portugal»

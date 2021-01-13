@@ -1,0 +1,36 @@
+O Código ATC M09 (Outros medicamentos para perturbações do sistema musculoesquelético) é um subgrupo terapêutico da classificação ATC (Anatomical Therapeutic Chemical Classification System), um sistema de códigos alfanuméricos desenvolvido pela Organização Mundial da Saúde (OMS) para classificar medicamentos e outros produtos médicos. O subgrupo M09 faz parte do grupo anatômico M (sistema musculoesquelético).Os códigos para uso veterinário (códigos ATCvet) podem ser criados colocando a letra Q antes do código ATC para uso humano: por exemplo, QM09. Os códigos ATCvet sem os códigos ATC humanos correspondentes são citados com a letra Q inicial nessa lista. 
+
+
+== M09A Outros medicamentos para doenças do sistema musculoesquelético ==
+
+
+=== M09AA Quinina e derivados ===
+M09AA01 Hidroquinina
+M09AA72 Quinina, associações com psicolépticos
+
+
+=== M09AB Enzimas ===
+M09AB01 Quimopapaína
+M09AB02 Colagenase clostridium histolyticum
+M09AB03 Bromelaínas
+M09AB52 Tripsina, associações
+
+
+=== M09AX Outros medicamentos para doenças do sistema musculoesquelético ===
+M09AX01 Ácido hialurônico
+M09AX02 Condrócitos, autólogos
+M09AX03 Atalureno
+M09AX04 Drisapersen
+M09AX05 Ácido aceneurâmico
+M09AX06 Eteplirsen
+M09AX07 Nusinersen
+QM09AX90 Células-tronco equinas
+QM09AX99 Combinações
+
+
+== Ver também ==
+Classificação ATC
+Código ATC M: Sistema musculo-esquelético
+
+
+== Referências ==

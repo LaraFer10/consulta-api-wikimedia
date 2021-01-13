@@ -1,0 +1,15 @@
+Hexoquinase (pt-PT: hexocinase) é a enzima (EC 2.7.1.1) que catalisa a conversão de uma hexose a hexose-6-fosfato, através da hidrólise de ATP em ADP, transferindo assim o grupo fosfato ao monossacarídeo.Essa enzima está atrelada ao metabolismo de carboidratos em mamíferos, onde a conversão de glicose em glicose-6-fosfato é o primeiro passo da via glicolítica. A glicose-6-fosfato, por sua vez, é substrato para diversas outras vias, como, por exemplo, a via das pentoses-fosfato.
+
+
+== Reação ==
+
+As reações mediadas pela hexoquinases podem ser tipificadas na seguinte forma:
+Hexose-CH2OH + MgATP2− → Hexose-CH2O-PO2−3 + MgADP− + H+Onde "hexose-CH2OH" é qualquer uma das hexoses (como a própria glicose) que possui uma extremidade  -CH2OH acessível.
+
+
+== Isozimas ==
+A hexoquinase muscular (hexoquinase II) é umas das isozimas da hexoquinase que sofre inibição alostérica pelo seu produto, a glicose-6-fosfato. Sempre que a concentração de glicose-6-fosfato no interior da célula aumenta acima do seu nível normal, a hexoquinase é inibida de forma temporária e reversível, colocando a velocidade de formação da glicose-6-fosfato em equilíbrio com a sua velocidade de utilização e restabelecendo o estado de equilíbrio estacionário.
+A hexoquinase hepática (hexoquinase IV, também conhecida como glucoquinase), por sua vez, é a isozima que não sofre inibição pela glicose-6-fosfato, apesar de ter menor afinidade para a glicose, fato que lhe permite mecanismos diferentes de regulação durante a síntese de glicogênio.
+
+
+== Referências ==

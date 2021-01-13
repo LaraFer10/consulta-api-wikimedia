@@ -1,0 +1,17 @@
+MIT E-vent é um projeto protótipo de um ventilador pulmonar mecânico de baixo custo, e de código aberto, desenvolvido, para auxiliar no tratamento da COVID-19, por uma equipe voluntária de engenheiros, médicos, cientistas da computação e outros, centrados no Instituto de Tecnologia de Massachusetts (MIT).O ventilador (ou respirador) mecânico, em uma emergência, fornece ao paciente uma ventilação artificial durante uma crise de insuficiência respiratória, um dos principais sintomas do COVID-19.Implementar um ventilador alternativo, seguro e barato, que pode ser construída rapidamente em todo o mundo. Trabalhando em consulta com os médicos projetaram um dispositivo simples de ventilação que poderia ser construído com cerca de US $100 em peças. O ventilador faz respirações comprimindo uma máscara de válvula de bolsa convencional (BVM) com um braço de came giratório, eliminando a necessidade de um operador humano para a  máscara de válvula.Existem também outras iniciativas para ajudar no combate a pandemia, são elas: Válvula da bomba de oxigênio Isinnova; Oculo-respirador protetor ViriMASK; Viseira protetora Tcheca; Abridor de porta Hands-Free 3D; Estandes de isolamento chineses.
+
+
+== Design de código aberto ==
+A equipe liberou material com a intenção de fornecer àqueles com a capacidade de fabricar ou fabricar ventiladores, as ferramentas necessárias para fazê-lo de maneira a garantir a segurança do paciente. Os médicos que visualizam MIT E-vent site podem fornecer informações e conhecimentos e relatar seus esforços para ajudar seus pacientes.Um dos produtos finais deste projeto é um conjunto de ferramentas para fabricantes ou fabricantes para construir com segurança os ventiladores. Eles estão produzindo quatro conjuntos de materiais maneira open-source:
+
+Funcionalidade mínima do ventilador seguro com base nas orientações clínicas
+Design de hardware de referência para atender aos requisitos clínicos mínimos
+Estratégias de controle de referência e projetos de eletrônicos e informações de suporte
+Resultados de testes em modelos animais
+
+
+== Referências ==
+
+
+== Ligações externas ==
+Site Oficial

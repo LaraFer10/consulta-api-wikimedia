@@ -1,0 +1,21 @@
+A desnaturação do DNA é o processo através do qual o ácido desoxirribonucleico de dupla cadeia se desenrola e separa-se em duas cadeias simples, através da quebra de ligações de hidrogénio entre as bases. O termo é utilizado para referir ao processo que ocorre quando uma mistura é aquecida, apesar de "desnaturação" também poder referir a separação das cadeias de ADN induzidas por químicos como a ureia.
+Para múltiplas cópias de moléculas de DNA, a temperatura de desnaturação (Tm) é definida como a temperatura na qual metade das cadeias de ADN estão no estado de dupla hélice e a outras metade estados de "random coils". A temperatura de desnaturação depende do comprimento da molécula e da composição específica da sequência de nucleotídeos.
+
+
+== Ver também ==
+DNA
+desnaturação
+hibridização
+PCR
+Ponto de fusão
+Primer
+
+
+== Ligações externas ==
+Tm calculations in OligoAnalyzer - Integrated DNA Technologies
+Tm calculation - by bioPHP.org.
+https://web.archive.org/web/20080516194508/http://www.promega.com/biomath/calc11.htm#disc
+Invitrogen Tm calculation
+AnnHyb Open Source software for Tm calculation using the Nearest-neighbour method
+Sigma-aldrich technical notes
+Primer3 calculation

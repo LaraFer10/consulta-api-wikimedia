@@ -1,0 +1,12 @@
+A dose letal (DL ou LD, do inglês Lethal Dose) é uma indicação da letalidade de uma dada substância ou tipo de radiação. Dado que a resistência muda de indivíduo para indivíduo, a dose letal representa uma dose (normalmente medida em miligramas de substância por quilograma de massa corporal do indivíduo testado) capaz de matar uma dada percentagem dos indivíduos de uma população em teste. O indicador de letalidade mais comummente utilizado é o DL50, correspondente à dose capaz de matar 50% dos indivíduos de uma população em teste.Medidas de DL são muitas vezes usadas para descrever a potência do veneno de animais como as serpentes. Medições de DL em animais são uma prática comum na investigação de drogas, apesar de muitos investigadores estarem a afastar-se desse tipo de métodos.
+O valor da DL depende não só da espécie do animal, mas também do modo de administração. Por exemplo, uma substância tóxica inalada ou injetada na corrente sanguínea pode necessitar de uma dose bastante menor para matar do que se for engolida.
+Os valores de DL para os humanos são geralmente estimados extrapolando resultados de testes em animais ou em culturas de células humanas. Um método comum de extrapolação envolve a medir a DL em animais como ratos ou cães, converter o resultado para dose por quilograma de peso corporal e extrapolar para os padrões humanos. No entanto, embora a DL extrapolada a partir de animais esteja correlacionada com a letalidade nos humanos, o grau de erro é por vezes muito grande. A biologia dos animais testados, embora muito similar à dos humanos, por vezes difere em aspetos importantes. Por exemplo, o tecido celular do ratos é cinquenta vezes menos sensível do que o humano ao veneno da aranha-teia-de-funil. A lei do quadrado-cubo também pode complicar as relações de escala envolvidas.
+
+
+== Ver também ==
+Dose letal mediana (DL50)
+
+
+== Referências ==
+
+Este artigo foi inicialmente traduzido do artigo da Wikipédia em inglês, cujo título é «Lethal dose», especificamente desta versão.

@@ -1,0 +1,19 @@
+Fosfofrutoquinase-1 (PFK-1, do inglês Phosphofructokinase-1) é a mais importante enzima reguladora (EC 2.7.1.11) da glicólise. É uma enzima alostérica formada de 4 subunidades e controlada por alguns ativadores e inibidores. PFK-1 catalisa a fosforilazação, um dos mais importantes ocorrentes passos da glicólise, a conversão de frutose-6-fosfato com o gasto de uma molécula de ATP para formar frutose-1,6-bisfosfato e ADP. 
+Esta reação tem uma troca  na energia livre de –23.8kJ/mol, pelo que é irreversível. Este passo está sujeito a uma regulação extensiva já que não somente é irreversível, senão que também o substrato original está forçado a proceder até a rota glicolítica logo após esta etapa. Isto segue a um controle preciso da glicose e outros monossacarídeos, galactose e frutose, até a rota da glicólise. Antes desta reação enzimática, a glicose-6-fosfato pode viajar potencialmente até a rota da pentose fosfato, ou ser convertida em glicose-1-fosfato e polimerizada na forma de armazenamento glicógeno.
+Mecanismo da fosfofrutoquinase-1 na regulação da glicólise
+A PFK-1 (fosfofrutoquinase -1) é o principal ponto de regulação da glicólise. Ela catalisa uma reação irreversível, convertendo frutose-6-fosfato e ATP em frutose-1,6-bisfosfato e ADP.
+Reguladores alostéricos da fosfofrutoquinase-1
+Os reguladores alostéricos da PFK-1 são: frutose-2,6-bifosfato, ATP, ADP, AMP e citrato.
+A glicólise e a gliconeogênese são reguladas de maneira coordenada. A via da gliconeogênese utiliza muitas enzimas utilizadas na glicólise, no entanto, algumas enzimas são específicas da via glicolítica, sendo a PFK-1 uma delas. Para prevenir que a glicose obtida através da gliconeogênese entre na via glicolítica, existe a regulação alostérica das enzimas pertencentes exclusivamente a cada uma das vias. Os efetores alostéricos regulam reciprocamente as enzimas exclusivas da gliconeogênese e da glicólise.
+A PFK-1 funciona através de regulação alostérica, sendo que a frutose-2,6-bifosfato é um ativador da PFK-1.
+O  ATP é o substrato para PFK-1 e também o produto final da glicólise. Quando a produção de ATP é muito alta, a célula é sinalizada que está produzindo ATP mais rápido do que consome. Esse acúmulo de ATP serve também como regulador alostérico, inibindo a atividade da PFK-1. O ATP atua ligando-se à um sítio alostérico da PFK-1, fazendo com que esta perca a afinidade com seu outro substrato, a frutose-6-fosfato. O contrário acontece quando o consumo de ATP é maior que sua produção, fazendo com que o ADP e o AMP em maior número atuem como estimulante da PFK-1.
+Outro regulador alostérico da PFK-1 é o citrato. Concentrações altas de citrato aumentam o efeito inibidor de ATP, inibindo também a atividade da PFK-1. O alto nível do citrato indica que as necessidades metabólicas por energia estão sendo satisfeitas, não necessitando de mais produção de ATP.
+Fonte: Princípios de Bioquímica de Lehninger, cap 15.
+
+
+== Ligações externas ==
+National Library of Medicine - Medical Subject Headings - Phosphofructokinase-1 - www.nlm.nih.gov (em inglês)
+
+
+== Ver também ==
+Fosfofrutoquinase 2

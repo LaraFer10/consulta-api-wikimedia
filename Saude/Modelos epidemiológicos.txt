@@ -1,0 +1,316 @@
+O estudo de doenças epidémicas combina assuntos biológicos com sociais. As epidemias podem-se propagar rapidamente pela população ou não, estas podem persistir durante longos períodos de tempo na comunidade. Em casos extremos uma proliferação de uma epidemia pode afetar uma civilização como foi a peste negra na Europa que matou 20% da população num período de 7 anos.
+O primeiro cientista que quantificou a causas de morte foi John Graunt com o seu livro “Natural and Political Observations made upon the Bills of Mortality” datado de 1662, este cientista elaborou uma teoria com dados relativos a taxas de natalidade mais elevadas em crianças do sexo masculino, a mortalidade infantil e maior tempo de vida das mulheres. A análise de Graunt às causas de mortalidade foi considerado na teoria “competing risks” de acordo com Daley e Gani é uma teoria muito bem estabelecida no mundo dos epidemiologistas modernos. Durante a história recente existiram várias citações que suscitaram preocupações de saúde pública e da necessidade de estudar estas estatísticas.
+A história da malária contém uma grande lição para a humanidade que deve ser mais científica nos
+nossos hábitos de pensamento, e mais prático nos hábitos do nosso governo. A negligência desta lição poderá já ter custado a muitos países imensas perdas de vidas e a sua prosperidade”.
+Seguidamente deve-se certamente continuar a procurar novas abordagens à teoria epidemiológica sobre os mecanismos da dinâmica populacional de doenças infeciosas, especialmente os de alta prioridade para o mundo atual, mas essa especial atenção deve-se dar aos modelos que são suficientemente realistas para que o seu contributo seja para os programas de intervenção e controlo.”
+O nível de desenvolvimento econômico das comunidades geralmente determina o nível de serviços de saúde. Quanto maior o nível de desenvolvimento econômico, mais eficazes são os princípios de vigilância e contenção, para que a varíola seja eliminada mais cedo do país”.
+Ciência estatística fez contribuições importantes para a nossa compreensão da SIDA. Métodos estatísticos foram usados nos primeiros estudos sobre a etiologia da SIDA, e as evidências de transmissão sexual vieram de estudos de casos controlados entre os homens homossexuais. Verificou-se que um elevado número de contactos sexuais representavam um fator de risco para SIDA.”Tornou-se imperativo analisar as doenças e as redes que as transmitem, os padrões com que as epidemias se propagam pelas pessoas são determinadas pelas propriedades patogénicas da doença, como pelas estruturas da rede de pessoas que são efetuadas. Podemos dizer que a propagação é efetuada pelo contacto entre pessoas denominando assim esta rede como “contact network”. Devido a este facto a compreensão e estudo destas redes são cruciais para a compreensão da propagação da epidemia. As “redes de contacto” mesmo dentro do mesmo grupo populacional poderão ser divergentes quando as doenças também o são. Tudo depende das diferentes vias de transmissão do ser patológico. Por exemplo, no caso de uma
+doença muito contagiosa em que a sua transmissão poderá ocorrer pelos sofás, manípulos de um autocarro ou mesmo pelo ar originado por um espirro (como a gripe), a rede terá um grande número de ligações. No caso de uma doença sexualmente transmissível como a SIDA, a rede será menos complexa com menos ligações, menos pessoas envolvidas e a sua propagação será mais casual.
+No entanto existe uma ligação entre doenças epidémicas e a difusão de ideias pelas redes sociais. Tanto as ideias ou as doenças podem-se propagar por pessoas que exibem mecanismos estruturais equivalentes.
+Normalmente chamam-se a estas propagações de ideias uma contaminação social (“social contagion”). A principal diferença entre contaminação social e biológica está no processo em que as pessoas se infetam. Na componente social, estas apenas tomam decisões se gostam ou não de uma inovação ou ideia. Com as doenças não existe uma “decisão” para que a transmissão ocorra entre sujeitos, existe sim uma probabilidade de contágio entre pessoas.
+
+
+== Tipos de modelos epidémicos ==
+
+
+=== Modelos estocásticos ===
+Estocástico, diz-se dos processos que não estão submetidos senão a leis do acaso”] ou seja, um modelo estocástico serve para estimar as variações de probabilidade de resultados, permitindo a variação aleatória em uma ou mais entradas ao longo do tempo. Estes modelos dependem das variações aleatórias no risco de exposição, da doença e de outras doenças dinâmicas. Eles são usados quando essas flutuações são importantes, como em populações pequenas (Trottier & Philippe, 2001)
+
+
+=== Modelos compartimentais determinísticos ===
+Para definir modelos epidemiológicos determinísticos em
+doenças que abrangem uma grande densidade populacional, é necessário
+representar o estado do indivíduo em relação à doença e acompanhar a evolução
+deste ao longo do tempo. Para tal existem diversos estados que foram
+classificados como:
+Suscetível (S): Pessoa que está suscetível a infeções;
+Infetado (I): Pessoa que está infetado pela doença e pode
+transmiti-la a um ou mais indivíduos;
+Exposto ou Latente (E): Este estado é o primeiro do
+individuo após contração da doença, com a exposição da epidemia este fica
+infetado mas não consegue contrair a infeção, passado algum tempo passa ao
+estado infetado e pode contrai-la;
+Recuperado (R): Depois de recuperar de uma infeção a pessoa
+passa para o estado recuperado e neste estado está imune de possíveis infeções;
+Imune (M): A pessoa não consegue ser infetada.
+
+
+==== Processos ramificados ====
+Um dos mais simples modelos de
+contaminação são os processos em ramificação (“branching processes”). Este modelo
+é representado por uma sequência de ocorrências chamadas “vagas”. Na primeira
+vaga considera-se que existe uma pessoa que está contaminada e transporta a
+doença para um grupo de pessoas, dependendo da probabilidade de contágio esta
+irá transmitir a doença a outros. A segunda vaga denomina-se como a infeção de
+terceiros pelos infetados da primeira vaga assumindo também a probabilidade de
+contágio. As vagas subsequentes são outras vagas formadas da mesma forma.
+Representando graficamente este modelo de contaminação ficamos com uma árvore
+de nós em que o topo pertence à primeira vaga denominada como raiz (“root”) e
+os níveis inferiores as restantes vagas representando as subsequentes
+contágios:
+Em b)
+podemos ver o nível de agressividade de contágio, ou seja, a alta probabilidade
+de contágio entre os nós. Em c) denota-se uma probabilidade mais baixa porque
+apenas três nós foram infetados, deduz-se que a epidemia é de fraco contágioUma das propriedades fundamentais
+dos “branching processes” é se a doença numa determinada vaga não consegue
+infetar ninguém, pode-se afirmar que se extinguiu ou morreu. Assim apenas
+existem dois caminhos possíveis para o contágio neste modelo: Numa determinada
+vaga já não consegue infetar ninguém e morre ou continua indefinitivamente a
+infetar as ramificações seguintes. Existe no entanto uma métrica denominada
+como “basic reproductive number” que é o número esperado de novas infeções
+causadas por um individuo, que associada a uma probabilidade de contágio pode
+“prever” o desenrolar da doença. Se o “basic reproductive number” for maior ou
+igual a um esta continua a propagar-se, se for menor que um esta morreu. Uma
+das formas de diminuir este número é isolar os nós, num caso real pode-se
+exemplificar com uma execução de quarentena em pessoas ou simplesmente
+encorajar as pessoas a mudar hábitos que proporcionam o contágio, como hábitos
+de higiene.
+
+
+==== Terminologia ====
+• η é a fração de
+nascimentos, per capita,
+por unidade de tempo, η > 0;
+• β é a taxa de natalidade, per capita, por unidade de tempo,
+β > 0;
+• τ é a taxa de perda de
+imunidade passiva pelos recém-nascidos que passam a suscetíveis, per capita,
+por unidade de tempo, τ > 0;
+• A é a taxa constante de
+emigração, per capita, por unidade de tempo, A>0;
+• μ é a taxa de mortalidade (natural) per capita, por unidade
+de tempo;
+• α é a taxa de mortalidade
+dos infeciosos devida à doença per capita, por unidade de tempo, α>0;
+• ε é a taxa a que os
+indivíduos expostos se tornam infeciosos per capita, por unidade de tempo, ε >
+0;
+• ϒ é a taxa de recuperação
+dos indivíduos infeciosos per capita, por unidade de tempo, ϒ > 0;
+• δ é a taxa a que os indivíduos recuperados voltam tornar-se
+suscetíveis per capita, por unidade de tempo, δ > 0;
+
+
+==== O modelo epidémico SIR ====
+Neste modelo é importante realçar que em nó específico de
+uma rede ramificada (“branching network”) pode passar por três estágios durante
+o período de contágio: O primeiro denominado como “Suscetível” representa um nó
+que ainda não foi infetado mas é susceptível a contágio pelos seus vizinhos. O
+segundo “Infetado” é quando o nó apanha a doença e este tem alguma probabilidade
+de infetar os suscetíveis vizinhos. O terceiro estágio é o “Removido”, após
+términos da infeção este nó é removido da rede porque já não é um potencial
+contaminador. Usando este ciclo de vida de três estágios em cada nó definiu-se
+o modelo SIR cujas siglas representam a sequência dos seus estágios. Este modelo
+é o mais apropriado para doenças em que indivíduos apanham a doença uma vez na
+vida. Uma vez infetado a pessoa é Removida por ter adquirido imunidade ou por
+ter morrido pelo agravamento da doença.
+
+
+===== Extensões para o modelo SIR =====
+Existem variantes neste modelo
+que podem aumentar o seu nível de complexidade. Um deles é definir diferentes
+probabilidades de contágio entre nós, numa gripe existem pessoas mais resistentes
+ao contágio e outras não.
+Podemos também dizer que existem diferentes períodos
+temporais no estágio “Infetado” dando a possibilidade de existir novos
+possíveis contágios durante esse tempo. Neste caso o estágio ‘I’ é dividido em
+sub-estágios de períodos de infeção: inicio, meio e final. A probabilidade de
+contágio também irá variar esses sub-estágios.
+Numa população poderá existir nascimentos e/ou mortes de
+indivíduos, neste caso teremos de incluir ou excluir nós na rede que irá
+influenciar a complexidade do modelo SIR.
+
+
+===== Modelo epidémico SIR e percolação =====
+Se
+registarmos a ordem de infeção dos nós temos a representação gráfica do curso
+da epidemia entre os nós:
+Esta imagem estática do modelo SIR é referida como
+“percolation”, ou seja, um circuito gerado pela infeção dentro da rede. O termo
+percolação diz que é a passagem de um fluido por um meio filtrante, podemos
+imaginar assim o fluir da doença por entre os tubos que ligam os nós. 
+
+
+===== Modelo geral =====
+Vamos
+considerar neste modelo a incidência standard e, por simplicidade, que não há
+morte pela doença. Assim, não havendo fenómenos demográficos naturais nem morte
+pela doença, o tamanho da população permanecerá constanteO diagrama de transferência relativo a este modelo é o
+seguinte:
+O
+sistema de equações diferenciais é o seguinte:
+Com
+a restrição:
+E as
+condições iniciais:
+
+
+==== O Modelo epidémico SIS ====
+Neste modelo vamos considerar que existem epidemias que
+podem reinfectar os nós anteriormente infetados. Para representar estas
+epidemias temos nós que comutam apenas entre dois estados: Suscetíveis e Infetados.
+Neste modelo não existe o estado Removido pois após a infeção este retorna ao
+estado suscetível.
+Numa epidemia tipo SIR sendo a sua rede finita, os nós não
+são reinfectados e por essa razão o tempo de vida de uma epidemia é
+relativamente curta. No entanto uma epidemia tipo SIS o ciclo de vida da doença
+é elevado porque os contágios podem acontecer durante muito tempo. O importante
+é saber quanto tempo é que o contágio na rede vai durar e quantos indivíduos
+serão infetados em diferentes pontos do tempo.
+Apesar das diferenças entre os modelos SIR e SIS é possível
+representar algumas variantes do SIS em casos especiais do SIR. A ideia é
+representar o modelo SIS paço a paço temporalmente numa rede SIR. Chama-se a
+esta representação “time-expanded contact network”, nesta rede iremos ter para
+cada período temporal uma cópia dos SIS, interligando todas essas cópias temos
+uma rede SIR:
+Uma das tendências na dinâmica global de uma doença são as
+epidemias sincronizarem-se pela população, por vezes originando fortes
+oscilações no número de infetados ao longo do tempo. Quando se está a analisar
+as estatísticas da saúde pública é normal analisarmos as oscilações periódicas
+no número de casos da doença e tentar encontrar causas externas para esse
+efeito.
+
+
+===== Modelo Geral =====
+Neste modelo epidémico não serão
+considerados os efeitos demográficos e neste caso também vamos considerar que
+não há morte pela doença. E um caso particular do modelo SIS endémico
+acrescentando as condições β = μ = α = 0 .
+O diagrama de transferência entre
+o estado S e I é o seguinte:
+As equações diferenciais do
+modelo SIS epidémico são as seguintes:
+Tendo como condições iniciais:
+E como condições adicionais:
+
+
+==== O Modelo epidémico SIRS ====
+Neste modelo combinamos elementos dos SIR e SIS de maneira
+a que quando um nó com estado I (infetado) passa a removido (R) e retorna
+novamente a suscetível (S) (SIRS). O modelo funciona desta forma: Inicialmente
+existem nós do tipo I e S, cada nó infetado permanece nesse estado por um
+determinado número de passos. Durante esses passos o nó tem a probabilidade de
+infetar os suscetíveis vizinhos. Depois de deixar de estar infetado, é-lhe
+atribuído o estado R e permanece assim durante um número de passos, durante
+esse tempo não infeta e não é infetado, é como se adquirisse uma imunidade temporária.
+Após conclusão volta ao estado se suscetível.
+Aplicando o modelo SIRS a uma rede de contacto
+“Small-world” (com um pequeno comprimento médio de caminhos mínimos entre nós e
+com alto coeficiente de agrupamento), encontra-se diferentes componentes de
+probabilidade (‘c’) de infeção em cada nó. Quando ‘c’ é pequeno a transmissão
+da doença apenas ocorre em locais de “short-edges”, o número de pessoas
+infetadas temporalmente não oscila muito e é baixo e constante. Quando ‘c’
+aumenta o número de infetados também aumenta e de seguida baixa repentinamente
+porque lhes é atribuído o estado ‘R’ que lhes dá imunidade temporária:
+
+
+===== Modelo geral =====
+Vamos
+considerar um modelo geral de SIRS que inclui os parâmetros natalidade, morte natural
+e morte devida à doença. O diagrama de transferência respetivo é  :
+As equações diferenciais deste modelo são :
+Com as condições:
+E a condição adicional:
+Temos ainda a seguinte equação diferencial que diz respeito
+ao tamanho total da população:
+
+
+==== O Modelo epidémico SEIS ====
+Uma generalização natural do
+modelo SIS é considerar estados epidemiológicos adicionais. Aqui, consideramos
+a possibilidade de que um indivíduo não infetado passa por um estado latente
+antes de se tornar infecioso. Assim, os indivíduos que ficam infetados não são
+capazes de transmitir a doença durante um período de tempo. Uma vez que os
+indivíduos em estado latente não são capazes de transmitir a doença, estes não
+desempenham o papel de infetar mas servem de reservatórios de infeção .
+
+
+==== O Modelo epidémico SEIR ====
+Enquanto que o modelo de SIR é
+capaz de capturar a maioria das características do processo epidémico, a sua
+validade está em dúvida quando aplicado a doenças onde o período de incubação é
+relativamente longo .  Adaptando o modelo epidémico SIR incluindo o
+estado exposto, ficamos com o modelo SEIR que trará uma avaliação mais justa
+deste tipo de redes.
+
+
+===== Modelo geral =====
+Como hipóteses do modelo
+consideramos a incidência standard, a inexistência de emigração (A =
+0) e imunidade passiva, e a existência de morte pela doença (α> 0) e dos
+fenómenos demográficos naturais (morte natural e natalidade). A doença confere
+ao doente imunidade permanente depois de recuperado (δ= 0). Assim, o
+diagrama de transferência entre as várias estados é o seguinte :
+e temos o seguinte sistema de equações diferenciais:
+Com as condições iniciais:
+
+
+==== O Modelo epidémico MSEIRS ====
+
+
+===== Modelo geral =====
+Esquema que mostra a dinâmica do modelo geral :
+Notemos que para este modelo geral designamos a incidência
+de uma forma geral ζ(S,I)
+As equações diferenciais que descrevem o modelo geral são as
+seguintes:
+Com condições iniciais:
+E a condição:
+Assim, 
+
+
+== Genealogia, herança genética e Mitochondrial Eve ==
+
+
+=== Mitochondrial Eve ===
+Cada um de nós tem um registo maternal por entre gerações
+ao longo da história, chama-se “maternal lineage”. O nosso trilho maternal
+ancestral termina numa única mulher que viveu entre 100.000 ou 200.000 anos
+atrás em África e é a raiz de todos os nossos ancestrais maternos. A maneira de
+provar este facto é estudar o ADN e separar o genoma que temos na nossa
+mitocôndria. Esta “mithochondrial DNA” é transmitido para as crianças apenas
+pela sua mãe, se pensarmos que existe um ponto de origem comum, implica que
+existiu uma mulher que é a mãe da humanidade que foi apelidada de
+“Mithochondrial Eve”. Denota-se que esta mulher não era a única existente na
+sua época, existiram outras mas, o seu mitocôndrio ADN não chegou aos tempos de
+hoje. O que se conclui é que os nossos antepassados estão relacionados pelo ADN
+à já algumas centenas de anos .
+
+
+=== Um modelo de descendência monoparental ===
+Vamos considerar que cada geração está restringida a um
+número fixo de elementos, ou seja, em todas as gerações existe sempre o mesmo
+número de familiares. Neste modelo assume-se que nenhum individuo tem a
+vantagem de seleção na reprodução, isto vai implicar que cada individuo é
+produzido por um único progenitor. Este conceito é possível desde que:
+Primeiro, nesta espécie cada organismo provém de um único progenitor. Segundo,
+pode ser usado o modelo de herança “single-parent” como é o “Mithochondrial
+Eve” e assume-se que todos os indivíduos são mães. Terceiro, pode ser usado o
+modelo social de heranças como o de relação de mestre/aprendiz ao longo das
+gerações. Tem-se de ter em conta que cada pessoa está ligada apenas a um
+progenitor da geração anterior e graficamente as gerações são representadas de
+baixo para cima. 
+Podemos verificar que todos os indivíduos residentes em
+baixo têm um único progenitor em comum, este percurso chama-se “single-parent
+lineage” .
+No ponto de vista genético o nosso genoma é criado a partir
+dos cromossomas combinados dos nossos pais, e herdamos o genoma de um dos
+nossos progenitores. Não podemos ignorar o aspecto que somos gerados por duas
+pessoas mas o conceito de “single-parent lineage” mantém-se agora com uma
+variante na sua ligação, não ser apenas a mãe a passar o genona .
+
+
+== Como leitura complementar ==
+“Review the basis of
+epidemiological theory (based on random-mixing models) and network theory
+(based on work from the social sciences and graph theory). We then describe a
+variety of methods that allow the mixing network, or an approximation to the
+network, to be ascertained “
+“É apresentado um modelo epidemiológico
+MSEIRS que inclui fenómenos demográficos, morte pela doença, imunidade
+conferida pela doença e imunidade passiva. A partir deste modelo podem ser
+encontrados vários modelos epidemiológicos mais simples fazendo restrições aos
+parâmetros.”
+
+
+== Referências ==

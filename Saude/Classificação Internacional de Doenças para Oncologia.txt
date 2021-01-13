@@ -1,0 +1,268 @@
+A Classificação Internacional de Doenças para Oncologia (CID-O) é um domínio específico da CID para doenças tumorais.
+Atualmente está em sua terceira revisão.
+
+
+== Eixos ==
+A classificação tem dois eixos:
+
+
+=== Morfologia ===
+Esse eixo se refere à morfologia do tumor. Tem importância adicional, porque a Nomenclatura Sistematizada de Medicina (SNOMED) adotou a classificação morfológica do CID-O.
+
+
+=== Exemplos de códigos ===
+
+
+==== (8000-8009) Sem outra especificação ====
+(8000-8004) Neoplasias, SOE
+(M8000/0) Neoplasia, benigna
+(M8000/1) Neoplasia, incerto se é benigna ou maligna
+(M8000/3) Neoplasia, maligna
+(M8000/6) Neoplasia, metastática
+(M8000/9) Neoplasia, maligna, incerto se é primária ou metastática
+
+
+==== (8010-8790) Epitelial ====
+(8010-8040) Neoplasia epitelial, SOE
+(8050-8080) Neoplasia de céulas escamosas
+(M8070/3) Carcinoma de céulas escamosas, SOE
+(8090-8110) Neoplasia de células basais
+(M8090/3) Carcinoma basocelular, SOE
+(8120-8130) Papilomas e carcinomas de células de transição
+(8140-8380) Adenomas e adenocarcinomas (glândulas)
+(M8140/0) Adenoma, SOE
+(M8140/3) Adenocarcinoma, SOE
+(M8142/3) Linite plástica
+(M8151/0) Insulinoma, SOE
+(M8152/0) Glucagonoma, SOE
+(M8153/1) Gastrinoma, SOE
+(M8155/3) Vipoma
+(M8160/3) Colangiocarcinoma
+(M8170/3) Hepatocarcinoma, SOE
+(M8200/3) Carcinoma adenoido cístico
+(M8240/1) Tumor carcinóide, SOE, do apêndice
+(M8271/0) Prolactinoma
+(M8290/0) Oncocitoma
+(M8290/0) Tumor de Hurthle
+(M8312/3) Carcinoma de células renais
+(M8312/3) Tumor de Grawitz
+(M8360/1) Adenoma endócrino múltiplo
+(M8380/0) Adenoma endometrióida, SOE
+(8390-8420) Neoplasia de anexos cutâneos
+(8430-8439) Neoplasia mucoepidermoide
+(8440-8490) Neoplasia cística, mucosa e serosa
+(M8440/0) Cistadenoma, SOE
+(M8480/6) Pseudomyxoma peritonei
+(8500-8540) Neoplasia ductal, lobular e medular
+(8550-8559) Neoplasia de células acinares
+(8560-8580) Neoplasia epitelial complexa
+(M8561/0) Tumor de Warthin
+(M8580/0) Timoma, SOE
+(8590-8670) Neoplasia gonadal especializada
+(M8590/1) Tumor dos cordões sexuais
+(M8600/0) Tecoma, SOE
+(M8620/1) Tumor de células da granulosa, SOE
+(M8630/1) Arrhenoblastoma, SOE
+(M8631/0) Tumor de células de Sertoli-Leydig
+(8680-8710) Paragangliomas e glomangiomas
+(M8680/1) Paraganglioma, SOE
+(M8700/0) Feocromocitoma, SOE
+(M8711/0) Glomangioma
+(8720-8790) Nevos e melanomas
+(M8720/0) Nevo melanocítico
+(M8720/3) Melanoma maligno, SOE
+(M8720/3) Melanoma, SOE
+(M8721/3) Melanoma nodular
+(M8727/0) Nevo displástico
+(M8742/3) Lentigo maligno
+(M8743/3) Melanoma superficial disseminado
+(M8744/3) Melanoma lentiginoso acral, maligno
+
+
+==== (8800-9370) Tecido conjuntivo ====
+(8800-8809) Tumores de tecidos moles e sarcomas, SOE
+(M8800/3) Sarcoma, SOE
+(M8800/3) Sarcoma de tecidos moles
+(M8806/3) Tumor de pequenas células redondas desmoplásico(8810-8830) Neoplasias fibromatosas
+(M8810/0) Fibroma, SOE
+(M8810/3) Fibrosarcoma, SOE(8840-8849) Neoplasias mixomatosas
+(M8840/0) Mixoma, SOE(8850-8880) Neoplasias lipomatosas
+(M8850/0) Lipoma, SOE
+(M8850/3) Liposarcoma, SOE(8890-8920) Neoplasias miomatosas
+(M8890/0) Leiomioma, SOE
+(M8890/3) Leiomiosarcoma, SOE
+(M8895/0) Mioma
+(M8895/3) Miosarcoma
+(M8900/0) Rabdomioma, SOE
+(M8900/3) Rabdomiosarcoma, SOE(8930-8990) Neoplasias complexas, mistas e estromais
+(M8940/0) Adenoma pleomórfico
+(M8960/3) Nefroblastoma, SOE (Tumor de Wilms)(9000-9030) Neoplasias fibroepiteliais
+(M9000/0) Tumor de Brenner, SOE(9040-9049) Neoplasias semelhantes a sinoviais
+(M9040/3) Sarcoma sinovial, SOE(9050-9059) Neoplasias mesoteliais
+(M9050/0) Mesotelioma, benigno
+(M9050/3) Mesotelioma, SOE(9060-9090) Neoplasias de células germinativas
+(M9060/3) Disgerminoma
+(M9064/3) Tumor de célula germinativa, SOE
+(M9070/3) Carcinoma embrional, SOE
+(M9071/3) Tumor de vesícula vitelina
+(M9080/0) Teratoma benigno
+(M9080/3) Teratoma maligno, SOE
+(M9084/0) Cisto dermóide, SOE(9100-9109) Neoplasias trofoblásticas
+(M9100/3) Coriocarcinoma, SOE(9110-9119) Mesonefromas
+(9120-9160) Tumores dos vasos sanguíneos
+(M9120/0) Hemangioma, SOE
+(M9120/0) Angioma, SOE
+(M9120/3) Hemangiossarcoma
+(M9120/3) Angiossarcoma
+(M9130/0) Hemangioendotelioma, benigno
+(M9130/1) Hemangioendotelioma, SOE
+(M9140/3) Sarcoma de Kaposi
+(M9150/0) Hemangiopericitoma, benign
+(M9150/1) Hemangiopericitoma, SOE(9170-9179) Tumores dos vasos linfáticos
+(M9170/0) Linfangioma, SOE
+(M9173/0) Linfangioma cístico(9180-9240) Neoplasias ósseas e condromatosas
+(M9180/0) Osteoma, SOE
+(M9180/3) Osteossarcoma, SOE
+(M9210/0) Osteocondroma
+(M9210/0) Exostose cartilaginosa
+(M9220/0) Condroma, SOE
+(M9220/3) Condrossarcoma, SOE(9250-9259) Tumores de células gigantes
+(9260-9269) Tumores ósseos diversos
+(M9260/3) Sarcoma de Ewing(9270-9340) Tumores odontogênicos
+(M9273/0) Cementoblastoma benigno
+(M9310/0) Ameloblastoma, SOE(9350-9370) Tumores diversos
+(M9350/1) Craniofaringioma
+
+
+==== (9380-9589) Sistema nervoso ====
+(9380-9480) Gliomas
+(M9382/3) Oligoastrocitoma misto
+(M9391/3) Ependimoma, SOE
+(M9400/3) Astrocitoma, SOE
+(9421/3) Astrocitoma pilocítico
+(9440/3) Glioblastoma multiforme
+(M9450/3) Oligodendroglioma, SOE(9490-9520) Neoplasias neuroepiteliomatosas
+(M9500/3) Neuroblastoma, SOE
+(M9510/3) Retinoblastoma(9530-9539) Meningiomas(9540-9570) Tumores da bainha nervosa
+(M9540/0) Neurofibroma, SOE
+(M9540/1) Neurofibromatose, SOE
+(M9560/0) Schwannoma, SOE
+(M9560/0) Neurinoma
+(M9560/0) Schwannoma vestibular
+(M9570/0) Neuroma, SOE(9580-9589) Tumores de células justaglomerulares e sarcoma alveolar de partes moles
+
+
+==== (9590-9999) Hematológicos (leucemias, linfomas e desordens relacionadas) ====
+(9590-9599) Linfoma maligno, SOE, ou difuso
+(M9590/3) Linfoma, SOE
+(M9591/3) Linfoma Não-Hodgkin, SOE
+(M9592/3) Linfosarcoma, SOE(9650-9660) Doença de Hodgkin
+(M9650/3) Doença de Hodgkin, SOE
+(M9651/3) Linfoma de Hodgkin subtipo rico em linfócitos
+(M9652/3) Linfoma de Hodgkin subtipo celularidade mista
+(M9653/3) Linfoma de Hodgkin subtipo depleção linfocitária
+(M9659/3) Linfoma de Hodgkin com predomínio de linfócito nodular
+(M9663/3) Linfoma de Hodgkin subtipo esclerose nodular(9670-9680) Linfoma maligno de tipo especificado, difuso ou SOE
+(M9670/3) Linfoma linfocítico de pequenas células
+(M9671/3) Linfoma maligno linfoplasmocitário
+(M9673/3) Linfoma de células da zona do manto
+(M9678/3) Efusão por linfoma primário
+(M9679/3) Linfoma do mediastino de células grandes B
+(M9680/3) Linfoma maligno de células grandes B
+(M9687/3) Linfoma de Burkitt
+(M9689/3) Linfoma de células da zona marginal esplênica(9690-9699) Linfoma maligno, folicular ou nodular, com ou sem áreas difusas
+(M9690/3) Linfoma folicular
+(M9699/3) Linfoma de zona marginal tipo células B(970-971) Linfomas de células T maduras e NK
+(M9700/3) Micose fungóide
+(M9701/3) Síndrome de Sezary
+(M9702/3) Linfomas de células T, maduras, SOE
+(M9705/3) Linfoma angio-imunoblástico de células T
+(M9708/3) Linfoma subcutâneo, tipo paniculite de células T
+(M9714/3) Linfoma anaplásico de grandes células, T e NULL
+(M9716/3) Linfoma hepatoesplênica, tipo gama-delta
+(M9717/3) Linfoma intestinal de células T
+(M9718/3) Lesão linfoproliferativa cutânea primária de células T
+(M9719/3) Linfoma nasal e tipo nasal de células T/NK(972) Linfoma linfoblástico - células precursoras
+(M9727/3) Linfoma linfoblástico de células precursoras SOE
+(M9728/3) Linfoma linfoblástico de células precursoras B
+(M9729/3) Linfoma linfoblástico de células precursoras T(973) Tumores de plasmócitos
+(M9731/3) Plasmocitoma, SOE
+(M9732/3) Mieloma múltiplo
+(M9734/3) Plamocitoma extramedular(974) Tumores de mastócitos
+(M9740/1) Mastocitoma, SOE
+(M9740/3) Sarcoma de mastócitos
+(M9741/3) Mastocitose maligna
+(M9742/3) Leucemia de mastócitos(975) Neoplasias de histiócitos e c[elulas linfóides acessórias
+(M9751/1) Histiositose de células de Langerhans, SOE
+(M9755/3) Sarcoma histiocítico
+(M9756/3) Sarcoma de células de Langerhans
+(M9757/3) Sarcoma de células dendríticas digitiforme
+(M9758/3) Sarcoma de células dendríticas folicular(976) Doenças imunoproliferativas
+(M9761/3) Macroglobulinemia de Waldenström
+(M9766/1) Lesão imunoproliferativa angiocêntrica
+
+
+===== Leucemias =====
+(980) Leucemias, SOE
+(M9800/3) Leucemia, SOE
+(M9801/3) Leucemia aguda, SOE
+(M9805/3) Leucemia aguda, bifenotípica(982-983) Leucemias linfóides
+(M9820/3) Leucemia linfóide, SOE
+(M9823/3) Leucemia linfocítica crônica de células B
+(M9826/3) Leucemia de células de Burkitt
+(M9827/3) Leucemia de células T do adulto
+(M9831/3) Leucemia linfocítica, de células grandes tipo T granulares
+(M9833/3) Leucemia prolinfocítica, tipo células B
+(M9834/3) Leucemia prolinfocítica, tipo células T
+(M9835/3) Leucemia linfoblástica de células precursoras, SOE
+(M9837/3) Leucemia linfoblástica de células T precursoras(984-993) Leucemia mielóide
+(M9840/3) Leucemia mielóide aguda tipo M6
+(M9860/3) Leucemia mielóide, SOE
+(M9861/3) Leucemia mielóide aguda, SOE
+(M9863/3) Leucemia mielóide crônica, SOE
+(M9866/3) Leucemia promielocítica aguda
+(M9867/3) Leucemia mielomonocítica aguda
+(M9870/3) Leucemia basofílica aguda
+(M9871/3) Leucemia mielóide aguda com eosinófilos anormais na medula
+(M9872/3) Leucemia mielóide aguda, com diferenciação mínima
+(M9873/3) Leucemia mielóide aguda sem maturação
+(M9874/3) Leucemia mielóide aguda com maturação
+(M9875/3) Leucemia crônica mielogênica, BCR/ABL positiva
+(M9876/3) Leucemia mielóide crônica atípica, BCR/ABL negativa
+(M9891/3) Leucemia monocítica aguda
+(M9895/3) Leucemia mielóide aguda com displasia de multilinhagem
+(M9896/3) Leucemia mielóide aguda, t(8;21)(q22;q22)
+(M9897/3) Leucemia mielóide aguda, com anormalidades em 11q23
+(M9910/3) Leucemia megacarioblástica aguda
+(M9920/3) Leucemia mielóide aguda relacionada ao tratamento, SOE
+(M9930/3) Sarcoma mielóide
+(M9931/3) Panmielose aguda com mielofibrose(994) Outras leucemias
+(M9940/3) Leucemia tipo células pilosas
+(M9946/3) Leucemia mielomonocítica juvenil
+(M9948/3) Leucemia de células tipo NK agressiva
+
+
+===== Outras =====
+(995-996) Alterações mieloproliferativas crônicas
+(M9950/3) Policitemia vera
+(M9960/1) Doença mieloproliferativa crônica, SOE
+(M9961/3) Mielosclerose com metaplasia mielóide
+(M9962/3) Trombocitemia essencial
+(M9963/3) Leucemia crônica neutrofílica
+(M9964/3) Sindrome hipereosinofílico(997) Outras alterações hematológicas
+(M9970/1) Alterações linfoproliferativa, SOE
+(M9975/1) Doença mieloproliferativa, SOE(998) Síndromes mielodisplásicas
+(M9980/3) Anemia refratária
+(M9982/3) Anemia refratária com sideroblastos
+(M9983/3) Anemia refratária com excesso de blastos
+(M9985/3) Citopenia refratária com displasia multilinhagem
+(M9986/3) Síndrome mielodisplásica com deleção 5q (5q-)
+(M9989/3) Síndrome mielodisplásica, SOE
+
+
+=== Topografia ===
+O eixo de topografia é para os códigos topográficos do local do tumor. Ele é padronizado com a seção C do CID-10
+
+
+== Ligações externas ==
+CID-O Classificação Internacional de Doenças para Oncologia

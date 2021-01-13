@@ -1,0 +1,72 @@
+O raciocínio dedutivo, também chamado de lógica dedutiva ou dedução lógica ou até mesmo,  informalmente, a lógica "top-down", é o processo de raciocínio a partir de uma ou mais afirmações (premissas) para chegar a uma certa conclusão lógica.
+O raciocínio dedutivo liga afirmações (ou premissas) com conclusões. Se todas as premissas são verdadeiras, com termos claros (não ambíguos), e as regras da lógica dedutiva são seguidas corretamente, então a conclusão é necessariamente verdade.
+O raciocínio dedutivo (lógica top-down) contrasta com o raciocínio indutivo (lógica de baixo para cima – ou bottom-up) da seguinte forma: No raciocínio dedutivo, a conclusão é obtida pela aplicação das regras gerais que mantêm sobre a totalidade de um domínio fechado de discurso, estreitando a faixa em consideração até que reste apenas a conclusão. No raciocínio indutivo, a conclusão é atingida por generalização ou extrapolação a partir de informações iniciais. Como resultado, a indução pode ser usada até mesmo em um domínio aberto, aquele em que há incerteza. Note, porém, que o raciocínio indutivo mencionado aqui não é o mesmo que a indução utilizada em provas matemáticas - Indução Matemática é na verdade uma forma de raciocínio dedutivo.
+
+
+== Exemplo simples ==
+Um exemplo de um argumento dedutivo: 
+Todos os homens são mortais.
+Sócrates é um homem.
+Portanto, Sócrates é mortal.A primeira premissa afirma que todos os objetos classificados como "homens" têm o atributo "mortal". A segunda premissa afirma que "Sócrates" é classificado como um "homem" - um membro do conjunto de "homens". A conclusão afirma então que "Sócrates" tem de ser "mortal" porque ele herda esse atributo de sua classificação como um "homem".
+
+
+== Lei do desapego ==
+A lei do desapego (também conhecida como Modus Ponens) é a primeira forma de raciocínio dedutivo. Uma única instrução condicional é feita, e uma hipótese (P) é indicado. A conclusão (Q) é então deduzida da premissa. A forma mais básica é listada abaixo:
+
+P → Q (instrução condicional)
+P (hipótese prevista)
+Q (conclusão deduzida)No raciocínio dedutivo, podemos concluir Q a partir de P usando a lei do desapego. No entanto, se a conclusão (Q) é dada em vez de a hipótese de (P), então não há nenhuma conclusão definitiva.
+O seguinte é um exemplo de um argumento usando a lei do desapego na forma de uma premissa “se”: 
+
+Se um ângulo satisfaz 90 ° <A <180 °, então A é um ângulo obtuso.
+A = 120 °.
+A é um ângulo obtuso.Uma vez que a medida do ângulo A é maior do que 90 ° e menor que 180 °, pode-se deduzir que A é um ângulo obtuso.
+
+
+== Lei do silogismo ==
+A lei do silogismo leva duas premissas condicionais e forma uma conclusão, combinando a hipótese (premissas) com a conclusão. Assim: 
+
+P → Q
+Q → R
+Por isso, P→ R.Por exemplo: 
+
+Se Larry está doente, então ele vai estar ausente.
+Se Larry está ausente, então ele vai perder a sua esco.
+Portanto, se Larry está doente, então ele vai perder a sua esco.Deduzimos a conclusão, combinando a hipótese da primeira premissa com a segunda premissa. Este é um exemplo da propriedade transitiva na matemática. A propriedade transitiva às vezes é formulada da seguinte forma: 
+
+A = B.
+B = C.
+Portanto A = C.
+
+
+== Lei da contrapositiva ==
+A lei da contrapositiva que, em uma condicional, se a conclusão é falsa, então a hipótese deve ser falsa também. A forma geral é a seguinte: 
+
+P → Q.
+~ Q.
+Portanto, podemos concluir ~ P  (~Q→~P).Por exemplo: 
+
+Se estiver chovendo, então há nuvens no céu.
+Não há nuvens no céu.
+Assim, não está chovendo.
+
+
+== Validade ==
+Argumentos dedutivos são avaliados em termos de sua validade e solidez.
+Um argumento é válido se for impossível para as suas premissas serem verdadeiras, enquanto a sua conclusão é falsa. Em outras palavras, a conclusão deve ser verdadeira se as premissas são verdadeiras.
+Um argumento é válido se ele é válido e as premissas são verdadeiras. 
+É possível ter um argumento dedutivo que é logicamente válido, mesmo que não pareça ser ao ouvir. Argumentos falaciosos muitas vezes tomam esta forma.
+O seguinte é um exemplo de um argumento que é válido, mesmo que não soe: 
+
+Todo mundo que come cenouras é um quarterback.
+John come cenouras.
+Portanto, João é um zagueiro.No exemplo acima a primeira premissa é falsa - há pessoas que comem cenouras e não são quarterbacks - mas a conclusão deve ser verdadeira, desde que as premissas sejam verdadeiras (ou seja, é impossível que as premissas sejam verdadeiras e a conclusão falsa). Portanto, o argumento é válido, mas não parece. Generalizações são muitas vezes utilizados para fazer argumentos inválidos, como "todo mundo que come cenouras é um quarterback." Nem todo mundo que come cenouras é um quarterback, provando assim a falha de tais argumentos.
+Neste exemplo, a primeira declaração usa o raciocínio categórico, dizendo que todos os comedores de cenoura são definitivamente quarterbacks. Esta teoria do raciocínio dedutivo - também conhecida como lógica de termos - foi desenvolvida por Aristóteles, mas foi substituída pela lógica proposicional (sentencial) e lógica de predicados.
+O raciocínio dedutivo pode ser contrastado com o raciocínio indutivo, no que diz respeito à validade. No raciocínio indutivo, embora as premissas sejam verdadeiras e o argumento é "válido", é possível que a conclusão seja falsa.
+
+
+== Educação ==
+O raciocínio dedutivo é geralmente considerado como uma habilidade que se desenvolve sem qualquer ensino formal ou de formação. Como resultado dessa crença, habilidades de raciocínio dedutivo não são ensinados nas escolas secundárias, onde se espera que os alunos usem o raciocínio com mais freqüência e em um nível superior. É na escola, por exemplo, que os alunos tenham uma introdução abrupta de provas matemáticas - que dependem muito de raciocínio dedutivo.
+
+
+== Referências ==

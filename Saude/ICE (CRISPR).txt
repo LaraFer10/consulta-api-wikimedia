@@ -1,0 +1,8 @@
+ICE, (abreviatura de Inference of CRISPR Edits), Inferência de Edições CRISPR (em português) é uma ferramenta de software livre e de código aberto que oferece análise rápida e confiável de dados de edição CRISPR. Este software não requer alteração manual de configurações ou parâmetros.
+
+
+== Operação ==
+Basta carregar seus dados de sequenciamento Sanger no ICE para ver a frequência total indel, a frequência relativa de cada indel, uma pontuação nocaute (KO) que revela a proporção de indels capazes de gerar mutações completas de perda de função e diferenças totais entre os editados e os selvagens digite seqüências.
+
+
+== Referências ==

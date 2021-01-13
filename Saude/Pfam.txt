@@ -1,0 +1,11 @@
+Pfam é uma base de dados de famílias de proteínas em que constam as sua anotações e alinhamentos múltiplos de sequências gerados com base nos modelos ocultos de Markov.
+
+
+== Referências ==
+
+
+== Ligações externas ==
+Pfam - Base de dados de famílias de proteínas no Sanger Institute, UK.
+Pfam - Base de dados de famílias de proteínas no Janelia Farm Research Campus, USA.
+Pfam - Base de dados de famílias de proteínas no Center for Genomics and Bioinformatics, Suécia.
+iPfam - Interações de domínios Pfam em PDB.

@@ -1,0 +1,103 @@
+O ácido abscísico (ABA) é um hormônio vegetal que atua em vários processos de desenvolvimento de plantas, incluindo a dormência de sementes e gomos, o controle do tamanho do órgão e o fechamento estomático. É especialmente importante para as plantas na resposta a estresses ambientais, incluindo seca, salinidade do solo, tolerância ao frio, tolerância ao congelamento, estresse por calor e tolerância a íons de metais pesados.
+
+
+== Nas plantas ==
+
+
+=== Função ===
+O ABA foi originalmente considerado como envolvido na abscisão, e por isso recebeu o nome. Agora, sabe-se que isso ocorre apenas em um pequeno número de plantas. A sinalização regulada pelo ABA também desempenha um papel importante nas respostas das plantas ao estresse ambiental e aos patógenos vegetais. Os genes das plantas para a biossíntese de ABA e a sequência da via já foram elucidados. O ABA também é produzido por alguns fungos patogênicos de plantas por meio de uma rota biossintética diferente da biossíntese de ABA nas plantas.Em preparação para o inverno, o ABA é produzido em gomos terminais. Isso retarda o crescimento da planta e direciona os primórdios das folhas para desenvolver escamas para proteger os botões dormentes durante a estação fria. O ABA também inibe a divisão das células no câmbio vascular, ajustando-se às condições frias do inverno ao suspender o crescimento primário e secundário.
+O ácido abscísico também é produzido nas raízes em resposta à diminuição do potencial hídrico do solo (que está associado ao solo seco) e outras situações em que a planta pode estar sob estresse. O ABA então se transloca para as folhas, onde altera rapidamente o potencial osmótico das células guardiãs estomáticas, fazendo com que encolham e fechem os estômatos. O fechamento estomático induzido por ABA reduz a transpiração (evaporação da água para fora dos estômatos), evitando assim maiores perdas de água das folhas em épocas de baixa disponibilidade de água. Uma correlação linear próxima foi encontrada entre o conteúdo de ABA das folhas e sua condutância (resistência estomática) com base na área foliar.A germinação das sementes é inibida pelo ABA em antagonismo com a giberelina. O ABA também evita a perda de dormência das sementes.[carece de fontes?]Várias plantas de Arabidopsis thaliana com mutação de ABA foram identificadas e estão disponíveis no Nottingham Arabidopsis Stock Center — tanto aquelas deficientes na produção de ABA quanto aquelas com sensibilidade alterada à sua ação. As plantas que são hipersensíveis ou insensíveis ao ABA apresentam fenótipos na dormência das sementes, germinação, regulação estomática e alguns mutantes apresentam crescimento atrofiado e folhas castanhas/amarelas. Esses mutantes refletem a importância do ABA na germinação das sementes e no desenvolvimento inicial do embrião.
+A pirabactina (um ativador ABA contendo piridila) é um inibidor da expansão das células do hipocótilo naftaleno sulfonamida, que é um agonista da via de sinalização do ABA da semente. É o primeiro agonista da via ABA que não está estruturalmente relacionado ao ABA.[carece de fontes?]
+
+
+=== Homeostase ===
+
+
+==== Biossíntese ====
+O ácido abscísico (ABA) é um hormônio isoprenoide vegetal, que é sintetizado na via plastidal 2-C-metil-D-eritritol-4-fosfato (MEP); ao contrário dos sesquiterpenos estruturalmente relacionados, que são formados a partir do precursor farnesil difosfato (FDP) derivado do ácido mevalónico, a estrutura 
+  
+    
+      
+        
+          C
+          
+            15
+          
+        
+      
+    
+    {\displaystyle C_{15}}
+   do ABA é formada após a clivagem dos carotenoides 
+  
+    
+      
+        
+          C
+          
+            40
+          
+        
+      
+    
+    {\displaystyle C_{40}}
+   em MEP. A zeaxantina é o primeiro precursor ABA comprometido; uma série de epoxidações e isomerizações catalisadas por enzimas via violaxantina e a clivagem final do carotenoide 
+  
+    
+      
+        
+          C
+          
+            40
+          
+        
+      
+    
+    {\displaystyle C_{40}}
+   por uma reação de dioxigenação produz o precursor ABA proximal, xantoxina, que é então posteriormente oxidado ao ABA. via aldeído abscísico.
+A abamina foi projetada, sintetizada, desenvolvida e depois patenteada como o primeiro inibidor específico da biossíntese de ABA, o que torna possível regular os níveis endógenos de ABA.
+
+
+==== Localização e tempo de biossíntese de ABA ====
+Liberado durante a dessecação dos tecidos vegetativos e quando as raízes encontram a compactação do solo.
+Sintetizado em frutas verdes no início do período de inverno
+Sintetizado em sementes em maturação, estabelecendo dormência
+Móvel dentro da folha e pode ser rapidamente translocado das raízes para as folhas pelo fluxo de transpiração no xilema
+Produzido em resposta ao estresse ambiental, como estresse por calor, estresse hídrico, estresse salino
+Sintetizado em todas as partes da planta, por exemplo, raízes, flores, folhas e caules
+ABA é sintetizado em quase todas as células que contêm cloroplastos ou amiloplastos
+
+
+==== Inativação ====
+O ABA pode ser catabolizado em ácido faseico via CYP707A (um grupo de enzimas P450) ou inativado por conjugação de glicose (éster ABA-glicose) via enzima AOG. O catabolismo via CYP707As é muito importante para a homeostase do ABA, e os mutantes nesses genes geralmente acumulam níveis mais elevados de ABA do que as linhas que superexpressam os genes biossintéticos do ABA. Em bactérias do solo, foi relatada uma via catabólica alternativa que leva ao desidrovomifoliol através da enzima vomifoliol desidrogenase.
+
+
+=== Efeitos ===
+Antitranspirante — induz o fechamento estomático, diminuindo a transpiração para evitar a perda de água.
+Inibe o amadurecimento de frutas
+Responsável pela dormência da semente ao inibir o crescimento celular – inibe a germinação da semente
+Inibe a síntese do nucleotídeo cinetina
+Downregula enzimas necessárias para a fotossíntese.
+Age na endoderme para prevenir o crescimento de raízes quando expostas a condições salgadas
+Atrasa a divisão celular
+Indutor de dormência — É usado para induzir a dormência nas sementes.
+usado como antitranspirante — Em áreas propensas a secas, o estresse hídrico é um problema sério na produção agrícola. então sprays de ABA são sugeridos que causam o fechamento parcial dos estômatos por alguns dias, para reduzir a perda transpiracional de água
+
+
+=== Cascata de sinal ===
+
+Na ausência de ABA, a fosfatase ABI1-INSENSITIVE1 (ABI1) inibe a ação das proteínas cinases relacionadas a SNF1 (subfamília 2) (SnRK2s). O ABA é percebido pelas proteínas de membrana PYRABACTIN RESISTANCE 1 (PYR1) e do tipo PYR1. Na ligação ABA, PYR1 se liga a e inibe ABI1. Quando os SnRK2s são liberados da inibição, eles ativam vários fatores de transcrição da família ABA RESPONSIVE ELEMENT-BINDING FACTOR (ABF). Os ABFs então causam mudanças na expressão de um grande número de genes. Acredita-se que cerca de 10% dos genes das plantas sejam regulados pelo ABA.[carece de fontes?]
+
+
+== Em fungos ==
+Como as plantas, algumas espécies de fungos (por exemplo Cercospora rosicola, Botrytis cinerea e Magnaporthe oryzae) têm uma via de biossíntese endógena para ABA. Em fungos, parece ser a via biossintética da VMA que é predominante (ao invés da via MEP que é responsável pela biossíntese de ABA nas plantas). Um papel do ABA produzido por esses patógenos parece ser o de suprimir as respostas imunes das plantas.
+
+
+== Em animais ==
+O ABA também foi encontrado em metazoários, desde esponjas até mamíferos, incluindo humanos. Atualmente, sua biossíntese e papel biológico em animais são pouco conhecidos. O ABA demonstrou recentemente provocar efeitos antiinflamatórios e antidiabéticos potentes em modelos de camundongos de diabetes/obesidade, doença inflamatória intestinal, aterosclerose e infecção por influenza. Muitos efeitos biológicos em animais foram estudados usando ABA como uma droga nutracêutica ou farmacognóstica, mas ABA também é gerado endogenamente por algumas células (como macrófagos) quando estimulado. Existem também conclusões conflitantes de diferentes estudos, onde alguns afirmam que o ABA é essencial para as respostas pró-inflamatórias, enquanto outros mostram efeitos anti-inflamatórios. Como acontece com muitas substâncias naturais com propriedades médicas, o ABA se tornou popular também na naturopatia. Embora o ABA claramente tenha atividades biológicas benéficas e muitos remédios naturopáticos contenham altos níveis de ABA (como suco de grama de trigo, frutas e vegetais), algumas das alegações de saúde feitas podem ser exageradas ou excessivamente otimistas. Em células de mamíferos, o ABA tem como alvo uma proteína conhecida como lantionina sintetase C-like 2 (LANCL2), desencadeando um mecanismo alternativo de ativação do receptor gama ativado por proliferador de peroxissoma (PPAR gama). A LANCL2 é conservada em plantas e foi originalmente sugerido ser um receptor ABA também em plantas, o que foi posteriormente questionado.
+
+
+== Medição da concentração de ABA ==
+Vários métodos podem ajudar a quantificar a concentração de ácido abscísico em uma variedade de tecidos vegetais. Os métodos quantitativos usados são baseados em HPLC e GC, e ELISA. Recentemente, duas sondas FRET independentes foram desenvolvidas para medir as concentrações intracelulares de ABA em tempo real in vivo.
+
+
+== Referências ==

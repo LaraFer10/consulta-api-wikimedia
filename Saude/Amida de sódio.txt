@@ -1,0 +1,57 @@
+Amida de sódio, comumente chamada sodamida, é o composto químico com a fórmula química NaNH2. Este sólido, o qual é perigosamente reativo com a água, é branco ou incolor quando puro, mas amostras comerciais são tipicamente cinzas devido a presença de pequenas quantidades de ferro metálico originário do processo de produção. Tais impurezas não afetam normalmente a utilidade do reagente.  NaNH2 tem sido largamente empregado como base forte em síntese orgânica.
+
+
+== Preparação e estrutura ==
+Amida de sódio pode ser preparada pela reação de sódio com gás amônia, mas é usualmente preparado pela reação em amônia líquida usando nitrato de ferro (III) como catalisador. A reação é mais rápida ao ponto de ebulição da amônia, -33 °C.
+2 Na + 2 NH3 → 2 NaNH2 + H2
+NaNH2 é um material salino e como tal, cristaliza num infinito polímero.  A geometria é tetraédrica. Em amônia, NaNH2 forma soluções condutoras, consistente com a presença de ânions Na(NH3)6+ e NH2-.
+
+
+== Usos ==
+Amida de sódio é usada na produção industrial de indigo, hidrazina, e cianeto de sódio. É o reagente de troca para a secagem de amônia (líquida ou gasosa) e é também largamente usada como uma forte base em química orgânica, frequentemente em solução em amônia líquida. Um das principais vantagens para o uso da sodamida é que ela é uma excelente base e raramente serve como um nucleofílico. Ela é entretanto pouco solúvel e seu uso tem sido superado pelos reagentes relacionados tais como hidreto de sódio, Bis(trimetilsilil)amida de sódio (NaHMDS), e diisopropilamida de lítio (LDA).
+
+
+=== Preparação de alcinos ===
+Amida de sódio induz a perda de duas moléculas de brometo de hidrogênio de um dibromoalcano vicinal para dar uma ligação tripla carbono-carbono, como na preparação de fenilacetileno abaixo.
+Cloreto de hidrogênio e/ou etanol podem também ser eliminados desta maneira, como na preparação de 1-etoxi-but-1-ino.
+
+
+=== Reações de ciclização ===
+Onde não há β-hidrogênio a ser eliminado, compostos cíclicos podem ser formados, como na preparação de metilenociclopropano abaixo.
+Ciclopropenos, aziridinas
+e ciclobutanos podem ser formados de maneira similar.
+
+
+=== Deprotonação de carbono e nitrogênio ácidos ===
+Carbonos ácidos os quais podem ser deprotonados por amida de sódio em amônia líquida incluem alquinos terminais,
+metil cetonas,ciclohexanona,ácido fenilacético e seus derivados
+e difenilmetano.Acetilacetona perde dois prótons para formar um diânion.
+Amida de sódio irá deprotonar indol e piperidina.
+
+
+=== Outras reações ===
+Rearranjo com ortodeprotonação
+Síntese de oxirano (por reação de carbeno?)
+Síntese do indol
+Reação de Chichibabin
+
+
+== Segurança ==
+Amida de sódio reage violentamente com água produzindo amônia e hidróxido de sódio, e irá queimar ao ar resultando em óxidos de sódio e nitrogênio:
+
+NaNH2 + H2O → NH3 + NaOH2 NaNH2 + 4 O2 → Na2O2 + 2 NO2 + 2H2O
+Na presença de limitadas quantidades de ar e umidade, tal como em embalagens pouco herméticas, misturas explosivas de produtos de oxidação podem se formar. Isto é acompanhado de amarelamento ou acastanhamento do sólido. Assim, amida de sódio deve sempre ser embalada em recipientes rigorosamente fechados, se possível sob atmosfera de nitrogênio.
+Amostras de amida de sódio as quais estejam amarelas ou castanhas devem ser destruídas imediatamente: um método é a cuidadosa adição de etanol a uma suspensão de amida de sódio em um solvente hidrocarboneto.
+Amida de sódio é corrosiva à pele, olhos e membranas mucosas. Cuidados devem ser tomados evitando a dispersão de poeira desta substância quando de sua manipulação.
+
+
+== Ver também ==
+Amida de lítio
+Bis(trimetilsilil)amida de sódio
+
+
+== Referências ==
+
+
+== Ligações externas ==
+Sodium amide reactions (from Organic Syntheses)

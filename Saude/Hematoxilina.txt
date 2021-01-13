@@ -1,0 +1,120 @@
+A hematoxilina, preto natural 1 (Natural Black 1), classificada pelo C.I. 75290, é um composto que se obtém da planta leguminosa Haematoxylum campechianum, conhecida também pelo nome de Pau Campeche. É um produto natural que ao ser oxidado resulta numa substância de cor azul-púrpura escura denominada hemateína.
+Seu número CAS é [517-28-2] e sua estrutura SMILES é OC(C(O)=C4)=C C1=C4CC3(O) C1C2=CC=C(O) C(O)=C2OC3.
+Como é obtida da planta e logo deve sofrer o processo de oxidação, sua capacidade de tingimento é muito limitada. Portanto, deve combinar-se con íons metálicos, especialmente os sais de ferro (III) o alumínio (II), que atuam como mordentes.
+Ainda que a hematoxilina seja um sal neutro, se comporta como um corante básico, sendo atraído por estruturas biológicas ditas basófilas, já que o componente cromógeno reside no complexo catiónico (básico) da mesma.
+Nos anos 1970, devido a obstrução de exploração nas florestas no Brasil e América Central, houve falta de pau campeche e consequentemente de hematoxilina. Seu preço atingiu valores records, os quais afetaram o custo de diagnósticos em histopatologia, e promoveram uma pesquisa por corantes alternativos para núcleos celulares. Antes que o uso de qualquer alternativa estivesse firmemente estabelecida, a hematoxilina retornou ao mercado, ainda a um preço muito elevado, e retornou ao seu lugar na histopatologia. Existem vários corantes recomendados como substitutos: azul celestina B (CI 51050), galocianina (CI 51030), galeína (CI 45445) e cianina solocromo (CI 43820).  Todas as quatro substâncias corantes usam Fe(III) como mordente. Uma alternativa é o corante vermelho brazilina, extraídos do pau brasil, o qual difere da hematoxilina por somente uma grupo hidroxila. Citopatologistas neste período experimentaram o uso de suco de amoras como solução corante, mesmo com seus problemas de conservação e limitações.
+A síntese orgânica da hematoxilina, conjuntamente com a brazilina foi obtida e apresentada no ano de 1937, mas inviável economicamente.
+
+
+== Usos ==
+É utilizada em histologia, em procedimentos de coloração biológica, para colorir os componentes aniônicos (ácidos) dos tecidos, aos quais dá uma coloração violeta. Colore intensamente os núcleos das células, dado que estes contém ácidos nucleicos ricos em radicais ácidos. As estruturas que a hematoxilina colore são chamadas basofílicas.Sua carga é negativa porque o núcleo contem DNA que tem carga negativa. Nesta aplicação, usa-se igualmente os sais de Fe(III) ou Al(III) como mordentes em diversas formulações para estudos e diagnósticos histológicos, com a finalidade de destacar estruturas nucleares e citoplásmicas, formando lacas ou complexos coloridos (complexos corante-mortente-tecido). A cor destes compostos depende do sal usado. Lacas de sais de alumínio são normalmente coloridas de azul claro, enquanto lacas de sais férricos são azul escuro.A coloração de hematoxilina e eosina é uma das colorações mais comumente usadas em histologia, e tem sido usada por mais de um século. É uma coloração permanente em oposição a colorações temporárias (e.g. solução de iodo em KI ou lugol). Se polirribossomas abundantes estão presentes, o citoplasma terá um molde distinto azul. A zona de Golgi pode ser identificada pela ausência de coloração numa região próxima ao núcleo. Suas colorações revelam informações estruturais abundantes, com implicações funcionais específicas, mas apresentam limitação de coloração sendo incompatível com a imunofluorescência.É usada para a coloração de protozoários intestinais pela técnica de coloração da hematoxilina férrica de Heidenhain. A técnica de coloração da hematoxilina férrica de Heidenhain também é usada para estudar cromossomas em esfregaços temporários de células mãe do pólen.Variedades de colorações com outros componentes metálicos conjuntos com a hematoxilina tem sido desenvolvidas, sendo altamente seletivos para diversas estruturas celulares. Uma coloração hematoxilina-alumínio muito diluída é seletiva para os ácidos nucleicos em tecidos fixados em solventes orgânicos. Hematoxilina-vanadato é seletiva para proteínas básicas em tecidos fixados em formol ou sais de mercúrio. Hematoxilina-bismuto é seletiva para os resíduos de arginina, e consequentemente para histonas e proteína básica de mielina em tecidos fixados em ácidos fortes (fluido de Bouin ou fluido SUSA). Hematoxilina-zirconilo é seletivo para mucinas ácidas.Outra solução corante é ácido fosfotúngstico e hematoxilina, uma mistura de hematoxilina com ácido fosfotúngstico.
+É de se notar que a coloração histológica pela hematoxilina não indica tanto a constituição química dos componentes celulares, senão a densidade de cargas elétricas negativas dos mesmos.
+Atua como um indicador complexométrico para cobre.
+
+
+== Soluções corantes de hematoxilina ==
+
+
+=== Soluções de alúmen hematoxilina ===
+As duas principais soluções de hematoxilina empregadas são a hematoxilina de Ehrlich e a hematoxilina de Harris. Soluções de hematoxilina alúmen dão ao núcleo uma coloração azul transparente luminosa a qual rapidamente torna-se vermelha na presença de um ácido.
+Alúmen ou sulfato de alumínio e potássio usado como mordente normalmente dissocia-se em uma solução alcalina, combinando com OH− da água para formar hidróxido de alumínio insolúvel. Na presença de excesso de ácido, hidróxido de alumínio não pode se formar então falha a formação da laca corante alumínio hematoxilina, devido a falta de íons OH−. Então, solução ácidas de alúmen hematoxilina tornam-se vermelhas. Durante coloração de seções por alúmen hematoxilina estas são passadas por uma solução alcalina (e.g. hidróxido 1%) de maneira a neutralizar o ácido e tornar livre o grupo OH, para formar uma laca azul insolúvel de alumínio hematoxilina-tecido. Tal procedimento é conhecido como blueing ("azular").
+Quando a água de lavagem não é suficientemente alcalina (como a água de torneira), ou quando á insatisfatório para "azular" a hematoxilina, uma água de lavagem substituta consistindo de 33.5 g NaHCO3 e 20 g MgSO4 em um litro de água com acréscimo de pequena quantidade de timol (para evitar a proliferação de fungos) é usada para acelerar o "azular" de finas seções em parafina. Tal solução é chamada um diferenciador. O uso de água muito fria retarda o processo enquanto o uso de água morna o acelera. De fato, o uso de água abaixo dos 10 °C para "azular" seções pode produzir descolorações róseas no tecido.
+
+
+==== Hematoxilina de Ehrlich ====
+Hematoxilina de Ehrlich é um hematoxilina oxidada ao ar com um grande excesso de alume. A formulação original de 1886 é:
+
+Água 100 ml
+Álcool absoluto 100 ml
+Glicerol 100 ml
+Ácido acético glacial 10 ml
+Hematoxilina 2gSulfato de alumínio e potássio (alume) à saturação na soluçãoDeixar repousar um mês antes de usar. Mantém-se por anos.
+Uma formulação apresentada como alternativa é dada por:
+Hematoxilina 6 g
+Álcool absoluto 300 ml
+Água destilada 300 ml
+Glicerol 300 ml
+Ácido acético glacial 30 ml
+Sulfato de alumínio e potássio ou sulfato de alumínio e amônio 30 g
+Iodato de sódio 0,9 gDissolve-se a hematoxilina no álcool e deixa-se repousar por uma noite antes de adicionar os outros ingrediente na ordem apresentada. Então mistura-se a solução de hematoxilina. A adição do iodato de sódio artificialmente oxida a hematoxilina e ela pode ser usada imediatamente. Alternativamente, iodato de sódio pode ser eliminado da formulação e a mistura oxidada por exposição a temperaturas mais altas na luz do sol por dois meses. A oxidação naturalmente obtida tem uma durabilidade mais longa.
+
+
+===== Aplicações específicas da hematoxilina de Ehrlich =====
+Esta solução é usada para exames de danos na pele de peixes (como o Clarias batrachus) pela exposição à arsênio, conjuntamente com a eosina.
+
+
+==== Hematoxilina de Harris ====
+
+
+===== Ingredientes =====
+Hematoxilina 5 gramas
+Sulfato de alumínio e amônio 100 gramas
+Álcool etílico 95% 50 ml
+Óxido de mercúrio vermelho 2,5 gramas
+Água destilada 1 litro
+
+
+===== Método =====
+Dissolver na véspera da preparação final a hematoxilina no álcool.
+Dissolver o sulfato de alumínio e amônio em metade da quantidade final de água a quente (70 a 80 °C).
+Levar a solução de água com o sulfato de alumínio e amônio a fervura. Desligar a fonte de calor.
+Acrescentar de maneira cuidadosa e lenta, com constante agitação, a solução de hematoxilina no álcool na solução quente de sulfato de alumínio e amônio, evitando a ebulição violenta da solução alcoólica acrescentada.
+Após o término do acréscimo da solução de hematoxilina, e completa homogenização, ferver novamente a mistura por mais 10 minutos.
+Acrescentar lenta e cuidadosamente óxido de mercúrio, pitada após pitada, pois formará focos de ebulição e poderá produzir ebulição um tanto violenta.
+Após o acréscimo do óxido, ferver por mais 10 minutos. Aqui, a solução começará, após aproximadamente um minuto, a tornar-se púrpura
+Acrescentar o restante da água (aproximadamente 500 ml) complementando a formulação e resfriando rapidamente a mistura.
+Filtar em papel filtro após o esfriamento a temperatura ambiente e envasar em frascos de vidros âmbar.
+
+
+===== Cuidados =====
+Usar preferencialmente equipamento de vidro borossilicato e jamais recipientes de alumínio para preparar a solução de sulfato de alumínio e amônio. Observar que diversas das etapas podem produzir ebulições violentas, por diferenças de pontos de ebulição e acréscimo de material finamente dividido à água quente.
+
+
+===== Para o uso =====
+Antes de usar acidificar com 10 a 40 ml de ácido acético glacial para cada litro de solução corante produzida (ou 1 a 4 para porções menores de 100 ml, por exemplo).
+
+
+==== Hematoxilina de Mayer ====
+A formulação desta solução de hematoxilina é:
+Hematoxilina 1,0 g
+Água destilada 1 L
+sulfato de alumínio e amônio ou alúmen de potássio 50,0 g
+Ácido cítrico 1,0 g
+Hidrato de cloral 50,0 g
+Iodato de sódio 2,0 gA hematoxilina, o alúmen de amônio ou potássio são dissolvidos em água destilada. O hidrato de cloral e o ácido cítrico são adicionados e a mistura fervida por 5 minutos, esfriada e filtrada. A solução corante está pronta para uso imediato.
+Esta solução é utilizada em conjunto com solução de azul celestina (celestin blue) em técnica modificada por Lendrum & W. Farlane.
+
+
+=== Hematoxilina Ferrosa de Weigert ===
+Também chamada de hematoxilina ferro de Weigert. Compõe-se de duas soluções:
+Solução A:Hematoxilina 1 g
+Álcool absoluto 100 mlSolução B:Solução aquosa de cloreto férrico a 30% 4ml
+Água destilada 100 ml
+Ácido clorídrico concentrado 1 mlMisture partes iguais de soluções A e B imediatamente antes de usar..
+É usada para colorir os núcleos das células e bactérias!
+
+
+=== Hematoxilina-Ácido Fosfotúngstico ===
+
+
+==== Ingredientes ====
+Hematoxilina 1 grama
+Ácido fosfotúngstico 20 gramas
+Água destilada 1 litro
+
+
+==== Método ====
+Dissolver os ingredientes em porções separadas de água, sendo a hematoxilina com a ajuda de um pouco de aquecimento.
+Esfrie e combine os ingredientes agora dissolvidos. É de se observar que nenhum conservante é necessário.
+Oxidação espontânea requer algumas semanas, mas a adição de 0,177 gramas de permanganato de potássio irá acelerar o processo de maneira quase instantânea.
+
+
+=== Hematoxilina de Heidenhain ===
+Uma parte de hematoxilina a 0,5% em etanol e alúmen-ferro a 4% em água (partes iguais de cada), 1 parte de álool a 95% e 2 parte de ácido acético glacial.
+
+
+== Referências ==
+
+
+== Ver também ==
+Eosina é azul

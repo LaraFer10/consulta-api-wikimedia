@@ -1,0 +1,32 @@
+Ronald Aylmer Fisher, FRS (Londres, 17 de fevereiro de 1890 — Adelaide, 29 de julho de 1962) foi um estatístico, biólogo evolutivo e geneticista inglês.
+Foi descrito por Anders Hald como "um gênio que criou praticamente sozinho as fundações para a moderna ciência estatística" e Richard Dawkins, que o descreveu como "o maior dos sucessores de Darwin".Complementando a medida de informação própria para medir incerteza sobre espaços desordenados — proposta com sucesso pela teoria da informação, e publicada em 1949 por Claude Shannon (1916-2001) e Warren Weaver (1894-1978) no livro Teoria matemática da comunicação (The Mathematical Theory of Communication) —, Fisher criou uma medida alternativa de informação apropriada para medir incerteza sobre espaços ordenados.
+
+
+== Carreira ==
+Após se formar em matemática em 1912 pela Universidade de Cambridge, Fisher começou a trabalhar para uma empresa de seguros em Londres em 1913 e após se tornou professor no ensino médio e continuou sua pesquisa na area de estatística. 
+Em 1919, Fisher se envolveu com pesquisa agrícola no centro de experimentos de Rothamsted Research em Harpenden na Inglaterra e desenvolveu novas metodologias e teoria no ramo de experimentos.
+Durante sua vida, Fisher escreveu 7 livros e publicou cerca de 400 artigos acadêmicos em estatística e genética e é considerado o biologista mais conhecido depois de Charles Darwin.
+
+
+== Referências ==
+
+ALDRICH, John (1997). «R.A. Fisher and the making of maximum likelihood 1912-1922». Statistical Science. 12 (3): 162-176. doi:10.1214/ss/1030037906 
+BOX, Joan Fisher. R. A. Fisher: The Life of a Scientist. Nova York: Wiley, 1978. ISBN 0-471-09300-9.
+HOWIE, David. "Interpreting Probability: Controversies and Developments in the Early Twentieth Century". Cambridge University Press, 2002.
+SALSBURG, David. The Lady Tasting Tea: How Statistics Revolutionized Science in the Twentieth Century, 2002. ISBN 0-8050-7134-2
+
+
+== Bibliografia ==
+
+
+=== Biografias de Fisher ===
+BOX, Joan Fisher. R. A. Fisher: The Life of a Scientist. Nova York: Wiley, 1978. ISBN 0-471-09300-9. Prefácio
+YATES, Frank e MATHER, Kenneth. "Ronald Aylmer Fisher".  Biographical Memoirs of Fellows of the Royal Society of London 9:91-120, 1963 Disponível no websítio da Universidade de Adelaide
+
+
+== Ligações externas ==
+(em inglês) Um Guia para R. A. Fisher por John Aldrich
+(em inglês) Earliest Known Uses of Some of the Words of Mathematics for Fisher’s contribution to the language of statistics
+(em inglês) University of Adelaide Library (bibliografia, biografia, artigos e correspondência)
+(em inglês) Classics in the History of Psychology para a primeira edição de Statistical Methods for Research Workers
+(em inglês) Coletânea de citações de Fisher reunidas por A. W. F. Edwards

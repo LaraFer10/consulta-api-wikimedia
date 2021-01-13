@@ -1,0 +1,12 @@
+Pro-AG, ou genética pro-ativa, é uma genética dirigida bacteriana que incorpora um mecanismo de auto-amplificação que aumenta a sua eficiência através de um circuito fechado de realimentação positiva. Este sistema, baseado em CRISPR, tem como alvo genes amplificados resistentes a antibióticos. Este sistema de  genética dirigida foi desenvolvido para a bactéria Escherichia coli, que copia eficientemente uma fita de gRNA e uma carga adjacente flanqueada com sequências homólogas ao local de clivagem de gRNA/Cas9 alvo.
+
+
+== Pro-AG vs. CRISPR/Cas ==
+O núcleo do Pro-AG apresenta uma modificação da tecnologia padrão de edição de genes CRISPR-Cas9 no DNA. O Pro-AG trabalha com um mecanismo de reparo de corte e inserção para interromper a atividade do gene resistente a antibióticos com pelo menos duas ordens de magnitude maior que os métodos atuais de corte e destruição.
+
+
+== Mecanismo ==
+Os genes que conferem resistência a antibióticos (AR) em bactérias são frequentemente transportados em elementos circulares de mini-cromossomo, chamados plasmídeos. O corte específico do local desses plasmídeos usando o sistema CRISPR, que resulta na destruição do plasmídeo, é usado para reduzir a incidência de RA em aproximadamente 100 vezes. A genética pró-ativa  emprega um mecanismo eficiente de cortar e colar que insere um cassete de gene no gene que confere AR, interrompendo assim sua função. O cassete doador Pro-AG é flanqueado com sequências correspondentes ao seu alvo AR para iniciar o processo. Uma vez inserido no gene alvo da AR, o elemento Pro-AG se copia por meio de um mecanismo auto-amplificador, levando a uma redução de aproximadamente 100.000 vezes nas bactérias AR.
+
+
+== Referências ==

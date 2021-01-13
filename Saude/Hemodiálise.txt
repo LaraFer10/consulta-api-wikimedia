@@ -1,0 +1,59 @@
+A hemodiálise é um tratamento que consiste na remoção do líquido e substâncias tóxicas do sangue, como se fosse um rim artificial. É o processo de filtragem e depuração de substâncias indesejáveis do sangue como a creatinina e a ureia. A hemodiálise é uma terapia de substituição renal realizada em pacientes portadores de insuficiência renal crônica ou aguda, já que nesses casos o organismo não consegue eliminar tais substâncias devido à falência dos mecanismos excretores renais.
+
+
+== Introdução ==
+Hemodiálise é a separação por diálise. É um processo lento que depende das diferenças entre o tamanho das partículas e entre os índices de difusão dos componentes coloidais e cristaloidais. Quando uma mistura é posta num recipiente de colódio, pergaminho ou celofane e submersa em água, os íons e pequenas moléculas atravessam a membrana, deixando as partículas coloidais no interior do recipiente. 
+
+Na hemodiálise, o sangue é obtido por um acesso vascular, unindo uma veia e uma artéria superficial do braço (cateter venoso central ou fístula artério-venosa) e impulsionado por uma bomba até o filtro de diálise, também conhecido como dialisador. No dialisador, o sangue é exposto à solução de diálise (também conhecida como dialisato) através de uma membrana semipermeável, permitindo assim, as trocas de substâncias entre o sangue e o dialisato. Após ser retirado do paciente e filtrado pelo dialisador, o sangue é então devolvido ao paciente pelo acesso vascular.
+As máquinas de hemodiálise possuem vários sensores que tornam o procedimento seguro e eficaz. Os principais dispositivos presentes nas máquinas de diálise são: monitor de pressão, temperatura, condutividade do dialisato, volume de ultrafiltração, detector de ar, etc.
+Uma sessão convencional de hemodiálise tem, em média, a duração de 4 horas e frequência de três vezes por semana. Entretanto, de acordo com as necessidades de cada paciente, a sessão de hemodiálise pode durar três horas e meia ou até mesmo cinco horas, e a frequência pode variar de duas vezes por semana até hemodiálise diária em casos selecionados.
+
+
+== Mecanismos de transferência de massas ==
+Difusão : Solutos urêmicos e potássio, difundem-se do sangue do paciente para a solução de diálise, obedecendo a um gradiente de concentração.Ultrafiltração: Uma pressão hidrostática maior no compartimento do sangue e menor no compartimento do dialisato favorece a passagem de líquido do sangue para o dialisato, permitindo a retirada de volume do paciente.Convecção: A diferença de pressão entre o compartimento do sangue e o dialisato favorece a saída de líquidos do sangue, arrastando consigo solutos de baixo peso molecular. Esse arraste de solutos é conhecido como convecção.Absorção: É a impregnação de substâncias nas paredes da membrana semipermeável.
+
+
+== Dialisador ==
+Existem dois modelos básicos de dialisadores:
+placas paralelas e capilares de fibras ocas, e é onde
+ocorrem as trocas por difusão e a ultrafiltração do plasma.
+O filtro é constituído por dois compartimentos: um por onde circula o sangue e outro por onde passa o dialisato. Esses compartimentos são separados por uma membrana semipermeável e o fluxo de sangue e dialisato são contrários, permitindo maximizar a diferença de concentração dos solutos em toda a extensão do filtro.
+As membranas são compostas por diferentes substâncias: celulose, celulose modificada (celulose acrescida de acetato) e substâncias sintéticas (polissulfona, etc). Existem diferentes tipos de filtros, cada um com características próprias como por exemplo, de ureia e maior ou menor área de superfície. Assim, podemos escolher um determinado filtro de acordo com as condições clínicas e necessidades de cada paciente. A escolha do dialisador é dada pelo peso do paciente, pela tolerância à retirada de volume e pela dose de diálise necessária.
+Atualmente os dialisadores passam por uma prática segura de reprocessamento, que limpa, analisa a  performance e esteriliza o mesmo. Os dialisadores são reutilizados sempre pelo mesmo paciente.
+A fim de evitar riscos de contaminação, porém, doentes com sorologia HIV+ não são enquadrados na prática de reutilização do dialisador.
+Uma das substancias usadas na esterilização é o Ácido peracético, pois é uma substância que possui característica bactericida, virucida e esporicida, possui, portanto, alta eficácia no que diz respeito à esterilização do sistema e é a mais utilizada atualmente. Fonte: https://www.portaleducacao.com.br/conteudo/artigos/educacao/reutilizacao-de-dialisadores/17562
+O ácido peracético, é um produto tóxico e corrosivo e consiste em uma mistura equilibrada entre água, ácido acético e peróxido de hidrogênio.  Age de forma semelhante aos agentes oxidantes como o peróxido de hidrogênio. Com sua ação esporicida em temperaturas baixas e mesmo em presença de matéria orgânica; os materiais esterilizados por este meio devem ser utilizados imediatamente. Fonte: http://www.hospvirt.org.br/enfermagem/port/acido.html
+O ácido peracético, por ser tóxico, possui um cheiro forte e prejudicial ao sistema respiratório como laringe e faringe, se inalado diversas vezes. Deve-se manuseá-lo com equipamentos de proteção individual (EPI), inclusive com mascara respiratória com filtro EPI. 
+Especialistas atribuem as maiores taxas de sobrevivência dos dialisadores de alto fluxo à mais eficiente filtração de toxinas urêmicas de maior peso molecular.  Membranas de alto fluxo tem maior permeabilidade a água e apresentam poros que são quase três vezes maiores do que as membranas de baixo fluxo.  A capacidade de filtração das membranas de alto fluxo é mais semelhante às funções naturais do rim e permite a remoção de maiores quantidades de líquido e toxinas urêmicas em um curto período de tempo.  Dialisadores de alto fluxo também ajudam a preservar a função residual do rim por período de tempo maior.
+
+
+== Dialisato ==
+A solução de diálise contém solutos (sódio, potássio, bicarbonato, cálcio, magnésio, cloro, acetato, glicose, pCO2) que entram em equilíbrio com o sangue durante o processo dialítico, mantendo assim a concentração sérica desses solutos dentro dos limites normais.
+É importante ressaltar que a água usada durante a diálise deve ser tratada e sua qualidade monitorada regularmente. A presença de compostos orgânicos (bactérias) e inorgânicos (alumínio, flúor, cloramina, etc.) podem causar sintomas durante a hemodiálise ou induzir alterações metabólicas importantes.
+A máquina de hemodiálise mantém controle total sobre o dialisato, como nível de condutividade e temperatura da solução, a fim de evitar possíveis complicações durante o tratamento.
+
+
+== Eficiência da Hemodiálise ==
+Kt/V de ureia é a proporção entre o volume de líquido orgânico depurado de ureia e o volume hídrico do paciente
+Equação de Daurgidas II:
+
+Kt/V = - Ln (R - 0,008 x t) + [4 - (3,5 x R)] x UF/P
+Kt/V > 1,2 boa eficiência
+Kt/V < 0,8 baixa eficiênciaOnde: Ln=logaritmo natural; t= tempo (h); R= nitrogênio ureico sérico pós-diálise ÷ pré-diálise; UF: volume ultrafiltrado (L), P: peso pós-diálise (kg)
+
+
+== Anticoagulação ==
+A anticoagulação deve ser feita para evitar a coagulação do sangue no circuito de diálise. Pode-se usar heparina não fracionada ou de baixo peso molecular, com infusão em bolus ou mesmo de maneira contínua. A diálise sem heparina deve ser usada sempre em pacientes com alto risco para sangramento. Para isso utiliza-se alto fluxo de sangue e lavagem do circuito com soro fisiológico a cada 30 minutos. Os fatores que favorecem a coagulação do sistema são: baixo fluxo de sangue, hematócrito alto, cateter endovenoso, alta taxa de ultrafiltração e transfusões intradialíticas.
+O paciente não recebe anticoagulação quando a pressão arterial diastólica estiver acima de 110mmHg, exemplo: 190x120mmHg; uma vez que tal situação aumenta o risco para a ocorrência de um acidente vascular encefálico hemorrágico.
+
+
+== Conceitos ==
+Hemodiálise: a solução de diálise passa pelo filtro, ocorrendo trocas de solutos com o sangue por difusão, ultrafiltração e convecção. Nesse processo, a quantidade de líquido removida é de 3 a 6 litros, levando de três a cinco horas em terapia convencional.Hemofiltração: não se usa a solução de diálise, ocorrendo somente a ultrafiltração e convecção. Nesse caso, é utilizado dialisador de alto fluxo, ou seja, bastante permeável à água. Sendo assim, o volume de líquido retirado do paciente é de 30 a 50 litros por dia. Por esse motivo é infundida uma solução de reposição a fim de compensar a variação de volume.Hemodiafiltração: é a combinação da hemodiálise e hemofiltração. Usa-se solução de diálise e filtro de alto fluxo permitindo uma ultrafiltração de 30 a 50 litros por dia, com a necessidade de se utilizar solução de reposição.
+
+
+== Referências ==
+
+
+== Ligações externas ==
+O que é Hemodiálise
+Recomendações Técnicas para Serviço de hemodiálise[ligação inativa]

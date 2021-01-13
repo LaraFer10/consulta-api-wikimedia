@@ -1,0 +1,22 @@
+O National Institute of Standards and Technology (NIST) (em português:  Instituto Nacional de Padrões e Tecnologia), anteriormente conhecido como The National Bureau of Standards, é uma agência governamental não regulatória da administração de tecnologia do Departamento de Comércio dos Estados Unidos. A missão do instituto é promover a inovação e a competitividade industrial dos Estados Unidos, promovendo a metrologia, os padrões e a tecnologia de forma que ampliem a segurança econômica e melhorem a qualidade de vida.
+
+
+== Colaboração com a NSA ==
+Em 2013, seguindo as revelações de Edward Snowden, o The Guardian e o The New York Times revelaram que o National Institute of Standards and Technology (NIST) permitiu que a Agência de Segurança Nacional (NSA) acrescentasse ao padrão NIST SP 800-90, um gerador de números pseudo-aleatórios chamado Dual EC DRBG, que cria uma backdoor (falha de segurança em um programa ou sistema operacional) que permite que a NSA possa decifrar secretamente material que foi criptografado com a ajuda deste gerador de números pseudo-aleatórios inserido no padrão NIST SP 800-90.Temendo a ampla adoção de criptografia, foi que a NSA tomou a atitude de influenciar furtivamente e enfraquecer os padrões de criptografia junto as organizações responsáveis pelos padrões, entre elas o National Institute of Standards and Technology.Os relatórios revelados mostram que NSA trabalhou secretamente para obter a sua própria versão de SP 800-90 aprovado para uso em todo o mundo em 2006. Os documentos afirmam que  "afinal, a NSA se tornou o único editor" do padrão aprovado pelo NIST.  Os relatórios confirmam as suspeitas levantadas por criptógrafos, em 2007, de que a NSA teria  colocado, secretamente, uma backdoor na norma.
+Segundo o New York Times, "em 2006, um documento da NSA que a agência havia quebrado a segurança das comunicações de três companhias aéreas estrangeiras, de um sistema de reserva de viagens, do departamento nuclear de um governo estrangeiro e do serviço de Internet de outro, violando as redes virtuais privadas  que os protegiam.
+
+
+== Ver Também ==
+Bullrun (Programa de decriptografia)
+Operações de acesso adaptado
+HTTPS
+IPsec
+Voz sobre IP
+Transport Layer Security
+
+
+== Referências ==
+
+
+== Ligações externas ==
+«Sítio oficial do NIST» (em inglês)

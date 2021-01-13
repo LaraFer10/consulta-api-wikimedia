@@ -1,0 +1,54 @@
+Cadeia respiratória ou cadeia transportadora de elétrons é uma das etapas da respiração celular, que se caracteriza pelo transporte de elétrons em uma compilação de moléculas fixadas na membrana interna da mitocôndria de células eucarióticas até um aceptor final de elétrons, em várias etapas liberadoras de energia para síntese de ATP (adenosina trifosfato). Em organismos procariotos aeróbios, essas moléculas residem na membrana plasmática.
+
+
+== História ==
+Peter Mitchell (1920-1992) foi o responsável por uma das mudanças em termos de paradigma mais consideráveis na bioquímica. Com seu trabalho ele trouxe a hipótese da quimiosmótica, que conectou o transporte biológico de elétrons à síntese do ATP. Ele era em síntese um bioquímico teórico, apesar de ter gerado dados experimentais para apoiar sua teoria.
+A ideia da cadeia respiratória foi formulada por David Keilin em Cambridge, pelo qual Mitchell se interessou já que ele era atraído pela ideia da compartimentalização nas células vivas e pelo aspecto vetorial (ou de mão única) dos processos metabólicos. Ele raciocinava que deveriam existir enzimas que, como os transportadores, convertiam um substrato de um lado da membrana em produto do outro lado.
+Utilizando evidências de outros cientistas a respeito da formação de um gradiente de pH pela cadeia respiratória, Mitchell explicou como esse gradiente impulsionava a síntese de ATP, propondo em seu artigo original, em 1961, que a cadeia respiratória associada às cristas mitocondriais gerava uma força próton-motiva, em consequência da diferença elétrica e de pH, por meio da membrana. Essa força impulsionava uma ATPase, trabalhando no sentido contrário, catalisando a condensação do fosfato com o ADP, formando ATP.
+Sua hipótese obteve grande resistência por parte de outros bioquímicos, primeiramente por ser um conceito teórico sem evidências experimentais diretas e em segundo lugar, porque o estudo da cadeia respiratória e da fosforilação oxidativa era dominado por poucos e poderosos laboratórios, que não tinha inclinação ao surgimento de novas teorias.
+Os estudos da epóca, desde 1940, centravam-se nas atividades das enzimas solúveis e as teorias predominantes sobre a conexão entre o transporte de elétrons e a síntese de ATP, focavam-se em um composto fosforilado, como sendo um intermediário de alta energia.
+Fritz Lipmann propôs que um grupo fosfato de alta energia poderia se ligar a algum componente da cadeia respiratória. Essa hipótese  foi aperfeiçoada, mais tarde, envolvendo um intermediário fosforilado solúvel. A busca por esse composto durou 20 anos, gerando  gasto de tempo e dinheiro por parte de alguns pesquisadores relutantes a proposta de Mitchell.
+Uma terceira teoria envolvia o transporte de elétrons acoplado à síntese de ATP, por meio de mudanças conformacionais proteicas, com o gradiente de pH, apresentado com um subproduto do processo.
+Somente após 10 anos da sua publicação, Mitchell conseguiu um apoio significativo. Durante esse período de grandes debates, Mitchell adoeceu e se mudou para a Cornuália e lá reformou um casarão, do qual parte se tornou um laboratório privado conhecido como “Glnn Research”, financiado pela fortuna de sua família. Foi nesse local, onde ele e sua colaboradora de toda a vida, Jennufer Mayle, conseguiram evidências experimentais para apoiar a quimiosmótica. Por fim, sua teoria foi confirmada por outros pesquisadores, que demonstraram a atividade de bombeamento de prótons por componentes mitocondriais purificados, resconstituídos em lipossomos. Mitchell ganhou o Prêmio Nobel de Química, em 1978, mas é importante enfatizar que Mitchell se recusava em alterar qualquer uma de suas ideias, e por muitos anos ele se recusou a reconhecer o bombeamento de prótons, propondo um mecanismo denominado “alça redox”. Além disso ele nunca largou sua crença de que os prótons participavam diretamente na fosforilação do ADP no sítio ativo da ATP-sintase.
+
+
+== Local onde ocorre ==
+As mitocôndrias possuem uma membrana externa que é permeável a maioria dos metabólitos, que conta com a presença de diversas enzimas, das quais incluí-se a acil-CoA sintetase e a glicerolfosfato aciltransferase e outra membrana interna que tem permeabilidade seletiva, que envolve uma matriz, nela estão presentes o fosfolípideo cardiolipina, as enzimas da cadeia respiratória, à ATP-sintase e vários transportadores de membrana.
+
+
+== Componentes da cadeia respiratória ==
+Os elétrons removidos do substrato (glicose, por exemplo) são passados a um carregador de elétrons, uma coenzima chamada de NAD+ (Dinucleótideo de nicotinamina e adenina), que é um derivado da vitamina niacina, funcionando como um agente oxidante durante as etapas anteriores da respiração, que é reduzido a NADH ao receber o par de elétrons e dois prótons do substrato. Esses elétrons removidos serão transportados pelo NADH ao “topo”, extremidade de alta energia da cadeia respiratória, que seguirá até a parte “inferior” da cadeia, que é a extremidade de baixa energia, onde encontrará o aceptor final de elétrons.Dessa forma, temos que o fluxo de elétrons na cadeia respiratória é realizado por intermédio de um espectro redox do NAD+/NADH para O2/H2O, passando por três grandes complexos proteicos. São eles o  NADH-Q oxidorredutase (Complexo I), nele os elétrons são transferidos do NADH para a coenzima Q (Q), conhecida como ubiquinona, o Q-citocromo e c-oxidorredutase (Complexo III), que transfere os elétrons adiante para o citocromo c e o citocromo c-oxidase (Complexo IV), completando a cadeia, onde os elétrons são transferidos para o O2, que é reduzido para H2O.Determinados substratos com potencial redox mais positivos que o  NAD+/NADH, como por exemplo o succinato, passam os elétrons do Complexo I para a coenzima Q, por meio de um quarto complexo, o succinato-Q redutase (Complexo II). Todos os complexos estão localizados na membrana interna da mitocondria, porém a coenzima Q, difunde-se rapidamente dentro na membrana e o citocromo c, é uma proteína solúvel, portanto ambos são móveis. Esse fluxo de elétrons pelos Complexos I, III e IV, tem como resultado o bombeamento de prótons a partir da matriz, por intermédio da membrana mitocondrial interna para o interior do espaço intermembranas.  O aumento da concentração de H+ no espaço intermembranar promoverá a difusão dos prótons de volta ao interior da mitocôndria, por canais proteicos específicos, as sintetases de ATP, promovendo a fosforilação de ADP em ATP.
+
+
+== Energia liberada ==
+Se compararmos a reação exergônica, de etapa única, do hidrogênio com o oxigênio, formando água, temos uma grande quantidade de energia na forma de calor e luz sendo liberada numa explosão. No caso da respiração celular, essa mesma reação ocorre, contudo em etapas ou passos, onde essa cadeia transportadora de elétrons freia a “queda” dos elétrons durante várias etapas, num movimento em cascata de uma molécula carreadora para a seguinte, em uma série de reações redox, na qual pequenas quantidades de energia são liberadas por etapa, até alcançarem o oxigênio, que é o aceptor final de elétrons, que tem grande afinidade por elétrons. Isso permite que haja o armazenamento de parte dessa energia liberada, de forma que possa ser utilizada na produção de ATP e parte seja liberada na forma de calor. Nessa transferência de elétrons iniciada pelo NADH há uma mudança de energia livre na ordem de -53 kcal, equivalente a -222 kJ/molÉ importante enfatizar que cada carreador do nível “mais baixo”, é mais eletronegativo, que o anterior, tendo em consequência uma maior “capacidade” oxidativa que o carreador do nível “superior” anterior. Há portanto, uma queda no gradiente de energia  na cadeia transportadora de elétrons, até uma posição mais estável no átomo de oxigênio eletronegativo. Uma analogia possível é a de que o oxigênio puxa os elétrons cadeia abaixo, promovendo uma queda produtora de energia, de forma análoga à ação da gravidade.
+
+
+== Doenças relacionadas a cadeia respiratória ==
+A maioria das doenças mitocondriais, considerando as mais comuns e estudadas são aquelas que afetam a cadeia respiratória. Essas doenças são classificadas geneticamente por três tipos:
+
+Aparecimento esporádico (por rearranjos do DNAmt - duplicações ou deleções);
+Herança materna (tipicamente por mutações de ponto no DNAmt);
+Herança mendeliana (tipicamente por defeitos do DNA nuclear).
+
+
+=== Aparecimento esporádico ===
+São as Síndrome de Kearns-Sayre (SKS), Oftalmoplegia externa crônica progressiva (OECP) e Síndrome de Pearson. A variante mais grave é a síndrome de Kearns-Sayre (SKS). Alguns indivíduos possuem uma forma atípica da doença, conhecida como Síndrome de Pearson. Todas essas variantes são causadas pela deleção ou duplicação do DNAmt, acarretando prejuízos a cadeia respiratória.
+
+
+=== Herança Materna ===
+Epilepsia mioclônica e miopatia com RRF (MERRF), Encefalomiopatias mitocondriais, acidose láctica e episódios similares a acidentes vasculares cerebrais (MELAS), doença de Leigh e neuropatia, ataxia, retinite pigmentosa (NARP), Neuropatia óptica hereditária de Leber (LHON). A doença de Leigh está associada a anormalidades nos nervos cranianos, disfunção respiratória, retinopatia pigmentosa e ataxia. Duas mutações do DNAmt são as mais importantes causas da NARP, a T8993G ou a T8993 no gene da ATPase 6. No caso, a mutação T8993G é a mais freqüente e causa a substituição do aminoácido leucina por arginina na cadeia polipeptídica da ATPase 6, gerando uma disfunção na síntese de ATP. A LHON é caracterizada pela perda da acuidade visual central, indolor e de instalação aguda ou subaguda, ocorrendo usualmente dos 12 aos 30 anos de idade. A mutação mais comum dessa doença é a A11778G, que modifica um gene de uma das subunidades protéicas do Complexo I da cadeia respiratória (ND4). Essa mutação causa a troca do aminoácido arginina por histidina na posição 340 da cadeia polipeptídica codificada por esse gene.
+
+
+=== Herança mendeliana ===
+As doenças mitocondriais causadas por herança mendeliana são as de maiores efeitos na cadeia respiratória, pois o DNA nuclear (DNAn) é o responsável pela síntese de 85% das proteínas da cadeia respiratória, enquanto o DNAmt é responsável por apenas 15% da síntese proteica. Sendo assim, as doenças mitocondriais de aparecimento esporádico e por herança materna, afetam apenas 15% da síntese proteica já que estão relacionadas a rearranjos, duplicações, deleções ou mutações de ponto do DNAmt.
+
+
+== Referências ==
+
+
+== Ligações externas ==
+Animation: The respiratory chain: The electron transport chain [1]
+Animação: Cadeia respiratória [2]
+Cadeia transportadora de elétrons e fosforilação oxidativa [3]
+Electron Transport System and ATP Synthesis [4]

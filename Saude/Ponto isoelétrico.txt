@@ -1,0 +1,46 @@
+Ponto isoelétrico, ponto isoeléctrico ou pI, é o valor de pH onde uma molécula, por exemplo, um aminoácido ou uma proteína, apresenta carga elétrica líquida igual a zero. Isso ocorre devido ao fato de que essas biomoléculas possuem grupos (como o COOH e o NH3+). O pI é o pH no qual há equilíbrio entre as cargas negativas e positivas dos grupamentos iônicos de um aminoácido ou de uma proteína. Esse ponto pode ser calculado com base na média aritmética entre os pHa's de cada um dos grupos funcionais do aminoácido, como mostra a equação abaixo.
+
+  
+    
+      
+        P
+        I
+        =
+        
+          
+            
+              p
+              
+                K
+                
+                  a
+                  1
+                
+              
+              +
+              p
+              
+                K
+                
+                  a
+                  2
+                
+              
+            
+            2
+          
+        
+      
+    
+    {\displaystyle PI={\frac {pK_{a1}+pK_{a2}}{2}}}
+  
+
+A diferença entre os valores de pI de proteínas pode ser utilizado para separá-las, submetendo-as a um gradiente de pH (que pode ser estabelecido num gel, por exemplo), gerando o efeito de migração eletroforética, técnica denominada focalização isoelétrica. Isso pode ser útil, por exemplo, para que se faça a análise dos aminoácidos presentes no leite de diferentes mamíferos.
+
+A Tabela 1 contém alguns valores de pontos isoelétricos de quatro aminoácidos (Glicina, Prolina, Tirosina, Arginina)
+
+
+== Ligações externas ==
+«Ponto isoelétrico - em linha» 
+«Ponto isoelétrico e curvas de Carga vs. pH de moléculas anfóteras como aminiácidos em planilha Excel programada» 
+«Proteome-pI - Banco de dados de ponto isoelétrico do proteoma»

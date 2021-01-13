@@ -1,0 +1,61 @@
+A lâmpada fluorescente é um tipo de lâmpada criada por Nikola Tesla, introduzida no mercado consumidor em 1938. Ao contrário das lâmpadas de filamento, possui grande eficiência por emitir mais energia eletromagnética em forma de luz do que calor.
+
+
+== Funcionamento ==
+
+As lâmpadas fluorescentes funcionam de modo semelhante aos tubos de descarga de gás néon, possuem um par de elétrodos em cada extremo. O tubo de vidro é coberto com um material à base de fósforo. Este, quando excitado com radiação ultravioleta gerada pela ionização dos gases, produz luz visível. Internamente são carregadas com gases inertes a baixa pressão, as mais comuns utilizam o árgon. Além da cobertura de fósforo, existem elétrodos em forma de filamentos nas suas extremidades. Sua função é pré-aquecer seu interior para reduzir a tensão elétrica necessária à ionização, dando a partida no processo de bombardeamento por íons positivos dos gases no interior do tubo.
+Quando a composição interna for à base de vapor de mercúrio, portanto não condutiva, deve ser aplicado um gradiente de tensão de algumas centenas de volts ao mesmo tempo que as extremidades são aquecidas. Acontecendo a descarga iónica, portanto a emissão de luz U.V. e esta excitando o fósforo da parede do tubo de vidro, não há mais necessidade de alta tensão entre os extremos do tubo, sendo reduzida para menos de 100 V, no caso de lâmpadas de baixa potência e no máximo 175 V em caso de lâmpadas de alta potência.
+A intensidade de corrente elétrica que passa através dos gases de baixa pressão emite grande quantidade de radiação U.V. no comprimento de onda de emissão do vapor de mercúrio. Esta é convertida em luz visível pela camada de fósforo que, dependendo da mistura aplicada, dará a tonalidade da coloração emitida.
+Uma lâmpada fluorescente, para funcionar, precisa de dois acessórios extra: O Arrancador (português europeu) ou Starter (português brasileiro) (que não é mais do que um relé térmico biestável) e o balastro (que é uma bobina para gerar a alta tensão necessária ao arranque e controlar a corrente consumida pela lâmpada).
+O arrancador só funciona no ato da ignição da lâmpada, ficando todo o resto do tempo desligado. Até pode ser retirado do circuito, que a lâmpada permanece acesa.
+
+
+== Aplicação ==
+As aplicações de lâmpadas fluorescentes vão desde o uso doméstico, passando pelo industrial, chegando ao uso laboratorial. Neste caso são largamente utilizadas sem cobertura de fósforo para equipamentos de esterilização por radiação ultravioleta (U.V.). Lembrando que após sua vida útil, as lâmpadas não podem ser utilizadas para outros fins, pois os gases armazenados no seu interior são muito prejudiciais ao meio ambiente. Quando quebrada o vapor de mercúrio pode contaminar e causar danos à atmosfera.
+
+
+== Eficiência e durabilidade ==
+Além de serem de duas a quatro vezes mais eficientes em relação às lâmpadas incandescentes, as fluorescentes chegam a ter vida útil acima de dez mil horas de uso, chegando normalmente à marca de vinte mil horas de uso, contra a durabilidade normal de mil horas das incandescentes. E também geram uma economia de 80% (lâmpada de 15 W fluorescente comparada a uma lâmpada incandescente de 60 W).
+
+
+== Poluição ==
+A lâmpada fluorescente não deve ser colocada no lixo comum, nem em aterros sanitários, porque possui mercúrio (elemento químico) e fósforo na sua composição. É classificada como contaminante químico. Caso tenha destino inadequado, a lâmpada fluorescente pode poluir o ar, solo, lençóis freáticos, rios, chuvas, animais e o homem, comprometendo a cadeia alimentar. Deve ser destinada a empresas de reciclagem.
+
+
+== Características ==
+
+Lâmpadas planas, finas como folhas de alumínio, que não precisam de suportes metálicos, superleves, podendo se adaptar a qualquer ambiente e servindo inclusive para aplicações médicas. Essa é a novidade apresentada por pesquisadores da Universidade de Illinois, Estados Unidos. As novas lâmpadas são formadas por um sanduíche de duas folhas de alumínio separadas por uma finíssima camada isolante de óxido de alumínio (safira). O que faz essa estrutura emitir luz é uma série de pequenas cavidades cheias de gás, que penetram a folha de alumínio superior e a camada de safira. Essas cavidades, com o formato de um diamante, são depósitos de plasma, que emitem luz sob a ação de uma corrente elétrica. O princípio é o mesmo das lâmpadas fluorescentes, só que as lâmpadas de plasma dispensam refletores e suportes. Por cima da folha superior de alumínio vai uma camada de vidro de 0,5 milímetro de espessura, com o lado interno recoberto por uma película de fósforo de 10 micrômetros de espessura. Com isso, todo o painel de lâmpadas de plasma tem uma espessura total de 0,8 milímetros. Construídos de folhas de alumínio, safira e minúsculas quantidades de gás, os painéis são finos e podem ser pendurados na parede como se fossem quadros.
+No atual estágio da pesquisa as lâmpadas de plasma têm uma eficiência de 15 lúmens por watt. Os pesquisadores afirmam ser possível chegar aos 30 lúmens por watt quando o projeto do painel e da geometria das microcavidades estiverem revisados. Uma lâmpada incandescente tradicional tem uma eficiência entre 10 e 17 lumens por watt. Embora o painel de lâmpadas de plasma seja seis vezes mais fino do que um painel de LEDs, o consumo de energia ainda não é o ideal. O gasto de energia das lâmpadas de plasma fica muito acima dos LEDs, em um nível intermediário entre as lâmpadas fluorescentes e as lâmpadas incandescentes.
+
+
+== Ver também ==
+Luz
+Lâmpada incandescente
+Luminotécnica
+Electricidade
+Lâmpada de iodetos metálicos
+Lâmpada de LED
+Fontes de luz
+Tubos de descarga de grande intensidade
+
+
+== Bibliografia ==
+Bright, Arthur Aaron (1949). The Electric-Lamp Industry: Technological Change and Economic Development from 1800 to 1947. [S.l.]: Macmillan Co 
+Emanuel Gluskin, “The fluorescent lamp circuit”, (Circuits & Systems Expositions)
+IEEE Transactions on Circuits and Systems, Part I: Fundamental Theory and Applications 46(5), 1999 (529–544).
+
+
+== Referências ==
+
+
+== Ligações externas ==
+
+Popular Science, January 1940 Fluorescent Lamps
+T5 Fluorescent Systems — Lighting Research Center Research about the improved T5 relative to the previous T8 standard
+NASA: The Fluorescent Lamp: A plasma you can use
+How Fluorescent Tubes are Manufactured no YouTube
+Museum of Electric Lamp Technology
+R. N. Thayer (25 de outubro de 1991). «The Fluorescent Lamp: Early U. S. Development». The Report courtesy of General Electric Company. Consultado em 18 de março de 2007. Arquivado do original em 24 de março de 2007 
+Wiebe E. Bijker,Of bicycles, bakelites, and bulbs: toward a theory of sociotechnical change MIT Press, 1995, Chapter 4, preview available at Google Books, on the social construction of fluorescent lighting
+Explanations and schematics of some fluorescent lamps
+«Plano de Gerenciamento Integrado de Resíduos Pilhas, Baterias e Lâmpadas - PGIRPBL» (PDF)

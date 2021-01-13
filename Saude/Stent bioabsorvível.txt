@@ -1,0 +1,30 @@
+Stent bioabsorvível, ou stent biodegradável, ou ainda stent de absorção natural, é um tipo de stent utilizado na angioplastia, fabricado a partir de materiais que podem ser absorvidos pelo sistema circulatório.
+
+
+== Antecedentes ==
+O uso de stents metálicos que liberam fármacos, os chamados stents farmacológicos, apresenta algumas desvantagens potenciais, tais como predisposição à formação tardia de trombos no stent, dificuldade tardia de adaptação ou expansão do vaso sanguíneo, impedimento da revascularização cirúrgica e comprometimento na obtenção de imagens por tomografia. Para superar essas possíveis desvantagens, foram desenvolvidos os stents bioabsorvíveis. Assim como os stents metálicos, a sua implantação dentro do vaso sanguíneo visa a restaurar o fluxo do sangue e auxiliar o processo de cicatrização. No entanto, diferencia-se dos outros tipos de stents, por ser gradualmente absorvido e expelido pelo corpo após alguns meses subsequentes ao implante, não deixando nenhum resíduo permanente dentro do vaso.
+Estudos demonstraram que o período mais crítico de cicatrização do vaso é concluído em aproximadamente três meses. Portanto, o objetivo de um stent bioabsorvível é permanecer íntegro e suportar totalmente o vaso durante este período crítico e, em seguida, ser absorvido pelo corpo, quando já não é mais necessário.
+
+
+== Materiais básicos ==
+As estruturas bioabsorvíveis incluem materiais de base que podem ser metais ou polímeros. Os mais amplamente utilizados têm como base os polímeros, material semelhante ao usado ​​em pontos cirúrgicos bioabsorvíveis.
+
+
+=== Base metálica ===
+Os stents metálicos mais comuns têm como base o ferro, o magnésio, o zinco e suas ligas.
+O stent de ferro foi pesquisado em 2011, utilizando o método de avaliação in vivo, implantado na aorta abdominal de um roedor da espécie murinae. O procedimento resultou na formação de uma cavidade circundada por óxido de ferro na parede vascular, levando a resultados indesejáveis, reduzindo significativamente o lúmen(biolog.) e gerando um ambiente potencial para a ruptura do endotélio depois da degradação do stent. Ocorreu uma biocorrosão significativa em 22 dias, com uma excessiva retenção do material oxidado na parede do vaso aos nove meses.O magnésio é um material cuja aplicação em stents bioabsorvíveis é relativamente recente. Apesar de se degradar sem apresentar riscos ao organismo, demonstrou possuir um tempo de degradação funcional de cerca de trinta dias in vivo, considerado curto, comparado a um período desejável de três a seis meses para stents bioabsorvíveis. Assim, pesquisou-se uma redução drástica na taxa de corrosão do magnésio através de novas ligas e revestimentos. Novos métodos surgiram para minimizar a taxa de penetração e evolução do hidrogênio (taxa de corrosão). Um dos mais bem sucedidos envolveu a descoberta de uma liga metálica amorfa bioabsorvível e vítrea, obtida com uma rápida solidificação durante o processo de produção. Outras soluções alternativas incluíram o desenvolvimento de ligas de magnésio/terra-rara (Mg-Re), que se beneficiam da baixa citotoxicidade do elemento químico rênio. Foram desenvolvidos novos revestimentos e  processamentos de outros materiais raros para tentar diminuir ainda mais a taxa de corrosão. No entanto, continuaram a ocorrer limitações para o desenvolvimento de biomateriais a partir do magnésio.O zinco apresentou um excelente comportamento de corrosão fisiológica, atingindo uma taxa de penetração de referência de vinte μm por ano. As pesquisas também concluíram que as ligas de zinco geralmente atendem ou mesmo excedem as expectativas de comportamento mecânico, como ductilidade e resistência à tração. Embora promissor, o uso deste material no campo da biomedicina é relativamente novo, sendo necessário um avanço adicional nas pesquisas para comprovar que é um material-base viável para uso em stents.
+
+
+=== Base polimerizada ===
+Outro tipo de stent utilizado amplamente é o de poliácido láctico (PLLA), base polimerizada que tem como propriedade principal para esta utilização, a capacidade de manter uma estrutura radialmente resistente, desintegrando-se ao longo do tempo e transformando-se em ácido lático, uma molécula orgânica que o corpo utiliza no seu metabolismo. Alguns tipos, como o Absorb, produzido pelo laboratório norte-americano Abbott, são construídos de forma a liberar substâncias imunossupressoras como o everolimo. São também desenvolvidas pesquisas de stents à base de outros polímeros, como a tirosina policarbonato e o ácido salicílico.
+
+
+== Pesquisas clínicas e utilização ==
+As pesquisas clínicas demonstraram que os stents bioabsorvíveis possuem a mesma eficácia e perfil de segurança dos stents farmacológicos. Estudos realizados entre 2008 e 2015, especificamente com o stent Absorb, comparando-o ao stent farmacológico Xience (ambos produzidos pelo laboratório Abbott), comprovaram que os principais eventos cardíacos adversos precoces e tardios, revascularizações e formação de trombos foram incomuns e similares nos dois tipos.Estudos de imagem mostraram ainda que o stent bioabsorvível Absorb começa a se dissolver entre seis e doze meses e é totalmente absorvido pelo organismo entre dois e três anos após o implante na artéria. Dois pequenos marcadores de platina permanecem para identificar a localização do procedimento original. Depois de dois anos, a artéria é capaz de dilatar-se e contrair-se normalmente, movimentos conhecidos como vasomotricidade [en], recuperando-se assim a condição original e saudável do vaso sanguíneo. Esta recuperação fica comprometida quando se usa os tipos convencionais de stents.As pesquisas no campo dos stents bioabsorvíveis continuam a ser feitas em pacientes por todo o mundo. No Brasil, o seu uso foi aprovado pela Anvisa em novembro de 2014.
+
+
+== Referências ==
+
+
+== Ligações externas ==
+Stent bioabsorvível é aprovado para o tratamento da doença arterial coronariana na Europa Augusto Celso A. L. Jr.; Expedito E. Ribeiro–Sociedade Brasileira de Cardiologia. Cópia arquivada.

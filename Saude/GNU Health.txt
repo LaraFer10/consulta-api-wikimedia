@@ -1,0 +1,58 @@
+GNU Health (chamava-se "Medical" até a versão 1.0.1) é um Sistema de Informações Hospitalares desenvolvido como software livre que usa um modelo centralizado de dados, por segurança e facilidade no manejo, e oferece as seguintes funcionalidades:
+
+Prontuário Eletrônico
+Sistema de Informações Hospitalares
+Sistema de Informações em Saúde
+Sistema de informações gerenciaisO GNU Health é desenvolvido na linguagem de programação Python e pode ser usado numa vasta gama de plataformas de hardware e sistemas operacionais. O banco de dados usado é o PostgreSQL e o sistema de informações gerenciais é o Tryton. A partir da versão 1.3.0 o GNU Health deixou de suportar o uso do sistema de informações gerenciais conhecido como OpenERP.
+
+
+== História ==
+O projeto GNU Health foi iniciado em 2008 por Luis Falcón para dar suporte a ações de promoção da saúde e educação para a saúde em áreas rurais. O projeto cresceu e tornou-se uma solução abrangente para organizações de Saúde de qualquer porte. Seu desenvolvimento hoje é feito por uma equipe multidisciplinar de colaboradores de todo o mundo. O GNU Health é um projeto da organização não governamental sem fins lucrativos GNU Solidário, dedicada a promover educação e saúde com software livre.
+
+
+== Declaração da Missão ==
+Proporcionar um ambiente informatizado multiusuário, estável, seguro, escalável e de qualidade alta num Sistema de Informação Hospitalar abrangente, baseado em Software Livre, disponível para médicos e organizações de todo o mundo e também acessível para países em desenvolvimento.
+
+
+== Uso ==
+O GNU Health foi elaborado para uso por organizações de Saúde para suportar a administração e a atividade clínica diária e produzir informações epidemiológicas.
+
+
+== Características ==
+O GNU Health usa uma arquitetura modular que, entre outras vantagens, é importante no controle do acesso para prevenir acessos não desejados, torna a execução do programa mais leve por usar apenas os módulos necessários à operação desejada e torna o programa extensível pela adição de módulos com novas funções e que podem ser desenvolvidos de forma independente.
+
+Medical: Implementa o modelo de dados e as funções básicas para pacientes, consultas, diagnósticos, anotações, vacinações, medicamentos e outros insumos e para a organização de saúde (incluindo estoques, fornecedores, colaboradores, etc.)
+Pediatria: Inclui suporte para Neonatologia e Pediatria geral e implementa o uso da Pediatric Symptoms Checklist.
+Ginecologia e Obstetrícia: suporta ações preventivas e o pré-natal, e registros dos períodos perinatal e do puerpério
+Estilo de vida: atividade física, dietas, abuso e dependência de drogas, incorpora as bases de dados do National Institute on Drug Abuse (NIDA) e a escala de Henningfield, sexualidade, fatores de risco, segurança doméstica, proteção da criança
+Genética: riscos hereditários; mais de 4200 "genes de doenças" das bases de dados do National Center for Biotechnology Information (NCBI) e dos GeneCards incorporadas ao sistema
+Informações socioeconômicas: Educação, ocupação, condições de moradia, áreas hostis, suporta ações contra o trabalho e a prostituição de crianças, entre muitas outras
+Internações: suporta o admissões hospitalares com manejo de leitos e planos de tratamento e de Enfermagem
+Cirurgia: o sistema gerencia checklists, procedimentos, salas cirúrgicas, materiais
+Estoques e finanças: suporte amplo e flexível à administração dos recursos da organização
+
+
+== Ver também ==
+Projeto GNU
+Software livre
+
+
+== Notas & referências ==
+
+Artigo na Linux Magazine: Projects on the Move
+GNU Health na Universidade das Nações Unidas
+Article in OpenERPSite in Spanish
+GNU Health é software livre para uso na área de saúde .- Linux Magazine Brasil Oct 2011
+TechRepublic. 10 open source projects that could really use a donation
+Article in El Mundo: Liberar la salud con "software"
+GNU Health en Hospitales Públicos. Ministerio de Salud de Entre Ríos
+ALPI es pionero en la informática médica de Argentina gracias a la implementación del Software Libre: GNU Health
+Success of GNU Health goes beyond free software
+
+
+== Ligações externas ==
+
+Sítio oficial (em inglês)
+Documentação pública em português sobre o GNU Health e sobre o Tryton
+Tradução do GNU Health oficial
+GNU Solidário

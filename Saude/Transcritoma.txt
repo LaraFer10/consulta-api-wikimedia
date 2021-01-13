@@ -1,0 +1,22 @@
+Transcriptoma ou Transcritoma refere-se ao conjunto completo de transcritos (RNAs mensageiros, RNAs ribossômicos, RNAs transportadores e os microRNAs) de um dado organismo, órgão, tecido ou linhagem celular. Portanto, ele é o reflexo direto da expressão dos genes (ver vídeo  ).
+O perfil do transcritoma pode variar segundo o momento (numa dada fase do ciclo celular, por exemplo), estado fisiológico, estímulos físicos, químicos, biológicos ou doenças.
+Como são os RNAm os codificadores das proteínas e, portanto, o centro dos interêsses da pesquisa de genômica funcional; na prática ficou estabelecido que o transcritoma abrange o conjunto desta espécie de RNA.
+Entretanto, recentemente, os pesquisadores incluíram os microRNAs no conceito de transcritoma por representarem uma classe muito importante de pequenos RNAs (contendo aproximadamente 20 a 22 nucleotídeos) que controlam a expressão gênica ao nível pós-transcricional, impedindo a tradução dos RNAm em proteínas.
+Para estudar o transcritoma os pesquisadores utilizam métodos de análise em grande escala como SAGE (serial analysis of gene expression) e os microarrays ou microarranjos (microarranjos de cDNA), os microarranjos de oligos  e os DNA-chips). Recentemente o método de seqüenciamento em grande escala chamado de "deep sequencing" foi introduzido no estudo do transcritoma, mas devido seu alto custo a as dificuldades de análise dos dados, esse método ainda não é rotina.
+
+
+== Utilização ==
+O Transcritoma é utilizado no mapeamento do RNA e suas funções, este se divide em bibliotecas para áreas especificas e seu uso depende de técnicas próprias para diversas situações. Bibliotecas e suas utilizações:
+
+Biblioteca de cDNA: Moléculas de RNA são sintetizadas para cumprir funções, sendo o mRNA responsável por levar a informação biológica armazenada do DNA para ribossomos, local da síntese de proteínas. As características de eucariontes são usadas para técnicas de transcriptômica para excluir outros tipos funcionais de RNA. Apenas quando um grande número de clones é sequenciado, os dados podem ser considerados quantitativos com certa confiança, mas com custo muito elevado.Biblioteca Subtrativa: Representa o subconjunto de cDNA que ocorre exclusivamente em uma determinação situação. Apesar de haver certas variações, os protocolos se baseiam na extração de RNA de dois tratamentos e na incubação conjunta dos respectivos cDNA desnaturados para subtração in vitro, selecionando os exclusivos. Apesar das vantagens de clonar cDNA raros ou comparar dois tratamentos sem necessidade de sequenciar dezenas de milhares de clones, tal estratégia não está tão presente nas publicações recentes devido ao surgimento de novas estratégias e a geração de grande número de falsos positivos.
+
+
+== Técnicas ==
+DDRT-PCR: É uma poderosa técnica de identificação e isolamento de genes diferencialmente expressos. Consiste na síntese de cDNA em subconjuntos utilizando oligo-dT diferentes. Apesar de ser laboral, normalmente depende de radioatividade e demora algumas semanas, é então uma técnica eficiente para isolamento de genes diferencialmente expressos, incluindo genes desconhecidos.
+Macroarranjo de DNA: Baseado na técnica de hibridização, sendo uma estratégia de análise interessante para organismos que já apresentam estudos genômicos prévios.
+Microarranjo de DNA: Ferramenta de transcriptômica e que mais contribui para o avanço do conhecimento na era pós genômica até o momento. Após 1995 foi possível organizar o primeiro genoma eucariótico completo, da levedura Saccharomyces cerevisiae em uma única e pequena lâmina. Além disso, no lugar da radiotiavidade, os cDNAs são marcados com dois fluoróforos, ficando cada tratamento com uma determinada cor.SAGE: Técnica de análise seriada da expressão gênica permite estudas o padrão global de expressão gênica e foi desenvolvida e publicada em 1995. Pode ser utilizado para identificar e quantificar a expressão de genes novos ou previamente conhecidos. É uma técnica de alto custo e longo tempo demandado para clonar, sequenciar e analisar os tags.
+
+
+== Referências ==
+2.Transcriptomics in Health and Disease (2014) Geraldo A. Passos (Editor) Springer International (http://www.springer.com/us/book/9783319119847)
+3.FALEIRO, F.G. Biotecnologia: estado da arte e aplicação na agropecuária. 3º ed. Planaltina, DF: Embrapa Cerrados, 2011.

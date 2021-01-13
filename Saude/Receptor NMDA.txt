@@ -1,0 +1,38 @@
+O receptor NMDA - NMDAR - é um receptor ionotrópico ativado pelo ácido glutâmico (glutamato)/Aspartato e seu agonista exógeno NMDA. O NMDAR pode ser considerado o principal receptor do sistema glutamatérgico, uma vez que ele tem papel de destaque na mediação de importantes funções dessa neurotransmissão, tais como: cognição, memória, plasticidade neural e neurotoxicidade (Kugaya e Sanacora, 2005). A ativação dos receptores de glutamato resulta na abertura de um canal iônico não-seletivo para os cátions. Isso permite o fluxo de Na+ e de Ca2+ para dentro da célula e de K+ para fora da célula, porém a permeabilidade do NMDAR pode variar conforme sua composição e localização (Paoletti et al, 2013). O influxo de cálcio promovido pela ativação dos NMDAR é o principal responsável pela mediação dos mecanismos celulares relacionados a esse receptor (Paoletti et al, 2013).
+Os NMDAR formam um canal iônico cujo poro está constitutivamente bloqueado por Mg++ (quando a membrana apresenta-se em potencial de repouso – bloqueio voltagem-dependente), dessa forma, é necessária uma pré despolarizarão para que haja a liberação do canal e sua ativação pelos agonistas glutamatérgicos. Tal pré despolarização pode ocorrer por ativação de receptores do tipo não-NMDA, tal como os receptores glutamatérgicos do tipo AMPA (AMPAR) em regiões adjacentes da membrana plasmática (Paoletti et al, 2013).
+Atualmente, o NMDAR tem sido alvo de um grande de número de pesquisas devido ao seu papel chave na modulação de diversas funções do sistema nervoso central. Além de ser alvo para drogas com ação anestésica, estudos apontam que o receptor pode ser para o desenvolvimento de fármacos que atuem no combate ao Alzheimer. e no tratamento de transtornos comportamentais como a depressão maior e a depressão bipolar (Berman et al., 2000; Zarate et al. 2006, Ghasemi et al, 2015). Além disso, também já foi observado que o NMDAR desempenha funções importantes em convulsões, neuroproteção, esquizofrenia e ansiedade (Watkins e Collingridge, 1994; Siegel e Sanacora, 2012).
+
+
+== História ==
+A história do receptor NMDA começa em meados dos anos 1950 devido as pesquisas com aminoácidos excitatórios (L-glutamato e L-aspartato) e seus efeitos convulsivantes, seguido de estudos que demonstraram que esses aminácidos excitátorios causavam despolarização e excitação de neurônios (Watkins e Collingridge, 1994). Trabalhos posteriores mostraram que o composto sintético, o ácido N-metil-D-aspartato (NMDA), era capaz de produzir efeitos similares ao L-glutamato e L-aspartato, porém com maior potência, e de fato, a época ele era o composto mais potente disponível para causar despolarização de neurônios (Watkins e Collingridge, 1994). Dessa forma, o NMDA passou a ser o principal agente despolarizante em estudos de excitação neuronial e assim o receptor ao qual ele se ligava com maior afinidade foi chamado de receptor NMDA. Assim, durante a década de 1960, o NMDA auxiliou na caracterização dos mecanismos de excitação neuronial via sistema glutamatérgico (Watkins e Collingridge, 1994). Durante a década de 1970 foram sintetizados antagonistas seletivos do NMDA que permitiram a caracterização mais precisa do sítio de ação do NMDA no seu receptor. Finalmente, apenas na década de 1980 é que as importantes funções do receptor NMDA foram devidamente reconhecidas como essenciais para o funcionamento do sistema nervoso central (Watkins e Collingridge, 1994).
+
+
+== Estrutura do receptor ==
+Os Receptores NMDA são na maioria dos casos hetero-oligômeros compostos de uma combinação de três subunidades que podem ser dos tipos NMDAR1 (GluN1), NMDAR2 (GluN2) ou NMDAR3 (GluN3) (Paoletti et al, 2013). A subunidade GluN2 pode ser ainda subdividida em A, B, C ou D e a subunidade em A e B (Paoletti et al, 2013). Majoritariamente a estrutura do receptor é composta por duas subunidades GluN1 e duas GluN2 ou GluN3 (Paoletti et al, 2013). Interessantemente, a formação estrutural do NMDAR varia conforme a região e localização sináptica onde ele é expresso, sendo que sua estrutura também é determinante para funcionalidade do receptor (Paoletti et al, 2013), e tais fatores é que permitem o NMDAR mediar diferentes ações glutamatérgicas (Galvam et al, 2006; Hardingham et al, 2002). De maneira simplificada é possível considerar que os NMDAR localizados na fenda sináptica são formados por subunidades GluN1 e GluN2A, enquanto que os localizados em regiões extrasinápticas são formados por subunidades GluN1 e GluN2B (Paoletti et al, 2013).
+Corroborando tais informações, estudos demonstram que em condições fisiológicas normais os NMDAR sinápticos é que são predominantemente acionados, assim mantendo o funcionamento neuronal normal; entretanto em condições patológicas que levam a liberação exacerbada de glutamato ocorreria um aumento da ativação dos NMDAR extra-sinápticos, que por sua vez promovem a ativação de mecanismos de apoptose (Gladding et al, 2011; Hardingham et al, 2010)
+
+
+== Sítios de modulação do receptor ==
+O receptor NMDA possui uma série de sítios de ligação e tem sua ação modulada pelos ligantes desses sítios. O principal neurotransmissor responsável por ativar os NMDAR é o glutamato, sendo esse o agonista pleno do NMDAR (Paoletti et al, 2013).  Existem uma série de ligantes que podem agir como co-agonistas do NMDAR, valendo destacar a glicina e a D-serina (Paoletti et al, 2013).
+Em situação de repouso do receptor, um íon magnésio (Mg+2) atua bloqueando fisicamente o canal do receptor, ligado-se no interior dele. O bloqueio promovido pelo Mg+2 é voltagem-dependente, uma vez que mudanças no potencial de membrana celular fazem com que o íon Mg+2 saia do interior do canal do NMDAr, assim permitindo a entrada de íons (principalmente Ca+2) quando o receptor é ativado (Paoletti et al, 2013). Íons zinco (Zn+2) também podem bloquear o canal do NMDAR de forma similar ao Mg+2, porém esse bloqueio não é voltagem-dependente.
+
+
+== Antagonistas ==
+Os antagonistas dos NMDAR podem ser usados com finalidades terapêuticas, recreativas ou para pesquisa, uma vez que os NMDAR são os principais responsáveis por mediar respostas excitatórias no sistema nervoso central e por isso estão envolvidos em importantes funções fisiológicas e patológicas (Paoletti et al, 2013).
+Alguns dos antagonistas dos receptores de NMDA são:
+
+Amantadina
+Dextrometorfano
+Dextrorfano
+Orfenadrina
+Etanol
+Ketamina
+Memantina
+Metadona
+Óxido nitroso
+PCP
+Tramadol
+Tolueno
+
+
+== Referências ==

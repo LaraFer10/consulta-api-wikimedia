@@ -1,0 +1,8 @@
+Em Biologia Molecular, xCas9 é uma enzima Cas9 alterada, que aumentou o número de sites que podem ser direcionados pela abordagem CRISPR/Cas9 para a edição de genoma. Esta nova variante desenvolvida por uma equipe de pesquisa, liderada pelo professor David Liu, da Universidade de Harvard, pode cortar o DNA em sítios próximos de uma ampla gama de locais do PAM e pode ter como alvo um quarto dos locais num genoma.
+
+
+== Inovação em xCas9 ==
+A enzima no kit de ferramentas CRISPR padrão, chamado spCas9 para sua fonte natural, a bactéria Streptococcus pyogenes, só pode parar em segmentos de genoma que têm em uma extremidade um trio específico de três bases: N, onde N é uma das quatro bases do DNA, seguiu por duas guaninas (Gs). Apenas cerca de um décimo sexto do genoma humano de 3,2 bilhões de bases tem a seqüência certa. A equipe de David Liu selecionou as spCas9 que poderiam usar um alcance mais amplo dos 64 lugares possíveis, de três bases para aterrar - tecnicamente referidos como PAMs (em inglês:  protospacer adjacent motifs). Eles encontraram novas enzimas xCas9s (a melhor trabalha com NGN), uma seqüência que ocorre em um quarto do genoma, assim, potencialmente aumentando alvos no genoma.
+
+
+== Referências ==

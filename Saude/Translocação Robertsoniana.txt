@@ -1,0 +1,26 @@
+A translocação Robertsoniana é uma forma comum de rearranjo cromossómico. Ocorre nos cinco pares de cromossomas humanos que são acrocêntricos: 13, 14, 15, 21 e 22.
+Recebe este nome do geneticista norte-americano W. R. B. Robertson, que foi o primeiro a observar este processo em gafanhotos, no ano de 1916.
+
+
+== Translocação ==
+
+As translocações ocorrem quando uma parte de um cromossomo se separa do mesmo e se liga a uma parte de um outro cromossomo não homólogo. Pode ser de dois tipos:
+
+Simples: Quando só um cromossomo "perde" uma parte para um outro não homólogo.
+Recíproca: Os segmentos são trocados entre dois cromossomos não homólogos.
+
+
+== Síndrome de Down ==
+
+Cerca de 3% dos casos de Síndrome de Down (trissomia do 21) são causados pela translocação entre os cromossomas 14 e 21, gerando um cromossoma hibrido, o resultado será um gameta com a presença (equivalente) de 2 cromossomas 21, o qual pode gerar um indivíduo com a presença (equivalente) de 3 cromossomas 21, após a fecundação entre tal gameta e um outro norm. 
+Esta é a forma hereditária da Síndrome de Down, já que a translocação, normalmente, ocorre no pai ou mãe da pessoa com trissomia. Neste caso, o pai ou mãe é um portador equilibrado da translocação, com 45 cromossomas, sendo um deles a fusão de um 14 e um 21. Representa-se por 45, XX (ou XY), -14, -21, +t(14,21). Cumpre ressaltar que tal progenitor não é portador da síndrome de Down.
+Quando ocorre a meiose, o cromossoma translocado (t(14,21)) se emparelha com o cromossoma 14, enquanto que o cromossoma 21 fica sozinho. Assim, podem ocorrer quatro tipos de gameta, com quatro tipos diferentes de fecundação:
+
+gametas com um cromossomas 14 e um cromossomas 21, neste caso o filho terá genótipo normal
+gametas com um cromossoma 14 e nenhum 21, neste caso o feto não será viável
+gametas com um cromossoma t(14,21) e um cromossoma 21, neste caso o filho terá a Síndrome de Down por translocação, com cariótipo 46, XX, -14, +t(14,21) ou 46, XY, -14, +t(14,21).
+gametas com um cromossoma t(14,21) e nenhum 21, neste caso o filho terá fenótipo normal, sendo, porém, portador da translocação
+
+
+== Ver também ==
+Translocação cromossômica

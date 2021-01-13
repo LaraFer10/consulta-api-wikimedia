@@ -1,0 +1,93 @@
+Um antifúngico ou antimicótico é uma medicação fungicida ou fungistático farmacêutica utilizada para tratar e prevenir micoses como pé de atleta, dermatofitoses, candidíase, infecções sistémicas como meningite por Cryptococcus spp e outros. Tais drogas são obtidas normalmente através de prescrição médica, mas algumas estão disponíveis como medicamentos de venda livre.
+
+
+== Classes ==
+
+
+=== Antifúngicos poliênicos ===
+Um polieno é uma molécula com diversas ligações duplas conjugadas. Um antifúngico poliênico é um polieno macrocíclico com uma região altamente hidroxilada no anel oposto ao sistema conjugado. Isso faz dos antifúngicos poliénicos anfifílicos. Os agentes poliênicos ligam-se a esteróis na membrana celular de fungos, principalmente ao ergosterol. Isso muda a temperatura de transição (Tg) da membrana, diminuindo sua fluidez e, consequentemente, deixando-a em um estado mais cristalino. Certos conteúdos da célula, como íons (K+, Na+, H+, e Cl−),e pequenas moléculas orgânicas fluem livremente em relação ao meio externo, sendo esse o meio primário de morte celular. As células animais contém colesterol no lugar de ergosterol, sendo bem menos suceptíveis aos efeitos. Contudo, mesmo em doses terapêuticas, algumas moléculas de anfotericina B, por exemplo, podem ligar-se ao colesterol de membrana, aumentando o risco de toxicidade. A anfotericina B é nefrotóxica quando administrada intravenosamente.
+
+Amphotericina B
+Candicidina
+Hamicina
+Natamicna
+Nistatina
+Rimocidina
+
+
+=== Antifúngicos imidazólicos, triazólicos e tiazólicos ===
+Antifúngicos azólicos (com exceção da abafungina) inibem a enzima lanosterol 14 α-demetilase, a enzima necessária para converter lanosterol em ergosterol. A depleção de ergosterol na membrana de fungos leva à danos estruturais e funcionais, levando à inibição do crescimento fúngico.
+
+
+==== Imidazóis ====
+Bifonazol
+Butoconazol
+Cetoconazol
+Clotrimazol
+Econazol
+Fenticonazol
+Isoconazol
+Ketoconazol
+Luliconazol
+Miconazol
+Omoconazol
+Oxiconazol
+Sertaconazol
+Sulconazol
+Tioconazol
+
+
+==== Triazóis ====
+Albaconazol
+Efinaconazol
+Fluconazol
+Isavuconazol
+Itraconazol
+Posaconazol
+Ravuconazol
+Terconazol
+Voriconazol
+
+
+==== Tiazóis ====
+Abafungina
+
+
+=== Alilaminas ===
+As alinaminas inibem a esqualeno epoxidase, outra enzima necessária para a síntese de ergosterol:
+
+Amorolfina
+Butenafina
+Naftifina
+Terbinafina
+
+
+=== Equinocandinas ===
+As equinocandinas podem ser usadas para tratar infecções fúngicas sistêmicas em pacientes imunocomprometidos. Elas atrapalham a síntese de glicanos na parede celular inibindo a enzima 1,3-β-glicano sintase.
+
+Anidulafungina
+Caspofungina
+MicafunginaAs equinocandinas não são bem absorvidas quando administradas oralmente. Na administração intravenosa, ela é capaz de atingir a maioria dos tecidos em concentração suficiente para a ação terapêutica.
+
+
+=== Outros ===
+Ácido benzoico – possui atividades antimicóticas, mas precisa ser combinado com agentes queratolíticos, como no unguento de Whitfield's
+Ciclopirox(ciclopirox olamina) – é um antifúngico de hidroxipiridona que interfere no transporte ativo de membrana, integridade da membrana celular e processos respiratórios fúngicos. Ele é mais útil contra pitiríase versicolor.
+Flucitosina ou 5-fluorocitosina – um análogo de pirimidina antimetabólico 
+Griseofulvina – liga-se a microtúbulos polimerizados e inibie a mitose fúngica
+Haloprogina – descontinuada devido à emergência de antimicóticos modernos com menos efeitos adversos 
+Tolnaftato – um antifúngico de tiocarbamato que inibe a esqualeno epoxidase fúngica (mecanismo semelhante ao de alilaminas)
+Ácido undecilênico– um ácido graxo insaturado derivado de óleo de rícino; fungistático, antibacteriano antiviral, inibe Candida morphogenesis
+Cristal violeta – um corante de triarilmetano, possui atividades antibacterianas, antifúngicas e anti-helmínticas, sendo previamente importante como um antisséptico tópico.
+
+
+== Veja também ==
+Fungicida
+Antimicrobiano
+
+
+== Referências ==
+
+
+== Ligações externas ==
+Antifungal Drugs – Detailed information on antifungals from the Fungal Guide written by R. Thomas and K. Barber

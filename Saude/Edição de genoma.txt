@@ -1,0 +1,19 @@
+Edição de genoma é um tipo de engenharia genética em que o ADN é inserido, substituído, ou removido de um genoma utilizando nucleases modificadas artificialmente, ou "tesoura molecular".
+
+
+== História ==
+A edição do genoma com nucleases de engenharia, uma poderosa ferramenta para entender a função biológica e revelar a causalidade, foi construída em um esforço conjunto pela academia e indústria de 1994 a 2010. O uso do CRISPR/Cas9 é a implementação de 2013 na "caixa de ferramentas" de edição genética.A estratégia de substituição baseada em recombinação homóloga nasceu nos anos 70 nos laboratórios de Gerry Fink e Ron Davis que mostraram que um gene de levedura pode ser substituído por um marcador selecionável e, portanto, eliminado. Este método tornou-se uma fonte chave da "genética do fermento", e ao longo das três décadas subsequentes, a comunidade de pesquisa de leveduras o usa, entre outras coisas, para fazer uma coleção de alelos nulos e hipomórficos em todo o genoma do fermento, amplamente utilizado para reversão malhas genéticas.
+
+
+== Processo ==
+
+
+=== Reparo de quebra de fita dupla ===
+A edição do genoma baseia-se no conceito de reparação de mecânica do DNA fita dupla pausa (DSB).
+
+
+=== Engenharia de nucleases ===
+A chave para a edição do genoma é criar um DSB em um ponto específico dentro do genoma. As enzimas de restrição comumente usadas são eficazes no corte de DNA, mas geralmente reconhecem e cortam em vários locais. Para superar esse desafio e criar DSB específico do local, três classes distintas de nucleases foram descobertas e bioengenharia até o momento. Estas são as nucleases de dedo de zinco (ZFNs), nucleases efetoras como ativador de transcrição (TALEN), meganucleases e o sistema de repetições palindrômicas curtas e inter-espaçadas regularmente (CRISPR/Cas9).
+
+
+== Referências ==

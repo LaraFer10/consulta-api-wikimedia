@@ -1,0 +1,51 @@
+Streptococcus pneumoniae ou informalmente Pneumococo é uma espécie de bactérias Gram-positivas, pertencentes ao género Streptococcus, com forma de cocos que são uma das principais causas de pneumonia e meningite em adultos, e causam outras doenças no ser humano.
+
+
+== Biologia ==
+Como todos os estreptococos, são cocos com cerca de 1 micrómetro, anaeróbios facultativos. Agrupam-se sempre aos pares (diplococos) ou em curtas cadeias, e as estirpes patogénicas possuem cápsula. Eles são alfa-hemolíticos, ou seja em cultura de sangue produzem um halo mucoide esverdeado de destruição parcial de eritrócitos. 
+Os pneumococos são sensiveis à optoquina ou bílis, detergentes fracos, ao contrário de outros estreptococos, e esta característica é útil para os distinguir. São bacterias que são transmitidas facilmente de pessoa para pessoa por meio de espirros, objetos infectados, etc, sendo as causadoras da pneumonia.
+Ao contrário dos estafilococos, a resistência à penicilina é devida não à penicilinase mas a proteínas que se ligam ao antibiótico inibindo a sua ação sem o destruir.
+
+
+== Factores de virulência ==
+Cápsula protege da fagocitose e do reconhecimento pelo sistema imunitário.
+Adesinas que permitem a adesão às células da faringe e epitélio respiratório.
+Pneumolisinas: são proteínas secretadas que desestabilizam as membranas da células humanas, destruindo-as. Activam o complemento, usando-o contra as células do hóspede.
+Protease de IgA: inactiva este tipo de anticorpos presentes nas mucosas.
+Ácido teicóico: activa o complemento, gastando-o e direccionando-o para o hóspede.
+Produz peróxido de hidrogénio que causa danos nas células.
+Fosforilcolina: liga-se a recpetores das células do hospede, permitindo ao pneumococo entrar nelas e escapar ao sistema imune.
+
+
+== Epidemiologia ==
+Estão presentes em 40-70% do tracto respiratório dos adultos, sem sintomas. Tendem a causar doenças nestes individuos quando eles estão fragilizados, por exemplo podem causar pneumonias em doentes com gripe. O seu reservatório são os próprios humanos.
+
+
+== Doenças causadas ==
+O diagnóstico é por recolha de amostras e cultura, sorologia (detecção de anticorpos específicos). O sistema imune produz anticorpos anti-capsulares efectivos, mas demora algum tempo (variável), podendo os danos já ser sérios nessa altura. A imunidade a uma estirpe não confere proteção contra outras. A pneumonia e a meningite são as manifestações mais frequentes, e ambas são perigosas.
+
+Pneumonia: pneumonia lobar e broncopneumonia. Febres altas (39-41 °C), com tosse e expectoração amarela purulenta. Ocorre frequentemente após doença respiratória viral (e.g. gripe), que destrói os cílios do epitélio respiratório permitindo à bactéria instalar-se e multiplicar-se sem ser expulsa pela ação mecânica dos cílios. A mortalidade é de 5%.
+Meningite: infecção das meninges do cérebro que é uma emergência potencialmente fatal. O pneumococo é a principal causa de meningite em adultos. Inicio súbito de dores de cabeça, vômitos, sensibilidade à luz. O tratamento com antibióticos tem de ser instituído pouco depois do inicio dos sintomas ou a morte torna-se inevitável.
+Septicémia: invasão e multiplicação no sangue. Mortalidade muito elevada. Normalmente ocorre após multiplicação num órgão específico sem limitação efetiva.
+Sinusite
+Otite media
+Osteomielite
+Úlcera corneal
+Artrite séptica
+Endocardite
+Abcessos cerebrais
+
+
+== Diagnóstico Laboratorial ==
+Cultura com presença de Alfa Hemólise, Catalase Negativo, Antibiograma com identificação de sensibilidade à Optoquina, Bilesolubilidade Positiva.
+
+
+== Tratamento ==
+A penicilina ou ampicilina ainda são a primeira escolha apesar do aumento das cepas resistentes. Caso exista resistência, usam-se macrolídios, cloranfenicol, vancomicina, SMZ/TMP ou cefalosporinas.
+Existem vacinas contendo derivados imunogênicos (estimuladores do sistema imunitário) da cápsula do pneumococo. Protegem contra doenças causadas por pneumococos em 85% dos casos. Não protege contra todas as cepas, apenas 23 (existem muitas mais).
+
+
+== História ==
+No século XIX foi demonstrado que coelhos imunizados com pneumococos mortos eram protegidos contra pneumococos vivos. O soro sanguíneo de coelhos já infectados mas que tinham se recuperado também conferia protelação. Foi uma das primeiras demonstrações das possibilidades da imunização. A vacina foi demonstrada no início do século XX em mineiros da África do Sul, numa experiência desumana que usou negros como cobaias.
+Na década de 1920 foi demonstrado que eram formados anticorpos contra os polissacarídeos da cápsula, conferindo imunização, e que eram esses mesmos anticorpos presentes no soro de coelhos já infectados que protegiam, durante algum tempo, os coelhos não imunes. A vacina foi usada eficazmente numa epidemia em 1936.
+Na década de 1940 o DNA foi pela primeira vez identificado enquanto repositório da informação genética em experiências com pneumococos encapsulados e não encapsulados. Os encapsulados mortos, juntamente com não-encapsulados vivos (incapazes de causar doença), geravam encapsulados vivos que matavam coelhos, o que se provou ser devido à absorção pelos não-encapsulados vivos de DNA proveniente dos encapsulados mortos.

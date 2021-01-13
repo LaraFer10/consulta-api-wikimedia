@@ -1,0 +1,118 @@
+A ubiquitina é uma proteína encontrada nas células eucariotas constituída por 76 aminoácidos que desempenha uma função importante na regulação de proteínas. Ela marca proteínas indesejadas (por exemplo proteínas mal-dobradas) para que sejam degradadas por um complexo multiproteíco denominado proteassoma.
+Embora relativamente recentes, estudos mostram que a degradação pelo sistema ubiquitina-proteassoma parece afetar praticamente todos os processos celulares. A sinalização por ubiquitina e suas cadeias tem um papel não proteolítico no transporte pela membrana, na estrutura e transcrição da cromatina, na reparação de DNA e diversas outras vias sinalizadoras.
+A descoberta do processo de regulação de proteínas por Aaron Ciechanover, Avram Hershko e Irwin Rose, ganhadores do prêmio Nobel de Química de 2004, feita em uma série de estudos entre 70 e 80, possibilitou a compreensão do controle celular de processos como o ciclo celular, a transcrição gênica, a reparação de DNA e o controle de qualidade das proteínas produzidas. Diferentemente de outras vias proteolíticas, a via da ubiquitina envolve consumo de ATP. A degradação protéica é feita em uma série de etapas que resultam na ubiquitinação da proteína a ser destruída, esse processo permite que a célula elimine proteínas de modo bastante específico e é esta regulação que exige energia.
+
+
+== Descoberta e contextualização ==
+A ubiquitina foi descoberta acidentalmente pelo grupo de Joseph Goldstein nos anos 70. Em 74, uma nova proteína foi isolada do timo de gado como um fator promotor de diferenciação das populações dos linfócitos T e B. Erroneamente, essa proteína foi considerada um hormônio do timo.
+No ano seguinte, os cientistas detectaram a ubiquitina por anticorpos específicos em muitas células eucariotas. Daí foi batizada ubiquitina. Foi também encontrada em células de archaeas.
+Em 1975 foi descoberta a sequência de aminoácidos da ubiquitina, e dois anos depois foi encontrada como parte da proteína A24 (28 kDa) presente na cromatina. Isso sugeriu que a ubiquitina pudesse se conjugar a outras proteínas.
+Nos anos 70 e 80, os cientistas identificaram a proteólise não-lisossomal intracelular dependente de ubiquitina e ATP, ainda considerada sua principal função nas células eucariotas. Aaron Ciechanover, Avram Hershko e Irwin Rose, conseguiram mostrar que o processo de proteólise ocorre em etapas que resultam na ubiquitinação da proteína a ser degradada. Por essa descoberta receberam em 2004 o prêmio Nobel de química.
+As proteínas são longas seqüências de aminoácidos, sintetizadas pelos ribossomos a partir de instruções obtidas do RNA mensageiro, trazendo informações do DNA. Exercem as mais variadas e importantes funções na célula, catalisam praticamente todas as reações celulares, têm diversas funções estruturais, além de formarem complexos e organelas capazes de realizar funções complexas. As proteínas se encontram num estado dinâmico, sendo continuamente sintetizadas e degradadas, e o controle dessa atividade e degradação é vital para a célula. Existem diversos meios pelos quais a célula pode se livrar de proteínas indesejadas, são chamados de vias proteolíticas.
+As principais vias proteolíticas são a via lisossomal, a via dependente de cálcio e a via da ubiquitina-proteassoma, que difere das outras duas por ser seletiva e consumir ATP. Acredita-se que a maioria das proteínas de vida curta sejam proteolisadas pela via da ubiquitina.
+
+
+== A molécula de ubiquitina ==
+A ubiquitina é um polipeptídio constituído por 76 aminoácidos e amplamente presente nas células eucariotas. Seu nome vem de ubíquo: onipresente, extensamente difundido, geral; naturalmente pelo fato de ser encontrada nas células eucariotas em geral, tanto no citosol como no núcleo. Além disso, a ubiquitina é encontrada praticamente inalterada nos diversos organismos, por exemplo, a ubiquitina de uma levedura difere em apenas 3 dos 76(~4%) aminoácidos da humana, que é a mesma das moscas-de-fruta. Há também uma grande tolerância a níveis de pH e temperatura, normalmente apenas variando entre a conformação dobrada e não dobrada, o que é justificado por sua conformação ser determinada principalmente por ligações de hidrogênio.
+A seqüência completa de aminoácidos da ubiquitina humana é:
+
+ MQIFVKTLTGKTITLEVEPSDTIENVKAKIQDKEGIPPDQQRLIFAGKQLEDGRTLSDYNIQKESTLHLVLRLRGG
+
+Os aminoácidos em negrito são os que diferem entre espécies. Como se pode ver na figura ao lado, a estrutura secundária é constituída por segmentos em alfa-hélice e folhas beta, tendo 3 segmentos do primeiro e 5 do segundo. Seu peso molecular é de 8564 Da (ubiquitina humana).
+
+As ubiquitinas podem se ligar formando cadeias poliubiquitinas; a ligação ocorre entre a glicina terminal(76) e a lisina(48), e pode ocorrer mais de uma vez, formando di, tri, tetraubiquitinas. Após o término das cadeias, existe em algumas espécies um aminoácido, tirosina nas galinhas, e valina nos humanos.
+A síntese da ubiquitina é feita diretamente pelos ribossomos, e se origina de duas estruturas principais de genes. A primeira é a estrutura sequencial repetida, isto é repetições da sequência codificadora da ubiquitina; a segunda, é a sequência de uma ubiquitina fundida a uma outra proteína em seu N-terminal, e tendo uma proteína ribossômica no seu C-terminal, por exemplo a L40; ambas as estruturas devem ser desubiquitinadas.
+O papel celular da ubiquitina é muito variado e importante, sua principal função é reconhecida como a de sinalizar proteínas a serem degradadas na chamada via proteolítica da ubiquitina-proteassoma. Trata-se de uma via de especial importância por ser altamente específica e provavelmente a responsável pela degradação e regulação da maioria das proteínas de vida curta. Diferentemente das outras vias, há consumo de ATP, para a ativação da própria ubiquitina.
+Estudos recentes mostram que a ubiquitinação de proteínas também serve para modificá-las, ao invés de ativar sua degradação, a exemplo temos a ubiquitinação da histona H2A.
+Mas tanto a própria ubiquitina como sua via proteolítica participam de diversos outros processos celulares; a ubiquitina se liga à ciclina na fase G1 da mitose, ajudando a regular o ciclo celular; é responsável por estimular a diferenciação entre os tipos de linfócitos B e T; e seus fragmentos funcionam como imunosupressores quando fora das células. A ubiquitina desempenha papéis na biogênese dos ribossomos, na modulação de receptores celulares, na expressão gênica, na reparação de DNA, na resposta ao stress, na morfogênese neuronal, na memória de longo prazo, nos ritmos circadianos, e também em doenças como Alzheimer, Down, câncer e há suspeitas que também participe dos mecanismos do HIV e Ebola.
+As proteínas ubiquitinadas são degradadas a peptídeos pelo proteassoma, que solta a cadeia de poliubiquitina, possivelmente ainda ligada a algum resíduo, até que alguma enzima desubiquitinase do citoplasma a processe e recicle. O proteassoma também pode desubiquitinar o substrato, seja tirando sua cadeia de poliubiquitina (o que costuma fazer com que a proteína seja solta do proteassoma), seja removendo a ubiquitina mais distante da cadeia. Há uma hipótese de que cadeias mais longas de ubiquitina levem a proteína a uma proteólise irreversível, enquanto cadeias curtas levem a proteína a ser solta e salva. Há duas classes de enzimas recicladoras de ubiquitinas, as C-terminal hidrolases de ubiquitina, que removem pequenas moléculas como grupos amino e tiol, e as proteases específicas de ubiquitina, que existem em muitas variedades, com diferentes especificidades e funções, algumas são livres, outras integrantes do proteassoma, algumas necessitam de ATP, outras não, algumas aceleram a proteólise, outras a inibem.
+
+
+== A via da ubiquitina-proteassoma ==
+A via proteolítica da Ubiquitina-Proteassoma difere das demais vias proteolíticas devido a seu consumo de ATP. Há cinco alvos principais da ubiquitina:
+
+Receptores celulares da membrana celular
+Moduladores de crescimento e supressores de tumor
+Ativadores e inibidores de transcrição
+Reguladores do ciclo celular (por exemplo, a ciclina)
+Proteínas mutantes ou danificadasO caso 5 é especialmente frequente, sabe-se que até 30% das proteínas recém-sintetizadas de uma célula são quebradas via proteassomas por não terem sido aprovadas pelo rigoroso controle de qualidade celular. Sabe-se que as chaperonas desempenham um papel ativo no reconhecimento de proteínas mal-dobradas. Chaperonas são proteínas que auxiliam as proteínas a se dobrarem; diversas chaperonas necessitam de ATP e algumas proteínas são dependentes de chaperonas para atingirem a conformação adequada. Há ainda debate e incerteza sobre seu funcionamento, mas sabe-se que estas usam a exposição de grupos hidrofóbicos para reconhecem as proteínas mal-dobradas.
+Há evidências de que as chaperonas participem ativamente do processo de ubiquitinação, interagindo com as enzimas E3, que ligam a ubiquitina à proteína alvo, sugerindo que a chaperona seja a responsável pelo reconhecimento e marcação. Consultar [A3 McClellan] para uma coletânea de resultados recentes e novas perspectivas.
+Outro sistema de grade importância para o reconhecimento de proteínas mal-formadas é conhecido como ERAD (Endoplasmic reticulum-associated protein degradation), responsável pela degradação de proteínas formadas no retículo endoplasmático, e também realizado com ajuda de chaperonas. Após sua ubiquitinação, as proteínas são mandadas para o citoplasma onde encontrarão o proteassoma. Uma análise detalhada dessa via pode ser encontrada em [A4 Meusser].
+A ubiquitinação de uma proteína ocorre em etapas e envolve 3 enzimas, chamadas de E1 (enzima ativadora da ubiquitina), E2 (enzima conjugadora) e E3 (ubiquitina ligase). O processo consome 1 ATP para a ativação de cada molécula de ubiquitina e também no desdobramento da proteína realizado pelo proteassoma.
+A via da ubiquitina-proteassoma consiste nas seguintes etapas:
+
+Ativação: A enzima E1 ativa a molécula de ubiquitina. O resíduo C-terminal da ubiquitina é ligado covalentemente a um resíduo de sulfidril-cisteína da enzima E1. Isso ocorre na presença de Mg2+ e com o consumo de 1 ATP, liberando AMP e pirofosfato(PPi).
+Transferência: A ubiquitina é transferida para a enzima E2, liberando a enzima E1.
+Reconhecimento: A enzima E3 reconhece e se liga à proteína-alvo formando um complexo não covalente.
+Ubiquitinação: O complexo E2-ubiquitina é ligado à E3 de modo que a ubiquitina seja transferida de E2 para o alvo.
+A enzima E3 se solta, liberando a enzima E2 e a proteína ubiquitinada.
+Poli-ubiquitinação: As etapas 3, 4 e 5 se repetem várias vezes, formando uma ou mais cadeias de ubiquitina. As ubiquitinas que formam cadeias, se ligam aos resíduos de lisina(48) da última da cadeia.
+A cadeia de ubiquitina é reconhecida pelo proteassoma. A proteína é desubiquitinada por enzimas próprias, a proteína é desdobrada com consumo de ATP e hidrolisada formando pequenos peptídeos (de 7 a 9 aminoácidos).Com poucas exceções, apenas proteínas poliubiquitinadas conseguem ter acesso ao núcleo proteolítico do proteassoma.
+A enzima E3 (ligase) é a responsável pela especificidade da ubiquitinação, sendo capaz de reconhecer e etiquetar um certo conjunto de substratos.
+A ubiquitinação é um processo reversível, enzimas hidrolíticas chamadas desubiquinases competem com o proteassoma removendo ubiquitinas terminais da cadeia ou a cadeia inteira. Considera-se que esta competição entre proteólise e desubiquitinação forneça um certo nível de controle de qualidade ao sistema, uma vez que a reubiquitinação confirma o reconhecimento da proteína.
+Embora a ubiquitinação seja um processo reversível, a proteólise não o é, pelo fato de que as proteínas são degradadas a oligopeptídeos. Esta assimetria permite impor direcionalidade ao sistema, permitindo assim por exemplo, o ciclo celular.
+
+
+== E1, E2 e E3(e E4) ==
+Três enzimas são necessárias para a ubiquinação, a E1, enzima ativadora da ubiquitina, a E2, enzima conjugadora, e a E3, ubiquitina ligase. Só é conhecida uma E1, responsável sozinha por transferir ubiquitinas a todas as E2, que consiste de uma ou duas cadeias polipeptídias com em média 105 kDa por cadeia. As enzimas conjugadoras E2, já tem alguma especificidade ao substrato, embora sejam as E3 as com grande especificidade. Há de 5 a 12 proteínas E2 conhecidas, dependendo da literatura. As E3 tem grande especificidade, são estruturalmente não relacionadas, de difícil análise e pesam em torno de 250 kDa. As E3 são as responsáveis pelo reconhecimento da proteína e pela transferência da ubiquitina da E2 para esta. A poliubiquitinação de algumas proteínas requer enzimas E4 que coperam com as E3 para estender a cadeia de poliubiquitina. Consultar [A1 Ciechanover] para mais detalhes sobre a atividade de cada enzima.O processo de ubiquitinação também é importante na via de regulação do vírus do HIV. Elas em pessoas com resisitência ao HIV,ubiquitinam a proteína Vif, logo ela impede a formação de outros vírus de HIV.
+
+
+== A ubiquitina e o ciclo celular ==
+A ubiquitina participa da mitose, dando direcionalidade a ela, por meio do APC (Anaphase-Promoting Complex), uma enzima E3 que provoca indiretamente a degradação da coesina, um complexo que mantém as cromátides-irmãs unidas, permitindo assim a separação delas.
+A ubiquitina participa do ciclo celular regulando a ciclina, que é uma das responsáveis pelo ciclo celular. Esta regulação dá o nome da ciclina, ligado ao fato de sua concentração variar ciclicamente durante o ciclo celular.
+
+
+== Aplicações biomédicas ==
+As múltiplas funções da ubiquitina levam a estados patológicos do seu mal-funcionamento, seja porque não está degradando proteínas indesejáveis, seja porque está as degradando muito rapidamente.
+
+p53, HPV e câncer cervical: A proteína p53 é um fator de transcrição; ela controla os genes de reparação de DNA e apoptose. A p53 é produzida e degradada pela via da ubiquitina normalmente. Danos no DNA levam à fosforilação da proteina p53, inibindo a ubiquitinação, a qual de outra forma a iria degradar. Níveis altos de p53 levam a uma interrupção do ciclo celular para que o DNA seja reparado. Se o dano for muito extenso a célula dispara a apoptose prevenindo a propagação do erro. O vírus HPV consegue modificar uma proteína E3 E6-AP para que ubiquitine a proteína p53, impedindo a reparação celular e levando à formação de tumores.
+Reações imunológicas e de inflamação: Um fator de transcrição responsável pela reação imune é ligado à um inibidor enquanto está no citoplasma. Quando a célula é exposta a bactérias ou substâncias sinalizadoras, a proteína inibidora é fosforilada, isso faz com que seja ubiquitinada e o fator de transcrição seja liberado, transportado para o núcleo e ative alguns genes.
+A proteólise de proteínas virais produz peptídeos que se apresentam na superfície de células infectadas, permitindo seu reconhecimento pelos linfócitos T.
+Imunomodulador: Fragmentos de ubiquitina fora da célula são capazes de diminuir a resposta imunológica, com efeito comparável à ciclosporina A ou FK506, drogas usadas após transplantes de órgãos.
+Imuno-histoquímica: Anticorpos de ubiquitina são usados para identificar acumulação anormal de proteínas dentro das células. Esse tipo de acumulação ocorre em doenças como Alzheimer, Parkinson e Picks.
+
+
+== Referências ==
+
+
+=== Livros ===
+[L1 Lehninger] NELSON, David L e COX, Michael M., Lehninger Principles of Biochemistry. 4th Edition. W. H. Freeman, 2004. p. 96(invariância da ubiquitina), 1075(metabolismo de proteínas)
+
+
+=== Revistas ===
+[R1 NCB] Editorial, Focusing in the ubiquitin-proteasome system. Nature Cell Biology 7 (2005): p. 725
+[R2 PLoS] Glickman MH, Adir N, The Proteasome and the Delicate Balance between Destruction and Rescue. PLoS Biol 2(1): e13(2004)
+
+
+=== Artigos ===
+[A1 Ciechanover] Ciechanover, A. (1998) "The ubiquitin-proteasome pathway: on protein death and cell life". EMBO J., 17, pp. 7151-7160.
+[A2 Thelander] Thelander, L. (2004) “Ubiquitin-mediated proteolysis”, Advanced information on the Nobel Prize in Chemistry, http://nobelprize.org/chemistry/laureates/2004/chemadv04.pdf
+[A3 McClellan] Amie J. McClellan, Stephen Tam, Daniel Kaganovich & Judith Frydman, ”Protein quality control: chaperones culling corrupt conformations”. Nature Cell Biology  7, 736 - 741 (2005)
+[A4 Meusser] Birgit Meusser, Christian Hirsch, Ernst Jarosch, Thomas Sommer, ”ERAD: the long road to destruction”. Nature Cell Biology  7, 766 - 772 (2005)
+[A5 Pines] Jonathon Pines, Catherine Lindon, “Proteolysis: anytime, any place, anywhere?” Nature Cell Biology  7, 731 - 735 (2005)
+
+
+=== Internet ===
+[I2 Nobel] "The Nobel Prize in Chemistry 2004 – Information for the Public", The Nobel Prize, http://nobelprize.org/chemistry/laureates/2004/public.html (acessado em 05/11/2005).
+[I3 Jaremko] Łukasz Jaremko and Mariusz Jaremko, "The Molecule of the Month - Ubiquitin", Faculty of Chemistry,Wroclal University, https://web.archive.org/web/20060925150218/http://www.chem.uni.wroc.pl/jaremko/ubiquitin.htm (acessado em 05/11/2005).
+General – Basic Information (genes e expressão celular, estabilidade e conformação, localização)
+Structure (estrutura primária, secundária e terciária)
+Ubiquitinylation
+Biological FunctionsMuitas referências úteis em:
+http://www.chem.uni.wroc.pl/jaremko/ubiquitin_pliki/page0014.htm
+Vários artigos recentes sobre a via da ubiquitina-proteassoma:
+
+[I4 Nature Cell Biology] "Web Focus: The Ubiquitin-Proteasome System", Nature Cell Biology, http://www.nature.com/ncb/webfocus/ubiquitin/index.html (acessado em 06/11/2005).Visualização da molécula de Ubiquitina:
+
+[I3 Jaremko] Łukasz Jaremko and Mariusz Jaremko, "The Molecule of the Month - Ubiquitin", Faculty of Chemistry,Wroclal University, https://web.archive.org/web/20060925150218/http://www.chem.uni.wroc.pl/jaremko/ubiquitin.htm (acessado em 05/11/2005).  General – Basic Information (3D structures of human ubiquitin)
+[I5 RCSB] "Ubiquitin NMR Structure", RCSB Protein Data Bank, http://pdbbeta.rcsb.org/pdb/explore.do?structureId=1d3z (acessado em 06/11/2005).
+
+
+== Ver também ==
+proteassoma
+proteólise
+via da ubiquitina-proteassoma
+
+
+== Ligações externas ==
+MeSH Ubiquitin

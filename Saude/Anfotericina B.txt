@@ -1,0 +1,48 @@
+A anfotericina B (Abelcet, AmBisome, Amphocil, Fungizone) é um antifúngico da classe dos polienos produzido por cultura de actinomicetos Streptomyces nodosus uma bactéria filamentosa, em 1955 no Instituto Squibb de Pesquisa Médica a partir de culturas de um estreptomiceto isolado a partir de amostras de solo colhido na região venezuelana do rio Orinoco. O seu nome deriva das suas características quimicas anfotéricas. Apenas a anfotericina B é usada na clínica, pois é significativamente mais activa in vitro do que a anfotericina A, que sendo quase idêntica à B apresenta muito pouca actividade antifúngica. Existem 4 apresentações medicamentosas: Fungizone (anfotericina B desoxicolato), Amphocil (ABCD, anfotericina B complexo de sulfato de colesteryl, Abelcet (ABLC, complexo lipidico de anfotericina B) e AmBisome (L-AmB, anfotericina B lipossómica). ABCD, ABLC e L-AmB foram desenvolvidos com vista a necessidade de melhorar a tolerabilidade no doente, mas que todavia exibem caracteristicas farmacocinéticas distintas entre si e entre a anfotericina B convencional. Em geral, atua como fungistático (inibe o crescimento dos fungos, mas não os mata); embora, em concentrações próximas aos limites superiores de tolerância possa ser fungicida (mata o fungo). É usado para tratar as micoses há mais de 50 anos, sendo um dos fármacos mais prescritos. Não é eficaz contra bactérias.
+
+
+== Mecanismo de ação ==
+Como quase todos os antifúngicos, atua ligando-se e alterando específicamente os esterois da membrana celular das células do fungo (ergosterol), que têm composição diferente do esterol das células humanas, que é o colesterol.
+Liga-se aos esteróis da membrana celular do fungo, o que altera sua permeabilidade e a célula perde potássio e moléculas pequenas. Distribui-se em pulmões, fígado, baço, rins, glândula supra-renal, músculos e outros tecidos; sua união às proteínas é muito alta. Não se conhece seu metabolismo. Sua meia-vida inicial é de 24 a 48 horas e a meia-vida terminal é de 15 dias; elimina-se de forma lenta por via renal.
+
+
+== Usos clínicos ==
+É um antifúngico, também usado como antiprotozoário.
+É usado nas doenças sistémicas causadas por fungos como a Aspergilose, blastomicose, candidíase disseminada, coccidioidomicose, criptococose, histoplasmose, mucormicose, esporotricose disseminada, e ainda mais raramente na doença causada pelo parasita unicelular Leishmania, a leishmaniose. Estas doenças, com excepção da leishmaníase, são mais graves e comuns em imunodeprimidos, como os doentes com SIDA/AIDS.
+É mal absorvida por via oral, logo é aplicada topicamente (na pele) nas micoses cutâneas ou por injecção intravenosa.
+
+
+== Dosagem ==
+Adultos: como antifúngico sistêmico via intratecal, 25 a 100 mg cada 48 a 72 horas; a dosagem poderá ser aumentada de forma gradual para 500 mg, até uma dose total máxima de 15 mg; por infusão IV, 1 mg como dose de teste em glicose a 5% durante 2 a 4 horas podendo ser logo aumentada para 5 a 10 mg ou mais, conforme a tolerância do paciente e a gravidade da infecção, até um máximo de 50 mg/dia.
+Doses pediátricas, como antifúngico: por infusão IV, 0,25 mg/kg/dia em glicose a 5% durante 6 horas, com aumentos graduais de 0,25 mg/kg em dias alternados, conforme a tolerância, até um máximo de 1 mg/kg/dia.
+
+
+== Reacções adversas ==
+Causa danos renais, é nefrotóxico. Apesar de ter maior afinidade para o ergosterol, também danifica as membranas celulares ricas em colesterol dos túbulos renais. Cerca de 80% dos doentes tem diminuição da função renal, que é séria em 25% e grave em alguns casos mais raros. Além disso pode mais infreqüentemente causar danos no fígado, trombocitopenia com risco de hemorragias, e outros danos vasculares.
+Com infusão intravenosa (no sangue) podem ocorrer: febre, calafrios, arritmias cardíacas, cãibras ou dores musculares, cansaço ou debilidade não habitual, visão turva ou dupla, aumento ou diminuição da micção, prurido, dor ou debilidade nas mãos ou nos pés, crises convulsivas, dispnéia (falta de ar) e erupção cutânea (por hipersensibilidade, ou seja alergia).
+Com injeção intra (no líquido céfalo-raquidiano cerebral) por vezes: micção dificultosa e visão turva.
+As formulações lipídicas do tipo lipossomal (1997) ou complexo lipidico (2001) minimizam os efeitos tóxicos das anfotericinas B.
+
+
+== Precauções ==
+Todo tratamento interrompido por mais de 7 dias deve ser repetido com a dose mais baixa e aumentado gradualmente. Uma dose total superior a 4 gramas pode produzir disfunção renal permanente. A extravasão do fármaco pode produzir grave irritação local. Os efeitos depressores da medula óssea, causados pela anfotericina-B sistêmica, podem aumentar a incidência de infecções microbianas ou causar atraso na cicatrização e hemorragia gengival.
+
+
+== Interacções com outros medicamentos ==
+Os corticosteróides, os inibidores de anidrase carbônica, ou a ACTH junto com anfotericina-B podem produzir hipopotassemia grave. Os cardioglicosídeos digitais ou bloqueadores neuromusculares não despolarizantes podem aumentar o potencial de toxicidade por digital. Os diuréticos que produzem depleção de potássio ou os medicamentos nefrotóxicos podem aumentar o potencial de nefrotoxicidade.
+
+
+== Contra-indicações ==
+A relação risco-benefício deve ser avaliada na presença de disfunção renal ou hepática.
+Diversos fungos possuem resistência a anfotericina B, e portanto não é recomendada em infecções causadas por eles:
+
+Aspergillus terreus
+Scedosporium apiospermum
+Scedosporium prolificans
+Trichosporum spp.
+Candida lusitaniae
+Fusarium spp.
+Malassezia furfur
+
+
+== Referências ==

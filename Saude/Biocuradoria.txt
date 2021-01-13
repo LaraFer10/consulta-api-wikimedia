@@ -1,0 +1,33 @@
+Um biocurador  (ou uma biocuradora) é um cientista que cura, recolhe, anota, e valida informações, que são então disponibilizadas na forma de bases de dados.  O papel de um biocurador inlcui o controle de qualidade dos dados de pesquisa biológica destinados à publicação e, em outra etapa, a extração e organização de dados da literatura científica. Esse trabalho de curadoria é feito por meio de protocolos padronizados e vocabulários controlados que permitem ainteroperabilidade de banco de dados biológico . Os biocuradores se comunicam com pesquisadores para garantir que as informações selecionadas são precisas, e promovem a conexão de dados científicos de diferentes fontes. Os biocuradores (também chamados de curadores científicos, curadores de dados ou anotadores ) foram reconhecidos como os "catalogadores de museus da era da Internet".  
+
+
+== Curadoria e anotação ==
+Na anotação de genomas, por exemplo, os biocuradores geralmente trabalham com ontologias biomédicas : vocabulários estruturados e controlados que abrangem muitos domínios do conhecimento biológico e médico, como as Ontologias Biomédicas Abertas. 
+Os biocuradores, em linhas gerais, promovem as diretrizes de nomenclaturas de genes e participam dos comitês de nomenclatura gênicas de de organismos modelo, frequentemente em colaboração com o Comitê de Nomenclatura Gênica  HUGO ( HGNC ). Eles também apoiam outras diretrizes de nomenclatura padronizadas, como as fornecidas pelo Comitê de Nomenclatura da União Internacional de Bioquímica e Biologia Molecular (IUBMB),  como o número EC, utilizado para padronizar tipos diferentes de enzimas. 
+
+
+== Sociedade Internacional de Biocuração (ISB) ==
+A Sociedade Internacional de Biocuração (ISB) foi fundada em 2008; a organização sem fins lucrativos "promove o campo da biocuração e oferece um fórum para troca de informações por meio de reuniões e workshops". A sociedade possui encontros anuais para a comunidade de biocuradores. 
+
+
+== Sobreposição com Wikipedia ==
+Há alguma sobreposição entre o trabalho dos biocuradores e a Wikipedia, com as fronteiras entre bancos de dados científicos e os dados na Wikipedia cada vez menos distinguíveis.    Bancos de dados como o Rfam   e o Protein Data Bank  por exemplo, fazem usam a  Wikipedia e seus editores para seleção de informações informações.   No entanto, a maioria dos bancos de dados oferece dados estruturados que podem ser pesquisados  por programação. Isso não é possível de forma simples na Wikipédia. O desenvolvimento do projeto Wikidata, que visa estruturar o conhecimento da Wikipédia, tende a tornar os projetos de biocuradoria e os projetos Wikimedia cada vez mais interligados.  
+
+
+== Curadoria auxiliada por mineração de texto ==
+Há um interesse recente na exploração de tecnologias de processamento de linguagem natural e mineração de texto para permitir uma extração sistemática de informações para subsequente curadoria manual. O uso de técnicas de mineração de texto para vários estágios da curadoria, desde a detecção inicial de artigos relevantes (triagem) até a extração de anotações e relacionamentos de entidades, é parte de diversos sistemas especializados. 
+
+
+== Curadoria da comunidade vs. especialistas ==
+A Curadoria da Comunidade aproveita a inteligência da comunidade na curadoria do conhecimento, e é uma  promessa para lidar com o grande fluxo de conhecimento biológico. A curadoria por comunidades é exemplificada em projetos do tipo wiki, como bio-wikis. 
+Para aumentar a curadoria da comunidade em bio-wikis, o AuthorReward,  uma extensão do MediaWiki foi desenvolvidoa para recompensar os esforços de comunidade na curadoria de conhecimento. O AuthorReward fornece às bio-wikis uma métrica de autoria; quantifica as contribuições dos pesquisadores, considerando adequadamente a quantidade e a qualidade da edição e produz autoria explícita e automática de acordo com suas contribuições quantitativas. 
+O RiceWiki, um banco de dados baseado em wiki para curadoria comunitária de genes do arroz, é uma demonstração viva equipada com o AuthorReward, disponível em http://ricewiki.big.ac.cn/index.php/Os01g0883800 . 
+
+
+== Veja também ==
+Bioinformática
+Bases de dados biológicas
+Curadoria digital
+
+
+== Referências ==

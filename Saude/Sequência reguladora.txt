@@ -1,0 +1,28 @@
+Uma sequência reguladora (também denominada região reguladora ou "elemento regulador") é um segmento de ADN (DNA) onde as proteínas de união ao ADN, tais como os factores de transcrição, se ligam preferencialmente. Estas regiões ou sequências reguladoras, que correspondem a traços normalmente curtos do ADN, encontram-se posicionadas adequadamente no genoma, usualmente a uma curta distância “corrente acima” do gene que regulam. Como exemplo, estas proteínas reguladoras podem recrutar o complexo proteíco ARN polimerase e, desta forma, controlar a expressão génica e, portanto, a expressão das proteínas.        
+As sequências reguladoras podem-se encontrar também no ARN mensageiro (RNAm), mas não estão, de maneira geral, tão bem estudadas como as do ADN. 
+
+
+== Exemplos ==
+Caixa CAAT
+Caixa CCAAT
+Operador, elemento de um operão
+Caixa Pribnow
+Caixa TATA
+Elemento SECIS, ARNm
+Sinal de poliadenilação, ARNm
+Caixa A
+Caixa Z
+Caixa C
+Caixa E
+Caixa G
+
+
+== Também na Wikipédia ==
+Regulação genética
+Operão
+Promotor
+Promotor mínimo
+
+
+== Ligações externas ==
+ORegAnno - Open Regulatory Annotation Database

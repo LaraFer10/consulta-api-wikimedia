@@ -1,0 +1,4 @@
+Easi-CRISPR (Adições eficientes com inserções de ssDNA - CRISPR) é uma tecnologia aprimorada de edição de genes que suporta a inserção específica de grandes segmentos de DNA exógeno, gerando camundongos modificados para algumas aplicações muito mais eficientemente do que os métodos CRISPR ou de direcionamento de genes padrão. O Easi-CRISPR resolve o principal problema da engenharia do genoma animal, nomeadamente a ineficiência da inserção de cassete de ADN direcionada.
+
+
+== Referências ==

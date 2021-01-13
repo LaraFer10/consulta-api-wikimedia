@@ -1,0 +1,19 @@
+Liases são enzimas que adicionam ou removem elementos de água, amônia ou dióxido de carbono.
+
+
+== Nomenclatura ==
+A determinação do nome das enzimas é normatizada por um comitê especializado , o Nomenclature Committee of the International Union of Biochemistry and Molecular Biology (NC-IUBMB).
+
+
+=== Classes de Liases ===
+EC4.1 - Liases carbono-carbono
+EC4.2 - Liases carbono-oxigênio
+EC4.3 - Liases carbono-nitrogênio
+EC4.4 - Liases carbono-enxofre
+EC4.5 - Liases carbono-halogênio
+EC4.6 - Liases carbono-fósforo
+EC4.99 - Outras liases
+
+
+== Ligações externas ==
+Enzimas do grupo EC.4

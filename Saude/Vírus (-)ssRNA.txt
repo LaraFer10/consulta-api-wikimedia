@@ -1,0 +1,26 @@
+Vírus (-)ssRNA (do inglês, negative-sense single-stranded RNA viruses) são vírus que possuem material genético constituído por RNA fita simples senso negativo. No Sistema de Classificação de Baltimore, tais vírus pertencem ao grupo V, que compreende 8 famílias virais.
+
+
+== Características gerais ==
+Os vírus do grupo V possuem genoma linerar, com tamanho variando de 9 a 19 Kb, podendo ser composto por 1 ou até 8 segmentos. A ordem Mononegavirales (mono = "um", nega = "negativo") é composta por vírus que apresentam genoma com apenas um segmento. Todos os vírus (-)ssRNA possuem partículas virais com capsídeos de simetria helicoidal. Neste grupo, a única família viral que apresenta vírions não envelopados é a Ophioviridae, que é composta por vírus que infectam plantas. O grupo V reune muitos vírus que são agentes etiológicos de doenças humanas: sarampo (Paramyxoviridae), gripe (Orthomyxoviridae), raiva (Rhabdoviridae), ebola (Filoviridae), hantavirose (Bunyaviridae), febre de Lassa (Arenaviridae).No que diz respeito à replicação destes vírus, tendo em vista que normalmente as células hospedeiras não codificam RNA polimerases RNA-dependente, o material genético viral (senso negativo), isoladamente, não é infeccioso a menos que este seja transcrito a senso positivo por uma RNA polimerase viral. É comum cada partícula viral destes vírus conter RNA polimerases empacotadas, as quais atuarão prontamente para gerar cópias infectivas (i.e. senso positivo) do genoma. No entanto, alguns vírus de genoma segmentado não apresentam material genético estritamente senso negativo, mas sim ambisenso. Nestas situações, como observado nas famílias Arenaviridae e Bunyaviridae, o genoma viral é parte negativo e parte positivo. Cada segmento de RNA codifica dois genes, um no senso negativo e outro no positivo. Genes localizados no senso negativo devem ser transcritos em mRNA para serem expressos. Já aqueles em senso positivo servem de molde para a síntese de uma fita complementar senso negativo, a qual é posteriormente transcrita a mRNA. Durante a montagem dos nucleocapsídeos, os vírus de genomas segmentados devem empacotar uma cópia de cada segmento de RNA nos vírions em formação. No entanto, alguns dos vírus que infectam plantas empacotam cada um dos segmentos em um capsídeo diferente. Para que a replicação viral seja bem sucedida, os diferentes segmentos gênicos são requeridos. A infecção só ocorrerá se todos os segmentos estiverem disponíveis simultaneamente no interior da célula hospedeira.
+
+
+== Classificação taxonômica dos vírus (-)ssRNA ==
+Abaixo estão listadas as famílias que compõem o grupo V:
+
+
+=== Ordem Mononegavirales ===
+Bornaviridae
+Filoviridae
+Paramyxoviridae
+Rhabdoviridae
+
+
+=== Famílias sem ordem atribuída ===
+Arenaviridae
+Bunyaviridae
+Ophioviridae
+Orthomyxoviridae
+
+
+== Referências ==

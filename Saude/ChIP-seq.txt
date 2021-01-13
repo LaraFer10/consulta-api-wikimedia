@@ -1,0 +1,24 @@
+ChIP-seq é um método utilizado para analisar a interação de proteínas com o DNA. ChIP-seq combina imunoprecipitação da cromatina (ChIP) com sequenciamento de DNA massivamente paralelo para identificar os sítios de ligação de DNA associado a proteínas. Ele pode ser usado para mapear com precisão os sítios de ligação de qualquer proteína de interesse no genoma. Anteriormente, o método mais popular para estabelecer interações DNA-proteína era ChIP-on-chip, que combina a imunoprecipitação da cromatina com a hibridação em microarranjos de DNA 
+
+
+== Usos ==
+O principal uso de ChIP-seq é estudar o efeito de fatores de transcrição e outras proteínas ligadas ao DNA no fenótipo. 
+Determinar  como as proteínas interagem com o DNA para regular a expressão do gene é essencial para a plena compreensão de muitos processos biológicos e estados de doença. Estas informações epigenéticas são complementares para o genótipo e análise de expressão. ChIP-seq é uma alternativa para ChIP-chip, que requer uma matriz de hibridação e necessariamente introduz um viés, pois uma matriz é restrito a um número fixo de sondas.
+Sítios específicos de DNA  em interação física direta com fatores de transcrição e outras proteínas podem ser isoladas por imunoprecipitação da cromatina. Através de ChIP é produzida uma biblioteca de sítios de DNA alvo  ligados a uma proteína de interesse in vivo. Análises do sequenciamento massivamente paralelo são utilizadas em conjunto com  bases de dados de genomas completos para analisar o padrão de interação  de qualquer proteína com o DNA, 
+ou o padrão de qualquer modificação epigenética da cromatina. Isso pode ser aplicado para o conjunto "ChIP'ável"  de proteínas e modificações, tais como fatores de transcrição, polimerases e maquinário de transcrição, proteínas estruturais, modificações proteicas, e de modificações do DNA. 
+
+
+== Metodologia ==
+
+
+=== Imunoprecipitação cromatina (ChIP) ===
+A imunoprecipitação por cromatina é um método utilizado para a acumulação específica de sequências de ADN curtas associadas à proteína de interesse em células vivas   células vivas. Um procedimento típico inclui as seguintes etapas:
+
+Formação de ligações cruzadas reversíveis entre DNA e proteínas interagindo com ele
+Isolamento de DNA e clivagem em fragmentos por ultra-sonografia ou endonucleases
+Precipitação por anticorpos específicos contra a proteína de interesse
+Destruição de ligações cruzadas entre proteína e DNA, purificação de DNAComo resultado, é possível identificar especificamente os fragmentos de DNA com os quais a proteína em estudo estava ligada.
+Essa técnica tem várias limitações. Portanto, geralmente para a ChIP, é necessário um número significativo de células (cerca de 10 milhões), o que dificulta a utilização desse método em organismos modelo pequenos e também limita o número de experimentos que podem ser realizados com uma amostra valiosa. Um número de métodos foi desenvolvido para superar esta limitação, por exemplo Nano-ChIP-seq 
+
+
+== Referências ==

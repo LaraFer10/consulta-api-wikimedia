@@ -1,0 +1,13 @@
+As pirimidinas são compostos orgânicos semelhantes ao benzeno, mas com um anel heterocíclico: dois átomos de nitrogénio substituem o carbono nas posições 1 e 3.
+Três das bases dos ácidos nucleicos, a citosina, a timina e o uracila, são derivados pirimídicos. No ADN, as duas primeiras formam pontes de hidrogénio com as purinas complementares.
+
+
+== Síntese de Pirimidinas em Saccharomyces cerevisiae ==
+A síntese de pirimidinas inicia-se com a formação de carbamoil-fosfato a partir do ATP, dióxido de carbono e glutamina. O carbamoil-fosfato é posteriormente ligado ao aspartato - com a libertação do fosfato - originando o carbamoiil-aspartato, em seguida,  uma reação catalisada pela di-hidrorotase forma o di-hidrorotato. Depois de se formar o anel cíclico, irá ocorrer uma desidrogenação,na qual o di-hidrorotato é convertido em orotato, este irá reagir com o PRPP (fosforribosil pirofosfato),originando o ribonucleótido monofosfato de orotidina (OHP). O OHP sofre uma descarboxilação dando origem ao monofosfato de uridina (UMP) que vai sofrer duas fosforilações consecutivas, sendo o grupo fosfato obtido do ATP e obtém-se o trifosfato de uridina (UTP) dando origem ao CTP por meio da enzima CTPsintase.
+Em leveduras, estes dois passos são catalisados por dois domínios enzimáticamente ativos da mesma proteínas (Ura2p) - Carbamoil-fosfato sintetase e aspartato carbamoiltransferase, respectivamente. Estes domínios enzimáticos, da mesma proteína, são codificados por um longo gene, designado por URA2. O passo seguinte consiste na circularização da molécula, para tal ocorre a libertação de uma molécula de água do carbamoil-aspartato ocorrendo a formação do dihidroorotato. Esta reacção é executada pela enzima dehidroorotase (codificada pela enzima URA4)
+
+
+== Derivados da pirimidina ==
+
+
+== Referências ==

@@ -1,0 +1,27 @@
+A Classificação de Baltimore é um sistema de classificação viral desenvolvida pelo biólogo americano David Baltimore, baseada na síntese viral de RNA mensageiro (mRNA). O sistema agrupa os vírus em sete classes dependendo do seu genoma (DNA, RNA, cadeia dupla, cadeia simples), de sua replicação de DNA e se o sentido de um genoma de RNA de fita simples é positivo ou negativo.
+A classificação de Baltimore também tem íntima correspondência com a maneira de replicar o genoma, portanto, a classificação de Baltimore é útil para agrupar vírus em critérios de transcrição e replicação. Certos assuntos relativos a vírus estão associados a vários grupos específicos de Baltimore, como formas específicas de tradução de mRNA e a variedade de hospedeiros de diferentes tipos de vírus. Características estruturais, como a forma do capsídeo viral, que armazena o genoma viral, e a história evolutiva dos vírus não estão necessariamente relacionadas aos grupos de Baltimore.
+A classificação de Baltimore foi criada em 1971 pelo virologista David Baltimore. Desde então, tornou-se comum entre os virologistas usar a classificação de Baltimore junto com a taxonomia de vírus padrão, que é baseada na história evolutiva. Em 2018 e 2019, a classificação de Baltimore foi parcialmente integrada à taxonomia do vírus com base na evidência de que certos grupos descendiam de ancestrais comuns. Vários reinos, reinos e filos agora correspondem a grupos específicos de Baltimore.
+
+
+== Classificações ==
+I: Vírus dsDNA: vírus DNA cadeia dupla (e.g. Adenovirus, Herpesvirus, Poxvirus)
+II: Vírus ssDNA: vírus DNA cadeia simples (e.g. Parvovirus)
+III: Vírus dsRNA: vírus RNA cadeia dupla (e.g. Reovirus)
+IV: Vírus (+)ssRNA: vírus RNA cadeia simples positivo (e.g. Picornavirus, Togavirus)
+V: Vírus (-)ssRNA: vírus RNA cadeia simples negativo (e.g. Orthomyxovirus, Rhabdovirus)
+VI: Vírus ssRNA-RT: vírus RNA cadeia simples com DNA intermediário (e.g.     Retrovirus)
+VII: Vírus dsDNA-RT: vírus DNA cadeia dupla com RNA intermediário (e.g. Hepadnavirus)
+
+
+== Notas ==
+
+
+== Referências ==
+"Virus Taxonomy Portal." (Website.) Viral Bioinformatics Resource Center & Viral Bioinformatics - Canada. Retrieved on 2007-09-27.
+
+
+== Ligações externas ==
+Family Groups - The Baltimore Method
+The Universal Virus Database of the International Committee on Taxonomy of Viruses
+The taxonomy portal of the Genbank database
+ViralZone

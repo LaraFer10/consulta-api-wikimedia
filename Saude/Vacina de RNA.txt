@@ -1,0 +1,90 @@
+Uma vacina de RNA ou vacina mRNA (mensageiro RNA) é um tipo de vacina que usa uma cópia feita pelo homem de um químico natural chamado RNA mensageiro (mRNA) para produzir uma resposta imune. A vacina transfecta moléculas de RNA sintético em células humanas. Uma vez dentro das células, a vacina'RNA funciona como mRNA, fazendo com que as células construam a proteína estrangeira que normalmente seria produzida por um patógeno (como um vírus) ou por uma célula cancerosa.
+
+
+== COVID-19 ==
+No início de dezembro de 2020, havia duas novas vacinas de mRNA que haviam concluído o período de oito semanas após os testes em humanos exigidos e aguardavam autorização de uso emergencial como vacinas COVID-19: mRNA-1273 da Moderna e Tozinameran de uma parceria BioNTech/Pfizer.
+
+
+== Eficácia ==
+Não está claro por que as novas vacinas mRNA COVID-19 da Moderna e BioNTect/Pfizer mostraram taxas potenciais de eficácia de 90 a 95%, quando os testes anteriores de medicamentos mRNA em patógenos que não fossem COVID-19 não eram tão promissores e tiveram que ser abandonados nas fases iniciais dos ensaios.
+Além da eficácia de potenciais vacinas mRNA em condições de ensaio clínico, a eficácia efetiva das vacinas distribuídas de mRNA também pode ser difícil de sustentar em níveis elevados. Ao contrário das moléculas de DNA, a molécula de mRNA é uma molécula muito frágil que se degrada em poucos minutos em um ambiente exposto, e, portanto, as vacinas mRNA precisam ser transportadas e armazenadas a temperaturas muito baixas. Fora da célula humana, ou seu sistema de entrega de drogas, a molécula de mRNA também é rapidamente quebrada pelo corpo humano.
+
+
+== Mecanismo ==
+
+As vacinas mRNA operam de uma maneira muito diferente de uma vacina tradicional. As vacinas tradicionais estimulam uma resposta de anticorpos injetando um humano com antígenos (proteínas ou peptídeos), um vírus atenuado ou um vetor viral de codificação de antígenos recombinantes. Esses ingredientes são preparados e cultivados fora do corpo humano. Em contraste, as vacinas mRNA inserem um fragmento sinteticamente criado da sequência de RNA de um vírus diretamente nas células humanas (conhecida como transfecção).
+As vacinas mRNA não afetam ou reprogramam o DNA dentro da célula – o fragmento de mRNA sintético é uma cópia da parte específica do RNA viral que carrega as instruções para construir o antígeno do vírus (um pico de proteína, no caso das principais vacinas coronavírus mRNA); esse equívoco tornou-se uma teoria da conspiração desmascarada em relação às vacinas mRNA, à medida que as vacinas COVID-19 mRNA ganharam destaque.
+O mRNA deve se degradar nas células após a produção da proteína estrangeira, no entanto, porque a formulação específica (incluindo a composição exata do revestimento de entrega de medicamentos de nanopartículas lipídicas) são mantidas em sigilo pelos fabricantes das vacinas mRNA candidatas, tais detalhes e tempos permanecem a ser confirmados por um estudo posterior.
+A velocidade de design e produção é uma importante vantagem das vacinas mRNA; A Moderna projetou a vacina MRNA-1273 em 2 dias. Outra vantagem das vacinas de RNA é que, como os antígenos são produzidos dentro da célula, estimulam a imunidade celular, bem como a imunidade humoral.
+
+
+== Delivery ==
+Os métodos de entrega de medicamentos podem ser amplamente classificados se a transferência de RNA para células acontece dentro (in vivo) ou fora (ex vivo) do organismo.
+
+
+=== Ex vivo ===
+As células dendríticas (DCs) são um tipo de células imunes que exibem antígenos em suas superfícies, levando a interações com células T para iniciar uma resposta imune. Os DCs podem ser coletados dos pacientes e programados com mRNA. Então, eles podem ser re-administrados de volta em pacientes para criar uma resposta imune.
+
+
+=== In vivo ===
+Desde a descoberta da expressão de mRNA in vitro transcrita in vivo após a administração direta, as abordagens in vivo tornaram-se cada vez mais atraentes. Eles oferecem algumas vantagens sobre os métodos ex vivo, particularmente evitando o custo de colheita e adaptação de DCs de pacientes e imitando uma infecção regular. Ainda há obstáculos para que esses métodos sejam superados para que a vacinação de RNA seja um procedimento potente.
+
+
+==== Injenção nua de mRNA ====
+hEste modo de absorção de mRNA é conhecido há mais de duas décadas e os primeiros studos clínicos mundiais (Tuebingen, Alemanha) usando injeções diretas de mRNA para vacinação consistiam em injeções de mRNA nu na derme, e o uso de RNA como ferramenta de vacina foi descoberto na década de 1990 na forma de mRNA auto-amplificador.
+
+
+==== Poliplexos ====
+Polímeros cônicos podem ser misturados com mRNA para gerar poliplexes que protegem o mRNA recombinante de RNases e auxiliam sua penetração nas células. Protamina é um peptídeo cátônico natural e foi usado para complexo de mRNA para vacinação.
+
+
+==== Nanopartículas lipídicas ====
+Em 2018, a primeira droga siRNA, Onpattro, foi aprovada pela FDA para usar nanopartículas lipídicas como sistema de entrega de medicamentos pela primeira vez. Encapsular a molécula de mRNA em nanopartículas lipídicas foi um avanço crítico para a produção de vacinas mRNA viáveis, resolvendo uma série de barreiras técnicas fundamentais na entrega da molécula de mRNA na célula humana. Principalmente, o lipídio fornece uma camada de proteção contra a degradação, permitindo uma saída translacional mais robusta.
+
+
+=== Vetores Virais ===
+Além dos métodos de entrega não virais, os vírus RNA foram projetados para obter respostas imunológicas semelhantes. Os vírus típicos do RNA usados como vetores incluem retrovírus, lentivírus, alfavírus e rabdovírus, cada um dos quais pode diferir em estrutura e função. Estudos clínicos têm utilizado tais vírus em uma série de doenças em animais modelo, como camundongos, frangos e primatas.
+
+
+== Efeitos colaterais e riscos ==
+A reactogenicidade é semelhante à das vacinas convencionais, não-RNA; no entanto, aqueles suscetíveis a uma resposta autoimune podem ter uma reação adversa às vacinas de RNA. Os fios de mRNA da vacina podem provocar uma reação imune não intencional; para minimizar isso, as sequências de vacinas mRNA são projetadas para imitar as produzidas por células humanas.
+O sistema de entrega de drogas que segura a molécula de mRNA e protege os frágeis fios de mRNA de serem quebrados antes de entrarem na célula humana são nanopartículas lipídicas pegylated que podem ser desencadear suas próprias reações imunes, e causar danos ao fígado em doses mais altas. Fortes efeitos reageogênicos foram relatados em testes de novas vacinas COVID-19 RNA.
+
+
+=== Universal ===
+Antes de 2020, nenhuma plataforma tecnológica de mRNA (droga ou vacina) havia sido autorizada para uso em humanos, de modo que havia risco de efeitos desconhecidos, tanto de curto como de longo prazo (como respostas autoimunes ou doenças).
+
+
+=== Armazenamento ===
+Como o mRNA é frágil, a vacina deve ser mantida em temperaturas muito baixas para evitar degradar e, assim, dar pouca imunidade efetiva ao receptor. A vacina BNT162b2 mRNA deve ser mantida a −70 °C (−94 °F). Moderna diz que sua vacina MRNA-1273 pode ser armazenada a −20 °C (−4 °F), que é comparável a um freezer doméstico, e que permanece estável entre 2 e 8 °C (36 e 46 °F).
+
+
+== Vantagens ==
+
+
+=== Vacinais Tradicionais ===
+As vacinas de RNA oferecem vantagens específicas em relação às vacinas tradicionais de proteínas. Como as vacinas de RNA não são construídas a partir de um patógeno ativo (ou mesmo de um patógeno inativado), elas não são infecciosas. Em contrapartida, as vacinas tradicionais exigem a produção de patógenos, o que, se feito em grandes volumes, poderia aumentar os riscos de surtos localizados do vírus na unidade de produção.
+
+
+=== Vacinas de DNA ===
+Além de compartilhar as vantagens das vacinas teóricas de DNA sobre vacinas tradicionais de proteína estabelecidas, a vacinação de RNA oferece outros benefícios. O mRNA é traduzido no citosol, então não há necessidade de o RNA entrar no núcleo celular, e o risco de ser integrado ao genoma hospedeiro é evitado.
+Uma codificação ORF adicional para um mecanismo de replicação pode ser adicionada para amplificar a tradução de antígeno e, portanto, a resposta imune, diminuindo a quantidade de material inicial necessário.
+
+
+== História ==
+Pesquisadores do Instituto Salk, universidade da Califórnia-San Diego, e uma empresa de biotecnologia com sede nos EUA, Vical Incorporated, publicaram um trabalho em 1989 demonstrando que o mRNA, usando uma nanopartícula lipossômica para entrega de drogas, poderia transfetar o mRNA em uma variedade de células eucarióticas. Em 1990, Jon A. Wolff et al. na Universidade de Wisconsin, relataram resultados positivos onde "naked" (ou desprotegido) mRNA foi injetado no músculo dos camundongos.
+O uso de vacinas de RNA remonta ao início da década de 1990. A demonstração in vitro de mRNA em animais foi relatada pela primeira vez em 1990, e uso como imunização proposta pouco depois. Em 1993, Martinon demonstrou que o RNA encapsulado lipsome poderia estimular as células T in vivo, e em 1994, Zhou & Berglund publicou a primeira evidência de que o RNA poderia ser usado como uma vacina para obter resposta imune humoral e celular contra um patógeno.
+hA bioquímica húngara Katalin Kariko tentou resolver algumas das principais barreiras técnicas para introduzir o mRNA em células humanas na década de 1990. Kariko fez parceria com Drew Weissman, e em 2005 eles publicaram um artigo conjunto que resolveu uma das principais barreiras técnicas usando nucleosídeos modificados para obter mRNA dentro de células humanas sem detonar o sistema de defesa do corpo.
+Até 2020, as empresas de biotecnologia mRNA apresentaram resultados ruins testando medicamentos mRNA para doenças cardiovasculares, metabólicas e renais; metas selecionadas para o câncer; e doenças raras como a síndrome de Crigler-Najjar, com a maioria descobrindo que os efeitos colaterais da inserção do mRNA eram muito graves. As vacinas mRNA para uso humano foram desenvolvidas e testadas para as doenças raiva, Zika, citomegalovírus e influenza, embora nenhuma delas tenha sido adotada anteriormente para uso generalizado.
+Antes de dezembro de 2020, nenhum medicamento ou vacina mRNA havia sido licenciado para uso em humanos, mas tanto a Moderna quanto a Pfizer/BioNTech estavam perto de garantir autorização de uso emergencial para suas vacinas COVID-19 baseadas em mRNA, que haviam sido financiadas pela Operação Warp Speed (diretamente no caso da Moderna e indiretamente para a Pfizer/BioNTech).
+
+
+== Sociedade e cultura ==
+O uso de vacinas baseadas em RNA tem sido a base de desinformação substancial que circulou nas mídias sociais, alegando erroneamente que o uso de RNA de alguma forma altera o DNA de uma pessoa', ou enfatizando o registro de segurança anteriormente desconhecido da tecnologia& #039,, ignorando o acúmulo de evidências recentes de ensaios envolvendo dezenas de milhares de pessoas.
+
+
+== Ligações externas ==
+Roberts J (junho de 2020). «Five things you need to know about: mRNA vaccines». Horizon 
+Blackburn L (outubro de 2020). «RNA vaccines: an introduction». PHG Foundation. University of Cambridge 
+«Understanding mRNA COVID-19 Vaccines]». Centers for Disease Control and Prevention. Novembro de 2020 
+«UK authorises Pfizer/BioNTech COVID-19 vaccine». Department of Health and Social Care. 2 de dezembro de 2020

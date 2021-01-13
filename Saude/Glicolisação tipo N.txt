@@ -1,0 +1,29 @@
+
+== Glicolisação tipo N ==
+Glicosilação é um processo no qual açúcares são adicionados em proteínas e lipídios, transformando-os em glicoproteínas e glicolipídeos. 
+A glicosilação tipo N é uma forma de glicosilação de proteínas a qual ocorre no retículo endoplasmático simultaneamente à tradução da proteína e é finalizada no Complexo de Golgi e apresenta este nome, pois a adição do oligossacarídeo ocorre no grupo terminal amina (NH2) de um resíduo de asparagina.
+
+
+== Onde ocorre ==
+O processo de formação de oligossacarídeos conectados por ligações N-glicosídicas tem início no retículo endoplasmático (RE), e depois as glicoproteínas são encaminhadas ao Complexo de Golgi para terem seu processo finalizado. 
+
+
+== Em quem ocorre ==
+Em todos organismos eucariotos, incluindo as leveduras.
+
+
+== Função ==
+Tem como funções proteger, no caso das proteínas, contra proteases, reconhecimento celular, migração e tempo de vida celular, além de interferir na conformação final das proteínas dentro do retículo endoplasmático. 
+
+
+== Como ocorre o processo ==
+No Retículo EndoplasmáticoO processo de glicolisação tipo N tem início com a montagem da árvore de açúcares para a formação do oligossacarídeo. Estes oligossacarídeos são formados por dois resíduos de N-acetilglicosamina, nove manoses e três glicoses e todo esse composto fica aderido a membrana do retículo endoplasmático por meio de um lipídeo chamado dolicol e serão transferidos de uma só vez para a proteína. O dolicol serve como transportador do oligossacarídeo e é o “local” onde ocorre a montagem do oligossacarídeo na membrana do retículo. O dolicol é formado pela cis-preniltransferase começando pelo farnesilpirofosfato e pela adição de isopreníodes (cadeias carbônicas de 5 carbonos). 
+Inicialmente, o dolicol encontra-se bifosfatado e, por esse motivo, virado para o meio externo (citoplasma) devido a ação da flipase. Nessa conformação, ocorre a remoção de um dos fosfatos e a ele são adicionadas duas N-acetilglicosaminas. Após esta adição, o fosfato juntamente com os dos açúcares é novamente ligado ao dolicol. A modulação desse processo é feita por glicosiltransferases, que captam monossacarídeos de moléculas doadoras como UDP, GDP e CMP e as transferem para a cadeia oligossacarídea que está sendo formada. Posteriormente, a enzima manosetransferase age e transfere cinco manoses à árvore e, neste momento, a flipase atua virando o dolicol glicosilado para o lúmen do retículo. Agora são adicionadas mais quatro manoses e três glicoses e o oligossacarídeo está pronto para ser transferido para a proteína pela ação da enzima olissacarídeotransferase, que reconhece os resíduos de asparagina. O processo de transferência da árvore para a proteína é também chamando de asparagina-ligada.
+Antes de ser encaminhada por meio de uma vesícula para o Aparato de Golgi, a proteína ainda passa por modificações desses açúcares. Ocorre uma “poda” de alguns açúcares (três glicoses são retiradas pelas glucosidases I e II e uma manose, pela manosidase RE) a qual sinalizar que a proteína está corretamente enovelada e pronta para seguir para o Golgi. 
+
+No Golgi	No Aparato de Golgi, ocorrem outras modificações sucessivas em etapas com a adição e a retirada de um monossacarídeo por vez, processo diferente do que ocorrera no retículo endoplasmático. Dois tipos de oligossacarídeos N-ligados podem ser formados: os ricos em manoses e os complexados. 
+Quando chega ao Golgi, na cisterna cis, há a retirada de alguns dos grupos de manoses pelas enzimas manosidase I. Na lamela medial, ocorre adição de N-acetilglicosamina pela N-acetilglicosamidatransferase e retirada de manoses pela manosidase II. Na cisterna trans, ocorre adição de galactose pela galactosetransferase e adição de ácido siálico.
+Existe uma gama imensa de diferentes oligossacarídeos complexos por causa das diferentes proporções e posições que são adicionadas. As principais diferenças notadas são representadas pelo número de ramificações e a quantidade de resíduos de ácido siálico. É importante salientar que o ácido siálico é o único monossacarídeo com carga resultante negativa.
+
+
+== Referências ==

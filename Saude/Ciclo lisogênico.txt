@@ -1,0 +1,25 @@
+O ciclo lisogênico é um dos dois ciclos usados por vírus para sua reprodução, sendo a outra o ciclo lítico. No ciclo lisogênico, o vírus não se reproduz imediatamente, em vez disso, combina as suas instruções genéticas com as da célula hospedeira. Uma vez infectada, a célula continua as suas operações normais, como a reprodução e o ciclo celular. Durante o processo de divisão celular, o material genético da célula, juntamente com o material genético do vírus que foi incorporado, sofre duplicação e em seguida é dividido equitativamente entre as células-filhas. Assim, uma vez infectada, a célula começará a transmitir o vírus sempre que passar por mitose e todas as células estarão infectadas também. Sintomas causados por um vírus que se reproduz desta maneira, num organismo multicelular, podem demorar a aparecer. Doenças causadas por vírus lisogênico tendem a ser incuráveis. Alguns exemplos incluem a SIDA e a herpes.Vale a pena lembrar que o vírus incorporado na célula pode "despertar" por algum motivo como a radiação, quimioterapia, raios X etc, iniciando o ciclo lítico.
+
+
+== Diferenças entre o ciclo lisogênico e o ciclo lítico ==
+A disseminação do rna viral no ciclo lítico é feita pela produção de milhares de vírus capazes de infectar outras células, enquanto que no ciclo lisogênico, essa disseminação é realizada pela reprodução normal da bactéria infectada.
+O ciclo lisogênico  não provoca a lise da célula hospedeira.
+
+
+== Conversão lisogênica ==
+Em algumas interações entre vírus lisogênicos e bactérias, pode ocorrer um fenômeno denominado conversão lisogênica. Nesse fenômeno o vírus induz uma mudança no fenótipo da bactéria infectada. As mudanças podem envolver a membrana externa da célula, tornando-a impermeável a outros vírus, ou ainda, aumentando a capacidade patogênica da bactéria para um hospedeiro. 
+
+A conversão lisogênica mostrou-se capaz de formar biofilme em Bacillus anthracis. Cepas de Bacillus anthracis curados não foram capazes de formar o biofilme.
+Em Bacillus subtilis, Bacillus thuringiensis e Bacillus cereus, a conversão lisogênica provocou o aumento da taxa e extensão da esporulação. A esporulação produz endósporos, que são formas bacterianas metabolicamente dormentes com alto grau de resistência à temperatura, radiação ionizante e antibióticos.
+Corynebacterium diphtheriae produz a toxina da difteria apenas quando infectada pelo fago β. Nesse caso, o gene que codifica a toxina é transportada pelo fago, não pela bactéria.
+Vibrio cholerae é uma cepa não tóxica que torna-se tóxica, produzindo a toxina da cólera, quando infectada com o fago CTXφ.
+Shigella dysenteriae, que causa disenteria, apresenta toxinas pertencentes a dois grupos principais, Stx1 e Stx2, cujos genes são considerados parte do genoma de prófagos lambdoides.
+Certas cepas de Clostridium botulinum, que causa botulismo, expressa a toxina botulínica de genes do vírus.Bactérias não virulentas também transformaram-se em altamente virulentas com a conversão lisogênica, com os fatores virulentos pertencentes ao vírus.
+
+
+== Vírus e câncer ==
+Alguns vírus lisogênicos são capazes de provocar o desenvolvimento de câncer. Em células normais, os processos de crescimento e diferenciação são controlados por oncogenes (ou c-oncogenes) que, quando sofrem mutação, podem provocar câncer. Muitos vírus lisogênicos carregam oncogenes (v-oncogenes). Os v-oncogenes são, geralmente, formas mutadas dos c-oncogenes. Se esse vírus infecta uma 
+célula e integra-se  ao genoma celular, o v-oncogene pode levar ao câncer. 
+
+
+== Referências ==

@@ -1,0 +1,26 @@
+Oxigénio dissolvido (OD ou DO), ou por vezes saturação em oxigénio, é uma medida relativa da quantidade de oxigénio que está dissolvido num determinado fluido ou é por ele transportado. A unidade padrão é em geral miligramas por litro (mg/l) ou partes por milhão (ppm). A medida, quando tomando como solvente a água, é utilizada na avaliação da qualidade das massas de água, no controlo da poluição, em ecologia aquática e em diversos outros ramos das ciências do ambiente e, num contexto diferente, tomando como solvente o sangue ou outro qualquer fluido fisiológico, nos estudos de fisiologia da respiração, avaliação do sistema circulatório e em diversos campos da medicina e da fisiologia animal.
+A concentração de oxigênio presente na água vai variar de acordo com a pressão atmosférica (altitude) e com a temperatura do meio. Águas com temperaturas mais baixas têm maior capacidade de dissolver oxigênio; já em maiores altitudes, onde é menor a pressão atmosférica, o oxigênio dissolvido apresenta menor solubilidade.
+Ressalta-se ainda que durante a degradação da matéria orgânica, as bactérias fazem uso do oxigênio nos seus processos respiratórios, podendo vir a causar uma redução de sua concentração no meio.
+
+
+== Medição ==
+Embora existam diversos métodos para medição do oxigénio dissolvido em água por titulometria, modernamente a medição é em geral feita recorrendo a um sensor de oxigénio, em geral um sensor químico de fibras ópticas (optode), acoplado a um adequado sistema electrónico de aquisição de dados.
+Em aplicações no campo da fisiologia e da medicina, a saturação em oxigénio pode ser medida localmente, de forma não invasiva. Em medicina, a oxigenação arterial é em geral medida por oximetria de pulso e a saturação em tecidos à escala periférica pode ser medida por NIRS, técnica que pode ser usada em tecido muscular e em tecido cerebral.
+
+
+== Uso em fisiologia e medicina ==
+
+Em fisiologia animal e medicina, a saturação em oxigénio em geral refere-se à oxigenação do sangue, de um fluido orgânico ou de um qualquer tecido, ou seja quando moléculas de oxigénio (O2) entram nos tecidos do corpo.
+No caso do sangue, a oxigenação ocorre nos pulmões, onde as moléculas de oxigénio são transferidas do ar inspirado para o sangue. Nesse caso, a saturação em oxigénio, ou (O2)-sat, mede a percentagem de hemoglobina no fluxo sanguíneo cujos pontos de ligação estão ocupados por oxigénio.
+Peixes, répteis, anfíbios, invertebrados, plantas e bactérias aeróbicas requerem oxigénio para respiração.
+
+
+== Uso em ecologia e ciências do ambiente ==
+
+Em ciências do ambiente, nomeadamente na avaliação da qualidade do ambiente e em ecologia aquática, a saturação em oxigénio, ou oxigenação ambiental, em geral refere-se a uma medida da quantidade de oxigénio dissolvida numa massa de água ou presente nos fluidos que preenchem os poros de um solo. A oxigenação ambiental é em geral um factor ambiental importante para a avaliação da sustentabilidade e das características dos ecossistemas.
+Um corpo de água bem misturado está plenamente saturado em oxigénio quando se atinge cerca de 10 mg/L de O2 a 15 °C. O nível óptimo de oxigénio dissolvido (OD) em estuários é em geral superior a 6 ppm.
+Insuficiente oxigénio (hipóxia ambiental), geralmente causada pela decomposição de matéria orgânica, acompanhada ou não por poluição por nutrientes, ocorre em massas de água tais como lagoas e rios, tendendo a reduzir, ou mesmo suprimir, a presença de organismos aeróbicos como os peixes.
+A queda na concentração de oxigênio, esta entre as causas mais decorrentes de mortandade de peixes. O valor mínimo de oxigênio dissolvido (OD) para a preservação da vida aquática, estabelecido pela Resolução CONAMA 357/05(2) é de 5,0 mg/L, mas existe uma variação na tolerância de espécie para espécie. As carpas, por exemplo, conseguem suportar concentrações de OD de 3,0 mg/L, sendo que a carpa comum chega até mesmo a sobreviver por até 6 meses em águas frias e sem nenhum Oxigênio Dissolvido, (ANOXIA). Geralmente, os valores de oxigênio dissolvido menores que 2 mg/L, apresentam perigo por indicarem a baixa concentração de Oxigênio dissolvido na água.A desoxigenação aumenta a população relativa de organismos anaeróbicos, em especial de bactérias, resultando em mortandade de peixes e outros efeitos adversos. Estes efeitos causam alterações no equilíbrio ecológico das massas de água, aumentando a concentração de espécies anaeróbicas em detrimento das aeróbicas.
+
+
+== Notas ==

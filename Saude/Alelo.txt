@@ -1,0 +1,37 @@
+Os alelos são as formas alternativas, gerados por mutações, de um mesmo gene. Estes, por sua vez, estão em posições específicas na extensão de um cromossomo ou locus gênico. Algumas vezes, alelos diferentes podem resultar em uma diferente característica fenotípica, como a pigmentação. Porém, a maioria das variações genéticas resultam em pouca ou nenhuma variação observável.
+
+
+== Exemplos ==
+Por exemplo, o gene A que determina a presença de chifres em bovinos. Esse gene possui dois alelos: A e a. O alelo a determina a ausência de chifres (nos machos) e o alelo A determina a presença de chifres. Essa característica apresenta Dominância Completa, ou seja, mesmo que no lócus exista um alelo A e outro a (Aa), o animal apresentará a característica manifestada pelo alelo dominante, que seria o mesmo fenótipo do homozigoto dominante (AA). Em geral, a maioria das características observadas na natureza são controladas por vários genes e cada um com numerosos alelos.
+
+Outros exemplos:Cor das ervilhas nos experimentos de Mendel - Caso de dominância completa: AA ou Aa, fenótipo amarelo; aa, fenótipo verde.
+Cor da flor maravilha (Mirabilis jalapa) - Caso de dominância incompleta: BB, fenótipo branco; BV, fenótipo rósea (intermediário); VV, fenótipo vermelho.
+
+
+== Tipos ==
+A maioria dos organismos são diploides - isto é, apresentam pares de cromossomos homólogos nas suas células, contendo, assim, duas cópias do mesmo gene (ou dois alelos do mesmo gene). Um organismo em que estas duas cópias do genes são idênticas - isto é, têm o mesmo alelo - é um organismo homozigótico, no que diz respeito àquele gene (representado por "AA" ou "aa"). Um organismo em que o mesmo gene é representado por alelos diferentes, é um organismo heterozigótico. Muitas vezes, um dos alelos é "dominante" e o(s) outro(s) "recessivos" - o alelo  "dominante" determina qual a modalidade de uma característica a expressar-se. Por exemplo, no caso da cor das pétalas de uma flor, se o alelo vermelho for dominante em relação ao branco, numa planta heterozigótica (com um alelo vermelho e outro branco), as pétalas serão vermelhas. O alelo recessivo expressar-se-á apenas nas plantas homozigóticas recessivas (com dois alelos para a cor branca).
+Contudo, existem exceções na forma como um heterozigoto se expressa no fenótipo. Uma exceção é o da dominância incompleta quando os alelos "misturam" os seus traços genéticos no fenótipo e com isso, apresentam um fenótipo intermediário. Um exemplo deste fenômeno pode ser observado quando se cruzam as flores Mirabilis jalapa, como mencionado anteriormente. Flores com alelo "V" para a cor vermelha e o alelo "B" para a cor branca, da qual resultam flores cor-de-rosa no caso de a planta ser heterozigótica; isso ocorre devido a uma interação entre esses alelos, resultando na mistura entre as duas cores, gerando um fenótipo intermediário, neste caso: flores cor-de-rosa. 
+Outra exceção é o da codominância onde os alelos expressam simultaneamente seus fenótipos. Por exemplo, através de pétalas brancas e vermelhas na mesma flor ou dois tipos de flor diferentes na mesma planta. A codominância acontece também no caso dos tipos sanguíneos. Uma pessoa com um alelo para o tipo sanguíneo A e outro para o tipo sanguíneo B, resulta no tipo sanguíneo AB.
+Um alelo selvagem é aquele que é considerado "normal" para o organismo em questão, opondo-se aos alelos mutantes que se referem a modificações genéticas relativamente recentes para a espécie.
+
+
+=== Alelos múltiplos ou Polialelos ===
+Quando um determinado caráter é condicionado por três ou mais genes alelos. Embora na polialelia possam existir três ou mais genes alelos expressando um caráter. Em um indivíduo apenas dois deles existirão (genes alelos provenientes do pai e da mãe). A partir dessas variações alélicas formam-se novas combinações genotípicas e fenotípicas. A formação desses novos alelos é consequência de mutações que ocorreram no gene ao longo do tempo.
+
+
+==== Exemplos ====
+Cor da pelagem nos coelhos:Sistema Sanguíneo ABO:
+
+
+=== Alelos Letais ===
+Os alelos letais são genes que levam seu portador à morte prematuramente, são conhecidos por genes letais completos. Em um cruzamento de heterozigotos não resultará em uma proporção clássica mendeliana 3:1, pois o genótipo letal não entra na contagem. Assim, o resultado de um cruzamento apresentará a proporção 2:1. 
+Os genes letais podem ser dominantes ou recessivos e normalmente, agem apenas em homozigose. Por exemplo, a acondroplasia nos humanos. Exemplo de genótipos para gene letal dominante:
+
+Existem também os genes semi letais que desencadeiam a morte depois da fase reprodutiva, como por exemplo, a Doença de Huntington.
+
+
+== Visite ==
+Gregor Mendel
+
+
+== Referências ==

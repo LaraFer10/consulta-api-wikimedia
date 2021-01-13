@@ -1,0 +1,34 @@
+Citocromo P450 2D6 é uma enzima que, em humanos, é codificada pelo gene CYP2D6. CYP2D6 é expressa primariamente no fígado, mas apresenta também alta expressão em áreas do sistema nervoso central, incluindo a substância negra.
+CYP2D6, é um membro do sistema de moonoxigenases citocromo P450 e é uma das enzimas mais importantes no metabolismo de xenobióticos no corpo. Em particular, a  CYP2D6 é responsável pelo metabolismo e eliminação de aproximadamente 25% das drogas utilizadas clinicamente por um processo chamado de O-demetilação.Essa enzima também metaboliza várias substâncias endógenas como hidroxitriptaminas e neuroesteroides.Há uma variação considerável na eficiência e na quantidade de CYP2D6 produzida entra indivíduos. Sendo assim, para drogas que são metabolizadas por CYP2D6, certos indivíduos eliminarão essas drogas rapidamente (metabolizadores ultrarrápidos) enquanto outros o farão lentamente ( metabolizadores lentos). Se uma droga é metabolizada muito rápida a sua eficácia pode ser diminuída, e, se ela é metabolizada muito lentamente, podem aparecer efeitos tóxicos.  Dessa forma, a dosagem de uma droga pode precisar de ajuste, levando em consideração a velocidade do metabolismo por CYP2D6.Além disso, outras drogas podem funcionar como inibidores da atividade da CYP2D6 ou indutores da expressão da enzima, o que pode levar a menor ou maior atividade, respectivamente. Se tal droga for tomada ao mesmo tempo com uma outra droga que seja um substrato de CYP2D6, a primeira pode afetar a taxa de eliminação da segunda através do processo de interação medicamentosa entre drogas.
+
+
+== Gene ==
+O gene é localizado próximo a dois pseudogenes da citocromo P450 no cromossomo 22q13.1. Variantes de transcrição através de splicing alternativo  codificando diferentes isoformas já foram descritas para esse  gene.
+
+
+== Variabilidade genotípica/fenotípica ==
+CYP2D6 apresenta a maior variabilidade fenotípica entre as CYPs, em grande parte devido a polimorfismos genéticos. O genótipo explica a função normal, reduzida ou não existente em diferentes sujeitos.Testes farmacogenômicos estão disponíveis atualmente para identificar pacientes com variações na CYP2D6 e tem sido usados cada vez mais na clínica. A função da CYP2D6 em qualquer sujeito particular pode ser descrita em uma das seguintes formas:
+metabolizador lento – pouca ou nenhuma função de CYP2D6
+metabolizador intermediários – apresenta taxa em algum lugar entre o lento e o extenso
+metabolizador extenso – função de CYP2D6 normal
+metabolizador ultrarrápido – expressa múltiplas cópias do gene da CYP2D6, possuindo função acima do normalO fenótipo da CYP2D6 de pacientes é frequentemente determinado clinicamente através da administração de debrisoquina( um substrato seletivo de CYP2D6) e avaliação subsequente da concentração do metabólito no plasma (4-hidroxidebrisoquina).O tipo de funcionalidade de CYP2D6 de um indivíduo pode influenciar a resposta individual a diferentes drogas metabolizadas por CYP2D6. a natureza do efeito  na resposta ao fármaco dependerá não só do tipo de função da CYP2D6 como também na  medida que o processamento da droga leva em uma substância com efeito similar, mais forte ou mais fraco que a original, ou sem efeito totalmente.Por exemplo, se a  CYP2D6 converte uma droga em um metabólito menos ativo, então os metabolizadores lentos possuirão uma resposta exagerada ao fármaco e efeitos adversos elevados. De forma inversa, se a CYP2D6 produz um metabólito mais ativo, os metabolizadores ultrarrápidos que terão uma resposta exagera e efeitos adversos intensos 
+
+
+== Bases genéticas da variabilidade ==
+A base genética para variabilidade de metabolização é o  alelo CYP2D6, localizado no cromossomo 22. Indivíduos possuindo certas variações alélicas apresentarão função normal, aumentada ou não-existente dependendo da sequência do  DNA.
+
+
+== Fatores étnicos na variabilidade ==
+Etnia é um fator na ocorrência da variabilidade deCYP2D6 . A prevalência de metabolizadores lentos de CYP2D6 é de aproximadamente 6–10% em populações  brancas, mas menor em outros grupos, como asiáticos (2%). Em Afro-americanos, a frequência de metabolizadores lentos é maior que em brancos. A ocorrência de metabolizadores CYP2D6 ultrarrápidos é maior aparentemente entre populações do Oriente Médio e norte-africanas.Caucasianos de descendência europeia possuem predominatemente (~71%) o grupo funcional de alelos de CYP2D6, enquanto esses alelos representam apenas 50% dos alelos em populações de origem asiática.Essa variabilidade se deve às diferenças na prevalências de diverso alelos de CYP2D6 nas populações - aproximadamente 10% dos brancos são metabolizadores intermediários devido à diminuição de função da CYP2D6 devido à presença do alelo não-funcionall CYP2D6*4 , enquanto aproximadamente 50% dos asiáticos possuem o alelo  com função diminuída CYP2D6*10 .
+
+
+== Ligantes ==
+À seguir encontra-se uma tabela de substratos, indutores e inibidores de CYP2D6 selecionados. Nos casos em que classes de agentes são listadas, é possível que haja exceções pontuais.
+Inibidores de CYP2D6 podem ser classificados em termos de potência como:
+
+Inibidores potentes que causam um aumento de pelo menos 5 vezes nos valores de AUC (Area Under the Curve) para concentração plasmática ou uma diminuição de mais de 80% na depuração plasmática.
+Inibidores moderados que causam pelo menos um aumento de 2 vezes nos valores de AUC, ou diminuição de 50-80% na depuração plasmática.
+Inibidores fracos que causam aumento no valor de AUC plasmático de  1,25 a 2 vezes ou diminuem a depuração plasmática em 20-50%.
+
+
+== References ==

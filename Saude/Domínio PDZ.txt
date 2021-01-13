@@ -1,0 +1,15 @@
+Um domínio PDZ é um domínio estrutural, com cerca de 80-90 aminoácidos, encontrado em proteínas sinalizadoras de bactérias, leveduras, plantas e animais. PDZ é um acrónimo que combina as primeiras letras de três proteínas (PSD95, DlgA e zo-1) em que foi descoberto primeiramente que partilhavam este domínio. Os domínios PDZ também podem ser chamados de domínios DHR (do inglês Dlg homologous region) ou GLGF (de glicina-leucina-glicina-fenilalanina). Estes domínios ajudam na ancoragem de proteínas transmembranares ao citosqueleto e a organizar complexos de sinalização.Existem cerca de 260 domínios PDZ em humanos.
+
+
+== Referências ==
+
+
+== Leitura adicional ==
+
+
+== Ligações externas ==
+Motivo de classe LIG_PDZ_Class_1 do Eukaryotic Linear Motif resource
+Motivo de classe LIG_PDZ_Class_2 do Eukaryotic Linear Motif resource
+Motivo de classe LIG_PDZ_Class_3 do Eukaryotic Linear Motif resource
+The PDZ Domain as a Complex Adaptive System
+NCBI conserved domains entry

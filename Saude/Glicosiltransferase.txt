@@ -1,0 +1,45 @@
+As glicosiltransferases (GTFs, Gtfs) são enzimas (EC 2.4) que estabelecem ligações glicosídicas naturais. Eles catalisam a transferência de frações de sacarídeo de um açúcar de nucleotídeo ativado (também conhecido como "doador de glicosila") para uma molécula aceitadora de glicosila nucleofílica, cujo nucleófilo pode ser baseado em oxigênio- carbono-, nitrogênio- ou enxofre.O resultado da transferência de glicosilo pode ser um hidrato de carbono, um glicósido, um oligossacárido ou um polissacárido. Algumas glicosiltransferases catalisam a transferência para fosfato inorgânico ou água. A transferência de glicosil também pode ocorrer para resíduos de proteínas, geralmente para tirosina, serina ou treonina, para originar glicoproteínas ligadas a O, ou para asparagina, para originar glicoproteínas ligadas a N. Os grupos manosilo podem ser transferidos para o triptofano para gerar o C-manosil-triptofano, que é relativamente abundante em eucariotas. As transferases também podem usar lipídios como aceptor, formando glicolipídios e até mesmo usando doadores de fosfato de açúcar ligados a lipídios, como os fosfatos de dolicol.
+As glicosiltransferases que usam doadores de nucleotídeos de açúcar são enzimas Leloir, após Luis F. Leloir, o cientista que descobriu o primeiro nucleotídeo de açúcar e que recebeu o Prêmio Nobel de Química em 1970 por seu trabalho no metabolismo de carboidratos. As glicosiltransferases que utilizam dadores n nucleoticos, tais como dolicois ou poliprenol pirofosfato glicosiltransferases não-Leloir.
+Os mamíferos utilizam apenas 9 doadores de nucleotídeos de açúcar para glicosiltransferases: UDP-glicose, UDP-galactose, UDP-GlcNAc, UDP-GalNAc, UDP-xilose, ácido UDP-glucurônico, GDP-manose, GDP-fucose e CMP-siálico ácido. O(s) fosfato(s) dessas moléculas doadoras são geralmente coordenados por cátions divalentes, como o manganês, no entanto existem enzimas independentes de metal.
+Muitas glicosiltransferases são proteínas transmembrana de passagem única e são geralmente ancoradas em membranas do complexo de Golgi
+
+
+== Mecanismo ==
+
+As glicosiltransferases podem ser segregadas em enzimas "retentoras" ou "inversoras" de acordo com a estereoquímica da ligação anomérica do dador ser retida (α → α) ou invertida (α → β) durante a transferência. O mecanismo inversor é direto, exigindo um único ataque nucleofílico do átomo aceitador para inverter a estereoquímica.
+O mecanismo de retenção tem sido objeto de debate, mas existe forte evidência contra um mecanismo de duplo deslocamento (que causaria duas inversões sobre o carbono anomérico para uma retenção líquida de estereoquímica) ou um mecanismo dissociativo (uma variante prevalente da qual era conhecida como SNi). Foi proposto um mecanismo "associativo ortogonal" que, semelhante às enzimas de inversão, requer apenas um único ataque nucleofílico de um aceitador a partir de um ângulo não linear (como observado em muitas estruturas de cristal) para conseguir a retenção do anômero.
+
+
+== Reversibilidade da reação ==
+A recente descoberta da reversibilidade de muitas reações catalisadas pela inversão de glicosiltransferases serviu como uma mudança de paradigma no campo e levanta questões sobre a designação de nucleotídeos de açúcar como doadores "ativados".
+
+
+== Classificação por sequência ==
+Os métodos de classificação baseados em sequência provaram ser uma maneira poderosa de gerar hipóteses para a função da proteína com base no alinhamento de sequências para proteínas relacionadas. O banco de dados de enzimas ativos de carboidratos apresenta uma classificação baseada em seqüência de glicosiltransferases em mais de 90 famílias. Espera-se que a mesma dobra tridimensional ocorra dentro de cada uma das famílias.
+
+
+== Estrutura ==
+Em contraste com a diversidade de estruturas 3D observadas para as glicosil hidrolases, a glicosiltransferase tem uma gama muito menor de estruturas. De fato, de acordo com o banco de dados da Classificação Estrutural de Proteínas, somente três dobras diferentes foram observadas para glicosiltransferases. Muito recentemente, uma nova glicosil transferase foi identificada para as glicosiltransferases envolvidas na biossíntese do NAG. Backbone de polímero NAM de peptidoglicano.
+
+
+== Inibidores ==
+Muitos inibidores de glicosiltransferases são conhecidos. Alguns destes são produtos naturais, como a moenomicina, um inibidor de peptidoglicano glicosiltransferases, as nikkomicinas, inibidores da quitina sintase e as equinocandinas, inibidores de b-1,3-glucano sintases fúngicas. Alguns inibidores da glicosiltransferase são úteis como drogas ou antibióticos. A moenomicina é utilizada na alimentação animal como promotor de crescimento. A caspofungina foi desenvolvida a partir das equinocandinas e está em uso como agente antifúngico. O etambutol é um inibidor das arabinotransferases micobacterianas e é utilizado no tratamento da tuberculose. O lufenuron é um inibidor da proteína quitina sintase e é usado para controlar pulgas em animais.
+
+
+== Determinante do tipo sanguíneo ==
+O sistema do grupo sanguíneo ABO é determinado pelo tipo de glicosiltransferases expressas no corpo.
+O loco do gene ABO expressando as glicosiltransferases possui três formas alélicas principais: A, B e O. O alelo A codifica a 1-3-N-acetilgalactosaminiltransferase que liga α -N-acetilgalactosamina ao extremo D-galactose do antígeno H, produzindo o A antígeno. O alelo B codifica a 1-3-galactosiltransferase que une a α-D-galactose ligada à extremidade D-galactose do antígeno H, criando o antígeno B. No caso do alelo O, o exon 6 contém uma deleção que resulta em perda de atividade enzimática. O alelo O difere um pouco do alelo A pela deleção de um único nucleotídeo - Guanina na posição 261. A deleção causa um deslocamento de quadro e resulta na tradução de uma proteína quase totalmente diferente que não tem atividade enzimática. Isso resulta em antígeno H permanecendo inalterado no caso de grupos O.
+A combinação de glicosiltransferases por ambos os alelos presentes em cada pessoa determina se existe um tipo sanguíneo AB, A, B ou O.
+
+
+== Usos ==
+As glicosiltransferases têm sido amplamente utilizadas na síntese direcionada de glicoconjugados específicos, bem como na síntese de bibliotecas diferencialmente glicosiladas de drogas, sondas biológicas ou produtos naturais no contexto da descoberta de drogas e desenvolvimento de drogas (um processo conhecido como glicorandomização). Enzimas adequadas podem ser isoladas a partir de fontes naturais ou produzidas de forma recombinante. Como alternativa, foram desenvolvidos sistemas baseados em culas inteiras utilizando dadores de glicosilo endenos ou sistemas baseados em culas contendo sistemas clonados e expressos para a síntese de dadores de glicosilo. Em abordagens isentas de culas, a aplicação em larga escala de glicosiltransferases para a síntese de glicoconjugados necessitou de acesso a grandes quantidades dos dadores de glicosilo. Por outro lado, sistemas de reciclagem de nucleotídeos que permitem a ressíntese de doadores de glicosila a partir do nucleotídeo liberado foram desenvolvidos. A abordagem de reciclagem de nucleidos tem um benefício adicional de reduzir a quantidade de nucleido formado como um subproduto, reduzindo desse modo a quantidade de inibio causada pela glicosiltransferase de interesse - uma característica comummente observada do subproduto de nucleidos.
+
+
+== Ver também ==
+Glucuronosiltransferase
+Glicogênio sintase
+Glicosilação
+
+
+== Referências ==

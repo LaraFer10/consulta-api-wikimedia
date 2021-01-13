@@ -1,0 +1,43 @@
+O projeto Gene Wiki é um projeto dentro da Wikipedia e do Wikidata que visa descrever as relações e funções de todos os genes humanos. Foi estabelecido para transferir informações de recursos científicos para artigos de esboço da Wikipedia.O projeto Gene Wiki também iniciou a publicação de artigos de revisão específicos do gene no jornal Gene, junto com a edição das páginas específicas do gene na Wikipedia.
+
+
+== Objetivos e escopo do projeto ==
+
+
+=== Número de artigos de gene ===
+O genoma humano contém cerca de 20.000–25.000 genes codificadores de proteínas. O objetivo do projeto Gene Wiki é criar artigos iniciais na Wikipédia em ingles para cada gene humano notável, ou seja, cada gene cuja função foi atribuída na literatura científica revisada por pares. Aproximadamente metade dos genes humanos têm funções atribuídas, portanto, espera-se que o número total de artigos semeados pelo projeto Gene Wiki esteja na faixa de 10.000-15.000. Até o momento, aproximadamente 11.000 artigos foram criados ou aumentados para incluir o conteúdo do projeto Gene Wiki.
+
+
+=== Expansão ===
+Uma vez que os artigos iniciais tenham sido estabelecidos, a esperança e a expectativa é que eles sejam anotados e expandidos por editores que variam em experiência, desde o público leigo a estudantes a profissionais e acadêmicos.
+
+
+=== Proteínas codificadas por genes ===
+A maioria dos genes codifica proteínas, portanto, a compreensão da função de um gene geralmente requer a compreensão da função da proteína correspondente. Além de incluir informações básicas sobre o gene, o projeto também inclui informações sobre a proteína codificada pelo gene.
+
+
+== Conteúdo gerado pelo Gene Wiki ==
+Stubs para o projeto Gene Wiki são criados por um bot e contêm links para os seguintes bancos de dados primários de genes / proteínas:
+
+Comitê de Nomenclatura de Genes HUGO - nome oficial do gene
+Entrez - banco de dados de genes
+OMIM (Mendelian Inheritance in Man) - banco de dados que cataloga todas as doenças conhecidas com um componente genético
+Amigo - Gene Ontology
+HomoloGene - homólogos de genes em outras espécies
+SymAtlasRNA - padrão de expressão gênica em tecidos 
+Protein Data Bank - estrutura 3D da proteína codificada pelo gene
+UniProt (uni versal prot ein recurso) - um repositório central de dados de proteínas
+
+
+== Resposta ==
+Um relatório descobriu que, entre 2013 e 2017, o conteúdo com o qual Gene Wiki contribuiu para a Wikipedia teve desenvolvimento crowdsourced ao longo do tempo.
+
+
+== Referências ==
+
+
+== Ligações externas ==
+Spagat E (9 de julho de 2008). «: Edit your DNA: 'Gene wiki' to debut on Wikipedia». The Associated Press (in ABC News. Consultado em 29 de setembro de 2011 
+McKenney AS (8 de julho de 2008). «Archiving Information About The Human Genome Using Wikipedia». IT / Internet / E-mail News. Medical News Today. Consultado em 19 de julho de 2008 
+Tay L (10 de julho de 2008). «Wikipedia hosts human gene repository». iTnews Australia. Haymarket Media. Consultado em 19 de julho de 2008. Cópia arquivada em 13 de julho de 2008 
+Mitch Waldrop (3 de setembro de 2008). «Big data: Wikiomics». Nature. pp. 22–25

@@ -1,0 +1,34 @@
+O fitocromo é um pigmento azul constituído por uma apoproteína (polipeptídeo), com massa molecular aproximada de 150 kDa, ligado a um tetrapirrol linear, a fitocromobilina, que funciona como cromóforo. 
+O fitocromo é uma classe de fotorreceptores que estão envolvidos em inúmeros processos de desenvolvimento como a floração (fotoperiodismo) e a germinação de sementes (fotoblastia). Apresenta basicamente duas formas, uma mais estável, a forma inativa e a outra mais instável e ativa, desse modo os fitocromos podem funcionar como um “interruptor biológico”, ativando e desativando reações. A molécula de fitocromo pode se apresentar de duas formas interconversíveis, isto é, que podem transformar-se uma na outra e vice-versa: o fitocromo Fv (Pr) e o fitocromo Fve (Pfr). A forma Fve transforma-se na forma Fv quando absorve luz vermelha no comprimento de onda em torno de 660 nm, já a forma Fv transforma-se na forma Fve quando absorve luz vermelho-extremo de comprimento de onda em torno de 730 nm. Como o sol emite luz que apresenta todos os comprimentos de onda, então, durante o dia as plantas apresentam as duas formas, havendo um preodmínio de Fve. No período da noite a forma Fve converte-se espontâneamente em Fv (reversão no escuro), havendo um predomínio deste no período de escuro. Esta reversão no escuro é essencial para a medida do tempo pelas plantas e dessa maneira as plantas respondem ao fotoperíodo, processo importante para o florescimento.
+
+
+== Estrutura química e propriedades ==
+A molécula de fitocromo é constituída por um dímero (duas subunidades). Cada subunidade é composta por uma cadeia proteica e por um cromóforo (cadeia aberta que contém quatro anéis pirrólicos). A cadeia proteica une-se ao cromóforo por uma ligação covalente entre um grupo tioéster e um resíduo de cisteína.  Os comprimentos de onda no vermelho e vermelho extremo induzem reações reversíveis, gerando dois grupos de fitocromos distintos: Fv, de coloração azul, e Fve, de coloração esverdeada. A forma Fv do fitocromo apresenta pico de absorção em 667nm, enquanto a forma Fve absorve no máximo a 730nm. A luz vermelha mantém aproximadamente 85% do fitocromo na forma Fve, enquanto que a luz vermelho extremo mantém cerca de 3% de Fve.
+
+
+== Mecanismo de ação ==
+O fitocromo promove modificações no metabolismo e desenvolvimento celular de plantas, na presença de luz, por dois mecanismos de ação, um deles envolvendo mudanças nos fluxos iônicos em nível de membrana e causando respostas rápidas. Isto ocorre porque o fitocromo ativa bombas de prótons, ou seja, aumenta a saída de H+ das células, causando uma despolarização instantânea na membrana, que permite a abertura de canais de potássio (K+).
+Outro mecanismo envolve respostas de longo prazo. Na presença de luz, o fitocromo ativo entra no núcleo associando-se as proteínas nucleares, as quais provavelmente regulam a transcrição gênica..
+
+
+== Modalidades de respostas ==
+As respostas controladas pelo fitocromo podem ser classificadas em: respostas de fluência muito baixa (RFMB); respostas de baixa fluência (RBF) e; respostas de irradiância alta (RIA). O fitocromo A atua como mediador da RFMB e da RIA. Já o fitocromo B é mediador de RBF, que também pode ser mediada por outros fitocromos diferentes do fitocromo A. 
+A RFMB satura em fluências de aproximadamente 50 nmol.m-2. Esse tipo de resposta não pode ser revertido pelo comprimento de onda vermelho extremo (VE), porque a quantidade de fitocromo ativo (Fve) produzida por irradiação com VE é suficiente para saturar a resposta de fluência muito baixa. 
+A reposta de fluência baixa é fotorreversível. Esse tipo de resposta se inicia em 1 µmol.m-2 e satura a 1000 µmol.m-2 . Sendo assim, uma grande quantidade de fitocromo B se converte na forma ativa mediante exposição contínua, ou em pulsos, de V.
+A RIA é proporcional à taxa de radiância, requerendo exposição prolongada ou contínua à luz de alta irradiância. Esse tipo de resposta não é reversível. Essa resposta só ocorre sob VE contínuo e é mediada por fitocromo A.
+O mesmo evento fisiológico pode envolver os três tipos de resposta. 
+
+
+== Papel Ecológico ==
+O fitocromo tem como principais funções ecológicas a detecção do sombreamento e da qualidade da luz. 
+O estiolamento é uma forma de a planta fugir de uma condição de baixa luminosidade,  caracterizando-se pelo alongamento do hipocótilo e/ou do caule (região abaixo do cotilédone).
+O fitocromo regula os movimentos de fechamento das folhas que é regulado pela luz, chamados de nictinastia. Na nictinastia as folhas se abrem para captar a luz durante o dia e se fecham durante a noite, esse movimento obedece ao um ritmo circadiano, no qual o intervalo entre as fases é de aproximadamente 24 horas.
+Embora as estruturas do fitocromo sejam similares cada tipo desempenha funções diferentes na planta. O fitocromo B responde a luz branca ou vermelha- extremo. Ele regula o comprimento do hipocótilo em resposta a luz vermelha evitando que a planta fique na sombra. O fitocromo B também é responsável pela regulação da germinação, evitando que a semente germine em ambientes desfavoráveis em termos de luz. 
+
+
+== Referências ==
+
+
+== Ligações externas ==
+O fitocromo.
+O controle da germinação de sementes pelo fitocromo

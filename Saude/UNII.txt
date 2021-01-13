@@ -1,0 +1,12 @@
+O UNII ou Unique Ingredient Identifier (Identificador de Ingrediente Único) é um identificador não patenteado (não proprietário), livre, único e inequívoco, não semântico e alfanumérico vinculado à estrutura molecular de uma substancia química e/ou à informação descritiva pelo Sistema de Registo de Substâncias (Substance Registration System, SRS) da FDA norte-americana. Um UNII sempre tem um comprimento de dez caracteres e gera-se aleatoriamente, para que não contenha nenhuma informação inerente sobre o momento de entrada ou o tipo de substância.
+O SRS utiliza-se para gerar identificadores permanentes e únicos para as substâncias em produtos regulados, tais como ingredientes de medicamentos. O sistema utiliza a estrutura molecular e a informação descritiva para definir uma substância e gerar um UNII. O principal modo usado para a definição de uma substância é pela sua estrutura molecular representada num plano bidimensional. Quando uma estrutura molecular não está disponível (por exemplo, produtos botânicos), o UNII define-se a partir da informação descritiva.O procedimento e manejo do SRS proporciona-o o Conselho SRS, que inclui especialistas da FDA e da United States Pharmacopeia (USP).
+
+
+== Exemplos ==
+
+
+== Referências ==
+
+
+== Ligações externas ==
+Sistema de Registo de Substância - Unique Ingredient Identifier (UNII)

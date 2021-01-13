@@ -1,0 +1,17 @@
+BioRuby é um pacote de código aberto feito na linguagem Ruby, com classes para análise de seqüências de ADN e proteínas, alinhamento, análise sintática de bancos de dados, e outras ferramentas da Bioinformática. Recentemente, ferramentas para a biologia estrutural foram adicionadas.
+É um projeto de software ativo de código aberto apoiado pela Open Bioinformatics Foundation.
+
+
+== Ver também ==
+BioPerl
+BioPython
+BioJava
+Open Bioinformatics Foundation
+
+
+== Referências ==
+
+
+== Ligações externas ==
+BioRuby.Org,
+BioRubyDoc Community Wiki

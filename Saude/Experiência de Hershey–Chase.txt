@@ -1,0 +1,19 @@
+Em 1952 Alfred Hershey e Martha Chase realizaram uma série de experiências para confirmar que é o ADN a base do material genético (e não as proteínas), que se denominaram como experiência de Hershey-Chase. Se bem que a existência do ADN já era conhecida dos biólogos desde 1869, naquela época supunha-se que eram as proteínas que carregavam a informação que determina a hereditariedade. Em 1944 mediante a experiência de Avery-MacLeod-McCarty teve-se pela primeira vez um indicio do papel que desempenha o ADN.
+
+
+== Método experimental ==
+Hershey e Chase levaram a cabo experiências com o fago T2, um vírus cuja estrutura havia sido recentemente investigada mediante microscópio electrónico. O fago consiste unicamente em uma cobertura proteica ou cápside que contém o seu material genético, e infecta uma bactéria quando adere à sua membrana externa, injecta dito material deixando acoplada a cápside. Como consequência, o sistema genético da bactéria reproduz o vírus.
+Numa primeira experiência, marcaram o ADN dos fagos com o isótopo radioactivo fósforo-32 (P-32). Deixaram que os fagos da cultura bacteriana infectassem as bactérias Escherichia coli e posteriormente retiraram as coberturas proteicas das células infectadas mediante centrifugação. Descobriram que o indicador radioactivo era visível somente nas células bacterianas e não nas coberturas proteicas.
+Numa segunda experiência, marcaram os fagos com o isótopo enxofre-35 (S-35). Os aminoácidos cisteina e metionina contêm enxofre, diferentemente do ADN. Depois da separação, descobriu-se que o indicador estava presente nas coberturas proteicas, mas não nas bactérias infectadas. Com isto confirmou-se que é o material genético o que infecta as bactérias.
+
+
+== Resultados ==
+Hershey e Chase descobriram que o S-35 fica fora da célula enquanto que o P-32 era encontrado no interior, indicando que o ADN era o suporte físico do material hereditário.
+
+
+== Nobel para Hershey ==
+Em 1969, Hershey foi distinguido com o Nobel de Fisiologia ou Medicina.
+
+
+== Bibliografia ==
+Hershey, A. D., i Chase, M. (1952) Independent functions of viral protein and nucleic acid in growth of bacteriophage. J Gen Physiol. 36:39-56.

@@ -1,0 +1,21 @@
+SplitsTree é um programa popular para inferir árvores filogenéticas ou, mais genericamente, redes filogenéticas de vários tipos de dados, tais como a alinhamento de sequências, uma matriz de distâncias ou um conjunto de árvores.
+SplitsTree implementa métodos publicados tais como a decomposição Split neighbor-net, redes de consenso, os métodos de super-redes ou métodos de hibridização por computação ou de redes de recombinação simples.
+
+
+== Ver também ==
+Clustal
+PHYLIP
+MEGA, Molecular Evolutionary Genetics Analysis
+PAUP
+T-Coffee
+Filogenética computacional
+Árvore filogenética
+Filogenética
+
+
+== Ligações externas ==
+Página oficial do SplitsTree
+Lista de software de filogenia, hopedado na University of Washington
+
+
+== Referências ==

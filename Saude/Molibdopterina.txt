@@ -1,0 +1,23 @@
+As molibdopterinas, após reação com molibdénio ou tungsténio na forma de molibdato ou tungstato, são uma classe de cofatores encontrados na maioria das enzimas de molibdénio (Mo) e em todas as enzimas de tungsténio (W). Termos sinónimos de molibdopterina são MPT e piranopterina-ditiolato.
+A nomenclatura desta biomolécula pode ser confusa: a molibdopterina per se não contém molibdénio, sendo, isso sim, o nome do ligando que se ligará eventualmente ao metal ativo. Após a complexação da molibdopterina com o molibdato, o ligando completo é usualmente chamado cofator de molibdénio.
+A molibdopterina consiste de uma piranopterina, um composto heterocíclico complexo que apresenta um pirano ligado a uma anel de pterina. Adicionalmente, o anel de pirano tem dois tiolatos, os quais servem como ligandos em molibdo- e tungstoenzimas. Em alguns casos, o grupo alquil-fosfato é substituído por um nucleótido de alquil-difosfato. Entre as enzimas que contêm o cofator de molibdopterina contam-se xantina oxidase, DMSO redutase, sulfito redutase e a nitrato redutase.
+As únicas enzimas que contêm molibdénio e que não têm molibdopterinas são as nitrogenases (enzimas que fixam o azoto=). Estas contêm um centro de ferro-enxofre de um tipo muito diferente, que geralmente também contém molibdénio. Contudo, se o molibdénio estiver presente, encontra-se diretamente ligado a outros átomos metálicos.
+
+
+== Biossíntese ==
+A biossíntese da molibdopterina começa com trifosfato de guanosina. Duas reações enzimáticas convertem este trifosfato no fosfato cíclico da piranopterina. Uma destas enzimas utiliza SAMs radicais, frequentemente associados a reações formadoras de ligações C-X. Esta piranopterina intermédia é então convertida em molibdopterina por meio da ação de mais três enzimas. Nesta conversão, é formado o eneditiolato, embora os substituintes do enxofre sejam ainda desconhecidos. O enxofre é extraído do perssulfureto de cisteinilo de uma forma que faz lembrar a biossíntese das proteínas ferro-enxofre. O monofosfato é adenilado (ligado a ADP) num passo que ativa o cofator para a ligação a Mo ou W. Estes metais são importados na forma dos seus oxianiões, molibdato e tungstato. Finalmente, Mo ou W é inserido para produzir o cofator de molibdopterina. Em algumas enzimas, com a xantina oxidase, o metal está ligado a uma molibdopterina, enquanto noutras enzimas, como a DMSO redutase, o metal esta ligado a dois cofatores de molibdopterina.Os modelos para os locais ativos de enzimas que contêm molibdopterina baseiam-se numa classe de ligandos conhecidos como ditiolenos.
+
+
+== Versão contendo selénio, e capacidade de ligação ao tungsténio ativo ==
+Não se concluiu até ao momento que o tungsténio seja necessário ou usado nos eucariontes, mas é um nutriente essencial para algumas bactéricas. Por exemplo, enzimas chamadas oxirredutases usam o tungsténio de modo semelhante ao molibdénio, utilizando-o num complexo tungsténio-pterina com molibdopterina. Então, a molibdopterina pode complexar tanto com o molibdénio como com o tungsténio usados pela bactéria. As enzimas que usam o tungsténio tipicamente reduzem ácidos carboxílicos livres a aldeídos. A primeira enzima que requer tungsténio a ser descoberta requer também selénio, e neste caso o par tungsténio-selénio poderá funcionar de modo análogo ao par molibdénio-enxofre de algumas enzimas que requerem cofator de molibdénio. Sabe-se que uma das enzimas da família das oxirredutases que por vezes utiliza o tungsténio (a H formato desidrogenase bacteriana) utiliza uma versão selénio-molibdénio da molibdopterina. Embora tenha sido descoberta em bactérias uma xantina desidrogenase portadora de tungsténio que contém tungsteno-molibdopterina e também selénio não ligado a proteínas, não foi ainda descrito de modo definitivo um complexo de molibdopterina de selénio-tungsténio.
+
+
+== Enzimas que utilizam a molibdopterina ==
+Enzimas que usam a molibdopterina como cofator ou grupo prostético:
+Cofator de: xantina oxidase, DMSO redutase, sulfito oxidase, nitrato redutase, etilbenzeno desidrogenase, gliceraldeído-3-fosfato ferredoxina oxirredutase, arsenato redutase.
+Grupo prostético de: formato desidrogenase, purina hidroxilase, tiossulfato redutase.
+
+
+== Referências ==
+
+Este artigo foi inicialmente traduzido do artigo da Wikipédia em inglês, cujo título é «Molybdopterine», especificamente desta versão.

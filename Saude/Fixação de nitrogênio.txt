@@ -1,0 +1,46 @@
+Fixação de nitrogênio é o processo pelo qual o nitrogênio gasoso é convertido em amônia (N2 → NH3), ou outra molécula semelhante, para então ser incorporado em uma molécula orgânica (por exemplo, aminoácido). Esse processo é essencial em ambientes naturais pobres em nitrogênio, pois ele converte uma forma de nitrogênio inerte em outra disponível para assimilação por organismos vivos. Em ambientes terrestres, bactérias diazotróficas, alguns fungos e leveduras podem realizar a fixação do nitrogênio. Um exemplo clássico de fixação de nitrogênio envolve bactérias do gênero Rhizobium que vivem associadas simbioticamente a raízes de plantas leguminosas (família Fabaceae). Também há evidências da associação de bactérias fixadoras de nitrogênio com gramíneas (família Poaceae). Neste caso, as bactérias não formam nódulos nas raízes da planta (como ocorre com as leguminosas) e fixam nitrogênio atmosférico somente quando não há acúmulo de oxigênio em seu entorno. As bactérias utilizam parte dos fotoassimilados da planta hospedeira para gerar a energia necessária para promover esse processo de fixação biológica de nitrogênio. Por outro lado, a planta beneficia-se do nitrogênio fixado pela bactéria para síntese de suas proteínas. A inoculação de bactérias diazotróficas em sementes de leguminosas é uma tecnologia capaz de reduzir consideravelmente a adubação mineral nitrogenada (e em alguns casos substitui completamente a adubação), pois o nitrogênio fixado pode alcançar em média 1500 kg por hectare e resulta em expressiva redução do custo de produção da cultura. Essa tecnologia deve-se principalmente aos estudos de Johanna Döbereiner (1924-2000). No oceano, as cianobactérias são os principais organismos fixadores do nitrogênio gasoso dissolvido na água do mar. Trichodesmium é o principal gênero de cianobactéria fixadora de nitrogênio no oceano. A fixação do nitrogênio também tem um importante papel na agricultura e na indústria, com destaque para as indústrias farmacêutica e bélica. Por exemplo, o processo de fixação do nitrogênio é empregado na fabricação de alguns explosivos.
+
+
+== Fixação biológica do nitrogênio em ambientes terrestres ==
+
+Os primeiros indícios da fixação de nitrogênio remontam ao começo do século XIX, a partir da observação do sucesso no desenvolvimento de plantas leguminosas mesmo em solos com baixo teor de nitrogênio. No final daquele século pesquisadores alemães finalmente desvendaram o mecanismo para a fixação biológica do nitrogênio. De maneira geral, a fixação biológica do nitrogênio acontece quando o nitrogênio atmosférico (N2) é convertido em amônia (NH3).
+N2 + 8 H+ + 8 e- + 16 ATP → 2 NH3 + H2 + 16 ADP + 16 P
+Essa reação é catalisada por um complexo enzimático chamado nitrogenase. Esse complexo consiste em duas proteínas: uma que contém ferro férrico (Fe3+) e outra que contém ferro-molibdênio. A reação ocorre quando o nitrogênio gasoso (N2) liga-se ao complexo enzimático nitrogenase. A proteína que contém ferro férrico é primeiro reduzida por elétrons doados pela ferrodoxina. Então, a proteína reduzida liga-se à molécula de ATP e reduz a segunda proteína que doa elétrons para o nitrogênio gasoso (N2), produzindo HN=NH. Esse ciclo repete-se mais duas vezes, reduzindo a espécie química HN=NH para H2N-NH2 e finalmente para duas moléculas de amônia (NH3). Esse complexo processo de fixação requer a utilização de 16 moléculas de ATP para formar duas moléculas de amônia. A geração de elétrons na reação pode diferir conforme o organismo.
+A gama de organismos capazes de fixar nitrogênio consiste basicamente de bactérias, que por apresentarem essa característica são denominadas como bactérias diazotróficas. Algumas apresentam vida livre, enquanto outras vivem em simbiose com organismos ou formas coloniais. Abaixo segue uma tabela com alguns exemplos de bactérias que realizam fixação de nitrogênio.
+
+As bactérias de vida livre - como Azotobacter, Bacillus, Clostridium e Klebsiella - são heterótrofos encontrados no solo, sendo responsáveis por apenas uma pequena parcela do nitrogênio fixado biologicamente. Boa parte do nitrogênio fixado em ambientes terrestres provém da interação simbiótica entre bactérias e plantas. As plantas fornecem açucares às bactérias. Tais moléculas possuem a energia necessária para a fixação do nitrogênio. Por sua vez, as bactérias simbióticas fornecem à planta o nitrogênio recém fixado. A relação simbiótica mais importante ocorre entre as plantas leguminosas e as bactérias dos gêneros Rhizobium e Bradyrhizobium. Essa simbiose causa a formação de nódulos nas raízes da planta, sendo o processo de nodulação das leguminosas essencial para o seu crescimento e desenvolvimento.
+
+
+== Fixação biológica do nitrogênio no oceano ==
+A principal fonte de nitrogênio gasoso (N2) para o oceano é a atmosfera. O oceano absorve esse nitrogênio gasoso (N2) atmosférico, que pode ser fixado por cianobactérias marinhas. Assim como em ambientes terrestres, a fixação biológica de nitrogênio no oceano tem um papel muito importante, visto que o nitrogênio é o principal nutriente limitante para a produção primária marinha.Existem três grupos de organismos fixadores de nitrogênio nos oceanos: cianobactérias filamentosas com heterocisto, cianobactérias filamentosas sem heterocisto e cianobactérias unicelulares. Este último grupo foi descoberto em 1998. O taxon mais investigado é o gênero Trichodesmium, cujos primeiros estudos datam da primeira metade do século XIX. Trichodesmium é uma cianobactéria diazotrófica colonial e filamentosa que comumente forma agregações macroscópicas constituídas de cadeias longas chamadas tricomas. Essas colônias chegam a formar manchas visíveis na superfície do oceano. Trichodesmium é o organismo fixador de nitrogênio mais importante no ecossistema marinho, sendo responsável por cerca de 50% de todo o nitrogênio fixado nos oceanos.No passado acreditava-se que os microorganismos marinhos fixadores de nitrogênio tinham um papel pouco relevante para o balanço de nitrogênio nos oceanos e no planeta como um todo. Entretanto, estudos científicos apontam para uma possível influência da fixação do nitrogênio no processo de sequestro de carbono nos oceanos.
+
+
+=== Controladores da fixação de nitrogênio nos oceanos ===
+Elementos como fósforo e metais traço (por exemplo, molibdênio e ferro) são essenciais para a bioquímica da fixação do nitrogênio. Consequentemente, esses elementos podem controlar a fixação biológica de nitrogênio. Ainda não existem comprovações definitivas de que esses elementos controlem a fixação oceânica do nitrogênio. Apesar disso, observações em áreas do Atlântico Norte evidenciam que um aporte sazonal elevado de ferro na água está também associado a uma alta concentração de nitrogênio.
+
+
+=== Acidificação oceânica ===
+Estudos apontam uma influência negativa da acidificação oceânica sobre fixação de nitrogênio na água do mar. Pesquisas com Trichodesmium revelaram que a acidificação da água do mar afeta negativamente a capacidade dessa cianobactéria em absorver ferro, nutriente essencial para a fixação do nitrogênio.
+
+
+== Fixação abiótica do nitrogênio ==
+
+
+=== Processos naturais ===
+O nitrogênio também pode se tornar disponível para os organismos vivos a partir de sua fixação abiótica, mediada por descargas elétricas na atmosfera. O nitrogênio reage com o oxigênio em condições de alta temperatura e pressão, que podem ser encontradas durante uma tempestade com ocorrência de raios. Durante uma tempestade, a alta energia fornecida pelas descargas elétricas quebra a ligação tripla existente entre as moléculas de nitrogênio, permitindo que elas reajam com o oxigênio e formem óxidos de nitrogênio. Esses óxidos se dissolvem na água da chuva, caem no solo e formam nitrato, que então pode ser absorvido pelas plantas.
+
+
+=== Processos industriais ===
+O processo de fixação industrial do nitrogênio é muito dispendioso e envolve quantidades elevadas de combustíveis fósseis para produzir um ambiente de alta temperatura e pressão. Os produtos desse processo (amônia e nitrato) são utilizados como fertilizantes na agricultura. Essa atividade gera 450 milhões de toneladas de nitrogênio fixado por ano, a maioria nas formas de ureia, nitrato de amônio e anidrido.O método mais comum de fixação industrial do nitrogênio é a síntese de Haber-Bosch. Esse método envolve reações semelhantes à fixação biológica, ou seja, aquecimento do nitrogênio e hidrogênio em um recipiente pressurizado com a utilização de um metal como catalisador (normalmente o ferro).
+
+
+=== Impacto dos fertilizantes no meio ambiente ===
+O uso excessivo de fertilizantes industriais tem gerado uma perturbação nas concentrações naturais de nitrogênio tanto no solo quanto em ambientes aquáticos, causando eutrofização em águas continentais e marinhas costeiras. Esse fenômeno pode desencadear florações de algas que eventualmente diminuem a concentração de oxigênio na água.
+
+
+== Ver também ==
+Ciclo do nitrogênio
+Diazotrofismo
+
+
+== Referências ==

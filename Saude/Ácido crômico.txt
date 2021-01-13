@@ -1,0 +1,48 @@
+Ácido crômico refere-se a um conjunto de compostos gerados pela acidificação de soluções contendo ânions cromato e dicromato ou pela dissolução de trióxido de cromo em ácido sulfúrico. Frequentemente a tais substâncias são atribuídas a fórmula H2CrO4 e H2Cr2O7. O anidrido destes "ácidos crômicos" é o trióxido de Crómio , também chamado óxido de Crómio (VI); industrialmente, este composto é alguma vezes vendido como "ácido crômico".
+Apesar de não ter-se sua fórmula exata, o ácido crômico apresenta Crómio em seu estado de oxidação +6 (ou VI), frequentemente chamado de cromo hexavalente. Crómio pode existir em vários números de oxidação, e o estado hexavalente é o mais alto. Nas reações o ácido crômico é reduzido por reação de redução ao íon [Cr(H2O)6]3+, o qual tem uma cor azul esverdeada característica.
+
+
+== Usos ==
+Ácido crômico é um intermediário na cromagem, e é também usado em vitrificação de cerâmicas e vidros coloridos. Devido a que as soluções de ácido crômico serem fortemente oxidantes elas são usadas para a limpeza de material de laboratório de vidro. Esta aplicação tem declinado devido a questões ambientais. Além disso o ácido deixa resíduos que podem interferir com certas aplicações, tais como a espectroscopia NMR. Bastante utilizado na indústria galvânica nos banhos de Crómio .
+
+
+== Reações ==
+Ácido crômico é capaz de oxidar muitos tipos de compostos orgânicos e muitas variações sobre este reagente têm sido desenvolvidas:
+
+Ácido crômico em ácido sulfúrico aquoso e acetona é conhecido como o reagente de Jones, o qual oxida álcoois primários e secundários a ácidos carboxílicos e cetonas respectivamente, enquanto raramente afeta ligações insaturadas.
+Clorocromato de piridínio é produzido a partir do ácido crômico e do cloridrato de piridínio. Este reagente converte álcool primário ao grupo aldeído.
+Reagente de Collins é um aduto de trióxido de Crómio e piridina usado para diversas oxidações.
+Cloreto de cromilo, CrO2Cl2 é um bem definido composto molecular que é gerado do ácido crômico.
+
+
+=== Transformações ilustrativas ===
+Oxidação de metilbenzenos a ácidos benzóicos.
+Oxidativa scission de indeno a ácido homoftálico.
+Oxidação de álcool secundário a cetona (ciclooctanona) and nortricyclanone.
+
+
+=== Uso em análise orgânica qualitativa ===
+Em química orgânica, soluções diluídas de Crómio hexavalente podem ser usadas para oxidar álcoois primários ou secundários aos correspondentes aldeídos e cetonas. Grupos álcool terciários não são afetados. Por causa da oxidação ser assinalada por uma alteração de cor de laranja a azul-esverdeado, o ácido crômico é usado como um reagente qualitativo para testar a presença de álcoois primários ou secundários.¹
+
+Para álcoois primários:CH3CH2CH2OH —→ CH3CH2CHO
+
+(1-Pentanol oxidado a pentanal)Para álcoois secundários:H3C-CH(OH)-CH3 → H3C-CO-CH3(Álcool isopropílico oxidado a acetona)
+
+
+==== Reagentes alternativos ====
+Em oxidações de álcoois ou aldeídos em ácidos carboxílicos,ácido crômico é um de vários reagentes, incluindo alguns que são catalíticos. Por exemplo oxidações por hipoclorito de sódio catalisadas por sais de níquel (II). cada oxidante oferece vantagens e desvantagens.
+
+
+== Segurança ==
+Compostos de Crómio hexavalente são tóxicos e carcinogênicos. Por esta razão, oxidação por ácido crômico não é usada em escala industrial.
+
+
+== Referências ==
+
+
+== Ligações externas ==
+«Alcohols from Carbonyl Compounds: Oxidation-Reduction and Organometallic Compounds» (PDF). (PDF) 
+
+«National Pollutant Inventory - Chromium (III) compounds fact sheet» 
+«NIOSH Pocket Guide to Chemical Hazards #0138». National Institute for Occupational Safety and Health (NIOSH) 
+«IARC Monograph "Chromium and Chromium compounds"»

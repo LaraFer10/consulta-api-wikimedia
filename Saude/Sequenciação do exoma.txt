@@ -1,0 +1,48 @@
+O Exoma é o conjunto de éxons (partes codificantes do DNA) presentes no genoma de grande parte dos seres vivos, composto por cerca de 180.000 éxons nos humanos. A partir desta definição pode-se explicar que o sequenciamento do exoma (SCE) é uma técnica que (como proposto pelo nome) busca sequenciar apenas as partes codificantes do DNA (ou seja, as partes que geram proteínas ao nosso corpo) retirando os íntrons (áreas não codificantes) com o intuito de avaliar, como forma mais prática e barata, possíveis alterações genéticas na síntese proteica.
+
+O processo do sequenciamento do Exoma:1.    A primeira parte ocorre com a retirada de sangue do paciente – 9 Ml são necessários- e a partir desta amostra há a extração do DNA. Desta forma começa um o DNA é separado com métodos de PCR e tratado com “Human Core Exome Enrichment Kit”, sendo assim enriquecidos e processados pela máquina Next Generation Sequencing – NGS;
+2.    O aparelho faz a leitura da sequência de DNA de todo o exoma e produz arquivos de dados, que são processados por uma equipe de bioinformática especializada e posteriormente analisada por uma equipe médica experiente. Nessa fase, alinham-se todos os fragmentos gerados do DNA do paciente para comparação com o genoma-padrão – o mesmo que foi desenvolvido com o Projeto Genoma Humano;
+3.    Com essas informações monta-se um mapa genético que será comparado a mais de 10.000 genomas da população para que se mapeasse a frequência de manifestação dos genes. Quando a lista de variantes está completa e estruturada, começam os trabalhos da equipe médica, que, associando dados do quadro clínico e das hipóteses diagnósticas formuladas, passa a buscar sua possível origem genética.
+
+O que o sequenciamento completo do exoma pode diagnosticar?Por ser um exame robusto, que avalia cerca de 22.000 genes conhecidos ele é capaz de identificar mutações em genes responsáveis por síndromes e diagnósticos raros, visto que 85% das doenças genéticas ocorrem nos éxons. Por conta de sua complexibilidade ele possui um alto custo, logo se tende haver uma suspeita bem clara para que ele seja utilizado, o seu poder é demonstrado por diagnosticar:
+
+·    Doenças cardíacas como distúrbios eletrofisiológicos (síndrome de Brugada, QT longo), cardiopatias congênitas e miocardiopatias familiares;
+·    Alterações neurológicas como déficit cognitivo, autismo, ataxias hereditárias, paraplegia espástica, neuropatias hereditárias, miopatias/distrofias musculares;
+·    Síndromes de predisposição a câncer (câncer de mama e ovário associados aos genes BRCA1 e BRCA2,TP53 e CHEK2, melanoma hereditário, esclerose tuberosa,    xeroderma pigmentoso, neoplasia endócrina múltipla e anemia de Fanconi);
+·   Erros inatos do metabolismo;
+·   Displasias esqueléticas;
+·   Síndromes dismórficas e malformações congênitas;
+·   Imunodeficiências primárias;
+·   Doenças mitocondriais (mitocondriopatias);
+·   Surdez​;
+·   Doenças de cunho genéticas não diagnosticadas em outros exames;
+·   Mutações que atingem mais de um gene, ou seja doenças de heterogeneidade genética;
+·  Casos atípicos, com sobreposição de sinais e sintomas, que podem causar possuir origem de outras mutações silenciosas e ainda desconhecidas ou que atinja genes diferentes;
+·  Análise de achados incidentais, indicando um risco de outras doenças não relacionadas ao fenótipo, mas de relevância clínica.§ Quais as limitações do processo?
+As limitações ocorrem por conta de algumas doenças que apresentam problemas na região dos íntrons e não podem ser captadas pelo exame. Além disso, como o SCE é uma análise da sequência das bases do DNA, isso significa que alterações de número de cópias (microdeleções e microduplicações), alterações estruturais do cromossomo (inversões, translocações) e alterações epigenéticas (metilações, acetilações, alterações em estrutura de cromatina) não podem ser confirmadas na análise, podendo ser apenas suspeitadas, necessitando de confirmação por outras técnicas.
+São três as principais categorias de limitações do SCE:
+•  A primeira é em relação às regiões do genoma não cobertas pelo sequenciamento;
+•  A segunda, aos tipos de alterações genéticas não avaliadas pelo exame;
+•   A terceira, à presença de variantes sem significado clínico conhecido ou VUS (do inglês, Variants of Unknown Significance).
+
+  Qual a diferença entre o SCE e outras técnicas?Como já citado anteriormente o que torna esse exame mais completo referente a outros como CGH-Array, MLPA, exame da carioteca, etc está no fato de ele analisar grande parte dos genes conhecidos, além de grandes duplicações, deleções e possuir a capacidade de fazer achados acidentais. Para tornar-se ainda mais completo o exame pode ser utilizado em conjunto como o já citado CGH para abranger as limitações já abarcadas no tópico anterior.
+
+Como se dá o laudo do Sequenciamento Completo do Exoma?O grande desafio na interpretação do SCE para confecção de um laudo é definir dentre as cerca de 50.000 variantes detectadas na análise do DNA, qual é aquela responsável pela hipótese diagnóstica que motivou a solicitação do exame.
+Devido a esta grande dificuldade, a comunidade científica internacional uniu esforços para criar fluxogramas de análises e bancos de dados, que são atualizados frequentemente para orientar a interpretação de cada variante encontrada.
+O laudo final reporta as variantes com provável associação ao quadro clínico e às hipóteses diagnósticas informadas na solicitação. Também são reportadas no laudo, conforme desejo expresso pelo paciente no termo de consentimento informado, as variantes de predisposição a outras condições genéticas.
+
+  E no Brasil, essa tecnologia é utilizada?
+No Brasil existem algumas clínicas aptas a realizar esse exame como por exemplo o Laboratório GENE e a Clínica Genética Sérgio Pena, o DLE - Genética Humana e Doenças Raras, o Hospital Abert Eisten (Genomika Diagnósticos), etc. 
+
+
+== Referências ==
+2. https://dle.com.br/biologia-molecular-genetica-humana/sequenciamento-completo-do-exoma
+3. http://www.laboratoriogene.com.br/blog/entenda-nossos-exames/sequenciamento-completo-de-exoma/
+4. http://www.fleury.com.br/medicos/educacao-medica/revista medica/materias/Pages/muito-além-do-genoma.aspx
+6. http://www3.hermespardini.com.br/repositorio/media/site/profissionais_da_saude/boletins_tecnicos/analise_do_sequenciamento_do_exoma_humano.pdf
+7. https://www.genomika.com.br/exoma-completo/
+8. http://conitec.gov.br/images/Consultas/Relatorios/2018/RELATORIO_CP_EXOMA.pdf
+9. https://dle.com.br/citogenomica/citogenetica
+10. https://varstation.com/pt-BR
+
+11. https://dle.com.br/biologia-molecular-genetica-humana/sequenciamento-completo-do-exoma-na-pratica-clinica

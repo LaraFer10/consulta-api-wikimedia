@@ -1,0 +1,34 @@
+O complexo de ataque à membrana (MAC) ou complexo terminal do complemento (TCC) é uma estrutura tipicamente formada na superfície de bactérias como resultado da ativação das vias clássica, das lectinas ou alternativa do complemento pelo hospedeiro e é uma das proteínas efetoras do sistema imune. O complexo de ataque à membrana (MAC) forma canais transmembrana . Esses canais rompem a bicamada fosfolipídica das células alvo, levando à lise e morte celular.Múltiplas proteínas participam na formação do MAC. A C5b recém-ativada liga-se a C6 formamndo o complexo C5b-6, então a C7 formando o complexo C5b-6-7. O complexo C5b-6-7 liga-se então a C8, que é composto de três cadeias (alfa, beta, e gama), formando, logo, o complexo C5b-6-7-8. C5b-6-7-8 se liga subsequentemente a C9 e age como um catalisador na polimerização de C9.
+O MAC tem a seguinte composição: C5b-C6-C7-C8-C9{n}.
+
+
+== Função e estrutura ==
+Ele é composto de 4 proteínas do complemento (C5b, C6, C7, C8) que se ligam à superfície externa da membrana plasmática, e diversas cópias de uma quinta proteína (C9) que se engancham formando um anel na membrana. As proteínas de C6 a C9 todas contém um domínio MACPF em comum. Essa região é homóloga à citolisinas dependentes de colesterol de bactérias Gram-positivas.A estrutura em anel formada por C9 é um poro na membrana que permite a difusão livre de moléculas para dentro e para fora. Se poros suficientes forem formados, a célula morre. 
+
+
+== Iniciação: C5-C7 ==
+O complexo de ataque a membrana é iniciado quando a proteína do complemento C5 convertase cliva C5 em C5a e C5b.
+Outra proteína do complemento, C6, liga-se a C5b.
+O complexo C5bC6 se liga, então, a C7.
+Essa junção altera a configuração da proteína C7, expondo um sítio hidrofóbico que permite a inserção do complexo (C7, mais precisamente) na bicamada fosfolipídica do patógeno.
+
+
+== Polimerização: C8-C9 ==
+Sítios hidrofóbicos semelhantes em C8 e C9 são expostos quanto eles se ligam ao complexo, inserindo-se também na membrana.
+C8 é um complexo feito de 2 proteínas C8-beta e C8 alfa-gama.
+C8 alfa-gama possui a camada hidrofóbica inserida na bicamada. C8 alfa-gama induz a polimerização de 10-16 moléculas de C9 em uma estrutura formadora de poro conhecida como o complexo de ataque à membrana.
+
+Ele possui uma face hidrofóbica externa, permitindo associação com a bicamada lipídica.Ele possui uma face hidrofílica  interna, permitindo a passagem de água e pequenos solutos.
+
+
+== Inibição ==
+CD59 age inibindo o complexo. Essa proteína protege as células do indivíduo do MAC.
+Uma condição rara chamada hemoglubinúria paroxismal noturna, resulta em hemácias que não possuem CD59. Essas células podem ser, então, lisadas pelo MAC.
+
+
+== Notas e Referências ==
+
+
+== Ligações externas ==
+MeSH Complement+Membrane+Attack+Complex
+https://web.archive.org/web/20080514050535/http://www.lib.mcg.edu/edu/esimmuno/ch2/lysis.htm

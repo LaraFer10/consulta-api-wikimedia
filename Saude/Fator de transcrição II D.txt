@@ -1,0 +1,34 @@
+O Fator de transcrição II D (TFIID) é um dos fatores de transcrição que constituem o complexo de iniciação da RNA Polimerase II. A holoenzima RNA polimerase II é uma polimerase eucariótica que é recrutada pelos promotores de genes codificadores de proteínas em células vivas. Compõe-se da RNA polimerase II, uma série de fatores de transcrição gerais e proteínas regulatórias. Precedendo o início da transcrição, o TFIID liga-se à caixa TATA na região promotora do gene.
+
+
+== Funções principais ==
+Coordena as atividades de mais de 70 polipeptídeos necessários para a iniciação da transcrição pela RNA polimerase II.
+Posiciona a polimerase sobre a região promotora.
+Serve como esqueleto para acoplar os fatores do complexo remanentes.
+Atua como canal para sinais de regulação
+
+
+== Estrutura ==
+O TFIID é formado por uma proteína de ligação TATA (TBP) e vários fatores associados a ela, chamados TAFs (TBP-Associated Factors). Em um tubo de ensaio, somente o TBP é necessário para ocorrer a transcrição em promotores que contêm a caixa TATA. Contudo, as TAFs acrescentam seletividade, especialmente quando não há sequência TATA para fazer a ligação. As TAFs estão incluídas em dois complexos distintos, TFIID e B-TFIID. O complexo TFIID é composto de TBPs e mais de oito TAFs, porém a maioria das TBPs estão presentes no complexo B-TFIID, que é composto de TBP e TAFII170 (BTAF1) em uma razão de 1:1. TFIID e B-TFIID não são equivalentes, pois as reações que utilizam TFIID respondem a fatores de transcrição específicos como o SP1, ao passo que reações reconstituídas com B-TFIID não.
+Subunidades do complexo TFIID podem incluir:
+
+TBP (TATA binding protein)
+TAF1 (TAFII250)
+TAF2 (CIF150)
+TAF3 (TAFII140)
+TAF4 (TAFII130/135)
+TAF4B (TAFII105)
+TAF5 (TAFII100)
+TAF6 (TAFII70/80)
+TAF7 (TAFII55)
+TAF8 (TAFII43)
+TAF9 (TAFII31/32)
+TAF9B (TAFII31L)
+TAF10 (TAFII30)
+TAF11 (TAFII28)
+TAF12 (TAFII20/15)
+TAF13 (TAFII18)
+TAF15 (TAFII68)
+
+
+== Referências ==

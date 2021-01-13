@@ -1,0 +1,428 @@
+O decibel (dB) é uma unidade que indica a proporção de uma quantidade física (geralmente energia ou intensidade) em relação a um nível de referência especificado ou implícito. Uma relação em decibels é igual a dez vezes o logaritmo de base 10 da razão entre duas quantidades de energia. Um decibel é um décimo de um bel, uma unidade raramente usada​​.
+
+
+== Definição ==
+Uma intensidade sonora I ou potência P pode ser expressa em decibels de acordo com a relação:
+
+  
+    
+      
+        
+          I
+          
+            
+              d
+              B
+            
+          
+        
+        =
+        10
+        
+          log
+          
+            10
+          
+        
+        ⁡
+        
+          (
+          
+            
+              I
+              
+                I
+                
+                  0
+                
+              
+            
+          
+          )
+        
+        
+        
+          o
+          u
+        
+        
+        
+          P
+          
+            
+              d
+              B
+            
+          
+        
+        =
+        10
+        
+          log
+          
+            10
+          
+        
+        ⁡
+        
+          (
+          
+            
+              P
+              
+                P
+                
+                  0
+                
+              
+            
+          
+          )
+        
+        
+      
+    
+    {\displaystyle I_{\mathrm {dB} }=10\log _{10}\left({\frac {I}{I_{0}}}\right)\quad \mathrm {ou} \quad P_{\mathrm {dB} }=10\log _{10}\left({\frac {P}{P_{0}}}\right)\,}
+  em que I0 e P0 são as intensidades e potências de referência.
+Se PdB é 3 dB então P é aproximadamente o dobro de P0.
+Se PdB é 10 dB então P é 10 vezes maior que P0.
+Se PdB é -10 dB então P é 10 vezes menor que P0.
+Se PdB é 20 dB então P é 100 vezes maior que P0.
+Se PdB é -20 dB então P é 100 vezes menor que P0.
+A tensão elétrica V, a corrente elétrica I ou a pressão p podem ser expressas em decibels de acordo com a relação seguinte:
+
+  
+    
+      
+        
+          X
+          
+            
+              d
+              B
+            
+          
+        
+        =
+        20
+        
+          log
+          
+            10
+          
+        
+        ⁡
+        
+          (
+          
+            
+              X
+              
+                X
+                
+                  0
+                
+              
+            
+          
+          )
+        
+      
+    
+    {\displaystyle X_{\mathrm {dB} }=20\log _{10}\left({\frac {X}{X_{0}}}\right)}
+  em que X pode ser a tensão V, a corrente I ou a pressão p, e X0 são seus valores de referência. Note que é incorreto utilizar essas medidas se as impedâncias elétricas ou acústicas não são as mesmas nos pontos onde a tensão ou pressão é comparada. Usando essa abordagem o decibel é uma medida de intensidade ou potência relativa.
+Se VdB é 6 dB então V é o dobro que V0.
+Se VdB é 20 dB então V é 10 vezes maior que V0.
+Se VdB é -20 dB então V é 10 vezes menor que V0.
+Se VdB é 40 dB então V é 100 vezes maior que V0.
+Se VdB é -40 dB então V é 100 vezes menor que V0.
+Embora o Comitê Internacional de Pesos e Medidas (BIPM) aceite a sua utilização com o sistema SI, ele não é uma unidade do SI. Apesar disso, seguem-se as convenções do SI, e a letra d é grafada em minúscula por corresponder ao prefixo deci- do SI, e B é grafado em maiúsculo pois é uma abreviatura (e não abreviação) da unidade bel que é derivada de nome Alexander Graham Bell. Como o bel é uma medida muito grande para uso diário, o decibel (dB), que corresponde a um décimo de bel (B), acabou se tornando a medida de uso mais comum.
+
+
+=== Vantagens ===
+As vantagens do uso do decibel são:
+
+É mais conveniente somar os valores em decibels em estágios sucessivos de um sistema do que multiplicar os seus fatores de multiplicação.
+Faixas muito grandes de razões de valores podem ser expressas em decibels em uma faixa bastante moderada, possibilitando uma melhor visualização dos valores grandes.
+Na acústica o decibel usado como uma escala logarítmica da razão de intensidade sonora, se ajusta melhor a intensidade percebida pelo ouvido humano, pois o aumento do nível de intensidade em decibels corresponde aproximadamente ao aumento percebido em qualquer intensidade, fato conhecido com a Lei de potências de Stevens. Por exemplo, um humano percebe um aumento de 90 dB para 95 dB como sendo o mesmo que um aumento de 20 dB para 25 dB.Ver exemplo em *Sound files to show the size of a decibel.
+
+
+=== Outras escalas logarítmicas ===
+O neper é uma unidade similar que usa o logaritmo natural.
+A escala Richter também usa números expressos em bels.
+Na espectrometria e na óptica as unidades de absorbância são equivalentes a −1 B.
+Na astronomia a magnitude aparente que mede o brilho das estrelas também é uma unidade logarítmica, uma vez que da mesma forma que o ouvido responde de modo logarítmico a potência acústica, o olho também responde de modo logarítmico a intensidade luminosa.
+Na química, o pH, que mede a acidez e alcalinidade de uma solução aquosa, também é uma escala logarítmica.
+
+
+== História e uso do bel e decibel ==
+O bel (símbolo B) é uma unidade de medida de razões. Ele é principalmente usado nas telecomunicações, eletrônica, e acústica. Foi inventado por engenheiros do Bell Labs para quantificar a redução no nível acústico sobre um cabo telefônico padrão com 1 milha de comprimento. Originalmente era chamado de unidade de transmissão ou TU, mas foi renomeado entre 1923 e 1924 em homenagem ao fundador do laboratório Alexander Graham Bell.
+
+
+== Decibel na medida física do som ==
+O som é uma oscilação na pressão do ar (ou de outro meio elástico) capaz de ser percebida pelo ouvido humano. O número de oscilações da pressão do ar por unidade de tempo definem sua frequência, enquanto que a magnitude da pressão média define a potência e a intensidade sonora. A frequência é expressa em hertz (ou ciclos/segundo) e a pressão em pascal (ou newtons/m2), enquanto que a potência é a energia emitida pela fonte sonora por unidade de tempo, expressa em joules/s ou W (estamos usando unidades do Sistema Internacional). A intensidade sonora pode ser definida como potência por unidade de área, expressa em watt/m2. Essas escalas para medida de pressão, potência e intensidade das ondas sonoras são escalas lineares.
+Contudo, a pressão, a potência e a intensidade dos sons captados pelo ouvido humano cobrem uma ampla faixa de variação.Por exemplo, um murmúrio irradia uma potência de 0,000 000 001 watt (10−9 W) enquanto que o grito de uma pessoa comum tem uma potência sonora de cerca de 0,001 watt; uma orquestra sinfônica chega a produzir 10 watts enquanto que um avião a jato emite 100 000 watts de potência ao decolar. Sendo assim, uma escala logarítmica, como o decibel, é mais adequada para medida dessas grandezas físicas. Por este motivo, são usadas as seguintes escalas logarítmicas:
+
+
+=== Nível de Pressão Sonora ===
+
+  
+    
+      
+        d
+        
+          B
+          
+            
+              S
+              P
+              L
+            
+          
+        
+        =
+        20
+        
+        log
+        ⁡
+        (
+        
+          P
+          
+            
+              e
+              f
+            
+          
+        
+        
+          /
+        
+        
+          P
+          
+            o
+          
+        
+        )
+      
+    
+    {\displaystyle dB_{\rm {SPL}}=20\,\log(P_{\rm {ef}}/P_{o})}
+  
+
+  
+    
+      
+        
+          P
+          
+            
+              e
+              f
+            
+          
+        
+      
+    
+    {\displaystyle P_{\rm {ef}}}
+   = valor eficaz da pressão sonora
+
+  
+    
+      
+        
+          P
+          
+            o
+          
+        
+        =
+        2
+        ×
+        
+          10
+          
+            −
+            5
+          
+        
+        
+        
+          
+            
+              N
+              
+                /
+              
+              m
+            
+          
+          
+            2
+          
+        
+      
+    
+    {\displaystyle P_{o}=2\times 10^{-5}\,{\rm {N/m}}^{2}}
+  
+
+
+=== Nível de Intensidade Sonora ===
+
+  
+    
+      
+        d
+        
+          B
+          
+            
+              I
+              L
+            
+          
+        
+        =
+        10
+        
+        log
+        ⁡
+        (
+        I
+        
+          /
+        
+        
+          I
+          
+            o
+          
+        
+        )
+      
+    
+    {\displaystyle dB_{\rm {IL}}=10\,\log(I/I_{o})}
+  
+I = intensidade acústica
+
+  
+    
+      
+        
+          I
+          
+            o
+          
+        
+        =
+        
+          10
+          
+            −
+            12
+          
+        
+        
+        
+          
+            
+              W
+              
+                /
+              
+              m
+            
+          
+          
+            2
+          
+        
+      
+    
+    {\displaystyle I_{o}=10^{-12}\,{\rm {W/m}}^{2}}
+  
+
+
+=== Nível de Potência Sonora ===
+
+  
+    
+      
+        d
+        
+          B
+          
+            
+              P
+              W
+              L
+            
+          
+        
+        =
+        10
+        
+        log
+        ⁡
+        (
+        W
+        
+          /
+        
+        
+          W
+          
+            o
+          
+        
+        )
+      
+    
+    {\displaystyle dB_{\rm {PWL}}=10\,\log(W/W_{o})}
+  
+W = potência acústica
+
+  
+    
+      
+        
+          W
+          
+            o
+          
+        
+        =
+        
+          10
+          
+            −
+            12
+          
+        
+        
+        
+          
+            W
+          
+        
+      
+    
+    {\displaystyle W_{o}=10^{-12}\,{\rm {W}}}
+  
+Os valores de referência, Po, Io e Wo, correspondem aos limiares (ou umbrais) de percepção do ouvido humano. Note que o dB no umbral é zero. Nas expressões acima,
+SPL = sound pressure level (nível de pressão sonora);
+IL = (sound) intensity level (nível de intensidade sonora);
+PWL = (sound) power level (nível de potência sonora).
+
+
+== Decibels ou decibéis? ==
+Esta é uma dúvida que muitas pessoas têm. Segundo o "Novo Dicionário Aurélio da Língua Portuguesa" (2ª edição Revista e Atualizada), o plural de bel é bels, enquanto para o plural de decibel as duas formas são corretas: decibels e decibéis.
+Entretanto, no Brasil, o Decreto Federal No. 81.621 de 3 de maio de 1978 (Anexo 3.2), sobre o Quadro Geral de Unidades de Medidas, estabelece que a forma legal do plural de decibel é decibels.Estas duas são as interpretações populares da questão das unidades e dos seus plurais, mas não estão erradas. Uma unidade é um qualificativo, um padrão, não uma quantidade. As unidades não têm portanto plural, nem gênero. Uma "unidade" é UM. Em rigor deve-se portanto dizer 1 decibel (1x1 decibel), 10 decibel 10x1 decibel, dez vezes a unidade padrão decibel), etc. Por outro lado, essa informação pode ser facilmente refutada apresentando os plurais "metros", "horas" e "quilogramas" para as unidades "metro", "hora" e "quilograma". A confusão é comum porque não há plurais nas simbologias das unidades (2 metros = 2 m, 11 horas = 11h e 30 quilogramas = 30 kg). Ver definição de unidades de medida.
+A regra definida pelas normas internacionais ISO, considera que quando a designação da unidade é proveniente do nome de uma pessoa (exemplo: N=Newton) não se utiliza o plural.
+
+
+== Ver também ==
+Bel
+
+
+== Referências ==

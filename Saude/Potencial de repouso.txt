@@ -1,0 +1,15 @@
+O potencial de repouso (denominado também por estado fixo ou potencial transmembrana de regime estacionário) de uma célula ocorre quando o potencial de membrana não é alterado por potenciais de ação, ou seja,  quando a membrana está polarizada e não há potenciais sinápticos ou qualquer outra  alteração ativa do potencial de membrana. Na membrana  das células, o potencial de repouso tem um valor negativo, o que, por convenção, significa que existe um excesso de carga negativa no interior da membrana comparado com o exterior. 
+
+
+== Etapas de formação do potencial de repouso ==
+O potássio (K+) passa do interior para o exterior da membrana plasmática devido a uma maior permeabilidade de membrana a esse íon. Essa permeabilidade resulta de um maior número de proteínas canais que o transportam.
+O movimento relativo do K+ é interrompido no momento em que o gradiente elétrico (causado pela permanência de ânions orgânicos no interior da membrana) se iguala ao gradiente químico (v.  gradiente eletroquímico). O movimento "para" quando a força electromotriz (que levaria o K+ para dentro) é igualada pela força de saída por difusão do K+.
+A membrana é pouco permeável ao sódio (Na+); logo, esse íon pouco entra na célula. Porém, apesar de pequena, a sua entrada faz o potencial de repouso da membrana (-65 mV) não ser igual ao potencial do potássio (-80 mV). O pouco de Na+ que consegue entrar na célula neutraliza alguns ânions orgânicos, tornando o meio intracelular um pouco menos negativo (de -80 para -65 mV).
+Para manter esse potencial de repouso, é preciso manter o gradiente de concentração. Esse gradiente é mantido por meio da bomba de sódio e potássio. A bomba é uma molécula que faz parte de uma classe de proteínas integrais da membrana, sendo capaz de translocar K+ para dentro da célula e Na+ para fora da célula, utilizando a  energia desprendida na degradação de ATP em ADP e fosfato inorgânico. 
+
+
+== Ver também ==
+Potencial elétrico de membrana
+
+
+== Referências ==

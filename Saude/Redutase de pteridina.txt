@@ -1,0 +1,32 @@
+Em enzimologia, uma redutase de pteridina (CE 1.5.1.33) é uma enzima que catalisa a reação química
+
+5,6,7,8-tetrahidrobiopterina + 2 NADP+ 
+  
+    
+      
+        ⇌
+      
+    
+    {\displaystyle \rightleftharpoons }
+   biopterina + 2 NADPH + 2 H+Assim, os dois substratos desta enzima são 5,6,7,8-tetra-hidrobiopterina e NADP +, ao passo que os seus produtos são biopterina 3, NADPH e H +.
+Essa enzima pertence à família das oxidoredutases, especificamente as que atuam sobre o grupo CH-NH de doadores com NAD + ou NADP + como aceitadoras. O nome sistemático desta classe de enzimas é 5,6,7,8-tetrahidrobiopterina:NADP+ oxidoredutase. Outros nomes de uso comum incluem PTR1, e redutase de pteridina 1.
+
+
+== Estudos estructurais ==
+A partir do final de 2007, 7 estruturas foram resolvidas para esta classe de enzimas, com códigos de adesão ao PDB 1W0C, 2BF7, 2BFA, 2BFM, 2BFO, 2BFP, e 2C7V.
+
+
+== Ver também ==
+
+Biossíntese
+Enovelamento de proteínas
+Desnaturação
+Química de Proteínas
+Metaloproteína
+
+
+== Referências ==
+
+Nare B, Hardy LW, Beverley SM (1997). «The roles of pteridine reductase 1 and dihydrofolate reductase-thymidylate synthase in pteridine metabolism in the protozoan parasite Leishmania major». J. Biol. Chem. 272 (21): 13883–91. PMID 9153248. doi:10.1074/jbc.272.21.13883  !CS1 manut: Nomes múltiplos: lista de autores (link)
+SM, Hunter WN; Schüttelkopf, AW; Leonard, GA; Luba, J; Hardy, LW; Beverley, SM; Hunter, WN (2001). «Pteridine reductase mechanism correlates pterin metabolism with drug resistance in trypanosomatid parasites». Nat. Struct. Biol. 8 (6): 521–5. PMID 11373620. doi:10.1038/88584 
+Fitzpatrick PF (2000). «The aromatic amino acid hydroxylases». Adv. Enzymol. Relat. Areas. Mol. Biol. Advances in Enzymology - and Related Areas of Molecular Biology. 74: 235–94. ISBN 978-0-470-12320-1. PMID 10800597. doi:10.1002/9780470123201.ch6

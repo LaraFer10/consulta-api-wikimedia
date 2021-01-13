@@ -1,0 +1,28 @@
+Um profago é um bacteriófago (muitas vezes abreviado para "fago") cujo genoma foi inserido integrado em um cromossomo circular bacteriano ou existe como um plasmídeo extracromossomal. Esta é uma forma latente de fago, em que os genes virais estão presentes em bactérias sem causar seu rompimento. "Pro" significa "antes", portanto, profago significa o estágio de um  bacteriófago antes de ser ativado dentro do hospedeiro. 
+
+
+== Introdução ==
+Os profagos são capazes de efetuar uma grande variedade de processos dentro de suas respectivas cepas bacterianas. Os profagos podem aumentar o potencial de virulência de cepas bacterianas em humanos e patógenos vegetais, bem como aumentar a capacidade de sobrevivência da bactéria em ambientes agressivos.  Os patógenos bacterianos conseguiram se adaptar e prosperar em uma ampla variedade de ambientes. Alguns patógenos anaeróbicos, como Clostridium perfringens e Clostridium difficile, existem no intestino e são incapazes de sobreviver em locais com grandes quantidades de oxigênio por longos períodos de tempo.  Outros ainda podem residir no solo, como B. anthracis, enquanto patógenos como C. difficile podem até sobreviver em ambientes hospitalares muito estéreis. Os profagos podem fornecer a essas bactérias mecanismos de resistência e vantagens metabólicas que dão à célula hospedeira maior chance de sobrevivência,  às vezes até alterando completamente o genoma bacteriano. 
+
+
+== Indução de profagos ==
+Após a detecção de danos às células hospedeiras pela luz UV ou por determinados produtos químicos, o profago é excisado do cromossomo bacteriano em um processo chamado indução de profago. Após a indução, a replicação viral começa através do ciclo lítico . No ciclo lítico, o vírus comanda o mecanismo reprodutivo da célula. A célula pode se encher de novos vírus até que ela lise ou exploda, ou pode liberar os novos vírus, um de cada vez, em um processo endocitótico reverso. O período entre a infecção e a lise é denominado período latente. Um vírus após o ciclo lítico é chamado de vírus virulento. Os profagos são importantes agentes de transferência horizontal de genes e são considerados parte do mobiloma. Todas as famílias de vírus bacterianos que possuem genomas de DNA circulares (fita simples ou dupla) ou replicam seus genomas por meio da replicação de círculos rolantes (por exemplo, Caudovirales ) têm membros temperados. 
+
+
+== Indução zigótica ==
+A indução zigótica ocorre quando uma célula bacteriana que transporta o DNA de um vírus bacteriano transfere seu próprio DNA junto com o DNA viral (profago) para a nova célula hospedeira. Isso tem o efeito de fazer com que a célula hospedeira se rompa.  O DNA da célula bacteriana é silenciado antes da entrada na célula por uma proteína repressora que é codificada pelo profago. Após a transferência do DNA da célula bacteriana para a célula hospedeira, a proteína repressora não é mais codificada e o DNA original da célula bacteriana é então ativado na célula hospedeira. Esse mecanismo eventualmente levará à liberação do vírus à medida que a célula hospedeira se rompe e o DNA viral é capaz de se espalhar.  Essa nova descoberta forneceu informações importantes sobre a conjugação bacteriana e contribuiu para o modelo de repressão precoce da regulação de genes, que forneceu uma explicação sobre como os genes do operon lac e do bacteriófago λ são regulados negativamente. 
+
+
+== Reativação de profagos ==
+O bacteriófago λ é capaz de sofrer um tipo de reparo recombinacional chamado reativação do profago.   A reativação do profago pode ocorrer por recombinação entre um cromossomo fago infeccioso λ danificado por UV e um genoma de fago homólogo integrado ao DNA bacteriano e existente no estado de profago. A reativação do profago no caso do fago λ parece ser um processo de reparo recombinacional preciso, mediado pelos produtos dos genes recA+ e red+. 
+
+
+== Aplicações ==
+Profagos podem dizer muito aos pesquisadores sobre a relação entre uma bactéria e um hospedeiro.  Com dados de mais bactérias não patogênicas, os pesquisadores poderão coletar evidências sobre se os profagos contribuem ou não para o valor de sobrevivência do hospedeiro. A genômica de profago tem o potencial de levar a adaptações ecológicas das relações entre bactérias.  Outra área de interesse importante é o controle da expressão gênica de profagos, com muitos dos genes de conversão lisogênicos ( conversão gênica ) sendo fortemente regulados.  Esse processo é capaz de converter bactérias não patogênicas em bactérias patogênicas que agora podem produzir toxinas prejudiciais , como nas infecções por estafilococos. Como os mecanismos específicos dos profagos ainda não estão detalhados, esta pesquisa poderia fornecer à comunidade essa ferramenta para pesquisas futuras. 
+
+
+== Referências ==
+
+
+== Ver também ==
+Provirus

@@ -1,0 +1,14 @@
+A nitrito oxidorredutase (NOR ou NXR) é uma enzima envolvida na nitrificação. É o último passo no processo de oxidação aeróbica de amoníaco, que é levado a cabo por dois grupos de bactérias nitrificantes: oxidantes de amoníaco tais como Nitrospira, Nitrosomonas e Nitrosococcus convertem amoníaco em nitrito, enquanto os oxidantes de nitrito tal como Nitrobacter oxidam o nitrito em nitrato.
+A enzima está ligada à superfície interna citoplasmática da membrana bacteriana e contém váias subunidades, centros de ferro-enxofre e um cofactor de molibdeno. A enzima é relativamente abundante, fazendo 10-30% da proteína total nestas bactérias e formam estruturas densamente compactadas na superfície membranar.Reaction
+Nitrito + aceitador <=> nitrato + aceitador reduzido
+
+
+== Ver também ==
+Metabolismo microbiano
+
+
+== Referências ==
+
+
+== Ligações externas ==
+«MetaCyc Pathway: nitrite oxidation»

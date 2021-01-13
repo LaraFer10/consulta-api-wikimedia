@@ -1,0 +1,70 @@
+Este artigo é sobre farmacologia aplicada, de certa forma, uma das aplicações da medicina e matemática, apesar de ser um campo independente, nas busca de precisão em terapias e desenvolvimento de novos fármacos. Pró-farmaco é ativo e Farmaco é inativo, sendo eliminado somente pelas fezes.
+
+
+== Introdução ==
+
+Farmacocinética é o "caminho" que o medicamento segue no organismo de seres vivos como humanos. Não se trata do estudo do seu mecanismo de ação, o que corresponde à farmacodinâmica ou mesmo da farmacogenômica, mas sim as etapas que a droga  sofre desde a administração, introdução do fármaco no organismo como tomar um comprimido, até a excreção, processo pela qual o fármaco deixa o organismo definitivamente,  que são: administração, absorção, biotransformação, biodisponibilidade e excreção. Note também que uma vez que se introduza a droga no organismo, essas etapas ocorrem de forma simultânea, dado que uma quantidade de medicamento já passou pela a etapa em questão , sendo essa divisão apenas de caráter didático.
+
+
+== Fases ==
+As fases da farmacocinética são: absorção, distribuição,  biotransformação, biodisponibilidade e excreção.
+
+
+=== Absorção ===
+
+É a primeira etapa que vai desde a escolha da via de administração até a chegada da droga à corrente sanguínea. Vias de administração como intravenosa e intra-arterial pulam essa etapa, já que caem direto na circulação. Alguns fatores interferem nessa etapa como pH do meio, forma farmacêutica e patologias (úlceras por exemplo).
+A característica química do fármaco interfere no processo de absorção.
+Ver também: ADME
+
+
+==== Efeito de primeira passagem ====
+É a metabolização do fármaco pelo fígado e pela microbiota intestinal, antes que o fármaco chegue à circulação sistêmica. As vias de administração que estão sujeitas a esse efeito são: via oral e via retal (em proporções bem reduzidas). Veja mais em Metabolismo de primeira passagem.
+
+
+=== Distribuição ===
+
+Etapa em que a droga é distribuída no corpo através da circulação. Ela chega primeiro nos órgãos mais vascularizados (como sistema nervoso central, pulmão, coração) e depois sofre redistribuição aos tecidos menos irrigados (tecido adiposo por exemplo). É nessa etapa que a droga vai chegar ao local onde vai atuar. Interferem ainda nessa etapa baixa concentração de proteínas plasmáticas (necessárias para a formação da fração ligada) como desnutrição, hepatite e cirrose, que destroem hepatócitos, que são células produtoras de proteínas plasmáticas, reduzindo assim o nível destas no sangue.
+
+
+=== Biotransformação ===
+
+Fase onde a droga é transformada em um composto mais hidrossolúvel para a posterior excreção.
+Ela se dá em duas fases:
+
+Fase 1: etapas de oxidação, redução e hidrólise
+Fase 2: conjugação com o ácido glicurônicoA fase 1 não é um processo obrigatório, variando de droga para droga e diferente da fase 2, obrigatória a todas as drogas.
+O fígado é o órgão que prepara a droga para a excreção.
+
+
+=== Biodisponibilidade ===
+Biodisponibilidade é uma medida da extensão de uma droga terapeuticamente ativa que atinge a circulação sistêmica e está disponível no local de ação.
+O termo biodisponibilidade é usado para descrever a fração de uma dose administrada de uma droga não alterada que atinge a circulação sistêmica. É uma das principais propriedades farmacocinéticas das drogas. Por definição, quando uma medicação é administrada intravenosamente, sua biodisponibilidade é de 100%. Entretanto, quando uma medicação é administrada por outras vias (como a via oral, por exemplo), sua biodisponibilidade diminui (devido à absorção incompleta e ao metabolismo de primeira passagem).
+A biodisponibilidade é uma das ferramentas essenciais da famarcocinética, já que seu valor deve ser considerado quando se calcula as doses para administração de drogas por vias não-intravenosas.
+Referindo-se sobre a biodisponibilidade calcula o grau de quantidade de um fármaco administrado ou de outra substância que se torna disponível para actuar no seu alvo (célula, tecido, órgão etc.) 
+
+
+=== Excreção ===
+
+Pela excreção, os compostos são removidos do organismo para o meio externo. Fármacos hidrossolúveis, carregados ionicamente, são filtrados nos glomérulos ou secretados nos túbulos renais, não sofrendo reabsorção tubular, pois têm dificuldade em atravessar membranas. Excretam-se, portanto, na forma ativa.
+Os sítios de excreção denominam-se emunctórios e, além do rim, incluem:
+
+pulmões
+fezes
+secreção biliar
+suor
+lágrimas
+saliva
+leite materno
+fígadoAfora os pulmões para os fármacos gasosos ou voláteis, os demais sítios são quantitativamente menos importantes.
+
+
+== Notas ==
+
+
+== Referências ==
+
+
+== Bibliografia ==
+Farmacologia clínica para Dentistas; Lenita Wannmacher, Maria Beatriz Cardoso Ferreira; Guanabara Koogan; 2º edição; 1999.
+TOZER, T. N.; ROWLAND, M. Introducion to pharmacokinetics and pharmacodynamics: the quantitative basis of drug theraphy, Lippincott Williams & Wilkins, 2006.
+Malcolm Rowland, Thomas N Tozer, Clinical pharmacokinetics and pharmacodynamics: concepts and applications. Fourth Edition. Lippincott and Wilkins: 2011.

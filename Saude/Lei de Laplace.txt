@@ -1,0 +1,126 @@
+A lei de Laplace (em honra ao físico e matemático francês Pierre Simon Laplace) as vezes chamada lei de Laplace-Young ou equação de Young–Laplace (por Thomas Young) é uma lei da física que relaciona a variação de pressão na superfície que separa dois fluidos de distinta natureza com as forças de ligação molecular. Em sua forma mais geral pode ser expressada como: 
+
+  
+    
+      
+        
+          
+            
+              
+                Δ
+                p
+              
+              
+                
+                =
+                −
+                γ
+                
+                  
+                    
+                      ∇
+                      ¯
+                    
+                  
+                
+                ⋅
+                
+                  
+                    
+                      n
+                      ^
+                    
+                  
+                
+              
+            
+            
+              
+              
+                
+                =
+                2
+                γ
+                H
+              
+            
+            
+              
+              
+                
+                =
+                γ
+                
+                  (
+                  
+                    
+                      
+                        1
+                        
+                          R
+                          
+                            1
+                          
+                        
+                      
+                    
+                    +
+                    
+                      
+                        1
+                        
+                          R
+                          
+                            2
+                          
+                        
+                      
+                    
+                  
+                  )
+                
+              
+            
+          
+        
+      
+    
+    {\displaystyle {\begin{aligned}\Delta p&=-\gamma {\bar {\nabla }}\cdot {\hat {n}}\\&=2\gamma H\\&=\gamma \left({\frac {1}{R_{1}}}+{\frac {1}{R_{2}}}\right)\end{aligned}}}
+  Onde ΔP é a variação de pressão entre superfícies (sempre maior no lado côncavo), 
+  
+    
+      
+        γ
+      
+    
+    {\displaystyle \gamma }
+  =Tensão superficial e ambas R sao dois raios de curvaturas perpendiculares. As vezes se usa H = 
+  
+    
+      
+        
+          
+            1
+            R
+          
+        
+      
+    
+    {\displaystyle {\frac {1}{R}}}
+  , sendo H a curvatura da superfície. Desse modo, percebe-se que a variação de pressões em um ponto da superfície só depende do valor da tensão superficial e da curvatura média da superfície nesse ponto.
+
+
+== Medicina ==
+É de particular importância nas ciências da saúde para entender mecanismos cardiovasculares e respiratórios importantes e sintomas em diversas doenças.
+
+Vasos sanguíneosNa medicina, a lei de Laplace, estabelece a relação entre o estresse ou tensão parietal, a pressão transmural (diferença de pressão entre a pressão intravascular e a intersticial) e a espessura da parede dos vasos sanguíneos. A tensão na parede representa a força por unidade de comprimento tangencial da parede do vaso, que se opõe à força gerada pela tensão de distensão vascular. A tensão das paredes da aorta tem os valores entre 170.000 a 200.000 dinas/cm, que corresponde a um raio de 1,5 cm e uma pressão de 100mmHg. Em contraste com a aorta, nos capilares a tensão da parede é de apenas 16-17 dinas/cm, devido ao pequeno raio (0,0005 centímetros) e pressão interna (17 a 25 mmHg). O pequeno diâmetro dos capilares é uma propriedade que lhes permite resistir a pressões relativamente altas, embora a sua parede seja frágil.
+Alvéolos pulmonaresEsta lei também analisa a pressão necessária para impedir os alvéolos pulmonares de colapsarem. Devido à existência do fluido surfactante revestindo o interior do alvéolo, a pressão necessária para evitar o colapso é proporcional à referida superfície e a tensão inversa do raio do alvéolo. 
+
+Insuficiência cardíacaNa insuficiência cardíaca, a dilatação dos ventrículos causa aumento da tensão das paredes necessária durante o período de sístole, ao produzir uma pressão intraventricular, fazendo com que o trabalho cardíaco de um ventrículo dilatado seja maior que dos ventrículos normais.
+
+Estenose aórticaNa estenose aórtica, o menor raio da aorta resulta em maior gradiente de pressão entre o ventrículo esquerdo (VE) e a aorta (Ao). Isto força o VE a precisar de maior pressão para superar esta dificuldade, causando maior estresse a parede ventricular e resultando em uma hipertrofia concêntrica do VE e remodelação ventricular por acumulação de fibrose por colágeno.
+
+AneurismaO aneurisma é uma lesão no vaso sanguíneo em que uma porção da sua espessura se torna mais fina do que o resto, o que aumenta a possibilidade de rompimento do vaso neste local. Um efeito similar ocorre na hipertensão crônica, em que houve o aumento na espessura da parede arteriolar (a tensão de parede que diminui) reduz a probabilidade de ruptura neste local. 
+
+
+== Referências ==

@@ -1,0 +1,100 @@
+As sequências de ADN não codificante são componentes do ácido desoxirribonucleico de um organismo que não codificam sequências de proteínas. Parte do ADN não codificante é transcrito em moléculas de ARN não codificante funcionais (por exemplo, ARN transportador, ARN ribossomal e ARN interferente). Outras funções do ADN não codificante incluem: regulação transcricional e translacional de sequências codificantes de proteínas, regiões de ligação em andaime, origens de replicação de ADN, centrômeros e telômeros.
+A quantidade de ADN não codificante varia muito entre as espécies. Frequentemente, apenas uma pequena porcentagem do genoma é responsável pela codificação de proteínas, mas uma porcentagem significativa possui funções regulatórias. Quando há muito ADN não codificador, uma grande proporção parece não ter função biológica, como previsto na década de 1960. Desde então, essa porção não funcional foi controversamente chamada de "ADN lixo".O projecto internacional Enciclopedia de Elementos do ADN (ENCODE, do inglês Encyclopedia of DNA Elements)  descobriu, através de abordagens bioquímicas directas, que pelo menos 80% do ADN do genoma humano possui atividade bioquímica. Embora esta não fosse necessariamente uma questão inusitada, devido a décadas de pesquisa na descoberta de várias regiões não codificantes funcionais, esta conclusão foi criticada por alguns cientistas por confundir atividade bioquímica com função biológica. Estimativas para a fração biologicamente funcional do genoma humano com base na genómica comparativa variam entre 8 e 15%. No entanto, outros apresentam-se contrários em basear-se exclusivamente em estimativas da genómica comparável, devido ao seu limitado escopo.[carece de fontes?] Além disso, o ADN não codificante foi comprovado estar envolvido na atividade epigenética e ser responsável pela complexidade das espécies.
+
+
+== Fração do ADN não codificante ==
+
+A quantidade de ADN genômico total varia amplamente entre os organismos, e a proporção de ADN codificante e não codificante dentro desses genomas também varia muito. Por exemplo, foi originalmente sugerido que mais de 98% do genoma humano não codifica sequências de proteínas, incluindo a maioria das sequências dentro dos introns e a maioria do ADN região intergênica,  enquanto 20% de um genoma procarioto típico é não codificante.Em eucariotas, o tamanho do genoma e, por extensão, a quantidade de ADN não codificante, não está correlacionado com a complexidade do organismo, uma observação conhecida como paradoxo do valor C. Por exemplo, relatou-se que o genoma do organismo unicelular Polychaos dubium (anteriormente conhecido como Amoeba dubia) contém mais de 200 vezes o tamanho do genoma humano.O genoma do baiacu Takifugu rubripes tem apenas um oitavo do tamanho do genoma humano, mas parece ter um número comparável de genes; aproximadamente 90% do genoma de Takifugu é ADN não codificante. Assim, a maior parte da diferença no tamanho do genoma não se deve à variação na quantidade de ADN codificante, mas sim a uma diferença na quantidade de ADN não codificante.Em 2013, um novo "recorde" para o genoma eucariótico mais eficiente foi descoberto com Utricularia gibba, uma planta carnívora que possui apenas 3% de ADN não codificante e 97% de ADN codificador. Partes do ADN não codificante foram removidas, o que sugere que o ADN não codificante pode não ser tão crítico para as plantas, embora o ADN não codificador seja útil para humanos. Outros estudos em plantas descobriram funções cruciais em porções de ADN não codificantes que antes eram consideradas insignificantes e acrescentaram uma nova camada à compreensão da regulação gênica.
+
+
+== Tipos de sequências de ADN não codificante ==
+
+
+=== Elementos cis- e trans-regulatórios ===
+Os elementos cis-regulatórios são sequências que controlam a transcrição de um gene próximo. Muitos desses elementos estão envolvidos na evolução e controle do desenvolvimento. Os elementos cis podem estar localizados em regiões não traduzidas 5' ou 3', ou dentro de introns. Os elementos trans-reguladores controlam a transcrição de um gene distante.
+Os promotores facilitam a transcrição de um gene específico e estão tipicamente a montante da região de codificação. O intensificador de sequências também pode exercer efeitos em níveis distantes de transcrição gênica.
+
+
+=== Introns ===
+Um intron é uma região não codificadora de um gene eucarioto que é transcrita em uma molécula de ARN, mas é removida por splicing do ARN durante a produção do mARN ou outro ARN funcional.Estudos de introns do grupo I de protozoários Tetrahymena indicam que alguns introns parecem ser elementos genéticos egoístas, neutros para o hospedeiro, porque se removem dos exons flanqueadores durante o processamento de ARN e não produzem um viés de expressão entre alelos com e sem o intron. Alguns introns parecem ter função biológica significativa, possivelmente por meio da funcionalidade da ribozima, que pode regular a atividade de ARNt e ARNr, bem como a expressão do gene codificador de proteína, evidente em hospedeiros que se toARNram dependentes de tais introns por longos períodos de tempo; por exemplo, o intron trnL é encontrado em todas as plantas verdes e parece ter sido herdado verticalmente por vários bilhões de anos, incluindo mais de um bilhão de anos nos cloroplastos e 2–3 bilhões de anos adicionais antes, nas cianobactérias ancestrais dos cloroplastos.
+
+
+=== Pseudogenes ===
+Os pseudogenes são sequências de ADN relacionadas a genes conhecidos por terem perdido a capacidade de codificar proteínas ou não mais expressos na célula. Os pseudogenes surgem da retrotransposição ou duplicação genômica de genes funcionais, se tornando "fósseis genômicos", que não funcionam devido a mutações que impedem a transcrição do gene ou alteram fatalmente a tradução do gene. Os pseudogenes resultantes da retrotransposição de um RNA intermediário são conhecidos como pseudogenes processados; pseudogenes decorrentes de resíduos genômicos de genes duplicados ou resíduos de genes inativados são pseudogenes não processados.  Transposições de genes mitocondriais antes funcionais do citoplasma para o núcleo, também conhecidas como Numt, também se qualificam como um tipo comum de pseudogene.Embora a Lei de Dollo sugira que a perda de função em pseudogenes é provavelmente permanente, genes silenciados podem realmente reter a função por vários milhões de anos e podem ser "reativados" em sequências codificadoras de proteínas e um número substancial de pseudogenes são ativamente transcritos. Como se presume que os pseudogenes mudam sem restrições evolutivas, eles podem servir como um modelo útil do tipo e das frequências de várias mutações genéticas espontâneas.
+
+
+=== Sequências de repetição, transposons e fonte de elementos virais ===
+Transposons e retrotransposons são elementos genéticos móveis. Sequências repetidas de retrotransposons, que incluem elementos nucleares intercalados longos (LINEs) e elementos nucleares intercalados curtos (SINEs), são responsáveis ​​por uma grande proporção das sequências genômicas em muitas espécies. As sequências Alu, classificadas como um elemento nuclear curto intercalado, são os elementos móveis mais abundantes no genoma humano. Alguns exemplos foram encontrados de SINEs exercendo controle transcricional de alguns genes que codificam proteínas.
+
+As sequências de retrovírus endógenos são o produto da transcrição reversa de genomas de retrovírus nos genomas de células germinativas. A mutação dentro dessas sequências retrotranscritas pode inativar o genoma viral.Mais de 8% do genoma humano é composto de sequências de retrovírus endógenos (principalmente decadentes), como parte da fração de mais de 42% que é reconhecidamente derivada de retrotransposons, enquanto outros 3% podem ser identificados como restos de transposons de ADN. Espera-se que muito da metade restante do genoma que atualmente não tem uma origem explicada tenha encontrado sua origem em elementos transponíveis que estavam ativos há tanto tempo (>200 milhões de anos) que mutações aleatórias os tornaram irreconhecíveis. A variação do tamanho do genoma em pelo menos dois tipos de plantas é principalmente o resultado de sequências de retrotransposons.
+
+
+=== Telômeros ===
+Telômeros são regiões de ADN repetitivo no final de um cromossomo, que fornecem proteção contra a deterioração cromossômica durante a replicação do ADN. Estudos recentes têm mostrado que os telômeros funcionam para ajudar em sua própria estabilidade. ARN contendo repetição telomérica (TERRA) são transcritos derivados de telômeros. TERRA demonstrou manter a atividade da telomerase e alongar as extremidades dos cromossomos.
+
+
+== ADN lixo ==
+O termo "ADN lixo" tornou-se popular na década de 1960. De acordo com T. Ryan Gregory, a natureza do ADN "lixo" foi discutida explicitamente pela primeira vez em 1972 por um biólogo, David Comings, que aplicou o termo a todos os ADNs não codificantes.  O termo foi formalizado no mesmo ano por Susumu Ohno,  que observou que a carga mutacional de mutações deletérias colocaram um limite superior no número de loci funcionais que poderia ser esperado, dada uma taxa de mutação típica. Ohno levantou a hipótese de que os genomas dos mamíferos não poderiam ter mais de 30.000 loci sob seleção antes que o "custo" da carga mutacional causasse um declínio inevitável na aptidão e, eventualmente, a extinção. Esta previsão permanece robusta, com o genoma humano contendo aproximadamente 20.000 genes (codificadores de proteínas). Outra fonte para a teoria de Ohno foi a observação de que mesmo espécies estreitamente relacionadas podem ter tamanhos de genoma amplamente (ordens de magnitude) diferentes, o que foi apelidado de paradoxo do valor C em 1971. 
+O termo "ADN lixo" foi questionado, com base no fato de que ele provoca uma forte suposição a priori de não funcionalidade total. Alguns recomendaram o uso de uma terminologia mais neutra, como "ADN não codificador".  No entanto, "ADN lixo" continua um rótulo provisório para as porções da sequência do ADN para a qual nenhuma função discernível foi identificada e que, através da análise genômica comparativa, não aparece sob nenhuma restrição funcional, sugerindo que a própria sequência não forneceu nenhuma vantagem adaptativa.
+
+Desde o final dos anos 1970, tornou-se claro que a maior parte do ADN não codificante em grandes genomas tem sua origem na amplificação egoísta de elementos transponíveis, sobre os quais W. Ford Doolittle e Carmen Sapienza em 1980 escreveram na revista Nature:"Quando pode ser demonstrado que um dado ADN, ou classe de ADN, de função fenotípica não comprovada desenvolveu uma estratégia (como o rearranjo) que garante sua sobrevivência genômica, então nenhuma outra explicação para sua existência é necessária."Pode-se esperar que a quantidade de ADN lixo dependa da taxa de amplificação desses elementos e da taxa em que o ADN não funcional é perdido. Na mesma edição da Nature, Leslie Orgel e Francis Crick escreveram que o ADN lixo tem "pouca especificidade e transmite pouca ou nenhuma vantagem seletiva ao organismo". O termo aparece principalmente na ciência popular e coloquialmente em publicações científicas, e foi sugerido que suas conotações podem ter atrasado o interesse pelas funções biológicas do organismo. Várias linhas de evidência indicam que algumas sequências de "ADN lixo" provavelmente têm atividade funcional não identificada e que o processo de exaptação de fragmentos de ADN originalmente egoístas ou não funcionais tem sido comum em todo ao longo da evolução. 
+
+
+== Evidências de funcionalidade ==
+Algumas sequências de ADN não codificante devem ter alguma função biológica importante. Isso é indicado por estudos comparativos de genômica que relatam regiões altamente conservadas de ADN não codificante, às vezes em escalas de tempo de centenas de milhões de anos. Isso implica que essas regiões não codificantes estão sob forte pressão evolutiva e seleção positiva. Por exemplo, nos genomas de humanos e camundongos, que divergiram de um ancestral comum 65-75 milhões de anos atrás, as sequências de ADN codificadoras de proteínas representam apenas cerca de 20% do DNA conservado, com os 80% restantes do ADN conservado representados em regiões de não-codificação.Algumas sequências específicas de ADN não codificante podem ser características essenciais para a estrutura do cromossomo, função do centrômero e reconhecimento de cromossomos homólogos durante a meiose.
+
+
+== Regulação da expressão gênica ==
+
+Algumas sequências de ADN não codificante determinam os níveis de expressão de vários genes, tanto aqueles que são transcritos em proteínas quanto aqueles que estão envolvidos na regulação gênica.
+
+
+=== Fatores de transcrição ===
+
+Algumas sequências de ADN não codificante determinam onde os fatores de transcrição se ligam. Um fator de transcrição é uma proteína que se liga a sequências de ADN não codificante específicas, controlando assim o fluxo (ou transcrição) da informação genética do ADN para o ARN mensageiro.
+
+
+=== Operadores ===
+Um operador é um segmento de DNA ao qual se liga um repressor . Um repressor é uma proteína de ligação ao DNA que regula a expressão de um ou mais genes ligando-se ao operador e bloqueando a ligação da RNA polimerase ao promotor, evitando assim a transcrição dos genes. Esse bloqueio de expressão é chamado de repressão. 
+
+
+=== Enhancer ===
+
+Um enhancer é uma região curta do DNA que pode se ligar a proteínas (fatores trans), bem como a um conjunto de fatores de transcrição, para melhorar os níveis de transcrição gênica em um grupo de genes.
+
+
+=== Silenciadores ===
+Um silenciador é uma região do DNA que inativa a expressão gênica quando se liga a uma proteína reguladora. Funciona de forma muito semelhante aos potenciadores, apenas difere na inativação do gene.
+
+
+=== Promotores ===
+
+Um promotor é uma região do DNA que facilita a transcrição de um determinado gene quando um fator de transcrição se liga a ele. Os promotores estão geralmente localizados próximo e a montante dos genes que regulam.
+
+
+=== Isoladores ===
+Um isolador genético é um elemento de fronteira que desempenha dois papéis distintos na expressão do gene, seja como um código de bloqueio de intensificador ou, raramente, como uma barreira contra a cromatina condensada. Um isolador em uma sequência de DNA é comparável a um separador de palavras linguístico, como uma vírgula em uma frase, porque o isolador indica onde termina uma sequência reforçada ou reprimida.
+
+
+== Ver também ==
+ARN não codificante
+Conflito intragenómico
+Rede de transcrição
+Sequência não codificante conservada
+Transcritoma
+Visão da evolução centrada nos genes
+
+
+== Referências ==
+
+
+== Bibliografia ==
+Bennett, M.D. and I.J. Leitch (2005). «Genome size evolution in plants». In:  T.R. Gregory (ed.). The Evolution of the Genome. San Diego: Elsevier. pp. 89–162 
+Gregory, T.R (2005). «Genome size evolution in animals». In:  T.R. Gregory (ed.). The Evolution of the Genome. San Diego: Elsevier 
+Carroll, Sean B.;  et al. (2008). «Regulating Evolution». Scientific American. [S.l.]: Scientific American Inc. pp. 60–67  !CS1 manut: Uso explícito de et al. (link)
+
+
+== Ligações externas ==
+«Animal Genome Size Database» 
+«Plant DNA C-values Database» 
+«Fungal Genome Size Database»

@@ -1,0 +1,47 @@
+Respiração celular é o processo de conversão das ligações químicas de moléculas ricas em energia que poderão ser usadas nos processos vitais. Ela pode ser de dois tipos, respiração anaeróbia (sem utilização de oxigênio) e respiração aeróbia (com utilização de oxigênio).
+A respiração celular é o processo de obtenção de energia mais utilizado pelos seres vivos. Na respiração, ocorre a liberação de dióxido de carbono, energia e água e o consumo de oxigênio e glicose, ou outra substância orgânica, tal como lipídios.
+A organela responsável por essa respiração é a mitocôndria.
+Do ponto de vista da fisiologia, o processo pelo qual um organismo vivo troca oxigênio e dióxido de carbono com o seu meio ambiente é chamado de ventilação, respiração ocorre apenas na célula, operação executada pela mitocôndria.
+Do ponto de vista da bioquímica, respiração celular é o processo de conversão das ligações químicas de moléculas ricas em energia que possa ser usada nos processos vitais.
+A respiração celular processa-se nas seguintes etapas:
+
+Glicólise
+Ciclo de Krebs
+Cadeia respiratória
+Fosforilação oxidativaO processo básico da respiração celular é a quebra da glicose ou Glicólise, que se pode expressar pela seguinte equação química:
+
+C6H12O6 + 6O2 → 6CO2 + 6H2O + energiaNutrientes (energia química) + O2 → CO2 + H2O + Energia (alguma que se perde sob a forma de calor e outra parte armazena-se sob a forma de ATP)
+Este artigo centra-se nos fenómenos da respiração celular, que se processa segundo duas sequências básicas:
+Glicólise (ocorrida no citosol) e Oxidação do piruvato (ocorrida na matriz mitocondrial) através de um de dois processos: Respiração aeróbia ou Respiração anaeróbia
+
+
+== Oxidação do piruvato ==
+De acordo com o tipo de metabolismo, existem duas sequências possíveis para a oxidação do piruvato proveniente da glicólise:
+
+1. Neste primeiro processo, a oxidação do piruvato ocorre em uma respiração aeróbia, produzindo em seguida Acetilcoenzima A, iniciando assim o Ciclo de Krebs, como é demonstrado abaixo:Piruvato → Acetil-Coa
+
+Nesta etapa ocorre a entrada de NAD e CoA-SH.O piruvato gerado na glicólise sofre desidrogenação e descarboxilação catalisado pelo complexo piruvato-desidrogenase, durante essas reações é adicionada a coenzima A, desta forma a partir de cada piruvato produz-se um acetil-CoA, iniciando logo em seguida o Ciclo de Krebs
+Durante a glicólise pode ocorrer a falta de O2 gerando outras reações:
+
+2.Nesta etapa a oxidação do piruvato ocorre em uma reação anaeróbiaOxidação Incompleta da Glicose:
+
+Glicose → Piruvato → Ácido lácticoNa ausência de O2 ou em situação de hipóxia, a cadeia respiratória fica bloqueada ou parcialmente bloqueada, por isso os NADH e FADH2 gerados nas reações de oxiredução não podem ser oxidados. Assim fica faltando NAD e FAD para as reações de desidrogenação. Com isso, o ciclo de Krebs não pode ocorrer ficando totalmente bloqueado na falta de O2. Se houvesse uma forma de repor NAD e FAD sem o envolvimento da cadeia respiratória o ciclo poderia continuar ocorrendo. Na oxidação da glicose na ausência de O2, o NADH produzido não irá para a cadeia respiratória; da mesma forma, o piruvato não dará origem ao acetil-CoA. Assim fica acumulado NADH e piruvato. Para que a glicólise mantenha-se, o NADH acumulado transfere seus elétrons e P+ para o piruvato, originando ácido láctico e regenerando o NAD. Isto representa uma via alternativa de oxidação do NADH. Na oxidação incompleta o rendimento de ATP cai para apenas dois.
+
+
+== Respiração aeróbica ==
+A respiração aeróbia requer oxigênio. Na glicólise, é formado o piruvato (também chamado de ácido pirúvico) bem como 2 ATP. Cada piruvato que entra na mitocôndria e é oxidado a um composto com dois carbonos (acetato) que depois é combinado com a Coenzima-A, com a produção de NADH e libertação de CO2. De seguida, inicia-se o Ciclo de Krebs. Neste processo, o grupo acetil é combinado com compostos com quatro carbonos formando o citrato (6C). Por cada ciclo que ocorre liberta-se 2CO2, NADH e FADH2. No ciclo de Krebs obtém-se 2 ATPs. Numa última fase - cadeia transportadora de elétrons (ou fosforilação oxidativa) os elétrons removidos da glicose são transportados ao longo de uma cadeia transportadora,criando um gradiente protónico que permite a fosforilação do ADP. O aceptor final de elétrons é o O2, que, depois de se combinar com os elétrons e o hidrogênio, forma água.
+
+
+== Respiração anaeróbica ==
+A respiração anaeróbia envolve um receptor de elétrons diferente do oxigênio e existem vários tipos de bactérias capazes de usar uma grande variedade de compostos como receptores de elétrons na respiração: compostos nitrogenados, tais como nitratos e nitritos, compostos de enxofre, tais como sulfatos, sulfitos, dióxido de enxofre e mesmo enxofre elementar, dióxido de carbono, compostos de ferro, de manganês, de cobalto e até de urânio.
+No entanto, para todos estes, a respiração anaeróbia só ocorre em ambientes onde o oxigénio é escasso, como nos sedimentos marinhos e lacustres ou próximo de nascentes hidrotermais submarinas.
+Uma das sequências alternativas à respiração anaeróbia é a fermentação, um processo em que o piruvato é apenas parcialmente oxidado, não se segue o ciclo de Krebs e não há produção de ATP numa cadeia de transporte de eléctrons. No entanto, a fermentação é útil para a célula porque regenera o dinucleótido de nicotinamida e adenina (NAD), que é consumido durante a glicólise.
+Os diferentes tipos da fermentação produzem vários compostos diferentes, como o etanol (o álcool das bebidas alcoólicas, produzido por vários tipos de leveduras e bactérias) ou o ácido láctico do iogurte.
+Outras moléculas, como NO2, SO2 são os aceptores finais na cadeia de transporte de elétrons.
+
+
+== Ver também ==
+Ciclo de Krebs
+
+
+== Referências ==

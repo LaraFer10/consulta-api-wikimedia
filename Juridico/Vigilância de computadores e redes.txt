@@ -1,0 +1,76 @@
+Vigilância de computadores e redes é a espionagem das atividades de usuários de computador, dos dados armazenados no disco rígido de computadores, ou dos dados sendo enviados ou recebidos através de redes de computadores como a Internet ou de redes privadas (Intranet), Rede Privada Virtual (VPN), sejam dados contendo texto, áudio ou vídeo.
+Muitos grupos de Direitos civis e de defesa de Privacidade, como Repórteres sem Fronteiras, a Electronic Frontier Foundation e outros, têm mostrado a enorme preocupação de que, com a crescente vigilância dos cidadãos, um sistema de Vigilância em massa venha gradualmente se estabelecendo, limitando gradualmente as liberdades pessoais. Nos Estados Unidos, grupos iniciaram inúmeras ações judiciais contra a Vigilância em massa pelo governo. O grupo Anonymous invadiu sites do governo norte-americano em protesto contra o que considera "vigilância draconiana".
+
+
+== Práticas de Monitoramento ==
+O monitoramento é feito sub-repticiamente e, na maioria das vezes, sem o conhecimento do usuário do computador, de comunidades, grupos, ou de toda a população de um país, como mostravam os documentos revelados através dos Spy Files 3 e posteriormente, em 2013, através das revelações dos programas de vigilância global feitas por Edward Snowden.
+
+Pode ser feito por, ou à mando de governos, empresas, organizações criminosas, ou indivíduos. Pode ou não ser legal e pode ou não pode exigir a autorização de um tribunal ou outro órgão independente.
+
+
+=== Censura ===
+Vigilância pode ser utilizada por governos para manter controle social. No fim de agosto de 2011 , a Bull foi suspeita de ajudar Muammar Gaddafi a monitorar e censurar a Internet na Líbia em 2009, através de sua subsidiária Amesys. De acordo com documentos divulgados pelo Mediapart, além de vender um sistema de rede de espionagem, a Amesys interceptou e-mails líbios.
+
+
+== Programas de vigilância ==
+Em 2013, se tornou pública a existência do PRISM (programa de vigilância), através das revelações feitas por Edward Snowden, mostrando milhares de documentos que expuseram vários programas utilizados pela NSA para monitoramneto e vigilância do tráfego Internet.Ultimamente, programas de vigilância de computadores e de rede se tornaram comuns e baratos e atualmente quase todo o tráfego de Internet pode ser monitorado, seja em busca de pistas para a atividades ilegais ou em espionagem industrial, espionagem por governos, etc.Exemplo de espionagem industrial pelo Estado é o caso das operações da NSA para estabelecer parcerias com Empresas que contribuam para facilitar as interceptações de dados, como parte da execuçāo dos seus programas de Vigilância Global através da Vigilância de Computadores e Redes. Acordos sāo feitos pelo departamento da NSA chamado Operações de Fonte Especial(SSO). Através destas parcerias, vários países são alvo para a espionagem pela NSA. Em 29 de março de 2014, o jornal Der Spiegel publicou documentos que mostram como parte do programa de Vigilância Global da NSA, mesmo os sistemas de satélite da Alemanha, se tornaram alvo de espionagem feita pelo CGHQ, membro do conhecido grupo chamado Five Eyes - Cinco Olhos, em português.
+
+
+=== Participação de empresas Criadoras dos Softwares ===
+Uma lucrativa indústria vem crescendo exponencialmente em torno da criação de Softwares de espionagem e vigilância de computadores e de redes, seja para atender necessidades de governos, grupos, empresas ou individuos.Um exemplo de empresa criadora deste tipo de software e a Palantir Technologies, uma empresa americana criada em 2004 com um investimento da CIA, através da companhia In-Q-Tel, empresa de Capital de risco através da qual a Agência Central de Inteligência investe em empresas de tecnologia para manter a CIA e outras agências de inteligência americana equipadas com a mais recente tecnologia da informação, e que atua em público mas mantem a lista de companhias em que investe em segredo. Em dezembro de 2013, a Palantir foi avaliada em 9 bilhões de dólares norte-americanos.
+Um número crescente de empresas vem dedicando recursos para atender a demanda de produtos direcionados a vigilância da Internet.
+
+
+== Vigilância de Redes ==
+Vigilância de redes de computadores geralmente envolve mineração de dados e análise de tráfego na  Internet.Analisador de Rede é o monitoramento do tráfego de dados em uma rede de computadores. Conforme o fluxo de dados trafega na rede, o sniffer captura cada pacote e eventualmente decodifica e analisa o seu conteúdo de acordo com o protocolo definido em um RFC ou uma outra especificação.
+Devido à quantidade de dados recolhidos por esses sniffers, computadores automatizados de vigilância são usados para vasculhar a grande quantidade de tráfego de Internet interceptada, filtrar e apresentar a informação que interessa, com uso de certas palavras ou frases, freqüência de visita a determinados sites, ou utilizando e-mail ou conversas para monitorar indivíduo ou grupo.
+O XKeyscore, revelado em 2013, cumpre tal função. Comentando sobre o programa, o Jornal The Guardian, que teve acesso aos documentos sobre o programa revelados por Edward Snowden, afirmou que: "a quantidade de comunicações a que a NSA tem acesso por meio de programas como o XKeyscore é assustadoramente grande".Edward Snowden, comentando sobre sua experiência com o programa, afirmou:
+Sentado em meu escritório, eu tinha a capacidade de analisar qualquer um, desde um contador até um juiz federal, incluindo o presidente, desde que eu tenha o seu email pessoal", palavras do ex-técnico da CIA Edward Snowden, em 10 de junho de 2013, quando revelou pela primeira vez ao mundo os documentos que detalhavam o programa de espionagem online dos Estados Unidos. Snowden falou ainda dos motivos pelos quais tais programas de Vigilância em massa precisam ser revelados ao mundo.
+
+
+=== Softwares Maliciosos ===
+(Ver Malware para detalhes)
+Existem várias maneiras de instalar tais softwares. A mais comum é a instalação remota enviando um software malicioso como, por exemplo, um Rootkit criado especificamente para nao ser detetado por Antivírus, esconder a existência de certos processos ou programas de métodos normais de detecção e permitir contínuo acesso privilegiado a um computador. ou usando uma Backdoor. escondido para atacar um laptop alvo sem o conhecimento do proprietário. No planejamento do ataque contra a Wikileaks, a HBGarry, em e-mail publicado pelo grupo Anonymous, faz parte dos planos a instalação de um rootkit.Revelações de Edward Snowden publicadas no Der Spiegel em 29 de Dezembro de 2013, mostram que a NSA criou um um catálogo interno, onde são listados as opções disponíveis as agencias de inteligência para acessar Backdoors. O catálogo enumera os diversos dispositivos eletrônicos para atingir os usuários finais, incluindo implantes no próprio hardware, em cabos, conectores e outros. Os dispositivos são criados pela divisão da NSA chamada Operações de acesso adaptado (TAO) NSA (TAO) - em inglês "Tailored Access Operations" -, uma divisão que se dedica a desenvolver meios de Hacking e se tornou a divisão de maior expansão recentemente, dedicada especialmente a criar tais dispositivos.As operações da TAO são  consideradas pela agência como extremamente bem sucedidas. O Catálogo ANT (NSA), criado pela divisao, oferece aos "clientes internos' da NSA, inúmeros itens para serem usados sub-repticiamente e camufladamente nos ataques dos programas de vigilância da NSA. De USBs à cabos, há produtos para todo tipo de uso. Segundo o Der Spiegel, "A lista tem a forma de um catálogo de vendas por correspondência, a partir do qual os outros funcionários da NSA podem encomendar itens de tecnologias da divisão ANT para usar contra seus alvos nas operações de Vigilância global." O documento foi criado em 2008.Pode ser usado ainda um Keylogger, que vai capturar senhas, números de cartão de crédito e qualquer informação teclada no computador invadido.Outro método é hacking um computador para ter acesso ao servidor da rede. Um software de vigilância remota pode ser instalado a partir dai.
+
+
+=== Análise de Redes Sociais Virtuais ===
+Uma forma comum de vigilância é a criação de mapas de análise de Redes sociais virtuais, dai o interesse da NSA em redes como Facebook, Orkut e outras.
+
+
+=== Monitoramento à distância ===
+Feita através de espionagem eletromagnética de computadores, como é o caso do Sistema TEMPEST, que usa o processo conhecido como ataque tempest, uma técnica de ataque para vigilancia de computadores.
+Conforme documentos revelados por Edward Snowden, publicados no Der Spiegel e apresentados por Jacob Appelbaum, na Congresso de Comunicação Chaos (Chaos Communication Congress, em inglês) de 2013, mostra, que a NSA criou dispositivos especialmente para este tipo de coleta de dados. O RAGEMASTER, criado pela divisão da NSA chamada Operações de acesso adaptado (TAO) NSA (TAO), é um implantes de hardware para interceptar sinais de imagem a partir de monitores VGA. Ele funciona de forma passiva, usando o sinal que está sendo refletido para as ondas de radar transmitidos externamente. O implante está escondido no isolamento ferrite do cabo de monitor VGA, que está localizado logo atrás do conector do monitor.Também foram criados implantes a serem escondidos em USB's  distribuídas sem o conhecimento dos usuários.
+O catálogo foi publicado na integra em dezembro de 2013 como "Catálogo da NSA - Implantes para quase todo maior Software/Hardware/Firmware" (NSA’s ANT Division Catalog of Exploits for Nearly Every Major Software/Hardware/Firmware) 
+
+
+== Monitoramento Off-line ==
+
+Entre os dispositivos contidos no Catálogo ANT (NSA), estão listados dispositivos como o chamado "CTX4000". Um dispositivo que atua como um radar para captar o que esta projetado na tela de um computador mesmo quando o usuário esta  off-line. O pequeno dispositivo emite uma onda eletromagnética contínua na direção do usuário do computador e pode então "iluminar" o sistema para a recuperação de informações na tela, mesmo quando o usuário esta off-line, ou seja, mesmo quando o usuário não esta conectado a internet.Os dados do computador do usuário podem, então, ser interceptados apontando para a direção do usuário o dispositivo de captação que é listado no  Catálogo ANT (NSA).
+O catálogo mostra que em 2008 o CTX4000 foi substituido pelo siatema PHOTOANGLO, feito em conjunto pela NSA e GCHQ. O aparelho de captação do sinal sendo emitido pelo computador da usuário é pequeno e facilmente escondido.
+
+
+== Ver também ==
+Centro de Processamento de Dados Utah
+COINTELPRO, série de projetos secretos e, às vezes, ilegais, conduzidos pelo FBI, visando eliminar organizações políticas dos EUA
+Denunciantes NSA : William Binney, Thomas Andrews Drake, Mark Klein,Thomas Tamm, Russ Tice
+ECHELON  - coleta e análise de rede operado em nome da Austrália, Canadá , Nova Zelândia, Reino Unido, e nos Estados Unidos
+GhostNet - operação de espionagem cibernética em grande escala descoberta em março de 2009
+MAINWAY -  banco de dados da Agência de Segurança Nacional americana (NSA) que contém metadados para milhões de chamadas telefónicas
+Vigilância Global
+Serviço de Coleta Especial (SCS)
+FinFisher — trojan usado por vários países
+TEMPEST — NSA
+Vigilância em massa
+WARRIOR PRIDE — NSA e GCHQ usados contra Smartphones
+
+
+== Referências ==
+
+
+== Ligações externas ==
+Catalogo da NSA - Iterativo - com os dispositivos de vigilancia criados pela TAO
+Vídeo: Você quebrou a Internet. Nós estamos fazendo uma GNU a nós 
+«The NSA Files (Dozens of articles about the U.S. National Security Agency and its spying and surveillance programs)». The Guardian. 2013 
+"Digital Security and Privacy for Human Rights Defenders", by Dmitri Vitaliev
+"Media Freedom Internet Cookbook" by the OSCE Representative on Freedom of the Media, Vienna, 2004.
+"Online Survival Kit", We Fight Censorship project of Reporters Without Borders.

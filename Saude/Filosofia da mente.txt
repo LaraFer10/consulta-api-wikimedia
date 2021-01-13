@@ -1,0 +1,139 @@
+Filosofia da mente é o estudo filosófico dos fenômenos psicológicos, incluindo investigações sobre a natureza da mente e dos estados mentais em geral. A filosofia da mente envolve estudos metafísicos sobre o modo de ser da mente, sobre a natureza dos estados mentais e sobre a consciência. Envolve estudos epistemológicos sobre o modo como a mente conhece a si mesma e sobre a relação entre os estados mentais e os estados de coisa que eles representam (intencionalidade), incluindo estudos sobre a percepção e outros modos de aquisição de informação, como a memória, o testemunho (fundamental para a aquisição da linguagem) e a introspecção. Envolve ainda a investigação de questões éticas como a questão da liberdade.
+A investigação filosófica sobre a mente não implica nem pressupõe que exista alguma entidade—uma alma ou espírito—separada ou distinta do corpo ou do cérebro, e está relacionada a vários estudos da ciência cognitiva, da neurociência, da lingüística e da inteligência artificial.
+
+
+== A natureza da mente ==
+A filosofia da mente investiga questões como as seguintes:
+
+A mente é uma coleção de pensamentos e sentimentos particulares ou é uma entidade superior a estes?
+Se a mente for uma entidade, ela é uma entidade física?
+Qual a relação entre a mente e o corpo?
+
+
+== Eventos mentais ==
+Suponha que a mente não seja algum tipo de substância misteriosa, a qual não pode ser observada pelos nossos sentidos, mas, ao invés disso, que só haja eventos mentais. Ainda poderíamos investigar a relação entre a mente e o corpo como se fosse a relação entre eventos mentais e eventos físicos. A partir dessa suposição, a filosofia da mente perguntaria:
+
+Eventos mentais são idênticos a eventos físicos?
+Se ao menos em parte sim, então eventos mentais são explicáveis como eventos físicos.
+Se não, então eventos físicos não explicam eventos mentais.
+
+
+== Propriedades mentais ==
+Estados mentais são propriedades mentais ou fenomenológicas. Em relação a essas, a filosofia da mente pergunta:
+
+O fenômeno mental que chamamos de dor, por exemplo, é apenas a enervação de certas fibras cerebrais?
+Para uma resposta não, veja o que Saul Kripke diz sobre o dualismo mente-corpo ou argumentos sobre os qualia, como por exemplo o Quarto de Mary
+O argumento da múltipla realizabilidade também responde que não. Atribuímos dores a animais que têm sistemas neurofisiológicos muito distintos do nosso. Assim, propriedades físicas muito diferentes levam ao mesmo tipo de estado mental. Logo, não é preciso que se dê certo tipo de enervação cerebral para haver um fenômeno mental.
+
+
+== Reducionismo ==
+Identificar a mente com entidades ou propriedades físicas é uma forma direta de materialismo, assim como alegar que a psicologia é redutível à biologia e, finalmente, à física.
+Se for mostrado que todos os eventos mentais ou psicológicos são redutíveis à neurofisiologia, e, por sua vez, que a neurofisiologia é redutível (talvez através da química) à física, então será mostrado que a mente não é nada acima ou além daquilo que é físico ou corpóreo.
+A redução é realizada em dois passos:
+
+Redução da linguagem de uma área de estudos à linguagem de outra área de estudos.
+Alegação que a área de estudos reduzida é idêntica à área de estudos redutora.
+
+
+== Funcionalismo ==
+Como foi dito acima, muitos filósofos aceitam o argumento da múltipla realizabilidade, e por isso rejeitam completamente o fisicalismo e o reducionismo. O argumento motivou o ponto de vista conhecido como funcionalismo, o qual defende que estados mentais não são físicos, mas sim funcionais. Um estado funcional descreve um relacionamento entre certos estímulos sensoriais (inputs) e certos comportamentos e outros estados mentais (outputs).
+Uma dor é funcional em virtude do seu papel causal. O papel causal é determinado por certos estímulos e estados mentais, e determina comportamentos e estados mentais futuros. Assim, embora a dor não seja idêntica à enervação de certa fibra cerebral, é ao menos idêntica a algum estado funcional.
+Geralmente, estados funcionais são especificados como estados de uma máquina de Turing. Assim, ao menos alguns funcionalistas defendem que estados mentais são estados de uma máquina de Turing.
+Experimentos mentais como a Terra Gêmea de Hilary Putnam estão entre os primeiros apresentados contra o funcionalismo. (Ver externalismo.)
+
+
+== Processos cognitivos ==
+A filosofia da mente também busca respostas para as seguintes perguntas:
+
+O que é um processo cognitivo?
+Qual a diferença entre um processo cognitivo e outros tipos de processos mentais?A ciência cognitiva (área de estudos paralela mas relacionada à filosofia da mente) tem se ocupado dessas questões.
+Tomemos a percepção como um exemplo. Filósofos buscam entender o que acontece quando percebemos alguma coisa (quando vemos, ouvimos, tocamos etc. alguma coisa). Mas eles não estão interessados nos mecanismos particulares que nos capacitam a perceber (forma do olho, como o nervo óptico leva informação ao cérebro etc.) Eles se interessam por questões mais básicas. Eles perguntam:
+
+Percebemos os objetos diretamente com nossos sentidos ou percebemos representações dos mesmos?A filosofia da percepção, uma parte da filosofia da mente, se ocupa de tais questões. Eles se ocupam de entender e explicar como nossa mente entra em contato com o mundo. (Ver Maurice Merleau-Ponty.)
+Outras questões estão relacionadas ao problema do livre-arbítrio. Volições são estados mentais. Assim, é natural perguntarmos:
+
+Quando escolhemos alguma coisa o fazemos livremente?
+A resposta é não, se estados mentais são redutíveis a estados físicos (ver a seção sobre o reducionismo acima). Nesse caso, estados mentais respeitam as mesmas leis da natureza seguidas por todo o resto do universo.
+
+
+== Consciência ==
+A consciência é uma das áreas mais problemáticas da filosofia e da neurociência.
+Descartes vê a consciência como um elemento teórico primitivo. Em outras palavras, a consciência não pode ser explicada, provavelmente por ser aquilo que é pressuposta na explicação do que quer que seja.
+
+
+== Psicologia popular ==
+As categorias empregadas na psicologia popular (crer, duvidar, querer etc.) têm algum valor científico?
+
+
+== Behaviorismo ==
+
+O Behaviorismo foi predominante nos estudos sobre a Filosofia da Mente em grande parte da primeira metade do século XX. Na Psicologia, o Behaviorismo surgiu como reação aos problemas da Introspecção: quando alguém, baseado na introspecção, fala sobre a vida no interior de sua mente, torna-se impossível a verificação da asserção. Entretanto, sem a verificabilidade universal nenhuma ciência é possível, de acordo com os Behavioristas. A saída para a Psicologia: ela deveria renunciar à vida mental e à introspecção e, ao invés disso, descrever o comportamento. Junto a esta abordagem científica, fala-se, também, de Behaviorismo Metodológico. Seu principal defensor foi B. F. Skinner. Paralelamente aos desenvolvimentos deste tipo de Psicologia, desenvolveu-se um Behaviorismo Filosófico, ocasionalmente denominado, também, como Behaviorismo “Lógico” ou “Analítico”. A abordagem do Behaviorismo Filosófico é fisicalista: estados mentais são descrições de comportamento, isto é, disposições. Um dos principais defensores desta posição dentro da Filosofia da Mente foi o filósofo britânico Gilbert Ryle, do qual o clássico The Concept of Mind, publicado em 1949, desenvolveu um Behaviorismo apoiado em Ludwig Wittgenstein e influenciou o debate filosófico posterior durante décadas. Outra figura fundadora do Behaviorismo Filosófico é Carl Hempel, que em sua obra The Logical Analysis of Psychology foi fortemente marcado pelos trabalhos de Rudolf Carnap.
+Atualmente, o Behaviorismo Filosófico é considerado bastante ultrapassado, tanto em seus desenvolvimentos metodológicos como também filosóficos. Foram levantados, entre outros, os seguintes argumentos contra a teoria: 
+
+Hilary Putnam projetou o experimento do pensamento de um “super-estoico”, que não apresenta comportamento de dor identificável em todas as sensações de dor concebíveis. O fato de que isso é imaginável comprova, de acordo com Putnam, que dores são mais do que a mera disposição ao comportamento de dor.
+O Behaviorismo não pode fornecer nenhum modelo de explicação para o pensamento racional. Primeiro, uma pessoa pensa que hoje seria terça, e, depois, que o treino no clube esportivo ocorreria nas terças-feiras, a partir disso ela vai concluir que o treino de hoje ocorre no clube. Uma grande parte do cotidiano e do comportamento das pessoas é determinada através destes tipos de relações, que não podem ser esclarecidas através do Behaviorismo Filosófico.
+Alguns estados mentais relacionam-se, a muito custo, com disposições de comportamento. Assim, é inaceitável afirmar que uma pessoa fala sobre disposição de comportamento quando ela se refere a dores de cabeça agudas.
+A relação entre determinadas disposições de comportamento e determinados estados mentais fictícios não é, de modo algum, clara ou inequívoca. Quando uma pessoa “acredita”, que um determinado comportamento poderia aliviar sua dor, ela vai manifestar este comportamento quando tiver dor. Nesse caso, também podem ocorrer formas de comportamento absurdas como o recitar de uma fórmula mágica “curadora”.
+Deve-se considerar, também, que o Behaviorismo Metodológico - mencionado acima -, transformado com o Behaviorismo Filosófico, renunciou à descrição de estados mentais, uma vez que estes não se deixam observar (e, por conseguinte, verificar) diretamente. Este argumento serviria, no entanto, para outros objetos de pesquisa das ciências naturais, como, por exemplo, os átomos ou o homem da Idade da Pedra.
+
+
+== Correntes ==
+Algumas correntes na filosofia da mente:
+
+Conectivismo: Jerry Fodor
+Dualismo: David Chalmers, Saul Kripke
+Eliminativismo: Patricia Churchland, Paul Churchland
+Emergentismo: C.D. Broad
+Epifenomenalismo: Frank Jackson
+Monismo anômalo: Donald Davidson
+Externalismo: Tyler Burge, Donald Davidson, Saul Kripke, Hilary Putnam
+Externalismo ativo: David Chalmers, Andy Clark
+Funcionalismo: David Lewis
+Interacionismo: Karl Popper, John Eccles
+Materialismo
+Monismo
+Naturalismo Biológico: John Searle
+Reducionismo: Jaegwon Kim
+Teleofuncionalismo: Ruth Millikan, David Papineau
+
+
+== Filósofos da mente ==
+
+
+== Ver também ==
+
+Problema mente-corpo
+Qualia
+Superveniência
+
+
+== Referências ==
+
+
+== Textos ==
+João de Fernandes Teixeira. Filosofia da Mente: neurociência, cognição e comportamento. Claraluz: São Carlos, 2005.
+Maurice Blondel. 1893. L'Action. Alcan.
+David Chalmers. 1996. The Conscious Mind. Oxford: Oxford University Press.
+Paul Churchland. 1995. The Engine of Reason and Seat of the Soul. Cambridge, MA: MIT Press.
+Donald Davidson. 1987. "Conhecer a Própria Mente".
+Daniel Dennett. 1991. Consciousness Explained. Boston: Little, Brown and Company.
+René Descartes. 1641. Meditações sobre filosofia primeira.
+Pascal Engel. 1994. Introduction à la philosophie de l'esprit. La Découverte: Paris.
+Samuel Guttenplan. 1999. A companion to the philosophy of mind. Malden, MA: Blackwell.
+Immanuel Kant. 1781 e 1787. Crítica da razão pura.
+Louis Lavelle. 1991. De l'Acte. Aubier.
+Thomas Nagel. "Como É Ser um Morcego?, 1974.
+Roger Penrose. 1989. The Emperor's New Mind: Computers, Minds and the Laws of Physics. Oxford: Oxford University Press.
+Hilary Putnam. 1975. "O significado de 'significado'".
+Gilbert Ryle. 1949. O conceito de espírito.
+John R.Searle. 2004. Mind: A Brief Introduction. New York: Oxford University Press.
+
+
+== Ligações externas ==
+Contemporary Philosophy of Mind: An Annotated Bibliography, compilado por David Chalmers.
+Dictionary of Philosophy of Mind, editado por Chris Eliasmith, gratuito mas com referees anônimos.
+Dictionary of Philosophy of Mind., endereço alternativo do mesmo dicionário
+Guide to Philosophy of Mind, compilado por David Chalmers.
+Hyponoesis
+Videos sobre a Filosofia da mente.
+Filosofia da mente no PhilBrasil.

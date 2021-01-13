@@ -1,0 +1,86 @@
+Lactoferrina (LF) ou Lactotransferrina (LTF) é uma proteína globular multifuncional isolada inicialmente de leite bovino. Ela pode exercer funções sob forma de holo-lactoferrina, ligada a íons de ferro, com peso molecular de ~80 kDa, ou sob forma apo-lactoferrina, com peso molecular de ~76 kDa. 
+
+
+== Histórico ==
+A lactoferrina foi isolada pela primeira vez por Soerensen de leite bovino em 19391, e somente em 19602-4 três pesquisadores diferentes a isolaram simultaneamente de leite humano. A principal característica da proteína é a coloração vermelha intensa quando incubada na presença de íons de ferro Fe3+. Portanto, a proteína foi reconhecida como proteína análoga a transferrina, proteína carreadora de ferro presente no soro sanguíneo. O nome lactoferrina é derivado da sua classificação na família das Transferrinas, sendo a principal proteína carreadora de íons de ferro no leite. Desde então diversos estudos demonstraram a expressão de lactoferrina, em menores concentrações do que no leite, em diferentes secreções mucosas como lágrimas, saliva, fluído seminal, secreções vaginais, bile, suco pancreático, secreções intestinais, em grânulos de neutrófilos e no plasma sanguíneo. 6-9A principal característica físico-química da lactoferrina é a alta afinidade por íons Fe3+ (K ~ 1022 M),10-11 levando a supor que sua função biológica era absorção de ferro na nutrição infantil, ou como proteína com propriedade bactericida por privar bactérias do ferro essencial para seu crescimento.12 Atualmente, diversas funções são reconhecidas e podem ser dependentes ou independentes da ligação da proteína com íons de ferro.
+
+
+== Estrutura e Funções ==
+A sequência de aminoácidos da lactoferrina foi determinada em 1984, e verificou-se que tinha ~60% de identidade com a transferrina do soro humano e compartilha a mesma duplicação interna, sendo assim a porção N-terminal da proteína tem ~40% de identidade com a porção C-terminal.13 A estrutura tridimensional revela uma organização bilobada, lobo N-terminal e lobo C-terminal, com enovelamentos similares e sítios de ligação ao ferro idênticos.14As funções dependentes da ligação ao ferro da lactoferrina, inicialmente eram limitadas à capacidade de captação de ferro e privação do íon para bactérias que necessitam de ferro para seu crescimento. 15 Mais tarde, foram identificados outros mecanismos pelos quais a lactoferrina exerce função antibacteriana e antiviral. Portanto, a principal função da lactoferrina que depende de ferro é o transporte de ferro para o neonato e as vantagens nutricionais decorrentes da sua ingestão: alguns dados sugerem que no epitélio intestinal humano existem receptores para lactoferrina complexada ao ferro, assim como propriedades antioxidantes já foram relatadas à proteína ligada ao ferro. Desde 1985 a lactoferrina tem sido estudada e produzida como suplemento alimentar. 16 Assim, as propriedades da lactoferrina como um regulador do íon ferro livre no sangue e secreções, como um protetor lipídico antioxidante e como um concorrente (com receptores bacterianos membranares) para o ferro, estão diretamente ligadas à sua capacidade de ligação ao ferro. No entanto, algumas propriedades únicas da lactoferrina são independentes de ferro.
+A lactoferrina pode se ligar à receptores de membrana específicos e tem efeitos citotóxicos em células procarióticas. Portanto, outro aspecto da sua atividade bactericida é a afinidade da lactoferrina por receptores e sua internalização, resultando em morte celular. 17 Células eucarióticas também possuem receptores específicos para lactoferrina, mas não necessariamente a interação levará a morte celular. A lactoferrina possui afinidade por receptores celulares como glicosaminoglicanas, e ao se ligar a tais receptores, os ocupam e impedem a ligação de partículas virais e sua internalização. Esse efeito antiviral já foi descrito para herpes simplex vírus18, citomegalovírus19, vírus da imunodeficiência20-21, Mayaro vírus22,  zika vírus e chikunguya 23. Além de se ligar a polissacarídeos, a lactoferrina pode se ligar a receptores de natureza nucleotídica24-27 e pode ser internalizada, penetrando no núcleo e tem a capacidade de ativar transcrição de genes específicos influenciando na proliferação e diferenciação celular.28-32 Ainda foi descrito um papel imunológico da lactoferrina por ligação à receptores bacterianos, por influencia no metabolismo de células NK e pela contribuição na produção de citocinas e elementos do sistema complemento.33-37Finalmente, existe mais uma função que independe da ligação de ferro descrita que consiste na hidrólise de ácidos nucleicos. Em menores proporções, a lactoferrina tem atividade de ribonuclease clivando especificamente cadeias de pirimidinas e com atividade similar a RNase A (EC: 3.1.26.2).38-39 A atividade enzimática mais significativa da lactoferrina é a de desoxirribonuclease e é similar a atividade da DNase I (EC: 3.1.21.1).40  
+
+
+== Atividade Enzimática ==
+
+
+=== Substrato e Produtos ===
+O sítio de ligação a ácidos nucleicos da lactoferrina tem afinidade por três sequências de DNA específicas: GGCACTT0 (G/A)C (ON1), TAGA(A/G)GATCAAA (ON2), e ACTACAGTCTACA (ON3). A lactoferrina tem dois centros de ligação à ácidos nucleicos e possuem afinidades diferentes ao substrato.41  Para o substrato específico ON2, a razão entre as afinidades dos centros é de ~1200 enquanto que para oligonucleotídeos inespecíficos, esta razão aumentou para 30056. Ambos os centros estão localizados na porção N-terminal da proteína e coincidem significantemente com sítios de ligação de ânions. 41 Os substratos para a reação são fragmentos de DNA, com preferência para pirimidinas, e moléculas de água H2O. Os produtos são 5’ fosfodinucleotídeos e 5’ fosfooligonucleotídeos. 
+
+
+=== Purificação enzimática ===
+A purificação de lactoferrina ocorre em cinco etapas: primeiramente, a amostra é centrifugada para separar a fração lipídica do leite materno. Em seguida, é realizada uma sequência de cromatografias: DEAE-celulose, heparina-sefarose e anticorpos anti-lactoferrina. A coluna de DEAE-celulose é uma cromatografia de troca iônica com resina carregada positivamente e que separa proteínas de ácidos nucleicos e proteínas carregadas negativamente. O filtrado passa pela resina de heparina-sefarose retendo na coluna, proteínas que tem afinidade à heparina, como a lactoferrina, que será recuperada ao final do experimento. Finalmente, a etapa que promove a obtenção de uma amostra homogênea de lactoferrina é a resina onde estão retidos anticorpos específicos anti-lactoferrina. As duas últimas cromatografias são definidas como cromatografias de afinidade. A ultima etapa é uma purificação suplementar por coluna Blue Sepharose onde há separação de frações da proteína com afinidade por ácidos nucleicos para subsequentes estudos dos parâmetros cinéticos da atividade enzimática. 38
+
+
+=== Parâmetros cinéticos ===
+O valor de Km para a atividade de hidrólise de DNA da lactoferrina independe da composição e do tamanho da sequência de DNA atuante como substrato e está na faixa de 5 ± 2 mM. Enquanto que os valores de Kcat variam mais dependendo da purificação da fração com maior atividade pela cromatografia com Blue Sepharose, uma vez que a enzima ligada à DNA pode ser retida pela resina e estar inativa durante o experimento de medida de velocidade catalítica. Portanto, ainda não existem medidas confiáveis de Kcat nem da relação entre Kcat e Km. As medidas da razão Kcat/Km publicadas variam de 1,5x10-3 a 8,0 x10-3 M-1min-1.40
+
+
+=== Moduladores da atividade enzimática ===
+Inibidores específicos para lactoferrina ainda não foram relatados, entretanto, inibidor para DNase I humana conhecido é 2-(4-amidinofenil)-6-indolecarbamidina.42 Um modificador químico que inativa a lactoferrina é um oligonucleotídeo derivado, T9Uox: análogo de 2’, 3’-dialdeído de d(pT)9(pU). A atividade DNase da lactoferrina é ativada por ligação de ATP e pode ser acentuada na presença de NAD. O sítio de ligação de ATP é espacialmente separado do sítio de ligação ao DNA, sugerindo uma ativação alostérica. A atividade também aumenta quando em presença de alguns íons metálicos: Mg2+, Mn2+, Ca2+, Cu2+ e Zn2+.40
+
+
+=== Condições ótimas para reação ===
+A reação de hidrólise de fita dupla de olligonucleotídeos acontece em pH ótimo neutro de 7,0 a 7,5. Ao hidrolisar oligonucleotídeos de fita simples, o pH ótimo desloca em direção a alcalinidade, 8,0 a 8,5.40Lactoferrina e células epiteliais intestinais 
+	Foi verificada que ingestão e a infusão subcutânea de apoLactoferrina aumentou a atividade angiogênica mediada pelo Fator de Crescimento Endotelial Vascular (VEGF-A), um importante regulador do desenvolvimento vascular (43), isso significou estímulo no crescimento em células do epitélio intestinal de ratos, aumentando a proliferação destas (44).
+Em bezerros, a ingestão de leite enriquecido com lactoferrina associado à vitamina A, apontou proliferação celular no epitélio intestinal, destacando o crescimento de células na porção do jejuno e do íleo (45).
+Devido à sua degradação no intestino, a quantificação da concentração fecal de lactoferrina foi utilizada como método não invasivo para avaliação da atividade inflamatória intestinal, mostrando valores diferentes entre indivíduos saudáveis e doentes e distinguindo a fase ativa e inativa do doença. Supondo que futuramente possa se detectar inflamação intestinal pelo teste rápido de determinação qualitativa de Lactoferrina (46, 47).
+
+
+== Referências ==
+Soerensen M, Soerensen SPL. The protein in whey. C R Trav Lab Carlsberg 1939; 23:55-99.
+Johansson BG. Isolation of an iron containing red protein from human milk. Acta Chem Scand 1960; 14:510-2.
+Johanson B. (1960) Isolation of an iron-containing red protein from human milk. Acta Chem. Scand. 14:     510–512.
+Groves M. L. (1960) The isolation of a red protein from milk. J. Amer. Chem. Soc. 82: 3345–3350.
+Montreuil J., Tonnelat J. and Mullet S. (1960) Preparation and properties of lactotransferrin of human milk. Biochim. Biophys. Acta 45: 413–421.
+Masson P. L., Heremans J. F. and Dive C. (1966) An iron-binding protein common to many external secretions. Clin. Chim. Acta 14: 735–739.
+Baggiolini M., De Duve C., Masson P. L. and Heremans J. F. (1970) Association of lactoferrin with specific granules in rabbit heterophil leukocytes. J. Exp. Med. 131: 559–570.
+Probable role of lactoferrin in the transport of iron across the intestinal brush border. Nutr Rev 1980; 38:256-7.
+Ott, V. D., Dyukareva, S. V., and Mel’nikov, O. R. (1993) Vopr. Pitaniya, 1, 6-13.
+Aisen P. and Liebman A. (1972) Lactoferrin     and transferrin: a comparative study. Biochim. Biophys. Acta 257:     314–323.
+Baker E. N. (1994) Structure and     reactivity of transferrins. Adv. Inorg. Chem. 41: 389–463.
+Bullen J. J., Rogers H. J. and Leigh L.     (1972) Iron-binding proteins in milk and resistance to Escherichia coli     infections in infants. Brit. Med. J. 1: 69–75.
+Metz-Boutigue M.-H., Jolles J., Mazurier     J., Schoentgen F., Legrand D., Spik G. et al. (1984) Human     lactotransferrin: amino acid sequence and structural comparisons with     other transferrins. Eur. J. Biochem. 145: 659–676.
+Baker H. M., Anderson B. F., Kidd R. D.,     Shewry S. C. and Baker E. N. (2000) Lactoferrin three-dimensional     structure: a framework for interpreting function. In: Lactoferrin:     Structure, Function and Applications, pp. 3–15, Shimazaki K. (ed.),     Elsevier Science, Amsterdam.
+Arnold, R. R., Brewer, M., and Gauthier,     J. J. (1980) Infect. Immun., 28, 8930898.
+Tomita, M., Wakabayashi, H., Shin, K.,     Yamauchi, K., Yaeshima, T., Iwatsuki, K. Twenty-five years of research on bovine lactoferrin applications. Biochimie. 2009;91:52–57.
+Ellison, R. T., III, Giehl, T. J., and     LaForce, F. M. (1988) Infect. Immun., 56, 277402780.
+Fujihara, T., and Hayashi, K. (1995) Arch.     Virol., 140, 146901472.
+Marchetti, M., Longhi, C., Conte, M. P.,     Pisani, S., Valenti, P., and Seganti, L. (1996) Antiviral Res., 29,     2210231.
+Harmsen, M. C., Swart, P. J., de Bethune, M.     P., Pawels, R., de Clercq, E., The, T. H., and Meijer, D. K. F. (1995) J.     Infect. Dis., 172,     2800288.
+Swart, P. J., Kuipers, M. E., Smith, C.,     Pawels, R., de Bethune, M. P., de Clerck, E., Meijer, D. K. F., and     Huisman, J. G. (1996) AIDS Res. Human Retrov., 12, 7690775.
+Carvalho CA, Sousa IP,     Silva JL, Oliveira AC, Gonçalves RB, Gomes AM (March 2014).     "Inhibition of Mayaro virus infection by bovine     lactoferrin". Virology. 452-453: 297–302.
+Carlos A.     M. Carvalho, Samir M. M. Casseb, Rafael     B. Gonçalves, Eliana V. P. Silva, Andre M.     O. Gomes, Pedro F. C. Vasconcelos. Bovine Lactoferrin     Activity Against Chikungunya and Zika Viruses. BioRxiv preprint first posted online     Aug. 25, 2016; doi: http://dx.doi.org/10.1101/071571.
+Bennet, R. M., Davis, J., Canpbell, S.,     and Portnoff, S. (1983) J. Clin. Invest., 71, 6110618.
+Bennet, R. M., Merrit, M. M., and Gabor, G.     (1986) Br. J. Haematol., 63, 1050117.
+Weiss, L. (1969) Int. Rev. Cytol., 26,     630105.
+Yamada, Y., Amagasaki, T., Jacobsen, D.     W., and Green, R. (1987) Blood, 70, 2640270.
+Fleet, J. C. (1995) Nutr. Rev., 53, 226 –     227.
+He, J., and Furmanski, P. (1995) Nature, 373,     721 - 724.
+Gudding, R. (1979) Acta Vet. Scand., 20, 404     - 416.
+Schwartz, L. M., and Osborne, B. A. (1993)     Immunol. Today,     14, 582 - 590.
+Wyllie, A. H. (1980) Nature, 284, 555 - 556.
+Shau, H., Kim, A., and Golub, S. H. (1992)     J. Leukoc. Biol., 51, 3430349.
+Adamik, B., Zimecki, M., Wlaszczyk, A.,     Berezowicz, P., and Kubler, A. (1998) Arch. Immunol. Ther. Exp., 46, 1690 176.
+Kijlstra, A. (1990) Reg. Immunol., 3,     1930197.
+Baveye, S., Elass, E., Mazurier, J., Spik,     G., and Legrand, D. (1999) Clin. Chem. Lab. Med., 37, 2810286.
+Zhang, W., and Lachmann, P. J. (1996) J.     Immunol., 156, 259902606.
+Furmanski, P., Li, Z. P., Fortuna, M. B.,     Swamy, C. V., and Das, M. R. (1989) J. Exp. Med., 170, 4150429.
+Devi, A. S., Das, M. R., and Pandit, M. W.     (1994) Biochim. Biophys.     Acta, 1205, 2750281.
+Babina, S., Kanyshkova, T., Buneva, V.,     Nevinsky, G., 2004. Lactoferrin     is the major deoxyribonuclease of human milk. Biochemistry (Moscow) 69,     1006 – 1015.
+Kanyshkova, T. G., Semenov, D. V., Buneva,     V. N., and Nevinsky, G. A. (1999) FEBS Lett., 451, 2350237.
+Zhao W, Lam JCF, Chiuman W, Brook MA, Li Y     (2008) Enzymatic cleavage of nucleic acids on gold nanoparticles: a     generic platform for facile colorimetric biosensors. Small. 4:810-816.
+Fátima, Luciana Alves De; Papa, Paula De Carvalho.Fator De Crescimento Do Endotélio Vascular (Vegf): Regulação Transcricional E Pós-transcricional. Revista Da Biologia – Www.Ib.Usp.Br/Revista – Volume 4 – Junho De 2010.
+HAGIWARA, T et al. Effects of lactoferrin and its peptides on proliferation of rat intestinal epithelial cell line, IEC-18, in the presence of epidermal growth factor. Bioscience, biotechnology, and biochemistry, v.59, n.10, p.1875-1881, 1995.
+SCHOTTSTEDT, T. et al. Effects of Feeding Vitamin A and Lactoferrin on Epithelium of Lymphoid Tissues of Intestine of Neonatal Calves. J. Dairy Sci, v.88, p.1050–1061, 2005.
+CARVENTE, Claudia Teresa. Análise de biomarcadores fecais calprotectina e lactoferrina nos pacientes portadores de pancreatite crônica de etiologia alcoólica. 2015. Dissertação (Mestrado) - Escola Paulista de Medicina, Universidade Federal de São Paulo (UNIFESP), São Paulo, 2015.
+Sousa, Fabiana Filipa Silva De .Avaliação da Lactoferrina como marcador não invasivo na detecção da inflamação na Doença Inflamatória Intestinal e sua correlação com a qualidade de vida dos doentes.Trabalho Final De Mestrado Integrado Em Medicina Área Científica De Gastroenterologia, Apresentado à Faculdade De Medicina Da Universidade De Coimbra,2011.

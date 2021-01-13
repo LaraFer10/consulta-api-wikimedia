@@ -1,0 +1,64 @@
+A hiperhomocisteínemia ou homocistinúria é uma síndrome clínica que consiste em um conjunto de alterações metabólicas que culminam na elevação da homocisteína plasmática.
+A teoria mais bem aceita atualmente quanto ao papel da hiperhomocisteína no metabolismo e suas implicações foi proposta pela primeira vez em 1969 por Kilmer McCully, a qual afirmou que níveis plasmáticos elevados de homocisteína estariam associados com o desenvolvimento de lesões vasculares, sendo um fator de risco independente e prevalente para a doença vascular aterosclerótica coronariana, cerebral e periférica.
+
+
+== Etiologia ==
+A hiperhomocisteínemia tem como causas principais fatores patológicos, fisiológicos e principalmente, fatores nutricionais e genéticos.
+
+
+=== Sexo e idade ===
+Quando se compara homens e mulheres saudáveis, os primeiros apresentam aproximadamente 21% de aumento dos níveis de homocisteína plasmática. Contudo, mulheres pós menopausa têm níveis superiores de homocisteína plasmática que àquelas pré-menopausa, o que pode indicar que o estrogênio tenha algum efeito no metabolismo da homocisteína.
+Dados de vários estudos também apontam que a concentração de homocisteína total também aumenta de acordo com a idade. Apesar das causas desse aumento não serem bem compreendidas, deve-se considerar as alterações da função renal e maior deficiência de vitaminas- ambas comuns no idoso-, como fator de risco para doença coronariana.
+
+
+=== Nutricional ===
+Uma das causas mais comuns de hiperhomocisteinemia na população está relacionada à deficiência de vitaminas que estão envolvidas no metabolismo da homocisteína.
+Baixa ingesta de vitaminas do complexo B (cianocobalamina ou B12 e piridoxina ou B6) estão relacionadas ao aumento dos níveis de homocisteína plasmática, sendo estes inversamente proporcionais aos níveis plasmáticos das referidas vitaminas.
+O ácido fólico também funciona como doador de um grupo metil para a remetilação da homocisteína, sendo essa última feita pela vitamina B12. Portanto, o ácido fólico funciona como um limitante para a reação e sua deficiência está correlacionada à hiperhomocisteínemia. Já a B12 é um fator determinante menor que o ácido fólico, já que não é utilizada em excesso e sua deficiência não é habitual.
+
+
+=== Drogas e Hormônios ===
+Algumas drogas como metotrexato, ácido nitroso, anticonvulsivantes e diuréticos, bem como a fumaça do tabaco e dissulfeto de carbono, podem causar um aumento na homocisteína plasmática e causar aterogênese.
+Alterações hormonais, tais como deficiência dos hormônios tireoidianos e uso de contraceptivos orais também podem causar uma elevação nos níveis plasmáticos de homoscisteína.
+
+
+=== Genética ===
+As bases genéticas da hiperhomocisteinemia variam com a via de metabolismo.
+A hiperhomocisteinúria homozigótica resulta frequentemente da deficiência da cistationina β-sintase. A incidência é aproximadamente 1:100000, e está associada à concentrações maiores que 200 µmol/L, com pacientes frequentemente desenvolvendo complicações ateroscleróticas. Os pacientes podem ser sintomáticos, com manifestações clínicas diversas, desde retardo mental à desordens esqueléticas.
+Já a hiperhomocisteínemia heterozigótica tem incidência de aproximadamente 1:70. Pode ser causada pela deficiência em cistationina β-sintase, metiltransferase, metilenotetrahidrofolato redutase, folato, cobalamina, colina, entre outros. Os pacientes heterozigotos são frequentemente assintomáticos.
+
+
+== Classificação ==
+Os níveis de homocisteínemia plasmática em jejum, em indivíduos saudáveis, rondam entre 5-15 µmol/L. Os valores da homocisteína variam principalmente com a idade e o sexo das pessoas. O valor de referência para homocisteína plasmática diferenciando por sexo é de 6 a 12 μmol/L, para mulheres, e 8 a 14 μmol/L, para homens. Mulheres pós-menopausa podem apresentar níveis plasmáticos de homocisteína acima do normal, quando comparados com mulheres pré-menopausa. Concentrações acima destes valores são classificados como hiperhomocisteínemia.A Hiperhomocisteinemia pode ser classificadade acordo com as suas concentrações, em:
+- Moderada (15-30 µmol/L);
+- Intermédia (31-100 µmol/L);
+- Severa (>100 µmol/litro).
+
+
+== Metabolismo da Cisteína ==
+
+A homocisteína faz parte do grupo dos aminoácidos sulfurados, e sua formação no organismo se dá pela desmetilação da metionina, que por sua vez pode ser adquirida através da dieta ou do catabolismo da própria homocisteína.
+A metionina é catabolizada no fígado, em S-adenosilmetionina, S-adenosil-homocisteína e homocisteína. O metabolismo da homocisteína é regulado por três fatores: a quantidade de S-adenosilmetionina, de folatos e por meio do estado de oxidorredução.
+S-adenosilmetionina: Quando há grande oferta de proteínas de origem animal, cerca de 70% da homocisteína é catabolizada pela enzima cistationina beta sintase (CβS), juntamente com a participação da vitamina B6, através da via da transulfuração. Já no jejum ou quando há menor concentração dessas proteínas, apenas 10% da homocisteína segue essa via. O aumento da concentração de metionina favorece o catabolismo da homocisteína pela CβS, entretanto, se houverem altas reservas de folatos, o excesso de metionina causa hiper-homocisteínemia.
+Folatos: Os folatos, quando em maior quantidade, favorecem o aumento da 5-MTHFR, inibindo a via de transmetilação por via da enzima glicina metiltransferase, o que gera aumento da S-adenosilmetionina. Esse aumento da S-adenosilmetionina resulta na inibição da via de desmetilação pela enzima 5-MTHFR e na ativação da via de transulfuração pelo aumento na atividade da CβS. Esse processo culmina na redução dos níveis de homocisteína.
+Estado de oxidorredução: Na forma oxidada, a CβS é ativa e a metionina sintetase é inativa. Nesse sentido, em condições oxidativas a via de desmetilação é diminuída, sendo, por fim, favorecida a transulfuração.
+
+
+== A hiperhomocisteinemia e a aterosclerose ==
+O aumento das concentrações de homocisteína pode danificar as células endoteliais e causar aterosclerose. A lesão endotelial começa com a incapacidade de metabolizar completamente a homocisteína devido a anormalidades na oxidação desse aminoácido. A auto-oxidação da homocisteína ocorre quando suas concentrações estão elevadas. Este processo ocorre no plasma, criando ânions superóxido e peróxido de hidrogênio, ambos capazes de causar toxicidade endotelial oxidando lipoproteínas de baixa densidade (LDL) e prejudicando os mecanismos de defesa oxidativa celular. Além disso, certos subprodutos do metabolismo da homocisteína, como a homocisteína tiolactona, reagem com LDL para formar agregados que são absorvidos por macrófagos. Estes macrófagos são incorporados em células espumosas em placas ateroscleróticas precoces. Após a incorporação, a homocisteína tiolactona acila proteínas e aumenta a oxidação na parede vascular, promove a síntese de DNA e a proliferação de células vasculares  musculares lisas e inibe a síntese de DNA em células endoteliais, acelerando ainda mais o desenvolvimento de placas ateroscleróticas.
+
+
+== Diagnóstico ==
+A dosagem de homocisteína é realizada utilizando uma variedade de métodos analíticos, incluindo HPLC (high performance liquid chromatography), cromatografia gasosa, espectrometria de massa e ensaios radioenzimáticos. No entanto, existem opiniões diversas sobre qual teste é o mais preciso sendo, em geral, caros e de difícil manejo. Para obter uma concentração sanguínea de homocisteína correta, a maioria dos ensaios exigem que o material coletado seja refrigerado ou centrifugado e congelado dentro de 30 minutos de coleta para evitar resultados falsamente elevados. As concentrações artificialmente altas são causadas pela liberação de homocisteína a pelas hemácias, que é um processo contínuo que ocorre à temperatura ambiente.
+Geralmente, os pacientes com hiperlipidemia, fatores de risco ateroscleróticos ou aqueles sem fatores de risco, mas com aterosclerose prematura, devem ser testados. A dosagem das concentrações de homocisteína deve ser seguida de uma avaliação do estado vitamínico devido à relação inversa entre as concentrações de ácido fólico, vitamina B6 e vitamina B12 com as de homocisteína.
+Em situações em que anormalidades no metabolismo da homocisteína são altamente suspeitas, recomenda-se um teste de carga de metionina. Este teste é semelhante em princípio ao teste de tolerância à glicose e envolve uma dose oral de 100 mg de metionina/kg. As concentrações plasmáticas de homocisteína são medidas a duas, quatro, seis e oito horas após a ingesta de metionina. Em uma pessoa com metabolismo de homocisteína normal, o aumento das concentrações de homocisteína será transitório. Entretanto, pacientes com metabolismo anormal da homocisteína terão aumento das concentrações de homocisteína que persistem ao final das oito horas.
+
+
+== Tratamento ==
+As concentrações de homocisteína são reduzidas quando são iniciadas combinações de ácido fólico, vitamina B6 ou vitamina B12. O aumento da ingestão de frutas frescas e pelo menos 2 vegetais juntamente com suplementos vitamínicos ajuda a substituir os nutrientes perdidos durante a preparação e embalagem dos alimentos.
+A recomendação alimentar atual para o ácido fólico é de 400 μg/dia. A terapia de reposição de ácido fólico parece eficaz na redução das concentrações de homocisteína em pacientes com doenças vasculares. Por outro lado, a vitamina B6 sozinha não teve efeito sobre as concentrações de homocisteína no jejum em um grupo de pacientes com doença vascular. No entanto, quando 50 mg de vitamina B6 e 200-400 μg de ácido fólico diariamente foram combinados, as concentrações de homocisteína em jejum diminuíram 53%.
+Pacientes com insuficiência renal requerem doses muito mais altas de ácido fólico para diminuir as concentrações de homocisteína. Podem ser necessários até 15 mg/dia para normalizar as concentrações nesses pacientes.
+As concentrações de homocisteína tendem a retornar para o basal uma vez que a terapia com ácido fólico seja encerrada, uma resposta típica de qualquer terapia de reposição relacionada à homocisteína.
+
+
+== Referências ==

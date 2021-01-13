@@ -1,0 +1,33 @@
+A quinase do receptor beta adrenérgico (também conhecida como βARK ou BARK) é uma serina/treonina quinase intracelular. Ela é ativada pela PKA e seu alvo é o receptor beta adrenérgico. Sua via é um dos métodos pelos quais a célula se dessensibiliza a partir da estimulação excessiva por epinefrina.
+
+
+== Ativação da βARK ==
+(passo 1) A partir da estimulação do receptor beta-adrenérgico por epinefrina, Gs será ativada.(passos 2 e 3) Gs alfa irá estimular a adenil ciclase, levando à produção de cAMP.(passos 3 a 6) cAMP vai ativar a quinase dependente de cAMP(PKA), que, entre diversos outros alvoss, fosforilará resíduos de serina e treonina na βARK.(passo 7) A βARK, sendo ela mesma uma serina/threonina quinase, irá fosforilar resíduos de  serina e threonina no próprio receptor β-adrenérgico.(passo 8) Isso facilitará a ligação da beta-arrestin ao receptor. A estimulação adicional por epinefrina fica então incapaz de ativar Gs, devido à arrestina.Sendo assim, βARK é uma enzima de feedback negativo, prevenindo a extimulação excessiva do receptor β-adrenérgico.
+
+
+== Outros sistemas semelhantes ==
+No sistema da rodopsina, que regula a função dos bastonetes na retina, a quinase da rodopsina fosforila resíduos de serina e treonina no receptor, resultanto ,de forma semelhante, em dessensibilização do receptor.
+
+
+== Estrutura ==
+
+
+=== Estrutura Proteica ===
+βARK1 é uma proteína de 689 aminoácidos (79.7 kilodaltons) com um sítio catalítico semelhante ao da PKC e ao da PKA.
+
+
+=== Estrutura gênica ===
+O gene possui aproximadamente 23 kilobases e é composto de 21 exonse 20 introns. O tamanho dos éxons varia de 52 bases (exon 7) até 1200 bases (exon 21), e os introns de 68 bases (intron L) até 10.8 kilobases (intron A). Os locais de splicing para doador e aceptor estão de acordo com a regra canônica GT/AG.
+
+
+== Veja também ==
+Quinases de receptores acoplados a proteína G
+Quinase
+Proteína-G
+
+
+== References ==
+
+
+== Ligações externas ==
+MeSH beta-Adrenergic+Receptor+Kinase

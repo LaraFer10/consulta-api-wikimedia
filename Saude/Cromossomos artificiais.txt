@@ -1,0 +1,21 @@
+Os cromossomos artificiais são formados por fragmentos de DNA a partir de unidades já definidas, isso garante seu funcionamento de forma a simular um cromossomo natural, assim, ela assegura a manutenção estável de grandes fragmentos de DNA. Elas são montadas em laboratórios e se dividem em tipos, são elas: YAC (Yeast artificial chromosome ou cromossomos artificiais de levedura), BAC (Bacterial artificial chromosome ou cromossomos artificiais bacterianos), PAC (P1-derived artificial chromosome ou cromossomos artificiais derivados de P1) e HAC (Human artificial chromosome ou cromossomos artificiais humanos).
+
+
+== Funções ==
+Eles apresentam diversas funções, podendo atuar em sua grande maioria como vetores de clonagem. Os primeiros sintetizados foram os cromossomos artificiais de levedura (YAC), na década de 80, formados por fragmentos de DNA de levedura, apresentam uma estrutura formada pela sequência ORI (origem de replicação), CEN (centrômero, ideal para que possa ocorrer a divisão celular), a sequência TEL (são os telômeros), as sequências A e B (são responsáveis por sintetizar enzimas que vão servir como marcadores para identificar as leveduras que estão com os cromossomos artificiais), EcoRI e BanHI (são os sítios de restrição, onde vai atuar as enzimas de restrição para o encaixe do DNA) e o DNA de interesse contendo os genes que deveram ser clonados. Eles foram fundamentais no entendimento dos elementos funcionais, como telômeros e centrômeros.
+Posteriormente surgiram os cromossomos artificiais bacterianos (BAC), eles apresentam uma estrutura derivada do plasmídeo de fertilidade (F), dessa forma, apresentam vários locais de clonagens. Semelhante ao BAC são os cromossomos artificiais derivados do bacteriófago P1 (PAC), também têm múltiplos locais de clonagem. Essas três clases de cromossomos artificiais apresentam a características de inserção de sequências de base diferentes:
+
+YAC admite inserção de até no máximo 600Kb
+BAC admite inserção de até no máximo 300Kb
+PAC admite inserção de até no máximo 300KbOs tamanhos de inserção são muito importantes pois facilitam os estudos com grandes sequencias de bases, como por exemplo as de eucariontes. Tudo isso possibilitou o sequenciamento de genes tendo grande contribuição para as pesquisas do projeto genoma humano, primeiramente com o YAC, mas por produzir efeitos quiméricos acabou sendo trocado pelos BAC’s que apresentam maior estabilidade em seu funcionamento gênico, além deles o PAC são utilizados para gerar a biblioteca de DNA gnômico, ou seja, biblioteca de DNA clonados, porem devido à instabilidade do YAC é mais difícil montar a biblioteca com ele.
+Os cromossomos artificiais humanos (HAC), por sua vez, são os construtos de cromossomos artificiais mais recentes, que é caracterizado como um microcromossomo, assim, ele atua como um 47° cromossomo e vai carregar e sua estrutura genes estruturais complexos, além do centrômero funcionais e dos telômeros, isso possibilita, por exemplo o combate de doenças.
+
+
+== Referências ==
+1. SINOGAS, C.; MOREIRA, C.; MENDES, D.; Engenharia Genética - Clonagem de DNAs em Bactérias (Módulo I) Universidade de Évora: Acção Foco, 1998. <http://uenf.br/cbb/lbt/files/2014/09/Apostila-%E2%80%93-Vetores-de-clonagem.pdf> Cromossomas artificiais de leveduras, 29-30.
+2. Willard, H. F. Genomics and Gene Therapy: Artificial Chromosomes Coming to Life. Science 290 (2000): 1308-1309.
+4. Snustad, D. Peter; Simmons J.  Michael:  Fundamentos de genética. 7. ed. rev. E atual. Rio de Janeiro: Guanabara Koogan, 2017. 14, 351-352.
+5. VECTORES, disponível em <https://users.med.up.pt/~med05009/bcm/vectores_frame.htm> Acesso em: 14 jun. 2019.
+6. Genomic DNA and cDNA Libraries, Thermor Fisher Scientific. Disponível em <https://www.thermofisher.com/br/en/home/life-science/cloning/cloning-applications/library-construction.html> Acesso em: 14 jun. 2019.
+7. LARIN, Z.; MONACO, P. A.; LEHRACH, H. Yeast artificial chromosome libraries containing large inserts from mouse and human DNA. United Kingdom, London, 1991.
+8. Kouprina, Natalay.; TOMILIN, N. Alexey; MASUMOTO, Hiroshi; EARNSHAW, C. William; LARIONOV, Vladimir.  Human artificial chromosomebased gene delivery vectors for biomedicine and biotechnology. EUA. 2014.

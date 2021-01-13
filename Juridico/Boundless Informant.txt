@@ -1,0 +1,60 @@
+Boundless Informant (Programa de Vigilância) é um programa de vigilância da Agência de Segurança Nacional (NSA), parte do sistema de programas de vigilância global. É uma ferramenta computacional, utilizada para análise de megadados e visualização dos dados coletados pela NSA em nível global.A ferramenta dá aos usuários resumos de atividades de coleta de dados sendo feita ao redor do mundo.A existência desta ferramenta foi divulgada por documentos vazados por Edward Snowden em junho de 2013.Os documentos divulgados mostraram uma contradição com a garantia da NSA para Congresso dos Estados Unidos de que a NSA não recolhia qualquer tipo de dados de americanos mas apenas de estrangeiros.
+
+O mapa mostra que quase 3 bilhões de dados foram capturados pela NSA dentro dos Estados Unidos durante um período de 30 dias que termina em março de 2013. O mapa faz parte de documentos liberados por Edward Snowden.Snowden afirmou que expôs suas preocupações sobre a programa a dois superiores ainda na base regional Havaí onde estava trabalhando, e que até abril de 2012 perguntou muitas vezes a colegas de trabalho a opinião deles sobre o sistema.
+
+
+== Revelação do Programa ==
+A primeira publicação revelando a existência do programa, foi feita pelo jornal The Guardian, que apresentou slides de gráficos detalhados dos dados coletados pela NSA em vários países da Europa entre 10 de dezembro de 2012 e 8 de Janeiro de 2013. Estas imagens foram divulgadas ao redor do mundo pelas agências de notícias a partir de cada um desses países :
+
+05 de agosto de 2013 : Alemanha : um grande quadro sobre este país , mostrando a captação de mais de 552 milhões de dados de telefonia e internet, juntamente com quatro cartas menores sobre Holanda, França , Espanha e Itália. Foram publicados pela revista Der Spiegel .
+21 de outubro de 2013 : França : um gráfico mostrando quase 70 milhões de metadados de telefonia foi publicada pelo jornal Le Monde.
+28 de outubro, 2013 : Espanha : um gráfico que mostra 60 milhões de metadados de telefonia foi publicado pelo jornal El Mundo.
+19 novembro de 2013 : Noruega : um gráfico que mostra 33 milhões de metadados de telefonia foi publicado pelo jornal Dagbladet.
+06 de dezembro de 2013 : Itália : um gráfico mostrando quase 46 milhões de metadados de telefonia foi publicado pelo jornal L'Espresso.
+08 de fevereiro de 2014 : A Holanda : um gráfico mostrando 1,8 milhões de metadados de telefonia foi publicado pelo jornal NRC Handelsblad.
+
+
+== Slides - Boundless Informant ==
+
+		
+		
+		
+		
+		
+		
+
+
+== Acesso do público aos documentos revelados ==
+Cópias dos documentos originais já publicados pela impressa internacional bem como informações sobre os programas e ligações para publicações pela imprensa internacional, vêm sendo disponibilizados ao público desde 9 de agosto de 2013, no sítio eletrônico da "The Courage Foundation" (Fundação Coragem, em português), na seção "Revelações" (Revelations, no site). Anteriormente chamada "Fundo para Proteção e Defesa de Fontes Jornalísticas" (traduçāem português), ela é uma entidade situada no Reino Unido, que tem como objetivo ajudar na defesa e campanhas de apoio judiciário à fontes jornalísticas.
+A "The Courage Foundation" (Fundação Coragem, em português) publica também informações atualizadas sobre as ameaças que Edward Snowden enfrenta, como ele está sendo protegido, e sobre campanhas para para apoiá-lo.
+Entre as publicações, estão incluídos os documentos revelados referentes as parcerias da NSA com empresas e entidades privadas bem como os referentes aos países  parceiros da NSA, uma vez que, através das revelações do Programa de Vigilância Global iniciadas em junho de 2103 com base nos documentos revelados por Edward Snowden, mais informações vieram à público sobre as atividades conjuntas de vigilância global dos países signatários do Tratado de Segurança UK-USA referidos como "Cinco Olhos" (Five Eyes - em inglês): Estados Unidos, Canadá, Austrália, Nova Zelândia e Reino Unido, e de seus parceiros privados.
+Originalmente em língua inglêsa, os documentos são ricos em ilustrações esclarecedoras, uma vez que grande parte do material consta de inúmeros slides ilustrados de apresentações em PowerPoint.Também, Glenn Greenwald, uma únicas das pessoas a quem Edward Snowden entregou todos os documentos revelando os programas de vigilância e espionagem global, vem publicando no The Intercept, os documentos que servem de base para as publicações na imprensa das informações sobre cada programa de vigilância revelado, bem como a documentação dos acordos entre países participantes da vigilância global. A documentação vem sendo arquivada na seção "Documents" do The Intercept e dá acesso público a mesma.
+A Electronic Frontier Foundation também coleta os documentos já publicados e disponibilizá-os ao público.Alguns jornais de língua portuguesa tiveram acesso e publicaram parte dos documentos e slides com informações na língua portuguesa.
+
+
+== Ver Também ==
+PRISM
+Centro de Processamento de Dados Utah
+Revelações da Vigilância global (2013-Presente)
+Cinco Olhos
+Echelon
+Grupo Misto de Inteligência para Pesquisa de Ameaça
+Communications Security Establishment Canada
+Catálogo ANT (NSA)
+Vigilância de Computadores e Redes
+Operações de acesso adaptado (TAO) NSA
+Lista de programas de vigilância em massa do governo
+
+
+== Referências ==
+
+
+== Ligações externas ==
+[3] Catalogo da NSA - Iterativo - com os dispositivos de vigilancia criados pela TAO
+[4] NSA pode escutar todas as chamadas telefônicas em qualquer pais estrangeiro (video em espanhol)
+[5] Der Spiegel Interativo  - Documentos: Video sobre tecnologia de vigilancia da NSA-Catálogo ANT (NSA)
+[6] James Bamford: ‘A NSA hoje pode entrar na mente das pessoas’ , por Flávia Barbosa - O Globo - 19 de março de 2014.
+[7] FAIRVIEW: programa que amplia a capacidade da coleta de dados - Mapa mostra volume de rastreamento do governo americano Brasil é o país mais monitorado da América Latina - O Globo - 11 de junho de 2013;
+[8] EUA espionaram milhões de e-mails e ligações de brasileiros. País aparece como alvo na vigilância de dados e é o mais monitorado na América Latina - O Globo - 06 de julho de 2013;
+[9] Jornais destacam sistema de espionagem dos EUA no Brasil. The Guardian, Washington Post e El País foram alguns dos que comentaram denúncia feito pelo O GLOBO - 07 de julho de 2013;
+[10] Veja os documentos ultrassecretos que comprovam espionagem da presidencia do Brasil. Arquivos foram obtidos com o ex-analista da NSA Edward Snowden

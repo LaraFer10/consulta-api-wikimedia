@@ -1,0 +1,67 @@
+A idade gestacional é o tempo, medido em semanas ou em dias completos, decorrido desde o início da última menstruação (ou data da última menstruação - DUM) da mulher grávida.O primeiro dia do último ciclo menstrual ocorre aproximadamente 2 semanas antes da ovulação e cerca de 3 semanas antes da nidação do blastocisto. Observa-se, assim, uma diferença aproximada de duas semanas entre a idade gestacional e a idade embrionária (considerada a partir da fecundação).
+A idade gestacional é medida em períodos completos, pelo que o 1º dia de cálculo (o início da DUM) é o dia "zero" e não o dia "um", e os dias 0 a 6 correspondem à "semana zero". Por isso um feto com 25 semanas e cinco dias é considerado como um feto com 25 semanas.
+
+
+== Conceitos associados ==
+Gravidez pré-termo - gravidez com menos de 37 semanas de idade gestacional (menos de 259 dias). Neste caso o feto é considerado prematuro.
+Gravidez a termo tem, em média, 40 semanas (280 dias), embora sejam considerados normais a idade gestacional de 37 semanas ou mais até 41 semanas e 6 dias, ou seja, menor de 42 semanas.
+Gravidez pós-termo - quando o parto ocorre com mais de 42 semanas (294 ou mais dias)
+Período perinatal - decorre entre as 22 semanas de gestação (154 dias), em que o peso do feto é de cerca de 500 gramas, até aos 7 dias após o nascimento.
+Idade corrigida - corresponde à idade do recém-nascido deduzida do número de semanas que decorreu entre o nascimento prematuro e o referencial de 40 semanas de gestação. Assim, a um bebé de 24 meses que tenha nascido prematuro com 28 semanas, é-lhe atribuída uma idade corrigida de 21 meses (40-28=12 semanas=3 meses, 24-3=21).
+Data estimada do parto - Desde que a mulher se recorde com precisão da data de início da última menstruação, esta pode ser calculada com uma exatidão de ±4/5 dias. No caso de mulheres com ciclos irregulares este erro pode ser de semanas.
+
+
+== Cálculo da idade gestacional ==
+Nos casos em que se desconhece com precisão a DUM, em que a mulher possui ciclos irregulares, ou ainda para constatar se a evolução do feto está a ser de acordo com o esperado, recorre-se a outras formas de cálculo da idade gestacional.
+
+Conhecimento da data da relação sexual ou da data da transferência do embrião (no caso de FIV);
+Observação de sinais relacionados à ovulação (como, por exemplo, temperatura corporal);
+Medições do tamanho do útero da gestante;
+Medições do tamanho do feto, a partir do exame de ultrassom.
+
+
+=== Medidas por ecografia obstétrica ===
+
+
+==== Dimensão do saco gestacional ====
+A primeira dimensão possível de obter por via ecográfica, entre a 5ª e a 8ª semana, é a dimensão do saco gestacional. O saco é medido nas suas três dimensões, tomada a média destas e, como regra simples, é adicionado 30 a essa média para obter a idade gestacional em dias.
+
+
+==== Comprimento Cabeça-Nádega ====
+O comprimento cabeça-nádega (CCN) é uma das medidas obtidas a partir de ultra-sonografia no primeiro trimestre de gestação. Pode-se estabelecer uma relação aproximada (com uma precisão de 3 a 5 dias) entre a idade gestacional (IG) e o CCN, conforme a tabela a seguir:
+Numa fórmula aproximada calcula-se a idade gestacional em semanas, adicionando 6,5 ao comprimento cabeça-nádega em centímetros.
+
+
+==== Diâmetro biparietal ====
+O diâmetro biparietal (DBP), a distância transversal entre os parietais do crânio do feto, é medido a partir das 12 semanas de gestação. A exactidão média do cálculo da idade gestacional é de ± 1,1 semanas se medido às 14 a 20 semanas de gestação.
+
+
+==== Circunferência cefálica ====
+Uma outra medida utilizada é o perímetro, ou circunferência cefálica (CC), que é calculada a partir do diâmetro biparietal e do diâmetro anterior/posterior (DAP), pela fórmula (APD + BPD)/2 x 3.14. É considerada uma medida mais exacta do que o DBP para o cálculo da idade gestacional.
+
+
+==== Comprimento do fémur ====
+Após as 14 semanas pode-se ao medir o comprimento do fémur (F) tendo uma exactidão média do cálculo da idade gestacional idêntico ao cálculo pelo DBP.
+
+
+==== Circunferência abdominal ====
+À semelhança da circunferência cefálica, a circunferência abdominal é calculada a partir das medidas anterior/posterior e transversal do abdómen do feto.
+
+
+==== Medidas compostas ====
+Atendendo à importância do cálculo da idade gestacional, é frequente utilizar pelo menos duas, mas frequentemente 4 ou 5 destas medidas, obtendo depois a média aritmética delas para obter a idade gestacional.
+Muitos dos modernos aparelhos de ecógrafia possuem programas de análise biométrica que permitem visualisar de imediato os resultados dos vários cálculos referentes à idade gestacional. Nota: estes diferentes parâmetros são utilizados para várias outras análises ao desenvolvimento fetal para além do cálculo da idade fetal, tais como eventuais atrasos nos níveis de crescimento fetal.
+
+
+=== A melhor estimativa obstétrica ===
+A idade gestacional é calculada por vezes na base da "melhor estimativa obstétrica", consistindo esta numa combinação das informações relativas ao primeiro dia do período menstrual, ao exame físico da mãe e ao resultado das ecografias obstétricas.Após o nascimento também é possível calcular a idade gestacional, e importante para determinar a eventual prematuridade do recém-nascido, utilizando, nomeadamente, o score New Balard, uma opção simplificada do score de Dubowitz e que consiste na avaliação de um conjunto de 12 características somáticas e neurológicas do recém nascido.
+
+
+== Ver também ==
+Fertilização humana
+Fecundação
+Embrião
+Nidação
+
+
+== Referências ==

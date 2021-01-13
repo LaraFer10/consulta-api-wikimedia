@@ -1,0 +1,42 @@
+Clorofila é a designação de um grupo de pigmentos fotossintéticos presente nos cloroplastos das plantas (em sentido geral, incluindo também as algas, cianofíceas e diversos protistas anteriormente considerados "algas" ou "plantas", como as algas vermelhas ou castanhas).
+A intensa cor esverdeada da clorofila se deve a suas fortes absorções das regiões azuis e vermelhas do espectro eletromagnético, e por causa destas absorções a luz que ela reflete e emite a cor verde. Ela consegue canalizar a energia da luz solar em energia química através do processo de fotossíntese. Neste processo, a energia absorvida pela clorofila transforma dióxido de carbono e água em carboidratos e oxigênio.
+
+
+== Função ==
+
+ 
+
+As moléculas de clorofila encontram denominados fotossistemas, que se encontram integrados nos tilacóides de cloroplastos. A maioria das moléculas de clorofila absorve luz e transmite a energia luminosa através de um fenómeno designado por "transferência de energia por ressonância" a um par de moléculas de clorofila específico que se encontra no centro reaccional dos fotossistemas. Os fotossistemas I e II possuem centros reaccionais distintos, denominados P680 e P700 de acordo com o comprimento de onda (em nanómetros) correspondente ao seu pico máximo de absorção.
+A energia transferida para as moléculas de clorofila pertencentes ao centro reaccional é usada no processo de separação de carga, que consiste na transferência de um elétron da clorofila para uma cadeia de transporte electrónico. A clorofila do centro reaccional P680, oxidada à forma P680+, é reduzida com um elétron proveniente da oxidação da água (H2O) a dioxigénio (O2) e hidrogénio molecular (H2). O fotossistema I trabalha em conjunto com o fotossistema II; o centro oxidado a P700+ é eventualmente reduzido com electrões provenientes do fotossistema II. Em determinadas condições, a fonte de elétrons para redução do P700+ pode variar.
+O fluxo de elétrons produzido pelos pigmentos de clorofila é usado para transportar íons H+ através das membranas dos tilacóides, causando um potencial quimiosmótico usado principalmente na produção de ATP. Os electrões são eventualmente usados na redução de NADP+ a NADPH.
+
+
+== Estrutura química ==
+A clorofila é um pigmento clorínico com quatro anéis pirrolo ligados por metinas, e um quinto anel ausente em outras porfirinas, grupo de compostos ao qual pertence e que inclui compostos como o grupo heme. No centro do anel há um íon de magnésio (Mg2+) coordenado por quatro átomos de azoto. O composto é denominado feofitina quando não se encontra magnésio (ou outro íon metálico) no seu centro. As cadeias laterais variam em certo nível entre as diferentes formas de clorofila encontradas em diferentes organismos, mas todas possuem uma cadeia fitol (um terpeno) ligada por uma ligação éster a um carboxilo do anel IV. A clorofila a encontra-se sempre presente, mas também ocorrem clorofilas b e c em outros grupos.
+
+
+=== Formas da clorofila ===
+A clorofila em plantas verdes consiste em duas formas, clorofila a e b. As clorofilas c e d são encontradas especialmente em algas e cianobactérias.
+A clorofila a difere da clorofila b  por apresentar na posição 3 do grupo tetrapirrólico o radical -CH3 (metila) no lugar do -CHO (aldeído). A clorofila está presente nas folhas das plantas, sendo crucial para a fabricação de glicose através da fotossíntese. A clorofila é produzida pela planta através dos cloroplastos. É a clorofila a a principal responsável pela coloração verde das plantas e pela realização da fotossíntese.
+A clorofila b  difere da clorofila a por apresentar na posição 3 do grupo pirrólico o radical -CHO (carbonila/aldeído) no lugar do -CH3 (metila).
+
+
+== Propriedades físico-químicas ==
+As clorofilas dão a cor esverdeada às plantas devido à baixa absorção de luz na região do espectro electromagnético correspondente a esta cor. A clorofila a apresenta picos máximos de absorção aos 665 e 465 nm, com uma absortividade molar superior a 105 M−1 cm−1, uma das mais altas em compostos orgânicos. A clorofila a em solução apresenta fluorescência aos 673 nm, mas a sua fluorescência é muito reduzida em folhas intactas. Estas características devem-se à presença de diversas ligações conjugadas (ligações químicas simples e duplas alternadas) no sistema de anéis pirrólicos que rodeiam o magnésio central.
+A clorofila não é solúvel em água e é mais instável em pH ácido. 
+A identidade, função e propriedades espectrais dos diferentes tipos de clorofila em cada fotossistema são distintas e determinadas tanto pelo tipo de fotossistema como pela estrutura das proteínas que as rodeiam. As clorofilas podem ser extraídas das proteínas usando um solvente orgânico como a acetona ou o metanol, e separadas através de cromatografia em papel. A separação é possível dada a diferença no número de grupos polares entre as clorofilas a e b:
+
+Separação da clorofila em cromatografia em papel.
+
+
+=== Evidência da clorofila ===
+A fotossíntese é um processo que consiste na conversão de gás carbônico e água em carboidratos, como a sacarose ou o amido.
+Pode-se demonstrar que a clorofila é vital para a fotossíntese através de folhas desamiladas de uma planta variegada e expondo-as à luz por várias horas. Folhas de plantas variegadas apresentam áreas verdes contendo clorofila e áreas brancas com ausência deste pigmento. Quando, depois, testado em uma solução de iodo, uma mudança de cor, que ocorre onde o amido está presente apenas em regiões anteriormente verdes, portanto contendo clorofila. Isto ocorre porque os cloroplastos são convertidos a amiloplastos (plastídeos de armazenamento de amido) por perda do sistema de membranas tilacoidais (e portanto da clorofila). Isso mostra que a fotossíntese não ocorre em áreas onde a clorofila está ausente, e portanto apoia a teoria de que a presença de clorofila é um requisito para a ocorrência do processo fotossintético. A energia luminosa absorvida pela fotossíntese é armazenada na forma de energia potencial química nos açúcares formados.
+
+
+== Referências ==
+
+SPEER, Brian R. (1997). «"Photosynthetic Pigments"» (em inglês) 
+«PDF review-Chlorophyll d: the puzzle resolved» (PDF) (em inglês) 
+«Light Absorption by Chlorophyll» (em inglês) 
+NELSON, David L.; COX, Michael M., Lehninger Principles of Biochemistry, 4th ed., W.H.Freeman, 2004, ISBN 978-0716743392

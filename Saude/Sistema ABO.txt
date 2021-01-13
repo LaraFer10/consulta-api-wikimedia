@@ -1,0 +1,77 @@
+O Sistema ABO, foi o primeiro dos grupos sanguíneos descobertos (1900, 1901) no início do século XX em  1900, pelo cientista austríaco Karl Landsteiner. Fazendo reagir amostras de sangue de diversas pessoas, ele isolou os glóbulos vermelhos (hemácias) e fez diferentes combinações entre plasma e hemácias, tendo como resultado a presença de aglutinação dos glóbulos em alguns casos, e sua ausência em outros. A aglutinação acontece pois na parede das hemácias estão presentes proteínas, as quais são chamadas de aglutinogênios, hemácias do tipo A, tem proteínas tipo A, hemais do tipo B, possuem proteínas do tipo B, já as hemácias do tipo AB, possuem proteínas tanto do tipo A quanto do tipo B, por esse motivo, para que a transfusão de sangue seja feita de maneira correta, o tipo sanguíneo do doador deve ser compatível ao tipo sanguíneo do receptor. Assim, Landsteiner classificou os seres humanos em três grupos sanguíneos: A, B e O (cuja denominação proveio da expressão "Ohne A, Ohne B", ou seja, "Sem A e Sem B"), e explicou por que algumas pessoas morriam depois de transfusões de sangue e outras não, (quando não se sabia que pessoas possuíam tipo sanguíneos distintos, transfusões eram feitas sem teste prévio, dessa forma pessoas recebiam sangue que não era compatível com o seu). Landsteiner não previu  o grupo AB, mais raro, o qual foi descoberto quando, em 1902, seus colaboradores von Decastello e Sturli o encontraram e descreveram. Em 1930 Landsteiner ganhou o Prêmio Nobel por seu trabalho.
+O grupo O não possui antígenos do Sistema ABO. Este grupo apresenta  a substância básica para a constituição dos grupos A, B e AB. Esta substância é denominada "Antígeno H". Raros indivíduos (1:1.000 na população hindu) não apresentam este antígeno, e sim o seu recessivo "Antígeno h" casos mais raros ainda apresentam o "Antígeno hh", sendo designados Fenótipos de Bombaim ou Falso O (Este tipo foi descrito em Bombaim, na Índia). A importância do conhecimento deste tipo é a de que estes indivíduos não podem receber transfusão de doadores grupo O comum.
+
+
+== Compatibilidade no sistema ABO ==
+Este sistema se caracteriza pela .presença ou ausência de dois antígenos (A e B) — chamados aglutinógenos —,  isolada ou simultaneamente, em cada indivíduo. A grande maioria das crianças (excetuados os lactentes até uma idade aproximada de 3 a 6 meses, e eventualmente os indivíduos que apresentam imunossupressão ou outras circunstâncias especiais) apresenta também anticorpos naturais ou aglutininas , dirigidos contra o(s) antígeno(s) que cada indivíduo não possui, estabelecendo assim as regras de compatibilidade o grupo:
+
+Indivíduos do grupo O (doador universal) não possuem nenhum dos dois antígenos, portanto possuem anticorpos anti-A e anti-B. Podem receber apenas sangue do grupo O, mas podem doar para todos os grupos.Indivíduos do grupo A possuem apenas o antígeno A, e portanto apresentam os anticorpos anti-B. Podem receber sangue dos grupos O e A, e doar para os grupos A e AB.Indivíduos do grupo B possuem apenas o antígeno B, e portanto apresentam os anticorpos anti-A. Podem receber sangue dos grupos O e B, e doar para os grupos B e AB.Indivíduos do grupo AB (receptor universal) possuem ambos os antígenos, e nenhum anticorpo. Podem receber sangue de qualquer grupo, mas doam apenas para o grupo AB.Da combinação entre o Sistema AB0 e do Fator Rh, podemos encontrar os chamados doadores universais (O negativo)  e receptores universais (AB positivo).Estas regras não levam em conta o raríssimo 0 Bombay — o qual somente pode receber sangue de outro indivíduo 0 Bombay — nem os subgrupos de A e B — os quais não representam interferência na maioria das circunstâncias clínicas (ver abaixo).Embora se possam efetuar transfusões observando as regras acima, o mais usual na prática clínica é realizar transfusões isogrupo, isto é, doador e receptor são do mesmo grupo.
+Os aglutinogênios estão aderidos a membrana das hemácias, já as aglutinas se encontram no plasma sanguíneo.
+
+
+== Genética e Bioquímica ==
+Os antígenos do sistema ABO são por natureza hidratos de carbono, sintetizados por influência de genes autossômicos correspondentes.
+A determinação antigênica do sistema ABO, que inicialmente se acreditou ser bastante simples, envolve certas complexidades, pois para ela contribuem dois pares de alelos:
+
+Os genes H (dominante) e h (recessivo) condicionam a presença de uma substância precursora, denominada antígeno H. Esta substância é constituída na seguinte sequência de carboidratos: N-acetilgalactosamina, D-galactose, N-acetilglicosamina, D-galactose.
+Indivíduos de composição genética HH ou Hh produzem essa substância, que serve de base para a manifestação de todos os antígenos do sistema ABO. Seu grupo será determinado pela presença ou não dos genes A e B (conforme descrito abaixo).
+Indivíduos de composição genética hh (genótipo muito raro) não produzem o antígeno H. Estes indivíduos serão sempre do grupo denominado fenótipo O Bombay (Observado pela primeira vez por Bhende et al, 1952, em Bombaim - India). Este grupo é designado como zero. Independentemente de sua composição genética em termos dos genes A e B, não podem produzir nem o antígeno A nem o antígeno B (por falta de seu precursor). Quando é conhecida sua composição gênica, podem ser designados, respectivamente: 0A, 0B ou 0AB. Estes indivíduos desenvolvem os anticorpos Anti-A e Anti-B, da mesma maneira que todos os indivíduos do grupo 0. Entretanto, desenvolvem também o anticorpo Anti-H e não podem receber transfusões de sangue do grupo 0 comum, que é rico neste antígeno. Este fenótipo constitui um problema para os hemoterapeutas e ocorre em uma frequência de 1 para 10.000 indivíduos na Índia e 1 para 1.000.000 na Europa. (em populações específicas sua frequência pode variar).Os genes A e B (codominantes) condicionam a produção dos antígenos A e B pela adição de carboidratos ao antígeno H. Sua ausência (gene recessivo O) condiciona a não adição de carboidratos a esta substância base. Sua ação se dá sobre os indivíduos de composição genética HH e Hh, que representam a quase totalidade da população humana. Assim:
+Indivíduos de composição genética OO (duplo recessivo) produzem apenas o antígeno H. Estes indivíduos serão do grupo O.
+O Gene A condiciona a adição de uma molécula do carboidrato N-acetilgalactosamina a algumas (mas não todas) as moléculas de Antígeno H. Indivíduos de composição genética AA (homozigoto dominante) ou AO (heterozigoto) produzem o antígeno A, que ocupará parte dos sítios representados pelo antígeno H. Estes indivíduos são do Grupo A. Entrementes, como nem todos os sítios do antígeno H são ocupados, estes indivíduos apresentam também o antígeno H, e não desenvolverão anticorpos anti-H.
+O Gene B condiciona a adição de uma molécula do carboidrato D-galactose a algumas (mas não todas) as cadeias do Antígeno H. Indivíduos de constituição genética BB ou BO produzem o antígeno B. Estes indivíduos são do grupo B. Da mesma forma que os do grupo A, apresentam também o antígeno H e não desenvolvem anti-H.
+Por fim, indivíduos de constituição genética AB possuem ambos os alelos em codominância. Produzem os antígenos A, B e H, e não produzem anticorpos contra antígenos ABO.
+
+
+=== Subgrupos no sistema ABO ===
+Von Dungern e Hirszfeld (1911) descobriram que os grupos sanguíneos A e AB podiam ser classificados em A1, A2, A1B, e A2B. Os anticorpos correspondentes não são produzidos por todos os indivíduos, tendo sido constatado que em sua maioria são anticorpos frios que não causam problemas transfusionais. Posteriormente foram descritas outras variantes genéticas do antígeno A, de importância em casos específicos em hemoterapia e medicina legal. Dentre eles estão: Aint, A3, A4, A5, Ax, Az, Am, Ao.
+Dentre as variantes do antígeno B --- que são muito raras ---, as mais importantes são as variantes: B3, Bx, Bw E Bv.
+
+
+=== Sistema ABO: Fenótipos e Genótipos ===
+A tabela abaixo mostra os genótipos e fenótipos dos grupos sanguíneos do sistema ABO:
+Sustenta possibilidade iônica baseada em b.0¥π÷•¶, sua fluência causa inércia nos casos sanguíneos.[carece de fontes?]A frequência dos alelos IA, IB e i em uma população pode ser estimada através de estatística, em métodos nos quais estes alelos e suas frequências são respectivamente chamados p, q e r, especialmente através do método de equilíbrio de Hardy-Weinberg.
+
+
+== Determinação laboratorial dos grupos sanguíneos do Sistema ABO ==
+A determinação do grupo sanguíneo ABO era originalmente realizada fazendo-se reagir as hemácias do paciente com soros Anti-A e Anti-B produzidos em laboratório, em lâminas limpas de microscopia. Entretanto, no Brasil, determinou-se pela legislação que as provas de aglutinação não sejam feitas em lâminas, mas sim por métodos mais precisos. Podem ser utilizados os métodos em microplacas escavadas e/ou em tubos de ensaio, ou o método da gel-centrifugação, mais recente. É preconizada a realização da Prova direta e da Prova reversa, após a centrifugação do sangue a ser testado, separando-se o soro (ou plasma) das hemácias. É recomendada, em todos os métodos, a determinação dos subgrupos de A: A1 e A2.
+
+Na prova direta, faz-se reagir uma porção das hemácias (de tipagem desconhecida) com soros anti-A, anti-B e anti-AB. Hemácias que reagem com o soro anti-A são ditas do grupo A, e hemácias que reagem com o soro anti-B são do grupo B. Hemácias do grupo AB reagem com ambos os antissoros, e hemácias do grupo O não reagem com nenhum dos antissoros. O soro divalente anti-AB é usado como confirmatório, e somente não reagirá com hemácias do grupo O.
+O procedimento oposto é feito na prova reversa, em que se faz reagir o soro (de tipagem desconhecida) com hemácias conhecidas dos grupos A e B. Assim, o soro de indivíduos do grupo O reagirá com ambas as hemácias (pois possui ambos os anticorpos). Se for do grupo A, reagirá apenas com as hemácias B, e se for do grupo B, apenas com as hemácias A. O soro do grupo AB não reagirá com nenhuma das hemácias. Esta prova pode ser complementada pelo uso de hemácias conhecidas A1 e A2, o que auxilia na diferenciação destes dois subgrupos e na solução das principais discrepâncias ABO.
+Caso as provas direta e reversa apresentem resultados de alguma maneira contraditórios (discrepância ABO), deverão ser feitas investigações adicionais para determinação de sua causa, antes da liberação definitiva do resultado do exame.
+
+
+=== Investigação de anticorpos imunes do sistema ABO em recém-nascidos ===
+A incompatibilidade sanguínea materno-fetal é uma causa frequente de Doença Hemolítica do Recém-nascido (DHRN), ocorrendo, mais comumente, em crianças do grupo A geradas por mães do grupo O (Rosenfeld, 1955). Sua gravidade é, entretanto, bem menor do que os casos semelhantes determinados pela incompatibilidade Rh. Nos casos de suspeita, deve-se fazer o teste direto da antiglobulina humana (Coombs direto) com hemácias do sangue de cordão umbilical ou da criança com menos de 24 h de vida, de modo que o resultado positivo determina a causalidade da doença. Deve ser feita, também, a pesquisa de anticorpos desse sistema no alelo de hemácias no sangue de cordão.
+
+
+== Pesquisas Inovadoras Relacionadas ao Sistema ABO ==
+Sangue tipo A pode ser convertido em sangue de doador universal com a ajuda de enzimas bacterianas. Testes demonstraram ser possível retirar antígeno A que é o tipo sanguíneo mais comum e transformá-lo em tipo O,  por meio de  "enzimas que vêm originalmente de uma bactéria intestinal chamada Flavonifractor plautii"  e isso representa uma significativa economia nos bancos de sangue.   
+
+
+== Secreção de Substâncias Grupo-específicas ABH ==
+Foi demonstrado que os antígenos do sistema ABO podem ser encontrados em outros líquidos orgânicos, sob a forma álcool-solúvel (glicolipídica) ou hidrossolúvel (glicoprotéica). Uma alta proporção dos seres humanos apresenta estes antígenos na saliva, secreção lacrimal, plasma sanguíneo e esperma. Estes indivíduos são ditos secretores dos antígenos ABO. Schiff e Sasaki (1932) determinaram que o fenótipo secretor é dominante em relação ao não secretor, sendo os dois fenótipos determinados pelos genes autossômicos Se (dominante) e se (recessivo). Indivíduos de composição genética SeSe (Homozigoto dominante) e Sese (heterozigoto) são secretores e indivíduos sese (Homozigoto recessivo), não secretores. Desde os trabalhos de Gardas e Koscielak (1971) sabe-se também que, nos indivíduos secretores, os antígenos são apresentados nas hemácias sob as formas glicolipídica e glicoproteica, ao passo em que, nos indivíduos não secretores, apenas aparecem na forma glicolipídica. Essas descobertas se revestiram de importância na medicina legal --- por exemplo, para investigações de estupros ---, e em estudos genético-antropológicos, bem como em algumas particularidades em hemoterapia.
+
+
+== O Sistema Lewis ==
+Mourant (1946) constatou a presença de um anticorpo no soro de uma mulher, a Sra. Lewis (que deu nome ao sistema antigênico). Este anticorpo ocorre na maioria dos casos de modo natural, com títulos muito baixos e características de anticorpo frio. Esporadicamente, tem características imunes e pode estar envolvido em reações hemolíticas pós-transfusionais. A partir de vários estudos posteriores pode admitir-se a presença de um par de alelos autossômicos Le e le, em cuja especificidade está envolvida a enzima fucosiltransferase-3, determinando a existência de subtipos. A sua expressão depende dos alelos H,h, e também dos alelos Se,se e dos alelos do sistema ABO. Essas interações deram origem a uma integração complexa entre os sistemas, ligada à importância em estudos específicos em hemoterapia e à incidência de algumas doenças.
+
+
+== Referências ==
+
+
+== Ver também ==
+Grupo sanguíneo
+Tipagem sanguínea
+Fator Rh
+Eritroblastose fetal
+Fenótipo Bombaim
+Hemoterapia
+Imuno-hematologia
+Sangue
+
+
+== Ligações externas ==
+American Association fo Blood Banks (em inglês)
+International Society of Blood Transfusion (em inglês)
+Sociedade Brasileira de Hematologia e Hemoterapia
+Blood groups and the history of peoples, excerpted from the Complete Blood Type Encyclopedia by Peter D'Adamo, published by Penguin Putnam Inc, Copyright 2002

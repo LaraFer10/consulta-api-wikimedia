@@ -1,0 +1,13 @@
+Degradação de Edman é uma metodologia desenvolvida por Pehr Edman para sequenciamento de aminoácidos de um peptídeo. Neste método, o resíduo amino-terminal é marcado e clivado em em peptideo sem afetar as ligações peptídicas entre outros resíduos de aminoácidos.
+
+
+== Mecanismo ==
+
+Fenilisotiocianato reage com um grupo amino-terminal não carregado, sob condições levemente alcalinas, para formar um derivado cíclico do feniltiocarbamoil. Então, sob condições ácidas, este derivado é clivado como um derivado da tiazolinona. O aminoácido derivado de tiazolinona é então extraído seletivamente  usando solventes orgânicos e posteriormente tratado com ácido para formar o derivado mais estável feniltiohidantoína (PTH) - substância que pode ser identificada por meio de cromatografia ou de eletroforese. Este procedimento pode ser repetido mais uma vez para identificar o aminoácido seguinte. Um grande inconveniente desta técnica é que os peptídeos a serem sequenciados desta forma não pode ter mais de 50 a 60 resíduos (e, na prática, inferior a 30). O comprimento do peptideo é limitado, devido à derivação cíclica nem sempre poder ser completada. O problema da derivatização pode ser resolvido clivando grandes peptídeos em peptideos menores antes de prosseguir com a reação. É possível sequenciar com precisão até 30 aminoácidos com máquinas, com mais de 99% de eficiência por aminoácido. Uma vantagem da degradação de Edman é que ela utiliza apenas 10-100 pico-moles de peptideo para o processo de sequenciação.
+
+
+== Limitações ==
+Não é possível sequenciar peptídeos cuja extremidade N-terminal esteja bloqueada (acetilado, formilado, etc.) Cerca de 50% das proteínas tem a extremidade bloqueada, quer naturalmente ou durante a preparação da amostra, onde as substâncias contidas em tampões são capazes de reagir com este grupo. Outra limitação da degradação de Edman é que do desempenho não é de 100% em muitos casos, por conseguinte, quando os acontecimentos levar muitos ciclos (mais do que 50 aminoácidos analisados​​) são obtidos muitos erros.
+
+
+== Referências ==

@@ -1,0 +1,31 @@
+Uma sequência de ADN (português europeu) ou sequência de DNA (português brasileiro)  ou, ainda, sequência genética é uma série de letras representando a estrutura primária de uma molécula ou cadeia de ADN (real ou hipotética) com a capacidade de carregar informações.
+As letras possíveis são A, C, G e T, representando os quatro nucleotídeos (subunidades) de uma cadeia de DNA – as bases adenina, citosina, guanina, timina, covalentemente ligadas a uma "coluna vertebral" de fósforo. Tipicamente, as sequências são impressas uma ao lado da outra, sem espaços, como na sequência AAAGTCTGAC, de 5 a 3, indo da esquerda para a direita. Uma sucessão de quaisquer nucleotídeos maior que quatro está apta a ser considerada uma sequência. Com respeito à sua função biológica, a qual pode depender do contexto, uma sequência pode ou não "fazer sentido", e também ser codificável ou não-codificável. Sequências de DNA também pode conter "ADN lixo".Sequências podem ser obtidas de material biológico através de um processo denominado sequenciamento de ADN.Em alguns casos especiais, outras letras além de A, T, C e G estão presentes numa sequência. Estas letras representam ambiguidade. De todas as moléculas experimentadas, há mais de um tipo de nucleotídeo naquela posição. Os códigos da International Union of Pure and Applied Chemistry (IUPAC) são assim discriminados:
+
+A = adenina
+C = citosina
+G = guanina
+T = timina
+R = G A (purina)
+Y = T C (pirimidina)
+K = G T (ceto)
+M = A C (amino)
+S = G C (ligações de hidrogênio fortes)
+W = A T (ligações de hidrogênio fracas)
+B = G T C (todos, menos A)
+D = G A T (todos, menos C)
+H = A C T (todos, menos G)
+V = G C A (todos, menos T)
+N = A G C T (qualquer nucleotídeo)
+
+
+== Referências ==
+
+
+== Ver também ==
+ADN
+
+
+== Ligações externas ==
+Glossário de Biotecnologia do professor Aluízio Borém. Em Conselho de Informações sobre Biotecnologia.
+Glossário de Termos de Biotecnologia.
+O DNA Vai a Escola - Introdução. Em O DNA Vai a Escola.

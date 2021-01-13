@@ -1,0 +1,17 @@
+Microarranjo é um lab-on-a-chip multiplex. É uma matriz 2D sobre um substrato sólido (geralmente uma lâmina de vidro ou de silício de película fina de células) que dispõe grandes quantidades de material biológico utilizando rastreio de alto rendimento miniaturizado, métodos de transformação e de detecção multiplexados e paralelos. O conceito e metodologia de microarranjos foi introduzido e ilustrado em microarranjos de anticorpos (também conhecidos como matriz de anticorpo) por Tse Wen Chang, em 1983, em uma publicação científica e uma série de patentes[1][2][3] primeiro. A indústria de "gene chip" começou a crescer significativamente após o Livro Ciência 1995 pelos laboratórios de Ron Davis e Pat Brown da Universidade de Stanford. Com o estabelecimento de empresas, como a Affymetrix, Agilent, Microarrays Aplicadas, Arrayit, Illumina, e outros, a tecnologia de microarrays de DNA se tornou o mais sofisticado e os mais utilizados, enquanto o uso de proteínas, peptídeos e de microarrajos de carboidratos estão expandindo.
+Outros tipos de microarranjos podem incluir:
+
+Microarranjo de DNA, tais como microarranjo de cDNA, microarranjo de oligonucleotídeo, microarranjo de BAC e microarranjo de SNP
+MMChips, para controloe de populações de microRNA
+Microarranjo de proteínas
+Microarranjo de peptídeo, para análises detalhadas ou otimização de interações proteína-proteína
+Microarranjo de tecido
+Microarranjo celular (também chamado de microarranjo de transfecção)
+Microarranjo de composto químico
+Microarranjo de anticorpo
+Matriz de carbohidrato (glicomatriz)
+Microarranjo de fenotipo
+Microarranjo de proteína de fase reversa, microarranjo de lisatos e serumPessoas no campo da biotecnologia CMOS estão desenvolvendo novos tipos de microarranjos. Uma vez alimentados com nanopartículas magnéticas, as células individuais podem ser movidas independentemente e simultaneamente num microarranjo de bobinas magnéticas. Um microarranjo de micromolas de ressonância magnética nuclear está em desenvolvimento.
+
+
+== Notes ==

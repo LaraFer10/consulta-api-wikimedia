@@ -1,0 +1,40 @@
+Produção de proteína é o processo biotecnológico de gerar uma proteína específica. É tipicamente alcançado pela manipulação da expressão gênica em um organismo, de modo a expressar grandes quantidades de um gene recombinante. Isso inclui a transcrição do DNA recombinante para o RNA mensageiro (mRNA), a tradução do mRNA em cadeias polipeptídicas, que são finalmente dobradas em proteínas funcionais e podem ser direcionadas (endereçadas) para locais subcelulares ou extracelulares específicos.Sistemas de produção de proteínas (no jargão de laboratório, também conhecido como 'sistemas de expressão') são usados nas ciências da vida, biotecnologia e medicina. Pesquisa em biologia molecular usa inúmeras proteínas e enzimas, muitas das quais são de sistemas de expressão; particularmente DNA polymerase para reação em cadeia da polimerase (RCP), transcriptase reversa para análise de RNA, endonucleases de restrição para clonagem e para produzir proteínas que são rastreadas na descoberta de drogas como alvos biológicos ou como drogas em potencial. Também existem aplicações significativas para sistemas de expressão em fermentação industrial, notadamente a produção de produtos biofarmacêuticos, como a insulina humana para tratar diabetes e para fabricar enzimas.
+
+
+== Sistemas de produção de proteínas ==
+Os sistemas de produção de proteínas comumente usados incluem os derivados de bactérias, leveduras, baculovírus/insetos, células de mamíferos, e mais recentemente fungos filamentosos tais como Myceliophthora thermophila. Quando os produtos biofarmacêuticos são produzidos com um desses sistemas, as impurezas relacionadas ao processo denominadas proteínas da célula hospedeira também chegam ao produto final em pequenas quantidades.
+
+
+=== Sistemas baseados em células ===
+Os sistemas de expressão mais antigos e mais usados são baseados em células e podem ser definidos como "combinação de um vetor de expressão, seu DNA clonado e o hospedeiro do vetor que fornecem um contexto para permitir a função de genes estranhos em uma célula hospedeira, ou seja, produzir proteínas em alto nível". A sobre-expressão é um nível anormal e excessivamente alto de expressão genética que produz um  gene pronunciado relacionado a fenótipo.Existem muitas maneiras de introduzir DNA estranho para uma célula para expressão, e muitas células hospedeiras diferentes podem ser usadas para expressão — cada sistema de expressão tem vantagens e responsabilidades distintas. Os sistemas de expressão são normalmente referidos pelo hospedeiro e a fonte de DNA ou o mecanismo de entrega do material genético. Por exemplo, hospedeiros comuns são bactérias (tais como E.coli, B. subtilis), leveduras (tais como S.cerevisiae) ou linhas celulares eucarióticas. Fontes comuns de DNA e mecanismos de entrega são vírus (tais como baculovírus, retrovírus, adenovírus ), plasmídeos, cromossomos artificiais e bacteriófagos (tais como lambda). O melhor sistema de expressão depende do gene envolvido, por exemplo o Saccharomyces cerevisiae é frequentemente preferido para proteínas que requerem significativa modificação pós-traducional. Linhas celulares de insetos ou mamíferos são usadas quando emendas de mRNA é necessário. No entanto, a expressão bacteriana tem a vantagem de produzir facilmente grandes quantidades de proteína, o que é necessário para experimentos de cristalografia de raios X ou ressonância magnética nuclear para determinação da estrutura.
+Devido as bactérias serem procariotas, eles não estão equipados com a maquinaria enzimática completa para realizar as modificações pós-traducionais necessárias ou o dobramento molecular. Portanto, proteínas eucarióticas de múltiplos domínios expressas em bactérias geralmente não são funcionais. Além disso, muitas proteínas se tornam insolúveis como corpos de inclusão que são difíceis de recuperar sem desnaturantes agressivos e subsequente redobramento de proteínas.
+Para abordar essas preocupações, foram desenvolvidos sistemas de expressões usando várias células eucarióticas para aplicações que exigem que as proteínas sejam conformadas como em organismos de eucariotos ou mais próximos deles: células de plantas (i.e. tabaco), de insetos ou mamíferos (i.e. bovinos) são transfectados com genes e cultivados em suspensão e até como tecidos ou organismos inteiros, para produzir proteínas totalmente dobradas. Sistemas de expressão de mamíferos in vivo têm, no entanto, baixo rendimento e outras limitações (tempo de consumo, toxicidade para as células hospedeiras,..). Para combinar as características de alto rendimento / produtividade e proteínas escalonáveis de bactérias e leveduras e as características epigenéticas avançadas dos sistemas de plantas, insetos e mamíferos, outros sistemas de produção de proteínas são desenvolvidos usando eucariotos unicelulares (i.e. células 'Leishmania' não patogênicas).
+
+
+==== Sistemas bacterianos ====
+
+
+===== Escherichia coli =====
+
+E. coli é um dos hospedeiros de expressão mais usados, e o DNA é normalmente introduzido em um vetor de expressão plasmídeo. As técnicas para sobre-expressão em  E. coli  são bem desenvolvidos e funcionam aumentando o número de cópias do gene ou aumentando a força de ligação da região promotora, ajudando na transcrição.
+Por exemplo, uma sequência de DNA para uma proteína de interesse pode ser clonada ou subclonada em um plasmídeo com alto número de cópias contendo o promotor lac (geralmente LacUV5), que é então transformado na bactériaE. coli. A adição de IPTG (um análogo da lactose) ativa o promotor lac e faz com que as bactérias expressem a proteína de interesse.
+As cepas de E. coli BL21 e BL21 (DE3) são duas cepas comumente utilizadas para a produção de proteínas. Como membros da linhagem B, eles carecem de proteases lon e OmpT, protegendo as proteínas produzidas da degradação. O profago DE3 encontrado em BL21 (DE3) fornece T7 RNA polimerase (acionado pelo promotor LacUV5), permitindo que vetores com o promotor T7 sejam utilizados.
+
+
+===== Corynebacterium =====
+Espécies não patogênicas das Corynebacterium gram-positivas são usados para a produção comercial de vários aminoácidos. As especies de C. glutamicum são usadas amplamente para produzir glutamato e lisina, componentes de alimentos humanos, alimentos para animais e produtos farmacêuticos.
+Expressão de fator de crescimento epidérmico humano funcionalmente ativo tem sido produzido em [Corynebacterium glutamicum|C. glutamicum]], demonstrando assim um potencial para produção em escala industrial de proteínas humanas. As proteínas expressas podem ser direcionadas para secreção através tanto da geral, via secretora (Sec) ou da via de translocação de arginina dupla (Tat).Ao contrário das bactérias gram-negativas, os Corynebacterium gram-positivos não possuem lipopolissacarídeos que funcionam como endotoxinas antigênicas em humanos.
+
+
+===== Pseudomonas fluorescens =====
+A bactéria não patogênica e gram-negativa, Pseudomonas fluorescens,é usado para produção de alto nível de proteínas recombinantes; comumente para o desenvolvimento de bio-terapêuticas e vacinas.   P. fluorescens é um organismo metabolicamente versátil, permitindo triagem de alto rendimento e rápido desenvolvimento de proteínas complexas.  P. fluorescens é mais conhecido por sua capacidade de produzir rapidamente e com sucesso altos títulos de proteína solúvel ativa.
+
+
+==== Sistemas eucarióticos ====
+
+
+===== Leveduras =====
+Sistemas de expressão usando tanto S. cerevisiae como Pichia pastoris permite a produção estável e duradoura de proteínas que são processadas de maneira semelhante às células de mamíferos, com alto rendimento, em meios quimicamente definidos de proteínas.
+
+
+== Referências ==

@@ -1,0 +1,21 @@
+Hidreto de cálcio é o composto químico com a fórmula CaH2. Este pó cinza (branco se puro, o que é raro) reage vigorosamente com água liberando gás hidrogênio. CaH2 é então usado como um agente de secagem, i.e. um dessecante.
+CaH2 é um hidreto salino, significando que sua estrutura é como de um sal. Todos os metais alcalinos e alcalinos terrosos formam hidretos salinos. Um exemplo bastante conhecido é o hidreto de sódio, o qual cristaliza na disposição do NaCl. Estas espécies sãoinsolúveis em todos os solventes com os quais não reagem porque possuem estruturas estendidas. O CaH2 cristaliza na disposição do PbCl2.
+
+
+== Uso como um dessecante ==
+A reação de CaH2 com a água pode ser representado pleo seguinte:
+
+CaH2  +  2 H2O  →  Ca(OH)2 +  2 H2Os dois produtos da hidrólise, H2, um gás, e Ca(OH)2, um sólido, são facilmente separados do solvente por destilação, filtração, ou decantação.
+Um hidreto de cálcio é um dessecante relativamente mediano, ele é seguro se comparado a agentes reativos como o sódio metálico ou liga sódio-potássio. Hidreto de cálcio é largamente usado como um dessecante para solventes básicos tais como aminas e piridina.  É também usado para pré-secagem de solventes antes da secagem final com um agente mais reativo.
+
+
+=== Inconvenientes ===
+Embora CaH2 seja certamente adequado e frequentemente o agente de secagem escolhido, ele possui alguns inconveniente:
+
+é insolúvel em todos os solventes, em contraste a LiAlH4, então a velocidade de sua secagem pode ser baixa.
+é incompatível com alguns soventes, e pode de fato reagir explosivamente com clorocarbonos (LiAlH4 também sofre desta desvantagem).
+Porque CaH2 e Ca(OH)2 são sempre indistinguíveis em aparência, a qualidade da amostra de CaH2 não é óbvia visualmente.
+Desde que hidreto de cálcio não remove oxigênio dissolvido, não é útil para desoxigenar solventes.(em inglês)
+
+
+== Referências ==

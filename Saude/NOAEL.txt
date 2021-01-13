@@ -1,0 +1,16 @@
+NOAEL (do inglês No Observed Adverse Effect Level) é uma sigla inglesa usada em farmacologia e toxicologia que significa Nível Sem Efeitos Adversos Observáveis de um fármaco ou de uma toxina ou de um agente físico (como radiação ou pressão).Não confundir com NOEL, Nível Sem Efeito Observável (do inglês No Observed Effect Level), que se refere a dose máxima antes que apareça qualquer efeito benéfico de um fármaco. NOEL e NOAEL devem ser comparados em estudos de dose resposta.Ajuda a estabelecer uma relação entre a dose, o efeito desejado e o aparecimento de efeitos adversos. É importante para estabelecer, por exemplo, se a água de um rio é segura para beber.
+
+
+== Metodologia ==
+NOAEL denota o nível máximo de exposição de um organismo, identificado por experiência ou por observação, na qual ainda não há variação biológica ou estatisticamente significante (por exemplo, alteração de morfologia, capacidade funcional, crescimento, desenvolvimento ou duração) na freqüência ou gravidade de quaisquer efeitos adversos na população exposta quando comparada a um grupo-controle apropriado. Porém, NOAEL não informa sobre a duração, nem interpreta o risco ou intensidade do efeito adverso.
+ExemploNo seguinte estudo teórico de dose-resposta a um medicamento X foram observados os seguintes resultados:
+Grupo controle (0 mg/kg/dia): Sem efeitos benéficos nem adversos
+Grupo 1 (5 mg/kg/dia): Sem efeitos benéficos nem adversos
+Grupo 2 (10 mg/kg/dia): Se observam apenas efeitos benéficos, sem efeitos colaterais
+Grupo 3 (20 mg/kg/dia): Se observam mais efeitos benéficos, porém com alguns efeitos colaterais
+Grupo 4 (30 mg/kg/dia): Se observam mais efeitos benéficos, porém com mais efeitos colaterais
+Grupo 5 (40 mg/kg/dia): Se observam menos efeitos benéficos, porém com mais efeitos colaterais
+Baseado nesse estudo o NOAEL do medicamento X é 10 mg/kg/dia e o NOEL seria 5 mg/kg/dia. O valor preciso está entre 5 e 10 mg/kg/dia, já que os valores intermediários não foram investigados. Se um outro estudo posterior concluir que 7 mg/kg/dia do medicamento X já causam efeito colateral o novo NOAEL será 7 mg/kg/dia. A janela terapêutica do medicamento X estaria entre 10 mg/kg/dia e 40 mg/kg/dia. Mais de 40 mg seriam considerados uma sobredose, recomendando medidas de desintoxicação.
+
+
+== Referências ==

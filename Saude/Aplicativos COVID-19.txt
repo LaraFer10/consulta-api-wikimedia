@@ -1,0 +1,5 @@
+Um COVID-19-App é um aplicativo de software móvel projetado para auxiliar na detecção de contatos na Pandemia de COVID-19 através de um processo de identificação de indivíduos que podem estar em contato ou esteve com uma pessoa infectada.
+Os aplicativos visam conter a propagação do coronavírus. Inúmeras aplicações foram desenvolvidas ou propostas para esse fim, com apoio oficial do governo em algumas áreas e jurisdições. Os sistemas baseados no rastreamento da localização geográfica dos usuários de aplicativos levantaram preocupações com a privacidade. As alternativas incluem o uso de sinais bluetooth e pacotes de dados criptografados para registrar a proximidade do usuário com outros celulares. Em 10 de abril de 2020, o Google e a Apple anunciaram em conjunto que integrariam a funcionalidade para oferecer suporte a aplicativos Bluetooth diretamente em seus sistemas operacionais Android e iOS.
+
+
+== Referências ==

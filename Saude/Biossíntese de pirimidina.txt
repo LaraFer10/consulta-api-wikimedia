@@ -1,0 +1,27 @@
+A biossíntese da pirimidina é um processo que ocorre tanto no corpo como na síntese orgânica.
+
+
+== Biossíntese de novo da pirimidina ==
+A biossíntese De Novo de uma pirimidina é catalisada por 3 produtos gênicos CAD, DHODH e UMPS. As três primeiras enzimas do processo são todas codificadas pelo mesmo gene em DAC, que consiste em carbamoilfosfato sintetase II, aspartato carbamoiltransferase e diihidroorotase. Desidrogenase de diidroorotato (DHODH) ao contrário de CAD e UMPS é uma enzima mono-funcional e está localizada na mitocôndria. A UMPS é uma enzima bifuncional que consiste em orotato fosforibosiltransferase (OPRT) e orotidina monofosfato descarboxilase (OMPDC). Ambos, CAD e UMPS estão localizados ao redor das mitocôndrias, no citosol. Em Fungi, existe uma proteína semelhante, mas não tem a função de diidroorotase: outra proteína catalisa o segundo passo.
+Em outros organismos (Bactérias, Archaea e os outros Eucariotos), os três primeiros passos são feitos por três enzimas diferentes.
+
+
+== Catabolismo da pirimidina ==
+As pirimidinas são finalmente catabolizadas (degradadas) em CO2, H2O e ureia. A citosina pode ser decomposta em uracila, que pode ser subdividida em N-carbamoil-β-alanina e depois em beta-alanina, CO 2 e amônia por beta-ureidopropionase. A timina é decomposta em β-aminoisobutirato, que pode ser subdividido em intermediários que eventualmente levam ao ciclo do ácido cítrico.
+O β-aminoisobutirato atua como um indicador aproximado da taxa de renovação do DNA.
+
+
+=== Regulamentos da biossíntese de nucleotídeos de pirimidina ===
+Através da inibição do feedback negativo, os produtos finais UTP e UDP impedem que a enzima CAD catalise a reação em animais. Por outro lado, o PRPP e o ATP atuam como efetores positivos que aumentam a atividade da enzima.
+
+
+== Farmacoterapia ==
+A modulação do metabolismo da pirimidina farmacologicamente tem usos terapêuticos.
+Os inibidores da síntese da pirimidina são utilizados na artrite reumatóide moderada a grave e na artrite psoriática, bem como na esclerose múltipla. Exemplos incluem Leflunomide e Teriflunomide.
+
+
+== Referências ==
+
+
+== Ligações externas ==
+Visão geral na Queen Mary Universidade de Londres.

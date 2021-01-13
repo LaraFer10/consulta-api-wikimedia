@@ -1,0 +1,20 @@
+O gene shaker (Sh), quando sofre mutação, causa uma variedade de comportamentos atípicos na mosca-da-fruta, Drosophila melanogaster. Sob anestesia por éter, as patas da mosca tremem (daí o nome do gene); mesmo quando não anestesiada, exibe movimentos aberrantes. Moscas Sh-mutantes têm um período de vida encurtado em relação a moscas normais; nas larvas, o repetido disparar de potenciais de acção assim como a exposição prolongada a neurotransmissores nas junções neuromusculares, ocorre.
+Em Drosophila, o gene shaker está localizada no cromossoma X. O homólogo humano mais próximo é KCNA3.
+
+
+== Função ==
+O gene Sh desempenha um papel na operação dos canais potássio, que são proteínas integrais de membrana e são essenciais para o correcto funcionamento da célula. O canal shaker funcional é dependente de voltagem e possui quatro subunidades, que formam um poro através do qual iões fluem. Uma mutação no gene Sh reduz a condutância de carga através do neurónio uma vez que os canais não funcionam, causando as aberrações fenotípicas severas mencionadas acima. Estes tipos de canais iónicos são responsáveis pela repolarização da célula.
+O canal Shaker K é um complexo proteico homotetramérico. Quanto confrontados por um estímulo, os tetrâmeros passam por mudanças de conformação; algumas destas mudanças são cooperativas. O passo final na abertura do canal é altamente sincronizado.Recentemente, o gene shaker também foi identificado como um gene que ajuda a determinar a quantidade de tempo que um organismo dorme. O fenótipo das moscas que necessitam menos sono é denominado mns (do inglês minisleep).
+
+
+== Bloqueadores ==
+O canal Shaker K é afectado por várias tóxinas, que tornam a abertura do canal mais lenta, ou bloqueiam reversivelmente o seu funcionamento.Algumas das toxinas que afectam o canal Shaker K são:
+
+Agitoxina
+Caribdotoxina
+Iberiotoxina
+Pandinotoxina
+6-bromo-2-mercaptotriptamina (BrMT)BrMT acua sobre o canal prevenindo a activação inicial do canal, antes da cooperação ter começado. Apesar de o seu mecanismo exacto ser desconhecido, é expectável funcionar através do forçar uma mudança conformacional no domínio do poro do canal. Esta parte do canal é esperada ser alterada, ao invés do domínio sensível a voltagem, tendo em conta as suas conexões a outras subunidades. Quando a mudança de conformação é aplicada, os sítios BrMT em subunidades adjacentes são também afectadas, resultando numa activação atrasada geral dos canais dos canais K.
+
+
+== Referências ==

@@ -1,0 +1,3 @@
+Reações acopladas são reações exergônicas com endergônicas, que conservam uma grande parte de energia química dos nutrientes alimentares de uma forma utilizável.
+Um mecanismo possível de acoplamento pode ser imaginado quando um intermediário obrigatório comum (I) faz parte de ambas as reações, isto é: A + C → I → D + D
+Algumas reações exergônicas e endergônicas dos sistemas biológicos são acopladas assim. Deve-se levar em conta que este tipo de sistema tem um mecanismo interno para o controle biológico da velocidade, no qual os processos oxidativos ocorrem desde que a existência de um intermediário obrigatório comum permita que a velocidade de utilização do produto da vis de síntese (D)determine, pela lei de ação das massas, a velocidade na qual A é oxidado.

@@ -1,0 +1,168 @@
+A Genética Quantitativa é a parte de genética que estuda o caráter quantitativo dos seres, ou seja, estuda o papel das qualidades adquiridas pelos genes, estudando-as de forma estatística. Tais estudos se baseiam em características quantitativas, tais quais são exibidas parcialmente não genéticas, também conhecidas como "efeito do meio".A mais básica e não menos fundamental equação da Genética Quantitativa é a que exemplifica  os efeitos que o meio onde vivem os seres influenciam seu fenótipo
+
+  
+    
+      
+        F
+        =
+        G
+        +
+        E
+      
+    
+    {\displaystyle F=G+E}
+  Onde:
+
+  
+    
+      
+        F
+      
+    
+    {\displaystyle F}
+   é fenótipo;
+
+  
+    
+      
+        G
+      
+    
+    {\displaystyle G}
+   é genótipo;
+
+  
+    
+      
+        E
+      
+    
+    {\displaystyle E}
+   é o ambiente.Isto para o modelo básico, Mas se nos aprofundarmos, podemos dizer que a genética ou genótipo pode ser composta por três fatores:
+
+Efeitos genéticos aditivos 
+  
+    
+      
+        (
+        A
+        )
+      
+    
+    {\displaystyle (A)}
+  
+Efeitos genéticos devido à dominância 
+  
+    
+      
+        (
+        D
+        )
+      
+    
+    {\displaystyle (D)}
+  
+Efeitos genéticos devido à epistasia 
+  
+    
+      
+        (
+        I
+        )
+      
+    
+    {\displaystyle (I)}
+  Temos que
+
+  
+    
+      
+        
+          Genótipo
+        
+        =
+        A
+        +
+        D
+        +
+        I
+      
+    
+    {\displaystyle {\text{Genótipo}}=A+D+I}
+  Daí podemos reescrever a equação descrita a anteriormente
+
+  
+    
+      
+        F
+        =
+        A
+        +
+        D
+        +
+        I
+        +
+        E
+      
+    
+    {\displaystyle F=A+D+I+E}
+  
+  
+    
+      
+        F
+      
+    
+    {\displaystyle F}
+   é fenótipo;
+
+  
+    
+      
+        G
+      
+    
+    {\displaystyle G}
+   é genótipo;
+
+  
+    
+      
+        A
+      
+    
+    {\displaystyle A}
+   é efeitos genéticos aditivos
+
+  
+    
+      
+        D
+      
+    
+    {\displaystyle D}
+   é efeitos genéticos da dominância
+
+  
+    
+      
+        I
+      
+    
+    {\displaystyle I}
+   é efeitos genéticos da epistasia
+
+  
+    
+      
+        E
+      
+    
+    {\displaystyle E}
+   é o ambiente.Este é o conceito que constitui o modelo expandido.
+
+
+== Ver também ==
+
+
+== Referências ==

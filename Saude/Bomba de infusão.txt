@@ -1,0 +1,26 @@
+Bomba de infusão é uma designação comum, mas inadequada (originada da tradução literal do inglês) de Bomba de Perfusão. É um aparelho médico-hospitalar ou veterinário, utilizado para perfundir líquidos tais como fármacos ou nutrientes, com controle de fluxo e volume nas vias venosa, arterial ou esofágica.
+
+Existem vários modelos de bomba de perfusão, mas podemos dividi-las em três classes principais:
+
+Bombas volumétricas universais
+Bombas de equipos especiais
+Bombas de seringas
+
+
+== Bombas volumétricas universais ==
+Este tipo utiliza equipos de soro padrão para bombear e controlar os líquidos a serem infundidos para dentro do corpo. O controle de fluxo nestes equipos sem bomba infusora é normalmente feito por gravidade e estrangulamento da luz do tubo por um dispositivo chamado de pinça rolete. Quanto maior a luz interna do tubo, maior a vazão e vice-versa. Este método não é estável e varia muito com a temperatura e acomodação do material do tubo, que mede de 2,5 a 4 milimetros de diâmetro e cerca de 2 metros de comprimento.Com a bomba de perfusão, um acionador mecânico provoca um deslocamento do líquido no interior do tubo por ação peristáltica. Este mecanismo pode ser classificado de rotativo ou linear. O rotativo é composto de um rotor principal munido de roletes que pressionam o tubo dentro de uma voluta ou caçapa, algo como meia panela. O linear é composto de teclas que pressionam o tubo de plástico em sequência e modo senoidal, também de encontro a um encosto. O mecanismo é acionado por um motor de passos com redutor e comandado por um circuito eletrônico de precisão, capaz de informar ao operador o fluxo e quantidade de líquido a perfundir ou já processado. O fluxo (caudal) pode variar desde 0,5 mililitros por hora até 1 litro por hora e quantidades de 1 ml até 10 litros, conforme necessidades do paciente.
+
+
+== Bombas de Equipos Especiais ==
+As bombas com equipos especiais podem ser do mesmo principio peristáltico descrito acima, porém utilizando equipos feitos com um segmento de tubo mais elástico e mais resistente que o padrão dos tubos de perfusão normais. Normalmente o material utilizado é o silicone, que proporciona maior precisão e durabilidade (até 48 horas). Também são bombas de equipos especiais as que utilizam outros métodos como os de êmbolos ou membranas flexíveis acopladas a válvulas de esferas ou laminares que só permitem o fluso unidirecional. O fluxo neste caso é pulsátil e também controlado por motores de precisão. Alguns modelos carregam seu próprio suprimento de energia e líquido, como por exemplo as normalmente usadas para dosagens contínuas de insulina ou anestésicos, presas à cintura do portador.
+
+
+== Bombas de Seringa ==
+As bombas de seringa, utilizam seringas de injeção descartáveis comuns para infundir. Por meio de um dispositivo mecânico, um acionador vai empurrando o embolo da seringa continuamente,  podendo ser um eixo sem-fim ou engrenagens tipo pinhão e cremalheira. Um tubo fino (equipo de seringa) conduz o líquido da seringa para dentro do corpo, que pode ser por uma agulha de injeção ou cateter. São os modelos de maior precisão e fluxo contínuo
+
+
+== Comando eletrônico ==
+A eletrônica digital, proporciona segurança para o usuário e o operador, com um teclado de comando como interface para o programa da perfusão, permitindo controlar a velocidade (fluxo, caudal) por tempo ou volume a ser perfundido por tempo. Alguns modelos possuem ainda um banco de memória com as dosagens e diluições dos principais fármacos e soros hidratantes ou nutritivos, permitindo maior facilidade na programação.
+
+
+== Referências ==

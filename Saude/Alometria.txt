@@ -1,0 +1,482 @@
+Alometria é um ramo da biologia que estuda relações de escala para atributos morfológicos (como a relação entre o tamanho de um determinado órgão e o corpo), fisiológicos (relação entre a taxa metabólica e o tamanho do corpo em mamíferos), ecológicos (relação entre o tamanho da asa e a performance de voo em aves) ou até, comportamentais. São estudos entre a forma e tamanho de corpos e como as características dos organismos mudam com o tamanho. O termo foi criado por Julian Huxley & G. Teissier (1936).
+O tamanho e a forma dos organismos está intimamente relacionado com sua capacidade de capturar recursos, que por sua vez, influencia como as populações sobrevivem, se desenvolvem e competem entre si.
+
+Mais especificamente, durante o desenvolvimento de um organismo, o crescimento alométrico refere-se a taxa de crescimento diferencial de partes diferentes do corpo. Um exemplo disso, é o desenvolvimento do corpo humano, no qual, braços e pernas crescem a uma taxa maior se comparados ao crescimento da cabeça. Se um adulto tivesse as proporções de uma criança, notaríamos rapidamente a desproporcionalidade. Um outro exemplo, foi no estudo do caranguejo Uca pugnax , por Huxley.Ele queria entender como o caranguejo crescia para produzir uma quela exageradamente grande, mais especificamente, o tamanho do corpo em relação ao tamanho da quela em diferentes estágios de desenvolvimento. O resultado obtido foi uma relação linear na escala logarítmica. A inclinação dessa relação foi maior que 1 (1,57) . Dessa forma é possível inferir que: para qualquer unidade de aumento no tamanho do corpo no tempo, havia um aumento proporcionalmente maior no tamanho da quela, ou seja, o tamanho exagerado da quela era porque ela crescia em uma taxa mais rápida do que o resto do corpo.
+
+
+== Coeficiente Alométrico ==
+As relações alométricas podem ser expressas por uma função potência 
+  
+    
+      
+        Y
+        (
+        x
+        )
+        =
+        a
+        
+          x
+          
+            b
+          
+        
+      
+    
+    {\displaystyle Y(x)=ax^{b}}
+   ; ou na forma logarítmica 
+  
+    
+      
+        log
+        ⁡
+        y
+        =
+        b
+        log
+        ⁡
+        (
+        x
+        )
+        +
+        log
+        ⁡
+        (
+        a
+        )
+      
+    
+    {\displaystyle \log y=b\log(x)+\log(a)}
+   Onde:
+X é a variável independente (tamanho do corpo do organismo por exemplo);
+Y é a variável dependente (tamanho do orgão ou parte do organismo por exemplo);
+E 
+  
+    
+      
+        b
+      
+    
+    {\displaystyle b}
+   é o expoente alométrico da escala
+Para demonstrarmos que uma variável biológica varia com o tamanho dos organismos,  é necessário que seja definido uma variável independente comum a todos. Assim, na alometria, é comum usar a massa como a variável independente. Essa fato se dá por algumas razões:
+a) Na maioria dos organismos, a massa pode ser facilmente medida;
+b) Sua medida é feita com bastante precisão
+Podemos demonstrar alguns exemplos da variável Y:
+a)   Taxa metabólica basal;
+b)  Freqüência cardíaca do organismo em repouso;
+c)    O tempo de vida de um organismo.
+O coeficiente alómetrico (
+  
+    
+      
+        b
+      
+    
+    {\displaystyle b}
+  ) representa a razão de crescimento diferencial entre o órgão e o corpo como um todo.
+Dizemos que a alometria é positiva ou simplesmente hiperalometria quando 
+  
+    
+      
+        b
+      
+    
+    {\displaystyle b}
+   > 1 , ou seja, o órgão cresce mais rápido do que o corpo.
+Da mesma forma, se 
+  
+    
+      
+        b
+      
+    
+    {\displaystyle b}
+   <  1 o órgão cresce a uma taxa menor em relação ao corpo , dessa forma, dizemos que a alometria é negativa ou simplesmente, hipoalometria.
+Quando o expoente é 
+  
+    
+      
+        b
+      
+    
+    {\displaystyle b}
+  =1 na equação, dizemos que a relação é isométrica e quando 
+  
+    
+      
+        b
+        ≠
+        1
+      
+    
+    {\displaystyle b\neq 1}
+  , temos uma relação alométrica. De fato, o termo alometria significa medida diferente.
+
+
+== Conceitos alométricos ==
+Em 1966, Stephen Jay Gould , ampliou os conceitos de alometria , distinguindo-os em 4 conceitos:
+• Alometria Ontogenética: refere-se ao crescimento relativo dos indivíduos; ao longo de sua ontogenia, x e y são atributos medidos no mesmo indivíduo;
+• Alometria Estática: Dentro de uma população ou espécie, são atributos medidos em diferentes indivíduos no mesmo estágio de desenvolvimento.
+• Alometria Evolutiva: atributos medidos em diferentes espécies 
+• Alometria filogenética: razões de crescimento distintas em linhagens
+
+
+== Significado biológico de alometria ==
+Analisando a figura 2, podemos inferir que tanto a inclinação (b) quanto o intercepto (a) possuem significados biológicos. Onde a e b mostram a relação entre o tamanho e a forma entre e dentro de espécies(alometria estática).
+
+O intercepto refere-se a diferenças no tamanho proporcional da asa da borboleta, independente do tamanho do corpo.
+A inclinação refere-se a diferenças em como o tamanho relativo da asa muda com o tamanho do corpo entre as espécies. 
+Podemos também inferir análises de alometria fisiológica/evolutiva em mamíferos.
+Analisando o gráfico da figura 3, temos que a inclinação da relação entre a taxa metabólica e o tamanho do corpo é igual em Marsupiais e placentários (b~0,75).
+Porém , o intercepto é menor para Marsupiais(a=1,68) do que para os placentários (a=1,85).
+Dessa forma, podemos interpretar que, para um mesmo tamanho de corpo, os marsupiais tem menores taxas metabólicas. 
+Ou seja, mesmos princípios biológicos determinam como o metabolismo varia com a massa do corpo nos dois grupos.
+
+
+== Escala isométrica e similaridade geométrica ==
+Escala isométrica é utilizada quando observa-se preservação das relações de proporcionalidade entre dois ou mais corpos ao longo do tempo evolutivo. Um exemplo disso pode ser encontrados nos sapos após sua metamorfose, nos quais apresentam o crescimento das pernas tão longos quanto o crescimento do corpo e essa relação será mantida ao longo de sua vida, dessa forma, dizemos que o crescimento é isométrico.
+Podemos exemplificar ,  a similaridade geométrica da seguinte forma: Considere dois cubos de dimensões lineares (L1; L2 e L3) e (L’1 ; L’2; L’3), respectivamente. Dizemos que eles são geometricamente similares se os lados correspondentes estão em igual proporção, 
+  
+    
+      
+        
+          (
+          
+            
+              
+                
+                  L
+                  ′
+                
+                1
+              
+              
+                L
+                1
+              
+            
+          
+          )
+        
+        =
+        
+          (
+          
+            
+              
+                
+                  L
+                  ′
+                
+                2
+              
+              
+                L
+                2
+              
+            
+          
+          )
+        
+        =
+        
+          (
+          
+            
+              
+                
+                  L
+                  ′
+                
+                3
+              
+              
+                L
+                3
+              
+            
+          
+          )
+        
+        =
+        k
+      
+    
+    {\displaystyle \left({\frac {L'1}{L1}}\right)=\left({\frac {L'2}{L2}}\right)=\left({\frac {L'3}{L3}}\right)=k}
+   , e se os ângulos correspondentes são iguais.
+A escala isométrica é regida pela lei do quadrado-cubo observada por Galileu.  Essa lei define que, se um corpo cresce em tamanho, o volume aumenta ao cubo e a resistência aumento apenas ao quadrado. Dessa forma, podemos inferir que se um corpo cresce uniformemente em todas as dimensões, gerará um enfraquecimento progressivo de sua estrutura. Ou seja, se um homem fosse 10 vezes maior que o tamanho médio e , ainda mantivesse as mesmas proporções da forma humana, seria necessário contar com ossos muito mais largos, desproporcionais ao corpo, ou então, ter um esqueleto composto por algo mais forte que o nosso osso.
+Portanto,  quando o tamanho de um sistema físico muda, a relação entre seus componentes precisa se ajustar para que ele continue a funcionar, ou seja, esse ajuste se daria por alometria.
+
+
+== Algumas aplicações das escalas alométricas ==
+
+
+=== Paleontologia ===
+Na paleontologia, a partir de um osso de dinossauro ,por exemplo, pode-se prever sua massa, tempo de vida, densidade populacional, quantidade de alimentos ingerida diariamente etc.
+
+
+=== Medicina ===
+Outro exemplo é na medicina. A partir de equações alométricas , é possível estimar a dosagem de drogas para homens que são testadas em ratos.
+
+
+=== Padrões na natureza ===
+Para prever algumas padrões da natureza, podemos usar também as equações alométricas. Por exemplo, se a freqüência cardíaca em repouso for dada por
+  
+    
+      
+        
+          f
+          
+            c
+          
+        
+        ∼
+        
+          M
+          
+            −
+            1
+            
+              /
+            
+            4
+          
+        
+      
+    
+    {\displaystyle f_{c}\thicksim M^{-1/4}}
+    (batidas por segundo) e o tempo de vida de um organismo for dado por 
+  
+    
+      
+        
+          t
+          
+            v
+          
+        
+        ∼
+        
+          M
+          
+            −
+            1
+            
+              /
+            
+            4
+          
+        
+      
+    
+    {\displaystyle t_{v}\thicksim M^{-1/4}}
+  (segundos) , então o número de batidas do coração durante a vida não depende da massa. Dessa forma, um camundongo vive menos que um animal maior porque seu coração bate mais rápido.  
+
+
+=== Taxa metabólica basal ===
+Até 1932, acreditava-se que o expoente alométrico relacionando a taxa metabólica basal e massa era b =
+  
+    
+      
+        
+          
+            2
+            3
+          
+        
+      
+    
+    {\displaystyle {\frac {2}{3}}}
+   , conhecida como Lei da superfície de Rubner.
+Após estudos de Max Kleiber, o qual mediu a taxa metabólica basal em um grupo de mamíferos com massa entre 0,15 kg até 679 kg. Traçando um gráfico da taxa metabólica (kcal/dia) em função da massa (kg) , notou-se que os pontos definiram uma reta com inclinação 0,74. A regressão linear forneceu a seguinte equação alométrica 
+  
+    
+      
+        b
+        =
+        73
+        ,
+        3
+        
+          M
+          
+            0
+            ,
+            74
+          
+        
+      
+    
+    {\displaystyle b=73,3M^{0,74}}
+  . Esse resultado se mostrava contrario com a Lei de superfície de Rubner.
+
+Após dois anos, foi construída a curva do rato ao elefante, como mostrado na figura 4. (A figura foi obtida do livro de Schmidt-Nielsen )
+Brody e colaboradores, então, obtiveram , praticamente, o mesmo expoente (b=0,74).
+Foi sugerido o arredondamento do valor para b=0,75 , porque a diferença para 0,734 era pequena e facilitava os cálculos.
+Alguns exemplos de variáveis que foram medidas e seus expoentes caracterizam múltiplos de ¼. 
+a)   A freqüência cardíaca e respiratória dos mamíferos: b= - 1/4
+b)  Taxa metabólica basal : b= ¾
+c)    Tempo metabólico ou tempo fisiológico: b=  ¼
+
+
+=== Taxa Metabólica Máxima ===
+Hemmingsen , em seu artigo de revisão , em 1960, sugeriu que a taxa metabólica máxima é cerca de dez vezes maior que a taxa metabólica basal e que para isso, não dependia da massa.
+Os resultados foram obtidos medindo a razão entre o consumo máximo de oxigênio durante o exercício 
+  
+    
+      
+        
+          V
+          
+            o
+            2
+            m
+            a
+            x
+          
+        
+      
+    
+    {\displaystyle V_{o2max}}
+    e o consumo de oxigênio no repouso 
+  
+    
+      
+        
+          V
+          
+            o
+            2
+            r
+            e
+            s
+            t
+          
+        
+      
+    
+    {\displaystyle V_{o2rest}}
+   . 
+Em 1986, Sibly e Calow relacionaram a taxa metabólica máxima com a atividade muscular. Segundo as pesquisas, o trabalho Maximo que o músculos dos mamíferos e aves realiza por unidade de volume é 
+  
+    
+      
+        W
+        ∼
+        
+          M
+          
+            1
+          
+        
+      
+    
+    {\displaystyle W\sim M^{1}}
+  . Já a frequência de contração é 
+  
+    
+      
+        
+          F
+          
+            c
+          
+        
+        ∼
+        
+          M
+          
+            −
+            0
+            ,
+            18
+          
+        
+      
+    
+    {\displaystyle F_{c}\sim M^{-0,18}}
+  . Como 
+  
+    
+      
+        B
+        ∼
+        W
+        
+          F
+          
+            c
+          
+        
+      
+    
+    {\displaystyle B\sim WF_{c}}
+   , obteve-se que o expoente da taxa metabólica máxima é b=0,82
+Portanto, podemos definir que os valores dos expoentes das taxas metabólicas são importantes pois podem fornecer informações a respeito dos processos que governam a demanda energética dos seres vivos.
+
+
+== Relações alométricas em plantas ==
+Desde a saída das plantas do meio aquático, o seu sucesso está relacionado com a sua capacidade de maximizar o ganho energético e a eficiência reprodutiva, sem comprometer a estabilidade estrutural. 
+As plantas estão submetidas a variadas forças externas, geradas pelo vento e pela gravidade, durante o seu crescimento. Dessa forma, as necessidades de investimento em biomassa(crescimento) destinada à sua sustentação são crescentes. Por sua vez, um investimento em biomassa também deve compreender um aumento em área fotossintéticamente ativa. 
+A eficiência reprodutiva também está relacionada com o aumento das forças de tração às quais os ramos são submetidos. Pois , quanto maior o tamanho de uma copa , assim como sua área, maior será a facilidade de dispersão e captação do pólen e das sementes. Esses investimentos refletem estratégias adaptativas das plantas e pode ser ilustrado através do estudo de variações dependentes de tamanho (alométricas) nas formas de assimilação e sustentação.Portanto, podemos descrever com uma simples equação , a capacidade adaptativa 
+  
+    
+      
+        (
+        ω
+        )
+      
+    
+    {\displaystyle (\omega )}
+   das plantas de acordo com a eficiência de captação energética (E) , a eficiência reprodutiva (R) e a tração mecânica (M) gerada pelos processos descritos, onde , a capacidade adaptativa é a média geométrica entre a eficiência de captação energética e a eficiência reprodutiva, dividida pela tração mecânica gerada, 
+
+  
+    
+      
+        ω
+        =
+        [
+        (
+        E
+        )
+        .
+        (
+        R
+        )
+        
+          ]
+          
+            1
+            
+              /
+            
+            2
+          
+        
+        
+          M
+          
+            −
+            1
+          
+        
+      
+    
+    {\displaystyle \omega =[(E).(R)]^{1/2}M^{-1}}
+   (Niklas, 1994)
+Esta equação representa, de forma simplificada, a relação dos três grande grupos de características selecionáveis ao longo da evolução das plantas, além disso, mostra a dinâmica de interdependência estrutural e fisiológica da planta.
+Ao analisarmos os registros fósseis das plantas, é possível identificar características estruturais que foram gradualmente selecionadas ao longo da evolução. Estudos alométricos feitos em fósseis de esporófitas, do período Siluriano, revelaram que as primeiras ocorrências destes organismos , apresentavam estruturas de ramificações aproximadamente simétricas e com bifurcações simples. A capacidade de desenvolvimento assimétrico, seria adquirida posteriormente e só evidente em registros fósseis mais recentes.
+A assimetria pode ter permitido que os organismos se tornassem mais plásticos em suas respostas às variações do meio ambiente, isso porque , esse tipo de crescimento, permite a planta investir isoladamente em determinadas características (como altura e ramificações laterais), aumentando, dessa forma, a variabilidade morfológica entre os organismos. 
+
+
+== Referências ==
+
+Gayon, J. (2000) History of the Concept of Allometry. American Zoologist 40: 748-758.Gould S.J. (1966) Allometry and Size in Ontogeny and Phylogeny. Biological Reviews 41: 587-640.
+Damuth J (February 2001). "Scaling of growth: plants and animals are not so different"
+Niklas, K. L. (1994)  Plant Allometry: The scaling of form and process. The University of Chicago Press, Chicago.
+Waller, D.M. 1986. The dynamics of growth and form. In Plant Ecology Blackwell Scientific Publications, Oxford, pp. 291-320
+Garland Jr. , T.(1983). “The relation between maximal running speed and body mass in terrestrial mammals” – Jornal of Zoology, London (PDF) http://www.biology.ucr.edu/people/faculty/Garland/Garl1983_JZL.pdf
+R. H. Peters, The ecological implications of body size (Cambridge University Press, Cambridge, 1983).
+K. Schmidt-Nielsen, Scaling: why is animal size so important? (Cambridge University Press, Cambridge, 1984).
+Max Kleiber, Body size and metabolism. Hilgardia,

@@ -1,0 +1,41 @@
+O filo Aquificae é composto por bactérias termofílicas e hipertermofílicas, que florescem em ambientes hidrotermais marinhos e terrestres. Eles foram encontrados em fontes termais, piscinas de enxofre e saídas de ar termais. Os membros do gênero Aquifex, por exemplo, são produtivos em água entre 85 e 95 °C. Eles são os membros dominantes da maioria dos neutros terrestres para fontes termais alcalinas acima de 60 graus Celsius. Eles são autotróficos e são os principais fixadores de carbono nesses ambientes. Eles são verdadeiras bactérias (bactérias do domínio), em oposição aos outros habitantes de ambientes extremos, os Archaea A maioria das espécies de Aquificae são quimiolithoautotrophs; no entanto, alguns também crescem heterotroficamente.. Essas especies de bactérias são gran negativas.
+
+
+== Taxonomia ==
+O filo contém atualmente uma única classe e uma única ordem com três famílias Destas famílias,Aquificaceae e Hydrogenothermaceae são bactérias aeróbicas ou microaerofílicas que derivam energia por oxidação de hidrogênio ou compostos reduzidos de enxofre por oxigênio molecular.Em contraste, a família Desulfurobacteriaceae é composta de anaeróbios estritos e obtém energia pela redução de sulfato, nitrato, enxofre elementar ou outros compostos por hidrogênio molecular.Família: Aquificaceae.
+
+Aquifex
+Hydrogenivirga
+Hydrogenobacter
+Hydrogenobaculum
+ThermocrinisFamília: Hydrogenothermaceae
+
+Hydrogenothermus
+Persephonella
+SulfurihydrogenibiumFamília : Desulfurobacteriaceae
+
+Balnearium
+Desulfurobacterium
+grupo EX-H1
+Thermovibrio
+
+
+=== Aquifex ===
+Aquifex são organismos não formadores de defeitos, gram-negativos, geralmente em forma de bastonete. Eles têm cerca de 2,0-6,0 micrômetros de comprimento e um diâmetro de 0,4-0,5 micrômetros. Como organismos autotróficos, a Aquifex conserta o dióxido de carbono do ambiente para obter o carbono de que necessita. Eles são quimiolitotróficos, o que significa que eles extraem energia para a biossíntese de fontes químicas inorgânicas. As enzimas que este organismo usa para a respiração aeróbica são similares às enzimas encontradas em outras bactérias aeróbicas (Deckert et al. 1998). A. aeolicus requer oxigênio do ar como um receptor de elétrons para oxidar gás hidrogênio (procariontes):
+2 H2 + O2 → 2 H2O
+Aquifex, que significa "fabricante de água", recebeu esse nome porque o produto final dessa reação é a água. Mesmo assim, a maioria dos Aquificales pode usar tiossulfato ou enxofre como fonte de energia (bem como o chlorobium e outras bactérias verdes do enxofre) e produzir ácido sulfúrico e H2S em vez de água. Embora a maioria dos Aquifcales seja estritamente aeróbica, o A. pyrophilus mostrou ser capaz de crescer anaerobicamente ao reduzir o nitrogênio em vez do oxigênio (formando um produto final de N2 em vez de água). Para obter mais informações e diagramas das vias metabólicas conhecidas de A. aeolicus.
+
+
+== Assinaturas moleculares e posição filogenética ==
+Estudos genômicos comparativos identificaram vários indels de assinatura conservada (CSIs) que são específicos para todas as espécies pertencentes ao filo Aquificae e fornecem potenciais marcadores moleculares. A ordem Aquificales pode ser distinguida de Desulfobacteriales por vários CSIs através de diferentes proteínas que são específicas para cada grupo. CSIs adicionais foram encontrados no nível da família e podem ser usados ​​para demarcar Aquificae e Hydrogenothermaceae de todas as outras bactérias. Em paralelo com a distribuição de CSI observada, as ordens dentro do Aquificae são também fisiologicamente distintas uma da outra. Os membros das Desulfurobacteriales são anaeróbios estritos que oxidam exclusivamente o hidrogênio para energia, enquanto aqueles pertencentes ao Aquificales são microaerofílicos e capazes de oxidar outros compostos (como enxofre ou tiossulfato) além do hidrogênio.
+A ramificação profunda das espécies de Aquificae na árvore do gene rRNA foi atribuída a ser um artefato resultante do conteúdo muito alto de G + C de seus operons 16S-23S-5S.  Em contraste com o conteúdo muito alto de G + C de seus rRNAs (ou seja, mais de 62%), o que é necessário para a estabilidade de suas estruturas secundárias em altas temperaturas de crescimento, a inferência de que os Aquificae não constituem um ramo profundo A linhagem é também fortemente apoiada pelos CSIs em várias proteínas importantes (Hsp70, Hsp60, RpoB, RpoB e AlaRS), que suportam sua localização na proximidade do filo Proteobacteria, particularmente a Epsilonproteobacteria.
+
+
+== Filogenia ==
+A taxonomia aceita atualmente baseia-se na Lista de Nomes Prokarióticos com Nomenclatura Permanente (LPSN) e Centro Nacional de Informações sobre Biotecnologia (NCBI) e a filogenia é baseada na liberação LTP baseada em 16S rRNA 123 por The All - Projeto Árvore Viva Espécies.[carece de fontes?]
+
+
+== Referências ==
+Reysenbach A-L, Phylum BI (2001) Aquificae phy. nov. In: Boone DR, Castenholz RW (eds) Bergey’s Manual of Systematic Bacteriology. Springer-Verlag, Berlin, 2nd edn., pp. 359–367
+Eubacteria classification
+Taxonomic subtree[ligação inativa]

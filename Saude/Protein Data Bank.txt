@@ -1,0 +1,12 @@
+O PDB (Protein Data Bank; em português: Banco de Dados de Proteínas) é um banco de dados em 3D de proteínas e ácidos nucléicos. Esses dados, geralmente obtidos através da difração de raios X, ressonância magnética nuclear e crio-microscopia eletrônica são enviados por físicos, biólogos e bioquímicos de todo o mundo. Disponíveis em domínio público, podem ser usados livremente.
+
+
+== Formato PDB ==
+O formato PDB é um padrão para definição de arquivos de estruturas de proteínas. 
+
+
+== Ligações externas ==
+«Página da Protein Data Bank» (em inglês) 
+«Página da Protein Data Bank in Europe» (em inglês) 
+«Página da  RCSB Protein Data Bank» (em inglês) 
+«The Protein Data Bank, um artigo sobre o PDB» (em inglês)

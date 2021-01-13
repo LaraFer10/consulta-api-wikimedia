@@ -1,0 +1,41 @@
+Maraviroc, é um fármaco que pertence a uma nova família de anti-retrovirais, designada de inibidores do CCR5 (inibidores de citoquinas). Este composto, foi autorizado para comercialização a 6 de Agosto de 2007, pelo laboratório farmacêutico Pfizer.
+O HIV é um retrovírus, ou seja é um vírus com genoma de RNA, que infecta as células e, através da sua enzima transcriptase reversa, produz uma cópia do seu genoma em DNA que incorpora no genoma humano, localizado no núcleo da célula infectada.
+Há dois tipos de vírus HIV, o HIV-1 que causa a SIDA, presente em todo o mundo, e o HIV-2, mais frequente na África Ocidental, e também existente em Portugal.
+
+
+== Mecanismo de acção ==
+O HIV reconhece a proteína de membrana CD4, presente nos linfócitos T4 e macrófagos, e pode ter receptores para outros dois tipos de moléculas presentes na membrana celular de células humanas: o CCR5 e o CXCR4. O CCR5 está presente nos macrófagos e o CXCR4 existe em macrófagos e linfócitos T4. O HIV acopla-se a essas células por esses receptores e funde a sua membrana com a da célula. A preferência do HIV por um determinado tipo de molécula designa-se por tropismo. O maraviroc apenas tem acção contra o HIV que usa a molécula CCR5 para infectar a célula. Antes de receitar este medicamento, deve realizar-se ao doente uma prova de tropismo para assegurar que o vírus utiliza o receptor CCR5.
+O maraviroc, actua de forma diferente dos demais anti-retrovirais, pois age fora da célula, bloqueando a entrada do vírus HIV no linfócito T CD4. A sua principal vantagem é ser activo contra o vírus resistente às demais classes de anti-retrovirais, além de ser mais tolerado e seguro, pois actua fora da célula.
+Algumas estirpes do vírus usam o receptor CXCR4, o qual não é bloqueado pelo Maraviroc, podendo assim ocorrer, por pressão selectiva, uma selecção dos viriões com CXR4, logo resistentes ao Maraviroc.
+Apenas as células com receptores CCR5 são bloqueadas por este composto.
+
+
+== Acção terapêutica ==
+Maraviroc, em associação com outros medicamentos anti-retrovirais, é indicado para o tratamento de doentes adultos sujeitos a tratamento prévio, infectados, apenas, pelo VIH-1 com tropismo detectável para o receptor CCR5.
+
+
+== Interacções medicamentosas ==
+Maraviroc é um substrato do citocromo P450 CYP3A4 e glicoproteína P. A administração concomitante com medicamentos que induzam a CYP3A4 pode diminuir as concentrações de Maraviroc e reduzir os seus efeitos terapêuticos. A co-administração com medicamentos que inibam a CYP3A4 pode aumentar as concentrações plasmáticas de maraviroc. Recomenda-se o ajuste da dose quando é administrado concomitantemente com inibidores e/ou indutores da CYP3A4.
+Estudos em microssomas hepáticos humanos e sistemas enzimáticos recombinantes demonstraram que Maraviroc não inibe nenhuma das principais enzimas do citocromo P450, em concentrações clinicamente relevantes (CYP1A2, CYP2B6, CYP2C8, CYP2C9, CYP2C19, CYP2D6 e CYP3A4). O maraviroc não teve efeito clinicamente relevante na farmacocinética de midazolam, contraceptivos orais de etinilestradiol e levonorgestrel, ou na razão de 6β-hidroxicortisol/cortisol urinário, sugerindo não existir inibição ou indução da CYP3A4 in vivo. Com exposições mais elevadas de Maraviroc não se pode excluir a potencial inibição de CYP2D6. O potencial de Maraviroc para afectar a farmacocinética de medicamentos administrados concomitantemente é baixa, com base na informação in vivo e clínica.
+A depuração renal contribui para, aproximadamente, 23% do total da depuração do maraviroc quando este é administrado sem inibidores da CYP3A4. Uma vez que ambos os processos activos e passivos estão envolvidos, existe o potencial para competição para a eliminação com outras substâncias activas eliminadas por via urinária.
+
+
+== Toxicidade ==
+Aumento da bilirrubina, níveis de AST (aspartato aminotransferase) e ALT (alanina aminotransferase), amilase e lipase.
+
+
+== Sobredosagem ==
+A dose mais elevada administrada em estudos clínicos foi de 1200 mg. A reacção adversa limitante da dose foi hipotensão postural.
+O prolongamento do intervalo QT foi observado em cães e macacos em concentrações plasmáticas 6 e 12 vezes, respectivamente, às concentrações esperadas em seres humanos com a dose máxima recomendada de 300 mg duas vezes por dia. No entanto, em estudos clínicos de Fase 3, utilizando a dose recomendada de maraviroc, ou num estudo específico de farmacocinética para avaliar o potencial de maraviroc em prolongar o intervalo QT, não se observou um prolongamento do intervalo QT clinicamente significativo, comparativamente à TSO isolada. Não existe um antídoto específico para a sobredosagem com este anti-retroviral. O tratamento da sobredosagem deve consistir em medidas de suporte gerais, incluindo a manutenção do doente em posição horizontal, avaliação cuidadosa dos sinais vitais, pressão arterial e ECG. Se indicado, a eliminação do maraviroc activo não absorvido pode conseguir-se por emese ou lavagem gástrica. Adicionalmente, para ajudar na remoção da substância activa não absorvida pode também administrar-se carvão activado. Uma vez que maraviroc se liga moderadamente às proteínas, a diálise pode ser benéfica para a remoção deste medicamento.
+
+
+== Comunicação de risco ==
+Ajuste da dose: os médicos devem assegurar-se de que é efectuado o correcto ajuste da dose de maraviroc quando é co-administrado com inibidores e/ou indutores da CYP3A4, uma vez que as concentrações de maraviroc e os seus efeitos terapêuticos podem ser afectados.Informação para os doentes: Os doentes devem ser alertados para que as terapêuticas anti-retrovirais, incluindo o maraviroc, não demonstraram prevenir o risco de transmissão do VIH a outros indivíduos por contacto sexual ou transmissão sanguínea. Devem manter-se as precauções adequadas.
+
+
+== Nomes comerciais ==
+Selzentry®
+Celsentri®
+
+
+== Referências ==

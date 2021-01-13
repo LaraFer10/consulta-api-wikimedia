@@ -1,0 +1,27 @@
+Eletrocirurgia é o procedimento cirúrgico que utiliza a passagem de corrente elétrica pelos tecidos, com finalidades curativas. Também é chamada de cirurgia por radiofrequência. Consiste na aplicação de uma corrente elétrica alternada de alta frequência (radiofrequência) a um tecido biológico como um meio de cortar, coagular, dessecar ou fulgurar o tecido.        Seus benefícios incluem a capacidade de fazer cortes precisos com perda limitada de sangue. Dispositivos eletrocirúrgicos são frequentemente usados durante operações cirúrgicas, ajudando a prevenir a perda de sangue em salas de cirurgia de hospitais ou em procedimentos ambulatoriais. Em procedimentos eletrocirúrgicos, o tecido é aquecido por uma corrente elétrica. Embora dispositivos elétricos que criam uma sonda aquecida possam ser usados para a cauterização de tecido em algumas aplicações, a eletrocirurgia se refere a um método diferente do eletrocautério. A eletrocauterização usa a condução de calor de uma sonda aquecida a alta temperatura por uma corrente elétrica direta (muito semelhante a um ferro de solda).
+A eletrocirurgia, por outro lado, usa corrente alternada de radiofrequência (RF) para aquecer o tecido pela oscilação intracelular induzida por RF de moléculas ionizadas que resulta em uma elevação da temperatura intracelular. Quando a temperatura intracelular atinge 60°C, ocorre a morte celular instantânea. Se o tecido for aquecido a 60–99°C, ocorrem os processos simultâneos de dessecação do tecido (desidratação) e coagulação de proteínas. Se a temperatura intracelular atingir rapidamente 100°C, o conteúdo intracelular sofre uma conversão de líquido em gás, expansão volumétrica massiva e vaporização explosiva resultante.
+A eletrocirurgia de RF é comumente usada em praticamente todas as disciplinas cirúrgicas, incluindo procedimentos cirúrgicos dermatológicos, ginecológicos, cardíacos, plásticos, oculares, otorrinolaringológicos, ortopédicos, urológicos, neurológicos, maxilofaciais e cirúrgicos gerais, bem como alguns procedimentos odontológicos.
+
+
+== Modalidades eletrocirúrgicas ==
+No modo de corte, o eletrodo toca o tecido e uma densidade de potência suficientemente alta é aplicada para vaporizar seu conteúdo de água. Visto que o vapor d'água não é condutor em circunstâncias normais, a corrente elétrica não pode fluir através da camada de vapor. O fornecimento de energia além do limite de vaporização pode continuar se uma tensão suficientemente alta for aplicada (> +/- 200 V)  para ionizar o vapor e convertê-lo em um plasma condutor. Vapor e fragmentos do tecido superaquecido são ejetados, formando uma cavidade.  As superfícies do eletrodo destinadas ao corte geralmente apresentam um fio mais fino ou uma alça de fio, em oposição a uma lâmina mais plana com uma superfície arredondada.
+
+
+== História ==
+O desenvolvimento do primeiro dispositivo eletrocirúrgico comercial é creditado a William T. Bovie, que desenvolveu o primeiro dispositivo eletrocirúrgico enquanto trabalhava na Universidade de Harvard.   O primeiro uso de um gerador eletrocirúrgico em uma sala de cirurgia ocorreu em 1º de outubro de 1926 no Hospital Peter Bent Brigham em Boston, Massachusetts. A operação - remoção de uma massa da cabeça de um paciente - foi realizada por Harvey Cushing. 
+
+
+== Veja também ==
+Cauterização
+Criocirurgia
+Cirurgia a laser
+
+
+== Referências ==
+
+
+== Ligações externas ==
+Um Guia Simples para o Hyfrecator 2000 , Richard J Motley, Schuco International Ltd. Cartilha com dispositivos dermatológicos ambulatoriais de baixa potência, como o dispositivo Hyfrecator 2000.
+Eletrocirurgia para a pele, Barry L. Hainer MD, Richard B. Usatine, MD, American Family Physician (Journal of the American Academy of Family Physicians), 01 de outubro de 2002; 66 (7): 1259-66.
+Electrosurgical Generator Testing Online Journal da Biomedical Engineering Association of Ireland (BEAI), maio de 1997.
+Update on Electrosurgery, Judith Lee, Editora Contribuinte, Outpatient Surgery Magazine, fevereiro de 2002.

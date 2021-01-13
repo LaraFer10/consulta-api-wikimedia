@@ -1,0 +1,15 @@
+Zona de Treinamento são as faixas referentes a cada batimento cardíaco, sendo que, cada um deles tem uma resposta diferente no organismo. São 6 as faixas:
+
+Com a freqüência variando entre 40 a Simon
+50 a 60%, com duração acima de 30 minutos, é trabalhado a queima metabólica;
+60 a 70%, com duração acima de 90 minutos, é trabalhado o controle de peso;
+70 a 80%, com duração entre 8 e 30 minutos, é trabalhado a aeróbica;
+80 a 90%, com duração entre 5 e 6 minutos, é trabalhado o limiar anaeróbico;
+90 a 100%, com duração entre 1 e 5 minutos, é trabalhado o esforço máximo, sistema aeróbico .Cálculo da Zona de Treinamento:
+
+FCT = (FCM – FCR) x Int. + FCR
+LegendaFCT: Freq Cardíaca de TreinamentoFCM: Freq. Cardíaca MáximaFCR: Freq. Cardíaca ReservaInt.: Intensidade
+
+
+== Ligações externas ==
+«Boletim Brasileiro de Educação Física». - Maior portal científico da Educação Física brasileira.

@@ -1,0 +1,37 @@
+A (+)-discodermolida é um policetídeo descoberto recentemente (1990), que se tem descoberto que é um potente inibidor de crescimento de células tumorais. O esqueleto de carbono da molécula é constituído de oito unidades de polipropionato e quatro de acetato, com 13 estereocentros.
+
+
+== História ==
+A discodermolida foi isolada pela primeira vez em 1990 a partir da esponja marinha do Caribe Discodermia dissoluta pelo químico  Sarath Gunasekera e o biólogo Ross Longley, cientistas da Harbor Branch Oceanographic Institution. A esponja contém aproximadamente 0,002% de discodermolida (7 mg/434 g de esponja). Dado que o composto é sensível à luz, a esponja deve ser coletada a uma profundidade mínima de 33 metros. Inicialmente se detectou que a discodermolida tem atividades imunossupressoras e antifúngicas.
+
+
+== Mecanismo de ação ==
+A discodermolida tem demonstrado inibir a proliferação de células humanas ao deter o ciclo celular na fase G2 e na fase M. Hiperestabiliza aos microtúbulos, especialmente prevalentes durante a divisão celular. A hiperestabilização do fuso mitótico ocasiona que o ciclo celular se detenha e ocorra morte celular por apoptose. Em uma variedade de línhas celulares, a atividade tem sido medida a IC50 = 3-80 nM.
+A discodermolida compete com o paclitaxel pela união com os microtúbulos, mas com maior afinidade e também é efetiva em células de câncer resistentes ao paclitaxel e a epotilona.
+
+
+== Síntese total ==
+Tem sido publicadas várias sínteses totais até agora por Schreiber, Smith, Paterson, Marshall e Myles. Também foi publicada uma revisão das várias aproximações sintéticas.
+
+
+== Desenvolvimento clínico ==
+O Harbor Branch Oceanographic Institution licenciou a (+)-discodermolida a Novartis, que começou uma fase 1 de ensaio clínico em 2004. O trabalho com pacientes foi interrompido devido à toxicidade do medicamento. O grupo de pesquisa de Amos B. Smith (em colaboração com Kosan Biosciences) tem um programa de desenvolvimento pré-clínico da droga em andamento.O fornecimento de compostos com necessidade de ensaios clínicos completos não pode ser conseguido por coleta, isolamento e purificação. Até 2005, as tentativas de síntese ou semi-síntese por fermentação não haviam tido êxito. Como resultado, toda a discodermolida usada em estudos pré-clínicos e ensaios clínicos provinha de síntese total em grande escala.
+
+
+== Ligações externas ==
+Michael Freemantle; Scaled-Up Synthesis of Discodermolide; Chemical and Engineering News
+Chemistry and Biology of Discodermolide
+The Betzer and Ardisson Synthesis of (+)-Discodermolide
+Dictiostatina, outra substância oriunda de esponjas com propriedades antitumorais.
+Laulimalida, outro metabólito de esponjas com propriedades antitumorais.
+
+
+== Referências ==
+
+Marcus Vinícius Nora de Souza; Novos produtos naturais capazes de atuar na estabilização de microtúbulos, um importante alvo no combate ao câncer; Quím. Nova vol.27 no.2 São Paulo March/Apr. 2004 - www.scielo.br
+
+
+== Ver também ==
+Epotilona
+Eleuterobina
+Paclitaxel

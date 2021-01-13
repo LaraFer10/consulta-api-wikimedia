@@ -1,0 +1,56 @@
+Hipernatremia é uma concentração anormalmente alta de sódio no sangue. A principal consequência desse quadro é a disfunção do sistema nervoso central, gerada pela desidratação celular, que pode levar à laceração, hemorragia subaracnóidea e subcortical, e trombose dos seios venosos. Os sintomas são geralmente inespecíficos e incluem forte sensação de sede, fraqueza, náuseas, perda de apetite, agitação, delírio, espasmos musculares, estupor e coma. Os níveis normais de sódio no soro são de 135-145 mEq/litro (135-145 mmol/L). A hipernatremia é geralmente definida quando os níveis séricos de sódio são superiores a 145-150 mEq/L. Sintomas graves normalmente só ocorrem quando os níveis estão acima de 160 mEq/L.O distúrbio é classificado como baixo, normal ou aumentado, a partir das causas e de acordo com o volume corporal total do paciente. A hipernatremia com baixo volume extracelular ocorre quando o paciente sofre perda de água pela transpiração, vômitos, diarreia, medicação diurética ou doença renal. A hipernatremia com volume extracelular normal pode ter como causas a febre, diminuição da sede, hiperventilação prolongada e diabetes insipidus, entre outras. A hipernatremia com volume extracelular aumentado pode ocorrer devido a hiperaldosteronismo, pela administração intravenosa excessiva de cloreto de sódio 0.9% ou bicarbonato de sódio hipertônicos em procedimentos de reanimação, afogamentos em água salgada, soluções de hiperalimentação e diálise. Pacientes com hipoproteinemia podem apresentar exames de dosagem de sódio falsamente elevados. O histórico do paciente é capaz de determinar as causas do distúrbio, mas exames laboratoriais complementares, como a dosagem de sódio na urina, podem elucidar quadros de causa desconhecida.Se o quadro tem evolução de algumas horas, a correção rápida do desequilíbrio pode melhorar o prognóstico e evitar o risco de edema cerebral. A via preferencial para correção é a oral, por meio de sondas nasogástricas ou enterais. Caso não seja possível, deve-se realizar a administração intravenosa de soluções hipotônicas, como glicose a 5%, salina a 0,2% e salina a 0,45%. Pacientes com  diabetes insipidus central ou gestacional com quadro de hipernatremia podem receber desmopressina para controle da poliúria. Em pacientes com diabetes insipidus nefrogênico, recomenda-se, se possível, a suspensão da medicação e a administração de diuréticos tiazídicos e/ou anti-inflamatórios não esteroidais (AINEs). A hipernatremia afeta entre 0,3-1% das pessoas internadas em hospitais e acomete mais freqüentemente indivíduos muito jovens ou muito idosos e aqueles com problemas cognitivos.
+
+
+== Causas ==
+Geralmente é causada por falta de consumo de água gerando falta de água no sangue. Dentre as causas mais comuns estão:
+
+Desidratação por sudorese, vômitos ou diarreia, causada por infecção gastrointestinal;
+Desidratação causada por falta de reposição de água, em locais quentes e secos;
+Consumo excessivo de fluídos hipertônicos como refrigerantes, molhos salgados (como molho de soja) ou água salgada.
+Urinar excessivamente (poliúria), possivelmente por falta de hormônio antidiurético como na diabetes insípido, por diabetes mellitus ou por excesso de diuréticos;
+Problemas urinários, como um tumor prostático que gere obstrução das vias urinárias;
+Golpe de calor(insolação);
+Hemorragia interna ou externa, como por fístula ou trauma físico;
+Consumo excessivo de bicarbonato de sódio;
+Síndrome de Conn (hiperaldosteronismo).
+
+
+== Prevalência ==
+É mais comum em idosos, diabéticos, vítimas de queimaduras, pacientes em pós-operatório e em pacientes sofrendo com um estado alterado de consciência em que não podem buscar água.
+
+
+== Sinais e sintomas ==
+O efeito do excesso de sódio sobre o equilíbrio da osmose do plasma sanguíneo pode ser estimada pela seguinte fórmula:
+
+Osmolalidade efetiva = 2 x sódio + glicose/18 + ureia/6
+          (normal = 270 a 290 mOsmL/kg)
+
+Quando os níveis de sódio são maiores que 157 mEq/L, os primeiros sintomas são:
+
+Muita sede (polidipsia);
+Retenção de urina (oligúria);
+Fraqueza;
+Letargia;
+Irritabilidade;
+Sensibilidade neuromuscular;
+Inchaço (edema).Em níveis maiores que 180mEq/L, possíveis complicações neurológicas e musculares que incluem tremores, espasmos, rompimento de neurônios, déficits neurológicos, convulsão e coma, sendo frequentemente fatal.
+
+
+== Tratamento ==
+A primeira medida é beber água com baixos níveis de sódio ou administrar soro fisiológico intravenoso, geralmente sendo suficiente para equilibrar a osmolaridade do organismo. O soro deve ser administrado lentamente, pois os neurônios fizeram o possível para adaptarem ao excesso de sódio e precisam de tempo para bombear o excesso de sódio de volta a matriz celular. Não respeitar esse tempo de adaptação causa edema cerebral, convulsão e rompimento dos neurônios, sendo possivelmente fatal. Após administrar a água e soro deve-se diagnosticar e tratar a causa primária da hiperosmolaridade.Diuréticos de alça de Henle inibindo a reabsorção de sódio podem ser usados para aumentar a excreção de sódio na urina, caso não haja desidratação. 
+
+
+== Referências ==
+
+
+== Bibliografia ==
+Abreu, C.P (2002). «Hipernatremia: uma revisão» (PDF). Medicina Interna. 9 (2): 100-110. Consultado em 14 de setembro de 2016 
+Dutra, V.F.; Tallo, F.S.; Rodrigues, F.T.; Vendrame, L.S.; Lopes, R.D.; Lopes, A.C (2012). «Desequilíbrios hidroeletrolíticos na sala de emergência» (PDF). Revista Brasileira de Clínica Médica. 10 (5): 410-419. ISSN 1679-1010. Consultado em 14 de setembro de 2016  
+Greenbaum, L.A. (2015). «Capítulo 55: Electrolyte and acid-base disorders: subcapítulo 55.2: Regulation of osmolality and volume». In:  Kliegman, R.M.; Stanton, B.F.; St. Geme III, J.W.; Schor, N.F.; Behrman, R.E. Nelson Textbook of Pediatrics (em inglês). volume 1 20ª ed. Filadélfia: Elsevier. p. 348. ISBN 978-1-4557-7566-8. Consultado em 14 de setembro de 2016 
+Howard, C.; Berl, T. (2012). «Capítulo 3: Distúrbios do balanço hídrico: hiponatremia e hipernatremia». In:  Lerma, E.V.; Berns, J.S.; Nissenson, A.R. CURRENT: Nefrologia e Hipertensão 1ª ed. São Paulo: AMGH. pp. 28–31. ISBN 9788563308610. Consultado em 14 de setembro de 2016 
+Kuruvilla, J. (2008). «Capítulo 5: Surgical Components of Critical Care Nursing: Fluid and Electrolyte Imbalance». Essentials of Critical Care Nursing (em inglês) 1ª ed. Nova Délhi: Jaypee Brothers. p. 329. ISBN 81-8061-920-6. Consultado em 14 de setembro de 2016 
+Lin, M.; Liu, S.J.; Lim, I.T (agosto de 2005). «Disorders of water imbalance». Emergency Medicine Clinics of North America (em inglês). 23 (3): 749-770. ISSN 0733-8627. Consultado em 14 de setembro de 2016  
+Marini, J.J.; Wheeler, A.P. (1999). «Capítulo 13: Distúrbios hidroeletrolíticos». Terapia intensiva: o essencial 2ª ed. São Paulo: Manole. 227 páginas. ISBN 85-204-0807-9. Consultado em 14 de setembro de 2016 
+Muhsin, S.A.; Mount, D.B (março de 2016). «Diagnosis and treatment of hypernatremia». Clinical Endocrinology & Metabolism (em inglês). 30 (2): 189-203. ISSN 1945-7197. Consultado em 12 de setembro de 2016  
+Reynolds, R.M.; Padfield, P.L.; Seckl, J.R (março de 2006). «Disorders of sodium balance». The BMJ (em inglês). 332 (7543): 702-705. ISSN 1756-1833. Consultado em 12 de setembro de 2016  
+Vieira Neto, O.M.; Moysés Neto, M (2003). «Distúrbios do equilíbrio hidroeletrolítico» (PDF). Revista da Faculdade de Medicina de Ribeirão Preto. 36 (2/4): 325-337. ISSN 2176-7262. Consultado em 14 de setembro de 2016

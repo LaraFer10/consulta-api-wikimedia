@@ -1,0 +1,34 @@
+O melhoramento genético é um conjunto de técnicas de biologia molecular e embriologia utilizadas em seres vivos para aumentar a frequência de alelos desejáveis em indivíduos de uma população.Para ser iniciado um programa de melhoramento, é necessário haver variabilidade genética na população, e o progresso do programa será maior tanto quanto for maior essa variabilidade.O melhoramento genético é uma área muito utilizadas em campos da biologia, agronomia, engenharia florestal e zootecnia. Lembrando que o processo de melhoramento deve ser contínuo para sua maior efetividade.
+O melhoramento genético aumenta a eficiência produtiva dos seres vivos, utilizando as técnicas de Seleção artificial e de cruzamento (hibridização) entre seres vivos da mesma espécie e raça. Mais recentemente, ferramentas moleculares se tornaram disponíveis, possibilitando a "MAS", que vem do inglês para "seleção assistida por marcadores moleculares".
+Em animais, o desempenho animal é função da ambiência, da nutrição e da genética. A eficiência de produção animal se desenvolve à medida em que esses três fatores se desenvolvem.
+
+
+== Processos de melhoramento ==
+Em uma população, existem fenótipos que interessam mais ao homem, seja para a produção de carne, ovos, leite, couro, madeira, óleo etc. O objetivo do melhorista é, portanto, aumentar a eficiência produtiva desses organismos. No melhoramento clássico, existem duas formas de se melhorar indivíduos: Seleção e Cruzamento.A natureza, ao longo de milênios, selecionou os organismos através da seleção natural. Já a seleção artificial realizada em um programa de melhoramento e visa influenciar diretamente nos acasalamentos (não sendo mais aleatório). Essa manipulação dos acasalamentos - escolhendo os machos e fêmeas que irão se acasalar - levará a um aumento na proporção de loci com alelos que codifiquem características fenotípicas favoráveis nos descendentes. A seleção consiste em escolher os pais da próxima geração que apresentam um maior número de alelos favoráveis (exemplosː crescimento, resistência a doenças, produção de sementes, produção de leite etc.). 
+O cruzamento consiste em acasalar indivíduos diferentes geneticamente (exemploː Bovino Gir x Bovino Holandês) para desfrutar da heterose e complementariedade. Heterose é o fenômeno que ocorre quando o desempenho médios dos filhos é superior à média dos pais, esse fenômeno ocorre porquê a maioria das características desejáveis apresentam caráter dominante, e, ao se cruzar indivíduos puros diferentes, há um aumento no número dos loci em heterozigose (exemploː AaBbCcDd) esse fato leva a progênie possuir mais alelos favoráveis.
+O "contrário" da heterose seria a endogamia, ou seja, indivíduos, com grande número de loci em homozigose (exemploː AAbbCCddeeffGG). Alguns alelos, principalmente os recessivos, quando em homozigose, podem levar o indivíduo a expressar características deletérias, como síndromes, deformidades e diminuição do desempenho das características de baixa herdabilidade, que são controladas por muitos genes, como as características relacionadas a reprodução, resistência a doenças etc.
+Os seres vivos possuem vários pares de cromossomos. Cada um destes possui genes que são os responsáveis pela expressão das características dos indivíduos. Na divisão celular que antecede a formação dos gametas masculinos (espermatozoides) e feminino (óvulo), os pares de cromossomos se separam e, assim, cada um reúne a metade do número de cromossomos da célula original. 
+Cada novo indivíduo recebe, ao se formar, um conjunto de cromossomos do pai e outro da mãe, sendo, então, restabelecido o número de cromossomos da espécie. Na reconstituição dos cromossomos, a predominância ou não dos genes para uma mesma característica determinará se ela será expressada ou não. A observação de muitas gerações nos permite, ainda, identificar características de alta herdabilidade, ou de baixa herdabilidade. 
+Na medida em que se promove o melhoramento genético por um programa de seleção eficaz, e que este se perpetua por muitas gerações mantendo-se o mesmo critério de seleção, há redução da variabilidade genética como resultado do incremento de homozigose.
+
+
+== Endogamia ==
+Endogamia é consequência da homozigose existente nos loci do indivíduo. Ao se acasalarem indivíduos aparentados (maior percentagem de alelos idênticos por descendência), aumenta-se a probabilidade de características deletérias que estavam "escondidas" pela heterozigose serem expressas. Isso ocorre porque, em geral, alelos deletérios são dominados por alelos favoráveis. Exemploː Aa; sendo o alelo "a" negativo e o "A" positivo, a expressão do alelo "a" não seria demonstrada por dominância genética do alelo dominante "A". Portanto, ao acasalarem indivíduos próximos, os alelos deletérios aumentam grandemente as chances de serem expressos no fenótipo.
+
+
+== Heterose ==
+É o fenômeno contrário à endogamia. Consiste na superioridade genética média dos filhos em relação à média dos pais.
+
+
+== Herdabilidade (h²) ==
+Parâmetro genético atribuído a cada característica observável no fenótipo. Assume valores (teóricos) de 0 a 1. Características podem ter valores de herdabilidade altos (acima de 0,5), médio (0,3 a 0,5) e baixos (abaixo de 0,3), o valor da herdabilidade indica a facilidade ou dificuldade de melhorar uma característica. Como exemplo, em animais, características relacionadas à carcaça (peso, altura, largura) são de alta herdabilidade, portanto o fenótipo de um indivíduo é um bom indicativo do seu valor genético. Esse tipo de característica ganha menos com a heterose e deprime menos com a endogamia.
+
+
+== Brasil ==
+O melhoramento genético foi iniciado no Brasil em 1903, com a introdução do gênero Eucalyptus por Navarro de Andrade para a produção de dormentes para estradas de ferro.
+
+
+== Ver também ==
+
+
+== Referências ==

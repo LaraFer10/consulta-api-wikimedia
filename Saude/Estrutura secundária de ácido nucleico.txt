@@ -1,0 +1,4 @@
+Estrutura secundária de ácido nucleico são as interações de pares de bases dentro de um único polímero de ácido nucleico ou entre dois polímeros. Pode ser representado como uma lista de bases que estão emparelhadas em uma molécula de ácido nucleico. As estruturas secundárias de DNA e RNA biológico tendem a ser tendem a ser diferentes: DNA biológico existe principalmente como hélices duplas totalmente de pares de bases emparelhadas, enquanto RNA biológico é de cadeia simples e muitas vezes forma complexas interações de emparelhamento de bases devido à sua maior capacidade de formar ligações de hidrogênio derivadas do grupo hidroxila extra no açúcar riboseEm um contexto não biológico, a estrutura secundária é uma consideração vital no design de ácido nucléico de estruturas de ácido nucléico para nanotecnologia de DNA e computação de DNA, uma vez que o padrão de pareamento de bases determina a estrutura geral das moléculas.
+
+
+== Referências ==

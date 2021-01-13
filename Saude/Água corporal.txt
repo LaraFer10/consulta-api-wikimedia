@@ -1,0 +1,118 @@
+Na fisiologia, a água corporal corresponde ao volume de água de um corpo animal que está contido nos tecidos, no sangue, nos ossos e em outras partes. As percentagens de água corporal contidas em vários compartimentos de fluido do corpo, somam a Água Corporal Total (ACT). Essa água constitui uma fração significativa do corpo humano, tanto em peso quanto em volume. Garantir a quantidade certa de água corporal é parte do equilíbrio de fluidos, um aspecto da homeostase.
+
+
+== Distribuição corpórea ==
+Em peso, o macho adulto humano médio é de aproximadamente 60% de água e a fêmea adulta média é de aproximadamente 55%. Pode haver considerável variação na porcentagem de água corporal com base em vários fatores como idade, saúde, ingestão de água, peso e sexo. Em um grande estudo de adultos de todas as idades e de ambos os sexos, o corpo humano adulto teve uma média de ~65% de água. No entanto, isso variou substancialmente por idade, sexo e adiposidade (quantidade de gordura na composição corporal). O valor da fração de água por peso nesta amostra foi de 58 ± 8% de água para machos e de 48 ± 6% para fêmeas. A água corporal constitui 93% do peso corporal de um recém-nascido, enquanto algumas pessoas obesas são de apenas 15% em peso de água. Isto é devido a como o tecido adiposo não retém a água, bem como o tecido magro. Essas médias estatísticas variam de acordo com fatores como tipo de população, idade das pessoas amostradas, número de pessoas amostradas e metodologia. Portanto, não há, e não pode ser, uma figura que seja exatamente a mesma para todas as pessoas, por essa ou qualquer outra medida fisiológica.
+A maior parte da água corporal do animal está contida em vários fluidos corporais. Estes incluem fluido intracelular; fluido extracelular; plasma sanguíneo; fluido intersticial; e fluido transcelular.  A água também está contida dentro dos órgãos, nos fluidos gastrointestinal, cerebrospinal, peritoneal, e ocular. O tecido adiposo contém cerca de 10% de água, enquanto o tecido muscular contém cerca de 75%.No Atlas da Fisiologia Humana de Netter, a água do corpo é dividida nos seguintes compartimentos:
+
+Fluido intracelular (2/3 da água do corpo) é fluido contido nas células. Em um corpo de 72 kg contendo 40 litros de fluido, cerca de 25 litros é intracelular, que totaliza 62,5%. Os textos de Jackson afirmam que 70% do fluido corporal é intracelular.
+Líquido extracelular (1/3 da água do corpo) é fluido contido em áreas fora das células. Para um corpo de 40 litros, cerca de 15 litros é extracelular, que equivale a 37,5%.
+plasma sanguíneo (1/5 do líquido extracelular). Destes 15 litros de fluido extracelular, o volume de plasma é em média 3 litros, ou 20%.
+fluido intersticial (4/5 do líquido extracelular)
+Fluido transcelular (também conhecido como "terceiro espaço", normalmente ignorado em cálculos) contido dentro de órgãos, como os fluido do trato gastrointestinal, os fluidos cerebrospinais, peritoneal e do olho.
+
+
+== Medição ==
+
+
+=== Diluição e equilíbrio ===
+A Água Corporal Total pode ser determinada usando a Espectrometria de massa de fluxo contínuo medição da abundância de  Deutério em amostras da respiração dos indivíduos.  Uma dose conhecida de água deuterada (Água pesada, D2O) é ingerido e deixada a equilibrar no interior do corpo da água. O instrumento FA-MS mede então a relação deutério para hidrogênio (D: H) no vapor de água da respiração exalada. A água corporal total é então medida com precisão pelo aumento do conteúdo de deutério da respiração em relação ao volume de D2O ingerido.
+Diferentes substâncias podem ser usadas para medir diferentes compartimentos de fluidos:
+Água Corporal Total: água tritiada ou água pesada.
+Fluido extracelular: inulina
+Plasma sanguíneo: Evans Blue (corante)Fluido intracelular pode então ser estimado, subtraindo o fluido extracelular da Água Corporal Total.
+
+
+=== Análise de impedância bioelétrica ===
+Outro método de determinação da percentagem de Água Corporal Total (ACT%) é via Análise de impedância bioelétrica (BIA). No método tradicional BIA, uma pessoa encontra-se em um berço e os eletrodos localizados são colocados nas mãos e nos pés descalços. O gel eletrolítico é aplicado primeiro e, em seguida, é introduzida uma corrente fraca de 50 kHz de frequência. Esta forma de onda AC permite a criação de uma corrente dentro do corpo através da pele muito capacitiva sem causar um fluxo DC ou queimaduras, e limitada na faixa de corrente ~20mA para segurança.A BIA surgiu como uma técnica promissora devido à sua simplicidade, baixo custo, alta reprodutibilidade e não invasiva. As equações de predição da BIA podem ser generalizadas ou específicas da população, permitindo que esse método seja potencialmente muito preciso. Selecionar a equação apropriada é importante para determinar a qualidade dos resultados.
+Para fins clínicos, os cientistas estão desenvolvendo um método de BIA multifrequencial que pode melhorar ainda mais a capacidade do método de prever o nível de hidratação de uma pessoa. O novo equipamento BIA segmentar que usa mais eletrodos pode levar a medições mais precisas de partes específicas do corpo.
+
+
+== Cálculo ==
+Em humanos, a Água Corporal Total pode ser estimada com base no peso corporal pré-mórbido (ou ideal) e no fator de correção.
+
+  
+    
+      
+        A
+        C
+        T
+        =
+        p
+        e
+        s
+        o
+        ∗
+        C
+      
+    
+    {\displaystyle ACT=peso*C}
+  
+C é um coeficiente para a porcentagem esperada de peso composto de água livre. Para adultos, homens não idosos, C = 0,6. Para adultos idosos do sexo masculino, homens ou mulheres desnutridos, C = 0,5. Para adultos idosos ou mulheres desnutridas, C = 0,45. O Défice de Água Corporal Total (DACT) pode então ser aproximado pela seguinte fórmula:
+
+  
+    
+      
+        D
+        A
+        C
+        T
+        =
+        A
+        C
+        T
+        ∗
+        (
+        1
+        −
+        [
+        N
+        a
+        ]
+        a
+        
+          /
+        
+        [
+        N
+        a
+        ]
+        m
+        )
+      
+    
+    {\displaystyle DACT=ACT*(1-[Na]a/[Na]m)}
+  
+Onde [Na]a = concentração de sódio alvo (geralmente 140 mEq/L), e [Na]m = concentração de sódio medido.
+O valor resultante é o volume aproximado de água livre necessário para corrigir um estado hipernatrêmico. Na prática, o valor raramente se aproxima da quantidade real de água livre necessária para corrigir um déficit devido às perdas insensíveis, produção urinária e diferenças na distribuição de água entre os pacientes.
+
+
+== Funções ==
+A água no corpo do animal desempenha várias funções: como solvente para o transporte de nutrientes; como um meio para excreção; um meio para controle de calor; como lubrificante para juntas; e para o amortecimento de impactos.
+
+
+== Obtenção de água ==
+A maneira usual de adicionar água a um corpo é bebendo. A água também entra no corpo com alimentos, especialmente aqueles ricos em água, como vegetais, legumes e frutas.
+A quantidade dessa água que é retida nos animais é afetada por vários fatores. As quantidades de água variam com a idade do animal. Quanto mais velho o animal vertebrado, maior a massa óssea relativa e menor o conteúdo de água no corpo.
+Nos estados de doença, onde a água do corpo é afetada, o compartimento de fluido ou compartimentos que mudaram podem dar pistas sobre a natureza do problema, ou problemas. A água corporal é regulada por hormônios, incluindo o hormônio antidiurético (Vasopressina/AHD), a aldosterona e o peptídeo natriurético atrial.
+
+
+=== Perda de água ===
+
+A contração de volume é uma diminuição no volume do fluido corporal, com ou sem perda concomitante de osmólitos. A perda de água corporal e do fluido corporal é especificamente denominada desidratação.A perda de sódio correlaciona-se aproximadamente com a perda de líquido do meio extracelular, uma vez que o sódio tem uma concentração muito maior no meio extracelular (ME) do que no meio intracelular (MI). Em contraste, K+ tem uma concentração muito maior no MI do que no ME e, portanto, sua perda correlaciona-se com a perda de fluido do MI, já que a perda de K+ do ME faz com que o K+ no MI passe para fora das células, arrastando a água com ele, por osmose. [carece de fontes?]
+
+
+== Referências ==
+
+
+== Leitura adicional ==
+Desordens do Líquido, Eletrólito e Ácido-Base na Prática de Pequenos Animais (Em inglês)
+Fundamentos da Fisiologia Animal (Em inglês)
+A Enciclopédia da Nutrição Animal Agrícola (Em inglês)
+Osmorregulação Animal (Em inglês)
+Ciência da Nutrição Animal (Em inglês)
+
+
+== Links externos ==
+MeSH Corporal Água Corporal
+MeSH de fluidos Corporais Compartimentos de fluidos Corporais

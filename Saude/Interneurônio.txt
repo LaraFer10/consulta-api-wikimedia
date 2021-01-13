@@ -1,0 +1,6 @@
+Um interneurônio (também chamado de neurônio relay, neurônio de associação, ou neurônio de circuito local) é um neurônio multipolar que se conecta a um neurônio aferente e um neurônio eferente em um caminho neural. Como os neurônios motores, o corpo celular dos interneurônios são sempre localizados no sistema nervoso central (SNC).
+Os interneurônios são encontrados em circuitos reflexos, oscilações neuronais, e em outras redes neuronais. Tem função integradora: a informação sensitiva trazida ao SNC é processada ou interpretada por ele. A interação entre os interneurônios pode permitir que o cérebro realize funções complexas, como aprendizado e tomada de decisão.
+Os interneurônios podem ser subdivididos em dois grupos: interneurônios locais e interneurônios de retransmissão (relay).  Internais locais têm axônios curtos e formam circuitos com neurônios próximos para analisar pequenos pedaços de informação. Os interneurônios relay têm longos axônios e conectam circuitos de neurônios em uma região do cérebro com aqueles de outras regiões.
+
+
+== Referências ==

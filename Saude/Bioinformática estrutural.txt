@@ -1,0 +1,141 @@
+Bioinformática estrutural é um ramo da bioinformática focado no estudo de estruturas de moléculas, como por exemplo, DNA, RNA, proteínas e outros compostos menores. Um dos grandes desafios dessa área é compreender como essas moléculas interagem, as suas funções e observar suas estruturas. Algumas técnicas utilizadas são o alinhamento e comparação de sequências. Atualmente uma das grandes aplicações da bioinformática estrutural é o desenvolvimento de novos fármacos, que tem crescido devido ao grande investimento de grandes empresas.
+
+
+== Introdução ==
+
+
+=== Estrutura proteica ===
+A estrutura de uma proteína está diretamente relacionada à sua função. Logo, obter uma estrutura com alta precisão é de grande importância para compreensão do papel de uma determinada proteína estudada. Além disso, a presença de grupos químicos em locais específicos permite identificar que proteínas atuem como enzimas, catalisando várias reações químicas. Em geral, as estruturas proteicas são classificadas em quatro níveis: primário (sequências), secundário (conformação local da cadeia polipeptídica), terciário (estrutura tridimensional da proteína) e quaternário (associação de múltiplas estruturas polipeptídicas). A bioinformática estrutural trata principalmente das interações entre estruturas, levando em consideração suas coordenadas espaciais. Assim, a estrutura primária é melhor analisada nos ramos tradicionais da bioinformática. No entanto, a sequência implica restrições que permitem a formação de conformações locais conservadas da cadeia polipeptídica, como alfa-hélice, folhas beta e alças (estrutura secundária ). Além disso, interações fracas estabilizam a dobra de proteínas, como por exemplo as ligações de hidrogênio. Logo, identificá-las é de grande importância. As interações podem ser intracadeias, isto é, quando ocorrem entre partes do mesmo monômero de proteína (estrutura terciária) ou inter-cadeias, isto é, quando ocorrem entre estruturas diferentes (estrutura quaternária).
+
+
+=== Visualização da estrutura ===
+
+A visualização da estrutura de proteínas é uma questão de grande importância para a bioinformática estrutural. Ela permite que os usuários observem representações estáticas ou dinâmicas das moléculas, permitindo também a detecção de interações que poderiam ser usadas para inferir sobre os mecanismos moleculares estudados. 
+Os tipos mais comuns de visualização são:
+
+Cartoon: esse tipo de visualização destaca as diferenças de estrutura secundária em proteínas. Em geral, as hélices α são representadas como uma espécie de parafuso, as fitas-β como setas e loops como fios.
+Linhas: cada resíduo de aminoácido é representado por linhas finas, o que permite a visualização de toda a estrutura dos resíduos com um baixo custo para a renderização gráfica.
+Superfície: nesta visualização, é mostrada a forma externa da molécula.
+Sticks: cada ligação covalente entre átomos de aminoácidos é representada como um bastão. Esse tipo de visualização é o mais usado para visualizar interações entre aminoácidos.
+
+
+=== Estrutura de DNA ===
+A estrutura clássica de dupla hélice do DNA foi inicialmente descrita por Watson e Crick (e contribuições de Rosalind Franklin). A molécula de DNA é composta por três substâncias: um grupo fosfato, uma pentose e uma base nitrogenada (adenina, timina, citosina ou guanina). A estrutura de dupla hélice do DNA é estabilizada por ligações de hidrogênio formadas entre pares de bases: adenina com timina (A-T) e citosina com guanina (C-G). Muitos estudos estruturais de bioinformática têm sido propostos visando entender as interações entre o DNA e pequenas moléculas (usados na produção de novos medicamentos).
+
+
+=== Interações ===
+Interações são contatos estabelecidos entre partes de moléculas em diferentes níveis. Eles são responsáveis ​​pela estabilização das estruturas proteicas e desempenham uma gama variada de atividades. Em bioquímica, as interações são caracterizadas pela proximidade de grupos de átomos ou regiões de moléculas que apresentam um efeito um sobre o outro, como forças eletrostáticas, ligação de hidrogênio e efeito hidrofóbico. As proteínas podem executar vários tipos de interações, como interações proteína-proteína, interações proteína-peptídeo, interações proteína-ligante e interação proteína-DNA.
+
+
+=== Cálculo de contatos ===
+O cálculo de contatos é uma tarefa de grande importância na bioinformática estrutural, sendo vital para a previsão correta de estruturas e do enovelamento de proteínas, estabilidade termodinâmica, interações proteína-proteína e proteína-ligante, além de análises de docking e dinâmica molecular.
+Tradicionalmente, os métodos computacionais usam a distância de corte entre os átomos (também chamada de cutoff) para detectar possíveis interações . Tal detecção é realizada com base na distância euclidiana e ângulos entre átomos de determinados tipos. No entanto, a maioria dos métodos baseados em distância euclidiana simples não pode detectar contatos ocluídos. Portanto, métodos livres de corte, como a triangulação de Delaunay, ganharam destaque nos últimos anos. Além disso, a combinação de um conjunto de critérios, por exemplo, propriedades físico-químicas, distância, geometria e ângulos, tem sido usada para melhorar a determinação de contatos por meios computacionais. 
+
+
+== Banco de dados de proteínas (PDB) ==
+
+O Protein Data Bank (PDB) é um banco de dados de estruturas tridimensionais de macromoléculas biológicas, como proteínas, DNA e RNA. O PDB é gerenciado por uma organização internacional denominada Worldwide Protein Data Bank (wwPDB ou na tradução "Banco Mundial de Dados de Proteína"), composta por várias organizações locais: PDBe, PDBj, RCSB e BMRB. Eles são responsáveis ​​por manter cópias dos dados do PDB disponíveis na Internet, sem nenhum custo. 
+O número de dados de estruturas tridimensionais disponíveis no PDB tem aumentado a cada ano, sendo obtidos principalmente por métodos experimentais de cristalografia de raios-X, espectroscopia de ressonância magnética ou por crio-microscopia eletrônica.
+
+
+=== Formato de dados ===
+O formato PDB (.pdb) é um antigo formato de arquivo de texto usado para armazenar informações de estruturas tridimensionais usadas pelo PDB. Devido a restrições na concepção da estrutura de formato, o formato PDB não permite grandes estruturas contendo mais de 62 cadeias ou 99999 registros de átomos.
+Recentemente, o PDB lançou o formato PDBx/mmCIF (arquivo de informações cristalográficas macromoleculares) . Desde 2014, o formato PDB foi substituído como distribuição padrão do arquivo PDB pelo formato de arquivo PDBx/mmCIF (.cif). Embora o formato PDB contenha um conjunto de registros identificados por uma palavra-chave de até seis caracteres, o formato PDBx / mmCIF usa uma estrutura baseada em chave e valor, em que a chave é um nome que identifica algum recurso e o valor é a informação variável .
+
+
+== Comparação de estruturas ==
+
+
+=== Alinhamento estrutural ===
+Alinhamento estrutural é um método de comparação entre estruturas tridimensionais com base em sua conformação. Esse método pode ser usado para inferir a relação evolutiva entre um conjunto de proteínas, mesmo com baixa similaridade de sequência. Alinhamento estrutural implica em sobrepor uma estrutura 3D sob uma segunda, girando e transladando átomos para posições correspondentes (em geral, usando os átomos de Cα ou mesmo os átomos pesados ​​do esqueleto C, N, O e Cα). Geralmente, a qualidade do alinhamento é avaliada com base no RMSD (root-mean-square deviation ou na tradução "desvio quadrático médio quadrático") das posições atômicas, ou seja, a distância média entre os átomos após a sobreposição:
+
+  
+    
+      
+        
+          R
+          M
+          S
+          D
+        
+        =
+        
+          
+            
+              
+                1
+                N
+              
+            
+            
+              ∑
+              
+                i
+                =
+                1
+              
+              
+                N
+              
+            
+            
+              δ
+              
+                i
+              
+              
+                2
+              
+            
+          
+        
+      
+    
+    {\displaystyle \mathrm {RMSD} ={\sqrt {{\frac {1}{N}}\sum _{i=1}^{N}\delta _{i}^{2}}}}
+  onde δi é a distância entre o átomo i e um átomo de referência correspondente na outra estrutura ou a coordenada média dos N átomos equivalentes. 
+Em geral, o resultado do RMSD é medido na unidade Ångström (Å), que é equivalente a 10−10 m. Quanto mais próximo de zero o valor do RMSD, mais semelhantes são as estruturas.
+
+
+=== Assinaturas estruturais baseadas em gráficos ===
+Assinaturas estruturais, também chamadas de fingerprints, são representações de padrões de macromoléculas que podem ser usadas para inferir semelhanças e diferenças. Comparações entre um grande conjunto de proteínas usando RMSD ainda são um desafio devido ao alto custo computacional dos alinhamentos estruturais. Assim, assinaturas estruturais baseadas em padrões de distância gráfica entre pares de átomos têm sido usadas para determinar vetores de identificação de proteínas e detectar informações não triviais. Além disso, álgebra linear e o aprendizado de máquina têm sido usados ​​para agrupar assinaturas de proteínas, detectar interações proteína-ligante, prever ΔΔG e propor mutações baseadas na distância euclidiana.
+
+
+== Modelagem de proteínas e outras macromoléculas ==
+Estruturas tridimensionais de macromoléculas podem ser obtidas por vários métodos, como por exemplo cristalografia de raios-X, espectroscopia de ressonância magnética ou por crio-microscopia eletrônica. Entretanto, esses processos podem apresentar altos custos e, às vezes, algumas estruturas dificilmente podem ser estabelecidas, como por exemplo as proteínas da membrana. Assim, abordagens computacionais surgem como uma alternativa para determinar estruturas 3D de macromoléculas. Os métodos de previsão de estrutura são classificados em modelagem comparativa e modelagem de novo.
+
+
+=== Modelagem comparativa ===
+A modelagem comparativa, também conhecida como modelagem por homologia, é o método para construção de estruturas tridimensionais a partir da sequência de aminoácidos de uma proteína alvo (target) e um modelo com estrutura tridimensional conhecida (template). A literatura descreve que proteínas evolutivamente relacionadas tendem a apresentar uma estrutura tridimensional conservada. Além disso, sequências de proteínas relacionadas à distância com identidade menor que 20% podem apresentar diferentes enovelamentos . Portanto, para modelagem por comparação recomenda-se que as sequências apresentem pelo menos 25% de identidade.
+
+
+=== Modelagem de novo ===
+Em bioinformática estrutural, a modelagem de novo, também conhecido como modelagem ab initio, refere-se a abordagens para obter estruturas tridimensionais a partir de sequências sem a necessidade de uma estrutura 3D conhecida. Apesar dos novos algoritmos e métodos propostos nos últimos anos, a previsão da estrutura proteica de novo ainda é considerada uma das questões ainda pendentes na ciência moderna .
+
+
+=== Avaliação de estruturas ===
+Após a modelagem da estrutura, é necessária uma etapa adicional de validação da estrutura. Isso é necessário pois muitos algoritmos e ferramentas de modelagem comparativa e 'de novo' usam heurísticas para tentar montar a estrutura 3D, o que pode gerar muitos erros. Algumas estratégias de validação consistem em calcular pontuações de energia e compará-los com estruturas determinadas experimentalmente. Por exemplo, a função DOPE é uma pontuação de energia usada pela ferramenta MODELLER para determinar o melhor modelo.Outra estratégia de validação é calcular ângulos  φ e ψ do backbone de todos os resíduos do modelo da proteína e construir um gráfico de Ramachandran. A cadeia lateral de aminoácidos e a natureza das interações do backbone da proteína restringem esses dois ângulos e, assim, a visualização das conformações permitidas pode ser realizada com base no gráfico de Ramachandran. Uma alta quantidade de aminoácidos alocados em posições não permissivas do gráfico é uma indicação de uma modelagem de baixa qualidade.
+
+
+== Docking molecular ==
+
+O acoplamento molecular (também chamado de ancoramento molecular, docking molecular ou simplesmente de docking) é um método usado para prever as coordenadas de orientação de uma molécula (ligante) quando conectada a outra (receptor ou alvo). O acoplamento molecular visa prever possíveis poses (modos de ligação) do ligante quando ele interage com regiões específicas, geralmente restritas por uma caixa, no receptor. As ferramentas de ancoragem podem usar campos de força para estimar uma pontuação para classificar as melhores poses que favorecem melhores interações.
+Em geral, protocolos de docking são usados ​​para prever as interações entre pequenas moléculas e proteínas. No entanto, o docking também pode ser usado para detectar associações e modos de ligação entre proteínas, peptídeos, DNA ou RNA, carboidratos e outras macromoléculas.
+
+
+=== Triagem virtual ===
+A triagem virtual (virtual screening) é uma abordagem computacional usada para triagem rápida de grandes bibliotecas de compostos para descoberta de medicamentos. Normalmente, a triagem virtual usa algoritmos de encaixe para classificar pequenas moléculas com maior afinidade com um receptor alvo. 
+Nos últimos tempos, várias ferramentas têm sido usadas para avaliar o uso da triagem virtual no processo de descoberta de novos medicamentos. No entanto, problemas como falta de informações, entendimento impreciso das propriedades das moléculas semelhantes a drogas, funções fracas de pontuação ou estratégias de acoplamento insuficientes dificultam o processo de docking. Assim, a literatura tem descrito que a triagem virtual ainda não é considerada uma tecnologia madura. 
+
+
+== Dinâmica molecular ==
+
+Dinâmica molecular é um método computacional para simular interações entre moléculas e seus átomos durante um determinado período de tempo. Tal método permite observar o comportamento das moléculas e suas interações, considerando o sistema como um todo. Para calcular o comportamento dos sistemas e, assim, determinar as trajetórias, uma dinâmica molecular pode usar a equação de movimento de Newton, além de usar métodos de mecânica molecular para estimar as forças que ocorrem entre as partículas (campos de força).
+
+
+== Ligações externas ==
+Informática Biomédica- Faculdade de Filosofia, Ciências e Letras de Ribeirão Preto - Universidade de São Paulo.
+Programa de pós-graduação em bioinformática
+Programa de pós-graduação em bioinformática UFMG
+
+
+== Referências ==

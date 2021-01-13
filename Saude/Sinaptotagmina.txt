@@ -1,0 +1,15 @@
+Synaptotagminas são um grupo de 15 proteínas de  membrana caracterizadas por uma região N-terminal transmembranar (do inglês, TMR), uma região variábel e domínios C2 C-terminais (C2A e C2B). Há outros grupos de proteínas (nominalmente Ferline, E-Syts, MCTPs, RIMs, Munc13s e B/K) que possuem domínios C2, sendo esses aparentados com as sinaptotagminas.
+
+
+== Função ==
+Com base em sua distribuição no cérebro/sistema endócrino e suas propriedades bioquímicas (em especial a capacidade de ligação à cálcio dos domínios C2 de certas sinaptotagminas), essas proteínas tem como função proposta a detecção do nível de cálcio para regulação da liberação de neurotransmissores e para secreção hormonal. Apesar das sinaptotagminas compartilharem um domínio estrutural semelhante e um alto grau de homologia nos domínios C2, nem todas as sinaptotagminas são capazes de fazer ligação com cálcio. Na verdade, apenas 8 das 15 são capazes de tal feito. As sinaptotagminas ligantes de cálcio são as de número 1,2,3,5,6,7,9 e 10.
+As sinaptotagminas que se ligam à cálcio agem como sensores de Ca2+ e estão envolvidas em:
+
+(i) O acoplamento inicial das vesículas sinápticas à membrana pré-sináptica através de interação com  neurexina ou SNAP-25(ii) Etapas tardias do processo de fusão da vesícula sináptica com a membrana pré-sináptica evocado por Ca2+.A ligação da sinaptotagmina ligada à cálcio ao complexo SNARE inibe o efeito de prensa da complexina, permitindo a fusão de vesículas e a continuação do processo de exocitose.
+
+
+== Referências ==
+
+
+== Ligações externas ==
+MeSH Synaptotagmin

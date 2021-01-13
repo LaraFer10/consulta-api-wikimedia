@@ -1,0 +1,8 @@
+CRISPR-BEST,(abreviatura de CRISPR-Base Editing SysT), também conhecido como Sistema de edição de base CRISPR é um conjunto de ferramentas de engenharia genética com um método para criar mutações em actinomicetos sem exigir uma quebra de fita dupla do DNA. A introdução de quebras de fita dupla geralmente cria instabilidade genética que força as bactérias a reorganizar ou mesmo excluir grandes partes de seus cromossomos - um fenômeno que os pesquisadores desejam evitar quando as células de engenharia sejam capazes de produzir compostos bioativos e novos antibióticos. O CRISPR-BEST resolve alguns problemas de edição de bactérias actinomicetos relacionadas às tecnologias CRISPR.
+
+
+== História ==
+A idéia de desenvolver o CRISPR-BEST surgiu após os pesquisadores desejarem usar um método convencional do CRISPR para desativar um gene específico, a fim de produzir novas variantes do antibiótico quirromicina. Mas, em vez de inativar apenas o gene desejado, eles perderam grandes partes do cromossomo nessas experiências (no total, mais de 1,3 milhão de pares de bases). Assim, eles começaram a procurar métodos para obter a eficiência acentuada pelo CRISPR, mas, ao mesmo tempo, evitando a clivagem do cromossomo, o que provavelmente causou grandes deleções.No final, os pesquisadores foram capazes de encontrar uma variante do CRISPR para manter a eficiência do CRISPR, o que permite atingir facilmente genes de interesse. Mas, por outro lado, usa condições muito brandas para introduzir as mutações que introduzem muito menos estresse nas células e, assim, evitam a instabilidade genética dos antibióticos produzidos pelas bactérias.
+
+
+== Referências ==

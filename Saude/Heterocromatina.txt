@@ -1,0 +1,20 @@
+Heterocromatina é a parte da cromatina condensada. São regiões de material genético não codificantes, isto é, que não participam de transcrições, logo são inativas.
+
+
+== Visualização ==
+Quando os cromómeros são tratados com substâncias químicas que reagem com o DNA (como o corante de Feulgen), são reveladas visualmente regiões distintas com características de coloração diferentes. As regiões densamente coradas são chamadas de heterocromatina e as regiões pouco coradas são denominadas eucromatina. A distinção reflecte o grau de compactação ou helicoidização do DNA no cromossoma. Os padrões de heterocromatina e eucromatina ao longo de um cromossoma são bons marcadores citogenéticos.A heterocromatina presenta o material genético mais compactado e aparece com maior frequência no núcleo denso (parte mais escura da cromatina) e existe em maior quantidade em células menos activas.
+
+
+== Classificação ==
+
+
+=== Heterocromatina constitutiva ===
+A heterocromatina pode ser classificada como constitutiva ou facultativa. A variante constitutiva é definida como sendo uma série repetitiva de nucleotídeos, responsável por  constituir os telômeros e centrômeros dos cromossomos durante processos de divisão celular. Essa classe de heterocromatina é similar em todas as regiões do organismo, podendo ser tida como invariável de célula para célula, quando se analisa um único indivíduo.
+
+
+=== Heterocromatina facultativa ===
+A heterocromatina facultativa - conforme sua nomenclatura sugere - consiste em segmentos de material genético que, em algumas células do organismo, se encontram na forma ativa (eucromatina); ao passo que, em outras, não participam da sínteses de proteína, tratando-se de heterocromatina.  
+Como exemplo, há a cromatina sexual ou corpúsculo de Barr. Em mamíferos, o sexo feminino é determinado pela presença de um par de cromossomos X nas células do indivíduo durante as divisões celulares. Assim, fêmeas desse grupo, inclusive as mulheres, possuem os mesmos tipos de informações contidas em dois cromossomos sexuais separados, sendo um herdado do pai e outro da mãe. Para evitar a síntese excessiva das proteínas codificadas pelos genes dessas cromossomas em relação às que seriam produzidas por machos, as células somáticas de mamíferos fêmea inativam um deles (que passa a ser denominado cromatina sexual), de modo que apenas o outro participa de traduções. Aleatoriamente, em algumas, o cromossomo X inativado é de origem paterna; enquanto as restantes inativam o de procedência materna. Tal alternância permite que meninas não exponham características genéticas exclusivas do pai nem totalmente maternas, mas um misto de caracteres. Essa variação na atividade de tais cromossomas, de célula para célula, caracteriza suas moléculas de DNA como heterocromatina facultativa.Mamíferos machos, por outro lado, não devem apresentar esse corpúsculo em suas células, já que elas têm como cromossomos sexuais um Y e apenas um X. Logo, inativar o X implicaria prejuízos severos, em vez de benefícios. A exceção são os homens que portam uma anomalia denominada Síndrome de Klinefelter, marcada pela posse de dois X e um Y. Em portadores dessa síndrome, a presença de um cromossoma X sobressalente implica a formação de cromatina sexual.Já mulheres que apresentam Síndrome de Turner têm o apenas um X. Dessa forma, também não exibem corpúsculos de Barr. Por fim, convém expor que mulheres portadoras da Trissomia do X apresentam o cariótipo XXX. Portanto, nesses indivíduos, há um par de cromatinas sexuais, frente à posse de dois cromossomos X de atividade desnecessária, em vez de somente um.
+
+
+== Referências ==

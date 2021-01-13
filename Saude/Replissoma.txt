@@ -1,0 +1,34 @@
+Replissoma é o conjunto funcional de proteínas que formam uma complexa máquina molecular, a qual realiza a replicação do DNA.
+Inicialmente, a replissoma desenrola a fita dupla do DNA, resultando em duas fitas simples. Para cada uma das fitas simples, uma nova sequência complementar de DNA é sintetizada. No final, o resultado é a formação de duas fitas duplas de DNA que são cópias da fita dupla original. 
+Estruturalmente, a replissoma é constituída por dois complexos replicativos de polimerase. Um complexo sintetiza a fita líder, enquanto o outro sintetiza a fita retardada. 
+A replissoma é composta por diversas proteínas com diferentes funções para maximizar a precisão e a velocidade de síntese.
+Principais componentes:
+
+Helicase
+Topoisomerase
+Primase
+DNA polimerase I
+DNA polimerase II
+DNA polimerase III
+Ligase
+
+SBB
+
+
+== Complexo de replicação eficiente ==
+Este maquinário de replicação molecular, chamado replissoma, traz uma eficiência  e garantia no processo de replicação da molécula de DNA. Permitindo até o sucesso  de replicação de  do cromossomo da bactéria Escherichia coli,  que pode ser replicado em até 40 minutos, tendo sua eficiência e segurança em todo processo da replicação. O genoma da E. coli contém aproximadamente 5 milhões de pares de bases e o processo de copia acontece em uma velocidade aproximada de 2.000 nucleotídeos por segundo, tendo em vista que segundo o experimento de Graham Cairns-Smith,  E. coli possui duas  forquilhas de replicação para copiar seu genoma inteiro e com isso tendo que se movimentar em uma velocidade de 1.000 nucleotídeos por segundo.  O replissoma  é  este  complexo que permite que tais processos, como a replicação de DNA, aconteça com velocidade e precisão.
+O replissoma e as proteínas acessórias realizam uma diversidade de etapas na forquilha de replicação as proteínas  Topoisomerase e Helicase, realizam a abertura e o desenrolamento da dupla-hélice, depois de desenrolada, proteínas de ligação a filamento simples evitam que a dupla hélice se forme novamente. Enquanto os  dois centros catalíticos, interagem de forma coordenada os diversos eventos de replicação dos filamentos continuo e descontinuo.
+A montagem deste maquinário complexo é um processo ordenado e organizado tendo inicio em locais chamados de origens, em E.coli a replicação  tem inicio em uma origem fixa ( um locus denominado oriC), depois segue em em direções opostas de acordo com com as forquilhas de replicação até se fundirem, seguido das etapas:
+1. Ligação de uma proteína denominada DnaA a uma sequencia de 13 pares de base (pb) específica denominada "DnaA box";
+2. Em seguida a origem é deselicoidizada em um grupo de nucleotídeos A e T;
+3. Após a deselicoidização, proteínas DnaA adicionais se ligam ás regiões de filamentos simples;
+4. Proteínas DnaB se ligam e deslizam de 5' para 3' para iniciar a abertura da hélice na forquilha de replicação;
+5. Logo a Primase e a holoenzima DNA Pol III, são recrutadas para a forquilha de replicação por meio de interação proteína-proteína, ocorrendo isto as síntese do Dna  é finalmente inciada.
+6. E embora a DnaA não esteja presente na maquinaria do replissoma essa proteína é que posiciona o replissoma no local correto no cromossomo circular para a replicação.
+
+
+== Bibliografia ==
+Introdução à genética, Griffiths, Wessler, Lewontin, Gesbart, suzuki, Miller, 8º Edição, Guanabara Koogan, 2006.
+Introdução à genética, Griffiths, Wessler, Carroll, Doesbley, 11º Edição, Guanabara Koogan, 2016.
+Biologia Molecular da Célula, Bruce Alberts (Autor), Alexander Johnson (Autor), Julian Lewis (Autor), David Morgan (Autor), Martin Raff (Autor), Keith Roberts (Autor), Peter Walter (Autor), John Wilson (Autor), Tim Hunt (Autor), Ardala Elisa Breda Andrade Cristiano Valim Bizarro Gaby Renard, 6º Edição, Artmed, 2017.
+Replisome[[1]]

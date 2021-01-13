@@ -1,0 +1,43 @@
+A reestenose é a recorrência da estenose, um estreitamento de um vaso sanguíneo, levando à redução do lúmen, restringindo assim o fluxo sanguíneo. A reestenose geralmente refere-se a uma artéria ou a outro vaso sanguíneo que se obstruiu, depois de um tratamento para normalizar o fluxo e posteriormente voltou a se obstruir. É um evento adverso comum em procedimentos endovasculares, como cirurgias vasculares, cirurgias cardíacas e angioplastia, frequentemente utilizados para tratar os danos vasculares da aterosclerose e outras doenças relacionadas aos vasos sanguíneos.Quando a reestenose ocorre em um stent, é chamada de reestenose intra-stent. Se ocorrer após uma angioplastia com balão, é chamada de restenose pós-angioplastia. O limiar de diagnóstico para reestenose em ambos os casos é que a redução do lúmen seja maior do que 50 por cento.Para o diagnóstico de reestenose, os exames de imagem não são a única maneira de se detectar o fluxo sanguíneo comprometido. Alguns sintomas também podem sugerir a ocorrência de reestenose, por exemplo, um paciente com stent nas coronárias, que desenvolve reestenose pode apresentar dor torácica recorrente (angina) ou sofrer um ataque cardíaco (infarto do miocárdio), embora estes sintomas não sejam indicadores definitivos de reestenose, sendo necessário outros exames para confirmar. Nem todos os casos de reestenose levam a sintomas clínicos, como também nem todos são assintomáticos.
+
+
+== Taxas ==
+As taxas de reestenose diferem entre dispositivos (por exemplo, implantes de stent, angioplastia com balão, etc.) e a localização do procedimento, isto é, no coração (por exemplo, artérias coronárias) ou em vasos periféricos (por exemplo, artéria poplítea.
+
+
+=== Taxas em procedimentos cardíacos ===
+Nos procedimentos cardíacos, a angioplastia com balão tem sido associada a uma alta incidência de reestenose, com taxas variando de 25 a 50 por cento, e a maioria desses pacientes necessita de uma outra angioplastia no prazo de seis meses.Um estudo de 2010 na Índia, comparando stents farmacológicos com stents de metal convencionais, concluiu que ocorreu a restenose em 23,1 por cento dos pacientes com stents farmacológicos e em 48,8 por cento dos pacientes com stents de metal convencionais. Concluiu também que pacientes do sexo feminino têm maior fator de risco para desenvolver reestenose.
+
+
+=== Taxas em procedimentos periféricos ===
+Nos procedimentos periféricos, as taxas também são elevadas. Um estudo de 2003 de implantes de stent em casos de isquemia grave dos membros, revelou depois de um ano de pesquisa, taxas de reestenose em 32,3 por cento dos pacientes com stent seletivo e 34,7 por cento dos pacientes com stent sistemático.
+
+
+== Diagnóstico ==
+
+
+=== Imagem ===
+A reestenose do vaso é normalmente detectada pela angiografia, mas também pode ser detectada por ultrassonografia e outras técnicas de imagem.
+
+
+=== Perda tardia ===
+A perda tardia é sinônimo de reestenose e, literalmente, significa perda do lúmen após um procedimento destinado desobstruir o vaso. É a medição do percentual relativo ou a alteração absoluta no diâmetro luminal mínimo ao longo dos meses após um procedimento vascular, como a implantação de um stent. É um parâmetro útil na avaliação da eficácia das intervenções vasculares, sendo contudo, apenas parte da terminologia descritiva dos resultados das intervenções vasculares. Por exemplo, o implante de um stent, em um primeiro momento, proporcionará um ganho significativo no lúmen da artéria, porque o procedimento abre o vaso. No entanto, ao longo do tempo, a resposta fisiológica  do organismo ao "corpo estranho" pode causar uma hiperplasia, ocorrendo uma reação ao stent, que literalmente o "empurra" de volta, estreitando o vaso e perdendo parcialmente o ganho de lúmen no procedimento. O ganho final do diâmetro do lúmen é a diferença entre ganho absoluto após o procedimento e perda tardia, e é uma medida da eficácia do implante do stent.
+
+
+=== Percentual de reestenose ===
+O percentual de reestenose é a medida da diferença observada entre o diâmetro luminal mínimo do vaso e o seu diâmetro de referência, dividido pelo diâmetro de referência. Multiplicando-se o resultado por cem, obtém-se o percentual de reestenose. É uma medida importante necessária para calcular a reestenose binária (que define o grupo de maior risco, com mais de 50 por cento de reestenose). O diâmetro de referência é calculado pela média entre o diâmetro luminal mínimo da parte saudável do vaso e o diâmetro mínimo da porção lesionada do vaso.Existem controvérsias sobre a precisão na medida do diâmetro luminal mínimo da lesão, uma vez que muitas lesões ateroscleróticas podem criar "vales e colinas" irregulares dentro do lúmen, tornando difícil a estimativa. Algumas pesquisas indicam que o cálculo da "estenose da área" também é uma medida válida da estenose real dos vasos, em comparação com a estenose do diâmetro luminal isolado. No entanto, este procedimento requer uma análise adicional, sendo necessário um rastreamento da borda do lúmen. Existem softwares de computador disponíveis para executar automaticamente este procedimento. Pode ser útil obter tanto o diâmetro percentual, quanto a estenose percentual da área, especialmente porque as duas porcentagens podem nem sempre se correlacionar entre si.
+
+
+=== Restenose binária ===
+A reestenose binária é definida como uma redução na estenose de diâmetro percentual de 50 por cento ou mais. Também é conhecido como "estenose binária". O termo "binário" significa que os pacientes são colocados em dois grupos, aqueles que têm mais que 50 por cento de estenose e aqueles que têm menos que 50 por cento de estenose. A reestenose binária é um método epidemiológico de análise de estenose pelo diâmetro, observando-se não apenas um único paciente, mas também realizando técnicas estatísticas em grupos de pacientes, para determinar médias e variáveis preditivas.
+
+
+== Causas ==
+Os procedimentos para desobstrução dos vasos sanguíneos geralmente têm um efeitos benéficos e duradouros para o paciente. No entanto, em alguns casos, o próprio procedimento pode causar um maior estreitamento do vaso ou reestenose, com o decorrer do tempo. A angioplastia é comumente usada para tratar obstruções das artérias coronárias ou periféricas, como nos membros. Um balão inserido no estreitamento "esmaga" as placas que estão obstruindo o vaso contra as paredes deste, ampliando assim lúmen e aumentando o fluxo sanguíneo. No entanto, a ação danifica as paredes das artérias, e elas respondem usando mecanismos fisiológicos para reparar o dano. O stent é uma estrutura em malha, de formato tubular, implantado no interior do vaso para mantê-lo permanentemente aberto, permitindo o fluxo sanguíneo normal ou para reforçar um enfraquecimento na parede da artéria (aneurisma). A artéria pode reagir ao stent, percebê-lo como um corpo estranho e responder através de uma resposta do sistema imunológico, que leva ao estreitamento adicional próximo ou dentro do stent. O dano à parede do vaso sanguíneo durante a angioplastia, desencadeia a resposta fisiológica, que pode ser dividida em duas etapas. O primeiro estágio, que ocorre imediatamente após o trauma nos tecidos, é a formação de trombos, coágulos de sangue no local do dano, que dificultam ainda mais o fluxo sanguíneo. Normalmente é acompanhado por uma resposta imuno-inflamatória. O segundo estágio tende a ocorrer de três a seis meses depois da cirurgia, e é o resultado da proliferação de células no local do implante, na parede muscular lisa no vaso (hiperplasia).
+
+
+== Prevenção ==
+Na primeira fase da reestenose, a administração de fármacos anti-plaquetas imediatamente após a cirurgia, reduz significativamente a chance de formação de trombos. Existem também os stents de liberação de fármacos, revestidos com esses fármacos, reduzindo assim o risco de reestenose.
+
+
+== Referências ==

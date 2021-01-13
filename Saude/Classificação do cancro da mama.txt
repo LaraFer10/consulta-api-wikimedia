@@ -1,0 +1,34 @@
+A classificação do cancro da mama divide o cancro da mama em categorias de acordo com diferentes esquemas, cada um deles com base em diferentes critérios e com diferentes finalidades. As principais categorias são os tipos histopatológicos, o grau do tumor, o estádio do tumor e a expressão de proteínas e genes.
+A classificação permite selecionar o melhor tratamento. A eficácia de determinado tratamento é avaliada de forma independente para cada um dos tipos de cancro. O tratamento para um tipo de cancro da mama pode não ser eficaz para outros tipos. Alguns cancros da mama são agressivos e colocam a vida em risco, devendo ser tratados de forma igualmente agressiva, o que acarreta efeitos secundários graves. Outros tipos são menos agressivos e podem ser tratados com terapêuticas menos agressivas, como lumpectomia.
+
+
+== Sistemas ==
+
+
+=== Resumo ===
+Existem vários sistemas para classificar os diferentes tipos de cancro da mama. A classificação dentro de cada um destes sistemas influencia a escolha do tratamento e o prognóstico da doença. A descrição de um cancro da mama deverá preferencialmente incluir todos os aspetos. Uma classificação completa engloba o tipo histopatológico, grau, estádio, estado dos recetores hormonais e a presença ou ausência de determinados genes.
+
+Histopatologia. Embora o cancro da mama tenha diferentes histopatologias, a vasta maioria dos cancros da mama têm origem no revestimento epitelial dos ductos ou lóbulos da mama e são classificados como carcinoma ductal mamário. Um carcinoma in situ é a proliferação de células cancerosas dentro do tecido epitelial sem que haja ainda invasão do tecido envolvente. Por outro lado, um carcinoma invasivo é o cancro que já invadiu o tecido envolvente.
+Grau. A avaliação do grau foca-se na comparação entre a aparência das células cancerosas com as células do tecido mamário normal. As células normais de um órgão como a mama são diferenciadas, o que significa que assumem formas específicas que refletem a sua função nesse órgão. As células cancerosas perdem essa diferenciação. No cancro, as células que noemalmente se alinhariam de forma ordenada para formar os ductos lactíferos tornam-se desorganizadas. A divisão celular descontrola-se e os núcleos celulares tornam-se menos uniformes. Os patologistas classificam as células em muito diferenciadas (baixo grau), moderadamente diferenciadas (grau intermédio) ou pouco diferenciadas (alto grau). Quando menos diferenciado for o cancro, pior é o prognóstico.
+Estádio. A classificação TNM para o estadiamento do cancro da mama baseia-se no tamanho do cancro no local do corpo onde teve origem e nos sítios para onde possa eventualmente ter migrado. Estas características são descritas pelo tamanho do tumor (T), se se espalhou ou não para os gânglios linfáticos (N) das axilas, pescoço e interior do peito e, por último, se o tumor apresenta ou não metástases (M). Os tumores de maior tamanho, disseminação e com metástases encontram-se em estádios mais avançados e apresentam pior prognóstico. Os principais estádios são:
+Estádio 0: corresponde a doença in situ ou à doença de Paget do mamilo. O estádio O é uma condição pré-cancerosa, podendo ser um carcinoma dusctal in situ (CDIS) ou carcinoma lobular in situ (CLIS).
+Estádios 1–3: o cancro está restrito à mama ou aos gânglios linfáticos regionais.
+Estádio 4: cancro metastático, que apresenta prognóstico menos favorável.
+Estado dos recetores. As células apresentam recetores na superfície, no citoplasma e no núcleo. Os mensageiros químicos, como as hormonas, ligam-se a estes recetores e provocam alterações na célula. As células cancerosas podem ter ou não muitos tipos diferentes de recetores. Os três recetores mais importantes para a classificação do cancro da mama são o receptor de estrogénio (ER), o recetor de progesterona (PR) e o recetor HER2/neu. As células com ou sem estes recetores são designadas ER positivas (ER+), ER negativas (ER-), PR positivas (PR+), PR negativas (PR-), HER positivas (HER+) e HER negativas (HER-). O cancro cujas  células não possuem qualquer um destes recetores designa-se "triplo negativo".
+Classificação baseada no ADN. Existem várias técnicas laboratoriais que analisam o ADN ou ARN das células cancerosas. A observação de determinadas mutações de ADN ou perfis de expressão génica pode orientar a seleção de tratamentos mais adequados, os quais podem incidir especificamente sobre estas mutações ou antever a partir destas alterações quais as terapias não dirigidas que serão mais eficazes.
+Outros sistemas.
+Os modelos computacionais como o Adjuvant! podem conjugar vários aspetos de classificação de acordo com algoritmos validados e apresentar diagramas para apoio às decisões de tratamento.
+O índice de prognóstico USC/Van Nuys (VNPI) classifica o carcinoma ductal in situ em categorias de risco com tratamentos específicos associados.
+A escolha da terapêutica pode ser bastante influenciada pela avaliação das comorbidades.
+
+
+== Histopatologia ==
+A classificação histopatológica baseia-se nas características observáveis ao microscópio ótico de amostras de biópsia. O conjunto dos três tipos histopatológicos mais comuns corresponde a cerca de 75% do total de cancros da mama:
+
+Carcinoma ductal invasivo - 55% dos cancros da mama</ref>
+Carcinoma ductal in situ - 13%
+Carcinoma lobular invasivo - 5%A taxa de sobrevivência a cinco anos tanto para os carcinomas ductais e lobulares invasivos foi de aproximadamente 85% em 2003. Por outro lado, o carcinoma ductal in situ é por si inofensivo, embora no caso de não ser tratado 60% destas lesões se tornem invasivas num prazo de 40 anos.
+
+
+=== Classificação da OMS ===
+A classificação da Organização Mundial de Saúde de tumores da mama, de 2003, que inclui tanto tumores benignos como malignos, recomenda a distinção dos seguintes tipos patológicos:

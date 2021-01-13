@@ -1,0 +1,125 @@
+Existem diferentes tipos de testes de HIV, sendo possível detectar anticorpos, antígenos ou RNA em soro, plasma, fluido oral, mancha de sangue seco ou urina. Os exames variam desde detectar anticorpos na saliva como o RNA do vírus no sangue, variando o custo e a precisão do resultado.
+
+
+== Terminologia ==
+O período de janela é o tempo a partir da infecção até um teste poder determinar qualquer mudança. O período de janela médio com um teste de anticorpos é de 22 dias. O teste de antígenos reduz o período de janela para aproximadamente 16 dias, e o teste de ácido nucleico (TAN) reduz este período para 12 dias[1].
+Os exames de anticorpos são relatados como positivos ou negativos. O desempenho destes exames é descrito em termos de:
+
+sensibilidade — a percentagem dos resultados que serão positivos quando o HIV estiver presente.
+especificidade — a percentagem dos resultados que serão negativos quando o HIV não estiver presente.Todos os exames de diagnóstico têm limitações, e, algumas vezes, o seu uso pode produzir resultados errôneos ou questionáveis.
+
+falso positivo — os resultados indicam o HIV está presente, quando, na verdade, não está.
+falso negativo — os resultados não identificam o HIV, que está presente.Reações não específicas, hipergamaglobulinemia, ou a presença de anticorpos dirigidos a outros agentes infecciosos que podem ser antigenicamente similares ao HIV podem produzir resultados falso positivo. Doenças auto-imunes, como o lúpus eritematoso sistêmico, também podem causar resultados falso positivo. A literatura científica documentou mais de 60-70 fatores diferentes que podem causar uma reação positiva nos testes de HIV, além da infecção por HIV passada ou presente — incluindo gripe, vacina contra gripe, herpes, artrite reumatóide, malária, tuberculose, anticorpos para hanseníase — e até mesmo gravidez. Está disponível uma lista de fatores conhecidos por causar resultados falso positivo, junto com referências à literatura médica para cada fator [2].
+
+
+== Princípios ==
+
+
+=== Examinando o sangue do doador e os produtos celulares ===
+Os exames selecionados para examinar o sangue do doador, os componentes sanguíneos e os produtos celulares oferecem um alto grau de confiança de que o HIV não está presente. Uma combinação de testes de anticorpos, antígenos e ácido nucléico é usada pelos bancos de sangue nos países ocidentais. A OMS estimou que, em 2000, o exame inadequado do sangue em alguns países resultou em um milhão de novas infecções por HIV.
+
+
+=== Diagnóstico da infecção por HIV ===
+Exames diferentes são selecionados para o diagnóstico da infecção por HIV numa pessoa em particular, o que requer um alto grau de confiança de que o HIV está presente. Nos Estados Unidos, isto é alcançado por um algoritmo usando dois exames para detectar anticorpos, que são a resposta do corpo à infecção. Se anticorpos são detectados por um exame inicial baseado no método ELISA, então um segundo teste baseado no procedimento Western blot determina o tamanho dos antígenos que se ligam aos anticorpos no kit de teste. Este algoritmo de teste tem uma precisão de 99,5%, o que significa que de um teste com 100.000 pessoas não infectadas são esperados 500 resultados falso positivo. O valor previsível deste algoritmo de teste depende da prevalência da infecção por HIV no grupo sendo testado. Se 10% do grupo testado está infectado por HIV, menos de 2% dos resultados positivos serão falso positivo. Mas se menos que 1 pessoa em 7.500 pessoas do grupo sendo testado está infectada por HIV, então mais de 90% dos resultados positivos serão falso positivo.
+
+
+=== Direitos humanos ===
+A Declaração Política da UNAIDS/OMS sobre o exame de HIV[3] define que as condições sob as quais pessoas submetem-se a testes de HIV devem ser apoiadas em uma aproximação dos direitos humanos, que preza por respeito aos princípios éticos. De acordo com estes princípios, a conduta dos testes de HIV nos indivíduos deve ser:
+
+confidencial
+acompanhada por um conselheiro
+conduzido com o consentimento informado, o que significa ambos informados e voluntários.A realidade é que o estigma e a discriminação continuam a fazer pessoas que podem ter sido expostas à infecção por HIV pararem de consentir o teste de HIV.
+O teste de HIV e o aconselhamento têm um papel essencial na prevenção de infecções por HIV pelo mundo.
+
+
+== Testes de anticorpo ==
+Testes de anticorpo são projetados especificamente para a rotina de testes de HIV em adultos, são baratos, e são muito precisos. Se a pessoa não corre um risco real de infecção, então estes não são necessários.
+Os testes de anticorpo apresentam resultados falsos negativo durante o período de janela, que varia de três semanas a seis meses a partir do momento da infecção até que o sistema imune produza quantidades detectáveis de anticorpos. Durante este período de janela, uma pessoa infectada pode transmitir o HIV para outras, sem que sua infecção seja detectada por um teste de anticorpo. A terapia anti-retroviral durante o período de janela pode atrasar a formação de anticorpos e estender este período para além de 12 meses.
+Espera-se que uma pessoa exposta ao HIV produza anticorpos que se liguem especificamente ao HIV. O desenvolvimento de testes de anticorpo para o HIV foi complicado porque todo sangue humano tem uma grande quantidade de anticorpos que se ligam aos componentes dos kits de teste de anticorpo. Por esta razão, o sangue a ser testado é diluído, numa tentativa de detectar anticorpos que foram produzidos após a exposição ao HIV. Fabricantes de todos estes kits de testes definiram que "não existe um padrão único reconhecido para se determinar a presença ou a ausência de anticorpos de HIV no sangue humano".
+
+
+=== ELISA ===
+O exame ELISA (do acrónimo inglês de Enzyme-Linked Immuno Sorbent Assay) foi o primeiro exame amplamente empregado. Ele tem uma alta sensibilidade. A baixa especificidade deste teste ocorre porque os anticorpos se ligam aos antígenos nos kits de exame "por acaso", mesmo que a pessoa nunca tenha sido exposta ao HIV. Cerca de 80% dos exames ELISA positivos são seguidos por um exames Western blot negativo e, conseqüentemente, considerados como falso positivo.
+O teste procede pelo método ELISA geral: o soro sanguíneo da pessoa é diluído 400 vezes e aplicado a uma placa com antígenos HIV. Alguns dos anticorpos do soro podem se ligar a estes antígenos. A placa é então lavada para que se removam todos os outros componentes do soro. Então um "anticorpo secundário" especialmente preparado — um anticorpo que se liga a anticorpos humanos — é aplicado à placa, seguido de lavagens. Este anticorpo secundário está antes relacionado quimicamente a uma enzima. Assim a placa irá conter enzima em quantidade proporcional a de anticorpos secundários. Um substrato para a enzima é aplicado, e a catálise da enzima leva a uma mudança de cor ou fluorescência. Como os resultados ELISA são dados em números, o aspecto mais controverso deste teste é decidir o ponto divisor entre positivo e negativo.
+
+
+=== Western blot ===
+O exame Western blot usa o procedimento geral Western blot. Células infectadas por HIV são abertas e as proteínas nelas contidas são colocadas em uma placa de gel à qual uma voltagem é aplicada. Proteínas diferentes irão se mover com velocidades diferentes, dependendo de seu tamanho, enquanto sua carga elétrica é nivelada por uma substância chamada lauril sulfato de sódio. Uma vez as proteínas bem separadas, elas são transferidas para uma membrana e a rotina continua similar ao ELISA: o soro sanguíneo diluído é aplicado à membrana e os anticorpos do soro podem se ligar a algumas das proteínas do HIV. Os anticorpos que não se ligarem são removidos na lavagem, e os anticorpos secundários — anticorpos com capacidade de se ligar aos anticorpos humanos — detectam primeiramente para quais proteínas do HIV a pessoa possui anticorpos.
+Não existe um critério universal para a interpretação do exame Western blot: o número de faixas virais que devem estar presentes varia de definição para definição. Se nenhuma faixa viral é detectada, o resultado é negativo. Se pelo menos uma faixa viral para cada um dos grupos de produtos gênicos GAG, POL e ENV estão presentes, o resultado é positivo. Tal critério, porém, não é sensível o suficiente para o uso clínico, já que a ausência de anticorpos para a p24 ou a p31 é relativamente comum até mesmo em pacientes que estão claramente infectados por HIV. Assim a aproximação entre os três produtos gênicos e a interpretação do Western Blot não foi adotada na saúde pública ou na prática clínica. O padrão da Association of State da Territorial Public Health Laboratory Directors (ASTPHLD) e do Centers for Diseases Control and Prevention ignora os resultados p31 e interpreta a presença de faixas gp41 e gp120/160 como um resultado positivo. Exames em que um número de bandas virais menor do que o requerido são tidos como indeterminado. Uma pessoa que teve um resultado indeterminado deve ser testada novamente, já que testes posteriores podem ser mais conclusivos. Quase todas as pessoas infectadas por HIV com resultados Western Blot indeterminados irão desenvolver um resultado positivo quando testadas de novo em um mês. Resultados indeterminados persistentes por um período maior do que seis meses sugerem que os resultados não são devido a uma infecção por HIV.
+O exame Western blot é normalmente realizado depois de um teste ELISA positivo, porque muitas amostras que são negativas para o ELISA possuem anticorpos para uma ou mais proteínas do teste Western blot e forneceriam resultados imprecisos, especialmente quando interpretados de acordo com o critério que requer a completa ausência de todas das faixas virais e "não virais" para que um resultado Western blot seja dado como negativo em vez de intermediário.
+
+
+=== Testes laboratoriais remotos ===
+
+Os testes rápidos de anticorpos são imunoensaios qualitativos objetivados para o uso como um exame laboratorial remoto para o diagnóstico de infecção por HIV. Tais testes devem ser usados em conjunto com a condição clínica, história e fatores de risco da pessoa examinada. A especificidade dos testes rápidos de anticorpos para populações de baixo risco ainda não foi avaliada. Estes testes devem ser usados com algoritmos apropriados designados para a validação estatística de resultados dos testes rápidos de HIV. O Lab-on-a-chip elimina a necessidade de equipamentos caros e pessoal altamente treinado recursos que não estão disponíveis em muitas áreas onde a epidemia de HIV é mais grave.
+Se nenhum anticorpo para o HIV for detectado, isso não necessariamente significa que a pessoa não foi infectada com o HIV. Pode levar vários meses desde a infecção pelo HIV para que a resposta imunológica atinja níveis detectáveis, tempo o qual o teste laboratorial remoto para os anticorpos de HIV não vai identificar a situação de infecção. Uma história de risco compreensiva e um julgamento clínico devem ser considerados antes de se concluir que um indivíduo não está infectado com o HIV.
+O OraQuick é um teste de anticorpos que dá o resultado em 20 minutos. O sangue, o plasma ou fluido oral é misturado em uma ampola com uma solução reveladora, e os resultados são lidos de um pequeno aparado na forma de bastão que acompanha o conjunto do teste.
+O Orasure é um teste de HIV o qual usa a mucosa secretada de tecidos da gengiva e da bochecha. É um teste de anticorpos que primeiro aplica o ELISA, e então o Western Blot.
+Há também um teste de urina; ele emprega tanto o ELISA quanto o Western Blot.
+O Home Access Express HIV-1 é um teste aprovado pelo FDA americano: o paciente coleta uma gota de sangue e a envia pelo correio para o laboratório; os resultados são enviados via telefone.
+
+
+=== Interpretando os exames de anticorpos ===
+O exame ELISA por si só não pode ser usado para diagnosticar a AIDS, mesmo se a investigação recomendada de espécies reativas sugerir uma alta probabilidade da presença do anticorpo para HIV 1 estar presente.
+O exame ELISA de anticorpos foi desenvolvido para prover um alto grau de confiança de se o sangue doado não foi infectado com o HIV. Então não é possível concluir que o sangue rejeitado para uma transfusão devido a um exame ELISA positivo para os anticorpos está de fato infectado com o HIV. Normalmente, retestando o doador alguns meses após produzirá um resultado negativo no ELISA.
+Todos os exames laboratoriais podem produzir "alarmes falsos", isto é, um resultado positivo em um teste de triagem o qual se mostra negativo em um exame confirmatório. Falsas reações são uma complicação reconhecida de todos os testes biológicos, são perfeitamente normais e não possuem significado para a saúde do doador.
+É conhecido que resultados falsos positivo devido a fatores não relacionados à exposição ao vírus do HIV são comuns no teste ELISA. Tais resultados podem ser causados por anticorpos contra outros vírus, anticorpos produzidos pela gravidez e outras condições médicas. Um falso resultado positivo não indica que alguém está com infectado com o vírus da AIDS, nem indica uma condição de risco significante à saúde.
+A evidência a respeito dos riscos e benefícios da triagem do HIV foi revisada em julho de 2005 [4]: "O uso repetitivo de um imunoensaio com uma enzima reativa seguido de um western blot confirmatório ou um ensaio imunofluorescente permanece o método padrão para o diagnóstico da infecção por HIV-1. Um largo estudo do teste de HIV em 752 laboratórios dos Estados Unidos reportaram uma sensitividade de 99,7% e especificidade de 98,5% para o imunoensaio enzimático, e estudos em doadores de sangue estados unidences reportaram especificidades de 99,8% e maiores que 99,99%. Com o western blot confirmatório, a chance de um grupo de baixa prevalência é cerca de 1 em 250.000 (intervalo de confiança de 95%, 1 em 173.000 a 1 em 379.000)."
+
+
+== Exame de antígenos ==
+O exame do antígeno p24 detecta a presença da proteína p24 do HIV, uma proteína fundamental da estrutura do vírus. Anticorpos monoclonais específicos à proteína p24 são misturados com o sangue da pessoa. Qualquer proteína p24 no sangue do indivíduo se ligará aos anticorpos monoclonais; e anticorpos, ligados por enzimas, destes anticorpos monoclonais causam uma mudança de cor se a p24 estava presente na amostra.
+reagente positivo índice 924,7 detectou reatividade contra as proteínas 6p160, 6p120, 6p41, p55, p24, p40, p66, p51, p31 nota antigenos de membrana 6p160, 6p120, 6p41 antigenos do core p55, p24, p17, p40
+Este teste é agora usado rotineiramente para a triagem de doações de sangue, assim reduzindo a janela para cerca de 16 dias. Ele não é útil para diagnósticos gerais, por sua baixa sensitividade e por apenas funcionar durante certo período de tempo depois da infecção antes do corpo produzir anticorpos à proteína p24.
+
+
+== Exames baseados em ácidos nucléicos ==
+Os exames baseados em ácidos nucleicos amplificam e detectam uma seqüência alvo de 142 pares de bases em uma região altamente conservada do gene gag do HIV. Desde 2001. Uma vez que tais testes são relativamente caros, é feito primeiro uma triagem de sangue misturando cerca de 10 a 20 amostras; testando assim todas juntas, e se o exame do conjunto der positivo, cada amostra é testada individualmente. Uma versão diferente desse exame é voltada para o uso em conjunção com a apresentação clínica e outros marcadores laboratoriais do progresso da doença para o gerenciamento clínico dos pacientes infectados por HIV-1.
+No exame de RT-PCR, o RNA viral é extraído do plasma do paciente e é tratado com uma enzima transcriptase reversa para que o RNA do vírus seja transcrito para DNA. O PCR é aplicado, usando dois primers (pontos de início da replicação do DNA) os quais se pensa serem únicos no genoma viral. Depois que processo de amplificação é completado, o que leva algum tempo, os seguimentos amplificados resultantes se ligam à parede do recipiente e então são feitos visíveis com uma sonda ligada a uma enzima. A quantidade de vírus na amostra pode ser quantificada com uma precisão suficiente para detectar três unidades de modulação de gene.
+No exame do DNA ramificado o plasma é centrifugado para se concentrar os vírus, os quais são então abertos para liberarem o RNA. Oligonucleotídeos são adicionados os quais se ligam ao RNA viral e a certos oligonucleotídeos na parede do recipiente. Deste modo, o DNA viral é aderido à parede do mesmo. Então os novos oligonucleotídeos são adicionados os quais se ligam em vários a esse RNA; e outros oligonucleotídeos que se ligam em vários pontos destes oligonucleotídeos. Isto é feito para amplificar o sinal. Finalmente, são adicionados Oligonucleotídeos (ligados a uma enzima) que se ligam a este último grupo de nucleotídeos; a ação da enzima causa uma reação colorida a qual permite quantificar o RNA viral na amostra original. Monitorando-se os efeitos de terapias anti-retrovirais por uma série de medidas de HIV-1 RNA do plasma com este teste foi validado para pacientes com cargas virais maiores que 25.000 cópias por milímetro [5].
+
+
+== Outros exames usados no tratamento de HIV/AIDS ==
+A contagem de células-T CD4 não é um exame de HIV, é mais um procedimento em que o número de células-T CD4 em um microlitro de sangue é contado em um teste laboratorial médico padrão, depois de uma retirada de sangue.
+Este exame não checa pela presença do HIV. Ele é usado para monitorar a função do sistema imunológico em pessoas de HIV positivo. Em tais indivíduos, a AIDS é oficialmente diagnosticada quando a contagem cai para abaixo de 200 células ou quando certas infecções oportunistas ocorrem. Este uso como critério de AIDS ocorreu em 1992; o valor de 200 foi escolhido porque ele correspondeu com uma probabilidade aumentada de infecções oportunistas. Baixos níveis de contagem de CD4 em pessoas com AIDS são indicadores de que devem ser instituídas profilaxias contra certos tipos de infecções oportunistas.
+Baixas contagens de células-T CD4 são associadas com uma variedade de condições, incluindo muitas infecções virais, infecções por bactérias, sepse, tuberculose, coccidioidomicose, queimaduras, traumas, injeções intravenosas de proteínas estranhas ao organismo, má nutrição, exercícios em excesso, gravidez, variação diária normal, estresse psicológico, e isolação social.
+Este exame também é usado ocasionalmente para estimar o funcionamento do sistema imunológico cujas células-T CD4 estão afetadas por razões outras do que a infecção por HIV, o que inclui várias doenças sangüíneas, várias desordens genéticas, e efeitos colaterais de várias drogas quimioterápicas.
+De um modo geral, o quanto menor for o número de células-T, menor será o funcionamento do sistema imunológico. Contagens normais de T4 estão entre 500 e 1500 células-T CD4 por microlitro, e a contagem pode flutuar em pessoas saudáveis, dependendo de situação recente de infecção, nutrição, exercícios e outros fatores—até mesmo a hora do dia. Mulheres tendem a ter uma contagem ligeiramente inferior do que homens.
+Sintomas de colapso imunológico de células T4 quase nunca são vistos cai abaixo de 200. Sintomas de colapso imunológico são geralmente vistos em pessoas com baixas contagens de células T4, seja esta imunossupressão causada pelo HIV, câncer ou alguma outra doença. Entretanto, o tratamento em longo prazo diferencia substancialmente, porque é necessário direcioná-lo à causa da imunossupressão.
+
+
+== Referências ==
+↑  Donor Screening Assays for Infectious Agents and HIV Diagnostic Assays
+↑  FDA approves first nucleic acid test (NAT) systems to screen plasma for human immunodeficiency virus (HIV) and hepatitis C virus (HCV)
+↑  http://www.aliveandwell.org/html/questioning/66reas.html (em inglês)
+↑  UNAIDS/WHO Policy statement on HIV testing
+↑  "Screening for HIV: A Review of the Evidence for the U.S. Preventive Services Task Force", Annals of Internal Medicine, Chou et. al, Volume 143 Issue 1, pp. 55-73
+↑  Summary of safety and effectiveness, FDA
+
+
+== Ver também ==
+Síndrome da imunodeficiência adquirida
+HIV
+Western blot
+ELISA
+
+
+== Ligações externas ==
+
+
+=== Em Inglês ===
+UNAIDS issues HIV testing policy June 2004
+HIV Testing August 5, 2004
+HIV Antibody Assays September 2001
+Centers for Disease Control and Prevention (CDC) HIV test resources
+US FDA list of approved HIV tests
+Not B4 We Know The strategy of testing for STDs together before having sex
+
+
+=== Em Português ===
+Diagnóstico do HIV
+Portaria do Ministério da Saúde brasileiro sobre a normatização do teste de HIV
+ELISA para detecção do Antígeno p24
+Programa nacional brasileiro de DST e AIDS
+AidsPortugal - Portal português sobre AIDS
+Agência de notícias da AIDS

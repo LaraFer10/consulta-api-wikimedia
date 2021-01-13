@@ -1,0 +1,35 @@
+FASTA é um pacote de software para alinhamento de seqüências de ADN e proteínas descrito primeiramente (como FASTP) por David J. Lipman e William R. Pearson em 1985. O formato de arquivo definido pelo FASTA é um dos principais formatos utilizados para armazenamento de sequências biológicas.
+
+
+== História ==
+O programa FASTP original foi projetado para busca de similaridade de seqüência de proteínas. FASTA adicionou esta capacidade para o ADN: Pesquisas de ADN proporcionaram um brograma de embaralhamento mais sofisticado para avaliar a significância estatística.  Existem vários programas neste pacote que permitem o alinhamento das seqüências de proteínas e seqüências de ADN.
+
+
+== Uso ==
+O pacote FASTA atual contém programas para busca dos tipos proteína/proteína, ADN/ADN, proteína/ADN traduzido (com mudanças no quadro de leitura), e busca ordenada ou desordenadas de peptídeos.
+Versões mais recentes do pacote FASTA incluem algoritmos de pesquisa especiais traduzidos para tratar os erros de mudança do quadro de leitura (que as buscas de tradução-de-seis-quadros não lidam muito bem) quando se comparam os dados da seqüência de proteína com os nucleotídeos.
+Além dos métodos de busca heurística rápida, o pacote FASTA oferece a SSEARCH, uma implementação do algoritmo de Smith-Waterman.
+O foco principal do pacote é o cálculo das estatísticas de similaridade acuradas, de modo que os biólogos possam julgar se um alinhamento é provável que tenha ocorrido por acaso, ou se pode ser usado para inferir uma homologia. O pacote FASTA está disponível a partir de fasta.bioch.virginia.edu.
+A interface web para enviar sequências para a execução de uma pesquisa na bases de dados on-line do European Bioinformatics Institute (EBI) também está disponível usando os programas FASTA.
+O formato de arquivo FASTA usado como entrada para este software é agora amplamente utilizado por outras ferramentas  de busca em bancos de dados de seqüências (como o BLAST) e programas de alinhamento de sequências (Clustal, T-Coffee, etc.)
+
+
+== Método de pesquisa ==
+FASTA pega uma dada seqüência de nucleotídeos ou de aminoácidos e busca uma base de dados de sequencias correspondentes usando um alinhamento de seqüências local para encontrar casamentos de seqüências similares na base de dados.
+O programa FASTA segue um método amplamente heurístico que contribui para a alta velocidade de sua execução. Inicialmente observa o padrão de acertos de palavra, acertos de palavra-a- palavra de um determinado comprimento e marca potenciais acertos antes de realizar uma pesquisa otimizada mais demorada usando um algoritmo do tipo Smith-Waterman.
+O tamanho necessário para uma palavra, dado pelo parâmetro ktup, controla a sensibilidade e velocidade do programa. Aumentar o valor do ktup diminui o número de acertos que são encontrados no segundo plano. A partir dos acertos de palavra que são retornados o programa procura os segmentos que contêm um conjunto de acertos nas proximidades. Em seguida, investiga esses segmentos para um acerto possível.
+Existem algumas diferenças entre o fastn e o fastp relacionadas com o tipo de seqüências usadas, mas ambas usam quatro etapas e calculam três pontuações para descrever e formatar os resultados da similaridade das seqüências.
+
+
+== Ver também ==
+BLAST
+Alinhamento de seqüências
+Filogenética computacional
+
+
+== Ligações externas ==
+Sítio Web do FASTA
+Página do FASTA na EBI - Página do EBI(European Bioinformatics Institute) para acesso aos serviços FASTA
+
+
+== Referências ==

@@ -1,0 +1,141 @@
+Notificação compulsória é um registro que obriga e universaliza as notificações, visando o rápido controle de eventos que requerem pronta intervenção. Para a construir o Sistema de Doenças de Notificação Compulsória (SDNC), cria-se uma Lista de Doenças de Notificação Compulsória (LDNC), cujas doenças são selecionadas através de determinados critérios como: magnitude, potencial de disseminação, transcendência, vulnerabilidade, disponibilidade de medidas de controle, compromisso internacional com programas de erradicação, etc. Devido as alterações no perfil epidemiológico, a implementação de outras técnicas para o monitoramento de doenças, o conhecimento de novas doenças ou a reemergência de outras, tem a necessidade de constantes revisões periódicas na LDNC no sentido de mantê-la atualizada.  A notificação compulsória é obrigatória para os médicos, outros profissionais de saúde ou responsáveis pelos serviços públicos e privados de saúde, que prestam assistência ao paciente.
+
+
+== Lista de notificação obrigatória ==
+Acidente de trabalho:
+com exposição a material biológico;
+grave, fatal e em crianças e adolescentes;
+Acidente por animal peçonhento;
+Acidente por animal potencialmente transmissor da raiva;
+Botulismo;
+Cólera;
+Coqueluche;
+Dengue:
+a. Casos;
+b. Óbitos;
+Difteria;
+Doença de Chagas Aguda;
+Doença de Creutzfeldt-Jakob (DCJ);
+Doença Invasiva por:
+Haemophilus Influenza;
+Doença Meningocócica;
+Doenças com suspeita de disseminação intencional:
+Antraz pneumônico;
+Tularemia;
+Varíola;
+Doenças febris hemorrágicas emergentes/reemergentes:
+Arenavírus;
+Ebola;
+Marburg;
+Lassa;
+Febre purpúrica brasileira;
+a)Doença aguda pelo vírus Zika; b)doença aguda pelo vírus Zika em gestante; c)Óbito com suspeita de doença pelo vírus Zika.Esquistossomose;
+Evento de Saúde Pública (ESP) que se constitua ameaça à saúde pública (situação que pode constituir potencial ameaça à saúde pública, como a ocorrência de surto ou epidemia, doença ou agravo de causa desconhecida, alteração no padrão clínico-epidemiológico das doenças conhecidas, considerando o potencial de disseminação, a magnitude, a gravidade, a severidade, a transcendência e a vulnerabilidade, bem comolepizootias ou agravos decorrentes de desastres ou acidentes);
+Eventos adversos graves ou óbitos pós-vacinação;
+Febre Amarela;
+Febre de Chikungunya;
+Febre do Nilo Ocidental e outras arboviroses de importância em saúde pública;
+Febre Maculosa e outras Riquetisioses;
+Febre Tifoide;
+Hanseníase;
+Hantavirose;
+Hepatites virais;
+HIV/AIDS - Infecção pelo Vírus da Imunodeficiência Humana ou Síndrome da Imunodeficiência Adquirida;
+Infecção pelo HIV em gestante, parturiente ou puérpera e criança exposta ao risco de transmissão vertical do HIV;
+Infecção pelo Vírus da Imunodeficiência Humana (HIV);
+Influenza humana produzida por novo subtipo viral;
+Intoxicação Exógena (por substâncias químicas, incluindo agrotóxicos, gases tóxicos e metais pesados);
+Leishmaniose Tegumentar Americana;
+Leishmaniose Visceral;
+Leptospirose;
+Malária:
+na região Amazônica;
+na região extra Amazônica;
+Óbito:
+Infantil;
+Materno;
+Poliomielite por poliovirus selvagem;
+Peste;
+Raiva humana;
+Síndrome da Rubéola Congênita;
+Doenças Exantemáticas:
+Sarampo;
+Rubéola;
+Sífilis:
+Adquirida;
+Congênita;
+Em gestante;
+Síndrome da Paralisia Flácida Aguda;
+Síndrome Respiratória Aguda Grave associada a Coronavírus:
+SARS-CoV;
+MERS-CoV;
+Tétano:
+Acidental;
+Neonatal;
+Tuberculose;
+Varicela - Caso grave internado ou óbito;
+Violência:
+Violência doméstica e/ou outras violências;
+Violência sexual e tentativa de suicídio.
+
+
+== Doenças e agravos de notificação imediata ==
+Caso suspeito ou confirmado de:
+Botulismo;
+Carbúnculo ou Antraz;
+Cólera;
+Febre amarela;
+Febre do Nilo Ocidental;
+Hantaviroses;
+Influenza Humana (Gripe) por novo subtipo (pandêmico);
+Poliomielite;
+Paralisia Flácida Aguda;
+Raiva Humana;
+Sarampo, em indivíduo com história de viagem ao exterior nos últimos 30 (trinta) dias ou de contato, no mesmo período, com alguém que viajou ao exterior;
+Síndrome Febril Íctero-hemorrágica Aguda;
+Síndrome Respiratória Aguda Grave;
+Varíola;
+Tularemia;
+Caso confirmado de:
+Tétano Neonatal;
+Surto ou agregação de casos ou de óbitos por:
+Agravos inusitados;
+Difteria;
+Doença de Chagas Aguda;
+Doença Meningocócica;
+Influenza Humana (Gripe);
+Epizootias e/ou morte de animais que podem preceder a ocorrência de doenças em humanos:
+Epizootias em primatas não humanos;
+Outras epizootias de importância epidemiológica.
+
+
+== Resultados laboratoriais de notificação imediata ==
+Resultado de amostra individual por:
+Botulismo;
+Carbúnculo ou Antraz;
+Cólera;
+Febre Amarela;
+Febre do Nilo Ocidental;
+Hantaviroses;
+Influenza Humana (Gripe) por novo subtipo (pandêmico);
+Peste;
+Poliomielite;
+Raiva Humana;
+Sarampo;
+Síndrome Respiratória Aguda Grave;
+Varíola;
+Tularemia;
+Resultado de amostras procedentes de investigação de surtos:
+Agravos inusitados;
+Doença de Chagas Aguda;
+Difteria;
+Doença Meningocócica;
+Influenza Humana (Gripe).
+
+
+== Referências ==
+Ministério da Saúde «Portaria Nº 5». , de 21 de fevereiro de 2006. Publicada no DOU nº. 38, de 22 de fevereiro de 2006, Pág. 34, Seção 1 
+https://web.archive.org/web/20150613214334/http://dtr2004.saude.gov.br/sinanweb/novo/Documentos/Portaria_1271_06jun2014.pdf Acesso em 11 de junho de 2015.
+http://www.saude.sp.gov.br/resources/ses/perfil/profissional-da-saude/servicos/lista_nacional_de_doencas_de_notificacao_compulsoria_.pdf
+http://bvsms.saude.gov.br/bvs/saudelegis/gm/2014/prt1271_06_06_2014.html
+http://bvsms.saude.gov.br/bvs/saudelegis/gm/2014/anexo/anexo_prt1271_06_06_2014.pdf

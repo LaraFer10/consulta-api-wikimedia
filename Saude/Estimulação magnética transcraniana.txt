@@ -1,0 +1,190 @@
+A estimulação magnética transcraniana ou EMT (em inglês: Transcranial magnetic stimulation ou TMS) é uma técnica não invasiva, de uso diagnóstico e terapêutico, que usa campos magnéticos para estimular pequenas regiões do cérebro por indução eletromagnética através de um gerador, ou "bobina", colocado próximo da cabeça do paciente. Desde sua introdução, em 1985, a estimulação magnética transcraniana consolidou-se como uma ferramenta útil na pesquisa neurocientífica. A EMT é usada em diagnósticos para medir a conexão entre o cérebro e um músculo para avaliar danos, lesões e outros transtornos neurológicos.A técnica pode ser útil para várias condições neurológicas como síndrome de Parkinson, distonia, zumbido, enxaqueca, e condições psiquiátricas, como depressão e alucinações auditivas. No entanto, o potencial da estimulação magnética transcraniana para diagnósticos e tratamentos neurológicos ainda está sendo comprovado, por falta de estudos clínicos a longo prazo.Evidências sugerem que ela é útil para tratar dor neuropática e transtornos depressivos maiores resistentes ao tratamento. Uma publicação da Cochrane de 2015 não encontrou provas suficientes para tirar conclusões sobre o tratamento de esquizofrenia. Para sintomas negativos, outra análise encontrou possível eficácia. A partir de 2014, todas as outras pesquisas de uso repetitivo de EMT encontraram apenas possível ou nenhuma eficácia clínica.Existem diversas técnicas de EMT, aplicadas para diferentes objetivos, que, por serem consideradas seguras, se tornaram úteis para a neurologia clínica, já que a prática tem capacidade de mapear o córtex cerebral e estabelecer sua excitabilidade. Por outro lado, a EMT repetitiva (EMTr), mais poderosa e relativamente com riscos maiores que EMT de pulso único, consiste na aplicação de estímulos magnéticos em intervalos regulares. Ela possui capacidade para bloquear ou facilitar as estruturas corticais, dependendo da área de aplicação e da intensidade dos estímulos, e pode ser utilizada no tratamento de diversos transtornos neuropsiquiátricos e neurológicos, conforme citado acima.
+Distinguir entre efeitos verdadeiros e placebo em EMT é um problema que influencia os resultados de ensaios clínicos. A EMT possui baixos riscos, com casos raros de síncope e convulsões induzidas, além de possível dor ou desconforto, e outros efeitos transitórios de curto prazo.
+
+
+== História ==
+As primeiras tentativas na estimulação do cérebro usando um campo magnético incluem as de Jacques-Arsène d'Arsonval em Paris no ano de 1896, e, em 1910, de Silvanus P. Thompson, em Londres. O princípio da estimulação cerebral indutiva com correntes de Foucault tem sido observado desde o século XX. O primeiro estudo de EMT bem sucedido foi realizado em 1985 por Anthony Barker e seus colegas do Royal Hallamshire Hospital em Sheffield, Inglaterra. Suas primeiras aplicações demonstraram a condução de impulsos nervosos do córtex motor para a medula espinhal, estimulando contrações musculares na mão. Comparado com o método anterior de estimulação transcraniana proposto por Merton e Morton, em 1980, em que uma corrente elétrica direta era aplicada no couro cabeludo, o uso de eletroímãs reduziu significativamente o desconforto do procedimento, e permitiu o mapeamento do córtex cerebral e suas conexões.
+
+
+== Usos médicos ==
+O uso da EMT pode ser dividido primariamente em diagnóstico e terapêutico:
+
+
+=== Diagnóstico ===
+No geral, a estimulação magnética transcraniana é utilizada para investigar mecanismos fisiológicos e fisiopatológicos corticais. Em termos técnicos, a EMT é capaz de mapear o cortex cerebral e estudar o tempo de condução motora central, além da cronometria de relações casuais do cérebro-comportamento. A técnica proporciona medidas de facilitação e inibição, assim como o estudo das interações corticocorticais.
+A EMT pode ser usada clinicamente para medir a atividade e função de circuitos cerebrais específicos em seres humanos. O uso mais robusto e amplamente aceito é na medição da conexão entre o córtex motor primário e um músculo para avaliar danos causados por acidente vascular cerebral, esclerose múltipla, esclerose lateral amiotrófica, doença do neurônio motor, distúrbios do movimento e lesões e outros transtornos que afetam nervos faciais e outros nervos cranianos e a medula espinhal. A EMT tem sido sugerida como um meio de avaliar inibição intracortical de intervalo curto (SICI, do inglês short-interval intracortical inhibition), que mede as vias internas do córtex motor, mas este uso ainda não foi validado.Para a realização da EMT, é necessária também a compreensão de parâmetros como potencial evocado motor (PEM), período silente (PS) e limiar motor (LM). O primeiro é responsável pela ativação das fibras musculares das unidades motoras estimuladas. Já o segundo é reproduzido na aplicação do estímulo transcraniano durante a contração voluntária do músculo efetor e se apresenta logo após o PEM. Por último, o limiar motor, se refere a menor intensidade de estímulo com capacidade de gerar um PEM.
+É possível também medir a excitabilidade corticoespinhal (CSE) com o uso de EMT. Em uma pesquisa realizada no Brasil, EMT de pulso único foi utilizada para provocar potenciais evocados motores, permitindo a medição posterior dos efeitos procurados - no caso, o efeito no trato corticoespinhal, responsável pela motricidade, de observar objetos com carga emocional serem manipulados.
+
+
+=== Terapêutico ===
+Para a dor neuropática, para a qual há poucos tratamentos eficazes, a EMT repetitiva (EMTr) de alta frequência (HF) parece eficaz. Para distúrbio depressivo maior resistente a tratamento, a EMTr-HF do córtex pré-frontal dorsolateral (DLPFC) esquerdo parece eficaz e a EMTr de baixa frequência (LF) do DLPFC direito tem provável eficácia.
+
+
+== Principais doenças ==
+Diversas doenças causam alterações dos parâmetros neurofisiológicos que podem ser diagnosticados por EMT, como:
+
+
+== Efeitos adversos ==
+Embora a EMT é geralmente considerada como segura, os riscos aumentam nos usos terapêuticos da EMTr comparado à EMT de pulso único ou pareado para fins de diagnóstico. No campo terapêutico, os riscos aumentam com frequências mais altas. Os maiores riscos da EMT são ocorrências raras de síncope e, menos comumente, convulsões induzidas. Outros efeitos adversos a curto prazo da EMT incluem dor ou desconforto, indução transitória de hipomania, alterações cognitivas transitórias, perda auditiva transitória, comprometimento transitório da memória e correntes induzidas em circuitos elétricos em dispositivos implantados.
+
+
+== Dispositivos e procedimento ==
+Composto por uma unidade fixa e outra móvel, o aparelho responsável pelas sessões de EMT contém um ou mais capacitores de armazenamento, alternador de carga e circuitos para modelar a forma do pulso e a recuperação de energia, além de um painel de controle em sua unidade fixa. Já a parte móvel conta com uma bobina e um cabo que a conecta com a parte fixa. Um circuito elétrico é responsável pela conexão do capacitor com a bobina.
+Durante um procedimento de EMT, a bobina é colocado perto da cabeça do paciente. Ela é conectada a um gerador de pulsos, ou estimulador, que fornece corrente elétrica para a mesma, produzindo pequenas correntes elétricas na região do cérebro sob a bobina por indução eletromagnética. Dessa forma o cérebro pode ser modulado sem necessidade de cirurgia ou eletrodos externos. A bobina é posicionada encontrando-se pontos anatômicos do crânio, incluindo, mas não limitado a, o ínion ou o násio. Como o couro cabeludo e o osso do crânio possuem alta resistência elétrica, a pequena corrente elétrica fluente nessas estruturas diminui o desconforto que poderia ser causado pela excitação de terminações nociceptivas. Vale ressaltar também que a área estimulada depende de outros fatores como a intensidade e a variação em relação ao tempo do campo magnético, o tipo de bobina e o posicionamento no couro cabeludo.
+
+
+== Informações técnicas ==
+A EMT usa indução eletromagnética para gerar uma corrente elétrica através do couro cabeludo e o crânio, sem contato físico. Uma bobina de arame envolta em plástico é mantida junto ao crânio, e quando ativada, produz um campo magnético orientado ortogonalmente ao plano da bobina. O campo magnético passa desimpedido através da pele e do crânio, induzindo uma corrente direcionada opostamente no cérebro que ativa células nervosas próximas de modo muito similar a correntes aplicadas diretamente na superfície cortical.O caminho dessa corrente é difícil de modelar porque o cérebro é de forma irregular e a eletricidade e o magnetismo não são conduzidas de maneira uniforme em todos os seus tecidos. O campo magnético tem aproximadamente a mesma força de uma ressonância magnética, e o pulso alcança, geralmente, não mais do que 5 centímetros de profundidade no cérebro, a menos que se esteja usando uma estimulação magnética transcraniana profunda, uma variante de EMT. Também chamada de Deep TMS, pode chegar a até 6 cm do cérebro para estimular as camadas mais profundas do córtex motor, como a que controla o movimento das pernas.
+
+
+=== Mecanismo de ação ===
+Da lei de Biot–Savart,
+
+  
+    
+      
+        
+          B
+        
+        =
+        
+          
+            
+              μ
+              
+                0
+              
+            
+            
+              4
+              π
+            
+          
+        
+        I
+        
+          ∫
+          
+            C
+          
+        
+        
+          
+            
+              d
+              
+                l
+              
+              ×
+              
+                
+                  
+                    r
+                    ^
+                  
+                
+              
+            
+            
+              r
+              
+                2
+              
+            
+          
+        
+      
+    
+    {\displaystyle \mathbf {B} ={\frac {\mu _{0}}{4\pi }}I\int _{C}{\frac {d\mathbf {l} \times \mathbf {\hat {r}} }{r^{2}}}}
+  ,
+tem se demonstrado que uma corrente elétrica através de um fio gera um campo magnético em torno desse fio. A estimulação magnética transcraniana é conseguida por meio de uma rápida corrente descarregada a partir de um grande capacitor em uma bobina para produzir pulsos de campos magnéticos entre 2 e 3 T. Ao direcionar o pulso de campo magnético em uma área desejada do cérebro, pode se despolarizar ou hiperpolarizar os neurônios na região. O pulso de densidade de fluxo magnético gerado pelo pulso de corrente através da bobina causa um campo elétrico, como explicado pela equação de Maxwell-Faraday,
+
+  
+    
+      
+        ∇
+        ×
+        
+          E
+        
+        =
+        −
+        
+          
+            
+              ∂
+              
+                B
+              
+            
+            
+              ∂
+              t
+            
+          
+        
+      
+    
+    {\displaystyle \nabla \times \mathbf {E} =-{\frac {\partial \mathbf {B} }{\partial t}}}
+  . 
+Esse campo elétrico provoca uma alteração na corrente transmembrana do neurônio, o que leva à despolarização ou hiperpolarização do neurônio e o disparo de um potencial de ação.Os detalhes exatos de como a EMT funciona ainda estão sendo explorados. Os efeitos da EMT podem ser divididos em dois tipos, dependendo do modo de estimulação:
+
+A EMT de pulso único ou pareado faz com que os neurônios do neocórtex da área da estimulação despolarizem e disparem um potencial de ação. Se usada no córtex motor primário, produz a atividade muscular referida como um potencial evocado motor (MEP), que pode ser registrado por eletromiografia. Se for utilizado no córtex occipital, o sujeito pode perceber fosfenos (flashes de luz). Na maioria das outras áreas do córtex, o participante não experiencia qualquer efeito conscientemente, mas seu comportamento pode ser ligeiramente alterado (por exemplo, um tempo de reação mais lento em uma tarefa cognitiva), ou mudanças na atividade cerebral podem ser detectadas por meio de outros equipamentos.
+A EMT repetitiva produz efeitos mais duradouros que persistem passado o período inicial de estimulação. A EMTr pode aumentar ou diminuir a excitabilidade do trato corticoespinhal, dependendo da intensidade do estímulo, orientação da bobina e da frequência. O mecanismo desses efeitos não é claro, embora amplamente acredita-se refletir alterações na eficácia sináptica semelhante a potenciação de longa duração (LTP) e depressão de longa duração (LTD).Imagens de ressonância magnética, gravadas durante a EMT do córtex motor do cérebro, correspondem muito semelhantemente com tomografias por emissão de pósitrons (PET) produzidos por movimentos voluntários dos músculos da mão inervada por EMT, com 5 a 22 mm de precisão. A localização das áreas motoras com a EMT também tem sido observada se correlacionar estreitamente a magnetoencefalografia e também a imagem por ressonância magnética funcional.
+
+
+=== Tipos de bobinas ===
+As bobinas de estimulação magnética transcraniana usadas no tratamento, diagnóstico ou estudos experimentais podem variar em vários aspectos. Estas diferenças devem ser consideradas na interpretação de qualquer resultado de estudo e o tipo de bobina utilizada deve ser especificado no estudo de métodos para quaisquer publicações.
+As considerações mais importantes incluem:
+
+o tipo de material utilizado para a construção do núcleo da bobina;
+a geometria da configuração da bobina;
+as características biofísicas do pulso produzido pela bobina.Com relação à composição da bobina, o material do núcleo pode ser um substrato magneticamente inerte, por exemplo, a bobina com "núcleo de ar", ou possuir um material sólido, ferromagneticamente ativo, chamado de "núcleo sólido", seja de ferro, ferrite ou pó de metal. Bobinas de núcleo sólido resultam em uma transferência mais eficiente de energia elétrica em campo magnético, com redução substancial da quantidade de energia dissipada em forma de calor, e, portanto, podem ser operadas sob ciclos mais agressivos de trabalho, muitas vezes exigidos em protocolos terapêuticos, sem interrupção do tratamento devido a acumulação de calor ou o uso de um método de resfriamento da bobina durante a operação. Variar o formato geométrico da bobina em si também pode resultar em variações no foco, forma e profundidade de penetração cortical do campo magnético. Diferenças na substância da bobina, bem como da operação eletrônica da fonte de alimentação da bobina também podem resultar em variações nas características biofísicas do pulso magnético resultante como a largura ou a duração do pulso de campo magnético. Todas estas características devem ser consideradas quando se compara resultados obtidos a partir de diferentes estudos, com relação à segurança e a eficácia.Existem diferentes tipos de bobinas, cada uma produzindo diferentes padrões de campo magnético. Alguns exemplos:
+
+bobina circular: o tipo original de bobina de EMT
+bobina em oito (ou bobina borboleta): resulta em um padrão de ativação mais focal
+bobina em duplo-cone: segue a forma da cabeça, útil para uma estimulação mais profunda
+bobina de quatro folhas: para estimulação focal de nervos periféricos
+bobina H: para a estimulação magnética transcraniana profundaVariações na forma das bobinas de EMT permitem uma penetração mais profunda do cérebro do que o padrão de profundidade de 1,5 a 2,5 cm. Bobinas de coroa circular, bobinas Hesed (ou H), bobinas de cone duplo, e outros tipos de variações experimentais podem induzir a excitação ou inibição de neurônios mais profundos no cérebro, incluindo a ativação de neurônios motores para o cerebelo, pernas e do diafragma pélvico. Embora capazes de penetrar mais profundamente no cérebro, eles são menos capazes de produzir uma resposta localizada concentrada e são relativamente não-focais.
+
+
+== Pesquisas ==
+O uso de EMT em estudos com animais é limitado, e há um número limitado de bobinas específicas para estudos em animais Há algumas tentativas na literatura mostrando novos projetos de bobinas para ratos com um maior perfil de estimulação.Áreas de pesquisa com EMT incluem:
+
+reabilitação de afasia e desabilidade motora após acidente vascular cerebral
+tinido
+transtornos de ansiedade, incluindo síndrome do pânico e transtorno obsessivo-compulsivo. A área mais promissora para o tratamento de TOC aparenta ser o córtex orbitofrontal e a área motora suplementar. Protocolos mais antigos que focavam no córtex pré-frontal dorsal foram menos bem sucedidos em tratar TOC.
+esclerose lateral amiotrófica
+esclerose múltipla
+epilepsia
+doença de Alzheimer
+doença de Parkinson
+esquizofrenia
+abuso de substâncias, dependência, e estresse pós-traumático (PTSD)
+autismo
+morte cerebral, coma e outros estados vegetativos persistentes.
+
+
+== Estudos cegos ==
+É difícil estabelecer uma forma convincente de EMT "simulada" para testar o efeito placebo durante ensaios controlados em indivíduos conscientes, devido às dores de garganta ou de cabeça e aos espasmos no couro cabeludo ou na parte superior do rosto associados com a intervenção. Manipulações de EMT "falsas" podem afetar o metabolismo de glicose cerebral e potenciais evocados motores, que podem confundir os resultados. Este problema é agravado quando usando medidas de melhoria subjetiva. Respostas placebo em ensaios de EMTr para depressão estão inversamente associadas com resistência ao tratamento, variam entre os estudos e podem influenciar os resultados.Uma análise de 2011 constatou que apenas 13,5% de 96 estudos de controle randomizado de EMTr para o córtex pré-frontal dorsolateral relataram sucesso em ocultar o teste, e que, nesses estudos, as pessoas nos grupos de EMTr real eram significativamente mais propensas a pensar que eles tinham recebido EMT real, em comparação com aqueles em grupos de EMTr "falsa". Dependendo das questões de pesquisa formuladas e do design experimental, combinar o desconforto da EMTr para distinguir efeitos verdadeiros de placebo pode ser um problema importante.
+
+
+== Veja também ==
+
+Eletroconvulsoterapia
+Estimulação transcraniana por corrente contínua
+Estimulação cerebral profunda
+
+
+== Ligações externas ==
+Vídeo demonstrativo: gagueira desencadeada por EMT
+
+
+== Referências ==
+
+
+== Leia mais ==
+Wassermann, EM; Epstein, CM; Ziemann, U; Walsh, V; Paus, T; Lisanby, SH (2008). Oxford Handbook of Transcranial Stimulation (Oxford Handbooks). [S.l.]: Oxford University Press, USA. ISBN 0-19-856892-4 
+Freeston, I; Barker, A (2007). «Transcranial magnetic stimulation». Scholarpedia. 2 (10). 2936 páginas. doi:10.4249/scholarpedia.2936 
+George, Mark S.; Belmaker, Robert H. (2000). Transcranial Magnetic Stimulation in Neuropsychiatry. [S.l.]: American Psychiatric Press. ISBN 9780880489485 
+Holbrook, Colin; Keise Izuma, Choi Deblieck, Daniel M. T. Fessler, Marco Iacoboni (4 de setembro de 2015). «Neuromodulation of group prejudice and religious belief» (requer pagamento). Social Cognitive and Affective Neuroscience (em inglês): nsv107v1. ISSN 1749-5016. PMID 26341901. doi:10.1093/scan/nsv107

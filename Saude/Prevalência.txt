@@ -1,0 +1,18 @@
+Usada em estatística e em epidemiologia, a prevalência pode referir-se a:
+
+número total de casos existentes numa determinada população e num determinado momento temporal;
+proporção de casos existentes numa determinada população e num determinado momento temporal.A prevalência permite compreender o quanto é comum, ou rara, uma determinada doença ou situação numa população. Com este objectivo é preferível o uso dos valores em proporção, mas caso se opte pelo uso do número total de casos convém referir a dimensão da população a que se refere.
+É habitualmente usada em epidemiologia em doenças crónica ou situações de duração prolongada, como a obesidade, a hipertensão arterial ou o cancro. Na área da saúde a prevalência ajuda o profissional a conhecer a probabilidade - ou risco - de um indivíduo sofrer de determinada doença. O conceito é também muito útil na elaboração e planificação de políticas e programas de saúde, uma vez que permite organizar os recursos existentes para os problemas de saúde mais importantes.
+Em decisão clínica a prevalência representa o conceito de probabilidade pré-teste uma vez que representa a probabilidade que cada indivíduo tem à partida, e antes de se aplicar um teste diagnóstico, de sofrer determinada doença.
+Existem dois tipos de prevalência:
+
+A prevalência de período, que define o número de pessoas de uma determinada população que tem uma doença ou condição durante um determinado período; diz-nos como era a doença no Inverno de 1989, por exemplo: prevalência de período= N.º de casos existentes no intervalo de datas x / população existente nesse período;
+A prevalência pontual, que define o número de pessoas de uma determinada população que tem uma doença ou condição num momento particular (data exacta). Dá-nos uma visão instantânea da doença no tempo, como ela era quando iniciamos o estudo Y, por exemplo.Prevalência pontual = N.º de casos existentes na data x / população existente nessa data. 
+
+
+== Ver também ==
+incidência
+epidemiologia
+vigilância epidemiológica
+probabilidade pré-teste
+termos usados em biossegurança

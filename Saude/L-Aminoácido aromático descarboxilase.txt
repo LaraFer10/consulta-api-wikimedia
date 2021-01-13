@@ -1,0 +1,29 @@
+L-Aminoácido aromático descarboxilase (abreviada na literatura AADC ou AAAD do inglês aromatic L-amino acid decarboxylase), também conhecido como DOPA decarboxilase (DDC), triptofano decarboxilase, e 5-hidroxitriptofano decarboxilase, é uma enzima liase. (EC 4.1.1.28)
+
+
+== Reações ==
+AADC catalisa diversas reações de descarboxilação diferentes:
+L-DOPA a dopamina - um neurotransmissor
+L-Fenilanina a fenetilamina - uma amina traço neuromodulatora
+L-Tirosina a tiramina - uma amina traço neuromodulatora
+L-Histidina a histamina - um neurotransmissor
+L-Triptofano a triptamina - uma amina traço neuromodulatora
+5-HTP a serotonina (5-hidroxitriptamina) - um neurotransmissorA enzima usa piridoxal fosfato, a forma ativa de vitamina B6, como um cofator.
+
+
+== Como um passo limitador de taxa ==
+Na síntese normal de neurotransmissores dopamina e serotonina (5-HT), AADC não é o passo determinante de taxa em qualquer reação. No entanto, AADC torna-se o passo limitante da síntese de dopamina em pacientes tratados com L-DOPA (tal como na doença de Parkinson), e o passo de limitação de taxa de síntese de serotonina em pessoas tratadas com 5-HTP (tal como em depressão leve ou distimia).  AADC é inibido por carbidopa fora da barreira hematoencefálica inibindo a conversão prematura de L-DOPA a dopamina no tratamento da doença de Parkinson.
+Em humanos, AADC é também o passo determinante de taxa na formação de aminas traço. Deficiência de AADC é associada com vários sintomas como atraso de desenvolvimento severo, crise oculogírica e disfunção autonômica. O espectro molecular e espectro clínico de deficiência AAAC é heterogêneo. O primeiro caso de deficiência AADC foi descrito em gêmeos em 1990. Pacientes podem ser tratados com agonistas de dopamina, inibidores da MAO, e piridoxina (vitamina B6). O fenótipo clínico e a resposta ao tratamento são variáveis e o resultado a longo prazo e funcional é desconhecido. Para fornecer uma base para melhorar a compreensão da epidemiologia, correlação genótipo/fenótipo é resultado dessas doenças seu impacto na qualidade de vida dos pacientes, e para avaliação de estratégias de diagnóstico e terapêutica um registro de pacientes foi estabelecido pela instituição sem fins comerciais Grupo de Trabalho Internacional sobre Distúrbios Relacionados a Neurotransmissor (iNTD, International Working Group on Neurotransmitter Related Disorders).
+
+
+== Genética ==
+O gene codificando a enzima é referida como DDC e localizado no cromossoma 7 em humanos. Polimorfismos de nucleotídeo único e outras variações do gene tem sido investigadas relacionados a transtornos neuropsiquiátricoss, e.g., uma eliminação de pares de uma base em –601 e uma eliminação de pares de quatro bases em 722–725 no exon 1 relacionado a transtorno bipolar e autismo. Não foi encontrada correlação direta entre a variação genética e o autismo.
+
+
+== Referências ==
+
+
+== Ver também ==
+Inibidor de L-aminoácido aromático descarboxilase, uma classe de drogas anti-Parkinson
+Aminoácidos aromáticos
+Histidina descarboxilase

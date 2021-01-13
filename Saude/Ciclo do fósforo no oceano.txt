@@ -1,0 +1,196 @@
+O ciclo do fósforo no oceano refere-se aos processos de transformação e ciclagem do elemento químico fósforo no ambiente marinho. Essa ciclagem no oceano faz parte do ciclo biogeoquímico global do fósforo, que envolve sua circulação entre a hidrosfera, a atmosfera, a biosfera e a camada superficial da geosfera. O ciclo do fósforo no oceano tem grande importância para os organismos marinhos, visto que esse elemento químico compõe as moléculas de RNA e DNA, que são fundamentais para a vida. O fósforo também é considerado um fator limitante à produtividade primária no oceano global por ser um dos principais micronutrientes para o fitoplâncton. O ciclo do fósforo é sedimentar (seu principal reservatório é a litosfera) e bastante lento, diferentemente do ciclo do carbono e do ciclo do nitrogênio que são mais rápidos.[carece de fontes?]
+
+
+== Especiação do fósforo na água do mar ==
+O fósforo particulado e o fósforo dissolvido são diferenciados a partir de técnicas de separação, como a filtração da água do mar através de membranas com porosidade de 0,45 µm. Neste caso, o fósforo dissolvido na água do mar é aquele que passa pela membrana. Tais espécies químicas incluem o fósforo inorgânico (em geral, na forma do íon ortofosfato), componentes de fósforo orgânico e fósforo coloidal macromolecular. O fósforo particulado (fração que fica retida na membrana juntamente com o material particulado em suspensão) é composto por plâncton vivo, restos de organismos mortos, precipitados de minerais de fósforo, fósforo adsorvido a partículas minerais e fases de fósforo amorfo. Para cada uma dessas frações, particulada e dissolvida, o fósforo pode se apresentar nas formas inorgânica (ortofosfato, pirofosfato, polifosfato e minerais contendo fosfato) ou orgânica (éster-fosfato, diéster-fosfato, fosfonatos).As formas inorgânicas do fósforo resultam da ionização do ácido fosfórico (H3PO4) como mostrado a seguir:
+  
+    
+      
+        
+          
+            H
+            
+              3
+            
+            
+              
+            
+          
+          
+            PO
+            
+              4
+            
+            
+              
+            
+          
+          ⟶
+          
+            H
+            
+              +
+            
+          
+          +
+          
+            H
+            
+              2
+            
+            
+              
+            
+          
+          
+            PO
+            
+              4
+            
+            
+              −
+            
+          
+        
+      
+    
+    {\displaystyle {\ce {H_3 PO_4 -> H^+ + H_2 PO_4^-}}}
+  
+
+  
+    
+      
+        
+          
+            H
+            
+              2
+            
+            
+              
+            
+          
+          
+            PO
+            
+              4
+            
+            
+              −
+            
+          
+          ⟶
+          
+            H
+            
+              +
+            
+          
+          +
+          
+            HPO
+            
+              4
+            
+            
+              2
+              −
+            
+          
+        
+      
+    
+    {\displaystyle {\ce {H_2 PO_4^- -> H^+ + HPO_4^2-}}}
+  
+
+  
+    
+      
+        
+          H
+          
+            PO
+            
+              4
+            
+            
+              2
+              −
+            
+          
+          ⟶
+          
+            H
+            
+              +
+            
+          
+          +
+          
+            PO
+            
+              4
+            
+            
+              3
+              −
+            
+          
+        
+      
+    
+    {\displaystyle {\ce {H PO_4^2- -> H^+ + PO_4^3-}}}
+  
+Em soluções aquosas, o pH influencia bastante a especiação do fósforo. Por exemplo, o íon H2PO4- predomina em soluções com pH inferior a 7,3. Já o HPO42- predomina em soluções de pH igual ou maior que 7,3. Considerando que o pH da água do mar está em torno de 8, o íon ortofosfato (HPO42-) é a espécie química predominante. Quando o pH está entre 7 e 9, em águas com significativa concentração de cálcio, o fosfato (PO43-) pode precipitar diretamente da água. O HPO42- é facilmente sequestrado em várias fases minerais de carbonato, fluorapatita, oxi-hidróxidos e argilas ricas em ferro.
+
+
+== Ciclagem do fósforo no oceano ==
+O fitoplâncton assimila o fósforo inorgânico dissolvido (em geral, como ortofosfato), transformando-o em fósforo orgânico particulado. O zooplâncton herbívoro consome o fitoplâncton e incorpora uma parte desse fósforo em seus tecidos biológicos. Esse processo de transferência de fósforo ocorre ao longo de toda a cadeia alimentar. Outra parte do fósforo consumido pelo nível trófico superior é excretada como fósforo orgânico e/ou inorgânico. Após retornar para a coluna de água, o fósforo inorgânico dissolvido é reciclado rapidamente, podendo ser novamente assimilado pelo fitoplâncton. O fósforo orgânico pode ser hidrolisado por enzimas sintetizadas por bactérias e/ou fitoplâncton, e posteriormente assimilado por esses organismos. Ambas as formas de fósforo (orgânica e inorgânica) podem também ser adsorvidas e dessorvidas do material particulado em suspensão, alternando entre as frações particulada e dissolvida, respectivamente. Os processos no ciclo biogeoquímico do fósforo são mais intensos em águas superficiais, porém também ocorrem em águas profundas (exceto a assimilação pelo fitoplâncton).
+
+
+== Fontes e sumidouro de fósforo no oceano ==
+
+A principal fonte de fósforo para o oceano é o intemperismo continental que transporta esse elemento através das bacias hidrográficas que desembocam na zona costeira. Também há deposição de fósforo nas águas superficiais oceânicas através de aerossóis, cinzas vulcânicas e poeira mineral. O sumidouro predominante é a deposição de diversas formas de fósforo no sedimento marinho. Outro sumidouro é a precipitação que ocorre nas interações entre a crosta oceânica e a água do mar, associadas a atividades hidrotermais no fundo oceânico. As espécies químicas predominantes de fósforo no oceano ocorrem na forma dissolvida. De um total de 3 x 1015 mol de fósforo dissolvido no oceano, 2,9 x 1015 mol estão no oceano profundo e somente 0,1 x 1015 mol de fósforo estão em águas superficiais. O tempo de residência do fósforo dissolvido no oceano está entre 20 e 100 mil anos. Apesar disso, sua ciclagem ocorre em escala de tempo muito curta. Em águas profundas, a ciclagem do fósforo equivale ao tempo de mistura dos oceanos (aproximadamente 1500 anos), já em águas superficiais essa ciclagem varia entre 1 a 3 anos. Isso significa que no ciclo do fósforo há um aporte lento que ocorre em baixas concentrações.
+
+
+=== Intemperismo continental ===
+O fósforo particulado possui componentes inorgânicos e orgânicos. Grande parte do fósforo nos rios está associado com o material inorgânico particulado (em cristais de apatita e outros minerais) ou adsorvido a óxidos/hidróxidos de ferro-manganês. Essas partículas são rapidamente depositadas quando chegam aos estuários e plataforma continental costeira, não chegando a ficar disponível para a biota marinha. Partículas de argila formadas por oxihidróxidos de ferro e alumínio possuem alta capacidade de adsorver o fosfato dissolvido na água doce dos rios, podendo transportá-lo para águas mais salinas e distantes da costa.
+
+
+=== Fontes antropogênicas ===
+O fosfato presente nas rochas é extraído para ser usado na produção de fertilizantes para substituir aqueles que foram perdidos em terras agrícolas pela erosão e colheita da produção. Esse fósforo, assim como aquele oriundo de outras atividades humanas (por exemplo: esgoto, erosão do solo, pecuária, indústria de produção de papel), é lixiviado para os rios, águas subterrâneas e estuários, contribuindo com certa quantidade de fósforo antropogênico para os oceanos. Esse aumento de fósforo (entre outros nutrientes) na água pode resultar no processo de eutrofização. Nesse processo, o crescimento de algas supera a capacidade dos seus predadores de consumi-las, levando à redução de oxigênio dissolvido na água (hipoxia) devido à decomposição de matéria orgânica. Eventos de hipoxia em ambientes eutróficos podem desencadear eventos de mortalidade massiva de organismos aquáticos.
+
+
+=== Deposição atmosférica ===
+As  partículas  de  aerossóis  são responsáveis pelo transporte aéreo de nutrientes essenciais como fósforo, cálcio, enxofre, entre outros para o oceano. Cerca de 5% do total de fósforo pré-antropogênico consiste em fósforo atmosférico, que possui componentes orgânicos e inorgânicos nos aerossóis. O fósforo também está presente nas poeiras atmosféricas oriundas de vulcões e desertos.
+
+
+=== Sedimento marinho ===
+Os sedimentos correspondem à maior reserva de fósforo no oceano, sendo que a precipitação do material particulado é a principal maneira do fósforo chegar ao sedimento marinho. A forma reativa do fósforo (incorporada à matéria orgânica) é a principal componente de seu fluxo vertical no ambiente oceânico, pois a maior parte do fósforo não-reativo deposita-se nas plataformas continentais do ambiente nerítico. O fósforo reativo é considerado disponível biologicamente ou está associado a componentes biológicos em locais onde há matéria orgânica enterrada na superfície do sedimento. Por outro lado, o fósforo não-reativo no sedimento está associado com material detrítico terrígeno.
+
+
+=== Interações entre crosta oceânica e água do mar ===
+A maior parte do fósforo enterrado em áreas de crosta oceânica está na forma de fósforo inorgânico dissolvido que foi removido da coluna de água através da adsorção em óxidos de ferro presentes na pluma não flutuante do fluido hidrotermal. A interação entre os flancos basálticos das cordilheiras oceânicas e a água do mar faz com que uma pequena porção de fósforo da crosta oceânica seja intemperizada e dissolvida na coluna de água.
+
+
+== Fósforo como nutriente limitante ==
+O fósforo é um micronutriente pouco estudado quando comparado ao nitrogênio, por não ser considerado um nutriente limitante direto. Porém, estudos recentes mostram que, devido ao aumento no aporte de nutrientes antropogênicos, a razão N/P (também conhecida como relação de Redfield) está mais alta nos ambientes aquáticos e o fósforo pode se tornar limitante em diversos sistemas.
+
+
+== Distribuição espacial de fósforo no oceano ==
+O reservatório de fósforo no oceano é semelhante ao tamanho de seu reservatório nos continentes. Em águas profundas, a maior parte do fósforo está na forma inorgânica. Em águas costeiras, as concentrações de fósforo variam de acordo com a ocorrência de fenômenos como ressurgência e florações de fitoplâncton. Os perfis verticais de fósforo nos Oceano Atlântico e Oceano Pacífico mostram que próximo à superfície as concentrações desse micronutriente são próximas a zero. Abaixo da zona eufótica, a concentração de fósforo dissolvido na água do mar começa a aumentar devido à ausência de absorção pelo fitoplâncton e à decomposição de organismos mortos. O fosfato é liberado na água do mar pela ação das bactérias na decomposição da matéria orgânica, que atinge seu máximo (aproximadamente 1,5 µM no Oceano Atlântico e 3,2 µM no Oceano Pacífico) próximo aos 1000 m de profundidade, ou seja, na base da termoclina permanente. No oceano profundo, a concentração de fósforo dissolvido é verticalmente constante, sendo maior no Oceano Pacífico em função de suas águas serem mais antigas do que aquelas do Oceano Atlântico.
+
+
+== Ciclo do fósforo e a circulação oceânica ==
+O modelo de Slomp e Van Cappellen (2007) sugere que uma redução na circulação oceânica resultaria em uma transferência líquida de fósforo reativo solúvel do oceano aberto para as zonas costeiras, o que implicaria no aumento da produção primária e no soterramento de fósforo reativo associado ao carbono orgânico particulado nas plataformas continentais. Essa transferência de fósforo reativo solúvel para as zonas costeiras também provocaria uma deficiência dessa espécie química na região oceânica. Isso não seria compensado pela transferência de fósforo do oceano profundo para a superfície através de fenômenos de ressurgência, diminuindo assim a produção primária na bacia oceânica. Por outro lado, o soterramento de matéria orgânica particulada nas plataformas continentais poderia aumentar a preservação de carbono orgânico particulado sob condições anóxicas. De acordo com o modelo, estas condições de preservação de carbono e fósforo no sedimento são mais estimuladas quando há uma diminuição da circulação oceânica, que causaria um espalhamento de áreas anóxicas nas zonas costeiras. Com isso, haveria um acúmulo em larga escala de sedimentos ricos em matéria orgânica. Isso poderia facilitar a formação de depósitos massivos de fosforita, que geralmente coincidem ou seguem eventos anóxicos em termos paleoceanográficos.
+
+
+== Ver também ==
+Ciclo biogeoquímico
+Ciclo hidrológico
+Ciclo do carbono
+Ciclo do nitrogênio
+Ciclo do oxigênio
+
+
+== Referências ==

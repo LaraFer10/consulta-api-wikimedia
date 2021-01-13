@@ -1,0 +1,28 @@
+O passo final para a identificação de uma bactéria é dado pelo Estudo do seu bioquimismo. Para este estudo é crucial o isolamento das bactérias em questão, impedindo a contaminação para impedir o erro de identificação. Podemos realizar uma série de testes, optando por aquele que nos parece mais adequado.
+
+
+== Testes de Sensibilidade ==
+Provas de sensibilidade à temperatura ambiente: Aplica-se na identificação de bactérias do género Mycobacterium pelo seu crescimento ou não a temperaturas de 24, 31, 37 e 45°C.
+Provas de tolerância a condições hostis do meio de cultura:Consistem na cultura de bactérias em meios selectivos. Pode considerar-se dentro deste grupo a lise do Streptococcus pneumoniae em presença da bílis, o que o distingue de outros estreptococos. Um outro exemplo é o Staphylococcus aureus que resiste a meios com NaCl até 15% que inibem a maior parte da flora normal.
+Sensibilidade dos germens
+Teste da optoquina: o Streptococcus pneumoniae é sensível à optoquina distinguindo-se dos outros estreptococos que lhe são resistentes.
+Teste da bacitracina: utiliza-se na caracterização de Streptococcus do grupo A de Lancefield, beta-hemolíticos e muito sensíveis a bacitracina.
+Nutrientes indispensáveis: É usado na identificação de Haemophylus, testando o seu comportamento frente a dois factores de crescimento: factor X (Heme-ferroporfirina) e factor V (NAD).
+
+
+== Testes de Metabolismo ==
+Os testes mais importantes são aqueles que dizem respeito ao metabolismo da bactéria, e que na grande maioria das vezes estão relacionados com a presença de enzimas específicas. Assim sendo, fazem-se estudos sobre:
+
+Identificação de enzimas respiratórias
+Pesquisa da Catalase: é indispensável na identificação de cocos gram positivos. Os estafilococos são catalase positivos, enquanto que os estreptococos são catalase negativos.
+Pesquisa da Oxidase: utiliza-se para diferenciar o género Neisseria (oxidase positiva) de outros cocos gram negativos e para distinguir a família Enterobacteriaceae (oxidase negativa), de outros bacilos gram negativos (oxidase positiva).
+Metabolismo glicídico: A maioria das bactérias utiliza os hidratos de carbono hidrolizando-os até à formação de ácidos com consequente alteração do pH do meio. Em alguns casos essa hidrólise conduz à formação de gases.
+Metabolismo proteico e enzimas
+Hidrólise da gelatina: se a bactéria possuir a enzima gelatinase possui a capacidade de hidrolisar a gelatina e de liquefazer.
+Produção de gás sulfídrico: a degradação de aminoácidos sulfurados ou peptonas origina este composto, que ao reagir com o citrato de ferro ou acetato de chumbo vai formar manchas de cor negra à superfície da gelose.
+Produção de indol: a degradação do triptofano dá origem ao indol, que após um período de 24h, reagindo com um composto específico (reagente de Kovacs), vai originar um composto de cor amarelo-avermelhado.
+Pesquisa de urease: as bactérias com urease vão hidrolisar a ureia, com produção de compostos de amónia que vão alcalinizar o meio.
+Pesquisa de coagulase: a presença desta enzima indica patogenicidade; na presença de sangue/plasma, os produtores de coagulase (como o Staphylococcus aureus) vão desencadear os mecanismos da coagulação.
+Pesquisa de enzimas hidrolíticas: esta prova tem a sua principal aplicação na caracterização de espécies do género Streptococcus, alguns dos quais elaboram enzimas hemolíticas.
+Metabolismo lipídico: Pesquisa de lipase e lecitinase.A maioria dos laboratórios clínicos produz as diversas provas bioquímicas a partir de substratos liofilizados comercializados por diversas empresas do ramo.
+Porém, atualmente, já existem empresas que comercializam essas provas bioquímicas prontas para uso individualmente ou esses testes estão disponíveis em kits comerciais (Exemplo: galerias API da Biomeriéux; Crystal da Becton Dickinson; etc.), e consistem num conjunto de criptas ou cavidades com substratos liofilizados, cujo metabolismo se pretende estudar, e um indicador para verificar a mudança de cor após incubação em estufa microbiológica a 35 °C.

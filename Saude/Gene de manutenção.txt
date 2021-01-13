@@ -1,0 +1,4 @@
+Em biologia molecular, os genes de manutenção são tipicamente genes constitutivos que são necessários para a manutenção da função celular básica e são expressos em todas as células de um organismo sob condições normais e patofisiológicas. A origem do termo "gene de  manutenção" permanece obscura.   A literatura científica, de 1976, usou o termo para descrever especificamente tRNA e rRNA.  Recentemente um banco de dados de genes de manutenção humanos e de camundongo foi desenvolvido a partir da mineração de bancos de dados com mais de 12.000 amostras de RNA-seq de alta qualidade (HRT Atlas)  . Esse banco de dados oferece também a possibilidade de buscar genes de referência adequados para a normalização de expressão gênica em mais de 120 tipos de tecidos e células diferentes.
+
+
+== Referências ==

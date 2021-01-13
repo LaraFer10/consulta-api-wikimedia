@@ -1,0 +1,531 @@
+Demanda bioquimica de oxigênio
+Demanda bioquímica de oxigênio ou demanda biológica de oxigênio (DBO) (português brasileiro) ou carência bioquímica de oxigénio (CBO) (português europeu) corresponde à quantidade de oxigênio consumido na degradação da matéria orgânica no meio aquático por processos biológicos, sendo expresso em miligramas por litro (mg/L). É o parâmetro mais empregado para medir poluição.
+Em Portugal é usualmente designada como CBO ou, mais precisamente, CBO520, e corresponde ao oxigénio consumido na degradação da matéria orgânica, a uma temperatura média de 20 °C durante 5 dias. No Brasil, utiliza-se a notação DBO 5,20. A carga de DBO 5,20, expressa em kg/dia é um parâmetro fundamental no projeto de estações de tratamento biológico.
+
+
+== Determinação da demanda biológica de oxigênio ==
+A DBO (ou CBO) é a quantidade de oxigênio necessária para oxidar a matéria orgânica biodegradável presente na água. É um parâmetro importante no dimensionamento de uma Estação de Tratamento de Águas Residuais (ETAR) ou Estação de Tratamento de Efluentes (ETE). Há dois métodos normalmente aplicados para medir a DBO, descritos a seguir.
+
+
+=== Método da diluição ===
+O teste da DBO é realizado através da diluição de uma amostra da água a ser analisada em água deionizada saturada de oxigênio. A amostra é inoculada de uma quantidade fixa de micro-organismos. Mede-se a concentração de oxigênio dissolvido (OD inicial) na amostra, pelo método de Winkler ou com eletrodo íon seletivo para oxigênio. Em seguida, a amostra é selada (para evitar a dissolução de oxigênio adicional dentro dela) e é mantida em estufa  durante cinco dias, a 20°C, em frasco âmbar (para evitar que haja fotossíntese, o que resultaria na produção de oxigênio adicional) e com o pH ajustado entre 6,5 e 8,5. Ao fim dos cinco dias, repete-se a medida do oxigênio dissolvido (OD final). A DBO5 será a diferença entre o OD inicial e o OD final. É calculada pela seguinte fórmula:
+
+DBO5 = F (T0-T5)-(F-1)(D0-D5).onde
+
+F = Fator de diluição
+T0 = Conteúdo de oxigênio (mg/l) de uma das diluições da amostra no início do ensaio
+T5 = Conteúdo de oxigênio (mg/l) de uma das diluições da amostra ao fim de 5 dias de incubação
+D0 = Conteúdo de oxigênio (mg/l) da água de diluição no início do ensaio
+D5 = Conteúdo médio de oxigênio (mg/l) da água de diluição ao fim de 5 dias de incubação
+
+
+=== Método manométrico ===
+Este método é limitado à medida do consumo de oxigênio devido apenas à oxidação do carbono. A oxidação da amônia é inibida.
+A amostra é mantida em um recipiente fechado equipado com um sensor de pressão. Uma substância que absorva o dióxido de carbono (geralmente hidróxido de lítio) é adicionada no recipiente, acima do nível da amostra. A amostra é armazenada em condições idênticas às do método de diluição. O oxigênio é consumido e, como a oxidação de amônia é inibida, o dióxido de carbono é liberado. A quantidade total de gás e, portanto, a pressão, diminui porque o dióxido de carbono é absorvido. A partir da queda de pressão, o sensor eletrônico calcula e exibe a quantidade de oxigênio consumido.
+As principais vantagens deste método em relação ao método de diluição são:
+
+simplicidade: nenhuma diluição da amostra é necessária, nenhuma semeadura, nenhuma amostra em branco.
+leitura direta do valor da DBO.
+exposição contínua do valor de DBO durante o tempo de incubação
+
+
+== Concentrações médias ==
+A DBO  média  nos efluentes são, respectivamente:
+
+Domésticos - 300 mg/l;
+Bovinos - 7000 mg/l;
+Suínos - 10.000 a 18.000 mg/l;
+Abate de animais, preparação e fabrico de conservas de carne - 1750 mg/l;
+Indústria de lacticínios - 700 mg/l;
+Indústria de conserva de peixe - 500 mg/l;
+Indústria de vinho - 3000 mg/l
+
+
+== Captações médias ==
+As captações médias de 
+  
+    
+      
+        D
+        B
+        
+          O
+          
+            5
+          
+        
+      
+    
+    {\displaystyle DBO_{5}}
+   (ou 
+  
+    
+      
+        C
+        B
+        
+          O
+          
+            5
+          
+        
+      
+    
+    {\displaystyle CBO_{5}}
+  ) em efluentes são:
+
+Domésticos - 60 g/hab/dia;
+Bovinos - 316 g/hab/dia
+Suínos - 3,10 g/kg de animal/dia.  Para 65 kg (considerando que cada animal pesa entre 60 e 70 kg), há uma emissão média de 202g/animal/dia.
+
+
+== Habitante equivalente (hab.eq.) ou equivalente populacional (e.p.) ==
+O equivalente populacional é utilizado para determinar a população equivalente a uma determinada carga industrial, isto é, que população produziria a mesma carga poluidora de uma determinada indústria.
+
+  
+    
+      
+        E
+        P
+        
+          /
+        
+        h
+        a
+        b
+        =
+        
+          
+            
+              C
+              a
+              r
+              g
+              a
+              
+                /
+              
+              d
+              i
+              a
+            
+            
+              C
+              a
+              r
+              g
+              a
+              
+                /
+              
+              h
+              a
+              b
+              
+                /
+              
+              d
+              i
+              a
+            
+          
+        
+      
+    
+    {\displaystyle EP/hab={\frac {Carga/dia}{Carga/hab/dia}}}
+  
+
+
+=== Exemplo ===
+Dado que a captação padrão de CBO520 nas águas residuais domésticas é de 60 gramas/habitante/dia, se uma estação de tratamento recebe os efluentes de uma  população de 500 habitantes, de uma criação de 1000 suínos e ainda os efluentes de um matadouro que processa 100 toneladas de carne por dia, tem-se:
+
+Cálculo da CBO
+  
+    
+      
+        D
+        B
+        
+          O
+          
+            P
+            o
+            p
+          
+        
+        =
+        60
+        g
+        
+          /
+        
+        h
+        a
+        b
+        
+          /
+        
+        d
+        i
+        a
+        ⋅
+        500
+        h
+        a
+        b
+        .
+        =
+        30000
+        g
+        
+          /
+        
+        d
+        i
+        a
+      
+    
+    {\displaystyle DBO_{Pop}=60g/hab/dia\cdot 500hab.=30000g/dia}
+  
+
+  
+    
+      
+        D
+        B
+        
+          O
+          
+            S
+            u
+            i
+            n
+            o
+            s
+          
+        
+        =
+        202
+        g
+        
+          /
+        
+        a
+        n
+        i
+        m
+        a
+        l
+        
+          /
+        
+        d
+        i
+        a
+        ⋅
+        1000
+        s
+        u
+        i
+        n
+        o
+        s
+        =
+        202000
+        g
+        
+          /
+        
+        d
+        i
+        a
+      
+    
+    {\displaystyle DBO_{Suinos}=202g/animal/dia\cdot 1000suinos=202000g/dia}
+  
+
+Cálculo do volume de efluentesConsiderando-se uma captação de 5800 litros (ou 5,8 m³) de efluentes por tonelada (t)  por dia, referente às 100t de produção do matadouro, tem-se :
+
+  
+    
+      
+        C
+        a
+        u
+        d
+        a
+        
+          l
+          
+            M
+            a
+            t
+            a
+            d
+            o
+            u
+            r
+            o
+          
+        
+        =
+         
+        5
+        ,
+        8
+        
+          
+            m
+            
+              3
+            
+          
+        
+        
+          /
+        
+        
+          t
+          
+            /
+          
+          d
+          i
+          a
+        
+        ⋅
+        100
+        
+          t
+          
+            /
+          
+          d
+          i
+          a
+        
+        =
+        580
+        
+          
+            m
+            
+              3
+            
+          
+        
+        
+          /
+        
+        d
+        i
+        a
+      
+    
+    {\displaystyle Caudal_{Matadouro}=\ 5,8{m^{3}}/{t/dia}\cdot 100{t/dia}=580{m^{3}}/dia}
+  
+Portanto, o  matadouro gera 580 m³ de efluentes por dia.
+Dado que  a DBO (ou CBO) média dos efluentes produzidos pelo abate de animais, preparação e fabrico de conservas de carne é de 1750 mg/l ou 1,75g/m³, tem-se que:
+
+  
+    
+      
+        D
+        B
+        
+          O
+          
+            M
+            a
+            t
+            a
+            d
+            o
+            u
+            r
+            o
+          
+        
+        =
+        1
+        ,
+        75
+        
+          
+            g
+            
+              m
+              
+                3
+              
+            
+          
+        
+        ⋅
+        580
+        
+          
+            
+              m
+              
+                3
+              
+            
+            
+              d
+              i
+              a
+            
+          
+        
+        =
+        1015
+        
+          
+            g
+            
+              d
+              i
+              a
+            
+          
+        
+      
+    
+    {\displaystyle DBO_{Matadouro}=1,75{\frac {g}{m^{3}}}\cdot 580{\frac {m^{3}}{dia}}=1015{\frac {g}{dia}}}
+  
+
+  
+    
+      
+        D
+        B
+        
+          O
+          
+            M
+            a
+            t
+            a
+            d
+            o
+            u
+            r
+            o
+          
+        
+        =
+        1
+        ,
+        75
+        g
+        
+          /
+        
+        
+          m
+          
+            3
+          
+        
+        ⋅
+        
+          5800
+          
+            m
+            
+              3
+            
+          
+          
+            /
+          
+          d
+          i
+          a
+        
+        =
+        1015
+        g
+        
+          /
+        
+        d
+        i
+        a
+      
+    
+    {\displaystyle DBO_{Matadouro}=1,75g/m^{3}\cdot {5800m^{3}/dia}=1015g/dia}
+  
+
+  
+    
+      
+        h
+        a
+        b
+        .
+        e
+        q
+        .
+        =
+        
+          
+            
+              30.000
+              +
+              1.015
+              +
+              202.000
+            
+            60
+          
+        
+        =
+        3884
+        h
+        a
+        b
+        .
+      
+    
+    {\displaystyle hab.eq.={\frac {30.000+1.015+202.000}{60}}=3884hab.}
+  
+Para servir a uma população de 500 habitantes mais a suinicultura e o matadouro com as características anteriormente referidas, a estação precisa ter uma capacidade de tratamento mínima de 3884 habitantes equivalente, uma vez que:
+
+1000 suínos equivalem a 3.367 hab.eq.
+um matadouro para processamento de 100 toneladas/dia equivale a 17 hab.eq.
+
+
+== Consequências ambientais ==
+Sua alta concentração pode ocasionar em problemas ambientais graves. Como o DBO corresponde a alta quantidade de matéria orgânica no meio, para sua total decomposição há o uso do oxigênio dissolvido na água, caso a matéria orgânica seja muito abundante, a decomposição pode ser anaeróbia, tendo como resultados substâncias que podem degradar a qualidade da água. Os produtos mais comuns envolvidos na degradação anaeróbia são gás carbônico, metano, amônia, ácidos graxos, mercaptanas, fenóis e aminoácidos. A total depleção do oxigênio dissolvido ocasiona na morte da biota aquática dependente do oxigênio e eutrofização do corpo d'água.
+
+
+== Métodos de remediação ==
+Para o menor impacto do DBO elevado em corpos d'água superficiais, usa-se o método de aeração artificial, para aumento da concentração de oxigênio dissolvido na água, essa oxigenação artificial deixa mais propício as condições do corpo d'água para a incorporação de micro-organismos fotossintetizantes como as algas microscópicas, havendo assim a produção de oxigênio primário.
+
+
+== Biodegradabilidade do efluente ==
+Por forma a definir, dimensionar ou controlar os processos de tratamento do efluente, é importante avaliar a sua biodegradabilidade,  relacionando-se a CBO  com a CQO (carência química de oxigênio; no Brasil, chamada demanda química de oxigênio ou DQO).
+Os valores a seguir indicados dão uma referência da biodegradabilidade de um dado efluente :
+CBO/CQO menor que 0,2 - efluente de difícil tratamento biológico.
+CBO/CQO = 0,5 - efluente de fácil tratamento biológico.
+Os valores típicos da relação DBO/DQO  (ou CBO/CQO) de um efluente doméstico situam-se entre 0,4 e 0,6.
+
+
+== Referências ==
+
+
+== Bibliografia ==
+ARAÚJO, D. O. Injeção de vapor com aditivos para recuperação de óleos viscosos, 2003.
+Correia (1985). Características, tratamento e destino final de resíduos de bovinos : análise técnica, econômica e financeira de sistemas de tratamento. Tese de Mestrado. Faculdade de Ciências e Tecnologia da Universidade Nova de Lisboa.
+Júlio César Rocha et al. Introdução à química ambiental
+LIMA, L. D.; IZARIO FILHO, H. J.; CHAVES, F. J. M. Determinação de demanda bioquímica de oxigênio para teores ≤ 5 mg L-1 O2, 2006.
+MULLER. A. C., Introdução à Ciência Ambiental; Curitiba – PUC-PR; uso didático. Págs. 67 a 73, 2002.
+PEREIRA, R. S. Identificação e caracterização das fontes de poluição em sistemas hídricos. Revista Eletrônica de Recursos Hídricos. IPH-UFRGS. V. 1, n. 1. p. 20-26. 2004.
+
+
+== Ver também ==
+Demanda química de oxigênio
+Poluição da água
+Tratamento de efluentes

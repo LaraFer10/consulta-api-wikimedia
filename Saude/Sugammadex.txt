@@ -1,0 +1,103 @@
+Sugammadex (designação Org 25969, nome comercial Bridion) é um agente de reversão do bloqueio neuromuscular produzido pelo brometo de rocurônio ou pelo brometo de vecurônio utilizados na anestesia geral.
+Ele foi descoberto no Centro de Pesquisas de Newhouse, Escócia. Inicialmente foi comercializado pela farmacêutica Organon, que foi adquirida pela multinacional farmacêutica Schering-Plough, em 2007, a qual por sua vez agora faz parte da Merck, tal que o Sugammadex é comercializado pela Merck.
+Em 3 de Janeiro de 2008 a Schering-Plough submeteu o fármaco à Food and Drug Admnistration dos Estados unidos - o que foi rejeitado em Agosto de 2008. Na Comunidade Europeia o seu uso foi aprovado em 29 de Julho de 2008.
+Sugammadex é uma gama-ciclodextrina com um núcleo lipofílico revestido por uma camada hidrofílica periférica. Esta gama-ciclodextrina foi modificada do seu estado natural com o adição oito grupos tio-éter carboxílicos nos carbonos seis da glicopiranose. Estas extensões criaram uma cavidade que permite a encapsulação da molécula de Rocurônio.
+Depois de passados os estudos (fase 3 e 4) foi aprovado para uso clínico. É o primeiro  SRBA (Selective Relaxant Binding Agents), ou seja, agentes seletivos de ação relaxante 
+
+
+== Mecanismo de ação ==
+Sugammadex é uma versão modificada da γ-ciclodextrina, com um núcleo lipofílico e um hidrofílico na periferia. . Esta ciclodextrina foi modificada a partir do seu estado natural, colocando oito grupos carboxilicos tio éter no sexto carbono. Estas extensões alargaram a cavidade da molécula permitindo maior encapsulamento do rocurônio. Estas uniões são das mais fortes existentes entre ciclodextrinas e moléculas visitantes. A molécula de Rocurônio (um esteróide modificado) ligada ao interior lipofílico do Sugammadex fica assim impossibilitada de se unir ao receptor de acetil-colina na junção neuromuscular. A maior vantagem do Sugammadex é a reversão do bloqueio neuromuscular sem a inibição concomitante da acetil- colinesterase  - de forma que assim não ocorre a instabilidade autonômica produzida por anticolinesterásicos como a Neostigmina, e agentes antimuscarínicos como a atropina não necessitam de ser administrados - resultando em maior estabilidade hemodinâmica e autonômica comparativamente aos agentes tradicionais de reversão.
+Na necessidade de um  relaxante muscular de início rápido e  de curta duração de ação, previamente só havia o Suxametónio disponível no arsenal terapêutico - uma alternativa não ideal. Como o Rocurônio em altas doses tem um rápido início de ação e é reversível, com o Sugammadex foi encontrada uma alternativa potencial interessante.
+Recurarização, um fenômeno de recorrência do bloqueio neuromuscular pode ocorrer quando os agentes de reversão são metabolisados antes do mesmo acontecer com os relaxantes - é uma situação bastante rara, exceto com os relaxantes de duração de ação mais longa, como a Gallamina, Pancurônio e Tubocurarina. Com o Sugammadex ocorre raramente e só quando são administradas doses insuficientes. O mecanismo está relacionado com a redistribuição do relaxante, após a reversão: a dose de Sugammadex é suficiente para formar complexos de inclusão no compartimento central do anel macrocíclico da ciclodextrina, mas insuficiente para acomodar o relaxante adicional que vem de compartimentos periféricos para o central.
+O Sugammadex também tem afinidade por outros relaxantes musculares aminoesteróides, como o Vecurônio e o Pancurônio. Apesar da afinidade do Sugammadex com o Vecurônio ser menor que com o Rocurônio a reversão com o Vecurônio é eficiente porque existem menos moléculas de Vecurônio in vivo para um bloqueio equivalente. O Vecurônio é sete vezes mais potente que o rocurônio e, por isso, necessita de menos moléculas para provocar bloqueio. O bloqueio com Pancurônio foi revertido com sucesso em estudos clínicos de fase III.
+Puhringer et al, num estudo publicado em 2008, demonstrou a capacidade de reversão rápida e dose-dependente do Sugammadex do bloqueio muscular provocado por uma dose elevada de rocurônio no contexto de Intubação de Sequência Rápida
+
+
+== Tolerabilidade ==
+O Sugammadex foi bem tolerado em ensaios clínicos, quer em doentes ou em indivíduos saudáveis.
+Em análises cruzadas o perfil de tolerabilidade foi, em geral, similar ao do placebo ou ao da associação neostigmina- Glicopirrolato.
+
+
+== Posologia ==
+O Sugammadex deve se administrado apenas por ou sob a supervisão de um anestesista. Recomenda-se o uso de monitorização neuromuscular apropriada para avaliar a recuperação do bloqueio neuromuscular, que, no caso se administração de fármacos que podem causar deslocamento do Sugammadex, se pode estender até 6 horas. A dose de Sugammadex recomendada depende do nível de bloqueio neuromuscular, não do esquema anestésico. O Sugammadex pode ser usado para reversão de diferentes níveis de bloqueio neuromuscular induzidos pelo rocurônio ou pelo Vecurônio.
+
+
+=== Adultos ===
+Reversão de rotina:  É recomendada uma dose de 4 mg/kg de Sugammadex se a recuperação atingiu, pelo menos, 1-2 contagens pós-tetânicas (PTC) após o bloqueio neuromuscular induzido pelo rocurônio ou pelo Vecurônio.  O tempo médio para a recuperação da relação T4/T1 para 0,9 é de, aproximadamente, 3 minutos.
+Uma dose de 2 mg/kg é recomendada se a recuperação espontânea ocorreu, pelo menos, ao reaparecimento de T2 após o bloqueio neuromuscular induzidos pelo rocurónio ou pelo Vecurônio. O tempo médio para a recuperação da relação T4/T1 para 0,9 é de, aproximadamente, 2 minutos.
+Usando as doses recomendadas na reversão de rotina o tempo de reversão do bloqueio neuromuscular do Rocurônio será ligeiramente mais rápido que o do Vecurônio
+Reversão imediata após o bloqueio induzido pelo Rocurônio: Se existe a necessidade clínica de reversão imediata após administração de Rocurônio é recomendada uma dose de 16 mg/kg de sugammadex. Após administração de um bólus de 1.2mgKg de Rocurônio, o tempo médio para a recuperação da relação T4/T1 para 0,9 é de, aproximadamente,1,5  minutos. Não há dados que permitam recomendar o Sugammadex na reversão imediata após administração de vecurônio.
+Re-administração de Sugammadex: Na situação excepcional de recorrência do bloqueio neuromuscular pós-operatório após uma dose inicial de 2 ou 4 mg/kg de Sugammadex é recomendado repetir uma dose de 4 mg/kg de Sugammadex. Após a segunda dose de Sugammadex o paciente deve ser rigorosamente monitorado para assegurar a recuperação sustentada da função neuromuscular.
+Re-administração de Rocurônio ou Vecurônio após sugamadex: deve ser observado um tempo de espera de 24 horas.
+
+
+=== Compromisso renal ===
+No compromisso renal ligeiro a moderado (cl. creatinina>30 ml /h e < 80 ml/h) as doses recomendadas são as mesmas dos adultos saudáveis
+Não é recomendada a utilização de Sugammadex nos doentes com comprometimento renal grave (cl creatinina < 30 ml / ou em diálise)
+
+
+=== Idosos ===
+Embora os tempos de recuperação em idosos tendam a ser ligeiramente mais prolongados, devem ser usadas as doses recomendadas para os adultos
+
+
+=== Obesidade ===
+Em doentes obesos a dose de Sugammadex deverá ter como base o peso corporal atual. Devem ser usadas as doses recomendadas para os adultos.
+
+
+=== Compromisso hepático ===
+No comprometimento hepático leve a moderado não são necessários ajustes na dose, já que o Sugamadex é eliminado principalmente por via renal.
+Não foram realizados ainda estudos suficientes em pacientes com comprometimento hepático grave, tal que o sugammadex deve ser usado com bastante precaução nestes pacientes.
+
+
+=== População pediàtrica ===
+Os dados para a polulação pediátrica ainda são limitados.
+
+
+==== Crianças e adolescentes ====
+Na reversão de rotina do bloqueio induzido pelo Rocurônio é recomendada a dose de 2 mg/kg de sugammadex. A reversão imediata em crianças e adolescentes ainda não foi devidamente estudada, pelo que não é recomendada.
+
+
+==== Recém-nascidos de termo e lactentes ====
+É limitada a experiência do Sugammadex nos lactentes (s 30 dias a 2 anos), e nos recém nascidos de termo (menos de 30 dias) não foram realizados estudos. Não se recomenda o uso de Sugammadex nestes doentes.
+
+
+=== Modo de administração ===
+O sugammadex deve ser administrado endovenosamente em bólus único, rapidamente (10 segundos)
+
+
+== Contra-indicações ==
+Hipersensibilidade à substância ativa ou a qualquer dos excipientes.
+
+
+== Advertências e precauções especiais de utilização ==
+
+
+=== Monitorização respiratória durante a recuperação ===
+É obrigatório manter o doente sob ventilação assistida até que recupere uma respiração eficaz.
+Se houver recorrência de bloqueio muscular deve ser fornecido suporte ventilatório adequado.
+
+
+=== Recorrência de bloqueio neuromuscular ===
+Em ensaios clínicos foi referida a recorrência do bloqueio neuromuscular quando foram administradas, principalmente, doses insuficientes de Sugammadex. Devem ser usadas as doses recomendadas para prevenção deste efeito indesejável.
+
+
+=== Efeito na Hemostáse ===
+Doses de 4 mg /kg e 16 mg /kg resultaram num prolongamento máximo do aPTTde 17 a 22% e do PT (INR) de 11 a 22%. Estas alterações foram de curta duração (< 30 min). Com base nos dados clínicos não houve efeito clinicamente relevantte do Sugammadex isolado ou em associação com anticoagulantes na incidência de complicações hemorrágicas peri ou pós-operatórias.
+Em experiências in vitro foi onbservada uma interacção farmacodinâmica (prolongamento do aPTT e PT) com antagonistas da vit K, heparina não fracionada, heparinas de baixo peso molecular, rivaroxabano, e dagitgatrano. Em pacientes que recebem profilaxia pré-operatória de rotina com anticoagulantes esta interação farmacodinâmica não é clinicamente relevante. Devem ser tomadas precauções em doentes hipocuagulados por co-morbilidade. Em doentes com déficits hereditários de fatores de coagulação dependentes da vitamina K, coagulopatia pré-existente, que tomam derivados cumarínicos e com um INR acima de 3.5, que tomam anticoagulantes e que recebem uma dose de Sugammadex de 16 mg/kg, o anestesista deve decidir o risco-benefício da utilização de Sugammadex. Recomenda-se sempre uma monitoração  atentada hemostase e dos parâmetros da coagulação.
+
+
+=== Compromisso renal ===
+O uso de Sugammadex não é recomendado em doentes com compromisso renal grave, incluindo dialisados.
+
+
+=== Interacções devidas ao prolongamento do efeito do Rocurónio ou vecurónio ===
+Quando são administrados no período pós-operatório fármacos que podem potenciar o bloqueio neuromuscular do rocurônio ou do Vecurônio é necessária atenção à possibilidade de recurarização - deve observar-se o folheto informativo do tocurônio ou do Vecurônio para verificar os fármacos específicos que potenciam a ação destes relaxantes musculares. Se existir recurarização pode ser necessário ventilar o paciente e readministrar o Sugammadex.
+
+
+=== Interacções potenciais ===
+Interações por captura: O Sugammadex pode diminuir as concentrações plasmáticas de certos fármacos, p. ex, anticontraceptivos hormonais. Devem tomar-se medidas de correção apropriadas.
+Interações por deslocamento: a administração de certos fármacos após Sugammadex pode eventualmente provocar deslocamento do rocurônio ou o vecurônio do Sugammadex, com recurarização.
+O fármaco causador deveser interrompido, os pacientecuidadosamente monitoridos até 6 horas após administração do Sugammadex.  O Toremifeno e o ácido Fusídico podem causar este fenômeno.
+
+
+== Referências ==

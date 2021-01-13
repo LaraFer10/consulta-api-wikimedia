@@ -1,0 +1,32 @@
+α-L-fucosidases são glicosidases capazes de realizar a clivagem de glicoconjugados contendo ligações α-L fucose, esta
+enzima já foi purificada de vários organismos, como bactérias, fungos, protozoários, além de vários tecidos de mamíferos . O estudo dessas enzimas é uma importante ferramenta para elucidação da estrutura de carboidratos complexos e a função da α-L-fucose nos vários compartimentos celulares . Esta enzima esta envolvidas em uma variedade de processos biológicos, sua deficiência causa uma desordem que leva ao acúmulo de fucose denominada fucosidose a qual é frequetemente letal .
+
+
+== Informações ==
+E.C.: 3.2.1.51 pH: Atividade máxima
+entre pH 4,0 e pH 6,5 .
+Sinônimos: FUCA1, AFU, ALF, hFUC .
+
+Produto: alpha-L-fucose + álcool .
+Estabilidade: A adição de 0,015% de Triton X-100 retém cerca de 100% da atividade
+enzimática por cerca de 3 meses quando mantida sob congelamento e por cerca de
+2 semanas se mantida a 4°C .
+Família Gênica: Pertence à família 29 de Glicosídeo hidrolases (GH29) .
+Estrutura: Proteína multimérica contendo subunidades com cerca de 50-60 kDa. Diferenças estruturais são encontradas em função de sua localização tecidual, isso pode ser atribuído à variações no conteúdo de ácido siálico presentes nos tecidos, bem como à mutações nos alelos gênicos .
+Isoformas: Cerca de 5 isoformas foram descritas até o momento.
+Substratos e Parâmetros Cinéticos: São descritos valores de Km de 0,07 mM para 4-Metilumbeliferil α-L-fucopyranoside e Km de 0,18 mM para 4- Nitrophenyl-alpha-L-fucopiranoside .
+Inibidores: Inibição de α-fucosidase humana pode ser efetuada através de N-benzyl aminocyclopentitols, obtendo Ki de 0,3 mM. Enquanto a inibição da mesma enzima em Bos taurus pode ser efetuada empregando Deoxyfuconojirimycin Ki = 0,24 μM, apresentando mecanismo de inibição competitiva, bem como pelo emprego de D-1-Deoxyrhamnojirimycin, apresentando Ki = 11 μM e mecanismo de inibição competitiva .
+Organismos: Encontrada em diversos organismos como plantas, fungos, bactérias e mamíferos. Diferenças na hidrólise de substratos artificiais são encontradas para espécies distintas. Em mamíferos e alguns organismos marinhos é possível observar hidrólise de
+substratos variados, como p-nitrophenyl, α-L-fucopyranoside e methyl α-L-fucopyranoside. Entretanto em alguns microorganismos encontramos capacidade de hidrólise apenas para ligação fucosídica de substratos naturais .
+
+Função: Participa do metabolismo de fucose e de compostos contendo fucose, como oligossacarídeos, glicolipídeos e glicoproteínas. Possui participação na resposta imune, transdução de sinal, embriogenese, apoptose, adesão de patógenos, extravasamento de leucócitos e em processos patológicos como câncer e aterosclerose .
+Importância Fisiológica: A redução ou mutações nesta enzima em humanos leva ao desenvolvimento de fucosidose, patologia caracterizada pelo acúmulo de fucoglicoconjugados em vísceras e cérebro, resultando em retardo motor e mental, sendo frequentemente fatal .
+Utilização: Emprego da enzima como biomarcador para detecção de hepatocarcinoma de fase aguda, e recorrência de câncer coloretal . 
+Purificação da enzima: Após obtenção do tecido/amostra de interesse, estes
+são incubados a 37ºC para desprendimento da proteína. Posteriormente é efetuada precipitação com saturação de sulfato de amônio (35 – 50%), seguida de
+centrifugação a 35000 rpm e posteriormente submetida novamente a etapa de
+precipitação. O sobrenadante obtido nas etapas de precipitação é submetido a
+Ultrafiltração de maneira a reduzir o volume de amostra, seguida por novas etapas de precipitação e por fim levada a coluna de troca iônica constituída de CM-celulose. A validação do material purificado é obtida através de verificação de atividade específica, bem como pela realização de Western Blotting empregando anticorpo policlonal anti-AFU. A estabilidade da enzima é observada em pH 5,0, podendo esta ser congelada por pelo menos dois meses .
+
+
+== Referencias ==

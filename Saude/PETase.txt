@@ -1,0 +1,27 @@
+PETases são uma classe de enzimas esterásicas que catalisam a hidrólise de plástico PET para o monoetil-2-hidroxietiltereftalato (MHET) monomérico. A reação química idealizada é (onde n é o número de monômeros na cadeia polimérica):
+
+(politereftalato de etileno)n + H2O → (politereftalato de etileno)n-1 + MHET
+A quantidade vestigial do PET decompõe-se em tereftalato de bis-hidroxietila (BHET). As PETases também podem quebrar o plástico PEF (polietileno-2,5-furandicarboxilato), que é um substituto bioderivado de PET. PETases não podem catalisar a hidrólise de poliésteres alifáticos como succinato de polibutileno ou poliácido láctico. 
+
+
+== História ==
+A primeira enzima PETase foi descoberta em 2016, a partir da bactéria Ideonella sakaiensis 201-F6 encontrada em amostras de lodo  coletadas perto de um local de reciclagem de garrafas PET japonesas. Outros tipos de hidrolases degradadoras de PET são conhecidos antes desta descoberta. Enzimas degradantes de poliéster datam desde 1975 (α-quimotripsina) e 1977 (lipase), por exemplo. O plástico PET foi amplamente utilizado na década de 1970 e tem sido sugerido que as PETases em bactérias evoluíram apenas recentemente.
+
+
+== Divisão MHET em I. sakaiensis ==
+A MHET é decomposta em I. sakaiensis pela ação da enzima MHETase em ácido tereftálico e etilenoglicol. Estes são inofensivos ao meio ambiente, pois são decompostos ainda mais para produzir dióxido de carbono e água.
+
+
+== Estrutura ==
+
+Em abril de 2018, havia 13 estruturas cristalinas tridimensionais conhecidas de PETases: 6EQD, 6EQE, 6EQF, 6EQG, 6EQH, 6ANE, 5XJH, 5YNS, 5XFY, 5XFZ, 5XG0, 5XH2 e 5XH3.
+
+
+== Animações e imagens ==
+
+
+== Mutações ==
+Em 2018, cientistas da Universidade de Portsmouth, com a colaboração do Laboratório Nacional de Energia Renovável do Departamento de Energia dos Estados Unidos, desenvolveram um mutante desse PETase que degrada o PET mais rápido do que aquele em seu estado natural. Neste estudo também foi demonstrado que as PETases podem degradar o polietileno 2,5-furandicarboxilato (PEF).
+
+
+== Referências ==

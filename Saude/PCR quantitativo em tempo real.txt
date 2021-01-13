@@ -1,0 +1,18 @@
+Na biologia molecular a qPCR quantitativo em tempo real (do inglês: Reverse transcription polymerase chain reaction quantitative real time, curto: RT-qPCR ou qRT-PCR) é uma técnica de laboratório baseada no princípio da reação em cadeia da polimerase (PCR) para multiplicar ácidos nucleicos e quantificar o DNA obtido, onde o material genético inicial na reação de PCR é RNA, que é transcrito no reverso em seu complemento de DNA por enzima transcriptase reversa.
+Já a PCR quantitativo em tempo real (do inglês: Polymerase chain reaction quantitative real time), curto: qPCR é uma técnica baseada no princípio da reação da cadeia polimerase onde uma máquina qPCR e um corante fluorescente na sua reação de PCR (Sybr green ou Taqman Probe) se liga ao seu produto genético amplificado e dá-lhe um valor Ct, o que mais tarde lhe dará uma idéia sobre a quantidade do DNA na sua reação dependendo dos padrões usados.
+A reação em cadeia de polimerização em tempo real combina a metodologia de PCR convencional com um mecanismo de detecção e quantificação por fluorescência. A metodologia permite que os processos de amplificação, detecção e quantificação de DNA sejam realizadas em uma única etapa, agilizando a obtenção de resultados e diminuindo o risco de contaminação da amostra e dando maior precisão.
+
+
+== Bibliografia ==
+MACKAY, I.M. et al. Real-time PCR in virology. In: Nucleic Acids Research 30(6) 1292-1305, 2002.
+MACKAY, I.M. et al. Real-time PCR in microbiology laboratory. In: Clin Microbiol Infet 10(3) 190-212, 2004.
+SAUNDERS, N.A Real-time PCR In: Methods Mol Biol 266: 191-211, 2004.
+
+
+== Ver também ==
+Reverse transcription polymerase chain reaction
+
+
+== Ligações externas ==
+
+«Real-Time PCR for Systems Biology» (PDF) (em inglês)

@@ -1,0 +1,33 @@
+O objetivo principal da avaliação audiológica é determinar a integridade do sistema auditivo, além de identificar tipo, grau e configuração da perda auditiva em cada orelha. Segundo o Conselho Federal de Fonoaudiologia (CFFa), o fonoaudiólogo ou Audiologista possui amparo legal que garante sua atuação profissional de forma plena, ética e autônoma, ou seja, o fonoaudiólogo é um profissional especializado que pode realizar avaliação audiológica.
+A audiometria tonal liminar (ATL) é utilizada para o disgnóstico audiológico, pois determina os limiares auditivos comparando os valores obtidos com os padrões de normalidade, usando como referência o tom puro. Os limiares audiométricos encontrados devem ser dispostos e representados graficamente no audiograma, usando símbolos padronizados.
+Para a realização da ATL, além da cabina tratada acusticamente, o fonoaudiólogo deve dispor de um audiômetro, onde fones de ouvidos estarão conectados para a pesquisa de limiares tonais por via aérea (VA) e um vibrador ósseo, para a pesquisa de limiares tonais por via óssea (VO). O paciente deve estar sentado dentro da cabina. Deve ser orientado a levantar a mão ou apertar um botão a cada vez que ouvir um som (apito), mesmo que este seja muito fraco. Geralmente o exame é iniciado pela melhor orelha. Caso o paciente não perceber diferenças, pode-se iniciar pela orelha direita.
+
+
+== Tipos ==
+Os principais tipos de audiometria são:
+
+audiometria tonal, que é considerado um teste subjetivo para avaliar o grau e o tipo de perda auditiva
+audiometria vocal, que pesquisa a capacidade de compreensão da fala humana.
+
+
+== Tipos de perda auditiva ==
+A classificação do tipo de perda auditiva tem por objetivo sugerir a causa da alteração. Será usado a descrição dos autores Silman e Silverman (1997)
+Perda auditiva condutiva: a perda auditiva condutiva é caracterizada por qualquer problema na da orelha externa e/ou média que impeça o som seja conduzido até a cóclea de maneira adequada, geralmente envolve uma redução do nível do som ou da capacidade de ouvir sons fracos. (Limiares de via óssea menores ou iguais a 15 dB NA e limiares de via aérea maiores que 25 dB NA, com gap aéreo-ósseo maior ou igual a 15 dB).
+Perda auditiva neurossensorial: a perda auditiva neurossensorial é caracterizada pela falta ou dano de células sensoriais (células ciliadas) na cóclea e/ou no nervo auditivo, geralmente é permanente.  (Limiares de via óssea maiores do que 15 dB NA e limiares de via aérea maiores que 25 dB NA, com diferença aéreo-óssea de até 10 dB no máximo).
+Perda auditiva mista: a perda auditiva mista é uma combinação de uma perda auditiva neurossensorial e condutiva. É o resultado de problemas na orelha interna, média e/ou externa. (Limiares de via óssea maiores do que 15 dB NA e limiares de via aérea maiores que 25 dB NA, com gap aéreo-ósseo maior ou igual a 15 dB).
+
+
+== Grau de perda auditiva ==
+A classificação de perda auditiva varia de acordo com os autores:
+
+Para a classificação de grau de perda auditiva em crianças de até 7 anos de idade, recomendamos o critério de Northern e Downs (2002) e o critério da OMS (2014):
+
+
+== Ver também ==
+Audiograma
+Audiômetro
+Teste de Rinne
+Teste de Weber
+
+
+== Referências ==

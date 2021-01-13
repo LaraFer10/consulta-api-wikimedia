@@ -1,0 +1,25 @@
+Hidrolases são enzimas que promovem a cisão de um material orgânico através da utilização de água.
+
+
+== Nomenclatura ==
+A determinação do nome das enzimas é normatizada por um comitê especializado , o Nomenclature Committee of the International Union of Biochemistry and Molecular Biology (NC-IUBMB).
+
+
+=== Classes de hidrolases ===
+EC3.1 - Hidrolases que atuam em ligações ester.
+EC3.2 - Glicosilases.
+EC3.3 - Hidrolases que atuam em ligações eter.
+EC3.4 - Peptidases.
+EC3.5 - Hidrolases que atuam em ligações nitrogênio-carbono não peptídeas.
+EC3.6 - Hidrolases que atuam em anidridos ácidos.
+EC3.7 - Hidrolases que atuam em ligações carbono-carbono.
+EC3.8 - Hidrolases que atuam em ligações halidas.
+EC3.9 - Hidrolases que atuam em ligações fósforo-nitrogênio.
+EC3.10 - Hidrolases que atuam em ligações enxofre-nitrogênio.
+EC3.11 - Hidrolases que atuam em ligações fósforo-carbono.
+EC3.12 - Hidrolases que atuam em ligações enxofre-enxofre.
+EC3.13 - Hidrolases que atuam em ligações carbono-enxofre.
+
+
+== Ligações externas ==
+Enzimas do grupo EC.3

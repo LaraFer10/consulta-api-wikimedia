@@ -1,0 +1,29 @@
+Polegada de mercúrio (inHg e "Hg) é uma unidade de medida para pressão. É ainda utilizada como pressão atmosférica em previsões do tempo, refrigeração e na aviação nos Estados Unidos.
+É a pressão exercida por uma coluna de mercúrio de 1 in (2,54 cm) em altura na gravidade padrão. A conversão para unidades métricas depende da temperatura do mercúrio, e então, de sua densidade; os fatores de conversão mais comuns são:
+Em literatura antiga, uma "polegada de mercúrio" é baseada na altura de uma coluna de mercúrio a 60 °F (15.6 °C)
+1 inHg60 °F = 3376.85 PaEm unidades inglesas: 1 inHg60 °F = 0.489 771 psi, ou 2.041 771 inHg60 °F = 1 psi.
+
+
+== Aplicações ==
+
+
+=== Aeronaves e automóveis ===
+Os altímetros utilizados em aeronave medem a pressão relativa entre a pressão ambiente e a pressão no solo. Nos Estados Unidos e Canadá, esta pressão é fornecida em polegadas de mercúrio. As leituras feitas no solo variam de acordo com a meteorologia e com o trajeto da aeronave, precisando ser periodicamente atualizadas pelo controle de tráfego aéreo. Aeronaves operando em altitudes maiores (voando em nível de voo) ajustam seu altímetro para uma pressão padrão de 29.92 inHg (1 atm = 29.92 inHg) ou 1013.25 hPa (1 hPa = 1 mbar) independente da pressão real ao nível do mar.
+Aeronaves equipadas com motor a pistão com hélices de velocidade constante também utilizam polegadas de mercúrio para medir a pressão do manifold, que é o indicativo de potência que o motor produz. Em corridas automobilísticas, em particular o United States Auto Club e Champ Car, utilizam a unidade para medir a pressão de admissão do turbocompressor. Entretanto, a polegada de mercúrio é utilizada ainda hoje em modificações de desempenho de carros para medir a quantidade de vácuo na admissão do motor. Isto pode ser visto em instrumentos boost/vacuum. 
+
+
+=== Sistemas de refrigeração ===
+No condicionamento de ar e refrigeração, a medida é comumente utilizada para descrever "polegadas de vácuo de mercúrio", ou pressões abaixo da pressão atmosférica ambiente, para recuperação de gases refrigarentes dos sistemas de condicionamento de ar e refrigeração, além de servir para testes de vazamento de sistemas sob vácuo e para desidratação destes sistemas.
+Polegadas de mercúrio também é usado no teste do sistema de vácuo do sistema de arrefecimento. Um mecânico utiliza esta ferramenta para remover ar de sistemas de arrefecimento modernos, testando habilidade do sistema de manter o vácuo e em seguida reabastecem usando o vácuo como sucção para o novo líquido de arrefecimento. Os valores mínimos comuns de vácuo variam entre 22 e 27 inHg. 
+
+
+=== Freios a vácuo ===
+Esta medida era também utilizada como padrão em freios a vácuo de locomotivas.
+
+
+== Ver também ==
+Bar (unidade)
+Barômetro
+
+
+== Referências ==

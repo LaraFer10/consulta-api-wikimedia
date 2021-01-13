@@ -1,0 +1,19 @@
+No campo da farmacologia, um agonista inverso é um agente capaz de se ligar ao mesmo receptor que um agonista, mas induzindo uma resposta farmacológica oposta.
+Um pré-requisito para a ação de um agonista inverso é a existência de uma atividade constitutiva (também conhecida como intrínseca ou basal) na ausência de qualquer ligante. Um agonista aumenta a atividade do receptor, superando o nível basal, enquanto o agonista inverso joga o nível de atividade para baixo do basal. Um antagonista neutro não possui atividade alguma na ausência de  um agonista ou agonista inverso, mas pode bloquear a atividade de ambos.A eficácia de um agonista total é, por definição,100%,  a de um antagonista neutro é de 0% e a de um agonista inverso é < 0% (negativa).
+
+
+== Exemplos ==
+Um exemplo de receptor que possui níveis basais de atividade e para os quais já foram identificados agonistas inversos são os receptores GABAA. Agonistas do receptor GABAA geram um efeito sedativo, enquanto agonistas inversos possuem efeitos ansiogênicos (como o Ro15-4513)ou até convulsivos (certas beta-carbolinas).Dois agonistas inversos endógenos conhecidos são o peptídeo relacionado a Agouti (AgRP)  e o peptídeo sinalizador de Agouti (ASIP). Ambos ocorrem naturalmente em humanos e eles se ligam aos receptores de melanocortina 4 e 1 (Mc4R e Mc1R), respectivamente, com afinidades da ordem de nanomolar.Os antagonistas opióides naloxona e naltrexona são também agonistas inversos parciais dos receptores opióides to tipo mu.
+
+
+== References ==
+
+
+== Veja também ==
+Agonista
+Antagonista 
+
+
+== Ligações externas ==
+Jeffries WB (17 de fevereiro de 1999). «Inverse Agonists for Medical Students». Office of Medical Education - Courses - IDC 105 Principles of Pharmacology. Creighton University School of Medicine - Department of Pharmacology. Consultado em 12 de agosto de 2008 
+Inverse Agonists: An Illustrated Tutorial Panesar K, Guzman F. Pharmacology Corner. 2012

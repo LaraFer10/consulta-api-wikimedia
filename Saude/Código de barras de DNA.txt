@@ -1,0 +1,59 @@
+Códigos de barra de DNA são sequências curtas de DNA, amplificadas por PCR e sequenciadas, que podem ser utilizadas na distinção e identificação de espécies. Também chamados “códigos da vida”, baseiam-se em sequências de 500 a 800 pares de bases padronizados, ou seja, presentes em um mesmo trecho do genoma. Estas sequências podem ser utilizadas para identificar organismos a partir da diversidade genética/nucleotídica existente entre eles dentro de regiões específicas do DNA e sua efetividade depende da existência de uma lacuna ou distância entre variações intraespecíficas e interespecíficas, de modo que divergências de um código de barras de DNA dentro de uma espécie (variações intraespecíficas) devam ser menores que entre espécies diferentes (variações interespecíficas), o chamado “barcoding gap”. Esse código pode ser visto em todas as células e constitui uma rápida e eficaz ferramenta taxonômica.
+
+
+== Histórico ==
+O sistema de identificação baseado na morfologia apresenta limitações e isso vem associado à escassez de taxonomistas especializados nos diferentes grupos de organismos que povoam o planeta. Com isso, tornou-se evidente a necessidade de uma nova abordagem para a identificação de táxons de maneira mais eficiente. Deste modo, em 2003, pesquisadores da Universidade de Guelph, em Ontário, Canadá, propuseram o código de barras de DNA (DNA barcoding) como forma de identificar as espécies com base na diversidade de uma parte da sequência de um gene mitocondrial: subunidade I da citocromo oxidase (COI). A ideia era o uso de uma pequena sequência genética de uma determinada parte do genoma na discriminação de espécies da mesma forma que um scanner de supermercado distingue produtos usando as listras pretas do Código Universal de produtos.
+O Código Universal de Produtos (código de barras universal dos produtos), utilizado para identificar produtos no mercado varejista, emprega 10 números alternados em 11 posições para gerar 100 bilhões de identificadores únicos. Inspirados neste sistema, o cientista Paul Hebert e seus colaboradores (2003) esperavam tornar o processo de identificação de espécies muito mais rápido e formar um banco de dados de toda a biodiversidade mundial.
+
+
+== CBOL/ iBOL, BrBOL e Barcoding Life Database (BOLD) ==
+Em 2004, foi criado um dos principais órgãos envolvidos no projeto códigos de barra de DNA, o Consórcio para Códigos de Barra da Vida (CBOL) que promove códigos de barra de DNA através de mais de 200 organizações-membro a partir de 50 países, objetivando estabelecer uma ferramenta acurada para a pesquisa taxonômica em espécies animais e vegetais, auxiliar na identificação correta de espécimes e de ampliar e estimular a taxonomia dos vários grupos de organismos vivos.
+O código de Barras da Vida Internacional (iBOL) foi criado em Outubro de 2010 e representa um esforço sem fins lucrativos para envolver tanto países em desenvolvimento quanto desenvolvidos, na ideia do “código de barras” mundial, estabelecendo compromissos e grupos de trabalho em 25 países.
+O sistema de dados de códigos de barra da vida, estabelecido em 2005 pelo Instituto de Biodiversidade de Ontário, é uma bancada de trabalho online que
+
+combina um repositório de código de barras, ferramentas analíticas, interface para apresentação de sequências de GenBank, uma espécie de ferramenta de identificação e conectividade para os desenvolvedores web externos e bioinformatas. O  banco de dados do projeto Barcoding of Life reúne, atualmente, quase três milhões de sequências. A submissão dessas sequências segue um padrão de qualidade e acompanha também outros dados, como descrições morfológicas, fotografias, e o museu ou herbário onde aquela amostra foi depositada.
+O site do BOLD (boldsystems.org) disponibiliza, além do número atualizado de códigos de barra de DNA existentes no mundo, um portal público de buscas e um portal educacional para possibilitar uma melhor navegação no banco de dados além de tornar possível a contribuição para novos códigos de barra, dentre outras funcionalidades.
+Vale ressaltar também o BrBOL (Brazilian Barcode of Life), um projeto que visa mapear a grande biodiversidade brasileira. O projeto tem a participação de centenas de instituições, que em sua maioria são brasileiras, havendo também instituições do Canadá, EUA, Espanha, França, Noruega e Reino Unido.
+
+
+== Códigos de Barra de DNA ==
+Animais:Em 2003, Paul Herbert e colaboradores, propuseram que um gene mitocondrial de 650 pares de base, o gene citocromo oxidase I (COI), como o “barcoding  of life” para animais, demonstrando diferenças superiores a 2% dessa porção gênica entre espécies próximas. Diferenças intraespecíficas são, normalmente, inferiores a 1%, o que demonstra a eficácia na utilização do COI como código de barras entre as espécies animais. No entanto, este trecho do genoma falha na discriminação entre as espécies de plantas devido às baixas taxas de substituição de bases no DNA mitocondrial, além da hibridização e poliploidia comumente observadas, sendo necessária a criação de barcodes específicos para plantas.
+Fungos:O gene citocromo oxidase I (COI) funciona relativamente bem como código de barras em alguns gêneros de fungos, como o Penicillium. Contudo, em alguns outros grupos examinados experimentalmente, o resultado se mostra inconsistente e não representativo da enorme variabilidade presente em fungos. Os espaçadores internos transcritos (ITS) da região do DNA ribossomal têm maior probabilidade de identificação bem sucedida para a mais ampla variedade de fungos, inclusive quanto a diversidade marinha. Segundo Schoch e cols., 2011, regiões 5.8 S (ITS) e 18S (subunidade menor do ribossomo-SSU) do RNAr apresentam alta performance como códigos de barras de DNA padrão para fungos. Contudo, genes codificadores de proteínas também têm sido descritos como códigos de barras eficientes na discriminação entre algumas espécies de fungos, como o gene translation elongation factor 1-α (tef-1α), que é muito usado na discriminação de espécies do gênero Fusarium sp. e Aspergillus sp. ou o gene codificador da subunidade mais larga da RNA polimerase II (RBP1), usado nos estudos de Microsporidia, Basiodiomycota e Zygomycota e Ascomycota. Outros genes como o 28S do RNAr, subunidade larga do ribossomo (LSU), e β-tubulina também são citados.
+Protistas:Em se tratando de protistas, algumas regiões do genoma já foram propostas como “barcoding”, como a região 28S da subunidade maior do ribossomo, ITS-1/2 e o gene mitocondrial da citocromo oxidase-1 (COI). Porém, os principais marcadores usados como códigos de barra de DNA para a discriminação entre as espécies pertencentes aos protistas são os genes que codificam para RNAr, em especial o gene 18S da subunidade pequena ribossomal (SSU) que é altamente expresso, permitindo muitas cópias por genoma e investigação ecológica molecular a nível de RNA. A grande diversidade deste grupo acrescenta um desafio aos estudos de taxonomia e biodiversidade.
+
+Plantas:A célula vegetal possui genomas de origem nuclear, mitocondrial (DNAmt) e cloroplastídico (DNAcp), cada um com características que definem sua utilidade para
+estudar questões evolutivas.
+Um gene de cloroplasto, o matK (maturase K) ou um gene nuclear ITS (transcritos espaçadores internos) têm sidos utilizados como códigos de barra em plantas. DNA ribossomal, sequências correspondentes à porção maior e menor dos ribossomos, assim como seus espaços transcritos internos (ITS) e, em menor escala, espaços transcritos externos (ETS), podem auxiliar os genes plastidiais na discriminação de espécies de plantas. Espaçadores internos não-transcritos também podem ser utilizados e o psbA-trnH possui alto potencial de diferenciação entre as espécies.
+Outros trechos gênicos como o próprio gene da citocromo oxidase I (COI) e o gene da subunidade maior da ribulose bifosfato carboxilase (rbcL) do cloroplasto são também utilizados como códigos de barra de DNA para plantas.
+Em relação às algas, genes espaçadores transcritos internos (ITS) do DNA ribossomal têm sido amplamente utilizados como códigos de barra de DNA na discriminação de espécies de algas, principalmente algas verdes. Saunders, mostrou a eficácia no uso do COI para distinguir espécies de algas vermelhas.
+
+
+== Vantagens ==
+As principais vantagens do código de barras de DNA são:
+
+Funciona com fragmentos pequenos de material biológico, possibilitando a identificação facilitada de espécies associadas à preservação do espécime, que é crítico para preservação de acervos de Museus e Coleções institucionalizadas;
+Funciona para todos os estágios da vida;
+Diferencia espécies crípticas (grupo de espécies isoladas reprodutivamente entre si mas morfologicamente idênticas, que geralmente só podem ser diferenciadas através de uma análise mais aprofundada);
+Acelera a identificação de organismos conhecidos e também facilita o reconhecimento rápido de novas espécies;
+Democratiza o acesso, ou seja, é uma biblioteca padronizada de sequências genéticas correspondentes a diferentes espécies;
+Enriquece os dados filogenéticos e contribui para a construção da enciclopédia da vida;
+A digitalização e a não-influência de análises subjetivas contribuem ainda para que a técnica seja uma ferramenta de comunicação universal.
+
+
+== Limitações ==
+Existem algumas limitações quanto ao uso do código de barras de DNA:
+
+Desconhecimento das gamas de distinção entre variações genéticas intra e interespecíficas, nas quais a técnica baseia-se para a identificação das espécies;
+Ausência de um gene universal, único, conservado em todos os domínios da vida, tornando a validade da técnica questionável e podendo ser dependente de confirmação por outras técnicas.
+A utilização de genes mitocondriais como único gene de identificação entre espécies não é adequada devido a redução do tamanho efetivo populacional, herança materna, recombinação, taxa de mutação inconsistente, heteroplasmia e a combinação de processos evolutivos.As sequências utilizadas são, normalmente, curtas e de evolução rápida, o que limita sua utilidade quanto a questões filogenéticas. (Ali et al., 2014)
+
+
+== Aplicações ==
+Além da rapidez na identificação de novas espécies, o código de barras de DNA pode ter algumas outras aplicações. Uma delas é a investigação do tráfico ilegal de   animais, assim como as aves da família dos psitacídeos (araras, papagaios, etc.), principalmente nos casos em que a morfologia externa não auxilia, como é o caso do tráfico de ovos (http://www5.usp.br/40054/rede-de-pesquisa-usa-dna-como-codigo-de-barras-para-identificar-especies/).
+
+Outra aplicação importante da técnica se dá no campo dos alimentos: possibilita avaliar se o alimento que está sendo vendido realmente corresponde ao informado. No caso dos peixes, por exemplo, após o corte em postas ou processamento, é difícil identificar de qual peixe se trata. O mesmo acontece com as madeiras: utilizando o “código de barras”, pode-se verificar se a extração de determinada madeira pertence a um tipo cuja extração é vedada.
+Na medicina, o código de barras de DNA auxilia na autenticação de plantas medicinais, visto que um problema comum com o comércio de medicamentos tem sido a mistura de espécies morfologicamente e geograficamente coexistentes.
+Códigos de barra de DNA têm sido úteis, ainda, na biossegurança para a vigilância de vetores de doenças e insetos invasores, pragas que podem ter forte impacto econômico sobre o comércio de alimentos.
+
+
+== Referências ==

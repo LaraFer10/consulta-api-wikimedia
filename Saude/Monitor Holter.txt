@@ -1,0 +1,16 @@
+Monitor Holter é um dispositivo portátil que monitora continuamente a atividade elétrica cardíaca de pacientes por 24 horas ou mais. Seu período estendido de gravação é muitas vezes útil para observar arritmias cardíacas ocasionais que seriam difíceis de serem identificadas em um período de tempo menor, como em um exame de eletrocardiografia (ECG).
+Assim como a eletrocardiografia padrão, o monitor Holter registra os sinais elétricos do coração através de uma série de eletrodos presos ao tórax. O número e a posição dos eletrodos varia de acordo com o modelo do aparelho, mas a maioria dos monitores Holter utilizam três a oito. Estes eletrodos são conectados a um pequeno receptor que é preso ao cinto do paciente, que é responsável por manter um registro da atividade elétrica cardíaca durante o período de gravação.
+Os dispositivos antigos costumavam gravar os dados em uma fita cassete. Os modelos mais atuais utilizam dispositivos de memória flash para a armazenagem dos dados. Os dados são enviados para um computador que os analisa automaticamente, contando os completos de ECG, calculando estatísticas como frequências cardíacas média, mínima e máxima e procurando áreas candidatas interessantes ao estudo posterior realizado por um técnico.
+Existem monitores para gravar 24 horas e 30 dias no mercado.
+
+
+== Diário de eventos ==
+Além de utilizar o dispositivo, a maioria dos pacientes é solicitada para escrever um diário com suas atividades diárias como corridas, sono, sintomas e horários em que os sintomas ocorrem.
+Essa informação é usada pelos médicos e técnicos para rapidamente selecionar, no meio da grande quantidade de dados registrados pelo monitor, áreas de interesse para análise do traçado eletrocardiográfico.
+
+
+== História ==
+O monitor recebe este nome em homenagem ao seu inventor, Norman J. Holter.
+
+
+== Galeria ==

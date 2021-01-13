@@ -1,0 +1,21 @@
+
+== A definição da proteína atada ==
+Matematicamente, um nó é definido como um subconjunto de pontos tridimensionais homeomórficos a um círculo. De acordo com esta definição, um nó só fazem sentidos para um laço próximo. Se escolher um ponto no espaço a uma distância infinita e conectar-se ao N e C terminais, respectivamente através de uma ligação virtual, a proteína pode ser tratada como um laço virtual perto. Portanto, o laço é detectado como próximo nó topologia e podemos citar como a proteína nó.
+
+
+== Introdução da proteína atada ==
+Proteínas atada apresenta um dos problemas mais desafiadores para ambos biólogos computacional e experimental. Apesar de um número cada vez maior de proteínas atada depositados em PDB, ainda não está claro como dobra a de uma proteínas em uma conformação com nós, ou como nó de uma proteína está relacionada à sua função. Embora uma série de métodos computacionais têm sido desenvolvidos para a detecção de proteínas nós, ainda não há métodos totalmente automático para detectar proteínas nós sem a intervenção manual necessária devido aos resíduos falta ou quebra de cadeia nas estruturas de raios-X ou os formatos fora do padrão PDB.
+
+Atualmente, existem 4 tipos de nó identificado em proteínas, o nó 31, 41, o nó 52 e 61.
+
+
+== O servidor web para rastrear a proteína atada ==
+Recentemente, um número de servidores web (pKNOT)  foram publicados, oferecendo serviço de consulta conveniente para estruturas atada e ferramentas de análise para a detecção de proteínas nós. 
+
+
+== Referências ==
+
+
+== Notas ==
+
+Este artigo foi inicialmente traduzido do artigo da Wikipédia em inglês, cujo título é «Knotted protein», especificamente desta versão.

@@ -1,0 +1,35 @@
+A economia da saúde é um ramo da economia que se preocupa com os assuntos relacionados à eficiência, efetividade, valor e comportamento na produção e consumo da saúde e assistência médica. Em sentido amplo, os economistas da saúde estudam o funcionamento dos sistemas de assistência médica bem como os comportamentos que afetam a saúde, tais como o fumo.
+Um artigo seminal de 1963 escrito por Kenneth Arrow, creditado por muitos por elevar a economia da saúde como uma disciplina, definiu distinções conceituais entre a saúde e outros objetivos. Os fatores que distinguem a economia da saúde de outras áreas incluem a intervenção do governo, a incerteza insolúvel em várias dimensões, informação assimétrica, barreiras à entrada, externalidades e a presença de um terceiro agente. Na assistência médica, o agente de terceiros é o médico, que realiza decisões de compra (e.g., pedir um teste de laboratório, prescrever um remédio, realizar uma cirurgia etc.), apesar de não ter conhecimento dos preços dos produtos ou serviços.
+Os economistas da saúde avaliam vários tipos de informação financeira: custos, encargos e despesas.
+A incerteza é intrínseca à saúde, tanto em termos de resultados do paciente quanto de preocupações financeiras. A lacuna de conhecimento que existe entre um médico e um paciente cria uma situação de vantagem para o médico, que é chamada de informação assimétrica.
+As externalidades aparecem com frequência quando se trata de saúde e assistência médica, principalmente no contexto de doenças contagiosas. Por exemplo, realizar um esforço para evitar a contaminação pelo resfriado afeta pessoas além do tomador da decisão.
+
+
+== Escopo ==
+O escopo da economia da saúde é resumido pelo "diagrama canalizado" de Alan Williams, dividindo a disciplina em oito distintos tópicos:
+
+O que influencia a saúde (além da assistência médica);
+O que é saúde é o que é valor;
+A demanda por saúde;
+A oferta por saúde;
+Avaliação microeconômica a nível de tratamento;
+Equilíbrio de mercado;
+Avaliação a nível de sistema; e
+Mecanismos de planejamento, orçamento e monitoração.
+
+
+== Procura por assistência médica ==
+A demanda por assistência médica é uma demanda derivada da oferta por saúde. A assistência médica é demandada como um meio de os consumidores alcançarem um estoque maior de "capital da saúde". A demanda por saúde é diferente da maioria dos outros bens, pois os indivíduos alocam seus recursos tanto para consumir quanto para produzir saúde.
+A descrição acima concede três papéis às pessoas na economia da saúde. A OMC afirma que as pessoas possuem quatro papéis na assistência médica:
+
+Colaboradores;
+Cidadãos;
+Fornecedores;
+Consumidores.O modelo da produção da saúde de Michael Grossman de 1972 tem sido extremamente influente nesse campo de estudo e possui alguns elementos únicos que lhe dão importância. O modelo de Grossman considera cada indivíduo tanto como produtor quanto como consumidor de saúde. A saúde é tratada como um estoque que diminui ao longo do tempo com a ausência de "investimentos" na saúde, portanto a saúde é vista como um tipo de capital. O modelo reconhece que a saúde é um bem de consumo que gera satisfação direta e utilidade, e um bem de investimento, que gera satisfação aos consumidores indiretamente através do aumento da produtividade, menos doenças e maiores salários. O investimento na saúde é custoso visto que os consumidores precisam escolher entre tempo e recursos destinados à saúde, tais como exercícios em um ginásio local, contra outros objetivos. Esses fatores são usados para determinar o nível ótimo de saúde que um indivíduo demandará. O modelo realiza previsões sobre os efeitos de mudanças nos preços da assistência médica e outros bens, variáveis do mercado de trabalho tais como emprego e salários, e mudanças tecnológicas. Essas previsões e outras previsões a partir de modelos além do de Grossman, formam a base da maior parte da pesquisa econométrica conduzida pelos economistas da saúde.
+
+
+== Referências ==
+
+
+== Notas ==
+Este artigo foi inicialmente traduzido do artigo da Wikipédia em inglês, cujo título é «Health economics».

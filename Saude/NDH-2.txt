@@ -1,0 +1,33 @@
+NDH-2, também conhecida como NADH:quinona oxidoreductase de tipo II ou NADH desidrogenase alternativa é um enzima (EC: 1.6.99.3) que catalisa a transferência de electrões do NADH (dador) para uma quinona (aceitador), fazendo parte da cadeia de transporte electrónico . NDH-2 são enzimas membranares periféricos com aproximadamente 45 KDa por subunidade, que funcionam como dímeros in vivo e com um FAD como único grupo prostético .
+NDH-2 são os únicos enzimas, com actividade de NADH desidrogenase, expressos na cadeia respiratória de alguns organismos patogénicos (e.g. Staphylococcus aureus), como tal foram propostos como novos alvos terapêuticos para o design racional de novos antibióticos .
+
+
+== Estrutura ==
+
+A estrutura/fold destas proteínas pode ser dividida em três domínios: 1º domínio de ligação a dinucleótidos (a verde na figura), 2º domínio de ligação a dinucleótidos (laranja na figura) e domínio C-terminal (azul na figura).
+O primeiro domínio é responsável pela ligação (não covalente) do FAD, enquanto que o segundo domínio de ligação de dinucleotidos é responsável pela ligação do NADH. Ambos estes domínios estão organizados em Rossmann fold, com o característico motivo GxGxxG.
+O terceiro domínio, C-terminal, é responsável pela interacção entre as NDH-2 e a membrana. Após expressão da NDH-2 truncada no seu C-terminal observou-se uma deslocalização intracelular da membrana para o citoplasma . O terceiro domínio também é parcialmente responsável pela ligação do aceitador de electrões (quinona) em conjunto com parte do primeiro domínio.
+Existem actualmente estruturas cristalográficas de NDH-2 de quatro organismos diferentes:
+
+Staphylococcus aureus (PDB ID:5NA4)
+Caldalkalibacillus thermarum (PDB ID:4NWZ)
+Saccharomyces cerevisiae (PDB ID:4G73)
+Plasmodium falciparum (PDB ID: 5JWB)
+
+
+== Reacção ==
+
+A reacção enzimática de oxidação/redução catalisada pelas NDH-2 pode ser descrita como:
+NADH + Q + H+   ----->   NAD+ + QH2(Q - quinona; QH2 - quinol)
+Neste caso o dador de electrões é o NADH e o aceitador é a quinona. Dependendo do organismo em questão, a quinona reduzida pela NDH-2 também varia, podendo ser uma menaquinona, ubiquinona ou plastoquinona. O mecanismo da reacção pode ser dividido em duas semi-reacções: 1ªSR e 2ªSR.
+Na 1ªSR, 2 electrões e 1 protão do NADH são transferidos (em simultâneo com um protão do meio) para o grupo prostético da proteina (FAD), dando origem à sua forma protonada FADH2. Nesta fase é estabelecido um complexo Enzima-Substrato caracterizado pelo estabelecimento de um "Charge-transfer complex".
+Na 2ªSR, há a ligação da quinona e consequentemente os 2 electrões e um dos protões são transferidos para este segundo substrato (novamente com um protão adicional proveniente do meio), dando origem ao quinol.
+Actualmente é aceite que o mecanismo geral da reacção ocorre através de um complexo ternário (ligação simultânea de ambos os substratos ao enzima), em alternativa ao mecanismo de ping-pong.
+
+
+== Distribuição Filogenética ==
+A presença de NDH-2 em organismos cujo genoma já tenha sido sequenciado foi estudada recorrendo a técnicas bio-informáticas . Neste estudo foram identificadas NDH-2 em 83% dos Eucariotas, 60% das Bacterias e em 32% das Archaeas. Foi também observada a ausência de NDH-2 em filos compostos por organismos anaérobicos.
+Apesar de se considerarem ausentes (e daí terem sido consideradas como possível alvo terapêutico), no mesmo estudo foi proposta a presença de um gene codificante para uma proteína homóloga às NDH-2 no genoma humano.
+
+
+== Referências ==

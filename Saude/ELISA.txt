@@ -1,0 +1,109 @@
+ELISA (do inglês Enzyme-Linked Immunosorbent Assay) ou ensaio de imunoabsorção enzimática é um teste imunoenzimático que permite a detecção de anticorpos específicos (por exemplo, no plasma sanguíneo). Este teste é usado no diagnóstico de várias doenças que induzem a produção de imunoglobulinas, entre outras. Neste teste, é necessário fixar o antígeno a uma superfície sólida, e então ligar ao antígeno um anticorpo ligado a um marcador enzimático. A detecção se completa ao analisar a presença do marcador depois de lavar os poços, que - no caso da detecção enzimática - vai mudar a coloração do substrato cromogênico adicionado a placa de teste.
+
+
+== História ==
+Antes do surgimento do ELISA, os testes de imunodetecção utilizavam marcadores radioativos.  Esses marcadores indicavam a presença do antígeno ou do anticorpo procurado na amostra. A técnica da radioimunodetecção foi desenvolvida pelos médicos  Rosalyn Sussman Yalow e Solomon Berson, rendendo a Rosalyn um Prêmio Nobel.
+Todavia, por utilizar marcadores radioativos, a técnica apresentava sérios riscos para a saúde dos pacientes.  Dessa forma, iniciou-se pesquisas a fim de desenvolver técnicas que utilizavam marcadores não radioativos, início do desenvolvimento do ELISA. A técnica desenvolvida baseava-se no princípio de que, quando uma enzima reage com o substrato específico há uma mudança na coloração. Essa mudança de coloração passou a ser usada, então, como um método alternativo de marcador. O processo de ligação entre enzima e substrato foi inicialmente divulgado por dois cientistas de forma independente: Stratis Avrameas e G. B. Pierce.
+Além disso, como o processo requer a lavagem para realizar a detecção, um método de fixação foi desenvolvido, em 1966,  por Wide e Jerker Porath. 
+Finalmente, em 1971 Peter Perlmann e Eva Engvall da Universidade de Estocolmo  publicaram toda a síntese desses conhecimentos, consolidando a técnica do ELISA
+O desenvolvimento dessa técnica é de grande importância clínica por apresentar um bom custo e benefício e ser muito utilizado para a detecção de doenças virais, principalmente aos casos de detecção do vírus HIV.
+
+
+== Princípio ==
+O ELISA se baseia em fixar compostos nos poços e então lavar para remover outros compostos que não tiveram a especificidade para se fixarem no poço.
+O método utilizado para realizar o teste baseia-se na interação antígeno-anticorpo. Geralmente, o ELISA é realizado em placas com 96 poços, onde são ligados antígenos, diretamente, ou indiretamente, por meio de um anticorpo já selecionado e ligado ao poço. É essa ligação e imobilização dos reagente que permite que o ELISA fique mais fácil de se realizar. O fato de imobilizar os reagentes na placa torna fácil separar os materiais que foram fixados e os que não foram durante o teste. E essa possibilidade de lavar materiais é o que torna o ELISA uma ferramenta poderosa de medição de um composto específico com uma preparação básica.
+
+Depois de fixar o antígeno, é necessário ligar um marcador acoplado a anticorpo, para detectar posteriormente a presença do antígeno esperado. Esse marcador pode ser fluorescente ou pode ser uma enzima que catalize uma reação que produza um produto mensurável. E essa ligação se dá por anticorpos específicos ao antígeno, por isso a precisão do teste. O marcador de detecção pode ser ligado diretamente ao anticorpo primário ou introduzido por meio de um anticorpo secundário que reconhece o anticorpo primário.As enzimas de detecção mais utilizadas são peroxidases e fosfatases. Outras enzimas, como β-galactosidases, acetilcolinesterases e catalases podem ser usadas também, mas tem um número reduzido de substratos, por isso seu uso é menos difundido. A escolha de qual marcador utilizar depende da sensibilidade necessária do teste e dos equipamentos de detecção disponíveis (espectrofotômetro, luminímetro, fluorímetro) .
+
+
+== Tipos de Teste ==
+O ELISA pode ser feito com inúmeras modificações do procedimento básico. O passo crucial, fixar o antígeno, pode ser realizado por adsorção direta ou indireta por meio de um anticorpo de captura. O antígeno pode ser detectado, também, diretamente, pelo anticorpo primário, ou indiretamente, pelo anticorpo secundário. 
+Entretanto, é necessário compreender o procedimento básico: independente do tipo de ELISA, o antígeno vai ser marcado por um anticorpo conjugado a uma enzima. Após a lavagem para a retirada dos anticorpos que não se ligaram a nenhum antígeno, é adicionado ao meio de análise um substrato com a capacidade de reagir com a enzima que foi acoplada ao anticorpo. Esse substrato, por sua vez, é cromogênico, e após a reação, muda sua cor. Assim, quando há a presença do antígeno em análise, os equipamentos de detecção percebem e quantificam a mudança de cor observada, cuja intensidade se refere a concentração de substrato que reagiu com a enzima, atestando maior ou menor concentração do antígeno.
+
+
+=== ELISA Direto ===
+Corresponde ao procedimento básico do ELISA, ou seja, não utiliza anticorpos de captura ou alvos de competição. Basicamente corresponde as etapas de: adição de amostra tamponada a placa de teste; posterior adição de anticorpo primário acoplado a enzima e adição de substrato cromogênico. Instrumentos como espectrômetros avaliam qualitativamente e quantitativamente a variação de cor e a presença do antígeno.
+Dessa forma, conclui-se que a denominação de ELISA direto se refere somente a utilização de um anticorpo primário, que marca o antígeno diretamente.
+
+
+=== ELISA Indireto ===
+O ELISA indireto faz o uso de dois anticorpos: o anticorpo primário e o anticorpo secundário.  Primeiramente, a amostra é preparada com o anticorpo primário, que possui especificidade com o antígeno a ser detectado. Caso o antígeno a ser procurado esteja presente na amostra, o anticorpo primário irá se ligar ao seu alvo. Em seguida, haverá uma lavagem para retirar os anticorpos que não se ligaram ao antígeno teste. A seguir, coloca-se os anticorpos secundários que possuem especificidade apenas para os anticorpos primários. Caso os anticorpos primários tenham se ligado ao antígeno, haverá ligação entre anticorpo primário e anticorpo secundário e isso que irá permitir a detecção. 
+Dessa forma, a característica marcante do ELISA indireto é a utilização de anticorpos secundários para um maior nível de especificidade do teste. 
+
+
+=== ELISA Sanduíche ===
+Um dos formatos mais eficazes é o sanduíche, que é chamado assim pois o antígeno fica entre dois anticorpos, o de captura e o de detecção, e é usado por ser robusto e sensível ao mesmo tempo.Nesse tipo de ELISA, primeiramente são ligados ao fundo do placa de teste os anticorpos de captura, impedindo que haja outros pontos de ligação fortes para o antígeno. A seguir, é adicionada a amostra de interesse, e caso exista antígeno específico procurado, este se liga aos anticorpos de captura. Em seguida é feita uma lavagem para a retirada de antígenos que não se ligaram aos anticorpos de captura. Posteriormente, são adicionados a amostra os anticorpos conjugados a enzima, que farão o reconhecimento da presença do antígeno. A seguir é feita uma segunda lavagem para a retirada dos anticorpos conjugados que não se ligaram a amostra e, por fim, é adicionado o substrato que reage com a enzima, que promove a mudança de cor ou fluorescência.
+Como essa técnica utiliza anticorpos de captura, há um aumento da especificidade da ligação destes com a amostra. Dessa forma, não há necessidade de purificá-la, evitando a competição com outros antígenos e melhorando o processo de análise. Além disso, é comum que os anticorpos conjugados a enzimas reconheçam e possam se ligar a regiões do anticorpo ligado ao antígeno. Em suma, esse processo é bastante específico, podendo ser utilizado para exames contra falsos-positivos.
+
+
+=== ELISA por Competição ===
+Além dos formatos de ELISA direto, indireto e sanduíche, há ainda o método por competição, que é mais utilizado quando o antígeno é pequeno e possui poucos epítopos, ou pontos de ligação com o anticorpo.
+Alguns kits ELISA competitivos incluem o antígeno ligado à enzima em vez do anticorpo ligado à enzima. O antígeno marcado compete pelos sítios de ligação do anticorpo primário com o antígeno da amostra (também chamado de antígeno teste). Quanto menos antígeno na amostra, mais o antígeno marcado é retido no poço e mais forte é o sinal. Comumente, o antígeno não é primeiro posicionado no poço, já que primeiramente é acoplado o anticorpo de captura.
+Nesse formato, junto com a amostra é adicionado antígeno semelhante ao que se procura nela, mas com o marcador (enzima). Assim, na amostra, antígeno com marcador - adicionado artificialmente - e antígeno sem marcador - procurado no teste - irão competir pelos anticorpos de captura. Na fase de detecção, após a lavagem da amostra e retirada dos antígenos que não se ligaram aos anticorpos de captura presentes na placa, se o sinal (mudança de cor) estiver reduzido significa que antígenos procurados no teste se ligaram, comprovando sua presença em grande concentração na amostra. Entretanto, se a mudança de cor for acentuada, é menor a concentração do antígeno teste, que competitivamente não conseguiu se ligar aos anticorpos de captura.
+
+
+== Comparação entre a detecção direta e indireta ==
+
+
+=== ELISA por detecção direta ===
+Vantagens:
+
+Rápido pois só é necessário aplicar um anticorpo;
+Remove a necessidade de ter um anticorpo secundário, que deve ser específico para o anticorpo primário;Desvantagens:
+
+A especificidade do anticorpo primário pode ser afetada pela ligação ao marcador de detecção;
+Criar anticorpos primário para cada ELISA é demorado e caro;
+Baixa amplificação do sinal para a detecção;
+Sem flexibilidade para mudar o marcador do anticorpo primário de um teste para o outro;
+
+
+=== ELISA por detecção indireta ===
+Vantagens:
+
+Uma grande variedade de anticorpos secundários com diferentes marcadores estão disponíveis para venda;
+Versátil pois vários anticorpos primários podem ser usados no mesmo teste enquanto se usa apenas um anticorpo secundário;
+Não há risco de afetar a especificidade do anticorpo primário;
+Sensibilidade maior, pois cada anticorpo primário tem vários epítopos em que o anticorpo secundário pode se ligar, o que amplifica o sinal;Desvantagens:
+
+Mais uma etapa para adicionar o anticorpo secundário;
+Pode ocorrer de o anticorpo secundário não ser específico apenas para o anticorpo primário o que resultaria em um resultado falso-positivo;
+
+
+== Outras formas de ELISA ==
+
+
+=== ELISPOT ===
+Similar ao western blot, esse método detecta os compostos assim que a célula secreta. No ELISPOT, o substrato precipita conforme a célula secreta o composto, assim, é possível ver sua velocidade de produção. 
+O ELISpot aplica a técnica de sanduíche do ELISA. Um anticorpo de captura para a substância que se deseja detectar é aplicado aos poços. Então uma cultura de células é colocado nos poços e a microplaca é mantida em uma incubadora em um período específico para que as células se desenvolvam. Durante a incubação, o anticorpo de captura, nas proximidades da célula, se liga à substância analisada. Depois de remover por meio da lavagem qualquer célula e outras substâncias que não se fixaram, o anticorpo de detecção é adicionado.
+A vantagem desse método é que ele detecta a substância assim que ela é secretada pela célula, ou seja algumas proteínas que seriam degradadas ou que se ligariam a ligantes podem ser detectadas nesse método. Além disso, o ELISpot é um dos métodos de análise de secreções de células mais preciso, com precisão de aproximadamente 1 célula a cada 100.000, ou seja, se apenas uma célula a cada 100.000 secrete a substância, o ELISpot ainda dará positivo. E com isso, em um mesmo poço podem ser detectadas várias pontos, sendo que cada ponto é onde tinha uma célula secretando a substância. Nesse sentido o ELISpot é muito usado para detectar a frequência de células que secretam ao nível de células individuais. Por ser um teste muito preciso, o ELISpot é geralmente usado para detectar as células que secretam citocinas e para detectar a frequência em populações de células muito pequenas encontradas em respostas imunes.
+
+
+=== ELISA intracelular ===
+Nesse método, uma cultura de células é fixada nos poços e tem suas membranas permeabilizadas. Então, os compostos intracelulares são detectados por anticorpos específicos. A quantificação de proteínas intracelulares e eventos de fosforilação é extremamente importante para a pesquisa biomédica. Embora o Western Blot seja o método mais amplamente utilizado, é trabalhoso e demorado, especialmente quando se analisam múltiplas amostras. O imunoensaio baseado em placas tornou-se um método alternativo popular para detecção rápida de proteínas. Foi desenvolvido um ELISA baseado em células fluorogênicas que não requer preparação de lisado ou os múltiplos passos subsequentes necessários para a análise de Western blot. O formato ELISA Intracelular permite que duas proteínas celulares alvo, ou eventos, sejam analisados ​​simultaneamente. As células são cultivadas em placas de 96 poços e tratadas com as condições apropriadas, tais como inibidores ou estimulação de ligantes. As células são então fixadas e permeabilizadas nos poços. Isto é seguido por incubação com dois anticorpos primários derivados de espécies diferentes: um anticorpo fosfo-específico e um anticorpo de normalização que reconhece a proteína total, independentemente do seu estado de fosforilação. Anticorpos secundários específicos de espécies marcados com Peroxidase de Horseradish  (HRP) e fosfatase alcalina (AP), e substratos fluorogênicos espectralmente distintos para cada enzima, utilizados para detecção. A fluorescência da proteína fosforilada é normalizada para a proteína total em cada poço para corrigir variações nas análises. ELISAs baseados em células têm sido usados ​​para avaliar os efeitos de estimuladores e inibidores em células cultivadas, e isso foi realizado com 10.000 células, ou menos, por preparação. Por exemplo, a fosforilação de JNK (T183 / Y185), Akt (S473), EGFR (Y1068), FRS2 (Y436), níveis de proteína total de IκBα induzida por vários estímulos, e os efeitos de inibidores de quinase, foram avaliados aqui usando o Método ELISA Baseado em Células. Os resultados foram comparados com Western blot e ELISA sanduíche tradicional. Uma vez que as células são plaqueadas em microplacas de 96 poços, o tempo total de hands-on para o ELISA intracelular é de aproximadamente 3 horas, o que é significativamente menor do que outras técnicas. Além disso, ELISAs Baseados em Células são passíveis de aplicações de alto rendimento e podem ser uma adição valiosa às estratégias inibidores de quinases.
+
+
+== Estratégias de detecção para o ELISA ==
+O estágio final em todos os testes de ELISA é a detecção. A não ser que um marcador fluorescente seja utilizado, essa etapa envolve a introdução do substrato da enzima marcadora. A enzima converte o substrato em um produto detectável. Se os passos anteriores do ELISA foram realizados corretamente, a intensidade do sinal produzido quando o substrato foi adicionado será diretamente proporcional à quantidade de antígeno capturado na placa e ligado aos anticorpos de detecção. Anticorpos conjugados a enzimas oferecem a maior flexibilidade em relação a métodos de detecção por causa da variedade de substratos que mudam de cor ou que possuem quimioluminescência.
+
+
+== Diagnóstico ==
+Entre as doenças passíveis de diagnóstico pelo teste, estão várias doenças infecciosas, uma vez que a maioria dos agentes patológicos desencadeia a produção de imunoglobulinas. Também pode ser usado no diagnóstico de doenças auto-imunes ou alergias.
+
+
+=== HIV ===
+Este é o teste de primeira linha no diagnóstico da infecção pelo HIV (vírus da SIDA/AIDS). Estes testes até a sua terceira geração só detectavam a presença de anticorpos (IgG e IgM) três ou quatro semanas após o contato. No entanto, os testes de quarta geração já detectam tanto anticorpos quanto um dos antígenos do HIV (a proteína p24), fato esse que diminuiu sensivelmente o período de janela imunológica, podendo chegar a apenas duas semanas.
+Um resultado reagente num teste de HIV por ELISA é sempre confirmado por outros testes específicos, como é o caso do Western blot, que detecta proteínas deste vírus, e do PCR, que detecta os seus ácidos nucleicos virais.
+
+
+=== Radioimunoensaio ===
+O teste ELISA também pode ser utilizado de diversas outras formas. Utilizando-se de um método semelhante ao método de radioimunoensaio, pode-se transformar muitas outras substâncias em antígeno e obter um anticorpo do mesmo. Assim, é possível utilizar o teste para se detectar outras substâncias de interesse como, por exemplo, hormônios.
+Pelo fato do radioimunoensaio ser muito caro, o teste ELISA pode ser uma alternativa muito mais simples e barata.
+Ver também: Carga viral
+
+
+== Referências ==
+3. Teste de Elisa [http://www.ufrgs.br/labvir/material/aulap10.pdf]
+4. depto.icb.ufmg.br/dmor/pad-morf/ELISA.doc
+5. https://www.rndsystems.com/resources/posters/novel-cell-based-elisa-intracellular-proteins-or-phosphorylation-signaling-molecules
+
+6. https://resources.rndsystems.com/images/site/sci_poster_Dev_of_Cell_Based_ELISA_for_IC_proteins_August_2010_final6758.pdf

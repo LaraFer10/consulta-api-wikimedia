@@ -1,0 +1,33 @@
+Composto químico de fórmula CH3NO2 , é usado como combustível em aeromodelos e alguns carros de competição, como estabilizante para solventes clorados (ex. clorofórmio), como solvente em laboratório e precursor de outros produtos, como tampão de pH e fumigantes (cloropicrina, também usada em guerra química na 1º Guerra Mundial).
+Industrialmente, é formado pela reação entre propano e ácido nítrico a 350ºC, quando também são formados nitroetano e nitropropanos, através de um mecanismo de radicais livres. Em laboratório, é formado pela reação entre um haleto de metila (por exemplo, iodeto de metila, brometo de metila) e um nitrito inorgânico, geralmente nitrito de prata e nitrito de sódio, embora em menor rendimento com este último. Uma reação mais prática envolve o cloroacetato de sódio e o nitrito de sódio, ambos solúveis em água, formando bicarbonato, cloreto de sódio e nitrometano.
+
+
+== Uso como combustível ==
+Em comparação com a gasolina, possui aparentemente uma queima mais lenta e menos energética. Porém, seu nível de oxigenação o torna um explosivo líquido, pois o nitrometano possui 2 átomos de oxigênio para cada átomo de carbono em sua molécula, e assim precisa de apenas 1,7 vezes a sua massa em ar para queima completa, enquanto a gasolina necessita de 14,6 vezes a mesma massa de ar para queimar completamente. Nos Estados Unidos o dragster da U.S.ARMY gera 11.000 hp com uma mistura densimétrica de 90% de nitrometano com 10% de metanol puro. Se o mesmo motor fosse alimentado com a melhor gasolina, não seriam extraídos mais que 2500hp. A maioria das equipes que participam de corridas de arrancada no Brasil utilizam uma mistura volumétrica, o que é incorreto nas porcentagens acima de 8%. Felizmente, é reconhecida no Brasil a entrada de profissionais na área de combustiveis de competição, realizando suporte técnico nos maiores eventos de arrancada, através da utilização de tabelas termodensimétricas, aferições com densímetros, termômetros e balanças digitais, necessárias para analisar a variação da porcentagem de nitrometano em função da variação de temperatura. Além, de desmistificar o uso, por exemplo:
+-a velocidade de queima do nitrometano é superior a de qualquer outro combustivel
+-o índice antidetonante não possui um valor fixo, varia em função da velocidade de compressão, ou em outras palavras, do rpm
+-as labaredas de fogo do escapamento são devidos a uma segunda reação, onde os sub-produtos da primeira queima do nitrometano (que já explodiu na camara de combustão), entram em combustão novamente por possuirem um ponto de fulgor compativel com o calor do escapamento, portanto, desmistificando, não é combustivel que ainda não terminou de reagir.
+-o nitrometano não é um produto perigoso como a gasolina.
+-o nitrometano tem um limite de dissolução em gasolina, porcentagem superior a 3% cria um corpo de precipitação, havendo a necessidade de maior oxigenação, aconselha-se adicionar um pouco de metanol, formando uma mistura tricombustivel.
+-  Em 10 Nov 2007 o ETA roubou na França 2000 litros de nitrometano para fazer amonitol. É o mais barato, mais acessível, mais fácil de desenvolver e mais poderosos explosivos ao alcance do ETA. É altamente estável,e não requer nenhuma infra-estrutura podendo ser adaptado a qualquer comando operacional, sem nenhum apoio técnico.
+- O amonitol desde então se tornou o explosivo mais usado pelo ETA. O professor da Universidade Politécnica de Cartagena Toni Pérez de los Rios, especialista em engenharia química, explica que, em comparação com outros explosivos, amonitol requer "uma mistura extremamente simples" ao alcance de qualquer pessoa.Os dois únicos elementos necessários para fazer a amonitol são nitrato de amónia e nitrometano.
+- No Atentado de Oklahoma foi usado o amonitol, morreram 168 pessoas.
+
+AMONITOL
+nitrato de amónio
+Pó de alumínio
+nitrometano
+
+
+== Sìntese ==
+Nitrometano pode ser produzido pelo aquecimento de um sal de ácido nitroacético para descarboxilação a 80 °C.
+
+
+== Referências ==
+
+
+== Ver também ==
+Incandescência
+Automodelismo
+Nitração
+Nitroderivado

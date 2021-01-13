@@ -1,0 +1,41 @@
+Os betacoronavírus são um dos quatro gêneros de coronavírus da subfamília Orthocoronavirinae da família Coronaviridae, da ordem Nidovirales. São vírus de RNA de cadeia simples, de sentido positivo, envoltos de origem zoonótica. Os gêneros de coronavírus são compostos de linhagens virais variadas, com o gênero betacoronavírus contendo quatro dessas linhagens. Na literatura mais antiga, esse gênero também é conhecido como coronavírus do grupo 2.
+Os Beta-CoVs de maior importância clínica para seres humanos são OC43 e HKU1 da linhagem A, SARS-CoV e SARS-CoV-2 da linhagem B, e MERS-CoV da linhagem C. O MERS-CoV é o primeiro betacoronavírus pertencente à linhagem C que é conhecido por infetar seres humanos.Os gêneros alfa e betacoronavírus descendem do fundo genético do morcego. 
+
+
+== Virologia ==
+Os vírus alfa e betacoronavírus infetam principalmente os morcegos, mas também infetam outras espécies, como seres humanos, camelos e coelhos.    Beta-CoVs que causaram epidemias em humanos geralmente induzem febre e sintomas respiratórios. Eles incluem:
+
+SARS-CoV, doença SARS .
+MERS-CoV, Síndrome respiratória do Médio Oriente (MERS).
+SARS-CoV-2, doença COVID-19.
+
+
+== Sequência ==
+Os coronavírus têm um grande tamanho de genoma que varia de 26 a 32 kilobases.
+Em maio de 2013, o GenBank publicou 46 genomas completos dos CoVs α- (grupo 1), β- (grupo 2), γ- (grupo 3) e δ- (grupo 4). 
+
+
+== Classificação ==
+
+Dentro do gênero betacoronavírus (Grupo 2 CoV), quatro linhagens (a, b, ce ed) são comumente reconhecidas.
+
+A linhagem A inclui HCoV-OC43 e HCoV-HKU1 (várias espécies)
+A linhagem B inclui SARS-CoV (várias espécies) e 2019-nCoV
+A linhagem C inclui coronavírus de morcego Tylonycteris HKU4 (BtCoV-HKU4), coronavírus de morcego Pipistrellus HKU5 (BtCoV-HKU5) e MERS-CoV (várias espécies)
+A linhagem D inclui o coronavírus de morcego Rousettus HKU9 (BtCoV-HKU9) As quatro linhagens também são nomeadas usando letras gregas ou numericamente. 
+
+
+== Morfologia ==
+
+Os vírus da linhagem A diferem de todos os outros do gênero, pois possuem uma proteína mais curta, chamada hemaglutinina esterase (HE).
+O nome coronavírus é derivado do latim "corona", que significa coroa, referindo-se à sua imagem sob microscopia eletrônica de espigões semelhantes a coroas em sua superfície, e semelhante à coroa solar. Essa morfologia é criada pelos peplômeros do pico viral peplômero, que são proteínas que povoam a superfície do vírus e determinam o tropismo do hospedeiro. A ordem nidovirales é nomeada para o latim nidus, que significa ninho. Refere-se à produção desta ordem de um conjunto aninhado coterminal 3 'de mRNAs subgenômicos durante a infeção.
+Várias estruturas das proteínas spike foram resolvidas. O domínio de ligação ao receptor na proteína de pico de alfa e betacoronavírus é classificado como InterPro. Os monta proteína espigão num trímero ( PDB 3jcl ); sua estrutura principal se assemelha à das proteínas paramixovírus F (fusão).
+
+
+== Referências ==
+
+
+== Ligações externas ==
+Coronavírus
+Viralzona: Betacoronavírus
+Base de dados e análise de patógenos de vírus (ViPR): Coronaviridae

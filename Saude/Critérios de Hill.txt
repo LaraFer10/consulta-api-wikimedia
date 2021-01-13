@@ -1,0 +1,15 @@
+Os Critérios de Hill foram propostos pelo epidemiologista e estatístico britânico Sir Austin Bradford Hill, e buscam caracterizar como causal uma associação entre uma exposição e uma doença ou condição de saúde.
+São nove critérios, onde quanto mais critérios forem preenchidos, maior a chance de esta associação ser de "causa e efeito" :
+
+Força da associação: quanto mais forte uma associação, mais provável que seja causal. A força da associação é medida pelo risco relativo ou pelo odds ratio
+Consistência: a relação deve ser condizente com os achados de outros estudos
+Especificidade: exposição específica causa a doença
+Temporalidade: causa deve ser anterior à doença
+Gradiente biológico (efeito dose-resposta): deve ser em gradiente, proporcionalmente ao estudo de caso controle
+Plausibilidade biológica: A associação deve ter uma explicação plausível, concordante com o nível atual de conhecimento do processo patológico
+Coerência: os achados devem seguir o paradigma da ciência atual
+Evidências experimentais: Mudanças na exposição mudam o padrão da doença
+Analogia: com outra doença ou com outra exposição
+
+
+== Referências ==

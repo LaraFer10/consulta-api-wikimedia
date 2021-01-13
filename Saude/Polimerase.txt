@@ -1,0 +1,10 @@
+Polimerase é uma enzima que catalisa a reação de polimerização de ácidos nucleicos a partir dos seus monômeros. As polimerases mais comuns são a RNA polimerase e a DNA polimerase.
+Para a duplicação celular acontecer, a DNA polimerase, permite a ligação de nucleotídeos novos ao molde de DNA.
+Cada um dos filamentos antigos contém a "informação" para a formação de um filamento complementar, já que sua sequência de bases funciona como um "guia" para a produção da fita nova. Esse processo é também chamado de duplicação semiconservativa, porque cada molécula-filha conservou, ao final da duplicação, uma das fitas, portanto, a metade da molécula-mãe.
+
+
+== Ver também ==
+DNA polimerase DNA dependente
+RNA polimerase DNA dependente
+DNA polimerase RNA dependente
+RNA polimerase RNA dependente

@@ -1,0 +1,22 @@
+A prolina (símbolo Pro ou P) é um aminoácido proteinogênico utilizado na biossíntese de proteínas.
+
+
+== Definição ==
+A prolina faz parte do grupo dos 20 aminoácidos que participam da composição de proteínas, desse modo, chamados de aminoácidos proteicos ou α-aminoácidos, visto que possuem um grupo amino primário e um grupo carboxila ligados ao mesmo átomo de carbono. Contudo, a estrutura da prolina difere dos demais aminoácidos, pois ela possui um grupo amino secundário e não primário. Sua cadeia lateral é considerada apolar, pois não participa de ligações iônicas ou de hidrogênio, desse modo participando de interações hidrofóbicas. Estruturalmente, a cadeia lateral da prolina e seu N α-amínico formam uma estrutura rígida em anel, com 5 átomos. A geometria da molécula permite, por exemplo, a formação da estrutura fibrosa do colágeno e de proteínas globulares . As propriedades físico-químicas da prolina podem ser observadas no quadro ao lado  .
+
+
+== Síntese de prolina ==
+É considerado um aminoácido não essencial, visto que sua síntese ocorre endogenamente a partir do aminoácido glutamato. Inicialmente, o glutamato sintetizado é convertido em γ-glutamil fosfato através da enzima glutamato quinase. A seguir a enzima glutamato desidrogenase o converte em glutamato γ-semialdeído, que é então reduzido pelo NADPH a ∆¹-pirrolina-5-carboxilato de forma espontânea. Por fim, o último passo necessário para a síntese de prolina é a conversão da ∆¹-pirrolina-5-carboxilato em prolina, catalisado pela enzima pirrolina carboxilato redutase . 
+
+
+== Propriedades em proteínas ==
+A estrutura cíclica da cadeia lateral da prolina confere à molécula uma rigidez considerável em relação a outros aminoácidos, no entanto afetando a taxa de formação de ligações peptídicas. Comparado com outros tRNAs, a formação de ligação peptídica do Pro-tRNA é lenta, um fenômeno característico dos N-alquil-aminoácidos. A formação da ligação também é lenta entre moléculas de tRNA e cadeias que terminam em prolina, sendo a interação prolina-prolina a mais lenta de todas.Quando a região amida da prolina realiza ligação peptídica, seu nitrogênio não interage com hidrogênio, ou seja, não atua como doador (apenas como receptor) na ligação de hidrogênio.A rigidez conformacional da prolina afeta a estrutura secundária da proteína em que está inserida, o que poderia explicar sua maior prevalência em organismos termofílicos. A prolina pode alterar elementos da estrutura secundaria como a alfa-hélice e a folha-beta. Contudo, a prolina é frequentemente encontrada nas primeiras posições da N-terminal, onde a perda do hidrogênio da ponte de hidrogênio da amida não produz uma alteração significativa. Em análises de estrutura, foi encontrado que grande parte das prolinas ocorrem no primeiro giro.Uma sequência de múltiplas prolinas forma uma hélice de poliprolina, a estrutura secundária predominante em colágeno. A hidroxilação da prolina pela prolil hidroxilase aumenta de modo significativo a estabilidade conformacional do colágeno. Por causa disso, a hidroxilação da prolina é um fator bioquímico essencial para conservar o tecido conectivo. 
+
+
+== Usos ==
+A prolina e seus derivados são regularmente utilizados como catalisadores assimétricos em reações que usam catalisadores orgânicos. A redução Corey–Bakshi–Shibata (CBS) e a condensação aldólica são exemplos disso.
+Na preparação de cerveja, proteínas ricas em prolina são utilizadas para obter turbidez.A L-prolina serve como osmoprotetor, sendo assim usado em aplicações farmacológicas e biotecnológicas.
+Meios de cultura de tecido vegetal podem ser suplementado com prolina. É sabido que a acumulação de prolina em plantas está relacionado com estresse, porém sua função específica continua em debate.
+
+
+== Referências ==

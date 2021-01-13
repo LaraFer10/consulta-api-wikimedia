@@ -1,0 +1,29 @@
+O tamanho do genoma refere-se à quantidade total de ADN contido numa cópia de um genoma. É tipicamente medido em termos de massa ou como o número total de pares de bases de nucleótidos (tipicamente em milhões de pares de bases ou megabases [abreviado Mb ou Mbp]).
+Uma picograma (pg) equivale a 978 megabases (Mb). Em organismos diplóides, o tamanho do genoma é usado de igual maneira que o termo valor C. Interessantemente, a complexidade de um organismo não é directamente proporcional ao tamanho do genoma; alguns organismos unicelulares possuem muito mais ADN que os humanos.
+As diferenças de tamanhos dos genomas ocorrem pelo acúmulo de elementos transponíveis que representam várias classes que se multiplicam e se mobilizam nos genomas eucarióticos e procarióticos. Esses elementos não codificam normalmente funções do organismo hospedeiro e podem ser considerados como unidades evolutivas relativamente independentes, algumas vezes vistos como comensais, mas outras vezes são vistos como mutualistas ou parasitas moleculares. Logo, não há uma relação entre tamanho de genomas e “complexidade biológica” e sim uma relação com a quantidade de elementos transponíveis. Assim, grande quantidade desses elementos podem gerar o DNA “entulho” que correspondem a segmentos repetitivos.
+
+
+== Tabela de Referência ==
+Note: The DNA from a single human cell has a length of ~1.8 m (but at a width of ~2.4 nanometers).
+
+
+== Ver também ==
+Animal Genome Size Database
+Núcleo celular
+Genómica comparativa
+Valor C
+Enigma do valor C
+Genoma
+Genoma humano
+ADN não-codificante
+Elementos transponíveis
+
+
+== Referências ==
+
+
+== Ligações externas ==
+«Animal Genome Size Database» 
+«Plant DNA C-values Database» 
+«Fungal Genome Size Database» 
+«Fungal Database». — by CBS

@@ -1,0 +1,70 @@
+Um exoesqueleto energizado, também conhecido como armadura elétrica, exoframe ou exosuit (exoterno), é uma máquina móvel que consiste principalmente de uma armação externa (similar ao exoesqueleto de um inseto) utilizada por uma pessoa (ou por outro animal, dependendo do formato), e conta ainda com um sistema de motores, que proporcionam energia para, ao menos, o movimento dos membros.
+A principal função um exoesqueleto energizado é o de aumentar a força, velocidade e resistência do usuário. Eles são geralmente projetados para uso militar, para auxiliar soldados a carregar cargas pesadas. Em áreas civis, entre diversas aplicações dos exoesqueletos podem ser utilizados por bombeiros e trabalhadores que desenvolvem atividades em ambiente de risco. . O campo médico é outra área primordial para a tecnologia dos exoesqueletos; onde um dos exemplos é a possibilidade de enfermeiras moverem pacientes pesados.Protótipos funcionais de exoesqueletos, incluindo o XOS pela Sarcos e o HULC pela Lockheed Martin  (ambos destinados ao uso militar), foram construídos mas ainda não implementados em campo. A Cyberdine, criadora do HAL 5, dedica seu exosuit para usos médicos.Vários problema ainda aguardam solução, talvez o maior seja a criação de um amplo e compacto suprimento energético (bateria), que possa permitir ao exoesqueleto operar por um longo período sem que haja a necessidade de ser plugado a uma fonte de energia externa.
+Um mecha (ficção científica) difere dos exoesqueletos dos dias atuais, pois são muito mais largos corpos humano, além de não aumentar a força direta dos membros. Ao invés de ocupar uma cabine de controle, o operador permanece dentro de uma pequena porção do sistema. Para controlar a armação, é necessário utilizar uma interface háptico.
+
+
+== História ==
+O primeiro dispositivo similar a um exoesqueleto foi um conjunto para auxiliar a andar, pular e correr; tendo sido desenvolvido em 1890 pelo russo Nicholas Yagin. O aparato empregava mochilas de gás comprimido (ver armazenamento de energia em ar comprimido) para armazenar energia, utilizada para apoiar os movimentos, embora a energia humana fosse necessáriaEm 1917, Leslie C. Kelley, inventor dos EUA, desenvolveu um dispositivo que ele mesmo nomeou de pedomotor, o qual operava com energia do vapor, sendo constituído de ligamentos artificiais em paralelo com os movimentos do usuário. Graças ao pedomotor, a energia poderia ser gerada de forma independente ao usuário.
+O primeiro exoesqueleto verdadeiro, no sentido de ser uma máquina móvel integrada aos movimentos humanos, foi co-desenvolvido pela General Electric e pelas Forças Armadas dos Estados Unidos, na década de 1960. O traje foi chamado Hardiman, e fazia com que levantar 110 kg desse a impressão de estar de levantando 4.5 kg. Alimentado por energia hidraúlica e eletricidade, o hardiman possibilitava ao usuário um aumento de 25 vezes a sua força normal, ou seja, levantar 25 kg tão facilmente quanto se faz com 1 kg. Uma característica conhecida por force feedback, proporcionou ao usuário a sensação da força e dos objetos que estavam sendo manipulados. Enquanto a ideia geral soava promissora, o projeto tinha grandes limitações. O peso de 680 kg o tornava impraticável. Outra característica interessante é a adoção do sistema master/slave (mestre/escravo), onde o operador fica no traje mestre, que por sua vez fica dentro do traje escravo, sendo esse último desenvolvido para responder às ações e comandos do mestre e tomar conta de levar a carga. O seu tipo estrutural, multicamada física, funciona a um ritmo mais lento que o de apenas uma camada física. Quando se trata de aprimoramento físico, o tempo de resposta é uma variável fundamental. Sua lenta velocidade de caminhada, 0,85 m/s, limitando ainda mais sua praticidade. Qualquer tentativa de usar o hardiman resultou em um movimento violento fora de controle. Apesar de poder levantar até 340 kg, pesava 3/4 (três quartos de tonelada), duas vezes mais do que sua capacidade de carregamento. Sem colocar todos os componentes para trabalhar em sincronia, os usos do Hardiman sofriam série limitações.
+
+O Laboratório Nacional de Los Alamos trabalharam em um projeto de exoesqueleto na década de 1980.Em 1986, um exosuit, chamado LIFESUIT, foi criado por Monty Reed, um United States Army Rangers que quebrou o traseiro em um acidente com para-quedas. Durante sua recuperação, ele leu o romance de ficção científica Tropas estelares, do autor Robert Heinlein, além da descrição, feito pelo próprio Heinlein, do Traje Energizado de Infantaria Móvel. Desde então, diversos novas versões de protótipos do LIFESUIT foram feitas.
+Em janeiro de 2007, a revista Newsweek relatou que o Pentágono havia concedido fundos ao nanotecnologista Ray Baughman, da Universidade do Texas em Dallas para desenvolver polímero eletroativos artificiais de nível militar. Essas fibras eletricamente ativas visavam aprimorar a taxa de resistência ao peso dos sistemas de movimento exoesqueletos militares.
+
+
+== Aplicações ==
+
+Uma das principais utilidades propostas para um exoesqueleto seria a possibilidade de um soldado, ou qualquer pessoa, carregar objetos pesados (80-300 kg), isso enquanto corre ou sobe escadas e terrenos irregulares. Aplicações médicas é um campo primordial, principalmente no transporte de pacientes e em centros de reabilitação (ALTACRO).
+Uma área em que os exoesqueletos podem sofrer grande difusão, é como robôs vestíveis. Robôs vestíveis são sistemas mecatrônicos que são projetados baseados no formato e nas funções do corpo humano, com segmentos e juntas correspondendo exatamente aos de uma pessoa.
+
+
+== Exoesqueletos atuais ==
+O exoesqueleto XOS da Sarcos/Raytheon. Para uso militar, pesando 68 kg e capacitando o usuário a levantar 90 kg com pouco, ou nenhum, esforço. Recentemente foi revelado o XOS 2, que é caracterizado por movimentos mais fluidos, aumento do poder de saída e diminuição da energia consumida.
+Ekso Bionics/Lockheed Martin HULC, o primeiro competidor à Sarcos/Raytheon. Pesa 24 kg e capacita o usuário a carregar 91 kg a uma mochila acoplada ao próprio exoesqueleto. Um versão modificada do HULC está em desenvolvimento para uso médico, ajudando pacientes a andarem.
+As eLEGS da Ekso Bionics: um exoesqueleto hidráulico que torna um paraplégico capaz de se levantar e andar com muletas ou um andador.
+O HAL 5 da Cyberdine. O primeiro robô vestível similar, em aparência, a uma ciborgue, torna o usuário apto a levantar dez vezes mais do que realmente poderia.
+Pernas exoesqueléticas da Honda. Pesa 6.5 kg e serve como um assento para o operador.
+o MIT Media Lab também tem sua pernas cibernéticas. Pesam 11.7 kg.
+No Brasil, a startup Exy - Empowering People, lançou o ExyOne voltado para redução de lesões por fádiga ( (Braços, Ombros e Costas) na índústria. Equipamento totalmente mecânico, pesa 3,6kg.  Reconhecido em 2020 com o Prêmio Brasil Design Award ( Ouro na categoria Máquinas e Equipamentos) e o no A'Design Award & Competition ( ouro na categoria A' Cybernetics, Prosthesis and Bio-Engineering).
+
+
+== Exoesqueletos sob desenvolvimento ==
+O MINDWALKER da Comissão Europeia. Um exoesqueleto controlado por ondas cerebrais.
+Altacro da Vrije Universiteit Brusse: um exoesqueleto para pessoas deficientes.
+
+
+== Limitações e questões relacionadas ao design ==
+Engenheiros de exoesqueletos energizados enfrentam um grande número de desafios técnicos na construção de um suit (terno) capaz de executar movimentos rápidos e ágeis.
+
+
+=== Suprimento energético ===
+Designers  de exoesqueletos enfrentam um grande obstáculo: suprimento energético. Nos dias de hoje, existem poucas fontes energéticas com densidade de energia suficiente para sustentar um exoesqueleto energizado de corpo inteiro por mais do que algumas horas.
+Células primárias não-recarregáveis tendem a ter mais densidade energética e armazenamento prolongado do que as células secundárias. Quando células primárias se esgotam, é necessária se transportar outra fonte energética para o campo, o que é um ponto fraco. Células secundárias são aptas ao reuso, porém elas requerem que um sistema de carregamento energético seja transportado ao campo; caso o recarregamento não seja muito rápido, o sistema precisa suportar trocas de baterias.Energia fornecida por um motor de combustão interna é extremamente potente, mas também são negligentes, pois para manter o sistema funcionando precisam operar com baixos níveis energéticos, logo, mesmo sem estar ativados, continuam a consumir combustível. Motores não negligentes são possíveis, mas requerem quantidade razoável de energia para um sistema iniciador capaz de acelerar o motor rapidamente à velocidade de operação, e o motor deve ser extremamente confiável, visto que não pode falhar quando da necessidade de funcionamento imediato.
+Motores leves e pequenos tipicamente operam à alta velocidade para extrair energia suficiente de um cilindro de pequeno volume, tornando difícil silenciar e induzir vibrações em todo o sistema. Motores de combustão interna podem chegar a temperaturas extremamente altas; isso gera demanda por sistemas de arrefecimento no exoesqueleto, além de um escudo térmico.
+Células de combustível eletroquímicas, como a célula de combustível de óxido sólido (CCOS), também estão sendo consideradas como fonte de energia, isso por poderem produzir energia instantaneamente, como baterias, e conservar totalmente o poder armazenado quando não necessário. Outra característica estratégica, é a possibilidade de serem recarregadas, com facilidade, por combustíveis líquidos, como o metanol. Entretanto, elas requerem altas temperaturas para funcionar; 600° C é considerada uma baixa temperatura de operação para os CCOS.
+Transferência de energia sem fio, uma tecnologia emergente, é uma solução bastante plausível. Com o emprego de um reator, em uma localização remota, o exoesqueleto receberia energia com constância, e o risco de "desenergização", ficar sem energia, seria baixíssimo.
+
+
+== Ver também ==
+Armadura
+Exosqueleto
+Exoesqueleto (veículo)
+Mecha
+Metal Hero
+
+
+== Referências ==
+
+
+== Ligações externas ==
+
+aolnews: Exército se prepara para equipar soldados em  traje do 'Homem de ferro' (em inglês)
+Video, imagens e artigos sobre o projeto Bleex exoskeleton
+Berkeley Bleex press release
+University of California-  Santa Cruz - Exo Arm Project
+Wired Magazine Issue 13.01 - January 2005 - Ironmen, the world's first exoskeleton weight-lifting competition
+Japanese nurse assisting skeleton
+Yamamoto, Keijirou. «Wearable Power Assist Suit». Consultado em 10 de outubro de 2006. Arquivado do original em 5 de outubro de 2006 
+The Rise of the Body Bots, IEEE Spectrum
+CNN video report on a powered exoskeleton made by Sarcos
+Video and abstract about the GAIT Robotic Orthosis (via IEEE Xplore)
+Procurar no youtube SARCOS Military Humanoid Exoskeleton

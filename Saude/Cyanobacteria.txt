@@ -1,0 +1,56 @@
+O filo Cyanobacteria (cianobactérias), ou divisão Cyanophyta (cianófitas), é um grupo de bactérias que obtêm energia por fotossíntese. O nome "cianobactéria" vem de sua cor (do grego: κυανός (kyanós) = azul). São chamadas também de algas azuis ou algas verde-azuladas, embora alguns autores considerem estes nomes inadequados, uma vez que cianobactérias são procariontes, e algas deveriam ser apenas eucariontes. No entanto, há outras definições de algas que abrangem também organismos procarióticos.
+Inclui organismos aquáticos, unicelulares, coloniais ou filamentosos fotossintéticos. Possuem forma de cocos, bastonetes, filamentos ou pseudofilamentos, apresentando coloração azul em condições ótimas, mas são frequentemente encontradas apresentando coloração de verde oliva a verde-azulado.Apresentam, geralmente, uma estrutura externa para evitar a dessecação: a bainha de mucilagem, que é uma substância gelatinosa incolor que recobre totalmente ou parcialmente o indivíduo. Em muitos casos, a sua ocorrência é devida à eutrofização do ambiente aquático no qual estão inseridas pela rápida reprodução, que pode ser por divisão celular, por fragmentação, endósporo, exosporo ou aceneto.  A maioria das espécies encontram-se em água continental, mas algumas são marinhas ou ocorrem em solo úmido, ainda sendo encontradas em ambientes lacustres (principalmente hipersalinos), ambientes congelados, sob o folhiço de florestas entre outros. Outras espécies são endossimbiontes em líquenes ou em vários protistas e corais, fornecendo energia aos seus hospedeiros.
+Foram durante muito tempo classificadas como algas, na divisão Cyanophyta, com uma única classe, Cyanophyceae (por isso o termo cianofíceas é ainda utilizado, embora o termo cianobactérias esteja a ganhar terreno) e estudadas pelos botânicos. Atualmente sabe-se que estes organismos não têm relação filogenética com qualquer dos grupos de algas eucarióticas, a não ser como prováveis antepassados dos cloroplastos – ver teoria da endossimbiose – e encontram-se classificados como um filo (ou divisão, para os botânicos) dentro do domínio Bacteria.
+O registo fóssil das cianobactérias indica que estes seres fotossintéticos apareceram no éon geológico Arqueano e devem ter sido responsáveis pelo aparecimento do oxigénio na atmosfera terrestre - o que parece ter acontecido há cerca de 2,5 bilhões de anos, despoletando a origem da vida eucarionte e dando lugar ao que se chama atualmente o éon Proterozóico (que significa aproximadamente dos "animais primitivos").
+
+
+== Citologia ==
+Algumas espécies de cianobactérias produzem células diferenciadas:
+
+heterocistos, especializados na fixação de nitrogénio, e
+acinetos, especializados na acumulação de substâncias de reserva (por exemplo, o amido cianobacteriano).
+A parede celular é uma estrutura com quatro constituintes, que cora como uma bactéria gram-negativa:
+
+Uma camada fina de citoplasma por fora da membrana celular;
+Uma camada rígida composta de mureína (um peptidoglicano);
+Duas camadas de polissacarídeos; e, por vezes,
+Uma camada espessa e gelatinosa, que agrega as células em colónias (ou filamentos rígidos).As cianobactérias não possuem flagelos, mas algumas podem mover-se com a ajuda de fibras em espiral na parede celular. Na maior parte das espécies, a "maquinaria" fotossintética encontra-se em pregas da membrana celular, chamadas tilacóides. Algumas podem realizar quimiossíntese a partir de matéria orgânica usando sulfureto de hidrogénio, como fazem outras bactérias, geralmente em ambientes abissais marinhos onde não há luz solar.
+No que diz respeito aos pigmentos fotossintéticos, encontram-se duas formas nas cianobactérias: a maioria possui clorofila a juntamente com várias proteínas chamadas ficobilinas, que dão às células a cor típica azulada; alguns géneros, no entanto, não possuem ficobilinas e têm clorofila b para além da a, o que lhes confere uma coloração verde brilhante. Originalmente, estas últimas formas foram classificadas num grupo denominado "proclorofitos" ou "cloroxibactérias", mas aparentemente desenvolveram-se em diferentes linhas de cianobactérias.
+É característico também das cianobactérias o carboxissoma, uma estrutura proteica que concentra CO2 para aumentar a eficiência do RuBisCO; possui, portanto, um papel análogo ao do pirenoide de algumas algas e Anthocerotophyta.
+Algumas cianobactérias produzem cianotoxinas, entre as quais anatoxina-a, anatoxina-as, aplisiatoxina, cilindrospermopsina, ácido domoico, microcistina LR, nodularina R e saxitoxina, algumas destas sendo de ação hepatóxica e neurotóxica, podendo ainda causar gastrointerites em mamíferos, inclusive na espécie humana. Isso ocorre apenas quando estão em proliferação, e o ambiente se torna favorável a ela.
+A partir da promoção de condições especiais em ambientes salinos ou hipersalinos, onde estes organismos geralmente não encontram predadores, são responsáveis pela precipitação de carbotatos, principalmente de cálcio, sobre a comunidade cianobacteriana. Quando esta comunidade inicial morre por não receber mais luz por causa da camada de carbonato precipitado, outra comunidade se forma por cima desta camada de carbonato. Após sucessivos ciclos de precipitação-morte-ressurgimento forma-se a esteira microbiana, que apresenta camadas claras e escuras, sendo respectivamente de carbonato e comunidade cianobacteriana em decomposição. Com o passar de muitos anos estas estruturas passam a apresentar maior altura, podendo apresentar variadas formas, sendo chamadas de estromatólitos. Estas estruturas são a maior prova da ocorrência de cianobactérias no final do proterozóico, há mais de 600 milhões de anos.
+
+
+== Classificação ==
+
+Historicamente, as bactérias foram inicialmente classificadas como plantas que constituem a classe dos Schizomycetes, que juntamente com os Schizophyceae (algas azuis/verde-azuladas/cianobactérias) formaram o filo Schizophyta. Em seguida, no filo Monera no reino Protista por Haeckel em 1866, compreendendo Protogens, Protamaeba, Vampyrella, Protomonae e Vibrio, mas não Nostoc e outras cianobactérias, que foram classificados com as algas mais tarde reclassificadas como procariontes por Chatton.As cianobactérias foram tradicionalmente classificadas pela morfologia em cinco seções, referidos pelo numerais I-V. Os três primeiros - Chroococcales, Pleurocapsales e Oscillatoriales - não são suportados por estudos filogenéticos. No entanto, os últimos dois – Nostocales e Stigonematales – são monofiléticos, e compõem as cianobactérias heterocísticas. Os membros do Chroococales são unicelulares e, geralmente, agregados em colônias. O critério taxonómico clássico tem sido a morfologia das células e o plano de divisão celular. Em Pleurocapsales, as células têm a capacidade de formar esporos internos (baeocytes).
+
+A nomenclatura das cianobactérias está regida por dois códigos, o Código Internacional de Nomenclatura Bacteriana e o Código Internacional de Nomenclatura Botânica; esta duplicidade de nomenclatura causa uma grande confusão.As cianobactérias são um grupo muito heterogêneo, e sua classificação responde mais a critérios didáticos que sistemáticos. A taxonomia está atualmente em revisão. A classificação que segue, com nomenclatura botânica, é proposta por Cavalier-Smith em 2002:Reino Monera
+
+Subreino Negibacteria
+Infrareino Glycobacteria
+Divisão Cyanobacteria
+Subdivisão Gloeobacteria
+Classe Gloeobacteria
+Ordem Gloeobacterales
+Gênero Gloeobacter
+Subdivisão Phycobacteria
+Classe Chroobacteria
+Ordem Chroococcales
+Ordem Pleurocapsales
+Ordem Oscillatoriales
+Classe Hormogoneae
+Ordem Nostocales
+Ordem Stigonematales
+
+
+== Importância ecológica ==
+As cianobactérias foram os principais produtores primários da biosfera durante mais ou menos 1.500 milhões de anos, e continuam sendo nos oceanos. A Terra continha pouco ou nenhum oxigênio naquela época. Alguns cientistas consideram que a atmosfera primitiva continha apenas 0,0001% de oxigênio. O mais importante é que através da fotossíntese elas encheram a atmosfera de oxigênio. Continuam sendo as principais provedoras de nitrogênio para as cadeias tróficas dos mares, sendo ainda de utilidade para a alimentação humana e produção de biocombustíveis como o biodisel.
+
+
+== Referências ==
+
+
+== Ligações externas ==
+
+«Oxigênio foi produzido por microorganismos»

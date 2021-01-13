@@ -1,0 +1,51 @@
+HomoloGene, uma ferramenta do Centro Nacional de Informações sobre Biotecnologia dos Estados Unidos (NCBI), é um sistema para detecção automatizada de homólogos (similaridade atribuível à descendência de um ancestral comum) entre os genes anotados de vários genomas eucarióticos completamente sequenciados.O processamento do HomoloGene consiste na análise de proteínas dos organismos de entrada. As sequências são comparadas usando o blastp (programas que pesquisam bancos de dados de proteínas usando uma consulta de proteína.), então combinadas e colocadas em grupos, usando uma árvore taxonômica construída a partir da similaridade da seqüência, onde organismos mais próximos são combinados primeiro, e então outros organismos são adicionados à árvore. Os alinhamentos de proteínas são mapeados de volta para suas seqüências de DNA correspondentes e, em seguida, métricas de distância como distâncias moleculares de Jukes e Cantor (1969), a relação Ka/Ks  pode ser calculada.
+
+
+== Organismos de entrada ==
+
+
+=== Metazoa ===
+
+
+==== Vertebrados ====
+Homo sapiens, Pan troglodytes, Mus musculus, Rattus norvegicus, Canis lupus familiaris, Bos taurus, Gallus gallus, Xenopus tropicalis, Danio rerio
+
+
+==== Invertebrados ====
+Drosophila melanogaster, Anopheles gambiae, Caenorhabditis elegans
+
+
+=== Fungi ===
+Saccharomyces cerevisiae, Schizosaccharomyces pombe, Kluyveromyces lactis, Eremothecium gossypii, Magnaporthe grisea,  Neurospora crassa
+
+
+=== Plantas ===
+
+
+==== Dicotiledóneas ====
+Arabidopsis thaliana"
+
+
+==== Monocots ====
+"Oryza sativa
+
+
+=== Protista ===
+Plasmodium falciparum.
+
+
+== Interface ==
+O HomoloGene está ligado a todas as bases de dados do Entrez e baseado em homologia e informação fenotípica destas ligações:
+
+Mouse Genome Informatics (MGI),
+Zebrafish Information Network (ZFIN),
+Banco de Dados do Genoma de Saccharomyces (SGD),
+Aglomerados de Grupos Ortólogos (COG),
+FlyBase,
+Herança Mendeliana Online no Homem (OMIM)Como resultado, a HomoloGene exibe informações sobre genes, proteínas, fenótipos e domínios conservados.
+
+
+== Referências ==
+
+
+== Ligações externas ==

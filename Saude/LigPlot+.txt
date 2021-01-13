@@ -1,0 +1,4 @@
+Em bioinformática LigPlot+ é um front-end gráfico para os programas DIMPLOT e LIGPLOT. É um programa de computador que gera representações esquemáticas de 2-D de complexos proteína-ligantes a partir da entrada de arquivo padrão do Protein Data Bank. O LigPlot+ é usado para gerar imagens para o recurso PDBsum que resume a estrutura molecular. O LigPlot+ é o sucessor do software LIGPLOT escrito em C pelos mesmos autores . 
+
+
+== Referências ==

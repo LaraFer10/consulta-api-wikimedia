@@ -1,0 +1,17 @@
+Cauterização é um termo médico usado para descrever o ato de queimar parte do corpo humano para remover ou fechar alguma região. As principais formas de cauterização utilizadas atualmente são o eletrocautério e a cauterização química.
+
+
+== Eletrocautério ==
+Eletrocauterização (também chamada de cirurgia elétrica ou eletrocirurgia) é o processo de destruir tecido com a eletricidade, sendo usado amplamente na cirurgia moderna. O procedimento é frequentemente usado para parar o sangramento de pequenos vasos (sendo os vasos maiores ligados) ou para cortar um tecido corporal, como, por exemplo, a gordura abdominal em uma laparotomia ou o tecido mamário em uma mastectomia.
+
+
+=== Gerador eletrocirúrgico ===
+O gerador eletrocirúrgico (mais conhecido como uma unidade eletrocirúrgica ou simplesmente como gerador) alimenta um sistema de eletrocirurgia com eletricidade em voltagem, frequência e forma de onda adequados para corte ou coagulação, de acordo com a necessidade do cirurgião.
+
+
+==== Frequência ====
+Para prevenir o choque elétrico, uma frequência alternada que é maior do que a das tomadas domésticas é utilizada. As tomadas domésticas apresentam uma frequência de 50–60 Hz, que é bastante letal, já que a cada alteração os nervos e músculos são estimulados, causando contrações violentas 50-60 vezes por segundo. Entretanto, a estimulação nervosa e muscular cessam a 100.000 Hz, já que as alterações são rápidas demais para as células acompanharem. Desta maneira, a eletrocirurgia pode ser realizada com segurança em frequências acima de 100kHz.
+
+
+== Ver também ==
+Diatermia

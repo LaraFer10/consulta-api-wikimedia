@@ -1,0 +1,934 @@
+O íon molecular de hidrogênio, cátion di-hidrogênio, ou H2+, é o íon molecular mais simples. É composto de dois prótons de carga positiva e um elétron de carga negativa, e pode ser formado pela ionização de uma molécula de hidrogênio neutra. É de grande interesse histórico e teórico porque, tendo somente um elétron, a equação de Schrödinger para o sistema pode ser resolvida de uma forma relativamente direta devido a falta de repulsão elétron-elétron (correlação eletrônica). Consequentemente, é incluída como um exemplo na maioria dos livros de química quântica.
+Ligando-se em H2+ pode ser descrito como covalente ligação de um elétron, que tem uma ordem de ligação formal de uma metade.
+
+
+== Abordagem mecânica quântica, simetrias e asymptotics ==
+ O mais simples equação de onda de Schrödinger eletrônica para o íon de hidrogênio molecular 
+  
+    
+      
+        
+          H
+          
+            2
+          
+          
+            +
+          
+        
+      
+    
+    {\displaystyle H_{2}^{+}}
+   é modelado com dois fixos centros nucleares, identificado como A e B, e um elétron. Ela pode ser escrita como:
+
+  
+    
+      
+        
+          (
+          
+            −
+            
+              
+                
+                  ℏ
+                  
+                    2
+                  
+                
+                
+                  2
+                  m
+                
+              
+            
+            
+              ∇
+              
+                2
+              
+            
+            +
+            V
+          
+          )
+        
+        ψ
+        =
+        E
+        ψ
+         
+        ,
+      
+    
+    {\displaystyle \left(-{\frac {\hbar ^{2}}{2m}}\nabla ^{2}+V\right)\psi =E\psi ~,}
+  onde 
+  
+    
+      
+        V
+      
+    
+    {\displaystyle V}
+   é o elétron-nuclear Coulomb função energia potencial:
+
+  
+    
+      
+        V
+        =
+        −
+        
+          
+            
+              e
+              
+                2
+              
+            
+            
+              4
+              π
+              
+                ε
+                
+                  0
+                
+              
+            
+          
+        
+        
+          (
+          
+            
+              
+                1
+                
+                  r
+                  
+                    a
+                  
+                
+              
+            
+            +
+            
+              
+                1
+                
+                  r
+                  
+                    b
+                  
+                
+              
+            
+          
+          )
+        
+      
+    
+    {\displaystyle V=-{\frac {e^{2}}{4\pi \varepsilon _{0}}}\left({\frac {1}{r_{a}}}+{\frac {1}{r_{b}}}\right)}
+  e E é a energia (eletrônico) de um dado estado mecânico quântico (autovetor o eigenstate) com a função de estado eletrônico 
+  
+    
+      
+        ψ
+        =
+        ψ
+        (
+        
+          r
+        
+        )
+      
+    
+    {\displaystyle \psi =\psi (\mathbf {r} )}
+   dependendo as coordenadas espaciais do electrão. Um termo aditivo 
+  
+    
+      
+        1
+        
+          /
+        
+        R
+      
+    
+    {\displaystyle 1/R}
+  ,  Que é constante para a distância  inter-nuclear fixo 
+  
+    
+      
+        R
+      
+    
+    {\displaystyle R}
+  , Foi omitido o potencial 
+  
+    
+      
+        V
+      
+    
+    {\displaystyle V}
+  . Uma vez que apenas muda o autovalor. As distâncias entre os elétrons e os núcleos são denotados 
+  
+    
+      
+        
+          r
+          
+            a
+          
+          
+
+          
+        
+      
+    
+    {\displaystyle r_{a}^{}}
+   e 
+  
+    
+      
+        
+          r
+          
+            b
+          
+          
+
+          
+        
+      
+    
+    {\displaystyle r_{b}^{}}
+  . Em unidades atômicas 
+  
+    
+      
+        (
+        ℏ
+        =
+        m
+        =
+        e
+        =
+        4
+        π
+        
+          ε
+          
+            0
+          
+        
+        =
+        1
+        )
+      
+    
+    {\displaystyle (\hbar =m=e=4\pi \varepsilon _{0}=1)}
+   a equação de onda é:
+
+  
+    
+      
+        
+          (
+          
+            
+
+            
+            −
+            
+              
+                1
+                2
+              
+            
+            
+              ∇
+              
+                2
+              
+            
+            +
+            V
+          
+          )
+        
+        ψ
+        =
+        E
+        ψ
+        
+        
+          
+            e
+          
+        
+        
+        V
+        =
+        
+
+        
+        −
+        
+          
+            1
+            
+              r
+              
+                a
+              
+              
+
+              
+            
+          
+        
+        −
+        
+          
+            1
+            
+              r
+              
+                b
+              
+              
+
+              
+            
+          
+        
+        
+        .
+      
+    
+    {\displaystyle \left({}-{\frac {1}{2}}\nabla ^{2}+V\right)\psi =E\psi \qquad {\mbox{e}}\qquad V={}-{\frac {1}{r_{a}^{}}}-{\frac {1}{r_{b}^{}}}\;.}
+  Podemos escolher o ponto médio entre os núcleos como a origem das coordenadas. Segue-se a partir de princípios de simetria geral de que as funções de onda pode ser caracterizada pelo seu comportamento de simetria em relação ao espaço de inversão (r 
+  
+    
+      
+        →
+      
+    
+    {\displaystyle \to }
+   -r).  Há funções de onda: 
+  
+    
+      
+        
+          ψ
+          
+            +
+          
+        
+        (
+        
+          r
+        
+        )
+      
+    
+    {\displaystyle \psi _{+}(\mathbf {r} )}
+  , Que são simétricos em relação ao espaço de inversão, e existem funções de onda: 
+  
+    
+      
+        
+          ψ
+          
+            −
+          
+        
+        (
+        
+          r
+        
+        )
+      
+    
+    {\displaystyle \psi _{-}(\mathbf {r} )}
+  , Que são anti-simétrica sob esta operação simetria: 
+  
+    
+      
+        
+          ψ
+          
+            ±
+          
+        
+        (
+        −
+        
+          
+            r
+          
+        
+        )
+        =
+        
+
+        
+        ±
+        
+          ψ
+          
+            ±
+          
+        
+        (
+        
+          
+            r
+          
+        
+        )
+        
+      
+    
+    {\displaystyle \psi _{\pm }(-{\mathbf {r} })={}\pm \psi _{\pm }({\mathbf {r} })\;}
+  .  Fazemos notar que a permuta (troca) dos núcleos tem um efeito similar sobre a função de onda electrónica. Nós apenas mencionar que, para um comportamento do sistema com muitos elétrons adequada de 
+  
+    
+      
+        ψ
+      
+    
+    {\displaystyle \psi }
+   no que diz respeito à simetria permutacional dos electrões (princípio da exclusão de Pauli) deve ser garantida, em adição às simetrias apenas discutidos acima.  Agora, as equações de Schrödinger para essas funções de onda são adaptadas simetria:
+
+  
+    
+      
+        
+          
+            
+              
+                
+                  (
+                  
+                    −
+                    
+                      
+                        1
+                        2
+                      
+                    
+                    
+                      ∇
+                      
+                        2
+                      
+                    
+                    +
+                    V
+                  
+                  )
+                
+                
+                  ψ
+                  
+                    +
+                  
+                
+                =
+                
+                  E
+                  
+                    +
+                  
+                
+                
+                  ψ
+                  
+                    +
+                  
+                
+              
+            
+            
+              
+                
+                  (
+                  
+                    −
+                    
+                      
+                        1
+                        2
+                      
+                    
+                    
+                      ∇
+                      
+                        2
+                      
+                    
+                    +
+                    V
+                  
+                  )
+                
+                
+                  ψ
+                  
+                    −
+                  
+                
+                =
+                
+                  E
+                  
+                    −
+                  
+                
+                
+                  ψ
+                  
+                    −
+                  
+                
+              
+            
+          
+        
+      
+    
+    {\displaystyle {\begin{aligned}\left(-{\frac {1}{2}}\nabla ^{2}+V\right)\psi _{+}=E_{+}\psi _{+}\\\left(-{\frac {1}{2}}\nabla ^{2}+V\right)\psi _{-}=E_{-}\psi _{-}\end{aligned}}}
+  O estado fundamental (o menor estado discreto) de 
+  
+    
+      
+        
+          H
+          
+            2
+          
+          
+            +
+          
+        
+      
+    
+    {\displaystyle H_{2}^{+}}
+   é o 
+  
+    
+      
+        
+          
+            
+              X
+            
+          
+          
+
+          
+          
+            2
+          
+        
+        
+          Σ
+          
+            
+              g
+            
+          
+          
+            +
+          
+        
+      
+    
+    {\displaystyle {\rm {X}}_{}^{2}\Sigma _{\rm {g}}^{+}}
+   Estado (por exemplo, ver Huber e Herzberg em 1979) com a função de onda correspondente 
+  
+    
+      
+        
+          ψ
+          
+            +
+          
+        
+      
+    
+    {\displaystyle \psi _{+}}
+   denotado como 
+  
+    
+      
+        1
+        s
+        
+          σ
+          
+            
+              g
+            
+          
+          
+
+          
+        
+      
+    
+    {\displaystyle 1s\sigma _{\rm {g}}^{}}
+  . Há também o primeiro animado 
+  
+    
+      
+        
+          
+            
+              A
+            
+          
+          
+
+          
+          
+            2
+          
+        
+        
+          Σ
+          
+            
+              u
+            
+          
+          
+            +
+          
+        
+      
+    
+    {\displaystyle {\rm {A}}_{}^{2}\Sigma _{\rm {u}}^{+}}
+   Estato, com sua 
+  
+    
+      
+        
+          ψ
+          
+            −
+          
+        
+      
+    
+    {\displaystyle \psi _{-}}
+   etiquetados como 
+  
+    
+      
+        
+          
+            2
+            p
+          
+        
+        
+          σ
+          
+            
+              u
+            
+          
+          
+
+          
+        
+      
+    
+    {\displaystyle {\rm {2p}}\sigma _{\rm {u}}^{}}
+  .  Os sufixos g e u são do gerade (mesmo em alemão) e ungerade (impar em alemão) ocorrendo aqui denotam apenas o comportamento simetria sob inversão espaço (por exemplo, ver Cartmell e Fowles em 2003). Seu uso é prática padrão para a designação de estados eletrônicos de moléculas diatômicas, enquanto que para estados atômicos os termos pares e ímpares são usadas.
+
+ Assintoticamente, os eigenenergies (total)  
+  
+    
+      
+        
+          E
+          
+            ±
+          
+        
+      
+    
+    {\displaystyle E_{\pm }}
+   para estes dois menores estados mentirosos têm a mesma expansão assintótica poderes inverso da distância inter-nuclear R (de ordem elevada por Cížek e colegas em 1986):
+
+  
+    
+      
+        
+          E
+          
+            ±
+          
+        
+        =
+        
+
+        
+        −
+        
+          
+            1
+            2
+          
+        
+        −
+        
+          
+            9
+            
+              4
+              
+                R
+                
+                  4
+                
+              
+            
+          
+        
+        +
+        O
+        (
+        
+          R
+          
+            −
+            6
+          
+        
+        )
+        +
+        ⋯
+      
+    
+    {\displaystyle E_{\pm }={}-{\frac {1}{2}}-{\frac {9}{4R^{4}}}+O(R^{-6})+\cdots }
+  A diferença actual entre estas duas energias é chamado a troca de energia de separação e é dado por
+
+  
+    
+      
+        Δ
+        E
+        =
+        
+          E
+          
+            −
+          
+        
+        −
+        
+          E
+          
+            +
+          
+        
+        =
+        
+          
+            4
+            e
+          
+        
+        
+        R
+        
+        
+          e
+          
+            −
+            R
+          
+        
+        
+          [
+          
+            
+            1
+            +
+            
+              
+                1
+                
+                  2
+                  R
+                
+              
+            
+            +
+            O
+            (
+            
+              R
+              
+                −
+                2
+              
+            
+            )
+            
+          
+          ]
+        
+      
+    
+    {\displaystyle \Delta E=E_{-}-E_{+}={\frac {4}{e}}\,R\,e^{-R}\left[\,1+{\frac {1}{2R}}+O(R^{-2})\,\right]}
+  que desaparece exponencialmente quando a distância internuclear R torna-se maior. Da mesma forma, as expansões assintóticas em potências de 1 / R obtém-se a uma ordem de altura por Cížek e outros Estados discretos para o íon dez hidrogênio molecular de menor energia (no caso dos núcleos vinculados). Para diatômicas e poliatómicos sistemas moleculares em geral, troca de energia, é muito difícil calcular a grandes distâncias internuclear, mas, no entanto, necessário para interações de longo alcance, incluindo estudos relacionados com o magnetismo e os efeitos troca de carga. Estas são de particular importância em física estelar e atmosférica.
+As energias dos estados mais baixos discretos são mostrados no gráfico anterior. Estes podem ser obtidos dentro de precisão arbitrária usando Sistema de álgebra computacional da função W de Lambert generalizada (ver equazione 
+  
+    
+      
+        (
+        3
+        )
+      
+    
+    {\displaystyle (3)}
+   nesse site e da referência de Scott, Aubert-Frécon, e Grotendorst), mas foram obtidos inicialmente por meio numéricos para dentro de precisão dupla pelo programa mais preciso disponível, nomeadamente ODKIL.
+As linhas vermelhas são completos 
+  
+    
+      
+        
+          
+            
+
+            
+          
+          
+
+          
+          
+            2
+          
+        
+        
+          Σ
+          
+            
+              g
+            
+          
+          
+            +
+          
+        
+      
+    
+    {\displaystyle {\rm {}}_{}^{2}\Sigma _{\rm {g}}^{+}}
+   estados.
+As linhas verdes são tracejadas 
+  
+    
+      
+        
+          
+            
+
+            
+          
+          
+
+          
+          
+            2
+          
+        
+        
+          Σ
+          
+            
+              u
+            
+          
+          
+            +
+          
+        
+      
+    
+    {\displaystyle {\rm {}}_{}^{2}\Sigma _{\rm {u}}^{+}}
+   estados.
+A linha tracejada azul é uma 
+  
+    
+      
+        
+          
+            
+
+            
+          
+          
+
+          
+          
+            2
+          
+        
+        
+          Π
+          
+            
+              u
+            
+          
+        
+      
+    
+    {\displaystyle {\rm {}}_{}^{2}\Pi _{\rm {u}}}
+   Estado e
+linha pontilhada rosa é uma 
+  
+    
+      
+        
+          
+            
+
+            
+          
+          
+
+          
+          
+            2
+          
+        
+        
+          Π
+          
+            
+              g
+            
+          
+        
+      
+    
+    {\displaystyle {\rm {}}_{}^{2}\Pi _{\rm {g}}}
+   Estado.Note que, embora as generalizadas função W de Lambert soluções autovalor anularão estas expansões assintóticas, na prática, eles são mais úteis perto do distância de ligação.  Estas soluções são possíveis porque a equação diferencial parcial da equação de onda aqui separa em dois acoplados equações diferenciais ordinárias usando coordenadas esféricas alongadas.
+
+
+== Ver também ==
+Cátion trihidrogênio
+Função W de Lambert
+Problema de Euler dos três corpos
+
+
+== Referências ==

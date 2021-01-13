@@ -1,0 +1,48 @@
+O núcleo supraóptico (NSO) é um núcleo composto por neurônios magnocelulares no hipotálamo de mamíferos. Esse núcleo se situa na base do cérebro, de forma adjacente ao quiasma óptico. Em humanos, o NSO contém cerca de 3.000 neurônios.
+
+
+== Função ==
+Os corpos celulares desses neurônios produzem o hormônio peptídico vasopressina, que também é conhecido como hormônio anti-diurético (ADH). Esse mensageiro químico é transportado pela corrente sanguínea até suas células-alvo nos dutos papilares dos rins, melhorando a reabsorção de água. 
+Nos corpos celulares, os hormônios são embalados em grandes vesículas delimitadas por membrana, que são transportadas pelo axônio até as terminações nervosas. Os grânulos secretores são também armazenados em pacotes ao longo do axônio denominados corpos de Herring.
+Neurônios magnocelulares semelhantes são encontrados no núcleo paraventricular. 
+
+
+=== Sinalização ===
+Cada neurônio no núcleo tem um longo axônio que se projeta para a neuroipófise, onde ele origina cerca de 10.000 terminais nervosos neurossecretores. Os neurônios magnocelulares são eletricamente excitáveis: em resposta a diferentes estímulos de outros neurônios, eles geram potenciais de ação, que se propagam pelo axônio. Quando o potencial de ação invade o terminal neurossecretor, este é despolarizado e o cálcio entra no terminal por meio de ganais dependentes de voltagem. A entrada do cálcio provoca a secreção de parte das vesículas em um processo conhecido como exocitose. Os conteúdos da vesícula são liberados no espaço extracelular, a partir de onde eles se difundem para a corrente sanguínea. 
+
+
+=== Regulação dos neurônios supraópticos ===
+Vasopressina (hormônio antidiurético, ADH) é liberada em resposta à concentração de soluto no sangue, ao decréscimo de volume ou de pressão sanguínea.
+Alguns outros sinais vêm do tronco cerebral, incluindo alguns dos neurônios noradrenérgicos do núcleo do trato solitário e da medula ventro-lateral. Contudo, muitas das sinalizações ao núcleo supraóptico vêm dos neurônios que circundam o núcleo ("zona perinuclear").
+Das ligações aferentes ao núcleo supraóptico, a maioria contém o neurotransmissor inibitório GABA ou o neurotransmissor excitatório glutamato, mas esses transmissores geralmente coexistem com vários peptídeos. Outros neurotransmissores aferentes incluem noradrenalina (do tronco cerebral), dopamina, serotonina e acetilcolina. 
+
+
+=== O núcleo supraóptico como um "sistema modelo" ===
+O núcleo supraóptico é um importante "sistema modelo" em neurociência. Há muitas razões para isso, como o tamanho relativamente grande dos corpos celulares nessa região, a produção excepcionalmente grande de seus produtos secretores e a relativa homogeneidade do núcleo, sendo fácil separá-lo do restante do cérebro. A expressão gênica e a atividade elétrica dos neurônios supraópticos tem sido estudada extensivamente, em muitas condições fisiológicas e experimentais.  Esses estudos levaram a muitos insights de sua importância, como nos exemplos abaixo. 
+
+
+==== Plasticidade morfológica no núcleo supraóptico ====
+Estudos anatômicos utilizando microscopia eletrônica mostraram que a morfologia do núcleo supraóptico é notavelmente adaptável.   Por exemplo, durante a lactação, há grandes mudanças no tamanho, na forma, no número e no tipo de sinapses que os neurônios secretores de ocitocina recebem e nas relações estruturais entre os neurônios e as células da glia no núcleo. Essas mudanças surgem durante o parto e são consideradas adaptações importantes que preparam os neurônios da ocitocina para uma alta demanda sustentada por ocitocina, hormônio essencial para a descida do leite em resposta ao aleitamento. 
+Esses estudos mostraram que o cérebro é muito mais "plástico" em sua anatomia do que o anteriormente reconhecido, e levou a um grande interesse nas interações entre células da glia e neurônios em geral. 
+
+
+=== Acoplamento estímulo-secreção ===
+Em resposta a, por exemplo, um aumento na concentração plasmática de sódio, os neurônios secretores de vasopressina também liberam potenciais de ação em rajadas, mas elas são muito mais longas porém menos intensas do que as exibidas pelos neurônios secretores de ocitocina, e as rajadas nas células da vasopressina não são sincronizadas. Parecia estranho que as células secretoras de vasopressina disparassem em rajadas. Como a atividade delas não é sincronizada, o nível geral de secreção de vasopressina no sangue é contínuo, não pulsátil. Richard Dyball e seus colegas de trabalho especularam que esse padrão de atividade, chamado "disparo fásico", pode ser particularmente eficaz para causar secreção de vasopressina. Eles mostraram que este é o caso  estudando a secreção de vasopressina da hipófise posterior isolada in vitro. Foi descoberto, ainda, que a secreção de vasopressina poderia ser evocada por pulsos de estímulo elétrico aplicados à glândula, e que muito mais hormônio era liberado por um padrão fásico de estimulação do que por um padrão contínuo de estimulação. 
+Esses experimentos geraram interesse em "acoplamento estímulo-secreção" - a relação entre atividade elétrica e secreção. Neurônios supraópticos são peculiares não só pelas grandes quantidades de peptídeos por eles secretados, como também pelo fato de secretarem peptídeos no sangue. Cabe mencionar, contudo, que diversos neurônios no cérebro, e sobretudo no hipotálamo, sintetizam peptídeos. Acredita-se hoje que rajadas de atividade elétrica possam ter sua importância relacionada à grandes liberações de peptídeos em neurônios que os secretem.
+
+
+=== Secreção dendrítica ===
+Neurônios supraópticos têm, usualmente, de 1 a 3 dendritos grandes, cuja maioria se projeta ventralmente para formar a lâmina glial ventral. Os dendritos recebem a maior parte dos terminais sinápticos dos neurônios aferentes que regulam, por sua vez, os neurônios supraópticos, mas dendritos neuronais são com frequência ativamente envolvidos no processamento de informações, em vez de meros receptores passivos dela. Os dendritos dos neurônios supraópticos contêm grandes quantidades de vesículas neurossecretoras que contêm ocitocina e vasopressa e podem ser liberadas dos dendritos por exocitose. A ocitocina e vasopressina que são liberadas pela hipófise posterior caem na circulação sanguínea e não podem reentrar no cérebro devido à barreira hematoencefálica, ao passo que a ocitocina e vasopressina que são liberadas pelos dendritos atuam no próprio cérebro. Neurônios secretores de ocitocina expressam, eles mesmos, receptores de ocitocina, e neurônios secretores de vasopressina expressam receptores de vasopressina, então peptídeos liberados dendriticamente "autorregulam" os neurônios supraópticos. Francoise Moos e Philipe Richard foram os primeiros a mostrar que a ação autorregulatória da ocitocina é importante para o reflexo de ejeção do leite.
+Esses peptídeos têm meia-vida relativamente longa no cérebro (cerca de 20 minutos) e são liberados em grandes quantidades no núcleo supraóptico, então eles se fazem disponíveis para difundir pelo meio extracelular do cérebro para agir sobre alvos distantes. Receptores de ocitocina e ocitocina se expressam em diversas outras regiões do cérebro, incluindo a amígdala, tronco cerebral e septo, bem como a maior porção dos núcleos no hipotálamo.
+Devido ao fato de tanta vasopressina e ocitocina serem liberadas nesse local, estudos do núcleo supraóptico fizeram uma importante contribuição no entendimento de como a liberação por dendritos é regulada e em entender sua significância fisiológica. Estudos demonstraram que a secretina auxilia liberação de ocitocina no NSO e que a administração de secretina nessa região melhora o reconhecimento social em roedores. Essa melhora na capacidade social aparenta se basear nos efeitos da secretina sobre os neurônios secretores de ocitocina no NSO, uma vez que bloquear receptores de ocitocina aí presentes resulta em bloqueio do reconhecimento social . 
+
+
+=== Peptídeos coexistentes ===
+Os neurônios secretores de vasopressina e os secretores de ocitocina produzem muitas outras substâncias neuroativas além de vasopressina e ocitocina, embora a maioria dessas esteja presente apenas em pequenas quantidades. No entanto, algumas delas são reconhecidamente importantes. A dinorfina produzida pelos neurônios secretores de vasopressina está envolvida na regulação do padrão de descarga fásica deles próprios, e o óxido nítrico produzido pelos dois tipos de neurônios é um modulador de feedback negativo da atividade celular. Os neurônios secretores de ocitocina também produzem dinorfina; nesses neurônios, a dinorfina atua nos terminais nervosos da hipófise posterior como um inibidor de feedback negativo da secreção de ocitocina. Esses neurônios também produzem o transcrito regulatório de cocaína e anfetamina (CART), bem como grandes quantidades de colecistoquinina. 
+
+
+== Veja também ==
+Núcleo paraventricular
+
+
+== Referências ==

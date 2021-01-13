@@ -1,0 +1,47 @@
+Antagonismo em farmacologia se refere aos compostos químicos que se ligam a determinados receptores neurológicos porém sem ativá-los, impedindo que os componentes que o ativariam de se ligarem. O oposto do antagonista é o agonista.
+
+
+== Características ==
+O antagonismo é um fenômeno onde a exposição a um químico resulta na redução do efeito de outro químico. O termo é normalmente usado neste contexto em bioquímica, toxicologia e farmacologia: a interferência em uma ação fisiológica de uma substância química por outra que tenha uma estrutura similar que tem afinidade forte com o receptor sem causar a ativação ou resposta do mesmo. Um receptor antagonista é um agente que reduz a resposta que um ligante produz quando se une a um receptor em uma célula. Ou seja, o efeito de um químico atenua ou anula o efeito de outro. Este é o fenómeno oposto do efeito sinergístico.
+Deve-se ter em atenção os perigos de misturar medicamentos (sem a prescrição de um médico) pois eles podem interagir entre si. Na presença de antagonismo, a resposta farmacológica de um medicamento é suprimida ou reduzida na presença de outro.
+
+
+== Classificação ==
+
+Antagonista parcial/total: Um antagonista parcial atua apenas em receptores bastante específicos e limitados, deixando outras opções para os agonistas. Independente da quantidade o parcial não vai anular completamente os efeitos de um agonista. O total por outro lado atua em vários subtipos de um receptores tendo efeitos mais amplos. Em farmacologia quanto mais específico menos efeitos colaterais, pois ele é selecionado para atuar apenas na fonte do problema sem interferir com as partes funcionando corretamente por isso os parciais são mais usados. Porém, no caso de uma intoxicação que atue em um grande número de receptores um antagonista total protegeria o organismo melhor.
+Antagonista reversível/irreversível: No antagonismo reversível é possível ao agonista em grandes quantidades reverter os efeitos do antagonista enquanto no irreversível inibem os efeitos dos agonistas independente da quantidade enquanto se mantiverem bloqueando os receptores.Antagonista competitivo/alostérico: O antagonista competitivo atua no mesmo receptor que o agonista impedindo ele de se encaixar, enquanto o antagonista alostérico atua em outro receptor mas que tem efeitos atenuantes dos efeitos desencadeados pelo agonista.Agonista inverso: Seu efeito vai além do antagonista neutro, que apenas bloqueia o receptor sem gerar efeito e inibe a atividade intrínseca (constitutiva) do receptor, produzindo efeito contrário ao do agonista. Por exemplo, enquanto a histamina gera resposta inflamatória no receptor H1, um agonista inverso como a loratadina encaixa no receptor H1, produz resposta de desinflamação e também não permite que uma histamina se encaixe. Muitos medicamentos originalmente considerados apenas antagonistas, revelaram ser agonistas inversos.
+
+
+== Sensibilização/Desensibilização ==
+A estimulação constante de um receptor por um agonista resulta em um estado de progressiva dessensibilização, ou seja, o efeito se torna cada vez menor. Diversos mecanismos podem ser responsáveis por este fenômeno, tais como, alteração do receptor, sua destruição, relocalização na célula. Por outro lado a administração contínua de um antagonista gera um estado de hiperreatividade e supersensibilidade cada vez maior do receptor ao agonista.A supersensibilização dos receptores associados a dor é uma das possíveis causas de fibromialgia.
+
+
+== Exemplos ==
+Um caso clássico consiste na mistura de contraceptivos orais com antibióticos: os antibióticos aceleram o metabolismo hepático dos anticoncepcionais, aumentando consequentemente o risco da gravidez; os antibióticos também reduzem a flora bacteriana gastrointestinal residente, responsável pela degradação das cápsulas dos contraceptivos orais, reduzindo a absorção do fármaco.Outro exemplo de interação medicamentosa com efeito antagonístico surge quando se toma um antiácido simultaneamente com um anti-inflamatório - o pH do estômago precisa ser ácido para absorver o anti-inflamatório, diminuindo assim a absorção do medicamento.Os antagonistas são muito usados intencionalmente para diminuir o efeito de compostos químicos prejudiciais. Se um paciente tem excesso de serotonina existem vários medicamentos (como a alossetrona, cetanserina e a ondansetrona) que vão se ligar a um dos tipos de receptores da serotonina sem ativá-los, impedindo que a própria serotonina de se ligar e os ativar, diminuindo o efeito desse tipo de receptor no organismo.
+
+
+== Antagonistas do 5HT-3 ==
+Os antagonistas 5-HT3, como o ondansetron, são medicamentos potencialmente ansiolíticos, com poucos efeitos adversos e consideravelmente seguros, porém mais estudos são necessários para a determinação de sua real eficácia no tratamento de transtornos de ansiedade. Sua alta seletividade, a alta potência e a aparente baixa toxicidade fazem deles uma alternativa muito útil na clínica.
+
+
+== Ver também ==
+Agonista (bioquímica)
+Antagonista da aldosterona
+Antagonistas beta-adrenérgicos
+Antagonista da vitamina K
+Antagonista do receptor da angiotensina
+Antagonista H2
+Antagonista dos canais de cálcio
+Sinergia
+
+
+== Referências ==
+
+
+== Bibliografia ==
+Apostila de Introdução à Toxicologia da prof. Susana Marinho do Departamento de Química e Bioquímica da Faculdade de Ciências da Universidade de Lisboa
+Apostila de Princípios da Farmacologia da Universidade de Brasília
+
+
+== Ligações externas ==
+Merlin, J. (1994). Concepts of synergism and antagonism. Anticancer Research.

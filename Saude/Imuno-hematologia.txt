@@ -1,0 +1,77 @@
+Imuno-hematologia é o estudo dos antígenos presentes nas hemácias (glóbulos vermelhos ou eritrócitos) (células vermelhas do sangue), dos anticorpos correspondentes e de seu significado clínico. Relaciona-se à Hemoterapia ou medicina transfusional.
+As hemácias humanas apresentam em sua superfície numerosos antígenos próprios, não ligados ao sistema HLA ou de imuno-histocompatibilidade maior. Em determinadas condições, como em pacientes submetidos a transfusões e mulheres grávidas previamente sensibilizados a algum desses antígenos, sua manifestação clínica pode se dar, respectivamente, através de reações transfusionais e da Doença Hemolítica do Recém-Nascido (DHRN) por incompatibilidade sanguínea. Podem também estar ligados a anemias hemolíticas autoimunes.
+
+
+== Antígenos eritrocitários e anticorpos ==
+Antígenos eritrocitários são substâncias presentes nas membranas dos glóbulos vermelhos, herdados geneticamente. Bioquimicamente, podem ser proteicos ou carboidratos (ligados a lipídios ou proteínas). Já foram reconhecidos e classificados aproximadamente 285 antígenos eritrocitários de importância clínica, divididos em sistemas individualizados,bem como alguns antígenos de alta ou baixa incidência populacional ainda não ligados a sistemas ou coleções. Define-se um Sistema de grupos sanguíneos o conjunto de antígenos formados a partir da expressão de genes alelos de mesmo locus gênico, ou mesmo por um complexo de dois ou mais genes homólogos intimamente ligados.
+Cada sistema apresenta potencialidade imunogênica característica, variando desde os antígenos que raramente causam problemas clínicos até os que, em caso de transfusão incompatível, podem resultar na morte do paciente.
+Cada sistema antigênico é também específico - vale dizer, os anticorpos correspondentes se fixam especificamente aos sítios antigênicos determinados por cada grupo correspondente. Dentre estes, há os antígenos denominados públicos (comuns à maioria dos seres humanos) e familiares ou privados (extremamente raros, de ocorrência limitada a grupamentos humanos restritos ou familiares).
+Para alguns destes grupos, os anticorpos são ditos naturais (quando existem no soro da maioria dos seres humanos, sem que estes tenham sido expostos a inoculação dos antígenos correspondentes por via parenteral --- como é o caso do Sistema ABO. Em sua maioria, contudo, os anticorpos só surgem no soro de um determinado indivíduo após inoculação (anticorpos ditos imunes). Considera-se que os anticorpos naturais sejam formados através da imunização por antígenos iguais ou semelhantes presentes em alimentos e micro-organismos. Existem importantes diferenças entre os anticorpos naturais e imunes:
+Os anticorpos naturais são geralmente do tipo IGM (de grande tamanho e alto peso molecular), opondo-se aos imunes, que são geralmente do tipo IGG (de baixo peso molecular);
+Os anticorpos naturais são mais reativos a temperaturas inferiores a 37 °C, sendo portanto designados como anticorpos frios; já os anticorpos imunes têm melhor reatividade a 37 °C, sendo ditos anticorpos quentes.
+In vitro, os anticorpos naturais geralmente são capazes tanto de sensibilizar as hemácias (produzir combinação dos antígenos eritrocitários com os respectivos anticorpos) --- o chamado primeiro estágio da reação ---  como de produzir aglutinação (formação de grumos de hemácias sensibilizadas ou hemólise (destruição de hemácias sensibilizadas) --- o chamado segundo estágio ---, em meio salino. Já os anticorpos imunes são, via de regra, incapazes de produzir o segundo estágio. Desta forma, os anticorpos naturais são também denominados anticorpos completos ou salinos, ao passo que os imunes se designam como anticorpos incompletos.
+Essa incapacidade desaparece mediante estímulos como a execução da reação com as hemácias suspensas em meio proteico (o mais utilizado é a albumina bovina a 22%). Este fenômeno confere a estes anticorpos a designação de anticorpos albumínicos ou aglutininas albumínicas. Outros métodos de se obter a mesma reação incluem o tratamento prévio das hemácias com enzimas como a papaína, a tripsina, a bromelina ou a ficina, e o tratamento das hemácias com gama-globulina anti-humana ou prova de Coombs.A existência de sistemas antigênicos eritrocitários foi primeiro descrita por Karl Landsteiner, no início do século XX (1900 - 1901). Na ocasião, reconheceu os antígenos A, B e O, pertencentes ao Sistema ABO. Atualmente são descritos numerosos sistemas antigênicos individuais de importância em hemoterapia, medicina legal e antropologia.
+
+
+=== O Sistema ABO ===
+
+Este sistema foi descrito inicialmente por Landsteiner (1900, 1901) e Sturli (1902), que classificaram os seres humanos em três grupos sanguíneos: A, B,  O e AB. Posteriormente foram descritos diversos subgrupos. Geneticamente é determinado pela presença de três grupos de alelos: H,h --- que determinam a produção ou não do antígeno base, denominado antígeno H; A, B, e O --- que determinam a adição de carboidratos a esta estrutura básica, formando os antígenos A e B, que podem ou não estar presentes, dando origem aos grupos A, B, AB e O; e Se,se --- que determinam a presença ou ausência dos antígenos do sistema ABO em secreções como saliva e sêmen. Tem correlação como Sistema Lewis, através dos alelos Le,le.
+
+
+=== O Sistema Rh ===
+
+Juntamente com o Sistema ABO, o Sistema Rh tem grande importância em transfusões de sangue. Foi descoberto independentemente por Levin e Stone (1939) e . Landsteiner e Wiener (1940), tendo Wiener e Peters (1940) aproximado as duas observações, determinando tratar-se do mesmo antígeno. É composto por antígenos de natureza lipoproteica, de grande complexidade genética e antigênica.
+
+
+=== Outros sistemas antigênicos ===
+Numerosos sistemas antigênicos ertitrocitários foram descobertos, após as descobertas dos sistemas ABO e Rh. Em sua maioria apresentam antígenos públicos, comuns à maioria dos seres humanos e/ou de baixa imunogenicidade, portanto não representam risco importante em hemoterapias nos casos rotineiros. Entretanto, alguns deses podem determinar reação hemolítica transfusional ou DHRN. Segue uma relação de alguns dos mais comuns.
+
+O sistema MNS foi descoberto por Landsteiner e Levine (1920 - antígenos M e N), complementado por Walsh e Montgomery (1967). Este sistema apresenta os antígenos: M,N e S, s. Os anticorpos são imunes (apresenta como curiosidade a possibilidade de desenvolvimento de anticorpos anti-N pela exposição a antígeno semelhante presentes na planta Vicia graminea). São antígenos de natureza glicoproteica, determinados pelos pares de alelos M,N e S,s, e apresentando algumas variantes.
+O primeiro antígeno do sistema P foi descoberto por Landsteiner e Levine (1927). Este sistema  é composto por 7 tipos principais, reconhecidos através de quatro antissoros. Seus antígenos estão associados ao aborto habitual e à pielonefrite por Escherichia coli.
+O Sistema Lutheran (Callender et al, 1945; Callender e Race, 1946) foi descoberto quando um paciente politransfundido desenvolveu anticorpos após a exposição ao sangue de um doador cujo nome era Lutheran. Apresenta 18 antígenos conhecidos, determinados por séries de alelos ligados e inibido por um gene dominante.
+O Sistema Kell foi descoberto em 1946, após uma mulher (Sra. Kell) ter dado à luz uma criança com DHRN. O anti-K é na maioria das vezes imune, mas pode ocorrer de forma natural. O anti-k (Levine et al, 1949), também descoberto em um caso de DHRN, é um antígeno imune. Foram descritos posteriormente diversos antígenos de menor frequência. O sistema associa-se ao sitema Kx --- o qual apresenta apenas um antígeno, o Kx. A glicoproteína que contém os antígenos Kell se liga ao antígeno Kx por meio de pontes dissulfídricas.
+O sistema Duffy (Cutbush et al, 1950, Cutbush e Mollison, 1950) deve seu nome ao Sr Duffy, um hemofílico politransfundido que apresentou anticorpos contra um de seus antígenos. São descritos quatro fenótipos mais importantes, de pouco poder imunogênico.
+O primeiro antígeno do sistema Kidd (Allen et al, 1951) foi encontrado na Sra. Kidd, após dar à luz uma criança com DHRN. Palut et al (1953) encontraram, em uma mulher que apresentou reação de incompatibilidade sanguínea, um segundo antígeno. Foram descritos quatro fenótipos principais, correspondentes a sete composições genotípicas.
+O sistema Diego (Layrisse et al, 1955) foi descoberto pelo estudo de uma família venezuelana com ascendência indígena (a família Diego). Apresenta um antígeno polimórfico em pessoas de origem mongólica e de alta frequência em índios. Foram descritas mais de dez mutações, todas raras. A sua função está ligada ao transporte de Ânions de bicarbonato em troca de cloreto através da membrana eritrocitária, revertendo o acúmulo de bicarbonato nas hemácias e facilitando seu transporte.
+O sistema Yt, tmbém chamado de Cartwright, foi descoberto por Eaton et al (1956). Os estudos indicam a existência de três fenótipos reconhecíveis, explicados por um par de alelos autossômicos. São uma expressão antigênica da enzima Acetilcolinesterase, importante na condução de impulsos nervosos.
+O anticorpo anti-I, do sistema Ii, está ligado à formação de um autoanticorpo em anemias hemolíticas por anticorpos frios. Pode ser encontrado também como um anticorpo natural nos adultos com fenótipo i.   Estes antígenos não são o produto de um par de alelos,  e alguns autores não os consideram componentes de um sistema eritrocitário. O antígeno i é representado pela molécula linear de poli-N-acetil-latosaminoglicana a qual no adulto se transforma na molécula ramificada (que é o antígeno I), sob a ação de uma enzima. Na ausência da forma ativa desta enzima, por mutação, não haverá a transformação.
+O sistema Xg (Mann et al, 1962) tem seu gene determinante localizado no cromossoma X e por conseguinte a frequência de seus antígenos difere os dois sexos. Os casos de imunização são bastante raros.
+
+
+== Doença Hemolítica do Recém Nascido (DHRN) ou Perinatal (DHPN) ==
+
+A Doença Hemolítica do Recém-Nascido (DHRN), mais modernamente denominada Perinatal por acometer fetos e recém-natos, pode ser determinada pela incompatibilidade de antígenos eritrocitários entre a mãe e o filho, determinando a passagem através da placenta de anticorpos IgG contra antígenos presentes nas hemácias do feto / recém-nascido, o que resulta na destruição (hemólise) destas --- com consequentes anemia e hiperbilirribinemia (icterícia).
+Para compensar a anemia, o organismo do bebê acelera a produção de hemácias e lança na corrente sanguínea hemácias jovens (eritroblastos), de onde originou-se o nome da doença. A hiperbilirrubinemia (associada à imaturidade da barreira hematoencefálica no feto e no neonato) pode resultar em impregnação do Sistema Nervoso Central pela bilirrubina --- quadro clínico severo denominado Kernicterus.
+A DHPN pode ser fatal à criança se não forem tomadas as medidas de tratamento adequadas. Os casos mais comuns ocorrem quando se trata de mãe Rh negativo e filho Rh positivo, ou mãe do grupo O com filho do grupo A. Pode entretanto ocorrer em qualquer caso de incompatibilidade, tanto nos sistemas ABO e Rh (antígenos C, c, E, e), como em outros sistemas, especialmente se considerarmos os antígenos mais imunogênicos, como K1 (sistema Kell), Jka (sistema Kidd), Fya (sistema Duffy).
+No caso da DHPN por anti-D (sistema Rh), a doença pode ser evitada pela administração profilática do soro (erroneamente denominado "vacina") Imunoglobulina anti-D, tanto durante a gestação (alguns protocolos sugerem administração após a 28o semana), mas especialmente após o nascimento (até 72 horas após) para evitar-se a sensibilização materna e consequentemente danos aos fetos nas gestações ulteriores.
+
+
+== Transfusões e compatibilidade sanguínea ==
+
+Antes de cada transfusão, é necessário que seja determinado o grupo sanguíneo ABO e Rh do doador e do receptor. Além disso, a legislação brasileira estabelece que devem ser realizadas, a cada transfusão, as seguintes provas imuno-hematológicas:
+
+No sangue do doador, a chamada Pesquisa de Anticorpos Irregulares (PAI). Se positiva, esta prova indica a presença no plasma (por sensibilização pregressa) de anticorpos dirigidos contra algum dos muitos sistemas antigênicos não testados ordinariamente. Se positiva, devem ser determinados por estudos adicionais o antígeno e sistema antigênico em questão.
+No sangue do receptor, a PAI e a Prova Cruzada Maior (ou de Compatibilidade). Esta prova visa determinar a ausência, no soro do receptor, de anticorpos dirigidos contra quaisquer antígenos presentes no sangue doado e não detectados anteriormente. Se positiva, implica na recomendação da não utilização do hemocomponente em questão naquele doador.A transfusão segue as regras já explicadas para ambos os sistemas, mas usualmente se pratica, sempre que possível, a transfusão isogrupo (administração de sangue do mesmo grupo ABO e Rh do receptor).
+Em circunstâncias de extrema urgência, antes que se possa determinar o grupo ABO/Rh de um paciente, utiliza-se o sangue Rh negativo, também chamado doador universal. Entrementes, as provas imuno-hematológicas devidas a cada transfusão devem ser efetivadas mesmo que a transfusão já tenha sido iniciada, e deve-se reverter à prática da transfusão isogrupo assim que permitido pelas condições clinicas do paciente.
+Em pacientes que recebem múltiplas unidades de sangue (politransfundidos), é previsível a imunização contra antígenos pertencentes a algum dos antígenos não investigados. Nesses casos, pode ser necessária a fenotipagem de doador e receptor quanto a antígenos raros do sistema Rh ou de outros sistemas não rotineiramente investigados.
+
+
+== Referências ==
+
+
+== Ver também ==
+Fator Rh
+Eritroblastose fetal
+Grupo sanguíneo
+Hemoterapia
+Sistema ABO
+Transfusão de sangue
+
+
+== Ligações externas ==
+«American Association of Blood Banks»  (inglês)
+«International Society of Blood Transfusion»  (inglês)
+«Sociedade Brasileira de Hematologia e Hemoterapia» 
+
+
+== Referências ==

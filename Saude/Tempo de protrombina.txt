@@ -1,0 +1,96 @@
+O tempo de protrombina (TP) ou tempo de atividade da protrombina (TAP) e seu derivado índice internacional normalizado, também conhecido como razão normalizada internacional (IIN, RNI ou INR), são medidas laboratoriais para avaliar a via extrínseca da coagulação. Em outras palavras, é um exame usado para determinar a tendência de coagulação do sangue. O tempo de protrombina normal é de cerca de 11 a 14,6 segundos. Quanto maior for o TP, menor será a concentração de protrombina no sangue. O TP mede quase que exclusivamente o fator VII.
+Como quatro fatores da via extrínseca são vitamina K dependentes (fatores II, VII, IX e X) o teste é também muito usado para monitoramento do uso de anticoagulantes orais.
+
+
+== Usos ==
+O TP encontra-se alargado em casos de deficiência de alguns fatores abaixo:
+
+Fatores da via extrínseca:
+Fator VII
+Fatores da via comum:
+Fator X
+Fator V
+Fator II (Protrombina)
+Fator I (Fibrinogênio)
+
+
+== Metodologia ==
+O sangue é colhido em tubo contendo citrato de sódio que age como anticoagulante. Após a coleta a amostra de sangue é centrifugada para se obter o plasma sanguíneo (parte líquida obtida após a centrifugação do sangue).
+Atualmente o TP é feito por aparelhos automatizados. O aparelho a 37°C pega uma parte de plasma e adiciona automaticamente cálcio que reverte o efeito do citrato o que permite que ocorra a coagulação. Fator tissular também é adicionado à amostra e o tempo que a amostra leva para coagular é medido ópticamente.
+
+
+== Resultado ==
+
+
+=== Tempo de protrombina ===
+Expresso em segundos.
+Somente quando o paciente faz uso de anticoagulante oral (desde que não seja em fase inicial de tratamento) o teste será avaliado pelo índice internacional normalizado (INR ou RNI). Nos outros casos a avaliação se dá pelo tempo de protrombina.
+
+
+=== Índice internacional normalizado (INR) ===
+Como são usados diferentes tipos de fator tissular na obtenção do TP, a Organização Mundial de Saúde preconizou o uso do índice internacional normalizado (INR ou IIN) para padronizar mundialmente o resultado obtido durante o teste. Isso significa que o resultado do INR é praticamente o mesmo se usado em diferentes laboratórios no mundo inteiro. O INR  é o TP corrigido a padrões mundiais. O uso de anticoagulantes orais é avaliado somente pelo INR.
+Para o cálculo do INR cada fabricante do fator tissular fornece o ISI. Normalmente o ISI fica entre 1,0 e 1,4.
+
+  
+    
+      
+        
+          I
+          N
+          R
+        
+        =
+        
+          
+            (
+            
+              
+                
+                  T
+                  
+                    P
+                    
+                      t
+                      e
+                      s
+                      t
+                      e
+                    
+                  
+                
+                
+                  T
+                  
+                    P
+                    
+                      p
+                      o
+                      o
+                      l
+                      n
+                      o
+                      r
+                      m
+                      a
+                      l
+                    
+                  
+                
+              
+            
+            )
+          
+          
+            I
+            S
+            I
+          
+        
+      
+    
+    {\displaystyle {INR}=\left({\frac {TP_{teste}}{TP_{poolnormal}}}\right)^{ISI}}
+  
+
+
+== Ligações externas ==
+http://www.diagnosticosdaamerica.com.br/exames/tempo_atividade_protombina.shtml

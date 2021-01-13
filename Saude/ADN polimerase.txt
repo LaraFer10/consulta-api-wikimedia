@@ -1,0 +1,67 @@
+As ADN-polimerases são enzimas presentes tanto nas células dos seres eucariontes, quanto na dos procariontes. Essas enzimas são responsáveis pela síntese de moléculas de ADN complementar, utilizando os quatro desoxirriboncleotídeos trifosfato (dATP, dCTP, dGTP e dTTP), que servem como precursores. Essas enzimas são essenciais para a replicação do ADN e geralmente trabalham utilizando uma fita individual de ADN como molde para sintetizar uma fita complementar, sendo assim, as DNA-polimerases são dependentes de ADN. 
+A DNA-polimerase acrescenta desoxirribonucleotídeos à ponta 3’ de uma cadeia de nucleotídeos crescente. Nesse processo, dois dos três fosfatos, na forma de pirofosfato (PPi), são removidos, ao ocorrer a adição de uma base ao polímero crescente. A quebra dessa ligação, que possui alta energia, e a hidrólise que ocorre logo após com o pirofosfato em duas moléculas de fosfato inorgânico produzem uma energia que ajuda a direcionar o processo endergônico de formação de um polímero de DNA.
+Em procariontes, existem cinco ADN-polimerases. A primeira, descoberta por Kornberg, é nomeada ADN-polimerase I, ou pol I. As demais são nomeadas pol II, pol III, pol IV e pol V.
+Todas essas ADN-polimerases seguem algumas características: cada monômero a ser adicionado à cadeia sofre seleção, de maneira que a base nitrogenada presente neste seja complementar, pareando-se com a base da cadeia molde, gerando pareamentos AT GC. Assim, percebe-se uma dependência entre a sequência de bases da nova fita e a já existente na antiga; a enzima sempre irá fazer a polimerização na direção 5’ - 3’; as ADN-polimerases não conseguem iniciar a polimerização sem um substrato específico para se ligarem, por isso necessitam de um curto segmento inicial de nucleotídeos, chamado primer, para dar sequência à cadeia. As ADN-polimerases só conseguem alongar cadeias nucleotídicas preexistentes.
+Existem aproximadamente 20 tipos de ADN-polimerases em células de mamíferos distribuídos em quatro famílias: A, B, X e Y.
+Os membros da família B são as ADN-polimerases clássicas de alta fidelidade responsáveis pela replicação do ADN nuclear. A maioria exibe papel importante na revisão das bases adicionadas à extremidade 3’ OH livre da fita crescente, através da atividade exonuclease que apresentam. Se uma base incorreta for adicionada à cadeia, a atividade exonuclease a remove promovendo uma replicação de alta fidelidade.
+Muitas ADN-polimerases atuam no reparo ou na recombinação de ADN. Elas incluem as clássicas de alta fidelidade, que também estão envolvidas com a replicação (ADN-polimerases δ e ε), e também outras que estão envolvidas apenas com reparo e recombinação.
+
+
+== História ==
+A primeira DNA Polimerase descoberta foi a da Escherichia coli (E. Coli), caracterizada por Arthur Kornberg e colegas, em 1956. Eles descreveram o processo de replicação do DNA pelo qual a DNA polimerase copia a sequência de base de uma fita-molde de DNA.  Kornberg recebeu o Prêmio Nobel de Fisiologia ou Medicina em 1959 por esse trabalho. 
+A DNA polimerase II foi descoberta por Thomas Kornberg (filho de Arthur Kornberg) e Malcolm E. Gefter em 1970, enquanto elucidava ainda mais o papel da Pol I na replicação do DNA de E. coli.
+Hoje é conhecido que existem cinco tipos de polimerases do DNA das bactérias, que diferem de maneira muito sutil quanto à sua função celular.
+
+
+== Classificação das Polimerases ==
+Em eucariotos, a classificação das DNA-polimerases é um pouco diferente da dos procariotos. Enquanto em procariotos são classificadas em pol I, pol II, po III, pol IV e pol V, nos eucariotos são subdivididos em: pol α (alfa), pol ß (beta), pol ɣ (gama), pol δ (delta), pol ε (épisilon) e pol ι (iota).
+
+
+=== DNA Polimerase nos Procariontes ===
+
+
+==== DNA Polimerase I ====
+As polimerases da família procariótica incluem a enzima DNA polimerase I (Pol I), que é codificada pelo gene polA e ubíqua entre procariotas. Esta polimerase de reparação está envolvida no reparo da excisão com a actividade de exonuclease 3'-5 'e 5'-3' e o processamento de fragmentos de Okazaki gerados durante a síntese da cadeia retardada. Pol I é a polimerase mais abundante, representando> 95% da atividade da polimerase em E. coli; Ainda que as células que não têm Pol, foram encontradas sugerindo que a atividade de Pol I pode ser substituída pelas outras quatro polimerases.
+
+
+==== DNA Polimerase II ====
+DNA polimerase II, uma polimerase da família B, é um produto do gene polB também conhecido como DinA. Pol II possui atividade de exonuclease 3'-5 'e participa no reparo do DNA, reinicia a replicação para contornar lesões e sua presença celular pode pular de ~ 30-50 cópias por célula para ~ 200-300 durante a indução de SOS. Pol II também é pensado para ser um backup para Pol III, pois pode interagir com proteínas de holoenzima e assumir um alto nível de processividade. Considera-se que o papel principal de Pol II é a capacidade de direcionar a atividade da polimerase no garfo de replicação e ajudou a desaceleração do terminal de derivação Pol III paralisado.
+
+
+==== DNA Polimerase III ====
+A DNA polimerase III é a enzima primária envolvida na replicação de DNA em E. coli e pertence a polimerases da família C. Consiste em três montagens: o núcleo pol III, o fator de processividade do grampo deslizante beta e o complexo de carregamento do grampo. O núcleo consiste em três subunidades: α, o hub de atividade da polimerase, ɛ, leitor de teste exonucleolítico e θ, o que pode atuar como estabilizador para ɛ. A holoenzima contém dois núcleos, um para cada vertente, o atraso e a liderança. [19] O fator de processividade do grampo deslizante beta também está presente em duplicado, um para cada núcleo, para criar um grampo que encerra o DNA permitindo uma alta processividade. A terceira montagem é um complexo de carregador de grampos de sete subunidades (τ2γδδ'χψ). Pesquisas recentes classificaram as polimerases da Família C como uma subcategoria da Família X sem equivalentes eucarióticos.
+
+
+==== DNA Polimerase  IV ====
+Em E. coli, a DNA polimerase IV (Pol 4) é uma polimerase de DNA propensa a erros envolvida na mutagênese não-direcionada. Pol IV é uma polimerase de Família Y expressa pelo gene dinB que é ligada através de indução de SOS causada por polimerases paralisadas no garfo de replicação. Durante a indução de SOS, a produção de Pol IV é aumentada dez vezes e uma das funções durante este período é interferir com a processividade de holoenzima Pol III. Isso cria um ponto de verificação, pára a replicação e permite tempo para reparar lesões de DNA através da via de reparo apropriada. Outra função de Pol IV é realizar a síntese de translesão no garfo de replicação paralisada como, por exemplo, ignorando aductos de N2-desoxiganina a uma taxa mais rápida do que a passagem de DNA não danificado. As células que não possuem o gene dinB têm uma maior taxa de mutagênese causada por agentes prejudiciais ao DNA.
+
+
+==== DNA Polimerase V ====
+DNA polimerase V (Pol V) é uma DNA-polimerase da família Y que está envolvida na resposta SOS e mecanismos de reparação do DNA da síntese de tradução. A transcrição de Pol V através dos genes umuDC é altamente regulada para produzir apenas Pol V quando o DNA danificado está presente na célula gerando uma resposta SOS. As polimerases bloqueadas fazem com que o RecA se ligue ao ssDNA, o que faz com que a proteína LexA digite automaticamente. LexA perde sua capacidade de reprimir a transcrição do operão umuDC. A mesma nucleoproteína RecA-ssDNA modifica a proteína UmuD na proteína de UmuD após a tradução. UmuD e UmuD 'formam um heterodímero que interage com o UmuC, que por sua vez ativa a atividade catalítica da polimerase do umuC em DNA danificado. Curiosamente, em E. coli, foi proposto um modelo de "correia de ferramenta" de polimerização para trocar pol III com pol IV em um garfo de replica paralisado, onde ambas as polimerases se ligam simultaneamente ao grampo β. No entanto, o envolvimento de mais de uma polimerase TLS que trabalha em sucessão para ignorar uma lesão ainda não foi mostrado em E. coli. Além disso, a Pol IV pode catalisar a inserção e a extensão com alta eficiência, enquanto a pol V é considerada a principal polimerização SOS TLS. Um exemplo é o bypass da reticulação intra-cadeia de guanina timina onde foi mostrado com base na diferença nas assinaturas mutacionais das duas polimerases, que pol IV e pol V competem por TLS da reticulação intra-cadeia.
+
+
+=== DNA Polimerase nos Eucariontes ===
+
+
+==== DNA-polimerase α ====
+A DNA-polimerase α é um complexo formado por uma polimerase e por uma primase, sendo responsável pela iniciação da síntese de DNA e pela iniciação dos fragmentos de Okazaki. As DNA-polimerases α e δ são as responsáveis pela replicação do DNA nuclear e corresponderiam à polimerase III de E. coli. A pol δ replica a cadeia contínua, enquanto a pol α replica de maneira descontínua a outra cadeia, a retardatária simultaneamente.
+
+
+==== DNA-polimerase ß ====
+São pequenas e funciona na reparação por excisão de bases. Reparo por excisão de bases identifica e remove bases impróprias ou indevidamente modificadas.
+
+
+==== DNA-polimerase ɣ ====
+É responsável pela replicação e reparação do DNA mitocondrial.
+
+
+==== DNA-polimerase δ ====
+É responsável pela maior parte da síntese da fita de DNA retardatária e é fita-especifica. Também participam em múltiplas atividades de reparo de DNA.
+
+
+== Referências ==
+Genética Molecular Humana, 4ª edição – TOM STRACHAN &amp;
+ANDREW READ, 2014
+Introdução à genética, 10ª edição – GRIFFTHS, A. J. F. et al., 2012
+Biologia celular e molecular, 9ª edição – JUNQUEIRA &amp;
+CARNEIRO, 2012

@@ -1,0 +1,49 @@
+BioPerl é uma coleção de módulos Perl que facilitam o desenvolvimentode scripts Perl para aplcações de bioinformática. Ele desempenhou um papel integral no Projeto Genoma Humano. O projeto fornece kits de ferramentas com múltiplas funções que tornam mais fácil a criação de análises ou pipelines customizados.
+É um projeto de software ativo de código aberto apoiado pela Open Bioinformatics Foundation.
+Sua história pode ser traçada desde uma lista de discussão em setembro 1996 discussion. A primeira versão estável foi lançada em 11 de Junho de 2002; a versão estável mais recente (em termos de API) é a release 1.6.1 de outubro de 2009. Há também versões de desenvolvedores produzidas periodicamente. A versão 1.6.0 é considerada a mais estável versão (em termos de bugs) de BioPerl e é recomendada para uso diário, mas a versão "nightly builds"  também é extremamente estável, e muitos usuários BioPerl ficam atualmente com esta.
+A fim de tirar vantagem do BioPerl, o usuário precisa de um entendimento básico da linguagem de programação Perl, incluindo uma compreensão de como usar referências Perl, módulos, objetos e métodos.
+
+
+== Características ==
+BioPerl fornece módulos de software para muitas das tarefas típicas da programação para bioinformática. Estes incluem:
+
+Acessar dados de sequências de nucleótideos e peptídeos a partir de bases de dados locais e remotas.
+Transformar formatos de banco de dados/arquivo de registros
+Manipulatar sequências individuais
+Buscar por sequências similares
+Criar e manipular alinhamentos de seqüências
+Procurar por genes e outras estruturas no ADN genômico
+Desenvolvimento de máquina de seqüências de anotação de genoma legíveis
+
+
+== Uso ==
+Além de ser usado diretamente pelos usuários finais, BioPerl também fornece a base para uma ampla variedade de ferramentas de bioinformática, incluindo entre outras:
+
+SynBrowse
+GeneComber
+TFBS
+MIMOX
+BioParser
+Desenho de primers degenerados
+Consultando as bases de dados públicas
+Tabela comparativa atualNovas ferramentas e algoritmos de desenvolvedores externos são frequentemente integrados diretamente ao próprio BioPerl:
+
+Lidando com árvores filogenéticas e taxa aninhadas
+FPC Web tools
+
+
+== Ver também ==
+BioJava
+BioPython
+BioRuby
+Open Bioinformatics Foundation
+
+
+== Referências ==
+
+
+== Ligações externas ==
+BioPerl.org
+A tutorial para usar BioPerl
+HOWTOdocumentação para uso do BioPerl
+BioPerl.net

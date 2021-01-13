@@ -1,0 +1,31 @@
+A química bioinorgânica, também chamada de bioquímica inorgânica, é o ramo da bioquímica que estuda o papel dos metais (em particular dos metais de transição) em sistemas biológicos.
+O campo de estudos da Química Bioinorgânica abrange o efeito da adição de metais exteriores aos sistemas vivos (como por exemplo na avaliação da sua toxicidade ou na sua aplicação medicinal) e a determinação da estrutura e função de metaloproteínas. Esta disciplina evoluiu a partir dos estudos da Química Inorgânica aplicada a sistemas vivos.
+
+
+== História ==
+Paul Ehrlich usou organoarsénico no tratamento da sífilis, numa das primeiras demonstrações da importância da química de metais em sistemas vivos. A descoberta da actividade anticancerígena da cisplatina (cis-PtCl2(NH3)2) por Rosenberg reforçou esta importância. A primeira proteína a ser cristalizada foi a urease, descobrindo-se mais tarde que possuía níquel no seu centro activo. Dorothy Crowfoot Hodgkin demonstrou a presença de cobalto na vitamina B12, usada no tratamento da anemia perniciosa.
+
+
+== Áreas de estudo ==
+Resultando de uma mistura entre a bioquímica e a química inorgânica, a química bioinorgânica tem importância no estudo de proteínas de transferência electrónica, actividade enzimática de metaloenzimas, transporte e armazenamento de metais em sistemas biológicos, proteínas de transporte e activação de oxigénio molecular (dioxigénio), entre outros.
+Proteínas de transferência electrónica são aquelas capazes de reduzir o centro activo de uma outra enzima (muitas vezes, também uma metaloproteína) fornecendo-lhe os electrões necessários para a sua actividade enzimática. Podem ser intermediárias entre duas outras proteínas de transporte electrónico, oxidando a proteína dadora e reduzindo a receptora, ou um dador electrónico não proteico, como o NADH, e uma proteína. As maiores classes de proteínas de transferência electrónica são:
+
+proteínas de ferro-enxofre, como a rubredoxina ou a ferredoxina;
+proteínas de cobre, como a azurina;
+citocromos.Estas proteínas complementam a actividade de transporte electrónico da nicotinamida adenina dinucleótido (NAD) e flavina adenina dinucleótido (FAD).
+O transporte e armazenamento de metais refere-se em específico a canais de transporte de iões através de membranas, sideróforos (moléculas que complexam metais para ajudar à sua solubilização, captura e assimilação, especialmente em bactérias) e outras proteínas envolvidas na regulação dos níveis intra e extracelulares de iões metálicos.
+As metaloproteínas envolvidas no transporte e activação do oxigénio molecular possuem na sua maioria ferro, cobre e manganês na sua estrutura. A proteína hemoglobina é possivelmente o exemplo mais conhecido de metaloproteína de transporte de oxigénio: o grupo hemo contido na estrutura da hemoglobina possui um átomo de ferro no seu centro, ao qual se liga e desliga a molécula de dioxigénio. Outros sistemas de transporte de oxigénio incluem a mioglobina, a hemocianina e a hemeritrina.
+As oxidases e as oxigenases são grupos de metaloproteínas responsáveis por reacções de grande importância nos sistemas vivos, como geração de energia na citocromo c oxidase ou oxidação de pequenas moléculas na citocromo P450 oxidase ou metano monooxigenase. Algumas metaloproteínas protegem sistemas biológicos de danos causados por espécies reactivas de oxigénio, como o anião radical superóxido ou o peróxido de hidrogénio; nestas incluem-se enzimas como as superóxido dismutases, e peroxidases como a catalase.
+Sistemas bioorganometálicos como as hidrogenases e a metilcobalamina são exemplos de química organometálica encontrada em sistemas biológicos.
+As vias de metabolismo de azoto usam diversas metaloproteínas. A mais reconhecida é a nitrogenase. Outra enzima de relevo nestas vias é a óxido nítrico sintase, responsável pela produção de óxido nítrico.
+
+
+== Ligações externas ==
+Página oficial da Society of Biological Inorganic Chemistry «Sociedade da Química Inorgânica Biológica)» (em inglês) «Glossário de termos em Química Bioinorgânica» (em inglês) 
+
+
+== Referências ==
+Stephen J. Lippard e Jeremy M. Berg, Principles of Bioinorganic Chemistry, University Science Books, 1994
+Rosette M. Roat-Malone, Bioinorganic Chemistry : A Short Course, Wiley-Interscience, 2002
+J.J.R. Fraústo da Silva e R.J.P. Williams, The biological chemistry of the elements: The inorganic chemistry of life, 2a Edição, Oxford University Press, 2001
+Physical Methods in Bioinorganic Chemistry, ed. por Lawrence Que, Jr., University Science Books, 2000

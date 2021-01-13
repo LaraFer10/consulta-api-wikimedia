@@ -1,0 +1,49 @@
+O ágar-ágar, também conhecido simplesmente como ágar ou agarose, é um hidrocolóide fortemente gelatinoso extraído de diversos gêneros e espécies de algas marinhas vermelhas que consiste em uma mistura heterogênea de dois polissacarídeos, agarose e agaropectina. Essas substâncias ocorrem como carboidrato estrutural na parede das células. Tais algas que contém o ágar-ágar são denominadas agarófitas e pertencem à classe Rhodophyta . O indicador deste polímero provém da palavra malaia agar-agar. Os principais gêneros de algas agarófitas são a Gelidium, Gracilaria, Gelidiela e Pterocladia. Os primeiros registos conhecidos da extração da agarose datam de finais da década de 1650 ou princípios da década de 1660 sendo atribuída a descoberta do método de extracção a Mino Tarōzaemon (美濃 太郎左衛門), no Japão, onde o produto foi designado por kanten, nome que mantém em diversas dietas e preparados.
+
+
+== Descrição ==
+O ágar-ágar é insolúvel em água fria, porém, expande-se consideravelmente e absorve uma quantidade de água de cerca de vinte vezes o seu próprio peso, formando um gel não-absorvível, não-fermentável e com importante característica de ser atóxico. Possui em sua composição principalmente fibras e também sais minerais (P, Fe, K, Cl, I), celulose, anidrogalactose e uma pequena quantidade de proteínas.
+O ágar-ágar é muito empregado em microbiologia para culturas sólidas de bactérias. É especialmente útil por manter-se sólido (na verdade com densidade de um gel firme) em temperaturas comumente empregadas para cultura de bactérias (37 graus celsius), temperatura ótima para seu desenvolvimento. As culturas em meio sólido são muito importantes pois permitem a identificação e isolamento de culturas puras (colônias, originadas de um único microrganismo), o que não é viável em meios de cultura líquidos.
+
+
+== Estrutura química ==
+
+A agarose é um polímero composto de subunidades de galactose. É um componente da parede celular em algas. Quando dissolvida em água quente e seguidamente arrefecida, a agarose toma uma consistência gelatinosa. Esta propriedade é usada em investigação laboratorial, medicina, culinária e indústria.
+
+
+== Uso na culinária ==
+O ágar é normalmente vendido sob a forma de pó ou como tiras de algas secas. Tem um aspecto esbranquiçado e semi-translúcido. Para o fabrico de gelatina, é fervido em água a concentrações de 0,7 a 1% (p/v) até dissolução do sólido; após esta operação, são adicionados, por exemplo, agentes adoçantes, corantes, aromas e pedaços de fruta. A mistura ainda líquida pode ser vertida para dentro de formas onde arrefece tomando a forma desejada. Pode ainda ser parte de outras sobremesas, por exemplo como camada de gelatina em semifrio.
+Um tipo de agarose para dieta surgido na Ásia deu origem à dieta kanten. Este tipo de ágar triplica o seu volume quando ingerido, devido à absorção de água. Como o consumidor sente o apetite saciado com este efeito, tende a ingerir menor quantidade de outros alimentos. A ausência de valor nutricional do kanten, assim como o fato de ser composto por cerca de 80% de fibras, contribui para o controle do peso tanto pela substituição do alimento, como possivelmente também pelo efeito laxativo deste produto. Existem também alegações que o kanten terá alguma eficácia contra a diabetes.
+
+
+== Uso em biologia vegetal ==
+O ágar, numa forma pura para análise e suplementado com uma mistura de nutrientes, é usado em biologia vegetal para auxiliar a germinação de plantas em placas de Petri, sob condições estéreis. Estas misturas são bem controladas e mais ou menos constantes para cada tipo de planta.
+A solidificação do ágar num meio de cultura é dependente do pH, com uma gama óptima de 5,4 a 5,7. Por vezes é usado hidróxido de potássio (KOH) para aumentar o pH, sendo o meio posteriormente esterilizado por autoclave.
+Este tipo de meio é particularmente útil na aplicação de concentrações específicas de, por exemplo, fito-hormonas, de modo a induzir determinados padrões de crescimento. Isto é conseguido adicionando a hormona ao meio de cultura, sendo este posteriormente autoclavado. Esta mistura pode então ser espalhada na superfície das placas de Petri em que germinam as sementes.
+
+
+== Uso em microbiologia ==
+O ágar é muito usado em meios de cultura sólidos para bactérias
+ e fungos, mas não para vírus. Alguns vírus podem, no entanto, ser cultivados em bactérias que por sua vez crescem em ágar. Menos de 1% de todas as bactérias conhecidas podem ser cultivadas neste tipo de meio, mas a formulação básica do meio de cultura com ágar é adequado para a maioria.
+Este tipo de meio de cultura é feito adicionando agar (normalmente 1,5 a 2% (p/v)) e componentes de meio de cultura específicos para cada tipo de microorganismo a água destilada. Esta mistura, após esterilizada, é vertida enquanto líquida para placas de Petri ou tubos. Por vezes é adicionado um suplemento após a esterilização, como por exemplo antibióticos (o calor da esterilização destrói determinados suplementos, não permitindoa sua adição anterior). Após solidificação do meio, este encontra-se apto a albergar o crescimento de micro-organismos.
+Diferentes micro-organismos possuem diferentes necessidades nutricionais, por isso o meio de cultura é adaptado para satisfazer essas necessidades. Por exemplo, um tipo de meio é o blood agar (literalmente, ágar de sangue), que possui como suplemento sangue de cavalo, é usado para detectar a presença de organismos hemorrágicos como a Escherichia coli O:157 H:7. A detecção é feita através da digestão do sangue, que torna a placa mais clara.
+
+
+=== Meio selectivo ===
+
+O meio de cultura sólido pode ser formulado de modo a aplicar uma pressão selectiva nos organismos que crescem no mesmo. Por exemplo, se fôr adicionada uma grande quantidade de cloreto de sódio (NaCl), apenas organismos halófilos tolerarão essa grande quantidade, que inibirá o crescimento de outros organismos. Usando o meio MacConkey, apenas organismos gram-negativos crescerão, indicando ainda se fermentam ou não lactose (as colónias tomam um aspecto vermelho se são fermentadores de lactose).
+
+
+=== Meio diferencial ===
+O meio diferencial inclui um indicador que provoca mudanças claramente visíveis no aspecto do meio ou das colônias que neste crescem. Por exemplo, no meio EMB (do inglês eosin methylene blue, azul de eosina metileno) a bactéria E. coli toma um aspecto esverdeado metálico; o meio MSA (mannitol salt agar) toma uma coloração amarela na presença de bactérias capazes de fermentar o manitol.
+
+
+== Uso em biologia molecular ==
+A agarose é muito usada em biologia molecular como matriz na electroforese em gel. Géis de agarose com concentrações tipicamente entre 0,5 e 2,5% (p/v) são usados para separação de moléculas de ácidos nucleicos de diferentes tamanhos.
+
+Os géis de agarose são feitos dissolvendo a quantidade desejada de agarose em solução tampão adequada aquecida (normalmente, Tris-borato-EDTA ou Tris-acetato-EDTA), sendo esta despejada então num molde rectangular. Enquanto a mistura não solidifica, é inserido um pente específico para que existam pequenos poços no gel. Este processo é possível porque a agarose apresenta histerese, ou seja, solidifica a uma temperatura (32-40 °C) diferente da temperatura de fusão (85 °C).
+Após a completa solidificação da agarose, o pente é retirado e as amostras podem ser aplicadas nos poços entretanto formados. O gel é colocado numa tina contendo o mesmo tipo de solução-tampão usado no gel e sujeito a uma diferença de potencial que pode ir até aos 150 V. Os ácidos nucléicos migram do pólo negativo (cátodo) para o pólo positivo (ânodo), separando-se segundo o seu tamanho: as moléculas menores encontram menor resistência à passagem através do gel, migrando mais rapidamente em direcção ao pólo positivo.
+A electroforese em gel de agarose é uma das ferramentas mais utilizadas para verificação da qualidade (pureza e quantidade) de DNA ou RNA de uma amostra (por exemplo, para verificar a presença de produtos desejados de PCR), assim como para a purificação de ácidos nucleicos. Nesta, o DNA de interesse é separado dos demais contaminantes (outras moléculas de DNA de diferente tamanho), posteriormente excisado do gel e separado da agarose.
+
+
+== Referências ==

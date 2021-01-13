@@ -1,0 +1,7 @@
+Em genética populacional, o coeficiente de parentesco ou coeficiente de consanguinidade (r) de Sewall Wright é a probabilidade de que, dado um locus escolhido ao acaso, os alelos de dois indivíduos sejam idênticos por origem.
+Por exemplo, o coeficiente de parentesco entre pai e filho é 0,5 (½), pois metade dos alelos são idênticos por origem. Isso ocorre pois metade do genoma do filho foi herdado do pai.
+Outros exemplos de parentesco: (presumindo que não há consaguinidade entre os pais)
+
+
+== Referências ==
+Sewall Wright, (1922). Coefficients of inbreeding and relationship. American Naturalist 56:330-338

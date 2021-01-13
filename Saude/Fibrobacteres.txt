@@ -1,0 +1,45 @@
+Fibrobacteres é um pequeno filo bacteriano, que inclui muitas das principais bactérias do rúmen, permitindo a degradação de material celulósico em animais ruminantes. Os membros deste filo foram categorizados noutro filo, especificamente o gênero Fibrobacter (o principal gênero de Fibrobacteres) foi dividido do gênero Bacteroides, em 1988.O filo Fibrobacteres compreende atualmente um gênero formal, Fibrobacter, e duas espécies cultivadas, Fibrobacter succinogenes e Fibrobacter intestinalis, que são reconhecidas como importantes degradadores bacterianos de material lignocelulósico no intestino herbívoro. Historicamente, acreditava-se que os membros do gênero Fibrobacter ocupavam apenas tratos intestinais de mamíferos. No entanto, recentes abordagens moleculares direcionadas ao gene 165 do RNAr demonstraram que novos centros de variação dentro do gênero Fibrobacter estão presentes em aterros sanitários e em lagos de água doce, e sua abundância relativa sugere um papel potencial na degradação da celulose além do intestino herbívoro.
+O gênero Fibrobacter contém anaeróbios obrigatórios fermentativos gram-negativos. Entretanto, ao contrário da maioria das Fusobacteria e Synegistetes, as espécies de Fibrobacter são incapazes de fermentar proteínas ou aminoácidos, e se especializaram na fermentação da celulose. No rúmem, a celulose é a principal fonte de energia, e neste ambiente ela possibilita o crescimento não apenas das bactérias celulolíticas, como Fibrobacter, mas de muitos outros anaeróbios não celulolíticos que utilizam a glicose liberada durante a degradação da celulose.
+Além disso, um novo subfilo dentro dos Fibrobacteres foi detectado no intestino de cupins que se alimentam de madeira, e análises proteômicas confirmaram seu envolvimento na hidrólise da celulose. A seqüência do genoma da cepa S85 do F. succinogenes sugeriu recentemente que dentro desse grupo de organismos uma "terceira" forma de atacar a forma mais abundante de carbono orgânico na biosfera, a celulose, evoluiu. Esta observação não só tem significado evolutivo, mas a eficiência superior da hidrólise de celulose anaeróbica por Fibrobacter spp., Em comparação com outras bactérias do rúmen celulolítico que tipicamente utilizam complexos enzimáticos ligados à membrana (celulossomas), pode ser explicada por este novo sistema de celulase. Existem poucos filos bacterianos com importância funcional potencial para os quais existe uma escassez de dados fenotípicos e funcionais.
+
+
+== Filogenia e estudos Genômicos comparativos ==
+Embora Fibrobacteres, que consiste em um único gênero Fibrobacter contendo duas espécies, seja atualmente reconhecido como filo distinto, estudos filogenéticos baseados em sequências de proteína RpoC e Gyrase B, indicam que o Fibrobacter succinogenes está intimamente relacionado com as espécies dos filos Bacteroidetes e Chlorobi. As espécies desses três filos também se ramificam na mesma posição, com base em marcadores conservados em várias proteínas importantes. Por último e mais importante, estudos genômicos comparativos identificaram dois indels de assinatura conservada (uma inserção de 5-7 aminoácidos na proteína RpoC e uma inserção de 13-16 aminoácidos na serina hidroximetiltransferase) e uma proteína de assinatura (PG00081) que são compartilhadas exclusivamente por todas as espécies desses três filos. Todos esses resultados fornecem evidências convincentes de que as espécies desses três filos compartilhavam um ancestral comum exclusivo de todas as outras bactérias e foi proposto que todas elas deveriam ser reconhecidas como parte de um único superphylum “FCB”.
+
+
+== Taxonomia ==
+Reino: Monera
+Filo: Fibrobacteres
+Classe: Fibrobactéria; Chitinispirillia; Chitinivibrionia
+Ordem: Fibromonadales; Fibrobacterales
+Família: Fibromonadaceae; Fibrobacteraceae
+Gênero: Fibromonas; Fibrobacter
+Espécie: Fibrobacter succinogenes; Fibrobacter intestinalis
+
+
+== Distribuição ==
+Considera-se que o filo Fibrobacteres está intimamente relacionado com o CFB [Cytophaga-Flavibacterium-Bacteroides]. O único gênero neste filo é o Fibrobacter, que contém cepas dos intestinos de muitos mamíferos, incluindo bovinos e suínos. As duas espécies descritas neste gênero nomeadamente Fibrobacter succinogenes e Fibrobacter intestinalis são membros importantes de comunidades fibrolíticas em tripas de mamíferos e têm recebido muita atenção nas últimas décadas devido aos micróbios de interesse de longa data capazes de degradar a fibra vegetal.
+Evidências moleculares baseadas na amplificação de genes 16 RNAr de vários ambientes sugerem que o filo é muito mais difundido do que se pensava anteriormente. A maioria dos clones de ambientes mamíferos se agrupa junto com os isolados conhecidos no que tem sido chamado de Fibrobacteres subphylum. Membros do subfilo Fibrobacteres, no entanto, até agora foram encontrados apenas no intestino de cupins e em algumas baratas alimentadas com lixo. O predomínio de Fibrobacteres subfilo 2 em comunidades bacterianas associadas a fibras celulolíticas em restos de alimentação de madeira Nasutitermes corniger sugere que elas desempenham um papel importante na decomposição de material vegetal em cupins mais elevados.
+
+
+== Fibrobacter succinogenes ==
+Fibrobacter succinogenes é uma espécie de bactéria celulolítica do gênero Fibrobacter. Está presente no rúmen do gado. Os beta-glucanos são o seu substrato preferido no rúmen e os seus produtos após a digestão incluem formiato, acetato e succinato. O Fibrobacter succinogenes forma sulcos extensos característicos na celulose cristalina e é também prontamente destacado do seu substrato durante a preparação da amostra.
+
+
+== Referências ==
+2. Gupta, R. S. (2004). "The phylogeny and signature sequences characteristics of Fibrobacteres, Chlorobi, and Bacteroidetes". Critical Reviews in Microbiology. 30 (2): 123–140. doi:10.1080/10408410490435133. PMID 15239383.
+3. cDonald, JE; Lockhart, RJ; Cox, MJ; Allison, HE; McCarthy, AJ (2008). "Detection of novel Fibrobacter populations in landfill sites and determination of their relative abundance via quantitative PCR". Environmental Microbiology. 10 (5): 1310–1319. doi:10.1111/j.1462-2920.2007.01544.x. PMID 18266756
+4. Palmquist, D.L. (1995). "Digestibility of cotton lint fiber and whole oilseeds by ruminal microorganisms". Animal Feed Science and Technology. 56 (3–4): 231–42. doi:10.1016/0377-8401(95)00830-6
+5. Griffiths E, Gupta RS (September 2001). "The use of signature sequences in different proteins to determine the relative branching order of bacterial divisions: evidence that Fibrobacter diverged at a similar time to Chlamydia and the Cytophaga-Flavobacterium-Bacteroides division". Microbiology. 147 (Pt 9): 2611–22. doi:10.1099/00221287-147-9-2611
+6. MADIGAN, Michael T. et al. Microbiologia de Brock. 14ª edição. Porto Alegre: Artmed, 2016.
+7. RANSOM-JONES, Emma;  et al.  The Fibrobacteres: an Important Phylum of Cellulose-Degrading Bacteria. Microbial Ecology, 2012.
+8. J.P. Euzéby. "Fibrobacteres". List of Prokaryotic names with Standing in Nomenclature(LPSN). Retrieved 2016-06-05.
+9. Sayers; et al. "Fibrobacteres". National Center for Biotechnology Information (NCBI) taxonomy database. Retrieved 2016-06-05.
+10. Qi, M. and Nelson, K.E. and Daugherty, S.C. and Nelson, W.C. and Hance, I.R. and Morrison, M. and Forsberg, C.W. (2005). "Novel molecular features of the fibrolytic intestinal bacterium Fibrobacter intestinalis not shared with Fibrobacter succinogenes as determined by suppressive subtractive hybridization". Journal of Bacteriology. 187 (11): 3739–3751. doi:10.1128/jb.187.11.3739-3751.2005. PMC 1112041
+11. Mikaelyan, A.; Strassert, J.; Tokuda, G.; Brune, A. (2014). "The fibre-associated cellulolytic bacterial community in the hindgut of wood-feeding higher termites (Nasutitermes spp.)". Environmental Microbiology. 16 (9): 2711–2722. doi:10.1111/1462-2920.12425
+12. Holt JG (editor) (1994). Bergey's Manual of Determinative Bacteriology 9th ed. [S.l.]: Williams & Wilkins. ISBN 0-683-00603-7 
+
+
+== Ligações externas ==
+Género Fibrobacter
+Filo Fibrobacteres

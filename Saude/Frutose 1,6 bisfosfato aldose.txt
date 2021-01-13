@@ -1,0 +1,53 @@
+EC 2.-.-.- Transferases
+EC 2.1.-.- Transferência de grupos de um carbono
+EC 2.1.1.- Metiltransferases 
+EC 2.1.1.259 [Frutose-bifosfato aldolase] -lisina N-metiltransferase
+Sinônimos: Ribulose-bifosfato-carboxilase / oxigenase N-metiltransferase. RuBisCO metiltransferase. S-adenosil-L-metionina: [3-fosfo-D-glicerato-carboxi-liase (dimerização)] - lisina 6-N-metiltransferase.
+Nome sistemático: S- adenosil- L- metionina: [frutose-bisfosfato aldolase] -sisina N 6- metiltransferase
+Reação: 3S-adenosil-L-metionina + [frutose-bifosfato aldolase] -L-lisina = 3 S-adenosil-L-homocisteína + [frutose-bifosfato aldolase] - N (6), N (6), N (6) -trimetil-L-lisina.
+
+
+== Caracterização da enzima ==
+Localização subcelular: Citoesqueleto, citosol, região extracelular ou segregada (exossoma extracelular, região extracelular).
+Outros locais: lúmen granulado rico em ficolin-1, grânulos secretores do lúmen e grânulos terciários do lúmen. 
+
+Nos vertebrados, são encontradas três formas dessa enzima glicolítica onipresente: aldolase A no músculo, aldolase B no fígado e aldolase C no cérebro.
+A Frutose-1,6-bifosfato-aldolase, também chamada apenas de aldolase, é uma enzima que está presente na grande maioria dos tecidos e órgãos tais como: músculo estriado esquelético, cérebro, coração, rim, tireóide, paratireóide, bexiga, etc. Porém, está presente em maior quantidade nos tecidos que fazem parte da rota metabólica da glicólise e gliconeogênese, nesta segunda reação, agindo no sentido reverso.
+Essa enzima catalisa a reação reversível de quebra da frutose-1,6-bifosfato (HDP) em  duas trioses-fosfato diferentes, a aldose Gliceroaldeído-3-fosfato e a cetose Di-hidroxiacetona-fosfato.
+Em 1964, Rutter classificou a Frutose-1,6-bifosfato-aldolase em duas classes: as aldolases de Classe I (encontradas em animais, plantas, protozoários e algas) e a classe II (encontradas em bactérias, fungos e cianobactérias).
+As de classe I podem ser classificadas como: Aldolase A, que é encontrada no músculo e a aldolase B, que é encontrada no fígado e ambas possuem propriedades moleculares semelhantes. Já a aldolase C é encontrada no cérebro. Essas três formas são chamadas de enzimas parentais e são encontradas em 13 espécies de vertebrados incluindo os seres humanos. Há também as formas híbridas, contabilizando um total de 5, que são formadas por dissociação e reassociação das parentais.
+A reação da aldolase de classe I é o inverso de uma condensação aldólica. A quebra entre C-3 e C-4 depende da presença do grupo carbonil em C-2, que será convertido a uma amina no sítio ativo da enzima.
+Já as de classe II são enzimas homodiméricas que requerem um íon metálico bivalente, geralmente zinco, para sua atividade.
+Como exemplo da ação das aldolases de classe II, temos, na via da glicólise, uma enzima homodimérica catalisando a quebra da frutose-1,6-bifosfato, o que gera gliceraldeído-3-fosfato e fosfato de di-hidroxiacetona.
+
+
+== Reações metabólicas em que está envolvida ==
+Enzima da classe das liases que catalisa a clivagem de frutose 1,6-bifosfato para formar di-hidroxiacetona e gliceraldeído 3-fosfato. A enzima também age sobre (3S,4R)-cetose 1-fosfatos. As enzimas de levedura e bacterianas são proteínas que contêm zinco. 
+A aldolase atua como catalisadora em reações da glicose e da gliconeogênese, onde fará com que haja a condensação reversível do gliceraldeído-3-fosfato com di-hidroxiacetona-fosfato, o que levará a frutose-1,6-bifosfato
+A reação da aldolase tem uma variação de energia livre padrão muito positiva no sentido de clivar a frutose-1,6-bifosfato, o que faz com que, nas baixas concentrações dos reagentes, a variação real da energia livre seja pequena, podendo então, dizer que a reação da aldolase é reversível.
+Na via glicolítica, a aldolase faz a conversão de um composto de seis átomos de carbono em dois compostos que contém três átomos de carbono.
+No estroma de cloroplastos há todas as enzimas necessárias para a conversão das trioses-fosfato em amido, a partir da assimilação do CO2. Essa síntese requer seis moléculas de NADPH e nove moléculas de ATP. Com isso, a aldolase condensa as trioses gerando frutose-1,6-bifosfato que, em seguida, produzirá frutose-6-fosfato, na reação catalisada pela enzima fosfoexose-isomerase.
+As enzimas estromais se rearranjam, gerando intermediários de três, quatro, cinco, seis e sete carbonos, o que levará, então, a pentoses-fosfato. Essas que serão convertidas em ribulose-5-fosfato, que será fosforilada para gerar a ribulose-1,5-bifosfato.
+Depois da condensação de duas trioses-fosfato para formar frutose-1,6-bifosfato, a hidrólise pela frutose-1,6-bifosfatase gera frutose-6-fosfato.
+A enzima metila uma lisina conservada na parte C-terminal da frutose-bifosfato aldolase de plantas superiores ( EC 4.1.2.13 ). A enzima da ervilha ( Pisum sativum ) também metila Lys-14 nas grandes subunidades da ribulose-bifosfato-carboxilase hexadecamérica superior da planta ( EC 4.1.1.39 ), mas a de Arabidopsis thaliana não.
+
+
+== Patologia ==
+
+
+==== Bancos de dados específicos de organismos ====
+
+
+==== Bancos de dados diversos ====
+
+
+==== Bancos de dados de polimorfismo e mutação ====
+
+
+== Links para outras bases de dados ==
+BRENDA, EXPASY, KEGG, Metacyc, PDB.
+
+
+== Referências ==
+1. Magnani, R., Nayak, N.R., Mazarei, M., Dirk, L.M. and Houtz, R.L. Polypeptide substrate specificity of PsLSMT. A set domain protein methyltransferase. J. Biol. Chem. 282 (2007) 27857-27864. [PMID: 17635932]
+2. Mininno, M., Brugiere, S., Pautre, V., Gilgen, A., Ma, S., Ferro, M., Tardif, M., Alban, C. and Ravanel, S. Characterization of chloroplastic fructose 1,6-bisphosphate aldolases as lysine-methylated proteins in plants. J. Biol. Chem. 287 (2012) 21034-21044. [PMID: 22547063]

@@ -1,0 +1,674 @@
+Um reator biológico ou Biorreator corresponde a um volume onde decorrem reações biológicas, são muito utilizados na biotecnologia, comumente para a produção de: vacinas, hidrogênio, vinagre, hormônios, bebidas alcoólicas, alimentos fermentados, remédios e muitos outros produtos.
+
+
+== Tipos de Biorreatores ==
+Existem diversos tipos e classificações para biorreatores, para cada processo há a necessidade de escolher diversos parâmetros e a combinação destes leva a escolha das características do biorreator. 
+Algumas subdivisões de tipos de biorreatores e suas características são apresentadas a seguir, ressalta-se que o modelo escolhido para cada processo pode vir a ser uma combinação de vários deles:
+
+
+=== Presença de oxigênio ===
+De acordo com a presença de oxigênio, um biorreator pode ser classificado como:
+
+Aeróbio - quando as reações biológicas decorrem na presença de oxigênio livre (
+  
+    
+      
+        
+          O
+          
+            2
+          
+        
+      
+    
+    {\displaystyle O_{2}}
+  );
+Anóxico - quando as reações biológicas decorrem somente na presença de oxigênio combinado (e.g.: 
+  
+    
+      
+        N
+        
+          O
+          
+            3
+          
+        
+      
+    
+    {\displaystyle NO_{3}}
+  ). As bactérias aeróbias têm de romper as ligações do oxigênio com outros elementos para se oxigenar;
+Anaeróbio - quando as reações biológicas decorrem na ausência total de oxigênio. Estas reações biológicas são promovias por bactérias anaeróbias estritas ou bactérias anaeróbias facultativas.
+
+
+=== Modo de funcionamento ===
+Batelada
+Batelada alimentada
+Contínuo
+
+
+=== Sistema de agitação ===
+Tanque Agitado
+Fluxo Pistonado
+Escoamento em vórtices de Taylor
+Gotejamento
+Pneumático
+Tipo Wave
+
+
+=== Modelo ===
+Digestor anaeróbio de fluxo ascendente
+Estado Sólido
+Fibra Oca
+Fotobiorreator
+Leito Fixo
+Leito Fluidizado
+
+
+== Modelos Hidráulicos ==
+Os reatores biológicos obedecem a diferentes modelos hidráulicos:
+
+Modelo de fluxo Pistão - A difusão lateral e a mistura podem ser nulos, isto é, uma dada massa do liquido passa através do reator sem que ocorram processos de mistura no seu percurso.
+Modelo de Mistura completa - O conteúdo do reator é homogêneo e igual concentração do efluente.
+Modelo de escoamento disperso - Modelo que tem um comportamento misto entre o de fluxo pistão e mistura completa.
+Batch - Modelo em que o afluente permanece no reator em estágio durante algum tempo e depois é descarregado.
+
+
+=== Modelo de Fluxo Pistão ===
+
+  
+    
+      
+        
+          S
+          
+            e
+          
+        
+        =
+        
+          S
+          
+            a
+          
+        
+        ⋅
+        
+          e
+          
+            −
+            k
+            ⋅
+            t
+          
+        
+      
+    
+    {\displaystyle S_{e}=S_{a}\cdot e^{-k\cdot t}}
+  
+Onde,
+
+  
+    
+      
+        
+          S
+          
+            a
+          
+        
+      
+    
+    {\displaystyle S_{a}}
+   - concentração de substrato à entrada do reator, 
+  
+    
+      
+        
+          
+            
+              m
+              g
+            
+            L
+          
+        
+      
+    
+    {\displaystyle {\frac {mg}{L}}}
+  ;
+
+  
+    
+      
+        
+          S
+          
+            e
+          
+        
+      
+    
+    {\displaystyle S_{e}}
+   - concentração de substrato à saída da lagoa, 
+  
+    
+      
+        
+          
+            
+              m
+              g
+            
+            L
+          
+        
+      
+    
+    {\displaystyle {\frac {mg}{L}}}
+  ;
+t - tempo de retenção hidráulica;
+
+
+=== Modelo de Mistura Completa ===
+
+  
+    
+      
+        
+          S
+          
+            e
+          
+        
+        =
+        
+          
+            
+              S
+              
+                a
+              
+            
+            
+              1
+              +
+              k
+              ⋅
+              t
+            
+          
+        
+      
+    
+    {\displaystyle S_{e}={\frac {S_{a}}{1+k\cdot t}}}
+  
+Para o caso de reatores em série :
+
+  
+    
+      
+        
+          S
+          
+            e
+          
+        
+        =
+        
+          
+            
+              S
+              
+                a
+              
+            
+            
+              
+                (
+                
+                  1
+                  +
+                  k
+                  ⋅
+                  t
+                
+                )
+              
+              
+                n
+              
+            
+          
+        
+      
+    
+    {\displaystyle S_{e}={\frac {S_{a}}{\left(1+k\cdot t\right)^{n}}}}
+  
+Onde,
+
+n - número de reatores iguais em serie;
+t - tempo de retenção hidráulico por reator.
+
+
+=== Modelo de Escoamento Disperso ===
+
+  
+    
+      
+        
+          S
+          
+            e
+          
+        
+        =
+        
+          S
+          
+            a
+          
+        
+        ⋅
+        
+          (
+          
+            
+              
+                4
+                ⋅
+                a
+                ⋅
+                
+                  e
+                  
+                    
+                      1
+                      
+                        2
+                        ⋅
+                        d
+                      
+                    
+                  
+                
+              
+              
+                
+                  
+                    (
+                    
+                      1
+                      +
+                      a
+                    
+                    )
+                  
+                  
+                    2
+                  
+                
+                ⋅
+                
+                  e
+                  
+                    
+                      a
+                      
+                        2
+                        ⋅
+                        d
+                      
+                    
+                  
+                
+                −
+                
+                  
+                    (
+                    
+                      1
+                      −
+                      a
+                    
+                    )
+                  
+                  
+                    2
+                  
+                
+                ⋅
+                
+                  e
+                  
+                    −
+                    
+                      
+                        a
+                        
+                          2
+                          ⋅
+                          d
+                        
+                      
+                    
+                  
+                
+              
+            
+          
+          )
+        
+      
+    
+    {\displaystyle S_{e}=S_{a}\cdot \left({\frac {4\cdot a\cdot e^{\frac {1}{2\cdot d}}}{\left(1+a\right)^{2}\cdot e^{\frac {a}{2\cdot d}}-\left(1-a\right)^{2}\cdot e^{-{\frac {a}{2\cdot d}}}}}\right)}
+  
+
+  
+    
+      
+        a
+        =
+        
+          
+            1
+            +
+            4
+            ⋅
+            k
+            ⋅
+            t
+            ⋅
+            d
+          
+        
+      
+    
+    {\displaystyle a={\sqrt {1+4\cdot k\cdot t\cdot d}}}
+  
+
+  
+    
+      
+        d
+        =
+        
+          
+            D
+            
+              U
+              ⋅
+              L
+            
+          
+        
+      
+    
+    {\displaystyle d={\frac {D}{U\cdot L}}}
+  
+Onde,
+
+n - número de reatores iguais em serie;
+t - tempo de retenção hidráulico por reator;Valores típicos de 
+  
+    
+      
+        
+          
+            D
+            
+              U
+              ⋅
+              L
+            
+          
+        
+      
+    
+    {\displaystyle {\frac {D}{U\cdot L}}}
+   para diversas unidades de tratamento águas residuais :
+
+Tanque de sedimentação - 
+  
+    
+      
+        
+          
+            D
+            
+              U
+              ⋅
+              L
+            
+          
+        
+      
+    
+    {\displaystyle {\frac {D}{U\cdot L}}}
+   = 0,2-2,0
+Tanques de arejamento de lamas ativadas :
+Longo (plug flow) - 
+  
+    
+      
+        
+          
+            D
+            
+              U
+              ⋅
+              L
+            
+          
+        
+      
+    
+    {\displaystyle {\frac {D}{U\cdot L}}}
+   = 0,1-1,0.
+mistura completa - 
+  
+    
+      
+        
+          
+            D
+            
+              U
+              ⋅
+              L
+            
+          
+        
+      
+    
+    {\displaystyle {\frac {D}{U\cdot L}}}
+   = 3,0-4,0$ e superior.Lagoas:
+
+Tanques em série e tanques longos - 
+  
+    
+      
+        
+          
+            D
+            
+              U
+              ⋅
+              L
+            
+          
+        
+      
+    
+    {\displaystyle {\frac {D}{U\cdot L}}}
+   = 0,1-1,0.
+Tanques simples - 
+  
+    
+      
+        
+          
+            D
+            
+              U
+              ⋅
+              L
+            
+          
+        
+      
+    
+    {\displaystyle {\frac {D}{U\cdot L}}}
+   = 3,0-4,0 e superior.Lagoas arejadas:
+
+Retangulares - 
+  
+    
+      
+        
+          
+            D
+            
+              U
+              ⋅
+              L
+            
+          
+        
+      
+    
+    {\displaystyle {\frac {D}{U\cdot L}}}
+   = 0,2-1,0.
+Quadradas - 
+  
+    
+      
+        
+          
+            D
+            
+              U
+              ⋅
+              L
+            
+          
+        
+      
+    
+    {\displaystyle {\frac {D}{U\cdot L}}}
+   = 3,0-4,0 e superior.
+Valas de Oxidação - 
+  
+    
+      
+        
+          
+            D
+            
+              U
+              ⋅
+              L
+            
+          
+        
+      
+    
+    {\displaystyle {\frac {D}{U\cdot L}}}
+   = 3,0-4,0 e superior.Critério empírico para estimar o valor do coeficiente de dispersão D:
+Para lagoas e tanques com largura superior a 30 m :
+
+Com separadores, 
+  
+    
+      
+        D
+        =
+        33
+        ⋅
+        L
+      
+    
+    {\displaystyle D=33\cdot L}
+  
+Sem separadores, 
+  
+    
+      
+        D
+        =
+        16
+        ,
+        7
+        ⋅
+        L
+      
+    
+    {\displaystyle D=16,7\cdot L}
+  Para lagoas e tanques com largura inferior a 10 m :
+
+Com separadores, 
+  
+    
+      
+        D
+        =
+        11
+        ⋅
+        
+          L
+          
+            2
+          
+        
+      
+    
+    {\displaystyle D=11\cdot L^{2}}
+  
+Sem separadores, 
+  
+    
+      
+        D
+        =
+        2
+        ⋅
+        
+          L
+          
+            2
+          
+        
+      
+    
+    {\displaystyle D=2\cdot L^{2}}
+  onde,
+
+D - Coeficiente de dispersão
+  
+    
+      
+        
+          (
+          
+            
+              
+                m
+                
+                  2
+                
+              
+              h
+            
+          
+          )
+        
+      
+    
+    {\displaystyle \left({\frac {m^{2}}{h}}\right)}
+  
+L - largura, (m)
+
+
+== Fonte ==
+Arceivala, S. J. (1981), Wastewater Treatment and Disposal (part I and II), Marcel Dekker, inc.
+Metcalf & Eddy (2003), Wastewater Engineering - Treatment and Reuse, 4th Edition, MacGraw-Hill Inernatinal Edition.

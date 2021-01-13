@@ -1,0 +1,88 @@
+Mórula (do latim morula, diminutivo de morus, amora) é o primeiro estágio da embriogênese de alguns tipos de zigotos (célula resultante da união do gameta feminino e masculino), processo que ocorre logo após a fertilização, e este sofre sucessivas clivagens até a formação da blástula, passando pelo estágio de mórula. Este estágio se caracteriza por uma massa sólida com cerca de 12 a 32 blastômeros, que mudam sua forma e se juntam uns aos outros para formar uma bola compacta de células, dependendo do filo, com a aparência de uma amora, da qual tomou o nome. Este fenômeno - compactação - provavelmente é mediado por glicoproteínas. O estágio de mórula ocorre 3 a 4 dias após a fecundação, coincidindo com a entrada do embrião no útero.
+Conforme ocorrem as sucessivas clivagens, há a formação de uma cavidade interna, a blastocele, e assim o embrião passa do estágio de mórula para o estágio de blástula.
+Durante essa fase do desenvolvimento embrionário, o gene que é mais expresso é o GATA6, o qual codifica uma proteína de junção celular do tipo adesiva. Além dele, outros genes que codificam proteínas de junções celulares comunicantes e também proteínas constitutivas do citoesqueleto são expressos nessa etapa. Outros genes expressos em menor grau são Sox2, Oct4, Nanog, Cdx2, Eomes, Fgfr2, Fgf4, Occludina, ZO1, Desmoplaquina, E-caderina e GATA4.
+
+
+== Mórula em humanos ==
+
+Durante as divisões da clivagem, o zigoto é primeiramente subdividido em duas células, que se dividirão, formando quatro células e assim por diante até chegar no estágio de 8 a 16 células (mórula). Nesse momento o embrião como um todo mantém o mesmo tamanho, ou seja, as células filhas recém formadas, são menores que a célula de origem.
+No estágio de mórula o embrião se diferencia em dois grupos celulares localizados na camada externa e internado embrião. A mais externa, chamada de trofoblastos, é responsável pela formação do componente fetal da plascenta e as membranas extra-embrionárias associadas. Já a massa interna central, chamada de embrioblastos, dá origem ao embrião propriamente dito e às membranas extra-embrionárias associadas.
+O período de mórula ocorre durante a migração do zigoto pela tuba uterina em direção ao útero.
+É importante destacar que nem todos os animais passam pelo estágio de mórula em seu desenvolvimento; alguns sofrem clivagens do estágio do zigoto até o estágio de blástula sem passar por uma etapa de esfera maciça semelhante a uma amora. Animais que possuem clivagem do tipo holoblástica passam pelo estágio de mórula, enquanto que animais que possuem clivagem do tipo meroblástica não passam por esse estágio.
+
+
+==== Controle genético ====
+Após quatro horas da fertilização, o genoma paterno sofre rápida e maciça desmetilação, já o genoma derivado da mãe ocorre mais gradualmente até o início da mórula, estágio no qual todo o DNA é maximamente desmetilado. A remetilação acontece na massa celular interna e, até o final do estágio de blastocisto ela retorna ao nível máximo.
+O controle epigenético não se limita aos padrões de metilação, mesmo no estágio inicial do zigoto, diferentes padrões de histona se associam à cromatina, o que explica as pronunciadas diferenças entre os pró-núcleos masculino e feminino.
+
+Uma das primeiras manifestações da expressão dos genes embrionários é a polarização dos blastômeros do embrião de 8 e 16 células (estágio de mórula), de modo que eles tenham claramente reconhecível as superfícies apical e basal. A polarização dos blastômeros leva a uma das mais impotantes etapas do desenvolvimento inicial de mamíferos que é a decisão que resulta no aparecimento de duas linhagem separadas de células (o trofoblasto e a massa celular interna), a partir dos primeiros blastômeros homogênios.
+As mudanças no fenótipo das células internas e externas são acompanhadas por impotantes diferenças moleculares. O fator de transcrição cdx-2 é crítico para a formação das células do trofoblasto, e também antagoniza a expressão de moléculas que estão associadas com a massa celular interna. Cdx-2 mutante não conseguem implantar no epitélio endometrial.
+As células da massa celular interna expressam moléculas que estão associadas a uma grande flexibilidade de desenvolvimento, como por exemplo oct-4, nanog e sox-2.
+
+
+== Correlação clínica ==
+Um exemplo é a mola hidatiforme, que é caracterizada pelo superdesenvolvimento dos tecidos trofoblásticos e pelo extremo subdesenvolvimento do embrião. Essa condição pode resultar da fertilização de um óvulo por dois espermatozóides. Essa forma de desenvolvimento altamente anormal é consistente com a hipótese de que o imprinting paterno favorece o desenvolvimento trofoblástico a custa do embrião.
+
+
+=== Experimentos ===
+As estratégias clássicas para a investigação das propriedades do desenvolvimento dos embriões são:
+(1) remover uma parte (blastômero), e determinar a forma como o restante do embrião compensa a perda (chamados de experimentos de deleção ou ablação).
+(2) adicionar uma parte e determinar como o embrião integra o material adicionado ao seu plano geral do corpo ( chamados de experimentos de adição).
+
+
+== Animais que não passam pelo estágio de mórula ==
+
+
+=== Aves, répteis e peixes ===
+Possuem ovos telolécitos, sofrem clivagem do tipo meroblástica discoidal em seu estagio de blástula não se forma a cavidade chamada blastocele .
+Moluscos Cefalópodes
+Possuem clivagem meroblástica telolécita bilateral, ou seja, o ovo possui uma grande quantidade de vitelo na parte de baixo, e seu desenvolvimento ocorre na parte de cima. O que diferencia esse tipo de clivagem da discoidal, é que na bilateral as células se dividem ao meio na parte de cima e assim realizam suas divisões.
+
+
+=== Insetos ===
+Possuem ovos centrolécitos e clivagem meroblástica superficial, não passando pelo estágio de mórula.
+
+
+== Animais que passam pelo estágio de mórula ==
+
+
+=== Platelmintos, anelídeos e moluscos exceto cefalópodes ===
+Possuem ovos mesolécitos e clivagem holoblástica espiral, passando pelo estágio de mórula. Não há a formação da blastocele, com seu estágio equivalente ao de blástula chamado de estereoblástula.
+
+
+=== Equinodermos e cefalocordados (anfioxo) ===
+Possuem ovos isolécitos e clivagem holoblástica radial, passando pelo estágio de mórula.
+
+
+=== Urocordados tunicados (ascídias) ===
+Possuem ovos isolécitos e clivagem holoblástica bilateral, passando pelo estágio de mórula.
+
+
+=== Anfíbios ===
+Os anfíbios possuem ovos do tipo mesolécito e clivagem holoblástica radial deslocada, e passam pelo estágio de mórula durante o desenvolvimento. Sua mórula possui um polo animal, com vários blastômeros pequenos, e um polo vegetal, com um número menor de blastômeros grandes (muito citoplasma enriquecido em vitelo).
+
+
+=== Mamíferos (incluindo o ser humano) ===
+Os mamíferos possuem ovos isolécitos e apresentam clivagem holoblástica rotacional, com presença do estágio de mórula. Esse estágio ocorre ainda no oviduto, durante a migração do embrião para a posterior implantação no útero, já no estágio de blastocisto. A mórula dos mamíferos é apenas o estágio que contém cerca de 16 blastômeros (com 32 células já ocorre a formação do blastocisto), o que nos seres humanos é alcançado no quarto dia de gravidez. É importante pontuar que, devido à clivagem lenta, ocorrem sobreposições de fases de divisões, resultando em embriões que nem sempre possuem uma potência de 2 como número total de blastômeros (um blastômero pode estar se dividindo enquanto outro ainda não).
+O desenvolvimento dos mamíferos se diferencia dos demais por haver uma fase de compactação (blastômeros maximizam área de contato com os adjacentes) antes da formação da mórula, sendo a β-1,4 galactosil-transferase uma das proteínas mais importantes no processo. A mórula dos mamíferos consiste, então, de algumas células internas rodeadas por um número superior de células externas. As células internas originarão o embrião propriamente dito, enquanto que as células externas (trofoblasto) originarão os tecidos extra-embrionários. Portanto, esse estágio consiste na primeira diferenciação no desenvolvimento desses animais.
+
+
+== Células-tronco ==
+O desenvolvimento humano possui especificação condicional (isto é, as células não têm papel determinado a priori pelo tipo de citoplasma que recebem durante as clivagens – especificação autônoma), portanto a diferenciação das células depende da interação entre a célula e suas vizinhas e dela com fatores externos, como fatores de transcrição. Dessa forma, no estágio de mórula, os blastômeros que se encontram na região interna (não os do trofoblasto) ainda são células totipotentes, isto é, possuem a capacidade de se desenvolverem em qualquer tipo de célula e formarem qualquer tipo de tecido. Usualmente, as células utilizadas como células-tronco embrionárias provêm da massa de células interna do blastocisto. Todavia, pesquisas científicas recentes têm utilizado blastômeros internos do estágio de mórula como células-tronco embrionárias, removendo-as de embriões humanos congelados (as leis brasileiras permitem o uso de embriões inviáveis ou congelados há mais de 3 anos).
+
+
+==== Como são formadas ====
+O zigoto, que é a primeira célula diplóide (dupla) do organismo, sofre uma divisão e origina duas células, denominadas blastômeros. Os blastômeros continuam a se dividir, originando uma estrutura constituída de quatro e depois de oito células. Esta estrutura de oito células são as células-tronco totipotentes, que se originaram de uma célula mãe idêntica e podem dar origem a um organismo adulto. Depois deste estágio, as células dividem-se continuamente e atingem o estágio de mórula. Então, os blastômeros mais internos dão origem à massa celular interna – embrioblasto – e os blastômeros mais periféricos originam uma camada de células mais externas – trofoblasto. Estas duas estruturas formam o estágio de blastocisto do embrião e as células mais internalizadas formam as células-tronco pluripotentes, denominadas de células-tronco embrionárias.
+
+
+== Ver também ==
+Clivagem
+Ovo
+Célula-tronco_embrionária
+Blastulação
+Endoderme
+Mesoderme
+Ectoderme
+
+
+== Referências ==

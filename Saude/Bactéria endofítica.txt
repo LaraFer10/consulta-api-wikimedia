@@ -1,0 +1,23 @@
+Bactérias edofíticas são microrganismos que habitam o interior de plantas (diferindo assim, das epifiticas), colonizando-as sem causar alterações morfologicas e fisiologicas das plantas (diferindo-se de patogenos biotroficos). Existindo distinção, entre bactérias fixadoras de nitrogênio entre os endófiticos que vivem em simbiose com as plantas formando nódulos e também os fungos micorrízicos.
+Ainda está em estudo a importância destes microorganismo e os papeis que desempenham junto às plantas. Alguns trabalhos recentes vêm encontrando importantes funções na promoção de crescimento, podendo produzir hormônios; fosfatases; fixar nitrogenio; produzir alcaloides (que garatem à planta, menor palatabilidade e maior nocividade - resultando num mecanismo natural de combate à herbivoria); além de antibióticos e outros metabólitos secundários de interesse farmacológico; podem servir como bioindicadores de vitalidade; têm sido usados como agentes de controle biológico de pragas e doenças, como bioherbicidas; além de poderem ser usados na biorremediação de solos contaminados com poluentes; ou ainda, como vetores para introdução de genes em plantas hospedeiras .
+
+
+== Biosporopecção ==
+É de relevante importância ressaltar que alguns bactérias, que habitam o interior de plantas podem se tornar patogenos em algum momento de oportunismo, como a fragilidade dos mecanismo de defesa da planta. Portanto na bioprespeccção que se considera todas bacterias que habitam o interior de plantas até então sadias, podem conter também patogenos. Como ex:
+Uma metodologia proposta na literatura (Fitobacteriologia) e adaptada por (Bulhões et al., 2009) é de:
+1. Prosseguir lavagem vigorosa dos órgãos, sementes, segmentos vegetativos... antes de iniciar a desinfecção superficial, em camara de fluxo laminar previamente esterelizada sob efeito da radiação U.V. (20 minutos) e álcool 70% (3 partes de água destilada esterelizada para 7 partes de álcool absoluto ou próximo).
+2. Mediar pesagem do fragmento à sofrer a bioprospecção (para efeito de cálculo da quantidade de unidades formadoras de colonia, representado em UFC/g de tecido fresco).
+3. Imersão da parte do vegetal em álcool 50% por 30 segundos (com objetivo de aumentar a eficiencia da desifecção superficial e quebrar a tensão superficial do tecido junto ao hipoclorito de sódio).
+4. Transferir o material com uma pinça flambada e esfriada em camera de fluxo.
+5. Imersão em hipoclorito de sódio (1%) de 1'30" (um minuto e 30 segundos) até 3' (3 minutos) ou mais (esse tempo necessita ser adaptado de acordo com a tenrissidade, resistência do material, idade, local de origem...), de modo que raízes necessitam de maior tempo de imerssão. Haja vista que estiveram em contato íntimo com o solo, que é grande fonte de carga e diversidade microbiana.
+6. Transferir o material com uma pinça flambada e esfriada em camera de fluxo.
+7. 3 Lavagens seguidas em água destilada esterelizada (H2O D.E.) (processeguindo transferencia do material com uma pinça flambada e esfriada em camera de fluxode uma água para outra).
+8. Uma aliquota de 100 uL da ultima lavagem em água destilada esterelizada deve ser tomada e semeada em meio de cultivo tipo TSA (com adição de flucunazol, para evitar crescimento de fungos)ou outros com o auxilio de uma alça de drigalski, como prova em branco. Caso cresca algo nesta placa, entende-se que a desinfecção não foi eficiente em uma ou mais etapas do processo.
+9. Masceragem em 10 ml (pode variar de acordo com o volume ou natureza do material, sendo valor anotado para efeito de cálculo)com auxilio de cadinho e pistilo esterelizado.
+10. Semear 100 uL do macerado em 3 placas (diluição 10^0 em 3 repetições)
+11. Fazer diluição seriada do macerado para plaquear (10^1, 10^2, 10^3... de acordo com a densidade da população dos microrganismos que venham a ser encontrados. Daí a necessidade de adaptação da metodologia de acordo com cada planta e condição).
+
+
+== Bibliografia ==
+BULHÕES, I.B.; TEIXEIRA, M. B.; BARRETTI, P. B.; NASCIMENTO, R. P.. Efeito da esterilização do solo na colonização de plântulas de Physalis angulata por bactérias endofíticas. In: XXV Congresso Brasileiro de Microbiologia, Porto de Galinhas, 2009.
+MARIANO, R.L.R.; SILVEIRA, E.B. (Eds.) Manual de práticas em fitobacteriologia. 2. ed. Recife: Universidade Federal Rural de Pernambuco, 2005. p. 51-62.

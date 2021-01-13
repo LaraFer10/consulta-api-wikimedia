@@ -1,0 +1,94 @@
+Os agentes anticolinesterásicos, também como são chamados, pertencem a três grupos principais, de acordo com a natureza de sua interação com o sítio ativo, que determina a sua duração de ação. A maioria inibe de modo aproximadamente igual os diferentes tipos de colinesterases (acetilcolinesterase e pseudo-acetilcolinesterase), que catalizam a hidrólise de acetil-colina, evitando o excesso de acetil-colina e a consequente sobre-estimulação muscular. 
+
+
+== Mecanismo de ação ==
+A acetilcolinesterase (AChE) é a enzima responsável pela hidrólise do neurotransmissor acetilcolina (ACh) nas sinapses colinérgicas. Nestas sinapses a ACh atua transmitindo a mensagem de um neurônio a outro. Portanto, quando inibida a acetilcolinesterase é impedida de hidrolisar a acetilcolina, e dessa forma o neurotransmissor permanece ativo por um tempo maior na fenda sináptica, tal mecanismo melhora a transmissão colinérgica.  
+Anticolinesterásicos é o termo usado para denominar os fármacos inibidores da AChE (IAChE). Essa classe farmacológica é usada  terapeuticamente para casos em que é necessário reverter o bloqueio neuromuscular promovido por miorrelaxantes adespolarizantes, no tratamento da miastenia gravis, atonia do músculo liso, no estrabismo e no tratamento dos sintomas da Doença de Alzheimer.O mecanismo de ação desses inibidores de acetilcolinesterase envolve o bloqueio competitivo da enzima AChE, prolongando a duração e a intensidade da ACh nos terminais sinápticos. Além desse bloqueio, o grupo carbamil presente nos inibidores comumente utilizados (piridostigmina e neostigmina) liga-se à serina da AChE e a mantém no estado inativado por mais tempo. 
+
+
+== Histórico ==
+O primeiro IAChE descoberto foi a fisostigmina, um alcaloide obtido do Physostigma venenosum L. Apesar de ter os efeitos colinérgicos conhecidos há muitos anos somente em 1923 a estrutura molecular da substância ativa foi elucidada. Em 1929 Stedman desvendou que os efeitos colinomiméticos da fisostigmina deviam-se à inibição reversível da AChE. Atualmente, este fármaco é aplicado no tratamento do glaucoma e em casos de overdose por compostos anticolinérgicos, como a atropina, e antidepressivos tricíclicos, como a amitripitilina. A neostigmina e a piridostigmina são análogos simplificados da fisostigmina. Ambos são fármacos empregados no tratamento de miastenia gravis e revertem os efeitos de bloqueadores neuromusculares, como os da tubocurarina.[1]
+
+
+== Classificação ==
+Medicamentos inibidores reversíveis, por tipo:
+
+
+== Organofosforados ==
+Metrifonato
+Carbamatos
+Fisostigmina Assim como a neostigmina e a piridostigmina, a fisostigmina age reversivelmente no sítio esterásico da acetilcolinesterase. Como é mais lipossolúvel que os demais agentes, pode ser absorvida pelo trato gastrintestinal e atravessa a barreira hemato-encefálica.[2]
+Neostigmina é o mais utilizado em anestesias.  É um composto amônio quaternário que se liga reversivelmente ao sítio esterásico da acetilcolinesterase, tornando-a inativa por aproximadamente 30 minutos. A neostigmina é administrada por via endovenosa em doses de 0,05mg/Kg (máximo 5mg) e deve ser administrada com glicopirrolato 0,01mg/Kg ou atropina 0,02mg/Kg. O início de ação da neostigmina é de aproximadamente 2 minutos e seu efeito máximo ocorre em torno de 5 a 7 minutos. É excretada inalterada pelos rins e sua meia-vida é cerca de 45 minutos.[3]
+Piridostigmina  Esse agente tem início de ação mais lento que a neostigmina e sua duração é de várias horas. É utilizado mais frequentemente como tratamento para miastenia gravis [4]
+Ambenônio
+Rivastigmina
+Derivados da fenantrina
+Galantamina
+Cafeína – Não-competitiva (também é um antagonista do receptor de Adenosina)
+Piperidinas
+Donepezil ou E2020
+Tacrina ou tetrahidroaminoacridina (THA)
+Edrofônio  Esse anticolinesterásico forma uma ligação iônica no sítio aniônico da enzima. A ligação é reversível e de curta duração, da ordem de poucos minutos. O edrofônio é utilizado como teste diagnóstico para a doença neuromuscular miastenia gravis. A potenciação da ACh pela droga resulta em aumento transitório da força muscular no paciente miastênico. É raramente utilizado para reverter os efeitos dos BNMs, uma vez que seus efeitos são de curta duração e o bloqueio pode aumentar após uma recuperação inicial. [5]
+
+
+=== Anticolinesterásicos de ação curta ===
+A única substância importante entre os agentes colinesterásicos de ação curta é o edrofônio,um composto amônio quartenário que se liga apenas ao sítio aniônico da enzima. Seu efeito dura de 5 a 10 minutos. A formação aniônica é facilmente reversível, e a ação da substância é muito curta.
+
+
+=== Anticolinesterásicos de média duração ===
+Os agentes anticolinesterásicos de média duração incluem a neostigmina e a piridostigmina, que são compostos de amônio quartenário de importância clínica e a fisostigmina (eserina), uma amina terciária de ocorrência natural na fava-de-calabar. Seus efeitos duram de 2 a 4h com dose máxima de 180 mg/dia.
+
+
+=== Anticolinesterásicos de larga duração ===
+O bromuro de distigmina possui o efeito mais largo de todos, mas o perigo de crises colinérgicas (excesso de parassimpático) é muito alto, então é pouco usado atualmente. 
+
+
+== Anticolinesterásicos irreversíveis ==
+Os agentes anticolinesterásicos irreversíveis são compostos pentavelentes de fósforo que contêm um grupo lábil, como fluoreto (no diflos), ou um grupo orgânico (no paration e no ecotiopato). São usados como inseticidas e agrotóxicos. Estes agentes fosforilam espontaneamente a acetilcolinesterase, tornando o envenenamento por organofosforados muito perigoso. A pralidoxima, pode reativar a enzima revertendo a ligação.
+
+
+== Agrotóxicos ==
+Os agrotóxicos inibidores da colinesterase são bem absorvidos por todas as vias: digestiva, respiratória e dérmica. Essa propriedade é decorrente da alta lipossolubilidade desses compostos. São biotransformados por enzimas oxidases, hidrolases e transferases, ocorrendo no fígado, principalmente por hidrólise, oxidação e conjugação com a glutationa.
+Após a absorção, são rápida e amplamente distribuídos para vários tecidos e órgãos, atingindo concentrações maiores em fígado e rins. Alguns organofosforados altamente lipofílicos depositam-se no tecido adiposo e são liberados gradualmente durante vários dias após a exposição. Os carbamatos não se acumulam no organismo.
+Os organofosforados atravessam facilmente a barreira hematoencefálica, enquanto os carbamatos não penetram efetivamente no sistema nervoso central, resultando em menor toxicidade neurológica.
+Os organofosforados e carbamatos representam a principal classe de inseticidas envolvidos nos casos de intoxicação. Estes compostos inativam as enzimas acetilcolinesterase plasmática e eritrocitária, causando elevação nos níveis de acetilcolina, levando a uma síndrome colinérgica aguda, com o surgimento de sinais e sintomas muscarínicos, nicotínicos e no Sistema Nervoso Central (SNC), sendo estas manifestações dependentes da dose e da via de exposição envolvidas na ocorrência.
+As manifestações muscarínicas são percebidas nos sistemas respiratório, gastrointestinal, cardiovascular e urinário, através de efeitos nas glândulas exócrinas e sintomas oculares. Já as nicotínicas surgem com efeitos na musculatura estriada e nos gânglios simpáticos. As principais manifestações clínicas no SNC são cefaléia, ansiedade, agitação, tremores, sonolência, dificuldade de fala, labilidade emocional, coma e convulsões.
+Também são descritos na literatura sinais e sintomas tardios e intermediários, após intoxicação aguda por estes inseticidas, como a síndrome neurotóxica intermediária, caracterizada pela fraqueza muscular acentuada dos músculos da respiração e do pescoço, e a síndrome neurotóxica tardia, que se configura por uma polineuropatia tardia, assinalada por fraqueza muscular dos membros superiores e inferiores, seguida por hipertonia e anormalidades dos reflexos. Isso demonstra a gravidade destas ocorrências mesmo após um longo período da intoxicação. 
+
+
+== Uso clínico ==
+Aumenta a motilidade gastro intestinal
+Atonia na bexiga
+Tratamento da miastenia grave
+Tratamento do glaucoma
+Reversão do bloqueio neuromuscular
+Íleo paralítico
+Mal de Alzheimer
+Intoxicação por drogas antimuscarínicas
+
+
+== Tratamento de intoxicação ==
+O tratamento específico para este tipo de ocorrência é feito com a pralidoxima, um agente que reativa a enzima colinesterase e protege aquela que ainda não foi inibida pelo inseticida anticolinesterásico, e pela Atropina, um antagonista dos efeitos da acetilcolina.
+Esses inseticidas são as substâncias mais empregadas nas áreas agrícolas e em programas de saúde pública, para o controle de vetores que transmitem doenças. Atualmente, centenas de ingredientes ativos e milhares de formulações estão disponíveis no mercado mundial, onde existe uma fabricação de, aproximadamente, 115 milhões de toneladas de inseticidas anualmente.
+Devido à estrutura química destes produtos e sua atividade biológica na natureza, estes compostos têm apresentado risco potencial para humanos e para o meio ambiente. Vários estudos têm demonstrado que as intoxicações por inseticidas têm sido um problema de longa duração por toda África, Ásia, Europa e Américas.
+Estima-se que ocorram de 1 a 5 milhões de casos de intoxicação por inseticidas todos os anos, resultando em centenas de mortes, principalmente entre trabalhadores agrícolas. A maioria destas intoxicações ocorre em países em desenvolvimento, onde a falta de higiene, informação ou controle adequado têm criado perigosas condições de trabalho(9,10). Apesar destes países representarem somente 25% do consumo global de inseticidas, eles contam com aproximadamente 99% dos relatos de morte. 
+
+
+== Efeitos anticolinesterásicos ==
+Miose e contração do músculo ciliar
+Aumento da peristalse
+Náusea
+Broncoespasmo
+Aumento das secreções bronquiais
+Sudorese
+Salivação
+
+
+== Referências ==
+4. 1; 2; 3; 4http://grofsc.net/wp/wp-content/uploads/2013/06/FARMACOLOGIA-DOS-BLOQUEADORES-NEUROMUSCULARES-E-ANTICOLINESTARAXICOS.pdf  
+5. http://rvq.sbq.org.br/imagebank/pdf/v8n6a04.pdf 
+6. Inouye, K.; Oliveira, G. H. Avaliação crítica do tratamento farmacológico atual para Doença de Alzheimer. Infarma 2004, 15, 80. [Link] 
+7.Standaert, D. G.; Young, A. B. Em Goodman & Gilman. As bases farmacológicas da terapêutica, 10a. Ed.; Brunton, L. L.; Lazo, J. S.; Parker, K. L., eds.; Mc Graw Hill, 2006, cap. 20. 
+8.  Silva, P. Em Farmacologia, 6a. Ed.; Silva, P., Eds.; Guanabara, 2002, cap. 32. 
+9. Richman & Agius, 2003; Conti-Fine et al., 2006; Ministério da Saúde, 2010; Skeie et al., 2010; Kim et al., 2011; Mohan et al., 2012 
+10. Rang, H.P.; Dale, M.M. (2011) Farmacologia. 7 ed. Rio de Janeiro: Elsevier.

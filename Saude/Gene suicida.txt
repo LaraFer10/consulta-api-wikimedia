@@ -1,0 +1,3 @@
+Um gene suicida, em genética, é um gene que causa a morte da própria célula através de apoptose. Muitos são os factores que levam à activação destes genes, mas o principal factor celular a induzir a apoptose é a proteína p53.
+Estimulação ou introdução (através da terapia genética) de genes suicidas é uma maneira potencial de tratar o câncer ou outras doenças proliferadoras.
+Introduzindo o gene em um tumor maligno, o tumor reduzirá seu tamanho e possivelmente desaparecer completamente, já que todas as suas células recebem uma cópia do gene. Isto depende da efetividade do vetor (geralmente um vírus) em atingir todas as células, e distinguir adequadamente quais são as células do tumor e quais estão em seu estado normal.

@@ -1,0 +1,50 @@
+As espécies reactivas de oxigénio são compostos químicos resultantes da activação ou redução do oxigénio molecular (dioxigénio, O2) ou derivados dos produtos da redução. As principais espécies reactivas de oxigénio são: o anião radical superóxido (O2•-), o peróxido de hidrogénio (H2O2), o dioxigénio singleto (1O2) e o radical hidroxila (HO.). O peroxinitrito (ONOO-) é considerado por uns autores uma espécie reactiva de oxigénio e por outros uma espécie reactiva de azoto.
+
+
+== Origem ==
+O dioxigénio pode sofrer redução química, isto é, pode aceitar electrões, que são introduzidos nas orbitais antiligantes da molécula. A redução univalente (um electrão de cada vez) origina superóxido e peróxido:
+
+O2 → O2•- → O22-A redução afecta a estabilidade da ligação entre os dois átomos de oxigénio, diminuindo-a. Em determinadas condições, o peróxido decompõe-se em dois radicais hidroxilo através de clivagem homolítica da molécula.
+O dioxigénio singuleto resulta da excitação da molécula de O2, e não da sua redução.
+O peroxinitrito é o produto da condensação dos radicais superóxido e óxido nítrico, sendo por isso considerada tanto uma espécie reactiva de oxigénio como de azoto.
+
+
+== Actividade biológica ==
+Os organismos expostos ao oxigénio (como os humanos) produzem espécies reactivas de oxigénio no seu metabolismo normal. Em determinadas situações patológicas, a produção destas espécies aumenta. Em ambas as situações ocorre o chamado stress oxidativo: as espécies reactivas de oxigénio são normalmente (mas nem sempre) poderosos agentes oxidantes que danificam todos os tipos de estrutura celular, desde lípidos membranares até ao DNA.
+
+
+== Principais espécies reactivas de oxigénio ==
+
+
+=== Superóxido ===
+
+O anião radical superóxido (O2•-) resulta da redução do dioxigénio com um electrão. A molécula toma então uma carga negativa e torna-se radicalar. Como tal, o superóxido é mais polar que o dioxigénio, não atravessando membranas facilmente. 
+O superóxido é produzido em pequenas quantidades na cadeia respiratória aeróbia. Também é produzido por macrófagos como agente antibacteriano. Algumas enzimas têm o superóxido como intermediário reaccional ou mesmo produto final.
+Os principais danos causados pelo superóxido em sistemas biológicos são a destruição de centros metálicos de proteínas, oxidação de cadeias laterais de aminoácidos e a formação de outras espécies oxidativas, como o radical hidroxilo e o peroxinitrito. 
+
+
+=== Peróxido de hidrogénio ===
+
+O peróxido de hidrogénio (H2O2) não é, por si só, muito reactivo, mas é o precursor directo do radical hidroxilo, a espécie reactiva de oxigénio mais perigosa que se conhece. 
+Como é uma molécula relativamente apolar, o H2O2 pode atravessar membranas por difusão simples, reagindo localmente com iões metálicos como o ferro(II) e o cobre(I) através da chamada reacção de Fenton. Nesta reacção ocorre a formação do radical hidroxilo. Este mecanismo é responsabilizado por danos encontrados no DNA em situações de stress oxidativo.
+
+
+=== Dioxigénio singuleto ===
+
+O dioxigénio singuleto (1O2), frequentemente denominado apenas oxigénio singuleto, resulta da excitação da molécula de dioxigénio, sem ocorrer a sua ionização. O dioxigénio (no estado fundamental) é excitado por moléculas previamente excitadas pela luz, numa reacção conhecida como fotossensibilização. Também pode ser produzido em determinadas reacções enzimáticas, sem a intervenção da luz.
+O 1O2 pode reagir com biomoléculas adicionando-se a ligações duplas (como por exemplo em ácidos gordos insaturados) ou por transferência de energia (por exemplo, eliminando radicais livres necessários para a catálise de algumas enzimas).
+
+
+=== Radical hidroxilo ===
+
+O radical hidroxila ou  hidroxilo (HO.) é uma espécie radicalar e a mais reactiva de todas as espécies reactivas de oxigénio. Por essa razão, o local mais afectado pelo hidroxilo é a zona onde esta espécie é formada. Este radical é formado principalmente através da reacção de Fenton, pela clivagem homolítica do peróxido de hidrogénio ou pela radiólise da molécula de água.
+Os principais alvos da acção do radical hidroxilo são o DNA (que sofre danos nas suas bases, levando à quebra da dupla cadeia) e os ácidos gordos insaturados (que sofrem peroxidação).
+
+
+== Stress oxidativo ==
+
+Stress oxidativo é um termo genérico dado à situação em que existe um desequilíbrio entre espécies oxidantes e redutoras no meio intracelular, com predominância das primeiras. A produção de espécies reactivas de oxigénio causa stress oxidativo. Alguns marcadores biológicos do stress oxidativo são a presença de danos característicos das espécies reactivas de oxigénio e o aumento da quantidade de espécies oxidadas como o NAD+ ou ligações dissulfureto em proteínas.
+
+
+== Defesas enzimáticas ==
+Sendo a produção de espécies reactivas de oxigénio uma consequência natural do metabolismo aeróbio, as células possuem enzimas que desintoxicam estas espécies. A superóxido dismutase elimina o superóxido por dismutação; o peróxido de hidrogénio é eliminado por peroxidases como a catalase e a glutationa peroxidase. Não se conhece nenhuma enzima que elimine o radical hidroxilo, pelo que este é evitado pela eliminação dos seus precursores. Outras proteínas que participam na captura e transporte de iões metálicos e na redução química de estruturas celulares oxidadas são também importantes no combate ao stress oxidativo.

@@ -1,0 +1,47 @@
+O condicionamento clássico (ou condicionamento pavloviano respondente) é um processo que descreve a gênese e a modificação de alguns comportamentos com base nos efeitos do binômio estímulo-resposta sobre o sistema nervoso central dos seres vivos. O termo condicionamento clássico encontra-se historicamente vinculado a Ivan Pavlov (1849-1936) , a "psicologia da aprendizagem" de John B. Watson (1878-1958), e Burrhus Frederic Skinner (1904-1990), também conhecido como sistema de punição e recompensa ou ao "comportamentalismo" (Behaviorismo).
+Em termos de suas bases neurais, o condicionamento clássico corresponde a um tipo de memória implícita chamada "associativa" (em oposição à memória implícita do tipo "não associativa", na qual se encaixam os aprendizados de habituação e sensibilização). Lesões no vermis cerebelar e no núcleo interpósito cerebelar foram associadas a perda da reação ao estímulo não-condicionado em resposta ao estímulo condicionado (mesmo que ainda seja possível a reação exclusiva ao estímulo não-condicionado, que não é e nunca foi dependente do condicionamento clássico). Esses achados levam a crer que tais estruturas cerebelares profundas estão relacionadas a tal aprendizado.
+
+
+== A origem do condicionamento clássico ==
+Um reflexo é uma sequência estímulo-resposta e tem a função de manter o bom funcionamento biológico, garantindo sobrevivência e reprodução. Encontramos reações equivalente a reflexos em todos os sistemas orgânicos: nervoso, endócrino, muscular, respiratório, digestivo, reprodutivo e até mesmo respostas emocionais. Os reflexos condicionados formam novas conexões sinápticas inicialmente temporárias e a seguir duradouras, pois são reflexos "aprendidos" e podem ser excitadores ou inibidores. Sua função é preditiva, ou seja, serve para antecipar a resposta de prazer (recompensa) ou mesmo advertir sobre um possível perigo (punição).
+Para obter-se um condicionamento efetivo é preciso que o estímulo condicionado (SC) preceda o estímulo incondicionado (SI), que não coexistam estímulos externos inibidores e que haja repetição periódica do condicionamento. Extinções ocorrem quando SC é apresentado sem o SI até que este desfaça a associação. O condicionamento pode ser recuperado se os emparelhamentos entre SC e SI forem refeitos - processo conhecido como recuperação espontânea.
+Estímulos condicionados podem também ser associados a outros estímulos neutros de modo a torná-los igualmente condicionados sem o emparelhamento simultâneo com o SI. Os primeiros seriam os condicionamentos chamados primários e os seguintes, secundários. Esta seria então uma associação de segunda ordem. Tais associações podem chegar até a terceira ordem e se mostrarem efetivas.
+Contra-condicionamentos ocorrem quando um diferente SC ou SI é associado, alterando portanto o reflexo incondicionado (RI). Esta ação promoveria o processo de extinção juntamente com um novo condicionamento.
+
+Na psicologia, a terminologia acima utilizada é comumente encontrada no Behaviorismo. Todavia, junto à psicologia social, propôs-se a abolição do conceito de "comportamento". Em seu lugar, Alexei Leontiev propõe o conceito de "atividade".
+
+
+== Reflexo condicionado ==
+Reflexo condicionado', concatenado, resposta condicionada ou comportamento respondente corresponde ao que Lev Vygotsky (1896 - 1934), em sua definição de reflexologia   definiu como a transformação das reações de resposta do organismo (reflexos incondicionados) a estímulos externos em situação experimental segundo os postulados de Vladimir Bekhterev (1857 - 1927) e Ivan Pavlov  (1849 - 1936).
+Observe-se que o reflexo  é a relação entre o estímulo e a resposta, nem o estímulo, nem a resposta separadamente definem um reflexo. O reflexo incondicionado é uma conexão nervosa permanente entre um excitante preciso imutável e uma ação bem determinada do organismo. Representam um estado de equilíbrio com um elemento fixo do meio, se constituindo em cada indivíduo  como a herança da espécie e simultaneamente um elemento de adaptação constante do organismo ao meio que o rodeia exigindo uma modificação do comportamento organismo (interna ou externa) a cada modificação do meio ambiente. 
+
+
+=== A experiência de Pavlov ===
+O experimento que elucidou a existência do condicionamento clássico envolveu a salivação condicionada dos cães (Canis lupus familiaris) do fisiólogo russo Ivan Pavlov. Estudando a ação de enzimas no estômago dos animais (que lhe dera um Prêmio Nobel), interessou-se pela salivação que surgia nos cães sem a presença da comida. Pavlov queria elucidar como os reflexos condicionados eram adquiridos. Cachorros naturalmente salivam por comida; assim, Pavlov chamou a correlação entre o estímulo não-condicionado (comida) e a resposta não-condicionada (salivação) de reflexo não-condicionado.
+Todavia, ele previu que se um estímulo particular sonoro estivesse presente para os cães quando estes fossem apresentados à comida, então esse estímulo pode se tornar associado com a comida, causando a salivação; anteriormente o estímulo sonoro era um estímulo neutro, visto que não estava associado com a apresentação da comida. A partir do momento em que há o pareamento de estimulações (entre som e comida), o estímulo deixa de ser neutro e passa a ser condicionado. Pavlov se referiu a essa relação de aprendizagem como reflexo condicionado do sistema de punição-recompensa (ou Behaviorismo de Pavlov) e que levou ao desenvolvimento e aplicação em diversas áreas, como comportamento, educação, psicologia, psiquiatria, direito, relações humanas, gestão empresarial, treinamento, policiamento, urbanismo e várias outras.
+
+
+==== História do experimento ====
+O experimento que elucidou a existência do condicionamento clássico envolveu a salivação condicionada dos cães (Canis lupus familiaris) do fisiólogo russo Ivan Pavlov. Estudando a ação de enzimas no estômago dos animais (que lhe dera um Prêmio Nobel), interessou-se pela salivação que surgia nos cães sem a presença da comida. Pavlov queria elucidar como os reflexos condicionados eram adquiridos. Cachorros naturalmente salivam por comida; assim, Pavlov chamou a correlação entre o estímulo não-condicionado (comida) e a resposta não-condicionada (salivação) de reflexo não-condicionado.
+Todavia, ele previu que se um estímulo particular sonoro estivesse presente para os cães quando estes fossem apresentados à comida, então esse estímulo pode se tornar associado com a comida, causando a salivação; anteriormente o estímulo sonoro era um estímulo neutro, visto que não estava associado com a apresentação da comida. A partir do momento em que há o pareamento de estimulações (entre som e comida), o estímulo deixa de ser neutro e passa a ser condicionado.
+Os animais do experimento estavam imobilizados a única resposta possível e observável era a salivação. No decorrer de uma experiência sobre os reflexos digestivos, Pavlov descobriu que para além dos reflexos inatos, se podem desenvolver nos animais e nos seres humanos reflexos aprendidos: verifica que o cão salivava não só quando via o alimento (reflexo inato), mas também perante outros sinais a ele associados, como os passos do tratador ou o som de uma campainha (reflexos aprendidos ou Condicionados, como no exemplo do cão, toda vez que tocasse a campainha, o cão receberia um pedaço de carne, daí a associação). Posteriormente os Estudos de Gantt sobre os "efeitos pessoa" revelaram outras respostas (adquiridas ou inatas), tipo frequência cardíaca aumentada ou diminuída, durante os experimentos de condicionamento Em linhas gerais o experimento consistia:
+
+Carne: estímulo não condicionado (ENC)
+Salivação: resposta não condicionada (RNC) = reflexo simples, absoluto, inato
+Campainha: estímulo condicionado (EC)ENC +  EC = RNCRepetição: associação de dois estímulos diferentes → o cão aprende a associar os dois estímulos:
+
+EC (campainha) → RC (salivação)RC só dura enquanto durar o condicionamento, ou seja a repetição do experimento é diretamente proporcional a intensidade da respostas constituindo-se o que foi denominado como força do hábito
+Para Pavlov, a Psicologia, que deveria tomar a designação de Reflexologia, circunscrever-se-ia ao estudo dos reflexos. [carece de fontes?]  Os reflexos – inatos ou condicionados – seriam o fundamento das respostas dos indivíduos a estímulos provenientes do meio. Seus trabalhos representaram um grande passo na constituição da psicologia experimental objectiva. É também com Pavlov que a Psicologia se direciona decisivamente para o estudo do comportamento humano e animal. Todo o nosso comportamento dependia destes reflexos:  [carece de fontes?]
+
+o comportamento humano resume-se às respostas a uma série progressiva de estímulos ou situações que se vão substituindo e complexificando, funcionando como sinais uns dos outros;  [carece de fontes?]
+não há distinção significativa entre comportamento animal e humano. [carece de fontes?]
+
+
+== Referências ==
+
+
+== Ligações externas ==
+Pavlov Institute of Physiology Acesso out. 2016
+«Perfil no sítio oficial do Nobel de Fisiologia ou Medicina de 1904» (em inglês) 
+«Institute of Experimental Medicine, St Petersburg» (em inglês) 
+Associação Brasileira de Psicoterapia e Medicina Comportamental

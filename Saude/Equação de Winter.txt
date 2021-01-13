@@ -1,0 +1,50 @@
+A equação de Winter é uma fórmula usada para avaliar a compensação respiratória que ocorre quando há um distúrbio metabólico ácido-básico. É calculada como:
+
+  
+    
+      
+        
+          P
+          
+            C
+            
+              O
+              
+                2
+              
+            
+          
+        
+        =
+        (
+        1.5
+        ×
+        H
+        C
+        
+          O
+          
+            3
+          
+          
+            −
+          
+        
+        )
+        +
+        8
+        ±
+        2
+      
+    
+    {\displaystyle P_{CO_{2}}=(1.5\times HCO_{3}^{-})+8\pm 2}
+  ,
+onde HCO3- é dado em mEq/L e PCO2 é dado em mmHg.
+A equação retorna um valor esperado para a PCO2 do paciente. Após, o valor real é comparado com o esperado, ocorrendo uma das seguintes situações:
+
+Os dois valores são semelhantes: Compensação respiratória adequada.
+A PCO2 real é maior que a esperada: acidose respiratória associada.
+A PCO2 real é menor que a esperada: alcalose respiratória associada.
+
+
+== Referências ==

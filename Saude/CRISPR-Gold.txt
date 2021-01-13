@@ -1,0 +1,9 @@
+CRISPR-Gold é um sistema de entrega da tecnologia CRISPR-Cas9 no interior das células. CRISPR-Gold é composto de nanopartículas de ouro de 15 nanômetros que são conjugadas com oligonucleotídeos modificados com tiol (DNA-Tiol), que são hibridizados com DNA doador de fita única e posteriormente complexados com Cas9 e encapsulados por um polímero que perturba o endossomo da célula.
+O CRISPR-Gold foi o primeiro exemplo de um veículo de entrega que pode fornecer todos os componentes CRISPR necessários para corrigir mutações genéticas, sem o uso de vírus. CRISPR-Gold pode vir a ajudar pessoas com distúrbios neurológicos a editar seus cérebros com precisão para aliviar os sintomas de seu distúrbio.
+
+
+== Uso potencial ==
+CRISPR-Gold pode colocar Cas9 com sucesso em uma variedade de células no cérebro. por exemplo, pesquisadores foram capazes de editar o gene para um receptor de neurotransmissores e reduzir o comportamento repetitivo característico da síndrome do X frágil. Como os comportamentos repetitivos exagerados são características comuns nos transtornos do espectro do autismo, a redução eficiente desses comportamentos em camundongos demonstra a potencial aplicação dessa técnica a outros tipos de autismo pelos quais a causa genética é conhecida.  Pesquisadores, em 2017, demonstraram que CRISPR-Gold poderia transportar Cas9 para células musculares e substituir um gene mutado por um gene normal para melhorar a força muscular em camundongos com distrofia muscular de Duchenne.
+
+
+== Referências ==

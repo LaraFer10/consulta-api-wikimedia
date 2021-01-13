@@ -1,0 +1,20 @@
+Zigosidade refere-se a condição genética de um zigoto. Em genética, a zigosidade descreve a similaridade ou dissimilaridade de ADN entre cromossomas homólogos em uma específica posição alélica ou gene.
+Os termos homozigoto, heterozigoto e hemizigoto são usados para simplificar a descrição do genótipo de um organismo diploide em um único locus genético. Em um gene ou em uma posição dada ao longo de um cromossoma (um locus), a sequência do ADN pode variar entre indivíduos na população. Os segmentos variáveis do ADN são referidos como alelos, e os organismos diplóides têm geralmente dois alelos em cada locus, um alelo para cada um dos dois cromossomos homólogos. Indicado simplesmente, homozigoto descreve dois alelos idênticos ou sequências do ADN em um locus, heterozigoto descreve dois alelos diferentes em um locus, e hemizigoto descreve a presença de somente uma única cópia do gene em um organismo de outra maneira diplóide.Zigosidade é também usada para descrever a condição genética do(s) zigoto(s) dos quais gêmeos emergem, onde se refere à similaridade ou dissimilaridade do ADN dos gêmeos. Gêmeos idênticos são monozigóticos - desenvolvem-se de um zigoto (um ovo fertilizado que desenvolve-se em dois embriões). Gêmeos fraternos são dizigóticos - desenvolvem-se separadamente de dois zigotos (dois ovos fertilizados).
+
+
+== Homozigoto ==
+
+Homozigoto   ou    homozigótico é um termo da genética para indicar que os alelos presentes em um locus genético são idênticos. Gene é uma fração de ácido deesoxirribonucleico (DNA) que está codificando um determinado peptídeo, como uma proteína.
+Um indivíduo é chamado de homozigoto, quando os alelos carregam duas cópias idênticas de um gene. Ou seja, os alelos são iguais e ele vai produzir apenas um tipo de gameta. Por exemplo, em ervilhas, a característica sementes verdes é recessiva, portanto, homozigota, pois possui o genótipo vv, e produzirá apenas gametas v. O mesmo ocorre para sementes amarelas homozigotas, VV, que produzirão gametas V.
+
+
+=== Exemplo ===
+Podemos exemplificar esta característica com uma proteína, a CYP2E1, com pouco mais de 500 resíduos de aminoácidos. Esta proteína apresenta diversos polimorfismos de nucleotídeo único (SNP) sendo um de interesse o da posição 76. A forma nativa desta proteína apresenta na posição 76 o aminoácido arginina, mas pode apresentar alguma variação, de modo que um grupo de pessoas apresenta nesta posição o aminoácido histidina. O gene é o mesmo, mas tem dois alelos diferentes. O indivíduo com este SNP terá metabolismo reduzido da clorzoxazona em relação a forma nativa.
+Se um indivíduo herda dos pais genes idênticos, ele é chamado de homozigoto. Neste caso, dois genes indicando arginina na posição 76 daquela proteína. Se herda o gene da mãe diferente do gene do pai, ele é chamado de heterozigoto. Neste caso, um gene indicando histidina e o outro arginina, na posição 76 da mesma proteína.
+
+
+== Ver também ==
+Gêmeos
+
+
+== Referências ==

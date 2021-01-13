@@ -1,0 +1,46 @@
+Reticulócitos são eritrócitos (ou hemácias) imaturos. Como as hemácias, os reticulócitos não apresentam núcleo e são chamados assim por causa da malha reticular de RNA ribossômico, que se torna visível à microscopia quando corada com azul de cresil brilhante.
+
+
+== Contagem de reticulócitos ==
+A contagem é feita em percentagem em relação às hemácias circulantes que ainda não estão no estado de reticulócito.
+
+
+=== Método automático ===
+Atualmente, para contar reticulócitos, são usados contadores automatizados usando laser com corante fluorescente que marca o RNA e DNA. Isso diferencia os reticulócitos das hemácias (que não contêm RNA nem DNA).
+
+
+=== Método manual ===
+Pode também ser usado o método de coloração pelo azul de cresil brilhante e fazer uma contagem, tirando-se uma porcentagem em relação às hemácias presentes no campo microscópico. Os reticulócitos são as hemácias com pontos em seu interior.
+
+
+== Interpretação ==
+Uma pessoa normal apresenta de 0,5 a 1,8% de reticulócitos circulantes. Porém, a interpretação é feita em valores absolutos, isto é, multiplica-se o valor obtido em percentagem na contagem de reticulócitos pelo número de hemácias total do paciente.
+Se uma pessoa tem anemia, a percentagem de reticulócitos será aumentada se a medula óssea tiver capacidade de produzir novas hemácias e se uma pessoa com anemia tiver uma percentagem normal, isto significa que a medula óssea não está produzindo novas hemácias a fim de corrigir esta anemia. Pode-se concluir que o reticulócito expressa a produção medular de novas hemácias.
+O termo reticulocitose refere-se ao aumento de reticulócitos no sangue.
+
+
+== Índice de produção de reticulócito ==
+O médico usa-o no diagnóstico da anemia para saber se a medula óssea está produzindo novas hemácias em resposta ao estado anémico.
+Se a produção de reticulócitos não aumenta em resposta à anemia, então esta deve ter uma causa aguda com tempo insuficiente para a compensação, ou então deve haver algum defeito na produção de hemácias pela medula óssea. Defeitos medulares incluem deficiências nutricionais (deficiência de ferro, folato, ou vitamina B12) ou eritropoietina insuficiente, o estímulo para produção de novas hemácias.
+A produção de reticulócitos deverá crescer entre 2 a 3 dias de uma hemorragia aguda, e atingir o pico entre 6 a 10 dias.
+Quando o paciente tem hematócrito abaixo do normal, a percentagem de reticulócito não é confiável, por estarem exauridas suas hemácias.
+O cálculo do Índice de Produção de Reticulócitos (IPR), em função da sua contagem e em situação normal, é dado por:
+IPR=
+
+Contagem Corrigida de Reticulócitos
+___________________________________
+  Tempo de maturação em dias
+
+Para se definir a contagem corrigida de reticulócitos, importante em pacientes anémicos, usa-se a fórmula a seguir:
+Contagem corrigida de reticulócitos =
+
+% de reticulócitos x HT do paciente
+___________________________________
+             HT normal*
+
+O hematócrito normal é 40% para mulher e 45% para homem
+
+
+== Referências ==
+Adamson JW, Longo DL. Anemia and polycythemia. in: Braunwald E, et al. Harrison's Principles of Internal Medicine. (15th Edition). McGraw Hill (New York), 2001.
+Hoffbrand AV, et al. Essential Haematology. (Fourth Edition) Blackwell Science (Oxford), 2001.

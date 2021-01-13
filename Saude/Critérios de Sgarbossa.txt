@@ -1,0 +1,25 @@
+Os critérios de Sgarbossa são um conjunto de achados eletrocardiográficos(ECG) usados para identificar infarto agudo do miocárdio(IAM), na presença de um bloqueio do ramo esquerdo (BRE) ou de um ritmo ventricular acelerado.
+
+
+== Validade ==
+Uma meta-análise de 10 estudos que consistem em 1614 pacientes mostraram que os critérios de Sgarbossa tinham uma especificidade de 98%, mas apenas sensibilidade de 20%. Ou seja, a presença dos critérios é muito eficiente para confirmar o diagnóstico de pacientes com infarto agudo do miocárdio, mas sua ausência não é suficiente para descartá-lo.
+
+
+== Critérios ==
+
+Três achados em um ECG mais específicos de infarto do miocárdio:
+
+Em D3: Elevação do segmento ST maior ou igual a 1 mm na mesma direção do complexo QRS (92% dos IAM)
+Em V1, V2 ou V3: Depressão do segmento ST ≥1 mm em V1, V2 ou V3 (96% dos IAM)
+Em qualquer precordial (V): Elevação do segmento ST maior ou igual a 5 mm em discordância complexo QRS negativo (86% dos IAM)
+
+
+== Complementares ==
+Os critérios mais sensíveis para verificar IAM no ECG foram:
+
+Alterações do ECG em série - sensibilidade de 67%
+Elevação do segmento ST - sensibilidade de 54%
+Ondas Q anormais - sensibilidade de 31%
+
+
+== Referências ==

@@ -1,0 +1,51 @@
+Intoxicação por antidepressivos tricíclicos refere-se à overdose causada por ingestão excessiva dos medicamentos do tipo antidepressivo tricíclico (ADT). Os sintomas podem incluir hipertemia, visão turva, pupilas dilatadas, sonolência, confusão, convulsões, taquicardia e parada cardíaca. Geralmente, os sintomas ocorrerem em até seis horas após a ingestão.A overdose por ADT pode ocorrer por acidente ou propositalmente. A dose tóxica depende do ADT utilizado. A maioria dos ADTs não é tóxica quando suas concentrações plasmáticas são menores de 5mg/kg, exceto para desipramina, nortriptilina e trimipramina, que geralmente não são tóxicas em concentrações plasmáticas de até 2,5mg/kg. Em crianças pequenas, um ou dois comprimidos podem ser fatais. Um eletrocardiograma (ECG) deve ser incluído na avaliação quando há preocupação de uma overdose. 
+Em caso de overdose, o carvão ativado é frequentemente recomendado. As pessoas não devem ser forçadas a vomitar. Naqueles que têm complexos QRS largos (> 100 ms), o bicarbonato de sódio é recomendado. Se ocorrerem convulsões, devem ser administrados benzodiazepínicos. Em pessoas com pressão arterial baixa, podem ser usados fluidos intravenosos e norepinefrina. O uso de emulsão lipídica intravenosa também pode ser tentado.No início dos anos 2000, os ADTs eram uma das causas mais comuns de intoxicação. Nos Estados Unidos, em 2004, ocorreram mais de 12.000 casos. No Reino Unido, eles resultaram em cerca de 270 mortes por ano. A primeira overdose por ADT foi relatada em 1959.
+
+
+== Sinais e sintomas ==
+O sistema nervoso autônomo periférico, o sistema nervoso central e o sistema cardiovascular são os principais sistemas afetados após a intoxicação. Os sintomas iniciais costumam ser leves e geralmente se desenvolvem em 2 horas após a ingestão. Os sintomas incluem taquicardia, sonolência, boca seca, náuseas e vômitos, retenção urinária, confusão, agitação e dor de cabeça. As complicações mais graves incluem hipotensão, distúrbios do ritmo cardíaco, alucinações e convulsões. As anormalidades do eletrocardiograma (ECG) são frequentes e uma ampla variedade de arritmias cardíacas pode ocorrer, sendo as mais comuns a taquicardia sinusal e o retardo da condução intraventricular, o que resulta no prolongamento do complexo QRS e dos intervalos PR/QT. Convulsões, arritmias cardíacas e apneia são as complicações mais severas. 
+
+
+== Causa ==
+Os tricíclicos possuem limiar de dose terapêutica estreito, ou seja, a dose terapêutica é próxima da dose tóxica. Os fatores que aumentam o risco de toxicidade incluem o avanço da idade, o estado cardíaco e o uso concomitante de outros medicamentos, principalmente os que são metabolizados pelos genes CYP2D6 e CYP2C19. Os níveis séricos do medicamento não são úteis para avaliar o risco de arritmia ou convulsão na ocorrência de uma overdose causada por tricíclicos.
+
+
+== Fisiopatologia ==
+A maioria dos efeitos tóxicos dos ADTs é causada por quatro efeitos farmacológicos principais. Os ADTs têm efeitos anticolinérgicos, causando o bloqueio da recaptação da noradrenalina na sinapse pré-ganglionar, possuem efeitos de bloqueio direto nos receptores alfa-adrenérgicos, bloqueiam os canais de sódio com desaceleração da despolarização da membrana, e possuem, portanto, efeitos semelhantes à quinidina no miocárdio.
+
+
+== Diagnóstico ==
+
+Um exame de sangue específico para verificar a toxicidade normalmente não está disponível. Um eletrocardiograma (ECG) deve ser incluído na avaliação quando há preocupação de uma overdose.
+
+
+== Tratamento ==
+Pessoas com sintomas são geralmente monitoradas em uma unidade de terapia intensiva por no mínimo 12 horas, com atenção especial à manutenção das vias aéreas, juntamente com a monitoração da pressão arterial, pH arterial e monitoração contínua de ECG. A terapia de suporte é administrada se necessário, incluindo assistência respiratória e manutenção da temperatura corporal. Quando uma pessoa obtém um ECG com resultados normais por mais de 24 horas, a toxicidade geralmente é descartada. 
+
+
+=== Descontaminação ===
+O tratamento inicial de uma overdose aguda inclui descontaminação gástrica. Isso é conseguido através da administração de carvão ativado, que adsorve a droga no trato gastrointestinal por via oral ou por meio de sonda nasogástrica. O carvão ativado é mais útil se administrado dentro de 1 a 2 horas após a ingestão. Outros métodos de descontaminação, como bombas estomacais, êmese induzida por ipeca ou irrigação intestinal inteira, geralmente não são recomendados na intoxicação por ADT. As bombas estomacais devem ser consideradas quando a ingestão ocorreu em até uma hora, mas são poucas as evidências quanto à eficiência desse método.
+
+
+=== Tratamento medicamentoso ===
+A administração intravenosa de bicarbonato de sódio como antídoto demonstrou ser um tratamento eficaz para resolver a acidose metabólica e as complicações cardiovasculares da intoxicação por ADT. Se a terapia com bicarbonato de sódio não melhorar os sintomas cardíacos, medicamentos antiarrítmicos convencionais ou magnésio podem ser usados para reverter possíveis anormalidades cardíacas. No entanto, nenhum benefício foi demonstrado com os medicamentos antiarrítmicos da classe 1, pois parece que eles reforçam o bloqueio dos canais de sódio, diminuindo a velocidade de condução e deprimindo a contratilidade, por isso devem ser evitados no tratamento de uma intoxicação por ADT. A pressão arterial baixa é inicialmente tratada com fluidos junto com bicarbonato para reverter a acidose metabólica (quando presente), se a pressão arterial permanecer baixa apesar dos fluidos, então outras medidas, como a administração de epinefrina, norepinefrina ou dopamina podem ser usadas para aumentar a pressão arterial. 
+Outro sintoma potencialmente grave são as convulsões: as convulsões geralmente desaparecem sem tratamento, mas a administração de um benzodiazepínico ou outro anticonvulsivante pode ser necessária para reduzir a hiperatividade muscular. Não há papel para a fisostigmina no tratamento da toxicidade tricíclica, pois esta pode aumentar a toxicidade cardíaca e causar convulsões. Em casos graves de overdose por ADT que são refratários à terapia convencional, foi relatado que a terapia de emulsão lipídica intravenosa melhora os sinais e sintomas em pacientes que sofrem de toxicidade grave envolvendo vários tipos de substâncias lipofílicas, portanto, os lipídios podem ter um papel no tratamento de casos graves e refratários de overdose por TCA.
+
+
+=== Diálise ===
+Os antidepressivos tricíclicos são altamente ligados às proteínas e têm um grande volume de distribuição ; portanto, a remoção desses compostos do sangue com hemodiálise, hemoperfusão ou outras técnicas provavelmente não terá nenhum benefício terapêutico significativo.
+
+
+== Epidemiologia ==
+Estudos na década de 1990 na Austrália e no Reino Unido mostraram que entre 8 e 12% das overdoses de medicamentos ocorreram após a ingestão de antidepressivos tricíclicos. Os ADTs podem estar envolvidos em até 33% de todas as intoxicações fatais, perdendo apenas para os opioides. Outro estudo relatou que 95% das mortes por antidepressivos na Inglaterra e no País de Gales entre 1993 e 1997 foram associadas a antidepressivos tricíclicos, particularmente  à dosulepina e amitriptilina. Determinou-se uma taxa de 5,3 mortes por 100.000 prescrições. Bloqueadores dos canais de sódio, como Dilantin, não devem ser usados no tratamento de sobredosagem de ADT, pois o bloqueio de dos canais de sódio prolonga o intervalo QT. 
+
+
+== Ver também ==
+Amitriptilina
+Imipramina
+Clomipramina
+Nortriptilina
+Benzocicloeptenos
+
+
+== Referências ==

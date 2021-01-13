@@ -1,0 +1,7 @@
+O DNA de cadeia tripla é uma estrutura de ADN na qual três oligonucleótidos se enrolam entre si para formar uma hélice tripla. Nesta estrutura, uma cadeia liga-se a uma dupla helice de ADN de forma B através de ligações de hidrogénio.
+Por exemplo, uma nucleobase T liga-se a um par de bases T-A através de ligações de hidrogénio entre um par AxT. Uma citosina protonada N-3, representada como N+, também pode formar um tripleto de bases com um par C-G através de ligações de hidrogénio de uma AxC+. Então, o ADN de hélice tripla usando estas ligações de hidrogénio consiste em duas homopirimidinas e uma homopurina, e a terceira cadeia de homopirimidina é paralela com a cadeia de homopurina.
+
+
+== Referências ==
+Rich, A. (1993). DNA comes in many forms. Gene 135:99-109
+Mills, M., Arimondo, P., Lacroix, L., Garestier, T., Hélène, C., Klump, H. & Mergny, J.L. (1999). Energetics of strand displacement reactions in triple helices: a spectroscopic study. J. Mol. Biol. Vol. 291: 1035-1054

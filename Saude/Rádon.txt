@@ -1,0 +1,28 @@
+O elemento rádon/radão/radónio (português europeu) ou radônio (português brasileiro) (do latim radonium - derivado do rádio) é um elemento químico com o símbolo Rn. Foi descoberto por Robert Bowie Owens  e Ernest Rutherford em 1899. Ao contrário dos outros descendentes do urânio, o rádon é gasoso e pertence à família dos gases nobres, libertando-se dos solos e rochas, materiais de construção e água, sendo que no seu processo natural de decaimento emite partículas alfa, beta e gama. A radioatividade emitida pelo radão a que uma pessoa está exposta, em Portugal, segundo o ITN, equivale em média a 56,7% da radiação ionizante que essa pessoa está sujeita.
+
+
+== Características principais ==
+É um elemento gasoso radioativo, enquadrado dentro dos chamados "gases nobres". Na forma gasosa, é incolor, inodoro e insípido; na forma sólida, tem cor avermelhada. Na tabela periódica, situa-se no grupo 18 (8A), com o número atômico 86 e símbolo Rn. A sua massa atômica é de 222, o que implica que tem por média 136 nêutrons. No estado neutro, possui o mesmo número de elétrons e de prótons, 86.
+
+
+== Aplicações ==
+O radônio tem sido aplicado como fonte de radiação em terapias contra o câncer, oferecendo algumas vantagens sobre o elemento rádio. Utiliza-se também como indicador radioativo para a detecção de fuga de gases, e também na medida da velocidade de escoamento de fluidos. Além disso, é utilizado em sismógrafos e como fonte de nêutrons. 
+
+
+== História ==
+Em 1899, Robert B. Owens  percebeu que a radioatividade dos compostos de tório expostos ao ar era reduzida. Rutherford estudou tal fenômeno e descobriu que o tório "emitia" um gás radioativo, que ficou então conhecido por "emanação do tório". Em 1900, F. E. Dorn verificou que o mesmo se passava com o rádio, e, em 1903, A. Debierne e F. O. Giesel reconheceram as mesmas "emanações" no actínio. Estas "emanações" foram posteriormente identificadas como radônio, um elemento químico à parte daqueles observados inicialmente.
+
+
+== Ocorrência e obtenção ==
+O átomo de radônio é altamente instável. Todos os seus isótopos têm meias-vidas curtas, com exceção de seu único isótopo naturalmente encontrado, o Rn-222, cuja meia-vida é de aproximadamente 4 dias. O radônio geralmente apresenta decaimento alfa, transformando-se em polônio, mas seu isótopo mais pesado também pode sofrer decaimento beta, transformando-se em frâncio. O radônio é formado do decaimento do rádio e, portanto, todos os minerais que contêm rádio têm também radônio.
+
+
+== Isótopos ==
+O radônio é produto da desintegração do rádio (elemento 88), elemento altamente radioativo, assim como do tório (elemento 90), de onde vem o nome de um dos seus isótopos, tóron, de meia-vida de 55 segundos e de massa atômica 220 u. O isótopo 219Rn chama-se actínion, é produto da desintegração do actínio e tem meia-vida de 4 segundos. Além desses, o radônio tem 22 isótopos artificiais, produzidos em reações nucleares por transmutação artificial em cíclotrons e aceleradores lineares. O isótopo mais estável é o 222Rn, também o mais abundante, com uma meia-vida de 3,8 dias e produto da desintegração do 226Ra. Ao emitir partículas alfa, converte-se num isótopo do elemento polônio. O isótopo pode ser retirado por destilação fracionada.
+
+
+== Precauções ==
+Quando existe uma concentração considerável de radônio no ambiente, o gás entra em contato com os pulmões por inalação. Essa incorporação supõe uma contaminação radioativa.
+As partículas alfa emitidas pelo radônio são altamente ionizantes, mas têm pouco poder de penetração -- tão pouco que não são capazes de atravessar a nossa pele ou uma simples máscara. No entanto, ao inalar o gás, esse escasso poder de penetração converte-se num problema, já que as partículas não conseguem escapar de nosso corpo e depositam nele toda a sua energia, podendo ocasionar lesões ou patologias de gravidade diversa, de acordo com a quantidade de radônio inalado.
+O radônio é a segunda maior causa de morte de câncer de pulmão nos Estados Unidos, atrás apenas do cigarro. É provado por estudos da EPA (Environmental Protection Agency dos EUA) que em torno de 21 mil pessoas morrem por ano por causa desse elemento químico, 2 900 das quais não fumadoras.Dois estudos abrangentes, um Norte-Americano e outro Europeu, combinaram dados de vários estudos residenciais prévios, concluíram que à medida que aumenta a concentração radão que uma pessoa é exposta, ao longo do tempo, aumenta o risco de contrair cancro do pulmão. O estudo Norte-Americano estimou que a probabilidade de contrair cancro do pulmão aumenta, em média, 11% por cada 100 Bq/m3 adicional e o estudo europeu estimou que a probabilidade de contrair cancro do pulmão aumenta, em média, 16% por cada 100 Bq/m3 adicional.Como é um gás incolor e inodoro, é impossível de detectar a olho nu, sendo necessário recorrer a dispositivos chamados de medidores de radão, para determinar a concentração média num espaço ou edifício.
+É possível minimizar a quantidade de radão que entra num edifício, através da instalação de um sistema de ventilação adequado, chamado de sistema de mitigação de radão, recorrendo a empresas especializadas na mitigação do gás radão. A EPA (Environmental Protection Agency dos EUA) recomenda recorrer-se à mitigação de radão quando a concentração média de radão excede 148 Bq/m3 (4pCi/l) "A Citizen's Guide to Radon".Em Portugal, a legislação recomenda a concentração máxima de 400 Bq/m3, no interior dos edifícios, sendo a medição obrigatória em edifícios construídos nos distritos de maior risco: Braga, Porto, Vila Real, Viseu, Guarda e Castelo Branco.

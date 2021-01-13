@@ -1,0 +1,51 @@
+A síntese das proteínas é o processo por meio do qual as células biológicas geram novas proteínas; é um fenómeno rápido e muito complexo que ocorre em quase todos os organismos, e  que se desenvolve no interior das células. Este processo tem três fases: transcrição, Ativação e a tradução.
+
+
+== Transcrição ==
+Ocorre no interior do núcleo das células e consiste na síntese de uma molécula de RNA m (RNA Mensageiro) a partir da leitura da informação contida no gene de uma molécula de DNA. Este processo inicia-se pela ligação de um complexo enzimático à molécula de DNA, o RNA-polimerase. A enzima helicase desfaz a dupla hélice, destruindo as ligações de hidrogênio que ligam as bases complementares das duas cadeias, afastando-as. O RNA-polimerase, inicia a síntese de uma molécula de RNA m de acordo com a complementaridade das bases nitrogenadas. Nesse processo, as bases pareiam-se: a adenina do DNA se liga à uracila do RNA m, a timina do DNA com a adenina do RNA m, a citosina do DNA com a guanina do RNA m, e assim sucessivamente, havendo a intervenção da enzima RNA-polimerase. Quando a leitura termina, a molécula RNA m separa-se da cadeia do DNA, esta restabelece as ligações de hidrogênio e a dupla hélice é reconstituída. 
+Nem todas as sequências da molécula do DNA codificam aminoácidos. O RNA sintetizado sofre um processamento ou maturação antes de abandonar o núcleo. Algumas porções do RNA transcrito, "íntrons", vão ser removidas e as porções não removidas, "éxons", ligam-se entre si, formando assim um mRNA maturado. O RNA que sofre este processo de exclusão de porções é designado do RNA pré-mensageiro. No final do processo, o mRNA é constituído apenas pelas sequências que codificam os aminoácidos de uma proteína, podendo assim migrar para o citoplasma, onde vai ocorrer a tradução da mensagem, isto é, a síntese de proteínas.
+
+
+== Ativação de aminoácidos ==
+Nessa etapa, atua o RNA transportador (RNAt), que leva os aminoácidos dispersos no citoplasma até os ribossomos. Numa das regiões do RNAt está o anticódon, uma sequência de 3 bases complementares ao códon de RNAm. A ativação dos aminoácidos é dada por enzimas específicas que se unem ao RNA transportador, formando o complexo aa-RNAt, dando origem ao anticódon (um trio de bases nitrogenadas complementar a um códon do RNAm). Para que esse processo aconteça é preciso haver energia, que é sim fornecida pelo ATP.
+
+
+== Tradução ==
+Ocorre no citoplasma e é a segunda parte da síntese proteica. Nessa fase a mensagem contida no RNAm é decodificada no ribossomo. 
+Participa do processo.
+
+mRNA ou RNA mensageiro, que vem do interior do núcleo;
+Os ribossomos;
+O RNAt ou RNA ribossomal (ou ainda RNA transportador);
+Enzimas (responsáveis pelo controle das reações de síntese);
+E o ATP, é o que fornece energia necessária para o processoNas moléculas de RNAt apresentam-se cadeias de 75 a 80 ribonucleotídeos que funcionam como intérpretes da linguagem do mRNA e da linguagem das proteínas.
+
+
+=== Toda molécula de mRNA possui ===
+um Códon de iniciaçao, que é sempre o mesmo (AUG), correspondente ao aminoácido metionina;
+vários códons que determinam a sequência dos aminoácidos no polipeptídeo;
+um códon de terminaçao, que marca o final daquela cadeia polipeptídica, podendo ser UAG, UAA, ou UGA; só há um deles na molécula de mRNA.O processo da tradução encerra com três etapas: iniciação, alongamento e finalização.
+
+
+=== Iniciação ===
+A subunidade menor do ribossoma liga-se à extremidade 5' do mRNA, esta, desliza ao longo da molécula do mRNA até encontrar o codão de iniciação (AUG), transportando o tRNA ligado a um aminoácido, ligando-se ao códon de iniciação por complementaridade. A subunidade maior liga-se à subunidade menor do ribossoma. O processo de tradução começa pelo aminoácido de metionina AUG.
+
+
+=== Alongamento ===
+Um 2º tRNA transporta um aminoácido específico de acordo com o códon . Estabelece-se uma ligação peptídica entre o aminoácido recém-chegado e a metionina. O ribossoma avança três bases ao longo do mRNA no sentido 5' -> 3'. Este passo é mediado pelo fator de elongação EF-G. Assim, há a liberação do RNAt presente no sítio P e que não se encontra mais carregado. Posteriormente, há a transferência do RNAt contendo a cadeia polipeptídica em formação do sítio A para o P.
+
+
+=== Finalização ===
+O ribossomo encontra o códão de finalização - UAA, UAG ou UGA terminando assim o alongamento. Quando último tRNA abandona o ribossoma, as subunidades do ribossoma separam-se, podendo ser recicladas e por fim, a proteína é libertada.
+
+
+== Referências ==
+
+
+== Ver também ==
+Síntese de peptídeos
+
+
+== Ligações externas ==
+E-escola
+Biologia - Sônia Lopes (Editora Saraiva)

@@ -1,0 +1,25 @@
+Distância genética é uma medida da diferença de material genético entre diferentes espécies ou indivíduos da mesma espécie ou não.
+Toda a vida se baseia na molécula de herança genética, o DNA (ácido desoxirribonucleico, cuja sigla provém do nome em inglês). Cada molécula de DNA codifica uma cadeia de genes caracterizante em cada espécie e a cada indivíduo. 
+Ao comparar o percentual da diferença entre genes ou sequências de DNA de função desconhecida de diferentes espécies, um valor pode ser obtido, que é a medida da distância genética. Dependendo da diferença, e para corrigir este conhecido taxas de evolução, a distância genética pode ser usada como uma ferramenta para construir cladogramas mostrando a árvore genealógica de todos os seres vivos.
+Existem vários métodos para definir a distância genética. Uma distância genética é medida pela fórmula:
+D = -log (Ig)
+A quantidade Ig é chamado de "identidade genética" ou "similaridade genética", e definido como:
+Ig = I ÷ # loci
+Onde
+I = (Pix . Piy) : ( Pix²Piy²)½ 
+Pix é a proporção do alelo I na população X, Piy é a proporção do alelo I na população Y.
+
+
+== Exemplos ==
+O fato de que a distância genética entre chimpanzés e humanos é de cerca de 5% (significando que as espécies compartilham 95% de material genético), sugere que as espécies tiveram um ancestral comum há cerca de 5 milhões de anos, e que chimpanzés estão mais relacionados a humanos do que gorilas e orangotangos, os quais possuem maiores distâncias genéticas.
+
+
+== Ver Também ==
+cladística
+
+
+== Referências ==
+A review of mutation processes and methods of phylogenetic inference, David B. Goldstein, David D. Pollock (em inglés)
+Sitio de la Universidad de Stanford sobre Distancia genética (em inglés)
+The Estimation of Genetic Distance and Population Substructure from Microsatellite allele frequency data., Brent W. Murray (Maio de 1996) (em inglés)
+Modelo de distância genética gerado por computador, Departmento de Ecología e Biología Evolutiva da Universidade do Arizona (em inglés)

@@ -1,0 +1,8 @@
+A prostaglandina H2 sintase, também conhecida como cicloxigenase (COX), é uma glicoproteína dimérica integral da membrana, encontrada predominantemente no retículo endoplasmático. Atua como efetor secundário na via metabólica da cascata do ácido araquidônico.
+Nas células dos mamíferos existe em pelo menos duas isoformas: COX-1 e COX-2 e acredita-se existir a COX-3. Estas consistem num longo canal estreito, muito hidrofóbico com um hairpin (estrutura em forma de grampo) no final e têm uma massa molecular de 71 kDa. Também possuem um local activo semelhante para o seu substrato natural...
+Contudo, a COX-1 e a COX-2 são duas proteínas estruturalmente distintas, apresentando uma homologia de 60% na sequência de aminoácidos do seu DNA complementar.
+
+COX-1: constitutiva (funções fisiológicas)
+COX-2: induzida (após certos estímulos)
+COX-3: presente no SNCEsta enzima é responsável pela formação de importantes mediadores biológicos chamados prostanóides (incluindo prostaglandinas, prostaciclina e tromboxano). A inibição farmacológica da COX pode causar alívio aos sintomas da inflamação e da dor.
+Este é o mecanismo de ação de diversas drogas conhecidas (Anti-inflamatórios não esteróides --> AINE's) como a aspirina e o ibuprofeno.

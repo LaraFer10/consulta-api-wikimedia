@@ -1,0 +1,36 @@
+Em embriologia, a crista gonadal (ou crista genital) é a região precursora das gônadas. Inicialmente, a crista gonadal consiste fundamentalmente em mesênquima e células de origem mesonéfrica. Pode se diferenciar em ovário ou testículo, dependendo essencialmente do genótipo sexual do indivíduo (Tanaka 2014).
+Em humanos, as cristas gonadais se formam do espessamento da epiderme na superfície ventral do mesonéfro durante a quarta semana pós-fertilização. Esse processo se dá por, dentre outros, muitos fatores de transcrição da família homeobox, como: LHX1 (Shawlot 1995) e LHX9 (Birk 2000). Essas cristas são compostas de linhagens de células somáticas e células germinativas, essas duas se formando em locais e momentos embrionários diferentes durante a ontogenia do embrião (Tanaka 2014). Durante os primeiros dias embrionários, essas cristas indiferenciadas ja desenvolvem dutos sexuais, até que durante a diferenciação sexual um dos dutos é degenerado, conforme o sexo cromossômico do indivíduo (Rey 2000-).
+
+
+== Colonização das CGPs e Diferenciação Sexual em Mamíferos ==
+
+Após passar pelo trato gastro-intestinal, por volta do dia 10 de desenvolvimento do embrião, as células germinativas primordiais (CGPs) chegam as cristas gonadais por meio do mesentério. Ao chegarem nas cristas, essas CGPs passam pelo processo de licenciamento, permitindo sua especialização sexual e que realizem meiose. Esse processo de licenciamento se dá por meio do gene Gata4, expressado pelas células somáticas das cristas gonadais (Hu 2015). Após essas células colonizarem a crista, o processo de diferenciação da mesma se inicia. Esse processo de diferenciação, e a consequente determinação da gônada, é determinado pela especificação das células somáticas da crista em células de Sertoli (em indivíduos XY), ou células da Granulosa (em indivíduos XX) (Tanaka 2014).
+
+Além dessa diferenciação celular, a determinação da crista também desencadeia outras mudanças características da determinação sexual secundária, assim dando origem a uma série de carácteres sexuais secundários. Dentre essas, temos a determinação do duto sexual correspondente ao sexo cromossômico: Müllerianos em indivíduos XX, e Wolffianos em indivíduos XY, enquanto ocorre a degeneração do não correspondente . Ao decorrer da ontogenia do embrião, esse duto remanescente então irá se diferenciar em vasos deferentes, epidídimo e vesícula seminal em indivíduos XY; e oviduto, cérvix e porções da vagina em indivíduos XX (Rey 2000-).
+
+
+== Genes importantes para a diferenciação das Cristas Genitais ==
+Muitos genes estão associados com a diferenciação sexual da crista, não só em mamíferos como em outros vertebrados. Dentre esses destacamos: SRY, SOX9, DMRT, WNT-4 e DAX1.
+
+
+=== SRY ===
+O gene SRY em mamíferos é ligado ao cromossomo Y, que quando presente determina a diferenciação das cristas em testículos, a medida em que promove a regulação (ativação ou silenciamento), de outros genes. Uma das funções desse gene é a de iniciar a diferenciação das células de Sertoli (Tanaka 2014). No embrião de roedores, esse gene produz transcritos lineares poliadenilados, ao contrário dos expressos pelo mesmo em indivíduos adultos (Jeske 1995). Hoje em dia, sabe-se que a expressão de SRY é breve em roedores e outros mamíferos, já que sua ação principal é a de promover a ativação do gene SOX9 (Rey 2000-; Tanaka 2014). 
+
+
+=== SOX9 ===
+É um gene que traduz para o fator de transcrição SOX9. Durante o desenvolvimento embrionário, sua expressão se inicia por meio da atividade do gene SRY, porém após o término dessa, SOX9 deve regular sua própria expressão de forma a garantir o desenvolvimento dos testículos em indivíduos XY (Rey 2000-). Em modelos transgênicos de camundongos XX que expressem SOX9, a super-expressão desse gene é capaz de determinar a diferenciação de testículos durante a embriogênese (Vidal 2001).
+
+
+=== DMRT1 ===
+Expressado nas células de Sertoli de mamíferos de forma a auxiliar no desenvolvimento do fenótipo sexual XY. Além disso, DMRT1 e SRY são os únicos genes regulatórios expressos nas cristas genitais de mamíferos antes do processo de diferenciação sexual (Raymond 1999).
+
+
+=== WNT-4 ===
+Uma vez que SRY não esteja presente, genes que já eram expressados nas gônadas não diferenciadas, como WNT-4, não são silenciados e então determinam a diferenciação das gônadas do genótipo XX: as células da granulosa, e mais tardiamente o trato genital feminino (Rey 2000-). WNT-4 traduz para um hormônio parácrino de mesmo nome, que estabelece uma alça de retro alimentação positiva com β-catenina citoplasmática. O aumento das concentrações de WNT-4 e β-catenina neutraliza e inibe os efeitos de SOX9 (Kim 2006).
+
+
+=== RSPO-1 ===
+Como WNT-4, RSPO-1 é um gene expressado nas gônadas indiferenciadas que, na ausência de SRY, promove a diferenciação da genitália XX. RSPO-1 estimula a expressão de WNT-4 e contribui para o aumento de β-catenina e folistatina (Rey 2000-). Síndromes recessivas em humanos podem interromper as ações desse gene, assim causando a completa reversão sexual em indivíduos XX, produzindo o fenótipo XY, mesmo na ausência de SRY (Parma 2006).
+
+
+== Referências ==

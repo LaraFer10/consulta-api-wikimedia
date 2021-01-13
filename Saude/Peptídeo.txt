@@ -1,0 +1,28 @@
+Os peptídios, peptídeos ou péptidos são biomoléculas formadas pela ligação de dois ou mais aminoácidos atrávés de ligações peptídicas, estabelecidas entre um grupo amina de um aminoácido, e um grupo carboxilo do outro aminoácido. Os peptídios são resultantes do processamento de proteínas e podem possuir na sua constituição 2 ou mais aminoácidos.
+São divididos em: 
+
+2 aminoácidos: Dipeptídeo
+3 aminoácidos: Tripeptídeo
+4 ou mais aminoácidos: Polipeptídeo
+
+
+== Classificação estrutural ==
+estrutura primária - somente uma cadeia linear com ligações peptídicas;
+estrutura secundária - existência de ligações por pontes de hidrogénio, que permitem que a proteína tenha uma estrutura α-hélice (com uma cadeia polipeptídica que se enrola sobre si mesma), ou uma estrutura β-pregueada (com duas cadeias polipeptídicas);
+estrutura terciária - formas obtidas a partir das estruturas secundárias; existência de ligações dissulfito ou dissulfureto (2 átomos de enxofre)
+estrutura quaternária - interações químicas existentes entre unidades terciárias.
+
+
+== Os peptídios podem ser diferenciados entre si pelo comportamento de ionização ==
+Nos peptídios está contido um grupo α- amino livre e um grupo α-carboxila livre. Ambos os grupos se ionizam de maneira igual que o fazem nos aminoácidos livres, contudo, os valores numéricos são diferentes nas constantes de ionização, o que é em virtude da ausência, no carbono α, do grupo de carga oposta. Todos aminoácidos constituintes apresentam os grupos α- amino e α-carboxila ligados covalentemente entre si, tornando parte das ligações peptídicas, a qual não se ioniza e, desta forma, não colabora para o comportamento acidobásico global dos peptídios. Porém os grupos R de determinados aminoácidos podem se ionizar contribuindo para as propriedades acidobásicas globais dos peptídios que os contenham. Desta forma, os grupos α- amino livre, α-carboxila livre e a natureza de inúmeros grupos R ionizáveis prevêem  o comportamento acidobásico de um peptídio. Os peptídios têm curvas de titulação características e pH isoelétrico característico, assim como os aminoácidos livres, no qual eles não se moverão quando submetidos a um campo elétrico. Em algumas técnicas utilizadas para separar peptídios e proteínas entre si, essas propriedades são exploradas.
+
+
+== Peptídios e reações químicas ==
+Os peptídios participam de reações químicas características. Para liberar os aminoácidos unidos, as ligações peptídicas podem ser hidrolisadas por aquecimento tanto com ácido forte quanto com base forte. Na determinação da composição em aminoácidos da proteína, a hidrólise das ligações peptídicas é um passo necessário. Determinadas enzimas denominadas proteases, que são enzimas proteolíticas, ou seja, clivam as ligações peptídicas das proteínas, podem hidrolisar as ligações peptídicas. Essas enzimas possuem a função de degradar proteínas que se tornaram desnecessárias ou danificadas e também auxiliam na digestão de alimentos protéicos, podendo ser encontradas em todas as células e tecidos.
+
+
+== Atividade biológica dos polipeptídios pequenos ==
+Alguns polipeptídios pequenos possuem atividade biológica. Existem muitos oligopeptídios e polipeptídios pequenos que acontecem de forma natural, exercendo seus efeitos  em concentrações bastante pequenas, mas com atividades biológicas importantes. Peptídios biologicamente importantes possuem poucos resíduos de aminoácidos. Hormônios como a ocitocina, a bradicinina são exemplos de peptídios pequenos de ocorrência natural. As encefalinas, peptídios pequenos, representam os mecanismos do nosso próprio corpo para controle da sensação dolorosa. Determinados venenos de fungos extremamente tóxicos, como a amanitina, e muitos antibióticos são peptídios. Pequenos peptídios são muito difíceis de purificar por estarem em quantidades extremamente pequenas nos organismos que os sintetizam, porém são bastante importantes como reagentes farmacêuticos.
+
+
+== Referências ==

@@ -1,0 +1,31 @@
+
+== Hemostasia ==
+Definição:
+Conjunto de eventos mecânicos e bioquímicos pelo qual o organismo faz com que sangue permaneça circulando nos vasos no estado líquido. Quando o vaso é lesado, forma um coágulo para coibir a hemorragia por um processo sincrônico e sequencial envolvendo os vasos sanguíneos, plaquetas (trombócitos), fatores de coagulação e fatores fibrinolíticos.
+Fisiologicamente o endotélio dos vasos sanguíneos inibe a aderência das plaquetas e dos leucócitos evitando assim a formação de trombos. Já, quando existe uma lesão vascular ocorre exposição do colágeno do vaso lesado que faz com que os mecanismos hemostáticos entrem em ação para coibir uma hemorragia, mediante redução do fluxo sanguíneo, favorecendo as ações das plaquetas assim como ativando os fatores da coagulação.
+O processo de hemostasia que é ativado por uma lesão vascular está constituído por fases sucessivas, agrupadas em três fases maiores, inter-relacionadas entre si: hemostasia primária, hemostasia secundária e hemostasia terciária.
+- Hemostasia primária:
+Consiste na ação conjunta dos vasos sanguíneos e das plaquetas.
+1.    Espasmo muscular: Imediatamente após a lesão vascular, o traumatismo da própria parede do vaso provoca a contração do vaso (Guyton & Hall, 2002). A vasoconstrição resultante da lesão de um vaso sanguíneo permite o controle imediato da hemorragia (Bozzini, 2004). 
+Ou seja, a partir da ruptura de um vaso sanguíneo, a musculatura lisa dos vasos sanguíneos é estimulada a vasoconstrição, através de substâncias vasoconstritoras, de espasmos da atividade reflexa muscular e de reflexos nervosos ativados por nociceptores, o que diminui o diâmetro do vaso, o fluxo sanguíneo local e consequentemente a permeabilidade vascular. 
+2.    Formação do tampão plaquetário: As plaquetas, que em determinadas situações fisiológicas tem como função manter a integridade do endotélio vascular, quando os vasos sofrem dano, ativam-se e agregam-se no local da lesão, formando um tampão plaquetário com o intuito de minimizar a hemorragia inicial (Guyton & Hall, 2002). 
+A adesão e a agregação plaquetária são eventos que podem ocorrer simultaneamente ou separados dependendo do estímulo. No entanto, para que ocorra a adesão e a agregação plaquetária e a consequente formação do tampão plaquetário inicial é necessária a presença do Fator de von Willebrand (FvW), pois a adesão das plaquetas ao endotélio do vaso é realizada através dos seus receptores de superfície para o colágeno e para o FvW. O FvW se une ao colágeno endotelial na superfície, liberando aminas vasoativas que promovem a vasoconstrição local com liberação de ADP. A agregação plaquetária é produzida em resposta a essa liberação de ADP na presença de íons cálcio, formando o tampão plaquetário e finalizando a primeira fase da hemostasia. Além disso, devido ao fato de as plaquetas produzirem fator plaquetário 3 e armazenarem outros fatores da coagulação, elas também estimulam a hemostasia secundária, pois a hemostasia secundária é dependente dos fatores da coagulação que atuam em uma série de reações sequenciais denominada como cascata da coagulação, resultando na formação de um coágulo de fibrina estável.
+- Hemostasia secundária:
+Transformação do tampão plaquetário temporário em uma massa gelatinosa através de uma mutação das plaquetas. Ocorre pela polimerização de actina e de miosina, formando microfilamentos definitivos nas plaquetas e, além disso, pela geração de fibrina (Banks, 1991). Para a transformação em um tampão hemostático ocorre ainda a conversão do fibrinogênio em um polímero insolúvel e a da fibrina em uma rede de fibras elásticas (Bozzini, 2004).
+3.    Coagulação: processo fisiológico que modifica o sangue do estado líquido para o estado sólido. O processo de coagulação possui uma cascata com passos sequenciais envolvendo três vias que finalizam com a formação do tampão de fibrina polimerizada. 
+Os fatores da coagulação correspondem ao fibrinogênio (fator plaquetário 1), a protrombina (fator plaquetário 2), ao cálcio e há uma série de outros fatores de natureza enzimática.
+4.    Crescimento do Tecido Fibroso: A cascata da coagulação é dividida tradicionalmente em via intrínseca, que é ativada pelo contato do sangue com o colágeno subendotelial da parede vascular traumatizada (Bozzini, 2004). Já a via extrínseca é iniciada pela lesão vascular ou pelo contato com o tecido extravascular expondo sangue a tromboplastina tecidual (Banks, 1991). A ativação de ambas as vias através da série de fatores enzimáticos, em presença de fosfolipídios plaquetários e cálcio, inicia a via comum. Nesta via a protrombina será convertida em trombina, que converterá o fibrinogênio em fibrina, culminando na formação da malha de fibrina que constitui o coágulo sanguíneo. Resultando na estabilização da fibrina polimerizada com o endotélio lesionado e com o tampão plaquetário.
+- Hemostasia terciária: 
+5.    Fibrinólise: processo pelo qual a fibrina é degradada enzimaticamente, eliminando o coágulo formado na hemostasia secundária, com a formação dos produtos de degradação da fibrina. 
+A fibrinólise considera três etapas, a primeira é a formação dos ativadores do plasminogênio, a segunda é a transformação do plasminogênio em plasmina e a terceira é a fibrinólise propriamente dita, ou seja, a quebra da fibrina pela ação da plasmina, com formação dos Produtos da Degradação da Fibrina (PDFs), pequenos fragmentos liberados do coágulo na circulação, que são eliminados por macrófagos. Na hemostasia terciária também ocorre a reparação da lesão do vaso sanguíneo. 
+É importante lembrar que apesar da fibrinólise ser parte da hemostasia terciária, ela se ativa simultaneamente com a hemostasia secundária, mantendo um equilíbrio entre a coagulação e a degradação do coágulo, enquanto a plasmina vai atuar localmente degradando o coágulo de fibrina, formando o produto final da hemostasia terciária, a formação dos PDFs.
+
+
+== Referências ==
+Banks W.J. 1991. Histologia Veterinária Aplicada, 2 ed. Manole, São Paulo.
+Bozzini C.E. & Molinas F. 2004. Hemostasia. In: Houssay A.B., Cirgolani H.E. Fisiologia Humana de Houssay, 7 ed. Artmed, Porto Alegre.
+Guyton A.C. & Hall J.E. 2002.Tratado de Fisiologia Médica, 10ed. Guanabara Koogan, Rio de Janeiro.
+
+
+== Ver também ==
+Coagulação sanguínea

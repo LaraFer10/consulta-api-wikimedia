@@ -1,0 +1,21 @@
+No código genético, um codão de terminação (português europeu) ou códon de terminação (português brasileiro)) (em inglês, stop codon) é uma tripla de nucleótidos dentro do ARN mensageiro que sinaliza a terminação da tradução.Proteínas são baseadas em polipeptídeos, que são sequências únicas de aminoácidos. A maioria dos codões no ARN mensageiro correspondem à adição de um aminoácido em uma cadeia polipeptídica crescente, que pode vir a tornar-se uma proteína. Codões de parada sinalizam o término deste processo através da ligação de fatores de liberação, que fazem com que as subunidades ribossomais dissociem-se, liberando a cadeia de aminoácidos.No código genético padrão, existem diversos codões de parada:
+
+No RNA
+UAG ("âmbar")
+UAA ("ocre")
+UGA ("opala")
+no DNA:
+TAG ("âmbar")
+TAA ("ocre")
+TGA ("opala")O codão UGA foi recentemente identificado como o codão de codificação para Selenocisteína (Sec). Este aminoácido é encontrado em 25 selenoproteínas onde ele está localizado no sítio ativo da proteína. A transcrição deste codão é habilitada pela proximidade do elemento SECIS. O codão UAG pode se traduzir em pirrolisina em uma maneira similar a qual a selenocisteína é codificada.
+Mutações sem sentido são mudanças na seqüência de ADN que introduzem um codão de parada prematuro, fazendo com que qualquer proteína resultante seja anormalmente encurtada. Isso muitas vezes causa uma perda de função da proteína, uma vez que partes críticas da cadeia de aminoácidos não são mais criadas. Devido a esta terminologia, codões de parada são também referidos como codões sem sentido.
+
+
+== Nomenclatura âmbar, ocre e opala ==
+Foram dados historicamente aos codões de parada muitos nomes diferentes, uma vez que cada um deles correspondia a uma classe distinta de mutantes que se comportavam todos de maneira similar. Esses mutantes foram isolados pela primeira vez dentro dos bacteriófagos (T4 e lambda), vírus que infectam as bactérias Escherichia coli. Mutações nos genes virais enfraqueceram sua capacidade infecciosa, às vezes criando vírus que eram capazes de infectar e crescer dentro de apenas algumas variedades de E coli.
+Ver também
+
+Código genético
+
+
+== Referências ==

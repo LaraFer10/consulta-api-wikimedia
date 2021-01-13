@@ -1,0 +1,38 @@
+A Leucose Enzoótica Bovina (LEB) é uma doença infecciosa causada por um vírus (Família Retroviridae, gênero Deltaretrovírus) envelopado de genoma formado por uma única fita de ácido ribonucléico (RNA).Bovine leukemia virus (BLV) is a retrovirus closely related to the human T-lymphotropic virus type 1 HTLV-I. The natural host of BLV is cattle. BLV integrates into the genomic DNA of B-lymphocytes as a DNA intermediate (the provirus). Besides structural and enzymatic genes required for virion production, BLV contains an oncogene coding for a protein called Tax and expresses microRNAs of unknown function. In its natural host (the cattle) leukemia is rare (about 5% of infected animals) but lymphoproliferation is rather frequent (30%). Because the oncogenic properties of the virus were discovered early, a search for evidence of pathogenicity humans started soon after discovery. Mostly farm workers drinking raw milk were tested for disease, especially for leukemia. But neither leukemia nor other signs of infection could be detected. BLV infection can be detected by ELISA or PCR. 
+
+
+== History ==
+High prevalence of virus was found from testing by USDA. "As part of the 2007 dairy study, bulk tank milk was collected from 534 operations with 30 or more dairy cows and tested with an Enzyme Linked-Immunosorbent Assay (ELISA) for the presence of antibodies against BLV. Results showed that 83.9 percent of U.S. dairy operations were positive for BLV (table 1)."In Europe attempts were made to eradicate the virus by culling infected animals. The first country considered to be free of infection was Denmark. Soon the United Kingdom followed. Like the North American states, those of the Eastern block in Europe did not try to get rid of the virus. But the Eastern Europe states started to become leukosis free after the political changes at the end of the last century. A quote from a USDA fact sheet, "The high individual animal prevalence of BLV reported in the Dairy 1996 study suggests that testing and culling seropositive animals may not be a cost effective method to control the disease. Instead, preventing disease transmission by implementing preventive practices would likely be more cost-effective."Natural infection of animals other than cattle and buffalo are rare, although many animals are susceptible to artificial infection. After artificial infection of sheep most animals succumb to leukemia. Rabbits get a fatal AIDS like disease similar to rabbit-snuffles, different from the benign human snuffles. But it is not known whether this naturally occurring rabbit disease is linked to BLV infection. "Although several species can be infected by inoculation of the virus, natural infection occurs only in cattle (Bos taurus and Bos indicus), water buffaloes, and capybaras. Sheep are very susceptible to experimental inoculation and develop tumours more often and at a younger age than cattle. A persistent antibody response can also be detected after experimental infection in deer, rabbits, rats, guinea-pigs, cats, dogs, sheep, rhesus monkeys, chimpanzees, antelopes, pigs, goats and buffaloes."Some long term studies may be necessary, as there appears to be a correlation in instances of cancer among butchers and slaughterhouse workers.  "Several studies have been carried out in an attempt to determine whether BLV causes disease in humans, especially through the consumption of milk from infected cows. There is, however, no conclusive evidence of transmission, and it is now generally thought that BLV is not a hazard to humans."
+
+
+== Research ==
+Because of the close relationship between BLV and HTLV-I the research on BLV is important. One can use the experience with BLV for understanding HTLV-I induced diseases like ATL the adult T-cell leukemia and HMS/TSP like neurological disorders.
+
+
+== Transmission ==
+Many potential routes of BLV transmission exist.  Transmission through procedures that transmit blood between animals such as gouge dehorning, vaccination and ear tagging with instruments or needles that are not changed or disinfected between animals is a significant means of BLV spread.  Rectal palpation with common sleeves poses a risk that is increased by inexperience and increased frequency of palpation.  Transmission via colostrum, milk, and in utero exposure is generally considered to account for a relatively small proportion of infections.  Embryo transfer and artificial insemination also account for a small number of new infections as long as common equipment and/or palpation sleeves are not used.  While transmission has been documented via blood feeding insects, the significance of this risk is unclear.  The bottom line appears to be that transmission relies primarily on the transfer of infected lymphocytes from one animal to the next and that BLV positive animals with lymphocytosis are more likely to provide a source for infection.
+In general BLV causes only a benign mononucleosis-like disease in cattle. Only some animals later develop a B-cell leukemia called enzootic bovine leukosis. Under natural conditions the disease is transmitted mainly by milk to the calf. Infected lymphocytes transmit the disease too. So for artificial infection infected cells are used or the more stable and even heat resistant DNA. Virus particles are difficult to detect and not used for transmission of infection. It is possible that a natural virus reservoir exists in the water buffalo.
+
+
+== Clinical signs of bovine leukosis and diagnosis ==
+
+The variety of organs where white blood cells are to be found explains the many symptoms observed by veterinarians: enlargement of superficial lymph nodes, a digestive form, a cardiac form, a nervous form, a respiratory form, etc. Lymph node enlargement is often an early clinical sign. An unexpected clinical finding is protrusion of cunjunctival membrane, due to enlargement of retro-ocular lymph nodes.Diagnosis relies on Agar Gel Immunodiffusion, ELISA and PCR. Post mortem findings are characteristic and include widespread white tumours in most organs.
+
+
+== Treatment and control ==
+No treatment is available for the disease.Testing and removing positive animals from the herd is one method of control. In herds where the disease is widespread, it is important to limit spread by avoiding contact with blood between animals.
+
+
+== See also ==
+Bovine leukaemia virus RNA packaging signal
+
+
+== External links ==
+Kabeya H, Ohashi K, Onuma M (2001). «Host immune responses in the course of bovine leukemia virus infection». J. Vet. Med. Sci. 63 (7): 703–8. PMID 11503896. doi:10.1292/jvms.63.703. Consultado em 17 de agosto de 2013. Arquivado do original em 28 de maio de 2007  !CS1 manut: Nomes múltiplos: lista de autores (link)
+Gillet N, Florins A, Boxus M;  et al. (2007). «Mechanisms of leukemogenesis induced by bovine leukemia virus: prospects for novel anti-retroviral therapies in human». Retrovirology. 4. 18 páginas. PMC 1839114. PMID 17362524. doi:10.1186/1742-4690-4-18  !CS1 manut: Uso explícito de et al. (link) !CS1 manut: Nomes múltiplos: lista de autores (link)
+Takatori I, Itohara S, Yonaiyama K (1982). «Difficulty in detecting in vivo extracellular infective virus in cattle naturally infected with bovine leukemia virus». Leuk. Res. 6 (4): 511–7. PMID 6292585. doi:10.1016/0145-2126(82)90008-X  !CS1 manut: Nomes múltiplos: lista de autores (link)
+
+
+== Referências ==
+
+Predefinição:Deltaretrovirus

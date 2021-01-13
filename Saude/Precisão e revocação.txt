@@ -1,0 +1,258 @@
+Em reconhecimento de padrões e recuperação de informações com classificação binária, precisão (também chamada de valor preditivo positivo) é a fração de instâncias recuperadas que são relevantes, enquanto revocação (também conhecida como sensibilidade) é a fração de instâncias relevantes que são recuperadas. Tanto  precisão quanto revocação (ou recall) são, portanto, bases para o estudo e compreensão da medida de relevância. Suponha que um programa de computador para o reconhecimento de cães em cenas de um vídeo identifica 7 cães em uma cena contendo 9 cães e alguns gatos. Se 4 das identificações estão corretas, mas 3 são, na verdade, gatos, a precisão do programa é 4/7 enquanto a sua revocação é 4/9. Quando um motor de pesquisa retorna 30 páginas mas dessas apenas 20 são relevantes enquanto deixa de retornar 40 outras páginas relevantes a precisão é de 20/30 = 2/3 enquanto a revocabilidade 20/60 = 1/3.
+Precisão, neste caso, é ''o quanto os resultados da pesquisa são úteis'', enquanto revocabilidade é ''o quão completos os resultados estão''.
+Em estatística, se a hipótese nula é de que todos (e somente) os itens relevantes são recuperados, a ausência de erros tipo I e tipo II correspondem, respectivamente, à precisão máxima (sem falsos positivos) e revocabilidade máxima (sem falsos negativos). 
+No exemplo apresentado, o padrão de reconhecimento contem 7 - 4 = 3 erros tipo I e  9 - 4 = 5 erros tipo II. Precisão pode ser traduzida como uma medida de exatidão ou qualidade, enquanto que revocabilidade é a medida de completude ou quantidade.
+Em termos simples, alta precisão significa que o algoritmo retornou substancialmente mais resultados relevantes que irrelevantes, enquanto alta revocabilidade significa que o algoritmo retornou a maioria dos resultados relevantes.
+
+
+== Introdução ==
+Em um cenário de recuperação de informação, as instâncias são documentos e as tarefas são o retorno do conjunto de documentos relevantes dados pela ferramenta de busca; ou, equivalentemente, a classificação de cada documento como ''relevante'' ou ''não-relevante''.
+Neste caso, os documentos relevantes são simplesmente aqueles que percentem à categoria ''relevante''.
+Revocação é a razão entre o número de documentos relevantes que são retornados pela pesquisa e o total de documentos relevantes existentes. Enquanto a precisão é a razão entre o número de documentos relevantes  e o total de documentos recuperados pela busca.
+Na tarefa de classificação, a precisão se refere ao número de falsos positivos.
+Em uma tarefa de classificação, o coeficiente de precisão é o número de verdadeiros positivos (i.e. o número de itens corretamente rotulados como pertencentes aos positivos), dividido pelo número total de elementos identificados como pertencentes ao conjunto positivo (i.e. a soma de verdadeiros positivos e falsos positivos, que são itens incorretamente rotulados como pertencente ao conjunto). Revocação, neste contexto, é definido como o número de verdadeiros positivos, dividido pelo número total de elementos que pertencem aos positivos (i.e. a soma de verdadeiros positivos e falsos negativos, que são itens que não foram rotulados como pertencentes aos positivos, mas deveriam ter sido).
+Na recuperação de informação, um score perfeito de precisão ( razão = 1.0) significa que todos os resultados obtidos por uma pesquisa foram relevantes (mas não diz nada sobre se todos os documentos relevantes foram recuperados), enquanto um score perfeito de revocação ( razão = 1.0 ) significa que todos os documentos relevantes foram recuperados pela pesquisa (mas não diz nada sobre como muitos documentos irrelevantes também foram recuperados).
+Em uma tarefa de classificação, um score de precisão de 1,0 para um critério X, significa que cada item rotulado como pertencente ao critério X, de fato, pertence ao  critério X (mas não diz nada sobre o número de itens que atendem ao critério X que não foram rotulados corretamente) considerando que um coeficiente de revocação 1.0 significa que cada item dos objetos que obedecem ao critério X foi rotulado como pertencente ao conjunto dos objetos que possuem o critério X (mas não diz nada sobre como muitos outros itens incorretamente foram também identificados a este conjunto).
+Muitas vezes, há uma relação inversa entre o coeficiente de precisão e o coeficiente de revocação, onde é possível aumentar um à custa de reduzir o outro. Em neurocirugia, temos exemplos óbvios sobre essa relação. Considere um neurocirurgião encarregado de remover um tumor maligno do cérebro de um paciente. O cirurgião precisa remover todas as células tumorais, uma vez que quaisquer células cancerígenas remanescentes irão gerar novo tumor. Por outro lado, o cirurgião não deve remover as células saudáveis do cérebro, uma vez que deixará o paciente com comprometimento da função cerebral. O cirurgião pode ser mais liberal na área do cérebro que  remove para garantir que extraiu todas as células do câncer. Esta decisão aumenta a revocação, mas reduz a precisão. Por outro lado, o cirurgião pode ser mais conservador no cérebro, garantindo que extraiu apenas as células cancerosas. Esta decisão aumenta a precisão, mas reduz a revocação. Isto é, maior revocação aumenta as chances de remover as células saudáveis (resultado negativo) e aumenta as chances de remover todas as células de câncer (resultado positivo). Maior precisão diminui as chances de remover as células saudáveis (resultado positivo), mas também diminui as chances de remover todas as células de câncer (resultado negativo).
+Geralmente, a precisão e a revocação não são discutidas isoladamente. Em vez disso, ou os valores de uma medida são comparados a um nível fixo na outra medida (p.ex. precisão em um nível de revocação da ordem de 0,75), ou ambas são combinadas em uma única medida. Exemplos de medidas que são uma combinação de precisão e revocação são os F-measure (a média harmónica ponderada de precisão e revocação), ou o coeficiente de correlação de Matthews, que é uma média geométrica das variantes corrigidas para o acaso: os coeficientes de regressão Informedness (DeltaP') e Markedness (DeltaP). a Acurácia é uma média aritmética ponderada entre precisão e precisão inversa (ponderada por viés), bem como uma média aritmética ponderada entre revocação e revocação inversa (ponderada por prevalência). Precisão e revocação inversas são simplesmente a precisão e a revocação do problema inverso, onde as etiquetas positivo e negativo são trocadas (tanto para classes reais quanto para etiquetas de previsão). A revocação e o inverso de revocação, ou equivalentemente taxa de verdadeiros positivos e taxa de falsos positivos, são frequentemente traçados uns em relação aos outros como curvas COR e fornecem um mecanismo de princípios para explorar os intercâmbios de ponto de operação.
+Fora do contexto de recuperação da informação, revocação, precisão e F-measure são tidos como  falhos na medida em que ignoram a verdadeira célula negativa da tabela de contingência, e eles são facilmente manipulados ao influenciar as previsões. O primeiro problema é "resolvido" usando a acurácia e o segundo problema é "resolvido" descontando-se o componente de acaso e renormalizando para o coeficiente kappa de Cohen, mas isso já não oferece a oportunidade de explorar os intercâmbios graficamente. No entanto, Informedness e Markedness são renormalizações de revocação e precisão do tipo kappa, e sua média geométrica do coeficiente de correlação de Matthews, portanto, atua como um F-measure sem viés.
+
+
+== Definição (contexto de recuperação da informação) ==
+Em recuperação de informação, precisão e revocação são definidos em termos de um conjunto de documentos recuperados (p.ex. a lista de documentos produzidos por um mecanismo de pesquisa da web para uma consulta) e um conjunto de documentos relevantes (p.ex. a lista de todos os documentos na internet que são relevantes para um determinado tema), cf. relevância. As medidas foram definidas em Perry, Kent & Berry (1955).
+
+
+=== Precisão ===
+No campo da recuperação de informação, a precisão é a fração de documentos recuperados que são relevantes para a consulta:
+
+Precisão leva todos os documentos recuperados em conta, mas também pode ser avaliada em um determinado corte de classificação, considerando apenas os primeiros  resultados retornados pelo sistema. Esta medida é chamada de precisão em n ou P@n.
+Por exemplo, para uma pesquisa de texto em um conjunto de documentos, precisão é o número de resultados corretos dividido pelo número de todos os resultados retornados.
+A precisão também é usada com a revocação, a porcentagem de todos os documentos relevantes retornados pela pesquisa. As duas medidas são por vezes utilizadas em conjunto no F1 Score (ou f-measure) para fornecer uma única medição para um sistema.
+Observe que o significado e o uso de "precisão" na área de recuperação da informação é diferente da definição de acurácia e precisão dentro de outros ramos da ciência e tecnologia.
+
+
+=== Revocação ===
+Revocação na recuperação de informação é a fração dos documentos que são relevantes para a consulta que são recuperados com êxito.
+
+Por exemplo, para a pesquisa de texto em um conjunto de documentos, coeficiente de revocação é o número de resultados corretos dividido pelo número de resultados que deveriam ter sido apresentados.
+Na classificação binária, a revocação é chamada de sensibilidade. Portanto, ela pode ser vista como a probabilidade de que um documento relevante seja obtido pela consulta.
+É comum alcançar uma revocação de 100% ao retornar todos os documentos em resposta a uma consulta. Portanto, revocação por si só não é suficiente, mas há necessidade de medir também o número de documentos não relevantes, por exemplo, calculando a precisão.
+
+
+== Definição (contexto de classificação) ==
+Para tarefas de classificação, os termos verdadeiros positivos, verdadeiros negativos, falso-positivos e falso-negativos (ver erros tipo I e tipo II) comparam os resultados do classificador em teste com julgadores externos confiáveis. Os termos positivo e negativo referem-se à predição do classificador (às vezes conhecida como a expectativa), e os termos verdadeiro e falso referem-se a se essa previsão corresponde ao julgamento externo (às vezes conhecido como a observação).
+Vamos definir um experimento de P positivo instâncias e N casos negativos para alguns condição. Os quatro resultados podem ser formuladas em um 2×2 tabela de contingência ou confusão matriz, como segue:
+
+A precisão e a revocação, então, são definidas como:
+
+Revocação, neste contexto, é também conhecida como a taxa de verdadeiros positivos ou sensibilidade, e a precisão também é conhecida como o valor preditivo positivo (VPP); outras medidas relacionadas usadas na classificação incluem a taxa de verdadeiros negativos e a acurácia. a taxa de verdadeiros negativos também é chamada de especificidade.
+
+
+== Interpretação probabilística ==
+É possível interpretar a precisão e a revocação não como determinístico mas como probabilidade:
+
+A precisão é a probabilidade de que um (selecionados aleatoriamente) documento obtido é relevante.
+Revocação é a probabilidade de que um (selecionados aleatoriamente) documento relevante é obtido em uma pesquisa.Observe que a seleção aleatória refere-se a uma distribuição uniforme sobre o apropriado conjunto de documentos; por exemplo, por selecionado aleatoriamente documento obtido, queremos dizer que a seleção de um documento a partir do conjunto de documentos recuperados em uma forma aleatória. A seleção aleatória deve ser tal que todos os documentos no conjunto têm a mesma probabilidade de ser selecionado.
+Observe que, em um típico sistema de classificação, a probabilidade de que um documento obtido é relevante depende do documento. A interpretação acima estende-se a esse cenário também (precisa de explicação).
+Outra interpretação para a precisão e a revocação é como se segue. A precisão é a probabilidade média de relevante recuperação. Probabilidade é a probabilidade média de completa recuperação. 
+
+
+== F-measure ==
+A medida que combina precisão e revocação é a média harmónica de precisão e revocação, a tradicional F-measure ou F-score balanceada:
+
+Esta medida é aproximadamente a média de ambas quando seus valores estão próximos, e de maneira mais geral, o quadrado da média geométrica dividido pela média aritmética. Há várias razões pelas quais o F-score pode ser criticado em casos específicos devido ao seu viés como métrica de avaliação.  Esta medida também é conhecida como medida 
+  
+    
+      
+        
+          F
+          
+            1
+          
+        
+      
+    
+    {\displaystyle F_{1}}
+  , pois revocação e precisão são ponderadas uniformemente.
+É um caso especial da medida 
+  
+    
+      
+        
+          F
+          
+            β
+          
+        
+      
+    
+    {\displaystyle F_{\beta }}
+   geral (para valore reais não negativos de 
+  
+    
+      
+        β
+      
+    
+    {\displaystyle \beta }
+  ):
+
+Duas outras medidas 
+  
+    
+      
+        F
+      
+    
+    {\displaystyle F}
+   normalmente utilizadas são a medida 
+  
+    
+      
+        
+          F
+          
+            2
+          
+        
+      
+    
+    {\displaystyle F_{2}}
+  , que pondera a revocação com maior valor que a precisão; e a medida 
+  
+    
+      
+        
+          F
+          
+            0.5
+          
+        
+      
+    
+    {\displaystyle F_{0.5}}
+  , que coloca mais ênfase na precisão do que a revocação.
+O termo F-measure foi cunhado por van Rijsbergen (1979), de modo que 
+  
+    
+      
+        
+          F
+          
+            β
+          
+        
+      
+    
+    {\displaystyle F_{\beta }}
+   "mede a eficácia da recuperação com relação a um usuário que atribui 
+  
+    
+      
+        β
+      
+    
+    {\displaystyle \beta }
+   vezes a mesma importância tanto para a revocação quanto para a precisão". Ele é baseado na medida de eficácia de van Rijsbergen: 
+  
+    
+      
+        E
+        =
+        1
+        −
+        
+          
+            1
+            
+              
+                
+                  α
+                  P
+                
+              
+              +
+              
+                
+                  
+                    1
+                    −
+                    α
+                  
+                  R
+                
+              
+            
+          
+        
+      
+    
+    {\displaystyle E=1-{\frac {1}{{\frac {\alpha }{P}}+{\frac {1-\alpha }{R}}}}}
+  . Sua relação é 
+  
+    
+      
+        
+          F
+          
+            β
+          
+        
+        =
+        1
+        −
+        
+          E
+          
+            α
+          
+        
+      
+    
+    {\displaystyle F_{\beta }=1-E_{\alpha }}
+   , onde 
+  
+    
+      
+        α
+        =
+        
+          
+            1
+            
+              1
+              +
+              
+                β
+                
+                  2
+                
+              
+            
+          
+        
+      
+    
+    {\displaystyle \alpha ={\frac {1}{1+\beta ^{2}}}}
+  .
+
+
+== Limitações como objetivos ==
+Há outros parâmetros e estratégias para a métrica de desempenho de um sistema de recuperação da informação, como a área sob a curva de precisão-revocação (AUC).Para a recuperação de documentos da web, se os objetivos do usuário não são claros, a precisão e a revocação não podem ser otimizadas. Conforme resumido por Lopresti,A navegação é um paradigma cômodo e poderoso (a serendipidade).
+
+Os resultados da busca não precisam ser muito bons.
+Revocação? Não é importante (desde que você consiga pelo menos alguns resultados bons).
+Precisão? Não é importante (desde que ao menos alguns dos resultados na primeira página apresentada sejam bons).
+
+
+== Veja também ==
+Incerteza do coeficiente, também chamado de proficiência
+Sensibilidade e especificidade
+
+
+== Referências ==
+
+
+== Ligações externas ==
+Recuperação de informação – C. J. van Rijsbergen 1979
+A computação de Precisão e Recall para um Multi-classe Classificação Problema

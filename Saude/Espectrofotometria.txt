@@ -1,0 +1,76 @@
+A espectrofotometria é o método de análises óptico mais utilizado nas investigações biológicas e físico-químicas. Baseia-se na medida quantitativa da absorção da luz pelas soluções, onde a concentração na solução da substância absorvente é proporcional à quantidade de luz absorvida. Estas medidas são efetuadas por equipamentos denominados espectrofotômetros. 
+As radiações eletromagnéticas com comprimento de onda entre 380 e 750 nm são visíveis ao olho humano. A luz visível constitui uma parcela muito pequena no espectro eletromagnético. A zona do espectro cujas radiações possuem um comprimento de onda abaixo de 380 nm é denominada ultravioleta (UV). Comprimentos de onda acima de 750 nm correspondem à zona infravermelha. A visão humana detecta somente a parte visível do espectro, enquanto filmes fotográficos e fotocélulas são sensíveis a outras porções do espectro.
+Quando a luz branca (luz solar) passa através de um prisma (ou retículo de difração), ela se decompõe em raios de luz e em distintos comprimentos de onda. A projeção desses raios emitidos em um anteparo produz uma faixa de cores que vai desde o vermelho até o violeta, denominada espectro de emissão. A cor da luz é função do seu comprimento de onda. Na Tabela 1.0 são mostrados os diferentes comprimentos de onda com as respectivas características do espectro de luz visível, ultravioleta e infravermelho.
+As soluções são coloridas para o olho humano quando absorvem toda a luz incidente, com exceção do intervalo de comprimento de onda observado pela visão. Desse modo, uma solução azul apresenta esta cor em virtude de as demais cores que constituem o espectro terem sido absorvidas. Assim, a cor de uma solução é complementar à luz absorvida.
+
+Segundo a natureza da solução examinada, obtêm-se os espectros de absorção da luz de tal modo que a imagem espectral pode servir para a identificação de uma determinada substância.
+
+
+=== Transmitância ===
+A transmitância consiste na medida da luz transmitida. Quando um raio de luz monocromática de intensidade inicial definida incide sobre uma solução colorida, a intensidade da luz emergente é menor que a luz incidente, ou seja, parte da luz foi absorvida.
+T=luz emitida pela solução:luz que entrou na solução
+
+
+=== Absorvância ===
+A absorvância, por sua vez, consiste na medida da luz absorvida, onde mede-se a intensidade de luz absorvida por uma solução corada pela redução da medida da intensidade da luz transmitida.
+Note que a absorvância não é uma quantidade medida diretamente, mas é obtida por meio do cálculo matemático a partir dos valores de transmitância.
+
+
+=== Lei de Bouguer-Lambert ===
+Bouguer e, em seguida, Lambert investigaram a relação entre a diminuição da intensidade de luz e a espessura do meio absorvente. Ao incidir-se um raio de luz sobre diversas camadas opticamente homogêneas e de espessuras conhecidas, observa-se uma proporção direta entre a espessura das camadas e o logaritmo da transmissão, ou a transmissão da luz decresce logaritmicamente com o aumento linear da espessura da camada. Tem-se, então, uma relação direta entre a absorvância e a espessura da camada. Quanto maior a espessura da camada, maior a absorvância, e menor a transmitância.
+
+
+=== Lei de Beer-Lambert ===
+A lei de Beer-Lambert, ou simplesmente Lei de Beer, afirma que a concentração de uma substância é diretamente proporcional à quantidade de luz absorvida ou inversamente proporcional ao logaritmo da luz transmitida.
+Na prática laboratorial, a aplicação quantitativa da Lei de Beer é realizada pelo emprego de espectrofotômetros, onde são lidas as absorvâncias de uma solução teste e de uma solução padrão de concentração conhecida (após submetida a reações apropriadas), e a concentração do teste é calculada a partir da seguinte fórmula:
+[Amostra] = Absorvância do teste x [Padrão] / Absorvância do padrão
+Neste cálculo, considera-se que a espessura das cubetas que contêm as soluções lidas é constante. Esta relação só é aplicada quando a reação colorimétrica segue a lei de Beer e tanto o desconhecido como o padrão são lidos na mesma célula.
+
+
+=== Medida da Transmitância e da Absorvância ===
+A transmitância e a absorvância das soluções coloridas são medidas por meio de instrumentos denominados fotômetros. Estes instrumentos empregam como fonte luminosa uma lâmpada incandescente produtora de luz branca. Potencialmente, pode-se empregar qualquer comprimento de onda da região visível. Para a resolução da luz em determinado comprimento de onda desejado, são utilizados monocromadores que consistem em filtros interferentes ou de absorção (fotômetros de filtro), prismas ou retículos de difração (espectrofotômetros). 
+A luz atravessa uma solução colorida presente em uma cubeta; parte é absorvida (esta absorção depende da intensidade de cor da solução). A luz transmitida (detectada por uma fotocélula) tem intensidade menor que a luz incidente. A fotocélula converte a energia elétrica, emitindo um sinal que pode ser lido na escala de um galvanômetro, em percentagem de transmitância ou em absorvância.
+A determinação da absorvância ou transmitância de uma solução torna indispensável o conhecimento da intensidade da luz incidente e emergente. São várias as dificuldades de ordem técnica para a medida absoluta da luz incidente. Considera-se então, por aproximação, a luz incidente igual em intensidade àquela emergente de uma cubeta do fotômetro contendo somente o solvente (branco).
+Desse modo, são superadas as dificuldades da determinação direta da luz incidente, assim como ficam eliminadas a absorção e a dispersão de luz introduzidas pelas paredes das cubetas, pelo solvente e algumas impurezas.
+Portanto, para proceder à medida da absorvância, introduz-se uma cubeta na câmara de leitura contendo o solvente (branco) e acerta-se o aparelho para que a absorvância seja zero (ou 100% de transmitância). Substitui-se o "branco" pela cubeta contendo a solução teste (ou padrão) e lê-se a absorvância da mesma.
+
+
+=== Referência Bibliográfica ===
+MOTTA, Valter Teixeira. Bioquímica clínica para o laboratório - princípios e interpretações. 5ª edição, p. 15-17. Rio de Janeiro: MedBook, 2009.
+
+
+== Tipos ==
+
+
+=== Espectrofotometria astronómica ===
+Os astrônomos utilizam redes de difração para estudar o espectro de energia da radiação eletromagnética dos astros coletada nos telescópios. A rede de difração é o artefato que substitui o antigo prisma óptico na pesquisa científica. Sua qualidade se mede pelo poder de separação de duas linhas de absorção ou de emissão do espectro eletromagnético de uma estrela, isto é, pela sua resolução espectral.
+
+
+=== Espectrofotometria de absorção atómica ===
+É o método de análise usado para determinar quantitativamente a presença de metais. 
+O método consiste em determinar a presença e quantidade de um determinado metal em uma solução qualquer, 
+usando como princípio a absorção de radiação ultravioleta por parte dos elétrons que, ao sofrerem um salto quântico depois de devidamente excitados por uma chama de gás acetileno a 3000 graus Celsius, esses devolvem a energia recebida para o meio, voltando assim para a sua camada orbital de origem. 
+A energia devolvida na forma de um fóton de luz, por sua vez, absorve a radiação ultravioleta emitida pela fonte específica (cátodo oco) do elemento químico em questão. 
+Dessa forma, elétrons que estão contidos na solução, e que sofrem também um salto quântico e que não pertencem ao mesmo elemento que constitui o cátodo oco que está sendo usado no momento, não serão capazes de causar uma interferência, isso porque eles absorverão apenas radiação com comprimento de onda referente ao elemento químico do qual fazem parte.
+
+
+=== Espectrofotometria no Infra-vermelho ===
+Os compostos orgânicos também absorvem radiações na região do infravermelho (IV) do espectro. A radiação infravermelha não tem energia suficiente para excitar os elétrons e provocar transições eletrônicas, mas ela faz com que os átomos ou grupos de átomos vibrem com maior rapidez e com maior amplitude em torno das ligações covalentes que os unem.
+Estas vibrações são quantizadas e, quando ocorrem, os compostos absorvem energia IV em certas regiões do espectro. Nas vibrações, as ligações covalentes comportam-se como se fossem pequenas molas unindo os átomos. Quando os átomos vibram, só podem oscilar com certas frequências, e as ligações sofrem várias deformações. Quando a ligação absorve energia, ela sofre alterações e, ao retornar ao estado original, libera essa energia, que então é detectada pelo espectrômetro. Estas vibrações são quantizadas e, quando ocorrem, os compostos absorvem energia IV em certas regiões do espectro. Nas vibrações, as ligações covalentes comportam-se como se fossem pequenas molas unindo os átomos.
+Quando os átomos vibram, só podem oscilar com certas frequências, e as ligações sofrem várias deformações. Quando a ligação absorve energia, ela sofre alterações e, ao retornar ao estado original, libera essa energia, que então é detectada pelo espectrômetro. As moléculas podem vibrar de muitos modos. Dois átomos unidos por uma ligação covalente podem efetuar vibrações de estiramento dessa ligação, como se fosse uma mola que estica e retorna ao tamanho original.
+Três átomos também podem efetuar diferentes vibrações de estiramento e alteração dos ângulos de ligação, em vários planos do espaço. No entanto, as vibrações de estiramento são as mais importantes.
+A radiação infravermelha é outra espécie de radiação eletromagnética cujo espectro começa num dos limites do espectro da luz (o vermelho) e se estende até à zona das ondas hertzianas (radar, televisão, rádio). É caracterizada por um comprimento de onda compreendido entre cerca de 800 e 105 nm.
+Nas moléculas, os átomos e os grupos atômicos estão em contínuo movimento, uns em relação aos outros (vibrações moleculares). Quando elas são sujeitas a radiação com energia semelhante à correspondente a essas vibrações (radiação infravermelha), as moléculas podem alterar o seu estado de vibração (excitação), absorvendo a radiação correspondente à diferença de energia entre o estado inicial e o estado excitado. Como não é possível a uma molécula vibrar de qualquer modo, mas apenas de alguns modos, a absorção da radiação ocorre apenas para determinados valores da energia, valores estes que são característicos das moléculas. Assim, através da comparação dos valores de energia da radiação infravermelha para os quais há absorção, é possível identificar as moléculas ou os tipos de moléculas presentes nas amostras.
+A espectrofotometria infravermelho próximo oferece um método rápido de análise química que fornece, em segundos, resultados de múltiplas propriedades em amostras não preparadas.
+
+
+== Usos e aplicações ==
+A espectroscopia no infravermelho é largamente usada tanto na indústria quanto na pesquisa científica pois ela é uma técnica rápida e confiável para medidas, controle de qualidade e análises dinâmicas. Os instrumentos agora são pequenos, e podem ser transportados, mesmo para medidas de campo. Com a crescente tecnologia em filtragem computacional e manipulação de resultados, agora as amostras em solução podem ser medidas com precisão (a água produz uma banda larga de absorbância na faixa de interesse, o que daria um espectro ilegível sem esse tratamento computacional). Algumas máquinas até mesmo dirão automaticamente que substância está sendo analisada a partir de milhares de espectros de referência armazenados na memória.
+Medindo-se a uma freqüência específica ao longo do tempo, mudanças no caráter ou na quantidade de uma ligação em particular podem ser medidas, isso é especialmente útil na medida do grau de polimerização na manufatura de polímeros. As máquinas modernas podem tirar medidas na faixa de interesse freqüentemente, como 32 vezes por segundo. Isso pode ser feito enquanto se fazem medidas simultâneas com outras técnicas. Isso faz com que as observações de reações químicas sejam processadas mais rapidamente, de forma mais precisa e mais exata.
+
+
+== Ver também ==
+Espectrofotômetro
+Espectroscopia
+Espectroscopia UV/visível
+Espectroscopia de infravermelho

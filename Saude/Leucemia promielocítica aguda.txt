@@ -1,0 +1,41 @@
+Leucemia promielocítica aguda (LPA) é um subtipo da leucemia mielóide aguda (LMA), um tipo de câncer do sangue e medula óssea. É também conhecida leucemia progranulocítica aguda; LPA; LMA com t(15;17)(q22;q12), LPA-RARA e variantes; subtipo FAB M3 e M3 variante.
+Na LPA, ocorre um acumulação anormal de granulócitos imaturos chamados de promielócitos. Esta doença é caracterizada pela translocação cromossômica envolvendo o gene receptor alfa do ácido retinóico (RARα or RARA) e é a única forma de LMA responsiva a terapia ácido all-trans retinóico (ATRA).
+
+
+== Sinais e sintomas ==
+Sinais e sintomas da leucemia promielocítica aguda são similares a outras formas de LMAs. Sintomas incluem febre, fadiga, perda de peso ou perda de apetite, falta de ar, anemia, sangramento fácil, petéquia, dor óssea e nas juntas e infecções persistentes ou frequentes.
+O acúmulo de promielócitos na medula óssea é resultado na redução na produção normal de glóbulos vermelhos e plaquetas resultando em anemia e trombocitopenia respectivamente. Tanto a leucopenia como a leucocitose pode ser observada no sangue periférico.
+Sintomas incluem:
+
+Fadiga, fraqueza, falta de ar (devido a anemia)
+Sangramentos (devido a trombocitopenia)
+Febre e infecções (devido a falta de glóbulos brancos normais)A leucemia promielocítica aguda é frequentemente relacionada com sangramento causado pela coagulação intravascular disseminada (CIVD).
+
+
+== Epidemiologia ==
+Leucemia promielocítica aguda representa 5-8% das LMAs em adultos. A média de idade dos pacientes é de aproximadamente 40 anos, o que é consideravelmente jovem comparando-se com outros subtipos de LMAs (70 anos).
+
+
+== Patogênese ==
+A leucemia promielocítica aguda é caracterizada pela translocação cromossômica envolvendo o gene receptor alfa do ácido retinóico no cromossomo 17 (RARα). Em 95% dos casos de LPA, o receptor alfa do  ácido retinóico do cromossomo 17 sofre translocação com o gene leucemia promielocítica do cromossomo 15 (PML), uma translocação denominada como t(15;17)(q22;q12). Existem ainda translocações menos frequentes entre o cromossomo 5 ou 11 e o 17.
+
+
+== Diagnóstico ==
+A LPA pode ser diferenciada de outros tipos de LMAs baseado na análise morfológica do aspirado ou biópsia da medula óssea. O diagnóstico defenitivo pede um teste para a fusão do gene RARα. Isto pode ser feito pela reação em cadeia de polimerase (PCR), hibridização fluorescente in situ (FISH), ou pela citogenética convencional do sangue periférico ou da medula óssea.
+
+Análise morfológica: A medula óssea apresenta poucos mileoblastos agranulares e muitos  promielócitos. Células com presença de bastão de Auer são comuns. Coloração para peroxidase e sudan black positivas. Existe uma forma variante da leucemia promielocítica aguda, a M3v, com promielócitos com poucos grânulos
+Imunofenotipagem: Positiva para CD9, CD13 e CD33.Na maioria dos casos deste tipo de leucemia ocorre um prolongamento no tempo de protrombina e tempo de tromboplastina parcial ativada assim como uma hipofibrinogenemia (diminuição no nível de fibrinogênio).
+
+
+== Tratamento ==
+A LPA diferencia-se das demais leucemias pela sensibilidade ao ácido all-trans retinóico (ATRA), um derivado da vitamina A. Tratamento com ATRA causa a diferenciação de promielócitos imaturos em granulócitos maduros.  ATRA é normalmente combinada com antraciclina resultando na remissão de aproximadamente 90% dos pacientes.
+A terapia com ATRA é associada a um único efeito colateral, a síndrome ácido retinóico. Isto é associado com o desenvolvimento com dispnéia, febre, ganho de peso, edema periférico e é tratado com dexametasona.
+
+
+== Referências ==
+
+Kumar, Vinay, Abul Abbas, and Nelson Fausto. Robbins and Cotran Pathologic Basis of Disease, 7th ed. (2004). ISBN 81-8147-528-3
+Sacher, Ronald A. and Richard A. McPherson. Wildman's Clinical Interpretation of Laboratory Tests, 11th ed. (2000). ISBN 0-8036-0270-7
+Dan Douer, et al. British Journal of Haematology, vol. 122, pp. 563, Aug. 2003
+Complete remission after treatment of acute promyelocytic leukemia with arsenic trioxide, N Engl J Med. 1998 Nov 5;339(19):1341-8.
+Williams. Hematology, 7th ed.

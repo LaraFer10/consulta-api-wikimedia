@@ -1,0 +1,47 @@
+Em geometria a dupla hélice consiste tipicamente de duas hélices congruentes com o mesmo eixo, que diferem por uma translação ao longo do seu eixo, que pode estar ou não a meio caminho.
+Em 1953, James D. Watson e Francis Crick publicaram que a estrutura do DNA é de uma dupla hélice pela primeira vez, baseando-se no trabalho de Rosalind Franklin. A forma de dupla hélice é bastante forte. O DNA toma esta  forma naturalmente por duas razões. Tem de ser 'dupla' de maneira que possa conseguir replicar-se e a hélice, estando entrelaçada, é mais forte que duas cadeias paralelas porque puxando em uma direção qualquer a cadeia não se desfaz.
+
+
+== O DNA antes da descoberta de Watson e Crick ==
+A estruturação do DNA em dupla hélice foi a solução para muitas questões sobre as funções do DNA. Watson e Crick partiram do processo de “construção de modelo”, no qual eles reuniram os resultados de experimentos anteriores e continuados sobre a estrutura do DNA. A partir destes resultados reunidos eles procuraram formar um quebra-cabeça que seria na verdade o modelo tridimensional, a dupla hélice. 
+As peças para este quebra cabeça foram os blocos estruturais do DNA. Tratando de uma substância química o DNA é simples, contém três tipos de componentes químicos: o fosfato, um açúcar (desoxirribose) e quatro bases nitrogenadas (adenina, timina, cianina, guanina). Estes blocos foram a primeira peça para montar o modelo. A segunda foi a regra de Chargaff da composição de bases e a terceira a análise de difração de raios X do DNA.
+
+
+== Estudos de Erwin Chargaff: Composição das bases ==
+Uma evidência que colaborou com a descoberta da dupla hélice de DNA foi o estudo realizado por Erwin Chargaff que ao estudar o DNA de diversos organismos estabeleceu algumas regras sobre a quantidade de nucleotídeos encontrados no DNA.
+Chargaff relatou que a quantidade de nucleotídeos apresenta uma proporção numa mesma espécie. Assim, independente da espécie, o número de timinas (T) é aproximadamente o mesmo de adeninas (A) e o mesmo acontece com as citosinas (C) e guaninas (G). Mas a quantidade de A+T não é necessariamente igual à quantidade de C+G e essa proporção varia entre organismos diferentes. No DNA humano, por exemplo, há 30% de adenina, 30,3% de timina, 19,5% de guanina e 19,9% de citosina. Por outro lado, o DNA do rato contém 28,6% de adenina, 28,4% de timina, 21,4% de guanina e 21,5% de citosina. 
+A equivalência das bases nitrogenadas A+T e C+G é conhecida como Regra de Chargaff e foi esclarecida com a descoberta da dupla hélice do DNA.
+
+
+== Análise de difração de raios X no DNA ==
+A terceira peça foram os dados coletados por Rosalind Franklin nos experimentos realizados em que os raios-X são disparados nas fibras de DNA e a dispersão dos raios nas fibras é observada captando os raios em um filme fotográfico. Neste filme, os raios formam pontos e a interpretação da dispersão destes pontos possui certo grau de dificuldade, necessitando de complexos conhecimentos matemáticos. A dispersão dos pontos forma um ângulo e fornece informações sobre a posição de um ou de um grupo de átomos na molécula de DNA. 
+Os dados de raios-X demonstraram que a molécula de DNA é helicoidal, longa e fina, contendo duas partes similares que são paralelas e correm ao longo da molécula. Através da imagem cedida pelo dono do laboratório onde Rosalind realizou os experimentos, sem que nem ela mesma soubesse, Watson e Crick deduziram a estrutura tridimensional.
+
+
+== A Dupla Hélice ==
+A composição geral do DNA já era conhecida, mas não se sabia como suas partes componentes se reuniam. A estrutura tridimensional de Watson e Crick abriu uma nova era da Biologia, como publicaram em 1953 no periódico Nature: “Nós queremos sugerir uma estrutura para o sal de ácido desoxirribonucleico (DNA). Essa estrutura tem novas características que são de considerável interesse biológico.”
+A estrutura de DNA sugerida por Watson e Crick possui duas fitas de nucleotídeos que dispostas lado a lado e ficam torcidas na forma de dupla hélice, formando uma estrutura em espiral. As fitas são mantidas unidas pela formação de pares
+de bases entre as duas fitas: A pareia com T por meio de duas ligações de hidrogênio; G pareia com C através de três ligações de hidrogênio. A presença de milhares de ligações de hidrogênio na molécula de DNA contribui para a estabilidade da dupla hélice.
+O DNA contendo muitos pares de G-C é mais estável que o DNA contendo muitos pares A-T. O calor faz com que os dois filamentos do DNA se separem (dissociação do DNA ou desnaturação do DNA). Os DNA com conteúdo maior de G-C requer maiores temperaturas para dissociar devido a maior atração do pareamento G-C.
+Cada fita é composta por unidades alternadas de fosfato e açúcar (desoxirribose), que são conectadas por ligações fosfodiéster. Os átomos de carbono que compõem o açúcar de desoxirribose são numerados de 1’ a 5’. O átomo de carbono 5’ de uma desoxirribose se liga um grupo fosfato, que se ligará ao carbono 3’ da próxima desoxirribose através de uma ligação de fosfodiéster. Dessa forma, cada ligação açúcar-fosfato tem orientação 5’ para 3’. 
+Na molécula de DNA as fitas estão pareadas com orientação oposta: uma se inicia pela extremidade 5’ e outra começa pela extremidade 3’, assumindo uma conformação de dupla hélice, principalmente pela interação das bases.  
+Cada base nitrogenada é ligada ao carbono 1’ de açúcar desoxirribose e se projeta para o interior da hélice e as cadeias de açúcar e fosfato se projetam para o exterior da hélice. Os pares de bases empilham-se uns sobre os outros no centro da dupla hélice, dando estabilidade à molécula de DNA. O empilhamento das bases resulta em uma dupla hélice com dois tamanhos de sulcos: o sulco maior e o sulco menor. Através do pareamento e empilhamento das bases há a formação da hélice do DNA.
+A dupla hélice responde muito bem aos dados de raios-X e aos dados de Chargaff.
+A descoberta da dupla hélice do DNA, que foi resultado da integração de muitos estudos, é considerada por alguns como a mais importante descoberta biológica do século XX. Para James D. Watson o modelo construído por ele e por Francis Crick “era demasiado belo para não ser verdade”, como escreveu em seu livro “A Dupla Hélice”.
+
+
+== A importância da Dupla Hélice ==
+A partir da estrutura em dupla hélice pode-se determinar a sequência de pares de nucleotídeos e assim determinar a sequência de aminoácidos (proteínas) que formam o DNA e com isso construir o código genético.
+Conhecendo a sequência das bases do DNA que especifica a sequência de aminoácidos, é possível por uma substituição de um tipo de base por outra ou com a troca de posição realizar mutações genéticas. 
+Com a estrutura dupla hélice foi possível compreender o mecanismo de replicação do DNA, que ocorre quando a dupla hélice é separada, na qual os dois filamentos separados irão formar os filamentos complementares a cada um dos filamentos separados da dupla hélice de origem.
+
+
+== Veja também ==
+Ácido nucleico
+
+
+== Referências ==
+
+REGATEIRO, Fernando J. Manual de Genética Médica. 2. ed. Coimbra: Imprensa da Universidade de Coimbra, 2007.
+LODISH et al. Biologia Celular e Molecular. 7. ed. Porto Alegre: Artmed, 2014.
+GRIFFITHS, Anthony J F et al. Introdução à Genética. 9. ed. Rio de Janeiro: Guanabara Koogan, 2008.

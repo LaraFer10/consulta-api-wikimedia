@@ -1,0 +1,18 @@
+Hemoglobina corpuscular média (HCM) ou hemoglobina globular média (HGM), também referida como MCH (do inglês Mean Corpuscolar Hemoglobin), em um hemograma, é a quantidade média de hemoglobina (hb) presente nas hemácias. É parte de um exame das células sanguíneas e serve para identificar o tipo e causa da anemia. Em humanos o valor normal é entre 27 e 31 picogramos por glóbulo vermelho. Em mol o valor normal humano é de 1.68-1.92 fmol/célula.
+
+
+== Significado ==
+Dependendo do valor encontrado a anemia pode ser classificada em:
+
+Anemia hipercrômica: Valor maior a 31 picogramos, pode ser causada por deficiência de vitamina B12 ou de ácido fólico. Também pode ser causado por doença hepática e após quimioterapia.
+Anemia normocrômica: Valores entre 27 e 31 picogramos, indica que a causa da anemia é perda de sangue. Pode ser causado por hemorragia, sangue nas fezes, hematêmese, linfomas, sepse e síndrome nefrítica.
+Anemia hipocrômica: Valor menor a 27picogramos, pode ser causada por deficiência de ferro.
+
+
+== Cálculo do HCM ==
+HCM = (Hemoglobina * 10) / Nº de hemácias
+Hemoglobina em g/dL
+Hemácias em u³
+
+
+== Referências ==

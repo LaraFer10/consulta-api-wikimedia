@@ -1,0 +1,48 @@
+A quimiosmose é a difusão de íons através de uma membrana permeável seletiva. Refere-se, de modo específico, à produção de ATP através do movimento de íons hidrogénio através de uma membrana interna, durante a respiração celular.
+Os íons hidrogénio (prótons) difundem de uma área de elevada concentração de prótons para uma área com concentração mais baixa. Peter D. Mitchell propôs que um gradiente electroquímico deste tipo poderia ser utilizado na produção de ATP, comparando o processo à osmose (difusão de água através de uma membrana).
+A enzima responsável pela produção de ATP através da quimiosmose é a ATP sintase. A ATP sintase possibilita a passagem de prótons através da membrana, usando a energia cinética para fosforilar ADP a ATP. A produção de ATP através da quimiosmose ocorre em cloroplastos, mitocôndrias e alguns procariontes.
+
+
+== A teoria quimiosmótica ==
+Peter D. Mitchell propôs a hipótese quimiosmótica em 1961. A teoria sugere essencialmente que a maioria da síntese de ATP na respiração celular seja proveniente do gradiente eletroquímico formado entre os dois lados da membrana interna mitocondrial
+ao utilizar a energia do NADH e FADH2, formados no catabolismo de moléculas como a glicose.
+Determinadas moléculas, tais como a glicose, são metabolizadas de forma a produzir acetil-CoA, um intermediário energeticamente rico. A oxidação do acetil-CoA na matriz mitocondrial está acoplada à redução de moléculas transportadoras como o NAD e o FAD.
+Estas moléculas transportam elétrons para a cadeia de transporte eletrônico na membrana mitocondrial interna. A energia eletrônica é utilizada para bombear prótons da matriz através da membrana mitocondrial interna, armazenando energia sob a forma de um gradiente eletroquímico transmembranar. Os prótons passam então novamente para dentro da matriz através da ATP sintase. O fluxo de prótons através desta enzima fornece a energia necessária para a fosforilação do ADP a ATP. Os elétrons e prótons que passam através da última bomba protônica da cadeia são adicionados ao oxigênio, formando água (na respiração aeróbia) ou outra molécula aceitadora de elétrons.
+Esta hipótese foi considerada radical na altura e não foi por isso bem aceite; a ideia que entretanto prevalecia era a da existência de um intermediário estável de alta energia potencial, o que corresponderia a um conceito quimicamente mais conservador. No entanto, não foi encontrado nenhum intermediário deste tipo, ao mesmo tempo que se acumularam indícios apontando para a existência do bombeamento de protões pelos complexos proteicos da cadeia respiratória. Finalmente, a teoria quimiosmótica ganhou aceitação e Peter Mitchell foi galardoado com o prémio Nobel da Química em 1978.O acoplamento quimiosmótico é importante para a produção de ATP em cloroplastos e diversas bactérias.
+
+
+== A força motriz protônica ==
+Em todas as células, a quimiosmose envolve, nalgum passo, a força motriz protónica. Esta pode ser descrita como o armazenamento de energia sob a forma de um gradiente combinado de protões e potencial eléctrico através de uma membrana. A energia potencial química refere-se à diferença de concentração de protões e de potencial elétrico como consequência da separação de cargas (quando os protões se movem sem um contra-ião).
+Na maioria dos casos, a força motriz protônica é produzida por uma cadeia de transporte de elétrons que atua como bomba de protões e electrões, bombeando em direções opostas e criando uma separação de carga. Nas mitocôndrias, a energia livre libertada da cadeia de transporte eletrônico é utilizada para mover prótons da matriz mitocondrial para o espaço intermembranar da mitocôndria. O transporte de protões para zonas externas da mitocôndria gera uma concentração elevada de partículas de carga positiva, resultando num lado ligeiramente mais positivo e noutro mais negativo (o gradiente é então de -200 mV quando medido no interior). O resultado é então um gradiente de pH e um gradiente eléctrico. A força motriz protônica, que é uma forma de medida deste gradiente eletroquímico combinado, possui em mitocôndrias um carácter predominantemente eléctrico, ao passo que em cloroplastos é composta predominantemente pelo gradiente de pH. Em qualquer dos casos, a força motriz protônica precisa ter pelo menos 50 kJ/mol para a ATP sintase poder produzir ATP.
+
+
+== Em mitocôndrias ==
+
+O catabolismo da glicose na presença de oxigénio é designado respiração celular. Os últimos passos deste processo ocorrem na mitocôndria. As moléculas com alto potencial energético NADH e FADH2 são produzidas no ciclo dos ácidos tricarboxílicos e na glicólise. Estas moléculas transferem electrões para uma cadeia de transporte electrónico de forma a criar um gradiente de protões entre a membrana mitocondrial interna e a matriz mitocondrial; a ATP sintase usa então quimiosmose para sintetizar ATP. Este processo é denominado fosforilação oxidativa por o oxigénio ser o aceitador final de electrões na cadeia de transporte electrónico mitocondrial.
+
+
+== Em plantas ==
+As reacções da fase luminosa da fotossíntese produzem energia por quimiosmose. A clorofila perde um electrão quando é excitada pela luz; este electrão viaja pela cadeia de transporte electrónico fotossintética e é gerado um gradiente electroquímico entre os dois lados da membrana do tilacóide. Este gradiente fornece a energia necessária para a ATP sintase produzir ATP. Este processo é conhecido como fotofosforilação.
+
+
+== Em procariontes ==
+As bactérias e as arqueas também podem utilizar quimiosmose para produzir ATP. As cianobactérias, as bactérias verdes sulfurosas e as bactérias púrpuras usam a fotofosforilação para criar energia, utilizando a energia da luz para formar um gradiente de protões e uma cadeia de transporte electrónico fotossintética. As bactérias não-fotossintéticas, tais como a Escherichia coli, contêm também ATP sintase.
+A teoria endossimbiótica propõe que mitocôndrias e cloroplastos tenhm surgido quando células eucarióticas (ou os seus ancestrais) ingeriram bactérias capazes de produzir energia através da quimiosmose.
+
+
+== Ver também ==
+Cadeia respiratória
+Citocromo
+Ciclo de Krebs
+Glicólise
+Fosforilação oxidativa
+
+
+== Referências ==
+
+Jeremy M. Berg, John L. Tymoczko, Lubert Stryer (ed.). «18.4. A Proton Gradient Powers the Synthesis of ATP». Biochemistry (5th edition). [S.l.]: W. H. Freeman  !CS1 manut: Nomes múltiplos: lista de editores (link)
+Seiji Ogawa and Tso Ming Lee (1984). «The Relation between the Internal Phosphorylation Potential and the Proton Motive Force in Mitochondria during ATP Synthesis and Hydrolysis». Journal of Biological Chemistry. 259 (16): 10004–10011 
+
+
+== Ligações externas ==
+Quimiosmose (Universidade de Wisconsin)

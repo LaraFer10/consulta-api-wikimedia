@@ -1,0 +1,22 @@
+As moléculas de adesão celular ou CAM's são moléculas que permitem a ligação entre as células ou entre células e a matriz extracelular.
+
+
+== Caderinas ==
+a
+As caderinas são moléculas de adesão dependentes do cálcio que permitem a ligação entre células vizinhas. Cada uma das células que são ligadas possuem sempre o mesmo tipo de caderina que a outra sendo as interacções entre elas homofílicas. Ligam-se à célula através de cateninas. Possuem função de formação e manutenção da integridade dos tecidos.
+As caderinas são glicoproteínas transmembranárias de passo simples contendo de 700 a 750 aminoácidos, sendo as principais moléculas de adesão celular responsáveis pela adesão célula-célula nos tecidos dos vertebrados. Formam uma superfamília, que abrange as caderinas clássicas - inicialmente reconhecidas á superfície celular, são algumas delas: Caderina E: abundantes nos epitélios; Caderina P: abundantes na placenta; Caderina N: abundantes no sistema nervoso; e as caderinas não-clássicas, encontradas em grande quantidade no tecido nervoso e em alguns outros tecidos, algumas também com função de adesão. 
+Essas proteínas medeiam a adesão célula-célula dependente de Ca2+ extracelular. Sua parte extracelular possui cinco domínios com 100 aminoácidos cada, e, entre cada par de repetição de caderina ocorre o posicionamento do Ca2+, mantendo esses domínios juntos e formando uma estrutura na forma de bastão. Caso o Ca2+ seja removido, as caderinas mudam de conformação, tornam-se flexíveis e são rapidamente degradadas por enzimas proteolíticas.
+As caderinas normalmente ligam as células por mecanismos homofílicos, onde as moléculas de uma célula ligam-se a outras moléculas do mesmo tipo nas células adjacentes, mas também podem ocorrer outros dois tipos de ligações: ligação heterofílica, onde as moléculas de uma célula ligam-se as moléculas de um tipo diferente na célula adjacente e a ligação dependente de ligante, nessa os bastões de caderinas são ligados uns aos outros por moléculas de ligantes multivalentes. 
+A maioria das caderinas ligam indiretamente a actina dos citoesqueletos de células vizinhas, suas caudas citoplasmáticas interagem diretamente com os filamentos de actina através de um grupo de proteínas de ancoramento intracelular denominado cateninas.
+
+
+== Selectinas ==
+As selectinas são moléculas de adesão dependentes do cálcio que actuam em conjunto com as integrinas sendo bastante importantes para a migração dos leucócitos através dos vasos sanguíneos visto que ajudam a fixar o leucócito ao endotélio do vaso. As interacções são do tipo heterofílicas visto que as selectinas se ligam a moléculas diferentes de si próprias. fazem ligação celular
+
+
+== Imunoglobulinas ==
+As imunoglobulinas são moléculas de adesão independentes do cálcio que ligam células vizinhas através de interacções homofílicas ou heterofílicas.
+
+
+== Integrinas ==
+As integrinas são moléculas de adesão dependentes do cálcio ou magnésio que ligam as células à matriz extracelular.

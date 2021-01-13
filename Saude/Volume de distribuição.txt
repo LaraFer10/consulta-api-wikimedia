@@ -1,0 +1,108 @@
+Volume de distribuição (VD) , também conhecido como volume aparente de distribuição, é um termo usado farmacologicamente para quantificar a distribuição de uma droga pelo corpo após administração oral ou parenteral. É definido como o volume no qual uma determinada quantidade de droga precisaria ser uniformemente distribuída para produzir a concentração sanguínea observada.
+O volume de distribuição pode estar aumentado por insuficiência renal (devido a retenção de fluidos) e insuficiência hepática (devido ao fluido corporal alterado e ligação a proteínas plasmáticas). Desta maneira, também pode estar diminuído na desidratação.
+
+
+== Equações ==
+O volume de distribuição é calculado a partir da seguinte equação:
+
+  
+    
+      
+        
+          
+            V
+            
+              D
+            
+          
+        
+        =
+        
+          
+            
+              q
+              u
+              a
+              n
+              t
+              i
+              d
+              a
+              d
+              e
+               
+              t
+              o
+              t
+              a
+              l
+               
+              d
+              e
+               
+              d
+              r
+              o
+              g
+              a
+               
+              n
+              o
+               
+              c
+              o
+              r
+              p
+              o
+               
+              (
+              Q
+              )
+            
+            
+              c
+              o
+              n
+              c
+              e
+              n
+              t
+              r
+              a
+              c
+              a
+              o
+               
+              s
+              a
+              n
+              g
+              u
+              i
+              n
+              e
+              a
+               
+              d
+              a
+               
+              d
+              r
+              o
+              g
+              a
+               
+              (
+              C
+              )
+            
+          
+        
+      
+    
+    {\displaystyle {V_{D}}={\frac {\mathrm {quantidade\ total\ de\ droga\ no\ corpo\ (Q)} }{\mathrm {concentracao\ sanguinea\ da\ droga\ (C)} }}}
+  Desta maneira, se for conhecido o VD da droga, pode-se determinar a dose necessária para gerar uma determinada concentração plasmática. O VD não é um volume real; é mais um índice de como a droga irá se distribuir por todo o corpo de acordo com diversas propriedades fisicoquímicas, como solubilidade, carga, tamanho, etc.
+A unidade para o volume de distribuição é geralmente  (ml ou litro)/kg de peso corporal.
+
+
+== Exemplos ==

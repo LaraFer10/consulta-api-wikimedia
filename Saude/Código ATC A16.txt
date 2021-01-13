@@ -1,0 +1,31 @@
+
+== A16A Outros produtos para as vias digestivas e metabolismo ==
+
+
+=== A16AA Aminoácidos e derivados ===
+A16AA01 Levocarnitina
+A16AA02 Ademetionina
+A16AA03 Levoglutamida
+A16AA04 Mercaptamina
+A16AA05 Ácido carglúmico
+A16AA06 Betaína
+
+
+=== A16AB Enzimas ===
+A16AB01 Alglucerase
+A16AB02 Imiglucerase
+A16AB03 Agalsidase alfa
+A16AB04 Agalsidase beta
+A16AB05 Laronidase
+A16AB06 Sacrosidase*
+A16AB07 Alglucosidase alfa
+A16AB08 Galsulfase
+
+
+=== A16AX Produtos diversos do tracto alimentar e metabolismo ===
+A16AX01 Ácido tióctico
+A16AX02 Anethole trithione*
+A16AX03 Fenilbutirato de sódio
+A16AX04 Nitisinona
+A16AX05 Acetato de zinco
+A16AX06 Miglustato* - falta tradução

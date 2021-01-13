@@ -1,0 +1,52 @@
+As enzimas de restrição ou  endonucleases de restrição como também são conhecidas, são enzimas que cortam a molécula de DNA através do reconhecimento de sequências nucleotídicas específicas.
+
+
+== Modo de funcionamento ==
+As endonucleases de restrição são enzimas bacterianas que atuam como "tesouras moleculares", reconhecendo sequências de pares de bases específicas em moléculas de DNA e cortando-as nesses pontos. Elas são altamente específicas:cada tipo de enzima reconhece e corta apenas uma determinada sequência de nucleotídeo, em geral constituída por 4 ou 6 pares de bases azotadas.
+Estas enzimas funcionam nas células bacterianas  como parte de um mecanismo de protecção ao ataque de bacteriófagos chamado sistema de restrição modificação. Uma molécula de DNA viral que contenha sítios para uma endonuclease bacteriana, ao ser injetada na bactéria, é prontamente cortada nesses pontos e deixa de funcionar. O DNA da própria célula bacteriana é protegido por metilação. Hoje são conhecidas centenas dessas enzimas, que são purificadas e comercializadas por diversos laboratórios no mundo.
+Além de evidenciar a existência de um novo sistema de defesa bacteriana e da complexa interação entre bactéria e vírus parasitas, a descoberta das enzimas de restrição permitiu grandes avanços na Genética Molecular. Por isso, os três pesquisadores responsáveis pela elucidação do mecanismo de ação das endonucleases de restrição, o suíço Werner Arber (n. 1931) e os norte-americanos Daniel Nathans (1928-1999) e Hamilton Smith (n.1931), receberam o Prêmio Nobel em Medicina ou Fisiologia em 1978.
+Moléculas idênticas de DNA tratadas com determinada endonuclease de restrição são cortadas nos mesmos pontos, originando fragmento de tamanho idênticos. Por exemplo, no primeiro estudo com endonuclease de restrição, realizado em 1971, o virologista Daniel Nathans e uma de suas estudantes, Kathleen Danna, trataram DNA do vírus SV40 com a enzima Hind II e obtiveram 11 tipos de fragmentos, que diferiam em tamanho. Como o DNA desse vírus é uma molécula circular, conclui-se que ela foi cortada em 11 locais; o tamanho de cada fragmento correspondia à distância entre dois sítios de corte adjacentes.
+Uma endonuclease de restrição é como uma ferramenta que permite cortar moléculas de DNA de forma controlada e reprodutível. Diversos pesquisadores passaram a utilizar a nova técnica para mapear o genoma de outros vírus, depois de bactérias e de outros organismos, lançando as bases para a Engenharia Genética e, em seguida para o Projeto Genoma Humano.
+
+
+=== Tipos de enzimas de restrição ===
+Existem três tipos de enzimas de restrição: I, II ou III. A maioria das enzimas utilizadas hoje em dia são do tipo II, que têm o modo de acção mais simples. Estas enzimas são nucleases, e como cortam numa posição interna da cadeia de DNA, em vez de iniciar a sua degradação a partir de uma das pontas, são chamadas endonucleases. Assim, a designação mais correcta destas enzimas é endonucleases de restrição do tipo II, embora muitas vezes sejam simplesmente designadas como enzimas de restrição.
+
+
+=== Utilização no corte de DNA genômico ===
+A maioria dos cortes de DNA genômico é feita usando enzimas de restrição bacterianas. Estas enzimas cortam em seqüências-alvo específicas para DNA, chamados sítios de restrição, e esta propriedade é uma das características principais que tornam as enzimas de restrição adequadas para a manipulação do DNA. Qualquer molécula de DNA, seja ela derivada de um vírus, mosca ou humano, contém alvos para enzimas de restrição. A enzima de restrição cortará o DNA em um conjunto de fragmentos de restrição determinados pelas localizações dos sítios de restrição.
+Outra propriedade importante de algumas enzimas de restrição são as "pontas adesivas". Vejamos um exemplo. A enzima de restrição EcoRI (de Coli) reconhece a seguinte seqüência de seis pares de nucleotídeos no DNA de qualquer organismo:
+
+5'-G A A T T C-3'
+3'-C T T A A G-5'
+
+Este tipo de segmento é chamado de um palíndromo de DNA, o que significa que ambos os filamentos têm a mesma seqüência de nucleotídeos mas com polaridade inversa. Enzimas de restrição diferentes cortam em seqüências palindrômicas diferentes. Às vezes os cortes são na mesma posição em cada um dos dois filamentos de polaridade inversa. As enzimas de restrição mais úteis fazem cortes que são desencontrados. Por exemplo, a enzima EcoRI  faz cortes apenas entre os nucleotídeos G e A em cada filamento do palíndromo:
+
+    ↓
+5'-G A A T T C-3'
+3'-C T T A A G-5'
+            ↑
+
+Estes cortes desencontrados deixam um par de pontas adesivas idênticas. Cada uma é um filamento único com cinco bases de tamanho. As pontas são chamadas de adesivas porque, sendo unifilamentares, elas podem fazer pares de bases (isto é, adesão) com uma seqüência complementar. O pareamento unifilamentar deste tipo às vezes é chamado de hibridização.
+Dúzias de enzimas de restrição são conhecidas hoje. Algumas enzimas, tais como a EcoRI ou PstI, fazem cortes perpendiculares e deixam pontas coesivas. Mesmo estes cortes, que não têm pontas adesivas, podem ser usados para fazer DNA recombinante. Enzimas especiais podem unir pontas adesivas a partir de pontas coesivas.
+
+
+== Nomenclatura ==
+Desde de sua identificação, em 1970, mais de 100 diferentes tipos de enzimas de restrição bacterianas foram identificados. A nomenclatura compõe-se das iniciais do nome da espécie  e, às vezes, da sigla da linhagem da bactéria que a produz.Por exemplo a enzima EcoRI, veja no box.
+
+
+== Especificidade e resultados da clivagem por enzima de restrição ==
+(a) Três hexanucleotídeos como sítios de reconhecimento e as enzimas de restrição que os cortam. Note que um sítio produz uma projeção 5', outro uma 3', e o terceiro um ponta romba. (b) Exemplo de enzimas que têm sítios de reconhecimento de tetranucleotídeos.
+
+
+== Notas ==
+
+
+== Ver também ==
+Projeto Genoma
+
+
+== Bibliografia ==
+Introdução à genética, Griffiths, Wessler, Lewontin, Gesbart, suzuki, Miller, 8º Edição, Guanabara Koogan, 2006.
+Biologia; José Mariano Amabis, Gilberto Rodriges Martho; Moderna; 2004
+NICHOLL, Desmond S.T. An Introduction to Genetic Engineering. 2nd Ed. Cambridge University Press, 2002. ISBN 0521004713

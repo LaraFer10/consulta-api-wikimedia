@@ -1,0 +1,10 @@
+Dioptria é uma unidade de medida que quantifica a capacidade de vergência – ou refração – de um sistema óptico (m-1). Exprime a capacidade de um meio transparente modificar o trajeto da luz. Na Óptica, é a unidade de medida da potência de uma lente corretiva (popularmente conhecido como grau). Por exemplo, uma lente de 1/2 dioptria traz raios de luz paralelos para focalizar 2 metros.O termo foi proposto pelo oftalmologista francês Felix Monoyer em 1872. mas já havia sido usado por Johannes Kepler em seu manucrito Dioptrice, de 1611, sobre a ótica dos telescópios.Para o olho humano, a distância focal é de aproximadamente f(norm) = 17 mm.
+Um olho míope (miopia do tipo axial) tem a mesma distância focal de um olho normal, mas, sendo mais longo, necessita de uma maior distância focal para que os raios luminosos convirjam sobre a retina.
+Matematicamente, a dioptria é o inverso da distância focal, sendo este a metade do raio de curvatura: D = 1/F = 2/R.
+
+
+== Na visão humana ==
+Nos seres humanos, a potência óptica máxima do olho relaxado é de em média 60 dioptrias. A córnea é responsável por aproximadamente 40 dioptrias desse total e o cristalino contribui com cerca de 20 dioptrias. Ao focar, o músculo ciliar se contrai para reduzir a tensão ou o estresse transferido para o cristalino pelos ligamentos suspensores. Isso resulta em aumento da convexidade da lente, o que aumenta a potência óptica do olho. A amplitude de acomodação varia conforme a idade, devido ao desgastamento do músculo ciliar, e é de cerca de 15 a 20 dioptrias em crianças, diminuindo para um valor em torno de 10 dioptrias aos 25 anos e para cerca de 1 dioptria acima dos 50 anos, causando a presbiopia (ou vista cansada).
+
+
+== Referências ==

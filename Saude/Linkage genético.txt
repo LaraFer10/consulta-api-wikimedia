@@ -1,0 +1,17 @@
+Linkage genético, ou ligação genética, descreve a associação de dois ou mais loci num cromossoma a partir do nível de recombinação meiótica entre eles.
+Descreve uma situação em que algumas combinações de alelos ou marcadores genéticos ocorrem mais ou menos frequentemente numa população do que era esperado pela formação aleatória de haplótipos a partir de alelos baseados nas suas frequências.
+T. H. Morgan e seus colaboradores trabalharam com a mosca da fruta, Drosophila melanogaster, e realizaram cruzamentos em que estudaram dois ou mais pares de genes, verificando que, realmente, nem sempre a 2ª Lei de Mendel era obedecida. Concluíram que esses genes não estavam em cromossomos diferente, mas, sim, encontravam-se no mesmo cromossomo (em linkage).
+Em um dos seus experimentos, Morgan cruzou moscas selvagens de corpo cinza e asas longas com mutantes de corpo preto e asas curtas (chamadas de asas vestigiais). Todos os descendentes de F1 apresentavam corpo cinza e asas longas, atestando que o gene que condiciona corpo cinza (P) domina o que determina corpo preto (p), assim como o gene para asas longas (V) é dominante sobre o (v) que condiciona surgimento de asas vestigiais.
+A seguir Morgan cruzou descendentes de F1 com duplo-recessivos (ou seja, realizou cruzamentos testes). Para Morgan, os resultados dos cruzamentos-teste revelariam se os genes estavam localizados em cromossomos diferentes (segregação-independente) ou em um mesmo cromossomo (linkage).
+Surpreendentemente, porém, nenhum dos resultados esperados foi obtido. A separação e a contagem dos descendentes de F2 revelou o seguinte resultado:
+
+41,5% de moscas com o corpo cinza e asas longas;
+41,5% de moscas com o corpo preto e asas vestigiais;
+8,5% de moscas com o corpo preto e asas longas;
+8,5% de moscas com o corpo cinza e asas vestigiais.Ao analisar esse resultado, Morgan convenceu-se de que os genes P e V localizavam-se no mesmo cromossomo. Se estivessem localizados em cromossomos diferentes, a proporção esperada seria outra (1: 1: 1: 1). No entanto, restava a dúvida: como explicar a ocorrência dos fenótipos corpo cinza/asas vestigiais e corpo preto/asas longas?
+A resposta não foi difícil de ser obtida. Por essa época já estava razoavelmente esclarecido o processo da meiose. Em 1909, o citologista F. A. Janssens (1863-1964) descreveu o fenômeno cromossômico conhecido como permutação ou crossing over, que ocorre durante a prófase I da meiose e consiste na troca de fragmentos entre cromossomos homólogos.
+Em 1911, Morgan usou essa observação para concluir que os fenótipos corpo cinza/asas vestigiais e corpo preto/asas longas eram recombinantes e devido a ocorrência de crossing-over.
+
+
+== Referências ==
+Lobo, I. & Shaw, K. (2008) Discovery and Types of Genetic Linkage. Nature Education 1 (1).

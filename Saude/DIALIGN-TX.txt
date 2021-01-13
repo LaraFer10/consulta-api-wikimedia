@@ -1,0 +1,26 @@
+DIALIGN-TX é um programa de alinhamento múltiplo de seqüência escrita por Amarendran R. Subramanian e é uma melhoria substancial do DIALIGN-T, combinando estratégias de alinhamento gananciosas e progressivas em um novo algoritmo.O programa original, DIALIGN-T é uma reimplementação do programa de alinhamento múltiplo DIALIGN, de Burkhard Morgenstern. Devido a várias melhorias de algoritmos, ele produz alinhamentos significativamente melhores em conjuntos de seqüências tanto localmente quanto globalmente em relação as versões anteriores do DIALIGN. DIALIGN é baseado na computação de blocos livres de lacunas entre pares de segmentos (diagonais). No entanto, como na implementação original do programa, DIALIGN-T utiliza uma abordagem gananciosa simples e direta para montar alinhamentos múltiplos de seqüência a partir de de semelhanças locais entre pares. Tais abordagens gananciosas podem ser vulneráveis ​​a falsas semelhanças aleatórias e podem, portanto, levar a resultados abaixo do ideal. DIALIGN-TX é uma melhoria substancial de DIALIGN-T, que combina o algoritmo ganancioso anterior com uma abordagem de alinhamento progressivo.
+
+
+== Bibliografia ==
+Subramanian AR, Kaufmann M, Morgenstern B. DIALIGN-TX: Greedy and progressive approaches for segment-based multiple sequence alignment. Algorithms for Molecular Biology 2008, 3:6
+Subramanian AR, Weyer-Menkhoff J, Kaufmann M, Morgenstern B. DIALIGN-T: An improved algorithm for segment-based multiple sequence alignment. BMC Bioinformatics 2005, 6:66
+
+
+== Ver também ==
+Clustal
+PHYLIP
+MEGA, Molecular Evolutionary Genetics Analysis
+PAUP
+T-Coffee
+MUSCLE
+Bioinformática
+Filogenética computacional
+Alinhamento múltiplo de sequências
+
+
+== Ligações externas ==
+Sítio oficial
+Sítio DIALIGN
+
+
+== Referências ==

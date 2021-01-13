@@ -1,0 +1,62 @@
+Potencial elétrico de membrana ou potencial transmembranar  ou voltagem da membrana é a diferença de potencial eléctrico (voltagem) entre os meios intra e extracelular. Em relação ao exterior da célula, os valores do potencial da membrana variam geralmente  entre  –30 mV  e –90 mV.
+Todas as células animais são envolvidas por uma membrana constituída por uma bicamada  lipídica que contém proteínas  incorporadas. A membrana celular serve  tanto como  isolante quanto como  barreira de difusão para o movimento de  íons. As bombas de íons, que são proteínas transmembranares,  empurram os íons para que cruzem a membrana, através dos canais iônicos,  assim modificando os  gradientes de concentração.   Bombas iónicas e canais iônicos são eletricamente equivalentes a um conjunto de pilhas e resistores inseridos na membrana e criam uma diferença de tensão entre os dois lados da membrana, regulando as concentrações de íons no citoplasma, separado pela bicapa lipídica  da membrana plasmática.Muitos íons têm um gradiente de concentração através da membrana, incluindo o potássio (K+), que está a uma concentração elevada no interior da célula e a uma baixa concentração no exterior. Sódio (Na +) e Cloreto (Cl-) estão em concentrações elevadas na região extracelular, e baixas concentrações nas regiões intracelulares. Estes gradientes de concentração possuem a energia potencial necessária para conduzir a formação do potencial de membrana.
+Em humanos, a voltagem em repouso é por volta de - 70 mV, em neurônios, e de  –90 mV em uma placa motora. Quando um potencial de ação permite a entrada de íons de sódio (Na+), a tensão interior torna-se menos negativa (passando, por exemplo,  de -70 mV para 10 mV) levando à  despolarização da membrana. Quanto mais perto de 0 mV, menos polarizada. Como consequência, o potássio sai, provocando  a  repolarização até o ponto de causar hiperpolarização para -90 mV, que logo é reequilibrada, voltando para -70mV. 
+O potencial de membrana pode ser calculado usando a equaçao de Nerst. A 37°C, o potencial de Nerst é:
+
+  
+    
+      
+        V
+        =
+        
+          V
+          
+            1
+          
+        
+        −
+        
+          V
+          
+            2
+          
+        
+        =
+        ±
+        (
+        61
+        ,
+        4
+         
+        m
+        V
+        )
+        log
+        ⁡
+        
+          
+            
+              c
+              
+                1
+              
+            
+            
+              c
+              
+                2
+              
+            
+          
+        
+      
+    
+    {\displaystyle V=V_{1}-V_{2}=\pm (61,4\ mV)\log {\frac {c_{1}}{c_{2}}}}
+  
+Sendo:
+V  voltagem
+C1   concentração intracelular de íons 
+C2   concentração extracelular de íons
+
+
+== Referências ==

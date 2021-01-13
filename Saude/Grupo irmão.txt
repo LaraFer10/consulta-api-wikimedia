@@ -1,0 +1,12 @@
+Grupo irmão e táxon irmão são as designações usadas em sistemática e em cladística para denotar os agrupamentos taxonómicos que incluem os parentes mais próximos numa árvore filogenética. O conceito é utilizado em filogenia para denotar os grupos que partilham um ancestral comum e que por isso representam ramos divergentes (paralelos) em cada ramificação da árvore filogenética.
+
+
+== Descrição ==
+O conceito de grupo irmão pode ser facilmente ilustrado recorrendo ao seguinte cladograma:
+
+Nele é possível de imediato identificar B como o grupo irmão de A, relação que é simétrica, pelo que, obviamente, A é também o grupo irmão de B. Da mesma forma, os dois grupos (A e B) são, conjuntamente, o grupo irmão de C, e vice-versa. Pela mesma lógica, cada um destes grupos, incluindo todos os restantes descendentes do seu último antepassado comum, constitui um clado (ou ramo). Por sua vez, todo o cladograma enraíza numa arvore filogenética maior, oferecendo assim mais grupos irmãos, progressivamente mais afastados, mas sempre ligados por um ancestral comum.
+De acordo com as normas cladísticas, A, B, e C podem aqui representar espécimes, espécies ou agrupamentos taxonómicos de qualquer categoria. Nos casos em que representam espécies, o termo espécies irmãs é por vezes utilizado.
+O termo grupo-irmão é sempre usado no contexto de uma análise filogenética. Apenas os grupos considerados na análise são rotulados como grupos irmãos. Um exemplo frequentemente citado é o caso das aves, agrupamento taxonómico cujo grupo irmão é aquele que agrupa os crocodilos. Este tipo de relação é, no entanto, apenas verdadeiro quando aplicado a táxons "extantes" (não extintos), pois na realidade a árvore de família das aves está enraizada nos dinossauros, incluindo um grande número de grupos que se ramificam antes de atingir o último ancestral comum de aves e crocodilos.Assim, o grupo irmão deve ser visto como um termo relativo, com a ressalva de que o grupo irmão é o parente mais próximo apenas entre os grupos, espécies ou espécimes incluídos na análise.
+
+
+== Referências ==

@@ -1,0 +1,49 @@
+Taxa de letalidade (TL) ou coeficiente de letalidade é a proporção entre o número de mortes por uma doença e o número total de doentes que sofrem dessa doença, ao longo de um determinado período de tempo. É geralmente expressa em percentagem.É difícil de realizar, por ser necessário registrar todos os pacientes para esta doença e, em muitas doenças, casos assintomáticos ou leves não são declarados.
+
+
+== Terminologia ==
+Uma taxa de mortalidade, geralmente confundida com uma taxa de letalidade, é uma medida do número de mortes (em geral ou devido a uma causa específica) em uma população escalada para o tamanho dessa população por unidade de tempo. A taxa de letalidade, por outro lado, é o número de mortos entre o número de casos diagnosticados.
+
+
+== Fórmula ==
+
+  
+    
+      
+        L
+        %
+        =
+        
+          
+            F
+            E
+          
+        
+        ∗
+        100
+      
+    
+    {\displaystyle L\%={F \over E}*100}
+  L: taxa de letalidade dos casos.
+F: Número de mortes por uma doença em um determinado período e área.
+E: Número de casos diagnosticados pela mesma doença no mesmo período e área.
+
+
+== Exemplo de cálculo ==
+Suponha 9 mortes entre 100 pessoas em uma comunidade, todas diagnosticadas com a mesma doença. Isso significa que entre as 100 pessoas formalmente diagnosticadas com a doença, 9 morreram e 91 se recuperaram. O CFR, portanto, seria de 9%. É expresso como um número que varia de 0 a 1 ou como uma porcentagem entre 0% e 100%
+
+
+== Ver também ==
+Morbidade
+Mortalidade
+Taxa de mortalidade - Medida do número de mortes em uma população de uma causa dada, escalada por população, em um período de tempo definido;
+Índice de severidade pandémica - Medida proposta da gravidade das pandemias de influenza.
+
+
+== Referências ==
+
+
+== Ligações externas ==
+Taxas e proporções.
+Definitions of case fatality for coronary events in the WHO MONICA Project
+Swine flu: what do CFR, virulence and mortality rate mean?

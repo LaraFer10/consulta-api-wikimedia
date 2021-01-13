@@ -1,0 +1,14 @@
+A glicose oxidase (GOx) é uma enzima (EC 1.1.3.4) que se liga à beta-D-glicose (um isómero do seis carbonos da glicose) e auxilia na quebra desta açúcar nos seus metabolitos. A GOx é uma proteína dimérica que catalisa a oxidação da beta-D-glicose em D-glucono-delta-1,5-lactona, que depois é hidrolisada em ácido glucónico
+O número CAS para este tipo de enzima é [9001-37-0].
+De maneira a poder funcionar como catalisador, a GOx requer um cofactor, a dinucleótido de flavina-adenina (FAD). A FAD é um componente comum nas reacções biológicas de oxidação-redução. Estas reacções envolvem um ganho ou perda de electrões de uma molécula. Na recção redox catalisada pela GOx, a FAD funciona como o aceitador inicial de electrões e é reduzida a FADH2. Depois o FADH2 é oxidado pelo aceitado final de electrões, o oxigénio molecular (O2). O O2 é então reduzido a peróxido de hidrogénio (H2O2).
+Esta enzima é vulgarmente utilizada em biosensores com vista a detectar níveis de glicose. Isto é efectuado através do registo de número de electrões para passam pela enzima, por conexão desta a um eléctrodo e medindo a carga resultante. Quando produzida comercialmente para esta aplicação, é muitas vezes obtida a partir de Aspergillus niger. Este processo tem possíveis aplicações no campo da nanotecnologia quando usado em conjunção com pequenos eléctrodos como sensores de glicose em diabéticos.
+A glicose oxidase pode ser encontrada no mel e actua como conservante natural. A GOx À superfície do mel reduz o O2 atmosférico em peróxido de hidrogénio, que funciona como barreira antimicrobiana.
+
+
+== Ver também ==
+Oxidorredutase
+
+
+== Ligações externas ==
+«"Glucose Oxidase:  A much used and much loved enzyme in biosensors"» (em inglês). - Universidade de Paisley 
+MeSH Glucose+Oxidase

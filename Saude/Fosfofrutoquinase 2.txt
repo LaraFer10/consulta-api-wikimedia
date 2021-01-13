@@ -1,0 +1,29 @@
+Fosfofrutoquinase 2 (PFK2, do inglês phosphofructokinase 2) é uma atividade de uma enzima bifuncional (Número EC 2.7.1.105), a outra das quais é a frutose 2,6-bisfosfatase (FBPase2).  A enzima bifuncional está presente principalmente em células que tem responsabilidade na regulação de concentrações de glucose na corrente sanguínea, por exemplo, algumas células do fígado.
+
+
+== Estrutura ==
+Os monômeros da proteína bifuncional são divididos em dois sítios funcionais.  O sitio catalítico é localizado na porção N-terminal, enquanto o sitio fosfático é localizado na parte C-terminal. 
+
+
+== Função e Regulação ==
+A fosfofrutoquinase-2 é uma enzima alostérica, ou seja, ela é regulada por reações não-covalentes, que regula a glicólise e a glicogênese por meio da catalização da transferência do grupo fosfato do ATP para a frutose-6-fosfato, levando à formação de frutose-2,6-difosfato, um efetor alostérico para outra 6-fosfofrutoquinase, a fosfofrutoquinase-1. A fosfofrutoquinase-2 é bifuncional, tem uma função tanto na forma desfosforilada, quanto fosforilada: a forma desfosforilada é uma quinase, ou seja, transfere os grupos fosfatos para moléculas-alvo específicas (seus substratos) e a forma fosforilada é uma fosfatase que quebra a frutose 2,6-difosfato gerando a frutose-6-fosfato, removendo um fosfato. 
+Insulina ativa a PFK-2 no fígado, indicando grande abundancia de glicose no organismo disponível para glicólise. A Insulina ativa a fosfatase que desfosforila o complexo PFK-2 causando sua atividade A PFK-2, então, aumenta a produção de frutose-2,6-bifosfato que alostericamente ativa a PFK-1, assim estimulando a glicólise e inibindo a gliconeogênse.
+
+O glucagon, ao contrário, ativa a cadeia de cAMP, fosforilando a cinase. Isso inativa a enzima bifuncional de agir como uma cinase e estabiliza a atividade da fosfatase. Então, o glucagon diminui a concentração de frutose-2,6-bifosfato, diminuindo o processo de glicólise e estimulando a gliconeogênese.   
+A regulação da fosfofrutoquinase 2 é feita a partir dos índices de ATP do meio. Ela tem sua atividade acelerada sempre que as taxas de ATP estão baixas ou quando há um excesso dos produtos de hidrólise do ATP, ADP e AMP, principalmente este último. Ela é inibida sempre que as células estão bem supridas de ATP e outros compostos, tais como, citrato e os ácidos graxos.
+
+
+== Ligações externas ==
+National Library of Medicine - Medical Subject Headings - Phosphofructokinase-2 - www.nlm.nih.gov (em inglês)
+[1] (em inglês)
+[2] (em inglês)
+[3] (em inglês)
+[4] (em inglês)
+[5] (em inglês)
+[6] (em inglês)
+[7] (em inglês)
+[8] (em inglês)
+
+
+== Ver também ==
+Fosfofrutoquinase 1

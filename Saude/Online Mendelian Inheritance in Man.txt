@@ -1,0 +1,14 @@
+O projecto Mendelian Inheritance in Man é uma base de dados que cataloga todas as doenças humanas que tenham uma componente genética. Quando possível faz a ligação dessas doenças aos respectivos genes.
+
+
+== O código MIM ==
+A cada doença e gene é atribuido um dígito com seis algarismos. O primeiro algarismo reflete o tipo de hereditariedade.
+
+
+== Referências ==
+Tabela baseada no FAQ OMIM
+McKusick VA. Mendelian Inheritance in Man; A Catalog of Human Genes and Genetic Disorders. Baltimore, MD: The Johns Hopkins University Press, 1998. ISBN 0-8018-5742-2.
+
+
+== Ligações externas ==
+Online Mendelian Inheritance in Man (para pesquisa)

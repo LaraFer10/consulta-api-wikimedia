@@ -1,0 +1,39 @@
+A interação gênica é o fenômeno genético em que vários genes interagem entre si para influenciar uma única característica. Ela envolve graus variáveis de complexidade. Os casos mais simples, porém, resultam da interação entre dois genes que segregam independentemente. Em um estudo clássico realizado por Bateson e Punnett, ficou demonstrado que o caráter "tipo de crista" em galinhas, por exemplo, é determinado por dois genes independentes (que equivale a dois pares de alelos). O contrário da interação gênica é a pleiotropia, em que um par de alelos (ou seja, um único gene) determina ao mesmo tempo mais de um caráter do organismo.
+
+Em resumo : 
+Epitasia: Um dos pares de gene que pode inibir a expressão do outro par, ou seja, o produto do primeiro gene inibe o efeito fenotípico do outro. 
+Pleiotropia: Um único gene responsável pela produção de várias e distintas características fenotípicas, aparentemente não relacionadas.
+
+
+== Epistasia ==
+Existem vários tipos de interação gênica, sendo a mais conhecida delas a epistasia. Epistasia (do Grego epi, sobre, stasis, parada, inibição) é a interação gênica em que a expressão de um gene inibe a presença do outro. Ou seja, se um gene A estiver presente, não é possível determinar se o gene B está presente ou não. O termo epistasia é amplamente utilizado na genética de populações e se refere especialmente a propriedades estatísticas do fenômeno.
+O alelo que age inibindo é chamado epistático e o que sofre a ação inibitória é chamado hipostático. No caso de o alelo epistático aparecer sem par, ou seja, apenas um alelo é necessário para manifestar a ação de inibição, dizemos que é epistasia dominante. Já no caso de apenas manifestar-se a ação inibidora com o par de alelos, dizemos epistasia recessiva.
+
+
+== Interações não-epistáticas ==
+
+Também pode ocorrer a interação gênica por supressão. Nesse caso, um gene impede a expressão do outro. Isso pode ocorrer nos olhos de Drosophila', em que um gene mutante que torna os olhos roxos pode ser suprimido por um supressor su, que faz com que os olhos fiquem da cor vermelha normal.
+Ocorre também a duplicação de um gene. Assim, o ser vivo pode ter dois genes independentes, A e B, que codificam a mesma característica. Esse é o caso da planta bolsa-de-pastor (Capsella bursa-pastoris).
+
+
+== Três genes atuando sobre uma mesma característica ==
+Também existem interações gênicas mais complexas, como por exemplo três genes interagindo em uma mesma caracterísica, como é o caso das cores das flores da dedaleira (Digitalis purpurea'). Na dedaleira, atuam os genes M, W e D.
+
+O gene dominante M determina a produção de um pigmento roxo, um tipo de antocianina. O gene recessivo m não produz esse pigmento. O gene dominante D é um enhancer,  que estimula a super expressão do gene M, fazendo com que seja produzida uma grande quantidade de pigmento. O gene recessivo d não estimula essa super produção, fazendo com que apenas uma pequena quantidade de pigmento seja produzida. Por último, o gene W faz com que o pigmento seja depositado apenas em alguns pontos no interior da pétala, enquanto que o gene w permite que a cor apareça por toda a pétala.
+Essa combinação leva a uma grande quantidade de possíveis genótipos, mas como há interação gênica, apenas quatro fenótipos são observados:
+
+M/_; W/_; _/_ = flor branca com pontos roxos;
+m/m; _/_; _/_ = flor branca com pontos amarelados;
+M/_; w/w; d/d = flor roxa clara;
+M/_; w/w; D/_ = flor roxa escura.
+
+
+== Expressividade e penetrância ==
+É preciso ter em mente que a presença de um gene não é certeza de que esse gene será expresso. A esses fenômenos se dão os nomes penetrância incompleta, em que nem todos os indivíduos que possuem o gene o expressam, e expressividade variável, em que mesmo os indivíduos que expressam o gene o expressam de formas diferentes, de maneira mais ou menos intensa.
+
+
+== Ver também ==
+Mutação
+
+
+== Referências ==

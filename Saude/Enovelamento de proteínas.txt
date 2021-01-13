@@ -1,0 +1,30 @@
+O enovelamento de proteínas (em inglês: Protein Folding) é um processo químico em que a estrutura de uma proteína assume a sua configuração funcional.
+Todas as moléculas de proteínas são cadeias heterogéneas não ramificadas de aminoácidos. Ao dobrar e enrolar-se para tomar uma forma tridimensional específica, as proteínas são capazes de realizar a sua função biológica.
+O processo contrário chama-se desnaturação, em que uma proteína original é forçada a perder a sua configuração funcional, tornando-se uma cadeia amorfa e não funcional de aminoácidos. As proteínas desnaturadas podem perder a sua solubilidade e precipitar em sólidos insolúveis. Em alguns casos, a desnaturação é reversível e as proteínas podem voltar a enovelar-se. No entanto, a desnaturação é, na maioria dos casos, um processo irreversível.
+
+
+== Fatos conhecidos acerca do Processo ==
+
+
+=== A relação entre o dobramento e a sequência de aminoácidos ===
+A sequência de aminoácidos especifica de uma proteína (ou estrutura primária) condiciona-a a dobrar-se para tomar a sua configuração natural. Muitas proteínas fazem-no espontaneamente durante ou após a sua síntese no interior das células.
+Apesar destas macromoléculas aparentarem estar a dobrar-se a si mesmas, de facto a sua dobragem depende em grande medida das características da solução que as rodeia, incluindo o tipo de solvente primário (no interior das células é água ou lípidos), da concentração dos sais, da temperatura e das moléculas que a rodeiam.
+Em geral, os cientistas tem sido capazes de estudar muitas moléculas idênticas dobrando simultaneamente em larga escala. Aparentemente na transição para o estado natural, uma dada sequência de aminoácidos percorre genéricamente o mesmo caminho, passando por aproximadamente o mesmo número de intermediários fundamentais.
+Ao nível mais simples, o dobramento envolve inicialmente o estabelecimento duma estrutura secundária, particularmente hélices alfa e folhas-beta, e depois uma estrutura teciária (formação de estruturas quaternárias aparenta envolver a montagem de sub-unidades que já se tenham dobrado). Ao contrário das estruturas primárias, secundárias ou quaternárias, a estrutura terciária pode envolver ligações covalentes na forma de pontes de dissulfito entre dois resíduos de cisteína. Isto é invulgar, visto que as interacções electrostáticas (pontes de hidrogénio, interacções de Van der Waals) entre grupos R dos aminoácidos normalmente controlam o dobramento. Pouco antes de estabilizarem na sua configuração natural, as moléculas parecem passar por um estado de "glóbulo".
+O ponto essencial no dobramento é, no entanto, o facto da sequência de aminoácidos específica de cada proteína conter a informação que indica a estrutura nativa e caminho para atingir esse estado: o dobramento é um processo espontâneo. A passagem ao estado de dobrado é controlada por forças de Van der Waals contribuições entrópicas à energia livre de Gibbs: um aumento de entropia é conseguido movendo as secções hidrofóbicas das proteínas para o interior e as hidrofílicas para o exterior. Isto atribui mais graus de liberdade às moléculas de água circundantes. Durante o processo de dobramento, o número de pontes de hidrogénio não muda apreciavelmente, porque por cada ponte de hidrogénio interna, uma ponte de hidrogénio entre a proteína desdobrada e o meio aquoso terá de ser quebrada.
+
+
+==== Condições Prévias para o Dobramento Correto ====
+Em certas soluções e sob determinadas condições, as proteínas podem não se dobrar. Temperaturas acima ou abaixo da gama na qual as células costumam sobreviver, levam a proteína a desdobrar-se ou desnaturar (é por esta razão que a ebulição leva a que a clara do ovo fique opaca). Altas concentrações de soluto e extremos de pH podem levar ao mesmo resultado. Uma proteína completamente desnaturada não possui estruturas terciárias e secundárias, e existe sob a designação de espiral aleatória. As células por vezes protegem as suas proteínas da desnaturação pelo calor graças a enzimas conhecidas como acompanhantes ou proteínas de choque térmico, estas ajudam outras proteínas, tanto a dobrarem-se como a manterem-se dobradas. Algumas proteínas nunca se dobram dentro das células excepto com a ajuda de moléculas acompanhantes, que isolam proteínas individuais para que o seu dobramento não seja interrompido por interacções com outras proteínas. A configuração do DNA é mantida por outro conjunto de enzimas: as topoisomerases.
+
+
+== Pesquisa Acadêmica ==
+O processo de enovelamento protéico tem sido alvo de estudos em muitos grupos de pesquisa em biologia computacional ao redor do mundo como, por exemplo, na Universidade Stanford nos Estados Unidos criadora do projeto Folding@home.
+No Brasil, o assunto vem sendo tema de pesquisas em instituições de ponta tais como a Universidade Estadual Paulista (UNESP), a Universidade Federal do ABC (UFABC) e o Laboratório Nacional de Computação Científica (LNCC).
+
+
+== Ligações externas ==
+Jogando para resolver problemas da ciência
+
+
+== Referências ==

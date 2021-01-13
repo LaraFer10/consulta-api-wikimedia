@@ -1,0 +1,22 @@
+O ACADM (acil-coenzima A desidrogenase, C-4 de cadeia de C-12 em linha reta) é um gene que fornece instruções para fazer uma enzima chamada acil-coenzima A desidrogenase que é importante para quebrar (degradar) um certo grupo de gorduras chamadas ácidos graxos de cadeia média. Esses ácidos graxos são encontrados em alimentos como leite e certos óleos, e eles também são armazenadas no tecido adiposo do corpo. Ácidos graxos de cadeia média também são produzidos quando os maiores ácidos graxos são degradados. A enzima acil-coenzima A desidrogenase dos ácidos graxos de cadeia média (ACADM) é essencial para a conversão particular destes ácidos graxos em energia, especialmente durante os períodos sem alimentação (jejum). A enzima ACADM funciona nas mitocôndrias, os centros produtores de energia dentro das células. É encontrado nas mitocôndrias de vários tipos de tecidos, especialmente do fígado.
+O gene ACADM está localizado no braço (p) curto do cromossomo 1 na posição 31, a partir do par de bases 75.902.302 para o par de bases 75.941.203.
+
+
+== Condições relacionadas ==
+A deficiência de acil-coenzima A desidrogenase pode ser causada por mutações no gene ACADM. Mais de 30 mutações do gene ACADM que causam deficiência de acil-coenzima A desidrogenase foram identificadas. Muitas destas mutações mudam um bloco de construção de aminoácidos na enzima ACADM. A substituição dos aminoácidos mais comuns substitui lisina por ácido glutâmico na posição 304 na cadeia da enzima de aminoácidos (também escrito como Lys304Glu ou K304E). Essa mutação e outras substituições de aminoácidos alteraram a estrutura da enzima, reduzindo ou suprimindo a sua atividade. Outras mutações excluem ou duplicam parte do gene ACADM, o que leva a uma enzima instável, que não pode funcionar.
+Com uma carência (deficiência) da enzima ACADM funcional, ácidos graxos de cadeia média não podem ser degradados e transformados. Como resultado, essas gorduras não são convertidos em energia, que pode levar para sintomas característicos desta doença, tais como falta de energia (letargia) e açúcar no sangue. Os níveis de ácidos graxos de cadeia média e ácidos graxos parcialmente degradados podem se acumular nos tecidos e podem causar danos ao fígado e cérebro, causando complicações mais graves.
+
+
+== Notas ==
+Este artigo foi inicialmente traduzido do artigo da Wikipédia em inglês, cujo título é «ACADM», especificamente desta versão.
+
+
+== Referências ==
+Gregersen N, Andresen BS, Corydon MJ, Corydon TJ, Olsen RK, Bolund L, Bross P (2001). «Mutation analysis in mitochondrial fatty acid oxidation defects: Exemplified by acyl-CoA dehydrogenase deficiencies, with special focus on genotype-phenotype relationship». Hum Mutat. 18 (3): 169–89. PMID 11524729. doi:10.1002/humu.1174  !CS1 manut: Nomes múltiplos: lista de autores (link)
+Wang SS, Fernhoff PM, Hannon WH, Khoury MJ (1999). «Medium chain acyl-CoA dehydrogenase deficiency human genome epidemiology review». Genet Med. 1 (7): 332–9. PMID 11263545  !CS1 manut: Nomes múltiplos: lista de autores (link)
+
+
+== Links externos ==
+GeneReviews/NIH/NCBI/UW entry on Medium-Chain Acyl-Coenzyme A Dehydrogenase Deficiency
+GeneCard
+ACADM at The GDB Human Genome Database

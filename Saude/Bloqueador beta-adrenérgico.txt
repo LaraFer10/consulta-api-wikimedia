@@ -1,0 +1,115 @@
+Os bloqueadores beta-adrenérgicos ou betabloqueadores são uma classe de fármacos que têm em comum a capacidade de bloquear os receptores β (beta) da noradrenalina. Possuem diversas indicações, particularmente como antiarrítmicos, anti-hipertensores e na protecção cardíaca após enfarte do miocárdio.
+
+
+== História ==
+Os beta bloqueadores foram descobertos por Sir James Black (Imperial Chemical Industries) no Reino Unido em 1962. O protótipo desta classe de medicamentos, o propranolol, foi utilizado para o tratamento da hipertensão arterial em 1964 por Prichard e Gillam. Desde então mais de 24 moléculas diferentes foram disponibilizadas. Rapidamente esta classe de medicamentos ocupou o primeiro lugar na lista dos medicamentos aconselhados para o tratamento da doença coronária, sendo considerados como uma das mais importantes descobertas da farmacologia e da medicina do século XX, destronando os bloqueadores dos canais de cálcio perigosos nestes pacientes pois diminuem o fluxo arterial das regiões subendocáricas do coração.
+
+
+== Betarreceptores adrenérgicos ==
+Até este momento conhecem-se bem dois tipos de receptores beta, estando ainda em estudo os receptores beta3 que, segundo parece regulam o tecido adiposo promovendo a lipólise e a neoglucogénese quando são estimulados. No contexto dos betabloqueadores interessa falar neste momento dos
+
+Receptores beta1 presentes sobretudo no coração, aparelho justa glomerular do rim, intestino, nas regiões oculares responsáveis pela produção de humor aquoso, tecido adiposo e em menor quantidade nos tecidos brônquicos.
+Receptores beta2 existem predominantemente no tecido brônquico, no músculo liso vascular, no pâncreas endócrino (produção de insulina), trato gastrointestinal e em menor quantidade no coração e troncos principais das artérias coronáriasO número de receptores não é estático: diminui com a idade e aumenta com a tomada de betabloqueadores em tratamento prolongado. Nenhum dos órgãos mencionados contém exclusivamente um dos subgrupos. Também, em certas situações patológicas como a insuficiência cardíaca, o número de receptores beta1 está reduzido, havendo uma diminuição da resposta aos medicamentos inotrópicos.
+
+
+== Mecanismo de ação ==
+
+
+=== Bloqueio dos betarreceptores ===
+Como o nome indica, todos os bloqueadores beta são bloqueadores dos receptores β-adrenérgicos, parte do sistema nervoso simpático.
+A sua estrutura molecular é semelhante à das catecolaminas endógenas (epinefrina e norepinefrina), competindo com elas  a nível dos receptores. A sua ação é assim uma inibição por competição e depende da razão entre as concentrações betabloqueador/catecolamina.
+Este bloqueio simpático provoca uma diminuição da contractilidade e da velocidade contração cardíacas, diminuição da frequência cardíaca, sobretudo no esforço ou ansiedade. Estas ações levam a uma diminuição do consumo de oxigénio pelo miocárdio (uma das razões do seu efeito benéfico na doença coronária). Diminuem a velocidade de condução do estímulo eléctrico cardíaco e aumentam o tempo de condução no nódulo auriculoventricular. São muito úteis no tratamento da taquicardia supraventricular. Porém estão absolutamente contraindicados no síndrome de Wolff-Parkinson-White pois não tendo efeito na via de condução acessória vão facilitar o aparecimento de uma reentrada com frequência ventricular muito elevada que pode pôr a vida em perigo. A sua ação sobre os receptores brônquicos provoca broncoconstrição contraindicando a sua ação nos pacientes asmáticos. Verificou-se em diversos estudos que os bloqueadores beta melhoram a esperança de vida de pacientes com insuficiência cardíaca. Contrariando a estimulação simpática, evitam o remodelamento cardíaco associado à insuficiência, que cria um círculo vicioso, diminuindo progressivamente a função miocárdica e tornando o prognóstico reservado.Efeito do bloqueio beta1
+Redução de frequência cardíaca
+Atraso na velocidade de condução no nódulo A-V.
+Diminuição da força de contração (inotropismo negativo)
+Redução de pressão arterial
+Redução do volume sistólicoEfeito do bloqueio beta2
+Broncoconstrição
+Vasoconstrição coronária e muscular
+Glicogenólise e neoglicogénese diminuída
+Inibição da liberação de insulina
+Antagonismo do tremor induzido pelas catecolaminas
+
+
+=== Cardiosseletividade ===
+Por cardiosseletividade entende-se o predomínio de ação sobre os receptores beta1 cardíacos, com pouca ação sobre os receptores beta2 pulmonares e vasculares. No entanto a cardiosseletividade é relativa e dependente da dose, perdendo-se se a dose aumenta. Fala-se assim de cardiosseletividade relativa. Estão incluídos neste grupo de betabloquedores: atenolol, betaxolol, bisoprolol, metoprolol, bevantolol, esmolol , nebivolol e em menor grau, o acebutolol.Não são cardiosseletivos o carvedilol, labetalol, nadolol, pindolol e propranolol.
+
+
+=== Atividade simpaticomimética intrínseca ===
+A presença de uma atividade simpaticomimética intrínseca (ASI) significa que alguns destes medicamentos possuem em si mesmos um efeito agonista que contraria a sua ação bloqueadora e, quando importante, torna-os poucos úteis na prática clínica. São eles o pindolol, alprenolol, acebutolol, celiprolol, cartelol, oxprenolol e practolol (este último retirado do mercado)
+
+
+=== Efeito estabilizador de membrana ===
+Este efeito, tipo anestésico ou quinidina-like, tem pouca importância na doença coronária mas verificou-se ser muito útil nas crises taquicárdicas da tirotoxicose. O propranolol, um exemplo deste subgrupo, é muito útil e mesmo o mais indicado nos casos de hipertireoidismo. O timolol e o betaxolol são desprovidos de efeito estabilizador de membrana e são os mais usados e eficazes nas situações de glaucoma quando aplicados topicamente.
+
+
+=== Efeito na produção de renina ===
+Ao bloquear os receptores beta1 presentes no aparelho justa-glomerular renal, reduzem a formação de renina, com diminuição da formação de angiotensina II impedindo os efeitos vasoconstrictores deste péptido. Por outro lado interferem diretamente com os efeitos vasoconstrictores dos nervos simpáticos. Potencializam assim o efeito dos IECAs.
+
+
+=== Ação sobre os canais de cálcio ===
+Os canais de cálcio do tipo L são dependentes da atividade das catecolaminas e serão bloqueados por este grupo de medicamentos, com redução da quantidade de cálcio intracelular. Potencializam deste modo a ação dos bloqueadores dos canais de cálcio. O bevantolol é o beta bloqueador que evidencia melhor este efeito.
+
+
+=== Efeito sobre os receptores alfa ===
+Alguns destes fármacos funcionam como drogas mistas bloqueando também os receptores alfa1. São muito úteis na insuficiência cardíaca. O carvedilol tem um efeito bloqueador alfa/beta 1:10; o labetalol 1:4, tendo este último efeitos colaterais importantes relacionados com a hipotensão. Não estão disponíveis dados a respeito do bevantolol.
+
+
+=== Em psiquiatria ===
+
+O aumento das catecolaminas está presente nos síndromes de ansiedade e nas fobias, se bem que haja sempre a dúvida se são a causa ou o efeito das referidas patologias. O importante é que estas duas patologias benificiam do uso dos bloqueadores beta-adrenérgicos. Tendo um efeito rápido, não provocando dependência e sem causarem tanta sonolência quanto os benzodiazepínicos poder-se-ia pensar que seriam o tratamento ideal para estes pacientes. Infelizmente não é assim. Não têm efeito sobre o relacionamento interpessoal, não se diferenciando da resposta ao placebo. O fato de a maioria terem efeito hipotensor limita o seu uso. Por outro lado, mesmo sem dar dependência, o risco de vasoconstrição das artérias coronárias é grande se forem suspensos subitamente. O mais fácil de usar será o propranolol que tem pouco efeito hipotensor e em doses baixas controla bem a ansiedade e a taquicardia. Porém deverá sempre ser testado uns dias antes do seu uso para controlar a ansiedade, por exemplo antes de um concerto
+
+
+== Farmacocinética e metabolismo ==
+Os bloqueadores beta-adrenérgicos circulam ligados às proteínas. A dose eficaz, o metabolismo hepático, a semivida, a excreção variam com o composto e são tratados na página respetiva.
+
+
+== Indicações clínicas ==
+
+Apesar de terem sido indicados como medicamentos de primeira linha no tratamento da hipertensão, o seu uso foi reduzido pelo aparecimento de  novas moléculas mais eficazes, em especial nas pessoas idosas com disfunção eréctil. São no entanto muito úteis sobretudo nos pacientes que têm patologias associadas como é o caso da doença coronária com hipertensão arterial, permitindo reduzir a frequência de polimedicação nestes pacientes.
+A principal indicação dos bloqueadores beta é na doença coronária, como estabilizadores no caso da angina estável, como atuando como protetores cardíacos após infarto agudo do miocárdio, sendo também utilizados como antiarrítmicos em determinadas situações.
+São muito úteis nos casos de hipertiroidismo com taquicardia e/ou arritmias, na ansiedade, em certas formas de tremor e enxaqueca a escolha do bloqueador beta depende da patologia já que cada molécula tem as suas características.
+
+Esmolol e o sotalol são os que atuam melhor nas arritmias
+Bisoprolol, metoprolol e carvedilol atuam bem na insuficiência cardíaca, sendo o carvedilol um bloqueador misto beta e alfa
+Atenolol, metoprolol e nebivolol são bons hipotensores
+Atenolol, metoprolol, propranolol e nebivolol são muito usados após um infarto do miocárdio se bem que a pressão arterial deverá de ser monitorizada sobretudo quando se administra o Atenolol
+Timolol, propranolol têm-se mostrado muitos úteis no tratamento da enxaqueca
+Betaxolol, carteolol, levobunolol, timolol no tratamento do glaucoma
+Propranolol é o beta-bloqueador de eleição no hipertiroidismo, no tremor, hipertensão portal, hemorragia por varizes esofágicas e é usado juntamente com um bloqueador α no feocromocitoma
+Nebivolol é o mais Beta 1 seletivo, causando poucos efeitos colaterais Beta 2 como broncoespasmo e hipoglicemia.
+
+
+== Efeitos colaterais e contraindicações ==
+A distribuição dos receptores β no organismo é relativamente extensa, pelo que o leque de efeitos colaterais observados ao bloquear esses receptores pode ser importante. Desta forma, desenvolveram-se antagonistas com seletividade para o subtipo β1, que é o predominante no coração.
+A nível de efeito cardiovascular, podem verificar-se bradicardia sinusal, bloqueio atrioventricular, tonturas (eventualmente síncope) por hipotensão e possível agravamento da insuficiência cardíaca, sobretudo nos casos de insuficiência cardíaca dilatada.
+As reacções adversas que podem ocorrer com os bloqueadores beta são variadas, podendo ocorrer, se bem que raramente, náuseas, vómitos, alterações do trânsito intestinal e dores abdominais.
+Em alguns casos pode também verificar-se insónia, agravamento de uma depressão já existente, e muito raramente alucinações.
+Os pacientes com problemas urinários prévios podem ter incontinência urinária sobretudo quando são administrados bloqueadores mistos. O bloqueio alfa1 a nível urinário causa relaxamento do esfincter uretral.Mesmo com os cardiosseletivos (β1) pode ocorrer broncoespasmo, especialmente em doentes com antecedentes de asma brônquica.
+O receio de que os bloqueadores beta podem também estar implicados em alterações metabólicas, tais como dislipidemias, podendo também verificar-se o surgimento de diabetes mellitus tipo 2 vem do estudo JNC6 e está hoje provado que não têm fundamento (Khan, G. "Cardiac Drug Therapy)AS alterações nas LDL, HDL, Triglicerídeos são tão pequenas que não são estatisticamente significativasEstes medicamentos estão contraindicados nas situações de
+
+Insuficiência cardíaca descompensada
+Doença pulmonar obstrutiva crónica (DPOC)
+Asma brônquica
+Bradicardia sinusal
+Doença do nó sinusal
+Bloqueio auriculoventricular
+Acidose metabólica
+Choque
+depressão grave
+
+
+== Intoxicação ==
+No tratamento de uma eventual hiperdosagem, acidental ou com fins suicidas, usa-se o Glucagon, que possui um efeito inotrópico positivo e diminui a resistência vascular renal. É o antídoto específico na intoxicação pelos beta-bloqueadores porque aumenta o AMPc intracelular e a contractilidade cardíaca.
+Sempre que a situação o justificar deve ser colocado um pace-maker provisório.
+A intoxicação pode desencadear um broncoespasmo em grau variável que usualmente responde ao tratamento com medicamentos anticolinérgicos tais como o ipratrópio, menos perigosos que os beta agonistas nos pacientes cardiovasculares. O salbutamol e a isoprenalina podem também ser usados para aliviar o espasmo brônquico.
+
+
+== Referências ==
+
+
+== Ver também ==
+Receptores adrenérgicos
+Antiarrítmico
+Anti-hipertensor
+Sistema nervoso simpático

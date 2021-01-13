@@ -1,0 +1,59 @@
+As etiquetas proteicas são sequências de aminoácidos inseridas artificialmente em uma proteína recombinante para adicionar uma determinada funcionalidade. Muitas vezes, essas marcas são removíveis por processos enzimáticos ou splicing por meio de inteínas.
+As etiquetas de afinidade são acrescentadas a proteínas para facilitar a purificação de enzimas e outros peptídeos em processos biotecnológicos. Dentre as diferentes etiquetas utilizadas, pode-se citar a proteína de ligação à quitina(CBP), a proteína de ligação a maltose (MBP), a etiqueta de streptavidina,  glutationa-S-transferase (GST) e a amplamente utilizada etiqueta de poli-histidina, que se liga à matrizes metálicas de colunas de purificação. 
+As etiquetas de solubilização são usadas especialmente para proteínas recombinantes expressas em organismos como E. coli para auxiliar no dobramento de proteínas e evitar precipitação . Estas incluem a tiorredoxina (TRX) e a poli(NANP). Algumas etiquetas têm papel duplo como agente de solubilização e afinidade, como as etiquetas MBP e GST.
+Etiquetas de epítopo são sequências curtas de polipeptídeos escolhidos devido à facilidade de produção de anticorpos para detectá-las em ensaios como western blotting, imunofluorescência e imunoprecipitação. Nessa classe, incluem-se as etiquetas -V5, -Myc, -HA, -Spot e -NE.
+Etiquetas fluorescentes são usadas para possibilitar a detecção visual de uma proteína, fusionando, por exemplo, uma proteína verde fluorescente(GFP̠) e suas variantes. Dentre as  aplicações mais avançadas de GFP incluem usá-lo como uma proteína detectora de dobramento correto(fluorescente se dobrada, incolor se não).
+
+
+== Lista de etiquetas proteicas ==
+
+
+=== Etiquetas peptídicas ===
+AviTag, um peptídeo biotinilável (pela enzima BirA), de modo a permitir a ligação à estreptavidina (GLNDIFEAQKIEWHE)
+CBP, um peptídeo que liga-se à a proteína calmodulina (KRRWKKNFIAVSAANRFKKISSSGAL)
+Poliglutamato, glutamatos em série, utilizado em processo com resinas de troca-iônica, como Mono-Q (EEEEEE)
+E-tag, um peptídeo reconhecido por um  comercial (GAPVPYPDPLEPR)
+FLAG, um peptídeo reconhecido por anticorpo comercial(DYKDDDDK)
+HA, um peptídeo derivado da hemaglutinina, também reconhecido por anticorpo comercial (YPYDVPDYA)
+Poli-histidina, 5-10 histidinas em série, queladas com alta afinidade por  níquel ou cobalto (HHHHHH)
+Myc, um peptídeo derivado de c-myc é reconhecido por  anticorpo (EQKLISEEDL)
+NE, um peptídeo de 18 de aminoácidos (TKENPRSNQEESYDDNES), reconhecido por  anticorpo monoclonal IgG1 comercial 
+S-tag, um peptídeo derivado da Ribonuclease (KETAAAKFERQHMDS)
+SBP, um peptídeo que se liga a estreptavidina (MDEKTTGWRGGHVVEGLAGELEQLRARLEHHPQGQREP)
+Softag 1, para a expressão de mamífero (SLAELLNAGLGGS)
+Softag 3, para procariontes expressão (TQDPSRVG)
+Spot, um peptídeo reconhecido por um nanobody (PDRVRAVSHWSS) para imunoprecipitação, a afinidade de purificação, imunofluorescência e de super-resolução em microscopia
+Strep-tag, um peptídeo que se liga a estreptavidina ou streptactin (Strep-tag II: WSHPQFEK)
+TC, uma tetracisteína reconhecida pelos compostos biarsênicos FlAsH e ReAsH (CCPGCC)
+Ty,  (EVHTNQDPLD)
+V5, um peptídeo reconhecido por anticorpo comercial (GKPIPNPLLGLDST)
+VEV, um peptídeo reconhecido por anticorpo comercial(YTDIEMNRLGK)
+Xpress (DLYDDDDK)
+
+
+=== Etiquetas de ligação covalente ===
+Isopeptag, um peptídeo que se liga covalentemente à proteína pilina-C (TDKDMTITFTNKKDAE)
+SpyTag, um peptídeo que se liga covalentemente à proteína SpyCatcher (AHIVMVDAYKPTK)
+SnoopTag, um peptídeo que se liga covalentemente a proteína SnoopCatcher (KLGDIEFIKVNK)
+SnoopTagJr, um peptídeo que se liga covalentemente à DogTag, por meio da SnoopLigase (KLGSIEFIKVNK)
+DogTag, um peptídeo que se liga covalentemente a SnoopTagJr, por meio da SnoopLigase (DIPATYEFTDGKHYITNEPIPPK)
+
+
+=== Etiquetas proteicas ===
+BCCP (Proteína Transportadora de Carboxyl-Biotina), um domínio proteico biotinilado por BirA, consequentemente permitindo o reconhecimento por estreptavidina
+Glutationa-S-transferase, uma proteína que se liga a glutationa, que sua vez pode ser adicionada ao substrato.
+GFP, uma proteína que é espontaneamente fluorescente
+HaloTag, umaa haloalcano desidrogenase que liga-se covalentemente a haloalcanos, permitindo o acoplamento de uma ampla variedade de substratos.
+Proteína de ligação a maltose, uma proteína que se liga a  agarose
+Nus
+Tiorredoxina
+Fc, derivada do domínio Fc da imunoglobulina, permite dimerização e solubilização. 
+
+
+== Aplicações ==
+Purificação por afinidade
+Matriz proteica
+Western blotting
+
+
+== Bibliografia ==

@@ -1,0 +1,17 @@
+
+== Definição ==
+              O conjunto de dobramentos que formam a estrutura quaternária de uma proteína é importante na determinação de suas ligações, afinidades e funções. Até pouco tempo tinha-se como regra que sequências homólogas de proteínas caracterizavam dobramentos similares . Contudo, novas descobertas vêm quebrando esse paradigma ao mostrar que sequências altamente variadas podem gerar o mesmo dobramento, como é o caso dos barris TIM (ou barris αβ) .
+             Foi proposto que os barris TIM (descobertos primeiramente através da estrutura da enzima triosefosfato isomerase) e os sanduíches αβ foram os primeiros a evoluírem, seguidos por sanduíches β (principalmente em eucariotos) . Barris TIM são, portanto, um dos dobramentos mais antigos e fazem parte de muitas enzimas, sendo importantes para reações enzimáticas diversas .
+
+
+== Estrutura ==
+              Barris TIM consistem em motivos alternados de estrutura secundária hélice-alça-corda, onde as cordas arranjam-se no centro do barril β. O barril β central é formado por folhas β paralelas, constituindo uma interface β/β no centro do dobramento. As margens externas do barril são mantidas por interações hélice-folha e hélice-hélice . A interface α/β que flanqueia o barril é formada por motivos α-X-β, onde X pode representar qualquer estrutura secundária, como alças. As hélices interagem entre elas formando a interface α/α, voltada para o exterior do barril. Foi mostrado que a face do barril TIM que possui os C-terminais e as alças adjacentes contém os resíduos que formam os sítios ativos das enzimas. Como os barris TIM têm uma grande variedade funcional e são formados por várias sequências não-homólogas, são um ótimo sistema para o estudo das relações entre estrutura, sequência e função de proteínas .
+
+
+== Funções ==
+
+              Barris TIM possuem funções variadas por participarem do sítio ativo de várias enzimas. A enzima triose fosfato isomerase (TIM), cuja estrutura monomérica é o próprio barril αβ8, é essencial para o metabolismo de glicose. Ela é responsável pela interconversão de diidroxiacetona fosfato e gliceraldeído 3-fosfato, etapa importante na sequência de reações da glicólise e gliconeogênese .
+             Outra proteína que possui um barril TIM em sua estrutura e sítio catalítico é a fosfolipase C (PLC), que catalisa a quebra de fosfatidilinositol difosfato (PIP2) em 1,4,5 fosfatidilinositol trifosfato (IP3) e diacilglicerol (DAG). A ativação da PLC ocorre em resposta à estímulos nervosos no músculo liso, por exemplo, onde o IP3 liga-se a seus receptores no retículo sarcoplasmático, ativando canais de cálcio e liberando cálcio para o sarcoplasma e, com isso, levando à contração muscular. Simultaneamente, DAG e os níveis aumentados de cálcio intracelular agem ativando a proteína quinase C (PKC) que então fosforila proteínas em resposta ao estímulo inicial .
+
+
+== Referências ==

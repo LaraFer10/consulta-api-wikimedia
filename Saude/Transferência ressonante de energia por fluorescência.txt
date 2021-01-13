@@ -1,0 +1,331 @@
+Denomina-se de Transferência de energia por ressonância de Förster (FRET), ou transferência de energia de ressonância por fluorescência (FRET), ou transferência de energia por ressonância (RET) o mecanismo de transferência de energia de forma não-radiativa entre dois cromóforos, sem a necessidade de reabsorção de radiação eletromagnética. De maneira geral um cromóforo doador, inicialmente no seu estado eletrônico excitado, pode transferir energia para um aceitador, outro cromóforo, através do acoplamento dipolo-dipolo não radiativo. A eficiência desta transferência de energia é inversamente proporcional à sexta potência da distância entre o doador e o aceitador por esse mecanismo, tornando extremamente sensível a pequenas distâncias, da ordem de 1 a 10 nm.As medições da eficiência do mecanismo Transferência Ressonante de Energia por fluorescência pode ser usado para determinar se dois fluoróforos estão a uma certa distância um do outro. Tais medições são utilizadas como uma ferramenta útil de pesquisa para quantificar a dinâmica molecular em biofísica e bioquímica, tais como interações proteína-proteína, interações DNA-proteína, ou mudanças conformacionais de proteínas.
+
+
+== Mecanismo ==
+A fluorescência é o mecanismo o qual uma molécula ou um grupo eletronicamente excitado emite luz. O fóton é emitido após o decaimento do estado inicial excitado a de um estado excitado de menor energia. Assim, o espectro de emissão da molécula é geralmente de comprimento superior ao absorvido. O mecanismo de FRET é análogo à comunicação entre campos próximos, em que o raio de interação é muito menor do que o comprimento de onda da luz emitida. Na região de campo próximo, o cromóforo excitado emite um fóton virtual que é instantaneamente absorvido pelo cromóforo de recepção. Estes fótons virtuais são indetectáveis​​, já que sua existência viola a conservação de energia e momento, e, portanto, FRET é conhecido como um mecanismo não radioativo de transferência.
+
+
+=== Princípios teóricos ===
+A eficiência do FRET (
+  
+    
+      
+        η
+      
+    
+    {\displaystyle \eta }
+  ) é medida através do rendimento quântico de fluorescência na transferência de energia, ou seja, a fração de eventos de transferência de energia que ocorrem por excitação doador:
+
+  
+    
+      
+        η
+        =
+        
+          
+            
+              k
+              
+                e
+                t
+              
+            
+            
+              
+                k
+                
+                  f
+                
+              
+              +
+              
+                k
+                
+                  e
+                  t
+                
+              
+              +
+              ∑
+              
+                k
+                
+                  i
+                
+              
+            
+          
+        
+        =
+        
+          
+            1
+            
+              1
+              +
+              (
+              r
+              
+                /
+              
+              
+                R
+                
+                  0
+                
+              
+              
+                )
+                
+                  6
+                
+              
+            
+          
+        
+      
+    
+    {\displaystyle \eta ={\frac {k_{et}}{k_{f}+k_{et}+\sum k_{i}}}={\frac {1}{1+(r/R_{0})^{6}}}}
+  
+
+onde 
+  
+    
+      
+        
+          k
+          
+            e
+            t
+          
+        
+      
+    
+    {\displaystyle k_{et}}
+   é a taxa de transferência de energia, 
+  
+    
+      
+        
+          k
+          
+            f
+          
+        
+      
+    
+    {\displaystyle k_{f}}
+   a taxa de decaimento radioativo, e 
+  
+    
+      
+        
+          k
+          
+            i
+          
+        
+      
+    
+    {\displaystyle k_{i}}
+   são as constantes de velocidade de quaisquer outras vias de excitação.
+É a distância, 
+  
+    
+      
+        
+          R
+          
+            0
+          
+        
+      
+    
+    {\displaystyle R_{0}}
+  , entre o par de doador e aceitador na qual a eficiencia da transferência é igual a 50% e recebe o nome de Raio de Förster.
+  
+    
+      
+        
+          
+            
+              R
+              
+                0
+              
+            
+          
+          
+            6
+          
+        
+        =
+        
+          
+            
+              9
+              
+              
+                Φ
+                
+                  D
+                
+              
+              
+              (
+              ln
+              ⁡
+              10
+              )
+              
+                κ
+                
+                  2
+                
+              
+              
+              J
+            
+            
+              128
+              
+              
+                π
+                
+                  5
+                
+              
+              
+              
+                n
+                
+                  4
+                
+              
+              
+              
+                N
+                
+                  A
+                
+              
+            
+          
+        
+      
+    
+    {\displaystyle {R_{0}}^{6}={\frac {9\,\Phi _{D}\,(\ln 10)\kappa ^{2}\,J}{128\,\pi ^{5}\,n^{4}\,N_{A}}}}
+  
+A eficiência do mecanismo de FRET depende de parâmetros físicos como a distância entre o doador e o aceitador, as sobreposições espectrais do espectro de emissão do doador e do espectro de absorção de aceitador, bem como da orientação relativa do momento de dipolo de emissão do doador e do aceitador no momento da transferência e, por fim da distancia de separação do doador-aceitador, 
+  
+    
+      
+        r
+      
+    
+    {\displaystyle r}
+   com uma lei de potência inversa 6, devido ao mecanismo de ligação dipolo-dipolo.
+
+
+==== Rendimento quântico ====
+O rendimento quântico de fluorescência (
+  
+    
+      
+        Φ
+      
+    
+    {\displaystyle \Phi }
+  ) é definido:
+
+  
+    
+      
+        Φ
+        =
+        
+          
+            
+              #
+               
+              f
+              o
+              t
+              o
+              n
+              s
+               
+              e
+              m
+              i
+              t
+              i
+              d
+              o
+              s
+            
+            
+              #
+               
+              f
+              o
+              t
+              o
+              n
+              s
+               
+              a
+              b
+              s
+              o
+              r
+              v
+              i
+              d
+              o
+              s
+            
+          
+        
+      
+    
+    {\displaystyle \Phi ={\frac {\rm {\#\ fotons\ emitidos}}{\rm {\#\ fotons\ absorvidos}}}}
+  
+
+
+==== Tempo de vida ====
+A eficácia da transferência de energia por fluorescência pode também ser determinada a partir da alteração no tempo de vida de fluorescência do dador. O tempo de vida do doador irá diminuir na presença do aceitador. Medições de tempo de vida do FRET são usados ​​em microscopia de fluorescência.
+
+
+==== Fator de orientação ====
+O factor de orientação (k²) é 2/3 em meios que reorienta rapidamente (por exemplo, moleculas livres em uma solução de baixa viscosidade), mas pode situar-se entre 0 e 4, dependendo das condições.
+
+
+=== Nomenclatura ===
+A terminologia do FRET para transferência ressonante de energia de Förster é nomeado em homenagem ao cientista alemão Theodor Förster. Quando ambos os cromóforos são fluorescentes, o termo "transferência de energia de ressonância de fluorescência" é frequentemente usado em vez disso, embora a energia não é realmente transferido por fluorescência. A fim de evitar uma interpretação errônea do fenômeno que é sempre uma transferência não radiativa de energia (mesmo quando ocorre entre dois cromóforos fluorescentes), o nome de "transferência de energia ressonância Förster" é preferível a "transferência de energia de ressonância de fluorescência," no entanto, este último goza de uso comum na literatura científica.
+
+
+=== Aplicações ===
+A transferência de energia de Föster tem sido utilizado para medir a distância e detectar interações moleculares em vários sistemas e tem aplicações em biologia e da química. A eficiência do mecanismo de FRET depende de parâmetros físicos como a distância entre um grupo fluorescente doador e o aceptor, em proteínas as cadeias laterais dos resíduos de triptofano e tirosina podem ser grupos fluorescentes em proteínas. Quando a molécula fluorescente doadora é excitada eletronicamente parte da sua energia de excitação é transferida para a molécula aceptora. Após essa transferência a intensidade da fluorescência emitida pelo aceptor no seu espectro de emissão pode ser detectada. Além disso, pela técnica de mutagênese sítio-dirigida, substituição de resíduos, é possível localizar e quantificar o número desses resíduos. As cisteínas, por possuírem cadeias reativas, podem ser ligadas covalentemente a grupos fluorescentes ou serem localizadas por mutagênese sítio-dirigida. A técnica de FRET também pode ser utilizada para avaliação da atividade proteásica. Aceptores e doadores são acoplados a extremidades opostas de um peptídeo que contem o sítio de clivagem proteolítico. Após a clivagem pela atividade enzimática é possível detectar o afastamento entre as espécies, e o sinal de fluorescência proveniente do doador é aumentado. O FRET pode ser utilizado para a detecção da variação da distância entre resíduos protéicos específicos com o tempo para a avaliação da estrutura, dobramento, distribuição espacial e montagem de proteínas. Aplicações em sistemas vivos como células vivas, o FRET tem sido utilizado para detectar a localização e as interações dos genes e das estruturas celulares, incluindo integrinas e proteínas de membranas. O FRET pode ser usado para obter informação sobre as vias metabólicas ou de sinalização. Também é utilizado para estudar jangadas lipídicas em membranas celulares.
+
+
+=== Considerações ===
+As abordagens baseadas em imagem por FRET têm contribuído bastante para a ciência, porém a técnica requer alguns cuidados especiais:
+
+O desenho experimental deve levar em conta se a distância entre as espécies irá aumentar ou diminuir, assim alterando o sinal detectado;
+Para que ocorra a transferência energética o doador e aceptor devem apresentar sobreposição no espectro de absorção e emissão de energia;
+Para que as fluorescências emitidas sejam diferenciadas entre o aceptor e o doador os espectros de emissão devem ser distintos;
+A excitação direta do aceptor deve ser minimizada de acordo com a escolha do comprimento de onda de excitação do doador selecionado.
+
+
+== Ver também ==
+Diagrama de Jablonski
+Fluorescência
+Microscopia de fluorescência
+
+
+== Referências ==
+
+
+== Ligações externas ==
+O efeito do FRET em Filmes finos no YouTube

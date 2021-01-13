@@ -1,0 +1,153 @@
+O Modelo FitzHugh–Nagumo é um dos principais modelos de disparos neuronais, ou seja, um dos principais modelos matemáticos que descrevem os padrões com os quais potenciais de ação são iniciados e propagados nos neurônios. O modelo em questão faz referência a Richard FitzHugh (1922 – 2007), que sugeriu a criação do sistema em 1961 e a J. Nagumo et al., que criou o circuito equivalente no ano seguinte, descrevendo o protótipo de um sistema excitável (por exemplo, o de um neurônio).
+
+
+== Descrição ==
+O Modelo FitzHugh–Nagumo é um exemplo de oscilador de relaxação pois, se o estímulo externo 
+  
+    
+      
+        
+          I
+          
+            ext
+          
+        
+      
+    
+    {\displaystyle I_{\text{ext}}}
+   exceder um determinado valor limite, o sistema exibirá um percurso característico no espaço fásico, antes das variáveis 
+  
+    
+      
+        v
+      
+    
+    {\displaystyle v}
+   e 
+  
+    
+      
+        w
+      
+    
+    {\displaystyle w}
+   relaxarem e voltarem aos seus valores de descanso.
+Tal comportamento é típico para disparos neuronais (uma pequena elevação, não-linear da tensão da membrana 
+  
+    
+      
+        v
+      
+    
+    {\displaystyle v}
+  , diminuiu ao longo do tempo por uma variável de recuperação linear mais lenta 
+  
+    
+      
+        w
+      
+    
+    {\displaystyle w}
+  ) após estimulação por uma corrente de entrada externa.
+As equações para esse sistema dinâmico são:
+
+  
+    
+      
+        
+          
+            
+              v
+              ˙
+            
+          
+        
+        =
+        v
+        −
+        
+          
+            
+              v
+              
+                3
+              
+            
+            3
+          
+        
+        −
+        w
+        +
+        
+          I
+          
+            
+              e
+              x
+              t
+            
+          
+        
+      
+    
+    {\displaystyle {\dot {v}}=v-{\frac {v^{3}}{3}}-w+I_{\rm {ext}}}
+  
+  
+    
+      
+        τ
+        
+          
+            
+              w
+              ˙
+            
+          
+        
+        =
+        v
+        +
+        a
+        −
+        b
+        w
+        .
+      
+    
+    {\displaystyle \tau {\dot {w}}=v+a-bw.}
+  A dinâmica deste sistema pode ser descrita pelo zapping entre os ramos esquerdo e direito de um nullcline cúbico, um conceito utilizado em análise matemática.
+O modelo FitzHugh-Nagumo pode ser visto ainda como uma versão simplificada do Modelo Hodgkin-Huxley, que por sua vez faz uma modelagem mais detalhada da ativação e desativação de um disparo neuronal. Nos originais de FitzHugh, esse modelo foi chamado oscilador Bonhoeffer–van der Pol (em homenagem a Karl Friedrich Bonhoeffer e Balthasar van der Pol), porque contém o oscilador Van der Pol como um caso especial para 
+  
+    
+      
+        a
+        =
+        b
+        =
+        0
+      
+    
+    {\displaystyle a=b=0}
+  . O circuito equivalente foi sugerido por Jin-ichi Nagumo, Suguru Arimoto e Shuji Yoshizawa.
+
+
+== Veja também ==
+Modelo Galves-Löcherbach
+Modelo Hodgkin-Huxley
+Modelos de disparos neuronais
+Neurociência computacional
+
+
+== Leituras adicionais ==
+
+
+== Referências ==
+
+
+== Ligações externas ==
+O Modelo FitzHugh–Nagumo na Scholarpedia
+Interactive FitzHugh-Nagumo. Aplet Java, inlcuindo espaço fásico e parâmetros que podem ser editados em qualquer tempo.
+Interactive FitzHugh–Nagumo in 1D.  Aplet Java para simular ondas 1D propagando numa estrutura anelar. Os parâmetros podem ser alterados.
+Interactive FitzHugh–Nagumo in 2D. Aplet Java para simular ondas 2D, inlcuindo ondas em espiral. Os parâmetros podem ser alterados.
+Java applet for two coupled FHN systems Options include time delayed coupling, self-feedback, noise induced excursions, data export to file. Source code available (BY-NC-SA license).

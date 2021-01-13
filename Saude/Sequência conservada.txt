@@ -1,0 +1,82 @@
+Em biologia evolutiva, sequências conservadas são sequências similares ou idênticas  em ácidos nucleicos (DNA e RNA) ou proteínas através das espécies (sequências ortólogas) ou dentro de um genoma (sequências parálogas). Conservação indica que uma sequência foi mantida por seleção natural.Uma sequência altamente conservada é aquela que permaneceu relativamente inalterada desde muito tempo atrás na árvore filogenética, e, portanto, muito longe no tempo geológico. Exemplos de sequências altamente conservadas incluem componentes do RNA de ribossomos presentes em todos os domínios da vida, as sequências homeobox difundidas entre eucariotas, e o tmRNA em bactérias. O estudo da conservação de sequências se sobrepõe aos campos de genômica, proteômica, biologia evolucionária, filogenética, bioinformática e matemática.
+
+
+== História ==
+
+A descoberta do papel do DNA na herança, e observações por Frederick Sanger de variações entre insulinas animais em 1949, fez com que os primeiros biólogos moleculares estudassem taxonomia de uma perspectiva molecular. Estudos nos anos 1960 usaram hibridização de DNA e técnicas de reatividade cruzada de proteínas para medir a similaridade entre proteínas ortólogos, tais como a hemoglobina e citocromo c. Em 1965, Émile Zuckerkandl e Linus Pauling introduziram o conceito de relógio molecular, propondo que taxas constantes de mutação poderiam ser usadas para estimar o tempo desde que dois organismos divergiram. Enquanto as filogenias iniciais se aproximavam do registro fóssil, observações que alguns genes pareciam evoluir a taxas diferentes levaram ao desenvolvimento de teorias de evolução molecular. A comparação de 1966 de Margaret Dayhoff de sequências de  ferredoxina mostrou que seleção natural agiria para conservar e otimizar sequências de proteínas essenciais à vida.
+
+
+== Mecanismos ==
+
+Ao longo de muitas gerações, as sequências de ácidos nucleicos no genoma de uma linhagem evolutiva pode mudar gradualmente ao longo do tempo devido a mutações aleatórias deleções. Sequências também podem recombinar ou ser deletadas devido a rearranjos cromossômicos. Sequências conservadas são aquelas que persistem no genoma apesar de tais forças, e têm taxas de mutação mais lentas do que a taxa de mutação de fundo.Conservação pode ocorrer em sequências de ácidos nucleicos codificantes e não codificantes. Acredita-se que sequências de DNA altamente conservadas tenham valor funcional, embora o papel de muitas sequências de DNA não codificadoras altamente conservadas seja pouco compreendido. A extensão em que uma sequência é conservada pode ser afetada por variações pressões seletivas, sua robustez à mutação, tamanho da população e deriva genética. Muitas sequências funcionais também são modulares, contendo regiões que podem ser sujeitas a pressões seletivas, tais como domínios proteicos.
+
+
+=== Sequência codificante ===
+Em sequências codificantes, o ácido nucleico e a sequência de aminoácidos podem ser armazenados em diferentes extensões, como a degeneração do código genético significa que mutações sinônimas em uma sequência codificante não afeta a sequência de aminoácidos de seu produto proteico.Sequências de aminoácidos podem ser preservadas mantendo a estrutura ou função de uma proteína ou domínio. Proteínas conservadas sofrem menos substituições de aminoácidos, ou são mais propensos a substituir aminoácidos com propriedades bioquímicas semelhantes. Dentro de uma sequência, os aminoácidos que são importantes para enovelamento, estabilidade estrutural, ou que formem uma sítio de ligação podem ser mais altamente conservados.A sequência de ácido nucléico de um gene codificador de proteína também pode ser conservada por outras pressões seletivas. O viés de uso de códon em alguns organismos pode restringir os tipos de mutações sinônimas em uma sequência. Sequências de ácidos nucleicos que causam estrutura secundária no mRNA de um gene codificador pode ser selecionado contra, como algumas estruturas podem afetar negativamente a tradução, ou conservado onde o mRNA também atua como um RNA não codificante funcional.
+
+
+=== Não codificante ===
+
+Sequências não codificantes importantes para regulação gênica, como os sítios de ligação ou reconhecimento de ribossomas e fatores de transcrição, pode ser conservado dentro de um genoma. Por exemplo, o promotor de um gene conservado ou operon também pode ser conservado. Tal como acontece com as proteínas, os ácidos nucleicos que são importantes para a estrutura e função de RNA não codificante (ncRNA) também pode ser conservado. No entanto, a conservação de sequências em ncRNAs é geralmente pobre em comparação com sequências de codificação de proteína, e em vez disso, pares de bases que contribuem para a estrutura ou função são muitas vezes conservados.
+
+
+== Identificação ==
+
+Sequências conservadas são tipicamente identificadas por abordagens de bioinformática baseadas em alinhamento de sequências. Avanços em sequenciamento de DNA de alto rendimento e espectrometria de massa de proteínas tem aumentado substancialmente a disponibilidade de sequências de proteínas e genomas inteiros para comparação desde o início dos anos 2000.
+
+
+=== Pesquisa de homologia ===
+Sequências conservadas podem ser identificadas por pesquisa de homologia, usando ferramentas tais como BLAST, HMMER e Infernal. As ferramentas de busca de homologia podem tomar um ácido nucléico individual ou uma sequência de proteínas como entrada, ou usar modelos estatísticos gerados a partir de alinhamentos múltiplos de sequências de sequências relacionadas conhecidas. Modelos estatísticos tais como perfil-HMMs, e modelos de covariância de RNA os quais também incorporam informações estruturais, podem ser úteis ao procurar sequências relacionadas mais distantemente. As sequências de entrada são então alinhadas contra um banco de dados de sequências de indivíduos relacionados ou outras espécies. Os alinhamentos resultantes são então classificados com base no número de aminoácidos ou bases correspondentes, e no número de intervalos ou deleções gerados pelo alinhamento. Substituições conservativas aceitáveis podem ser identificadas usando matrizes de substituição tais como PAM e BLOSUM. Alinhamentos de alta pontuação são assumidos como sendo de sequências homólogas. A conservação de uma sequência pode então ser inferida pela detecção de homólogos altamente similares em uma ampla faixa filogenética.
+
+
+=== Alinhamento de múltiplas sequências ===
+
+Alinhamentos de múltiplas sequências podem ser usados para visualizar sequências conservadas. O formato CLUSTAL inclui uma chave de texto simples para anotar as colunas conservadas do alinhamento, denotando a sequência conservada (*), mutações conservativas (:), mutações semi-conservativas (.), mutações não conservativas ( ) Os logotipos de sequência também podem mostrar uma sequência conservada representando as proporções de caracteres em cada ponto no alinhamento por altura.
+
+
+=== Alinhamento de genoma ===
+
+Alinhamentos do genoma inteiro (abreviados na literatura em inglês como WGAs, de whole genome alignments) também pode ser usado para identificar regiões altamente conservadas entre as espécies. Atualmente a precisão e escalabilidade de ferramentas WGA permanece limitada devido à complexidade computacional de lidar com rearranjos, regiões de repetição e o grande tamanho de muitos genomas eucarióticos. Contudo, WGAs de 30 ou mais bactérias intimamente relacionadas (procariontes) agora são cada vez mais viáveis.
+
+
+=== Sistemas de pontuação ===
+Outras abordagens usam medidas de conservação baseadas em testes estatísticos que tentam identificar sequências que sofrem mutações de forma diferente de uma taxa de mutação de fundo (neutra) esperada.A estrutura GERP (Genomic Evolutionary Rate Profiling, Perfil de Taxa Evolucionária Genômica) pontua a conservação de sequências genéticas entre espécies. Esta abordagem estima a taxa de mutação neutra num conjunto de espécies a partir de um alinhamento de múltiplas sequências e, em seguida, identifica regiões da sequência que exibem menos mutações do que o esperado. Estas regiões são então atribuídas pontuações com base na diferença entre a taxa de mutação observada e a taxa de mutação de fundo esperada. Uma alta pontuação GERP consequentemente indica uma sequência altamente conservada.Outras abordagens, como PhyloP e PhyloHMM incorporam métodos filogenéticos estatísticos para comparar distribuições de probabilidade de taxas de substituição, o que permite a detecção tanto da conservação quanto da mutação acelerada. Em primeiro lugar, é gerada uma distribuição de probabilidades do número de substituições que se espera que ocorram para uma coluna num alinhamento de múltiplas sequências, baseada em uma árvore filogenética. As relações evolutivas estimadas entre as espécies de interesse são usadas para calcular a significância de quaisquer substituições (i.e. uma substituição entre duas espécies estreitamente relacionadas pode ser menos provável de ocorrer do que outras relacionadas, e, portanto, mais significativas). Para detectar a conservação, uma distribuição de probabilidade é calculada para um subconjunto do alinhamento de múltiplas sequências, e comparada à distribuição de fundo usando um teste estatístico tal como um teste da razão de verossimilhança ou teste de pontuação. Valores-p gerados a partir da comparação das duas distribuições são usadas para identificar regiões conservadas. PhyloHMM usa modelos ocultos de Markov para gerar distribuições de probabilidade. O pacote de software PhyloP compara distribuições de probabilidade usando um teste da razão de verossimilhança ou teste de pontuação, assim como usando um sistema de pontuação do tipo GERP.
+
+
+== Conservação extrema ==
+
+
+=== Elementos ultraconservados ===
+Elementos ultraconservados (abreviados na literatura em inglês como UCEs, de ultra-conserved element) são sequências que são altamente semelhantes ou idênticas em múltiplos agrupamentos taxonômicos. Estes foram descobertos pela primeira vez em vertebrados, e foram subsequentemente identificados em taxa largamente diferentes. Enquanto a origem e função de UCEs são pobremente compreendidas, eles tem sido usados para investigar divergências de tempo profundo em amniotas, insetos, e entre animais e plantas.
+
+
+=== Genes universalmente conservados ===
+Os genes mais altamente conservados são aqueles que podem ser encontrados em todos os organismos. Estes consistem principalmente dos ncRNAs e proteínas necessárias para transcrição e tradução, os quais se presume terem sido conservados a partir do último ancestral universal de toda a vida.Os genes ou famílias de genes que foram encontrados como sendo universalmente conservados incluem fatores de alongamento de ligação ao GTP, metionina aminopeptidase 2, serina hidroximetiltransferase e transportadores ATP. Componentes da maquinaria de transcrição, tais como RNA polimerase e helicases e da maquinaria de tradução, tais como RNA ribossomiais, tRNAs e proteínas ribossomiais também são universalmente conservados.
+
+
+== Aplicações ==
+
+
+=== Filogenética e taxonomia ===
+Conjuntos de sequências conservadas são frequentemente usados para gerar árvores filogenéticas, dado que é aceito que que organismos com sequências similares estão intimamente relacionados. A escolha das sequências pode variar dependendo do escopo taxonômico do estudo. Por exemplo, os genes mais altamente conservados, como o 16S RNA e outras sequências ribossomais são úteis para reconstruir relações filogenéticas profundas e identificar filos de bactérias em estudos metagenômicos. Sequências que são conservadas dentro de um clado mas passam por algumas mutações, tais como genes housekeeping, pode ser usado para estudar as relações entre espécies. A região espaçador interno transcrito (ITS, internal transcribed spacer), a qual é necessária para o espaçamento de genes rRNA mas sofre evolução rápida, é comumente usada para classificar fungos e cepas de bactérias evoluindo rapidamente.
+
+
+=== Pesquisa médica ===
+Como sequências altamente conservadas têm frequentemente importantes funções biológicas, podem ser um útil ponto de partida para identificar a causa de doenças genéticas. Muitos distúrbios metabólicos congênitos e doenças de depósito lisossômico são o resultado de alterações em genes individuais conservados, resultando em enzimas faltantes ou defeituosas que são a causa subjacente dos sintomas da doença. As doenças genéticas podem ser previstas pela identificação de sequências conservadas entre humanos e organismos de laboratório, como ratos ou moscas da fruta, e estudando os efeitos de nocautes destes genes. Estudos de associação genômica ampla também podem ser usados para identificar variações nas sequências conservadas associadas a doenças ou resultados de saúde.
+
+
+=== Anotação funcional ===
+A identificação de sequências conservadas pode ser usada para descobrir e prever sequências funcionais, como genes. Sequências conservadas com uma função conhecida, como domínios de proteínas, também podem ser usadas para prever a função de uma sequência. Bancos de dados de domínios proteicos conservados, como Pfam e o Conserved Domain Database (Banco de Dados de Domínio Conservado) pode ser usado para anotar domínios funcionais em genes codificadores de proteínas previstos.
+
+
+== Ver também ==
+
+
+== Referências ==
+
+Alinhamento de sequências
+Biologia evolutiva do desenvolvimento
+Sítio segregante
+Software de alinhamento de sequências
+UCbase
+Elemento ultra-conservado

@@ -1,0 +1,7 @@
+Em psicologia, o efeito Stroop (efeito Jaensch) é uma demonstração de interferência no tempo de reação de uma tarefa. Por exemplo, quando uma palavra como azul, verde, vermelho, etc, é impressa numa cor que difere da cor expressa pelo significado semântico (exemplo: a palavra vermelho impressa com tinta azul), ocorre um atraso no processamento da cor da palavra, causando tempos de reacção mais lentos e um aumento de erros. O efeito leva o nome do seu descobridor, John Ridley Stroop, e foi originalmente difundido no artigo "Studies of interference in serial verbal reactions" publicado na revista Journal of Experimental Psychology em 1935.
+
+
+== Ligações externas ==
+John Ridley Stroop, Studies of interference in serial verbal reactions en Classics in the History of Psychology.
+Demonstração e definição do efeito Stroop.
+Demonstração interactiva em JavaScript do efeito Stroop.(em inglês)

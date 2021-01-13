@@ -1,0 +1,80 @@
+O western blot (por vezes chamado imunoblot de proteínas ou transferência western) é um método em biologia molecular e bioquímica para detectar proteínas numa amostra de homogenato (células bem trituradas) de tecidos biológicos ou estratos. Essa técnica usa eletroforese em gel para separar as proteínas nativas pela sua estrutura tridimensional ou proteínas desnaturalizadas pelo comprimento da sua cadeia polipeptídica. As proteínas são então transferidas do gel para uma membrana (tipicamente de nitrocelulose ou PVDF), sendo uma técnica de blotting ou transferência. Uma vez na membrana são usados como sonda anticorpos específicos para a proteína alvo. A passagem de electroforese em gel é incluída nas análises de western blot para resolver o problema da reatividade cruzada dos anticorpos. Como resultado, os pesquisadores podem examinar a quantidade de proteína em uma dada amostra e comparar os níveis entre diversos grupos.
+O nome Western blot é um trocadilho do nome Southern blot, uma técnica para detecção de DNA desenvolvida anteriormente por Edwin Southern. Também há uma técnica chamada Northern blot que serve para a detecção de RNA.
+
+
+== Método de execução do Western blot ==
+
+
+=== Preparação do tecido ===
+Tipicamente, amostras podem ser tomadas, tanto de um tecido biológico quanto de uma cultura de células. As amostras são resfriadas ou aquecidas rapidamente. Elas são homogenizadas por sonicação (quebra das células por ondas sonoras de alta freqüência) ou por força mecânica. O resultante é a mistura homogênea dos componentes da célula, e pode ser usado da forma que está ou sujeita a centrifugação em uma série de passos para se isolar as frações do material citosóico (material do interior da célula externo ao seu núcleo) e nuclear. Na amostra preparada é então quantificada, para que uma quantidade consistente de proteína possa ser retirada de cada amostra diferente.
+As amostras são fervidas de um a cinco minutos em uma solução tampão, contendo corante, um composto sulfuroso e um detergente conhecido como dodecil sulfato de sódio (SDS). A ebulição e o detergente desnaturam a proteína, desenovelando-a completamente. O SDS então cerca a proteína, deixando-a coberta por uma carga negativa,  e o enxofre impede a formação de pontes de dissulfeto na proteína.
+
+
+=== Eletroforese em gel ===
+As proteínas da amostra são separadas de acordo com o peso molecular usando-se a eletroforese em gel. Géis têm várias formulações dependendo do laboratório, peso molecular das proteínas de interesse e tampões disponíveis, os géis de poliacrilamida são os mais comuns. Desde que as proteínas caminhem apenas em uma direção ao longo do gel, as amostras são carregadas lado-a-lado em "valas" feitas no gel. As proteínas são então separadas por massa em "bandas" dentro de cada canaleta. Uma canaleta é reservada para um "marcador", ou ladder, uma mistura disponível comercialmente de proteínas de pesos moleculares conhecidos.
+Também é possível usar um gel 2-D que separa as proteínas de uma única amostra em duas dimensões e as proteínas são separadas na primeira dimensão de acordo com o ponto isoelétrico (pH no qual elas têm uma carga total igual a zero), e na segunda de acordo com seus pesos moleculares.
+
+
+=== Transferência ===
+A fim de fazer as proteínas acessíveis à detecção do anticorpo, elas são movidas do gel para uma membrana de nitrocelulose ou de PVDF. A membrana é colocada face-a-face com o gel, e uma corrente elétrica é aplicada entre grandes placas de cada lado, então as proteínas carregadas se movem do gel para a membrana enquanto mantém a mesma disposição que continham no gel. Como resultado desse processo de "borramento" (blotting em Inglês), as proteínas são expostas a uma fina camada para detecção (veja abaixo). Ambas as variedades de membranas são escolhidas por suas propriedades de ligar proteínas não especificamente (isto é, liga todas as proteínas igualmente bem). A ligação das proteínas à membrana é baseada tanto em interações hidrofóbicas quanto em interações de cargas entre a membrana e as proteínas. As membranas de nitrocelulose são mais baratas que as de PVDF, porém são mais frágeis e não suportam bem a repetidas amostragens.
+
+
+=== Bloqueio ===
+Desde que a membrana foi escolhida por sua habilidade de ligar proteínas, passos precisam ser feitos para impedir as interações não específicas entre a membrana e o anticorpo usado para a detecção da proteína alvo. O bloqueio da ligação não específica é alcançado pondo-se a membrana em uma solução diluída de uma proteína - tipicamente albumina de soro bovino (BSA) ou leite seco desnatado, com uma pequena quantidade de detergente como Tween 20 ou carbono coloidal.
+
+
+=== Detecção ===
+Durante o processo de detecção testa-se a membrana com anticorpos da proteína de interesse, e se liga eles com uma enzima reveladora, a qual leva a uma mudança de cor ou sinal fotométrico. Por uma variedade de razões, isto tradicionalmente toma lugar em processo de dois passos, embora existam métodos de detecção de um passo disponíveis para certas aplicações.
+
+
+=== Método de dois passos ===
+Anticorpo primárioAnticorpos são gerados quando uma espécie hospedeira ou uma cultura de células imunes são expostos à proteína de interesse (ou a uma parte dela). Normalmente uma parte da resposta imune é colhida e usada como ferramenta de detecção específica e sensível que se liga à proteína diretamente - por isso anticorpo primário.
+Depois de bloqueada a membrana, uma solução diluída do anticorpo primário (geralmente entre 0,5 e 5 microgramas/mL) é encubada com a membrana sobre leve agitação. Tipicamente, a solução é composta de uma solução salina tamponada, e às vezes com BSA ou leite em pó. A solução de anticorpos e a membrana podem ser seladas e incubadas juntas de 30 minutos a uma noite. Também podem ser incubadas em diferentes temperaturas, com temperaturas mais altas sendo associadas com mais ligações, tanto específicas à proteína alvo (o sinal) e não específicas (o ruído).
+
+Anticorpo secundárioDepois de se enxaguar a membrana para remover o anticorpo primário não ligado, ela é exposta a outro anticorpo, direcionado a porções espécies-específicas do anticorpo primário. Este é conhecido como anticorpo secundário. Ele geralmente é ligado a biotina ou a uma enzima reveladora como por exemplo fosfatase alcalina. Esse passo confere a vantagem de que vários anticorpos secundários se ligarão a um anticorpo primário, providenciando um sinal intensificado.
+Mais comumente, uma peroxidase - ligada secundariamente é usada em conjunção com um agente quimioluminescente, e a reação produz fluorescência proporcionalmente à quantidade de proteína. Um filme fotográfico é colocado contra a membrana, e exposta à luz da reação é criada a imagem dos anticorpos ligados ao blot.
+Com os procedimentos ELISPOT e ELISA, a enzima pode ser provida com uma molécula substrato que será convertida pela enzima a um produto colorido de reação que será visível na membrana (veja a figura acima com as bandas azuis).
+Uma terceira alternativa é usar um marcador radioativo acoplada ao anticorpo secundário, por exemplo marcando uma proteína capaz de se ligar ao anticorpo como a proteína A de Staphylococcus com um isótopo radioativo de iodo. Desde que outros métodos são mais seguros, mais rápidos e mais baratos; isto caiu em desuso.
+
+
+=== Método de um passo ===
+Historicamente, o processo de sondagem era feito em dois passos por causa da relativa facilidade em se produzir anticorpos primários e secundários em diferentes processos. Isso dá aos pesquisadores e corporações grandes vantagens em termos de flexibilidade, e adiciona um passo de amplificação ao processo de detecção. Dado ao advento da análise em larga escala de proteínas e menores limites de detecção, contudo, tem havido o interesse de se desenvolver sistemas de sondagem em um passo os quais permitam o processo ocorrer mais rapidamente e com um menor material consumido. Isso requer um anticorpo sonda que reconheça tanto a proteína de interesse e que tenha uma marcação detectável (sondas que estão freqüentemente disponíveis para seqüências proteicas conhecidas). A sonda primária é incubada com a membrana de uma forma similar àquela do anticorpo primário do processo de dois passos, e então está pronta para a detecção direta depois de uma série de passos de lavagem.
+
+
+== Análise ==
+Depois das sondas não ligadas serem lavadas, o Western blot está pronto para a detecção das sondas marcadas e ligadas à proteína de interesse. Em termos práticos, nem todos os Westerns blots revelam proteínas em apenas uma banda da membrana. Aproximações de tamanho são tomadas pela comparação das bandas coloridas àquelas do marcador ou ladder carregado durante a eletroforese. O processo é repetido para uma proteína estrutural, como actina ou tubulina, que não devem mudar entre amostras. A quantidade de proteína alvo é indexada à proteína estrutural para o controle entre grupos. Essa prática garante a correção do total de proteína na membrana no caso de erros ou transferência incompleta.
+
+
+=== Detecção colorimétrica ===
+O ingenuo da detecção colorimétrica depende da incubação do Western blot com um substrato que reage com a enzima reveladora (com a peroxidase) que é ligada ao anticorpo secundário. Isso converte o corante solúvel em uma forma insolúvel de uma cor diferente que precipita próximo à enzima e então colore a membrana de nitrocelulose. O desenvolvimento da mancha é então parado lavando-se o corante solúvel. Os níveis de proteína são avaliados por densitometria (o quão intensa a mancha é) ou espectrofotometria.
+
+
+=== Quimioluminescência ===
+Os métodos de detecção quimioluminescentes dependem da incubação do Western blot com um substrato que fluoresce quando exposto à enzima reveladora no anticorpo secundário. A luz é então detectada por um filme fotográfico ou mais recentemente por câmeras CCD as quais capturam uma imagem digital do Western blot. A imagem é analisada por densitometria, a qual avalia a quantidade de proteína colorida e quantifica os resultados em termos de intensidade óptica. Novos softwares permitem uma análise mais além da informação como a análise do peso molecular se padrões apropriados forem usados. A detecção de quimioluminescência ampliada é considerada entre os métodos mais sensíveis para análise em blot.
+
+
+=== Detecção radioativa ===
+Marcadores radioativos não requerem substratos enzimáticos,  mas em vez disso permitem a colocação de filmes médicos de raios-X diretamente contra o Western blot, o qual exposto à sonda cria regiões escuras as quais correspondem às bandas da proteína de interesse (veja a imagem à direita). A importância dos métodos de detecção radioativa está declinando, porque são muito caros, apresentam riscos à saúde e à segurança e a detecção quimioluminescente prevê uma alternativa mais útil.
+
+
+=== Detecção fluorescente ===
+A sonda marcada fluorescentemente é excitada por luz e a emissão da excitação é então detectada por um fotosensor como uma câmera CCD equipada com filtros de emissão apropriados os quais capturam uma imagem digital do Western blot e permitem uma análise mais além dos dados como a análise do peso molecular e uma análise quantitativa do Western blot. Fluorescência é considerada entre os métodos mais sensíveis para análise em blot.
+
+
+== Sondagem secundária ==
+Uma diferença marcante entre membranas de nitrocelulose e de PVDF diz relação à habilidade de cada uma de suportar a revelação dos anticorpos e de reusar a membrana para sondas subseqüentes de anticorpos. Enquanto existem protocolos bem estabelecidos disponíveis para a revelação de membranas de nitrocelulose, a mais dura PVDF permite uma revelação mais fácil, e mais reuso antes do ruído de fundo limitar os experimentos. Outra diferença é que, diferente da de nitrocelulose, a de PVDF precisa ser embebida em metanol 100% ou isopropanol antes do uso. As membranas de PVDF também tendem a ser mais densas e muito mais resistentes ao dano decorrido da manipulação normal.
+
+
+== Aplicações em diagnósticos médicos ==
+O teste confirmatório de HIV emprega um Western blot para detectar o anticorpo anti-HIV na amostra de soro humano. Proteínas de células conhecidas infectadas com o HIV são separadas e "blotadas" em uma membrana como acima. Então, no soro a ser testado é aplicado o anticorpo primário no passo de incubação; o anticorpo livre é lavado, e um anticorpo anti-humano secundário é ligado, e uma enzima reveladora é adicionada. As bandas impregnadas então indicam os anticorpos do soro dos pacientes marcados com o anticorpo anti-humano.
+Algumas formas do teste da Doença de Lyme empregam o Western blot.
+
+
+== Referências ==
+
+
+== Ligações externas ==
+Portaria do Ministério da Saúde brasileiro sobre a normatização do teste de HIV
+«Animação ilustrando o Western blot» (em inglês) 
+«Protocolos e informação sobre o Western blot» (em inglês) 
+Este artigo foi inicialmente traduzido do artigo da Wikipédia em inglês, cujo título é «Western blot».

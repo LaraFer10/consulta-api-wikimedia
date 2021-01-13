@@ -1,0 +1,34 @@
+Bloqueador neuromuscular é uma droga que interrompe ou simula a transmissão dos impulsos nervosos na junção neuromuscular esquelética, causando paralisia dos músculos esqueléticos afetados. Isto é conseguido, quer pela atuação pré-sináptica através da inibição da síntese ou liberação de acetilcolina (ACh), ou agindo pós-sinapticamente no receptor de acetilcolina. Embora existam drogas que atuam pré-sinapticamente (tais como a toxina botulínica e tetrodotoxina), os bloqueadores neuromusculares clinicamente relevante atuam pós-sinapticamente. Os principais bloqueadores neuromusculares usados no Brasil para os procedimentos cirúrgicos eletivos são rocurônio,atracúrio e cisatracúrio.Clinicamente, o bloqueio neuromuscular é usado como um adjuvante à anestesia para induzir paralisia muscular, de modo que a cirurgia, especialmente intra-abdominal e intra-operatório de cirurgias torácicas, possam ser realizadas com menos complicações. Como o bloqueio neuromuscular pode paralisar os músculos necessários para a respiração, dispositivos de ventilação mecânica devem estar sempre disponíveis para manter a respiração adequada.
+Como os pacientes ainda sentem dor mesmo após o bloqueio de condução ter sido feito, anestésicos gerais e/ou analgésicos devem ser administrados.
+
+
+== Classificação ==
+Existem vários tipos de bloqueadores neuromusculares e várias classificações para eles. Estes podem ser de dois tipos:
+
+bloqueadores neuromusculares estabilizantes competitivos (agentes não despolarizantes neuromusculares) — são antagonistas nos receptores de acetilcolina, que bloqueiam os receptores nicotínicos pós-sinápticos impedindo a ligação de ACH e assim impedindo que os músculos despolarizem e se contraiam, o que poderia causar uma paralisia flácida;
+agentes despolarizantes não competitivos (despolarizantes neuromusculares) — são agonistas nos receptores nicotínicos, que provocam uma hiperestimulação dos receptores nicotínicos, causando assim fasciculações musculares e paralisia tetânica.
+
+
+=== Bloqueadores neuromusculares despolarizantes ===
+Funcionam ao despolarizar a membrana plasmática da fibra muscular, tendo ação semelhante à acetilcolina. No entanto, esses agentes são mais resistentes à degradação pela acetilcolinesterase, a enzima responsável pela degradação da acetilcolina, e podem, portanto, apresentar uma despolarização mais persistente das fibras musculares. Isso difere da acetilcolina, que é rapidamente degradada e despolariza apenas transitoriamente o músculo.
+Existem duas fases para o bloco despolarizante. Durante a fase I (fase de despolarização), eles podem causar fasciculações musculares (contrações musculares), durante a despolarização das fibras musculares. Por fim, após uma despolarização suficiente ocorrer, a fase II (fase de dessensibilização)ocorre e o músculo não é mais sensível à acetilcolina liberada pelos motoneurônios. Neste ponto, o bloqueio neuromuscular total foi alcançado.
+A droga protótico de bloqueio neuromuscular despolarizante é a succinilcolina. É a única droga despolarizante que é usada clinicamente. Ela tem um início rápido (30 segundos), mas uma duração de ação muito curta (5-10 minutos), devido à hidrólise pelas diversas colinesterases (como a butirilcolinesterase no sangue).
+O uso de um inibidor da acetilcolinesterase pode ser realizado para causar o mesmo efeito de um bloqueio neuromuscular despolarizante.
+
+
+=== Bloqueadores neuromusculares não-despolarizantes ===
+Estes agentes atuam como antagonistas competitivos da acetilcolina no sítio do receptor de acetilcolina pós-sináptico.
+
+
+== Comparação de drogas ==
+A principal diferença está na reversão do bloqueio neuromuscular nestes dois tipos de drogas.
+Os bloqueadores não despolarizantes são revertidos por fármacos inibidores da acetilcolinesterase, uma vez que são antagonistas competitivos nos receptores ACh, assim este efeito pode ser revertido pelo aumento da ACh.
+
+
+== Efeitos adversos ==
+Uma vez que estas drogas podem causar paralisia do diafragma, a ventilação mecânica deve estar à disposição do médico.
+Além disso, estas drogas podem apresentar efeitos cardiovasculares, uma vez que não são totalmente seletivas para os receptores nicotínicos e, portanto, podem ter efeitos sobre os receptores muscarínicos. Se os receptores nicotínicos dos gânglios autonômicos ou da medula adrenal são bloqueados, essas drogas podem causar sintomas autonômicos. Além disso, os bloqueadores neuromusculares podem facilitar a liberação de histamina, que causa hipotensão, rubor e taquicardia.
+Ao despolarizar a musculatura, a succinilcolina pode desencadear uma liberação transiente de grandes quantidades de potássio a partir de fibras musculares. Isto coloca o doente em risco de complicações potencialmente fatais, como a hipercaliemia e arritmias cardíacas.
+
+
+== Referências ==

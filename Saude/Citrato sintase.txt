@@ -1,0 +1,15 @@
+A enzima citrato sintase (E.C 2.3.3.1 [antigamente 4.1.3.7]) é uma enzima transferase, e controla o primeiro passo do ciclo de Krebs, também conhecido como "ciclo do ácido cítrico".
+A citrato sintase está localizada no interior das células, mais especificamente na matriz mitocondrial, mas é codificada pelo DNA nuclear ao invés do mitocondrial. É sintetizada utilizando-se dos ribossomos do citoplasma, e então transportada para a matriz mitocondrial. É comumente utilizada como marcador quantitativo de enzima pela presença intacta da mitocôndria.
+A enzima catalisa a reação de condensação de um resíduo de acetato contendo 2 carbonos de uma acetil coenzima A com uma molécula de oxaloacetato contendo quatro carbonos para formar um citrato de seis carbonos. O oxaloacetado será regenerado após completada uma série do ciclo de Krebs.
+
+
+== Inibição ==
+A enzima é inibida pela alta concentração de ATP:ADP, Acetil-CoA:CoA e NADH:NAD, o que demonstra que há um alto suprimento de energia para a célula. A citrato sintase também é inibida pela succinil-CoA e pelo citrato, exemplos de inibição de produtos.
+
+
+== Referências ==
+K. C. Usher, S. J. Remington, D. P. Martin, D. G. Drueckhammer (1994). A very short hydrogen bond provides only moderate stabilization of an enzyme-inhibitor complex of citrate synthase. Biochemistry. 33. [S.l.: s.n.] pp. 7753–7759  !CS1 manut: Nomes múltiplos: lista de autores (link)
+
+
+== Ligações externas ==
+(em inglês) MeSH Citrate+synthase

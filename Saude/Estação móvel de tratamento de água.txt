@@ -1,0 +1,9 @@
+A Estação móvel de tratamento de água é um conjunto de equipamentos montados sobre uma carreta de fácil transporte, utilizados para tornar a Água Suja e/ou Contaminada em Água potável.
+Seu funcionamento é equivalente ao de uma Estação de Tratamento de Água Convencional (ETA).
+Uma estação móvel de tratamento de água pode ser dimensionada para vazões de até 2 l/s (7.200 l/hora) e sua capacidade de atendimento pode atingir até 8.640 (oito mil seiscentos e quarenta) pessoas, considerando situações de emergência.
+A estação móvel de tratamento de água se destaca por: atender cidades em situações de emergência ocasionada por enchentes, contaminação da jusante ou por manutenção na Estação de Tratamento de Água; atender canteiros de obras distantes das redes de abastecimento de água potável, além de possuir baixo custo operacional;
+É especificada como um conjunto de unidades de tratamento não pressurizadas, clássica, e construída em módulos:
+Calha Parshall: A calha Parshall faz a medição de vazão, além da mistura rápida dos produtos floculantes.
+Floculador: Promove a floculação dos sólidos em suspensão, agrupando estes em flocos pesados para que possam decantar.
+Decantador: Remove os flocos formados nos floculadores, por meio de decantação pela gravidade.
+Filtros: O sistema de filtros é de taxa declinante variável, de fluxo descendente, autolaváveis, com leito filtrante duplo de areia e antracito, suportado por camada de seixos rolados.

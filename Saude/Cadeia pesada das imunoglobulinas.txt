@@ -1,0 +1,29 @@
+A cadeia pesada das imunoglobulinas (IgH) é a subunidade polipeptídica grande e mais pesada de um anticorpo (imunoglobulina).
+O típico anticorpo é composto por duas cadeias pesadas de imunoglobulina (Ig) e duas cadeias leves. Existem vários tipos de cadeias pesadas que definem a classe ou isótipo dum anticorpo. Estes tipos de cadeias pesadas variam entre diferentes animais. Todas as cadeias pesadas contêm uma série de domínios de imunoglobulinas, geralmente com um domínio estrutural variável (VH), que é importante para a união do antígeno e vários domínios constantes (CH1, CH2 etc.). A produção viável da cadeia pesada é um passo importantíssimo na maturação da célula B. Se a cadeia pesada pode unir-se a uma cadeia leve substituta e mover-se para a membrana plasmática, então a célula B em desenvolvimento pode começar a produzir a sua cadeia leve.A cadeia pesada nem sempre tem que unir-se a uma cadeia leve. Os pré-linfócitos B podem sintetizar a cadeia pesada na ausência da cadeia leve, o que depois pode permitir que a cadeia pesada se una a uma proteína de união à cadeia pesada.
+
+
+== Em mamiferos ==
+
+
+=== Classes ===
+Existem cinco tipos de cadeias pesadas de imunoglobulina de mamiferos: γ, δ, α, μ e ε. Definem a classe de imunoglobulina, que pode ser, respectivamente: IgG, IgD, IgA, IgM e IgE. 
+
+As cadeias pesadas α e γ têm aproximadamente 450 aminoácidos.
+As cadeias pesadas μ e ε têm aproximadamente 550 aminoácidos.
+
+
+=== Regiões ===
+Cada cadeia pesada tem duas regiões:
+
+Uma região constante (que é a mesma para todas as imunoglobulinas da mesma classe, mas é diferente entre classes).
+As cadeas pesadas γ, α e δ possuem uma região constante composta de três domínios de imunoglobulina em tandem (em linha uma seguida da outro), mas também têm uma região de dobradiça que lhe confere flexibilidade.
+As cadeias pesadas μ e ε têm uma região constante composta por quatro domínios.
+Uma região variável que é distinta em diferentes células B, mas é a mesma para todas as imunoglobulinas produzidas pela mesma célula B ou clone da célula B. Os domínios variáveis de cada cadeia pesada estão compostos por um só domínio de imunoglobulina. Estes domínios têm uns 110 aminoácidos de comprimento.
+
+
+== Referências ==
+
+
+== Ligações externas ==
+MeSH Immunoglobulin+Heavy+Chains
+Recurso educativo para a análise da cadeia pesada

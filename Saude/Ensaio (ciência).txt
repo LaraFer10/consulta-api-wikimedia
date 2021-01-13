@@ -1,0 +1,18 @@
+Ensaio é um processo investigativo (analítico) laboratorial que é utilizado pela, química, medicina, farmacologia, biologia ambiental, e biologia molecular para avaliar qualitativamente ou quantitativamente a presença, a quantidade ou a atividade funcional de um analito. O analito pode ser uma droga, substância bioquímica, célula de um organismo ou uma amostra biológica.
+
+
+== Etapas gerais ==
+Um ensaio (análise) nunca é um processo isolado e deve ser combinado com procedimentos pré e pós-analíticos. As das etapas pré-analíticas são a comunicação de informações ou manuseio de amostras que são feitas antes de um ensaio. Do mesmo modo, após o ensaio, o resultado pode ser documentado, verificado e transmitido/comunicado em passos que são chamados pós-analíticos. Como qualquer manuseio informação multi-passo e sistemas de transmissão, a variação e os erros apresentados nos resultados finais de um ensaio envolvem as partes correspondentes de cada passo; isto é, não apenas as variações e erros analíticos intrínsecos ao próprio ensaio, mas também variações e erros envolvidos nas etapas pré-analíticas e pós-analíticas. Uma vez que o próprio ensaio requer muita atenção, etapas que recebem menos atenção por parte da cadeia de utilizadores, ou seja, a pré-analítica e as pós-analíticas, muitas vezes são menos rigorosamente regulamentadas e, geralmente, mais propensas a erros - por exemplo, etapas pré-analíticas em ensaios médicos de laboratório podem contribuir para 32-75% de todos os erros de laboratório.Ensaios podem ser bastante diversos, mas de forma geral podem envolver os passos:
+
+Manipulação e processamento de amostra
+Especificação de alvo analítico (discriminação/identificação)
+Amplificação de sinal: 
+Detecção de sinal: 
+Melhoria de sinal e tratamento de ruido 
+
+
+== Qualidade de um ensaio ==
+Quando vários ensaios medem o mesmo alvo analítico, os seus resultados e utilidade podem ou não ser comparáveis dependendo das naturezas de ensaio e sua metodologia, confiabilidade etc. Tais comparações são possíveis através do estudo de atributos gerais de qualidade dos ensaios. Por exemplo, princípios de medição (incluindo a identificação, a amplificação e a detecção), gama dinâmica de detecção (normalmente na gama de linearidade da curva padrão), sensibilidade analítica, sensibilidade funcional, especificidade analítica, valores preditivos positivo, negativo, virar-se de tempo ou seja, o tempo levado para terminar um ciclo completo das etapas das pré-analíticas até o final da última etapa pós-analítica (relatório de expedição/transmissão), ou seja, número de ensaios realizados por unidade de tempo (geralmente expresso por hora). As organizações ou laboratórios que realizam ensaios devem ser submetidos a procedimentos de garantia de qualidade bem regulamentados, incluindo a validação do método, calibração regular, controle de qualidade analítica, teste de proficiência, teste de acreditação, o licenciamento de teste e também deve apresentar certificações apropriadas a partir do agente regulador competente, a fim de estabelecer a confiabilidade de seus ensaios, especialmente para permanecer aceito legalmente.
+
+
+== Referências ==

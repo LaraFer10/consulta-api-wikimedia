@@ -1,0 +1,8 @@
+IntEnz (Integrated relational Enzyme database) é uma base de dados bioinformática que contém informação sobre enzimas de acordo com a nomenclatura e classificação dadas pela NC-IUBMB. É construída pelo European Bioinformatics Institute (Instituto Europeu de Bioinformática) em colaboração com o Swiss Institute of Bioinformatics (Instituto Suíço de Bioinformática). A base de dados é de acesso aberto e gratuito.
+
+
+== Referências ==
+
+
+== Ligações externas ==
+«Integrated Enzyme Database (IntEnz)» (em inglês). European Bioinformatics Institute. Consultado em 18 de setembro de 2011

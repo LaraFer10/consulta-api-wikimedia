@@ -1,0 +1,105 @@
+Glicólise (do grego antigo "γλυκύς" (glykýs), adocicado e "λύσις" (lýsis), quebra, degradação) é uma sequência metabólica composta por um conjunto de dez reações catalisadas por enzimas livres no citosol, na qual a glicose é oxidada produzindo duas moléculas de piruvato, quatro moléculas de ATP (contemplando que duas moléculas de ATP foram utilizadas durante a fase de investimento, considera-se um saldo final de dois ATP, subtraindo os dois que foram utilizados da quantidade total de ATP produzido na via) e dois equivalentes reduzidos de NADH+, que serão introduzidos na cadeia respiratória ou na fermentação. A glicólise é uma das principais rotas para geração de ATP nas células e está presente em todos os tipos de tecidos.A importância da glicólise na nossa economia energética é relacionada com a disponibilidade de glicose no sangue, assim como com a habilidade da glicose gerar ATP tanto na presença quanto na ausência de oxigênio. A glicose é o principal carboidrato em nossa dieta e é o açúcar que circula no sangue para assegurar que todas as células tenham suporte energético contínuo. O cérebro utiliza quase exclusivamente glicose como combustível. A oxidação de glicose a piruvato gera ATP pela fosforilação (a transferência de fosfato de intermediários de alta energia da via do ADP) a nível de substrato e NADH. Subsequentemente, piruvato pode ser oxidado a CO2 no ciclo de Krebs e ATP gerado pela transferência de elétrons ao oxigênio na fosforilação oxidativa. Entretanto, se o piruvato e o NADH gerados na glicólise forem convertidos a lactato (glicólise anaeróbica), ATP pode ser gerado na ausência de oxigênio, através da fosforilação a nível de substrato.A glicose tem sua importância também por ser fonte de energia para todos os tipos de células de mamíferos, além de ser fonte exclusiva de energia para as hemácias. O eritrócito maduro não apresenta mitocôndrias, sendo assim obtêm sua energia a partir da glicose por duas principais vias: via glicolítica anaeróbia (Embden-Meyerhof) que envolve 90% da degradação da glicose até lactato, e a via das pentoses fosfato ou derivação da hexose monofosfato, ou ainda via do fosfogliconato.
+
+A glicólise é uma rota central quase universal do catabolismo da glicose, a rota com o maior fluxo de carbono na maioria das células. A quebra glicolítica de glicose é a única fonte de energia metabólica em alguns tecidos de mamíferos e tipos celulares (hemácias, medula renal, cérebro e esperma, por exemplo). Alguns tecidos de plantas que são diferenciados para armazenar amido (como os tubérculos da batata) e algumas plantas aquáticas derivam a maior parte de sua energia da glicólise; muitos micro-organismos anaeróbicos são inteiramente dependentes da glicólise.Fermentação é um termo geral para a degradação anaeróbica de glicose (glicólise anaeróbica) ou outros nutrientes orgânicos para obtenção de energia, conservada como ATP. Os organismos primitivos se originaram num mundo cuja atmosfera carecia de O2 e, por isto, a glicólise é considerada a mecanismo biológico mais primitivo para obtenção de energia a partir de moléculas orgânicas, presente em todas as formas de vida atuais. No curso da evolução, a química dessa sequência de reações foi completamente conservada; as enzimas glicolíticas dos vertebrados são intimamente similares, na sequência de aminoácidos e na estrutura tridimensional, a seus homólogos nas leveduras e no espinafre. A glicólise difere entre as espécies apenas em detalhes de sua regulação e no destino metabólico subsequente do piruvato formado. Os princípios termodinâmicos e os tipos de mecanismos regulatórios que governam a glicólise são comuns a todas as rotas de metabolismo celular. O estudo da glicólise pode, portanto, servir como modelo para muitos aspectos das rotas metabólicas. A glicólise nas células procariontes ocorre no citoplasma e nas eucariontes ocorre no citosol.
+A mais comum e conhecida forma de glicólise é a rota de Embden-Meyerhof, que foi inicialmente elucidada por Gustav Embden e Otto Meyerhof. O termo glicólise pode significar também outras rotas metabólicas, como a de Entner-Doudoroff. Entretanto, o resto desse artigo usará o termo glicólise para explicar a via metabólica mais comum pela qual ocorre: a rota de Embden-Meyerhof.
+
+
+== História ==
+A glicólise foi a primeira rota metabólica a ser elucidada e é provavelmente a melhor compreendida. Os primeiros estudos formais do processo glicolítico foram feitos em 1860, quando Louis Pasteur descobriu que micro-organismos eram responsáveis pela fermentação.
+Em 1897, Eduard Buchner mostrou que o extrato obtido da maceração de leveduras, mesmo isento de micro-organismos vivos, fermentava açúcares, e chamou este extrato de zimase, recebendo o Prêmio Nobel da Química em 1907.
+Em 1905 Arthur Harden e William Young mostraram que a zimase podia ser separada em 2 extratos: um contendo moléculas grandes e sensíveis ao calor (que hoje sabemos serem as enzimas) e uma fração de moléculas menores e pouco sensíveis ao calor (que sabemos hoje serem as coenzimas), e que estes só fermentavam o açúcar quando juntos. Harden recebeu o Prêmio Nobel da Química em 1929.
+A via glicolítica detalhada foi determinada em 1940, com as contribuições de Otto Meyerhof (Nobel da Medicina ou Fisiologia em 1922) e alguns anos depois por Luis Leloir (Nobel da Química em 1970). A maior dificuldade na determinação da via é devido ao curto tempo de vida e baixas concentrações dos intermediários, o que faz a glicólise uma via metabólica muito rápida. Louis Pasteur verificou que a levedura crescia mais de 10 vezes mais rápido quando digeria o açúcar na fermentação do que usando o oxigênio.
+
+
+== Sequência da Glicólise ==
+
+A quebra dos seis carbonos da glicose em duas moléculas de piruvato com três carbonos ocorre em dez passos; os primeiros cinco dos quais constituem a fase preparatória (fase de investimento) e os cinco seguintes, a fase de geração de ATP (fase de rendimento).
+
+
+=== Fase 1: Preparação, regulação e gasto de energia ===
+Na fase inicial preparatória da glicólise (fase de investimento), a glicose é fosforilada duas vezes por ATP e clivada em duas trioses fosfato. Nesta fase, a célula gasta duas moléculas de ATP, o catião Mg2+ é indispensável para as reações, e processam-se cinco reações bioquímicas. Nenhuma energia é armazenada, pelo contrário, duas moléculas de ATP são investidas nas reações de fosforilação.
+
+
+==== Reação 1: hexocinase ====
+Na primeira reação, a glicose que entra nos tecidos é fosforilada no grupo hidroxila em C6, com o gasto energético de uma molécula de ATP, dando origem a glicose-6-fosfato e ADP. Essa reação, catalisada pela enzima hexocinase, é irreversível sob condições fisiológicas devido a seu ΔG° altamente negativo. Trata-se de um dos três passos que regulam a glicólise. A fosforilação da glicose na primeira reação impede que esta saia da célula novamente (a glicólise realiza-se no citosol da célula). Ao adicionar um grupo fosfato à glicose, ela se torna uma molécula carregada negativamente e é impossível atravessar passivamente a membrana celular, mantendo-a aprisionada dentro da célula.
+Glicose-6-fosfato é um ponto de ramificação no metabolismo de carboidratos. Ela é um precursor para quase todas as rotas que utilizam a glicose, incluindo glicólise, via da pentose fosfato e síntese de glicogênio. De um ponto de vista oposto, ela também pode ser gerada a partir de outras rotas do metabolismo de carboidratos, tais como glicogenólise (quebra de glicogênio), via da pentose fosfato e gliconeogênese (síntese de glicose a partir de não-carboidratos).As hexoquinases, enzimas que catalisam a fosforilação da glicose, são uma família de isoenzimas tecido-específicas que diferem em suas propriedades cinéticas. A isoenzima encontrada no fígado e células do pâncreas tem um Km muito mais alto do que outras hexoquinases e é chamada de glicoquinase. As cinases são enzimas que catalisam a transferência de um grupo fosforil terminal do ATP para um aceptor nucleófilo. No caso da hexoquinase, o aceptor é uma hexose, normalmente D-glicose, embora a hexoquinase possa catalisar a fosforilação de outras hexoses comuns, tais como D-frutose e D-manose. A hexoquinase, como muitas outras cinases, requer Mg2+ para sua atividade, pois o verdadeiro substrato da enzima não é ATP-4, e sim MgATP-2. Em muitas células, parte da hexoquinase se encontra ligada a porinas na membrana mitocondrial externa, as quais dão a essas enzimas o acesso precoce ao ATP recém-sintetizado conforme ele sai da mitocôndria.
+
+
+==== Reação 2: fosfohexose-isomerase ====
+Na segunda reação, catalisada pela enzima glicosefosfato-isomerase (também chamada de fosfoexose isomerase), a glicose-6-fosfato, uma aldose, é convertida num processo de isomerização reversível em frutose-6-fosfato, uma cetose, assim, permitindo um sítio de entrada para a frutose da dieta na glicólise. Esta isomerização tem um papel crítico na química geral da via glicolítica, uma vez que o rearranjo dos grupos carbonil e hidroxil em C-1 e C-2 é uma preparação necessária para os próximos dois passos. A fosforilação que ocorre na reação seguinte (reação 3) requer que o grupo em C-1 seja primeiramente convertido de um carbonil para um álcool e, na reação subsequente (reação 4), a clivagem da ponte entre C-3 e C-4 pela aldolase requer um grupo carbonil em C-2.
+
+
+==== Reação 3: fosfofrutoquinase-1(PFK1) ====
+Na reação número 3, a célula investe outra molécula de ATP para fosforilar a frutose-6-fosfato e convertê-la em frutose-1,6-bisfosfato. Esta é também uma reação irreversível e de controle desta via metabólica, catalisada pela enzima fosfofrutocinase, que é a enzima marca-passo da glicólise. Esta etapa ocorre para deixar a molécula simétrica para a reação de clivagem na etapa seguinte.
+
+
+==== Reação 4: aldolase ====
+Na reação 4, a frutose-1,6-bisfosfato é clivada em duas trioses: gliceraldeído-3-fosfato e dihidroxiacetona fosfato. Esta reação é catalisada pela enzima aldolase.
+
+
+==== Reação 5: triosefosfato isomerase ====
+O gliceraldeído-3-fosfato e a dihidroxiacetona fosfato são isômeros facilmente interconversíveis pela enzima triosefosfato isomerase. Ocorre então a conversão da dihidroxicetona P em gliceraldeído 3P, a única triose que pode continuar sendo oxidada.
+
+
+=== Fase 2: Produção de ATP e oxidação ===
+Na fase de geração de ATP (de rendimento), gliceraldeído-3-fosfato (uma triose fosfato) é oxidado pelo NAD e fosforilada usando fosfato inorgânico. A ponte de fosfato de alta energia gerada nesta etapa é transferida ao ADP para formar ATP. O fosfato restante é também rearranjado para formar outra ponte de fosfato de alta energia que é transferida ao ADP. Como há dois moles de triose fosfato formados, o resultado da fase de geração de ATP é de quatro ATPs e dois NADH. O resultado é uma produção global de dois moles de ATP, dois moles de NADH e dois moles de piruvato por mol de glicose.
+
+
+==== Reação 6: Gliceraldeído 3-fosfato desidrogenase ====
+Na primeira reação desta fase, a número 6 no seguimento da fase anterior, cada gliceraldeído-3-fosfato é oxidado (desidrogenado) pelo NAD+ (e o NAD+ passa a NADH) e fosforilado por um fosfato inorgânico, dando origem a 1,3-Bifosfoglicerato (1,3 BPG). Esta reação é catalisada pela enzima gliceraldeído 3-fosfato desidrogenase.
+
+
+==== Reação 7: Fosfogliceratocinase ====
+Na reação 7, catalisada pela enzima 1,3 BiP glicerato cinase, a 1,3 BPG transfere um grupo fosfato para uma molécula de ADP dando origem a uma molécula de ATP e a 3-fosfoglicerato. Esta é a primeira etapa da glicólise que sintetiza ATP diretamente na via.
+
+
+==== Reação 8: Fosfogliceratomutase ====
+Na reação 8, a enzima fosfogliceromutase reaposiciona a posição do grupo fosfato 3- Fosfoglicerato, dando origem a 2-fosfoglicerato (grupo fosfato ligado ao carbono 2), preparando o substrato para a próxima reação.
+
+
+==== Reação 9: enolase ====
+A reação 9 é uma reação de desidratação catalisada pela enzima enolase. O 2-fosfoglicerato é desidratado formando uma molécula de água e fosfoenolpiruvato (PEP), um composto altamente energético. Foi devido a esta configuração energética que o grupo fosfato foi transferido da posição 3 para 2 na reação anterior.
+
+
+==== Reação 10: piruvato cinase ====
+A reação 10, última desta via metabólica, catalisada pela enzima piruvato cinase, há transferência do grupo fosfato do fosfoenolpiruvato para uma molécula de ADP, formando-se então uma molécula de ATP e piruvato. Tendo em conta que por cada molécula de gliceraldeído-3-fosfato produz-se duas moléculas de ATP, na glicólise são produzidos ao todo 4 ATPs e gastos 2. O saldo energético é de 2 moléculas de ATP e 2 NADH por molécula de glicose.
+
+
+== Estruturas dos componentes da glicólise representadas através de projeções de Fischer e do modelo poligonal ==
+Os intermediários da glicólise apresentados utilizando projeções de Fischer mostram as mudanças químicas passo a passo. Essa imagem pode ser comparada à representação através do modelo poligonal. Outra comparação de projeções de Fischer e o modelo poligonal na glicólise é mostrado em vídeo.
+
+
+== Após a glicólise ==
+
+
+=== Ciclo de Krebs (ou ciclo do ácido cítrico) ===
+Para o ciclo da glicose interagir com o ciclo de Krebs, há uma reação intermediária a qual transforma-se o Piruvato em Acetil-CoA. Nesta etapa, ocorre a entrada de NAD e CoA-SH. O Piruvato gerado na glicólise sofre desidrogenação (oxidação) e descarboxilação catalisado pelo complexo Piruvato desidrogenase. Durante essas reações, é adicionada a coenzima A(CoA). Desta forma, a partir de cada piruvato, produz-se um acetil-CoA. Esta etapa é fundamental, principalmente no fígado, que regula a glicemia no sangue, pois é irreversível. O piruvato, pode ser transformado novamente em glicose, através do gasto de energia, num processo chamado gliconeogênese, processo essencial para manutenção do nível mínimo de glicose no corpo, sem o qual certos tecidos morreriam, por não realizarem o ciclo de Krebs. Uma vez transformado em acetil-CoA, não há como gerar glicose novamente, sendo este acetil-CoA usado para produzir energia (com oxigênio), corpos cetônicos, gordura, colesterol ou isoprenóides.
+Quando usado para produzir energia, o acetil-CoA vai para o ciclo de Krebs, onde será oxidado, produzindo CO2, água e GTP(energia). Os produtos da oxidação são oxidados pelo oxigênio na Fosforilação oxidativa, gerando ainda mais energia. Somado com a glicólise, são produzidos 38 ATP por molécula de glicose.
+
+
+=== Fermentação Anaeróbica ===
+A fermentação ocorre quando, após a glicólise, não é realizado o ciclo de Krebs, porque o organismo em questão não o possui ou porque esta via está bloqueada, como durante a hipóxia (falta de oxigênio).
+Em ambos os casos, a glicólise gasta NAD+ e produz NADH. Como a quantidade de NADH na célula é limitada, este deve ser regenerado a NAD+. Para isso, alguma molécula deve receber estes elétrons que o NADH carrega. Na respiração aeróbica, o oxigênio recebe estes elétrons, mas na ausência de oxigênio, o produto da glicose piruvato , ou seus derivados, recebem estes elétrons. No caso do ser humano, outros animais e algumas bactérias, a ausência de oxigênio suficiente leva a reação do NADH com o piruvato, gerando NAD+ e ácido láctico (Fermentação láctica). No caso das leveduras e bactérias do gênero Zymonas, ocorre a Fermentação alcoólica: o piruvato é descarboxilado, gerando acetaldeído, através da enzima piruvato descarboxilase (ausente em animais), e o NADH reduz o acetaldeído, produzindo NAD+ e etanol (como nos processos fermentativos do pão, dos vinhos e das cervejas).
+Alguns microorganismos fermentam produzindo outras variadas substâncias, como nos estudos de Chaim Weizmann, primeiro presidente de Israel (produzindo acetona), ou usando outros aceptores de elétrons que não o oxigênio, como nitrato, sulfato, íons férricos, etc..
+
+
+== Outras vias da oxidação da glicose ==
+Grande parte da glicose consumida nos tecidos animais é catabolizada através da glicólise até piruvato. A maior parte do piruvato por sua vez é oxidado através do ciclo do ácido cítrico. A função principal do catabolismo da glicose por esta via é gerar ATP. Porém, existem outras vias catabólicas que podem ser o destino da glicose. Estas vias constituem parte do metabolismo secundário da glicose e levam a produtos especializados necessários para a célula, sendo que duas  destas vias produzem pentoses fosfato, D-glicuronato, importante na detoxificação e na excreção de compostos orgânicos estranhos, e o ácido ascórbico (vitamina C). A via das pentoses fosfato resulta em oxidação e descarboxilação na posição C-1 da glicose, produzindo NADPH, que fornece poder redutor para reações de biossíntese, e pentoses fosfato, que são componentes essenciais dos nucleotídeos e ácidos nucleicos.
+
+
+== Ver também ==
+Ciclo de Krebs
+Respiração
+Fermentação
+Cadeia respiratória
+Glicogenólise
+Gliconeogênese
+Glicogênese
+
+
+== Referências ==
+
+
+== Ligações externas ==
+A lógica química da glicólise
+Aprofundamento (em espanhol).

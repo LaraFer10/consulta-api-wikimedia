@@ -1,0 +1,45 @@
+
+== DEFINIÇÃO ==
+A exposição a ruído de forte intensidade pode resultar em perda auditiva, seja ela temporária ou permanente. Ela pode ocorrer de duas maneiras:
+
+exposição prolongada a ruído (perda auditiva induzida por ruído - PAIR);
+exposição de curta duração a ruído de forte intensidade (trauma acústico).O trauma acústico consiste então, em uma perda auditiva, temporária ou permanente, que ocorre a partir de um única exposição a um ruído de forte intensidade, como: uma explosão, disparos de arma de fogo, máquinas de grande impacto em que acontece a descompressão brusca e violenta. Esse trauma afeta diretamente a orelha interna (cóclea), podendo em alguns casos gerar lesões simultâneas da orelha média, como ruptura da membrana timpânica e/ou desarticulação dos ossículos, assim como distúrbios vestibulares (vertigem e perturbações de equilíbrio). A ocorrência do trauma acústico, assim como da PAIR, depende do tipo, do tempo e da intensidade da exposição sonora, assim como da suscetibilidade individual. 
+
+
+== FISIOLOGIA DA AUDIÇÃO X TRAUMA ACÚSTICO ==
+Uma onda sonora entra na orelha externa e viaja por meio do meato acústico externo, chegando a membrana timpânica.  Essa membrana vibra com as ondas sonoras recebidas e envia essas vibrações para três ossículos na orelha média, chamados de martelo, bigorna e estribo. Os ossículos da orelha média transferem energia mecânica para a cóclea por meio da batida do estribo contra a janela oval. Uma vez que as vibrações causem ondulações no fluido dentro da cóclea (perilinfa e endolinfa), o movimento das células ciliadas acontecem (células sensoriais na cóclea) e um sinal elétrico é enviado ao nervo auditivo (NC VIII) para o sistema auditivo central dentro do cérebro e, assim o som é percebido. Cada grupo de células ciliadas responde a uma frequência específica, e isto é chamado de tonotopia coclear. Células ciliadas na ou perto da base da cóclea são mais sensíveis a sons de alta frequência, enquanto aquelas no ápice são mais sensíveis a sons de baixa frequência. A maioria da perdas auditivas induzidas por ruído (PAIR), inclusive o trauma acústico, causam dano e eventual morte dessas células ciliadas ou à mielinização e regiões sinápticas dos nervos auditivos. 
+
+
+== CARACTERÍSTICAS AUDITIVAS ==
+Perda auditiva sensorioneural, imediata e permanente após à exposição ao evento. 
+
+Pode ser uni ou bilateral e acontecer em qualquer idade . A curva audiométrica é, inicialmente, descendente, podendo haver entalhe amplo e profundo em 4 kHz quando novas exposições acontecem . Além disso, a perda auditiva afeta principalmente as frequências altas, como 3, 4 e 6 kHz.
+Na imitanciometria, são observados resultados de timpanometria normais (curva tipo A) quando não há comprometimento de orelha média (membrana timpânica e cadeia ossicular) e, reflexos acústicos presentes se não houver curvas abruptamente descendentes. Geralmente, os pacientes costumam relatar dificuldade para entender fala (especialmente em ambientes ruidosos ou com acústica desfavorável) e zumbido. É recomendável realizar a avaliação audiológica imediatamente depois de ocorrido o trauma, e, repeti-la em intervalos aumentados, até se observar a estabilização do quadro audiológico. 
+
+
+== PREVENÇÃO ==
+As perdas auditivas causadas por exposição a ruído intenso, seja no ambiente de trabalho, nas atividades de lazer e/ou nos afazeres cotidianos, tem se intensificado. É fundamental a prevenção por meio de ações educativas para trabalhadores, crianças e público no geral, além de explicar a importância de realizar exames audiológicos rotineiramente como qualquer outro exame e do uso de protetores auditivos quando for necessário. Ainda vale destacar que, a PAIR é completamente evitável. Quando se entende os riscos do ruído e como praticar uma boa saúde auditiva, pode-se proteger a audição por toda a vida e adquirir bons hábitos, através de: saber quais ruídos podem causar danos (aqueles com 85 dBA ou mais); tentar reduzir o ruído ou se proteger dele; estar em alerta a ruídos perigosos no ambiente; proteger os ouvidos das crianças; informar a família, amigos e colegas sobre os riscos do ruído, entre outros. 
+
+
+=== Dispositivos pessoais de redução de ruído ===
+Os dispositivos pessoais de redução de ruído podem ser passivos, ativos ou uma combinação. Proteção auditiva passiva inclui protetores auditivos que podem bloquear o ruído até uma frequência específica. Protetores auditivos podem fornecer ao usuário de 10 a 40 dB de atenuação. No entanto, o uso de protetores auditivos só é eficaz se os usuários tiverem sido instruídos e os usarem adequadamente; sem o uso adequado, a proteção fica muito abaixo das classificações do fabricante. Maior consistência de desempenho foi encontrada com protetores personalizados. Devido à facilidade de uso sem educação e facilidade de aplicação ou remoção, os protetores auditivos têm mais consistência com a conformidade e a atenuação do ruído. A proteção ativa da audição (dispositivos de proteção auditiva de passagem eletrônica ou EPHPs) filtra eletronicamente ruídos de frequências específicas ou decibéis, enquanto permite a passagem do ruído restante.
+
+
+=== Educação ===
+A educação é essencial para que a prevenção aconteça de forma efetiva.
+Muitos programas de proteção auditiva têm sido prejudicados por pessoas que não usam a proteção por várias razões, incluindo o desejo de conversar, dispositivos desconfortáveis, falta de preocupação com a necessidade de proteção e pressão social contra o uso de proteção. Uma revisão sistemática da eficácia das intervenções para promover o uso de dispositivos de proteção auditiva, como protetores auriculares (tipo plugue e abafadores) entre os trabalhadores, descobriu que intervenções personalizadas melhoram o uso médio de tais dispositivos quando comparados com nenhuma intervenção. Intervenções sob medida envolvem o uso de comunicação ou outros tipos de intervenções que são específicas para um indivíduo ou um grupo e têm como objetivo mudar o comportamento.  Intervenções mistas, como correspondências, distribuição de dispositivos de proteção auditiva, avaliações de ruído e testes auditivos, também são mais eficazes para melhorar o uso de dispositivos de proteção auditiva em comparação com o teste de audição sozinho.
+
+
+=== Programas de Conservação Auditiva ===
+Para trabalhadores da indústria em geral que estão expostos a níveis de ruído acima de 85 dBA é preconizada pela Administração de Segurança e Saúde Ocupacional (OSHA) a inclusão em um programa de conservação auditiva (PCA), que inclui medição de ruído, controle de ruído, audiometria periódica, proteção auditiva, educação dos trabalhadores e manutenção de registros. Intervenções para prevenir a PAIR geralmente têm muitos componentes. Uma revisão Cochrane de 2017 descobriu que os PCAs revelaram que uma legislação mais rigorosa poderia reduzir os níveis de ruído. Dar aos trabalhadores informações sobre seus próprios níveis de exposição ao ruído não foi demonstrado para diminuir a exposição ao ruído. A proteção auricular, se usada corretamente, tem o potencial de reduzir o ruído a níveis mais seguros, mas não necessariamente previne a perda auditiva. Soluções externas, como a manutenção adequada do equipamento, podem levar à redução de ruído, mas é necessário um estudo mais aprofundado desse problema em condições da vida real. Outras soluções possíveis incluem melhor aplicação da legislação existente e melhor implementação de programas de prevenção bem concebidos, que ainda não foram provados conclusivamente para serem eficazes. 
+
+
+=== Outras iniciativas ===
+Há uma variedade de programas de conscientização pública disponíveis, bem como currículos para ensinar as mensagens de conscientização. Um desses programas é Dangerous Decibels, cuja missão é "reduzir significativamente a prevalência de PAIR e zumbido através de exposições, educação e pesquisa. We’re hEAR for You é uma pequena organização sem fins lucrativos que distribui informações e protetores auditivos em locais de concertos e festivais de música. O programa Buy Quiet foi criado para combater as exposições ocupacionais ao ruído, promovendo a compra de ferramentas e equipamentos mais silenciosos e incentivando os fabricantes a projetarem esse tipo de equipamento. O NIOSH fez uma parceria com a Associação Nacional de Conservação Auditiva em 2007 para estabelecer as premiações Safe-in-Sound de Excelência e Inovação em Prevenção de Perda Auditiva para reconhecer organizações que estão implementando com sucesso conceitos de prevenção de perda auditiva em suas rotinas diárias.
+
+
+== TRATAMENTO ==
+Pode ser feito por meio da combinação da oxigenoterapia hiperbárica (OHB) com corticosteróides, uma vez que a exposição aguda ao ruído provoca inflamação e menor suprimento de oxigênio na orelha interna. Assim, os corticosteróides impedem a reação inflamatória e a oxigenoterapia hiperbárica fornece um suprimento adequado de oxigênio, sendo eficaz quando iniciada dentro de três dias após o trauma acústico. Portanto, essa condição é considerada uma emergência otorrinolaringológica. 
+
+
+== REFERÊNCIAS ==

@@ -1,0 +1,47 @@
+Em enzimologia, o termo número de renovação' (também conhecido como kcat o k2, de onde é chamado também de constante catalítica) é definido como o máximo número de moléculas de um substrato que uma molécula de enzima pode converter em produto por unidade de tempo. É calculado do seguinte modo:
+
+  
+    
+      
+        
+          k
+          
+            
+              c
+              a
+              t
+            
+          
+        
+        =
+        
+          
+            
+              V
+              
+                max
+              
+            
+            
+              [
+              E
+              
+                ]
+                
+                  T
+                
+              
+            
+          
+        
+      
+    
+    {\displaystyle k_{\mathrm {cat} }={\frac {V_{\max }}{[E]_{T}}}}
+  Por exemplo, a anidrase carbônica possui um número de renovação entre 400 000 e 600 000 moléculas de produto (íons bicarbonato) por molécula de enzima por segundo.
+
+
+== Referências ==
+
+
+== Ver também ==
+Cinética enzimática

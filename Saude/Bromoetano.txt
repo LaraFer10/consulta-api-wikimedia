@@ -1,0 +1,28 @@
+Bromoetano, também conhecido como brometo de etila é um composto químico do grupo dos haloalcanos. É abreviado pelos químicos como EtBr. Este composto volátil tem odor similar aos éteres.
+
+
+== Síntese ==
+A preparação de EtBr estabelece-se como um modelo para a síntese de brometos de alquila em geral. É usualmente preparado pela adição de HBr a etileno:
+
+H2C=CH2  +  HBr  →  H3C-CH2BrBrometo de etila é barato e raramente é preparado em laboratório. Sínteses laboratoriais convenientes incluem a ação de tribrometo de fósforo ou brometo de tionila sobre etanol. EtBr forma-se quando etanol é tratado com HBr (gás) ou ácido bromídrico (sua solução aquosa), embora esta reação também forme éter dietílico.
+
+
+== Usos ==
+Em síntese orgânica, EtBr é o equivalente sintético do carbocátion etil (Et+) "synthon". Na realidade, tal cátion não é realmente formado. Por exemplo, sais carboxilatos são convertidos a ésteres de etila, carbânions a derivados etilados, tiouréia em sais de etilisotiourônio, a aminas em etilaminas.Sendo um líquido a temperatura ambiente mas também muito volátil, EtBr é um reagente barto para a preparação de reagentes de Grignard, os quais tradicionalmente são usados como bases fortes. Visto que EtMgBr deprotona alcinos:
+EtBr  + Mg  →  EtMgBrRC≡CH  +  EtMgBr  →  RC≡CMgBr  +  EtHEsta aplicação tem sido suplantada pela grande disponibilidade de reagentes organolítios.
+
+
+== Segurança ==
+Halocarbonetos em geral são agentes alquilantes potencialmente perigosos. Brometos são agentes alquilantes superiores aos cloretos, assim exposição a EtBr deve ser minimizada. EtBr é classificado pelo estado da Califórnia como carcinogênico e uma toxina reprodutiva.
+
+
+== Referências ==
+
+Makosza, M.; Jonczyk, A.. "Phase-Transfer Alkylation of Nitriles: 2-Phenylbutyronitrile". Org. Synth. 55: 91; Coll. Vol. 6: 897.
+
+
+== Ligações externas ==
+«International Chemical Safety Card 1378» 
+«NIOSH Pocket Guide to Chemical Hazards» 
+«IARC Monograph: "Bromoethane"» 
+«Bromoetano-Guidechem.com»

@@ -1,0 +1,32 @@
+ChEMBL ou ChEMBLdb é uma base de dados química revista manualmente de moléculas bioactivas com propriedades de fármaco.
+É mantida pelo Instituto Europeu de Bioinformática (EBI, European Bioinformatics Institute), do Laboratório de Biologia Molecular Europeu (EMBL, European Molecular Biology Laboratory), com sede no Wellcome Trust Genome Campus, em Hinxton, Reino Unido.
+A base de dados conhecida originalmente como StARlite, foi desenvolvida por uma companhia de biotecnologia chamada Inpharmatica Ltd. mais tarde adquirida por Galapagos NV. Os dados foram comprados por EMBL em 2008 com um abono de The Wellcome Trust, o que teve como resultado a criação do grupo de quimioxenómica ChEMBL no EMBL-EBI, encabeçado por John Overington.
+
+
+== Alcance e acesso ==
+A base de dados ChEMBL contém dados de bioactividade de compostos contra dianas de drogas. A bioactividade informa-se em Ki, Kd, IC50, e EC50. Os dados podem ser filtrados e analisados para desenvolver libarias de crivado (screening) de compostos para a identificação durante a descoberta de fármacos.ChEMBL versão 2 (ChEMBL_02) lançada em janeiro de 2010, e incluía 2,4 milhões de medidas de bioensaios que abrangiam 622.824 compostos, incluindo 24.000 de produtos naturais. Isto obteve da revisão de 34.000 publicações de doze revistas de química medicinal. A cobertura de ChEMBL dos dados de bioatividade disponível foi medrando até converter-se na "mais completa vista numa base de dados pública.". Em outubro de 2010 saiu ChEMBL versão 8 (ChEMBL_08), com umas 2,97 milhões de medidas de bioensaios que abrangem 636.269 compostos.O ChEMBL_10 acrescentou os ensaios confirmatórios da PubChem, para integrar dados que são comparáveis com o tipo e classe de dados contidos em ChEMBL.Pode aceder-se a ChEMBLdb por meio de uma interface web ou pode ser descargado por FTP. Está formatado de uma maneira que facilita o mineração de dados computarizado, e trata de normalizar atividades entre diferentes publicações, para permitir análises comparativas. A ChEMBL está também integrada em outros recursos de química de grande escala, como a PubChem e o sistema ChemSpider da Real Sociedade de Química britânica.
+
+
+== Recursos associados ==
+Ademais das bases de dados, o grupo ChEMBL desenvolveu ferramentas e recursos para a mineração de dados. Estes incluem Kinase SARfari, um banco de trabalho (workbench) de quimioxenómica integrado enfocado às quinases. O sistema incorpora uma sequência de ligações, estrutura, compostos e dados de crivado (screening).
+GPCR SARfari é um workbench similar centrado nos GPCRs, e ChEMBL-NTD (ChEMBL-Neglected Tropical Diseases) é um depósito de dados de crivado primário e química medicinal de acesso aberto dirigido a doenças tropicais endémicas de regiões subdesenvolvidas da África, Ásia, e as Américas. O propósito principal de ChEMBL-NTD é proporcionar ficheiros permanentes e livremente acessíveis e um centro de distribuição para os dados depositados.
+Em julho de 2012 saiu um novo serviço de dados da malária, patrocinado por Medicines for Malaria Venture (MMV), dirigido a investigadores de todo mundo. Os dados deste serviço incluem compostos do conjunto de crivado Malaria Box, e também os outros dados sobre a malária singelos que se encontram em ChEMBL-NTD.
+myChEMBL é a máquina virtual ChEMBL, que saiu em outubro de 2013, e permite aos utentes aceder a uma infra-estrutura quimioinformática singela de instalar, gratuita e completa.
+Em dezembro de 2013, as operações da base de dados de informática de patentes SureChem foram transferidos a EMBL-EBI. SureChem foi rebatizada como SureChEMBL.
+Em 2014 produziu-se a introdução do novo recurso ADME SARfari, uma ferramenta para a predição e comparação de dianas ADME através de espécies.
+
+
+== Ver também ==
+ChEBI
+DrugBank
+
+
+== Referências ==
+
+
+=== Ligações externas ===
+ChEMBL: Quick Tour on EBI Train OnLine* ChEMBLdb
+Kinase SARfari
+ChEMBL-Neglected Tropical Disease Archive
+GPCR SARfari
+The ChEMBL-og: Dados abertos e blog sobre a descoberta de fármacos da equipa ChEMBL.

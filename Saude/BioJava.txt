@@ -1,0 +1,17 @@
+O projeto BioJava é um projeto de código aberto dedicado a fornecer ferramentas Java para o processamento de dados biológicos. Isto inclui objetos para a manipulação de seqüências, estruturas de proteínas, analisadores sintáticos de arquivo, CORBA interoperabilidade, DAS, acesso ao ACeDB, programação dinâmica, e rotinas de estatística.
+A biblioteca BioJava é útil para automatizar muitos tarefas diárias e mundanas na área de bioinformática. A medida que a biblioteca amadurece, as bibliotecas BioJava tem fornecido uma base sobre a qual tanto o software livre quanto pacotes comerciais podem ser desenvolvidos. O projeto fornece kits de ferramentas com múltiplas funções que tornam mais fácil a criação de análises ou pipelines customizados.
+É um projeto de software ativo de código aberto apoiado pela Open Bioinformatics Foundation.
+
+
+== Ver também ==
+Open Bioinformatics Foundation
+BioPerl
+BioPython
+BioRuby
+
+
+== Referências ==
+
+
+== Ligações externas ==
+Sítio oficial BioJava

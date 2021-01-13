@@ -1,0 +1,15 @@
+Tampão fosfato-salino ou phosphate buffered saline  (abreviado PBS) é uma solução tampão comumente utilizada em bioquímica. É uma solução salina, contendo cloreto de sódio, fosfato de sódio e, em algumas formulações, cloreto de potássio e fosfato de potássio.
+Tampões ácido-base, têm como finalidade manter um valor de pH praticamente constante, quando adicionados a diferentes meios. A concentração salina presente no PBS se iguala à do corpo humano (solução isotônica).
+
+
+== Aplicações ==
+O PBS possui muitas aplicações, pois é isotônico (tem a mesma pressão osmótica) e não é tóxico em relação às células. Ele pode também ser utilizado para diluir diferentes substâncias, ou como uma solução para limpeza celular. Para garantir uma prolongada armazenagem a seco, de biomoléculas imobilizadas, tais como proteínas, proteínas enzimáticas etc., o PBS é usado como um diluente biomolecular, já que pode manter água em torno das biomoléculas imobilizadas em uma superfície sólida. Este fino filme de água formado, previne a desnaturação das biomoléculas ou mudanças conformacionais. Tampões carbonato podem ser também usados com a mesma finalidade, mas com menos eficácia. O PBS puro, pode ser usado como um espectro de referência, quando é determinada a absorção de proteínas por elipsometria.
+O uso de aditivos pode modificar a funcionalidade de um tampão PBS.  Por exemplo, o PBS com EDTA  é usado para desalojar células que estejam aderidas ou agregadas em determinados sistemas.
+metais divalentes, como, por exemplo, o zinco,  não podem ser adicionados em misturas contendo PBS, pois ocorrem precipitações. Neste caso, é possível utilizar-se outros tipos de sistemas tampão.
+
+
+== Preparação ==
+Existem muitas maneiras de preparo do PBS (phosphate buffered saline). Algumas formulações não contém potássio, enquanto outras contém cálcio ou magnésio. Uma das preparações mais comuns está descrita abaixo:
+A maneira mais simples para se preparar uma solução é usar o tampão PBS em comprimidos. Estes são formulados para produzir uma solução pronta para o uso, após dissolução em determinada quantidade de água destilada.
+10L de uma solução-estoque de PBS 10x podem ser preparados, dissolvendo-se 800 g  de NaCl, 20 g de KCl, 144 g de Na2HPO4 e 24 g de KH2PO4 em 8 L de água destilada. Após a completa dissolução, o volume final da solução é levado à 10 L, adicionando-se água destilada. O pH da solução  é ~6,8, mas ao diluirmos ao valor de 1x, o pH chega a 7,4. Ao prepararmos soluções tampão, é sempre uma boa prática proceder-se a uma verificaçao final com um medidor de pH. Para o PBS, o valor de pH pode ser ajustado usando-se ácido clorídrico (HCl) ou hidróxido de sódio (NaOH).
+Após diluição, o PBS 1x resultante deve ter uma concentração final de NaCl 137 mM, Fosfato 10 mM, KCl 2.7 mM, e um pH de 7.4.

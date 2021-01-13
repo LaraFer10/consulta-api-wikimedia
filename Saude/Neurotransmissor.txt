@@ -1,0 +1,117 @@
+Neurotransmissores são substâncias químicas produzidas pelos neurônios (as células nervosas), com a função de biossinalização. Por meio delas é possível enviar informações a outras células. Podem também estimular a continuidade de um impulso ou efetuar a reação final no órgão ou músculo alvo. Os neurotransmissores agem nas sinapses, que são o ponto de junção do neurônio com outra célula com função de produzir aglutinogênio
+
+
+== Classificação ==
+Aminas biogênicas:
+Catecolaminas: Adrenalina ou epinefrina, noradrenalina ou norepinefrina e dopamina;
+Indolaminas: Serotonina, melatonina e histamina.
+Aminoacidérgicos: GABA, taurina, ergotioneína, glicina, beta-alanina, glutamato e aspartato.
+Neuropeptídeos: endorfina, encefalina, vasopressina, oxitocina, orexina, neuropeptídeo Y, substância P, dinorfina A, somatostatina, colecistoquinina, neurotensina, hormona luteinizante, gastrina e enteroglucagon.
+Radicais Livres: Óxido Nítrico (NO), monóxido de carbono (CO), trifosfato de adenosina (ATP) e de ácido araquidônico.
+Colinérgico: Acetilcolina.
+
+
+== Formação ==
+
+Os neurotransmissores (4) são produzidos na célula transmissora (A) e são acumulados em vesículas, as vesículas sinápticas (1). Isso pode ocorrer por ação direta de uma substância química, como um hormônio, sobre receptores celulares pré-sinápticos (3).
+
+
+=== Liberação ===
+Quando um potencial de ação ocorre, as vesículas se fundem com a membrana plasmática, liberando os neurotransmissores na fenda sináptica (B), por exocitose.
+Estes neurotransmissores agem sobre a célula receptora (C), através de proteínas que se situam na membrana plasmática desta, os receptores celulares pós-sinápticos (6). Os receptores ativados geram modificações no interior da célula receptora, através dos segundos mensageiros (2). Estas modificações é que originarão a resposta final desta célula.
+Proteínas especiais da célula transmissora retiram o neurotransmissor da fenda sináptica, através de bombas de recaptação (5). Algumas enzimas, inativam quimicamente os neurotransmissores, interrompendo a sua ação.
+Segue a figura ao lado
+
+
+== Locais de ação ==
+Essas substâncias atuam no encéfalo, na medula espinhal e nos nervos periféricos e na junção neuromuscular ou placa motora.
+Quimicamente, os neurotransmissores são moléculas relativamente pequenas e simples. Diferentes tipos de células secretam diferentes neurotransmissores. Cada substância química cerebral funciona em áreas bastante espalhadas mas muito específicas do cérebro e podem ter efeitos diferentes dependendo do local de ativação. Cerca de 60 neurotransmissores foram identificados e podem ser classificados, em geral em uma das quatro categorias.
+
+
+== Funções ==
+São aminas biogênicas a adrenalina, serotonina, noradrenalina, dopamina, histamina, melatonina e DOPA.
+O glutamato e o aspartato são os transmissores excitatórios bem conhecidos, enquanto que o ácido gama-aminobutírico (GABA), a glicina e a taurina são neurotransmissores inibidores.
+
+
+=== Dopamina ===
+Controla a estimulação e os níveis do controle motor. Quando os níveis estão baixos no mal de Parkinson, os pacientes não conseguem se mover. Presume-se que a cocaína e a nicotina atuam liberando uma quantidade maior de dopamina na fenda sináptica. Porém, existem alguns fármacos que atuam elevando os níveis de Dopamina, são os Medicamentos Precursores da Dopamina, agonistas de receptores dopaminérgicos, inibidores seletivos da MAO-B(monoaminoxidase - b) , inibidores da COMT (catecol-o-ometil-transferase), Liberadores de dopamina, bloqueadores de sua recaptação e estimulantes de sua síntese.
+
+
+=== Serotonina ===
+Esse neurotransmissor é um dos mais importantes e com mais receptores e funções diferentes. Possui forte efeito no humor, memória, aprendizado, alimentação, desejo sexual e sono reparador. A falta desse neurotransmissor é apontado como uma das causas de transtornos depressivos, alimentares, sexuais e do sono. Para sua boa produção é importante o consumo de triptofano, uma boa rotina de 6 a 8h de sono e exercícios regulares. A maioria dos antidepressivos são estimuladores de neurotransmissores (serotonina, dopamina e noradrenalina), mas seus resultados são questionáveis devido ao fato de algumas pessoas sadias não apresentarem redução na taxa dos mesmos.[carece de fontes?]
+
+
+=== Acetilcolina ===
+A acetilcolina (ACh) é que controla a atividade de áreas cerebrais relacionadas à atenção, aprendizagem e memória. É liberada pelos núcleos colinérgicos e é responsável pelo sistema parassimpático atuando na junção neuromuscular para contrair músculos esqueléticos e contrair o sistema digestivo e excretor, efeito oposto ao da adrenalina. Desse modo é importante para a boa digestão e relaxamento muscular.
+
+
+=== Noradrenalina ===
+A noradrenalina (NA) é principalmente uma substância química que induz a excitação física e mental e ao bom humor. A produção é centrada na área do cérebro chamada de locus ceruleus, e atua nos centro de "prazer" do cérebro. Sua falta está associada a transtornos depressivos.
+
+
+=== Glutamato ===
+O principal neurotransmissor excitatório do sistema nervoso. O glutamato atua em duas classes de receptores: os ionotrópicos (que quando ativados exibem grande condutividade a correntes iônicas) e os metabotrópicos (agem ativando vias de segundos mensageiros). Os receptores ionotrópicos de glutamato do tipo NMDA são implicados como protagonistas em processos cognitivos que envolvem a destruição de células.
+
+
+=== Aspartato ===
+Também atua como neuromodulador excitatório, de modo similar ao glutamato.
+
+
+=== Glicina ===
+A glicina é um neurotransmissor aminoácido encontrado em todo o organismo, e atua como neurotransmissor inibitório em neurônios do sistema nervoso central, principalmente a nível de tronco cerebral e da medula espinhal. Também atua como anti-inflamatório, protetor celular e na modulação do sistema imune.
+
+
+=== Ácido gama-aminobutírico (GABA) ===
+O GABA é o principal neurotransmissor inibidor no sistema nervoso central. É sintetizado a partir do glutamato, o principal excitatório.
+
+
+=== Substância P ===
+
+A substância P é um neuropeptídeo que atua como neuromodulador. Ela facilita processos inflamatórios como vômito e nocicepção (resposta à dor), e é secretada por macrófagos, eosinófilos, linfócitos e células dendríticas, além dos nervos sensitivos específicos. Ela também pode ser responsável pelo controle da respiração e da regeneração do tecido epitelial e nervoso, e atua favorecendo a vasodilatação.
+
+
+=== Neurotensina ===
+A neurotensina é um tridecapeptídeo, encarregado de regular o hormônio luteinizante e a liberação de prolactina e interage com o sistema dopaminérgico. Esse neuropeptídio está distribuído por todo sistema nervoso central, com níveis mais elevados no hipotálamo, amígdala e núcleo acumbente; no sistema nervoso periférico, pode ser encontrado nas células endócrinas no intestino delgado. Dentre os seus papeis funcionais, destacam-se a regulação da atividade locomotora, analgesia (diminuição da dor), hipotermia (diminuição da temperatura corporal), regulação das vias de dopamina, aumento da produção de glutamato e alterações na pressão arterial.
+
+
+=== Opioides ===
+Encefalina, endorfina e dinorfinas são opiáceos que, como as drogas heroína e morfina, modulam as respostas a dor, relaxamento muscular e reduzem o estresse. Também estão envolvidas nos mecanismos de dependência física.
+Além de seu envolvimento nas vias de dor, o sistema opioide está largamente representado em áreas cerebrais envolvidas na resposta à substâncias psicoativas, como a área tegmental ventral e a cápsula no núcleo acumbente. Os peptídeos opióides estão envolvidos em grande variedade de funções, regulando funções de respostas ao estresse, de alimentação, de humor, de aprendizado, de memória e imunes, além de apresentar grande importância na modulação de inúmeras funções sensoriais, motivacionais, emocionais e funções cognitivas.
+
+
+=== Melatonina ===
+Causa sono quando está escuro, regulando assim o ciclo claro-escuro, uma das partes mais importantes para o bom funcionamento do ciclo circadiano, que prepara o organismo para a maior ou menor produção de hormônios e enzimas dependendo do horário do dia.
+
+
+=== Histamina ===
+No hipotálamo a histamina regula funções térmicas e relacionadas ao despertar. No resto do organismo é importante para regular o fluxo sanguíneo e resposta a inflamação.
+
+
+=== Orexígenos e anorexígenos ===
+Orexígenos são responsáveis por causar fome e apetite, enquanto anorexígenos produzem saciedade. Dentre os principais orexígenos estão o neuropeptídeo Y, a “proteína relacionada ao gene do agouti” (AGRP), as orexinas, o hormônio concentrador de melanina (MCH) e a colecistoquinina (CCK) enquanto dentre os anorexígenos os principais são o “alfa-hormônio estimulador dos melanócitos” (aMSH), transcrito regulado pela cocaína e anfetaminas (CART) e a lisina.
+
+
+== Neuropeptídeos ==
+
+No início da década de 70, investigações com aminoácidos evidenciaram seu envolvimento no processo de transmissão sináptica. Foi descoberto que, além de seu papel metabólico, certos aminoácidos desempenhavam também o papel de neurotransmissores. Desde então, foi crescendo o número de peptídeos caracterizados como neurotransmissores.	
+Os neuropeptídios são sintetizados de outro modo e tem ações que são em geral lentas e muito diferentes das dos neurotransmissores de moléculas menores. Os neuropeptídios não são sintetizados no citosol dos terminais pré-sinápticos como neurotransmissores não peptídicos, mas são sintetizados como grandes moléculas proteicas pelos ribossomos situados no corpo celular dos neurônios. As moléculas proteicas, então entram nos espaços internos do retículo endoplasmático do corpo celular e logo depois no aparelho de Golgi, onde passam por duas alterações: primeiro, a proteína que forma o neuropeptideo é clivada (cortada), por ação enzimática, em fragmentos menores, sendo alguns deles o próprio neuropeptídeo ou seu precursor. Segundo, o aparelho de Golgi empacota o neuropeptídio em vesículas diminutas que são liberadas no citoplasma. Essas vesículas são transportadas até as terminações das fibras nervosas pelo fluxo axônico, sendo transportadas de forma lenta de apenas de alguns centímetros por dia. No fim, essas vesículas fundem-se com as membranas dos terminais pré-sinápticos e liberam seus conteúdos na fenda sináptica em resposta a potenciais de ação da mesma forma que os neurotransmissores de molécula pequena. As vesículas passam por autólise, ou seja as vesículas se autodestroem espontaneamente, entretanto não são reutilizadas como acontece com os neurotransmissores não-peptídicos.
+Devido ao método trabalhoso da formação desses neuropeptídeos, citados acima, quantidades bem menores são liberadas desses são normalmente liberadas em relação aos neurotransmissores de moléculas pequenas. Só que isto é compensado, pois os neuropeptídeos possuem em geral uma potência de transmissão de impulsos bem maior do que dos neurotransmissores não peptídicos. Outra característica importante dos neuropeptídeos é que eles por vezes provocam ações prolongadas, por exemplo: alguns desses efeitos duram dias mas outros podem durar meses ou anos.
+
+
+== Patologias ==
+A diminuição dessas substâncias provocam alteração doenças psiquiátricas como:
+
+Transtornos do humor
+Transtornos de ansiedade
+Transtornos alimentares
+Transtornos sexuais
+Distúrbios do sono
+Distúrbios de memória e aprendizagemE doenças neurológicas como:
+
+Fibromialgia, dor crônica e enxaquecas,
+Demências como parkinson e alzheimer,
+Convulsões e epilepsia,
+Transtornos motores como tremores, rigidez e espasmos.
+
+
+== Referências ==

@@ -1,0 +1,22 @@
+Um tricorder médico é um dispositivo portátil de mão para escaneamento que pode ser utilizado por qualquer pessoa, servindo para autodiagnosticar condições médicas, em questão de segundos, e coletar sinais vitais básicos.
+Uma empresa chamada Scanadu, como uma campanha de sucesso de crowdfunding, chamado Scanadu Scout. Enquanto o dispositivo não chega ao mercado consumidor (pela página do Indiegogo, as estimativas apontam para o mês de março desse ano), há diversos relatórios de outros cientistas e inventores que estão trabalhando para, não apenas criar novos modelos, mas também aprimorar os que já existem. Um pensamento comum em relação sobre os tricorders, é o de que eles irão ser aparelhos de propósito geral (multifuncional), como o canivete suiço, sendo capaz de medir a pressão sanguínea, temperatura corporal e fluxo sanguíneo de uma forma não invasiva. Tal gênero de dispositivo é capaz de analisar o estado pessoal de saúde depois de analisar os dados coletados, tanto na forma de um dispositivo individual (sem qualquer tipo de conexão), quanto um que está ligado a bancos de dados médicos através de uma conexão com a internet. Uma relatório da Revista Time descreveu o Scanadu Scout:
+
+A ideia de um tricorder médico veio de um dispositivo imaginário da série televisiva de ficção científica ''Star Trek'', dos anos 1960.
+Um prêmio-incentivo de 10 milhões de dólares, oferecido pela Qualcoom, o Tricorder X PRIZE, que foi anunciado em 2012, tem estimulado a uma competição em nível global entre as comunidades científicas e médicas. Com 230 equipes de 30 países para criar tal dispositivo. Diversos relatórios sugerem que deve haver oposição ao desenvolvimento dos tricorders por agências reguladoras nacionais, como a Food and Drug Administration, nos Estados Unidos, e também uma possível oposição por parte dos médicos, não interessados em ter os pacientes fazem autodiagnóstico extenso. Há um consenso sobre tal dispositivo, quanto à possibilidade de tal dispositivo trazer grandes melhoramento na produtividade e redução de custos, e estimular um mercado bilionário. Muito investimento em tecnologia médica foi feito em 2012.
+
+
+== Competição X Prize ==
+A Fundação X Prize lançou, em 2012, na Consumer Electronics Show, o Tricorder X PRIZE e prometeu recompensar com 10 milhões de dólares a primeira equipe a construir o tricorder médico. De acordo com as diretrizes do prêmio, o dispositivo deve ser capaz de diagnosticar 15 diferentes condições médicas, incluindo inflamação de garganta, apneia do sono e câncer colorretal. Outro parâmetro de avaliação relevante é qual das invenções terá a interface de usuário mais amigável. Para vencer a competição e ganhar o prêmio, o tricorder médico terá de diagnosticar essas condições em trinta pessoas em 3 dias.
+
+
+== Funções de um tricorder médico ==
+Há um consenso que esse gênero de dispositivo seja capaz de fazer o seguinte:
+
+Diagnosticar doenças.
+Mostra métricas pessoais do estado clínico, como a frequência cardíaca.
+Monitoramento constante do estado clínico do indivíduo.
+Resumir o estado de saúde de uma pessoas.
+Confirmar, de maneira rápida, se um pessoa é saudável ou não. Essa função deve operar de forma similar às lâmpadas indicadoras de mau funcionamento, de um automóvel.
+
+
+== Referências ==

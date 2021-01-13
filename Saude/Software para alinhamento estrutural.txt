@@ -1,0 +1,19 @@
+Esta lista de software para alinhamento estrutural é uma compilação de ferramentas software e portais web utilizados em alinhamentos estruturais de pares ou múltiplos.
+
+
+== Lista de software para alinhamento estrutural ==
+Códigos:
+Cα -- Alinhamento por átomo (Cα) de esqueleto (Backbone Atom (Cα) Alignment);
+SSE -- Alinhamento de elementos de estrutura secundária (Secondary Structure Elements Alignment);
+Seq -- Alinhamento baseado em sequência;
+Par -- Alinhamento de pares (2 estruturas *solo*);
+Multi -- Alinhamento múltiplo de estruturas;
+C-Map -- Mapa de contato;
+
+
+== Referências ==
+
+
+== Ver também ==
+Alinhamento estrutural
+Software de alinhamento de sequências

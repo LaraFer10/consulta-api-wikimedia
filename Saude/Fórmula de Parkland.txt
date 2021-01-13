@@ -1,0 +1,27 @@
+A fórmula de Parkland é uma fórmula criada pelo médico americano Charles R. Baxter relacionada às queimaduras. Esta fórmula é utilizada para estimar a quantidade de fluido necessário em mililitros para alcançar a estabilização hemodinâmica dos pacientes que sofreram queimaduras no período de 24 horas. O soluto de Ringer, fluido utilizado no procedimento, é quatro vezes o produto do peso corporal e a porcentagem da área da superfície corporal afetada pela queimadura. A primeira dose do fluido é administrada dentro de 8 horas, contando a partir da ocorrência do incidente. O restante, portanto, é administrado nas próximas 16 horas. Leva-se em consideração apenas a área que sofreu queimadura de segundo grau, pois as queimaduras de primeiro grau não apresentam mudança no fluido hemodinâmico para que seja aplicável uma substituição.
+
+
+== Expressão da fórmula ==
+A fórmula de Parkland é expressada matematicamente por:
+
+  
+    
+      
+        V
+        =
+        4
+        ⋅
+        m
+        ⋅
+        (
+        A
+        ⋅
+        100
+        )
+      
+    
+    {\displaystyle V=4\cdot m\cdot (A\cdot 100)}
+  onde a massa é em quilogramas (kg), a porcentagem da área atingida em função da área de superfície corporal e o volume em mililitros (ml). Por exemplo, uma pessoa com peso corporal de 75 kg e com queimaduras de até 20% da área total do corpo, requer 6.000 mL de substituição de fluido dentro das 24 horas. A primeira metade é administrada em 8 horas, enquanto a outra dose é administrada em 16 horas.A porcentagem de queima em adultos pode ser estimada pela regra de Wallace, método utilizado para quantizar a extensão da queimadura. A divisão é estabelecida por 9% para cada braço, 18% para cada perna, 18% para a parte frontal do torso, 18% para a parte traseira do torso, 9% para a cabeça e 1% para o períneo.
+
+
+== Referências ==

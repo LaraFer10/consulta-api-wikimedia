@@ -1,0 +1,230 @@
+Fórmula de Lorentz foi um estudo de um filósofo matemático que criou-a para calcular o peso ideal de uma pessoa, em quilogramas, em função de sua altura, expressa em centímetros.
+
+  
+    
+      
+        P
+        =
+        (
+        h
+        −
+        100
+        )
+        −
+        
+          
+            
+              h
+              −
+              150
+            
+            K
+          
+        
+      
+    
+    {\displaystyle P=(h-100)-{h-150 \over K}}
+   Na fórmula, P representa "peso ideal", h representa altura.
+Para homens, 
+  
+    
+      
+        K
+        =
+        4
+      
+    
+    {\displaystyle K=4}
+   e para mulheres 
+  
+    
+      
+        K
+        =
+        2
+      
+    
+    {\displaystyle K=2}
+  
+
+
+== Cálculo ==
+Por exemplo, um homem que mede 1,70m de altura (transforma-se em centímetros):
+
+  
+    
+      
+        P
+        =
+        (
+        170
+        −
+        100
+        )
+        −
+        
+          
+            
+              170
+              −
+              150
+            
+            4
+          
+        
+      
+    
+    {\displaystyle P=(170-100)-{170-150 \over 4}}
+  
+
+  
+    
+      
+        P
+        =
+        70
+        −
+        
+          
+            20
+            4
+          
+        
+      
+    
+    {\displaystyle P=70-{20 \over 4}}
+  
+
+  
+    
+      
+        P
+        =
+        70
+        −
+        5
+      
+    
+    {\displaystyle P=70-5}
+  
+
+  
+    
+      
+        P
+        =
+        65
+        k
+        g
+      
+    
+    {\displaystyle P=65kg}
+  
+Uma mulher que mede 1,45m de altura (transforma-se em centímetros) :
+
+  
+    
+      
+        P
+        =
+        (
+        145
+        −
+        100
+        )
+        −
+        
+          
+            
+              145
+              −
+              150
+            
+            2
+          
+        
+      
+    
+    {\displaystyle P=(145-100)-{145-150 \over 2}}
+  
+
+  
+    
+      
+        P
+        =
+        45
+        −
+        
+          
+            
+              −
+              5
+            
+            2
+          
+        
+      
+    
+    {\displaystyle P=45-{-5 \over 2}}
+  
+
+  
+    
+      
+        P
+        =
+        45
+        −
+        (
+        −
+        2
+        ,
+        5
+        )
+      
+    
+    {\displaystyle P=45-(-2,5)}
+  
+
+  
+    
+      
+        P
+        =
+        45
+        +
+        2
+        ,
+        5
+      
+    
+    {\displaystyle P=45+2,5}
+  
+
+  
+    
+      
+        P
+        =
+        47
+        ,
+        5
+        k
+        g
+      
+    
+    {\displaystyle P=47,5kg}
+  
+
+
+== Referências ==
+
+
+== Ver também ==
+Índice de massa corpórea
+
+
+== Ligações externas ==
+Fórmula de Lorentz e exemplos em Brasil Escola
+Equações usando a fórmula de Lorentz

@@ -1,0 +1,152 @@
+A DNA Polimerase III (Poll III) é um enzima de replicação do DNA, que realiza a adição de nucleotídeos ao DNA em síntese, responsável principalmente pelo processo de replicação do material genético em Escherichia coli. Também referida como replicase do DNA de E. coli, a Pol III possui, além de sua atividade de polimerase, atividade exonucleásica 3'-5' que contribui para o aumento da fidelidade do processo de replicação.
+
+
+== Estrutura ==
+A Pol III é uma holoenzima que possui dez subunidades. O seu núcleo é composto pelas subunidades α, ε e Φ que conferem a função de polimerase. A subunidade β constitui um grampo deslizante em forma de anel. Essa subunidade se fecha sobre o DNA, prendendo-o em seu orifício e favorecendo a replicação. O grampo deslizante fornece uma alta processividade para a Pol III, de forma que a mesma possui uma capacidade de polimerização de 9000 nucleotídeos por minuto.
+Além da alta processividade, a DNA polimerase III possui outras características distintas das outras polimerases. Por exemplo, a Pol III possui um elevado peso molecular, de 130 KDa e é sintetizada numa proporção de 10 a 20 unidades por célula (proporção essa 20 vezes menor que a da DNA polimerase I).
+
+
+=== Subunidades ===
+β (beta): É um grampo que prende a enzima no DNA. É codificada em E. coli pelo gene dnaN.
+α (alfa): Possui o sítio ativo para polimerização do DNA. É codificada em E. coli pelo gene dnaE.
+ε (épsilon): Exibe atividade de exonuclease 3'-5'. É a porção da enzima responsável pela checagem de pareamentos incorretos (proofreading). É codificada em E. coli pelo gene dnaQ.
+θ (teta): Tem a função de estimular o funcionamento da exonuclease na subunidade épsilon. É codificada em E. coli pelo gene holE.
+τ (tau): Promove a dimerização do núcleo. É codificada em E. coli pelo gene dnaX.
+δ e δ' (delta e delta'): Ajudam na movimentação do grampo β. São codificadas em E. coli pelos genes holA e holB.
+γ (gama): Ajuda na movimentação do grampo e no carregamento das proteínas SSB. É codificada em E. coli pelo gene dnaX.
+ψ e χ (psi e chi): Estão envolvidas no carregamento das proteínas SSB. São codificadas em E. coli pelos genes holC e holD.
+
+
+== Mecanismo ==
+A DNA polimerase possui apenas um sítio ativo para realizar a adição de nucleotídeos ao DNA. Esse sítio tem uma estrutura tal que favorece o encaixe de desoxinucleotídeos, já que possui um aminoácido de cadeia longa que ocupa o espaço da hidroxila no carbono 2' da ribose ocuparia. Mutações que trocam esse aminoácido por um de cadeia menor podem diminuir a especificidade da Pol III por desoxinucleotídeos. Além disso, esse espaço é específico para nucleotídeos que se pareiam corretamente com seus complementos na fita molde. Um nucleotídeo errado não tem um bom encaixe, o que desfavorece sua adição ao DNA.
+Quando um desoxinucleosídeo trifosfato (dNTP) é pareado corretamente, a hidroxila no carbono 2' do útlimo nucleotídeo adicionado ataca o fosfato α (alfa) do dNTP, liberando um pirofosfato (
+  
+    
+      
+        
+          
+            PP
+            
+              i
+            
+            
+              
+            
+          
+        
+      
+    
+    {\displaystyle {\ce {PP_{i}}}}
+  ), de acordo com a equação:
+
+  
+    
+      
+        
+          
+            dNTP
+          
+          +
+          
+            
+              
+                (
+                dNMP
+                )
+              
+              
+                n
+              
+              
+                
+              
+            
+          
+          ⟶
+          
+            
+              
+                (
+                dNMP
+                )
+              
+              
+                n
+                +
+                1
+              
+              
+                
+              
+            
+          
+          +
+          
+            PP
+            
+              i
+            
+            
+              
+            
+          
+        
+      
+    
+    {\displaystyle {\ce {{dNTP}+{(dNMP)_{n}}->{(dNMP)_{n}_{+}_{1}}+PP_{i}}}}
+  Em que 
+  
+    
+      
+        
+          n
+        
+      
+    
+    {\displaystyle {\ce {n}}}
+   é a quantidade de nucleotídeos na fita do DNA. A energia liberada pela quebra do pirofosfato liberado, realizada pela enzima pirofosfatase, é utilizada para favorecer a polimerização.
+
+  
+    
+      
+        
+          
+            
+              PP
+              
+                i
+              
+              
+                
+              
+            
+          
+          ⟶
+          2
+          
+          
+            
+              P
+              
+                i
+              
+              
+                
+              
+            
+          
+        
+      
+    
+    {\displaystyle {\ce {{PP_{i}}->2{P_{i}}}}}
+  
+
+
+== Ver também ==
+DNA polimerase I
+DNA polimerase II
+
+
+== Referências ==
+
+VOET, Donald; VOET, Judith. Bioquímica. Porto Alegre: Artmed, 2013

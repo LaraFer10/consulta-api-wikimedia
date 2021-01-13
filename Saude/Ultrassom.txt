@@ -1,0 +1,73 @@
+Ultrassom é um som a uma frequência superior àquela que o ouvido do ser humano pode perceber, aproximadamente 20 000 Hz. Dispositivos ultrassônicos operam de 20 kHz até vários gigahertz.
+O ultrassom é usado em diversos campos. Dispositivos ultrassônicos são usados para detectar objetos e medir distâncias. Ultrassonografia é usada tanto em medicina veterinária quanto em medicina humana. Em testes não destrutíveis, o ultrassom é usado para detectar falhas em produtos e estruturas. Industrialmente, o ultrassom é usado para limpar, misturar e acelerar processos químicos.
+Um som é caracterizado por vibrações (variação de pressão) no ar. O ser humano normal médio consegue distinguir, ou ouvir, sons na faixa de frequência que se estende de 20 Hz a 20 000 Hz aproximadamente. Acima deste intervalo, os sinais são conhecidos como ultrassons, e abaixo dele como infrassons.
+
+
+== Percepção em Homens e Animais ==
+
+
+=== Homens ===
+O limite superior de frequência que o ouvido humano consegue perceber é de aproximadamente 20 kHz. A audição ultrassônica pode ocorrer se o som é direcionado diretamente para o crânio humano e atinge a cóclea através da condução óssea, sem passar através da orelha média.
+Crianças podem escutar sons em frequências maiores que os adultos porque a percepção de sons a frequências maiores tende a decrescer com a idade.
+
+
+=== Animais ===
+
+Morcegos utilizam uma faixa de ultrassom para detectar presas. Eles podem detectar frequências entre 100 kHz até, possivelmente, 200 kHz.
+Muitos insetos têm uma boa audição ultrassônica e a maior parte deles tem hábitos noturnos e utiliza a técnica da ecolocalização dos morcegos. Entre esses insetos, estão incluídos grupos de mariposas, besouros e louva-a-deus.
+
+
+== Emissão ==
+O emissor de som, em aparelhos de som, é o alto-falante. Um cone de papelão movido por uma bobina imersa em um campo magnético, produzido por um eletroímã. Este cone pode "vibrar" a frequências de áudio e, com isto, impulsionar o ar, promovendo ondas de pressão que, ao atingirem o ouvido humano, são interpretados como sons audíveis. Porém, à medida que a frequência das vibrações aumenta, a amplitude das vibrações vai se reduzindo. Para gerar sons de alta-frequência e ultrassons, geralmente são utilizados transdutores ultrassônicos como cerâmicas ou cristais, que estão sujeitos ao efeito piezoelétrico, os quais produzem oscilações mecânicas em resposta a impulsos elétricos.
+
+
+=== Efeito piezoelétrico ===
+
+O efeito piezoelétrico é a capacidade de deformação de certos materiais a partir da aplicação de um campo elétrico. Com aplicação de pressão esses materiais também são geradores de campo elétrico.
+Exemplos de materiais piezoelétricos são o quartzo e a turmalina. Conforme a espessura do cristal, a sua frequência natural de vibração muda, gerando, assim, sons de frequências diferentes.
+
+
+== Aplicações ==
+
+
+=== Aplicações Biomédicas ===
+O ultrassom também tem aplicações terapêuticas que podem ser altamente benéficas se usado com precaução. Potências de ultrassom relativamente altas podem desmanchar depósitos de pedras e tecidos, acelerar o efeito de drogas em uma área alvo, auxiliar na medição das propriedades elásticas do tecido, e pode ser utilizado para classificar células e pequenas partículas para pesquisas.
+
+
+=== Tratamento por Impacto Ultrassônico ===
+Usa ultrassom para aumentar as propriedades físicas e mecânicas dos metais. Tratamento ultrassônico pode resultar em controle residual do stress compressivo, redução e refinamento de grão, além de redução da fadiga.
+O processo é muito utilizado em tratamento pós-soldagens para aumentar a resistência à fadiga dos cordões de solda, possibilitando, assim, o uso de aços de alta resistência em aplicações onde se tem solicitação cíclica.
+
+
+=== Desintegração Ultrassônica ===
+Similar à limpeza por cavitação, células biológicas incluindo bactérias, podem ser desintegradas. A alta potência do ultrassom produz cavitação, que facilita a desintegração de partículas ou reações. Isso tem sido usado para matar bactérias no esgoto. Também vem sendo usado para desintegrar pasta de milho e aumentar a liquefação e sacarificação para a produção do etanol.
+
+
+=== Solda Ultrassônica ===
+Para se unir plásticos, é usado uma frequência de 15 kHz a 40 kHz, com baixa amplitude de vibração, capaz de criar fricção entre os materiais a serem unidos.
+Geralmente, a unidade de Solda por Ultrassom é composta por dois componentes básicos, o primeiro é a fonte de energia que transforma a frequência da energia recebida de 60 Hz para geralmente 20 kHz. O segundo é o conversor responsável por converter a energia elétrica em movimento mecânico e aplicá-lo na peça a ser soldada através do sonotrodo, o qual é desenhado para a peça a ser soldada.
+
+
+=== Ultrassom a laser ===
+Técnica de ultrassom a laser não requer contato com o corpo para ver dentro de um paciente. O método utiliza um sistema de laser que protege os olhos e a pele para remotamente imaginar o interior de uma pessoa. As imagens produzidas usando lasers remotos, focadas em um paciente a meio metro de distância, são comparáveis ao ultrassom convencional.
+
+
+== Usos na medicina ==
+
+Ultrassonografia
+Ultrassom terapêutico
+Ecografia
+
+
+== Ver também ==
+Som
+Acústica
+Infrassom
+Velocidade do som
+Velocidade ultrassônica
+Eco
+Radar
+Sonar
+
+
+== Referências ==

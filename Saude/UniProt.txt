@@ -1,0 +1,87 @@
+UniProt (Universal Protein) é uma base de dados acessível gratuitamente, de alta qualidade e completa de informação de sequências de proteínas e as suas funções, na qual muitas das entradas procedem de projectos de sequenciação de genomas. Contém uma grande quantidade de informação sobre as funções biológicas das proteínas derivada da literatura científica. As principais bases de dados que estão incluídas em UniProt são: Swiss-Prot, TrEMBL (estas duas fazem parte de UniProtKB), UniParc, UniRef, e UniMes.
+
+
+== O consórcio UniProt ==
+UniProt é um consórcio que compreende o Instituto Europeu de Bioinformática (European Bioinformatics Institute, EBI), o Instituto Suíço de Bioinformática (Swiss Institute of Bioinformatics, SIB), e o Recurso de Informação de Proteínas (Protein Information Resource, PIR). O EBI está localizado no Wellcome Trust Genome Campus em Hinxton, Reino Unido, e alberga um grande recurso de bases de dados informáticas e serviços. O SIB, está com sede em Genebra, Suíça, e mantém os servidores de ExPASy (Expert Protein Analysis System, Sistema de Análise de Proteíns @Experto) que é um recurso central de ferramentas proteómicas e bases de dados. O PIR, está albergado na Fundação de Investigação Biomédica Nacional (National Biomedical Research Foundation, NBRF) do Centro Médico da Universidade de Georgetown em Washington, DC, EUA, e é herdeiro da antiga base de dados de sequências de proteínas chamadas Atlas de Sequências e Estruturas de Proteínas de Margaret Dayhoff, que se começou a publicar em 1965. Em 2002, o EBI, o SIB, e o PIR uniram as suas forças formando o consórcio UniProt.
+
+
+== História de UniProt ==
+Cada um dos membros do consórcio está muito implicado na manutenção da base de dados de proteínas e na sua anotação. Até há pouco, o EBI e o SIB em conjunto produziam as bases de dados Swiss-Prot e TrEMBL, enquanto que o PIR gerava a Base de dados de Sequências de Proteínas (Protein Sequence Database, PIR-PSD). Estas bases de dados coexistiam tendo prioridades diferentes no que diz respeito à cobertura na sequência de proteínas e na anotação.
+Swiss-Prot criou-a em 1986 Amos Bairoch e desenvolveu-a o Instituto Suíço de Bioinformática e seguidamente desenvolveu-a Rolf Apweiler no Instituto Europeu de Bioinformática. Swiss-Prot tem como objectivo proporcionar sequências fiáveis de proteínas associadas com um alto nível de anotação (como são a descrição da função da proteína, a sua estrutura de domínios, as modificações postraducionais, variantes etc.), um nível mínimo de redundância, e um alto nível de integração com outras bases de dados. Porém, com o passar do tempo teve que reconhecer-se que os dados de sequências estavam gerando-se a um ritmo que excedia a capacidade de Swiss-Prot para tratá-los, criou-se então TrEMBL (Translated EMBL Nucleotide Sequence Data Library, Biblioteca de Dados de Sequências de Nucleótidos da EMBL Traduzidas) para proporcionar anotações automatizadas dessas proteínas que não estavam em Swiss-Prot. Enquanto isso, o PIR mantinha a mencionada PIR-PSD e bases de dados relacionadas, incluindo a base de dados de proteínas e famílias proteicas revistas iProClass.
+Os membros do consórcio juntaram os seus recursos solapados e experiências, e atiraram finalmente UniProt em dezembro de 2003.
+
+
+== Organização das bases de dados de UniProt ==
+O coração de UniProt está formado por quatro bases de dados: UniProtKB (que se subdivide em Swiss-Prot e TrEMBL), UniParc, UniRef, e UniMes.
+
+
+=== UniProtKB ===
+UniProt Knowledgebase (UniProtKB) é uma base de dados de proteínas parcialmente revista por peritos, que consta de duas secções: UniProtKB/Swiss-Prot (que contêm entradas anotadas manualmente, revistas) e UniProtKB/TrEMBL (que contém entradas anotadas automaticamente e não revistas). Em março de 2014 saiu a edição "2014_03" de UniProtKB/Swiss-Prot, que continha 542.782 entradas de sequências (que constavam de 193.019.802 aminoácidos obtidos a partir de 226.896 referências) e a edição "2014_03" de UniProtKB/TrEMBL continha 54.247.468 de entradas de sequências (que constavam de 17.207.833.179 aminoácidos).
+
+
+==== UniProtKB/Swiss-Prot ====
+UniProtKB/Swiss-Prot é uma base de dados de sequências não redundantes anotadas manualmente. Combina informação extraída da literatura científica com análises computacionais avaliadas por um biocurador. O objectivo de UniProtKB/Swiss-Prot é proporcionar toda a informação relevante conhecida sobre uma determinada proteína. A anotação é revista regularmente para manter ao dia das novas descobertas científicas que se vão produzindo. A anotação manual de uma entrada implica a análise detalhada da sequência de proteínas e da literatura científica.As sequências do mesmo gene e da mesma espécie fundin-se na mesma entrada da base de dados. Identificam-se as diferenças entre sequências, e a sua causa é documentada (por exemplo splicing alternativo, variação natural, sítios de iniciação da tradução incorrectos, limites de exãos incorrectos, mutações de mudança de pauta de leitura, e conflitos não identificados). Na anotação das entradas de UniProtKB/Swiss-Prot utiliza-se um conjunto de ferramentas de análises de sequências. As predições feitas por computador são avaliadas manualmente, e os resultados relevantes são seleccionados para a sua inclusão na entrada. Estas predições incluem as modificações postraducionais, os domínios transmembrana e a topologia, péptidos sinal, identificação de domínios, e classificação das famílias proteicas.As publicações relevantes identificam-se buscando nas bases de dados como PubMed. Lesse o texto completo de cada artigo, e a informação é extraída e acrescentada à entrada. As anotações que se fazem atendendo à informação da literatura científica incluem, entre outras, as seguintes:
+Nomes de proteínas e genes
+Função
+Informação específica de enzimas, como a actividade catalítica, cofactores e resíduos catalíticos
+Localização subcelular
+Interacções proteína-proteína
+Patrões de expressão
+Localização e papéis exercidos pelos domínios e sítios significativos
+Sítios para a união de ions, substratos e cofatores
+Formas variantes da proteína produzidas por variações genéticas naturais, edição do ARN, splicing alternativo, processamento proteolítico, e modificações postraducionais.As entradas anotadas passam por um controlo de qualidade antes da sua inclusão em UniProtKB/Swiss-Prot. Quando se dispõe de um dado novo, as entradas são atualizadas.
+
+
+==== UniProtKB/TrEMBL ====
+UniProtKB/TrEMBL contém registos analisados computacionalmente de alta qualidade, que são enriquecidos com uma anotação automática. Esta base de dados criou-se em resposta ao incremento do fluxo de dados resultante do progresso dos projectos genoma, já que o processo de anotação manual levava muito tempo e trabalho em UniProtKB/Swiss-Prot e não podia ser alargado para incluir todas as sequências de proteínas disponíveis. As traduções de sequências codificantes anotadas na base de dados de sequências nucleotídicas EMBL-Bank/GenBank/DDBJ são processadas automaticamente e introduzidas em UniProtKB/TrEMBL.
+UniProtKB/TrEMBL também contém sequências procedentes de PDB, e da predição de genes, incluindo Ensembl, RefSeq e CCDS.
+
+
+=== UniParc ===
+UniProt Archive (UniParc) é uma base de dados completa e não redundante, que contém todas as sequências de proteínas procedentes das principais bases de dados de sequências disponíveis publicamente. A informação de uma proteína pode encontrar em várias bases de dados diferentes, e em muitas cópias na mesma base de dados. Para evitar a redundância, UniParc armazena cada sequência única só uma vez. As sequências idênticas são fusionadas, sem importar se procedem da mesma ou de diferente espécie. A cada sequência dá-se-lhe um identificador único e estável (UPI), o que faz possível identificar a mesma proteína em diferentes bases de dados fonte. UniParc contém só sequências de proteínas, sem anotação. As referências cruzadas das bases de dados nas entradas de UniParc permitem que se obtenha mais informação sobre a proteína das bases de dados fonte. Quando as sequências da base de dados fonte mudam, estas mudanças são monitorizados por UniParc e arquiva-se a história de todas as mudanças.
+
+
+==== Bases de dados de fontes ====
+Atualmente a UniParc contém sequências de proteínas das seguintes bases de dados consultáveis pelo público:
+
+INSDC EMBL-Bank/DDBJ/GenBank (bases de dados de sequências de nucleótidos)
+Ensembl
+Escritório de Patentes Européia (EPO)
+FlyBase: repositorio primário de dados moleculares e genéticos para a família dos inectos drosofílidos (FlyBase)
+H-Invitational Database (H-Inv)
+International Protein Index (IPI)
+Escritório de Patentes do Japão (JPO)
+Protein Information Resource (PIR-PSD)
+Protein Data Bank (PDB)
+Protein Research Foundation (PRF)[1]
+RefSeq
+Saccharomyces Genome Database (SGD)
+The Arabidopsis Information Resource (TAIR)
+TROME[2][ligação inativa]
+Escritório de Patentes dos EUA (USPTO)
+UniProtKB/Swiss-Prot, UniProtKB/Swiss-Prot protein isoforms, UniProtKB/TrEMBL
+Vertebrate and Genome Annotation Database (VEGA)
+WormBase
+
+
+=== UniRef ===
+Os UniProt Reference Clusters (UniRef) constam de três bases de dados de conjuntos agrupados de sequências de proteínas de UniProtKB e registos seleccionados de UniParc. A base de dados UniRef100 combina sequências idênticas e fragmentos de sequência (de cada organismo) numa só entrada de UniRef. Mostram-se a sequência de uma proteína representativa, os números de acesso de todas as entradas fusionadas e as ligações aos correspondentes registos de UniProtKB e UniParc. As sequências UniRef100 agrupam-se usando o algoritmo CD-HIT para assim construir UniRef90 e UniRef50. Cada grupo está composto por sequências que têm ao menos 90% ou 50% de identidade de sequência, respectivamente, com a sequência mais comprida. Agrupar as sequências reduz significativamente o tamanho da base de dados, o que permite fazer buscas de sequências mais rapidamente.
+UniRef está disponível no sítio FTP de UniProt.
+
+
+=== UniMes ===
+A base de dados UniProt Metagenomic and Environmental Sequences (UniMES) é um repositorio desenvolvido especificamente para dados metagenómicos e ambientais. As proeínas preditas deste conjunto de dados combinam-se com a classificação automática por InterPro para aumentar a informação original com análises posteriores.
+UniProtKB contém sequências de proteínas de espécies conhecidas, dados procedentes de estudos metagenómicos de amostras ambientais (é dizer, microorganismos não cultivados), pelo que a espécie pode não ser conhecida ou não foi ainda identificada. UniMES foi especialmente desenvolvida para tratar este tipo de dados. Os dados de UniMES não estão incluídos em UniProtKB nem em UniRef, mas incluem-se em UniParc. Em julho de 2012, UniMES continha só dados da Expedição de Mostraxe Oceánica Global (Global Ocean Sampling Expedition, GOS). Os dados de amostras ambientais conteúdos nesta base de dados não estão presentes nem em UniProt Knowledgebase nem em UniProt Reference Clusters.
+Os agrupamentos de UniMES proporcionam conjuntos agrupados (unimes_cluster100 e unimes_cluster90) de sequências em duas resoluções (100% e >90%). Em unimes_cluster100, as sequências idênticas e subfragmentos de unimes.fasta situam-se num só agrupamento. O unimes_cluster90 constrói-se agrupando sequências representativas unimes_cluster100 (a sequência mais comprida num agrupamento) usando o algoritmo CD-HIT, de modo que cada agrupamento está composto de sequências que têm ao menos uma identidade de sequência de 90%, com a sequência representativa. Nestes ficheiros estão presentes só as sequências representativas dos agrupamentos.
+UniMES está disoñible no sitioFTP da UniProt[ligação inativa].
+
+
+== Financiamento da UniProt ==
+UniProt financia-se com fundos procedentes do National Human Genome Research Institute, os National Institutes of Health (NIH) de EUA, a Comissão Europeia, o governo federal suíço por meio do Escritório Federal de Educação e Ciência, NCI-caBIG, e o Departamento de Defesa.
+
+
+== Referências ==
+
+
+=== Ligações externas ===
+UniProt

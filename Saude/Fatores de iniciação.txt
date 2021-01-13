@@ -1,0 +1,37 @@
+O complexo de iniciação necessário para a tradução, na síntese proteica, é formado a partir da ligação do RNA mensageiro (contendo o códon de iniciação) à subunidade menor do ribossomo, juntamente com o aminoacil-tRNA iniciador e a subunidade maior. Ocorre, então, um pareamento entre o códon AUG inicial do mRNA com seu anticódon específico, presente no aminoacil-tRNA. Esse processo, que requer GTP, é promovido por proteínas citosólicas denominadas fatores de iniciação.
+
+
+== A iniciação nas células procarióticas ==
+A subunidade menor do ribossomo se liga aos fatores de iniciação IF-1 e IF-3. IF-3 impede que as subunidades menor e maior se combinem prematuramente. O mRNA contendo o códon AUG se liga à subunidade menor. O AUG iniciador é posicionado no sítio P (peptidil), ao qual o primeiro aminoacil-tRNA contendo formilmetionina se liga. O fator IF-1 é responsável por se ligar ao sítio A e impedir a ligação do primeiro tRNA nesse sítio durante a iniciação, garantindo que a interação entre o códon AUG e o primeiro aminoácido ocorra no sítio P.
+O complexo formado por subunidade menor, IF-3 e mRNA se junta ao IF-2 ligado a GTP e ao aminoacil-tRNA iniciador. O anticódon desse tRNA pareia com o códon iniciador do mRNA. Esse complexo se combina com a subunidade maior do ribossomo. O GTP ligado ao IF-2 é hidrolisado a GDP e Pi, os quais são liberados do complexo. Os três fatores de iniciação saem do ribossomo. O término das etapas produz uma unidade ribossomal 70S chamado de complexo de iniciação, contendo tanto o mRNA como o tRNA iniciador.
+
+
+== Lista dos fatores de iniciação procarióticos ==
+IF-1: Impede a ligação prematura do tRNA no sítio A.
+IF-2: Facilita a ligação do tRNA inicial contendo metionina com a subunidade menor do ribossomo.
+IF-3: Liga-se à subunidade menor e impede a associação prematura da subunidade maior; aumenta a especificidade do sítio P pelo tRNA inicial.
+
+
+== A iniciação nas células eucarióticas ==
+A principal diferença entre a iniciação em procariotos e em eucariotos é o número de fatores envolvidos no processo, bem como o nível de detalhamento. O mRNA de eucariotos se liga ao ribossomo formando um complexo com várias proteínas ligantes específicas.
+O eIF1A (homólogo do IF-1): liga-se à subunidade menor e impede a ligação do tRNA  ao sítio A do ribossomo. O eIF3 (homólogo do IF-3): evita o acoplamento precoce das subunidades ribossômicas menor e maior. O eIF1 liga-se ao sítio E. O tRNA iniciador carregado com metionina liga-se ao eIF2, o qual também está ligado a um GTP. Esse complexo liga-se à subunidade menor, juntamente com eIF5 e eIF5B, formando o complexo de pré-iniciação. O mRNA liga-se a eIF4F, complexo formado por eIF4E, EIF4A e EIF4G. O fator eIF4A tem atividade ATPásica e RNA-helicase, enquanto o fator eIF4G é uma proteína ligadora que liga-se ao eIF3 e conecta o complexo de iniciação ao mRNA. Ocorre uma varredura do mRNA à procura de um códon de iniciação AUG, facilitada pela atividade de RNA-helicase do eIF4A e pelo EIF4B. A associação da subunidade maior com o complexo, provocando a liberação de muitos fatores de iniciação. O eIF5 (homólogo a IF-2 em procariotos) promove a atividade GTPase do eIF2, hidrolisando o GTP ligado a ele e produzindo um complexo eIF2-GDP com afinidade reduzida pelo tRNA iniciador. Há, então, a dissociação do eIF2-GDP de outros fatores de iniciação, e consequente associação da subunidade ribossômica maior.
+
+
+== Lista dos fatores de iniciação eucarióticos ==
+eIF1: Liga-se ao sítio E da subunidade menor e facilita a interação entre o complexo ternário eIF2-tRNA-GTP e esta subunidade.
+eIF1A (homólogo ao IF-1): impede a ligação prematura do tRNA no sítio A.
+eIF2: Possui atividade GTPásica; facilita a ligação do tRNA iniciador à subunidade menor.
+eIF2B e eIF3: Primeiros fatores a se ligarem na subunidade menor. Responsáveis por facilitar as etapas que os prosseguem.
+eIF4F: Complexo que consiste em eIF4E, eIF4A e eIF4G.
+eIF4A: Possui atividade de RNA-helicase. Remove estruturas secundárias do mRNA para permitir a ligação à subunidade menor; faz parte do complexo eIF4F.
+eIF4B: Liga-se ao mRNA e facilita sua varredura para localizar o primeiro códon AUG.
+eIF4E: Liga-se ao quepe 59 do mRNA; faz parte do complexo eIF4F.
+eIF4G: Liga-se ao eIF4E e à proteína ligante de poli(A) (PABP); faz parte do complexo eIF4F.
+eIF5: Promove a dissociação de alguns fatores de iniciação da subunidade menor antes que ocorra a associação desta com a subunidade maior.
+eIF5B: (homóloga ao IF-2) Possui atividade GTPásica e é capaz de promover a dissociação dos fatores de iniciação antes da montagem final do ribossomo.
+
+
+== Referências ==
+NELSON, D.L.; COX, M.M. Princípios de Bioquímica de Lehnninger. 6ª ed. Porto Alegre: Artmed, 2014.
+Berg, J. M., Tymoczko, J. L., Stryer, L. (2002). Eukaryotic protein synthesis differs from prokaryotic protein synthesis primarily in translation initiation. 5ª Edição. New York, NY: W. H. Freeman.
+Alberts, B., et al. Biologia Molecular da Célula. 5ª ed. Porto Alegre: Artmed, 2010.

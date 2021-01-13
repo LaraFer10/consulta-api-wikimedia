@@ -1,0 +1,5 @@
+A interferência CRISPR (CRISPRi) é uma técnica de perturbação genética que permite a repressão específica de sequência da expressão gênica em células procarióticas e eucarióticas. Foi desenvolvida pela primeira vez por Stanley Qi e colegas nos laboratórios de Wendell Lim, Jonathan Weissman e Jennifer Doudna.  Com base no sistema imune genético bacteriano - CRISPR (repetições palindrômicas curtas e interespaciais agrupadas), a técnica fornece uma abordagem complementar à interferência de RNA.
+A diferença entre o CRISPRi e o RNAi, no entanto, é que o CRISPRi regula a expressão gênica principalmente no nível transcricional, enquanto o RNAi controla os genes no nível do mRNA. CRISPRi silencia genes no nível transcricional. Um dos benefícios potenciais é que essa tecnologia pode ter menos efeitos fora do alvo específicos de sequência do que o RNAi e é aplicável a genes codificadores e não codificadores. A desvantagem desta tecnologia é que o silenciamento requer a entrega da proteína dCas9-KRAB e de um RNA. Esta tecnologia pode ser complementar às abordagens de eliminação de RNAi e CRISPR-Cas9 para o estudo de RNAs longos não-codificantes.
+
+
+== Referências ==

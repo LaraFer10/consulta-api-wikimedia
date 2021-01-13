@@ -1,0 +1,179 @@
+A lei de Hick ou lei de Hick–Hyman, formulada por William Edmund Hick e Ray Hyman, descreve o tempo que uma pessoa leva para tomar uma decisão com base no número de opções possíveis a serem escolhidas: aumentar o número de opções vai aumentar o tempo de decisão logaritmicamente. Portanto, a lei de Hick diz respeito à capacidade cognitiva informacional em experimentos baseados em escolhas. O tempo levado para processar uma certa quantidade de bits na lei de Hick é convencionalmente chamado "taxa de ganho de informação".
+A lei de Hick é às vezes citada para justificar decisões relativas à arquitetura de decisões. Por exemplo, para achar uma determinada palavra (i.e., o nome de um comando) numa lista de palavras aleatoriamente ordenada (i.e., um cardápio), ler cada uma das palavras é necessário, consumindo assim tempo linear, e nesse caso a lei de Hick não se aplica. No entanto, se a lista é alfabética e o usuário conhece o nome do comando, poderá então usar uma estratégia de subdivisão, que funciona em tempo logarítmico.
+
+
+== Origem ==
+Em 1868, a relação entre ter múltiplos estímulos e a reação da escolha foi registrada por Franciscus Donders. Em 1885, J. Merkel descobriu que o tempo de resposta é maior quando o estímulo pertence a um conjunto maior de estímulos. Psicólogos começaram a encontrar semelhanças entre esse fenômeno e a Teoria da Informação.
+Hick começou sua pesquisa com essa teoria em 1951. Seu primeiro experimento envolveu 10 lâmpadas com chaves de Código Morse correspondentes. As lâmpadas se iluminavam aleatoriamente a cada cinco segundos. A reação da escolha foi registrada com um número de escolhas indo de 2 a 10 lâmpadas.
+Hick realizou um segundo experimento baseado na mesma tarefa, mantendo o número de alternativas em 10. O participante realizou a tarefa nas duas primeiras vezes recebendo a instrução de realizá-la o mais precisamente possível. Na última tarefa, pediu-se ao participante que a realizasse o mais rápido possível.
+Enquanto Hick preoupou-se com a relação logarítmica entre tempo de reação e número de escolhas, Hyman se propôs a entender melhor a relação entre tempo de reação e a média do número de escolhas. No experimento de Hyman, havia oito focos luminosos diferentes organizadas numa matrix de seis por seis. Cada uma dessas luzes recebeu um nome e foi registrado o tempo que o participante demorava para dizer o nome da luz depois de esta ser acesa. Hyman contribuiu para determinar uma relação linear entre tempo de reação e a informação transmitida.
+
+
+== Lei ==
+Sendo n as alternativas igualmente prováveis de escolhas, o tempo médio T para a escolha dentre as alternativas é aproximadamente:
+
+  
+    
+      
+        T
+        =
+        b
+        ⋅
+        
+          log
+          
+            2
+          
+        
+        ⁡
+        (
+        n
+        +
+        1
+        )
+      
+    
+    {\displaystyle T=b\cdot \log _{2}(n+1)}
+  onde b é uma constante que pode ser determinada empiricamente ao ajustar uma linha a dados coletados. O logaritmo expressa a profundidade da hierarquia de "árvore de escolha" – log2 indica a pesquisa binária que é realizada. A adição de 1 a "n" considera a "incerteza sobre responder ou não, além da sobre a resposta a dar"."No caso de escolhas com probabilidades desiguais, a lei pode ser generalizada como:
+
+  
+    
+      
+        T
+        =
+        b
+        H
+      
+    
+    {\displaystyle T=bH}
+  onde H está fortemente associado à entropia da decisão, definida como:
+
+  
+    
+      
+        H
+        =
+        
+          ∑
+          
+            i
+          
+          
+            n
+          
+        
+        
+          p
+          
+            i
+          
+        
+        
+          log
+          
+            2
+          
+        
+        ⁡
+        (
+        1
+        
+          /
+        
+        
+          p
+          
+            i
+          
+        
+        +
+        1
+        )
+      
+    
+    {\displaystyle H=\sum _{i}^{n}p_{i}\log _{2}(1/p_{i}+1)}
+  onde pi diz respeito à probabilidade de a alternativa i denotar a entropia da informação.
+A lei de Hick é similar em sua forma à lei de Fitts. A lei de Hick tem uma forma logarítmica porque as pessoas subdividem o conjunto de total de escolhas em categorias, eliminando aproximadamente metade das escolhas remanescentes em cada etapa, em vez de considerar cada uma das escolhas separadamente, o que exigiria tempo linear.
+
+
+=== Relação com QI ===
+
+E. Roth (1964) demonstrou a correlação entre QI e velocidade de processamento de informação, a recíproca da inclinação da função:
+
+  
+    
+      
+        
+          Tempo de reação
+        
+        =
+        
+          Tempo de Movimento
+        
+        +
+        
+          
+            
+              
+                log
+                
+                  2
+                
+              
+              ⁡
+              (
+              n
+              )
+            
+            Velocidade de Processamento
+          
+        
+      
+    
+    {\displaystyle {\text{Tempo de reação}}={\text{Tempo de Movimento}}+{\frac {\log _{2}(n)}{\text{Velocidade de Processamento}}}}
+  onde n é o número de opções. O tempo que se toma para chegar a uma decisão é:
+
+  
+    
+      
+        
+          Velocidade de Processamento
+        
+        ⋅
+        
+          log
+          
+            2
+          
+        
+        ⁡
+        (
+        n
+        )
+      
+    
+    {\displaystyle {\text{Velocidade de Processamento}}\cdot \log _{2}(n)}
+  
+
+
+== Compatibilidade estímulo-resposta ==
+Sabe-se que a compatibilidade estímulo-resposta também afeta o tempo de reação à escolha na lei Hick-Hyman. Isso significa que a resposta será similar ao próprio estímulo (como virar o volante para virar as rodas de um carro). A ação que o usuário realiza é similar à resposta que o motorista recebe do carro.
+
+
+== Exceções à lei de Hick ==
+
+Estudos sugerem que a busca de uma palavra dentro de uma lista ordenada aleatoriamente – em que o tempo de resposta aumenta linearmente com o número de itens – não permite a generalização da lei, pois, em outras condições, o tempo de reação pode não se relacionar linearmente com o logaritmo do número de elementos ou mesmo apresentar outras variações do plano básico.
+Exceções à lei de Hick foram provadas em estudos sobre a resposta verbal a estímulos familiares, em que há ausência de relação ou  aumento sutil do tempo de reação associado ao aumento do número de tentativas, e respostas sacádicas, em que foi mostrado haver ou ausência de relação ou redução do tempo para sacada com o aumento do número de elementos, aliás um efeito antagônico ao postulado pela lei de Hick.A generalização da lei de Hick foi também testada em estudos sobre a previsibilidade de transições associadas ao tempo de resposta a elementos estruturados em sequência. Esse processo foi inicialmente descrito como de acordo com à lei de Hick, mas, mais recentemente, foi mostrado que a relação entre previsibilidade e tempo de reação é sigmóide e não linear, associado a diferentes modos de ação.
+
+
+== Referências ==
+
+
+== Ligações externas ==
+Cockburn, Andy; Gutwin, Carl; Greenberg, Saul (April 28 – May 3, 2007). «A predictive model of menu performance» (PDF). San Jose, California. Proceedings of the SIGCHI conference on Human factors in computing systems  
+Hick, W. E. (1 de março de 1952). «On the rate of gain of information» (PDF). Quarterly Journal of Experimental Psychology. 4 (1): 11–26. doi:10.1080/17470215208416600 
+Hyman, R (março de 1953). «Stimulus information as a determinant of reaction time». Journal of Experimental Psychology. 45 (3): 188–96. PMID 13052851. doi:10.1037/h0056940 
+Rosati, L. (24–25 de outubro de 2013). «How to design interfaces for choice: Hick-Hyman law and classification for information architecture». In:  Slavic, A.; Salah, A.; Davies, C. Classification and visualization: interfaces to knowledge: proceedings of the International UDC Seminar. The Hague, The Netherlands: [s.n.] pp. 125–138. ISBN 978-3-95650-007-7 
+Roy, Q.; Malacria, S.; Lecolinet, E.; Guiard, Y.; Eagan, J. (April 27 – May 2, 2013). «Augmented Letters: Mnemonic Gesture-Based Shortcuts». Paris, France. Proceedings of the SIGCHI conference on Human factors in computing systems. doi:10.1145/2470654.2481321  
+Seow, Steven C. (2005). «Information Theoretic Models of HCI: A Comparison of the Hick–Hyman Law and Fitts' Law». Human–Computer Interaction'. 20 (3): 315–352. doi:10.1207/s15327051hci2003_3 
+Welford, Alan T. (1968). Fundamentals of Skill. Methuen, Massachusetts: [s.n.] pp. 61–65

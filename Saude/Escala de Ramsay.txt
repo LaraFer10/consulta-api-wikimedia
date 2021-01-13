@@ -1,0 +1,11 @@
+Escala de Ramsay, é uma tipo de escala subjetiva utilizada para avaliar o grau de sedação em pacientes, visando evitar a sedação insuficiente (o paciente pode sentir dores) ou demasiadamente excessiva (colocando-o em risco de morte). Tem sido usado principalmente para avaliar pacientes em unidade de terapia intensiva.A escala de Ramsay foi descrita pela primeira vez pelo medico Michael Ramsay como parte de um estudo sobre o efeito de um esteroide anestésico publicado em 1974. Ela compreende valores que vão de 1 a 6, atribuídos observando as respostas dadas pelo paciente após estímulos e podem ser:
+
+Grau 1: paciente ansioso, agitado;
+Grau 2: cooperativo, orientado, tranquilo;
+Grau 3: sonolento, atendendo aos comandos;
+Grau 4: dormindo, responde rapidamente ao estímulo glabelar ou ao estímulo sonoro vigoroso;
+Grau 5: dormindo, responde lentamente ao estímulo glabelar ou ao estímulo sonoro vigoroso;
+Grau 6: dormindo, sem resposta.
+
+
+== Referências ==

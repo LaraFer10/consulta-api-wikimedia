@@ -1,0 +1,6 @@
+O imunoblote é uma técnica analítica para detectar a presença de anticorpos específicos contra proteínas separadas segundo seu peso molecular por eletroforese em gradiente de gel de poliacrilamida (SDS-PAGE) e posteriormente transferidas para membranas de nitrocelulose ou PVDF.
+
+As membranas com as proteínas distribuídas são incubados com as amostras de soro em que se pretende pesquisar a presença de anticorpos específicos, e à seguir corados com anticorpos marcados O imunoblote é capaz de diferenciar anticorpos dirigidos contra diferentes frações proteicas de uma mesma fonte e assim determinar especificamente qual é a proteína imunorreativa para cada paciente. Isso pode ser útil por exemplo para um paciente que tenha alergia às proteínas do soro do leite, mas não às caseínas que formam o queijo, liberando-o para ingerir este alimento.
+
+
+== Referências ==

@@ -1,0 +1,12 @@
+Na  genética molecular, um codão (português europeu) ou códon (português brasileiro) é uma sequência de três bases nitrogenadas de RNA mensageiro que codificam um determinado aminoácido ou que indicam o ponto de início ou fim de tradução da cadeia de RNAm. Isto significa que cada conjunto de três bases consecutivas é responsável pela codificação de um aminoácido.Sempre que uma proteína vai ser sintetizada pelo ribossoma, a sequência correspondente às três bases do codão do RNAm vai ser posicionada pelo ribossoma e a molécula de aminoácido correspondente será trazida até o ribossoma pelo RNA transportador específico, possuidor de um anticodão num determinado sítio, que emparelha com o codão do ARNm, e de um braço ao qual se ligará um aminoácido específico.Desta forma, uma proteína formada por 200 aminoácidos é derivada de uma molécula de RNA com, no mínimo, 600 bases nitrogenadas. De forma análoga, o DNA que originou esta sequência terá, pelo menos, 1200 bases, pois possui uma estrutura de dupla fita, enquanto o ARN tem fita simples.
+Uma cadeia polipeptídica nascente, ou seja, acabada de sintetizar, tem sempre como aminoácido inicial a metionina. Isto deve-se ao facto de, a nível do RNA, o reconhecimento do gene que codifica para essa cadeia polipeptídica ser feito identificando um determinado codão a jusante de uma zona promotora de expressão. Esse codão é o conjunto de bases ATG e é denominado codão de iniciação (da transcrição) ou start.
+A RNA polimerase, enzima responsável pela transcrição do DNA, não poderia concluir a sua actividade se não existisse também um codão que identificasse o fim do gene – o codão de terminação ou stop. Este pode ser qualquer um dos conjuntos UAA, UAG ou UGA.
+Como existem 4 bases (A, C, T e G), existem 4x4x4=64 diferentes combinações de 3 bases formando codões. No entanto, o número de aminoácidos codificados é apenas 20. Esta discrepância é devida à chamada degenerescência do código genético: um amoácido pode ser codificado por mais do que um codão. Outro exemplo desta degenerescência foi ilustrado acima com o código para terminação: esta pode ser feita recorrendo a um de três diferentes codões.  Note-se que o inverso não é verdadeiro, ou seja, um determinado codão só pode dar origem a um determinado aminoácido. 
+
+
+== Código genético ==
+
+A relação entre os codões e os respectivos aminoácidos encontra-se na tabela abaixo. Como o processo de tradução envolve apenas RNA, é comum apresentar a base uracilo (U) em vez de timina (T) neste tipo de tabelas.
+
+
+== Referências ==

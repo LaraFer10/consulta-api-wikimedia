@@ -1,0 +1,14 @@
+Adenilato cinase ou adenilato quinase (número EC 2.7.4.3) (também conhecida como ADK, do inglês adenylate kinase, miocinase ou mioquinase) é uma enzima fosfotransferase que catalisa a interconversão de nucleotídeos adenina, e desempenha um papel importante na homeostase de energia celular.
+
+
+== Substrato e produtos ==
+A reação catalisada é:
+2 ADP ⇔ ATP + AMP
+A constante de quilíbrio varia com as condições, mas é próxima de 1.  Então, a ΔGo para esta reação é próxima de zero. Nos músculos de uma variedade de espécies de vertebrados e invertebrados, a concentração de ATP é tipicamente 7 a 10 vezes que a de ADP, e usualmente maior que 100 vezes a de AMP. A taxa de fosforilação oxidativa é controlada pela disponibilidade de ADP. Assim, a mitocôndria tenta manter ATP a níveis elevados devido à ação combinada de adenilatoquinase e os controles da fosforilação oxidativa.
+
+
+== Isozimas ADK ==
+Esta é uma reacção essencial para muitos processos em células vivas. Duas isozimas ADK tem sido identificadas em células de mamíferos. 
+
+
+== Referências ==

@@ -1,0 +1,35 @@
+A β-catenina é uma proteína codificada pelo gene CTNNB1 em seres humanos.
+Essa proteína é muito conversada dentre os grupos, possuindo uma grande similaridade dentro dos vertebrados e com diversos ortólogos dentre os animais, como no caso de Drosophila, em que é chamada de armadillo. Faz parte da família das cateninas e é homóloga da proteína γ-catenina. Além disso ela é uma das subunidades do complexo proteíco da caderina.
+Ela possui papel nas mais diversas vias de sinalização celular, atuando principalmente como um fator de transcrição, sendo principalmente destacado a sua sinalização essencial na biologia do desenvolvimento, e como proteína envolvida na aderência celular.
+Mutações e a super expressão são associados à diversos tipos de câncer, pulmonar, de mama,  ovariano, endometrial e carcinomas hepatocelular e colorretal.Alterações na localização celular e nos níveis de expressão da beta-catenina também foram associados com diversas formas de doenças cardíacas, incluindo Cardiomiopatia dilatada.
+A regulação e degradação dessa proteína é feita através de um complexo proteíco, em especial pela APC (adenomatous polyposis coli), considerado um gene supressor de tumor.
+
+
+== História ==
+A beta catenina foi descoberta nos anos 90, como uma proteína homologa à proteína armadillo de Drosophila, sendo parte dos complexos caderina-catenina proteicos que promovem as adesões celulares e logo sendo associada a alguns tipos de câncer.Devido o conhecimento da função de armadillo no desenvolvimento de Drosophila, se especulou que poderia haver algo similar ocorreria com a beta-catenina. Em 1992 foi caracterizada a expressão diferencial durante os primeiros estágios do desenvolvimento de Xenopus laevis, abrindo portas para a compreensão da ação de tal proteína na
+
+
+== Estrutura ==
+A beta catenina possui 772 aminoácidos, onde 149 resíduos de N-terminal, 108 resíduos de C-terminal e 515 resíduos do domínio central, que estão organizados em 12 repetições que formam as chamadas armadillo repeats. Cada repetição armadillo consiste em três estruturas de alfa-hélice que formam uma super-hélix, com exceção da primeira repetição, em que as hélices 1 e 2 formam uma única hélice com uma torção.
+Esse domínio com 12 repetições forma uma estrutura côncava, que funciona como sítio de ligação para as moléculas que se ligam com a proteína.
+ Além desse domínio rígido, apesar do N-terminal e do final do C-terminal não apresentarem uma estrutura tridimensional definida, eles desempenham papéis muito importantes no funcionamento proteico. A região C-terminal funciona como uma região de trans-ativação ao se ligar no DNA, isto é, atua como um fator que aumenta as taxas de expressão genética. Tal funcionamento como fator de transcrição está associado a diversas vias diferentes, como a Via de sinalização Wnt, e interage, portanto, com diversos outros motivos proteicos, de modo que esse segmento na realidade não é completamente desordenado, pois possui, próximo ao último armadillo repeat, uma estrutura de alfa hélice, que foi chamada de hélice C, e um loop com uma volta helicoidal, que acaba por proteger resíduos hidrofóbicos que ficariam expostos. Essa conformação não possui uma função descrita na adesão celular, porém foi demonstrado que possui função nas vias de sinalização, por exemplo a Wnt, não apenas na trans-ativação, mas também no recrutamento de diversos cofatores de transcrição. O N-terminal, por sua vez, é uma região altamente conversada que está envolvida na via de degradação dessa proteína. O N-terminal é fosforilado e então reconhecido pela beta-TrCP ubiquitina ligase, sendo então ubiquitinada levando à sua degradação.
+
+
+== Função ==
+Como dito a beta-catenina possui diversas funções na fisiologia celular, em especial na junção celular e no desenvolvimento embrionário.
+
+
+=== Biologia do desenvolvimento – Via do Wnt/β-catenina ===
+Essa via regula principalmente os eventos de gastrulação em diversas espécies, sendo que o seu papel clássico na via canônica de Wnt é a acumulação e deslocação, induzindo a divisão celular assimétrica do embrião em diversos modelos animais, como Caenorhabditis elegans e Xenopus laevis.
+A proteína é originalmente distribuída equitativamente no zigoto, porém por default segue para a sua degradação. Isso é mediado por um complexo formado por axina, adenomatosis polyposis coli (APC), proteína fosfatase 2A (PP2A), a caseína quinase 1α (CK1α) e a glicogênio sintase quinase 3 (GSK3), que a fosforila, tornando-a alvo para ubiquitinação e subsequente degradação pela ação de proteassoma.
+Quando Wnt está presente, ele se liga ao complexo Fz/LRP5/6 ativa translocação membrana de um regulador negativo da Axina, que faz que ela se ligue à cauda citoplasmática de LRP5/6. Isso leva à ativação, de algum modo ainda não descrito, da Dsh, que, por sua vez, inibe a atividade de GSK3, impedindo que ocorra a degradação da β-catenina. Desse modo a proteína é deslocada até o núcleo, onde atua como fator de transcrição para diversos genes associados à embriogênese.
+
+
+== Referências ==
+
+
+== Ligações externas ==
+MeSH Beta+Catenin
+«"A diverse set of proteins modulate the canonical Wnt/beta-catenin signaling pathway." at cancer.gov» 
+«"The role of beta-catenin in signal transduction, cell fate determination and trans-differentiation" at nih.gov» 
+«"Researchers Offer First Direct Proof of How Arthritis Destroys Cartilage" at rochester.edu»

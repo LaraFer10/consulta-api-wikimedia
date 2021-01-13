@@ -1,0 +1,40 @@
+O ácido glutâmico é um aminoácido não essencial, um dos 20-22 aminoácidos proteinogênicos. Seus códons são GAA e GAG.
+O  ânion carboxilato  e os sais do ácido glutâmico são conhecidos como glutamatos. O glutamato é um importante neurotransmissor, que desempenha um papel chave na  potenciação de longa duração e é importante para o aprendizado e a memória.
+
+
+== Estrutura ==
+Como o seu nome indica, possui um ácido carboxílico como grupo funcional na sua cadeia lateral.C5H9NO4 é sua molécula
+
+
+== Biossíntese ==
+
+
+== Funções ==
+
+
+=== Na dieta ===
+O glutamato está presente em diversos alimentos. É responsável por um dos gostos básicos que constituem o paladar humano  - umami. Por esta razão, o glutamato monossódico é  usado como aditivo alimentar, para realçar o sabor de alimentos.
+Cerca de 95% do glutamato ingerido é absorvido rapidamente no intestino, sendo que a metade é metabolizada em CO2. Provou-se, através de pesquisas, que o glutamato aí metabolizado  é o maior contribuinte para a produção da energia usada pelo intestino.
+
+
+=== No metabolismo ===
+O glutamato é um aminoácido importante no metabolismo humano. É o produto da transaminação do α-cetoglutarato, participando então na produção de metabolitos como o piruvato ou o oxaloacetato, que participam em vias metabólicas como a gliconeogénese, a glicólise ou o ciclo dos ácidos tricarboxílicos:
+
+alanina + α-cetoglutarato ⇌ piruvato + glutamatoaspartato + α-cetoglutarato ⇌ oxaloacetato + glutamatoO glutamato sofre desaminação a α-cetoglutarato e amónia através da seguinte reacção, catalisada pela glutamato desidrogenase:
+
+glutamato + água + NAD+ → α-cetoglutarato + NADH + amónia + H+A amónia é excretada sob a forma de ureia (em humanos), que é sintetizada no fígado. O excesso de azoto no organismo pode ser então excretado através da ligação entre reações de transaminação e desaminação: aminoácidos são transformados em α-cetoácidos enquanto o grupo amina é transferido para o α-cetoglutarato, formando glutamato; este sofre então a desaminação que origina a amónia e depois a ureia.
+
+
+=== Como neurotransmissor ===
+O glutamato é um neurotransmissor excitatório do sistema nervoso, o mais comum em mamíferos. É armazenado em vesículas nas sinapses. O impulso nervoso causa a libertação de glutamato no neurónio pré-sináptico; na célula pós-sináptica, existem receptores (como os receptores NMDA) que ligam o glutamato e se activam. Pensa-se que o glutamato esteja envolvido em funções cognitivas no cérebro, como a aprendizagem e a memória.
+As membranas de neurónios e da glia possuem transportadores de glutamato que retiram rapidamente este aminoácido do espaço extracelular.
+O glutamato é precursor na síntese de GABA em neurónios produtores de GABA.
+
+
+=== Neurotoxicidade ===
+Em situações de patologia cerebral (danos ou doenças), os transportadores podem funcionar de forma reversa e causar a acumulação e concentrações excessivas de glutamato no espaço extracelular. Esta reversão provoca a entrada de iões cálcio (Ca2+) nas células, através de receptores NMDA, levando a danos neuronais e eventualmente morte celular (apoptose). Este processo é conhecido como excitotoxicidade e pode ser letal para os neurônios, particularmente no caso de ativação dos  receptores NMDA. Assim a toxicidade, pode ser causada por:
+
+alterações mitocondriais decorrentes de um influxo excessivo e descontrolado de Ca2+ na célula, ultrapassando a sua capacidade de estocagem e levando a uma liberação de citocromo p450, com a subsequente apoptose.amplificação ou superexpressão de factores de transcrição de genes pró-apoptóticos ou repressão de factores de transcrição de genes antiapoptóticos mediada pelo glutamato e pelo Ca2+.A excitotoxicidade devida à acumulação de glutamato ocorre em episódios de isquémia cerebral e apoplexia e está associada a doenças como esclerose lateral amiotrófica, latirismo e doença de Alzheimer.
+
+
+== Referências ==

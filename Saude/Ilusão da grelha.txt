@@ -1,0 +1,30 @@
+A ilusão da grelha, ou ilusão da quadrícula é uma ilusão de óptica que surge nas intersecções de linhas verticais e horizontais. Os dois tipos mais comuns são a ilusão da grelha de Hermann e a ilusão da grelha cintilante.
+
+
+== Grelha de Hermann ==
+
+A ilusão da grelha de Hermann foi observada por Ludimar Hermann em 1870. Quando se olha um desenho com quadrados negros sobre um fundo branco, tem-se a impressão de que surgem manchas "fantasmas" nas intersecções das linhas. As manchas desaparecem quando se observa diretamente a intersecção.
+
+
+== Grelha cintilante ==
+A ilusão da grelha cintilante é uma variante da ilusão da grelha de Hermann, descoberta por E. Lingelbach em 1994, em que existem círculos brancos situados nas intersecções de linhas cinzentas verticais e horizontais. Ao observador parece que há círculos negros que surgem e desaparecem nas intersecções. O efeito é maior quando o olhar varre a imagem. Se o olhar é mantido fixo numa determinada intersecção, esta deixa de cintilar. Estranhamente, o efeito parece reduzir-se, embora não seja eliminado, quando a cabeça é inclinada para o lado, com um ângulo de cerca de 45º.
+
+
+== Diferenças ==
+A principal diferença entre a grelha de Hermann e a grelha cintilante é que na cintilante existem os pontos nas intersecções, ao invés da de Hermann, a qual carece deles. Embora pareçam similares, a ilusão da grelha cintilante não ocorre numa intersecção isolada, como no caso da a grelha de Hermann; as observações sugerem que tem que existir um mínimo de 3 × 3 intersecções para que o efeito se produza. Este requisito sugere que, para além de processos locais, há também a participação de processos globais do tipo proposto para o agrupamento de características numa imagem.
+
+
+== Explicação clássica das ilusões de grelha ==
+A ilusão da grelha de Hermann é geralmente explicada por um processo neuronal chamado inibição lateral.
+No sistema visual, a intensidade num ponto não é simplesmente o resultado de um único fotoreceptor, mas o resultado de um grupo de fotoreceptores a que se chama o seu campo receptivo. Cada um dos axónios das células ganglionares, que constituem o nervo óptico, responde a uma área da retina correspondendo a milhares de fotoreceptores. E, tipicamente, as entradas de cada célula ganglionar provenientes da parte central do campo receptivo são excitatórias e as provenientes da periferia são inibitórias. Como resultado disso, um pequeno círculo de luz com um diâmetro que corresponda à da parte central causa uma resposta vigorosa.
+A ilusão da grelha de Hermann seria então explicada com base no facto de um ponto numa intersecção ser cercado por pontos com maior intensidade luminosa, o que a faria parecer mais escura devido à inibição lateral.
+Esta explicação foi desafiada recentemente com sucesso por Janos Geier (veja um contra-exemplo interactivo) , que usa uma versão “ondulada” da grelha de Hermann em que nenhum ponto aparece.
+
+
+=== Particularidades da ilusão da grelha cintilante ===
+A ilusão da grelha cintilante é muito mais complexa do que a da grelha de Hermann, dependendo mais claramente da movimentação do olhar, sendo uma demonstração clara de que não temos uma percepção passiva da realidade mas, pelo contrário, construímos activamente a realidade. De facto, esta ilusão parece indicar que, quando olhamos directamente para cada círculo, se forma a nível do sistema visual uma representação simplificada que corresponde a um contorno que é depois «pintado» com uma cor e textura aproximadas, calculada com base nas características detectadas. Quando movemos o olhar, o sistema visual parece esquecer a cor dos círculos brancos que já não estão sob o seu foco de atenção. Isso parece acontecer porque os 49 círculos não são reconhecidos como formando um todo uniforme. Usando círculos maiores, a ilusão desaparece porque estes passam a ser facilmente entendidos como um grupo de círculos brancos, e vemos uma imagem muito mais simples de descrever, com dois objectos de cor uniforme: uma grelha e um plano de círculos.
+
+
+== Ligações externas ==
+«Refutação da explicação clássica da ilusão da grelha de Hermann» 
+«Ilusão da grelha cintilante – Mathworld»

@@ -1,0 +1,703 @@
+Este artigo consiste em uma lista de enzimas, classificadas pelas suas respectivas sub-categorias e número EC.
+
+
+== EC1. Oxirredutases ==
+
+
+=== EC 1.1. agem sobre os grupo de doadores CH-OH ===
+
+
+==== EC 1.1.1. aceptor: NAD+ ou NADP+. ====
+
+
+==== EC 1.1.2. aceptor: citocromo ====
+
+
+==== EC 1.1.3. aceptor: oxigênio ====
+
+
+==== EC 1.1.4. aceptor: dissulfeto ====
+
+
+==== EC 1.1.5. aceptor: quinona ou compostos similares ====
+
+
+==== EC 1.1.9. aceptor: proteína cobre ====
+
+
+==== EC 1.1.99. com outros aceptores ====
+
+
+=== EC 1.2. agem sobre os grupos de doares aldeído ou oxo ===
+
+
+==== EC 1.2.1. aceptor: NAD+ ou NADP+ ====
+
+
+==== EC 1.2.4 ====
+
+
+=== EC 1.3. agem sobre os grupos doares CH-CH ===
+
+
+==== EC 1.3.1. aceptor: NAD+ ou NADP+ ====
+
+
+==== EC 1.3.2. aceptor: citocromo ====
+
+
+==== EC 1.3.3. aceptor: oxigênio ====
+
+
+==== EC 1.3.5. aceptor: quinona ou compostos similares ====
+
+
+==== EC 1.3.7. aceptor: proteína ferro-enxofre ====
+
+
+==== EC 1.3.99. outros aceptores ====
+
+
+=== EC 1.4. agem sobre os grupos doares CH-NH2 ===
+
+
+==== EC 1.4.3 ====
+
+Monoamina oxidase
+
+
+=== EC 1.5. agem sobre os grupos de doares CH-NH ===
+
+
+==== EC 1.5.1. aceptor: NAD+ ou NADP+ ====
+
+
+==== EC 1.5.3. aceptor: oxigênio ====
+
+Sarcosine oxidase
+Dihidrobenzofenanthridine oxidase
+
+
+==== EC 1.5.4. aceptor: dissulfeto ====
+
+
+==== EC 1.5.5. aceptor: quinona ou composto similar ====
+
+
+==== EC 1.5.7. aceptor: proteína ferro-enxofre ====
+
+
+==== EC 1.5.8. aceptor: flavina ====
+
+
+==== EC 1.5.99. com outros aceptores ====
+
+
+=== EC 1.6. agem no NADH ou NADPH ===
+
+
+==== EC 1.6.1. aceptor: NAD+ ou NADP+ ====
+
+
+==== EC 1.6.2. aceptor: citocromo ====
+
+
+==== EC 1.6.3. aceptor: oxigênio ====
+
+
+==== EC 1.6.4. aceptor: dissulfeto ====
+
+
+==== EC 1.6.5. aceptor: quinona ou compostos similares ====
+NADH desidrogenase
+
+
+==== EC 1.6.6. aceptor: grupos nitrogenados ====
+
+
+==== EC 1.6.7. aceptor: proteína ferro-enxofre ====
+
+
+==== EC 1.6.8. aceptor: flavina ====
+
+
+==== EC 1.6.99. com outros aceptores) ====
+
+
+=== EC 1.7. agem em outros compostos nitrogenados como doares ===
+
+
+==== EC 1.7.1 (aceptor: NAD+ ou NADP+ ====
+
+
+==== EC 1.7.2 (aceptor: citocromo) ====
+
+
+==== EC 1.7.3 (aceptor: oxigênio) ====
+Urate oxidase
+
+
+==== EC 1.7.7 (aceptor: proteína ferro-enxofre) ====
+
+
+==== EC 1.7.99 (com outros aceptores) ====
+
+
+==== Nitrito redutase ====
+Nitrato redutase
+
+
+=== EC 1.8 (agem em grupos enxofre como doadores) ===
+
+
+==== EC 1.8.1 (aceptor: NAD+ ou NADP+) ====
+Glutatione redutase
+Thioredoxina redutase
+
+
+==== EC 1.8.2 (aceptor: citocromo) ====
+
+
+==== EC 1.8.3 (aceptor: oxigênio) ====
+
+Sulfite oxidase
+
+
+==== EC 1.8.4 (aceptor:dissulfeto) ====
+
+
+==== EC 1.8.5 (aceptor: quinona ou compostos similares) ====
+
+
+==== EC 1.8.6 (aceptor: grupo enxofre) ====
+
+
+==== EC 1.8.7 (aceptor: proteína ferro-enxofre) ====
+
+
+==== EC 1.8.98 (with other, known, acceptors) ====
+
+
+==== EC 1.8.99 (como outros aceptores) ====
+
+
+=== EC 1.9 (agem no grupo de doares heme) ===
+EC 1.9.3 (aceptor: oxigênio)
+Cytochrome c oxidase
+EC 1.9.6 (aceptor: nitrogênio)
+EC 1.9.99 (com outros aceptores)
+
+
+=== EC 1.10 (act on diphenols and related substances as donors) ===
+EC 1.10.1 (aceptor: NAD+ ou NADP+)
+EC 1.10.2 (aceptor: citocromo)
+Coenzyme Q - cytochrome c reductase Predefinição:EC number
+EC 1.10.3 (aceptor: oxigênio)
+Catechol oxidase
+Laccase
+EC 1.10.99 (com outros aceptores)
+
+
+=== EC 1.11 (agem nos peróxidos como aceptor -- peroxidases) ===
+EC 1.11.1 (peroxidases)
+
+
+=== EC 1.12 (agem no hidrogênio como doador) ===
+
+
+==== EC 1.12.1 (aceptor: NAD+ ou NADP+) ====
+
+
+==== EC 1.12.2 (aceptor: citocromo) ====
+
+
+==== EC 1.12.5 (aceptor: quinona ou compostos similiares) ====
+
+
+==== EC 1.12.7 (aceptor: proteína ferro-enxofre) ====
+
+
+==== EC 1.12.98 (with other known acceptors) ====
+
+
+==== EC 1.12.99 (outros aceptores) ====
+
+
+=== C:EC 1.13 (agem em doadores singulares com incorporação de oxigênio molecular) ===
+
+EC 1.13.11 (com incorporação de dois átomos de oxigênio)
+4-hidroxifenilpiruvato dioxigenase
+EC 1.13.12 (com incorporação de um átomo de oxigênio (internal monooxygenases or internal mixed function oxidases))
+Renilla-luciferina 2-monooxigenase
+Cypridina-luciferina 2-monooxygenase
+Firefly luciferase
+Watasenia-luciferina 2-monooxigenase
+Oploforus-luciferina 2-monooxigenase
+
+
+=== EC 1.14 (agem em doadores emparelhados com incorporação de oxigênio molecular) ===
+Citocromo P450 oxidase
+Cytochrome P450
+Aromatase
+CYP2D6
+CYP2E1
+CYP3A4
+Cytochrome P450 oxidase
+EC 1.14.12
+óxido nítrico dioxigenase
+EC 1.14.13
+óxido nítrico sintase
+EC 1.14.14
+EC 1.14.16
+Phenylalanine hydroxylase
+EC 1.14.18
+
+
+=== EC 1.15 (agem como aceptores em superóxidos) ===
+EC 1.15.1
+
+
+=== EC 1.16. oxidam íons metálicos ===
+EC 1.16.3
+
+
+=== EC 1.17 (agem nos grupos CH ou CH2) ===
+
+
+=== EC 1.18 (agem como doares nas proteínas ferro-enxofre) ===
+EC 1.18.6
+Nitrogenase
+
+
+=== EC 1.19. agem como doares na flavodoxina reduzida ===
+
+
+=== EC 1.20. agem como doadores em fósforo ou arsênio ===
+
+
+==== EC 1.20.1. aceptor: NAD+ ====
+
+
+==== EC 1.20.2. aceptor: NAD(P)+ ====
+
+
+==== EC 1.20.4. aceptor: dissulfeto ====
+
+
+==== EC 1.20.9 aceptor: azurins ====
+
+
+==== EC 1.20.99. outros aceptores ====
+
+
+=== EC 1.21. agem em X-H e Y-H para formar uma ligação X-Y ===
+
+
+==== EC 1.21.3. aceptor: oxigênio ====
+
+
+==== EC 1.21.4. aceptor: dissulfeto ====
+
+
+==== EC 1.22.99. outros aceptores ====
+EC 1.21.99.1: b-cyclopiazonate dehydrogenase
+
+
+=== EC 1.97. outras oxidorredutases ===
+
+
+== EC2. Transferases ==
+Glutationa S-transferase
+
+
+=== EC 2.1. Transferem grupos de um carbono ===
+
+
+=== EC 2.1.1 Metiltransferases ===
+
+
+=== EC 2.2. Transferem grupos aldeído ou cetona ===
+
+
+=== EC 2.3. Aciltransferases ===
+EC 2.3.1
+Aminolevulinic acid synthase
+Choline acetyltransferase
+EC 2.3.2
+Fator 13
+Gamma glutamil transpeptidase
+ransglutaminase
+
+
+=== EC 2.4. Glicosiltransferases ===
+EC 2.4.2
+Hipoxantina-guanina phosphoribosyltransferaseEC 2.5
+
+EC 2.5.1
+Tiaminase
+
+
+=== EC 2.5. Transferem grupos alquil ou aril, a exceção de grupos metil ===
+
+
+=== EC 2.6. Transferem grupos nitrogenados ===
+EC 2.6.1
+Alanina transaminase
+Aspartato transaminase
+
+
+=== EC 2.7. Transferem grupos que contenham fósforo ===
+EC 2.7.2
+Butirato quinase
+
+
+=== EC 2.8. Transferem grupos que contenham enxofre ===
+
+
+=== EC 2.9 Transferem grupos que contenham selênio ===
+
+
+== EC3. Hidrolases ==
+
+
+=== EC 3.1. agem em ligações de ester ===
+
+
+=== EC 3.1.1: Carboxylic Ester Hydrolases ===
+
+
+=== EC 3.1.2: Thioester Hydrolases ===
+
+
+=== EC 3.1.3: Phosphoric Monoester Hydrolases ===
+
+
+=== EC 3.1.4: Phosphoric Diester Hydrolases ===
+
+
+=== EC 3.1.5: Triphosphoric Monoester Hydrolases ===
+
+
+=== EC 3.1.6: Sulfuric Ester Hydrolases ===
+
+
+=== EC 3.1.7: Diphosphoric Monoester Hydrolases ===
+
+
+=== EC 3.1.8: Phosphoric Triester Hydrolases ===
+
+
+=== EC 3.1.11: Exodeoxyribonucleases Producing 5'-Phosphomonoesters ===
+
+
+=== EC 3.1.13: Exoribonucleases Producing 5'-Phosphomonoesters ===
+
+
+=== EC 3.1.14: Exoribonucleases Producing 3'-Phosphomonoesters ===
+
+
+=== EC 3.1.15: Exonucleases Active with either Ribo- or Deoxyribonucleic Acids and Producing 5'-Phosphomonoesters ===
+
+
+=== EC 3.1.16: Exonucleases Active with either Ribo- or Deoxyribonucleic Acids and Producing 3'-Phosphomonoesters ===
+
+
+=== EC 3.1.21: Endodeoxyribonucleases Producing 5'-Phosphomonoesters ===
+
+
+=== EC 3.1.22: Endodeoxyribonucleases Producing 3'-Phosphomonoesters ===
+
+
+=== EC 3.1.23: and EC 3.1.24 now EC 3.1.21.3, EC 3.1.21.4 and EC 3.1.21.5 ===
+
+
+=== EC 3.1.25: Site-Specific Endodeoxyribonucleases Specific for Altered Bases ===
+
+
+=== EC 3.1.26: Endoribonucleases Producing 5'-Phosphomonoesters ===
+
+
+=== EC 3.1.27: Endoribonucleases Producing 3'-Phosphomonoesters ===
+
+
+=== EC 3.1.30: Endoribonucleases Active with either Ribo- or Deoxyribonucleic Acids and Producing 5'-Phosphomonoesters ===
+
+
+=== EC 3.1.31: Endoribonucleases Active with either Ribo- or Deoxyribonucleic Acids and Producing 3'-Phosphomonoesters ===
+
+
+=== EC 3.2 (act on sugars - glycosylases) ===
+EC 3.2.1
+Amilase
+Sacarase
+Chitinase
+Lysozyme
+Maltase
+Lactase
+Beta-galactosidase
+Hialuronidase
+
+
+=== EC 3.3 (act on ether bonds) ===
+EC 3.3
+Adenosilmetionina hidrolase
+S-adenosil-L-homocisteina hydrolase
+Alkenylglycerophosphocholine hydrolase
+Alkenylglycerophosphoethanolamine hydrolase
+Cholesterol-5,6-oxide hydrolase
+Hepoxilin-epoxide hydrolase
+Isochorismatase
+Leukotriene-A4 hydrolase
+Limonene-1,2-epoxide hydrolase
+Microsomal epoxide hydrolase
+Trans-epoxysuccinate hydrolase
+
+
+=== EC 3.4 (agem em ligações peptídicas  - peptidases) ===
+EC 3.4.11
+Alanina aminopeptidase
+EC 3.4.15
+Angiotensina enzima conversora
+EC 3.4.21
+Serina protease
+Quimiotripsina
+Tripsina
+Trombina
+Fator X
+Plasmina
+Acrosina
+Fator VII
+Fator IX
+Prolyl oligopeptidase
+Fator XI
+Elastase
+Fator XII
+Proteinase K
+Tissue plasminogen activator
+Proteína C
+EC 3.4.22
+Separase
+EC 3.4.23
+Pepsina
+Coalho
+Renina
+Tripsinogênio
+Plasmepsina
+EC 3.4.24
+Matrix metalloproteinase
+EC 3.4.42
+Metalloendopeptidase
+
+
+=== EC 3.5 (act on carbon-nitrogen bonds, other than peptide bonds) ===
+EC 3.5.1 (em linear amides)
+Urease
+EC 3.5.2 (em cyclic amides)
+Beta-lactamase
+EC 3.5.3 (em linear amidines)
+Arginase
+EC 3.5.4 (em cyclic amidines)
+Adenosine deaminase
+GTP cyclohydrolase I
+EC 3.5.5 (em nitriles)
+Nitrilase
+
+
+=== EC 3.6 (agem em anidridos ácidos) ===
+EC 3.6.1
+Helicase
+DnaB helicase
+RecQ helicase
+EC 3.6.3
+ATPase
+NaKATPase
+ATP sintase
+
+
+=== Category:EC 3.7 (agem em ligações carbono-carbono) ===
+Kynureninase
+
+
+=== Category:EC 3.8 (agem em ligações halide) ===
+EC 3.8.1.3 Haloacetate dehalogenase
+
+
+=== EC 3.9 (agem em ligações fósforo-nitrogênio) ===
+
+
+=== EC 3.10 (agem em ligações enxofre-nitrogênio) ===
+
+
+=== EC 3.11 (agem em ligações carbono-fósforo) ===
+
+
+=== EC 3.12 (agem em ligações enxofre-enxofre) ===
+
+
+=== EC 3.13 (agem em ligações carbono-enxofre) ===
+
+
+== EC 4. Liases ==
+
+
+=== EC 4.1 (liases carbono-carbono) ===
+
+
+==== EC 4.1.1. carboxi-liases ====
+
+
+==== 4.1.2. aldeído-liases ====
+
+
+==== 4.1.3. oxiácido-liases ====
+
+
+==== 4.1.99. outras carbono-carbono liases ====
+
+
+=== EC 4.2. liases carbono-oxigênio) ===
+
+
+==== 4.2.1. hidro-liases ====
+
+
+==== 4.2.2. agem em polissacarídeos ====
+
+
+==== 4.2.3. agem em fosfatos ====
+
+
+==== 4.2.99. outras carbono-oxigênio liases ====
+
+
+=== 4.3. liases carbono-nitrogênio ===
+
+
+==== 4.3.1. amônia-liases ====
+
+
+==== 4.3.2. amidina-liases ====
+
+
+==== 4.3.3. amina-liases ====
+
+
+==== 4.3.99. outras carbono-nitrogênio liases ====
+
+
+=== EC 4.4. liases carbono-enxofre ===
+
+
+=== EC 4.5. carbono-haleto liases ===
+
+
+=== EC 4.6. liases fósforo-oxigênio) ===
+
+
+==== 4.9. outras liases ====
+
+
+== EC 5. Isomerases ==
+
+
+=== EC 5.1. Racemases e Epimerases ===
+
+
+==== EC 5.1.1. Agindo em aminoácidos e derivados ====
+
+EC 5.1.2. agindo em hidroxiácidos e derivados
+
+EC 5.1.3. agindo em carboidratos e derivados
+
+EC 5.1.99. agindo em outros compostos
+
+
+=== EC 5.2 Isomerases cis-trans ===
+
+
+=== EC 5.3. Oxirredutases intramoleculares ===
+EC 5.3.1. inter convertendo aldoses e cetoses
+
+
+==== 5.3.2. inter convertendo grupos ceto- e enol- ====
+
+
+==== 5.3.3. transpondo ligações C=C ====
+
+
+==== 5.3.4. transpondo ligações S-S ====
+
+
+==== EC 5.3.99: Outras oxidorredutases intramoleculares ====
+
+
+=== EC 5.4. Tranferases/mutases intramoleculares ===
+
+
+==== EC 5.4.1. transferem grupos acil ====
+
+
+==== EC 5.4.2. fosfotransferases/fosfomutases ====
+
+
+==== EC 5.4.3. transferindo grupos amina ====
+
+
+==== EC 5.4.4. transferindo grupos hidrogenados ====
+
+
+==== EC 5.4.99. transferindo outros grupos ====
+
+
+=== EC 5.5. Liases intramoleculares) ===
+
+
+=== EC 5.99. Outras isomerases ===
+
+
+== EC 6. Ligases ==
+
+
+=== EC 6.1. Formam ligações carbono-oxigênio ===
+
+
+==== EC 6.1.1. Amionacil tRNA sintetase ====
+
+
+==== EC 6.1.2 Ácido-Álcool ligases (éster sintases) ====
+
+
+=== EC 6.2 (forma ligações carbono-enxofre) ===
+
+
+==== EC 6.2.1. Acido-Tiol Ligases ====
+
+
+=== EC 6.3. forma ligações carbono-nitrogênio ===
+
+
+==== EC 6.3.1. Ácido-amônia (ou amina) Ligases (Amida sintases) ====
+
+
+==== EC 6.3.2 Ácido-Amino-Ácido Ligases (sintases peptidicas) ====
+
+
+==== EC 6.3.3. cicloligases ====
+
+
+=== EC 6.3.4: outras ligases carbono-nitrogênio ===
+
+
+=== EC 6.3.5. ligases carbono-nitrogênio com glutamina como amido-n-doador ===
+
+
+=== EC 6.4. formam ligações carbono-carbono ===
+
+
+=== EC 6.5. Formam ligações tipo éster fosfórico ===
+
+
+=== EC 6.6. formam ligações nitrogênio-metal ===
+
+
+==== EC6.6.1. formam complexos de coordenação ====

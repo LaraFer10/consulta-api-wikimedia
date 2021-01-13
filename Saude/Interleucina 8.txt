@@ -1,0 +1,24 @@
+Interleucina 8 (IL-8) é o principal mediador da resposta imune inata inicial aos micróbios intracelulares e é indutora-chave da imunidade mediada por célula, a resposta adquirida contra esses micróbios. Produzida pelos fagócitos mononucleares ativados e pelas células dendríticas, estimula a diferenciação dos linfócitos Th em Th1 produtores de IFN-γ.
+
+
+=== Produção e Síntese ===
+É produzida por macrófagos, células epiteliais e linfócitos T. Em seres humanos, a interleucina-8, proteína é codificada pelo IL8 gene. IL-8 é inicialmente produzida como um peptídeo precursor de 99 aminoácidos de comprimento, que é então submetido a clivagem para criar várias isoformas ativas de IL-8. Em cultura, um peptídeo de ácido amino 72 é a principal forma segregada por macrófagos.
+
+
+=== Gene e estrutura proteica ===
+A interleucina-8 (IL-8) (Human Interleukin-8) é uma quimiocina membro da família das citocinas que possui atividade quimiotática para tipos de leucócitos específicos. Quimiocinas são basicamente proteínas com baixo massa molecular e com afinidade a heparina, aumentam a quimiocinese e são fator quimiotático. IL-8 está presente nos fluidos sinoviais de pacientes com artrite reumatóide. Esta também associada com sepse, asma e glomerulonefrites.
+
+
+=== Atividade / função ===
+A principal ação da IL-8 é o grande estímulo migratório para as células do sistema imune, principalmente neutrófilos, determinando ainda um aumento da expressão de moléculas de adesão por células endoteliais. Também ativa polimorfonucleares neutrofílicos, aumentando o metabolismo oxidativo. Antagoniza a produção de IgE estimulada pela IL-4, mas não afeta a produção das demais imunoglobulinas.
+
+
+=== Papel em doenças/patologias associadas ===
+Altas concentrações são observadas em psoríases, o que pode explicar a paraceratose e a hiperceratose observadas, uma vez que esta citocina estimula a divisão dos queratinócitos. Os microabscessos de Munro também podem ser atribuídos a esta citocina, pois são formados por neutrófilos.
+Estudos realizados em culturas de células epiteliais de pacientes sem rinite alérgica, pacientes com rinite alérgica e pacientes portadores de polipose nasal demonstraram que as células de pacientes com rinite e pólipo sintetizam significativamente grande quantidade de IL-8 e GM-CSF. Esta citocina, IL-8, apresenta importante função na fase tardia da reação alérgica, especialmente, na indução da liberação de histamina e leucotrienos. Foi localizada nas células epiteliais da mucosa nasal, semelhante a IL-6, e nas células das glândulas da camada superficial da lâmina própria, próxima dos sinusóides e perto das veias da camada profunda da lâmina própria. Biópsias de mucosa nasal foram colhidas antes e após 1 hora, 24 horas e 1 semana da estimulação alergênica. Observou-se um aumento significante de eosinófilos, IL-8, IL-1B e RANTES (Regulated and normal t cell expressed and secreted) na primeira hora e nas 24 horas seguintes.
+
+
+== Referências bibliográficas ==
+http://www.asbai.org.br/revistas/Vol244/citocinas.htm
+http://www.bibliotecadigital.ufmg.br/dspace/bitstream/handle/1843/ECJS-772Q3Q/tarcimara_moreira_da_silva.pdf?sequence=1
+https://www.ncbi.nlm.nih.gov/gene/3576

@@ -1,0 +1,171 @@
+O Código ATC N06 (Psicoanalépticos) é um subgrupo terapêutico da classificação ATC (Anatomical Therapeutic Chemical Classification System), um sistema de códigos alfanuméricos desenvolvido pela Organização Mundial da Saúde (OMS) para classificar medicamentos e outros produtos médicos. O subgrupo N06 faz parte do grupo anatômico N (sistema nervoso).Os códigos para uso veterinário (códigos ATCvet) podem ser criados colocando a letra Q antes do código ATC para uso humano: por exemplo, QN06. Os códigos ATCvet sem os códigos ATC humanos correspondentes são citados com a letra Q inicial nessa lista.    
+
+
+== N06A Antidepressivos ==
+
+
+=== N06AA Inibidores de recaptação de monoamina não seletivos ===
+N06AA01 Desipramina
+N06AA02 Imipramina
+N06AA03 Óxido de imipramina
+N06AA04 Clomipramina
+N06AA05 Opipramol
+N06AA06 Trimipramina
+N06AA07 Lofepramina
+N06AA08 Dibenzepina
+N06AA09 Amitriptilina
+N06AA10 Nortriptilina
+N06AA11 Protriptilina
+N06AA12 Doxepina
+N06AA13 Iprindol
+N06AA14 Melitraceno
+N06AA15 Butriptilina
+N06AA16 Dosulepina
+N06AA17 Amoxapina
+N06AA18 Dimetacrina
+N06AA19 Amineptina
+N06AA21 Maprotilina
+N06AA23 Quinupramina
+
+
+=== N06AB Inibidores seletivos de recaptação da serotonina ===
+N06AB02 Zimelidina
+N06AB03 Fluoxetina
+N06AB04 Citalopram
+N06AB05 Paroxetina
+N06AB06 Sertralina
+N06AB07 Alaproclato
+N06AB08 Fluvoxamina
+N06AB09 Etoperidona
+N06AB10 Escitalopram
+
+
+=== N06AF Inibidores da monoamina oxidase, não seletivos ===
+N06AF01 Isocarboxazida
+N06AF02 Nialamida
+N06AF03 Fenelzina
+N06AF04 Tranilcipromina
+N06AF05 Iproniazida
+N06AF06 Iproclozida
+
+
+=== N06AG Inibidores da monoamina oxidase A ===
+N06AG02 Moclobemida
+N06AG03 Toloxatona
+
+
+=== N06AX Outros antidepressivos ===
+N06AX01 Oxitriptano
+N06AX02 Triptofano
+N06AX03 Mianserina
+N06AX04 Nomifensina
+N06AX05 Trazodona
+N06AX06 Nefazodona
+N06AX07 Minaprina
+N06AX08 Bifemelano
+N06AX09 Viloxazina
+N06AX10 Oxaflozano
+N06AX11 Mirtazapina
+N06AX12 Bupropiona
+N06AX13 Medifoxamina
+N06AX14 Tianeptina
+N06AX15 Pivagabina
+N06AX16 Venlafaxina
+N06AX17 Milnaciprano
+N06AX18 Reboxetina
+N06AX19 Gepirona
+N06AX21 Duloxetina
+N06AX22 Agomelatina
+N06AX23 Desvenlafaxina
+N06AX24 Vilazodona
+N06AX25 Hypericum perforatum
+N06AX26 Vortioxetina
+N06AX27 Escetamina (formulações nasais indicadas para transtornos depressivos maiores. As formulações parenterais são classificadas em N01AX14.)
+QN06AX90 Selegilina
+
+
+== N06B Psicoestimulantes, agentes utilizados para TDAH e nootrópicos ==
+
+
+=== N06BA Simpaticomiméticos de atuação central ===
+N06BA01 Anfetamina
+N06BA02 Dexanfetamina
+N06BA03 Dextrometanfetamina
+N06BA04 Metilfenidato
+N06BA05 Pemolina
+N06BA06 Fencamfamin
+N06BA07 Modafinil
+N06BA08 Fenozolona
+N06BA09 Atomoxetina
+N06BA10 Fenetilina
+N06BA11 Dexmetilfenidato
+N06BA12 Lisdexamfetamina
+N06BA13 Armodafinil
+N06BA14 Solriamfetol
+
+
+=== N06BC Derivados da xantina ===
+N06BC01 Cafeína
+N06BC02 Propentofilina
+
+
+=== N06BX Outros psicoestimulantes e nootrópicos ===
+N06BX01 Meclofenoxato
+N06BX02 Piritinol
+N06BX03 Piracetam
+N06BX04 Deanol
+N06BX05 Fipexida
+N06BX06 Citicolina
+N06BX07 Oxiracetam
+N06BX08 Pirisudanol
+N06BX09 Linopirdina
+N06BX10 Nizofenona
+N06BX11 Aniracetam
+N06BX12 Acetilcarnitina
+N06BX13 Idebenona
+N06BX14 Prolintano
+N06BX15 Pipradrol
+N06BX16 Pramiracetam
+N06BX17 Adrafinil
+N06BX18 Vinpocetina
+N06BX21 Tetrametilglicoluril
+N06BX22 Fenibuto
+
+
+== N06C Psicolépticos e psicanalépticos em combinação ==
+
+
+=== N06CA Antidepressivos em combinação com psicolépticos ===
+N06CA01 Amitriptilina e psicolépticos
+N06CA02 Melitraceno e psicolépticos
+N06CA03 Fluoxetina e psicolépticos
+
+
+=== N06CB Psicoestimulantes em combinação com psicolépticos ===
+
+
+== N06D Drogas anti-demência ==
+
+
+=== N06DA Anticolinesterases ===
+N06DA01 Tacrina
+N06DA02 Donepezila
+N06DA03 Rivastigmina
+N06DA04 Galantamina
+N06DA05 Ipidacrina
+N06DA52 Donepezila e memantina
+N06DA53 Donepezila, memantina e fólio de Ginkgo
+
+
+=== N06DX Outros medicamentos anti-demência ===
+N06DX01 Memantina
+N06DX02 Fólio de Ginkgo
+N06DX30 Combinações
+
+
+== Ver também ==
+Classificação ATC
+Código ATC N: Sistema Nervoso
+
+
+== Referências ==

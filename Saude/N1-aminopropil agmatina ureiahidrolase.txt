@@ -1,0 +1,48 @@
+N1-aminopropil agmatina ureiahidrolase ou N1 – (3 - aminopropil) agmatina (EC 3.5.3.24) é uma enzima envolvida na biossíntese de poliaminas.
+
+
+== Estrutura e função ==
+A N1-aminopropil agmatina ureiahidrolase pertence à família das hidrolases, que atuam na ligação peptídica de carbono-nitrogênio, especificamente nas aminas lineares. Ela requer um aglomerado de metal de duas moléculas de manganês, a fim de manter um funcionamento adequado. Esses íons Mn2+ coordenados com a água, orientam e estabilizam a molécula permitindo que a água atue como um nucleófilo.
+A enzima foi caracterizada a partir da Archaea hipertermófila Thermococcus kodakarensis e da bactéria Gram-negativa Thermus thermophilus, e está envolvida na biossíntese de espermidina e ureia, localizando-se no citoplasma celular destes organismos. Acredita-se que essa enzima dá suporte ao crescimento de microrganismos termófilos em condições de altas temperaturas. Ao que parece, poliaminas de cadeia longa e ramificada estabilizam eficazmente DNA e RNA, respectivamente. 
+
+
+== Reação ==
+A reação química catalisada por esta enzima é dada a seguir:
+N1-aminopropil agmatina + H2O ⇆ espermidina + ureia
+A detecção da reação é feita através de ensaios fluorimétricos, onde se avalia a produção de espermidina utilizando um reagente fluorescente, o o-ftalaldeído, que é um reagente fluorescente que reage especificamente com aminas primárias acima do seu ponto isoelétrico na presença de tióis.
+
+
+== Genética ==
+A N1-aminopropil agmatina ureiahidrolase é codificada pelo gene TTHA1129 na bactéria Thermus thermophilus HB8 e pelo gene TK0882 na Archaea Thermococcus kodakarensis, e é homóloga ao gene SpeB.
+Células sem este gene mostram um defeito significativo de crescimento em 78°C e acumulam N1-aminopropil agmatina. O mutante duplo de speB e SpeE mostra um crescimento defeituoso em 70°C e significativo crescimento defeituoso a 78°C. Nele se acumulam agmatina e N1-aminopropil agmatina. 
+
+
+== Características e parâmetros cinéticos descritos ==
+
+
+=== Substratos ===
+Já foram descritos dois substratos para a N1-aminopropil agmatina ureiahidrolase, sendo eles a agmatina e a  N1-aminopropil agmatina.
+
+
+=== Purificação ===
+A N1-aminopropil agmatina ureiahidrolase já foi purificada a partir da expressão da enzima em bactérias Escherichia coli BL21. A partir daí, após a obtenção do extrato celular, algumas técnicas já foram utilizadas para a purificação como processos de aquecimento, cromatografia de troca iônica e cromatografia de interação hidrofóbica. Dentre as técnicas já utilizadas, a cromatografia de interação hidrofóbica é  mais eficiente, uma vez que permite a obtenção da enzima 51 vezes mais enriquecida e com uma maior atividade específica.
+
+
+=== Determinação de afinidade (Km) e eficiência catalítica (Kcat/Km) ===
+A N1-aminopropil agmatina ureiahidrolase possui diferentes valores de Km para seus dois substratos descritos. Para a agmatina foi encontrado o valor de Km de 0,486 mM. Já para a N1-aminopropil agmatina foi encontrado o valor de Km de 0,00642 mM. 
+Com relação à eficiência catalítica para a enzima, foi encontrado o valor de Kcat/Km de 0,00387 (1/mMs-1) com a agmatina como substrato. Já com a N1-aminopropil agmatina como substrato, foi encontrado o valor de Kcat/Km de 0,165 (1/mMs-1). Esses valores indicam que a enzima tem mais afinidade pela N1-aminopropil agmatina, como também apresenta uma melhor atividade catalítica com ela.
+
+
+=== pH e temperatura ótimos ===
+Esta enzima apresenta pH ótimo entre 7,4 e 7,5 e tem uma melhor atividade em temperatura de 90°C, que é também onde ela é estável nos organismos em que é encontrada.
+
+
+== Inibidores ==
+Até o momento, não foram descritos possíveis inibidores para esta enzima.
+
+
+== Banco de dados ==
+Para outras informações acesse:
+
+
+== Referências ==

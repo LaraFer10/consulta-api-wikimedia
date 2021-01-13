@@ -1,0 +1,49 @@
+A Doença Dent é uma tubulopatia rara ligada ao cromossomo X, com manifestação de disfunção no túbulo proximal dos rins. Ela é caracterizada por proteinúria de baixo peso molecular (LMW), hipercalciúria, nefrocalcinose, urolitíase, insuficiência renal progressiva (podendo evoluir para insuficiência renal crônica) e muitas vezes pode acometer os ossos causando raquitismo ou osteomalácia. A doença pode ser de dois tipos: a tipo 1, em que as manifestações renais predominam, e a tipo 2, que também mostra sintomas extrarrenais, como hipotonia, déficit intelectual leve e catarata.
+
+
+== Histórico ==
+A Doença de Dent foi descrita em 1964 pelos cientistas Charles Henry Dent e M. Friedman, depois de estudar dois pacientes do sexo masculino, provenientes da Inglaterra, que tinham raquitismo associados com uma doença renal. 
+
+
+== Epidemiologia ==
+A prevalência é desconhecida. A patologia foi descrita, até ao momento, em cerca de 250 famílias. A doença geralmente é encontrada apenas em homens e pode estar presente na infância, enquanto que as mulheres portadoras apresentam uma forma mais branda.
+
+
+== Causas ==
+A Doença/Síndrome de Dent foi recentemente conceituada e está relacionada com distúrbios genéticos, ela pode ser causada por mutações no gene CLCN5, localizado no braço curto do cromossomo X ou por mutações no gene OCRL1, localizado no braço longo do cromossomo X. A mutação expõe a transcrição de RNA a ação de enzimas endonucleases, não permitindo sua transcrição no retículo endoplasmático e, consequentemente, levando a ausência da formação de proteínas. Com relação a prevalência das mutações, a mutação que tem maior incidência, atingindo de 50 a 60% das pessoas, é a encontrada no gene CLCN5, caracterizando a Doença de Dent do tipo 1. Aproximadamente 15% do total de pessoas com a doença abrigam mutações OCRL1, caracterizando a Doença de Dent do tipo 2. Acredita-se que o restante dos doentes, de 25-35%, possuem mutações em outros genes. 
+
+
+== Fisiopatologia ==
+Para entender como essa mutação genética interfere no funcionamento renal, levando ao aparecimento do fenótipo da Doença de Dent, é preciso entender o funcionamento normal do rim. Esse tubulopatia causa uma alteração na reabsorção renal. A reabsorção tem início com o filtrado glomerular que alcança os túbulos do néfron que flui através do túbulo proximal, alça de Henle, túbulo distal e canal coletor, até atingir a pelve renal. Ao longo desse trajeto mais de 99% da água filtrada no glomérulo é reabsorvida, e o líquido final constitui a urina propriamente dita.O túbulo proximal é responsável pela reabsorção de cerca de 65% da quantidade de água filtrada nos capilares glomerulares. A glicose e os aminoácidos são quase inteiramente reabsorvidos com a água nessa parte do néfron.O fenótipo da Doença de Dent do tipo 1 decorre de uma mutação do gene CLCN5 que codifica a proteína CIC-5, levando a uma redução ou eliminação completa das correntes de cloreto do canal CIC-5. Esse canal se expressa no túbulo contorcido proximal, ramo ascendente grosso da alça de Henle e no ducto coletor cortical e medular externo. Além disso, pesquisas com ratos nocaute, evidenciaram que a ausência desse canal leva a um defeito na absorção de proteínas de baixo peso molecular e, consequentemente, desencadeia proteinúria. A correlação fisiológica do canal CIC-5 com a absorção de proteínas de baixo peso molecular, é que nas células do túbulo contorcido proximal, ele atua no contrabalanceamento da concentração de prótons gerado pela endocitose de vesículas por meio do complexo Megalina-Cubilina, que necessitam desse gradiente, gerado pelo canal próton-ATPase (H+/ATPase), para dissociar as proteínas desse complexo. A corrente de cloreto é importante para evitar uma desnaturação proteica. Por mais que se conheça esse mecanismo fisiológico, a fisiopatologia que correlaciona esses eventos ainda é desconhecida.  Por outro lado, o fenótipo da doença de Dent do tipo 2 ocorre devido a mutações do gene OCRL1 e pode ser atribuído, em parte, ao papel desse gene no tráfico lisossômico e triagem endossomal. Essas mutações desencadeiam a ausência de OCRL1, levando a ruptura do sistema endossomal e diminuição de sua ação na acidificação e no tráfico de lisossomos.
+
+
+== Sintomas ==
+A função tubular pode ser aferida por meio da análise da excreção urinária de eletrólitos, glicose, aminoácidos e proteínas de baixo peso molecular, normalmente ausentes na urina. De maneira geral, o aumento na excreção urinária desses componentes sugere uma disfunção do túbulo proximal, uma vez que esses solutos são reabsorvidos em grande parte nessa região do néfron. Os principais sinais e sintomas dessa tubulopatia são:
+Excesso de proteínas na urina (proteinúria);
+Eliminação de grande quantidade de urina (poliúria);
+Aumento na excreção de cálcio na urina (hipercalciúria);
+Deposição exacerbada de cálcio nos rins;
+Urolitíase (cálculos nos rins e nas vias urinárias);
+Acúmulo anormal de sais de cálcio dentro dos rins (nefrocalcinose), muitas vezes levando a uma perda progressiva da função renal;
+Sede intensa e desidratação;
+Enfraquecimento e desmineralização de ossos maduros (osteomalacia);
+Raquitismo.O indivíduo afetado também pode apresentar uma quantidade aumentada de aminoácidos, fosfatos, glicose, ácido úrico na urina, além de uma excreção diminuída de potássio. 
+
+
+== Diagnóstico ==
+O diagnóstico clínico é fundamentado pela presença de proteinúria de baixo peso molecular e hipercalciúria e pelo menos um dos seguintes: nefrocalcinose, cálculos renais, hematúria (sangue na urina), deficiência de fosfato, ou insuficiência renal. Para confirmação do diagnóstico é necessário um teste molecular.Embora tecnicamente viável, os diagnósticos pré-natal e de pré-implantação não são recomendados, porque não há evidência de uma correlação genótipo-fenótipo e devido ao prognóstico vital geralmente bom.
+
+
+== Tratamento ==
+A doença de Dent não possui cura, sendo o tratamento com a finalidade de reduzir os sintomas do paciente. Não existem protocolos de tratamento padronizados para os indivíduos afetados. Devido à raridade da doença, não existem ensaios que tenham sido testados em grandes grupos de pacientes. Nesse contexto, o tratamento da doença de Dent deve exigir esforços coordenados de uma equipe de especialistas incluindo profissionais das áreas de nefrologia, urologia, nutrição, e outros profissionais da saúde que podem planejar sistematicamente e de maneira abrangente o projeto de tratamento do indivíduo afetado.Algumas formas de tratamento que vem sendo testadas são:
+
+Uso de medicamentos diuréticos evita a perda excessiva de minerais na urina sendo usado para tratamento da hipercalciúria e prevenção de cálculos renais, entretanto este tipo de medicamento apresenta efeitos adversos significativos incluindo hipovolemia e hipocalemia;
+Uso da vitamina D para tratamento das doenças ósseas advindas da doença de Dent, porém esta administração deve ser cautelosa, uma vez que a vitamina D aumenta os níveis de cálcio na urina, podendo potencializar o sintoma de hipercalciúria;
+Uma dieta com alto teor de citrato foi demonstrada em ratos que atua retardando a progressão da doença renal, entretanto não existem evidências em seres humanos;
+Com a evolução da doença tratamentos mais agressivos são utilizados estes podendo ir de hemodiálise a transplante renal.
+
+
+== Referências ==
+
+
+== Referências ==

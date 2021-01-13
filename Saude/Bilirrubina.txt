@@ -1,0 +1,33 @@
+A bilirrubina é uma substância amarelada encontrada na bile, que permanece no plasma sanguíneo até ser eliminada na urina. Quanto mais bilirrubina eliminada na urina, mais amarela ela se torna. Excesso de bilirrubina (hiperbilirrubinemia) pode indicar problemas no fígado, baço, nos rins ou na vesícula biliar.
+
+
+== Metabolismo ==
+É um pigmento da bile produzido por quebra do heme e redução da biliverdina, que normalmente circula no plasma sanguíneo. É absorvido por células do fígado e conjugado de modo a formar diglucuronide, um pigmento solúvel em água excretada na bílis. Cerca de 70% a 80% da bilirrubina são provenientes da destruição das hemácias velhas, 15% de fontes hepáticas e o restante é proveniente da destruição de hemácias defeituosas na medula óssea e nos citocromos.
+Em heme e globina, o anel heme é aberto, produzindo ferro livre e biliverdina, que é reduzida a bilirrubina pela enzima biliverdina redutase. Essa bilirrubina recém-formada circula no sangue ligada à albumina sérica (forma não-conjugada). É transportada pelo sistema porta até o fígado, onde penetra no hepatócito por dois mecanismos distintos: difusão passiva e endocitose.
+Uma vez dentro do hepatócito, a bilirrubina desliga-se da albumina e forma um complexo protéico com as chamadas proteínas Y e Z (também chamadas ligandinas). É então transportada para o retículo endoplasmático liso, onde se torna um substrato da enzima glicuronil transferase, dando origem a um diglicuronídeo conjugado (mono- e triglicuronídeos também são formados). A bilirrubina, agora já conjugada, é transportada até a membrana celular. Na face oposta aos sinusóides e próxima aos canalículos biliares, ela é excretada diretamente, alcançando o trato intestinal, onde é metabolizada pelas bactérias da microbiota intestinal, formando o stercobilinogênio. A maior parte deste stercobilinogênio é excretada nas fezes, outra parte é reabsorvida e eventualmente re-excretada na bile (circulação entero-hepática). Uma pequena quantidade é excretada pelos rins, sendo designado urobilinogénio.
+
+
+== Os tipos de bilirrubina ==
+Existem portanto dois tipos de bilirrubina circulantes - a não conjugada (que é ligada à albumina), também chamada de bilirrubina indireta, e a conjugada, chamada de bilirrubina direta. No entanto, existe um terceiro tipo de bilirrubina, chamada de bilirrubina delta, do tipo conjugada de reação rápida e ligada à albumina permanentemente por uma ligação covalente. Pelas técnicas tradicionais, a bilirrubina delta era incluída nos resultados da bilirrubina directa (conjugada) e na bilirrubina total.
+
+
+=== Bilirrubina delta ===
+Por estar fortemente ligada à albumina, a bilirrubina delta não é excretada pelos rins e permanece elevada por maior tempo. Na verdade, por períodos correspondentes à meia-vida da albumina (cerca de 19 dias), mesmo após a resolução da obstrução ou do período agudo da lesão hepática. Isso pode levar a falsas interpretações. Entretanto, atualmente, os métodos automatizados de última geração, especialmente a tecnologia de química seca, já separam a fração delta, que não é incluída em nenhuma das demais frações, nem mesmo no valor da bilirrubina total.
+
+
+=== Significado diagnóstico ===
+A bilirrubina eleva-se no soro na presença de lesões hepáticas, obstrução biliar ou quando a velocidade de destruição dos glóbulos vermelhos está aumentada. O aumento da bilirrubina indirecta é observado na síndrome hemolítica, na icterícia neonatal, na síndrome de Crigler-Najjar e na doença de Gilbert.
+A bilirrubina direita está aumentada nas hepatites agudas e crônicas, nas reações tóxicas a várias drogas e nas obstruções do trato biliar.
+
+
+== Interpretações de valores anormais ==
+Um aumento dos níveis de bilirrubina sérica (hiperbilirrubinemia) reflecte-se numa cor amarela das escleras, das mucosas e da pele à qual se chama ictericia. Aproximadamente 60% dos recém nascidos apresentam icterícia. Acompanhando os mecanismos envolvidos no metabolismo da bilirrubina, é possível correlacionar o aumento de seus níveis séricos com alterações de uma das etapas do seu metabolismo.
+Os níveis séricos da bilirrubina indireta são determinados pela velocidade de produção e pela velocidade de remoção dessa bilirrubina da circulação. Os distúrbios que alteram a capacidade de depuração do fígado estão ligados à captação e/ou conjugação hepática. Os aumentos de bilirrubina indireta não levam ao aumento da bilirrubina na urina.
+Os níveis séricos da bilirrubina direta são determinados pela capacidade de excreção da bilirrubina pelo fígado, ou seja, pela integridade fisiológica do hepatócito e da permeabilidade das vias biliares intra- e extra-hepáticas. Patologias que alterem essas funções cursam com aumento da bilirrubina direta, e muitas vezes da bilirrubina indireta, e com a presença de bilirrubina na urina.
+
+
+== Bilirrubina no plasma ==
+A concentração total de bilirrubina no plasma normal de adulto é menor que 1 a 1,5mg/dL, dependendo do método de medicação utilizada. Técnicas analíticas modernas mostram que o plasma normal contém principalmente bilirrubina não conjugada, apenas com traços de conjugada. Laboratórios clínicos geralmente quantificam a bilirrubina no plasma por uma reação na qual a bilirrubina é clivada por um reagente diazo, que são prontamente quantificados por espectrofotometria.
+
+
+== Referências ==

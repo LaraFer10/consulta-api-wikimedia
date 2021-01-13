@@ -1,0 +1,48 @@
+Podemos definir Nicho Ecológico como um conjunto de diversas variáveis ambientais relacionadas a uma determinada espécie, tais como o habitat onde se encontra, seu papel no ecossistema (produtores, consumidores, decompositores, etc.), seu poder de adaptação a fatores limitantes (umidade, pH, tipo de solo, etc.) e necessidades de reprodução (locais de tocas)De modo geral, nicho é descrito como uma pequena área onde vivem determinados seres vivos, entretanto essa descrição é restrita e descreve melhor o conceito de habitat.Na verdade, habitat pode representar o "endereço" da espécie e o nicho ecológico pode ser equivalente à "profissão". Porém, além dessas características, o nicho abrange um conjunto enorme de parâmetros, pois o nicho se refere a toda as relações e como uma espécie interage com o ecossistema. Exemplo de nichos pode ser por exemplo, os pandas que vivem nas florestas de bambu, ou as zebras que vivem nas savanas africanas.A primeira vez que o termo nicho foi usado cientificamente foi em 1933 quando Elton escreveu que nicho de um organismo é o modo e vida do ser vivo. Já a concepção moderna de nicho foi apresentada por Hutchinson em 1957 e refere-se aos procedimentos pelos quais necessidades e tolerâncias relacionam-se na definição de condições e recursos fundamentais a um indivíduo ou uma espécie, com a finalidade de cumprir seu modo de vida.Logo o Nicho trata dos recursos e  condições em que uma população ou um individuo vive e se reproduz. É o modo de vida de um organismo em determinada localidade, que envolve tanto os fatores físicos (temperatura), como os fatores biológicos (alimentação). Assim, Nicho trata-se de um conceito e não de um local.Inicialmente, antes de entender e poder definir o que é Nicho Ecológico, é importante conhecer conceitos como Recursos, Condições e Interações, seus significados e sua importância dentro da Ecologia.De forma resumida:
+
+Recursos são fatores bióticos e abióticos que podem ser usufruídos pelos seres vivos. Mais comumente utiliza-se o termo para alimentos e nutrientes.
+Condições são fatores abióticos, do meio, que afetam a aptidão de um organismo.
+Interações são fatores bióticos que pressionam os limites do nicho de forma tanto positiva quanto negativa, ampliando ou reduzindo suas dimensões.
+
+
+== Dimensões de um nicho ecológico ==
+O conceito moderno de nicho ecológico é tido como a relação ecológicas, disponibilidade de recursos e condições para um individuo ou uma espécie. Entretanto, o nicho não é rígido, há uma tolerância nos nichos, ou seja, um individuo consegue viver em um espectro de temperatura, pH ou de disponibilidade de algum recurso, esses parâmetros são ditos como dimensões de um nicho.
+
+
+=== N dimensões ===
+Cada um destes parâmetros são dimensões do nicho ecológico, este então, possui n-dimensões. Diz-se que nicho é n-dimensional pois é praticamente impossível contar quantas dimensões tem o nicho. De forma simplificada, pode-se dizer que cada tipo de alimento, temperatura, pH, competidores, etc são tipos diferentes de dimensões existentes no nicho. Sabendo disso, podemos tentar definir o que é nicho ecológico como, espaço gráfico hipervolumétrico e n-dimensional limitado ou expandido devido as interações com outros organismos, que envolve todas as respostas fisiológicas às condições do meio, depende da disponibilidade de recursos e como os organismos os usufruem, além do impacto causado por estes no meio em que vivem.
+
+
+== Tipos de nichos ==
+Nicho fundamental: nicho com os limites máximos possíveis, no qual um organismo pode ocupar na ausência de interações prejudiciais com outras espécies, contando apenas com condições abióticas, tolerância para tais condições e respostas fisiológicas à estes fatores. É uma situação teórica, estima-se que os nichos fundamentais ultrapassem a quantidade de ecossistemas existentes.
+Nicho realizado ou efetivo: é o nicho verdadeiro do organismo, na situação real em que se encontra, limitado ou expandido pelas interações com outros organismos, da mesma ou de outra espécie.Portanto, quando ambas providas de nichos realizados por seu habitat, as espécies em competição podem coexistir. Porém, até mesmo em locais que satisfaçam às necessidades do nicho fundamental, uma espécie pode ser excluída por outra, que nega a ela um nicho realizado por ser melhor competidora. 
+
+
+== Sobreposição de nicho ==
+Acontece quando necessidades de organismos diferentes são semelhantes, podendo ou não gerar competição. Quando os organismos utilizam um recurso em comum e de forma semelhante, diz-se que seus nichos alimentares — um conjunto de dimensões do nicho ecológico — são muito sobrepostos, logo poderá ocorrer competição em diferentes intensidades, dependendo da dimensão da sobreposição. Isso causa um estreitamento do nicho realizado. Porém, pode não haver nenhum tipo de competição em organismos com nichos sobrepostos, pois estes podem simplesmente viver nas mesmas condições ambientais. Por exemplo, uma onça-pintada não irá competir com um castanheiro por recursos.Respostas dos organismos a sobreposição de nichos:
+
+Competição (interespecífica x intraespecífica)
+Especialização de nicho.
+Neutralidade.
+Demonstração de como diferentes espécies, A e B, afetam os seus nichos de suas competidoras simpátricas,  limitando cada vez mais o nicho das mesmas e,de forma recíproca, tendo seu nicho limitado por elas.
+
+
+== Especialização de nicho ==
+É a principal resposta para a sobreposição de nicho na qual ocorre a formação morfotipos que tem nichos realizados menores, no caso esses organismos teriam nichos fundamentais comuns e nichos realizados consideravelmente sobrepostos, então eles acabam por se aclimatarem de tal forma a explorar outras dimensões dos seus nichos fundamentais, diferenciando os seus nichos efetivos, o que pode gerar especiação a longo prazo.
+
+
+== Ver também ==
+Diferenciação de nicho
+Especialização (biologia)
+
+
+== Referências ==
+
+
+== Referências ==
+TOWNSEND, C. R.; BEGON, M.; HARPER, J. L. Fundamentos em ecologia. 3. ed. Porto Alegre: Artmed, 2010. p.129-131
+BEGON, M.; TOWNSEND, C.R.; HARPER, J.L. Ecologia: De Indivíduos a Ecossistemas. 4 ed.  Porto Alegre, RS: Artmed, 2007.
+GODSOE, W. I can’t define the niche but I know it when I see it: a formal link between statistical theory and the ecological niche. Oikos, 2010.,v. 119 (1), p. 53-60.
+HUTCHINSON, George Evelyn. Concluding remarks. Cold Spring Harbor Symp Quantitative Biol., 1957, nº 22, p. 415-427.
+LOEWEN, T.N.; GILLIS, D.; TALLMAN, R.F. Ecological niche specialization inferred from morphological variation and otolith strontium of Artic charr Salvelinus alpinus L. found within open lake systems of sounthern Baffin Island, Nunavut, Canada. Journal of Fish Biology, 2009, v.75, p1473-1495.
+PULLIAM, H.R. On the relationship between nich and distribution. Ecology Letters, 2000, n. 3. p. 349-361.

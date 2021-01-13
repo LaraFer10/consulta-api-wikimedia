@@ -1,0 +1,6 @@
+O operão gal é um operão procariótico que codifica as enzimas necessárias para o metabolismo da galactose.O operão gal contém dois operadores, OE e OI. O primeiro encontra-se logo antes do promotor e o segundo logo após o gene galE (o primeiro gene do operão)
+A repressão da expressão genética funciona através da ligação de moléculas de repressão aos dois operadores. Estes repressores dimerizam, criando um arco no ADN. O arco, tal como a obstrução do operador externo previnem que a polimerase de ADN se ligue ao promotor, prevenindo a transcrição.
+O operão "gal" de E. coli consiste em 3 genes estruturais: galE (epimerase), galT (galactose transferase), e galK (galactocinase), que são transcritos a partir de dois promotores que se sobrepõem, PG1 e PG2 a montante de "galE". A regulação do operão é complexa, uma vez que o produto de galE, uma epimerase que converte UDP-glucose em UDP-galactose, é requerido para a formação de UDP-galactose para a biossíntese da parede celular, em particular o componente lipopolissacarídeo, mesmo quando as células não estão a usar a galactose como fonte de carbono/energia.
+
+
+== Referências ==

@@ -1,0 +1,31 @@
+A interleucina 10 (IL-10), também conhecido como fator inibidor da síntese de citoquinas humanas (CSIF), é uma citocina anti-inflamatória.
+
+
+=== Histórico ===
+A interleucina 10 (IL-10) (Human Interleukin-10) é um fator desativante de macrófago, que atua nas células dos macrófagos a fim de produzir efeitos inibidores nas células T e natural killer. Ela também regula o crescimento e/ou diferenciação das células B, granulócitos, neutrófilos, células dendriticas, queratinócitos e células endoteliais. Vários parasitas, bactérias, fungos e vírus deprimem a resposta imune do hospedeiro tanto induzindo a produção de IL-10 ou codificando seu próprio IL-10 homólogo. Apesar de ser um potente imunossupressor, IL-10 é também um antipirético. Níveis circulantes de IL-10 estão aumentados em asma alérgica, esclerose sistêmica, vários tipos de câncer, pacientes pós-transplantados e na sepse. O potencial terapêutico da IL-10 inclui a artrite reumatóide, lupus eritematoso sistêmico, esclerose múltipla e infecções por HIV.
+antes. Pacientes com AIDS e linfoma de Burkitt secretam grandes quantidades de IL-10. A síntese é inibida por IL-4 e pela própria IL-10.
+O efeito principal da IL-10 é inibir a síntese de outras citocinas, como o IFN-g, IL-2, IL-12, TNF-β. Inibe ainda a proliferação de células Th1, mas não de Th2, diminuindo ainda a função citolítica e secretora de citocinas por Th1 e facilitando o desenvolvimento de respostas Th2. IL-10 atua como um co-estimulador para a proliferação de mastócitos e seus progenitores. É ainda co-estimulador no crescimento dos timócitos imaturos, agindo como fator de diferenciação para as células T citotóxicas, sendo esta ação de menos intensidade.
+
+
+== Síntese e Produção ==
+A IL-10 é produzida principalmente por células CD8+ ativadas. Células Th0, Th1, Th2 ativadas, linfócitos B, mastócitos e monócitos ativados por LPS também podem produzir IL-10, sendo fontes menos importantes.
+Citocina reguladora, sendo mediada através de um efeito direto de IL-10 em monócitos-macrófagos inibindo a ativação de células T. A síntese é inibida por IL-4 e pela própria IL-10,
+
+
+== Gene e Estrutura Protéica ==
+Sobre a IL-10, podemos dizer que tem uma estrutura homodimérica, não tem carboidratos, constituída de uma cadeia polipeptídica que se estrutura em quatro a-hélices.
+Polimorfismo e níveis de expressão do gene da IL-10:
+Fatores apontam que a presença do nucleotídeo A na posição, relaciona –se com baixa produção da IL-10.
+Estudos mostram que o polimorfismo, em mulheres com câncer cervical portadoras do alelo G, tendem a estar imunogeneticamente predispostas a produzir altos níveis da IL-10, pode ser causa do aparecimento de câncer cervical.
+Pode-se controlar o gene da IL-10, por factores de transcrição SP1 e SP3.
+Tem sido investigado como a transcrição do gene IL-10, é regulada de modo a ser capaz de compreender que as circunstâncias de IL-10, que ao expressar no ratinho, o gene, é regulada por um promotor TATA-tipo em actuação cis (CTP) essenciais contendo repetições GGA localizados em -89 a 77.
+Compreende-se que a sequência CCTCCT com sequências de T-riscos C+ menos onservadas.
+
+Se confirmou que a exigência de SP1 e SP3i, na transcrição de IL-10 é confirmada sendo utilizado células de Drosophila SL2, sem fatores endógenos SP. Sendo assim se conclui que a transcrição da IL-10 é regulada tanto pela SP1 e SP3.
+
+
+== Referências ==
+http://www.asbai.org.br/revistas/Vol244/citocinas.htm
+http://www.asbai.org.br/revistas/Vol244/citocinas.htm
+http://www.gendiag.com.br/nossos_produtos/pesquisa/KAP1321
+https://www.lume.ufrgs.br/bitstream/handle/10183/19086/000735224.pdf?sequence=1

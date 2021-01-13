@@ -1,0 +1,108 @@
+Um motor molecular (ou nanomotor) é uma classe de máquina molecular que, tal como um motor macroscópico propriamente dito, é capaz de converter uma forma qualquer de energia aplicada sobre ele em energia mecânica para realizar um trabalho específico, como um movimento de rotação. Essas máquinas moleculares podem ocorrer naturalmente (como diversos motores biológicos) ou podem ser produzidos artificialmente. Diversas pesquisas vêm sendo desenvolvidas com o intuito de aperfeiçoar os nanomotores obtidos artificialmente até então, onde o grande objetivo dos químicos é construir um nanomotor que tenha a mesma eficiência de um motor biológico. Embora a expressão “motor molecular” esteja tradicionalmente ligada a motores biológicos, também pode ser usada para se referir a motores artificiais.
+
+
+== Movimento dos Motores Moleculares ==
+
+Um motor molecular é composto por átomos organizados em estruturas capazes de realizar trabalho na forma de movimentos (moleculares ou supramoleculares) quando uma forma de energia é fornecida à molécula. O processo resultante deve ser cíclico e unidimensional para que o composto não seja modificado permanentemente, ou seja, a máquina deve ser capaz de realizar um movimento repetidas vezes sem ser alterada. Os motores artificiais mais atuais são, geralmente, alimentados por energia luminosa ou por diferença de potencial elétrico, opções mais viáveis que a energia química, pois energia química é oriunda de reações químicas que podem gerar resíduos.
+O motor é o coração de uma máquina, sendo um dispositivo que converte um combustível qualquer em energia cinética de maneira controlada, produzindo movimento. Entretanto, uma grande dificuldade no funcionamento de uma máquina molecular é o controle do movimento realizado, especialmente o seu direcionamento.
+
+
+=== Motores moleculares brownianos ===
+Entretanto, embora seja conveniente fazer analogias diretas entre nanomáquinas e nanomotores com suas contrapartes macroscópicas, é preciso ter cautela, pois estas analogias as vezes podem acabar confundindo ao invés de trazer respostas. Se para os motores macroscópicos, forças que governam o movimento destes (em especial, a gravidade) tem extrema relevância, essa mesma relevância é extremamente pequena para objetos como os nanomotores, que possuem dimensões extremamente diminutas. Neste mundo de nanodimensões, há um efeito que possui extrema relevância e deve ser levado em consideração, um efeito inerente ao fluído onde os nanomotores se encontram: o chamado movimento browniano.
+Os motores moleculares são dependentes do movimento browniano, apesar de não serem originados por movimentos aleatórios (já que, de acordo com a 2ª lei da termodinâmica, o trabalho não pode ser derivado do movimento aleatório). A exploração deste movimento possibilita aos motores (assim como as máquinas moleculares num todo) se moverem em um mundo tão turbulento. A natureza encontrou formas de explorar os efeitos da catraca browniana, algo que os pesquisadores vem tentando imitar nas suas pesquisas de desenvolvimento de máquinas artificiais.Embora a direção do movimento nos nanosistemas seja aleatória, estudos apontam que o principal problema para o funcionamento de uma nanomáquina, o controle de seu movimento, pode ser contornado. A unidirecionalidade que se busca neste movimento poderia ser obtida por meio da adição de assimetria a estrutura.
+
+
+=== Motores moleculares rotacionais e Lineares ===
+No que diz respeito ao tipo de movimento realizado, um motor molecular pode ser classificado em duas categorias:rotacionais e lineares.
+Motores rotacionais são os motores que produzem um movimento rotacional. Para isto, se faz necessária a possibilidade de que realize um movimento de rotação de 360° contínuo em algum de seus componentes. Outra característica importante é a presença de quiralidade no composto, para que seja possível se produzir o movimento unidirecional. de maneira análoga, motores lineares são aqueles cujo movimento produzido é de forma linear, sem característica rotacional. Entre os motores biológicos, os exemplo mais proeminente de motor rotativo é a ATP sintase, enquanto que o tecido muscular é o exemplo mais proeminente de motor biológico linear.
+No grupo dos motores sintéticos, os movimentos geralmente observados nessas estruturas incluem rotação sobre uma ligação, alterações conformacionais ou movimento induzido por interações não covalentes. Entre os motores existentes, vários deles se baseiam na isomerização cis-trans de uma ligação dupla ou nas interações intermoleculares dos rotaxanos.
+
+
+=== Mecanismos de movimento ===
+Dentre os mecanismos geralmente observados no funcionamento de motores moleculares, observa-se três mecanismos diferentes realizados por eles para a produção de movimento:
+
+Rotação em torno de uma ligação químicaQuando ocorre a rotação de um grupo em torno de uma ligação, que deve ter uma certa liberdade de movimentação, como se fosse uma roda.
+
+Mudança de conformação:Se baseia numa mudança espacial no motor. Em geral, a molécula pode ser levada para uma forma de isômero menos estável, e depois retorna naturalmente a forma mais estável, ocorrendo o movimento.
+
+Movimentos induzidos por interações não-covalentes:São movimentos que ocorrem devido a ligações intermoleculares ou intramoleculares, que podem encaminhar o movimento de um determinado grupamento do motor.
+
+
+== Motores moleculares naturais ==
+Os motores moleculares naturais são máquinas biológicas responsáveis pela grande maioria das formas de movimento encondas no mundo celular. Nessas estruturas, a energia liberada pela quebra da adenosina trifosfato (ATP) é convertida em trabalho mecânico, onde os movimentos realizados lembram os movimentos realizados por máquinas macroscópicas. Atualmente, a ATP sintase (um verdadeiro motor rotativo molecular) é uma das máquinas moleculares naturais mais eficientes conhecidas, convertendo a energia oriunda da molécula de adenosina trifosfato em movimento rotacional, onde a eficiência alcançada por esses motores biológicos é de quase 100%. Embora as pesquisas atuais com motores artificiais sejam bem promissoras, ainda serão necessários mais alguns anos de estudo para se aproximar mais da eficiência alcançada pelos motores biológicos. Embora os motores biológicos superem, e muito, suas contrapartes artificiais em nível de complexidade e eficiência, é necessário levar em consideração o tempo que a natureza teve para dar a esses motores naturais a possibilidade de alcançarem a eficiência que possuem atualmente.
+Os motores moleculares naturais atuam especialmente no citoplasma da célula, realizando o transporte de estruturas (organelas ou macromoléculas) de um ponto a outro da célula. Esses motores citoplásmáticos se dividem atualmente em três grandes famílias: as miosinas, as cinesinas e as dineínas. Enquanto a miosina se locomove por meio de filamentos de actina, as outras duas se locomovem por meio de microtúbulos. A engenhosidade e complexidade envolvidas no funcionamento destas clases de motores faz com que cada uma seja considerada uma verdadeira superfamília de compostos, onde, atualmente, se conhece ao menos 18 diferentes classes de miosinas, 10 de cinesinas e 2 de dineínas.
+
+
+=== A Superfamília das Miosinas ===
+
+As miosinas são motores moleculares que utilizam a energia da hidrólise de adenosina trifosfato (ATP) para a realização do movimento que se estabelece ao longo de filamentos de actina, sendo constituídas de uma a duas cadeias pesadas e uma ou mais cadeias leves. Os motores de miosina, juntamente com os filamentos de actina correspondentes, desempenham papéis importantes em muitos processos biológicos dinâmicos, como motilidade, adesão, endocitose, fluxo citoplasmático, crescimento de neurônios, manutenção estrutural, polarização, transdução de sinais intracelulares, podendo também auxiliar também na formação ou manutenção de estruturas organizadas baseadas em actina (tais como a estereocilia de células ciliadas).
+
+
+=== A Superfamília das Cinesinas ===
+
+As cinesinas são motores moleculares que transportando vesículas contendo substâncias dentro do citoplasma da célula, deslocando-se por meio de microtúbulos, onde as cinesinas, literalmente, “caminham” pelos microtúbulos, se movenfo no sentido positivo destes. As cinesinas possuem, normalmente, duas cadeias pesadas (que seriam os “pés” da estrutura) e outras duas cadeias mais leves. Enquanto as cadeias pesadas interagem com os microtubulos (onde a hidrólise de ATP fornece a energia para o movimentos destes pés), as cadeias mais leves se acoplam a carga a ser transportada, onde as cinenisas são capazes de carregar estruturas muito maiores do que elas próprias.
+
+
+=== A Superfamília das Dineínas ===
+
+Dineínas são motores moleculares formados, geralmente, por uma a três cadeias pesadas e várias outras cadeias mais leves, estando envolvidas em uma ampla variedade de processos celulares fundamentais, como a mitose, o transporte vesicular, o desenvolvimento embrionário e a montagem e motilidade de cílios e flagelos. Podem ser classificadas em dois tipos, quanto a função que exercem dentro do sistema celular: dineínas citoplasmáticas e dineínas axonemais.As dineínas citoplasmáticas operam transportando cargas que se anexam a suas cadeias mais leves, enquanto suas cadeias pesadas podem se acoplar a microtúbulos, de forma similar ao movimento realizado pelas cinesinas. Enquanto as cinesinas se movem no sentido positivo dos microtubulos, as dineínas se movem no sentido negativo destes. Já as dineínas axonemais são responsáveis diretas pela movimentação de cíclios e flagelos, e também contribuem para a montagem destes.
+Nos cílios de uma célula, as dineínas atuam possibilitando a movimentação destes da seguinte forma: cada dois pares de cílios (formados por microtúbulos) se encontram interligados por cadeias de dineína, onde a movimentação dessas cadeias motoras promove a movimentação dos cílios. Já a movimentação dos flagelos, é um dos sistemas mais impressionantemente complexas já observadas entre as máquinas biológicas, onde o motor que garante a movimentação da estrutura, funciona por meio de um gradiente de prótons.
+
+
+== Motores moleculares artificiais ==
+A criação de máquinas moleculares surgiu a partir da inspiração de cientistas nos motores naturais. Embora possam ser ainda consideradas primitivas frente aos biomotores (já que esses possuem um grau de complexidade que ainda não pode equiparar), as pesquisas no desenvolvimento dessas máquinas tem evoluído bastante  graças a fatores como:  evolução dos métodos de síntese de substâncias, evolução do estudo de interações químicas (por meio de avançadas técnicas computacionais) e o avanço de técnicas de caracterização dessas substâncias.Sendo o motor molecular um componente essencial para qualquer máquina molecular, é cabível afirmar que tanto os motores quanto as máquinas movidas com o auxílio desempenharão um papel proeminente na revolução nanotecnológica do século XXI, assim como suas contrapartes macroscópicas (máquinas a vapor e motores de combustão interna) foram os protagonistas da revolução industrial do século XIX.Em 2016, o prêmio Nobel de Química foi concedido a três pesquisadores por seus trabalhos com as máquinas moleculares, sendo eles: o francês Jean-Pierre Sauvage, o escocês Sir James Fraser Stoddart e o neerlandês Bernard L. Feringa.
+Feringa, em 1999, foi o primeiro a desenvolver um motor molecular. Ele criou uma pá de rotor molecular e fez com que esta girasse de forma contínua numa única direção, onde a energia para o movimento deste motor era oriundo de luz ultravioleta. Assim, Feringa conseguiu rotacionar cilindros de vidro 10.000 vezes maiores do que o motor. Os estudos de Feringa serviram de base para o desenvolvimento do primeiro nanocarro.
+Como já foi mencionado, a nível de complexidade e eficiência, os motores biológicos possuem uma enorme vantagem. Entretanto, as restrições nas condições ambientais em que operam pode ser considerada uma desvantagem frente aos motores sintéticos, que possuem  maior tolerância a diferentes condições.Uma vez que os motores biológicos são, na grande maioria das vezes, movidos a energia luminosa (como os sistemas fotossintéticos) ou pela energia química armazenada nas ligações moleculares dos nucleotídeos trifosfatos, os trabalhos de Feringa e Kelly, resumidos a baixo, foram as primeiras propostas de criar motores movidos a partir e energias luminosa e química, respectivamente.
+
+
+=== Motor rotacional baseado em alcenos: o motor de Feringa ===
+
+Este motor foi desenvolvido por Feringa, em 1999, sendo o primeiro motor molecular artificial produzido. É um exemplo de motor molecular movido a partir de energia luminosa. O motor molecular produzido por Feringa é um motor rotacional baseado em alcenos, operando por meio da isomerização em torno de uma dupla ligação C=C que forma um bis-heliceno, o que garante uma quiralidade axial a estrutura. A principal característica desse tipo de motor é a capacidade de controlar a taxa de rotação e direção.
+A rotação unidirecional é dada em quatro passos, a partir do isômero (P,P)-trans-1: (Note que P se refere a hélice no sentido da direita e M se refere ao sentido da esquerda)
+a) O composto inicial é submetido a uma fotoisomerização endotérmica em temperatura baixa (10 ºC), acarretando na conversão de dois grupos metil axiais em grupos metil equatoriais, menos estáveis estéricamente. Isto resulta na transformação deste no composto (M,M)-cis-2. As alterações na de conformação cis-tras foram confirmadas por espectroscopia de absorção e Cálculos semi-empíricos (AM1).
+b) O aumento da temperatura do sistema, a cerca de 20°C converte os grupos metil de volta a suas formas axiais.
+c) Uma nova fotoisomerização converte o (P,P)-cis-3 em (M,M)-trans-4, acompanhada, novamente, pelo desfavorecimento estérico dos grupos metil equatoriais.
+d) Com o aumento da temperatura do sistema a 60°C, ocorre a rotação de 360°, retornando ao composto inicial e seus grupos axiais.
+Um grande problema observado neste método é o tempo para se completar uma rotação quando comparado com sistemas biológicos.
+O princípio de Feringa foi utilizado na construção do protótipo de um nanocarro.
+
+
+=== Motor rotacional baseado em tripticenos: o motor de Kelly ===
+O primeiro exemplo de motor rotacional baseado em tripticenos foi dado por Kelly e seus colaboradores em 1999, onde o sistema foi montado com um rotor de três tripticenos e um 4-heliceno. O motor, que é movido a partir da energia fornecida por uma reação química, é capaz de realizar uma rotação unidirecional de 120°.
+
+A rotação possui cinco passos, explicados detalhadamente a seguir:
+a) O grupo amina presente no tripticeno é convertido em um grupo isocianato, através de uma condensação com uma molécula de fosgênio.
+b) Uma rotação, térmica ou instantânea, em torno da ligação central aproxima o grupo isocianato do grupo hidroxila.
+c) Nesta forma espacial, os dois grupos reagem irreversivelmente, formando um carbamato cíclico (uretano).
+d) Adiciona-se uma pequena quantidade de energia térmica ao sistema nesta etapa. Como esta é uma forma de mais alta energia e energeticamente mais próxima da barreira de energia rotacional do que do estado inicial, se faz necessária uma energia de ativação para que ocorra esta transformação.
+e) A clivagem do grupo carbamato forma, novamente, o grupo amina e hidroxila da molécula.
+Kelly e seus colaboradores propuseram que, para a ocorrência de uma rotação contínua, o substituinte tripticeno precisa ser sintetizado com três grupos amina, e o fornecimento de fosgênio e hidreto deve ser dirigido para a face adequada da molécula.
+O motor de Kelly é um exemplo de como a energia química pode ser utilizada para controlar um processo de rotação unidirecional, que se assemelha ao do consumo da ATP em organismos vivos.
+
+
+=== Outros exemplos de motores artificiais ===
+Além dos dois motores pioneiros já mencionados, vários outros trabalhos envolvendo a criação de motores, tanto rotacionais quanto lineares, vem sendo feitos por diversos pesquisadores.
+Vögtle e seus colaboradores, observaram que a estrutura do motor molecular ATP sintase lembrava um rotaxano, mais especificamente, o rotor que forma este motor. Na ATP sintase, o movimento se dá pela rotação de um rotor (formado por um eixo acoplado a uma roda), que por sua vez, se mantém dentro de estator (parte estacionária do motor), onde o sistema se move por meio de um gradiente de prótons (similar ao observado na movimentação de um flagelo, onde tal processo produz ATP. Assim, ele e seu grupo desenvolveram um modelo de motor rotacional baseado em rotaxanos, formado por rodas em torno de um eixo e por um grupamento volumoso em cada extremidade do eixo.O sistema formado acaba por ser quiral, mesmo que os ratoxanos que lhe deram origem não fossem.
+Ainda no campo dos motores rotacionais, Aida e seus colaboradores estudaram o movimento de rotação de ligantes de porfirina em complexos de bisporfirinatos metálicos, que podem ser controlados por reações redox. Neste estudo, os autores concluíram que, embora a direcionalidade dos motores a base de porfirinas não possa ser controlada, a direção de rotação pode ser preferencialmente orientada por meio dos substituintes quirais da estrutura. Já no campo dos motores lineares, Li e Tan desenvolveram um nanomotor de DNA capaz de operar por meio da ciclização de formas abertas e fechadas de um oligonucleotídeo de DNA. Embora este motor seja um exemplo de motor linear, seu movimento não se assemelha tanto ao movimento observado em outros motores lineares, e sim ao movimento observado na dobra de uma proteína.Estes são só alguns dos exemplos de motores moleculares que vem sendo desenvolvidos, onde as pesquisas em síntese, caracterização e uso para estes motores só tem crescido nos últimos tempos e continuarão crescendo, onde se deseja explorar ao máximo o potencial que não só os motores, mas as nanomáquinas como um todo possuem.
+
+
+== Aplicações de motores moleculares artificiais ==
+Nesta sessão, irá se apresentar brevemente algumas aplicações dos motores moleculares que vem sendo desenvolvidos por meio de diversas pesquisas.
+
+
+=== Nanocarros ===
+As primeiras nanomáquinas assemelhadas a carros foram sintetizadas pelo grupo do professor James Tour, da Universidade de Rice. Essas estruturas foram concebidas para estudar como os fulerenos se movem sobre superfícies metálicas (se eles se movem rolando ou deslizando) e possuem a mecânica básica de um carro: as rodas são formadas por fulereno; o chassi, por moléculas planares em forma de anéis; e os eixos se unem às rodas por meio de ligações triplas de carbono e estas se ligam ao chassi. A estrutura final é capaz de se mover por uma superfície quando abastecidas. Esses nanoveículos não possuem um nanomotor, logo, não são exatamente um nanocarro.
+
+
+=== Músculos artificiais ===
+Entre os motores moleculares lineares artificiais, se destacam os músculos artificiais, estruturas capazes de simular o trabalho realizado pela miosina no funcionamento de músculos naturais. Essas estruturas são exemplos de motores lineares baseados em rotaxanos.
+Sauvage e colaboradores (Universidade de Saint Louis, França) sintetizaram um dímero de rotaxano (partir da fenantrolina) e com ele foram capazes de desenvolver um músculo artificial , capaz de realizar um processo de expansão-contração (tal como um músculo real). O motor molecular de Sauvage funciona pela troca do íon Cobre (I) pelo íon Zinco (II) nos sítios de ligação da estrutura orgânica. A estrutura (que possui uma parte linear e outra em forma de roda) sofre o processo de expansão quando o Cobre (I) é oxidado a Cobre (II) é tetracoordenado pelos sítios de Nitrogênio das fenantrolinas de cada monômero da estrutura.  A substituição do Cobre (II) pelo Zinco (II) nos sítios de coordenação (onde o Zinco é pentacoordenado pelos Nitrogênios das fenantrolinas e terpiridina) promove a contração da estrutura. O músculo artificial obtido através desse processo possui comprimentos de ligação cerca de 27% próximos aos dos observados em músculos naturais (segundo cálculos computacionais).
+
+
+== Ver também ==
+Nanotecnologia do carbono
+Motor molecular
+Nanorobótica
+
+
+== Referências ==

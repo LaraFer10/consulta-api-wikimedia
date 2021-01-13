@@ -1,0 +1,37 @@
+Esporos bacterianos, também chamados de endósporos, foram primeiramente estudados há mais de 100 anos por Cohn e também por Koch, em 1876.
+A descoberta da existência dos endósporos associada às suas características de resistência foram de grande importância para a microbiologia, sobretudo do ponto de vista clínico e da indústria de alimentos, pois processos capazes de matar células na forma vegetativa não são suficientes contra a célula na forma esporulada.
+Enquanto a maioria das células na forma vegetativa é morta com temperaturas em torno de 70°C, os endósporos podem sobreviver até em água fervente.
+A esporulação, processo pelo qual alguns gêneros de bactérias formam esporos, ocorre quando estas bactérias estão em ambiente que ameaçam a sua sobrevivência, que não tem nutrientes suficientes para que cresçam e se reproduzam. As condições ambientais são adversas para o crescimento bacteriano. De maneira geral, isto ocorre quando há falta de nutrientes.
+O esporo é uma camada que protege a bactéria e é responsável pela resistência e ao ataque dos agentes físicos e químicos da esterilização e desinfecção.
+Na fase esporulada, as bactérias não realizam atividade biossintética e reduzem sua atividade respiratória. Nesta fase também não ocorre a multiplicação e crescimento bacteriano.
+As bactérias podem permanecer vivas na forma de esporos durante anos, se mantidos a temperaturas usuais e em estado seco.
+Entretanto, assim que o ambiente se torna favorável, estes esporos podem voltar a se reproduzir e multiplicar.
+
+
+== Esporulação ou esporogênese. ==
+É o processo pelo qual alguns gêneros de bactérias, como Bacillus e Clostridium, formam esporos quando estão em condições críticas para sua sobrevivência.
+De maneira geral, isto ocorre pela restrição no fornecimento dos nutrientes necessários ao desenvolvimento vegetativo, tais como carbono, nitrogênio, sulfatos, fosfatos ou sais de ferro.
+Em contrapartida, o processo de esporulação exige a presença de outros sais minerais (sais de potássio, magnésio e cálcio) e condições favoráveis de umidade, temperatura, pH e tensão de oxigênio.
+A formação do esporo dá-se pela invaginação de uma dupla camada de membrana celular que se fecha para envolver um cromossomo e uma pequena quantidade de citoplasma, garantindo a sobrevivência da espécie.
+Esta camada é responsável pela resistência à coloração e ao ataque dos agentes físicos e químicos da esterilização e desinfecção.
+Os esporos apresentam-se sob a forma de corpúsculos esféricos ou ovoides, livre ou no interior da bactéria.
+
+
+== Germinação ==
+A germinação do esporo dá-se quando as condições de nutrição e umidade se tornam favoráveis ao desenvolvimento, em particular pelo que respeita a certos estimulantes. A germinação é irreversível e envolve rápidas alterações degradativas: o esporo perde sucessivamente a sua termo - resistência e o ácido dipicolínico; perde o cálcio, torna-se permeável aos corantes e varia a sua refrangibilidade.
+É muito mais difícil a germinação dos esporos submetidos a condições fortemente adversas ( aquecimento, etc. ) do que a dos normais. Por tal motivo o ensaio de esterilidade de materiais previamente expostos à desinfecção emprega meios de cultura particularmente ricos em substâncias nutritivas de forma a certificar a inexistência de esporos ainda dormentes.
+No processo de germinação, o esporo intumesce, o seu córtex desintegra-se, fende-se o revestimento externo e emerge uma nova célula vegetativa.
+
+
+== Esporos bacterianos utilizados como indicadores biológicos ==
+Faz parte de um dos três tipos de indicadores biológicos previstos pela Farmacopeia Brasileira. São microrganismos mais resistentes aos processos de esterilização em comparação aqueles já presentes no produto, com exceção à radiação ionizante. ()
+São usados em três tipos: )
+
+Esporos adicionados a um suporte ou carreador, como uma fita indicadora, embalados a fim de garantir a viabilidade do indicador e protegê-lo de quaisquer impactos.
+Suspensão inoculada em amostras do produto a ser esterilizado. Este caso pode demandar muitas amostras de um lote, o que impacta lotes de pequenas quantidades. Nesses casos pode-se utilizar um produto simulado. Para produtos líquidos, devemos saber o valor D (representa o tempo necessário para reduzir a população de um microrganismo para um décimo do valor inicial, a uma determinada temperatura) e o valor Z (aumento da temperatura em graus para reduzir o valor D em 90%) do indicador no produto.
+Os autocontidos são suspensões de esporos em meio de cultura e indicador de pH. Esse indicador de pH permite, após a incubação do material esterilizado, verificar se houve ou não crescimento do microrganismo indicador. Se houve o crescimento após a esterilização, conclui-se que o ciclo do equipamento esterilizante não está funcionando como deveria.Exemplos de esporos
+
+Esporos de Geobacillus stearothermophilus ATCC 7953 e Bacillus subtilis ATCC 35021 são altamente resistentes a calor e mais comumente utilizados como indicadores biológicos em linhas de produção assépticas para produtos parenterais.   Como nessa cadeia de produção os componentes são exaustivamente limpos e esterilizados, a bioburden é relativamente baixa e pouco resistente ao calor. Além disso, a produção desses produtos no Japão é feita em baixas temperaturas para não haver danos físicos e químicos ao produto final. Um estudo realizado por Bryland, A., Broman, M., Erixon, M. et al.  sugere que altas temperaturas podem formar produtos de degradação de glicose (GDP) que, combinados a proteínas séricas do paciente, formam a carboximetilisina, que causa danos cardíacos e renais. Por isso, um estudo realizado pela Intravenous Solutions Society, de Tokyo ,  foi realizado para verificar se os esporos de Bacillus oleronius ATCC 700005 não seriam igualmente apropriados como indicadores biológicos, já que é menos resistente ao calor quando comparado ao Geobacillus e ao Bacillus subtilis. Os esporos desse bacilo apresentaram um valor D próximos aos microrganismos resistentes previamente identificados na área de produção.Staphylococcus aureus NCTC 13142 resistentes a meticilina (denominados MRSA) são resistentes à descontaminação por peróxido de hidrogênio vaporizado (VHP), técnica utilizada em ambientes hospitalares.  Nessa técnica, utiliza-se os esporos de Geobacillus stearothermophilus ATCC 7953 como indicador biológico, mas o referido artigo alerta para os riscos do MRSA.  A resistência de MRSA é dada pela produção de catalase, que quebra o peróxido de hidrogênio e tira sua função esterilizante.
+
+
+== Referências ==

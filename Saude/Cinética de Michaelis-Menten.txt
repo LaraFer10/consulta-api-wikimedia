@@ -1,0 +1,118 @@
+Em bioquímica, a cinética de Michaelis-Menten é um dos modelos mais conhecidos da cinética enzimática. O modelo leva esse nome em homenagem a Leonor Michaelis e Maud Menten.  Ele tem a forma de uma equação que descreve a taxa de reações enzimáticas, relacionando taxa de reação 
+  
+    
+      
+        v
+      
+    
+    {\displaystyle v}
+   a 
+  
+    
+      
+        [
+        S
+        ]
+      
+    
+    {\displaystyle [S]}
+  , a concentração de um substrato 
+  
+    
+      
+        [
+        S
+        ]
+      
+    
+    {\displaystyle [S]}
+  . A sua fórmula é dada pela equação de Michaelis-Menten:
+
+  
+    
+      
+        v
+        =
+        
+          
+            
+              d
+              [
+              P
+              ]
+            
+            
+              d
+              t
+            
+          
+        
+        =
+        
+          
+            
+              
+                V
+                
+                  max
+                
+              
+              
+                [
+                S
+                ]
+              
+            
+            
+              
+                K
+                
+                  
+                    M
+                  
+                
+              
+              +
+              [
+              S
+              ]
+            
+          
+        
+        .
+      
+    
+    {\displaystyle v={\frac {d[P]}{dt}}={\frac {V_{\max }{[S]}}{K_{\mathrm {M} }+[S]}}.}
+  
+
+
+== Aplicações ==
+Os valores dos parâmetros variam amplamente entre as enzimas:
+A constante 
+  
+    
+      
+        
+          k
+          
+            cat
+          
+        
+        
+          /
+        
+        
+          K
+          
+            
+              M
+            
+          
+        
+      
+    
+    {\displaystyle k_{\text{cat}}/K_{\mathrm {M} }}
+   (eficiência catalítica) é uma medida da eficiência com que uma enzima converte um substrato em produto. As enzimas com difusão limitada, como a fumarase, funcionam no limite superior teórico de 108 – 1010 M−1s−1, limitadas pela difusão do substrato no centro ativo.A cinética de Michaelis–Menten também foi aplicada a uma variedade de esferas fora das reações bioquímicas, incluindo depuração alveolar de poeiras, o agrumento de riqueza de espécies, depuração do álcool no sangue, a relação fotossíntese-irradiância e infecção bacteriana por fagos.A equação também pode ser usada para descrever a relação entre a condutividade do canal iônico e a concentração do ligante.
+
+
+== Referências ==

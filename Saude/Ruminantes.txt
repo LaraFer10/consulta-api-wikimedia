@@ -1,0 +1,179 @@
+Os ruminantes (latim científico: Ruminantia) são uma subordem de mamíferos artiodáctilos denominada Ruminantia. São mamíferos herbívoros.
+De um modo geral, estes animais têm intestinos longos com Cecos Desenvolvidos, que auxiliam a digestão da matéria vegetal. Os herbívoros ruminantes têm, ainda, um estômago composto, isto é, um estômago com mais do que uma cavidade digestiva.
+O estômago composto dos ruminantes é formado por quatro dilatações: a pança, o barrete, o folhoso e a coalheira.
+No primeiro percurso dos alimentos, os alimentos são deglutidos, chegam à pança, onde são armazenados; passam ao barrete, onde são comprimidos, e depois regurgitados, regressando à boca. Aí, são ensalivados e mastigados, isto é, são ruminados.
+No segundo percurso, os alimentos passam do esófago para o folhoso, onde a água é absorvida, e percorrem a coalheira, onde o suco gástrico os digere.
+Os animais que fazem parte deste grupo são os bovinos, ovinos, caprinos, bubalinos, girafas, veados, camelos, lhamas e outros herbívoros com essa anatomia digestiva. Estes dois últimos são exceções, pois não fazem parte desta subordem, sendo classificados na subordem Tylopoda.
+O termo ruminante está relacionado com o hábito de ruminar destes animais, ou seja, depois que ingerem os alimentos, este é regurgitado para a boca, onde é novamente mastigado (ruminado) e deglutido.
+Os ruminantes fazem a apreensão dos alimentos com o auxílio da língua. Em seguida é feita a deglutição deste alimento, após um breve período de mastigação, chegam ao primeiro compartimento, o rúmen. Este é o maior de todos os compartimentos, localizado na porção esquerda da cavidade abdominal. Por meio de uma simbiose mutualística com uma microbiota, é realizada a digestão de alimentos fibrosos. Em seguida, o alimento passa para o segundo compartimento (o menor de todos), o retículo, que possui uma mucosa semelhante a um favo de mel, e nele, ocorre a formação de pequenos bolos de comida que retornam para a cavidade oral do animal para ser ruminado (remastigado) e, novamente deglutido.
+Ao retornar para o estômago, o alimento dirige-se para o omaso, que possui uma parede muscular muito forte e uma mucosa laminada, para que ocorra a reabsorção da água presente no bolo alimentar. Em seguida, este bolo cai no compartimento chamado de estômago verdadeiro, o abomaso ou coagulador. Este compartimento é um saco alongado, estruturalmente e funcionalmente comparável ao estômago de animais não ruminantes, e é nele que o bolo alimentar irá ser digerido pelas enzimas presentes neste compartimento, que são produzidas por glândulas existentes na parede do abomaso. Deste modo, o bolo passa para o intestino delgado dos ruminantes, sofrendo a ação de outras enzimas do trato digestivo.
+Nos recém-nascidos, este processo de digestão possui algumas diferenças. O rúmen e o retículo comunicam-se através da goteira esofágica. Quando o animal é adulto, esta goteira está aberta, sendo assim, ocorre à passagem do alimento por todos os compartimentos do estômago. Já nos filhotes, o movimento de sucção do leite faz com que a goteira esofágica se dobre, fazendo com que o leite passe diretamente para o abomaso, sendo assim, este sofrerá a ação apenas das enzimas secretadas no abomaso.
+
+
+== Classificação ==
+Subordem Ruminantia
+Família Amphimerycidae (extinta)
+Infraordem Tragulina
+Família Tragulidae
+Família Prodremotheriidae (extinta)
+Família Hypertragulidae (extinta)
+Família Praetragulidae (extinta)
+Família Leptomerycidae (extinta)
+Família Archaeomerycidae (extinta)
+Família Lophiomerycidae (extinta)
+Infraordem Tylopoda
+Familia Camelidae
+Infraordem Pecora
+Família Moschidae
+Família Cervidae
+Família Giraffidae
+Família Antilocapridae
+Família Bovidae
+
+
+== Filogenia ==
+            ├─o Ruminantia
+            │ ├─? Amphimerycidae +
+            │ └─o
+            │   ├─o Indomeryx +
+            │   ├─o Hypertragulidae +
+            │   ├─o Praetragulidae +
+            │   └─o
+            │     ├─o Tragulidae
+            │     └─o
+            │       ├─o Bachitheriidae +
+            │       └─o
+            │         ├─o Leptomerycidae +
+            │         ├─? Archaeomerycidae +
+            │         └─o
+            │           ├─o Lophiomerycidae +
+            │           └─o Pecora
+            │             ├─o Gelocus +
+            │             └─o
+            │               ├─? Notomeryx +
+            │               └─o
+            │                 ├─o Prodromotherium +
+            │                 └─o
+            │                   ├─? Rutitherium +
+            │                   ├─o Giraffoidea
+            │                   │ ├─o Climacoceratidae +
+            │                   │ └─o Giraffidae
+            │                   │   ├─o Sivatheriinae +
+            │                   │   └─o Giraffinae
+            │                   │     ├─o Giraffini
+            │                   │     └─o Palaeotragini
+            │                   │       ├─o Paleotragina +
+            │                   │       └─o Okapiina
+            │                   └─o
+            │                     ├─o Bovidae
+            │                     │ ├─? Peleini
+            │                     │ ├─o Antilopinae
+            │                     │ │ ├─o Antilopini
+            │                     │ │ └─o Neotragini
+            │                     │ └─o
+            │                     │   ├─o Caprinae
+            │                     │   │ ├─o Caprini
+            │                     │   │ └─o
+            │                     │   │   ├─o Ovibovini
+            │                     │   │   └─o Naemorhedini
+            │                     │   └─o
+            │                     │     ├─o Bovinae
+            │                     │     │ ├─o Boselaphini
+            │                     │     │ └─o
+            │                     │     │   ├─o Bovini
+            │                     │     │   └─o
+            │                     │     │     ├─o Udabnocerini
+            │                     │     │     └─o Tragelaphini
+            │                     │     └─o
+            │                     │       ├─o Hippotraginae
+            │                     │       │ ├─o Reduncini
+            │                     │       │ └─o Hippotragini
+            │                     │       └─o
+            │                     │         ├─o Cephalophinae
+            │                     │         └─o Alcelaphinae
+            │                     │           ├─o Aepycerotini
+            │                     │           └─o Alcelaphini
+            │                     └─o Cervoidea
+            │                       ├─? Walangania +
+            │                       └─o
+            │                         ├─o Moschidae
+            │                         │ ├─o Dremotheriinae +
+            │                         │ └─o
+            │                         │   ├─o Blastomerycinae +
+            │                         │   └─o Moschinae
+            │                         └─o
+            │                           ├─o Antilocapridae
+            │                           │ ├─? Merycodontinae +
+            │                           │ └─o Antilocaprinae
+            │                           │   ├─o Proantilocapra +
+            │                           │   └─o
+            │                           │     ├─o Ilingoceratini +
+            │                           │     └─o
+            │                           │       ├─o Antilocaprini
+            │                           │       └─o Stockoceratini +
+            │                           └─o
+            │                             ├─o Palaeomerycidae +
+            │                             │ ├─o Palaeomerycinae +
+            │                             │ └─o
+            │                             │   ├─o Aletomerycinae +
+            │                             │   └─o Dromomerycinae +
+            │                             │     ├─o Dromomerycini +
+            │                             │     └─o Cranioceratini +
+            │                             └─o
+            │                               ├─o Hoplitomerycidae +
+            │                               └─o Cervidae
+            │                                 ├─o Hydropotinae
+            │                                 └─o
+            │                                   ├─o Muntiacinae
+            │                                   │ ├─o Lagomerycini +
+            │                                   │ └─o
+            │                                   │   ├─o Dicrocerini+
+            │                                   │   └─o Muntiacini
+            │                                   └─o
+            │                                     ├─o Odocoilinae
+            │                                     │ ├─o Capreolini
+            │                                     │ └─o
+            │                                     │   ├─o Odocoileini
+            │                                     │   └─o Alceini
+            │                                     └─o Cervinae
+            │                                       ├─o Pliocervini +
+            │                                       └─o
+            │                                         ├─o Megacerini +
+            │                                         └─o Cervini
+            └─o Cetancodonta
+              ├─o Ancodonta
+              └─o Cetacea
+
+
+== Descrição ==
+Os ruminantes são mamíferos herbívoros que possuem vários compartimentos gástricos, por isso também denominados de poligástricos, que ao contrário dos monogástricos que possuem um só compartimento gástrico, o estômago, os ruminantes possuem quatro, o rúmen, retículo, omaso e abomaso.
+O termo ruminantes advém do facto destes animais ruminarem, isto é, depois de ingerirem rapidamente o alimento, após um período eles tornam a regurgitar o alimento para a boca, onde ele é de novo mastigado e deglutido.
+A tomada do alimentos por parte dos ruminantes é feita com a ajuda da língua como se fosse uma "foice" que recolhe o alimento no pasto, cuja altura deve ser compatível com o movimento lingual. O alimento é imediatamente deglutido e chega no primeiro compartimento, o rúmen, onde vários microrganismos se encarregam de quebrar polissacarídeos como a celulose. Após isso, o alimento volta a boca do animal para ser mastigado e, então, deglutido novamente para o término da digestão do alimento.
+Há uma teoria sobre a origem desses animais que diz que estes evoluíram de um ancestral comum que era capaz de ruminar, e, portanto, sendo menos dependente da permanência constante em pastagens em campos abertos, sujeitos a ataques de predadores.
+A característica principal dos ruminantes é o consumo de fibras (celulose e hemicelulose) obtidas das gramíneas (poaceas) e das leguminosas (fabaceae), e como não possuem um sistema enzimático dotado de celulase, estes necessitam de um conjunto de microorganismos que façam a digestão das fibras. Estes microorganismos são bactérias e protozoários celulíticos, que fermentam, no rúmen, as fibras e produzem ácidos orgânicos (acetato, butirato e propionato) que são assimilados pelo ruminante para obter energia. Estes organismos, depois de saírem do rúmen para o intestino, são fonte de proteína e de vitaminas para os ruminantes.
+O sistema digestivo dos ruminantes é composto por:
+Boca
+Língua
+Esôfago
+Estômago
+Rúmen
+Retículo
+Omaso
+Abomaso
+Fígado (glândula anexa)
+Pâncreas (glândula anexa)
+Intestino grosso
+Intestino delgado
+Recto
+Ânus
+
+		
+		
+		
+		
+		
+		
+		
+
+
+== Referências ==

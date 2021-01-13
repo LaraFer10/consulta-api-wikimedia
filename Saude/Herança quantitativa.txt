@@ -1,0 +1,30 @@
+Herança quantitativa ou poligênica é um tipo de herança genética, na qual participam dois ou mais pares de genes com segregação independente, resultando em um efeito acumulativo de vários genes envolvidos, cada um contribuindo com uma parcela para a formação da característica. 
+Possui esse nome (quantitativa) porque o fenótipo é determinado, entre outros aspectos, pela quantidade que um indivíduo apresenta de um determinado gene expressivo. Como exemplo, vamos mencionar o caráter da cor da pele humana:
+
+O aspecto que diferencia este tipo de herança é a variação contínua ou gradual, o que significa que entre os extremos (negro e branco) existem diversos fenótipos intermediários.
+Essa característica parece ser controlada por dois pares de genes alelos A e B, sendo que alelos representados por letras maiúsculas determinam a produção de grande quantidade de pigmento melanina nas células da pele, enquanto os alelos representados por letras minúsculas levam a produção de menor quantidade de pigmento.
+Vale ressaltar que nesse tipo de herança não existem genes dominantes ou recessivos.
+Os cientistas atribuem cinco categorias de coloração da pele humana.Em 2005, cientistas americanos que investigam o genoma humano, decifraram o gene slc24A5 que determina a transmissão da herança da cor da pele humana. Verificaram que os descendentes de europeus (europeus-caucasianos) possuem uma variante deste gene conseguida através de mutação ao longo do processo evolutivo da espécie.
+Estudos posteriores revelaram ainda que pessoas mestiças (“mulatos”) portadoras da forma "europeia" do gene tendiam a apresentar a pele mais clara, o que os levou a concluir que a contribuição desse gene na formação do fenótipo da cor da pele é de 38 por cento, portanto maior que a contribuição dos genes responsáveis por transmitir a cor escura entre a população dos mestiços.
+Esta descoberta faz cair por terra a proporcionalidade dos fenótipos dos indivíduos esperados pela Lei da Segregação Independente dos genes ou Segunda Lei de Mendel para a característica da cor da pele humana, na qual o número de descendentes para negros claros deverá ser significativamente maior.
+Um exemplo, em que podemos observar o efeito da versão "europeia" do gene para cor da pele é o povo brasileiro, que, hoje, é constituído, em sua maioria, por negros claros, portanto observa-se um clareamento da população ao longo dos anos segundo dados do Instituto Brasileiro de Geografia e Estatística (IBGE).
+As denominações para o fenótipo cor da pele humana usados em genética como de negro claro e médio, possuem diferente conotação social dependendo da cultura do país de origem do indivíduo. Na cultura brasileira, por exemplo, os negros claros são chamados de brancos, assim como os negros médios de morenos claros, e negros de “morenos escuros”.
+Em casos de investigação de paternidade, a cor da pele constitui-se em uma das provas não sanguíneas de transmissão genética para exclusão do suposto pai, isto significa dizer que existem casos em que a exclusão do suposto pai é possível.
+
+Casos em que se pode excluir a paternidade (nos casos possíveis de exclusão, o exame de DNA apenas irá confirmar o resultado obtidoNo cruzamento entre negros escuros não pode haver descendentes negros claros e brancos.
+No cruzamento entre negros claros não pode haver descendentes negros escuros e negros.
+No cruzamento entre brancos não pode haver descendentes negros.
+No cruzamento entre negros não pode haver descentes brancos.Casos em que não se pode excluir a paternidade
+casal ser composto por:branco x negro;
+negro médio x negro médio.Nota: nestes casos, pode haver descendentes com todas as possibilidades fenotípicas, não havendo possibilidade de exclusão, e a identificação da paternidade só será possível com o exame de DNA.
+Na determinação da cor da pele dos descendentes de um suposto casal, é feito um estudo sobre os antepassados de ambos. Quando o os genótipos envolvidos dessa família são conhecidos, é possível calcular os possíveis genótipos e fenótipos dos filhos.
+Além disso, em geral, quando o valor métrico é plotado contra a frequência em uma população natural, a curva de distribuição apresenta um formato semelhante a um sino. O formato de sino ocorre em virtude de os valores médios na parte intermediária serem os mais comuns, enquanto os valores extremos são raros. Primeiramente, é difícil observar como as distribuições contínuas podem ser influenciadas por genes herdados de modo mendeliano. Afinal, toda análise mendeliana é facilitada por meio da utilização de categorias claramente distinguíveis. Entretanto, veremos que a distribuição independente de diversos a muitos genes heterozigotos que afetam um traço contínuo pode produzir uma curva em sino, sendo as extremidades da curva a expressividade mínima e máxima do caráter, e a parte central (parte alta do sino) a expressividade média do caráter. 
+A identificação de poligenes e a compreensão sobre como eles atuam e interagem são desafios importantes para os geneticistas no século XXI. A identificação de poligenes será especialmente importante na medicina. Acredita-se que muitas doenças humanas comuns, tais como a aterosclerose e a hipertensão, apresentem um componente poligênico. Nesse caso, uma total compreensão sobre essas condições, que afetam grandes proporções de populações humanas, requer uma compreensão sobre esses poligenes, sua herança e função. Atualmente, diversas abordagens moleculares podem ser aplicadas à tarefa de encontrar poligenes. Observe que os poligenes não são considerados uma classe funcional especial de genes. Eles são identificados como um grupo apenas no sentido em que apresentam alelos que contribuem para a variação contínua. 
+
+
+== Referências ==
+
+
+== Bibliografia ==
+Revista Science,Vol.310 p.1121, 2005.
+KING,Robert C..Genética, Espasa-Calpe-Madrid 1999.

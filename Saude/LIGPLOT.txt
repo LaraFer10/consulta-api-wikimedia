@@ -1,0 +1,8 @@
+Em bioinformática LIGPLOT é um programa de computador que gera representações esquemáticas de 2-D de complexos proteína-ligantes a partir da entrada de arquivo padrão do Protein Data Bank. O LIGPLOT é usado para gerar imagens para o recurso PDBsum que resume a estrutura molecular. O LIGPLOT foi sucedido pelo software LigPlot+ escrito em Java pelos mesmos autores .
+
+
+== Ligações externas ==
+Manual do LIGPLOT
+
+
+== Referências ==

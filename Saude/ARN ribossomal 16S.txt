@@ -1,0 +1,7 @@
+RNA ribossomal 16s (ou 16S rRNA) é um componente da pequena subunidade 30S dos ribossomos procarióticos. Devido as baixas taxas de evolução da região, o 16S rRNA é utilizado em reconstrução filogenética.Múltiplas sequências de 16S rRNA em uma única bactéria.Os estudos que utilizam o 16 rRNA, se utilizam da sequência no DNA que codifica a região 16S e realiza comparações com outros procariontes, tendo em vista a baixa taxa de mutação nessa região do DNA. Até o ano de 2020 esse método é considerado de referência para análise da taxonomia de bactérias.O método se trata de encontrar a região 16S da bactéria e realizar seu isolamento por primers (fazem a seleção do local a ser amplificado) específicos, após essa etapa é realizada a Reação em cadeia das polimerases (PCR) com o objetivo de aumentar grandemente o número de cópias dessa região. Após essa etapa as cópias são utilizados em uma máquina de sequenciamento genético, sendo o aumento no número de cópias essencial para detecção no sequenciador
+
+
+== Estrutura ==
+
+
+== Referências ==

@@ -1,0 +1,63 @@
+Via de administração refere-se à aplicação e transporte de um fármaco ao local de ação.
+
+
+== Classificação ==
+As vias de administração de fármacos podem ser a grosso modo divididas em:
+
+Tópica: efeito local; a substância é aplicada diretamente onde se deseja a sua ação (o fármaco é exposto sobre a pele).
+Enteral: efeito sistêmico (não-local); recebe-se a substância via trato digestivo.
+Parenteral: efeito sistêmico; recebe-se a substância por outra forma que não pelo trato digestivo.A agência FDA americana reconhece 119 tipos diferentes de vias de administração. A seguir está uma lista breve de algumas delas.
+
+
+=== Tópica ===
+epidérmica (aplicação sobre a pele), p. ex. teste de alergia, anestesia local tópica
+inalável, p. ex. medicamentos para asma
+enema, p. ex. meio de contraste para imagem digestiva
+colírios (sobre a conjuntiva), p. ex. antibióticos para conjuntivite
+gotas otológicas, como antibióticos e corticoides para otite externa
+intranasal, p. ex. spray descongestionante nasal
+
+
+=== Parenteral por injeção ou infusão ===
+injeção intravenosa (na veia), p. ex. várias drogas, nutrição parenteral total
+injeção intra-arterial (na artéria), p. ex. drogas vasodilatadoras para o tratamento de vasoespasmos e drogas trombolíticas para o tratamento de embolia
+injeção intramuscular (no músculo), p. ex. várias vacinas, antibióticos e agentes psicoativos de longa duração.
+injeção intracardíaca
+injeção subcutânea (sob a pele), p. ex. insulina
+infusão intraóssea (na medula óssea) é um acesso intravenoso indireto porque a medula óssea acaba no sistema circulatório. Esta via é usada ocasionalmente para drogas e fluidos na medicina de emergência e na pediatria, quando o acesso intravenoso é difícil
+injeção intradérmica, (na própria pele) é usada para teste de pele de alguns alergênicos e também para tatuagens
+injeção intraperitoneal, (no peritônio) é predominantemente usada na medicina veterinária e no teste de animais para a administração de drogas sistêmicas e fluidos, devido à facilidade de administração comparada com outros métodos parenterais.
+
+
+=== Parenteral (que não por injeção ou infusão) ===
+transdérmica (difusão através da pele intacta), p. ex. emplastro de opioide transdérmico para terapia da dor
+transmucosa (difusão através de uma membrana mucosa), p. ex. inalação de cocaína, nitroglicerina sublingual
+inalável, p. ex. inalação de anestésicos.
+
+
+=== Outras ===
+intraperitoneal (infusão ou injeção na cavidade peritoneal), p. ex. diálise peritoneal
+epidural (sinônimo: peridural) (injeção ou infusão no espaço epidural), p. ex. anestesia epidural
+intratecal (injeção ou infusão no fluido cerebroespinhal), p. ex. antibióticos, anestesia espinhal ou anestesia geral
+
+
+== Usos ==
+Algumas vias de administração podem ser usadas tanto para propósitos tópicos quanto sistêmicos, dependendo das circunstâncias. Por exemplo, a inalação de drogas para asma visa agir sobre as vias aéreas (efeito tópico), enquanto que a mesma inalação, porém, de anestésicos voláteis visa agir sobre o cérebro (efeito sistêmico).
+Por outro lado, uma mesma droga pode produzir diferentes resultados dependendo da via de administração. Por exemplo, algumas drogas não são absorvidas significativamente na corrente sanguínea a partir do trato gastrointestinal e, por isso, sua ação após administração enteral é diferente daquela após administração parenteral. Isto pode ser ilustrado pela ação da naloxona, um antagonista de opiáceos como a morfina. A naxolona contra-ataca a ação do opiáceo, no sistema nervoso central, quando administrado por via intravenosa e por isso é usada no tratamento de overdose de opiáceos. A mesma droga, porém, quando engolida, age exclusivamente no sistema digestivo; é assim usado para tratar constipações sob terapia da dor com opiáceos e não afeta o efeito de redução da dor causado pelo opiáceo.
+As vias enterais são geralmente a mais conveniente para o paciente, já que não há necessidade de se fazer punções ou utilizar procedimentos de esterilização. Medicamentos enterais são, por isso, frequentemente os mais preferidos para deficiências crônicas. Porém, algumas drogas não podem ser administradas desta forma porque sua absorção no trato digestivo é baixa ou imprevisível. A administração transdérmica é uma alternativa confortável; há, porém, somente algumas poucas preparações medicamentosas adequadas para a administração transdérmica.
+Em situações graves ou nas medicinas de emergência e de tratamento intensivo, as drogas são muito frequentemente administradas por via intravenosa. Isto ocorre porque pacientes pouco ou muito doentes podem apresentar alterações na absorção de substâncias através dos tecidos, ou alterações na motilidade digestiva, que podem causar absorção imprevisível do medicamento.
+
+
+== Ver também ==
+Injeção
+Cateter
+Terapia intravenosa
+Agulha hipodérmica
+
+
+== Referências ==
+
+
+== Ligações externas ==
+FDA Center for Drug Evaluation and Research Data Standards Manual: Route of Administration.
+FDA Center for Drug Evaluation and Research Data Standards Manual: Dosage Form.

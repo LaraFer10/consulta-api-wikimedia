@@ -1,0 +1,27 @@
+A reação de Sabatier ou processo de Sabatier envolve a reação do hidrogênio com o dióxido de carbono em temperaturas e em pressões elevadas na presença de um catalisador de níquel, cujo resultado final é o metano e a água. A reação de Sabatier é descrita pela seguinte equação:
+CO2 + 4 H2 → CH4 + 2 H2OEsta reação foi descoberta pelo químico francês Paul Sabatier. E tem sido proposta como um passo chave para o envio de missões tripuladas a  Marte. Nestas missões poderiam se levar tanques cheios de hidrogênio da terra, ou então produzir-lo a partir da água marciana por meio de eletrólise, conseguindo então oxigênio.
+A reação é exotérmica e produz uma energia de aproximadamente 165 kJ (este valor é apenas referencial, já que varia dependendo das condições). A reação se dá em um reator, cujas paredes estão revestidas de níquel que atua como catalisador.
+
+
+== Suporte de vida na Estação Espacial Internacional ==
+Atualmente, os geradores de oxigênio a bordo da Estação espacial internacional produzem oxigênio da água por meio de eletrólise e despejam o hidrogênio produzido no espaço. Quando os astronautas consomem o oxigênio, é produzido dióxido de carbono que deve ser removido do ar e descartado também. Este método requer que uma grande quantidade de àgua seja transportada para a estação espacial para a geração de oxigênio para ser adicionado ao que é utilizado no consumo humano, na higiene, e outros usos. Isto não é possível em uma missão de longa duração além dos limites da órbita da terra.
+A NASA está atualmente investigando o uso da reação de Sabatier para recuperar água a partir do dióxido de carbono exalado, para o uso na EEI e em futuras missões espaciais. O outro resultante químico, metano, poderá ser descartado no espaço. A metade do hidrogênio de entrada torna é desperdiçado junto com o metano, então é necessário hidrogênio adicional que deve ser fornecido da terra para equilibrar a diferença gerada. Então, isto cría um ciclo quase fechado entre a água, o oxigênio, e o dióxido de carbono que requer somente uma quantidade relativamente modesta de hidrogênio importado para manter-se.
+Ignorando-se outros resultados de respiração o ciclo pode ser visto como:
+
+2 H2O → O2 + 2 H2 → (respiração) → CO2 + 2 H2 + 2 H2 (adicionada) → 2 H2O + CH4 (descartada)A volta pode ser fechada completamente com o metano desperdiçado para combustão:
+
+CH4 + calor → C + 2 H2O hidrogênio liberado é então reciclado para trás no reator de Sabatier, saindo de um depósito facilmente removivel de grafita. O reator seria pouco mais do que uma tubulação de aço, e o serviço de manutenção poderia periodicamente executado por um astronauta. A reação de Bosch está sendo investigado também para esta finalidade. Embora a reação de Bosch apresente um ciclo completamente fechado entre o hidrogênio e o oxigênio e que produzisse somente o carbono atômico como desperdício, as dificuldades de manutenção de alta temperatura que a reação requer. São necessárias  significativas pesquisas antes que um reator de Bosch possa se transformar uma realidade. Um problema é que a produção do carbono elemental tende a sujar a superfície do catalisador, o que é prejudicial à eficiência da reação.
+
+
+== Produção Em Marte ==
+A reação de Sabatier foi proposta como uma etapa chave na redução do custo da exploração de Marte. Depois da produção do metano e da água, combinando-se o hidrogênio transportado da Terra e do dióxido de carbono presente na atmosfera de Marte, o oxigênio seria extraído da água pela eletrólise e usado como um propulsor do foguete junto com o metano.
+
+
+== Referências ==
+
+
+== Ligações externas ==
+«A Crewed Mission to Mars» (em inglês) 
+«Development of an improved Sabatier reactor» (em inglês) 
+«Improved Sabatier Reactions for In Situ Resource Utilization on Mars Missions» (PDF) (em inglês) 
+«Energielandschaft Morbach» (em alemão)

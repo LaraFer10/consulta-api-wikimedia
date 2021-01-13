@@ -1,0 +1,23 @@
+As penicilinas amidases são utilizadas durante a produção de penicilinas semissintéticas, dado que permite gerar o núcleo das penicilinas através da eliminação da cadeia lateral da penicilina G produzida em cultivos de cepas do fungo Penicillium. Esta reação origina a formação do ácido 6-aminopenicilánico, componente que, a partir de posteriores modificações catalisadas  por outras enzimas, poder-se-á obter numerosos antibióticos.Em enzimologia, uma penicilina amidase (EC 3.5.1.11) é uma enzima que catalisa a reação química:
+
+penicilina + H2O 
+  
+    
+      
+        ⇌
+      
+    
+    {\displaystyle \rightleftharpoons }
+   carboxilato + 6-aminopenicilanatoAssim, os dois substratos desta enzima são a penicilina e a H2O, enquanto que os seus dois produtos são um carboxilato e 6-aminopenicilanato.
+Esta enzima pertence à família das hidrolases que actuam sobre ligações de carbono-nitrogénio que não sejam ligações peptídicas, especificamente em lineares amidas. A designação sistemática desta classe de enzimas é penicilina amido-hidrolase. Outros nomes que também são utilizados são penicilina acilase, bencilpenicilina acilase, novozym 217, semacilase, alfa-acilamino-beta-lactam acil-hidrolase, e ampicilina acilase.  Esta enzima participa na biossíntese de penicilina e cefalosporina.
+
+
+== Estudos estruturais ==
+A fins de 2007, foram resolvidas 34 estruturas para esta classe de enzimas, com os seguintes códigos de acesso em PDB: PDB 1AI4, PDB 1AI5, PDB 1AI6, PDB 1AI7, PDB 1AJN, PDB 1AJP, PDB 1AJQ, PDB 1CP9, PDB 1E3A, PDB 1FXH, PDB 1FXV, PDB 1GK0, PDB 1GK1, PDB 1GK9, PDB 1GKF, PDB 1GM7, PDB 1GM8, PDB 1GM9, PDB 1H2G, PDB 1JX9, PDB 1K5Q, PDB 1K5S, PDB 1K7D, PDB 1KEC, PDB 1PNK, PDB 1PNL, PDB 1PNM, PDB 2ADV, PDB 2AE3, PDB 2AE4, PDB 2AE5, PDB 2IWM, PDB 2PVA, e PDB 3PVA.
+
+
+== Referências ==
+
+
+== Bibliografia ==
+Sakaguchi K and Murao S (1950). «A preliminary report on a new enzyme, "penicillin-amidase"». J. Agric. Chem. Soc. Jpn. 23. 411 páginas

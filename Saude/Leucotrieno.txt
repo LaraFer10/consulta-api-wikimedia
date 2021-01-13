@@ -1,0 +1,48 @@
+Leucotrienos são lipídios da família dos eicosanóides. São mediadores autócrinos e parácrinos derivados da via mediada pela lipo-oxigenase da cascata do ácido araquidônico.
+Os leucotrienos são extremamente potentes na constrição da musculatura lisa. Além disso, os leucotrienos participam nos processos de inflamação aguda, aumentando a permeabilidade vascular e favorecendo, portanto, o edema da zona afetada.
+
+
+== Tipos ==
+LTA4, LTB4, LTC4, LTD4, LTE4, LTF4
+
+
+== Biossíntese ==
+O controle da biossíntese dos leucotrienos está envolvido com a liberação do ácido aracdônico e com a regulação da atividade da 5-lipoxigenase, ou seja, a disponibilidade de ácido graxo. A síntese se inicia com a interação de alguns hormônios, como por exemplo a histamina, bradicinina, angiotensina II e trombina. 
+
+O ácido aracdônico pode ser oxidado pela 5-lipoxigenase em conjunto com a proteína auxiliar FLAP (5-LO-activing protein) formando um intermediário instável LTA4. LTA4 pode ser hidrolisado e formar LTB4 ou pode ser conjugado pela glutationa formando LTC4, que é convertido a LTD4 e por fim para LTE4, que tem ação de quimiotração de neutrófilos, células envolvidas na asma, por exemplo. Os LTC4, LTD4 e LTE4 formam o que chamamos de cisteinil-leucotrienos ou peptidoleucotrienos.
+
+
+== Produção ==
+Os leucotrienos são liberados por células inflamatórias quando são ativadas como leucócitos polimorfonucleares, macrófagos ativados e mastócitos. As células dendríticas, como possuem maquinaria para converter ácido aracdônico em leucotrienos pós-inflamatórios, também estão responsáveis por sua produção.
+Essa produção ocorre pela via da lipoxigenase a partir do ácido aracdônico.
+
+
+== Receptores ==
+Foram identificados três tipos de receptores onde os leucotrienos atuam:
+- Receptor para LTB4;
+- Receptor para cisteinil-leucotrieno 1 (CysLt1);
+- Receptor para cisteinil-leucotrieno 2 (CysLt2).
+O receptor principal em seres humanos é o CysLt1.
+
+
+== Patologia ==
+Elevação na produção de leucotrienos pode estar associada a doenças inflamatórias como:
+- Asma;
+- Artrites;
+- Glomerulonefrite;
+- Doenças inflamatórias do intestino.
+
+
+== Alvo Farmacológico ==
+Os fármacos anti-leucotrienos são desenvolvidos com objetivo de:
+- Inibir a enzima 5-lipoxigenase, a FLAP,ou a PLA2;
+- Serem antagonistas dos receptores dos leucotrienos. 
+Ao inibir a enzima 5-lipoxigenase, com o fármaco Zileuton por exemplo, se diminui o broncoespasmo para o tratamento da asma. Inibindo essa enzima, a produção de peptidoleucotrienos e de LTB4 é bloqueada, sendo um importante fármaco para o tratamento de asma. 
+
+Já os antagonistas seletivos de receptores de leucotrienos bloqueiam principalmente a CysLt1, que mediam ações de peptidoleucotrienos. 
+
+
+== Referências ==
+LIMA, Lídia Moreira; FRAGA, Carlos Alberto Manssour  and  BARREIRO, Eliezer J..Agentes antiasmáticos modernos: antagonistas de receptores de leucotrienos cisteínicos. Quím. Nova[online]. 2002, vol.25, n.5, pp.825-834. ISSN 0100-4042.  http://dx.doi.org/10.1590/S0100-40422002000500019. 
+CANAVACI, Adriana Monte Cassiano. Papel dos leucotrienos durante a infecção experimental de camundongos com 'Trypanosoma cruzi'. 2007. Dissertação (Mestrado em Biociências Aplicadas à Farmácia) - Faculdade de Ciências Farmacêuticas de Ribeirão Preto, University of São Paulo, Ribeirão Preto, 2007. doi:10.11606/D.60.2007.tde-27032009-152740. Acesso em: 2019-07-01.
+BORGES, Wellington G.. Antileukotrienes, A Revista Brasileira de Alergia e Imunopatologia. vol.24, n.4, Jul/Ago 2001.

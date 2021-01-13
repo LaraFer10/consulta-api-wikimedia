@@ -1,0 +1,25 @@
+Análise custo-efetividade ou análise de custo-efetividade (ACE) é uma forma de análise econômica que compara os custos relativos e os resultados (efeitos) de diferentes cursos de ação. A análise custo-efetividade é diferente da análise custo-benefício, que atribui um valor monetário à medida do efeito. A análise custo-efetividade é frequentemente usada no campo dos serviços de saúde, onde pode ser impróprio monetizar o efeito na saúde. Normalmente, a ACE é expressa em termos de uma relação em que o denominador é um ganho em saúde até certo ponto (anos de vida, nascimentos prematuros evitados, anos à vista ganhos) e o numerador é o custo associado ao aumento da saúde. A medida de desfecho mais comumente usada são os anos de vida ajustados pela qualidade (quality-adjusted life year, QALY).A análise custo-utilidade é semelhante à análise custo-efetividade. As análises custo-efetividade são frequentemente visualizadas em um plano que consiste em quatro quadrantes, o custo representado em um eixo e a eficácia no outro eixo. A análise custo-efetividade se concentra em maximizar o nível médio de um resultado, a análise custo-efetividade distributiva estende os métodos básicos da ACE para incorporar preocupações com a distribuição de resultados, bem como seu nível médio e fazer compensações entre equidade e eficiência, esses métodos mais sofisticados são de particular interesse ao analisar intervenções para combater a desigualdade em saúde.
+
+
+== Aplicações ==
+O conceito de custo-efetividade é aplicado ao planejamento e gestão de muitos tipos de atividades organizadas. É amplamente utilizado em muitos aspectos da vida. Na aquisição de tanques militares, por exemplo, projetos concorrentes são comparados não apenas pelo preço de compra, mas também por fatores como raio de operação, velocidade máxima, cadência de tiro, proteção blindada, penetração de blindagem e calibre de suas armas. Se o desempenho de um tanque nessas áreas for igual ou até ligeiramente inferior ao de seu competidor, mas substancialmente menos caro e mais fácil de produzir, os planejadores militares podem selecioná-lo como mais econômico do que o competidor.
+Por outro lado, se a diferença de preço for próxima de zero, mas o concorrente mais caro apresentaria uma enorme vantagem no campo de batalha por meio de munição especial, controle de disparo por radar e descoberta de alcance de laser, permitindo destruir tanques inimigos com precisão em distâncias extremas, os planejadores militares podem escolher em vez disso — com base no mesmo princípio de custo-efetividade. A seleção da medida de efeito apropriada deve ser baseada no julgamento clínico no contexto da intervenção considerada.
+
+
+=== Em farmacoeconomia ===
+No contexto da farmacoeconomia, o custo-efetividade de uma intervenção terapêutica ou preventiva é a relação entre o custo da intervenção e uma medida relevante de seu efeito. O custo refere-se ao recurso gasto para a intervenção, geralmente medido em termos monetários, como reais ou euros. A medida dos efeitos depende da intervenção considerada. Exemplos incluem o número de pessoas curadas de uma doença, a redução de mm Hg na pressão arterial diastólica e o número de dias sem sintomas vivenciados por um paciente.
+Um caso especial de ACE é a análise custo-utilidade (ACU), onde os efeitos são medidos em termos de anos de plena saúde vividos, usando uma medida como anos de vida ajustados pela qualidade (QALY) ou esperança de vida corrigida pela incapacidade (EVCI). O custo-efetividade é normalmente expresso como uma relação de custo-efetividade incremental (ICER), a relação entre a variação dos custos e a variação dos efeitos.
+
+
+=== Em investimentos em eficiência energética ===
+A ACE é aplicada em investimentos em eficiência energética em edifícios para calcular o valor da energia economizada em $/kWh. A energia em tal cálculo é virtual no sentido de que nunca foi consumida, mas sim economizada devido a algum investimento em eficiência energética sendo feito. Essas economias às vezes são chamadas de negawatts. O benefício da ACE em sistemas de energia é que ela evita a necessidade de adivinhar os preços futuros da energia para fins de cálculo, removendo assim a principal fonte de incerteza na avaliação dos investimentos em eficiência energética.
+
+
+== Referências ==
+
+
+== Ligações externas ==
+Why some drugs are not worth it BBC report (em inglês)
+World Health Organization – CHOICE (Choosing Interventions that are Cost Effective) (em inglês)
+ISPOR-CO, The Colombian Chapter of The International Society for Pharmacoeconomics and Outcomes Research (em inglês)
+International Cost Estimating and Analysis Association (em inglês)

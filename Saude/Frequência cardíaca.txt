@@ -1,0 +1,82 @@
+A frequência cardíaca é a velocidade do ciclo cardíaco medida pelo número de contrações do coração por minuto (bpm). Ela pode variar de acordo com as necessidades físicas do organismo, incluindo a necessidade de absorção de oxigênio e excreção e de gás carbônico. É usualmente igual ou próxima à pulsação arterial medida em qualquer ponto periférico. Pode ser alterada por exercícios físicos, sono, ansiedade, estresse, doença ou ingestão de drogas.
+Muitos textos citam a frequência cardíaca normal de um adulto humano em repouso como variando entre sessenta e cem batidas por minuto. Taquicardia é uma alta frequência cardíaca, definida como acima de cem batidas por minuto em repouso. Numerosos estudos, bem como consenso dos especialistas, indicam que a frequência cardíaca normal de um adulto em repouso fica geralmente entre cinquenta e noventa batidas por minuto. Durante o sono, uma frequência cardíaca entre quarenta e cinquenta batidas por minuto é considerada normal. Quando o coração não bate a uma frequência regular, tem-se a arritmia. Anormalidades na frequência cardíaca geralmente indicam doença.
+
+
+== Medição ==
+
+
+=== Manual ===
+
+A frequência cardíaca pode ser medida, de forma manual, em qualquer lugar do corpo onde pode ser detectada a pulsação arterial. Nestes locais, existe tecido adiposo e tecido epitelial que transmitem o pulso para superfície da pele. Podemos medir a frequência da pulsação arterial pressionando estes locais com os dedos indicador e médio e, frequentemente, as artérias também são comprimidas contra tecidos subjacentes, como ossos, por exemplo.
+Esta medição não deve ser efetuada com o dedo polegar, pois sua forte pulsação arterial pode interferir na correta percepção do pulso aferido.
+De acordo com a intensidade desejada, o indivíduo ou atleta deve manter a frequência cardíaca dentro de um valor mínimo e um valor máximo durante o exercício. Esta faixa de valor chama-se zona de trei, ou zona alvo de treinamento. Abaixo, a reprodução das zonas de treinamento do American College of Sports Medicine (outras zonas de treinamento podem ser encontradas na literatura, como esta da imagem à direita)ː
+Zonas de Treinamento
+
+Outra forma de realizar a contagem é acompanha-la por 30 segundos e multiplicar o resultado por 2, ou acompanhar a contagem por 15 segundos e multiplicar o resultado por 4, e assim por diante. Exemplo: acompanhando a pulsação arterial por 15 segundos contamos 21 pulsos, neste caso efetuamos o cálculo de 21 x 4 e encontramos o valor de 84 bpm. Acompanhando a pulsação arterial por um tempo menor do que 1 minuto podemos multiplicar erros de contagem se, por exemplo, em vez de contarmos 21 pulsos tivéssemos contado 2 pulsos a mais ou a menos, teríamos uma diferença de 8 bpm. Este erro agrava-se quanto menor for o tempo de acompanhamento.
+
+
+=== Monitores cardíacos ===
+
+Uma forma prática de acompanhar frequência cardíaca em exercício é por meio de monitores cardíacos de pulso, atualmente bastante difundidos entre atletas amadores e profissionais pelo baixo custo do equipamento e facilidade de uso da frequência cardíaca para controlar a intensidade de treinamentos cardiorrespiratórios.
+Este tipo de equipamento consiste de um aparelho monitor, parecido com um relógio, que é colocado no pulso. Outra parte do equipamento é uma fita elástica, com eletrodos, que é colocada na região torácica e consegue captar a atividade elétrica do coração. A informação captada pelos eletrodos é transmitida para o monitor no pulso onde a frequência cardíaca é visualizada em tempo real. No entanto, estes equipamentos são eficientes apenas durante esforços físicos.
+
+
+=== Eletrocardiograma ===
+
+O método mais preciso de mensuração da frequência cardíaca é o eletrocardiograma, também chamado de ECG. É um teste clínico, não invasivo, e consiste da fixação de elétrodos que captam a atividade elétrica do coração. Esta informação é impressa em papel milimetrado onde podem ser observados os padrões de contração do músculo cardíaco. Este exame pode detectar muitas disfunções cardíacas. Funciona através da detecção de pequenas variações de energia elétrica na pele da pessoa, as quais correspondem as batidas do coração.
+
+
+== Máxima, mínima e repouso ==
+A frequência cardíaca basal (FCbasal) é a frequência cardíaca mensurada em completo repouso, logo após acordar pela manhã e deve ser tomada em declínio dorsal (deitado de costas). No esporte, esta variável fisiológica pode dar pistas sobre a qualidade da recuperação pós treino.
+A frequência cardíaca de repouso (FCrepouso) é a frequência cardíaca mensurada em um indivíduo em repouso (de pelo menos 5 minutos), deitado mas acordado, sem ter exercitado-se antes. Nestas condições, a frequência cardíaca é de aproximadamente 60 a 80 batimentos por minuto.A frequência cardíaca de reserva (FCreserva) é a diferença entre a frequência cardíaca máxima e a frequência cardíaca de repouso.
+FCreserva = FCmax - FCrepouso
+
+
+== Máxima ==
+A frequência cardíaca máxima (FCmax)  é a maior frequência cardíaca possível de ser atingida em esforço, para um determinado indivíduo. O incremento da carga durante um exercício físico aumenta, de forma proporcional, a frequência cardíaca do indivíduo até que esta chegue a um valor máximo, que não pode ser ultrapassado por incrementos na carga e nem por adaptações ao treinamento.Não há evidência de que a frequência cardíaca máxima mude com o nível de condicionamento aeróbico do indivíduo. Mas há um decréscimo substancial com o decorrer da idade. A FCmax pode ser obtida com um teste de esforço máximo ou estimada por fórmulas de predição.
+
+
+=== Teste de Esforço Máximo ===
+
+Este tipo de teste é frequentemente realizado em esteiras ergométricas, ciclo ergômetros ou ciclo ergômetros de manivela. A escolha do equipamento é realizada conforme as limitações do paciente ou a especificidade do esporte praticado pelo atleta. Por exemplo, uma pessoa com limitação motora nos membros inferiores pode utilizar o cicloergômetro de manivela, assim como um atleta que usa predominantemente os membros superiores como um canoísta. O teste de esforço máximo é utilizado, a priori, para encontrar outras variáveis fisiológicas, como o consumo máximo de oxigênio (VO2) ou alterações na função cardíaca. Durante o teste, o indivíduo exercita-se enquanto é monitorado por um eletrocardiograma. A intensidade do exercício é constantemente elevada até que alguma função cardíaca alterada seja percebida ou o indivíduo chegue a exaustão. É indicado que este teste seja realizado no início de um programa de atividades físicas. Ele sempre deve ser acompanhado por um médico cardiologista.
+Quando comparada, a frequência cardíaca máxima obtida por teste de esforço máximo é referida como real, enquanto a frequência cardíaca máxima obtida por fórmulas de predição é referida como estimada.
+Protocolos mais conhecidos
+
+Protocolo de Rampa;Protocolo de Bruce;Protocolo de Ellestad;Protocolo de Naughton;Protocolo de Balke.
+
+
+=== Fórmulas ===
+Existem pesquisas sobre a predição da FCmax por fórmulas, na literatura científica, que remontam a, pelo menos, 1938. Desde então muitos trabalhos propuseram fórmulas com o mesmo objetivo, ou seja, obter a FCmax sem a necessidade da realização de testes máximos. A mais famosa de todas, "220-idade", surpreendentemente parece não ter registros de sua publicação e deriva de um estudo de 1971. Algumas fórmulas extraídas de estudos científicos, por ordem cronológica de publicação:
+População masculina
+
+População feminina
+
+Como pode ser visto, existem várias fórmulas utilizadas para estimar a FCmax. Esta variedade demonstra a dificuldade de se obter uma única fórmula universal. Elas variam, principalmente, de acordo com as peculiaridades da população estudada. Estas fórmulas podem obter valores significativamente diferentes entre a FCmax real e estimada. É necessária uma análise criteriosa para a seleção de uma equação junto a um determinado público específico, não podendo, assim, generalizar o emprego de uma única equação.
+
+
+== Esporte e Exercício ==
+Amplamente utilizada no controle da intensidade de exercícios físicos cardiorrespiratório, a frequência cardíaca é um dos métodos mais práticos para este fim, embora não seja o único (nem o mais preciso). Existem dois métodos principais para controlar a intensidade desses exercícios através da frequência cardíaca. Talvez o mais conhecido seja utilizar um valor percentual da frequência cardíaca máxima, real ou estimada.
+Supondo que um indivíduo possua a FCmax = 190bpm e deseja treinar em uma intensidade de 70%.
+70% FCmax = 190 x 0,7 = 133 bpm
+Outro método, proposto por Karvonen, utiliza a FCreserva da seguinte forma:
+FCtreino = FCrepouso + ((FCmax - FCrepouso) x (intensidade/100)); ou
+FCtreino = FCrepouso + (FCreserva x (intensidade/100)).
+O American College of Sports Medicine recomenda intensidade de exercícios baseados em %FCmax, %FCr, ou %VO2reserva' para o desenvolvimento e a manutenção do condicionamento cardiorrespiratório.
+
+
+=== Zona de treinamento ===
+
+De acordo com a intensidade desejada, o indivíduo ou atleta deve manter a frequência cardíaca dentro de um valor mínimo e um valor máximo durante o exercício. Esta faixa de valor chama-se zona de treinamento, ou zona alvo de treinamento. Abaixo a reprodução das zonas de treinamento do American College of Sports Medicine (outas zonas de treinamento podem ser encontradas na literatura, como esta da imagem à direita):
+Zonas de Treinamento
+
+
+== Ver também ==
+Ciclo cardíaco
+Coração
+
+
+== Referências ==
+
+
+== Bibliografia ==
+NEGRÃO, Carlos Eduardo; BARRETO, Antônio Carlos Pereira. Cardiologia do exercício: do atleta ao cardiopata. São Paulo: Manole; 2005.

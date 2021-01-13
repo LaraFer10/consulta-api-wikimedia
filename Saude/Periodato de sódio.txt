@@ -1,0 +1,32 @@
+Periodato de sódio é um sal inorgânico, composto por um cátion de sódio e o ânion de periodato. Pode também ser considerado como o sal de sódio do ácido periódico. Como muitos periodatos, pode existir em duas formas diferentes: metaperiodato de sódio, que tem a fórmula NaIO4 e ortoperiodato de sódio, normalmente isso significa periodato de hidrogênio de sódio (Na2H3IO6), mas o sal de ortoperiodato de sódio totalmente reagido, Na5IO6, também pode ser preparado. Ambos os sais são agentes oxidantes úteis.
+
+
+== Preparação ==
+Classicamente, o periodato era mais comumente produzido sob a forma de periodato de hidrogênio de sódio (Na3H2IO6). Isto está comercialmente disponível, mas também pode ser produzido pela oxidação de iodatos com cloro e hidróxido de sódio. Ou, similarmente, dos iodetos pela oxidação com o bromo e o hidróxido de sódio:
+
+NaIO3 + Cl2 + 4 NaOH → Na3H2IO6 + 2 NaCl + H2O
+NaI + 4 Br2 + 10 NaOH → Na3H2IO6 + 8 NaBr + 4 H2OA moderna produção em escala industrial envolve a oxidação eletroquímica de iodatos, em um ânodo de PbO2, com o seguinte potencial padrão de eletrodo:
+
+H5IO6 + H+ + 2 e− → IO−3 + 3 H2O      E° = 1.6 VO metaperiodato de sódio pode ser preparado pela desidratação do periodato de hidrogênio de sódio com ácido nítrico.
+Na3H2IO6 + 2 HNO3 → NaIO4 + 2 NaNO3 + 2 H2O
+
+
+== Estrutura ==
+Metaperiodato de sódio (NaIO4) forma cristais tetragonais (grupo espacial I41/a) consistindo em IO−4 levemente distorcida com distâncias de ligação I–O médias de 1.775 Å; os íons Na+ são cercados por 8 átomos de oxigênio nas distâncias de 2.54 e 2.60 Å.Hidrogenato de sódio (Na2H3IO6) forma cristais ortorrômbicos (grupo espacial Pnnm). Átomos de iodo e sódio são ambos cercados por um arraigmento octaédrico de 6 átomos de oxigênio; no entanto, o octaedro NaO6 é fortemente distorcido. Grupos IO6 e NaO6 estão ligados através de vértices e arestas comuns.A difração de pó indica que o Na5IO6 cristaliza no sistema monoclínico (grupo espacial C2/m).
+
+
+== Usos ==
+
+O periodato de sódio pode ser usado em solução para abrir os anéis de sacarídeo entre os dióis vicinais, deixando dois grupos de aldeído. Este processo é frequentemente usado na rotulação de sacarídeos com moléculas fluorescentes ou outros marcadores, como a biotina. Como o processo requer dióis vicinais, a oxidação com periodato é frequentemente usada para rotular seletivamente as extremidades 3′- do RNA (ribose possui dióis vicinais) em vez do DNA, pois a desoxirribose não possui dióis vicinais.
+NaIO4 é usado em química orgânica para clivar os dióis para produzir dois aldeídos.
+
+Em 2013, o Exército dos Estados Unidos anunciou que substituiria os produtos químicos nocivos ao meio ambiente, nitrato de bário e perclorato de potássio, por metaperiodato de sódio, para uso em sua munição traçante.
+
+
+== Ver também ==
+Tetraacetato de chumbo
+
+
+== Referências ==
+
+See Fatiadi, Synthesis (1974) 229–272 for a review of periodate chemistry.

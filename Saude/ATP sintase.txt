@@ -1,0 +1,71 @@
+ATP sintase é o nome genérico dado a enzimas que fornecem energia para o funcionamento das células através da síntese de ATP (trifosfato de adenosina) a partir de ADP (adenosina bifostato) e de fosfato inorgânico, utilizando para isso alguma forma de energia. A sequência da reacção, provocada por esta enzima na presença do ião magnésio, é a seguinte:
+
+ADP + Pi → ATPO ATP é a forma mais comum de transferência de energia nas células da maior parte dos organismos.
+A energia é frequentemente libertada na forma de prótio ou H+, gerando um gradiente eletroquímico, como acontece, a partir do lúmen do tilacoide no estroma dos cloroplastos ou a partir do espaço intermembranoso na matriz das mitocôndrias.
+
+
+== Estrutura ==
+Localizado nas mitocôndrias, a ATP sintase consiste em duas regiões:
+
+A parte FO dentro da membrana.
+A parte F1 da ATP sintase está acima da membrana, dentro da matriz da mitocôndria. A fração F1 deve o seu nome ao termo "Fraction 1" (“Fração 1”) e FO (com a letra "o" subscrita, e não "zero") refere-se ao facto de ser a fração de ligação da oligomicina. A oligomicina, um antibiótico, inibe a unidade FO da ATP sintase.
+Estas regiões funcionais são constituídas por diferentes subunidades proteicas.
+
+
+=== Estrutura F1- ATP Sintase ===
+A partícula F1 é grande e pode ser observada no microscópio eletrónico de transmissão através de coloração negativa. São partículas de 9 nm de diâmetro que polvilham a membrana interna mitocondrial. Eram originalmente chamadas de partículas elementares e pensava-se que continham todo o aparato respiratório da mitocôndria, mas, graças a uma longa série de experiências, Ephraim Racker e os seus colegas (que pela primeira vez isolaram a partícula F1 em 1961) ficaram em condições de demonstrar que esta partícula está correlacionada com a atividade da ATPase em mitocôndrias desacopladas e com a atividade da ATPase em partículas submitocondriais produzida a partir da exposição das mitocôndrias a ultrassons. Esta atividade da ATPase foi ainda associada à produção de ATP graças a uma longa pesquisa laboratorial realizada em diferentes laboratórios.
+
+
+=== Estrutura da FO - ATP sintase ===
+A região FO da ATP sintase é um canal incorporado na membrana mitocondrial por onde passa um fluxo de protões. Consiste em três subunidades principais A, B e C, e (nos humanos) seis subunidades adicionais, d, e, f, g, F6, e 8 (ou A6L).
+
+
+== Modelo de mudança de ligação ==
+Da década de 1960 à década de 1970, Paul Boyer desenvolveu a hipótese do mecanismo de mudança de ligação, ou basculante,  que postulava que a síntese de ATP está associada a uma mudança da conformação na ATP sintase gerada pela rotação da subunidade gama. O grupo de pesquisa de John E. Walker, então nas instalações do MRC Laboratory of Molecular Biology em Cambridge, cristalizou o domínio catalítico da F1 da ATP sintase. A estrutura, que era, na altura, a maior estrutura proteica assimétrica conhecida, indicava que o modelo de catálise rotacional de Boyer era, na sua essência, correta. Por ter esclarecido esta questão, Boyer e Walker partilharam metade do Prémio Nobel da Química de 1997. Jens Christian Skou recebeu a outra metade do prémio desse ano pela "primeira descoberta de uma enzima de transporte de iões, a Na+, K+ -ATPase."
+
+A estrutura cristalina da F1 apresentou subunidades alfa e beta alternadas (três de cada), dispostas como como gomos de laranja em torno de uma subunidade gama assimétrica. De acordo com o modelo corrente da síntese de ATP (conhecido como modelo da alternância catalítica), a força motriz protónica através da membrana mitocondrial interna, gerada pela Cadeia de transporte de electrões, conduz a passagem de protões através da membrana, pela região FO da ATP sintase. A porção FO (o anel de  subunidades c) roda enquanto os protões passam através da membrana. O anel de subunidades C está firmemente ligado ao eixo assimétrico central (que consiste principalmente na subunidade gama), que roda no centro das subunidades alfa3beta3 da F1 obrigando os três centros catalíticos de ligação de nucleótidos a passar por uma série de mudanças de conformação que leva à síntese do ATP. As principais subunidades da F1 são impedidas de rodar em simpatia com o eixo rotational central por um braço lateral que une a alfa3beta3 à porção não rotativa da FO. A estrutura da ATP sintase intacta é atualmente conhecida em baixa resolução graças a  estudos de Criomicroscopia eletrónica (cryo-EM) do complexo. O modelo cryo-EM da ATP sintase sugere que a haste periférica é uma estrutura flexível que envolve o complexo ao unir F1 a FO. Sob as condições adequadas, a reação enzimática pode também ocorrer de forma inversa, com a hidrólise do ATP a levar ao bombeamento de protões através da membrana.
+O mecanismo de mudança de ligação envolve o centro ativo de uma subunidade β alternando ciclicamente entre três estados. No estado “aberto”, o ADP e o fosfato entram no centro ativo; no diagrama à direita isso é representado a vermelho. A proteína, depois, fecha-se sobre as moléculas e liga-as de forma fraca - o estado de “ligação fraca” (mostrado a laranja). A enzima passa, a seguir, por outra mudança de forma e força conjuntamente estas moléculas, com o centro ativo no resultante estado "fechado" (mostrado a rosa) ligando a recém-produzida molécula de ATP de muito elevada afinidade. Finalmente, o centro ativo retorna ao estado aberto, libertando ATP, ligando mais ADP e fosfato, prontos para o próximo ciclo de produção de ATP.
+
+
+== Papel fisiológico ==
+Tal como em outras enzimas, a atividade da F1FO ATP sintase é reversível.  Quantidades suficientemente grandes de ATP levam à criação de um gradiente protónico transmembranar, usado por bactérias fermentadoras sem cadeia de transporte eletrónico, e hidrolisam ATP de modo a gerar um gradiente protónico, usado no movimento dos flagelos e no transporte de nutrientes para o interior da célula.
+Nas bactérias aeróbias, sob as condições fisiológicas adequadas, a ATP sintase, em geral, funciona na direção oposta,  criando ATP quando usa a força protomotriz criada pela Cadeia de transporte de elétrons como fonte de energia. O processo global de criação de energia por este meio designa-se fosforilação oxidativa. O mesmo processo ocorre nas mitocôndrias, onde a ATP sintase está localizada na membrana mitocondrial interna (de modo que a fração F1 se introduza na matriz mitocondrial, onde a síntese de ATP tem lugar).
+
+
+== Evolução da ATP sintase ==
+Crê-se que a  evolução da ATP sintase seja um exemplo de evolução modular durante a qual duas subunidades funcionalmente independentes se associam, ganhando uma nova funcionalidade. Esta associação terá ocorrido cedo na história evolutiva, já que, no seu essencial, tanto a estrutura como a atividade das enzimas ATP sintase estão presentes em todos os reinos dos seres vivos.  A F-ATP sintase apresenta grande semelhança mecânica e funcional com a V-ATP sintase. Contudo, enquanto que a F-ATP sintase gera ATP utilizando um gradiente protónico, a V-ATPase gera um gradiente protónico à custa do ATP, gerando valores de pH mais baixos que 1.
+O domínio F1 também revela semelhanças significativas às ADN-helicases hexaméricas, e o domínio FO revela algumas semelhanças com estruturas do motor flagelar, que utilizam o H+ como fonte de energia. O hexâmero α3β3 do domínio F1 apresenta semelhanças estruturais significativas com as ADN-helicases hexaméricas; ambas formam um anel com simetria radial de três eixos, com um poro central. Ambas têm, também, papéis dependentes da rotação relativa de uma macromolécula no poro; as ADN helicases usam o formato helicoidal do ADN para guiar o seu movimento ao longo da molécula de ADN e para detetar superenrolamentos, enquanto que o hexâmero α3β3 utiliza as alterações conformacionais através da rotação da subunidade γ para conduzir uma reacção enzimática.O motor H+ da partícula FO demonstra uma grande semelhança funcional com os motores H+ presentes em motores flagelares. Ambos apresentam um anel com muitas pequenas proteínas alpha-helicoidais que rodam em relação a proteínas estacionárias nas suas proximidades, usando um gradiente potencial H+ como fonte de energia. Este elo é ténue, contudo, já que a estrutura geral dos motores flagelares é, de longe, mais complexa que a da partícula FO e o anel com cerca de 30 proteínas rotativas é de longe maior que as 10, 11, ou 14 proteínas helicoidais no complexo FO.
+A teoria da evolução modular para a origem da ATP sintase sugere que duas subunidades com funções independentes, uma ADN-helicase com atividade ATPase e motor H+, seriam capazes de se unir, e a rotação do motor terá dirigido inversamente a atividade ATPase da helicase. Este complexo terá desenvolvido posteriormente uma maior eficiência e ter-se-á, eventualmente, desenvolvido maior eficiência evoluindo para o atual complexo ATP sintase. De forma alternativa, o complexo motor H+/DNA helicase terá tido atividade de bombeamento H+, com a atividade ATPase da helicase conduzindo o motor H+ de forma inversa. Isto terá evoluído de modo a concretizar a reação inversa, atuando como ATP sintase.
+
+
+== ATP sintase em diferentes organismos ==
+
+
+=== ATP sintase humana ===
+A lista que se segue inclui genes humanos que codificam componentes da ATP sintase:
+
+ATP5A1, ATP5AL1
+ATP5B, ATP5BL1
+ATP5C2, ATP5D, ATP5E, ATP5F1, ATP5G1, ATP5G2, ATP5G3, ATP5H, ATP5HP1, ATP5I, ATP5J, ATP5J2, ATP5L, ATP5L2, ATP5O, ATP5S
+ATP6, ATP6AP1, ATP6AP2
+ATPSBL1, ATPSBL2
+MT-ATP6, MT-ATP8
+
+
+=== ATP sintase vegetal ===
+Nas plantas, a ATP sintase está também presente nos cloroplastos (CF1FO-ATP sintase). A enzima está integrada na membrana tilacoide; a porção CF1 penetra no estroma, onde ocorrem as reações da fase não luminosa da fotossíntese e onde se procede à síntese de ATP. A estrutura geral e o mecanismo catalítico da ATP sintase dos cloroplastos são praticamente os mesmos que os da enzima mitocondrial. Contudo, nos cloroplastos, a força motriz protónica é gerada, não pela cadeia respiratória de transporte de eletrões mas por proteínas fotossintéticas primárias.
+
+
+=== ATP sintase bovina ===
+A ATP sintase isolada de mitocôndrias de coração  de bovino (‘’Bos taurus’’) é, em termos bioquímicos e estruturais, a ATP sintase mais bem caraterizada. O coração de bovino é usado como fonte desta enzima devido à elevada concentração de mitocôndrias no músculo cardíaco.
+
+
+=== ATP sintase de E. coli ===
+A ATP sintase da 'E. coli  é a forma mais simples conhecida desta enzima, com oito tipos diferentes de subunidades.
+
+
+=== ATP sintase de levedura ===
+A ATP sintase de levedura é uma das ATP sintases eucarióticas mais bem estudadas; tendo sido identificadas cinco subunidades F1, oito FO, e sete proteínas associadas. A maior parte destas proteínas têm proteínas homólogas em outros eucariotas.
+
+
+== Referências ==

@@ -1,0 +1,16 @@
+Xist (transcrição específica inativa X) é um RNA não codificante no cromossomo X dos mamíferos placentários que atua como o principal efetor do processo de inativação X. É um componente do centro de inativação do Xic - cromossomo X - junto com dois outros genes de RNA (Jpx e Ftx) e dois genes de proteínas (Tsx e Cnbp2).O gene XIST humano foi descoberto por Carolyn J. Brown.
+
+
+== Função ==
+A inativação de X é um processo inicial de desenvolvimento em fêmeas de mamíferos que silencia transcricionalmente um dos pares de cromossomos X, fornecendo assim equivalência de dosagem entre machos e fêmeas. O processo é regulado por vários fatores, incluindo uma região do cromossomo X chamada centro de inativação X (XIC).
+
+
+=== Mecanismos moleculares de inativação do cromossomo X ===
+Nos mamíferos, machos e fêmeas variam geneticamente em seus cromossomos sexuais - XX nas fêmeas e XY nos machos. Isso leva a um desequilíbrio potencial, pois mais de mil genes no cromossomo X seriam expressos em dose dupla nas mulheres em comparação aos homens. Para manter esse desequilíbrio os embriões femininos interromperam a expressão dos genes em um de seus dois cromossomos X.
+Sabe-se que uma molécula chamada Xist (transcrição específica X-inativa) inicia o processo. Xist é um RNA longo não codificante - um tipo de molécula criada usando o DNA da célula como modelo, mas que não contém instruções para produzir uma proteína. Xist reveste o cromossomo a partir do qual é expresso e induz o silenciamento.A proteína SPEN (proteína que interage com Msx2) desempenha um papel crucial no processo de inativação do cromossomo X, onde embriões de mamíferos fêmeas silenciam a expressão gênica em um de seus dois cromossomos X.  Xist mobiliza e liga SPEN, que se acumula ao longo do cromossomo X. O SPEN interage com as regiões reguladoras dos genes ativos. Assim que ocorre o silenciamento genético, o SPEN é desativado. Os genes permanecem inativos pelo resto da vida útil da célula. Um domínio específico do SPEN chamado SPOC desempenha o papel principal no silenciamento de genes. Ele reprime a transcrição do DNA para o RNA e interage com várias proteínas envolvidas na síntese do RNA, bem como na remodelação e modificação da cromatina.
+
+
+== Referências ==
+
+
+== Leitura adicional ==

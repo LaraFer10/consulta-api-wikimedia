@@ -1,0 +1,44 @@
+Os fosfolipídios são uma classe de lipídeos que são um dos principais componentes da membrana plasmática da célula. Eles podem acabar formando, igualmente na membrana plasmática uma bicamada, já que possuem características anfipáticas.A estrutura da molécula de fosfolipídios geralmente consiste de duas "caudas" de ácidos graxos hidrofóbicas ligadas por meio de um glicerol a uma "cabeça" hidrofílica consistindo de um grupo fosfato. O grupo fosfato pode ser modificado com moléculas orgânicas simples.A lecitina foi o primeiro fosfolipídio identificado, por volta de 1847, em um ovo do Químico francês Theodore Nicolas Gobley. As membranas celulares em eucariotos também contêm outra classe de lipídios, colesterol, intercalados entre os fosfolipídios e juntos fornecem fluidez de membrana e resistência mecânica, compondo a mais nova teoria da membrana celular que fala dos Lipid rafts (jangada de lipídeos) Fosfolipídios são surfactantes naturais. Os fosfolipídios também são moléculas de sinalização intracelular, assim como componentes da bile. A biossíntese de fosfolipídios está intimamente ligada à biossíntese da membrana celular. Ocorre em todas as células e ocorre no retículo endoplasmático e no aparelho de Golgi.
+
+
+== Síntese dos fosfolipídeos ==
+A síntese de fosfolipídios ocorre no citosol, adjacente à membrana no Retículo Endoplasmático, que possui proteínas que atuam na síntese (GPAT e LPAAT aciltransferases, fosfatase e colina fosfotransferase) e alocação (flip flop). Eventualmente, uma vesícula irá se desprender do RE contendo fosfolipídios destinados à membrana celular citoplasmática em seu folheto externo e fosfolipídeos destinados à membrana celular exoplasmática em seu folheto interno. Essa síntese ocorre em duas etapas. Na primeira etapa, dois ácidos fosfolipídio graxos são ligados a um glicerolfosfato, produzindo um ácido fosfatídico. Essa reação acontece no citoplasma e é do RE, catalisada por uma aciltranferases ligada à membrana do RE. Na segunda etapa, acontece a diferenciação da cabeça polar dos fosfolipídios pela inserção de inositol, serina, etanolamina ou colina, formando diferentes fosfolipídios.
+
+
+== Os fosfolipídios na membrana plasmática ==
+Os fosfolipídios são os principais constituintes das membranas celulares, visto que estas são constituída por uma dupla camada fosfolipídica organizada de modo a que as cabeças hidrofílicas (fosfatos polares) fiquem viradas para o lado exterior da membrana e as caudas hidrofóbicas (ácidos graxos apolares) para o interior.  Uma cauda apresenta uma ou mais ligações cis-atuantes, o que gera uma pequena dobra na mesma, ao passo que a outra cauda não contém tal ligação. A fluidez da membrana é diretamente afetada pela forma como as moléculas fosfolipídicas inserem-se umas nas outras, o que advém das diferenças no comprimento e na saturação das caudas e dos ácidos graxos. Esta organização torna possível o surgimento da permeabilidade seletiva da membrana plasmática. Dessa forma, a difusão simples permite apenas a passagem de moléculas lipossolúveis e de água, apesar de sua característica polar, por esta ser fundamental à vida.A maioria das membranas das células animais é constituída por fosfoglicerídeos, os principais fosfolipídeos presentes nas mesmas. Os fosfoglicerídeos dispõem de uma cadeia principal de glicerol de três carbonos. Pontes ésteres unem duas extensas cadeias de ácidos graxos aos átomos de carbonos adjacentes ao glicerol, enquanto o terceiro átomo de carbono do glicerol está associado a um grupo fosfato, que, por sua vez, se une a um entre os diversos tipos de grupamentos de cabeças. A combinação de variados ácidos graxos e grupamentos de cabeça geram diferentes fosfoglicerídeos, sendo a fosfatidiletanolamina, a fosfatidilserina, a fosfatidilcolina e o esfingolipídeo os mais abundantes fosfoglicerídeos das membranas celulares dos mamíferos e, juntos, compõem mais da metade da massa de lipídeos da maioria dessas membranas. Os esfingolipídeos são compostos por esfingosina ao invés de glicerol, a qual consiste numa extensa cadeia acil com um grupamento amino (NH2) e dois grupos hidroxila (OH) em uma extremidade.
+
+
+== Composição assimétrica da bicamada lipídica ==
+
+A bicamada lipídica é dita como assimétrica devido aos diferentes tipos de lipídios encontrados no folheto externo, no caso: fosfatitilcolina e esfingomielina, e folheto citoplasmático: fosfatidilserina, fostatidilinositol e fosfatidiletanolamina. Ademais, as proteínas extrínsecas ou periféricas são encontradas normalmente em maior frequência no folheto citoplasmático, o que acaba contribuindo para a assimetria.Complementarmente, outro fator que contribui diretamente para a assimetria é a presença de carboidratos apenas no folheto externo. Tudo isso acaba tornando o folheto externo diferente do folheto interno, o que caracteriza a assimetria entre tais camadas.A importância dessa composição assimétrica da bicamada lipídica é que ela não só ajuda na ligação das proteínas, como também proporciona uma maior fluidez, dessa forma, permitindo a rápida difusão de proteínas, lipídios, etc. Além de permitir a fusão de membranas celulares diferentes (junções celulares).
+
+
+== Tipos de fosfolipídios ==
+
+
+=== Lecitinas ===
+São ésteres do ácido fosfatídico nos quais o grupo fosfato é esterificado com o grupo OH da colina. Como exemplo a Lecitina (fosfatidilcolina).
+
+
+=== Cefalinas ===
+São também ésteres do ácido fosfatídico. O álcool que esterifica o fosfato pode ser ou serina ou etanolamina. Como exemplos a Fosfatidiletanolamina e a Fosfatidilserina.
+
+
+=== Plasmalógenos ===
+São cefalinas ou lecitinas onde o ácido graxo da posição terminal é substituído por um aldeído. Formando um hemiacetal, este sendo instável, estando em equilíbrio como glicerol e o aldeído livre. 
+Os plasmalógenos distribuem-se amplamente nos tecidos animais, embora ocorram em baixas concentrações.
+
+
+=== Cardiolipinas ===
+Cardiolipinas são difosfatidilgliceróis onde uma molécula de glicerol se liga a duas moléculas de ácido fosfatídico.
+A cardiolipina - fosfolipídio, isso é um componente importante da membrana interna de mitocôndrias, a composição lipídica que compreende cerca de 20% de cardiolipina. A cardiolipina se encontra na membrana mitocondrial interna das células de mamíferos e de plantas e é necessário para o funcionamento de diversas enzimas envolvido no metabolismo de energia. A cardiolipina é também encontrada em membranas bacterianas.
+A origem do nome "cardiolipina" vem com a descoberta do presente composto: cardiolipina inicialmente foi isolado a partir de tecido do músculo do coração de bovino no início dos anos 1940.
+Na literatura bioquímica  cardiolipina e abreviado como «CL».
+
+
+=== Fosfatidilinositóis ===
+São compostos onde o fosfato do ácido fosfatídico esterifica o myo-inositol fosforilado. Fosfatidilinositóis encontram-se em plantas, microorganismos e animais.
+
+
+== Referências ==

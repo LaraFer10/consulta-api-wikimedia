@@ -1,0 +1,28 @@
+Na fisiologia, complacência (compliance em inglês) é uma medida da resistência de um órgão oco ao recuo às suas dimensões originais com a remoção de uma força compressiva ou distensiva. É um termo recíproco à elastância.
+É calculada através da seguinte equação, onde ΔV é a mudança no volume e ΔP é a mudança na pressão:
+
+  
+    
+      
+        C
+        =
+        
+          
+            
+              Δ
+              V
+            
+            
+              Δ
+              P
+            
+          
+        
+      
+    
+    {\displaystyle C={\frac {\Delta V}{\Delta P}}}
+  
+
+
+== Veja também ==
+Complacência pulmonar

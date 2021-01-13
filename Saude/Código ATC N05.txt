@@ -1,0 +1,285 @@
+O Código ATC N05 (drogas psicolépticas) é um subgrupo terapêutico da classificação ATC (Anatomical Therapeutic Chemical Classification System), um sistema de códigos alfanuméricos desenvolvido pela Organização Mundial da Saúde (OMS) para classificar medicamentos e outros produtos médicos. O subgrupo N05 faz parte do grupo anatômico N (sistema nervoso).Os códigos para uso veterinário (códigos ATCvet) podem ser criados colocando a letra Q antes do código ATC para uso humano: por exemplo, QN05. Os códigos ATCvet sem os códigos ATC humanos correspondentes são citados com a letra Q inicial nessa lista. 
+
+
+== Antipsicóticos N05A ==
+
+
+=== N05AA Fenotiazinas com cadeia lateral alifática ===
+N05AA01 Clorpromazina
+N05AA02 Levomepromazina
+N05AA03 Promazina
+N05AA04 Acepromazina
+N05AA05 Triflupromazina
+N05AA06 Ciammazina
+N05AA07 Clorpromazina
+
+
+=== N05AB Fenotiazinas com estrutura de piperazina ===
+N05AB01 Dixirazina
+N05AB02 Fluflenazina
+N05AB03 Perfenazina
+N05AB04 Proclorperazina
+N05AB05 Tiopropazato
+N05AB06 Trifluoperazina
+N05AB07 Acetofenazina
+N05AB08 Tioproperazina
+N05AB09 Butaperazina
+N05AB10 Perazina
+
+
+=== N05AC Fenotiazinas com estrutura piperidina ===
+N05AC01 Periciazina
+N05AC02 Tioridazina
+N05AC03 Mesoridazina
+N05AC04 Pipotiazina
+
+
+=== N05AD Derivados da butirofenona ===
+N05AD01 Haloperidol
+N05AD02 Trifluperidol
+N05AD03 Melperona
+N05AD04 Moperona
+N05AD05 Pipamperona
+N05AD06 Bromperidol
+N05AD07 Benperidol
+N05AD08 Droperidol
+N05AD09 Fluanisona
+QN05AD90 Azaperona
+
+
+=== N05AE Derivados de indol ===
+N05AE01 Oxipertina
+N05AE02 Molindona
+N05AE03 Sertindol
+N05AE04 Ziprasidona
+N05AE05 Lurasidona
+
+
+=== N05AF Derivados de tioxanteno ===
+N05AF01 Flupentixol
+N05AF02 Clopentixol
+N05AF03 Clorprotixeno
+N05AF04 Tiotixeno
+N05AF05 Zuclopentixol
+
+
+=== N05AG Derivados de difenilbutilpiperidina ===
+N05AG01 Fluspirileno
+N05AG02 Pimozide
+N05AG03 Penfluridol
+
+
+=== N05AH Diazepinas, oxazepinas, tiazepinas e oxepinas ===
+N05AH01 Loxapina
+N05AH02 Clozapina
+N05AH03 Olanzapina
+N05AH04 Quetiapina
+N05AH05 Asenapina
+N05AH06 Clotiapina
+
+
+=== QN05AK Neurolépticos, na discinesia tardia ===
+
+
+=== N05AL Benzamidas ===
+N05AL01 Sulpirida
+N05AL02 Sultoprida
+N05AL03 Tiaprida
+N05AL04 Remoxiprida
+N05AL05 Amisulpride
+N05AL06 Veraliprida
+N05AL07 Levosulpirida
+
+
+=== N05AN Lítio ===
+N05AN01 Lítio
+
+
+=== N05AX Outros antipsicóticos ===
+N05AX07 Protipendil
+N05AX08 Risperidona
+N05AX10 Mosapramina
+N05AX11 Zotepina
+N05AX12 Aripiprazol
+N05AX13 Paliperidona
+N05AX14 Iloperidona
+N05AX15 Cariprazina
+N05AX16 Brexpiprazol
+N05AX17 Pimavanserin
+QN05AX90 Amperozida
+
+
+== N05B Ansiolíticos ==
+
+
+=== N05BA Derivados da benzodiazepina ===
+N05BA01 Diazepam
+N05BA02 Clordiazepóxido
+N05BA03 Medazepam
+N05BA04 Oxazepam
+N05BA05 Clorazepato de potássio
+N05BA06 Lorazepam
+N05BA07 Adinazolam
+N05BA08 Bromazepam
+N05BA09 Clobazam
+N05BA10 Cetazolam
+N05BA11 Prazepam
+N05BA12 Alprazolam
+N05BA13 Halazepam
+N05BA14 Pinazepam
+N05BA15 Camazepam
+N05BA16 Nordazepam
+N05BA17 Fludiazepam
+N05BA18 Loflazepato de etilo
+N05BA19 Etizolam
+N05BA21 Clotiazepam
+N05BA22 cloxazolam
+N05BA23 Tofisopam
+N05BA24 Bentazepam
+N05BA56 Lorazepam, associações
+
+
+=== Derivados de difenilmetano N05BB ===
+N05BB01 Hidroxizina
+N05BB02 Captodiama
+N05BB51 Hidroxizina, associações
+
+
+=== N05BC Carbamatos ===
+N05BC01 Meprobamato
+N05BC03 Emilcamato
+N05BC04 Mebutamato
+N05BC51 Meprobamato, associações
+
+
+=== N05BD Derivados do dibenzo-biciclo-octadieno ===
+N05BD01 Benzoctamina
+
+
+=== N05BE Derivados de azaspirodecanediona ===
+N05BE01 Buspirona
+
+
+=== N05BX Outros ansiolíticos ===
+N05BX01 Mefenoxalona
+N05BX02 Gedocarnil
+N05BX03 Etifoxina
+N05BX04 Fabomotizol
+N05BX05 Lavandulae aetheroleum
+
+
+== N05C Hipnóticos e sedativos ==
+
+
+=== N05CA Barbitúricos, simples ===
+N05CA01 Pentobarbital
+N05CA02 Amobarbital
+N05CA03 Butobarbital
+N05CA04 Barbital
+N05CA05 Aprobarbital
+N05CA06 Secobarbital
+N05CA07 Talbutal
+N05CA08 Vinilbital
+N05CA09 Vinbarbital
+N05CA10 Ciclobarbital
+N05CA11 Heptabarbital
+N05CA12 Reposal
+N05CA15 Metoexital
+N05CA16 Hexobarbital
+N05CA19 Tiopental
+N05CA20 Etalobarbital
+N05CA21 Alobarbital
+N05CA22 Proxibarbal
+
+
+=== N05CB Barbitúricos, associações ===
+N05CB01 Combinações de barbitúricos
+N05CB02 Barbitúricos em combinação com outras drogas
+
+
+=== N05CC Aldeídos e derivados ===
+N05CC01 Hidrato de cloral
+N05CC02 Cloralodol
+N05CC03 Hidrato de cloral de acetil glicinamida
+N05CC04 Dicloralfenazona
+N05CC05 Paraldeído
+
+
+=== N05CD Derivados da benzodiazepina ===
+N05CD01 Flurazepam
+N05CD02 Nitrazepam
+N05CD03 Flunitrazepam
+N05CD04 Estazolam
+N05CD05 Triazolam
+N05CD06 Lormetazepam
+N05CD07 Temazepam
+N05CD08 Midazolam
+N05CD09 brotizolam
+N05CD10 Quazepam
+N05CD11 Loprazolam
+N05CD12 Doxefazepam
+N05CD13 Cinolazepam
+N05CD14 Remimazolam
+QN05CD90 Climazolam
+
+
+=== N05CE Derivados da piperidinediona ===
+N05CE01 Glutetimida
+N05CE02 Metilprilon
+N05CE03 Piritildiona
+
+
+=== N05CF Medicamentos relacionados à benzodiazepina ===
+N05CF01 Zopiclona
+N05CF02 Zolpidem
+N05CF03 Zaleplona
+N05CF04 Eszopiclona
+
+
+=== N05CH Agonistas do receptor de melatonina ===
+N05CH01 Melatonina
+N05CH02 Ramelteona
+N05CH03 Tasimelteon
+
+
+=== N05CM Outros hipnóticos e sedativos ===
+N05CM01 Metaqualona
+N05CM02 Clometiazol
+N05CM03 Bromisoval
+N05CM04 Carbromal
+N05CM05 Escopolamina
+N05CM06 Propiomazina
+N05CM07 Triclofos
+N05CM08 Etclorvinol
+N05CM09 Valeriana (raízes)
+N05CM10 Hexapropimato
+N05CM11 Brometos
+N05CM12 Apronal
+N05CM13 Valnoctamida
+N05CM15 Metilpentinol
+N05CM16 Niaprazina
+N05CM18 Dexmedetomidina
+N05CM19 Suvorexanto
+QN05CM90 Detomidina
+QN05CM91 Medetomidina
+QN05CM92 Xilazina
+QN05CM93 Romifidina
+QN05CM94 Metomidato
+QN05CM99 Combinações
+
+
+=== N05CX hipnóticos e sedativos em combinação, excluindo barbitúricos ===
+N05CX01 Meprobamato, associações
+N05CX02 Metaqualona, associações
+N05CX03 Metilpentinol, associações
+N05CX04 Clometiazol, associações
+N05CX05 Emeprônio, associações
+N05CX06 Dipiperonilaminoetanol, associações
+
+
+== Ver também ==
+Classificação ATC
+Código ATC N: Sistema Nervoso
+
+
+== Referências ==

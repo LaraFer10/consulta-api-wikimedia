@@ -1,0 +1,70 @@
+A Eletroterapia ou "eletricidade médica" como já foi designada consiste no uso de correntes elétricas para o tratamento de pacientes. . Embora seu desenvolvimento tenha se aperfeiçoado mais apenas nas últimas décadas, já na Antiguidade seu uso era empregado. Os registros mais antigos datam de 2.750 a.C., quando eram utilizados peixes elétricos (Torpedo) para produzir choques nos doentes e assim obter analgesia local. Os equipamentos atuais empregam diferentes tipos de correntes, onde o aparelho emite a energia eletromagnética que é então conduzida através de cabos condutores até os eletrodos que ficam aderidos à pele do paciente. Outras formas incluem a utilização de agulhas ao invés de eletrodos, sendo este emprego mais reservado ao uso para terapia estética ou para métodos diagnósticos (a eletroneuromiografia por exemplo).
+Existe uma diversidade de correntes que podem ser utilizadas na eletroestimulação, cada qual com particularidades próprias quanto às indicações e contra-indicações. Mas todas elas tem um objetivo comum: produzir algum efeito no tecido a ser tratado, que é obtido através das reações físicas, biológicas e fisiológicas que o tecido desenvolve ao ser submetido à terapia.
+Entre os principais efeitos esperados do uso dessa(s) forma(s) da energia eletromagnética estão os efeitos térmicos (aumento da temperatura tecidual), a produção de contração muscular (auxiliares na complementação dos programas de exercícios fisioterapêuticos) e estimulação, por sua frequência, capaz de induzir analgesia e reparação de tecidos (efeitos anti-inflamatórios).  Nessa perspectiva a eletroterapia distingue-se das modernas formas de estimulação magnética,   neuroestimulação e eletroacupuntura ou  "estimulação elétrica nervosa percutânea" (PENS), apesar dos objetivos comuns dessas últimas de controle da dor, entre outros efeitos específicos. Observe-se que a aplicação dos distintos procedimentos eletroterapêuticos são realizados por distintos profissionais de saúde, (fisioterapeutas; neurologistas, psiquiatras, acupunturistas, esteticistas)  orientados por sistemas teóricos ainda não completamente integrados ou coerentes.
+
+
+== Uso Terapêutico da Corrente Elétrica ==
+Os aparelhos de eletroterapia utilizam uma intensidade de corrente muito baixa, são miliamperes e microamperes.Os eletrodos são aplicados diretamente sobre a pele e o organismo será o condutor. Na eletroterapia temos que considerar parâmetros como: resistência, intensidade, voltagem, potência e condutividade.
+Resistência é a dificuldade com que os elétrons percorrem um condutor. A resistência é medida em unidades chamadas Ohms e é representada pela letra R. Pode-se dizer que quanto maior for a quantidade de elementos resistivos  se opondo a corrente maior será a resistência encontrada pela mesma ,visto que a resistência tem propriedade somatória. A relação existente entre os parâmetros elétricos é definida pela Lei de Ohm que simplificadamente nos diz que a corrente, num circuito elétrico, é diretamente proporcional à voltagem que é aplicada e inversamente proporcional à resistência do circuito.  A Resistência gerada pela pele é chamada de impedância cutânea(Z) sendo o maior obstáculo as correntes de baixa frequência. Essa impedância também sofre variações por fatores como : temperatura, pilosidade, gordura, espessura da pele, suor, umidade, tipo de  eletrodo.  Em relação à intensidade podemos utilizar o estabelecido pela Lei de Ohm. As principais indicações clínicas desse procedimento são:
+
+Controle da dor aguda e crônica;
+Redução de edema;
+Redução de espasmo muscular;
+Minimização de atrofia por desuso;
+Facilitação da reeducação muscular;
+Fortalecimento muscular;
+Facilitação da cicatrização tecidual;
+Facilitação da consolidação de fraturas;
+Realização da substituição ortésica
+
+
+== Classificação das Correntes ==
+As correntes utilizadas em eletroterapia podem ter efeitos eletro-químicos, motores ou sensitivos. Podem variar ainda quanto à frequência e as formas de onda.
+Para uma boa compreensão sobre os efeitos da eletroterapia, é importante ter em mente alguns aspectos básicos relativos à corrente elétrica, frequência de onda, forma de onda.
+
+
+=== Classificação quanto às frequências ===
+Baixa Frequência: 1 a 1.000 Hz mas utilizada na prática clínica a faixa de 1 a 200 Hz. Corrente Galvânica, Farádica, Diadinâmicas, TENS (Estimulação Nervosa Elétrica Transcutânea) e FES (Estimulação Elétrica Funcional) .
+Média Frequência: 1.000 a 10.000 Hz, sendo utilizado na eletroterapia de 2.000 a 4.000 Hz. Interferencial e Corrente Russa.
+Alta Frequência: 10.000 Hz a 100.000 Hz. Ondas Curtas, Microondas, Ultra-som (Ultra-som Terapêutico).
+
+
+=== Classificação quanto às formas de ondas ===
+Formas de ondas:
+
+- Retilínea: direta ou contínua, polarizada. Ex: Corrente Galvânica Efeitos: aplicação dos medicamentos por ter polaridade definida; hiperemia e vasodilatação.
+- Quadrática: alternada, despolarizada. Ex: Tens, Ultra-excitante, Corrente Russa, SMS. Efeitos: analgesia, contração, estimulação muscular de força.
+Exponencial: polar e apolar Ex: Corrente Farádica Efeitos: contração muscular
+Senoidal: alternada, bifásica, simétrica, apolar. Ex: Corrente Interferencial
+Semi-senóide: monofásica, polar ou apolar. Ex: Diadinâmicas de Bernard: DF, MF, CP, LP, RS.
+- Triangular: apolar ou polar (dependendo do aparelho), monofásica, alternada. Ex: Corrente Farádica.
+Quadrática com Triangular: apolar, alternada, bifásica, assimétrica. Ex: só existe no TENS.Ondas simétricas: quando a geometria dos semiciclos é invertida em relação ao 0V.
+Ondas assimétricas: quando a geometria dos semiciclos é diferente.
+Monofásica: quando a onda existe somente em um dos semiciclos, sendo bloqueada no outro semiciclo. Neste caso a onda é necessariamente assimétrica.
+Bifásica: quando a onda existe nos dois semiciclos. Pode ser simétrica ou assimétrica.
+
+
+== Eletrodos ==
+Os Eletrodos constituem a interface que transmite a corrente elétrica através da pele do paciente nas sessões de eletroterapia.
+Com isso há uma grande melhora no desenvolvimento fisico do paciente.
+Os eletrodos são fixados à pele do paciente em duplas, para que a corrente emitida pelo aparelho passe de um eletrodo para o outro. Quando a corrente atinge um eletrodo, a energia é então transmitida pelo tecido e irá se propagar através dele até atingir o outro eletrodo-par. Sendo assim a corrente elétrica fica correndo pelos tecidos de um eletrodo ao outro. No caso das correntes polarizadas haverá sempre um predomínio de direção que dependerá do posicionamento dos pólos dos cabos condutores, onde a maior parte das cargas elétricas irão ser conduzidas em um único sentido. Esse é o caso da Corrente Galvânica. Já nas correntes não polarizadas não existem pólos definidos e a energia é transmitida tanto do eletrodo A para B, como de B para A, sem qualquer acúmulo de cargas ou predomínio de sentido da corrente. Estão incluídas aí as correntes: farádica, diadinâmica, TENS e interferencial.
+
+
+=== Tipos de eletrodos ===
+Borracha(Silicone Carbonado): necessita da utilização de um gel para facilitar a passagem da corrente elétrica. A borracha dos eletrodos é feita com carbono que aumenta a condutividade. Diferente dos chinelos de borracha.
+Adesivo ou Silicone: dispensa o uso de gel. É só colar. Tem um tempo de vida útil que varia de 10 a 15 utilizações, sendo depois é descartado.  Podem ser molhados para aumentar a condutividade.
+Esponja: molha, retira o excesso de água e coloca no paciente. Aumenta a condutividade. Utiliza-se principalmente para a corrente polar (Galvânica).
+
+
+== Ver também ==
+
+Eletroconvulsoterapia
+Estimulação cerebral profunda
+Estimulação transcraniana por corrente contínua
+Estimulação magnética transcraniana repetitiva
+Diatermia
+Implante cerebral
+Sonoterapia
+
+
+== Referências ==

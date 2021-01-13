@@ -1,0 +1,73 @@
+Radioterapia, ou radioncologia, é uma especialidade médica focada no tratamento oncológico utilizando radiação ionizante.
+
+
+== Princípio de atuação ==
+A radioterapia utiliza a radiação ionizante no tratamento de tumores, principalmente os malignos e baseia-se na destruição do tumor pela absorção de energia da radiação. O princípio básico utilizado, maximiza o dano no tumor e minimiza o dano em tecidos vizinhos normais, o que se consegue irradiando o tumor de várias direções.Os efeitos da radiação são quantificados de acordo com a dose, que é definida como a energia depositada por unidade de massa e sua unidade é o gray (1Gy = 1J/kg).Normalmente, as células tumorais são mais sensíveis à radiação do que as células sadias, porque se dividem com muita frequência. Porém, como as doses necessárias para erradicar o tumor são muito elevadas (da ordem de 50 a 100 Gy), nem sempre é possível poupar adequadamente os tecidos vizinhos.
+
+
+== Tipos de radioterapia ==
+Há duas maneiras de utilizar radiação contra o câncer: 
+Braquiterapia: é o tratamento por meio de materiais radioativos inseridos no interior do paciente, no local acometido, de forma temporária ou permanente.
+Radioterapia externa: utiliza uma fonte de radiação externa que é emitida de um aparelho em direção ao corpo do paciente.
+
+
+=== Braquiterapia ===
+
+A braquiterapia (o prefixo brachi deriva do grego e significa próximo) é uma forma de radioterapia na qual uma fonte de radiação selada é colocada no interior ou próxima ao corpo do paciente. 
+
+As fontes de braquiterapia podem ter a forma de sementes ou cápsulas lineares. Essas fontes geralmente contém uma pequena quantidade de material radioativo dentro da cápsula metálica, que possui uma parede de 0,1 a 1 mm de espessura. A cápsula impede que o material radioativo entre em contato com os tecidos ou fluidos do paciente. Ela também impede a contaminação do ambiente durante a manipulação e armazenamento.Um dos radioisótopos mais empregados na braquiterapia é o Irídio-192, na forma de fios finos feitos com uma liga de irídio e platina. O fio é revestido com uma capa de platina ou aço inox, que blinda a radiação beta proveniente do decaimento, e apenas a radiação gama é aproveitada no tratamento.
+O fio é inserido dentro do tumor e a radiação gama destrói as células tumorais, as células sadias, mais distantes, são preservadas.
+
+
+=== Radioterapia externa ===
+A radioterapia externa ou teleterapia (o prefixo tele, deriva do grego e significa distante), é um tratamento no qual o paciente recebe a radiação de uma fonte externa situada a uma distância entre 30 a 150 cm. 
+Há duas grandes categorias de máquinas usadas para a aplicação dessa radiação: aquelas que usam fontes de radioisótopos e os aceleradores de partículas (os aparelhos que geram raios X são aceleradores de baixa energia).
+
+
+==== Equipamentos com radioisótopos ====
+Radioisótopos como o rádio-226, césio-137 e o cobalto-60 tem sido usados como fontes de raios gama para teleterapia.
+De todos os radioisótopos, o cobalto-60 provou-se o mais adequado, em função da sua maior atividade específica (curies por grama), e da maior energia média dos fótons.Uma fonte típica de cobalto-60 para radioterapia é um cilindro com diâmetro variando de 1 a 2 cm que fica armazenado na “cabeça” da máquina. Esta consiste de uma carapaça de aço preenchida com chumbo para blindagem da radiação. Um dispositivo mecânico expõe a fonte na frente de uma abertura existente na “cabeça” por onde a radiação emerge, vide figuras 1 e 2.
+
+
+==== Equipamentos de quilovoltagem ====
+São tubos convencionais de raios X que operam na região de 50 a 150 kV e por essa razão, esses equipamentos são usados principalmente no tratamento de tumores superficiais (lesões malignas da pele), devido à maior parte da energia do feixe ser depositada a apenas alguns milímetros de profundidade, vide figura 3.
+Os tratamentos superficiais são geralmente aplicados com a ajuda de cones de vidro ou aço inox que ficam em contato com a superfície e são usados para colimar o feixe. A distância típica da fonte à superfície é de 15 a 20 cm.
+As taxas de dose administradas neste tipo de técnica podem chegar até várias centenas de cGy por minuto.
+
+
+==== Equipamentos de megavoltagem ====
+São aqueles que produzem raios X com energia acima de 1 MeV.
+
+Nessa classe situam-se os aceleradores de partículas como aceleradores lineares, bétatrons, mícrotrons e cíclotrons. Atualmente, apenas os aceleradores lineares são usados em larga escala.Aceleradores lineares de elétrons com energia entre 5 e 30 MeV (operando na faixa de RF de 2 a 4 GHz) são as principais máquinas para radioterapia nos dias atuais (em 2008 existiam aproximadamente 5 mil destes no mundo). Nessas máquinas, os raios X são produzidos quando os elétrons acelerados atingem um alvo de metal pesado, vide figura 4.A relação entre a dose depositada e a profundidade no corpo é exponencial, assim tratar um tumor localizado a 25 cm dentro de um paciente envolve doses elevadas depositadas antes do local do tratamento. Essas doses podem ser reduzidas com o feixe de radiação incidindo de vários ângulos mas sobrepondo-se no local do tumor.
+Também é possível restringir a seção transversal do feixe para os diferentes ângulos usando-se colimadores sofisticados.
+
+
+=== Radioterapia de intensidade modulada ===
+Radioterapia de intensidade modulada, também conhecida como IMRT (Intensity Modulated Radiation Therapy), é uma técnica de radioterapia conformal que tem por objectivo máximo preservar os órgãos de risco (tecidos adjacentes saudáveis), utilizando como táctica a modulação da intensidade da radiação que chega ao paciente, através da segmentação do feixe incidente em segmentos com diferentes intensidades. Consegue-se então uma maior conformidade ao volume tumoral, para mantendo os tecidos adjacentes com baixos níveis de irradiação.c.om efeitos colaterais mínimos.
+
+
+== História ==
+A medicina tem usado a radiação como terapia como um tratamento para o câncer por mais de 100 anos, com a primeira descoberta dos raios X em 1895 por Wilhelm Röntgen. Em paralelo a isso, Emil Grubbe de Chicago, foi possivelmente o primeiro físico americano a usar raios X para o tratamento contra o câncer, começando em 1896.
+O campo da radioterapia começou a crescer no início dos anos 1900, em grande parte devido ao trabalho pioneiro da cientista vencedora do Prêmio Nobel Marie Curie (1867-1934), que descobriu os elementos radioativos do polônio e do rádio em 1898. Isso começou uma nova era no tratamento médico e na pesquisa. Nas décadas de 1920 os perigos da exposição a radiação não eram conhecidos, e pouca proteção era usada. Acreditava-se que o rádio tinha amplos poderes curativos e por isso a radioterapia foi aplicada no tratamento de várias doenças.
+Os aceleradores de partículas lineares para uso médico, desenvolvidos desde os anos de 1940, começaram a substituir os aparelhos de raio X e as unidades de cobalto nos anos 1980 e essas terapias antigas estão, agora, caindo em desuso. O primeiro acelerador médico de partículas foi usado no hospital Hammersmith em Londres no ano de 1953. Os aceleradores lineares podem produzir energias mais altas, possuem feixes mais colimados e não produzem resíduos radioativos com seus problemas de eliminação como as terapias de radioisótopos.
+Com o decorrer dos anos e a chegada de novas tecnologias de imagem, como a ressonância magnética, na década de 1970 e a tomografia por emissão de positróns, na década de 1980, foi possível passar da radioterapia conformal 3D para radioterapia modulada por intensidade e radioterapia guiada por imagem, que controla a posição exata da área a ser tratada de uma sessão para a próxima. Esses avanços na ciência e na tecnologia permitiram que os oncologistas visualizassem e tratassem tumores de forma mais eficiente, resultando em melhor prognóstico para os pacientes, melhor preservação de órgãos saudáveis ​​e menos efeitos colaterais. Contudo, embora o acesso a radioterapia esteja melhorando globalmente, mais da metade de pacientes de países com baixa e média renda ainda não tem acesso a esse tipo de tratamento no ano de 2017.
+
+
+== Ver também ==
+Quimiorradioterapia
+Quimioterapia
+Terapia genética
+Tumor
+
+
+== Referências ==
+
+
+== Ligações externas ==
+Associação Portuguesa de Radioterapeutas
+Sociedade Brasileira de Radioterapia
+Sociedade Portuguesa de Radioterapia Oncológica
+Sociedade Portuguesa de Radiologia e Medicina Nuclear
+Secção de Radioterapia da Sociedade Portuguesa de Radiologia e Medicina Nuclear
+European Society for Radiotherapy and Oncology
+American Society for Radiation Oncology

@@ -1,0 +1,20 @@
+Politomia designa a secção de uma filogenia onde a relação entre os diversos grupos não pode ser completamente resolvida em dicotomias, apresentando, assim, uma imagem improvável de muitos ramos divergindo aparentemente em simultâneo. Em geral, uma politomia representa um problema analítico que geralmente pode ser melhor estudada e resolvida utilizando metodologias mais flexíveis de construção da rede filogenética (como a SplitsTree), que representam algumas dessas politomias como redes medianas. Em geral, a politomia apenas mostra os ramos e nodos sobre os quais não existe informação suficiente para determinar a ordem de ramificação.
+
+
+== Tipos de politomia ==
+Em geral são reconhecidos dois tipos de politomia: as «politomias brandas» e as «politomias rígidas» (ou «politomias duras»). As «politomias brandas» resultam simplesmente de informação filogenética insuficiente, sendo na realidade um artefacto das metodologias usadas, pois embora as linhagens tenham divergido em tempos diferentes (o que significa que algumas são parentes mais próximas que outras), os dados disponíveis não permitem o reconhecimento dessa diferença temporal. A maioria das politomias é branda, o que significa que podem ser resolvidas numa árvore típica de dicotomias quando haja melhores dados disponíveis.Em contraste, as «politomias rígidas» representam três ou mais eventos de especiação simultâneos a partir do mesmo ancestral comum, de modo que as espécies resultantes são equidistantes umas das outras. Em situações particulares pode ocorrer, como, por exemplo, quando uma espécie que expandiu rapidamente seu domínio de distribuição natural ou é altamente panmíctica sofre especiação peripátrica em diferentes regiões. Um exemplo deste tipo de politomia ocorre com o subgrupo de espécies de Drosophila melanogaster que forma o complexo específico de Drosophila simulans, no qual o ancestral comum parece ter colonizado duas ilhas ao mesmo tempo, mas de forma independente, produzindo duas espécies filhas com igual idade, mas com divergência entre si.
+
+
+== Ver também ==
+Cladística
+Filogenética computacional
+Métodos comparativos filogenéticos
+Filogenética
+Sistemática
+
+
+== Referências ==
+
+
+== Ligações externas ==
+«Fullerton: politomies»

@@ -1,0 +1,62 @@
+O ácido benzoico, C6H5COOH, é um composto aromático classificado como ácido carboxílico (ou especificamente, ácido monocarboxílico). Este ácido fraco e seus sais são usados como conservante de alimentos e ocorre naturalmente em certas plantas.
+Seu anel aromático é similar ao do benzeno e é o mais simples ácido carboxílico aromático. Apresenta-se como um sólido cristalino incolor.
+O ácido benzoico é um importante precursor para a síntese de muitas outras substâncias orgânicas. Entre os derivados do ácido benzoico se encontram o ácido salicílico e o ácido 2-acetilsalicílico (ou o-acetilsalicílico), também conhecido como aspirina.
+
+
+== História ==
+O ácido benzoico foi descoberto no século XVI. Como foi obtido pela primeira vez da essência do benjoeiro foi denominado ácido benzoico. A destilação seca de goma de benjoim primeiramente foi descrita por Nostradamus (1556), e posteriormente por Aleixo Pedemontanus (1560) e Blaise de Vigenère (1596).Justus von Liebig e Friedrich Wöhler determinaram a composição do ácido benzoico em 1832. Eles também investigaram como o ácido hipúrico está relacionada com o ácido benzoico.
+Em 1875, Salkowski descobriu capacidade antifúngicas do ácido benzoico, que foi usado por um longo tempo na preservação por conteúdo de benzoato de amora-branca-silvestre.
+
+
+== Produção ==
+
+
+=== Preparações industriais ===
+Ácido benzoico é produzido comercialmente por oxidação parcial do tolueno com oxigênio. O processo é catalisado por naftalenatos de cobalto ou manganês. O processo usa matérias primas baratas, resultando em alto rendimento, e é considerado ambientalmente adequado ("verde").
+
+A capacidade de produção dos lang=br é estimada em 126 mil toneladas por ano, muito do que é consumido internamente ou na preparação de outros produtos químicos industriais.
+Também é produzido a partir do benzeno, reagindo com o cloreto de metanoíla, tendo como catalisadores o cloreto de alumínio ou o cloreto de cobre(I), primeiramente produzindo aldeído benzoico (benzaldeído):
+
+C6H6 + HCOCl (catalisadores: Al2Cl6/Cu2Cl2 ) → C6H5CHO + HClDepois, procedendo-se à oxidação do aldeído benzoico e chegando-se ao ácido benzoico:
+
+C6H5CHO + 3 [ O ] → C6H5COOH + H2O
+
+
+=== Síntese laboratorial ===
+O ácido benzoico é barato e facilmente disponível, de modo que a síntese em laboratório de ácido benzoico é praticada principalmente por seu valor pedagógico. É uma preparação comum de graduação em química.
+Para todas as sínteses, ácido benzoico pode ser purificado por recristalização da água devido à sua alta solubilidade em água quente e baixa solubilidade em água fria. O não uso de solventes orgânicos para a recristalização torna esta experiência particularmente segura. Outros solventes de recristalização possíveis incluem ácido acético (anidro ou em solução aquosa), benzeno, éter de petróleo e mistura de etanol e água.Pode ser produzido por oxidação parcial do álcool benzílico. A pesquisa intensiva visa desenvolver novos catalisadores. Ao usar um catalisador de metal não precioso, esse processo pode ser competitivo com o processo industrial atual.
+
+
+==== Por hidrólise ====
+Como qualquer outra nitrila ou amida, benzonitrila e benzamida podem ser hidrolisadas a ácido benzoico ou a sua base conjugada em condições ácidas ou básicas.
+
+
+==== A partir do benzaldeído ====
+A disproporcionação induzida por base do benzaldeído, a reação de Cannizzaro, resulta em iguais quantidades de benzoato e álcool benzílico; o segundo pode ser removido por destilação.
+
+
+==== Do bromobenzeno ====
+Bromobenzeno pode ser convertido a ácido benzoico por carbonação do brometo de fenilmagnésio:
+C6H5MgBr  +  CO2  →  C6H5CO2MgBrC6H5CO2MgBr  +  HCl  →  C6H5CO2H  +  MgBrCl
+
+
+== Ocorrência ==
+Na natureza é encontrado em bálsamos e resinas vegetais, como a de benjoeiro, na goma de benjoim, no bálsamo de tolu e no bálsamo do Peru.
+Na urina do boi e do cavalo na forma combinada.
+
+
+== Aplicações e usos ==
+Como germicida na preservação de alimentos, na síntese de corantes, como adjuvante farmacológico: anti-fúngico, segundo a 3ª edição da farmacopeia.
+Recentemente tem sua aplicação na indústria de vaporizadores, especificamente na produção de sais de nicotina, chamados Nic salt, em que são utilizados para reduzir os impactos da nicotina na garganta do usuário e obter maior sucesso na absorção da substância pelo organismo.
+
+
+== Derivados ==
+Benzoato de sódio: usado como antipirético
+Benzoato de metila: usado na indústria de perfumes
+
+
+== Questões relacionadas à saúde ==
+Em contato com vitamina C (alimentos, frutas etc) resulta na quebra do ácido benzoico em benzeno em pequenas proporções. Sendo assim, bebidas que contém vitamina C e utiliza ácido benzoico como conservante em sua composição, podem conter também benzeno como resultado dessa reação.
+
+
+== Referências ==

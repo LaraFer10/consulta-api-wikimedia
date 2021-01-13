@@ -1,0 +1,23 @@
+O operon lac (português brasileiro) ou operão lac (português europeu) é um operon (operão) requerido para o transporte e o metabolismo da lactose em Escherichia coli e outras bactérias entéricas. O operon lac é regulador por diversos fatores, em particular na disponibilidade de glicose e lactose no meio extracelular. A regulação genética do operon lac foi o primeiro mecanismo complexo de regulação gênica a ser elucidado e é um dos principais exemplos de regulação genética em procariontes.
+
+
+== Função ==
+Em seu ambiente natural, o operon lac permite às bactérias uma digestão eficiente da lactose. A célula pode utilizar lactose como uma fonte de energia ao produzir a enzima β-galactosidase, codificada pelo gene lacZ, que digere lactose em glicose e galactose. Além desta enzima, a permease codificada pelo gene lacY permite a captação de lactose do meio extracelular.
+Seria ineficiente produzir enzimas quando não há lactose disponível, ou se houvesse no meio uma fonte de energia de mais fácil digestão, como glicose. O operon lac utiliza um mecanismo de controle duplo para assegurar que a célula produza as enzimas somente quando haja lactose no meio. Isso é conseguido com o repressor lac, que paralisa a produção de enzimas na ausência de lactose, e com a proteína ativadora catabólica (CAP), que auxilia na produção no caso de ausência de glicose no meio. Esse controle duplo faz com que a glicose seja metabolizada pelas bactérias antes que a lactose, o que se conhece pelo nome de diauxia.
+Quando há uma lactose degradada pelo rna polimerase, ela acopla no promotor: RNAm policistrônico. 
+lac - rna pol - promotor - operon
+
+
+== Estrutura ==
+O operon lac consiste em três genes estruturais, um promotor, um terminador, um regulador, e um operador.
+
+Os três genes estruturais são lacZ, lacY, e lacA:
+
+lacZ codifica a β-galactosidase, uma enzima intracelular que degrada o dissacarídeo lactose em glicose e galactose.
+lacY codifica a permease de β-galactosídeos, uma permease de membrana plasmática que bombeia a lactose para dentro da célula.
+lacA codifica a transacetilase de β-galactosídeos, uma enzima que transfere um grupo acetil de acetil-CoA a beta-galactosídeos.Apenas lacZ e lacY parecem ser necessários para o catabolismo da lactose, enquanto que a função do gene lacA é desconhecida. Estes três genes estão organizados como um operon, ou seja, estão dispostos um ao lado do outro na mesma orientação no cromossomo bacteriano e são transcritos como uma única molécula de ARN mensageiro policistrônico.
+A transcrição começa quando a ARN polimerase se liga à região promotora, que se localiza justo a montante (5') dos genes. A partir deste ponto, a polimerase sintetiza uma molécula de ARN mensageiro que inclui a região codante dos três.
+
+
+== Resumo ==
+Óperon (operon lac em ) é um tipo de organização formada por diferentes genes que atuam em uma mesma via metabólica. Ex: Como ocorre na Escherichia coli.

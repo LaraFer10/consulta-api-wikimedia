@@ -1,0 +1,36 @@
+O termo interleucinas origina-se do grego entre células brancas. São moléculas proteicas, glicosiladas ou não, que enviam diversos sinais estimulatórios, modulatórios ou mesmo inibitórios para as diferentes células do sistema imune. Têm função autócrina (ação na própria célula produtora), parácrina (ação em células próximas) e/ou endócrinas (ação é à distância).
+Cada interleucina tem uma função específica.
+
+A maioria delas está envolvida na ativação ou supressão do sistema imune na indução de divisão de outras células.Algumas também possuem função na memória.São usadas como medicamento.
+Atuam em concentrações baixíssimas e sua síntese habitualmente ocorre após estimulação antígena.
+A interleucina 1 (IL-1) é uma interleucina pró-inflamatória prototípica. Existem duas formas de IL-1: IL-1 alfa e IL-1 beta com actividades biológicas quase indistinguíveis. Possuem um antagonista natural: IL-1Ra (receptor antagonista da IL-1). 
+
+
+== Produção ==
+IL-1 é produzida intensamente por macrófagos, monócitos, fibroblastos e células dendríticas, mas também é expresso pelos linfócitos B, células NK e células epiteliais.A síntese de IL-1 pode ser induzida por TNF-α, IFN-α, β e g, LPS, vírus e antígenos. Origina uma alça de inibição da sua própria produção, pois elas participam indiretamente da liberação de hormônios corticoesteróides que inibem e regulam a sua liberação.
+Existem duas formas de IL-1: IL-1α e IL-1β. Suas atividades são quase indistinguíveis. A IL-1β atua no hipotálamo, exercendo a função de pirógeno endógeno.
+Possuem um antagonista natural: IL-1Ra (receptor antagonista da IL-1).
+
+
+== Gene e estrutura proteica ==
+A proteína codificada por este gene é um membro da família das citocinas interleucina-1. Esta citocina é produzida por macrófagos ativados como uma pró-proteína, que é proteoliticamente processado para a sua forma ativa por caspase 1 (CASP1 / ICE). Esta citoquina é um importante mediador da resposta inflamatória, e está envolvida numa variedade de atividades celulares, incluindo a proliferação celular, a diferenciação e a apoptose. 
+A indução da ciclo-oxigenase-2 (PTGS2 / COX2) por esta citoquina no sistema nervoso central (SNC) contribui para a hipersensibilidade da dor inflamatória. Este gene e outros oito genes da família interleucina 1 formam um aglomerado de genes de citocinas no cromossomo 2.
+
+
+== Função ==
+É um dos mais importantes marcadores de indução da resposta inflamatória, associada à infecção aguda.
+A IL-1 afeta praticamente todas as células, muitas vezes em conjunto com uma outra citocina pró-inflamatória ou com fator de necrose tumoral (TNF).
+Em resposta a alarminas (citocinas associados a dano celular) as células apresentadoras de antígenos aumentam a produção de IL-1 resultando em maior produção de defensinas (peptídeos catiônicos que criam poros na membrana bacteriana) pelo epitélio e causando resposta inflamatória -  febre, aumento da sensibilidade a dor (hiperalgesia), vasodilatação e hipotensão.
+
+
+== Superfamília IL-1 ==
+Em humanos, as inteleucinas IL-18, IL-33, IL-36, IL-37 e IL-38 sao membros da superfamília IL-1 que também regulam a resposta inflamatória. 
+
+
+== Uso médico ==
+Em humanos sua janela terapêutica é estreita, ou seja, a dose terapêutica ideal é muito próxima a dose tóxica.Podem ser injetados para estimular uma resposta imunológica a infecções e neoplasias em imunodeprimidos, porém seu excesso pode causar choque anafilático fatal. Inibir IL-1 com seu antagonista natural reduz respostas inflamatórias, dor e febre. A anakinra (antagonista IL-1R) pode ser usada para tratar artrite reumatóide.Está ligada a artrites reumatóides, malignidades invasivas, infecções virais e bacterianas  mal de Alzheimer e insuficiência cardíaca congestiva.
+O bloqueio da atividade IL-1β é uma terapia padrão-ouro para pacientes com doenças autoimunes ou linfomas.
+A presença das citocinas pró-inflamatórias IL-1α e IL-1β é observada no fluido gengival de pacientes com doença periodontal. Foram obtidas amostras de fluido gengival de sítios apresentando inflamação gengival, perda de inserção e evidência radiográfica de reabsorção óssea de 15 pacientes com periodontite avançada não tratada. Os resultados demonstraram que IL-1α e IL-1β foram encontradas em todas as amostras obtidas. 90% dos sítios apresentavam quantidades mensuráveis de IL-1, sendo os níveis de IL-1β os mais altos. A redução quase total dos níveis de IL-1 foi observada após tratamento efetivo da doença periodontal. Esses resultados demonstraram que a IL-1 é produzida localmente em concentrações suficientes para atuar como mediador da inflamação tecidual e reabsorção óssea na doença periodontal. Entretanto, quando produzida em quantidade excessiva, a IL-1 pode induzir mecanismos que culminam na reabsorção óssea, inibição da síntese do colágeno e ativação das metaloproteinases (MMPs), causando a destruição do tecido conjuntivo e do tecido ósseo.
+
+
+== Referências ==

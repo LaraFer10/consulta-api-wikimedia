@@ -1,0 +1,33 @@
+Em genética, lócus (em latim: locus , lit. "lugar"; pl. loci) é uma posição fixa e específica em um cromossomo, onde está localizado determinado gene ou marcador genético. Cada cromossomo carrega muitos genes, com cada gene ocupando uma posição ou locus diferente.
+Os genes podem possuir múltiplas variantes conhecidas como alelos, e também pode-se dizer que um alelo reside em um determinado locus. Células diploides e poliploides cujos cromossomos têm o mesmo alelo em um determinado locus são chamadas de homozigotas em relação a esse locus, enquanto aquelas que possuem alelos diferentes em um determinado locus são chamadas de heterozigotas. A lista organizada de loci conhecidos para um determinado genoma é chamada de mapa genético. O mapeamento genético é o processo de determinação do lócus ou loci específico para um determinado fenótipo.
+
+
+== Nomenclatura ==
+O braço mais curto de um cromossomo é denominado braço p, enquanto o braço mais longo é o braço q. O locus cromossômico de um gene típico, por exemplo, pode ser escrito 3p22.1, onde:
+
+3 = cromossomo 3
+p = p-braço
+22 = região 2, banda 2 (leia como "dois, dois", não "vinte e dois")
+1 = sub-banda 1Assim, todo o locus do exemplo acima seria lido como "três P dois dois ponto um". As bandas citogenéticas são áreas do cromossomo ricas em DNA transcrito ativamente (eucromatina) ou DNA empacotado (heterocromatina). Eles aparecem de forma diferente na coloração (por exemplo, a eucromatina parece branca e a heterocromatina parece preta na corante de Giemsa). Eles são contados a partir do centrômero em direção aos telômeros.
+
+Um intervalo de loci é especificado de maneira semelhante. Por exemplo, o locus do gene OCA1 pode ser escrito "11q1.4-q2.1", o que significa que está no braço longo do cromossomo 11, em algum lugar na faixa da sub-banda 4 da região 1 à sub-banda 1 de região 2. 
+Os telômeros dos cromossomos são representados por "ptel" "qtel", assim, "2qtel" designa o lócus encontrado no telômero do braço longo do cromossomo 2.
+
+
+== Ver também ==
+Cromossomo
+Gene
+Genética
+Alelo
+
+
+== Referências ==
+
+
+== Bibliografia ==
+Klug, W. S., et al, Conceitos de Genética, 9ª ed. Artmed Editora, 2009. ISBN 9788536322148
+
+
+== Ligações externas ==
+
+Projeto Genoma Humano

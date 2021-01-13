@@ -1,0 +1,354 @@
+No senso comum, a palavra ruído significa barulho, som ou poluição sonora não desejada. Na eletrônica o ruído pode ser associado à percepção acústica, por exemplo de um "chiado" característico (ruído branco) ou aos "chuviscos" na recepção fraca de um sinal de televisão. De forma parecida a granulação de uma foto, quando evidente, também tem o sentido de ruído. No processamento de sinais o ruído pode ser entendido como um sinal aleatório, sendo importante a relação Sinal/Ruído na comunicação. Na Teoria da informação o ruído é considerado como portador de informação.
+O ruído faz-se presente nos estudos de Acústica, Cibernética, Biologia, Eletrônica, Computação e Comunicação.
+
+
+== Classificação ==
+Ruído natural - refere-se a ruídos de causas naturais tais como a radiação cósmica de fundo em micro-ondas, ruídos atmosféricos, ruídos inerentes a dispositivos passivos e ativos da eletrônica
+Ruído artificial - refere-se a ruídos de causas artificiais, como por exemplo, ruídos de interferência ou exames de IAS
+Ruído exógeno - refere-se às interferências externas ao processo de comunicação, como outra mensagem.
+Ruído endógeno - refere-se às interferências internas do processo de comunicação, como perda de mensagem durante seu transporte ou má utilização do código.
+Ruído de repertório - refere-se às interferências ocorridas diretamente na produção ou interpretação da mensagem, provocadas pelo repertório dos emissores e receptores.
+
+
+== Ruído em eletrônica ==
+A definição de ruído em eletrônica nos diz que este é qualquer corrente ou tensão indesejada, que observamos na medida de um sinal elétrico proveniente de um sensor, ou que presente na transmissão de sinal eletrônico. O ruído diminui a precisão dos resultados, e por este motivo é inconveniente. A quantificação do ruído mostrado nos visores dos aparelhos de medição utilizados em laboratórios, é relevante apenas na medida de pequenos sinais, ou seja, normalmente os que precisam ser amplificados. Diversas formas de ruído são intrínsecas aos sensores e estão sempre presentes, porém devemos dar atenção especial a elas principalmente quando a amplitude do sinal que estamos medindo tem a mesma ordem de grandeza da componente indesejada. É fácil determinar a forma da onda do sinal desejado quando o ruído representa um por cento da amplitude total da saída do sensor, porém se esta porcentagem assumir valores altos, pode ser impossível distinguir os dois tipos de sinais, inviabilizando a medida. Existem várias fontes de ruído, dentre as quais vale destacar as fontes interferentes causadas pelo homem e as fontes intrínsecas que são oriundas da própria existência do dispositivo. As primeiras, podem ser removidas com técnicas de blindagem, já as segundas podem ser estudadas através de estatística e teorias da probabilidade. 
+
+
+=== Fontes de ruído externas ao sistema de medida ===
+O ruído medido em um sistema, pode ser recorrente de uma fonte que se encontra a muitos metros ou quilômetros de distância, como um relâmpago por exemplo. Mas o fator mais comum é a própria frequência de oscilação da rede elétrica (60 Hz). Porém estas não são as únicas fontes de ruído, qualquer dispositivo próximo do experimento pode causar problemas. Eles podem ser motores, lâmpadas, cabos, vibrações na estrutura, variações na temperatura, etc. 
+
+
+==== Acoplamento eletrostático ====
+Distúrbios eletrostáticos podem se tornar indesejáveis devido as capacitâncias parasitas que sempre existem entre os componentes. Estas capacitâncias ocorrem principalmente nos cabos que fazem a transferência do sinal elétrico de baixa intensidade. Qualquer cabo utilizado para a alimentação do circuito (contendo alta corrente) terá um campo elétrico considerável. Este tipo de interferência pode ser minimizado, colocando a fonte de ruído o mais longe possível do sistema de medida. Outra maneira viável é cercar o circuito em uma baixa de metal aterrada. 
+
+
+==== Acoplamento magnético ====
+Conforme já citado, devido à oscilação da rede elétrica, cria-se um campo magnético em volta de alguns cabos do circuito. Este campo magnético pode induzir uma corrente no fio que transmite o sinal do transdutor, por exemplo, causando ruído. Obviamente, a forma de reduzi-lo é deixar o sistema de medida o mais longe possível dos fios com campo magnético. Nem sempre isso é possível e neste caso deve-se colocar os cabos perpendicularmente (a fim de diminuir o efeito magnético) ou utilizar cabos blindados. O acoplamento magnético é máximo quando os cabos estão em paralelo. Outra alternativa cabível é projetar o sistema com os cabos de conexão os mais curtos possíveis a fim de minimizar a capacitância parasita. 
+
+
+==== Ruído de aterramento ====
+Esta forma de ruído está relacionada às ligações indevidas no aterramento do sistema. Recomendações clássicas nos mandam aterrar as pontas dos cabos não utilizados (para que estes não captem ruído eletromagnético do ambiente) e usar sempre o mesmo fio terra para interligar um conjunto de equipamentos (evitando danos devidos à diferença de potencial). Outra técnica básica é utilizar cabos com a menor resistência possível e eliminar circuitos fechados no cabo condutor do aterramento. 
+
+
+==== Métodos de eliminação de interferências ====
+Em uma primeira análise, podemos destacar algumas técnicas de redução dos ruídos citados anteriormente, dentre as quais vale destacar:
+1.Blindagem;
+2.Aterramento;
+3.Balanceamento;
+4.Filtragem;
+5.Isolamento;
+6.Separação e orientação;
+7.Circuito de controle do nível de impedância;
+8.Projeto dos cabos;
+9.Técnicas de cancelamento de algumas frequências (pode ser feito no domínio do tempo ou de frequências);
+No apêndice B da presente bibliografia, pode-se encontrar uma lista de checagem de algumas técnicas que são utilizadas na redução de ruídos. 
+
+
+=== Fontes de ruído intrínsecas ao sistema de medida ===
+Mesmo conhecendo e removendo totalmente as formas de ruído descritas anteriormente, ao realizar uma medida, ainda será possível encontrar diversas formas de ruído. Vale destacar neste caso que resistores, transistores, tubos de vácuo, contatos, etc ainda causam interferências. O ruído gerado por estes dispositivos é randômico e intrínseco ao sistema, ou seja, não podemos removê-lo, muito menos predizer quando e com qual amplitude irá ocorrer. O que podemos fazer é estudar de forma estatística, separando-os em alguns grupos. Inicialmente desenvolveu-se o estudo do ruído térmico e do ruído de corrente (shot noise). Atualmente já existem estudos quantitativos de outras formas de ruído, como o ruído pipoca (popcorn noise) que ocorre em semicondutores, o ruído de contato (flicker noise) que depende da frequência e o ruído de tempo de trânsito (transit-time noise) que se refere ao tempo que um elétron leva para percorrer o caminho do emissor ao coletor e ao período do sinal a ser amplificado.
+A medida de sinais ruidosos randômicos deve levar em consideração um conceito fundamental, não é possível determinar quando determinado evento irá ocorrer. Por este motivo, muitas vezes, é mais recomendado utilizar o espaço de frequências ao invés do espaço de tempo na descrição do sinal. Neste caso devemos analisar o valor quadrático médio da tensão gerada pelo ruído, ou em um caso mais específico o espectro da densidade de potência (quando a potência do ruído variar com a frequência).  
+
+
+==== Ruído térmico (Ruído branco) ====
+O ruído térmico é causado devido ao movimento randômico dos elétrons livres em um condutor. Mesmo sem campo elétrico aplicado, cada elétron dentro de um condutor encontra-se em movimento devido à energia térmica. O efeito desse movimento em um condutor é a geração de uma corrente, que na média possui valor zero devido ao caráter randômico.
+Sua forma simplificada nos diz que para uma dada largura de banda, este pode ser quantificado como:
+
+  
+    
+      
+        
+          v
+          
+            R
+            M
+            S
+          
+        
+        =
+        
+          
+            
+              4
+              k
+              T
+              R
+              Δ
+              f
+            
+            
+              2
+            
+          
+        
+      
+    
+    {\displaystyle v_{RMS}={\sqrt[{2}]{4kTR\Delta f}}}
+  Onde k é a constante de Boltzmann, T a temperatura absoluta, R a resistência do resistor e f a frequência de oscilação.
+
+
+==== Ruído de corrente (Shot noise) ====
+Ruído de corrente, é o ruído associado à corrente que flui através de uma barreira de potencial. Isto ocorre devido as flutuações estatísticas na emissão de elétrons ou buracos. Esta forma de ruído se faz presente em tubos de vácuo e dispositivos semicondutores. Nos tubos de vácuo a emissão ocorre no cátodo e nos dispositivos semicondutores o ruído está ligado à difusão através da base do transistor, que apresenta geração e recombinação de pares elétron-buraco.
+O ruído shot pode ser quantificado através da seguinte fórmula:
+
+  
+    
+      
+        
+          I
+          
+            s
+            h
+          
+        
+        =
+        
+          
+            
+              2
+              q
+              
+                I
+                
+                  d
+                  c
+                
+              
+              B
+            
+            
+              2
+            
+          
+        
+      
+    
+    {\displaystyle I_{sh}={\sqrt[{2}]{2qI_{dc}B}}}
+  Onde q é a carga do elétron em Coulombs, 
+  
+    
+      
+        
+          I
+          
+            d
+            c
+          
+        
+      
+    
+    {\displaystyle I_{dc}}
+   é a corrente média em Ampères e B é a largura de banda do ruído em Hz. Através desta equação, fica evidente que o ruído de corrente, assim como o ruído térmico, também não depende da frequência. Por apresentar uma amplitude com a forma Gaussiana também pode ser enquadrado no ruído branco (que possui todas as frequências). 
+
+
+==== Ruído de contato (Flicker noise) ====
+Ruído de contato é aquele que ocorre devido a diferença na condutividade elétrica quando existe um contato imperfeito entre dois materiais. Esta forma de ruído ocorre sempre que dois materiais são unidos, inclusive em transistores e diodos. Quando em baixas frequências, este ruído é chamado de ruído “1/f” devido à presença de frequências características. Quantitativamente, este ruído é diretamente proporcional ao valor da corrente (
+  
+    
+      
+        
+          I
+          
+            d
+            c
+          
+        
+      
+    
+    {\displaystyle I_{dc}}
+  ), ao valor de uma constante que depende do material e da geometria (K) e ao valor da largura de banda. Neste caso:
+
+  
+    
+      
+        
+          I
+          
+            f
+          
+        
+        =
+        
+          (
+          
+            
+              
+                K
+                
+                  I
+                  
+                    d
+                    c
+                  
+                
+                
+                  
+                    B
+                    
+                      2
+                    
+                  
+                
+              
+              
+                f
+                
+                  2
+                
+              
+            
+          
+          )
+        
+      
+    
+    {\displaystyle I_{f}=\left({\frac {KI_{dc}{\sqrt[{2}]{B}}}{\sqrt[{2}]{f}}}\right)}
+  É importante reparar que a magnitude desta forma ruidosa pode ser muito grande para pequenas frequências. Algumas teorias explicam que para baixas frequências a amplitude permanece constante. Em frequências características, esta é normalmente a forma de ruído predominante em circuitos de baixa frequência. 
+
+
+==== Ruído pipoca (Burst noise) ====
+Descoberto em diodos e presente também em circuitos integrados, possui o som do estouro de pipoca quando amplificado. Este é um defeito de manufatura do dispositivo e pode ser eliminado melhorando o processo de fabricação. Este ruído é causado por defeitos nas junções entre metais impuros ou junções entre semicondutores. Sua taxa de repetição não é constante, mas o intervalo entre eventos pode variar desde muitos pulsos por segundo até menos de um pulso por minuto. Tipicamente, sua amplitude varia de duas a cem vezes a amplitude do ruído térmico. Como este ruído é um fenômeno relacionado com a corrente, sua minimização passa por projetar circuitos com alta impedância, como nas entradas de amplificadores operacionais, por exemplo. 
+
+
+==== Ruído intrínseco em um sensor de efeito hall ====
+Um exemplo com aplicação direta da teoria descrita acima é o de um transdutor de efeito Hall, que possui uma tensão de saída de baixa intensidade e por este motivo está sujeito ao ruído de maneira significativa. Para baixos campos magnéticos, a razão sinal/ruído é o fator determinante, com uma componente dependente do inverso da frequência (representada por 
+  
+    
+      
+        
+          S
+          
+            v
+            a
+          
+        
+        (
+        f
+        )
+      
+    
+    {\displaystyle S_{va}(f)}
+  ) e outra componente térmica, (intitulada 
+  
+    
+      
+        
+          S
+          
+            v
+            t
+          
+        
+      
+    
+    {\displaystyle S_{vt}}
+  ). A soma destas contribuições nos dá o ruído intrínseco do sensor, sendo que as variáveis presentes na fórmula a seguir, podem ser consultadas na referência.
+
+  
+    
+      
+        
+          S
+          
+            v
+            α
+          
+        
+        =
+        α
+        
+          
+            (
+            
+              
+                V
+                l
+              
+            
+            )
+          
+          
+            2
+          
+        
+        
+          (
+          
+            
+              1
+              
+                2
+                π
+                n
+                t
+                f
+              
+            
+          
+          )
+        
+        l
+        o
+        g
+        
+          (
+          
+            
+              W
+              s
+            
+          
+          )
+        
+        +
+        8
+        k
+        T
+        
+          (
+          
+            
+              1
+              
+                π
+                μ
+                q
+                n
+                t
+              
+            
+          
+          )
+        
+        l
+        o
+        g
+        
+          (
+          
+            
+              W
+              t
+            
+          
+          )
+        
+      
+    
+    {\displaystyle S_{v\alpha }=\alpha \left({\frac {V}{l}}\right)^{2}\left({\frac {1}{2\pi ntf}}\right)log\left({\frac {W}{s}}\right)+8kT\left({\frac {1}{\pi \mu qnt}}\right)log\left({\frac {W}{t}}\right)}
+  É importante mencionar que o ruído dependente da frequência possui uma constante semi-empírica e outra constante dependente da construção do dispositivo. Por sua vez o ruído térmico é constituído de uma constante dependente da construção do dispositivo multiplicada pela temperatura absoluta.
+
+
+== Referências ==
+
+
+== Ver também ==
+Ruído branco - Aplica-se aos ruídos cuja potência é constante em todas as faixas de frequência, por exemplo, ruído térmico
+Ruído vermelho ou ruído marrom - Aplica-se a ruídos ricos em baixas frequências
+Ruído gaussiano é um cuja distribuição segue uma normal. É tipicamente usado para modelar ruídos em imagens digitais.
+Ruído rosa - Aplica-se à testagem de sistemas de áudio.
+Ruído térmico - Aplica-se a qualquer corpo aquecido
+Ruído browniano - Aplica-se a ruídos que podem ser modelados por movimentos brownnianos da estatística
+
+
+== Ligações externas ==
+Guia Prático para Medições de Ruído Ambiente (Agência Portuguesa do Ambiente)

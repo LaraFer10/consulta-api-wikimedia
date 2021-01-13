@@ -1,0 +1,33 @@
+A coloração de Papanicolau ou segundo Papanicolau é uma técnica de coloração multicromática desenvolvida por Geórgios Papanicolau, o "pai" da citopatologia.
+Esta técnica utiliza três soluções corantes: a Hematoxilina de Gill (substituida também pela Hematoxilina de Harris), OG-6 e EA-36 ou EA-65.
+
+
+== Aplicação ==
+É um sistema de coloração utilizado para células colhidas por raspagem em cavidades como a vagina, a mucosa bucal, etc, e fluidos com células a partir de derrames de outras cavidades. Deve ser apenas usada in vitro.
+
+
+== Mecanismo ==
+O mecanismo pelos quais as células são coloridas ainda não é completamente entendido, mas são importantes duas hipóteses: a adsorção e as características de afinidades químicas na coloração. Em ambos os casos, a concentração dos corantes nas soluções e a forma iônica sob as quais se encontram são importantes. Considera-se que as estruturas celulares ácidas tendem a atrair cátions, tanto por adsorção como em reações químicas e as básicas com os radicais aniônicos dos corantes.
+O citoplasma, sendo formado por estruturas ácidas e básicas, atrairia combinações de corantes, enquanto o núcleo celular, possuindo ácidos nuclêicos, seria predominantemente ácido.
+A hematoxilina no método reage com os ácidos nuclêicos, resulta numa coloração azulada nesta estrutura. O segundo corante empregado é o orange G, denominado na técnica de Papanicolau como OG-6. Com este corante ácido com dois grupamentos sulfônicos os esfregaços, nos citoplasmas presentes, são coloridos em seus componentes básicos. A etapa final é efetuada com uma de três variações de soluções corantes desenvolvidas por Papanicolau: EA-36, EA-50 e EA-65. 
+A solução EA-50 tem sido abandonada, passando a ser aplicadas apenas as colorações com EA-36 ou o EA-65. Estas soluções corantes apresentam formulações similares, apenas variando a concentração do corante verde luz amarelado. A concentração deste corante na solução EA-36 é o maior do que na solução corante EA-65 em 50%.
+Como o verde luz amarelado é um corante ácido, possuindo também dois radicais sulfônicos, se fixa predominantemente nos componentes básicos do citoplasma. O segundo corante presente nas soluções corantes EA-36 ou EA-65 é a Eosina Y (eosina amarelada), a qual é uma tetrabromo fluoresceína. Este corante tem como finalidade a coloração de grânulos oxifílicos do citoplasma, que têm alta afinidade por corantes ácidos.
+O uso dos corantes escarlate de Biebrich e pardo Bismark fica restrito à área da citologia, pois coram pouco as estruturas básicas do citoplasma e o resultado final da coloração passa a ser o produto conjunto destes corantes. No caso do escarlate de Biebrich, este possui certa afinidade pelas estruturas do núcleo, entretanto, torna-se pouco significativo quando usado conjuntamente com a hematoxilina.
+
+
+== Bibliografia ==
+Street CM: Papanicolaou Techniques in Exfoliative Cytology. IN Laboratory Technique in Biology and Medicine, 3rd ed. EV Cowdry Editor, Williams & Wilkins, Baltimore, 1952, p 253
+Johnson PL, Klein MN: Application of Papanicolaou stain to paraffin sections. Stain Technol 31:223, 1956
+Liu W: A simplified cytologic staining technic. Am J Clin Pathol 54:767, 1970
+A Manual for Cytotechnology, C Keebler, J Reagen, Editors, American Society of Clinical Pathologists Press, Chicago (IL), 1983, p 323
+
+
+== Ligações externas ==
+EA-36 seg. PAPANICOLAOU - www.doles.com.br[ligação inativa]
+HEMATOXILINA - www.doles.com.br[ligação inativa]
+SISTEMA DE COLORAÇÃO PAPANICOLAOU - www.sigmaaldrich.com
+
+
+== Ver também ==
+Teste de Papanicolau
+Coloração H&E

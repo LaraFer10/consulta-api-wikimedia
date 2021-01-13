@@ -1,0 +1,32 @@
+As interleucinas (do grego, entre células brancas) são alguns tipos de proteínas produzidas principalmente por leucócitos (principalmente por linfócitos T, macrófagos e eosinófilos) cada uma com suas funções, sendo que a maioria delas está envolvida na ativação ou supressão do sistema imune e na indução de divisão de outras células. Também possuem função na memória e são usados como medicamento.
+
+
+== Atividade ==
+Existem mais de 36 tipos, numerados pela ordem da sua descoberta, e alguns podem ser divididos em sub-tipos de acordo com sua atividade, por exemplo, IL-1a, IL-1b e IL-1ra. Antigamente possuíam nomes de acordo com sua ação, exemplo, "fator quimiotático de neutrófilos" para o IL-8, que ignoravam que elas podiam ter múltiplas funções. O efeito que uma interleucina produz depende da célula que o capta, atuando como um capitão que dá uma ordem diferente para cada tipo de soldado.
+Muitos de seus efeitos ocorrem em cadeia e inibem o sistema imune, por exemplo, a interleucina 10 (IL-10) é produzido por Linfócitos T regulatórios (LTr) para inibir a atividade de outros linfócitos T ao mesmo tempo que estimulam outros LTr a produzir mais IL-10. Essa autoimunossupressão é importante para evitar respostas excessivas (autoimunidade).
+
+
+== Descrição ==
+Descrição mais resumida:
+
+IL-1: secretada pelos macrófagos, monócitos e linfócitos B participar na regulação de respostas imunes, reacções inflamatórias, e a hematopoiese. Induz expressão de selectina E, VCAM-1, ICAM-1 pelo endotélio. Aumenta produção de de Proteína c-reativa e amiloide sérico.
+IL-2: secretada pelos linfócitos T auxiliares ativados, induzem a proliferação dos linfócitos T, B e NK.
+IL-3: secretada pelos linfócitos T e células tímicas epiteliais, estimula a proliferação de precursores das células hematopoiéticas (hemácias, granulócitos, macrófagos e linfócitos).
+IL-4: secretada por linfócitos T e mastócitos estimula os linfócitos B a produzirem de anticorpos. Tem papel importante na resposta alérgica e estimulação da produção de IgE. Nos macrófagos, IL-4 induz a expressão de MHC de classe II, mas inibe a produçãlplpo de citocinas pró-inflamatórias do (IL-1 e Factor de necrose tumoral alfa). Estimula a proliferação de linfócitos T auxiliares tipo 2 (Th2).
+IL-5: sintetizada por linfócitos T e mastócitos, estimula o desenvolvimento das células B e dos eosinófilos.
+IL-6: secretada pelos linfócitos T e B, endotélio, fibroblastos e macrófagos estimula o fígado na produção de proteínas da fase aguda como proteína c-reativa e amiloide P sérico. Induz a diferenciação de linfócitos B em plasmócitos, linfocitos
+IL-7: sintetizada por células do estroma da medula óssea estimula o desenvolvimento e regula a sobrevivência das linfócitos B, T e NK.
+IL-8: sintetizada por macrófago; quimiotáticas para neutrófilos e linfócitos T. Estimula a inflamação.
+IL-9: sintetizada por linfócitos T estimula respostas citotóxicas. Estimula a inflamação.
+IL-10: inibe a produção da citocina Th1, em macrófagos inibe a produção de interferon-gama (IFN-y), IL-1, IL-6, IL-10 e TNF-alfa e suspende a apresentação de antígenos. Por outro lado, ativa linfócitos B. Desse modo inibe a resposta de combate contra patógenos intracelulares e tumores e estimula resposta contra patógenos extracelulares.
+IL-11: sintetizada pelos fibroblastos do estroma medular
+IL-12: sintetizada por linfócitos B e macrófagos estimula os Linfócito NK e T a produzirem IFN-γ e respostas Th1 (contra intracelulares). Se opõe aos efeitos de IL-10.
+IL-13: estimulação do crescimento e diferenciação das células B e inibe macrófagos;; sintetizada por células T
+IL-14: fator de crescimento para células B e inibe síntese de imunoglobulinas; ; sintetizada por células T e algumas células B
+IL-15: fator de crescimento de células NK
+IL-17: indução da produção de citocinas pró-inflamatórias
+IL-18: potencializa ações da IL-12, estimula produção de IFN-γ
+IL-23: estimula produção de IL-17, IL-6, e Factor de Necrose Tumoral.
+
+
+== Referências ==

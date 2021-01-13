@@ -1,0 +1,13 @@
+Angiotensina II é um peptídeo que faz parte do sistema renina angiotensina aldosterona (SRAA). É formado a partir da ação da enzima conversora da angiotensina sobre a angiotensina I. Tem numerosas funções conhecidas na fisiologia humana, em especial no controle da pressão arterial. Exerce suas funções celulares interagindo com receptores na membrana celular das células alvo, os chamados receptores AT1 e AT2.
+
+
+== Ação fisiológica ==
+As células justa glomerulares (dos rins), quando o organismo está sob condições de hipotensão (devido a uma hipovolemia), passam a liberar um a enzima denominada renina na corrente sanguínea. No sangue, a renina quebra o Angiotensinogênio (forma inativa da angiotensina), transformando-o em Angiotensina I, que migra pela circulação. Ao passar pelos vasos pulmonares, a angiotensina I interage com uma ectoenzima presente nas células endoteliais, principalmente dos pulmões, chamada Enzima Conversora de Angiotensina
+(Comumente chamada ECA) ou Covertase, transformando-se em Angiotensina II. A angiotensina II vai para os rins via corrente sanguínea, onde, nos capilares dos túbulos dos néfrons, estimulará principalmente a constrição da arteríola eferente, resultando em aumento da TFG (Taxa de filtração glomerular), e, conseqüentemente aumentando a pressão. Simultaneamente, a angiotensina II também se dirige ao córtex das glândulas suprarrenais (ou adrenais), estimulando a libertação do hormônio aldosterona, que se dirige aos rins, no túbulo contornado distal dos néfrons e estimula mais ainda a reabsorção de sódio e água, aumentando a volemia e a pressão. Após realizar sua função, a angiotensina II é convertida em angiotensina III (inativa), e essa sofre ação de angiotensinases, sendo degradada em vários aminoácidos que serão reaproveitados pelo nosso organismo.
+
+
+== Farmacologia ==
+Duas classes de medicamentos se relacionam com a angiotensina II:
+
+Antagonista do receptor da angiotensina.
+Inibidor da enzima de conversão da angiotensina.

@@ -1,0 +1,28 @@
+O Catalogue of Life (CoL) (Em português: Catálogo da Vida) é um banco de dados on-line que fornece dados sobre taxonomia da biodiversidade da Terra. Criado em 2001 como uma parceria entre o Species 2000 e o Integrated Taxonomic Information System. Atualmente o catálogo compila dados de 172 bancos de dados taxonômicos revisados por pares, que são mantidos por instituições especializadas em todo o mundo. A partir de 2019, o catálogo lista 1,8 milhões de espécies. O catálogo está disponível em doze idiomas e é usado pelo Biodiversity Heritage Library, pelo Barcode of Life Data System, pela Encyclopedia of Life e pelo Global Biodiversity Information Facility.
+
+
+== Histórico ==
+Em junho de 2001, as organizações Species 2000 e ITIS, que anteriormente trabalhavam separadamente, decidiram fazer uma parceria e desenvolveram juntas o Catalogue of Life. As duas organizações permanecem separadas e com estrutura diferente. No entanto, ao trabalhar em conjunto na criação de um produto comum, a parceria permitiu reduzir a duplicação de esforços, aproveitar melhor os recursos e acelerar a produção.
+
+
+== Estrutura ==
+O Catálogo emprega uma estrutura de dados simples que fornece informações sobre sinonímia, agrupamento dentro de uma hierarquia taxonômica, nomes vernaculares, distribuição e ambiente ecológico.O Catálogo fornece uma edição dinâmica, que é atualizada mensalmente (e na qual os dados podem mudar sem rastrear essas alterações) e uma lista de verificação anual, que fornece uma referência datada e verificável para o uso de nomes e dados associados.
+
+
+== Uso ==
+Grande parte do uso do Catálogo é fornecer uma taxonomia de backbone para outros portais de dados globais e coleções biológicas. A interface pública inclui as funções de pesquisa e navegação, além de oferecer serviços multilíngues.
+
+
+== Estatística ==
+O catálogo listou 300 mil espécies em 2003, 500 mil em 2005 e mais de 800 mil em 2006. Em 2019, o catálogo lista 1,8 milhões de espécies. Há uma estimativa de 14 milhões de espécies, no entanto este número não é certo, pois há uma carência de dados sobre o possível número de espécies de insetos, nematóides, bactérias e fungos.
+
+
+=== Versão 2019 ===
+Em 2019, o catálogo contém contribuições de 172 bancos de dados taxonômicos com informações sobre 1.837.565 espécies extantes e 63.418 espécies extintas, que pertencem a 184.526 gêneros, 12.267 famílias, 1.643 ordens, 387 classes, 104 filos e 7 reinos. Também inclui 1.710.092 sinônimos e 437.994 nomes comuns.
+
+
+== Catalogue of Life Plus ==
+Em 2015, especialistas vinculados ao projeto iniciaram a construção de uma nomenclatura comum e taxonômica que poderá ser usada como uma backbone para ordenar e conectar dados sobre a biodiversidade em vários domínios. O CoL+ irá desenvolver uma câmara de compensação abrangendo nomes científicos de toda biodiversidade; fornecer uma visão taxonômica única baseada na classificação consensual do CoL junto com as fontes taxonômicas associadas; mostrar diferenças entre as fontes e fornecer um feedback para as autoridades de conteúdo, o que permite que a comunidade em geral possa contribuir.
+
+
+== Referências ==

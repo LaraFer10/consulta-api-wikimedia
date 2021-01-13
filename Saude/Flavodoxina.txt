@@ -1,0 +1,19 @@
+As flavodoxinas são flavoproteínas que contêm na sua estrutura mononucleótido de flavina (FMN). São pequenas proteínas bacterianas (salvo raras excepções) com função de transferência electrónica.
+
+
+== Estrutura ==
+As flavodoxinas são proteínas pequenas, com cerca de 140 a 180 aminoácidos na sua estrutura primária. Ligada à cadeia polipeptídica encontra-se uma molécula de mononucleótido de flavina (FMN), cujo sistema heterocíclico isoaloxazina interage com aminoácidos aromáticos, nomeadamente o triptofano e a tirosina.
+Embora os processos de enovelamento da proteína e ligação do cofactor in vivo não sejam totalmente conhecidos, estudos in vitro indicam que o enovelamento ocorre antes, e de forma independente, da ligação do FMN, já que é possível purificar apoflavodoxina a partir de culturas bacterianas crescidas em condições limitantes de FMN. A flavodoxina é amplamente utilizada como modelo em estudos cinéticos e termodinâmicos de estabilidade estrutural proteica.
+
+
+== Distribuição ==
+Em geral, as flavodoxinas são proteínas bacterianas, com excepção de algumas algas vermelhas e verdes (eucariontes). Encontram-se espalhadas em vários grupos filogeneticamente diversos. Embora ausentes em eucariontes superiores, existem proteínas eucariotas que possuem domínios similares a flavodoxinas, o que sugere a existência no passado de eventos de fusão de genes. A história evolutiva das flavodoxinas bacterianas é mais complexa, parecendo haver diversos eventos de transferência horizontal de genes. As flavodoxinas parecem ter existido em ancestrais comuns que originaram as plantas superiores no presente, embora estejam ausentes destas.
+
+
+== Actividade ==
+Graças à presença do cofactor flavínico, a flavodoxina é capaz de aceitar e doar electrões de e a outras proteínas. Quando livre em solução aquosa, o FMN é incapaz de estabilizar a forma semiquinona, que é essencial para a transferência sequencial de electrões; a ligação à proteína possibilita a existência bem definida dos três estados de oxidação possíveis (quinona oxidada, semiquinona e hidroquinona). Esta estabilização ocorre através da modulação pela proteína dos potenciais de redução de cada forma do FMN.
+As flavodoxinas possuem diversos processos de oxidação-redução em comum com as ferredoxinas, substituindo estas quando as condições ambientais são limitantes em ferro.
+Uma das principais actividades da flavodoxina é a transferência de electrões entre o fotossistema I e a enzima ferredoxina(flavodoxina):NADP+ oxirredutase (FNR) em organismos fotossintéticos. A flavodoxina interage também com a FNR em organismos não fotossintéticos, estando aparentemente envolvida na resposta a condições de stress oxidativo. Outras enzimas que usam a flavodoxina como doadora de electrões incluem a nitrogenase, a piruvato liase, a ribonucleótido redutase, a HMBPP sintase e a metionina sintase. Em Bacillus subtilis, participa na biossíntese de biotina.
+
+
+== Referências ==

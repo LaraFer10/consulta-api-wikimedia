@@ -1,0 +1,49 @@
+As porfirinas são uma classe de moléculas orgânicas com uma estrutura geral de macrociclo tetrapirrólico (formado por quatro anéis pirrólicos), ligados por ligações metínicas (-CH-), que possui no seu centro um espaço apropriado para acomodar um íon metálico.  Este liga-se a quatro átomos de azoto (nitrogênio) presentes no centro. Os representantes mais comuns desta classe de compostos são o grupo hemo, que contém ferro, a clorofila, que contém magnésio, e os pigmentos biliares. Porfirinas de níquel e ou vanádio são comuns na composição do petróleo, sobretudo nas frações mais pesadas.As porfirinas são pigmentos de cor púrpura e de origem natural. A estrutura em anel da porfirina é a razão pela qual todos os derivados porfíricos absorvem luz a um comprimento de onda próximo dos 410 nm, dando-lhes a sua cor característica. A presença adicional de um íon metálico pode afectar esta propriedade devido ao fenómeno de transferência de carga dos átomos de azoto para o metal, que possui uma energia na gama da radiação visível.
+Os derivados metálicos da porfirina comportam-se frequentemente como compostos de coordenação, em que o íon metálico ligado aos azotos pode ter capacidade de ligar mais um ou dois grupos químicos no eixo perpendicular ao plano do anel da porfirina.
+Há porfirinas de origem natural onde, no macrociclo, há substituintes nas posições β-pirrólicas, e porfirinas sintéticas, onde os substituintes encontram-se nas posições meso do esqueleto porfirínico.
+A porfirina é derivada da degradação dos glóbulos vermelhos, juntamente com a bilirrubina e a hemoglobina. De acordo com influências genêticas ou individuais como tipo de dieta, ingestão inadequada de líquidos entre outras, os seres irão produzir muitas vezes a porifirina em maior quantidade.
+A porfirina produzida sempre é eliminada pelas excretas (suor, urina, fezes, lágrimas e saliva). Quando produzida em quantidade elevada ao sair juntamente com a excreta, reage com a luz e gerando coloração escura ou púrpura nas regiões onde se elimina a excreta. Em humanos as pessoas com excesso de porfirina apresentam mudanças na coloração ou manchas dos pelos ou da pele das partes genitais, na região das axilas, nas dobras de articulações ou mesmo na região da face.
+Em animais de pequeno porte é um problema muito comum com destaque naqueles de raças com pelos claros, observando-se manchas com maior intensidade na região da face (epífora - lágrima), na região da boca (saliva), na região do prepúcio ou vagina (urina), na região das patas (coxim plantar - suor) e na região do ânus (fezes). Nestas pequenas espécies é muito comum a utilização de formas quelantes de porifirina aliadas à correção do manejo e da dieta dos mesmos como tratamento e prevenção do problema. A forma quelante de resultado mais comprovado é a de tartarato apresentado sob a forma de tartaratato de tilosina, disponível em apenas um produto comercial no mundo Angels Eyes .
+
+
+== Síntese de porfirinas em eucariontes superiores ==
+A importância de derivados porfíricos, como o hemo, em eucariontes superiores torna a via biossintética de porfirinas uma das vias essenciais para a viabilidade desses organismos.
+O δ-aminolevulinato é o principal precursor da síntese de porfirinas em organismos. Existem duas vias principais de síntese do δ-aminolevulinato:
+
+o aminoácido glicina reage com o succinil-CoA (um intermediário metabólico do ciclo dos ácidos tricarboxílicos), formando o ácido α-amino-β-cetoadípico. Este é então descarboxilado a δ-aminolevulinato.
+o aminoácido glutamato liga-se ao seu tRNA, é convertido a um aldeído e então clivado do tRNA. O derivado aldeído do glutamato é convertido então a δ-aminolevulinato por uma aminotransferase.Duas moléculas de δ-aminolevulinato formam uma de porfobilinogéneo, um tipo de pirrolo. As porfirinas são formadas por quatro moléculas de porfobilinogéneo que se combinam para formar a macroestrutura em anel. Nos eucariontes superiores, esta sofre algumas modificações em grupos laterais e finalmente a inserção do íon de ferro para formar o hemo.
+A concentração do hemo em eucariontes superiores regula a sua síntese por um mecanismo de feedback negativo. Em humanos, a desregulação deste sistema por deficiência de uma das enzimas da via de síntese de porfirinas causa uma doença de um grupo conhecido colectivamente como porfirias.
+
+
+== Grupo heme ==
+
+O grupo hemo (protoporfirina IX de ferro) encontra-se em proteínas (denominadas, por esta razão, proteínas hémicas) como a hemoglobina, a mioglobina, a catalase e os citocromos.
+Na hemoglobina, assim como na mioglobina, o ferro tem a função de ligar uma molécula de dioxigénio, possibilitando o seu transporte na corrente sanguínea para todo o organismo.
+Na catalase, o ferro tem uma função catalítica, aliada à sua capacidade de mudar o seu estado de oxidação; neste caso, o ferro catalisa a dismutação do peróxido de hidrogénio.
+Em proteínas como os citocromos, o grupo hemo serve de meio de transporte electrônico entre proteínas, recebendo um ou dois elétrons de uma proteína e transferindo-os para outra.
+Proteínas contendo um ou mais grupos hemo têm uma coloração entre o cor-de-rosa e o vermelho.
+
+
+== Clorofila ==
+
+A clorofila possui um quinto anel adicional à estrutura básica de quatro anéis pirrolo, além de uma longa cadeia de fitol ligada por uma ligação estér ao anel IV. Esta estrutura é denominada feofitina. O centro da feofitina acomoda então um ião Mg2+ para formar a clorofila.
+A clorofila tem a propriedade de, quando inserida no centro reaccional fotossintético de plantas, captar energia luminosa e transmiti-la a moléculas vizinhas sob a forma de energia química. É por isso uma molécula crucial para a fotossíntese.
+Nas plantas existem dois tipos de clorofila, a e b, que possuem espectros de absorção de luz visível ligeiramente diferentes, de modo a cobrirem uma zona mais alargada do espectro de luz visível do que um tipo isolado de clorofila. Outro tipo de clorofila, existente em bactérias fotossintéticas, é denominada bacterioclorofila. Os diferentes tipos de clorofila diferenciam-se pelo tipo de grupos ligados a determinadas posições do anel principal.
+
+
+== Pigmentos biliares ==
+Os pigmentos biliares são os produtos da degradação do hemo libertado de eritrócitos em fim de vida. O grupo hemo é oxidado ao pigmento verde biliverdina pela enzima hemo oxigenase, perdendo o seu ião de ferro e abrindo a estrutura cíclica. O pigmento amarelo bilirrubina é o produto da redução da biliverdina pela enzima biliverdina redutase.
+Esta conversão é a responsável pela mudança de cor em equimoses. Após uma contusão muscular, aparece uma mancha negra à superfície da pele devida ao derrame e coagulação de sangue de vasos sanguíneos danificados. À medida que os eritrócitos vão morrendo, o grupo hemo da hemoglobina é libertado e convertido primeiro a biliverdina, o que dá um aspecto esverdeado à equimose. O aspecto amarelado da fase seguinte do hematoma é devido à conversão a bilirrubina.
+
+
+== Ver também ==
+Acetato de cobre (II)
+Acetato di rodio(II)
+Acetato de ferro (III)
+Azol
+Acetato de cromo (II)
+
+
+== Referências ==
+
+David L. Nelson, Michael M. Cox , "Lehninger Principles of Biochemistry", 4ª edição, W. H. Freeman, 2005, ISBN 978-0716743392

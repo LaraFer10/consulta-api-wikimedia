@@ -1,0 +1,30 @@
+O sistema oral de liberação osmótica (ou OROS, do inglês osmotic-controlled release oral delivery system) é um sistema de administração oral de liberação controlada para medicamentos. Sua aparência consiste em um comprimido rígido, que é composto por uma membrana externa semipermeável com um ou mais pequenos orifícios perfurados a laser. Conforme o comprimido é metabolizado, a água é absorvida através da membrana semipermeável por osmose, enquanto a pressão osmótica é usada para permitir a absorção do princípio ativo pelo trato gastrointestinal, que é expelido através dos orifícios perfurados. OROS é uma marca registrada da ALZA Corporation, empresa farmacêutica que foi pioneira no uso de bombas osmóticas para administração oral de medicamentos, e desde 2001 faz parte da Johnson & Johnson.
+
+
+== Justificativa ==
+
+
+=== Prós e contras ===
+Os sistemas de liberação osmótica têm uma série de vantagens quando comparados a outros mecanismos de liberação controlada, pois o OROS é menos afetado por fatores como pH, ingestão de alimentos e mobilidade gastrointestinal. Além disso, os sistemas que utilizam bomba osmótica possuem melhor controle das taxas de liberação de medicamentos. Isso permite uma distribuição precisa do medicamento por um longo período de tempo, o que resulta em uma farmacocinética mais previsível. No entanto, a complexidade dos sistemas de liberação osmótica torna-os difíceis de serem fabricados. Além disso, esses sistemas podem causar irritação ou mesmo bloqueio do trato gastrointestinal devido à liberação prolongada de drogas alergênicas pelo comprimido não deformável.
+
+
+== Sistema oral de liberação osmótica ==
+
+
+=== Camada única ===
+
+A bomba osmótica elementar (EOP), desenvolvida pela ALZA em 1974, foi o primeiro modelo de um sistema de liberação de fármaco baseado em bomba osmótica. Ele foi introduzido no mercado no início dos anos 1980 na Osmosina (indometacina) e Acutrim (fenilpropanolamina), mas problemas ocorreram problemas relacionados à irritação gastrointestinal, incluindoperfuração gastrointestinal, os quais levaram à suspensão da Osmosina.Posteriormente, a Merck & Co. desenvolveu a bomba osmótica de porosidade controlada (CPOP), com a intenção de solucionar alguns dos problemas que levaram à retirada do Osmosin, para tal acrescentando uma nova camada no estágio final do mecanismo de liberação. Ao contrário do EOP, o modelo CPOP não tinha nenhum orifício pré-formado no invólucro externo para o fármaco ser expelido. Em vez disso, a membrana semipermeável do CPOP foi desenvolvida para formar vários poros quando entrasse emcontato com a água, através dos quais o fármaco seria liberado por pressão osmótica. Os poros foram projetados através da utilização de um aditivo lixiviável ou dissolúvel insensível a pH, tal como o sorbitol.
+
+
+=== Multicamada ===
+
+Tanto o EOP quanto o CPOP, sistemas relativamente simples, eram ineficazes na administração medicamentos pouco solúveis. Isso levou ao desenvolvimento de uma camada de pressão interna adicional, a qual era composta por um polímero dilatável que se expandia à medida que absorvia água, que então empurrava a camada do fármaco para fora do orifício de saída, em forma de liberação prolongada. A camada do fármaco é revestir por um polímero viscoso, a fim de permitir a administração de medicamentos com solubilidade baixa. Agentes osmóticos, como cloreto de sódio, cloreto de potássio ou xilitol, são adicionados tanto à camada do fármaco e à camada de pressão, aumentando assim a pressão osmótica. O projeto inicial, desenvolvido em 1982 pelos pesquisadores da ALZA. foi denominado bomba osmótica push-pull (PPOP), e o Procardia XL (nifedipina) foi um dos primeiros medicamentos a incorporar o protótipo PPOP.
+
+No início da década de 1990, um programa de pesquisa financiado pela ALZA começou a desenvolver uma nova forma de comprimidos de metilfenidato, destinado ao tratamento do transtorno de déficit de atenção e hiperatividade (TDAH). A meia-vida biológica curta do metilfenidato em forma de liberação imediata exige a administração de várias doses ao longo do dia, o que o tornava um candidato ideal para a tecnologia OROS. Perfis farmacocinéticos de vários protótipos foram avaliados e testados na tentativa de implementar uma melhor maneira de administrar o medicamento. Utilizando o protótipo PPOP, o comprimido falhou em manter sua eficácia ao longo do tempo, o que sugeriu que uma tolerância aguda ao metilfenidato seria formada ao longo do dia. Isso explicava por que a administração única de um comprimido de Ritalina SR (liberação prolongada) era inferior à Ritalina IR (liberação imediata) administrada duas vezes ao dia, e levou à hipótese de que um padrão ascendente de administração do medicamento era necessário para manter o efeito clínico. Os ensaios concebidos para testar esta hipótese foram bem-sucedidos, e a ALZA desenvolveu um protótipo modificado com base no PPOP, mas que utiliza um revestimento de metilfenidato projetado para liberar imediatamente e rapidamente aumentar os níveis séricos, seguido por 10 horas de administração prolongada do fármaco. Esse protótipo, que foi chamado de bomba osmótica push-stick (PSOP), utiliza duas camadas separadas que contam com diferentes concentrações de metilfenidato, e a camada de pressão interna foi ampliada em comparação ao modelo PPOP.
+
+
+== Lista de medicamentos com a tecnologia OROS ==
+Os medicamentos OROS incluem:
+
+
+== Referências ==

@@ -1,0 +1,7 @@
+Factores de transcrição (TF) são proteínas que se ligam ao DNA de células eucarióticas para permitir que haja uma ligação entre a enzima RNA-polimerase e o DNA, permitindo assim a transcrição e a futura tradução.Qualquer proteína necessária para o início da transcrição, mas que não seja parte integrante do RNA polimerase.
+As proteínas desses conjunto são classificadas em 3 tipos:
+
+TF I: proteínas que são imprescindíveis para a ligação a RNA-polimerase I, responsáveis pela transcrição de genes que resultam em RNAs ribossomais.
+TF II: proteínas que são imprescindíveis para a ligação a RNA-polimerase II, responsáveis pela transcrição de genes que resultam em RNAs mensageiros.
+TF III: proteínas que são imprescindíveis para a ligação a RNA-polimerase III, responsáveis pela transcrição de genes que resultam principalmente em RNAs transportadores.Da mesma forma, essas proteínas podem inibir a transcrição.
+Essas proteínas são essenciais na comunicação genética, controle da expressão genética, ver Redes Funcionais.

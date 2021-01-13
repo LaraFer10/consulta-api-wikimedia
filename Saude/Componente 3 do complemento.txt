@@ -1,0 +1,31 @@
+O componente 3 do complemento, conhecido também simplesmente como C3, é uma proteína do  sistema imune. Ele possui um papel central no sistema complemento e contribui para a imunidade inata. Em seres humanos, ele é codificado no cromossomo 19 por um gene chamado C3.
+
+
+== Função ==
+C3 participa de forma central na ativação do complemento. Sua ativação é necessária tanto para a via clássica quanto para as vias alternativas de ativação. Pessoas  com deficiência de C3 são mais susceptíveis a infecções bacterianas.Uma forma de C3-convertase conhecida também como C4b2a é formada por um heterodímero das formas ativas de C4 e C2. Ela catalisa a clivagem proteolítica de C3 em C3a e C3b,  gerada durante a ativação do sistema tanto pela via clássica quanto pela via das lectinas. C3a é uma anafilotoxina e é precursora de citocinas como ASP  e C3b é um agente opsonizante. O Fator I pode clivar C3b em C3c e C3d, sendo que esse último participa reforçando a resposta de células B. Na via alternativa, C3  é clivada por C3bBb, outra forma de C3-convertase composta das formas ativas de C3 (C3b) e do fator B (Bb). Uma vez que a C3 é ativada em C3b, um tioéster reativo é exposto, possibilitando a ligação covalente do peptídeo à qualquer superfície que providencie um nucleófilo como uma amina primária ou um grupo hidroxila. A C3 ativada pode então interagir com o fator B. O fator B é então ativado pelo fator D, formando Bb. O complexo resultante,  C3bBb,é chamada via alternativa (Alternative Pathway) (AP) C3 convertase.
+C3bBb é desativada passo a passo. Primeiro, o componente proteolítico da convertase, Bb, é removido por proteínas reguladoras do complemento com atividade de fator acelerador de decaimento (DAF) . Em seguinte, C3b é quebrada progressivamente, primeiro formando iC3b, depois C3c +C3dg e, finalmente, C3d.  O Fator I é a protease que executa esses cortes, mas requer ajuda de outra proteína (Fator H, CR1, MCP or C4BP)  agindo como cofator.
+
+
+== Estrutura ==
+Diversas estruturas cristalográficas de C3 já foram determinadas e revelam que essa proteína contém 13 domínios.
+
+
+== Uso clínico ==
+O níveis de C3 no sangue pode ser medido para apoiar ou refutar  certos diagnósticos médicos. Por exemplo, níveis baixos de C3 estão associados com alguns tipos de doenças renais como a glomerulonefrite pós infecciosa e a gromerulonefrite membranoproliferativa. 
+
+
+== Interações ==
+CR interage com o Fator H.
+
+
+== Referências ==
+
+
+== Leitura complementar ==
+
+
+== Ligações externas ==
+GeneReviews/NCBI/NIH/UW entry on Atypical Hemolytic-Uremic Syndrome
+OMIM entries on Atypical Hemolytic-Uremic Syndrome
+GeneReviews/NCBI/NIH/UW entry on Dense Deposit Disease/Membranoproliferative Glomerulonephritis Type II
+MeSH Complement+C3Esse artigo incorpora tradução de textos da United States National Library of Medicine, que são de domínio público.

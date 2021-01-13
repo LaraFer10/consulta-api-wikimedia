@@ -1,0 +1,22 @@
+Em Bioquímica, uma flavina redutase (EC 1.5.1.30) é uma enzima que catalisa a reacção:
+
+riboflavina reduzida + NADP+ 
+  
+    
+      
+        ⇌
+      
+    
+    {\displaystyle \rightleftharpoons }
+   riboflavina + NADPH + H+Os dois substratos desta enzima são riboflavina reduzida e NADP+, tendo como produtos riboflavina, NADPH e H+. Esta enzima pertence à família das oxidorredutases agindo sobre o grupo CH-NH de doadores e utilizando NAD+ ou NADP+ como aceitador.
+O nome sistemático da enzima é riboflavina reduzida:NADP+ oxidorredutase. Nomes triviais pelos quais a enzima é também conhecida incluem NADPH:flavina oxidorredutase e flavina mononucleótido redutase.
+
+
+== Referências ==
+Lo H, Reeves RE (1980). «Purification and properties of NADPH:flavin oxidoreductase from Entamoeba histolytica». Mol. Biochem. Parasitol. 2: 23–30. PMID 6258069 
+Yubisui T, Tamura M, Takeshita M (1987). «Characterization of a second form of NADPH-flavin reductase purified from human erythrocytes». Biochem. Int. 15: 1–8. PMID 3453680  !CS1 manut: Nomes múltiplos: lista de autores (link)
+
+
+== Ligações externas ==
+«Flavina redutase» (em inglês). na página de nomenclatura enzimática da IUBMB. 
+«Referências BRENDA para flavina redutase» (em inglês)

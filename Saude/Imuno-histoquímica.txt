@@ -1,0 +1,112 @@
+A imuno-histoquímica (IHQ) é um método de localização de antígenos (e.g. proteínas) em tecidos, explorando o princípio da ligação específica de anticorpos a antígenos no tecido biológico. O nome da técnica provém das raízes "imuno", em referência aos anticorpos utilizados no procedimento, e "histo", significando tecido (compare com imunocitoquímica). A coloração imuno histoquímica é amplamente utilizada no diagnóstico de células anormais, tais como aquelas encontradas em neoplasias. Marcadores moleculares específicos são característicos de eventos celulares particulares, tais como proliferação ou morte celular (apoptose). IHQ é também amplamente utilizada na pesquisa básica para compreender a distribuição e localização de biomarcadores e proteínas diferentemente expressas em diferentes partes de um tecido biológico. A visualização de uma interação antígeno anticorpo pode ser obtida de diversas formas. Na situação mais comum, um anticorpo é conjugado a uma enzima, como uma peroxidase, que pode catalisar uma reação que produzirá coloração. Alternativamente, o anticorpo pode também ser marcado com um fluoróforo, como fluoresceína, rodamina, Flúor DyLight ou Flúor Alexa (ver imunofluorescência).
+
+
+== História ==
+A imunofluorescência é considerada técnica precursora da IHQ por se basear em reações antígeno-anticorpo, e se caracteriza por usar tecido fresco congelado, microscópio especial e com pobre definição morfológica. Na virada dos anos 80-90, a imuno-histoquímica ganhou aplicação ampla na patologia cirúrgica; uma série de desenvolvimentos técnicos criou sistemas de detecção mais sensíveis. A técnica de hibridização facilitou o desenvolvimento da IHQ com a manufatura de anticorpos monoclonais altamente específicos, idênticos e em abundância. Os cortes inicialmente congelados deram lugar aos materiais processados na rotina (fixação em formalina e embebição em parafina). A busca por um fixador ideal (preservação antigênica) foi abandonada, preservando-se praticidade, custo, eficácia para todos marcadores e preservação da morfologia.
+
+
+== Tipos de Anticorpo ==
+Os anticorpos usados para detecção específica podem ser policlonais ou monoclonais. Anticorpos monoclonais são geralmente considerados mais específicos. Anticorpos policlonais são obtidos pela injeção de um antígeno peptídico em animais e, após a estimulação de resposta imune secundária, isolamento dos anticorpos a partir do soro. Portanto, anticorpos policlonais são uma mistura heterogênea de anticorpos que reconhecem diversos epítopos. Anticorpos podem também ser classificados como reagentes primários ou secundários. Anticorpos primários são produzidos contra um antígeno de interesse e são tipicamente não-conjugados (não-marcados), enquanto anticorpos secundários são produzidos contra anticorpos primários. Assim, anticorpos secundários reconhecem imunoglobulinas de uma espécie particular e são conjugados à biotina ou a uma enzima como fosfatase alcalina ou uma peroxidase. Alguns anticorpos secundários conjugados a agentes fluorescentes, como o Flúor Alexa ou Fluor DyLight, são também frequentemente usados para detecção de proteínas por método IHQ. A concentração da proteína é geralmente medida por análise de densitometria, em que a intensidade da coloração se correlaciona com a quantidade da proteína de interesse.
+
+
+== Preparação de Amostras ==
+No procedimento, dependendo do propósito e da espessura da amostra, cortes finos (cerca de 4-40 μm) são feitos no tecido de interesse, ou, se o tecido não for muito espesso e for penetrável, é utilizado inteiro. Os cortes são geralmente realizados através do uso de um micrótomo, e colocados em lâminas.
+
+
+=== Lâminas de controle ===
+São amostras preparadas com resultados presumidamente conhecidos, que podem ser produzidos a partir de espécimes do próprio paciente ou de outros indivíduos. Tal cuidado é elaborado na tentativa de minimizar as faltas de padronização de processamento e fixação.
+Controles internos consistem em tecido (ou células) da mesma secção, ou de secção separada do mesmo espécime da paciente, como secção-teste. Por exemplo, uma excelente escolha para controle positivo é a parte de tecido mamário normal da amostra da paciente com suspeita de neoplasia de mama. A situação ideal seria colocar no mesmo bloco o tecido a ser analisado (“suspeito”) e o tecido de controle.
+O uso de controles externos significa a disponibilização de tecidos (ou linhas de células) derivas de outras fontes que não o paciente a ser analisado (por definição, não foram sujeitas ao mesmos procedimentos de fixação e processamento). Devem incluir células sabidamente negativas e outras com níveis baixos e altos de expressão de do antígeno que se está avaliando.
+
+
+== IHQ Direta e Indireta ==
+Há duas estratégias usadas para a detecção imuno-histoquímica de antígenos nos tecidos, o método direto e o método indireto. Em ambos os casos, muitos antígenos também necessitam de passos adicionais de desmascaramento, o que frequentemente faz a diferença entre coloração e não-coloração. Ao contrário da imunocitoquímica, o tecido não precisa ser permeabilizado, pois isso já foi feito pela lâmina do micrótomo durante a preparação da amostra. Detergentes como Triton X-100 são geralmente usados na imuno-histoquímica para reduzir a tensão superficial, permitindo que menos reagente seja usado para atingir melhor e maior cobertura da amostra.
+
+
+=== Direto ===
+O método direto é um método de coloração de um passo (one-step), e envolve um anticorpo marcado (e.g. Isotiocianato de Fluoresceína - FITC) conjugado reagindo diretamente com o antígeno na amostra de tecido. Essa técnica utiliza apenas um anticorpo e o procedimento é, portanto, simples e rápido. Entretanto, pode sofrer problemas com sensibilidade devido à pequena amplificação de sinal e é menos comumente utilizado do que os métodos indiretos.
+
+
+=== Indireto ===
+O método indireto envolve um anticorpo primário não-marcado (primeira camada) que reagem com o antígeno do tecido, e um anticorpo secundário marcado (segunda camada) que reagem com o anticorpo primário. (O anticorpo secundário deve se produzido contra a IgG da espécie animal em qual o anticorpo primário foi produzido.) Esse método é mais sensível devido à amplificação de sinal através de diversas reações de anticorpos secundários com diferentes sítios antigênicos do anticorpo primário. A segunda camada de anticorpos pode ser marcada com corante fluorescente ou uma enzima. 
+O método indireto, além de sua grande sensibilidade, também tem a vantagem de que apenas um número relativamente pequeno de anticorpos secundários conjugados (marcados) precisa ser gerado. Por exemplo, um anticorpo secundário marcado produzido contra IgG de coelho, que pode ser comprado diretamente sem encomenda, é útil com qualquer anticorpo primário produzido em coelhos. Com o método direto, seria necessário produzir anticorpos marcados customizados contra cada antígeno de interesse.
+
+
+== Indicações de Imuno-histoquímica ==
+As reações imuno-histoquímicas podem ser utilizadas nas mais diferentes situações dentro de um laboratório de patologia cirúrgica. As mais importantes são:
+
+elucidação do tecido de origem de uma neoplasia morfologicamente indiferenciada;
+determinação do órgão de origem de uma neoplasia diferenciada;
+subtipagem de neoplasias (linfomas);
+pesquisa de fatores prognósticos, terapêuticos e índices proliferativos de algumas neoplasias (por exemplo, hormônios);
+identificação de estruturas, organismos e materiais secretados pelas células;
+detecção de células neoplásicas metastáticas;
+diferenciação entre uma proliferação celular maligna e benigna.
+
+
+== Marcadores imuno-histoquímicos ==
+
+IHQ é uma técnica excelente de detecção, e tem a extraordinária vantagem de se capaz de mostrar exatamente onde uma determinada proteína está localizada no tecido examinado. É também uma forma efetiva de examinar os tecidos. Isso a tornou uma técnica amplamente utilizada nas neurociências, possibilitando que os pesquisadores examinem a expressão de proteínas dentro de estruturas cerebrais específicas. Sua maior desvantagem é que, ao contrário das técnicas de imuno-plotagem (immunoblotting), em que a coloração é checada contra um peso molecular posteriormente, é impossível mostrar na IHQ que a coloração corresponde à proteína de interesse. Por essa razão, anticorpos primários devem ser bem validados em um Western Blot ou procedimento similar. A técnica é ainda mais amplamente utilizada no diagnóstico da patologia cirúrgica para tipagem de tumores (e.g. imunocoloração para e-caderina para diferenciar entre carcinoma ductal in situ (coloração positiva) e carcinoma lobular in situ (não cora).
+
+Pan Citoqueratina: marcador de todos tipos celulares epiteliais e todos carcinomas; também podem ser expressas em alguns sarcomas;
+CD45 (LCA): marcador de leucócitos;
+HMB45: marcador de melanoma e nevos azul, de Spitz e juncional, angiomiolipoma;
+S100: marcador de células gliais e de Schwann, melanócitos, adipócitos, condrócitos, células de Langerhans e células reticulares interdigitantes
+Vimentina: marcador de células de origem mesenquimal (sarcomas);Actina: marcador mioepitelial; útil para leiomiossarcoma (positivo), câncer papilar de mama (negativo) e outros;
+Alfafetoproteína (AFP): marcador de tumores de células germinativas (seio endodérmico) e carcinoma hepatocelular;
+BCL-2: é uma oncoproteína; linfoma folicular x hiperplasia reacional, subtipos de linfomas, carcinomas e sarcomas;
+CA 125: Marcador de carcinoma de ovário, vesículaseminal, colo uterino, endométrio, trato gastrintestinal, tireóide e mama;
+CEA (antígeno cárcino-embriônico): marcador de antígeno oncofetal - subtipos de adenocarcinoma, carcinoma hepatocelular (padrão canalicular), negativo no mesotelioma. Não é sítio-específico.
+Antígeno prostático específico (PSA): para câncer de próstata;
+Receptores de estrogênio e progesterona: marcadores prognósticos em câncer de mama;
+CD3 (Pan-T): para identificação de linfomas de células T;
+CK7: marcador de epitélios glandulares e transicional - subtipos de carcinomas, ductos biliares;
+CD10 (CALLA): marcador de células foliculares e linfoblastos, normais e neoplásicas, além de tumor do estroma endometrial e carcinoma de células renais;
+CD15: marcador de granulócitos maduros, células de Hodgkin e de Reed-Sternberg e diversos adenocarcinomas
+CD20 (Pan-B): para identificação de linfomas de células B;
+CD30 (Ki-1): marcador de linfoma de Hodgkin, linfoma de grandes células anaplásico e carcinoma embrionário;
+CD117 (proto-oncogene c-KIT): marcador de tumores de estroma gastrointestinal (GIST), alguns carcinomas e leucemias, mastócitos;
+CK20: tumores gastrointestinais, carcinoma de células transicionais, tumor de células de Merkel;
+Cromogranina A: marcador de diferenciação neuroendócrina;
+Desmina: marcador de células musculares, estriadas ou lisas - tumores musculares lisos e estriados, diferenciação muscular em células normais
+E-caderina: glicoproteína transmembrana com papel regulador das junções epiteliais - carcinoma ductal x carcinoma lobular de mama
+Enolase: marcador de origem neural e neuroectodérmica - tumores neuroendócrinos e melanoma;
+Erb-B2/Her-neu: carcinomas da mama, ovário e trato-gastrointestinal. Marcador prognóstico e preditivo em carcinoma de mama;
+KI-67: marcador da proteína nuclear expressa durante todas as fases do ciclo celular, marcador de proliferação celular;
+Proteína P53: marcador da proteína P53, produto do gene supressor tumoral marcador prognóstico. Presente em grande variedade de tumores;
+Racemase: marcador de células neoplásicas no carcinoma de próstata;
+TTF-1: marcador de carcinomas de pulmão e tireóide e neoplasias neuroendócrinas.
+
+
+== Diagnóstico por IHQ ==
+Existe uma certa crença de que o estudo imuno-histoquímico teria alguma ligação com testes bioquímicos, devido a termos como “dosagem de receptores” e “teste imuno-histoquímico”, mas a IHQ gera um diagnóstico final. Há diversas variáveis envolvidas na geração de um diagnóstico imuno-histoquímico: dados clínicos, dados morfológicos, fase pré-analítica, fase analítica e fase pós-analítica. Mesmo excluindo-se todos os fatores técnicos e metodológicos, o diagnóstico IHQ final é, em grande parte, subjetivo; porém a opinião do patologista deve procurar objetividade, reprodutibilidade (intra e interobservador), comparabilidade (interinstitucional), com bom controle de qualidade.
+O patologista, frente a um caso de metástase, deve, a partir da morfologia tumoral, solicitar painel imunohistoquímico, levando-se ainda em consideração o sexo, idade e dados clínicos do paciente. A interpretação da imuno-histoquímica deve levar em conta o padrão de marcação e o tipo celular marcado. Enfatiza-se que, em anatomia patológica, a reação da imuno-histoquímica é um método auxiliar importante para definir o tipo histológico tumoral, principalmente em neoplasias pouco diferenciadas, porém ela não pode ser avaliada isoladamente, devendo-se considerar a morfologia histopatológica e dados clínicos para o diagnóstico final.
+Determinação do local de origem de neoplasias muitas vezes é possível e necessário para o manejo clínico adequado dos pacientes. O primeiro passo na avaliação de um tumor metastático é a determinação da linhagem do tumor (por exemplo, células epiteliais, mesenquimais, melanocíticas). Marcadores para a determinação de linhagem devem ser incluídos em um painel; tanto colorações positivas como negativas são esperadas em diferentes linhagens em estudo. 
+Os marcadores inicialmente avaliados utilizados rotineiramente com esse propósito são: AE1/AE3+ (pan-citoqueratina) que, caso positivo, indica neoplasia de origem epitelial; CD45 (LCA), que é um marcador leucocitário e, quando positivo, aponta para linfoma; e vimentina, que é um marcador de células de origem mesenquimal, indicando sarcoma quando positivo. Outros marcadores realizados rotineiramente são os marcadores melanocíticos HMB45 e S100, na suspeita de melanoma.
+Depois de uma metástase ter sido determinada como um carcinoma, por exemplo, um painel de tecidos ou órgãos marcadores específicos podem ser usados em uma tentativa de determinar ou sugerir a origem. Realiza-se então, painel conforme a linhagem do tumor: caso origem epitelial, painel para pesquisa do sítio primário com CK7 e CK20; caso origem leucocitária, painel para linfoma e caso origem mesenquimal, painel para sarcoma.
+
+
+=== Fases da análise imuno-histoquímica ===
+Fase pré-analítica: refere-se às operações realizadas antes do material estar disponível para análise, como as etapas de fixação e processamento do tecido. São exemplos de operações até então ainda não definidas em relação a manipulação de amostras de tecidos mamários: tempo de isquemia morna antes de fixar a amostra, tempo para realizar secção e transferência de amostras para blocos, tempos mínimo e máximo de fixação, tipo de fixador, tipo de processador tissular, temperatura máxima nas diferentes fases do processamento (incluindo duração da exposição à parafina aquecida).
+Fase analítica: refere-se aos aspectos da reação com os componentes da IHQ, que devem estar funcionando propriamente, principalmente o anticorpo primário a ser usado, o sistema de detecção e o cromógeno. Uma queda da “sensibilidade” desses fatores pode levar a uma análise inadequada, com potenciais resultados falso-negativos.
+
+
+== Terapia direcionada ==
+Uma variedade de rotas moleculares estão alteradas no câncer e algumas dessas alterações podem ser alvo de terapia. A imuno-histoquímica pode ser usada para avaliar que tumores mais provavelmente responderão à terapia, pela detecção da presença ou de níveis elevados do alvo molecular.
+
+
+=== Inibidores químicos ===
+A biologia tumoral permite um número de potenciais alvos intracelulares. Muitos tumores são hormônio-dependentes. A presença de receptores hormonais pode ser usada para determinar se um tumor é potencialmente responsivo à terapia anti-hormonal. Uma das primeiras terapias foi a antiestrogênica (Tamoxifeno), utilizada para o tratamento do câncer de mama. Tais receptores hormonais podem ser detectados por IHQ. Imatinib, um inibidor intracelular da cinase de tirosina, foi desenvolvido para tratar leucemia mielóide crônica, uma doença caracterizada pela formação de uma cinase de tirosina anormal específica. Imatinib se provou efetivo em tumores que espressam outras cinases de tirosina, mais notavelmente KIT. A maioria dos tumores de estroma gastrointestinal (GIST) expressam KIT, o qual pode ser detectado por imuno-histoquímica.
+
+
+=== Anticorpos monoclonais ===
+Muitas proteínas mostradas pela IHQ são altamente supra-reguladas (upregulated) em estados patológicos, sendo potenciais alvos para terapias utilizado anticorpos monoclonais. Entre os alvos superexpressos, estão os membros da família EGFR (epidermal growth factor receptor), proteínas transmembrana com um domínio receptor extracelular regulando uma cinase de tirosina intracelular. Anticorpos monoclonais, devido ao seu tamanho, são utilizados contra alvos da superfície celular. Desses, HER2/neu (também conhecido como Erb-B2) foi o primeiro a ser desenvolvido. A molécula é altamente expressa em uma variedade de tipos de células cancerígenas, mais notavelmente câncer de mama. Como tal, anticorpos contra HER2/neu foram aprovados pela FDA (Food and Drugs Administration) para tratamento clínico de câncer sob o nome de Herceptin. Os testes imuno-histoquímicos disponíveis comercialmente são Dako HercepTest e Ventana. Similarmente, EGFR (HER-1) é superexpresso em uma variedade de cânceres, incluindo de cabeça e pescoço e cólon. A imuno-histoquímica é utilizada para determinar os pacientes que poderão ter benefício de anticorpos terapêuticos como Erbitux (cetuximab). Sistemas comerciais para detectar EGFR por IHQ incluem Dako pharmDx.
+
+
+== Referências ==
+
+
+== Bibliografia ==
+PAES, JF et al - Definição histogênica de neoplasias por imuno-histoquímica. einstein: Educ Contin Saúde. 2008, 6(1 Pt 2): 46-7
+WERNER, B. et al. Uso prático da imuno-histoquímica em patologia cirúrgica - J Bras Patol Med Lab, v. 41, n. 5, p. 353-64, outubro 2005
+MURLI K. Diagnosis of Metastatic Neoplasms: An Immunohistochemical Approach - Arch Pathol Lab Med. 2010;134:207–215

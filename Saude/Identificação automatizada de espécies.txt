@@ -1,0 +1,31 @@
+Identificação automatizada de espécies é um método de fazer a experiência de taxonomistas disponíveis para os ecologistas, taxonomistas e outras pessoas por meio de computadores e outros tecnologia digital através de inteligência artificial.
+
+
+== Introdução ==
+A identificação automática de objetos biológicos, como insetos (indivíduos) e/ou grupos (por exemplo, espécies, guildas, personagens) tem sido um sonho entre sistematistas por séculos. O objetivo de alguns dos primeiros biométricos multivariados  métodos para resolver o problema permanente da  caracterização de discriminação de grupo e inter-grupo. Apesar de muito trabalho preliminar, nos anos 1950 e 60, o progresso na concepção e implementação de sistemas práticos totalmente automatizada para identificação de objetos biológicos provou se lento .
+
+
+== Implementações ==
+iNaturalist é uma ciência cidadão global e da rede social de naturalistas que incorpore tanto os humanos e automáticos de identificação de plantas, animais e outros seres vivos através do browser ou aplicativos de dispositivos móveis.[8]
+Folha Snap é um aplicativo para iOS desenvolvido pela Smithsonian Institution , que utiliza o visual do software de reconhecimento para identificar Norte-Americana de espécies de árvores a partir de fotografias de folhas.
+FlowerChecker bot é um Facebook Chatterbot que utiliza o visual do software de reconhecimento para identificar espécies de plantas a partir de fotografias. O bot usa planta de um banco de dados coletados por FlowerChecker aplicativo para telefones móveis.
+Google Fotos pode automaticamente identificar os diversos tipos de fotografias.[9]
+Planta.id é um aplicativo web que utiliza a rede neural treinada em fotos de FlowerChecker app
+
+
+== Veja também ==
+Multi-tecla de acesso
+
+
+== Referências citadas ==
+
+
+== Ligações externas ==
+Aqui estão alguns ligações para as página inicial de identificação de espécies de sistemas. O SPIDA e DAISY sistema são essencialmente genéricas e capazes de classificar qualquer imagem material apresentada. A ABIS e DrawWing sistema são restritos para insetos com asas membranosas como eles operam combinando um conjunto específico de caracteres com base na disposição das nervuras da asa.
+
+O sistema SPIDA
+ABIS
+MARGARIDA
+DrawWing
+O leafsnap
+Pl@ntNet

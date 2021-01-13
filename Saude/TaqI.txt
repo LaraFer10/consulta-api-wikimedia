@@ -1,0 +1,10 @@
+TaqI é uma enzima de restrição isolada a partir da bactéria Thermus aquaticus, no ano de 1978. A sua sequência de reconhecimento é
+
+5'TCGA
+3'AGCTe efectua o seguinte corte:
+
+5'---T   CGA---3'
+3'---AGC   T---5'
+
+
+== Referências ==

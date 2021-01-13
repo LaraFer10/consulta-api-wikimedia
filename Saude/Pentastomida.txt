@@ -1,0 +1,53 @@
+Pentastomida é uma subclasse dos Maxillopoda com aproximadamente 140 espécies catalogadas remanescentes, que agrupa animais de corpo muito modificado, vermiforme e cujo comprimento pode variar de 2 a 13 centímetros. O nome está relacionado com o aspecto morfológico do animal, que parece ter 5 bocas (do grego, “penta”, cinco e “stomida”, boca). Também podem ser conhecidos como vermes língua, devido à característica achatada do corpo de algumas espécies. O corpo apresenta simetria bilateral e há ausência de sistemas excretor e respiratório, uma vez que uma característica de todo o grupo é o parasitismo obrigatório. O ciclo de vida desses animais geralmente consiste no endoparasitismo, abrigando-se no trato respiratório de vertebrados, principalmente no pulmão de répteis, que são os hospedeiros em 90% dos casos. Ambos estágios, larval e adulto, possuem hábito hematófago. Algumas espécies possuem um hospedeiro único e um desenvolvimento larval direto, mas em uma grande maioria há o parasitismo de um hospedeiro intermediário, que pode ser um anfíbio, um peixe, inseto, réptil ou mamífero, o qual abriga a larva até o estágio infeccioso. Este grupo é pouco compreendido e já foi associado com diferentes filos dentro de Metazoa como Arthropoda, Tardigrada, Annelida, Platelmintes e Nematoda, sendo hoje identificados como parte do subfilo Crustacea. -
+
+
+== Morfologia ==
+A larva de um pentastomida é caracterizada por uma boca ventral sustentada por um anel quitinoso, dois pares de garras e um estilete de penetração, o qual ela usa como aparato para adentrar as entranhas do hospedeiro. Essa estrutura de perfuração não é encontrada em fósseis, o que leva à interpretação desse caractere como uma autapomorfia.  Todas as larvas de pentastomídeos possuem papilas terminais. Os dois pares de apêndices se modificam no adulto, formando as papilas sensoriais. Essas modificações são interpretadas como adaptativas ao hábito parasita.
+Os adultos deste grupo são facilmente distinguidos de demais parasitas pela presença de dois pares de apêndices cefálicos, que são garras quitinosas especializadas para a fixação ao tecido do hospedeiro. Não há presença de mandíbula, mas há papilas sensoriais nas regiões frontal e dorsal do cefalotórax e alguns grupos também mantém as papilas terminais. Essas estruturas são entendidas como apêndices reduzidos, e junto ao cordão nervoso, elas compõem um sistema sensorial reduzido. O corpo é anelado e vermiforme ou dorsoventralmente achatado, característica que deu origem ao primeiro nome do grupo, Linguatulidae (Leuckart, 1860). A cutícula é mais mole e porosa do que em geral em Arthropoda, pois é composta por beta-quitina, que também aparece em cnidários, anelídeos, moluscos e braquiópodes. Essa característica que permite a movimentação peristáltica. Pentastomídeos possuem musculatura circular e longitudinal com um padrão cruzado da musculatura estriada. Os órgãos estão imersos em hemolinfa, onde ocorre a troca de substâncias. O aparelho digestivo é tubular e reto, terminando no ânus posterior.
+
+
+== Reprodução ==
+Pentastomídeos são dióicos e apresentam dimorfismo sexual em que a fêmea, em geral, é maior. A fêmea possui um sistema reprodutivo complexo em que há uma única cópula durante o ciclo de vida e a produção de ovos é massiva. A inseminação ocorre com a fêmea jovem, com o útero ainda em desenvolvimento. A espermateca é uma estrutura que reserva esperma e permite que haja a contínua fertilização de ovos, que ficam alojados no útero em diferentes estágios de desenvolvimento. 
+O sistema reprodutivo do macho é composto por um testículo e pode possuir um ou um par de vesículas seminais. O poro genital está localizado na parte anterior do corpo. A fecundação é interna e ocorre com a introdução do cirro no poro genital da fêmea.
+
+
+== Ciclo de vida ==
+A maioria dos Pentastomídeos têm dois hospedeiros, embora alguns possam ter um ciclo direto. O adulto coloca os ovos no trato respiratório de um réptil ou mamífero, os quais serão expulsos para o ambiente pelas fezes. As larvas possuem estruturas de perfuração do tecido hospedeiro e podem estar soltas na cavidade corporal ou fixas em cistos dentro do trato digestivo do hospedeiro. O desenvolvimento do adulto ocorre sem uma metamorfose completa, mas apresenta alguns instars larvais, que são intercalados por mudas. O ciclo de vida se encerra com o hospedeiro intermediário infectado sendo consumido por um predador, que se torna o hospedeiro definitivo.
+Embora sejam majoritariamente parasitas de répteis, tendo hospedeiros exclusivos, os pentastomídeos podem representar um problema de saúde para os humanos, principalmente na África, Oriente Médio, Sudeste Asiático e América Latina, em regiões onde pode haver o consumo de carne de répteis, facilitando a contaminação. Os humanos costumam ter alta tolerância à infecção por esses animais, apresentando poucos ou nenhum sintoma. Ainda assim, a ação do parasita pode causar graves obstruções intestinais, respiratórias e até morte. A única espécie do grupo conhecida por infectar o trato respiratório humano é a cosmopolita Lingulata serrata, presente na Europa, Oriente Médio, África, Américas central, do sul e do norte. aparecendo no trato digestivo de cães, seus hospedeiros definitivos.
+
+
+== Filogenia ==
+Um estudo realizado com o DNA mitocondrial de uma espécie de pentastomídeo e de outras três espécies de crustáceos analisou e reconheceu sequências de genes que os colocavam no grupo dos Tetraconata. Além disso, alguns arranjos desses genes levam à uma forte relação entre Pentastomida com Maxillopoda e Cephalocarida. Dados moleculares de 18S DNAr e semelhanças ultraestruturais dos espermatozóides levaram à ligação de Pentastomida com Branchiura. No entanto, com relação ao histórico geológico, morfologia, embriologia e ciclo de vida, esses táxons apresentam grandes divergências. 
+Todos os fósseis conhecidos foram encontrados em extratos marinhos, enquanto os animais atuais são conhecidos por terrestres. Fósseis encontrados no extrato marinho da Suécia e do Canadá  datam do período Ordoviciano e Cambriano, o que evidencia os como os mais antigos parasitas artrópodes conhecidos. Atualmente, os pentastomídeos não apresentam as características de Maxillopoda e boa parte das características de artrópode também foram perdidas.
+
+
+== Classificação ==
+Filo Pentastomida  (Huxley, 1869) (29 gen., 8 spp fósiles, 144 spp-ssp actuales) Pan-Pentastomida [clado ancestral (stem-group) + clado actual (crown-group)]
+Clado ancestral de pentastómidos (4 gen. fósiles, 8 spp. fósiles)
+
+Classe Eupentastomida Waloszek, Repetski & Maas, 2006 (clado actual, 25 gen. actuales, 144 spp. actuales)
+Ordem Cephalobaenida (Heymons, 1935) (2 gen., 2 spp)
+Familia Cephalobaenidae (Heymons, 1922) (2 gen., 2 spp)
+Orden Raillietiellida (Almeida & Christoffersen, 1999) (2 gen., 44 spp-ssp)
+Familia Raillietiellidae Sambon, 1922 (2 gen., 44 spp and ssp)
+Orden Reighardiida (Almeida & Christoffersen, 1999) (2 gen., 3 spp)
+Familia Reighardiidae (Heymons & Vitzhum, 1936) (2 gen., 3 spp)
+Orden Porocephalida (Heymons, 1935) (19 gen., 95 spp-ssp)
+Superfamilia Linguatuloidea (Haldeman, 1851) (3 gen., 10 spp-ssp)
+Familia Linguatulidae (Leuckart, 1860) (2 gen., 6 spp-ssp)
+Familia Subtriquetridae (Fain, 1961) (1 gen., 4 spp)
+Superfamilia Porocephaloidea (Sambon, 1922) (16 gen., 85 spp-spp)
+Familia Sebekiidae (Sambon, 1922) (8 gen., 41 spp)
+Subfamilia Leiperiinae (Christoffersen & De Assis, 2013) (1 gen., 3 spp)
+Subfamilia Samboninae (Heymons, 1935) (1 gen., 5 spp)
+Subfamilia Diesingiinae (Heymonss, 1935) (3 gen., 13 spp)
+Subfamilia Sebekiinae (Sambon, 1922) (3 gen., 17 spp)
+Familia Porocephalidae (Sambon, 1922) (8 gen., 44spp-ssp)
+Subfamilia Armilliferinae (Kishida, 1928) (2 gen., 13 spp-ssp)
+Subfamilia Porocephalinae (Sambon, 1922) (6 gen., 31 spp).
+
+
+== Referências ==
+
+
+== Veja Também ==

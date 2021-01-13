@@ -1,0 +1,27 @@
+Zoobank, ou Official Register of Zoological Nomenclature, é um banco de dados eletrónico dos nomes científicos, as publicações científicas, e os espécies tipo em taxonomia zoológica. É o banco de dados oficial, lançada em 2012 depois de uma emenda do Código Internacional de Nomenclatura Zoológica (ICZN). Seu acesso é livre e gratuito ("open access") através do website. A recomendação 8A de o Código insta a registar nesse site as descrições de novas espécies e outros "atos nomenclaturais" realizados, que se pode fazer através de formulários on-line.
+
+
+== História ==
+Durante muitas décadas a literatura zoológica foi indexada de forma não oficial pelo banco de dados bibliográfico The Zoological Record, criada em 1864, que chegou a indexar uma percentagem importante de nomes e publicações (bastante mais de 90%), conquanto não era obrigação informar a essa publicação e teve outros índices que não lhe fizeram concorrência. Seus dados foram a primeira fonte de dados do protótipo do Zoobank. Funcionou como protótipo durante vários anos até que uma emenda do ICZN o lançou oficialmente no 2012. A recomendação 8A de o Código indica que se registem as atividades no Zoobank e também que se envie copia para The Zoological Record.
+
+
+== Funcionamento ==
+Deve-se criar uma conta de utente para poder ingressar os dados no site. Desde 2012 podem-se registar:
+
+Atos nomenclaturais: Usos publicados dos nomes científicos dos animais, como descrições de taxa, lectotipificações, e outros.
+Publicações: Cita-a à publicação que contém o "acto nomenclatural".
+Autores: Tanto os autores da publicação que contém o ato nomenclatural, como o autor que ingressou o conteúdo no zoobank.
+Especíes tipo: Ainda é provisório.
+
+
+== Ver também ==
+The Zoological Record Banco de dados com acesso aos artigos completos.
+Propostas de um registo central de nomes em Taxonomia
+
+
+== Ligações externas ==
+Zoobank
+ZooBank papers e mailing list
+
+
+== Referências ==

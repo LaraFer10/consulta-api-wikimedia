@@ -1,0 +1,28 @@
+BglII é uma enzima de restrição do tipo II, isolada de certos tipos de estirpes de Bacillus globiggi e faz parte do sistema de restrição-modificação.
+Em biologia molecular, é uma enzima de restrição vulgarmente utilizada. Cria extremidades coesivas no ADN. A sequência de ácidos nucleicos onde a enzima faz o corte é A|GATCT, que é um palíndromo, já que a sua sequência complementar é TCTAG|A.
+
+
+== Estrutura ==
+
+
+=== Estrutura primária ===
+
+
+=== Estrutura terciária e quaternária ===
+
+
+== Usos ==
+Porque têm a habilidade de cortar o ADN em locais previsíveis e deixarem extermidades que podem novamente ser religadas, as enzimas de restrição são vulgarmente utilizadas em clonagem, rastreio de ADN, mutagénese, e em outras técnicas comuns. Algumas destas enzimas produzem extremidades coesivas, capazes de se ligarem aos produtos de da acção de diferentes enzimas de restrição.
+
+
+== Ver também ==
+EcoRI, uma nuclease de E. coli.
+FokI, uma nuclease de Flavobacterium okeanokoites
+
+
+== Referências ==
+1. Pingoud, A., Jeltsch, A. (2001) Structure and function of type II restriction endonucleases, Nucl. Acids Res. 29. 18, 3705-3727.
+
+
+== Ligações externas ==
+Restriction Enzyme Database

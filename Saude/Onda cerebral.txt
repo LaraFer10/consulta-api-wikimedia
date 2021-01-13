@@ -1,0 +1,18 @@
+Onda cerebral ou oscilação neuronal é  atividade rítmica ou repetitiva no sistema nervoso central. O tecido neuronal pode gerar atividades oscilatórias de diferentes maneiras, cada uma delas é conduzida por mecanismos de neurônios individuais ou por meio da inteiração entre neurônios. Em neurônios individuais, oscilações podem aparecer também como oscilação na membrana potencial ou como padrões rítmicos, os quais produzem ativação oscilatória de neurônios pós-sinápticos. No nível do reagrupamento neuronal, a atividade de sincronização de um largo número de neurônios pode dar lugar a oscilações macroscópicas, que podem ser observadas por meio de eletroencefalograma. A atividade oscilatória em um grupo de neurônios geralmente surge a partir de um feedback de conexões entre os perônios que resultam na sincronização de padrões. Um exemplo conhecido de oscilação neuronal macroscópica é a atividade alpha.
+A oscilação neuronal foi observada pela primeira vez por pesquisadores em 1924 (por Hans Berger). Mais de 50 anos depois, o comportamento oscilatório intrínseco foi encontrando em neurônios de vertebrados, mas o seu papel funcional ainda não é completamente compreendido.
+
+
+== Visão Geral ==
+Ondas cerebrais ocorrem no sistema nervoso central em todos os níveis. Em geral, essas ondas podem ser caracterizadas pela sua frequência, amplitude e fase. As propriedades desses sinais, podem ser obtidas usando Análise tempo-frequência.
+Em oscilações de larga escala, alterações de amplitude são consideradas resultado de alterações de sincronização nas células do sistema nervoso central, também conhecido como sincronização local. Além desta, atividades oscilatórias envolvendo estruturas neurais distantes (neurônios simples ou estruturas de neurônios), podem entrar em sincronia. Oscilações e sincronizações neurais foram associadas a várias funções cognitivas, tais como: transferência de informação, percepção, controle motor e memória.
+
+
+== Ver também ==
+Neurociência computacional
+Cibernética
+Eletroencefalografia
+Magnetoencefalografia
+ThetaHealing
+
+
+== Referências ==

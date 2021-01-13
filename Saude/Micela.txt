@@ -1,0 +1,30 @@
+Micela é uma estrutura globular formada por um agregado de moléculas anfipáticas, ou seja, compostos que possuem características polares e apolares simultaneamente, dispersos em um líquido constituindo uma das fases de um coloide.
+As micelas são geralmente globulares, contudo, estas estruturas podem ser elipsoides, cilíndricas e em camadas. O formato e o tamanho destas é função da geometria molecular dos surfactantes bem como das condições da solução, tais como: concentração, temperatura, pH e força iônica.
+Esta geometria molecular possui uma relação matemática que pode indicar a forma que a micela irá assumir, nesta relação três parâmetros são considerados, o primeiro é o comprimento da cadeia carbônica da molécula anfifílica, o segundo é a área da cabeça e finalmente o volume da calda de hidrocarbonetos. Esta relação é dada por:
+v/(l*a )≤ 1/3                      para micelas esféricas
+1/3 ≤ v/(l*a) ≤ 1/2               para micelas cilíndricas
+v/(l*a) ≥ 1/2                        para bicamada
+
+A figura ao lado  mostra uma micela de forma esquemática e a formação de agregados com relação a concentração, que é largamente usado na indústria de produtos de limpeza e os encontramos em grandes quantidades em detergentes. Este surfactante possui a capacidade de formar micelas quando extrapola a concentração micelar crítica (CMC); basicamente a CMC é a concentração limite, característica de cada surfactante, para formação de supramoléculas. Ou seja, antes da CMC, os monômeros se encontram livres em solução, e não formam agregados. 
+O que torna as moléculas surfactantes capazes de promover tal interação, está relacionado a sua estrutura molecular, onde duas regiões apresentam afinidades opostas. O surfactante possui parte de sua cadeia afim a água (hidrofílica) e outra parte de sua estrutura não possui afinidade com a água (hidrofóbica). Genericamente, chamamos a região hidrofílica da molécula de “cabeça” e a região hidrofóbica de “calda” (Moroi, 1992). Desta forma, uma vez excedendo o valor máximo de concentração do surfactante (em que cada surfactante apresenta uma CMC característica) o menor gasto energético para o sistema é a auto-organização, ou seja, a micelização. Este é um sistema dinâmico e está, por isso, associado a uma faixa de concentração e não a um único valor específico somente. 
+A CMC de um determinado surfactante é diferente dependendo das condições externas como temperatura, pH, sal ou pela presença de outro elemento na solução (como por exemplo proteína). A CMC do SDS é de aproximadamente 1 mM à 25 C e pH 7 em água. 
+Estas "partículas" variam entre 0,1 e 0,001 micrômetros de diâmetro em soluções coloidais. As micelas se mantêm unidas graças a uma interação chamada Força de Van der Waals, que acontece devido à grande proximidade entre as parcelas apolares das moléculas anfipáticas.
+A formação das micelas, contudo, não ocorre em qualquer concentração. Apenas a partir de uma concentração mínima chamada concentração micelar crítica, ocorre a micelização. Esta associação das moléculas de surfactantes ocorre para que haja uma diminuição da área de contato entre as cadeias hidrocarbônicas do surfactante e a água ou outro composto polar.
+Com a formação de micelas várias propriedades físicas da solução tais como viscosidade, condutividade elétrica, tensão superficial e pressão osmótica são afetadas.
+As micelas podem ser formadas de fosfolipídeos (lipídeos complexos), por exemplo, onde a parte polar ou hidrofílica fica rodeada de água, e a parte apolar ou hidrofóbica (caudas hidrocarbonadas), ficam sequestradas no interior.
+É importante o conhecimento destas micelas pois é o que ocorre em nosso organismo quando absorvemos os lipídeos. Depois de ingeridos, os lipídeos são degradados em moléculas menores e mais fáceis de serem absorvidos (isso ocorre no estômago e intestino). Depois que são absorvidos, eles são transportados na corrente sanguínea em agregados à uma apolipoproteína formando micelas. No organismo os lipídeos são necessários para a síntese de hormônios, proteção da termorregulação, etc.  
+
+
+== Micelas reversas ==
+Em um solvente apolar, a exposição da parte polar não é energicamente favorável. Neste caso, os grupos hidrofílicos tendem a ser voltados para o interior da micela e os grupos hidrofóbicos ficam expostos na superfície. A formação de micelas reversas pode ser bastante difícil, pois, por possuírem carga elétrica semelhante, os grupamentos polares tendem a se repelir.
+Um exemplo de micela reversa é a bolha de sabão. Esta pode ser classificada como tal pois, em razão da característica apolar do ar, a parte hidrofílica da micela se volta para o interior e a parte hidrofóbica, que reagirá com o ar, para o exterior.
+
+
+== Referências ==
+
+
+== Bibliografia ==
+J. M. Seddon, R. H. Templer.  Polymorphism of Lipid-Water Systems, from the Handbook of Biological Physics, Vol. 1, ed. R. Lipowsky, and E. Sackmann. (c) 1995, Elsevier Science B.V. ISBN 0-444-81975-4
+S.A. Baeurle, J. Kroener, Modeling effective interactions of micellar aggregates of ionic surfactants with the Gauss-Core potential, J. Math. Chem. 36, 409–421 (2004).
+Hartley, G.S., Aqueous Solutions of Paraffin Chain Salts, A Study in Micelle Formation, 1936, Hermann et Cie, Paris.
+Makoto Takeo (1999). Disperse Systems, WILEY-VCH, ISBN 3-527-29458-9

@@ -1,0 +1,11 @@
+As aloenzimas ou alozimas são formas variantes de uma enzima que estão codificadas por diferentes alelos de um mesmo locus Estes são o oposto das isoenzimas, que são enzimas que realizam a mesma função, mas que estão codificadas nos genes localizados em diferentes loci.As aloenzimas são enzimas biológicas comuns que apresentam altos níveis de conservação evolutiva funcional através de filos específicos e reinos. São usados em filogenética como marcadores moleculares que registam a história evolutiva e as relações entre diferentes espécies. Isto é possível ser feito porque as aloenzimas não apresentam a mesma estrutura. Podem ser separadas por eletroforese capilar. No entanto, algumas espécies são monomórficas para muitas das suas aloenzimas, o que torna difícil para os filogenetistas realizar uma estimativa da história evolutiva dessas espécies, e para isso teriam que fazer uso de outros métodos.Estas enzimas geralmente desempenham funções muito básicas que se encontram em todas as formas de vida. Um exemplo é a DNA polimerase, a enzima que repara e cópia o DNA. Alterações significativas nesta enzima reflectem eventos significativos na história evolutiva dos organismos. Como seria de esperar, a DNA polimerase apresenta diferenças relativamente pequenas na sua sequência de aminoácidos entre filos e até mesmo reinos.
+A chave para escolher uma boa aloenzima utilizável em comparações de múltiplas espécies está em eleger uma que seja tão variável quanto possível, mas que esteja presente em todos os organismos. Comparando a sequência de aminoácidos da enzima nas espécies, deveria observar-se uma maior similaridade de aminoácidos nas espécies que estão mais estreitamente relacionados, e menos nas espécies que são parentes mais distantes. Quanto menos conservada a enzima se encontra, mais diferenças de aminoácidos haverá, mesmo entre espécies estreitamente aparentadas.
+
+
+== Referências ==
+
+
+== Ver também ==
+Filogenética
+Evolução Molecular
+omologia (biologia)

@@ -1,0 +1,22 @@
+Genes órfãos, os genes que estão presentes em apenas uma espécie ou em um grupo de espécies intimamente relacionadas, são regiões codificadoras de proteínas que não possuem homólogo reconhecível em espécies relacionadas à distância. Uma fração substancial de regiões codificadoras em qualquer genoma sequenciado consiste em genes órfãos, mas o significado evolutivo e funcional dos genes órfãos não é compreendido.
+
+
+== Evolução e origem ==
+
+Todo grupo de animais possui uma pequena proporção de genes "novos", "órfãos" ou "taxonomicamente restritos", que são extremamente variáveis entre espécies intimamente relacionadas ou mesmo únicas. Sua função e origem são frequentemente obscuras. A evolução de novos genes geralmente anda de mãos dadas com o surgimento de novos traços nas espécies à medida que elas evoluem. Um dos grandes enigmas da biologia evolutiva sempre foi o surgimento da novidade genética. Uma teoria aponta para um mecanismo de divergência que poderia explicar como surgiram os genes com novas funções. Novos genes poderiam nascer através da duplicação de genes mais antigos, seguidos por mutações que faziam os dois homólogos divergirem tanto na função quanto na sequência. No entanto, à medida que genomas inteiros se tornaram mais disponíveis e os pesquisadores os vasculharam em busca de informações, parecia que faltavam peças no quebra-cabeça. Alguns genes não pareciam pertencer a nenhuma família, os genes órfãos, que apareciam especificamente em certas linhagens e não tinham ancestrais ou primos óbvios.  Uma suposição era que o mecanismo de Ohno levava a uma divergência extrema além do reconhecimento. As sequências de genes órfãos, conclui o mecanismo, poderiam ter evoluído tão rapidamente, ou por tanto tempo, que perderam a semelhança de suas famílias.
+
+
+=== Outras explicações ===
+Genes órfãos poderiam entrar em uma linhagem através da transferência horizontal de genes inteiros ou parciais de bactérias ou vírus, por exemplo, mas poucos órfãos identificados em organismos complexos pareciam ter vindo de bactérias. Teoricamente, um gene também pode ficar órfão se todos os seus homólogos em outras linhagens forem coincidentemente perdidos pela evolução, mas isso também parecia improvável. 
+Em 2006 e 2007, o geneticista David Begun identificou genes nos testículos de moscas da fruta que evoluíram a partir de seqüências não-genéricas. Gradualmente, a questão mudou de saber se existiam genes novos para quão comuns eles eram. Durante a década de 2010, os pesquisadores discutiram vigorosamente sobre a importância relativa da criação de genes e divergências além do reconhecimento. Mas ainda não havia uma maneira fácil de analisar os genes órfãos e determinar como eles surgiram.Li Zhao, geneticista, di que estudos enfatizam a abundância de genes novos e o outro a abundância de genes de divergência, por isso devemos considerar uma mistura de origens. Dada essa mistura de origens para genes órfãos, uma boa maneira de estudar os genes "de novo" pode ser focar nos mais jovens. Se um gene de novo se originou recentemente, ainda deve ser possível identificar a sequência não-genérica correspondente em outras espécies a partir da qual ele evoluiu. Isso serviria como prova de que o gene órfão é verdadeiramente de novo.
+
+
+== Ver também ==
+Algoritmo genético
+Cromossomo
+DNA
+Gene
+Histórico do estudo do DNA
+
+
+== Referências ==

@@ -1,0 +1,252 @@
+Ácido cloroáurico é o composto de fórmula química HAuCl4. Ele é normalmente usado como fonte de ouro (Au) em experiências químicas. O ácido cloroáurico é o produto formado ao dissolver ouro em água régia, por exemplo, ao retirar ouro de componentes eletrônicos. O mesmo nome é usado para a forma anidra e para a forma tri-hidratada.
+
+
+== Obtenção e síntese ==
+A maneira mais convencional e trivial de se obter o ácido cloroáurico é a dissolução de ouro elementar em água régia (uma mistura de três partes de ácido clorídrico para uma parte de ácido nítrico):
+
+  
+    
+      
+        
+          2
+           
+          A
+          u
+          +
+          2
+           
+          N
+          O
+          C
+          l
+          +
+          3
+           
+          C
+          
+            l
+            
+              2
+            
+          
+          +
+          2
+           
+          H
+          N
+          
+            O
+            
+              3
+            
+          
+          →
+        
+      
+    
+    {\displaystyle \mathrm {2\ Au+2\ NOCl+3\ Cl_{2}+2\ HNO_{3}\rightarrow } }
+   
+  
+    
+      
+        
+          2
+           
+          H
+          A
+          u
+          C
+          
+            l
+            
+              4
+            
+          
+          +
+          4
+           
+          N
+          
+            O
+            
+              2
+            
+          
+        
+      
+    
+    {\displaystyle \mathrm {2\ HAuCl_{4}+4\ NO_{2}} }
+  
+Uma outra possibilidade é a reação entre cloreto áurico e ácido clorídrico:
+
+  
+    
+      
+        
+          A
+          u
+          C
+          
+            l
+            
+              3
+            
+          
+          +
+          H
+          C
+          l
+          ⟶
+          H
+          A
+          u
+          C
+          
+            l
+            
+              4
+            
+          
+        
+      
+    
+    {\displaystyle \mathrm {AuCl_{3}+HCl\longrightarrow HAuCl_{4}} }
+  
+		
+		
+
+
+== Propriedades ==
+
+
+=== Propriedades físicas ===
+
+
+=== Propriedades químicas ===
+
+
+==== Reações ====
+O tratamento alcalino do ácido cloroáurico, com uma base padrão, resulta na produção de sal metálico de tetracloro-ouro e água. O respectivo sal de tálio possui solubilidade baixa na maioria dos solventes. A combinação com amônio (sal quaternário de amônio) também é conhecida. Outros sais de forma complexa são: [Au(bi-pir)Cl2][AuCl4] e [Co(NH3)6][AuCl4]Cl2.
+A redução parcial do ácido produz dicloroaurato(I), [AuCl2]- (oxônio como contra-ião).<--- (Ref. ERRADA??) Através de redução podem também ser produzidos outris compostos de coordenação do ouro(I), especiamente utilizando-se ligantes orgânicos. Frequentemente o próprio ligante serve como agente redutor, como é no caso da tioureia, (H2N)CS:
+
+  
+    
+      
+        
+          A
+          u
+          C
+          
+            l
+            
+              4
+            
+            
+              −
+            
+          
+          +
+          4
+          (
+          
+            H
+            
+              2
+            
+          
+          N
+          
+            )
+            
+              2
+            
+          
+          C
+          S
+          +
+          
+            H
+            
+              2
+            
+          
+          O
+          ⟶
+          A
+          u
+          [
+          (
+          
+            H
+            
+              2
+            
+          
+          N
+          
+            )
+            
+              2
+            
+          
+          C
+          S
+          
+            ]
+            
+              2
+            
+            
+              +
+            
+          
+          +
+          (
+          
+            H
+            
+              2
+            
+          
+          N
+          
+            )
+            
+              2
+            
+          
+          C
+          O
+          +
+          S
+          +
+          2
+          C
+          
+            l
+            
+              −
+            
+          
+          +
+          2
+          H
+          C
+          l
+        
+      
+    
+    {\displaystyle \mathrm {AuCl_{4}^{-}+4(H_{2}N)_{2}CS+H_{2}O\longrightarrow Au[(H_{2}N)_{2}CS]_{2}^{+}+(H_{2}N)_{2}CO+S+2Cl^{-}+2HCl} }
+  
+O ácido cloroáurico é o composto percursor na preparação de nanopartículas de ouro. Para precipitação destas agentes redutores, como por exemplo o tiosulfato (Na2S2O3), são usados.O aquecimento da forma hidratada (HAuCl4• n H2O) em uma corrente de gás cloro resulta em cloreto áurico (o cloreto de ouro (III), Au2Cl6).
+
+
+== Anedota histórica ==
+Durante a Segunda Grande Guerra, o químico húngaro residente na Dinamarca, George de Hevesy, laureado com o Prémio Nobel no ano de 1943, decidiu literalmente transformar as medalhas de pelo menos dois, também laureados, colegas (Max von Laue e James Franck) em ácido cloroáurico, dissolvendo-as em água régia, para escondê-las dos nazistas. E assim o fez, quando Copenhagen acabara de ser invadida. Após a guerra, o ouro foi recuperado e a Fundação Nobel generosamente refez as medalhas.
+
+
+== Referências ==
+
+
+== Ligações externas ==
+«Chloroauric Acid» (em inglês). breve texto acadêmico com descrição e ilustrações

@@ -1,0 +1,30 @@
+O meio SOB (do inglês, Super Optimal Broth, caldo super ideal) é um meio de cultura  de bactérias rico em nutrientes, utilizado para cultura de microorganismos, especialmente Escherichia coli. Ele foi desenvolvido por Douglas Hanahan em 1983 e é uma versão ajustada do meio LB tradicional. O crescimento de E. coli em meio SOC ou SOB resulta em maior eficiências de transformação de plasmídeos.O meio SOC, com repressão de catabólitos (SOC) é composto pelo meio SOB com adição de glicose.
+
+
+== Composição ==
+(Números em parênteses são as massas necessárias para criar 1 litro de meio)
+
+
+=== SOB ===
+2% peso/volume tryptone (20 g)
+0.5% peso/volume de extrato de Levedura (5 g)
+8.56 mM de NaCl (0,5 g) ou 10 mm de NaCl (0,584 g)
+2,5 mM de KCl (0,186 g)
+ddH2O para 1000 mL
+10mM MgCl2 (anidro 0.952 g) e 10mM de MgSO4 (heptaidrato, 2.467 g)
+
+
+=== SOC ===
+O meio SOC contém, em adição ao SOB, SOC também contém 20 mm de glicose (3.603 g)
+Alternativamente, SOB e SOC pode ser feito por adição de pequenas quantidades de cloreto de magnésio concentrado e soluções de glicose para SOB pré preparado. 
+
+
+== Ajuste de pH ==
+Para uma eficácia máxima, SOB/SOC mídia deve ter seu pH ajustado para 7,0 adicionando concentrada de hidróxido de sódio. A literatura original afirma que o pH final do meio deve estar entre 6,8 e 7,0.
+
+
+== Esterilização ==
+O meio SOB deve ser autoclavado a 121 °C para garantir esterilidade. Os componentes do meio SOC não devem ser autoclavado juntos, pois a alta temperatura pode causar reação da glicose os peptídeos trípticos(ver reação de Maillard), comprometendo a qualidade do meio. As soluções de SOB, magnésio e glicose podem ser autoclavadas separadamente e misturadas posteriormente para as concentrações finais. O meio SOC completo pode ser esterilizado por filtração através de um filtro de 0,22 µm.
+
+
+== Referências ==

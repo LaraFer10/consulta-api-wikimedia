@@ -1,0 +1,27 @@
+Seleneto de cádmio é um composto inorgânico de fórmula química CdSe. É um sólido preto que é classificado como semicondutor II-VI do tipo-n. Várias pesquisas recentes sobre o seleneto de cádmio estão concentradas em nanopartículas. 
+
+
+== Estrutura ==
+Três formas cristalinas de CdSe são conhecidos: wurtzite (hexagonal), sphalerite (cúbico) e de sal-gema (cúbico). A estrutura do sphalerite, CdSe, é instável e converte para a forma wurtzite após aquecimento moderado. A transição começa em cerca de 130 °C, e a 700 °C se completa em um dia. A estrutura de sal-gema é somente observada sob alta pressão.
+
+
+== Produção ==
+A produção de seleneto de cádmio tem sido realizada de duas maneiras diferentes. A preparação de CdSe cristalina em larga escala é feita pelo método Bridgman vertical de alta pressão ou o método de fusão vertical de zona de alta pressão.Seleneto de cádmio pode também ser produzido na forma de nanopartículas. Vários métodos para a produção de nanopartículas de CdSe foram desenvolvidos: precipitação por arrasto em solução, a síntese em meios estruturados, pirólise de alta temperatura, sonoquímicos e métodos radiolíticos.Produção de seleneto de cádmio por precipitação de arrasto em solução é realizada através da introdução de alquilcádmio e seleneto de trioctilfosfina (TOPSe) precursores em um solvente aquecido sob condições controladas.
+Me2Cd + TOPSe → CdSe + (subprodutos)Nanopartículas de CdSe podem ser modificadas através da produção de materiais de fase com dois revestimentos de ZnS. As superfícies podem ser adicionalmente modificados, por exemplo com ácido tioglicólico, para conferir solubilidade.Síntese em ambientes estruturados refere-se à produção de seleneto de cádmio em soluções de cristais líquidos ou tensioativos. A adição de agentes tensioativos para soluções muitas vezes resulta em uma mudança de fase na solução conduzindo a uma cristalinidade do líquido. Um cristal líquido é semelhante a um sólido cristalino em que a solução tem ordem de longo alcance translacional.
+Síntese por pirólise em alta temperatura é geralmente realizada utilizando um aerossol contendo uma mistura de precursores de cádmio e selênio voláteis. O precursor de aerossol é então levado através de uma fornalha com um gás inerte, tal como o hidrogênio, nitrogênio, ou argônio. No forno os precursores reagem para formar CdSe, bem como vários subprodutos.
+
+
+== Nanopartículas de CdSe ==
+
+Nanopartículas derivadas de CdSe com tamanhos abaixo de 10 nm exibem uma propriedade conhecida como confinamento quântico. Confinamento quântico resulta quando os elétrons em um material estão confinados a um volume muito pequeno. Ele é dependente do tamanho, ou seja, as propriedades das nanopartículas de CdSe são ajustáveis com base no seu tamanho. Um tipo de nanopartícula de CdSe é ponto quântico. Esta discretização de estados energéticos resultam em transições eletrônicas que variam de acordo com o tamanho do ponto quântico. Pontos quânticos maiores têm estados eletrônicos mais juntos do que os pontos quânticos menores, o que significa que a energia necessária para excitar um elétron de HOMO ao LUMO é menor do que a mesma transição eletrônica num menor ponto quântico. Este efeito de confinamento quântico pode ser observado como um desvio de absorbância no espectro para o vermelho no espectro de absorvância para nanocristais com diâmetros maiores.
+
+
+== Aplicações ==
+O material de CdSe é transparente para luz infravermelha (IR) e tem seu uso limitado em fotorresistências e nas janelas para instrumentos utilizando luz infravermelha. O material também é altamente luminescente.
+
+
+== Segurança ==
+O cádmio é um metal pesado tóxico e as devidas precauções devem ser tomadas ao manuseá-lo, bem como seus compostos. Selenetos são tóxicos em grandes quantidades. Seleneto de cádmio é um conhecido agente cancerígeno para os seres humanos e deve ser procurado ajuda médica em caso de ingestão ou se ocorrer contato com a pele ou com os olhos.
+
+
+== Referências ==

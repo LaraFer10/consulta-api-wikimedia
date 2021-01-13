@@ -1,0 +1,25 @@
+Uma cetohexose é uma hexose contendo cetona (um monossacarídeo de seis carbonos). Cetohexoses têm três centros quirais, então 8 (23 = 8) diferentes estereoisômeros são possíveis.
+
+		
+		
+		
+As 4 D-cetohexoses são:
+
+ CH2OH       CH2OH         CH2OH        CH2OH
+ |           |             |            |
+ C=O         C=O           C=O          C=O
+ |           |             |            |
+HC-OH     HO-CH           HC-OH      HO-CH
+ |           |             |            |
+HC-OH       HC-OH       HO-CH        HO-CH
+ |           |             |            |
+HC-OH       HC-OH         HC-OH        HC-OH
+ |           |             |            |
+ CH2OH       CH2OH         CH2OH        CH2OH
+D-Psicose    D-Fructose   D-Sorbose    D-Tagatose
+
+
+== Ver também ==
+
+
+== Ligações externas ==

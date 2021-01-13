@@ -1,0 +1,810 @@
+O Algoritmo de Smith-Waterman é um algoritmo bem conhecido para a realização de alinhamento de seqüências local ; isto é, é elaborado para determinar as regiões similares entre duas seqüências de nucleotídeos ou duas seqüências de proteínas. Em vez de olhar a seqüência total, o algoritmo de Smith-Waterman compara segmentos de todos os comprimentos possíveis e otimiza a medida de similaridade.
+
+
+== Pano de fundo ==
+O algoritmo foi proposto pela primeira vez por Temple F. Smith e Michael S. Waterman em 1981. Como o Algoritmo Needleman-Wunsch, do qual é uma variação, o Smith-Waterman é um algoritmo de programação dinâmica. Como tal, tem a propriedade desejável de que é garantido encontrar o alinhamento local ótimo com relação ao sistema de pontuação a ser utilizado (o que inclui a matriz de substituição e o esquema de escore para lacunas). A principal diferença para o algoritmo Needleman-Wunsch é que as células da matriz com pontuação negativa tem seus valores definidos para zero, que torna os alinhamentos locais (pontuados assim positivamente) visíveis. O processo de Backtracking (Retrocesso) começa na célula da matriz de pontuação mais alta e continua até que uma célula com pontuação zero seja encontrada, produzindo o alinhamento com a maior pontuação local. Não se implementa o algoritmo como descrito porque melhores alternativas estão agora disponíveis que têm melhor dimensionamento e são mais precisas.
+
+
+== Explicação do algoritmo ==
+Uma matriz 
+  
+    
+      
+        H
+      
+    
+    {\displaystyle H}
+   é construída como se segue:
+
+  
+    
+      
+        H
+        (
+        i
+        ,
+        0
+        )
+        =
+        0
+        ,
+        
+        0
+        ≤
+        i
+        ≤
+        m
+      
+    
+    {\displaystyle H(i,0)=0,\;0\leq i\leq m}
+  
+
+  
+    
+      
+        H
+        (
+        0
+        ,
+        j
+        )
+        =
+        0
+        ,
+        
+        0
+        ≤
+        j
+        ≤
+        n
+      
+    
+    {\displaystyle H(0,j)=0,\;0\leq j\leq n}
+  
+
+  
+    
+      
+        
+           if 
+        
+        
+          a
+          
+            i
+          
+        
+        =
+        
+          b
+          
+            j
+          
+        
+      
+    
+    {\displaystyle {\text{ if }}a_{i}=b_{j}}
+  
+
+  
+    
+      
+        w
+        (
+        
+          a
+          
+            i
+          
+        
+        ,
+        
+          b
+          
+            j
+          
+        
+        )
+        =
+        w
+        
+          (acerto)
+        
+      
+    
+    {\displaystyle w(a_{i},b_{j})=w{\text{(acerto)}}}
+  
+
+  
+    
+      
+        
+           or if 
+        
+        
+          a
+          
+            i
+          
+        
+        !
+        =
+        
+          b
+          
+            j
+          
+        
+      
+    
+    {\displaystyle {\text{ or if }}a_{i}!=b_{j}}
+  
+
+  
+    
+      
+        w
+        (
+        
+          a
+          
+            i
+          
+        
+        ,
+        
+          b
+          
+            j
+          
+        
+        )
+        =
+        w
+        
+          (erro)
+        
+      
+    
+    {\displaystyle w(a_{i},b_{j})=w{\text{(erro)}}}
+  
+
+  
+    
+      
+        H
+        (
+        i
+        ,
+        j
+        )
+        =
+        max
+        
+          
+            {
+            
+              
+                
+                  0
+                
+              
+              
+                
+                  H
+                  (
+                  i
+                  −
+                  1
+                  ,
+                  j
+                  −
+                  1
+                  )
+                  +
+                   
+                  w
+                  (
+                  
+                    a
+                    
+                      i
+                    
+                  
+                  ,
+                  
+                    b
+                    
+                      j
+                    
+                  
+                  )
+                
+                
+                  
+                    Acerto/Erro
+                  
+                
+              
+              
+                
+                  H
+                  (
+                  i
+                  −
+                  1
+                  ,
+                  j
+                  )
+                  +
+                   
+                  w
+                  (
+                  
+                    a
+                    
+                      i
+                    
+                  
+                  ,
+                  −
+                  )
+                
+                
+                  
+                    Deleção
+                  
+                
+              
+              
+                
+                  H
+                  (
+                  i
+                  ,
+                  j
+                  −
+                  1
+                  )
+                  +
+                   
+                  w
+                  (
+                  −
+                  ,
+                  
+                    b
+                    
+                      j
+                    
+                  
+                  )
+                
+                
+                  
+                    Inserção
+                  
+                
+              
+            
+            }
+          
+        
+        ,
+        
+        1
+        ≤
+        i
+        ≤
+        m
+        ,
+        1
+        ≤
+        j
+        ≤
+        n
+      
+    
+    {\displaystyle H(i,j)=\max {\begin{Bmatrix}0\\H(i-1,j-1)+\ w(a_{i},b_{j})&{\text{Acerto/Erro}}\\H(i-1,j)+\ w(a_{i},-)&{\text{Deleção}}\\H(i,j-1)+\ w(-,b_{j})&{\text{Inserção}}\end{Bmatrix}},\;1\leq i\leq m,1\leq j\leq n}
+  
+onde:
+
+  
+    
+      
+        a
+        ,
+        b
+      
+    
+    {\displaystyle a,b}
+   = Cadeias de caracteres sobre o Alfabeto 
+  
+    
+      
+        Σ
+      
+    
+    {\displaystyle \Sigma }
+  
+
+  
+    
+      
+        m
+        =
+        
+          length
+        
+        (
+        a
+        )
+      
+    
+    {\displaystyle m={\text{length}}(a)}
+  
+
+  
+    
+      
+        n
+        =
+        
+          length
+        
+        (
+        b
+        )
+      
+    
+    {\displaystyle n={\text{length}}(b)}
+  
+
+  
+    
+      
+        H
+        (
+        i
+        ,
+        j
+        )
+      
+    
+    {\displaystyle H(i,j)}
+   - é o escore máximo de similaridade entre o sufixo de a[1...i] e o suffix de b[1...j]
+
+  
+    
+      
+        w
+        (
+        c
+        ,
+        d
+        )
+        ,
+        
+        c
+        ,
+        d
+        ∈
+        Σ
+        ∪
+        
+          {
+          ′
+        
+        
+          −
+          ′
+        
+        }
+      
+    
+    {\displaystyle w(c,d),\;c,d\in \Sigma \cup \{'-'\}}
+  , '-' é o esquema de escore para lacunas
+
+
+== Exemplo ==
+Sequence 1 = ACACACTA
+Sequence 2 = AGCACACAw(gap) = 0
+w(match) = +2
+
+  
+    
+      
+        w
+        (
+        a
+        ,
+        −
+        )
+        =
+        w
+        (
+        −
+        ,
+        b
+        )
+        =
+        w
+        (
+        e
+        r
+        r
+        o
+        )
+        =
+        −
+        1
+      
+    
+    {\displaystyle w(a,-)=w(-,b)=w(erro)=-1}
+  
+  
+    
+      
+        H
+        =
+        
+          
+            (
+            
+              
+                
+                
+                  −
+                
+                
+                  A
+                
+                
+                  C
+                
+                
+                  A
+                
+                
+                  C
+                
+                
+                  A
+                
+                
+                  C
+                
+                
+                  T
+                
+                
+                  A
+                
+              
+              
+                
+                  −
+                
+                
+                  0
+                
+                
+                  0
+                
+                
+                  0
+                
+                
+                  0
+                
+                
+                  0
+                
+                
+                  0
+                
+                
+                  0
+                
+                
+                  0
+                
+                
+                  0
+                
+              
+              
+                
+                  A
+                
+                
+                  0
+                
+                
+                  2
+                
+                
+                  1
+                
+                
+                  2
+                
+                
+                  1
+                
+                
+                  2
+                
+                
+                  1
+                
+                
+                  0
+                
+                
+                  2
+                
+              
+              
+                
+                  G
+                
+                
+                  0
+                
+                
+                  1
+                
+                
+                  1
+                
+                
+                  1
+                
+                
+                  1
+                
+                
+                  1
+                
+                
+                  1
+                
+                
+                  0
+                
+                
+                  1
+                
+              
+              
+                
+                  C
+                
+                
+                  0
+                
+                
+                  0
+                
+                
+                  3
+                
+                
+                  2
+                
+                
+                  3
+                
+                
+                  2
+                
+                
+                  3
+                
+                
+                  2
+                
+                
+                  1
+                
+              
+              
+                
+                  A
+                
+                
+                  0
+                
+                
+                  2
+                
+                
+                  2
+                
+                
+                  5
+                
+                
+                  4
+                
+                
+                  5
+                
+                
+                  4
+                
+                
+                  3
+                
+                
+                  4
+                
+              
+              
+                
+                  C
+                
+                
+                  0
+                
+                
+                  1
+                
+                
+                  4
+                
+                
+                  4
+                
+                
+                  7
+                
+                
+                  6
+                
+                
+                  7
+                
+                
+                  6
+                
+                
+                  5
+                
+              
+              
+                
+                  A
+                
+                
+                  0
+                
+                
+                  2
+                
+                
+                  3
+                
+                
+                  6
+                
+                
+                  6
+                
+                
+                  9
+                
+                
+                  8
+                
+                
+                  7
+                
+                
+                  8
+                
+              
+              
+                
+                  C
+                
+                
+                  0
+                
+                
+                  1
+                
+                
+                  4
+                
+                
+                  5
+                
+                
+                  8
+                
+                
+                  8
+                
+                
+                  11
+                
+                
+                  10
+                
+                
+                  9
+                
+              
+              
+                
+                  A
+                
+                
+                  0
+                
+                
+                  2
+                
+                
+                  3
+                
+                
+                  6
+                
+                
+                  7
+                
+                
+                  10
+                
+                
+                  10
+                
+                
+                  10
+                
+                
+                  12
+                
+              
+            
+            )
+          
+        
+      
+    
+    {\displaystyle H={\begin{pmatrix}&-&A&C&A&C&A&C&T&A\\-&0&0&0&0&0&0&0&0&0\\A&0&2&1&2&1&2&1&0&2\\G&0&1&1&1&1&1&1&0&1\\C&0&0&3&2&3&2&3&2&1\\A&0&2&2&5&4&5&4&3&4\\C&0&1&4&4&7&6&7&6&5\\A&0&2&3&6&6&9&8&7&8\\C&0&1&4&5&8&8&11&10&9\\A&0&2&3&6&7&10&10&10&12\\\end{pmatrix}}}
+  
+Para obter o alinhamento local ótimo, começamos com o maior valor na matriz (i,j). Então, nós vamos para trás para uma das posições (i-1,j), (i,j-1) ou (i-1,j-1), dependendo da direção de movimento usado para construir a matriz. Mantemos o processo até chegar a um célula da matriz com valor zero, ou o valor na posição (0,0).
+No exemplo, o valor mais alto corresponde à célula na posição (8,8). A caminhada de volta corresponde a (8,8), (7,7), (7,6), (6,5), (5,4), (4,3), (3,2), (2,1), (1,1), e (0,0),
+Uma vez que tenhamos terminado, reconstruimos o alinhamento da seguinte forma: Começando com o último valor, chegamos a (i,j) usando o caminho previamente calculado. Um salto na diagonal implica que há um alinhamento (ou uma correspondência ou uma não correspondência). Um salto de cima para baixo implica que há uma deleção. Um salto da esquerda para a direita implica que há uma inserção.
+Para o exemplo, temos:
+
+Sequência 1 = A-CACACTA
+Sequência 2 = AGCACAC-A
+
+
+== Motivação ==
+Uma motivação para o alinhamento local é a dificuldade de obtenção de alinhamentos corretos em regiões de baixa similaridade entre seqüências biológicas distantemente relacionadas, porque as mutações já somaram muito "ruído" ao longo do tempo evolutivo para permitir uma comparação significativa dessas regiões. Alinhamentos locais evitam tais regiões completamente e se concentram naquelas com uma pontuação positiva, ou seja, aquelas com um sinal de similaridade evolutivo conservado. Um pré-requisito para o alinhamento local é uma pontuação de expectativa negativa. A pontuação de expectativa é definida como a pontuação média que o sistema de pontuação (matriz de substituição e penalidade para lacunas) daria para uma seqüência aleatória.
+Outra motivação para a utilização de alinhamentos locais é que há um modelo de estatística fiável (desenvolvido por Karlin e Altschul) para alinhamentos locais ótimos. O alinhamento das seqüências independentes tende a produzir ótimas pontuações no alinhamento local que seguem uma distribuição de valor extremo. Essa propriedade permite que programas produzam um valor de expectativa para o alinhamento local ótimo de duas sequências, que é uma medida de quantas vezes duas sequências não relacionadas produziriam um alinhamento local ótimo cuja pontuação fosse maior ou igual à pontuação observada. Valores de expectativa muito baixos indicam que as duas sequências em questão podem ser homólogas, o que significa que elas podem compartilhar um ancestral comum.
+O algoritmo Smith-Waterman é bastante exigente em termos de tempo: alinhar duas seqüências de comprimentos m e n, exige tempo de O(mn). As pontuações de similaridade local de Smith-Waterman podem ser calculadas com espaço O(m) (linear), mas algoritmos ingênuos para produzir o alinhamento requerem o espaço O(mn). Uma estratégia de alinhamento de espaço linear foi descrita. O BLAST e o FASTA reduzem o tempo necessário para identificar regiões conservadas usando estratégias de pesquisa rápida.
+Uma implementação do Algoritmo Smith-Waterman, SSEARCH, está disponível no pacote de análise de seqüência FASTA em [1]. Esta implementação inclui código Altivec acelerado para processadores PowerPC G4 e G5 que aceleram as comparações de 10 a 20 vezes, usando uma modificação da abordagem de Wozniak, 1997, e uma vetorização SSE2 desenvolvida por Farrar tornando as pesquisas ótimas em banco de dados de seqüência de proteína bastante práticas.
+
+
+== Ver também ==
+BLAST
+FASTA
+Algoritmo Needleman-Wunsch
+
+
+== Referências ==
+
+
+== Ligações externas ==
+JAligner — an open source Java implementation of the Smith–Waterman algorithm
+B.A.B.A. — an applet (with source) which visually explains the algorithm.
+FASTA/SSEARCH at the EBI's FASTA/SSEARCH services page.
+UGENE Smith-Waterman plugin — An open source SSEARCH compatible implementation of the algorithm with graphical interface written in C++.
+OPAL JavaScript implementation of algorithms: Needleman-Wunsch, Needleman-Wunsch-Sellers and Smith-Waterman

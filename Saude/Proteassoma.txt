@@ -1,0 +1,72 @@
+Proteassoma é uma protease dependente de ATP usada para destruir proteínas danificadas ou proteínas com erros de síntese, as quais são marcadas para degradação através da ligação de cadeias de ubiquitina em série, que serão reconhecidas para que o processo se inicie. É importante que a célula destrua essas proteínas pois elas são potencialmente perigosas. Essa via funciona no citoplasma e no núcleo das células, tendo também como função a destruição de proteínas anormais associadas ao retículo endoplasmático (RE). Proteínas que não se dobram corretamente após entrar no RE são transportadas para o citoplasma e degradadas pelo proteassoma.
+
+
+== Histórico ==
+Rudolph Schönheimer sugeriu nos anos 1930 a possibilidade de haver algum tipo de mecanismo de degradação de proteínas existentes no interior da célula. Já na década de 1950, a proteólise intracelular dependente de energia metabólica foi comprovada, o que aumentou as evidências de que um sistema como o descrito por Schoenheimer poderia existir. Duas décadas depois, a degradação de proteínas intracelulares de forma altamente seletiva e envolvida na regulação da concentração de certas enzimas foi comprovada, embora ainda fosse difícil compreender a sua necessidade, já que ligações peptídicas são consideradas estáveis. A eliminação de proteínas com erros de síntese, proteínas não funcionais e polipeptídeos desnaturados, cuja existência poderia prejudicar o indivíduo, só pode ocorrer pela existência desse processo. A descoberta da via proteolítica dependente de ubiquitina trouxe uma nova visão sobre o processo de degradação proteica intracelular.
+
+
+== Estrutura e organização ==
+
+O proteassoma é formado por um cilindro oco, constituído por várias subunidades proteicas que se associam e formam um tubo de quatro anéis heptaméricos. Algumas dessas subunidades são proteases com sítios ativos voltados para o interior do tubo. Essa organização evita que essas proteases eficientes atuem desordenadamente na célula.
+Além do cilindro central (20S), o proteassoma apresenta em cada uma das duas extremidades uma capa (19S), também chamada de partícula reguladora. As capas têm a função de se ligar seletivamente às proteínas que foram marcadas com ubiquitina para a degradação, desdobrando suas cadeias polipeptídicas e inserindo-as na câmara interna do cilindro. Um anel proteico com seis subunidades, com proteínas AAA ( proteínas de ‘’desespiralização’’) estão na estrutura da capa 19S. As proteínas que devem ser destruídas são introduzidas no centro do proteassoma a fim de serem degradadas pelas proteases.
+O proteassomo é um complexo protéico presente no citosol de células que possuem atividade proteolítica. É responsável pela degradação de proteínas modificadas principalmente por cadeias de poli-ubiquitina. Morfologicamente o proteossoma é organizado em formado de tubo, sendo composto de uma unidade catalítica central denominada de proteassomo 20S (20S PT) e por unidades regulatórias (19S ou 11S). A unidade catalítica 20S é a unidade independente, sendo capaz de degradar proteínas independentemente de poli-ubiquitinação, como no caso de proteínas oxidadas. O 20S PT é constituído por uma unidade central formada por dois heptâmeros ² – 7 monônomeros - cercados por outros dois heptâmeros. Os sítios catalíticos se localizam nas subunidades ² sendo que as proteínas regulam a abertura / fechamento da câmera catalítica. Recentemente, através da espectrometria de massa das subunidades ribossômicas foi identificado em algumas pesquisas que os resíduos de Cisteína (Cys) glutatiolados concentram-se exclusivamente na subunidade catalítica central - 20S PT. Já as unidades regulatórias 19S funcionam como subunidades tampão contendo múltiplos sítios ativos de ATPase, além de locais de ligação à ubiquitina. Dessa maneira, são essas subunidades que reconhecem as proteínas poliubiquitinadas e as transferem para o núcleo catalítico (subunidade catalítica – 20S). Uma forma alternativa de subunidade reguladora chamada de partícula 11S as vezes se encontra associada ao núcleo essencialmente da mesma maneira que a partícula 19S. Entretanto a partícula 11S pode também desempenhar um papel na degradação de péptidos estranhos como os produzidos após a infecção por um vírus, diferentemente dos proteassomos que possuem como subunidades regulatótias as partículas 19S.
+
+
+== Ação de degradação proteica ==
+A hidrólise do ATP permite que a reação de desespiralização ocorra. Ela se inicia com o desenrolamento da proteína-alvo conforme ela se move através da capa 19S, expondo-a para as proteases da região central do proteassoma. As proteínas AAA no anel da capa atuam sob a forma de hexâmeros, podendo compartilhar características de ação com a DNA helicase e sua ação de desenrolamento de DNA-dependente de ATP.
+Sua principal propriedade é a processividade do seu mecanismo, pois o proteassoma mantém o substrato ligado até que todo ele tenha sido transformado em pequenos peptídeos.
+Uma das funções das capas 19S é sua ação de ‘’portões’' regulados na entrada da câmara proteolítica interna, ao assumirem a responsabilidade pela ligação do substrato-alvo ao proteassoma. Toda essa ação é desencadeada quando são identificadas proteínas marcadas para destruição por ligação covalente a um alvo de reconhecimento formado pela ubiquitina, uma proteína de tamanho reduzido que pode ser ligada a diferentes tipos de proteínas intracelulares. As ubiquitinas devem ser adicionadas em número definido e unidas de forma específica para determinar como a célula interpretará a mensagem e indicar, assim, que a destruição é necessária.
+
+
+== Sistema ubiquitina-proteassoma ==
+
+A ubiquitina só está apta a se associar a outras proteínas quando é preparada pela enzima ativadora de ubiquitina dependente de ATP. A ubiquitina ativada é transferida para as enzimas conjugadoras de ubiquitina, as quais agem em conjunto com proteínas acessórias (E3). Na associação entre E1 e E2, que é chamada de ubiquitina-ligase, as E3 se ligam a degrons (sinais de degradação) e auxiliam E2 a constituir uma cadeia poliubiquitina ligada a uma lisina específica da ubiquitina precedente, que já estava ligado à proteína-alvo, o que produzirá uma série linear de ubiquitinas. Essa sequência será reconhecida por um receptor no proteassoma e fará ser identificada a necessidade de destruição.
+O sistema ubiquitina-proteassoma consiste em muitas vias distintas, envolvendo diversos tipos de proteínas E2 e E3, embora todas tenham organização semelhante. Elas se assemelham pela presença de um E1 na parte superior do complexo e um proteassoma na parte inferior e diferem pela composição de suas ubiquitinas-ligases E2-E3.
+Esse sistema é essencial para que proteínas desnaturadas, inadequadamente dobradas ou contendo aminoácidos anormais possam ser degradadas. A conformação delas pode ser reconhecida por E3 como um sinal para dar início ao sistema ubiquitina-proteassoma. Porém, esse sistema pode apresentar erros. É possível que ele destrua muitas moléculas recém-formadas ou ainda em formação por exporem temporariamente sinais de degradação que depois seriam escondidos.
+
+
+== Controle do ciclo celular ==
+A progressão do ciclo celular é controlada pela ação ordenada de cinases dependentes de ciclina (CDKs), ativadas por ciclinas específicas que demarcam fases do ciclo celular. As ciclinas mitóticas, que persistem na célula por apenas alguns minutos, têm um dos períodos mais curtos de vida de todas as proteínas intracelulares. Depois de um complexo CDK-ciclina ter desempenhado a sua função, a ciclina associada é poliubiquitinada e destruída pelo proteassoma, que fornece direccionalidade para o ciclo celular. Em particular, a saída da mitose requer a dissociação dependente do proteassoma do componente regulador da ciclina B do complexo fator promotor da mitose. [66] Nas células de vertebrados, o "deslizamento" através do ponto de controle mitótico que leva à saída prematura da fase M pode ocorrer apesar do atraso desta saída pelo ponto de controle do fuso.
+Os pontos de controle(Checkpoints ) anteriores do ciclo celular, como a verificação do ponto pós-restrição entre a fase G1 e a fase S, envolvem igualmente a degradação proteasomal da ciclina A, cuja ubiquitinação é promovida pelo complexo promotor da anafase (APC), uma E3 ubiquitina ligada. O APC e o complexo de proteína Skp1 / Cul1 / F-box (complexo SCF) são os dois principais reguladores da degradação da ciclina e controle de pontos de controle; O próprio SCF é regulado pela APC através da ubiquitação da proteína adaptadora, Skp2, que impede a atividade do SCF antes da transição G1 para a fase S.
+
+
+=== Regulação do crescimento da planta ===
+ Nas plantas, a sinalização por auxinas ou fitohormonas que ordenam a direção e o                       tropismo do crescimento das plantas induz a seleção de uma classe de repressores de fatores de transcrição conhecidos como proteínas Aux / IAA para degradação proteasomal. Estas proteínas são ubiquitinadas por SCFTIR1, ou SCF em complexo com o receptor de auxina TIR1. A degradação das proteínas Aux / IAA desregula os fatores de transcrição na família do fator de resposta de auxina (ARF) e induz a expressão de genes dirigidos por ARF. [71] As conseqüências celulares da ativação da ARF dependem do tipo de planta e do estágio de desenvolvimento, mas estão envolvidas na direção do crescimento das raízes e veias das folhas. Acredita-se que a resposta específica à desrepressão de ARF é mediada pela especificidade no emparelhamento das proteínas ARF e Aux / IAA individuais
+
+
+=== Apoptose ===
+Ambos os sinais internos e externos podem induzir apoptose, ou morte celular programada. A consequente desconstrução dos componentes celulares é realizada principalmente por proteases específicas chamadas caspases, mas o proteossoma também desempenha papéis diversos e importantes nos processos apoptóticos. Durante a apoptose, foram observados proteosomas próximos do núcleo, transferindo as bolhas da membrana, que são características do apoptose, para o exterior.
+A inibição proteossômica tem efeitos diferentes na indução apoptótica de diferentes tipos de células. O proteossoma, em geral, não é necessário para a apoptose, embora sua inibição seja pró-apoptótica na maioria dos tipos de células que foram estudadas. No entanto, algumas espécies celulares - especialmente tecidos primários de células de fase estacionárias e diferenciadas, como linfócitos T e neurônios - não induzem apoptose após exposição a inibidores proteossômicos. O mecanismo desse efeito não é inteiramente claro, mas é suposto ser específico em células em estados estacionários ou o resultado de uma atividade diferente da quinase proapoptótica JNK. A capacidade dos inibidores proteosomais para induzir a apoptose em células que se dividem rapidamente foi explorada ultimamente no desenvolvimento de agentes quimioterapêuticos.
+
+
+== Implicações fisiológicas e patológicas do complexo ubiquitina-proteassoma ==
+
+
+=== Sistema imunológico ===
+Em processo de infecção, há uma resposta imunológica do organismo, em que um dos primeiros passos é a exposição de antígenos na superfície celular e o reconhecimento deles pelos linfócitos T. Alguns desses antígenos são peptídeos formados pela degradação de proteínas pelo complexo ubiquitina-proteossoma.
+
+
+=== Resposta inflamatória ===
+Em células infectadas por uma bactéria é necessária uma resposta inflamatória, que é desencadeada pela transcrição de genes envolvidos nesse processo. Entretanto, o NFkB, um dos fatores de transcrição relacionado com as respostas imunológicas, está presente no citoplasma associado a uma proteína que o inibe. Após a infecção, esse inibidor é ubiquitinado e degradado pelo proteossoma, permitindo que a expressão desses genes e o consequente processo de defesa ocorram.
+
+
+=== Terapêutica anti-tumoral ===
+Há um fator nuclear de transcrição, o NF-kB, associado a um inibidor, o IkB,  presente no citoplasma das células. Esse inibidor, como consequência de sinais de crescimento ou de citocinas, é fosforilado é encaminhado para o complexo ubiquitina-proteossoma para sua degradação. O NF-kB, depois desse processo, deixa de ser inibido, é endereçado para o núcleo e ativa os genes relacionados ao crescimento celular. O uso de fármacos inibidores do complexo ubiquinona-proteossoma poderia impedir a proliferação de células tumorais. 
+
+
+=== Doenças humanas destrutivas ===
+Além disso, algumas proteínas mutantes não são reconhecidas, dobram-se erroneamente e formam agregados proteicos que podem gerar prejuízos celulares, ocasionando doenças graves como anemia falciforme e alfa-1-antitripsina. O declínio natural do controle de qualidade das proteínas recém-produzidas também pode ser uma causa dessas doenças, além de fatores genéticos. 
+Os aglomerados protéicos formados são liberados das células mortas e podem se acumular na matriz extracelular, lesionando os tecidos que envolvem essa célula. As doenças neurodegenerativas como doença de pele Huntington e o mal de Alzheimer exemplificam isso.
+Esses aglomerados proteicos resistem à degradação pela formação de um “arcabouço” resistente à proteólise. Essa estrutura é formada por por uma série de cadeias polipeptídicas justapostas como pilhas contínuas de lâminas 13, chamados de filamentos 13 cruzados.
+
+
+== Referências ==
+WATSON, James et al. Molecular Biology of The Cell. 5. ed. New York: Artmed, 2010. 1601 p.
+RAMOS, Paula C.. A via proteolítica dependente de ubiquitina/proteassoma. Química: Boletim da Sociedade Portuguesa de Química, Lisboa, v. 1, n. 96, p.57-63, mar. 2005. Disponível em: <http://www.spq.pt/magazines/BSPQ/621/article/30001233/pdf>.
+DEMASI, MARILENE; SIMOES, VANESSA; BONATTO, DIEGO. Cross-talk between redox regulation and the ubiquitin-proteasome system in mammalian cell differentiation. BIOCHIMICA ET BIOPHYSICA ACTA-GENERAL SUBJECTS, v. 1850, n. 8, SI, p. 1594-1606, AUG 2015. Citações Web of Science: 3
+Alberts B., Johnson A., Lewis J., Raff M., Keith R., Walter P. (2007). Molecular Biology of the Cell (5th edition). Garland Science, New York.
+Berg J.M., Tymoczko J.L., Stryer L. (2002). Biochemistry (5th edition). W. H. Freeman, New York.
+http://scielo.sld.cu/scielo.php?script=sci_arttext&pid=S1729-519X2013000100004
+
+
+== Ver também ==

@@ -1,0 +1,15 @@
+Arquitetura genética refere-se ao estudo da distribuição, em populações e no genoma, das bases genéticas de um caractere fenotípico. Esse termo é sinônimo de mapa genótipo-fenótipo . 
+Um mapa genótipo-fenótipo pode ser analisado em termos de diferentes aspectos que relacionam um caractere ao seu respectivo genótipo: epistasia, poligenia, pleiotropia e plasticidade fenotípica, por exemplo.
+
+Epistasia: quando alelos em um locus mudam o efeito fenotípico de outro locus, se diz que ambos os genes apresentam interações epistáticas.
+Poligenia: quando múltiplos genes contribuem para um determinado caractere fenotípico. A arquitetura genética em casos de poligenia pode ser caracterizada pela contribuição relativa de cada gene, por exemplo: muitos genes de efeito pequeno vs. poucos genes de grande efeito
+Pleiotropia: quando múltiplos caracteres fenotípicos são afetadas pela variação em um único gene.
+Plasticidade fenotípica: quando um único genótipo pode resultar em um espectro de fenótipos. As plasticidade pode se referir a diferentes fenótipos em diferentes indivíduos com um mesmo genótipo (em resposta a condições ambientais, por exemplo), ou diferentes fenótipos em diferentes fases da vida de um mesmo indivíduo.Para facilitar o estudo da arquitetura genética, essa pode ser dividida nos seguintes modelos:
+
+Modelo de arquitetura genética tipo 1: Genes em grande quantidade estão distribuídos no genoma e esses apresentam alelos que pouco/não possuem efeitos no genoma.
+Modelo de arquitetura genética tipo 2: Genes em pouca quantidade estão distribuídos no genoma e esses apresentam alelos que possuem poucos efeitos no genoma.
+Modelo de arquitetura genética tipo 3: Esse modelo inclui organismos que possuem parcialmente/totalmente o seu genoma multiplicado.
+Modelo de arquitetura genética tipo mista: Apesar de todas as descobertas científicas no âmbito genético, ainda não foi descoberto se há somente um tipo de arquitetura genética predominante por tipo de organismo/ carácter, uma hipótese é de que essa arquitetura talvez seja a combinação da seleção natural ocorrida no passado de cada uma das espécies, e por isso há mais de um tipo dominante de arquitetura genética.
+
+
+== Referências ==

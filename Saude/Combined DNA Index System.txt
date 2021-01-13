@@ -1,0 +1,65 @@
+O CODIS, ou Combined DNA Index System (Sistema Combinado de Índices de ADN), é uma base de dados de ADN fundada pelo FBI (Federal Bureau of Investigation). Trata-se de um sistema informático que armazena perfis de ADN criados por laboratórios criminais (locais, estaduais e federais) dos Estados Unidos da América e que permite uma busca na base de dados com o objectivo de identificar suspeitos de crimes.
+
+
+== Origem ==
+O CODIS resultou do SWGDAM (Scientific Working Group on DNA Analysis Methods), anteriormente designado por TWGDA (Technical Working Group on DNA Analysys), que desenvolveu directrizes para os padrões de prática nos laboratórios criminais dos Estados Unidos e no Canadá, aquando do início dos testes de ADN no fim da década de 80.
+O TWGDAM foi patrocinado pelo Laboratório do FBI que acolheu diversos encontros científicos em Quantico, Virgínia, por forma a acelerar o desenvolvimento de matrizes laboratoriais e trabalhos de revisão paritária que fundamentassem os testes forenses de ADN que, para alguns, ainda não representavam uma ferramenta forense cientificamente sustentada. O TWGDAM produziu um Livro Branco em Outubro de 1989 contendo conceitos operacionais e conceptuais para a realização de um Sistema de Índices de ADN que partilhasse perfis de ADN entre diferentes laboratórios criminais, de forma semelhante ao sistema de identificação de impressões digitais cuja utilização já havia se tornado trivial entre as forças da lei durante a década de 80.
+O Laboratório do FBI deu início a um projecto piloto abarcando seis laboratórios criminais, a nível estadual e local, visando a produção de um software que apoiasse os testes de ADN de cada um dos laboratório bem como permitisse a partilha de perfis de ADN com outros laboratórios criminais.
+A DNA Identification Act (Lei de Identificação do ADN) de 1994 autorizou, formalmente, o FBI a operar o sistema CODIS e a estabelecer padrões nacionais para regular os testes forenses de ADN. As directrizes do TWGDAM funcionaram como normas padrão interinas até serem dadas recomendações pelo DNA Advisory Board (Comité Consultivo sobre o ADN), requerimento obrigatório previsto pela lei. Não obstante a lei ter sido aprovada em 1994, o CODIS só se tornou completamente operacional em 1998.
+
+
+== Marcadores ==
+O sistema CODIS identifica 13 marcadores, mais o gene AMEL para determinar o sexo:
+
+CSF1PO
+D3S1358
+D5s818
+D7s820
+D8S1179
+D13s317
+D16s539
+D18s51
+D21s11
+FGA
+THO1
+TPOX
+vWAEstes marcadores não se sobrepõem com os que são habitualmente utilizados nos testes genealógicos de ADN. Alguns podem ser identificativos de doenças genéticas.
+
+
+== Índices e estrutura da base de dados ==
+O CODIS é um índice de apontadores que auxiliam os laboratórios criminais dos Estados Unidos da América na comparação e partilha de perfis de ADN. Um registo na base de dados do CODIS, designado por perfil de ADN CODIS, consiste no perfil de ADN de um indivíduo, conjuntamente com um identificativo da amostra  e do laboratório responsável pelo perfil. O CODIS não é uma base de dados de registos criminais, como a NCIC ([[:en:National Crime Information Center|National Crime Information Center, Centro Nacional de Informações de Crimes em português), e não contém informações pessoais identificativas, tais como nomes, datas de nascimento, e números de identificação fiscal.
+O CODIS consistia, originalmente, do Convicted Offender Index (Índice do Criminoso Condenado, em português) e do Forensic Index (Índice Forense, em português) mas, mais recentemente, foram adicionados o Arrestee Index (Índice de Presos, em português), o Missing or Unidentified Persons Index (Índice de Pessoas Desaparecidas ou não Identificadas, em português), e o Missing Persons Reference Index (Índice de Referência de Pessoas Desaparecidas, em português). O Convicted Offender Index contém perfis de indivíduos condenados por crimes. A lei estadual determina quais os crimes específicos são passíveis de serem adicionados ao CODIS. (Todos os 50 estados aprovaram legislação autorizando a recolha de perfis de ADN de criminosos condenados para serem submetidos ao CODIS.) O Forensic Index contém perfis desenvolvidos a partir de material biológico recolhido de locais do crime.
+O CODIS possui um algoritmo de correspondência que pesquisa e compara os vários índices, em concordância com regras rigorosas que protegem a privacidade pessoal dos cidadãos. Na resolução, por exemplo, de casos de homicídio e violação, o CODIS pesquisa o Forensic Index em comparação com o próprio e com o Offender Index. Uma correspondência de registo na comparação entre Forensic Index e Forensic Index fornece uma pista na investigação que relaciona dois ou mais casos não relacionados anteriormente. Uma correspondência de informação na comparação entre o Forensic Index e o Offender Index fornece um suspeito para um caso que, de outra forma, não seria resolvido. É importante salientar que o algoritmo de comparação apenas produz uma lista de candidatos a correspondências. Cada possível correspondência é confirmada ou refutada por um Qualified DNA analyst (analista de ADN qualificado, em português).(Para se tornar analista qualificado de ADN um analista de ADN tem de possuir formação e experiência específicas e realizar testes de proficiência semianuais administrados por uma terceira pessoa).
+As bases de dados CODIS existem a nível local, estadual e nacional. Este arquitectura estratificada permite aos laboratórios criminais controlar a sua própria informação – cada laboratório pode decidir quais os perfis que irá partilhar com o resto do país. A partir de 2006, cerca de 180 laboratórios de todos os 50 estados participam no CODIS. A nível nacional o NDIS, ou National DNA Index System (Sistema Nacional de Índices de ADN), é operado pelo FBI num local confidencial.
+
+
+=== Tamanho relativo ===
+A partir de Outubro de 2007 o CODIS contava com 194.785 perfis forenses e 5.070.473 perfis criminosos, sendo a maior base de dados de ADN no mundo. Ultrapassou a United Kingdom National DNA Database (Base Nacional de Dados de ADN do Reino Unido, em português) estimada em cerca de 3.976.090 perfis em Junho de 2007. Desde Outubro de 2007 o CODIS produziu mais de 49.400 correspondências, assistindo em mais de 50.343 investigações.Em Outubro de 2008 o NDIS já havia atingido o número de 241.685 perfis forenses e 6.384.379 perfis de criminosos. Em Julho de 2009 o CODIS já havia produzido mais de 94.000 correspondências, ajudando em mais de 93.000 investigações.A cada vez maior aprovação pública das bases de dados de ADN conduziu à criação, e expansão, de muitas bases de dados de ADN a nível estadual. A Califórnia possui actualmente a terceira maior base de dados de ADN do mundo. Medidas políticias, tais como a California Proposition (2004), que aumentou a abrangência da base de dados de ADN, conduziu a um aumento substancial no número de investigações auxiliadas.Por forma a diminuir o número de correspondências não relevantes no NDIS, o Convicted Offender Index requer a presença de todos os 13 microssatélites CODIS num perfil que dê entrada no CODIS.
+
+
+== Controvérsias ==
+
+
+=== Preocupações com a privacidade ===
+A base de dados CODIS era utilizada, originalmente, na recolha de ADN de indivíduos condenados por crimes sexuais. Com o passar do tempo adquiriu uma abrangência cada vez mais ampla. Actualmente, em todos os 50 estados, é obrigatória a recolha de ADN em certo tipo de crimes, tais como os crimes de ofensa sexual e homicídio. Em 47 estados é mesmo obrigatória a recolha de ADN de todos os criminosos condenados. Outros estados foram ainda mais longe, recolhendo amostras de ADN de todos os delinquentes juvenis bem como de todos os suspeitos de haverem cometido crimes. Na Califórnia, como resultado da Proposition 69 (2004), todos os suspeitos detidos, bem como alguns condenados por crimes de menor gravidade, verão o seu ADN ser recolhido a partir de 2009. Todos os membros dos serviços armados dos Estados Unidos condenados no Special Court Martial (Tribunal Marcial Especial, em português), e instâncias superioras, serão obrigados a fornecer amostras de ADN, mesmo que os seus crimes não apresentem equivalente no código civil (por exemplo adultério).
+Actualmente a ACLU, ou American Civil Liberties Union (União Americana pelas Liberdades Civis), está preocupada com a cada vez mais frequente recolha de ADN de suspeitos apreendidos por oposição ao número de testes de ADN para criminosos condenados. Ao lado da ACLU encontra-se outras organizações defensoras dos direitos civis que se opõem ao uso de bases de dados de ADN por motivos relacionados com o direito à privacidade bem como à possibilidade de políticas discriminação institucional aquando do processo de recolha das amostras.
+
+
+== Na cultura popular ==
+Nas séries televisivas forenses tais como CSI, Bones, NCIS, Numb3rs, Mentes Criminosas, Lei e Ordem e Dexter, os investigadores, muitas vezes, comparam amostras de ADN com a base de dados CODIS.
+
+
+== Ver também ==
+Lei Debbie Smith
+Integrated Automated Fingerprint Identification System
+
+
+== Referências ==
+
+
+== Ligações externas ==
+Base de dados CODIS (albergada no site do FBI).
+Californian Proposition 69 de 2004.
+Base Nacional de dados de ADN.
+Testemunho de Barry Steinhardt (Director da ACLU) perante o Subcomité sobre o Crime.
+Aviso da ACLU sobre abusos de privacidade no plano governamental de expansão das bases de ADN.

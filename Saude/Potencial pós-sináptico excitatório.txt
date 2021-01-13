@@ -1,0 +1,33 @@
+Em neurociência, um potencial pós-sináptico excitatório (EPSP ou excitatory postsynaptic potential, em inglês) é um potencial pós-sináptico que faz o neurônio pós-sináptico mais propenso a disparar um potencial de ação. Esta despolarização temporária do potencial de membrana pós-sináptica, causada pelo fluxo de íons carregados positivamente para a célula pós-sináptica, é resultado da abertura de canais iônicos regulados por ligantes. Estes são o oposto do potencial pós-sináptico inibitório (IPSPs), que normalmente resultam a partir do fluxo de íons negativos para a célula ou íons positivos para fora da célula. EPSPs também pode resultar de uma diminuição da carga positiva de saída, enquanto IPSPs são por vezes causado por um aumento na saída de carga positiva. O fluxo de íons que faz com que uma EPSP é uma corrente pós-sináptica excitatória (EPSC).
+EPSPs, como IPSPs, são gradativos (ou seja, eles têm um efeito aditivo). Quando vários EPSPs ocorrem num único pedaço de membrana pós-sináptica, o seu efeito combinado é a soma dos EPSPs individuais. EPSPs superiores resultam numa maior despolarização da membrana e, assim, aumentar a probabilidade de que a célula pós-sináptica atinge o limite de disparo de um potencial de ação.
+O potencial pós-sinaptico excitatório (PPSE) ocorre quando o potencial de ação rompe vesículas contendo neurotransmissores excitatórios no botão sinaptico, que se ligam aos seus receptores na membrana pós-sináptica fazendo com que ocorra o influxo de Na+ ate atingir o seu limiar de -45mV, isto é, 20 milivolts mais positivo que o potencial neuronal de repouso de -65 milivolts. O PPSE é atingido com a descarga simultânea de muitas terminações, cerca de 40 a 80, ao mesmo tempo ou em rápida sucessão. Isso ocorre pelo processo chamado de somação.
+
+
+== Visão geral ==
+EPSPs são causados quimicamente em células vivas. Quando uma célula pré-sináptica ativa lança neurotransmissores na sinapse, alguns deles ligam-se a receptores na célula pós-sináptica. Muitos destes receptores contêm um canal de íons capaz de passar íons carregados positivamente para dentro ou para fora da célula (tais receptores são chamados receptores ionotrópicos). Nas sinapses excitatórias, o canal de íon tipicamente permite que sódio entre na célula, gerando uma corrente pós-sináptica excitatória. Esta corrente de despolarização provoca um aumento no potencial de membrana, o EPSP.
+
+
+== Moléculas excitatórias ==
+O neurotransmissor mais frequentemente associado com EPSPs é o aminoácido glutâmico, e é o principal neurotransmissor excitatório no sistema nervoso central dos vertebrados. A sua presença predominante nas sinapses excitatórias levou a que fosse chamado de o neurotransmissor excitatório. Em alguns invertebrados, o glutamato é o principal transmissor excitatório na junção neuromuscular. Na junção neuromuscular dos vertebrados, PPTs (potenciais de placa terminal) são mediadas pelo neurotransmissor acetilcolina, que (juntamente com o glutamato) é um dos principais transmissores do sistema nervoso central de invertebrados. Ao mesmo tempo, o GABA é o neurotransmissor mais comumente associado com IPSPs no cérebro. No entanto, classificar neurotransmissores como tal é tecnicamente incorreto, pois há vários outros fatores sinápticos que ajudam a determinar os efeitos excitatórios ou inibitórios de um neurotransmissor.
+
+
+== EPSPs miniaturas e análise quântica ==
+A liberação de vesículas de neurotransmissores a partir da célula pré-sináptica é probabilística. De fato, mesmo sem estimulação da célula pré-sináptica, uma única vesícula poderá ocasionalmente ser liberada na sinapse, gerando EPSPs em miniatura (mEPSPS). Bernard Katz foi pioneiro no estudo desses mEPSPS na junção neuromuscular (muitas vezes chamado de potenciais de placa terminal em miniatura) em 1951, revelando a natureza quântica da transmissão sináptica. O tamanho quântico pode ser definido como a resposta sináptica da liberação de neurotransmissores a partir de uma única vesícula, enquanto o conteúdo quantal é o número de vesículas eficazes liberadas em resposta a um impulso nervoso. A análise quântica refere-se aos métodos utilizados para deduzir, para uma sinapse particular, quantos quanta de transmissor são liberados e qual o efeito médio de cada quantum é na célula alvo, medido em termos da quantidade de íons que fluem (carga) ou mudam no potencial da membrana.
+
+
+== EPSPs de campo ==
+EPSPs são geralmente gravados utilizando eletrodos intracelulares. O sinal extracelular a partir de um único neurônio é extremamente pequeno e, portanto, quase impossível de se registrar no cérebro humano. No entanto, em algumas áreas do cérebro, tais como o hipocampo, os neurônios são dispostos de tal maneira que todos eles recebem entradas sinápticas na mesma área. Uma vez que estes neurônios estão na mesma orientação, os sinais extracelulares de excitação sináptica não se anulam, mas sim adicionam-se para dar um sinal que pode ser facilmente gravado com um eletrodo de campo. Este sinal extracelular gravado a partir de uma população de neurônios é o potencial de campo. Em estudos de potenciação de longa duração (LTP) do hipocampo, figuras são dadas frequentemente mostrando o EPSP de campo (fEPSP) em estrato radiante de CA1 em resposta à estimulação colateral de Schaffer. Esse é o sinal observado por um eletrodo  extracelular colocado na camada de dendritos apicais de neurônios piramidais CA1. Os colaterais de Schaffer fazem sinapses excitatórias para estes dendritos, e assim, quando eles são ativados, há uma corrente no estrato radiante: o EPSP de campo. A deflexão de tensão registrada durante um campo EPSP é negativa, enquanto um EPSP intracelularmente gravado é positivo. Essa diferença é devida ao fluxo relativo de íons (principalmente o íon de sódio) para dentro da célula, o que, no caso do EPSP de campo é para longe do eletrodo, enquanto que para um EPSPs intracelular é em direção ao eletrodo. Depois de um EPSP de campo, o eletrodo extracelular pode gravar outra alteração no potencial elétrico chamado o pico de população que corresponde à população de células de disparo potenciais de ação (spiking). Em outras regiões do que CA1 do hipocampo, o EPSP de campo pode ser muito mais complexo e mais difícil de interpretar como fonte e pias são muito menos definido. Em regiões tais como o estriado, neurotransmissores, tais como dopamina, acetilcolina, GABA e outros também podem ser liberados e complicar ainda mais a interpretação.
+
+
+== Veja também ==
+Classificação de disparos neuronais
+Potencial de ação
+Potencial pós-sináptico inibitório
+Sinapse
+
+
+== Referências ==
+
+
+== Ligações externas ==
+Quantal transmission at neuromuscular synapses

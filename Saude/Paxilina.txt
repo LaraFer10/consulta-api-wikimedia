@@ -1,0 +1,32 @@
+A paxilina é uma proteína que funciona como proteína adaptadora na transdução de sinais e foi descoberta em 1990, à qual lhe foi dada o nome em inglês de paxillin, do latim paxillus, que significa "pequeno poste" (não confundir com o alcaloide neurotóxico, em inglês denominado paxilline). A paxilina tem 68 kDa e está localizada no citoplasma nos pontos onde a célula se une à matriz extracelular formando de aderências focais. A região C-terminal da paxilina contém quatro domínios LIM servem para que a paxilina se una às adesões focais. Acredita-se que nas adesões focais seja estabelecida uma associação direta com a cauda citoplasmática beta-integrina. A região N-terminal da paxilina é rica em sítios de interação proteína-proteína. São várias as proteínas que se ligam à paxilina e entre elas estão proteína-tirosina quinases, como a Src e a quinase de adesão focal (FAK), proteínas estruturais, como a vinculina e actopaxina, e reguladores da organização da actina, como o COOL/PIX e PKL/GIT. A paxilina é fosforilada na tirosina pela FAK e Src, depois da sua ligação com integrinas ou a estimulação por fatores de crescimento, criando sítios de ligação para a proteína adaptadora Crk. A paxilina ajuda a recrutar moléculas no complexo de transdução de sinais do qual faz parte, facilitando a recepção de estímulos externos que modulam diversos processos celulares, e intervindo assim na adesão celular, mobilidade e crescimento de células.
+
+
+== Referências ==
+
+
+== Bibliografia ==
+Panetti TS (2002). «Tyrosine phosphorylation of paxillin, FAK, and p130CAS: effects on cell spreading and migration.». Front. Biosci. 7: d143–50. PMID 11779709. doi:10.2741/panetti 
+Rose DM, Han J, Ginsberg MH (2003). «Alpha4 integrins and the immune response.». Immunol. Rev. 186: 118–24. PMID 12234367. doi:10.1034/j.1600-065X.2002.18611.x  !CS1 manut: Nomes múltiplos: lista de autores (link)
+Salgia R; Uemura N; Okuda K;  et al. (1996). «CRKL links p210BCR/ABL with paxillin in chronic myelogenous leukemia cells». J. Biol. Chem. 270 (49): 29145–50. PMID 7493940. doi:10.1074/jbc.270.49.29145 
+Turner CE, Miller JT (1994). «Primary sequence of paxillin contains putative SH2 and SH3 domain binding motifs and multiple LIM domains: identification of a vinculin and pp125Fak-binding region». J. Cell. Sci. 107 (6): 1583–91. PMID 7525621 
+Bergman M, Joukov V, Virtanen I, Alitalo K (1995). «Overexpressed Csk tyrosine kinase is localized in focal adhesions, causes reorganization of alpha v beta 5 integrin, and interferes with HeLa cell spreading». Mol. Cell. Biol. 15 (2): 711–22. PMC 231937. PMID 7529872  !CS1 manut: Nomes múltiplos: lista de autores (link)
+Salgia R; Li JL; Lo SH;  et al. (1995). «Molecular cloning of human paxillin, a focal adhesion protein phosphorylated by P210BCR/ABL». J. Biol. Chem. 270 (10): 5039–47. PMID 7534286. doi:10.1074/jbc.270.10.5039 
+Schaller MD, Otey CA, Hildebrand JD, Parsons JT (1995). «Focal adhesion kinase and paxillin bind to peptides mimicking beta integrin cytoplasmic domains». J. Cell Biol. 130 (5): 1181–7. PMC 2120552. PMID 7657702. doi:10.1083/jcb.130.5.1181  !CS1 manut: Nomes múltiplos: lista de autores (link)
+Yoshida M; Westlin WF; Wang N;  et al. (1996). «Leukocyte adhesion to vascular endothelium induces E-selectin linkage to the actin cytoskeleton». J. Cell Biol. 133 (2): 445–55. PMC 2120789. PMID 8609175. doi:10.1083/jcb.133.2.445 
+Salgia R; Sattler M; Pisick E;  et al. (1996). «p210BCR/ABL induces formation of complexes containing focal adhesion proteins and the protooncogene product p120c-Cbl». Exp. Hematol. 24 (2): 310–3. PMID 8641358 
+Salgia R; Pisick E; Sattler M;  et al. (1996). «p130CAS forms a signaling complex with the adapter protein CRKL in hematopoietic cells transformed by the BCR/ABL oncogene». J. Biol. Chem. 271 (41): 25198–203. PMID 8810278. doi:10.1074/jbc.271.41.25198 
+Brown MC, Perrotta JA, Turner CE (1997). «Identification of LIM3 as the principal determinant of paxillin focal adhesion localization and characterization of a novel motif on paxillin directing vinculin and focal adhesion kinase binding». J. Cell Biol. 135 (4): 1109–23. PMC 2133378. PMID 8922390. doi:10.1083/jcb.135.4.1109  !CS1 manut: Nomes múltiplos: lista de autores (link)
+Retta SF; Barry ST; Critchley DR;  et al. (1997). «Focal adhesion and stress fiber formation is regulated by tyrosine phosphatase activity». Exp. Cell Res. 229 (2): 307–17. PMID 8986614. doi:10.1006/excr.1996.0376 
+Mazaki Y, Hashimoto S, Sabe H (1997). «Monocyte cells and cancer cells express novel paxillin isoforms with different binding properties to focal adhesion proteins». J. Biol. Chem. 272 (11): 7437–44. PMID 9054445. doi:10.1074/jbc.272.11.7437  !CS1 manut: Nomes múltiplos: lista de autores (link)
+Hiregowdara D; Avraham H; Fu Y;  et al. (1997). «Tyrosine phosphorylation of the related adhesion focal tyrosine kinase in megakaryocytes upon stem cell factor and phorbol myristate acetate stimulation and its association with paxillin». J. Biol. Chem. 272 (16): 10804–10. PMID 9099734. doi:10.1074/jbc.272.16.10804 
+Ostergaard HL, Lou O, Arendt CW, Berg NN (1998). «Paxillin phosphorylation and association with Lck and Pyk2 in anti-CD3- or anti-CD45-stimulated T cells». J. Biol. Chem. 273 (10): 5692–6. PMID 9488700. doi:10.1074/jbc.273.10.5692  !CS1 manut: Nomes múltiplos: lista de autores (link)
+Fernandez R, Suchard SJ (1998). «Syk activation is required for spreading and H2O2 release in adherent human neutrophils». J. Immunol. 160 (10): 5154–62. PMID 9590268 
+Lewis JM, Schwartz MA (1998). «Integrins regulate the association and phosphorylation of paxillin by c-Abl». J. Biol. Chem. 273 (23): 14225–30. PMID 9603926. doi:10.1074/jbc.273.23.14225 
+Ganju RK; Munshi N; Nair BC;  et al. (1998). «Human Immunodeficiency Virus Tat Modulates the Flk-1/KDR Receptor, Mitogen-Activated Protein Kinases, and Components of Focal Adhesion in Kaposi's Sarcoma Cells». J. Virol. 72 (7): 6131–7. PMC 110419. PMID 9621077 
+Deakin NO, Turner CE (2008). «Paxillin comes of age». J. Cell. Sci. 121 (Pt 15): 2435–44. PMC 2522309. PMID 18650496. doi:10.1242/jcs.018044 
+
+
+== Ligações externas ==
+MBInfo: Paxillin
+PaxillinInformação com ligações em Cell Migration Gateway
+MeSH Paxillin

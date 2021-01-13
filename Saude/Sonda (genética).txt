@@ -1,0 +1,3 @@
+Em biologia molecular e genética, o termo sonda (também sonda de hibridização) refere-se ao DNA de cadeia simples, marcado com um radioisótopo (por exemplo o, 32P) ou biotina.
+A principal função das sondas é identificar, entre um conjunto de moléculas de ácidos nucleicos, a chamada sequência-alvo. É eleita como sonda uma molécula que possua sequência o mais complementar possível em relação à sequência-alvo.
+São utilizadas para identificar, por exemplo, um DNA-alvo entre milhões de fragmentos de restrição resultantes de clivagem de DNA - na técnica de transferência de Southern, ou para identificar, por exemplo, um transcrito-alvo, entre o conjunto de transcritos produzidos por uma determinada célula - na técnica de transferência de Northern blot.

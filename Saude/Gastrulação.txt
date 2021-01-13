@@ -1,0 +1,106 @@
+Os animais têm corpos de diversas formas e são compostos por órgãos com morfologias e funções únicas. Tal arquitetura sofisticada do corpo é elaborada durante o desenvolvimento embrionário, onde um óvulo fertilizado passa por muitas divisões mitóticas, movimentos e especificações de destinos celulares.
+Após a fertilização de um óvulo por um espermatozóide, o zigoto vira uma bola compacta de células, a mórula, por meio do processo de clivagem. A clivagem é um tipo de divisão celular, onde o volume de citoplasma diminui a cada divisão mitótica, pois a célula não passa pelos estágios de crescimento G1 e G2 que normalmente existem durante a intérfase.
+Após mais algumas divisões celulares, há a formação de uma cavidade preenchida por fluido, a blastocele, e neste estágio, o embrião passa a se chamar blástula. É a partir deste momento que se inicia a gastrulação.
+Gastrulação é o processo de movimentos de células e tecidos altamente coordenados pelo qual as células da blástula são dramaticamente rearranjados e ganham novas posições e células vizinhas, estruturando um plano corpóreo de múltiplas camadas do organismo. Portanto este processo determina os eixos ântero-posterior (AP), dorso-ventral (DV), e esquerdo-direito (ED) e também especifica as camadas germinativas, ectoderme, mesoderme e endoderme (em organismostriblásticos), as quais darão origem a diferentes órgãos e tecidos. A ectoderme é a camada mais externa e dá origem a epiderme e seus anexos (pelos e glândulas) e ao sistema nervoso(cérebro, medula, nervos e gânglios), a mesoderme dá origem ao sistema esquelético, muscular, circulatório e urinário, e a endoderme, a camada mais interna, dá origem aos revestimentos epiteliais das passagens respiratórias e do trato gastrointestinal, incluindo as glândulas desse trato e as células glandulares dos órgãos associados, como fígado e pâncreas.
+A gastrulação vertebrados envolve quatro movimentos morfogenéticos evolutivamente conservados: internalização ou embolia, epibolia, convergência e extensão. A internalização traz células da mesoderme e a endorderme prospectivas sob a futura ectoderme através do blastóporo, uma abertura na blastula, conhecido como margem de blastoderme em peixes e linha primitiva em amniotos. Na epibolia as camadas germinativas se espalham e ficam mais delgadas. Os movimentos de convergência estreitam as camadas germinativas dorso-ventralmente, enquanto os movimentos de extensão simultâneos alongam as mesmas antero-posteriormente. Cada movimento da gastrulação pode ser conseguido por comportamentos individuais ou coletivos das células, incluindo alterações na sua forma, migração dirigida, intercalações planares ou radiais e divisões celulares. Esses movimentos são guiados por adesão diferencial celular, quimiotaxia, quimiocinese e polaridade planar.
+
+
+== Movimento ==
+
+Os movimentos celulares que ocorrem durante a gastrulação são gerados por alterações do citoesqueleto e da afinidade de cada célula com a lâmina basal e com células adjacentes. Eles envolvem o embrião inteiro e, as migrações celulares em uma parte do organismo gastrulante, devem estar intimamente coordenadas com outros movimentos ocorrendo simultaneamente. 
+Mesmo que o padrão de gastrulação seja extremamente variado em todo o reino animal, relativamente poucos mecanismos estão envolvidos.
+A gastrulação, geralmente, envolve os seguintes tipos de movimentos:
+
+Invaginação. O dobrar para dentro de uma região de células, de maneira semelhante à cavidade formada quando se empurra com o dedo a superfície de uma bola de borracha macia.
+Involução. A internação ou movimento de interiorizarão de uma camada externa em expansão, de modo a se espalhar na superfície interna das células externas remanescentes.
+Ingresso de células. A migração de células individuais da camada superficial para o interior do embrião.
+Delaminação. A separação de uma camada celular em duas ou mais camadas mais ou menos paralelas.
+Epibolia. O movimento de camadas epiteliais (usualmente de células ectodérmicas) que se espalham como uma unidade e não individualmente, para envolver as camadas mais profundas do embrião.
+
+
+== Gastrulação em alguns invertebrados ==
+É através desse processo que os folhetos embrionários são formados, por meio da migração de algumas células da blástula. Porém, nem sempre acontece de forma igual em todos os tipos de animais.  Isso ocorre porque mesmo que o destino das camadas germinativas seja o mesmo, os locais onde elas são originadas variam muito. Um fator que influencia essa diferença é o modo da migração células que depende do tipo de ovo, isto é, da quantidade e posição do vitelo.
+Anelídeos, alguns platelmintos, equinodermas e moluscos (exceto cefalópodos) possuem pouco vitelo (oligolécitos) e, portanto, a gastrulação ocorre de maneira bem simples. A migração começa a ocorrer pelas células que tiveram origem no pólo vegetal (Figura 2).
+
+Já os moluscos cefalópodes (e alguns gastrópodes também) são telolécitos, ou seja, são ricos em vitelo, assim como muitos vertebrados, e neste ovo o citoplasma com organelas e o núcleo só se encontra no pólo animal, onde as clivagens ocorreram. E é este pólo também dá origem a uma área em forma de disco em que acontece a gastrulação.
+Toda gastrulação nesses animais seguem as mesmas etapas básicas dos demais animais com a ectoderme, mesoderme e endoderme formando as próximas estruturas do embrião.
+A única diferença entre está nos Filos Porifera e Cnidária, pois os integrantes de ambos filos são animais diploblastos, isto é, seus embriões são formados apenas por dois folhetos embrionários: a endoderme e a  ectoderme.
+
+
+== Gastrulação em vertebrados ==
+
+
+=== Gastrulação em peixes ===
+Estudo em Zebrafish:
+A clivagem no peixe zebra ocorre somente no blastodisco, localizado no pólo animal, devido aos seus ovos com muito vitelo. Esse tipo de clivagem se chama clivagem meroblástica (ou parcial) do tipo discoidal. Durante o 10º ciclo de clivagem desse organismo, as divisões celulares perdem sua sincronia em que novos genes são expressos e as células se tornam móveis. A transição da Blástula intermediária é regulada pela relação entre o citoplasma e a cromatina.
+O primeiro movimento celular é a epibolia das células blastodérmicas sobre o vitelo, ou seja, as células internas da blástula se movem para o exterior, intercalando-se com as células superficiais da blástula para posteriormente envolver completamente o vitelo.
+Esse movimento propiciado pela expansão autônoma da camada sincicial do vitelo (YSL) “dentro” do citoplasma do hemisfério animal. A expansão de YSL tem como base uma rede de microtúbulos em sua estrutura, e radiação ou drogas que impedem a polimerização de tubulina inibem a epibolia. 
+
+Depois que as células blastodérmicas cobrem aproximadamente a metade da célula dovitelo do peixe-zebra, um espessamento ocorre ao longo de toda a margem. Esse espessamento é formado pelo processo de involução celular e é chamado de anel germinativo, sendo composto de uma camada superficial, o epiblasto, e uma camada interna, o hipoblasto. 
+Durante a migração, um dos lados do blastoderma se torna visivelmente mais grosso do que o outro. Experimentos com marcação de células indicam que o lado mais delgado marca o sítio da futura superfície dorsal do embrião, caracterizando a involução.
+Uma vez formado o anel, as células profundas de ambos, epiblasto e hipoblasto, se intercalam no futuro lado dorsal do embrião, para formar um espessamento localizado, o escudo embrionário. Esse escudo é funcionalmente equivalente ao lábio dorsal do blastóporo de anfíbios, pois ele pode organizar um eixo embrionário secundário quando transplantado a um embrião hospedeiro. Assim, enquanto as células realizam a epibolia em torno do vitelo, elas também estão involuindo nas margens e convergindo anteriormente e dorsalmente em direção ao escudo embrionário. 
+	Quando a epibolia atinge 90%, verifica-se que o embrião possui ectoderma (folheto mais externo) e mesentoderma, que por sua vez dará origem ao mesoderma (folheto intermediário) e ao endoderma (folheto mais interno). Assim, por movimentos celulares o mesoderma e o endoderma acabam por situar-se subjacentes ao ectoderma.
+A fase de gástrula se caracteriza pela continuidade e término do movimento de epibolia e pelo movimento de inicio do movimento de involução das futuras células endodérmicas e mesodérmicas e também pelos movimentos de convergência e extensão das células recém interiorizadas em direção à linha média dorsal para formação do corpo do embrião ao redor da massa de vitelo, a medida que o embrião se alonga em uma direção ântero-posterior.
+Após os movimentos de gastrulação, seguem a formação do tubo neural e a migração das células das cristais neurais para diferentes regiões do corpo do embrião. As células hipoblásticas do escudo embrionário convergem e se estendem anteriormente, finalmente estreitando-se ao longo da linha dorsal média do hipoblasto. Esse é o cordomesoderma, o primórdio da notocorda. As células adjacentes ao cordomesoderma, as células adaxiais, são as precursoras dos somitos mesodérmicos. 
+
+A formação dos somitos e as protuberâncias das vesículas ósseas que originarão os olhos tornam-se visíveis. A convergência e a extensão no epiblasto trazem as células presuntivas do cérebro de todo o epiblasto para a linha média dorsal onde formam a quilha neural. O resto do epiblasto se torna a pele do peixe. 
+
+O mapa de destino do peixe-zebra, então, não é tão diferente daquele da rã ou outros vertebrados. Se abrirmos, conceitualmente, uma blástula de Xenopus no pólo vegetal e esticarmos a abertura em um anel marginal, o mapa de destino resultante se parece muito com aquele do embrião do peixe-zebra quando metade do vitelo estava coberto pelo blastoderma. 
+
+
+=== Gastrulação em aves e répteis ===
+A blástula em aves e répteis é formada por um disco contendo o citoplasma ativo acima de um grande volume esférico de vitelo durante a clivagem, o que culmina com uma série de restrições aos movimentos celulares. Apesar da ausência de vitelo no embrião dos mamíferos (para este grupo, a blástula é denominada de blastocisto), esse grupo apresenta grande similaridade com os movimentos de gastrulação dos embriões de aves e répteis. 
+O blastoderma de duas camadas (epiblasto e hipoblasto) tem as camadas unidas na margem da área opaca, e o espaço entre as camadas é uma blastocele. Assim, a estrutura do blastodisco das aves não é diferente da blástula de anfíbios ou equinodermos. Dessa maneira, as primeiras células hipoblásticas delaminam individualmente, para formar ilhas de células sob o epiblasto. Células da margem posterior (células de foice de Koller e células marginais posteriores) produzem uma população de células que migra abaixo do blastodisco e incorpora as ilhas poli-invaginadas. Essa camada inferior torna-se o hipoblasto. A camada superior é o epiblasto. À medida que o hipoblasto se move no sentido anterior, células do epiblasto se agregam na região anterior à foice de Koller para formar a linha primitiva. 
+Tão logo se forma a linha primitiva, as células do epiblasto começam a migrar sobre os lábios dessa e para dentro da blastocele. As primeiras células a migrarem através da linha primitiva são aquelas destinadas a se transformarem no intestino anterior. Essa situação, novamente,é similar àquela vista nos anfíbios. Uma vez dentro da blastocele, essas células migram anteriormente e finalmente deslocam as células do hipoblasto na porção anterior do embrião, formando o endoblasto. As células hipoblásticas estão confinadas a uma região na porção anterior da área pelúcida. As próximas células que entram na blastocele permanecem entre o endoderma e o epiblasto para formar as células do mesoderma da cabeça e do cordomesoderma (notocorda). 
+Enquanto isso, as células continuam a migrar para dentro e quando entram na blastocele, essas células se separam em duas correntes. Uma corrente se move mais profundamente e dão origem a todos os órgãos endodérmicos do embrião, assim como a maioria das membranas extraembrionárias (o hipoblasto forma o restante). A segunda corrente migratória se espalha através da blastocele como uma camada frouxa originando as porções mesodérmicas do embrião e das membranas extraembrionárias. Enquanto continua o ingresso do mesoderma, a linha primitiva começa a regredir. Ela deixa em seu lugar o eixo dorsal do embrião e o processo cefálico. Ao mesmo tempo, a porção remanescente (posterior) da notocorda é estabelecida e a região anal é formada. 
+Como uma consequência desse processo de gastrulação em duas etapas, os embriões de aves (e mamíferos) exibem um distinto gradiente de maturidade de desenvolvimento anteroposterior. Enquanto células das porções posteriores do embrião estão gastrulando, células da porção anterior já estão começando a formar órgãos. Assim, chegando ao fim da gastrulação em aves, o ectoderma envolveu o vitelo, o endoderma substituiu o hipoblasto e o mesoderma se posicionou entre essas duas regiões.
+
+
+==== Indução da Linha Primitiva em Galinha ====
+O determinante materno Vg1 é expresso nas células da zona marginal posterior, acima da Foice de Koller. Esta região é conhecida como o centro de Nieuwkoop. Vg1 sinaliza para  para as células posteriores adjacentes do epiblasto, ativando Nodal. Porém, a expressão de Nodal está inibida por Cerberus que está sendo secretado no hipoblasto. Conforme o hipoblasto começa a ser deslocado pelo endoblasto para a região anterior, o sinal de Cerberus também é deslocado anteriormente e deixa de inibir Nodal. A região da foice de Koller expressa FGF que juntamente com Nodal induzem a formação da linha primitiva. 
+
+
+=== Gastrulação em Xenopus ===
+A gastrulação em embriões de rã se inicia no futuro lado dorsal do embrião, logo abaixo do equador. Aqui, as células invaginam mudam de forma para formar um blastóporo. O corpo principal de cada célula é deslocado para o interior do embrião, enquanto as células mantém contacto com a superfície do lado de fora por meio de um gargalo delgado. Estas células de garrafa forram o archenteron que está se formando. Assim como gastrulação de ouriço do mar, uma invaginação de células inicia a formação archenteron. No entanto, ao contrário da gastrulação de ouriços do mar, a gastrulação de rã não começa na região mais vegetal, mas na zona marginal: a zona em torno do equador da blástula, onde os hemisférios animal e vegetal se encontram. Aqui as células da endoderme não são tão grandes ou tão cheias de vitelo como a maioria dos blastômeros vegetais.
+A fase seguinte envolve a involução das células da zona marginal, enquanto as células da zona animal são submetida à epibolia e convergem no blastóporo. Quando as células marginais que migram atingem o lábio dorsal do blastóporo, elas voltam para dentro. Assim, as células que constituem o lábio do blastóporo estão constantemente mudando. As primeiras células que compõem o lábio dorsal do blastóporo são as células de garrafa que invaginaram para formar o início do arquênteron. À medida que estas células passam para o interior do embrião, o lábio dorsal do blastóporo torna-se composto de células que involuem para dentro do embrião para se tornarem a placa pré-cordal (o precursor da mesoderme da cabeça). As próximas células que involuem para dentro do embrião através do lábio dorsal do blastoporo são chamadas as células cordamesoderme. Estas células irão formar a notocorda, um "espinha dorsal” transitória mesodérmica que desempenha um papel importante na distinção e padronização do sistema nervoso.
+
+Como as novas células entram no embrião, a blastocele é deslocada para o lado oposto do lábio dorsal do blastóporo. Enquanto isso, o lábio do blastóporo expande lateral e ventralmente e os processos de formação de células de garrafa e involução continuame. O blastóporo "crescente" desenvolve lábios laterais e, finalmente, um lábio ventral sobre a qual células precursoras mesodermicas e endodérmicas adicionais passam. Com a formação do lábio ventral, o blastóporo forma um anel em torno das grandes células endodérmicas que permanecem expostas na superfície vegetal. Este patch restante do endoderme é chamado o yolk plug, o qual é eventualmente internalizado. Nessa altura, todos os precursores da endoderme foram trazidos para o interior do embrião, a ectoderme envolveu o superfície, e a mesoderme foi colocada entre elas.
+
+
+== Referências ==
+
+
+=== Gastrulação em mamíferos ===
+
+
+==== Mamíferos prototérios (monotremados) ====
+Os monotremados são mamíferos de uma ordem muito particular em sua forma de reprodução se comparados aos placentários e os marsupiais, pois põe ovos. A fêmea, que apresenta uma cloaca, recebe o esperma do macho; os ovos são fertilizados no oviduto; em seguida, recebem os nutrientes e a casca e passam por um período curto de incubação de dez dias, quando só então serão ovipositados. 
+Os ovos desses animais são telolécitos, ou seja, possuem uma grande quantidade de vitelo todo mantido no polo vegetativo. Sendo assim, seu desenvolvimento embrionário é muito parecido com o de aves e répteis. 
+
+
+==== Mamíferos eutérios (placentários) ====
+Em mamíferos, o desenvolvimento embrionário passa a acontecer dentro da fêmea e não mais em ovos, com exceção dos monotremados, sendo todos os nutrientes por ela providos. 
+Após a implantação do blastocisto (fase bilaminar) no endométrio, processo esse conhecido como nidação, há o surgimento da linha primitiva, precedendo a gastrulação. É por volta do décimo quinto dia que a linha primitiva, um espessamento contendo um sulco ao longo da linha mediana do disco embrionário, surge crescendo da área caudal em direção à cranial. A extremidade cranial se expande, formando o nó primitivo, que terá uma depressão, a fosseta primitiva. 
+Essa linha primitiva é também a responsável pela definição dos eixos corporais: craniocaudal, esquerdo-direito, dorsoventral e médio-lateral.
+Durante a gastrulação, é pelo sulco e a fosseta que as células do epiblasto lateral à linha migram para o interior do embrião, ingressão. As primeiras células a migrarem movem o hipoblasto e formam o endoderma definitivo. As seguintes, que ficarão entre o epiblasto e o endoderma, formarão o mesoderma. 
+A partir do nó primitivo, o mesoderma se estende em um processo notocordal e o mesoderma lateral se torna o mesoderma paraxial (na cabeça, forma o mesoderma da cabeça; no tronco, os somitos), o intermediário e a placa de mesoderma lateral (que se dividirá em somática e esplâncnica). 
+Por volta do vigésimo primeiro dia, o mesoderma paraxial já começa a conceber os somitos em direção craniocaudal e a placa notocordal se separa do endoderma o qual havia se unido para dar origem a notocordal sólida. 
+
+
+==== Mamíferos metatérios (marsupiais) ====
+Os embriões de marsupiais desenvolvem-se no útero da mãe, contudo, nascem sem estar completamente formados, pois seu suprimento nutricional no saco vitelínico é restrito. Após alguns dias de gestação, esses animais nascem e sobem com ajuda dos pelos de sua mãe até o marsúpio, onde será amamentado e completará seu desenvolvimento. 
+Assim como em eutérios, a linha primitiva surge criando uma simetria bilateral e um nó em uma extremidade. É por estes lugares que haverá a migração notável de células do exterior para o interior, formando o terceiro folheto embrionário, o mesoderma.
+Pouco tempo depois, há a formação da notocorda, que formará a coluna espinhal. O mesoderma paraxial, o mesoderma lateral à notocorda, formará os somitos que no décimo sexto dia já darão origem aos músculos e ossos do tronco. No décimo sétimo dia, células germinativas primordiais (dão origem aos gametas) são encontradas na periferia dos somitos. E, no décimo nono dia, os membros anteriores e superiores começam a aparecer (pequenos brotos) e os vasos sanguíneos do coração já formados começam a pulsar. 
+Até o vigésimo sexto dia, o embrião completará o desenvolvimento de seus órgãos relacionados a funções como respiração e alimentação. O embrião então nasce e sobe até a bolsa onde pode permanecer por meses. 
+
+
+== Bibliografia ==
+BRUSCA, R.C. & BRUSCA, G.J. 2007. Invertebrados. 2a.ed., Ed. Guanabara Koogan, Rio de Janeiro. 968p
+GILBERT, S.F. Biologia do Desenvolvimento (5ª Ed). Editora Funpec, 2004.
+LARSEN WJ. Human Embryology. 3ª ed. Philadelphia: Churchill Livingstone; 2001.
+MOORE, K.L.; PERSAUD, T.V.N. Embriologia Básica (5ª Ed). Editora Guanabara Koogan, Rio de Janeiro, 2000.
+POUGH, F.H.; JANIS, C.M.; HEISER, J.B. A vida dos vertebrados. São Paulo: Atheneu. 3ª ed., 2003.
+SOLNICA-KREZEL, L. Conserved Patterns of Cell Moviments during Vertebrate Gastrulation. Current Biology, Vol. 15, R213–R228, March 29, 2005
+SOLNICA-KREZEL, L. & SEPICH, D. S. Gastrulation: Making and Shaping Germ Layers. Annu. Rev. Cell Dev. Biol. 2012. 28:687–717
+TYNDALE-BISCOE, H.. Life of marsupials. Collingwood, Victoria: CSIRO Publishing, 2005.
+WOLPERT, L. Principles of Development (4ª Ed). Editora Oxford University, 2010

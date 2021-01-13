@@ -1,0 +1,37 @@
+As Proteínas Modificadoras do Tipo Ubiquitina (do inglês: Small Ubiquitin-like Modifier) (ou SUMO) são uma família de pequenas proteínas que são covalentemente ligadas e destacadas de outras proteínas nas células para modificar sua função. Sumoilação é uma modificação pós-traducional envolvida em vários processos celulares, como transporte nuclear-citosólico, regulação transcricional, apoptose, estabilidade de proteínas, resposta ao estresse e progressão no ciclo celular.As proteínas SUMO são semelhantes à ubiquitina e são consideradas membros da família de proteínas do tipo ubiquitina. A sumoilação é dirigida por uma cascata enzimática análoga à envolvida na ubiquitinação. Ao contrário da ubiquitina, as SUMO não são usadas para marcar proteínas para degradação. SUMO maduras são produzidas quando os últimos quatro aminoácidos do terminal C foram clivados para permitir a formação de uma ligação isopeptídica entre o resíduo de glicina C-terminal das SUMO e uma lisina aceitadora na proteína alvo.
+Os membros da família SUMO geralmente têm nomes diferentes; o homólogo SUMO em leveduras, por exemplo, é chamado SMT3. Vários pseudogenes foram relatados para esse gene.
+
+
+== Função ==
+A modificação das proteínas SUMO tem muitas funções. Entre a estabilidade mais frequente e melhor estudados são proteínas, nuclear-citosólica transporte e transcricional regulamentação. Normalmente, apenas uma pequena fração de uma determinada proteína é sumoilada e essa modificação é rapidamente revertida pela ação das enzimas dessumoilantes. Foi demonstrado que a sumoilação de proteínas alvo causa vários resultados diferentes, incluindo localização alterada e parceiros de ligação. A modificação SUMO-1 do RanGAP1 (o primeiro substrato SUMO identificado) leva ao seu tráfego do citosol para o complexo de poros nucleares. A modificação SUMO da hNineína leva ao seu movimento do centríolo para o núcleo. Em muitos casos, a modificação SUMO dos reguladores da transcrição está correlacionada com a inibição da transcrição. Pode-se consultar os GeneRIFs das proteínas SUMO, por exemplo, SUMO-1 humano, para descobrir mais.
+
+
+== Papel na purificação de proteínas ==
+As proteínas recombinantes expressas em E. coli podem falhar ao dobrar adequadamente, formando agregados e precipitando como corpos de inclusão. Esta insolubilidade pode ser devida à presença de códons lidos ineficientemente por E. coli, diferenças nos ribossomos eucarióticos e procarióticos, ou falta de acompanhantes moleculares apropriados para o dobramento adequado de proteínas. Para purificar essas proteínas, pode ser necessário fundir a proteína de interesse com um marcador de solubilidade como SUMO ou MBP (proteína de ligação à maltose) para aumentar a solubilidade da proteína. As SUMO podem mais tarde serem clivadas da proteína de interesse usando uma protease específica das SUMO, como a peptidase Ulp1.
+
+
+== Proteínas SUMO humanas ==
+SUMO1
+SUMO2
+SUMO3
+SUMO4
+
+
+== Referências ==
+
+
+== Bibliografia ==
+
+
+== Ligações externas ==
+Sistemas de expressão de proteínas e peptídeos à base de SUMO da LifeSensors
+Proteínas expressas com SUMO [ligação inativa]  
+Visão geral da Boston Biochem dos reagentes SUMO e do ciclo SUMOylation
+Grupo de homologia SUMO1 da HomoloGene
+proteínas SUMO humanas em ExPASy: SUMO1 SUMO2 SUMO3 SUMO4
+Entrada UniProt para rat Sumo1Programas de previsão da sumoilação:
+
+Programa de Análise SUMOplot — prevê e pontua os locais de sumoilação na sua proteína (por Abgent)
+seeSUMO - previsão de sites de sumoilação
+SUMOsp - previsão de sites de sumoilação
+JASSA - Prevê e pontua sites de sumoilação e SIM

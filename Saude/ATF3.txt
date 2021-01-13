@@ -1,0 +1,25 @@
+A Fator de transcrição dependente de AMP cíclico ATF-3 é uma proteína que em humanos é codificada pelo gene ATF3.
+
+
+== Função ==
+O fator de transcrição de ativação 3 é um membro da família de fatores de transcrição da proteína fator de transcrição de ativação dos mamíferos/proteína de ligação ao elemento cAMP (CREB) de resposta ao cAMP. Múltiplas variantes de transcrição que codificam duas isoformas diferentes foram encontradas para esse gene. A isoforma mais longa reprime em vez de ativar a transcrição de promotores com elementos de ligação ao ATF. A isoforma mais curta (deltaZip2) não possui o motivo de dimerização da proteína do zíper de leucina e não se liga ao DNA e estimula a transcrição, presume-se, sequestrando co-fatores inibidores para longe do promotor. É possível que o processamento alternativo do gene ATF3 possa ser fisiologicamente importante na regulação dos genes alvo.
+
+
+== Significado clínico ==
+O ATF-3 é induzido por estresse fisiológico em vários tecidos. É também um marcador de regeneração após lesão de neurônios do gânglio da raiz dorsal, pois os neurônios regeneradores lesionados ativam esse fator de transcrição. Estudos de validação funcional mostraram que o ATF3 pode promover a regeneração de neurônios periféricos, mas não é capaz de promover a regeneração de neurônios do sistema nervoso central.
+
+
+== Interações ==
+Demonstrou-se que o ATF3 interage com:
+
+C-jun,
+DDIT3
+JunD,
+P53, e
+SMAD3.
+
+
+== Leitura adicional ==
+
+
+== Referências ==

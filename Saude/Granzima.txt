@@ -1,0 +1,78 @@
+Granzimas são enzimas que rompem proteínas com serina central, que os linfócitos T citotóxicos(LTC) e células natural killer (CNK) armazenam em grânulos citoplasmáticos, junto com perforinas, e usados para induzir a morte celular programada (apoptose) de uma células-alvo. É usada para eliminar células cancerosas, defeituosas ou infectadas, para matar as bactérias e para inibir a replicação viral.Granzimas fazem parte da família das serina-esterase. Estão intimamente relacionados com outras proteases de serina expressas por células da imunidade inata como a elastase de neutrófilos e a catepsina G. As granzimas A e B causam dano oxidativo letal em bactérias por clivagem de componentes da cadeia de transporte de elétrons. A granzima B ativa caspases, especialmente caspase-3, para clivar substratos e induzir a morte de células invadidas por vírus e também rompe as proteínas virais. Não se conhecem muito bem as funções das granzimas K, H e M, mas se encontram aumentados em infecções virais ativas. Necessitam do auxílio de perforinas para penetrar dentro das células.
+
+
+== História ==
+Em 1985 o grupo de cientistas liderado por Jürg Tschopp publicou um artigo acerca da purificação e caracterização das granzimas (Grs). Na época eles haviam purificado e caracterizado oito membros dessa família de proteínas, investigado seus substratos e determinado parcialmente sua sequência de aminoácidos. Nos anos que se seguiram houve ávidas discussões acerca da denominação dessas proteínas que foram denominadas Grs não oficialmente até o nome granzimas ser proposto e aceito.
+
+
+== Conceito ==
+Granzimas são enzimas que com função de rompimento de proteínas serina central, que os linfócitos T citotóxicos (LTC) células natural killers (CNK) armazenam em grânulos citoplasmáticos, junto com perforinas, e usados para induzir a morte celular programada (apoptose) de uma células-alvo. É usada para eliminar células cancerosas, defeituosas ou infectadas, para matar as bactérias e para inibir a replicação viral.
+As granzimas fazem parte da família das serina-esterase. Estão intimamente relacionados com outras proteases de serina expressas por células da imunidade inata como a elastase de neutrófilos e a catepsina G. As granzimas A e B causam dano oxidativo letal em bactérias por clivagem de componentes da cadeia de transporte de elétrons. A granzima ativa caspases, especialmente caspase-3, para clivar substratos e induzir a morte de células invadidas por vírus e também rompe as proteínas virais. Não se conhecem muito bem as funções das granzimas K, H e M, mas se encontram aumentados em infecções virais ativas. Necessitam do auxílio de perforinas para penetrar dentro das células.
+
+
+== Importância ==
+As granzimas são de fundamental importância na defesa do organismo contra micróbios intracelulares, além de atuarem na destruição de células tumorais ou defeituosas, a partir de células natural killer (NK) e linfócitos T citotóxicos CD8+ (CTLs). Os mecanismos desencadeados por granzimas também estão relacionados à rejeição de órgãos transplantados.
+Os CTL, por exemplo, constituem o principal mecanismo para matar células infectadas por vírus, uma vez que muitos destes parasitas se replicam em células desprovidas da maquinaria fagossomo/lisossomo ou naquelas em que os mecanismos microbicidas não são eficazes, por estarem restritos a vesículas. A morte mediada por CTLs ocorre pela exocitose de grânulos contendo perforinas e granzimas. Ao adentrar o citoplasma da célula-alvo, por intermédio das perforinas, as granzimas clivam substratos, incluindo caspases, e iniciam diversas vias que levam a apoptose. Além disso, os CTL atuam na defesa do organismo contra certas bactérias, como a Mycobacterium tuberculosis, e outros microrganismos, como o protozoário causador da malária, induzindo a morte celular pelos mesmos mecanismos mediados pelas granzimas.
+Contudo, algumas infecções levam os CTL a matarem células infectadas por micróbios não citopáticos, relativamente inofensivos, causando lesão tecidual no hospedeiro. É o caso do que ocorre com o vírus das hepatites B e C.
+
+
+== Atuação na via apoptótica ==
+Sabe-se que, além das duas vias apoptóticas clássicas, intrínseca e extrínseca, existe uma via extrínseca acessória específica para desencadear a apoptose, seria a via perforina/granzimas A e B. Essas granzimas são serina-proteases, enzimas dos linfócitos granulares, que clivam especificamente os seus substratos. 
+As granzimas são expressas por linfócitos T citotóxicos (LTC) ativados e células natural killer (NK), ambas responsáveis por matar células tumorais e infectadas por vírus através da indução de apoptose antes que os vírus tenham chance de replicar-se. As granzimas A e B ligam-se ao seu receptor e estão sujeitas à endocitose, mas permanecem em vesículas até que estas sejam libertadas pela perforina através dos poros formados na membrana da célula-alvo.
+Nesse sentido, a granzima B cliva proteínas à resíduos de aspartato, ativando a procaspase-10 e cliva fatores como o ICAD (Inibidor da DNAse Ativada por Caspase). Então, a caspase-10 é capaz de ativar a caspase-3, iniciando a via de execução da apoptose. Outro mecanismo possível é a ativação direta da caspase-3.
+Já a granzima A ativa uma via independente de caspases: uma vez no interior da célula, a granzima A cliva o complexo SET, que normalmente inibe o gene NM23-H1, um gene supressor de tumor. Na ausência do complexo SET, o NM23-HI deixa de ser inibido, o que resulta em degradação apoptótica do DNA.
+Assim, o sistema perforina/granzimas A e B faz parte do mecanismo de vigilância imunológica, em que as células cancerígenas e as infectadas por vírus são alvos de células LTC e NK antes da infeção generalizada ou progressão do cancro acontecer.
+
+
+== Entrada nas células ==
+Para entrar nas células, as granzimas precisam de outro grupo de proteínas, as perforinas.
+Quando as células T CD8+ encontram sua célula alvo, ele funde sua membrana a ela, liberando grânulos citotóxicos contendo dois grupos de proteínas, as granzimas e perforinas. A perforina será o meio de entrada das granzimas na célula. Ela romperá a membrana, abrindo um poro nesta.
+Essa abertura ocorre de maneira semelhante ao complexo de ataque à membrana, que também forma poros através do rompimento da membrana plasmática.
+A atuação da perforina depende da presença de cálcio para degranular, e sua função lítica consiste na junção de monômeros, para formação de uma molécula polimérica com um poro central.
+
+
+== Tipos ==
+Até os dias de hoje, cinco tipos diferentes de granzimas foram descritas em humanos: as granzimas A, B, H K e M. Em outras espécies, como nos camundongos, podem ser encontrados genes ortólogos de quatro dessas granzimas (A, B, K e M) e a granzima C aparentemente é o ortólogo da granzima H. Outras granzimas são codificadas pelo genoma dos camundongos como a D, E , F e G que são expressas pelos linfócitos citotóxicos.
+
+
+=== Granzima A ===
+A morte celular induzida pela granzima A é majoritariamente caracterizada pela geração de cortes de DNA de cadeia única ao invés de fragmentos de DNA típicos de apoptose induzida por granzima B. Apesar dessas diferenças, as mitocôndrias exercem um papel crítico na morte celular mediada por granzima A. Ela induz a perda do potencial da membrana interna da mitocôndria e a liberação de espécies reativas de oxigênio (ROS). Proteínas pró-apoptóticas (como citocromo c e SMAC/Diablo) não são liberadas já que a membrana externa da mitocôndria permanece íntegra.
+A granzima A também tem como alvo as lâminas nucleares e a histona H1. A clivagem dessas substâncias provavelmente facilitam a ação de Dnases, pois essas proteínas são importantes para estabilizar o envelope nuclear e manter a estrutura da cromatina.
+
+
+=== Granzima B ===
+A Granzima B é a mais estudada e é responsável pela rápida indução de apoptose dependente de caspase. Em parte, a apoptose por granzimas B em humanos é mediada por mitocôndrias. Para induzir mudanças mitocondriais, a granzima B cliva a proteína pró-apoptótica BID. Com a clivagem, BID truncadas translocam para a mitocôndria e juntas com Bax e/ou Bak resulta na liberação de proteínas pró-apoptóticas e na permeabilização da membrana exterior da mitocôndria. A liberação de citocromo c é essencial para a formação do apoptossomo e ativação da caspase-9 que promove a clivagem de caspases efetoras. A granzima B também pode induzir a liberação do citocromo c pela clivagem e inativação do membro anti-apoptótico Mcl-1 da família Bcl-2.
+A granzima B também é capaz de processar diversas caspases (como, por exemplo, a caspase 3, efetora, e a caspase 8, iniciadora) e diversos substratos de caspases . Embora grande parte das pesquisas foquem nas vias relacionadas a caspases, a granzima B, além disso, induz eventos independentes delas.
+
+
+=== Granzimas C/H e K ===
+A granzima C/H e a granzima K são chamadas de granzimas órfãs, pois seus substratos não foram identificados. A morte celular induzida por granzima C é independente da ativação de caspase e a principal característica dessa via é um rápido inchaço e perda do potencial de membrana mitocondrial. A granzima C também induz a formação de cortes, quebras de DNA em cadeia única (DNA single-stranded nicks) por uma Dnase que ainda não foi identificada.
+A granzima K também induz morte celular independente de caspase. Experimentos feitos com granzimas K recombinantes mostraram a produção de espécies reativas de oxigênio o que indica uma possibilidade de que o mecanismo de ação é semelhante ao da granzima A.
+
+
+=== Granzima M ===
+A morte celular induzida por granzimas M ocorrem rapidamente de forma independente de caspases e de mitocôndria. Células que são tratadas com granzimas M demonstram grandes vacúolos citoplasmáticos, que podem ser indicativos de autofagia, e mostram rápida permeabilização da membrana plasmática. Essa via, contudo, foi contestada recentemente após a identificação de ICAD e PARP como possíveis substratos para a granzima M e sinais claros de apoptose quando a granzima M foi transferida para células alvo. Além disso, sugeriu-se que ela regula a atividade da granzima B por meio da clivagem do inibidor PI-9.
+
+
+== Estudos atuais ==
+Nos últimos anos as inúmeras descobertas de granzimas em células não citotóxicas derrubaram as teorias de exclusividade dessas proteínas. Juntamente a isso estudos relacionados a funções paralelas das granzimas aumentaram. Tais pesquisas revelaram que as granzimas não só podem possuir funções independentes das perforinas podendo ser expressas em células que não expressam as últimas. Algumas funções apresentadas por essas células em células T são a potencialização da migração dos linfócitos pela proteolização de proteínas extracelulares ou receptores de membrana.
+
+
+== Referências ==
+
+5. Ewen C.L., Kane K.P. and Bleackley R.C. (2012). A quarter century of Granzymes. Cell death & differentiation. 19(1): 28–35.
+6. Bots M., Medema J.P. (2006). "Granzymes at a glance". Journal of Cell Science 119 (Pt 24): 5011–4.
+7. Thomas MP, Whangbo J, McCrossan G, et al. (2014). "Leukocyte protease binding to nucleic acids promotes nuclear localization and cleavage of nucleic acid binding proteins". Journal of Immunology 192 (11): 5390–7. 4. http://www.miniweb.com.br/ciencias/artigos/Apoptose2.html
+8. ABBAS, Abul K.; LICHTMAN, Andrew H.; PILLAI, Shiv. Imunologia Celular e Molecular . 8. ed. Rio de Janeiro: Elsevier Brasil, 2015. 235-238.
+9. http://anatpat.unicamp.br/textolinfomasT.html
+10. JOBIM, Mariana; JOBIM, Luiz F. J. (2008). Células natural killer e vigilância imunológica. FapUNIFESP 58-67.
+11. CHAVES, A.T.. (2009). Avaliação do papel da apoptose nas diferentes formas clínicas da doença de Chagas. 5: 116
+12. VAZ, A. J.; TAKEI, K.; BUENO, E. C.; Imunoensaios: Fundamentos e aplicações. RJ: Guanabara Koogan, 2007.
+13. SILVA, A.P.S.. (2014). Importância da apoptose nas neoplasias hematopoiéticas. Metodologias usadas e novos fármacos. 1.2.3.: 20
+https://www.biomedicinapadrao.com.br/2013/05/como-os-linfocitos-t-cd8-matam-as.html
+14. SMYTH Mark J.,TRAPANI Joseph A. (1995). Granzymes: exogenous porteinases that induce target cell apoptosis. Elsevier. 16: 202-206  http://repositorio.unicamp.br/bitstream/REPOSIP/316867/1/Copi_Cecilia_M.pd
+15. Adrain, C., Murphy, B. M. and Martin, S. J. (2005). Molecular ordering of the caspase activation cascade initiated by the cytotoxic T lymphocyte/natural killer (CTL/NK) protease granzyme B. J. Biol. Chem. 280, 4663-4673.
+16. Martinvalet, D., Zhu, P. and Lieberman, J. (2005). Granzyme A induces caspase-independent mitochondrial damage, a required first step for apoptosis. Immunity. 22, 355-370.
+17. Johnson, H., Scorrano, L., Korsmeyer, S. J. and Ley, T. J. (2003). Cell death induced by granzyme C. Blood 101, 3093-3101.
+18. >http://jcs.biologists.org/content/119/24/5011
+19. Chowdhury D. and Lieberman J. (2008). Death by a thousand cuts: Granzyme pathways of programmed cell death. Annual review of immunology. 26:389-420Predefinição:PMID 25334567

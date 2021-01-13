@@ -1,0 +1,52 @@
+Lentes oftálmicas são lentes destinadas a compensar alguns problemas de visão denominados erros de refração (ou vícios de refração - miopia, hipermetropia, presbiopia ou astigmatismo). Elas diferem das lentes utilizadas em instrumentos ópticos porque são lentes projetadas para produzir uma interação com o olho humano, corrigindo assim o problema de visão. Podem ser produzidas com materiais minerais, como o vidro, ou orgânicos, como policarbonatos.  
+
+
+== Funcionamento da visão ==
+Para o melhor entendimento do funcionamento das lentes oftálmicas, é interessante um resumo sobre a formação da imagem nos olhos humanos. Os raios de luz refratam através da córnea para o interior do olho, onde são novamente refratados pelo cristalino - que tem a sua distância focal variada por músculos que o controlam, de forma a capacitar o olho para ver tanto objetos distantes quanto próximos - até atingirem a retina, o anteparo onde a imagem se forma.
+
+
+== Doenças mais comuns e suas lentes ==
+A miopia mais comum, a axial, é causada por um alongamento do eixo antero-posterior do olho, afastando a retina do ponto de formação da imagem e incapacitando a pessoa de ver com nitidez objetos distantes. Essa deficiência pode ser corrigida através do uso de lentes divergentes, que separam os raios de luz que estão chegando, fazendo com que a imagem se forme na retina e recuperando o foco dos objetos.Em oposição à miopia, a hipermetropia mais comum, também axial, é caracterizada por um encurtamento do eixo antero-posterior do olho, gerando uma formação de imagem posterior à retina. Dessa forma, a correção da hipermetropia também acontece de forma antagônica à da miopia, através do uso de lentes convergentes, que aproximam os raios de luz no seu caminho até a retina, fazendo com que a imagem, da maneira certa, se forme sobre ela e, assim, a pessoa recupere a capacidade de observar com nitidez objetos que estão a curtas distâncias.Outro problema de visão muito comum é o astigmatismo, causado pela assimetria do cristalino ou da córnea ou de ambos, que leva a uma deformação da imagem, transformando, na visão do portador da deficiência, um ponto em um pequeno segmento de reta; por esse motivo um astigmata é incapaz de focalizar simultaneamente tudo o que vê dentro de um único plano. Para melhorar essa condição, é comum o uso de uma lente cilíndrica plana convergente e divergente, respectivamente.
+
+
+== Tipos de lentes ==
+Existem duas classes de lentes oftálmicas: as lentes para óculos, chamadas simplesmente de lentes oftálmicas e as lentes de contato que são aplicadas diretamente sobre a córnea do paciente para corrigir sua visão. O popular grau da lente é, na verdade, o poder de refração do objeto corretor; esse número é dado pela formula 
+  
+    
+      
+        D
+        =
+        1
+        
+          /
+        
+        f
+      
+    
+    {\displaystyle D=1/f}
+  , que mostra que o poder de refração, medido em dioptrias (
+  
+    
+      
+        
+          m
+          
+            −
+            1
+          
+        
+      
+    
+    {\displaystyle m^{-1}}
+  ), é dado pelo inverso da distância focal, dada em metros. Logo, por exemplo, se uma lente tem seu foco em 50 cm, ela tem 2 graus, ou 2 dioptrias, de poder de refração.As lentes que corrigem miopia e hipermetropia são chamadas também de monofocais, pois direcionam a luz para apenas um foco. 
+Já lentes bifocais são lentes oftálmicas formadas por duas partes, uma para ver de perto e outra lente para ver de longe. Estas lentes são comumente usadas por pacientes que sofrem de presbiopia, também conhecida como vista cansada. Elas são de difícil adaptação, pois existe um corte abrupto entre as distâncias, o que faz com que os usuários tenham dificuldade em focar e enxergar distâncias médias, além de prejudicar a estética, por isso, estão cada vez mais sendo substituídas pelas lentes multifocais.Também conhecidas como progressivas, as lentes multifocais têm três distâncias: próxima, intermediária e distante, o que fornece um campo visual mais confortável para o paciente, que não precisa inclinar a cabeça para enxergar.
+No entanto, os pacientes podem ter dificuldades no início do uso ou após a troca de lentes, pois as lentes multifocais dependem de um equilíbrio muito delicado entre as medidas anatômicas dos pacientes, as dioptrias recomendadas pelos médicos e as armações. Caso a lente não esteja perfeitamente ajustada a cada um desses fatores, podem surgir problemas como perda de equilíbrio e dores de cabeça. 
+A melhor maneira de corrigir esses sintomas é personalizando as lentes ao máximo. Por isso, fabricantes como a ZEISS desenvolveram tecnologias que fazem com que as lentes se adequem perfeitamente ao paciente, facilitando a adaptação. 
+
+
+== Complementos ==
+Sejam multifocais ou monofocais, as lentes podem receber mais revestimentos que beneficiem a visão para além da correção das dioptrias, como tratamentos antirreflexo e filtros polarizantes. 
+Alguns tratamentos também podem facilitar a manutenção das lentes, como o Clean Coat, da ZEISS, que evita o acúmulo de água e marcas de gordura e sujeira, que pode arranhar as lentes. Já as lentes de contato devem ser lavadas com líquido estéril específico e mantidas em recipientes próprios, dentro do líquido, para que não ressequem.  Também é importante lavar bem as mãos antes de manuseá-las.  
+
+
+== Referências ==

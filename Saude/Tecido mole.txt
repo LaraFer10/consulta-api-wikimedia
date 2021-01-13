@@ -1,0 +1,263 @@
+O termo tecido mole se refere à classe de tecidos animais com matriz extracelular rica em fibras de colágeno e elastina. Os tecidos moles possuem propriedades estruturais, pois transmitem forças e realizam grandes deformações. Normalmente fazem parte dos tecidos moles os tecidos conjuntivo, epitelial e muscular. O osso é um tecido conjuntivo mineralizado (portanto duro) e não pertence à classe dos tecidos moles.
+Algumas vezes, o tecido mole é definido pelo que não é. Por exemplo, o tecido mole pode ser definido como "não-epitelial, mesênquima extraesquelético exclusivo do sistema reticuloendotelial e glia". 
+
+
+== Composição ==
+As substâncias presentes na matrix extracelular que dão as principais características aos tecidos moles são o colágeno, a elastina e a substância fundamental. Normalmente os tecidos moles são bastante hidratados por causa da substância fundamental. Os fibroblastos são as células que mais produzem as substâncias de propriedades mecânicas da matrix extracelular. Variações dos fibroblastos, como os condroblastos, também produzem matriz extracelular de tecido mole.
+A pequenas deformações a elastina confere rigidez ao tecido e armazena a maior parte da energia de deformação. As fibras colágenas são comparativamente inextensíveis e ficam normalmente frouxas. Com o aumento da deformação do tecido o colágeno é esticado gradativamente na direção da deformação. Quando esticadas, essas fibras geram um aumento acentuado da rigidez do tecido. Esse compósito tem comportamento análogo ao do tecido de uma meia de nylon, onde a elastina faz o papel do elástico e o colágeno do nylon. Nos tecidos moles o colágeno limita a deformação e protege os tecidos contra lesões.
+
+
+== Características mecânicas ==
+
+Tecidos moles possuem a capacidade de realizar grandes deformações e voltar para a configuração inicial ao ser descarregado, relação tensão–deformação não-linear, relaxação, fluência, histerese, viscoelasticidade, incompressibilidade e anisotropia. Os tecidos moles também são considerados inelásticos, porque materiais elásticos possuem uma única relação entre tensão e deformação, o que exclui dessa classificação os materiais que possuem relaxação e fluência.
+
+
+=== Pseudoelasticidade ===
+Apesar dos tecidos moles possuírem características viscoelásticas ainda é possível utilizar a teoria da hiperelasticidade para descrever, de forma aproximada, o comportamento de muitos tecidos. Isso é possível porque após um certo número (>3) de ciclos iguais de deformação surge repetibilidade no ensaio de tração. Os tecidos assim precondicionados apresentam um estado de homeostase, no qual são observadas uma única resposta de tensão–deformação no carregamento e outra única no descarregamento, ambas relativamente insensíveis à taxa de deformação:
+
+  
+    
+      
+        
+          S
+        
+        =
+        
+          S
+        
+        (
+        
+          E
+        
+        ,
+        
+          
+            
+              
+                E
+              
+              ˙
+            
+          
+        
+        )
+        
+        →
+        
+        
+          S
+        
+        =
+        
+          S
+        
+        (
+        
+          E
+        
+        )
+      
+    
+    {\displaystyle \mathbf {S} =\mathbf {S} (\mathbf {E} ,{\dot {\mathbf {E} }})\quad \rightarrow \quad \mathbf {S} =\mathbf {S} (\mathbf {E} )}
+  Assim, é possível considerar o tecido biológico precondicionado como tendo dois comportamentos hiperelásticos, um no carregamento e outro no descarregamento, cada qual descrito por uma função energia de deformação por unidade de volume 
+  
+    
+      
+        w
+        (
+        
+          E
+        
+        )
+      
+    
+    {\displaystyle w(\mathbf {E} )}
+   com constantes de material determinados separadamente (ver Figura 1). Desta forma, a teoria hiperelástica é tomada emprestada para tratar um material inelástico. Para evidenciar que o material não é realmente hiperelástico, Fung chama esses tecidos de Grandes deformações e comportamento mecânico não-linear podem ser pseudoelásticos.
+Pseudoelasticidade não é, portanto, uma propriedade intrínseca do material. Ela é uma descrição conveniente da relação entre tensão e deformação num ciclo de carregamento específico. Pelo seu emprego, as muitas propriedades complexas dos tecidos são descritas de uma forma bem mais simples.
+
+
+=== Tensão residual ===
+Os tecidos moles em estado fisiológico (intactos) apresentam tensão residual (estão pretensionados), que distorcem o tecido quando ele é dissecado. Fisiologistas e histologistas precisam estar cientes deste artefato quando analisam tecidos moles dissecados.
+
+
+=== Material Fung-elástico ===
+Fung desenvolveu uma equação constitutiva para tecidos moles precondicionados
+
+  
+    
+      
+        ψ
+        =
+        
+          
+            1
+            2
+          
+        
+        
+          [
+          
+            q
+            +
+            c
+            
+              (
+              
+                
+                  e
+                  
+                    Q
+                  
+                
+                −
+                1
+              
+              )
+            
+          
+          ]
+        
+      
+    
+    {\displaystyle \psi ={\frac {1}{2}}\left[q+c\left(e^{Q}-1\right)\right]}
+  com
+
+  
+    
+      
+        q
+        =
+        
+          a
+          
+            i
+            j
+            k
+            l
+          
+        
+        
+          E
+          
+            i
+            j
+          
+        
+        
+          E
+          
+            k
+            l
+          
+        
+        
+        Q
+        =
+        
+          b
+          
+            i
+            j
+            k
+            l
+          
+        
+        
+          E
+          
+            i
+            j
+          
+        
+        
+          E
+          
+            k
+            l
+          
+        
+      
+    
+    {\displaystyle q=a_{ijkl}E_{ij}E_{kl}\qquad Q=b_{ijkl}E_{ij}E_{kl}}
+  sendo contrações quadraticas do tensor das tensões de Green-Lagrange 
+  
+    
+      
+        
+          E
+          
+            i
+            j
+          
+        
+      
+    
+    {\displaystyle E_{ij}}
+   e 
+  
+    
+      
+        
+          a
+          
+            i
+            j
+            k
+            l
+          
+        
+      
+    
+    {\displaystyle a_{ijkl}}
+  , 
+  
+    
+      
+        
+          b
+          
+            i
+            j
+            k
+            l
+          
+        
+      
+    
+    {\displaystyle b_{ijkl}}
+   e 
+  
+    
+      
+        c
+      
+    
+    {\displaystyle c}
+   sendo constantes do material.
+  
+    
+      
+        ψ
+      
+    
+    {\displaystyle \psi }
+   é a energia livre de Helmholz, que é a energia disponível para realizar deformação mecânica, para uma dada temperatura.
+
+
+=== Remodelagem e crescimento ===
+Os tecidos moles têm a capacidade de crescer e se remodelar em resposta a doenças, lesões e a mudanças nas condições de carregamento. Um exemplo desse fenômeno é a formação de calos e engrossamento das mãos de um agricultor. Os fibroblastos produzem e secretam tropocolágeno em resposta a estímulos externos. O colágeno, por sua vez é montado na matriz extracelular próxima a esses fibroblastos estimulados. Por outro lado, um tecido mole pouco estimulado, seja mecanicamente ou quimicamente, sofre regressão. Essa remodelagem, ou crescimento cinemático, dos tecidos é bastante conhecida em ossos, conhecida como lei de Wollf, onde a relação entre tensão e produção de colágeno é a mesma.
+
+
+=== Preservação ===
+Na paleontologia, foram encontrados tecidos moles fossilizados em diferentes períodos da história da Terra. desde esponjas do pré-Cambriano  até vertebrados, mostrando que há um grande potencial de preservação. Um bom resumo dos processos de preservação e com variados exemplos deste tipo de fossilização podem ser encontrados na literatura e artigos de revisão. Porém novos estudos apontam incapacidade de preservação por longos períodos. 
+
+
+== Referências ==
+
+
+== Ver também ==
+Biomaterial
+Biomecânica
+Reologia
+Doenças causadas por calcificação em tecido mole
+Sarcoma de tecido mole

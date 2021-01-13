@@ -1,0 +1,122 @@
+Esta é uma lista de antidepressivos sob investigação, ou seja, antidepressivos que atualmente estão em desenvolvimento para uso terapêutico no tratamento de transtornos psiquiátricos, mas que ainda não foram aprovados. Os nomes químicos/genéricos são listados primeiro, com nomes de código de desenvolvimento, sinônimos e nomes comerciais entre parênteses. Todos os medicamentos listados estão em desenvolvimento especificamente para o transtorno depressivo maior (TDM) ou depressão resistente ao tratamento, exceto onde indicado. 
+
+
+== Glutamatérgicos ==
+
+
+=== Moduladores do receptor NMDA ===
+4-Clorocinurenina (AV-101) – Antagonista do local da glicina do receptor NMDA
+AGN-241751 - modulador do receptor NMDA
+Apimostinel (NRX-1074) – agonista parcial do sítio da glicina do receptor NMDA
+Arcetamina (PCN-101, HR-071603) – mecanismo de ação desconhecido, ativador indireto do receptor AMPA
+Dextrometadona (REL-1017) – antagonista e bloqueador dos canais abertos do receptor NMDA
+EVT-101 (ENS-101) – antagonista do subreceptor NR2B
+Cetamina (Ketalar, Cetamin) – antagonista não competitivo do receptor NMDA 
+Rislenemdaz (CERC-301, MK-0657) – antagonista da subunidade 2B do receptor NMDA (NR2B) 
+
+
+=== Outros ===
+Basinglurante (RG-7090) – modulador alostérico negativo do receptor mGluR5
+
+
+== Monoaminérgicos ==
+
+
+=== Inibidores da recaptação da monoamina ===
+AN-788 (NSD-788) – inibidor da recaptação da serotonina-dopamina (SDRI) 
+Ansofaxina (LY03005, LPM570065) – inibidor da recaptação da serotonina-norepinefrina-dopamina (SNDRI)
+PDC-1421 (BLI-1005) - inibidor de recaptação de norepinefrina (NRI) 
+
+
+==== Inibidores e moduladores da recaptação da monoamina ====
+MIN-117 (WF-516) – IRSD, antagonista dos receptores 5-HT1A, 5-HT 2A, adrenérgico α1A, e ligante do receptor adrenérgico α1B
+TGBA01AD (FKB01MD) - inibidor da recaptação da serotonina (IRS), agonista do receptor 5-HT1A e 5-HT1D e antagonista do receptor 5-HT2
+
+
+=== Moduladores de receptor da monoamina ===
+Gepirona (TGFK07AD; Travivo) – agonista parcial do receptor 5-HT1A
+Pimavanserina (Nuplazid; ACP-103; BVF-048) – antagonista do receptor 5-HT2A
+Psilocibina – agonista parcial do receptor 5-HT2A
+
+
+=== Antipsicóticos atípicos ===
+Brilaroxazina (RP-5063, RP-5000) – AA – especificamente em desenvolvimento para o tratamento de TDM e episódios depressivos no transtorno bipolar
+Lumateperona (ITI-007) – AA – em desenvolvimento especificamente para o tratamento de episódios depressivos no transtorno bipolar
+
+
+=== Outros ===
+Ademetionina (SAMe; MSI-190, MSI-195, Strada) – cofator na biossíntese do neurotransmissor monoamina – em desenvolvimento nos Estados Unidos e na Europa para o tratamento adjuvante do TDM
+
+
+== Neuroesteróides ==
+
+
+=== Moduladores positivos do receptor GABAA ===
+Ganaxolona (CCD-1042) – modulador alostérico positivo do receptor GABAA –em desenvolvimento especificadamente para o tratamento da depressão pós-parto
+Zuranolona (SAGE-217) – modulador alostérico positivo do receptor GABAA –em desenvolvimento para o tratamento da TDM e depressão pós-parto
+
+
+=== Outros ===
+3β-Metoxipregnenolona (MAP-4343) – estimulante seletivo da proteína 2 associada a microtúbulos (MAP2)
+PH-10 – (vomeroferina) – mecanismo de ação desconhecido/não divulgado)
+
+
+== Opioidérgicos ==
+
+
+=== Antagonistas do receptor κ-opioide ===
+Aticaprant (JNJ-67953964, CERC-501, LY-2456302) – antagonista do receptor κ-opioide
+BTRX-335140 (BTRX-140) – antagonista seletivo do receptor κ-opioide
+Buprenorfina/samidorfano (ALKS-5461) – antagonista do receptor κ-opioide
+
+
+=== Outros ===
+BTRX-246040 (LY-2940094) – antagonista do receptor de nociceptina
+
+
+== Outros ==
+Hidroxinorcetamina ((2R,6R)-HNK) – metabólito da cetamina que pode estar envolvido nos efeitos de antidepressivos desta em camundongos
+JNJ-39393406 - modulador alostérico positivo para o receptor nicotínico de acetilcolina α7
+JNJ-54175446 – antagonista do purinoceptor P2RX7
+JNJ-61393215 – (JNJ-3215, JNJ-61393215; Orexin-1) antagonistas do receptor de orexina (tipo 1)
+NNI-351 – inibidor do DYRK1A e estimulante do fator de crescimento nervoso
+NSI-189 – agente neurotrófico hipocampal (mecanismo de ação desconhecido)
+NV-5138 – modulador da proteína sestrin2 e ativador do complexo 1 de rapamicina (mTORC1)
+Onabotulinumtoxina (toxina botulínica A, Botox) – inibidor da liberação de acetilcolina – em desenvolvimento para o tratamento de TDM em mulheres
+Pramipexol (CTC-501, CTC-413) – Agonistas dos receptores da dopamina D2 e D3.
+Seltorexant (MIN-202, JNJ-42847922, JNJ-922) – Antagonista do receptor OX2
+Sirukumab (CNTO-136) – anticorpo monoclonal contra a interleucina-6
+SUVN-911 – antagonista do receptor nicotínico da acetilcolina α4 e β2 ou modulador alostérico negativo
+TS-121 – antagonista do receptor 1B de vasopressina
+
+
+== Diversos ==
+Tramadol (ETS6103; Viotra) – agonista do receptor μ-opioide, inibidor da recaptação da serotonina-noradrelina (ISRSN), possível agente de liberação de serotonina (SRA), antagonista do receptor 5-HT2C e outras ações
+
+
+=== Combinações ===
+Bupropiona/dextrometorfano (AXS-05) – agonista do receptor σ1, ISRSN, antagonista do receptor nicotínico não competitivo de acetilcolina, antagonista não competitivo do receptor NMDA e outras ações
+Cicloserina/lurasidona (NRX-101; Cyclurad) – agonista parcial do local da glicina do receptor NMDA e combinação de AA – em desenvolvimento para o tratamento de episódios depressivos no transtorno bipolar
+Dextrometorfano/quinidina (AVP-786 / AVP-923) – agonista do receptor σ1, SNRI, antagonista não competitivo do receptor NMDA e outras ações
+
+
+== Fármacos que não estão em desenvolvimento ==
+Atualmente, os seguintes medicamentos são de interesse investigacional como potenciais antidepressivos, mas não estão formalmente em desenvolvimento clínico: 
+
+7,8-Diidroxiflavona (7,8-DHF) – Agonista do receptor TrkB
+Minociclina – inibidor da microglia e outras ações; uma revisão sistemática e metanálise de 2018 relatou que o efeito antidepressivo geral da minociclina em comparação com o placebo foi de -0,78 (IC de 95% : -0,4 a -1,33; P = 0,005), o que indica um efeito antidepressivo estatisticamente significativo
+Óxido nitroso – antagonista do receptor NMDA e outras ações   
+Pramipexol – agonista parcial ou total dos receptores D2, D3 e D4 
+R13 – um pró-fármaco de 7,8-DHF com farmacocinética melhorada
+Dietilamida de ácido lisérgico – LSD
+
+
+== Ver também ==
+Lista de antidepressivos
+Lista de benzodiazepinas
+Lista de medicamentos psiquiátricos de acordo com sua indicação
+Lista de substâncias e medicamentos sujeitos a controle especial no Brasil
+Lista de fármacos
+
+
+== Referências ==

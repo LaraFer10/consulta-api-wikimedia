@@ -1,0 +1,26 @@
+A valina (VAL ou V ) é um α-aminoácido de cadeia ramificada usado para a biossíntese de proteínas . Contém um grupamento α-amino e um grupamento ácido α-carboxílico, os quais em pH fisiológico se encontram ionizados, respectivamente, nas formas de NH3+ e COO-, o que lhe confere propriedades anfotéricas, podendo então atuar tanto como um ácido, bem como uma base. Contém ainda uma cadeia lateral hidrocarbonada alifática formada por um grupamento isopropil, caracterizando este aminoácido como apolar. É codificada através de códons iniciados por GU, ou seja, GUA, GUC, GUG e GUU. A fórmula estrutural da valina está demostrada abaixo.
+
+
+== Metabolismo ==
+
+
+=== Biossíntese e síntese ===
+Faz parte dos aminoácidos ditos essenciais, não sintetizados por humanos, sendo adquirido através da reposição por dieta, por ser comumente produzida por plantas e microrganismos a partir do ácido pirúvico, fruto da degradação de carboidratos. 
+A valina racêmica de origem química, pode ser sintetizada por bromação do ácido isovalérico seguido por aminação do derivado α-bromo. 
+HO2CCH2CH(CH3)2 + Br2 → HO2CCHBrCH(CH3)2 + HBr 
+HO2CCHBrCH(CH3)2 + 2 NH3 → HO2CCH(NH2)CH(CH3)2 + NH4Br
+
+
+=== Degradação ===
+Como os demais aminoácidos de cadeia ramificada, a degradação da valina tem seu início com uma etapa de transaminação para a remoção do grupamento α-amino, gerando o α-cetoisovalerato, que por sua vez será convertido em isobutiril-CoA. Este, em seguida irá ser oxidado e rearranjado em succinil-CoA, que poderá participar do ciclo do ácido cítrico.
+
+
+== Histórico ==
+A valina foi primeiramente isolada a partir da caseína pelo químico alemão, Hermann Emil Fisher (1852-1919), em 1901. 
+
+
+== Importância médica ==
+A valina, juntamente com a leucina e a Isoleucina, são conhecidas como BCAA (do Inglês: Branched-Chain Amino Acids) e apresentam importantes papéis na fisiologia. Ela apresenta atividade de caráter estimulante. Promove o crescimento muscular e o reparo tecidual, além de ser um precursor na via biosintética da penicilina. A deficiência de valina é marcada por danos neurológicos no cérebro. Há também casos de doenças associadas a valina, como na doença falciforme, onde a valina substitui o aminoácido hidrofílico do ácido glutâmico na hemoglobina. Então, como a valina é hidrofóbica, a hemoglobina não dobra corretamente.
+
+
+== Referências ==

@@ -1,0 +1,8 @@
+STAT3 é uma proteína pertencente a família das STATs (do inglês: signal transducers and activators of transcription), que são fatores de transcrição ativados por tirosinas quinases em resposta a diversas citocinas e receptores de fatores de crescimento. A STAT3 controla processos celulares como a proliferação e a sobrevivência.
+
+
+== STAT3 e câncer ==
+Já foi descrita em gliomas e em diversos tipos de tumores humanos, a ativação constante do fator de transcrição STAT3. No processo de tumorigênese atua como oncogene em uma grande variedade de tumores fora do sistema nervoso e, em alguns tumores, está associada a células malignas. Porém, pesquisas recentes mostram que, em glioblastomas, a STAT3 pode exercer uma função supressora tumoral dependendo da genética do tumor. Por exemplo, em tumores com deficiência de PTEN a STAT3 tem função supressora tumoral, no entanto essa função não ocorre se há a presença de EGFRvIII, nesse caso a STAT3 forma um complexo com essa proteína oncogenica atuando no núcleo levando a transformação do astrócito em malignode. A capacidade da STAT3 inibir a proliferação e invasão celular em certos tipos de gliomas está associada a sua capacidade de inibir a expressão do gene produtor da IL8, possivelmente pela inibição do NF-κB.
+
+
+== Referências ==

@@ -1,0 +1,40 @@
+Em suma, o tempo de sangramento ou tempo de sangria (TS), baseia-se em um parâmetro utilizado para análises laboratoriais da hemostasia e funcionalidade do sistema de coagulação sanguínea em hematologia clínica. Corresponde à duração de uma pequena hemorragia quando uma incisão de dimensões padronizadas é praticada na pele artificialmente. O teste fornece dados relativos a função e números de plaquetas. bem como da resposta da parede capilar à lesão. Tempo de sangramento aumentado sugere a complementação do estudo pela contagem das plaquetas e outros parâmetros utilizados no coagulograma. 
+Logo, avalia de modo geral a funcionalidade da hemostasia, que baseia-se em mecanismos que o organismo dispõe para manter o sangue fluido no interior dos vasos, impedindo por um lado as tromboses, e por outro evitando as hemorragias. No equilíbrio entre a hemorragia e a hemostasia, colaboram os fatores vasculares, o fator plaquetário, os fatores plasmáticos da coagulação, a fibrinólise e os inibidores de anticoagulantes naturais.
+Tal teste é amplamente solicitado em situações pré- e pós-operatórias, afim de avaliar a possibilidade de possíveis complicações cirúrgicas e de recuperação advindas de desequilíbrios hemostáticos e coagulopatias.  Sua reprodução ao longo do tempo sofreu alterações, surgindo diferentes métodos descritos na literatura, os quais os mais difundidos na prática clínica são os métodos de Duke e Ivy. O método de Duke foi o primeiro a ser desenvolvido, entretanto a dificuldade de padronização e obtenção de resultados reprodutíveis levaram ao questionamento e à sua substituição pelo método de Ivy, e este foi posteriormente modificado para o uso de dispositivos para uma incisão padronizada (Método de Mielke ou Template).
+
+
+== Método de Duke ==
+Passo 1 - Fazer a assepsia da região em que será realizada a técnica (lóbulo auricular ou polpa digital) com álcool 70ºGL. Deixar secar e esperar que a região retorne à sua temperatura normal.
+Passo 2 - Com lanceta ou estilete descartável, puncionar realizando uma incisão de três milímetros de profundidade, permitindo que o sangue escoe livremente, ativando o cronômetro imediatamente e conte 1 minuto.
+Passo 3 - Absorver a gota de sangue com papel filtro de 30 em 30 segundos sem esfregar a incisão, utilizando em cada vez uma porção limpa do papel.
+Passo 4 - Parar o cronômetro assim que o sangue não manchar o papel filtro, correspondendo ao valor de TS; Podendo também ser contabilizado 30 segundos para cada mancha de sangue no papel.
+
+
+== Método de Ivy (Mielke/Template) ==
+Passo 1 - Acoplar a lanceta ou lâmina nova ao molde (template);
+Passo 2 - Posicionar um esfigmomanômetro no braço do paciente no qual nenhuma veia tenha sido puncionada;
+Passo 3 - Selecionar a área teste na região da face anterior do antebraço , 5 a 10 cm abaixo do sulco do cotovelo, em local que não haja lesões, pelos e veias superficiais;
+Passo 4 - Fazer assepsia com álcool 70ºGL e deixar secar;
+Passo 5 - Inflar o esfigmomanômetro em 40 mmHg e manter tal pressão durante todo o procedimento;
+Passo 6 - Em uma rápida sucessão, realizar uma incisão em ângulo reto com o eixo longitudinal do antebraço (para minimizar o tamanho da cicatriz) e acionar o cronômetro;
+Passo 7 - Absorver o sangue vertido da incisão a cada 30 segundos, com papel filtro, porém sem esfregar o corte;
+Passo 8 - Parar o cronômetro no momento em que o papel filtro não estiver mais sendo manchado pelo corte.;
+Passo 9 - Cessar a pressão do esfigmomanômetro e retira-lo;
+Passo 10 - Contabilizar o numero de manchas de sangue no papel filtro e multiplicar por 30, o valor obtido corresponde ao valor de TS em segundos;
+
+
+== Significado Clínico ==
+Um aumento do TS pode representar uma trombocitopenia de moderada a severa, uma função plaquetária anormal ou ambas. Doença de Von Willebrand. Fragilidade capilar. Púrpura de Henoch-Schönlein. S. de Bernard-Soulier. Tromboastenia de Glanzmann. Fibrinogenopatias. Insuficiência renal. Presença de PDF (Produtos de Degradação do Fibrinogênio). Paraproteinemia.
+
+
+== Valores de referência ==
+De 2 a 8 minutos (Teste de Ivy) - obs: os padrões de referência deste teste variam de laboratório para laboratório;
+1 a 3 minutos (Teste de Duke);
+
+
+== Referências ==
+Hemograma: Manual de Interpretação - Renato Faillace
+Manual Prático de Hematologia- Wanessa Lordêlo P. Vivas
+BERNARD, J.J.Manual de Hematologia.São Paulo: 3 ed. Masson do Brasil,1986
+REZENDE, S. M. Distúrbios da hemostasia: doenças hemorrágicas. Rev Med Minas Gerais; 20(4): 534-553; 2010.
+VANTI, L. A. et. al. Estudo Comparativo do Tempo de Sangramento Avaliado pelo Método Convencional de Ivy e do Tempo de Sangramento da Mucosa Bucal. Rev. Port. de Estomatologia, Med. Dent. e Cirurgia Maxilofacial, Volume 48, N°2, 2007.

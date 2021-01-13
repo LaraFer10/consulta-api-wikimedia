@@ -1,0 +1,45 @@
+Um receptor colinérgico (AchR) é uma proteína integral de membrana que gera uma resposta a partir de uma mólecula de acetilcolina. Encontra-se principalmente nas terminações neuromusculares e tanto no sistema nervoso central, como no periférico.
+
+
+== Características ==
+O receptor de acetilcolina é uma proteína composta por cinco subunidades: duas subunidades α, uma β, γ e δ (alfa, beta, gama e delta, respectivamente).
+
+
+== Classificação ==
+Como outros receptores transmembranares, o receptor da acetilcolina se classifica de acordo com sua farmacologia, ou seja, de acordo com as afinidades relativas e a sensibilidade que se tem por diferentes moléculas. Ainda que todos os receptores de acetilcolina, por definição, respondem a acetilcolina, outros ligantes podem se unir a eles.
+Os receptores colinérgicos são classificados em:
+
+Receptor nicotínico (nAChR, um receptor ionotrópico de acetilcolina), que possui afinidade com a nicotina, daí o seu nome.
+Receptor muscarínico (mAchR, receptor metabotrópico de acetilcolina) que possui afinidade com a muscarina.
+
+
+== Funções ==
+Nos neurônios pós-ganglionares do sistema nervoso parassimpático, o neurotransmissor principal é a acetilcolina. De forma análoga ao sistema nervoso simpático, no sistema parassimpático também ocorrem algumas diferenciações nos receptores das células alvo. Primariamente eles são divididos em dois grandes grupos: os receptores muscarínicos e os receptores nicotínicos. Esses nomes se devem ao fato de a muscarina, substância proveniente de uma cogumelo alucinógeno (Amanita muscaria), ativa somente os receptores muscarínicos. A nicotina, presente no tabaco por exemplo, ativa somente os receptores nicotínicos. A acetilcolina ativa os dois.
+
+
+=== Receptores nicotínicos ===
+
+Os receptores nicotínicos são canais iônicos dependentes de ligantes que, igual aos outros membros do grupo dos canais iônicos, é composto por cinco subunidades protéicas dispostas simetricamente como as pautas em torno de um barril. Cada subunidade contém quatro regiões que abrangem a membrana e são constituídos por cerca de 20 aminoácidos. A região II que se situa próximo ao lúmen do poro, forma o revestimento do poro iônico.
+A ligação da acetilcolina aos terminais amina de cada uma das subunidades alfa resulta numa rotação de 15° em todas as hélices da subnidade M2 . A porção citoplamática do receptor nicotínico de acetilcolina tem sítios carregados negativamente para determinar o cátion específico do receptor em questão e efetivamente pode remover a cobertura de hidratação formada por íons em soluções aquosas. Na região intermediária do receptor, ou seja, na porção do lúmen do poro, os resíduos de valina e leucina (Val 255 e Leu 251)definem uma região hidrofóbica por onde o íon desidratado pode passar.Os receptores nicotínicos se encontram principalmente nas bordas das pregas da junção neuromuscular e nos gânglios pós-sinápticos do sistema parassimpático e se ativa quando a acetilcolina é liberada nas sinapses. A difusão de Na+ e K,+ através do receptor causa despolarização causando a abertura dos canais de sódio regulados por voltagem, permitindo o início do potencial de ação e por último a contração muscular.
+
+
+=== Receptor muscarínico ===
+
+Os receptores muscarínicos de acetilcolina fazem parte da superfamília de receptores acoplados à proteína G e ativam os canais iônicos por meio de uma cascata de reações químicas, mediadas por um segundo mensageiro.
+Encontramos os receptores muscarínicos em todas as células alvos do sistema nervoso parassimpático, assim como nas células alvos nos neurônios pós ganglionares simpáticos que são colinérgicos. Já os nicotínicos são encontrados nas sinapses entre os neurônios pré e pós ganglionares.
+Dentro do grupo dos receptores muscarínicos, pelos menos dois grupos podem ser formados: M1 e M2, sendo que alguns autores ainda citam um possível M3. Como já era de se esperar algumas drogas atuam quase que exclusivamente em apenas um dos dois receptores. A pirenzepina por exemplo, ativa quase que exclusivamente os receptores M1, não apresentando efeitos sobre M2. 
+
+
+== Papel na saúde e doenças ==
+Os receptores nicotínicos podem ser bloqueados pelo curare e outras toxinas presentes em venenos de serpentes e frutos-do-mar, tais como a α-bungarotoxina. Alguns medicamentos como os relaxantes musculares, são agentes que bloqueiam a união neuromuscular ao unir-se reversivelmente aos receptores nicotínicos e são usados junto com anestésicos como adjuvantes da anestesia.
+Os receptores nicotínicos são os principais mediadores dos efeitos da nicotina. Na miastenia gravis, o receptor nicotínico é alvo de anticorpos, produzindo debilidade muscular. Por vez, os receptores muscarínicos podem ser bloqueados por fármacos como a atropina e escopolamina.
+O receptor colinérgico muscarínico ativa a proteína G quando se une a acetilcolina extracelular. A subunidade α da proteína G, inativa a adenilato ciclase, enquanto que as subnidades β e γ ativam canais de potássio, polarizando a célula. Isto causa, por exemplo, uma diminuição da atividade cardíaca.
+
+
+== Ver também ==
+Drogas colinérgicas
+Sistema nervoso autônomo
+Receptores adrenérgicos
+
+
+== Referências ==

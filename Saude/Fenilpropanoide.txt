@@ -1,0 +1,30 @@
+Os fenilpropanoides são uma classe de compostos orgânicos que são sintetizadas em microrganismos e organismos vegetais a partir do aminoácido fenilalanina. O nome "fenilpropanoide" é derivado da junção do grupo fenila (anel aromático) e uma cadeia lateral de três carbonos (grupo propila), o qual é sintetizado a partir da fenilalanina na primeira etapa na biossíntese de fenilpropanoides. Os fenilpropanoides são encontrados em todo o reino vegetal, e servem como precursores de uma série de polímeros naturais, os quais fornecem proteção contra a luz ultravioleta, defesa contra herbívoros e patógenos, além de mediarem interações planta-polinizador por pigmentação e compostos de aroma floral.
+
+
+== Ácidos hidroxicinâmicos ==
+
+O aminoácido fenilalanina é primeiramente convertido em ácido cinâmico pela ação da enzima fenilalanina amônia-liase (PAL). Posteriormente, uma série de hidroxilações metilações enzimática fornecem o ácido cumárico, ácido caféico, ácido ferúlico, ácido 5-hidroxiferúlico e o ácido sinapílico. A conversão destes ácidos aos seus ésteres correspondentes fornecem alguns componentes voláteis de ervas e fragrâncias de flores, que possuem muitas funções, tais como atrair polinizadores. Cinamato etílico é um exemplo comum.
+
+
+== Aldeídos cinâmicos e monolignóis ==
+
+A redução do grupo funcional ácido carboxílico fornece o aldeído correspondentes, como por exemplo o cinamaldeído. Uma etapa adicional de redução fornece monolignóis incluindo o álcool cumarílico, álcool coniferílico e álcool sinapílico, que variam apenas em seu grau de metoxilação. O monolignóis são monômeros e, sofrendo polimerização, podem gerar diversas formas de lignina e suberina, que são ​​os componentes estruturais da parede celular das plantas.
+
+Os fenilpropenos como o eugenol, safrol, chavicol e o estragol também são derivados de monolignóis. Estes compostos são os principais constituintes de vários óleos essenciais.
+
+
+== Cumarinas e flavonoides ==
+
+A hidroxilação do ácido cinâmico na posição para fornece o ácido ''p''-cumárico, que é o precursor de derivados hidroxilados tais como a umbeliferona. Outro destino biossintético do ácido p-cumárico, através do seu tioéster com a coenzima A, ou seja, o 4-cumaroil-CoA, é a biossíntese de chalconas. Isto é possível através da condensação desta molécula com outras três moléculas de malonil-CoA, seguido de ciclização do segundo anel aromático. Chalconas são os precursores de todos os flavonoides, uma importante classe de produtos naturais.
+
+
+== Estilbenoides ==
+
+Estilbenoides, como o resveratrol, são derivados hidroxilados de estilbeno. Eles são formados através de uma ciclização alternativa do cinammoil-CoA.
+
+
+== Referências ==
+
+
+== Artigos científicos ==
+K Hahlbrock, D Scheel (1989). «Physiology and Molecular Biology of Phenylpropanoid Metabolism». Annual Review of Plant Physiology and Plant Molecular Biology. 40: 347–69. doi:10.1146/annurev.pp.40.060189.002023 T Vogt (2010). «Phenylpropanoid Biosynthesis» (PDF). Molecular Plant. 3 (1): 2–20. doi:10.1093/mp/ssp106

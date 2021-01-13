@@ -1,0 +1,8 @@
+Análise pelo método do gargalo ou ponto de estrangulamento térmico de hidrogênio (HPA do inglês Hydrogen Pinch Analysis) é um método de controle de hidrogênio que se origina do conceito de ponto de estrangulamento (pinch) térmico. HPA é uma técnica sistemática para reduzir o consumo e geração de hidrogênio através da integração de hidrogênio utilizando atividades ou processos na indústria petroquímica, refinarias de petróleo, redes de distribuição de hidrogênio e na purificação de hidrogênio.
+
+
+== Princípio ==
+Uma análise de massa é feita representando a pureza e caudal para cada fluxo dos consumidores de hidrogénio ("bacias"), tais como hidrotratamentos, hidrocraqueamentos, unidades de isomerização e plantas de lubrificante e os produtores de hidrogênio (fontes), tais como plantas de hidrogênio e reformadores de nafta, correntes de purificadores de hidrogênio, reatores de membrana, adsorçores por pressão e unidades de destilação contínua e correntes de separadores de gases de exaustão de baixa ou alta pressão. O diagrama das fontes e demandas mostra gargalos de excedente ou escassez. O gargalo de hidrogênio é a pureza na qual a rede de hidrogénio não tem nem excedente de hidrogênio, nem déficit.Após a análise REFOPT do Centre for Process Integration (Centro para a Integração de Processos) na The University of Manchester é usado como uma ferramenta para a integração de processos com o que o processo é otimizado. A metodologia foi também desenvolvida em software comercial por empresas tais como Linnhoff March e AspenTech. 
+
+
+== Referências ==

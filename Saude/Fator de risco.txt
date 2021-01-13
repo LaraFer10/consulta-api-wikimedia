@@ -1,0 +1,66 @@
+Fator de risco, em se tratando de saúde, é qualquer situação que aumente a probabilidade de ocorrência de uma doença ou agravo à saúde, a exemplo dos múltiplos fatores causais das doenças cardiovasculares. (ver). O termo risco popularmente, além do sentido de possibilidade ou chance (oportunidade), tem o sentido de perigo.
+Risco, em epidemiologia é a probabilidade de ocorrência de um resultado desfavorável, de um dano ou de um fenômeno indesejado. Desta forma estima-se o risco ou probabilidade de que uma doença exista através dos coeficientes de incidência e prevalência. Para OMS (CLAP- OPS/OMS, 1988) o fator de risco de um dano são todas as características ou circunstâncias que acompanham um aumento de probabilidade de ocorrência do fato indesejado sem que o dito fator tenha intervindo necessariamente em sua causalidade.Uma das definições mais comuns da epidemiologia é que esta é o estudo da distribuição das doenças e dos determinantes de sua prevalência nas populações humanas (MacMahon; Pugh, 1960). Observe-se porém que com o advento da utilização de marcadores moleculares, a exemplo da titulação de anticorpos, níveis de frações do colesterol no sangue; identificação/ quantificação de antígenos prostáticos e ou outros marcadores tumorais, o escopo da epidemiologia tem se ampliado ou deslocado entre a fase clínica da doença, para seus fatores de risco ou antecedentes mórbidos da fase pré clínica, no plano da história natural das doenças ou fatores determinantes numa perspectiva da epidemiologia social.
+Observe-se também que, embora possa parecer evidente, risco não significa certeza. A presença de um fator de risco não é obrigação da ocorrência do evento. A afirmação "hipertensão arterial causa derrame" pode não ser apropriada. Há hipertensos que não terão nunca um derrame, morrendo um dia por outra causa. A frase "em um grupo de pessoas, mais casos de derrame ocorrerão naqueles que tem hipertensão" descreve melhor a situação. Não deixa de demonstrar a associação das duas situações, mas lembra que não existe vínculo absoluto em todos os casos. 
+( Brusque- SC )
+A importância deste fato é que, excetuando-se probabilidade de riscos de 0% (sem risco), as medidas de diminuição de risco não impedem a ocorrência de um evento qualquer.
+
+
+== Risco em epidemiologia ==
+De acordo com Rothman  infelizmente em epidemiologia e mesmo na literatura erudita, o termo "risco" é usado para muitos conceitos distintos: taxa, razão de taxas, risco relativo, chances (em inglês odds) de incidência, prevalência, etc. Segundo ele a definição mais específica e, portanto mais útil, de risco é "probabilidade de um evento ocorrer durante um período especificado".
+As investigações epidemiológicas de causalidade em epidemiologia geram resultados que apontam para os riscos a que uma pessoa está sujeita. Em termos gerais, a probabilidade de adoecer ou sofrer as conseqüências de uma patologia está associada à presença (ou ausência) dos fatores de risco em um determinado local e momento. Segundo Pereira, 2005, a probabilidade de um dano vir a ocorrer num futuro imediato ou remoto, pode ser estimada para um fator de risco isolado ou para vários simultâneamente (etiologia multicausal). Subgrupos específicos de pessoas expostas à riscos equivalentes podem ser identificados na população e estes riscos calculados e expressos das seguintes formas:
+RISCO ABSOLUTO (ou taxa de incidência): mostra quantos casos da doença aparecem no grupo em um dado período. Esta é uma forma adequada e relativamente simples de quantificação de riscos. Ela alcança ainda maior significado quando comparada com os resultados obtidos, de maneira semelhante em um outro grupo de indivíduos. Esta comparação é alcançada pelo cálculo dos riscos relativo e atribuível.
+RISCO RELATIVO (RR): Informa quantas vezes o risco é maior em um grupo, quando comparado a outro.
+RISCO ATRIBUÍVEL (RA) (à exposição): Indica a diferença de incidências entre os dois grupos, diferença que é atribuída à exposição ao fator de risco.
+Nos estudos epidemiológicos a magnitude dos riscos é calculada a partir da frequência de agravos entre os indivíduos expostos ou não expostos a um determinado risco, quantificados como variáveis dicotômicas da forma sim e não: expostos e não expostos (com e sem o fator de risco) consideradas determinantes da presença de doentes e não doentes na população exposta ao risco.
+Na tabela 2x2 abaixo representada, obtida de um estudo prospectivo o Risco Relativo (RR) é a relação entre o coeficiente de incidência entre os expostos [ a/(a+b) ] e o coeficiente de incidência entre os não expostos [ c/(c+d) ] :
+
+  
+    
+      
+        
+          
+            R
+            R
+            =
+            
+              
+                
+                  a
+                  
+                    a
+                    +
+                    b
+                  
+                
+                
+                  c
+                  
+                    c
+                    +
+                    d
+                  
+                
+              
+            
+          
+        
+      
+    
+    {\displaystyle {\mathsf {RR={\frac {\frac {a}{a+b}}{\frac {c}{c+d}}}}}}
+  
+O Risco Atribuível (RA) a parte do risco a que está exposto um grupo da população, atribuível exclusivamente ao fator estudado e não a outros fatores, matematicamente resulta da subtração entre o coeficiente de incidência entre os expostos [a/(a+b)] e o coeficiente de incidência entre os não expostos [c/(c+d)]:
+
+RA = { [a/(a+b)] - [c/(c+d)] }
+
+Para alguns autores  O RA (risco atribuível) tem pouco emprego analítico e muita importância descritiva, é um indicador bastante utilizado no planejamento de programas de controle de doenças e mais ainda na avaliação dos mesmos. Ainda segundo os referidos autores os estudos de coortes também chamados de seguimento ou follow-up são os únicos capazes de abordar hipóteses etiológicas produzindo medidas de incidência e, por conseguinte, medidas diretas de risco. Tais estudos são também chamados de prospectivos pelo fato de que em sua maioria partem de grupos comprovadamente expostos a um fator de risco suposto como causa de doença a ser detectada no futuro (prospecto-análise).
+
+
+== Ver também ==
+Risco relativo
+Razão de possibilidades
+Epidemiologia molecular
+Epidemiologia genética
+História natural da doença
+
+
+== Referências ==

@@ -1,0 +1,46 @@
+Os reatores anaeróbios compartimentados (RAC) são unidades de tratamento de efluentes que degradam a materia orgânica através do metabolismo de microrganismos. Possuem configuração simples, apresentando divisões internas que buscam aumentar o tempo de detenção hidráulica. Assim, é possível o maior contato entre a biomassa e o efluente. Estes reatores são promissores no tratamento de águas residuárias, devido a grande eficiência na remoção de matéria orgânica e sólidos em suspensão. Além disso, apresentam baixo custo de implantação e simplicidade de operação.
+
+
+== Aplicação ==
+Os reatores anaeróbios compartimentados são amplamente utilizados para o tratamento de águas residuárias com altas frações de sólidos suspensos orgânicos. Um exemplo é o tratamento de efluentes da produção agropecuária.
+
+
+== Tratamento ==
+Devido a configuração dos reatores anaeróbios compartimentados, as águas residuárias atravessam regiões com elevada concentração de microrganismos ativos. Estes microrganismos se formam no fundo dos reatores, uma vez que os compartimentos proporcionam a movimentação do esgoto de modo descendente e ascendente.No processo de tratamento, é possível separar algumas fases da digestão anaeróbia, como a fase acidogênica e metanogênica. Esta característica do reator permite que diferentes populações predominem diferentes compartimentos. As bactérias acidificantes irão predominar no primeiro compartimento, enquanto as metanogênicas irão predominar as seções seguintes. Desta forma, a formação de metano é favorecida termodinamicamente
+.
+
+
+== Vantagens ==
+O Reator Anaeróbio Compartimentado (RAC) apresenta configuração simples, com a presença de divisões internas que possibilita maior contato entre microrganismos e substratos. Também possuem baixo custo de construção quando comparado com os demais reatores anaeróbiosAlém disso, o RAC possui a vantagem de separar os microorganismos acidogênicos dos metanogênicos nas câmaras do reator. Isso proporciona o aumento da resistência a cargas de choque hidráulico, orgânica, de temperatura, de pH e da presença de materiais tóxicos no afluente, quando comparado aos reatores anaeróbios tipo manta de lodo e filtro anaeróbio, o que proporciona maior proteção contra materiais tóxicos e aumento na resistência a mudanças de condições ambientais.Outras vantagens importantes dos Reatores Anaeróbios Compartimentados são:,
+não há necessidade de equipamentos como agitadores;
+adotam-se pequenas profundidades para o reator;
+não há necessidade de dispositivos de separação gás/líquido/sólido;
+em virtude de sua configuração o arraste de microrganismos é reduzido sendo favorecida a formação de grânulos;
+possuem tempo de detenção hidráulico (TDH) relativamente baixo;
+podem ser operados durante longos períodos de tempo sem descarte do lodo;
+suportam dejetos com altas e baixas concentrações de DBO;
+elevado volume útil;
+baixo consumo de energia elétrica;
+não utilização de equipamentos onerosos;
+alta capacidade de retenção de sólidos biológicos ativos;
+retenção de biomassa sem o uso de meio fixo;
+obtenção de ótimo desempenho mesmo com lodo não granular;
+possuem elevada estabilidade e reabilitação a choques orgânicos e hidráulicos;
+podem funcionar a baixas temperaturas;
+a seqüência ascendente/descendente de escoamentos reduz a lavagem da biomassa;
+podem apresentar remoção de DBO até 95%;
+possibilidade de separação das fases do processo - hidrólise e acidogênese (primeira câmara) e metanogênese (nas câmaras seguintes) e possibilidade de operação intermitente.
+
+
+== Desvantagens ==
+As principais desvantagens no uso dos RACs são,:
+
+produção de efluente com baixa qualidade visual;
+possibilidade de produção de odores;
+necessidade de pós tratamento;
+partida lenta;
+efluente com baixa quantidade de oxigênio dissolvido;
+remoção insatisfatória de nitrogênio, fósforo e organismos patogênicos.Estas desvantagens são inerentes ao próprio processo anaeróbio.
+
+
+== Referências ==

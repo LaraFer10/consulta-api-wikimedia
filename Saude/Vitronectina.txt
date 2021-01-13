@@ -1,0 +1,30 @@
+A vitronectina é uma abundante glicoproteína que pode ser encontrada no plasma sanguíneo e na matrix extracelular. Tem se especulado sobre o papel da vitronectina na homeostase e na formação de tumores.
+
+
+== Estrutura ==
+A vitronectina é uma glicoproteína de 75 kDa, que é composta por 459 resíduos de aminoácidos. Cerca de um terço da massa molecular da proteína é composta por hidratos de carbono. Ocasionalmente, a proteína é clivada após o resíduos número 379 ( arginina), para produzir duas vitronectinas em cadeia, onde as duas partes são ligadas por uma ligação de dissulfeto. Ainda não foi determinada experimentalmente a sua estrutura de alta resolução.
+A proteínas é composta por três domínios proteicos:
+
+Domínio N-terminal: domínio somatomedina B (1-39)
+Domínio central: com homologia com a hemopexina (131-342)
+Domínio C-terminal: também com homologia com a hemopexina (347-459)Algumas estruturas foram reportadas para o domínio N-terminal. Inicialmente, a proteína foi cristalizada em complexo com um dos seus parceiros fisiológicos: o inibidor do activador do plasminogénio tipo 1 (PAI-1), e a estrutura deste complexo foi resolvida[1]. Subsequentemente, dois grupos reportaram estruturas do domínio, obtidas pelo proceso de espectroscopia de ressonância magnética nuclear[2][3].
+Modelos de homologia têm sido produzidos para os domínios C-terminal e central.
+
+
+== Biologia ==
+O domínio somatomedina B liga-se ao inibidor do activador do plasminogénio tipo 1, e estabiliza-o. Por isso, a vitronectiva serve para regular a proteólise pela activação do plasminogénio. Adicionalemnte, a vitronectina é um componente das plaquetas e está por isso envolvida em processo de homeostase. A vitronectina contém uma sequência RGD que serve como sítio de ligação de integrinas membranares, que serve para acorar células à matrix extracelular. O domíno somatomedina B interage com o receptor de urocinase: esta interacção tem sido implicada na migração celular e na transdução de sinal. Altos níveis plasmáticos de PAI-1 e do receptor de urocinase, estão relacionados com prognótisticos negativos em pacientes com cancro. A adesão e migração celular estão directamente envolvidas nas metástases cancerígenas, providenciando um mecanismo explicativo da anterior observação.
+
+
+== Referências ==
+↑  Zhou A, Huntington JA, Pannu NS, Carrell RW, Read RJ (2003) How vitronectin binds PAI-1 to modulate fibrinolysis and cell migration Nat Struct Biol. 2003 Jul;10(7):541-4 (full text article online: Entrez PubMed 12808446).
+↑  Kamikubo Y, De Guzman R, Kroon G, Curriden S, Neels JG, Churchill MJ, Dawson P, Oldziej S, Jagielska A, Scheraga HA, Loskutoff DJ, Dyson HJ. (2004) Disulfide bonding arrangements in active forms of the somatomedin B domain of human vitronectin. Biochemistry. 2004 Jun 1;43(21):6519-34 (full text article online: Entrez PubMed 15157085).
+↑  Mayasundari A, Whittemore NA, Serpersu EH, Peterson CB. (2004) The solution structure of the N-terminal domain of human vitronectin: proximal sites that regulate fibrinolysis and cell migration. J Biol Chem. 2004 Jul 9;279(28):29359-66. Epub 2004 Apr 30 (full text article online: Entrez PubMed 15123712).
+↑  Kamikubo Y, Okumura Y, Loskutoff DJ. (2002) Identification of the disulfide bonds in the recombinant somatomedin B domain of human vitronectin. J Biol Chem. 2002 Jul 26;277(30):27109-19. Epub 2002 May 17 (full text article online: Entrez PubMed 12019263).
+↑  Horn NA, Hurst GB, Mayasundari A, Whittemore NA, Serpersu EH, Peterson CB.(2004) Assignment of the four disulfides in the N-terminal somatomedin B domain of native vitronectin isolated from human plasma. J Biol Chem. 2004 Aug 20;279(34):35867-78. Epub 2004 Jun 1. (full text article online: Entrez PubMed 15173163).
+↑  Xu D, Baburaj K, Peterson CB, Xu Y (2001) Model for the three-dimensional structure of vitronectin: predictions for the multi-domain protein from threading and docking Proteins. 2001 Aug 15;44(3):312-20 (full text article online: Entrez PubMed 11455604).
+↑  Zhou A, Huntington JA, Pannu NS, Carrell RW, Read RJ (2003) How vitronectin binds PAI-1 to modulate fibrinolysis and cell migration Nat Struct Biol. 2003 Jul;10(7):541-4 (full text article online: Entrez PubMed 12808446).
+↑  Xu D, Baburaj K, Peterson CB, Xu Y (2001) Model for the three-dimensional structure of vitronectin: predictions for the multi-domain protein from threading and docking Proteins. 2001 Aug 15;44(3):312-20 (full text article online: Entrez PubMed 11455604).
+
+
+== Ligações externas ==
+MeSH Vitronectin

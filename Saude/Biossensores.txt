@@ -1,0 +1,70 @@
+Um biossensor é um dispositivo analítico, utilizado para a detecção de um analito-alvo, que combina um componente biológico com um detector físico-químico.  É composto por 3 componentes:
+
+o elemento sensor biológico (por exemplo, tecidos, microrganismos, organelas, receptores de membrana, enzimas, anticorpos, ácidos nucleicos, etc), é um material biológico ou um derivado biomimético  que se liga ou interage (reconhece) o analito em estudo. Os elementos biologicamente sensíveis também podem ser criados por engenharia biológica.
+o transdutor ou o elemento detector (pode ser físico-químico; óptico, piezoeléctrico, electroquímico, etc.), é um elemento que transforma o sinal resultante da interacção do analito com o elemento biológico num outro tipo de sinal (isto é, transduz) que pode ser mais facilmente medido e quantificado;
+dispositivo "leitor" do biossensor com os processadores eletrônicos ou sinal associados, que são os principais responsáveis ​​para a exibição dos resultados de uma forma fácil de usá-la. Por vezes, este dispositivo é responsável pela parte mais cara do biossensor;
+
+
+== O Sistema do biossensor ==
+Um biossensor consiste de um sítio de reconhecimento biológico, um transdutor e um sistema eletrônico o qual possui um amplificador de sinal, um processador, e um display. Os transdutores e os componentes eletrônicos são combinados sistemas de microssensores CMOS. O componente de reconhecimento biológico, chamado de biorreceptor que usa biomoléculas de organismos ou receptores modelados a partir de sistemas biológicos para interagir com o analito de interesse. Essa interação é medida por um biotransdutor, que retorna um sinal de saída proporcional a presença do analito-alvo na amostra. O objetivo geral no desenvolvimento de um biossensor é a busca de poder realizar um teste rápido em algum local ou alguma amostra obtida.
+
+
+== Biorreceptores ==
+Em um biossensor, um biorreceptor é designado para interagir com um analito específico de interesse, produzindo um efeito capaz de ser medido pelo transdutor. A alta seletividade para um determinado analito presente em uma matriz com outros compostos químicos ou biológicos é um requisito chave de um biorreceptor. Os tipos de biomolécula que podem ser usadas são amplos, podendo classificar os biossensores de acordo com o tipo de interações que ocorre com o biorreceptor: anticorpo/antígeno, enzimas/ligantes, ácidos nucleicos/DNA, estruturas celulares/células ou materiais biomiméticos.
+
+
+=== Interações anticorpo/antígenos ===
+Um imunossensor utiliza a capacidade de alta especificidade de ligação dos anticorpos para um determinado composto ou antígeno. A natureza de especificidade das interações anticorpo-antígeno é análoga a ideia de chave-fechadura, ou seja, o antígeno só se ligará ao anticorpo se sua conformação estiver correta. O processos de ligação resultam em mudanças físico-químicas que, em combinação com um marcador como moléculas fluorescentes, enzimas, ou radioisótopos podem gerar um sinal resposta.
+Ao utilizar os anticorpos como sensores, surgem algumas limitações:
+1-  a acapacidade de ligação do anticorpo depende fortemente das condições do meio em o qual está inserido.
+2 - as interações anticorpo-antígenos são irreversíveis. podendo só ser rompida por reagentes caotrópicos, solvente orgânicos ou mesmo pela radiação ultrassônica.
+
+
+=== Proteínas artificiais ===
+a utilização dos anticorpos como elemento de reconhecimento tem vários inconvenientes. Eles possuem alto pelo molecular e uma estabilidade limitada, contém ligações dissulfeto e demandam altos custos para produzir. Visando superar essas limitações, fragmentos de ligações recombinantes (Fab,Fv, ou scFv) ou domínios (VH, VHH) de anticorpos foram projetados. Em outras abordagens, pequenas estruturas proteicas com propriedades biofísicas favoráveis  foram desenvolvidas para gerar famílias artificiais de antígenos ou as proteínas de ligação de antígenos (agBP), capazes de formar uma ligação específica com diferentes proteínas alvo enquanto mantém propriedades das moléculas parentais. Os elementos da família que se ligam especificamente a um determinado antígeno alvo são selecionados por técnicas de exibição in vitro: fago, ribossomo, levedura ou mRNA. Essas proteínas de ligação são muito pequenas em comparação com os anticorpos (normalmente possui menos que 100 resíduos de aminoácidos), possuem uma forte estabilidade, não possuem ligações dissulfeto e podem ser expressas em meio com baixo rendimento celular como o citoplasma bacteriano, ao contrário dos anticorpos e seus derivados. Essa proteínas são portanto, mais adequadas para criar biossensores.       
+
+
+=== Interações enzimáticas ===
+A alta especificidade de ligação e sua atividade catalítica fizeram as enzimas serem biorreceptores populares. Sua capacidade de reconhecimento do analito pode ser feita por diversos mecanismos:
+1 - a conversão da enzima no analito para produzir algo detectável pelo sensor;
+2 - Detectando a inibição ou a ativação da enzima no analito;
+3 - Monitoramento das modificações das propriedades enzimáticas com o analito;
+As principais razões para se utilizar as enzimas como biossensor são:
+1 -  A habilidade de catalisar uma larga escala de reações;
+2 - tem potencial para detectar diversos tipos grupo de analitos (substrato, produto, inibidores, e modeladores de atividade catalítica);
+3 - Adequabilidade com vários métodos de transdução para detecção  do analito.
+Uma vez que as enzimas não são consumidas em reações, o biossensor pode ser usado mais de uma vez. Além disso, a atividade catalíticas das enzimas permite baixos limiares de detecção em comparação com outras técnicas de detecção. No entanto, a vida utíl do sensor é limitada pela estabilidade da enzima. 
+
+
+=== Interações de ácidos nucleicos ===
+Biossensores que empregam as interações de ácidos nucleicos podem ser referidos como genossensores. O processos de reconhecimento é baseado no princípio de complementaridade de pares de bases: adenina/timina e citosina/guanina no DNA. Se a sequência de ácido nucleico alvo é conhecida, sequencias complementares podem ser sintetizadas, marcadas e imobilizadas no sensor. O processo de ligação dos pares das bases é denominado de hibridização, podendo gerar um sinal ótico. O princípio de transdução mais utilizado nesses sensores é o de detecção ótica.
+
+
+=== Epigenéticos ===
+Em uma propostas de que ressonadores óticos poderiam ser utilizados para detectar modificações epigenéticas (Metilação do DNA, modificações pós-transducionais de histonas) em fluidos corporais de pacientes afetados por câncer ou outras doenças. Biossensores fotônicos com ultra-sensibilidade estão seno desenvolvidos atualmente para facilitar a detecção de células cancerígenas na urina dos paciente. Diferentes projetos de pesquisa visam desenvolver novos dispositivos portáteis que usam cartuchos descartáveis, baratos e ecológicos, além de proporcionar um simples manuseio, sem necessidade de algum processamento adicional como lavagem ou manipulação por técnicos especializados.
+
+
+=== Organelas ===
+Organelas formam compartimentos separados no interior das células e funcionam de forma independente. Diferentes tipos de organelas possuem diferentes caminhos metabólicos e contém várias enzimas para auxiliar nessas funções. As organelas mais comummente utilizadas são os lisossomos, cloroplasto e mitocôndrias.O padrão espaço-temporal do cálcio é fechado em relação as vias de sinalização. As mitocôndrias participam efetivamente do metabolismo dos íons de cálcio para controlar a função de modular os sinais das vias relacionadas com o cálcio. Experimentos provaram que as mitocôndrias possuem a capacidade de responder ás altas concentrações de cálcio geradas nas proximidades, abrindo o canal de cálcio presente na mesma. Desta forma, as mitocôndrias podem ser utilizadas para detectar as concentrações de cálcio em algum meio com alto grau de sensibilidade. Outras aplicação das mitocôndrias é pata detecção da poluição das águas, pois a toxicidade dos compostos detergentes danificam a célula e a estrutura subcelular, incluindo as mitocôndrias. Os detergentes causam um efeito de intumescimento que pode ser medido por uma mudança da absorbância. Alguns dados experimentais mostram que a taxa dessa mudança é proporcional a concentração de detergente, fornecendo um alto padrão de detecção e uma alta precisão.  
+
+
+=== Células ===
+células podem usadas como biorreceptores devido a sua alta sensibilidade com o meio ao redor e podem responder a diferentes tipos de estimulantes. As células tendem a ser ligar á superfície para que possam ser facilmente imobilizadas. Em comparação com as organelas, as células ficam ativas por um período mais longo e sua capacidade de reprodutibilidade as tornam reutilizáveis. elas são comummente utilizadas para detectar parâmetros globais como condições de estresse, toxicidade e derivados orgânicos. além disso, as células podem ser usadas para monitorar o efeito de algum tratamento de drogas. Em ambientes aquáticos, as células podem usadas para detectar contaminantes  como herbicidas. Para isso, microalgas são aprisionadas em microfibra de quartzo e a fluorescência da clorofila (modificada) pelos herbicidas é coletada na ponta de um feixe de fibras óticas e transmitidas para um fluorímetro. As algas são continuamente produzidas e cultivadas para tal fim de medição. Os resultados mostram um limite de detecção nos níveis de sub-ppb. Outras células podem usadas para detecção  de corrosão microbianas, onde as células pseudomomonas sp. são isoladas da superfície do material corroído e imobilizada em uma membrana de acetilcelulose. Com isso, a atividade respiratória determinada pelo consumo de oxigênio possui uma elação linear com a concentração de ácido sulfúrico.
+
+
+=== Tecido ===
+Os tecidos são utilizados como biossensores para a grande abundância de enzimas que existem. As vantagens de se utilizar esses biossensores incluem:   
+1 - facilidade de imobilização em comparação com as células e organelas;
+2 - a grande atividade e a estabilidade para manter as enzimas em um meio natural;
+3 - A grande viabilidade e o baixo preço;
+4 - Não precisa realizar os trabalho de extração, centrifugação e purificação de enzimas;
+5 - existem cofatores necessários para a função enzimática
+6 - a diversidade proporciona uma ampla gama de opções para diferentes objetivos.
+Existem também algumas desvantagens em utilizar os tecidos, como a falta de especificidade devido a interferência de outras enzimas e um tempo maior de resposta devido a barreira de transporte. 
+
+
+== Referências ==
+
+
+== Ligações externas ==
+Biomark, Sensor Research (ISEP-IPP)

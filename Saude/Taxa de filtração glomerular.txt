@@ -1,0 +1,313 @@
+A taxa de filtração glomerular (TFG) é o volume de líquido que é filtrado para dentro da cápsula de Bowman, localizada no glomérulo, por unidade de tempo e é influenciada pela pressão de filtração, pressão hidrostática criada pela cápsula de Bowman e o coeficiente de filtração glomerular, além da regulação do fluxo sanguíneo das arteríolas glomerulares. Quando é mantida a pressão arterial média entre 80 mmHg e 180 mmHg, a TFG é em média 180 L/dia ou 125mL/min.Os capilares glomerulares são relativamente impermeáveis às proteínas, sendo o filtrado glomerular (produto da filtração) livre de proteínas e elementos celulares como hemácias. Como a filtração glomerular é o primeiro passo para a formação da urina, as concentrações de outros constituintes encontrados no filtrado glomerular são similares às concentrações encontradas no plasma, uma vez que ainda não houve reabsorção ou secreção de componentes, apenas a filtração.
+
+
+== Aspectos morfológicos da filtração glomerular ==
+
+
+==== Circulação Renal: o caminho do sangue até a filtração ====
+
+O caminho que o sangue percorre até o momento de Filtração nos rins se dá pelo seguinte percurso: primeiro ele sai da artéria aorta abdominal pelas artérias renais (15) em direção aos rins, entrando neles pelo hilo renal (17); já dentro dos rins, se ramificam em artérias segmentares (19), e depois em artérias interlobares (14) seguindo em direção ao córtex renal (2) pelas colunas renais (3); ao chegar o nível da base das pirâmides renais essas originam, perpendicularmente, as artérias arqueadas (13) que contornam as bases das pirâmides renais; estas emitem artérias intelobulares que adentram no córtex renal e geram em seguida diversas arteríolas aferentes (20) que entram nos glomérulos renais se enovelando em uma rede de capilares, o sangue percorre outra rede, a de capilares peritubulares, sendo este drenado pelas veias pélvicas (7), veia renal (16) e, por último retorna para a circulação sistêmica com a veia cava inferior.
+
+
+==== Barreira de Filtração Glomerular ====
+A barreira de filtração glomerular se localiza entre o capilar glomerular e o espaço de Bowman, estruturas estas pertencentes ao corpúsculo renal. É composta por: endotélio vascular do capilar glomerular, uma lâmina basal dupla (duas lâminas raras periféricas e uma lâmina densa no centro) e a lâmina visceral da Cápsula de Bowman, formada pelos podócitos com seus pedicelos (prolongamentos citoplasmáticos destes) interdigitados entre si com fendas de filtração entre eles. O Filtrado atravessa as seguintes camadas abaixo:
+
+Endotélio: fenestrado e permeável à água, ao sódio, à uréia, à glicose e a pequenas proteínas. As células endoteliais são cobertas por glicoproteínas de cargas negativas (sulfato de heparana) onde retardam a filtração de proteínas aniônicas.
+Lâmina Basal: Produto das células endoteliais e dos podócitos, contém colágeno tipo IV, laminina, fibronectina e proteoglicanos ricos em sulfato de heparana (glicosaminoglicano) que também retarda a filtração das proteínas aniônicas.
+Pedicelos: São prolongamentos celulares dos podócitos que recobrem a lâmina basal e estão cobertos por uma camada de glicoproteínas de carga negativa. O espaço entre pedicelos é chamado de fenda.
+
+
+== Forças atuantes na Filtração Glomerular ==
+Existem forças estimulantes e opositoras à filtração glomerular, as quais podem citar:
+Favoráveis:
+
+Pressão hidrostática glomerular
+Pressão coloidosmótica na Cápsula de BowmanOpositoras:
+
+Pressão hidrostática na cápsula de Bowman;
+Pressão coloidosmótica nos capilares glomerularesPara a efetivação da filtração glomerular deve haver uma força resultante que permita a passagem do plasma sanguíneo contra a membrana de filtração. Com esta, alguns componentes do plasma podem ultrapassar ou não a membrana de filtração dependendo de seu tamanho e forma. Essa força, a qual origina a pressão de filtração, é o resultado da soma vetorial de outras forças atuantes no processo, conhecidas como Forças de Starling, são determinadas pela:
+
+Diferença de Pressão Transcapilar: é o gradiente entre as pressões hidrostáticas do plasma (no capilar glomerular) e do filtrado glomerular (no Espaço de Bowman). Como a pressão hidrostática do plasma sanguíneo é derivada da pressão arterial sistêmica, seus valores são altos em relação a já atenuada pressão hidrostática do filtrado glomerular, pois este já passou por uma alta diminuição de pressão provocada pela membrana filtrante.
+Diferença de Pressão Oncótica Transcapilar: é o gradiente entre as pressões oncóticas, entre os compartimentos envolvidos. A pressão oncótica ou coloidosmótica é determinada pela diferença de concentração de proteínas entre os compartimentos considerados o que determina o movimento de fluído em direção ao local de maior concentração proteica. Sendo assim, como o sangue possui uma alta concentração de proteínas plasmáticas em relação ao filtrado glomerular, que já teve suas proteínas retidas no processo de filtração, o fluído tende a ser puxado em direção ao lúmen do capilar glomerular. Isso promove uma resistência ao trabalho de filtração glomerular.
+Pressão Resultante da Filtração: é a diferença entre os gradientes de pressão transcapilar hidrostática (1) e oncótica (2). Como a Diferença de Pressão Transcapilar é bem maior do que a Diferença de Pressão Oncótica, a pressão resultante de filtração tem direção igual à da diferença de pressão hidrostática, determinando o fluxo na direção do capilar glomerular para o espaço de Bowman, possibilitando a filtração.As forças de Starling se dividem em:
+
+Pressão capilar (PC) – influencia a saída do líquido para o exterior da membrana capilar;
+Pressão do líquido intersticial (PLI) – Quando positiva influencia a entrada do líquido pela membrana, quando negativa induz à saída;
+Pressão coloidosmótica plasmática capilar – induz à osmose para o interior através da membrana;
+Pressão coloidosmótica do líquido intersticial – induz à osmose para fora através da membrana.A lei de Starling diz que a quantidade de movimento de líquido através de uma parede capilar é diretamente proporcional à permeabilidade hidráulica capilar, assim como à diferença de pressão hidrostática transcapilar, e à diferença de pressão oncótica transcapilar. 
+
+
+== Métodos de medida ==
+Um marcador ideal para medir a TFG deve ter uma taxa de produção constante, ser livremente filtrada, não ser reabsorvida e nem secretada pelos túbulos renais e não ser metabolizada ou eliminada por vias extrarrenais. Existem diversas formas de calcular a taxa de filtração glomerular: através da depuração de substâncias exógenas, endógenas, por meio de algumas fórmulas e equações que se ajustam para idade e gênero e também pelo método mais comumente utilizado: cálculos baseados nos níveis de creatinina sérica.
+
+
+=== Medida da TFG baseada na depuração de substâncias exógenas ===
+De acordo com a literatura, a melhor avaliação da TFG é baseada na depuração de substâncias exógenas (exclusão de substâncias), tais como inulina, iohexol e o 51Cr-EDTA (ácido cromo etilenodiaminotetracético). A inulina é um polímero da frutose e preenche todos os critérios de um marcador ideal, não é reabsorvida pelo rim após sua filtração glomerular, o que faz com que sua taxa de excreção seja diretamente proporcional à taxa de filtração de água e solutos, mas sua medida requer infusão contínua e não é recomendada na rotina. O iohexol é um contraste radiológico e mostra alta correlação com a inulina e o 51Cr- EDTA. Contudo, os contrastes podem ser nefrotóxicos e a utilização de doses baixas é relativamente segura. Porém essas análises não são utilizadas na rotina por possuírem alto custo, não serem encontrados normalmente na circulação e como já citado anteriormente, a realização do estudo de suas depurações requer infusão venosa constante e coleta de urina por um período de tempo determinado, tornando-os inconvenientes e de aplicabilidade clínica limitada, sendo na maioria das vezes empregados com propósitos de pesquisa.
+
+
+=== Uréia ===
+Em 1903, o nitrogênio uréico sanguíneo foi utilizado pela primeira vez como teste diagnóstico clínico da função renal e, em 1929, introduziu-se o conceito de depuração da uréia. Embora a uréia ainda hoje seja utilizada amplamente na prática clínica (principalmente por especialistas não nefrologistas), é importante ressaltar a inadequação como teste de função renal. Isso se deve ao fato de a uréia não ser produzida constantemente durante o dia e a sua concentração pode variar com a ingestão de proteínas, sangramento gastrintestinal e uso de corticosteróides. Adiciona-se ao fato de a uréia ser parcialmente reabsorvida após o processo de filtração, e a intensidade da filtração está relacionada com  o estado volêmico do paciente: aumenta quando houver depleção (perda de elementos fundamentais do organismo) do volume extracelular e diminui na vigência de expansão de volume.
+
+
+=== Creatinina sérica ===
+A creatinina é derivada principalmente do metabolismo da creatina muscular e sua produção é diretamente proporcional à massa muscular. Por essa razão, existe uma ampla faixa de normalidade a depender do sexo, da faixa etária e também de grupos étnicos. O uso da dosagem de creatinina sérica ou plasmática como método clínico de avaliação da TFG baseia-se nas seguintes observações: a depuração da creatinina apresenta boa correlação com a determinação da TFG pela inulina, a excreção da creatinina sérica ou plasmática é relativamente simples, bem reproduzível e realizada na grande maioria dos laboratórios de análises clínicas.
+Até recentemente, a depuração da creatinina em urina de 24 horas era considerada o melhor método de determinação da TFG na prática clínica. A depuração da creatinina e inversamente proporcional à geração de creatinina não preenche os critérios de um marcador ideal da TFG por ser filtrada e secretada pelo túbulo contornado proximal. Além disso, a necessidade de coleta de urina pelo período de 24 horas, nos extremos da vida, pode ser inviável devido a ocorrência de incompreensão ou déficit cognitivo ou incontinência urinária. A vantagem da depuração da creatinina sobre as substâncias exógenas é o fato de ser a creatinina de produção endógena, sua determinação é de baixo custo e é realizada na maioria dos laboratórios.
+A depuração da creatinina é calculada pela fórmula: 
+
+  
+    
+      
+        D
+        c
+        r
+        =
+        (
+        U
+        c
+        r
+        .
+        V
+        )
+        
+          /
+        
+        P
+        c
+        r
+      
+    
+    {\displaystyle Dcr=(Ucr.V)/Pcr}
+  
+Dcr = depuração da creatinina;
+Ucr = níveis unitários de creatinina (em mg/dL);
+V = volume de urina colhido em 24 horas;
+Pcr = creatinina plasmática
+
+
+=== Equação de Cockcroft-Gault ===
+A equação de Crockcroft-Gault consiste em: 
+
+  
+    
+      
+        
+          
+            
+              (
+              140
+              −
+              i
+              d
+              a
+              d
+              e
+              )
+              ×
+              p
+              e
+              s
+              o
+              (
+              k
+              g
+              )
+            
+            
+              72
+              ×
+              c
+              r
+              e
+              a
+              t
+              i
+              n
+              i
+              n
+              a
+            
+          
+        
+      
+    
+    {\displaystyle {\frac {(140-idade)\times peso(kg)}{72\times creatinina}}}
+  
+
+Esta equação considera a existência de uma relação inversa entre a idade e a excreção diária de creatinina urinária. Ela foi desenvolvida a partir do resultado de 249 homens caucasianos, entre 18 a 92 anos e função renal normal. Não foi padronizado para uma área de superfície corporal de 1,73 m2 e por isso foi criado o fator de correção de 0,85 para mulheres (no campo da creatinina plasmática). É uma equação que superestima a TFG, porque não considera a secreção tubular da creatinina, o aumento do peso em pessoas obesas e a sobrecarga de fluidos. Esta fórmula apresenta inúmeras limitações como: TFG apenas estimada, não corrigida, desenvolvida a partir de métodos de dosagens de creatinina desatualizados e requerer o peso, que pode não estar sempre disponível.
+
+
+=== Fórmula MDRD ===
+A fórmula MDRD (Modification of Diet in Renal Disease) foi desenvolvida com base nos dados obtidos em um estudo feito em pacientes com DRC e não inclui indivíduos saudáveis. Ela estima a TFG usando a creatinina sérica, idade, raça e gênero a fim de observar as diferenças causadas pela massa muscular e performa melhor em idosos. A fórmula consiste em:
+
+  
+    
+      
+        T
+        F
+        G
+        =
+        186
+        ×
+        c
+        r
+        e
+        a
+        t
+        i
+        n
+        i
+        n
+        
+          a
+          
+            −
+          
+        
+        1
+        ,
+        154
+        ×
+        i
+        d
+        a
+        d
+        
+          e
+          
+            −
+          
+        
+        0
+        ,
+        203
+        ×
+        m
+        u
+        l
+        t
+        i
+        p
+        l
+        i
+        c
+        a
+        d
+        o
+        r
+      
+    
+    {\displaystyle TFG=186\times creatinina^{-}1,154\times idade^{-}0,203\times multiplicador}
+  
+O multiplicador pode valer, de acordo com algumas tabelas:
+
+1,21 para negros0,742 para mulheres não-negras1,0 para todas as outras pessoas
+
+
+=== Cistatina C ===
+Embora filtrada livremente através do glomérulo, a cistatina C, semelhantemente a outras moléculas de baixo peso molecular, é reabsorvida e metabolizada nos túbulos proximais. Assim, a concentração sanguínea de cistatina C depende quase que inteiramente da TFG, não sendo afetada pela dieta, estado nutricional, inflamação ou doenças malignas.
+
+
+=== Método CKD/EPI ===
+O grupo Chronic Kidney Disease Epidemiology Collaboration (CKD-EPI) desenvolveu uma nova equação variante da fórmula do MDRD, a partir de um estudo que incluiu indivíduos com e sem DRC. A equação CKD-EPI usa as mesmas quatro variáveis que a equação do MDRD, mas, comparativamente, apresenta melhor desempenho e previsão de risco, além de apresentar menor viés e uma maior precisão do que o estudo do MDRD para uso clínico de rotina.
+
+
+=== Cálculo usando a equação de Starling ===
+Também é teoricamente possível calcular a TFG através da equação de Starling.
+
+  
+    
+      
+        
+          J
+          
+            v
+          
+        
+        =
+        
+          K
+          
+            f
+          
+        
+        (
+        [
+        
+          P
+          
+            c
+          
+        
+        −
+        
+          P
+          
+            i
+          
+        
+        ]
+        −
+        σ
+        [
+        
+          π
+          
+            c
+          
+        
+        −
+        
+          π
+          
+            i
+          
+        
+        ]
+        )
+      
+    
+    {\displaystyle J_{v}=K_{f}([P_{c}-P_{i}]-\sigma [\pi _{c}-\pi _{i}])}
+  A equação é usada tanto para aferição do fluxo sanguíneo capilar, quando para o específico do glomérulo:
+
+Na prática, não é possível identificar os valores necessários para esta equação, porém a equação ainda é útil para entender os fatores que afetam a filtração glomerular. 
+
+
+== Valores de referência da TFG de acordo com biomarcadores ==
+O critério usado para escolher os biomarcadores para medir a filtração glomerular para medir a filtração glomerular depende da capacidade da substância usada não ser apenas filtrada no glomérulo, mas também secretada e/ou reabsorvida por outras regiões dos túbulos renais, o que pode causar diferença nos resultadosAlguns valores de referências de biomarcadores usados são:
+Uréia: 20 – 40 mg/dL
+Creatinina Sérica: 0,6 – 1,3 mg/dL
+Relação Uréia – Creatinina: Média de 30
+Depuração da creatinina: como a creatinina também é secretada pelo túbulo contornado proximal, a depuração da creatinina não preenche critérios para ser um marcador ideal da Taxa de Filtração Glomerular, apesar de alguns laboratórios ainda a usarem como marcador. É expressa em porcentagem de 15% a 25%.
+
+
+== Controle da filtração glomerular ==
+A vasoconstrição ou a dilatação das arteríolas afetam a taxa de fluxo sanguíneo aos glomérulos e, como consequências afetam a taxa de filtração glomerular. Essas alterações resultam de mecanismos reguladores tanto extrínsecos como intrínsecos, necessários para garantir que a TFG seja suficiente para permitir que os rins eliminem produtos da decomposição metabólica e regula a pressão arterial, sem causar perda excessiva de água.
+Dentre as variáveis que influenciam de forma significativa na taxa de filtração glomerular, podem ser destacadas: a pressão coloidosmótica dos capilares glomerulares, pressão hidrostática glomerular, resposta miogênica e feedback túbulo glomerular. As duas primeiras sofrem influência direta do sistema nervoso simpático, de hormônios, dos autacóides que são substâncias vasoativas liberadas nos rins e que atuam localmente, e por um controle intrínseco renal, denominado controle por feedback.
+Sistema nervoso Simpático
+As arteríolas aferentes e eferentes são inervadas por fibras nervosas simpáticas. A ativação simpática, causada pela norepinefrina circulante, promove uma vasoconstrição das arteríolas renais, diminuindo o fluxo sanguíneo renal e a taxa de filtração glomerular. Isso ajuda a preservar o volume sanguíneo e a desviar o sangue para os músculos e o coração, como ocorre durante a reação “luta ou fuga” e exercícios.
+A estimulação simpática leve e/ou moderada não tem tanta influência no fluxo sanguíneo renal e na taxa de filtração glomerular. Um exemplo é a ativação do sistema simpático diante de diminuições moderadas na pressão dos barorreceptores do seio carotídeo, acarretando uma baixa influência sobre a TFG. Assim, o sistema simpático atua promovendo a diminuição significativa da taxa de filtração renal, quando diante de estímulos agudos ou distúrbios graves, como aqueles induzidos pela reação de defesa, isquemia cerebral ou hemorragia grave. Controle da circulação renal por hormônios e autacóides
+Existem diversos hormônios e autacóides que podem atuar sobre a taxa de filtração glomerular: a norepinefrina, epinefrina e endotelina que atuam na diminuição da taxa de filtração glomerular, provocando a constrição dos vasos sanguíneos renais.
+·         Endotelinas
+São peptídeos que podem ser liberados por células endoteliais vasculares lesionadas dos rins, assim como por outros tecidos. Têm ação de vasoconstrição e atuam modulando o tono vasomotor, a proliferação celular e a produção hormonal. A ativação dos receptores nas células renais leva à complexa cascata de alterações, resultando na proliferação e hipertrofia das células mesangiais, vasoconstrição das arteríolas aferentes e eferentes e acúmulo de matriz extracelular, levando a uma redução da filtração glomerular.
+Os níveis de endotelina plasmática também ficam elevados diante de certas fisiopatologias associadas à lesão vascular, como toxemia da gravidez, insuficiência renal aguda e uremia crônica, contribuindo assim na diminuição da TFG.·         Angiotensina
+A angiotensina II pode ser considerada um hormônio circulante e também um autacóide produzido localmente, já que a mesma é produzida tanto nos rins como na circulação. Causa a vasoconstrição das arteríolas eferentes, reduzindo o fluxo sanguíneo renal que sai dos glomérulos.
+Com isso, há um aumento da pressão hidrostática glomerular, e uma maior taxa de filtração. Também há um aumento na reabsorção de sódio e de água. Em seguida, uma dieta pobre em sódio, ou em casos de depleção de volume, há uma maior liberação de angiotensina II, preservando a taxa de filtração glomerular, sendo possível a manutenção da excreção normal de resíduos metabólicos, como a ureia e a creatinina, que dependem da filtração glomerular para a sua eliminação. Já a constrição das arteríolas eferentes, induzida pela angiotensina II, promove o aumento da reabsorção tubular de sódio e de água, o que contribui na restauração do volume sanguíneo e da pressão arterial. ·         Óxido nítrico:
+Autacóide derivado do endotélio e liberado de todos os capilares do corpo, tendo como função diminuir a resistência vascular periférica renal e aumentar a taxa de filtração glomerular. Há um nível basal de liberação de óxido nítrico, que atua a fim de evitar a vasoconstrição excessiva dos rins, permitindo uma excreção normal de sódio e água.
+A formação de óxido nítrico pode ser inibida pela administração de fármacos, fazendo com que tenha um aumento da resistência vascular periférica renal, diminuindo a taxa de filtração glomerular e diminuindo também a excreção urinária de sódio, o que pode ocasionar um aumento da pressão sanguínea. Um exemplo é paciente hipertenso que apresenta uma produção prejudicada de óxido nítrico, o que pode ser a causa do aumento da vasoconstrição renal e da pressão sanguínea aumentada.·         Prostaglandinas e bradicinina:
+Promotoras de vasodilatação, causando o aumento da taxa de filtração glomerular e do fluxo sanguíneo renal. Em algumas situações, como na redução de volume sanguíneo pós-cirúrgico, a administração de anti-inflamatórios não esteroides, como aspirina, podem inibir a síntese de prostaglandinas, causando reduções significativas na taxa de filtração glomerular.
+Auto-regulação da taxa de filtração glomerular
+É a capacidade dos rins de manter uma TFG relativamente constante diante de uma pressão arterial flutuante. A função primária dessa auto-regulação é manter o fornecimento de oxigênio e nutrientes em nível normal e remover produtos indesejáveis do metabolismo, diante das alterações na pressão arterial e também manter uma taxa de filtração constante permitindo um controle da excreção de água e solutos.·         Resposta Miogênica
+       É a capacidade dos vasos sanguíneos de resistirem ao estiramento provocado por um aumento de pressão arterial, desencadeando uma contração da musculatura lisa, ajudando a manter constantes, tanto o fluxo sanguíneo renal quanto a taxa de filtração glomerular. O aumento da pressão arterial abre canais iônicos, como os de íons cálcio do líquido extracelular para o interior das células, sensíveis ao estiramento na arteríola aferente, causando: vasoconstrição, redução do fluxo sanguíneo e redução da pressão capsular, evitando também a hiperdistensão do vaso.·         Feedback Túbulo glomerular
+Para a realização de auto-regulação, os rins têm um mecanismo de feedback que estabelece uma ligação entre as concentrações de NaCl, na mácula densa com o controle da resistência arteriolar renal. O mesmo permite assegurar um fornecimento constante do cloreto de sódio no túbulo distal e auxilia na prevenção de flutuações na excreção renal. O mecanismo de feedback túbulo glomerular tem dois componentes que agem em conjunto: um mecanismo de feedback arteriolar aferente e um mecanismo de feedback arteriolar eferente. Ambos dependem do complexo justaglomerular.
+Está relacionado à liberação de renina e consequente vasoconstrição arterial. As células da mácula densa (localizadas no complexo justaglomerular) são células especializadas nos túbulos distais que estão em íntimo contato com as arteríolas aferentes e eferentes. São sensíveis ao fluxo tubular e segregam substâncias vasoconstritoras e vasodilatadoras que atuam na arteríola aferente.
+A diminuição da concentração de cloreto de sódio na mácula densa causa dilatação das arteríolas aferentes e aumenta a liberação de renina. A renina liberada funciona como enzima que aumenta a formação de angiotensina I, que é convertida em angiotensina II. Essa última contrai as arteríolas eferentes, o que aumenta a pressão hidrostática glomerular e a TFG retorna ao normal.
+
+
+== Glomerulopatias ==
+Entre as frequentes causas de doenças renais crônicas está as doenças glomerulares, chamadas glomerulopatias ou glomerulonefrites São doenças muito variadas, algumas de natureza aguda, outras de curso crônico; umas de caráter eminentemente inflamatório, outras não; algumas sabidamente tratáveis, outras não. Podem  ser classificadas em primárias e ter origem nos rins e acometer apenas esses órgãos ou secundárias e ser associadas a outras doenças, como diabetes, hepatites, doenças autoimunes, dentre outras. Os pacientes com glomerulopatias podem ser assintomáticos ou apresentarem sintomas urinários (urina escura, diminuição do volume urinário) ou inchaço (de membros inferiores, face ou de todo o corpo).Indivíduos normais apresentam filtração glomerular na ordem de 80 a 120 mL/min, podendo variar de acordo com a idade, tamanho e sexo do indivíduo. Na medida em que ocorre o envelhecimento, os órgãos sofrem variações, os rins diminuem a sua capacidade de funcionamento. Idosos podem apresentar rins com dimensões 30% menores do que quando eram jovens.Sendo assim, pessoas mais velhas podem apresentar taxas de até 60 mL/min e não estarem necessariamente com alguma doença renal.
+Não sendo diagnosticada precocemente e/ou não é tratada adequadamente pode progredir para insuficiência renal crônica terminal. Algumas glomerulopatias são acompanhadas de grandes perdas de proteinúria e, em geral, determinam síndrome nefrótica, dentre elas, destacam-se: a doença de lesões mínimas, a glomerulosclerose segmentar e focal e a glomerulopatia membranosa.Algumas glomerulopatias têm apresentação mais aguda e frequentemente associam-se a déficit de função renal, como a glomerulonefrite difusa aguda (GNDA), embora possam ter um curso autolimitado, como costuma acontecer com a glomerulinefrite pós-estreptocócica sendo esta uma glomerulonefrite difusa aguda (GNDA) que se desenvolve após uma infecção por Streptococcus. Em geral, 1 a 3 semanas após uma infecção de garganta ou de pele, o indivíduo começa a apresentar urina escura (cor de chá), inchaço e diminuição do volume urinário. Ao ser examinado, é frequente constatar-se hipertensão arterial sistêmica e os exames de laboratório nessa ocasião revelam hematúria. Proteinúria é variável e déficit de função renal é comum. Quando constatadas as primeiras manifestações renais, comumente a infecção que a antecedeu não mais está presente.
+O tratamento da glomerulonefrite é sintomático, pois de um modo geral ela é autolimitada, e corresponde a cuidados com a retenção excessiva de líquidos pelo corpo, que leva a inchaço, hipertensão arterial e outras eventuais complicações. A glomerulonefrite usualmente tem boa evolução, em geral não evolui para insuficiência
+Entre outras deficiências renais relacionadas com a TFG, Insuficiência renal aguda (IRA), que ocorre quando há alguma injúria renal com rápida queda na função dos rins, a IRA pode ocorrer tanto em pessoas com rins normais como em insuficientes renais crônicos; Glomerulonefrites das doenças sistêmicas, Lesões glomerulares das doenças infecciosas, Lesões glomerulares nas neoplasias, Lesões glomerulares nas doenças metabólicas, Lesões glomerulares nas doenças heredofamiliares, uso de Drogas, toxinas, alérgenos, entre outros motivos[8]. Quando a função renal cai abaixo de 20 ml/min ou quando há sinais claros de ausência de função renal como acidose sanguínea grave, excesso de potássio no sangue, alterações neurológicas pela insuficiência renal, ou quando o paciente urina menos de 100 ml em 24 horas, é indicado que o paciente procure atendimento médico.
+
+
+== Referências ==

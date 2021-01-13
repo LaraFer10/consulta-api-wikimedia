@@ -1,0 +1,48 @@
+Este artigo é sobre o poliovírus. Para a doença poliomielite ou pólio, ver poliomielite.
+
+O poliovírus pertence ao género enterovírus, da família Picornaviridae. É o agente que causa a poliomielite nos humanos. É dos vírus mais simples, com apenas um RNA de cadeia simples em sentido positivo, sem envelope, com uma cápside de proteína icosaédrica de 30nm.É um pequeno vírus de ácido ribonucleico com cerca de 300 Angström de diâmetro, cujo genoma é composto por uma cadeia simples de ARN em sentido positivo e contém cerca de 7500 bases de longitude. O poliovírus foi isolado em 1908 por Karl Landsteiner e Erwin Popper. Em 1981, o genoma do poliovírus foi publicado por dois grupos diferentes de investigadores, um do MIT e outro da Universidade de Nova Iorque. Devido ao seu genoma curto e à sua composição simples (apenas uma molécula de ARN e uma cápside de proteína icosaédrica sem envelope), o poliovírus é considerado um dos vírus mais simples.
+
+
+== Ciclo de vida ==
+O poliovírus infecta as células humanas através da junção com um receptor semelhante ao da imunoglobulina CD155 (também conhecido como receptor do poliovírus [PVR]) na superfície da célula humana. A interacção entre o poliovírus e o CD155 promove uma troca irreversível da partícula necessária para a entrada viral. O método utilizado pelo poliovírus para entrar na célula hóspede não está completamente dirimido. Pensa-se que, uma vez unido à membrana celular, a entrada do ácido nucleico viral pode ocorrer de duas formas: através da formação de um poro na membrana por onde o ARN viral é "injectado" para dentro do citoplasma, ou o vírus entra por endocitose induzida pelo receptor. Em qualquer um destes métodos, a estratégia de penetração do poliovírus é muito ineficiente. Este só consegue iniciar uma infecção em 1% dos casos. O poliovírus é um vírus ARN monocatenario positivo. O genoma contido na partícula viral pode ser usado como ARN mensageiro e imediatamente traduzido pela célula hóspede. Ao entrar, o vírus sequestra o mecanismo de tradução celular causando a inibição da síntese de proteínas celulares, favorecendo assim a produção de proteínas específicas do vírus. Contrariamente ao que acontece no ARN mensageiro celular, o extremo 5' do ARN do poliovírus é extremamente longo, com cerca de 700 nucleótidos, e é altamente estruturado. Esta região do genoma chama-se sítio interno de entrada do ribossoma (IRES) e controla a transcrição do ARN viral. As mutações genéticas nesta área impedem a produção de proteínas virais.
+O ARN mensageiro é transcrito num longo polipeptídeo. Este polipeptídeo é auto-clivado por proteases internas em aproximadamente 10 proteínas virais individuais, entre as quais se incluem:
+
+3Dpol, um ARN dependente de ARN polimerase, que permite ao ARN genómico do pólio ser copiado dentro da célula hóspede
+2Apro e 3Cpro/3CDpro, proteases que clivam o polipeptídio viral
+VPg (3B), uma proteína pequena que se funde com o ARN viral que é necessária para a síntese de cadeias de ARN virais positivas e negativas
+2BC, 2B, 2C, 3AB, 3A, 3B proteínas que compõem o complexo de proteínas necessário para a replicação viral
+VP0, VP1, VP2, VP3, VP4 proteínas da cápside viralA formação de novas partículas de vírus, (por exemplo, o armazenamento de genomas de descendência em cápsides que podem sobreviver fora da célula hospedeira) não é inteiramente compreendida. O poliovírus completamente formado abandona o seu hospedeiro 4 a 6 horas depois do início da infecção. O mecanismo de saída dos vírus da célula é pouco claro, mas cada uma delas antes de morrer pode lançar mais de 10 000 viriões de pólio.
+
+
+== Patogénese ==
+A infecção pelo poliovírus está limitada pela expressão do receptor CD155, que se encontra sozinho nas células humanas, primatas superiores, e o macaco do Velho Mundo. O poliovírus é, no entanto, estritamente um patogénico humano e não infecta de forma natural nenhuma outra espécie.
+Normalmente, a infecção através do poliovírus acarreta a replicação do vírus dentro do trato gastrointestinal e a posterior excreção do vírus nas fezes. Em 95% dos casos só se produz a presença primária, transactora do vírus na corrente sanguínea (chamada viremia) e a infecção pelo poliovírus é assintomática.Em cerca de 5% dos casos, o vírus dissemina-se e replica-se noutros sítios como gordura castanha, sistema reticuloendotelial e músculo. Esta replicação causa viremia secundária e conduz ao desenvolvimento de sintomas menores como a febre, cefaleia e dor de garganta.
+Em cerca de 1 a 2% de infecções por poliovírus, o vírus entra no sistema nervoso central e replica-se no neurónio motor localizado na espinal medula, tronco cerebral ou cortéx motor, resultando na destruição selectiva de neurónios motores, o que causa paralisia temporária ou permanente, e em casos raros, paragem respiratória e morte. Em muitos aspectos, a fase neurológica da infecção pode ser considerada como um desvio acidental da infecção gastrointestinal. Os mecanismos pelos quais o poliovírus se dissemina para o sistema nervoso central são pouco conhecidos, no entanto, surgiram duas teorias para explicar o percurso do vírus.
+A primeira hipótese é a de que o vírus passa directamente do sangue para o sistema nervoso central cruzando a barreira hematoencefálica, sem se unir ao seu receptor celular CD 155. A segunda hipótese sugere que o vírus é transportado do músculo para a espinal medula através de transporte axonal retrógado. Ambas as teorias requerem que o vírus esteja presente no sangue e já se demonstrou que o poliovírus pode unir-se e replicar-se em monócitos, que podem então estar envolvidos na disseminação do vírus dos sítios primários de infecção (o intestino) à circulação e potencialmente ao sistema nervoso central.
+
+
+=== Patologia ===
+Após 7 a 14 dias incubando o poliovírus pode passar a corrente sanguínea (viremia) e causar :
+
+Infecção subclínica, que se cura quase sem causar sintomas e sem deixar sequelas (90 a 95%)
+Quadro febril leve, com sintomas de gripe (4 a 8%)
+Infecção do sistema nervoso, podendo causar poliomelite com paralisia permanente (menos de 2%)
+
+
+=== Diagnóstico ===
+Pode ser isolado em uma amostra de fezes, retal ou de LCR. O LCR apresenta alterações típicas de meningite viral com linfocitose e um alto nível de proteínas. Ou por teste de neutralização com os serotipos de poliovírus endêmicos do local.
+
+
+== Evasão ao sistema imunitário ==
+O poliovírus utiliza dois mecanismos chave para evadir o sistema imunitário. Primeiro, é capaz de sobreviver nas condições de pH altamente ácido do trato gastrointestinal, permitindo ao vírus infectar o hóspede e disseminar-se pelo sistema linfático.Segundo, porque pode replicar-se muito rapidamente (o vírus carrega os órgãos do hóspede antes que se execute uma resposta imune). Em indivíduos imunes, os anticorpos contra o poliovírus estão nas amígdalas e trato gastrointestinal, (especificamente IgA)e são capazes de bloquear a replicação do poliovírus, anticorpos IgG e IgM (plasmáticos) contra o poliovírus podem prevenir a disseminação do vírus nos neurónios motor do sistema nervoso central.
+
+
+== Serotipos ==
+Existem três serotipos de poliovírus, PV1 (Mahoney), PV2 (Lansing), e PV3 (León), cada um com cápsides proteicas diferentes. O PV1 é a forma mais comum encontrada na natureza, no entanto, as três formas são bastante infecciosas. Os três tipos de poliovírus são estruturalmente semelhantes a outros enterovírus humanos como o vírus de Coxsackie, o echovirus, e o erinovírus, que também utilizam moléculas parecidas às imunoglobulinas para entrarem nas células hospedeiras. A infecção causada por um tipo de poliovírus não confere imunidade contra os outros tipos, no entanto, mais do que um ataque na mesma pessoa é extremamente raro.
+
+
+== Ver também ==
+Vacina contra poliomielite
+
+
+== Referências ==

@@ -1,0 +1,116 @@
+Vestígios tecnológicos são sinais, marcas ou objetos deixados por usuários em serviços digitais. Atualmente é muito difícil encontrar situações em que de forma direta ou indireta a tecnologia não esteja envolvida nas ações cotidianas, a verificação destes vestígios, deixados durante a prática criminosa, pode envolver o uso dos recursos tecnológicos que certamente vão auxiliar muito nas investigações. Estes vestígios tecnológicos podem se somar as informações obtidas por meio da investigação convencional. 
+Isso é devido ao maciço uso de recursos tecnológicos para o registro de eventos, estes registros permitem a equipe de investigação recuperar um histórico dos acontecimentos, é assim com circuitos fechados de TV (CFTV), logs em servidores, ou mesmo em históricos de navegação do browser.
+O Código de Processo Penal Brasileiro (CPP), ao se referir a vestígios sem realizar qualquer tipo de distinção quanto ao tipo de vestígio, em seu artigo 158 diz:"Quando a infração deixar vestígios será indispensável o exame de corpo de delito(...)".
+
+
+== Vestígios tecnológicos ==
+Há inúmeros meios que podem ser enquadrados como vestígios tecnológicos e serem empregados como provas eletrônicas, abaixo segue um rol não-taxativo de vestígios tecnológicos:
+
+Documentos de texto, planilhas eletrônicas e bancos de dados;
+Arquivos de áudio, como músicas e gravações;
+Arquivos de vídeo;
+Imagens em qualquer formato;
+Mensagens eletrônicas, como e-mail, torpedos de celular (SMS) etc;
+Interrogatório de réu preso via videoconferência;
+Depoimento Testemunhal Online;
+Procuração Online;
+Registros de conexão
+
+
+== Tipos de vestígios tecnológicos ==
+
+
+=== Vestígios tecnológicos passivos ===
+São vestígios que podem ser armazenados em várias formas, dependendo da situação. Este vestígio pode rastrear o endereço IP do usuário, quando foi criado, e de onde ele vem; esse tipo de vestígio pode ser analisado ​​mais tarde. Vestígio deste tipo podem ser armazenados em arquivos que podem ser acessados ​​pelos administradores para ver as ações realizadas na máquina, sem ser capaz de ver quem executou.
+
+
+=== Vestígios tecnológicos ativos ===
+Podem ser também ser armazenadas em muitas formas, dependendo da situação. Em um ambiente on-line, um vestígio pode ser armazenado por um usuário logado em um site ao fazer um post ou editar, com o nome registrado estando conectado à edição, o arquivo em que é armazenado este registro recebe popularmente o nome de log de dados. Em um ambiente off-line um vestígio pode ser armazenado em arquivos, quando o proprietário do computador usa um keylogger, por isso, os registros podem mostrar as ações realizadas na máquina, e quem as executou.
+
+
+== Diferença entre vestígios, indícios e evidências ==
+O trabalho policial e em especial o do perito - que no Brasil é em geral ligado às polícias - deve responder a questionamentos que permitam dar materialidade ao crime e indicar a autoria do crime.
+
+
+=== Vestígios ===
+Sinal, marca ou objeto que possa ter ligação com a ocorrência criminal. No dicionário de língua portuguesa online define-se como aquilo que fica ou sobra do que desapareceu ou passou .
+
+
+=== Evidência ===
+É o vestígio que após analisado tecnicamente pela perícia, constata-se ter ligação com o fato investigado. No dicionário de língua portuguesa online define-se como qualidade de evidente; certeza manifesta .
+
+
+=== Indícios ===
+O Código de Processo Penal Brasileiro (CPP), em seu artigo 239, afirma que considera-se indício a circunstância conhecida e provada, que tendo relação com o fato, autorize, por indução, concluir-se a existência de outra ou outras circunstâncias. No dicionário de língua portuguesa online define-se como princípio de prova; indicação, sinal .
+
+
+== Crimes Digitais ==
+
+Em 2012 foi aprovada a lei 12737/2012 conhecida como Lei Carolina Dieckmann que tipificou crimes digitais:
+
+Art. 154-A - Invasão de dispositivo informático alheio, conectado ou não à rede de computadores, mediante violação indevida de mecanismo de segurança e com o fim de obter, adulterar ou destruir dados ou informações sem autorização expressa ou tácita do titular do dispositivo ou instalar vulnerabilidades para obter vantagem ilícita. Pena - detenção, de 3 (três) meses a 1 (um) ano, e multa.
+Art. 266 - Interrupção ou perturbação de serviço telegráfico, telefônico, informático, telemático ou de informação de utilidade pública - Pena - detenção, de um a três anos, e multa.
+Art. 298 - Falsificação de documento particular/cartão - Pena - reclusão, de um a cinco anos, e multa.Além dos crimes digitais, há possibilidade da utilização de dispositivos computacionais para cometer crimes já tipificados no Código Penal Brasileiro (CPB), um dos entendimentos nestes casos é que o computador é apenas o meio para a execução do crime, são exemplos a calúnia, injúria e a difamação.
+
+
+== Trabalho de um Investigador ==
+	Um investigador deve ser capaz de através das informações previamente coletadas conseguir identificar evidências. Nos crimes que utilizam meios tecnológicos, a possibilidade do autor do crime conseguir apagar todos os vestígios, evidências ou indícios que o identifiquem é praticamente nula.
+A equipe de investigação sabe que se um indivíduo usa a Internet para cometer um crime, ou até mesmo para sua navegação cotidiana, ele estará deixando rastros que permitem chegar a localização física dos recursos ou equipamentos de rede utilizados durante o acesso. Esta é uma das funções do perito forense, indentificar evidências que respondam a perguntas ao suposto crime.
+
+
+== Colaboração do Provedor ==
+Para se chegar a localização física, endereço real de onde parte a conexão, bem como conseguir vestígios da navegação é comum necessitar da colaboração dos provedores de serviço que administram o serviço utilizado pelo criminoso, na maior parte dos casos estas informações só são fornecidas pelos provedores mediante apresentação de ordem judicial.
+O Marco Civil  impõe ao provedor (in verbis administrador de sistema autônomo) a obrigação de manter os registros da conexão pelo prazo de um ano. Ao mesmo tempo que garante a privacidade dos usuários, o Marco Civil facilita o trabalho de busca de vestígios tecnológicos por parte da autoridade policial e do próprio ministério público, antes do advento desta lei não havia padronização a respeito da guarda dos registros de conexão.
+
+
+== Preservação dos Vestígios ==
+Na Revista Perícia Federal Edição nº 29   a perita criminal federal Kátia Michelin afirma que: “O perito deve avaliar quais são os vestígios mais sensíveis à degradação naquele ambiente e então priorizar a coleta. Todas as etapas devem ser registradas e devem ser utiliza dos os materiais adequados para coleta (...). Por vezes há vestígios que não podem ser levados ao laboratório e precisam ser interpretados no local (...)". 
+O processo de preservação dos vestígios deve ser seguido à risca e respeitar a cadeia de custódia, um
+método rigoroso usado para manter e documentar a história cronológica do vestígio, mais tarde usado como prova.
+
+
+=== Vestígios Tecnológicos em Forense Computacional ===
+Se o objetivo é a preservação de vestígios em computadores, ou dispositivos de armazenamento em que estes vestígios são voláteis ou que com são muito sujeitos a alteração em seu conteúdo, devem ser empregados mecanismos suficientemente eficazes na detecção de qualquer alteração da informação armazenada .
+
+
+== Grampo telefônico ==
+Com emissão de ordem judicial de interceptação das linhas de algum suspeito investigado em processo, as operadoras de telefonia fixa e móvel devem enviar os dados de áudios para a polícia investigadora. São as operadoras quem que fazem o grampo e passam a monitorar as chamadas. As gravações devem ser destruídas depois de enviadas.
+
+
+== Alguns Casos de Trabalho Pericial em que Houve Coleta de Vestígios Tecnológicos ==
+
+
+=== Fotos Íntimas de Carolina Dieckmann ===
+A atriz Carolina Dieckmann teve fotos íntimas suas divulgadas pela internet, este episódio ganhou grande repercussão na mídia nacional e impulsionou o aprimoramento da legislação penal brasileira, com a edição e publicação da Lei Carolina Dieckmann que é como ficou conhecida a Lei Brasileira 12.737/2012, sancionada em 3 de dezembro de 2012 pela Presidente Dilma Rousseff, que promoveu alterações no Código Penal Brasileiro (Decreto-Lei 2.848 de 7 de dezembro de 1940), tipificando os chamados delitos ou crimes informáticos.
+Detalhes do trabalho policial desenvolvido no caso podem ser encontrados na página da Info no Blog de Felipe Zmoginski .
+
+
+=== Perícia na Operação Satiagraha ===
+Em 2008 durante uma grande operação da Polícia Federal, denominada Operação Satiagraha, foram encontrados e apreendidos discos rígidos que estavam com seu conteúdo criptografado. Após tentar desvendar o conteúdo armazenado nos discos e não obter sucesso, a Polícia Federal Brasileira solicitou ajuda da polícia federal americana, o FBI, que também não obteve sucesso após mais de um ano de tentativas. Os discos rígidos encontrados ocultos são um exemplo em que vestígios não resultaram em evidências.
+
+
+== Ver também ==
+Anonimato
+Cyberstalking
+Identificação na internet
+Navegação privada
+Perícia
+Perito criminal
+Privacidade digital
+
+
+== Referências ==
+
+
+== Bibliografia ==
+MARSHALL, Angus MacKenzie. Digital Forensics: Digital Evidence in Criminal Investigations. EUA: Wiley-Blackwell, Dez 2008. 180p.
+
+
+== Ligações externas ==
+«O arquivo eletrônico como meio de prova» 
+«O documento eletrônico como meio de prova» 
+«O documento eletrônico como meio de prova no Brasil» 
+«O documento eletrônico e sua eficácia como prova processual: desmistifcando o preconceito às novas tecnologias» 
+«Pew Internet: Digital Footprints» (PDF) (em inglês) 
+Revista Perícia Federal
+Revista Eng Tech Science-FG

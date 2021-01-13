@@ -1,0 +1,19 @@
+Proteômica (português brasileiro) ou Proteómica (português europeu) é uma área da Biologia Molecular,  Biologia Celular, Genética e Bioquímica. A Proteômica consiste na análise global e em larga escala dos Proteomas, que são o conjunto de proteínas e suas isoformas expressas em uma amostra biológica, ou seja, em um organismo, tecido, biofluido ou célula. Ela inclui técnicas que permitem identificar, quantificar e estudar a expressão proteica e modificações pós-traducionais das proteínas. 
+Este termo começou a ser utilizado em 1995 para se referir ao complemento de proteínas de um genoma.
+
+
+== Definição ==
+No trabalho primordial Wasinger e colaboradores, diz-se que:"O se refere ao complemento total de proteínas de um genoma."De acordo com Anderson e Anderson (1998), a Proteômica pode ser definida como:“O uso de medidas quantitativas de expressão gênica ao nível de proteína para caracterizar processos biológicos (e.g., doenças e efeitos de drogas) e decifrar os mecanismos de controle da expressão gênica."Já de acordo com a revisão de literatura de Mallick e Kuster (2010), a Proteômica é:"O estudo em larga escala do Proteoma, particularmente em relação à expressão, estrutura, função, modificações, interações e mudanças em diferentes ambientes e condições."
+
+
+== Metodologias ==
+Entre os métodos de análise, estão eletroforese em gel bidimensional e espectrometria de massa.. Várias outras técnicas de caracterização, identificação de modificações, análise de expressão e de função de proteínas são englobados pela Proteômica.
+
+
+=== Eletroforese em gel bidimensional ===
+A eletroforese em gel bidimensional (2DE) é uma das metodologias mais clássicas e bem estabelecidas da Proteômica. Esta metodologia é derivada da técnica de eletroforese, que se baseia na migração diferencial de macromoléculas quando submetidas a uma corrente elétrica.
+
+Geralmente, as proteínas totais de uma amostra são inicialmente separadas de acordo com o seu potencial isoelétrico (primeira dimensão). Em seguida, as proteínas são separadas por SDS-PAGE (eletroforese em gel de poliacrilamida acrescida de dodecil sulfato de sódio), o que as segrega, principalmente, por peso molecular (segunda dimensão). Como resultado, há a obtenção de um gel com proteínas em spots que correspondem a diferentes pesos moleculares e pontos isoelétricos. Após essa etapa, os spots proteicos podem ser retirados do gel e submetidos a análises adicionais, como caracterização por espectrometria de massas.
+
+
+== Referências ==

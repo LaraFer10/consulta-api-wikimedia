@@ -1,0 +1,103 @@
+Fenol é uma função orgânica caracterizada por uma ou mais hidroxilas ligadas a um anel aromático. Apesar de possuir um grupo -OH característico de um álcool, o fenol é mais ácido que este, pois possui uma estrutura de ressonância que estabiliza a base conjugada. São obtidos principalmente através da extração de óleos a partir do alcatrão de hulha.
+Fenol também é o nome popular do fenol mais simples, que consiste em uma hidroxila ligada ao anel benzênico. Outros nomes para a mesma substância incluem: benzenol; ácido carbólico; ácido fénico (ou ácido fênico, no Brasil); ácido fenílico; hidroxibenzeno; mono-hidroxibenzeno. Sua fórmula molecular é C6H5OH
+Geralmente os fenóis são sólidos, cristalinos, tóxicos, cáusticos e pouco solúveis em água.
+
+
+== Produção do hidroxibenzeno ==
+O fenol (hidroxibenzeno) pode ser produzido da oxidação parcial do benzeno, pelo processo do cumeno, ou pelo processo Raschig-Hooker. Ele pode também ser encontrado como um produto da oxidação do carvão mineral.
+
+
+== Efeitos potenciais à saúde ==
+O fenol (hidroxibenzeno) é corrosivo e irritante das membranas mucosas. Potencialmente fatal se ingerido, inalado ou absorvido pela pele. Causa queimaduras severas e afeta o sistema nervoso central, fígado e rins.
+Também é extremamente tóxico para animais como os gatos.
+A substância pode provocar a longo prazo câncer  de diversos tipos.
+
+
+=== Inalação ===
+Provoca dispneia e tosse. A absorção sistêmica provoca danos ao fígado, rins e sistema nervoso central.
+
+Cuidados:Remover o indivíduo ao ar livre. Se não estiver respirando, fazer respiração artificial.
+Se for ingerido, dar óleo de rícino ou polietileno glicol.
+
+
+=== Contato com a pele ===
+Pode provocar desde uma eritema até necrose e gangrena dos tecidos, dependendo do tempo de contato e da concentração das soluções. O maior perigo do fenol é a habilidade de penetrar rapidamente na pele, causando severas lesões que podem ser fatais.
+
+Cuidados:
+Usar polietilenoglicol, não recomendável usar água, pois o mesmo é pouco solúvel, fazendo aumentar a área atingida Lavar imediatamente em água corrente por, pelo menos, 30 minutos.
+Remover a roupa contaminada e os sapatos destruindo-os depois.
+Procurar ajuda médica.
+
+
+=== Contato com os olhos ===
+Pode provocar inchaço da conjuntiva; a córnea torna-se branca e muito dolorida, podendo ocorrer perda de visão.
+
+Cuidados:Lavar imediatamente com água corrente por, pelo menos, 15 minutos, abrindo e fechando ocasionalmente as pálpebras.
+Procurar ajuda médica imediatamente.Recomendações ao médico: Fazer uma lavagem gástrica usando 40% de leite ou água. Fazer um eletrocardiograma. Monitorar sinais vitais, funções hepáticas e renais.
+
+
+== Propriedades do hidroxibenzeno ==
+
+O fenol (hidroxibenzeno) tem uma limitada solubilidade em água (8,3 g/100 ml). É levemente ácido: a molécula tem fracas tendências a perder o íon H+ do grupo hidroxila, resultando no altamente solúvel ânion fenolato C6H5O−, também chamado ânion fenóxido. Comparado a álcoois alifáticos, o fenol (hidroxibenzeno) mostra uma muito mais alta acidez; ele reage com NaOH aquoso perdendo H+, onde muitas cadeias longas de álcoois alifáticos não o fazem. Entretanto, muitos ácidos carboxílicos são mais ácidos que o fenol (hidroxibenzeno). Uma explicação para a maior acidez que os álcoois é a ressonância de estabilização do ânion fenóxido pelo anel aromático. Deste modo, a carga negativa no oxigênio é dividida pelos átomos em posição orto e para. Em outra explicação, a maior acidez é o resultado de sobreposição natural entre os pares solitários do oxigênio e o sistema aromático. Numa terceira, o efeito dominante é a indução da carbonos hibridizados sp²; a retirada comparativamente mais poderosa da densidade de elétrons é provida pelo sistema sp² comparado a um sistema sp³ permite a grande estabilização do oxiânion. Para chegar-se a esta conclusão, pode-se examinar a pKa do enol da acetona, a qual é 10.9 em comparação com o fenol com uma pKa de 10.0.
+
+
+== Os fenóis ==
+
+
+=== Nomenclatura e exemplos ===
+De acordo com a nomenclatura oficial IUPAC os fenóis podem ser nomeados usando o anel aromático como cadeia principal e os grupos ligados a ele como radicais, seguindo a linha: radical-fenol ou radical-hidroxi + nome do anel aromático (benzeno, naftaleno e etc).
+Exemplo: 2-metil-fenol ou 2-metil-hidroxibenzeno.
+
+
+=== Propriedades físicas ===
+Os fenóis mais simples são líquidos ou sólidos de baixo ponto de fusão e ponto de ebulição elevado, devido à ligação das moléculas, umas às outras, por ligações de hidrogênio. São, em geral, pouco solúveis ou insolúveis em água, de cheiro forte e característico. São tóxicos e têm ação cáustica sobre a pele. A menos que exista na molécula algum grupo susceptível de produzir cor, os fenóis são incolores. Se oxidam facilmente, como as aminas, e muitos fenóis apresentam cor devido à presença de produtos de oxidação corados.
+A comparação das propriedades físicas dos nitrofenóis isômeros faz ressaltar um aspecto importante. Veja:
+
+isômero             PE (70 mmHg)    solubilidade            volatilidade em vapor d'água
+----------------------------------------------------------------------------------------
+orto-nitrofenol 100 °C     0,20 g /100g de H2O     volátil em vapor d'água
+meta-nitrofenol 194 °C     1,35 g /100g de H2O     não volátil em vapor d'água
+para-nitrofenol decompõe-se     1,69 g /100g de H2O     não volátil em vapor d'água
+
+Notamos que o orto-nitrofenol tem ponto de ebulição bem mais baixo e muito menor solubilidade em água que os outros isômeros, além de ser o único facilmente destilável em corrente de vapor d'água. Como se explica essas diferenças?
+Consideremos primeiramente os isômeros meta e para. Eles têm pontos de ebulição mais elevados devido à existência de ligações de hidrogênio intermoleculares. A solubilidade mais elevada se deve à formação de ligações de hidrogênio com as moléculas de água. A destilação em corrente de vapor depende da substância apresentar apreciável pressão de vapor à temperatura de ebulição da água. A existência de ligações de hidrogênio intermoleculares impede a evaporação dos isômeros meta e para que, portanto, não destilam.
+Observando-se o isômero orto-nitrofenol em um modelo molecular, podemos ver claramente que a pequena distância dos grupos NO2 e OH e as suas disposições no anel favorecem a formação de ligações de hidrogênio intramoleculares, ou seja, uma ponte de hidrogênio dentro da molécula. Neste isômero, portanto, as ligações de hidrogênio intramoleculares tomam o lugar das ligações de hidrogênio intermoleculares.
+
+
+=== Obtenção ===
+Muitos fenóis simples como o fenol comum, os naftóis e os cresóis podem ser obtidos diretamente do alcatrão da hulha. Por isso, em laboratório, as reações geralmente objetivam a produção de fenóis com estruturas mais complexas.
+Principais reações são: hidrólise de sais de diazônio, hidroxilação de haletos aromáticos , oxidação do cumeno.
+
+
+=== Propriedades químicas ===
+Os fenóis têm caráter relativamente ácido, porém, menos ácido que os ácidos carboxílicos Os fenóis podem ser facilmente diferenciados dos álcoois por meio de alguns testes simples em laboratório.
+
+
+=== Sais de fenóis ===
+Como já foi dito, os fenóis são compostos relativamente ácidos, e podem ser convertidos nos respectivos sais por soluções aquosas de hidróxidos. Estes sais são conhecidos como fenóxidos ou fenolatos. Como seria de se esperar, os fenóis e seus sais têm características opostas, quanto à solubilidade: os sais são solúveis em água e insolúveis em solventes orgânicos.
+A força ácida dos fenóis e a solubilidade dos respectivos sais em água podem utilizar-se tanto em análise quanto em separações. Uma substância insolúvel em água, solubilizada por soluções aquosas de hidróxido, mas não por soluções aquosas de bicarbonato, tem, por força, de ser mais acídica do que a água, mas menos acídica do que os ácidos carboxílicos; a maioria dos compostos neste escalão de acidicidade são fenóis. Com base na solubilidade em meio alcalino, podem separar-se os fenóis dos compostos não acídicos; por meio da insolubilidade em bicarbonato é possível separá-los dos ácidos carboxílicos.
+Um dos sais de fenol mais comum e útil é o fenolato de sódio, do qual pode-se obter o salicilato de sódio.
+
+
+== Aplicações ==
+Os fenóis encontram diversas aplicações práticas, tais como:
+
+Desinfetantes (fenóis e cresóis)
+Preparação de resinas e polímeros, como a baquelite.
+Preparação do ácido pícrico, usado na preparação de explosivos
+Síntese da aspirina e de outros medicamentos
+Utilizado como catalisador
+Entre os diidroxifenóis, a hidroquinona é a mais importante. A partir dela se produzem as quinonas, que são compostos coloridos, variando do amarelo ao vermelho. Não apresentam caráter aromático, sendo fortemente insaturados. A ação redutora da hidroquinona, que à temperatura ambiente age com grande rapidez sobre os sais de prata, faz dela um revelador fotográfico de largo emprego.Enfim, numerosos derivados do fenol estão difundidos na natureza; entre estes o eugenol e o isoeugenol, que constituem essências de cravo e noz-moscada.
+Houve referências que o ácido carbólico (fenol) pudesse ter sido utilizado por certos  estigmatizados para produzirem suas chagas. Porém, os efeitos  para a saúde (com risco de envenenamento geral) justificam a falta de aceitação dessas explicações cépticas (carece de fontes).
+Em 1867, um cirurgião escocês, Joseph Lister, passou a utilizar o ácido carbólico, um líquido barato até então utilizado na limpeza de esgotos, para o tratamento de ferimentos. Nessa época, Pasteur havia acabado de descobrir que a causa de deterioração de alimentos era devida a microorganismos.O fenol foi utilizado em injecções letais em Auschwitz (carece de fontes).
+
+
+== Referências ==
+
+
+== Ver também ==
+Resorcina
+
+
+== Ligações externas ==
+«Principais Reações Químicas dos Fenóis»

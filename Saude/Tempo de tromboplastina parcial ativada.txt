@@ -1,0 +1,86 @@
+Tempo de tromboplastina parcialmente ativada também conhecida pelas siglas KTTP, PTT, TTPA ou TTPa, é um exame laboratorial que avalia a eficiência da via intrínseca  na medição da formação do coágulo de fibrina.
+
+
+== Usos ==
+Junto a dosagem de plaquetas e tempo de tromboplastina, o TTPA é um exame que deve ser incluído em avaliações pré-operatórias.
+É um teste usado para monitorar assegurando um bom uso de anticoagulante como a heparina.O teste apresenta-se prolongado quando um dos fatores abaixo apresentam-se abaixo do valor normal ou quando há presença de seus inibidores:
+
+Fatores da via intrínseca:
+Fator XII;
+Fator XI;
+Fator IX;
+Fator VIII.
+Fatores da via comum:
+Fator X;
+Fator V;
+Fator II (Protrombina);
+Fator I (Fibrinogênio).Ele é prolongado em casos de:
+
+Déficit de precalicreína;
+Déficit de Cininogênio de Alto Peso Molecular;
+Presença de anticoagulante lúpico.
+
+
+== Metodologia ==
+Hoje em dia, o TTPA é realizado por aparelhos automatizados. Sua medição se baseia na medição do tempo de coagulação de um plasma sanguíneo recalcificado em presença de cefalina e de um ativador (caolin, sílica, ácido elágico).
+O resultado é expresso em segundos e através de um controle diário é feito um ratio ou uma razão.
+
+  
+    
+      
+        R
+        a
+        t
+        i
+        o
+        =
+        
+          
+            
+              T
+              T
+              P
+              
+                A
+                
+                  p
+                  a
+                  c
+                  i
+                  e
+                  n
+                  t
+                  e
+                
+              
+            
+            
+              T
+              T
+              P
+              
+                A
+                
+                  c
+                  o
+                  n
+                  t
+                  r
+                  o
+                  l
+                  e
+                
+              
+            
+          
+        
+      
+    
+    {\displaystyle Ratio={\frac {TTPA_{paciente}}{TTPA_{controle}}}}
+  
+
+Valores de referência: 25 a 45 segundos.Resumindo: TTPA é o tempo em que a protrombina será convertida em  trombina para a formação do coagulo. Quanto maior for esse tempo, maior será o tempo necessário para a coagulação sanguínea. 
+
+
+== Ligações externas ==
+http://www.diagnosticosdaamerica.com.br/exames/tempo_tromboplastina_parcial_ativada.shtml

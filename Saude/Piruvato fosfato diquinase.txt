@@ -1,0 +1,51 @@
+O piruvato fosfato diquinase ou PPDK é uma enzima da família das transferases que catalisa a reação química
+ATP + piruvato + fosfato <=> AMP + fosfoenolpiruvato + difosfato
+Essa enzima foi estudada principalmente em plantas, mas também foi estudada em algumas bactérias . É uma enzima chave na gliconeogênese e fotossíntese, responsável pela reversão da reação realizada pela piruvato-quinase na glicólise de Embden-Meyerhof-Parnas. 
+Pertence à família das transferases, para ser específico, aqueles que transferem grupos contendo fósforo (fosfotransferases) com aceitadores emparelhados (dicinases). Essa enzima participa do metabolismo do piruvato e fixação de carbono. 
+
+
+== Nomenclatura ==
+Árvore EC
+     2 Transferases
+         2.7 Transferência de grupos contendo fósforo
+            2.7.9 Fosfotransferases com aceitadores emparelhados
+               2.7.9.1 piruvato, fosfato diquinase
+Nome aceito: Piruvato, fosfato dikinase.
+Nome(s) Alternativo(s): PPDK, Piruvato, ortofosfato dicinase, Piruvato, fosfato dikinase.
+Reação catalisada
+
+
+=== ATP + piruvato + fosfato <=> AMP + fosfoenolpiruvato + difosfato ===
+
+
+== Mecanismo de reação ==
+O PPDK catalisa a conversão de piruvato em fosfoenolpiruvato (PEP), consumindo 1 molécula de ATP e produzindo uma molécula de AMP no processo. O mecanismo consiste em 3 reações reversíveis: A enzima PPDK se liga ao ATP, para produzir AMP e um PPDK difosforilado.
+O PPDK difosforilado liga-se ao fosfato inorgânico, produzindo difosfato e PPDK (mono) fosforilado.
+O PPDK fosforilado se liga ao piruvato, produzindo fosfoenolpiruvato e regenerando o PPDK.
+A reação é semelhante à reação catalisada pela piruvato-quinase, que também converte o piruvato em PEP.  No entanto, a piruvato-cinase catalisa uma reação irreversível e não consome ATP. Por outro lado, o PPDK catalisa uma reação reversível e consome 1 molécula de ATP para cada molécula de piruvato convertida.
+Atualmente, os detalhes de cada etapa mecanicista são desconhecidos 
+
+
+== As plantas C4 e a concentração de CO2 ==
+O PPDK é usado na via C4, para melhorar a eficiência da fixação de dióxido de carbono.  O ciclo C4 foi elucidado na década de 60 do século passado por Marshall Hatch e Roger Slack. A enzima que age como mediadora da reação onde o piruvato é devolvido às células do mesófilo, onde ele é fosforilado, para novamente formar PEP, a piruvato-fosfato-dicinase, tem a ação incomum de ativar um grupo fosfato pela hidrólise de ATP a AMP e PPi. Este PPi é mais uma vez hidrolisado a dois Pi, que é equivalente ao consumo de um segundo ATP. Portanto, o C02 é concentrado nas células da bainha vascular à custa de dois ATP por CO 2.As plantas C4, que compreendem cerca de 5o/o das plantas terrestres, ocorrem amplamente em áreas não sombreadas de regiões tropicais, porque crescem mais rapidamente sob condições quentes e ensolaradas do que outras plantas, as chamadas plantas C3 (assim chamadas porque elas fixam inicialmente o C02 na forma de ácidos de três carbonos). Em climas mais frescos, onde a fotorrespiração é um fardo menor, as plantas C3 têm vantagem, porque requerem menos energia para fixar o C02. 
+
+
+== Regulação ==
+O PPDK da planta é regulado pela proteína reguladora de piruvato, fosfato diquinase (PDRP).  Quando os níveis de luz são altos, o PDRP desfosforila Thr456 no PPDK usando AMP, ativando a enzima.  O PDRP desativa o PPDK fosforilando o mesmo resíduo de treonina, usando difosfato. O PDRP é um regulador exclusivo, porque catalisa a ativação e a desativação do PPDK, por meio de dois mecanismos diferentes. Pesquisas sobre PPDK de milho sugerem que íntrons, sequências terminadoras e talvez outras seqüências potenciadoras agem cooperativamente para aumentar o nível de mRNA funcional e estável. O cDNA do PPDK foi expresso apenas levemente no arroz transgênico, em comparação com o DNA intato, que teve expressão significativa. 
+
+
+== Referências ==
+
+
+== Ligações externas ==
+ExplorEnz
+ExPASy
+KEGG
+MetaCyc
+SABIO-RK
+NCBI: PubMed, Protein, Nucleotide, Structure, Gene, OMIM
+IUBMB Enzyme Nomenclature
+UniProt
+PDB
+PROSITE Database of protein families and domains
+InterPro (database of protein families, domains and functional sites)

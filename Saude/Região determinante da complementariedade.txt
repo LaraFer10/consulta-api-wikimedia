@@ -1,0 +1,15 @@
+As regiões determinantes da complementariedade (CDR, pelas suas siglas em inglês) são uma parte dos domínios variáveis das cadeias pesada e leve das imunoglobulinas (anticorpos) produzidos pelas células B, e dos receptores da célula T, situados na superfície das células T, por onde estas moléculas se ligam ao seu antígeno de maneira altamente específica. Um conjunto de CDR constitui um parátopo. Como são as partes mais variáveis dessas moléculas, os CDR são essenciais para a diversidade de especificidades para o antígeno geradas pelos linfócitos.
+
+
+== Localização e estrutura ==
+
+Na sequência de aminoácidos dum domínio variável dum receptor de antígeno existem três CDR (CDR1, CDR2 e CDR3) posicionados de forma não consecutiva. Como os receptores de antígeno são formados normalmente por dois domínios variáveis (em duas cadeias polipeptídicas diferentes, a cadeia pesada das imunoglobulinas e a leve), existem seis CDR em cada receptor de antígeno que proporcionam contacto em conjunto com o antígeno. Uma só molécula de anticorpo tem dois receptores de antígenos (nas extremidades da região Fab) e, portanto, contém doze CDR. Num anticorpo pentamérico como a IgM existem, no total, 60 CDR.
+Como a maior parte da variação da sequência associada às imunoglobulinas e receptores de células T (TCR) se encontra nos CDR, estas regiões costumam ser chamadas regiões hipervariáveis. Dentro do domínio variável, CDR1 e CDR2 encontram-se na região (V) da cadeia polipeptídica, e CDR3 inclui parte da região V e toda a região da diversidade (D, só na cadeia pesada) e a região de junção ou união (J). A CDR3 é a mais variável.
+A estrutura terciária de um anticorpo é importante para analisar e projectar novos anticorpos. As estruturas tridimensionais dos CDR não-H3 de anticorpos foram agrupadas e classificadas por Chothia et al. e mais recentemente por North et al. A modelagem por homologia é um método computacional para construir estruturas terciárias a partir de sequências de aminoácidos. As denominadas regras H3 são regras empíricas para construir modelos de CDR3.
+
+
+== Referências ==
+
+
+== Ligações externas ==
+MeSH Complementarity+determining+regions

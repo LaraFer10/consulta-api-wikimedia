@@ -1,0 +1,55 @@
+As células exterminadoras naturais ou células NK (do inglês Natural Killer Cell) são um tipo de linfócitos citotóxicos necessários para o funcionamento do sistema imunitário inato. Têm um papel importante no combate a infecções virais e células tumorais. Identificadas pela primeira vez em 1975, foram rotuladas de Exterminadoras Naturais (Natural Killer), pela sua actividade citotóxica contra células tumorais de diferentes linhagens, sem a necessidade de reconhecimento prévio de um antigénio específico, contrariamente ao funcionamento dos linfócitos T. 
+O termo natural killer deriva do fato de que sua principal função é a morte das células infectadas, similar às células killer do sistema imune adaptativo (um linfócito T CD8+ ativado), os linfócitos T citotóxicos (CTLs), e elas estão prontas para o fazer uma vez que tenham se desenvolvido, sem nova diferenciação (por isso, natural). 
+
+
+== Origem ==
+Partilham um progenitor comum com os outros linfócitos, também sendo originados de linfoblastos. São produzidos na medula óssea e em análises histológicas são descritos como grandes e granulares.
+
+
+== Receptores de células NK ==
+Os receptores de células NK podem também ser diferenciados com base na sua função. As células NK não são um subtipo da família dos linfócitos T. Os receptores de citotoxicidade natural (Natural cytotoxicity receptors) induzem directamente a apoptose após se ligarem ao ligando Fas que indica a infecção celular. 
+A activação de células NK é determinada através do balanço entre a estimulação de receptores inibitórios e de receptores excitatórios. Por exemplo, se a sinalização de um receptor inibitório for mais proeminente, então a actividade da célula NK vai ser inibida; similarmente, se o sinal excitatório for dominante, resulta então na activação da célula NK.
+
+
+=== Receptores excitatórios ===
+Ly49 (homodímeros). São receptores da família de lectinas do tipo-C. Multigénicos em ratos; os humanos, por sua vez, possuem um pseudogene que codifica para Ly49, o receptor para clássicas (polimórficas) moléculas MHC I.
+Receptor de citotoxicidade natural (NCR) (do inglês natural cytotoxicity receptor); uma proteína transmembranar do tipo 1 que pertence à superfamília de imunoglobulinas. Quando estimulados, são responsáveis pela mediação da actividade das células NK e pela secreção de IFNγ. São capazes de se ligar a ligandos virais, ligandos de origem bacterial e a ligandos celulares relacionados com PCNA.
+CD16 (FcγIIIA); tem um papel fundamental na citotoxicidade celular mediada e dependente de anticorpos. Ligam-se a IgG.
+
+
+=== Receptores inibitórios ===
+Killer-cell immunoglobulin-like receptors (KIRs); pertencem a uma família multigénica. Encontram-se presentes em primatas não-humanos e são os principais receptores para ambos os clássicos MHC I (HLA-A, HLA-B, HLA-C) e não-clássicos Mamu-G (HLA-G) em primatas. Alguns KIRs são específicos para certos subtipos de HLA. A maioria dos KIRs são inibitórios e dominantes.
+CD94/NKG2 (heterodímeros); Um receptor da família de lectinas do tipo-C, são conservados em ambos animais roedores e primatas e identifica moléculas MHC I não-clássicas tais como HLA-E.
+ILT ou LIR (leukocyte inhibitory receptors); são recém-descobertos membros da família de receptores Ig.
+Ly49 (homodímeros); têm isoformas ,tanto inibitórias como excitatórias. São altamente polimórficos a nível populacional; apesar de não serem estruturalmente relacionados com os KIRS, são homólogos funcionais dos KIRs em ratos. Ly49s são os receptores para moléculas clássicas (polimórficas) MHC I.
+
+
+== Activação ==
+Elas são ativadas em resposta a diversos estímulos, nomeadamente por citocina produzidos por outros elementos do sistema imunitário, por estimulação dos receptores de Imunoglobulinas FcR, presentes na sua membrana celular, e pelos receptores de activação ou inibição, específicos das células NK.
+Estas células são activadas em resposta a interferons ou a citocinas (principalmente IL-12) provenientes de macrófagos e células dendríticas. A sua principal função está relacionada com as infecções virais e o seu controle, através da eliminação das células infectadas, evitando assim a multiplicação dos vírus.
+
+
+== Função da Célula NK ==
+
+
+=== Defesa inata ===
+As células NK são componentes importantes na defesa imunitária não especifica. Estas células não destroem os microorganismos patogénicos directamente, tendo uma função mais relacionada com a destruição de células infectadas ou que possam ser cancerígenas. Não são células fagocíticas. Destroem as outras células através de mecanismos semelhantes aos usados pelas T CD8+ (T Citotóxicas), através da degranulação e libertação de enzimas que activam os mecanismos de apoptose da célula atacada. São quimicamente caracterizadas pela presença de CD56 e ausência de CD3.
+
+
+==== Citotóxicas ====
+As células NK são citotóxicas, ou seja, identificam as células que exibem um sinal de mal funcionamento e as destroem.
+
+
+=== Células reguladoras ===
+As NKC podem atuar como células reguladoras quando envolvidas em interações recíprocas com células dendríticas, macrófagos, linfócitos T e células endoteliais.
+
+
+=== Defesa específica ===
+Novas pesquisas indicam que células NK também atuam secundariamente como defesa específica ao estimular a produção de células de memória. 
+
+
+== Pesquisas ==
+Pesquisas com manipulação de células NK tem resultado indicam promissora capacidade de utilização dessas células para melhorar a eficiência de transplante de órgãos hematopoiéticos e sólidos, para promover a imunoterapia antitumoral e no controle de doenças inflamatórias e auto-imunes.
+
+
+== Referências ==

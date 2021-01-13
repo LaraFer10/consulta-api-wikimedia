@@ -1,0 +1,25 @@
+O peptidoglicano, por vezes denominado mureína, é um heteropolissacarídeo ligado a péptidos presente na parede celular de procariontes. 
+É formado por dois tipos de açúcares (o ácido N-acetilmurâmico e a N-acetilglucosamina) e alguns aminoácidos. O peptidoglicano é a estrutura que confere rigidez à parede celular de bactérias, determina a forma da bactéria e protege da lise osmótica, quando em meio hipotónico.
+
+
+== Localização celular ==
+O posicionamento da camada de peptidoglicano varia com o tipo de procarionte:
+
+em bactérias Gram-negativas, o peptidoglicano situa-se entre a membrana interior e a membrana exterior da bactéria;
+em bactérias Gram-positivas, não existe membrana exterior, cumprindo o peptidoglicano esta função e tendo em geral uma espessura superior à encontrada em bactérias Gram-negativas;
+as cianobactérias têm uma organização similar às demais bactérias Gram-negativas, mas a camada de peptidoglicano é mais resistente;
+as arqueas têm uma organização similar às bactérias Gram-positivas, mas o polímero é denominado pseudopeptidoglicano, por possuir uma constituição química ligeiramente diferente.
+
+
+== Estrutura ==
+O peptidoglicano é um heteropolímero formado por cadeias lineares de resíduos de açúcares chamados glicanos e por curtos peptídeos que constituem ligações cruzadas entre as cadeias polissacarídicas. Estas cadeias são constituídas por resíduos alternados de N-acetilglucosamina e ácido N-acetilmurâmico associados por ligações glicosídicas β (1 → 4). Os peptídeos curtos (formados por quatro a cinco resíduos de aminoácidos) formam ligações cruzadas entre as cadeias polissacarídicas paralelas e encontram-se anexados aos resíduos de ácido N-acetilmurâmico. 
+Os peptídeos possuem aminoácidos de configuração L e D alternados (a presença de aminoácidos de configuração D é uma característica típica do peptidoglicano). Nas bactérias Gram-negativas como a Escherichia coli, o peptídeos consiste em L-alanina (o primeiro aminoácido ligado ao ácido N-acetilmurâmico), D-glutamato, ácido diaminopimélico e D-alanina e dois tetrapeptídeos vizinhos ligam-se através de uma ponte entre um resíduo do ácido diaminopimélico a um resíduo de D-alamina do péptido adjacente. Já para bactérias Gram positivas como Staphylococcus aureus, o peptídeo consiste em L-alanina, D-glutamato, L-lisina e D-alanina e uma ponte de pentaglicina adicional liga os tetrapeptídeos
+
+
+== Agentes que destroem ou inibem o peptidoglicano ==
+As ligações glicosídicas entre o ácido N- acetilmurâmico e a N-acetilglucosamina na cadeia de glicano podem ser rompidas pela ação da lisozima, levando a bactéria à morte. A lisozima é encontrada em diversas secreções tais como lágrima, saliva ou colostro. 
+Diversos antibióticos previnem a disseminação bacteriana ao inibir etapas da síntese do peptidoglicano. A mureína é a única molécula orgânica conhecida que contém D-aminoácidos e, por isso, é o alvo de numerosos antibióticos antibacterianos, como a penicilina, que inibe as enzimas transpeptidase e carboxipeptidase, responsáveis pela síntese dos peptidoglicanos.
+
+
+== Referências ==
+2. http://knoow.net/ciencterravida/biologia/peptidoglicano/ acessado em 17 de maio de 2018

@@ -1,0 +1,71 @@
+Ácidos graxos (português brasileiro) ou ácidos gordos (português europeu) são ácidos monocarboxílicos de cadeia normal que apresentam o grupo carboxila (–COOH) ligado a uma longa cadeia alquílica, saturada ou insaturada. Como nas células vivas dos animais e vegetais os ácidos graxos são produzidos a partir da combinação de acetilcoenzima A, a estrutura destas moléculas, geralmente,  contêm número par de átomos de carbono. Mas existem também ácidos graxos ímpares, apesar de mais raros. Na natureza a maior ocorrência é de ácidos graxos com cadeia de números pares de átomos de carbono, de 4 a 28.
+
+
+== Tipos ==
+
+
+=== Saturados ===
+As cadeias dos ácidos saturados são flexíveis e distendidas podendo associar-se extensamente uma com a outra através de interação hidrofóbica.
+A maioria dos ácidos graxos tem um nome usual associado a sua origem e/ou função. Na lista a seguir encontram-se tanto o nome usual quanto o oficial.
+
+
+=== Insaturados ===
+Existem várias formas de descrever onde (e como) as ligações duplas se encontram na molécula. Uma forma concisa mas ambígua é Cn:m, em que n é o número de carbonos, e m é o número de ligações duplas. Outras formas:
+
+cis/trans-Delta-x ou cis/trans-Δx: a ligação dupla está localizada após x-ésimo carbono, contando a carboxila como o carbono número um. O prefixo cis ou trans indica a configuração geométrica da molécula. No caso de haver mais de uma ligação, a notação fica, por exemplo, cis, cis-Δ9,Δ12.
+Ômega-x ou ω-x: a ligação dupla está localizada após o x-ésimo carbono, contando o carbono número 1 como o oposto à carboxila.
+A nomenclatura IUPAC conta como 1 o carbono da carboxila. A notação cis é substituída por Z e a trans por E, respectivamente do alemão zusammen e entgegen.
+
+
+== Propriedades químicas ==
+Os ácidos graxos possuem reações semelhantes aos demais ácidos carboxílicos:
+Salificação: Reagem com bases formando sais orgânicos.
+Esterificação: reagem com álcoois produzindo ésteres.
+
+
+== Ocorrência ==
+Os ácidos graxos insaturados são mais comumente encontrados na gordura vegetal, enquanto os saturados são mais encontrados em gordura animal.
+São encontrados em materiais elaborados pelos organismos, denominados lipídeos. Os lipídeos são ésteres combinados ou não a outros tipos de moléculas.
+
+
+=== Derivados ===
+Lipídeos: glicerídeos, cerídeos, fosfatídeos, cerebrosídios, esfingolipídios, fosfolipídios
+Óleos: gorduras, sabões, detergentes, xampus, ceras, margarinas
+Ésteres: flavorizantes, sais orgânicos.
+
+
+=== Síntese de ácido graxo ===
+As vias para a síntese do lipídio são endergônicas(quando é necessário a adição de uma energia a partir de uma fonte externa, a absorvendo)  e de caráter redutor, pois utiliza o NADH, um transportador de elétrons reduzidos, como fonte redutora.  A síntese de ácido graxo (em mamíferos) ocorre no fígado. Cabe lembrar que a síntese de ácido graxo e a sua oxidações ocorrem em "compartimentos" diferentes; a síntese de ácido graxo ocorre no citosol.  Primeiramente, o ácido graxo sintase precisa conter malonil e acetil que são provenientes respectivamente do malonil-CoA e acetil-CoA. Então carregados com os grupos, são iniciadas as reações que dão origem a cadeira de ácido graxo com as seguintes etapas: Condensação, Redução, Desidratação e Redução de dupla ligação.
+Condensação: Onde ocorre a formação de acetoacetil-ACP a partir do malonil e acetil. Logo em seguida, ocorre a transferência de 2 carbonos de malonil para o acetil onde há formação de ceto-acil-ACP.
+Redução: Redução de acetoacetil e formação de D-ß-hidroxibutiril-ACP. Nessa etapa é utilizado NADPH.
+Desidratação: Eliminação de H2O do D-ß-hidroxibutiril-ACP e liberação de ''transΔ²butenoil-ACP''
+Redução de dupla ligação: A dupla ligação de transΔ²butenoil-ACP é reduzida e ocorre formação de 4 átomos de carbono saturados.
+Assim o ciclo segue, tendo no final, a sua cadeia aumentada em 2 átomos de carbono e volta para o início, onde o malonil é ligado ao grupo -SH vazio da fosfopantoteína da ACP. Quando a cadeia atingir 16C é finalizada.
+
+
+=== Ativação e transporte para dentro da mitocôndria ===
+As enzimas que realizam a oxidação de ácidos graxos nas células animais estão presentes na matriz mitocondrial, sendo então necessária a entrada dos mesmos na mitocôndria.
+Ácidos graxos com comprimento de cadeia de 12 carbonos ou menos podem adentrar na mitocôndria sem o auxílio de transportadores de membrana, enquanto aqueles com 14 carbonos ou mais não conseguem passar livremente através das membranas mitocondriais. Por esta razão, ácidos graxos de cadeia longa necessitam passar por 3 reações enzimáticas que ocorrem no ciclo da carnitina:
+A primeira reação ocorre por ação das isoenzimas acil-CoA-sintetases que catalisam a reação:
+Ácido graxo + CoA + ATP ⇌ acil-CoA graxo + AMP + 2 Pi
+Um acil-CoA-graxo é formado através da catálise de uma ligação tioéster entre o grupo carboxil do ácido graxo e o grupo tiol da coenzima A. Esta reação ocorre em duas etapas, envolvendo um intermediário acil-graxo-adenilato. O íon carboxilato é adenilado pelo ATP, formando um acil-adenilato-graxo e PPi. O PPi  é hidrolisado a duas moléculas de Pi. O grupo tiol da coenzima A ataca o acil-adenilato (anidrido misto) deslocando o AMP e formando o tio éster acil-CoA-graxo.
+A segunda reação do ciclo envolve os ácidos graxos destinados à oxidação mitocondrial que estão transitoriamente ligados ao grupo hidroxil da carnitina e que formarão acil-carnitina-graxo. A transesterificação dos ésteres de acil-CoA graxo para carnitina é catalisada pela carnitina aciltransferase I.
+Após a formação da acil-carnitina-graxo na membrana externa ou no espaço intramembrana, ela se desloca para a matriz por difusão facilitada através de um transportador na membrana interna.
+O terceiro e último passo envolve a transferência do grupo acil-graxo da carnitina para a coenzima A intramitocondrial através da carnitina-aciltransferase II. Essa mesma isoenzima regenera o acil-CoA graxo e o libera juntamente com a carnitina livre, que irá então retornar ao espaço intramembrana pelo mesmo transportador.
+Dois reservatórios de coenzima A e acil-CoA graxo são ligados por este processo de transferência de ácidos graxos: um localizado no citosol e outro na mitocôndria. O primeiro é utilizado na degradação oxidativa do piruvato, de ácidos graxos e alguns aminoácidos, enquanto o segundo atua na biossíntese de ácidos graxos. O acil-CoA graxo no reservatório citosólico pode ser utilizado na síntese de lipídeos de membrana ou ser transportado para dentro da matriz mitocondrial para oxidação e produção de ATP. A conversão ao éster de carnitina compromete a porção acil-graxo com destino oxidativo. O processo de entrada mediado por canitina é o passo limitante para oxidação de ácidos graxos na mitocôndria, sendo um ponto de regulação.
+
+
+== Ver também ==
+Lipídeos
+Gordura
+Ácido oleico
+Ácido graxo sintase
+
+
+== Referências ==
+
+
+== Ligações externas ==
+
+IUPAC Compendium of Chemical Terminology, Electronic version, definição de ácido graxo. Disponível em: <http://goldbook.iupac.org/F02330.html>. Acesso em: 20 mar. 2007.
+Ácidos graxos aceleram desenvolvimento

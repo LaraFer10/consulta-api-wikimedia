@@ -1,0 +1,23 @@
+A reação da formose foi descoberta por Aleksandr Butlerov e envolve série de condensações do formaldeído a partir do glicolaldeído para formar açúcares com maior número de carbonos, conforme o esquema abaixo. É a única reação que pode ser considerada na síntese abiótica de açúcares.
+
+
+== Reação e mecanismo ==
+
+Postula-se que o primeiro passo desta sequência de reações seja a auto-condensação do formaldeído 1 formando glicolaldeído 2, porém esta reação não ocorre em velocidade detectável ou não ocorre de nenhuma forma e não existem evidências sobre a viabilidade da reação, e esse pode ser um ponto de partida para uma investigação. Alguns pesquisadores afirmam que o glicolaldeído estava presentes já no início, citando sua presença no espaço.Quando o glicolaldeído está disponível, a reação apresenta auto-catálise, ou seja, o produto catalisa a reação do reagente. O glicolaldeído, reage com o formaldeído através de uma condensação aldólica, formando gliceraldeído 3, que pode isomerizar para di-idroxiacetona 4 e tetroses, como a 2-cetotetrose 5, que pode dar uma retro-aldol, formando duas unidades de glicolaldeído, o que dá uma característica de auto-catálise para a reação. Os açúcares de cinco carbonos, como a ribose e seus isômeros 6 são formados por sequências de condensações de formaldeído e isomerizações.
+Esta sequência de reações demonstra a importância atribuída ao formaldeído para a síntese de açúcares, um ponto central da tese do “mundo RNA”.A reação da formose produz diversos carboidratos, de três, quatro,cinco e mais carbonos, e a proporção de ribose nas misturas reacionais é de menos de 1 %. Além de carboidratos, são produzidos outras classes de compostos.i A reação da formose é pouco eficiente como rota sintética, operando em pH alcalino e requer concentrações altas de formaldeído, uma condição realmente difícil de obter,especialmente considerando todas as reações concorrentes.
+
+
+=== Formose x Cannizzarro ===
+
+A menor estabilidade do formaldeído em relação a outros compostos de carbono-hidrogênio-oxigênio já foi demonstrada anteriormente, assim como a tendência do formaldeído à desproporcionação em meio básico, através da reação de Cannizzaro. Uma comparação entre as reações do formaldeído em meio básico mostra que a desproporcionação pela reação de Cannizzaro é mais rápida do que a reação da formose.
+
+Este não é o único problema da reação de formose para a síntese de açúcares. As reações entre os produtos da formose com formaldeído (Cannizzaro cruzada) são mais rápidas do que as reações de prolongamento da cadeia. Experimentos com glicolaldeído, gliceraldeído e 1,3-diidroxiacetona com formaldeído e NaOH por 30 min a 29o C foi hidroximetil glicerol e não hidroximetil gliceraldeído.
+
+
+=== Limitações da reação de formose ===
+
+Um problema recorrente é a formação de um resíduo escuro e insolúvel após algumas horas de reação, semelhante a asfalto, e os experimentos evitam este problema parando a reação após algumas horas, o que seria inviável nos primórdios da Terra. Os açúcares são pouco estáveis em soluções ácidas ou básicas, levando a diversas reações de eliminação e polimerização, e mesmo em soluções neutras a ribose mostrou-se pouco estável e sua degradação aumenta com a temperatura.Por exemplo, a meia vida da ribose a 100o C é de 73 min e 300 dias a 25o C em condições praticamente neutras. Em pH de 8,2 (oceano atual), a velocidade de decomposição aumenta em cerca de 50%. Contudo os dados de decomposição de açúcares não aparecem nos livros sobre abiogênese.  Esta não é a única objeção séria sobre a formação de açúcares a partir do formaldeído e especialmente à síntese da ribose. A reação de Maillard entre açúcares e aminoácidos ocorre de forma irreversível nas mesmas condições, formando heterociclos como o furfural a partir de pentoses (ex: ribose) e 5-hidroximetilfurfural a partir de hexoses (ex: glicose).
+A hipótese que HCN estivesse presente nas condições pré-bióticas se constitui em um problema frente a reatividade de aldoses, como a ribose e a glicose, que reagem com baixas concentrações de HCN (reação de Kiliani), resultando em ácidos carboxílicos de massa maior.
+
+
+== Referências ==

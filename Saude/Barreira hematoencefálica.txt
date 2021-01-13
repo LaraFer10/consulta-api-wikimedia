@@ -1,0 +1,51 @@
+A Barreira hematoencefálica (BHE) é uma estrutura de permeabilidade altamente seletiva que protege o Sistema Nervoso Central (SNC) de substâncias potencialmente neurotóxicas presentes no sangue e sendo essencial para função metabólica normal do cérebro. É composta de células endoteliais estreitamente unidas, astrócitos, pericitos e diversas proteínas. Cerca de 98% dos medicamentos em potencial não ultrapassam esta barreira, sendo esse um dos principais desafios na terapêutica de sistema nervoso central.Substâncias importantes para o cérebro, como glicose, cetoácidos ou algumas hormonas devem ser transportados por proteínas específicas nas células da barreira.
+
+
+== História ==
+
+Há mais de 100 anos, foi descoberto que se uma tinta azul fosse injetada na corrente sanguínea de um animal, todos os tecidos do corpo, exceto o SNC, se tornavam azuis. Para explicar este fenômeno, pesquisadores imaginaram que existia uma barreira que foi chamada de Hemato-Encefálica, que evita a entrada de algumas substâncias no cérebro. Recentemente cientistas descobriram muitas informações adicionais sobre a estrutura e função da BHE. A russa Lina Stern foi pioneira na pesquisas sobre a barreira hematoencefálica. Seus conhecimentos foram utilizados na Segunda Guerra Mundial, salvando milhares de vidas nas batalhas.
+
+
+== Fisiologia ==
+A BHE é semi-permeável, ou seja, ela permite que algumas substâncias atravessem e outras não. Os capilares (vasos sanguíneos muito finos), ficam alinhados às células endoteliais. O tecido endotelial tem pequenos espaços entre cada célula para que substâncias possam se mover de um lado para o outro, entrando e saindo dos capilares. Porém, no cérebro, as células endoteliais são posicionadas de uma maneira que apenas as menores substâncias possam entrar no Sistema Nervoso Central. Moléculas maiores como a glicose só podem entrar através de mecanismos especiais, específicos para cada molécula.
+A glândula pineal é uma das poucas áreas do cérebro não protegidas pela barreira, secretando melatonina diretamente na corrente sanguínea sistêmica.
+
+
+== Funções ==
+Proteger o cérebro de "substâncias estranhas" que possam estar presentes no sangue e danificá-lo.
+Proteger o cérebro contra bactérias, fungos, parasitas, animais, vírus e reações autoimunes.
+Manter um ambiente químico protegido e constante para o bom funcionamento do cérebro.
+
+
+== Propriedades gerais ==
+Moléculas grandes não passam pela BHE facilmente.
+Moléculas que têm uma carga elétrica muito grande associada a elas têm a sua passagem dificultada.A BHE permite passagem de corpos cetónicos, ácido láctico, pirúvico, propiônico e butírico. A gliadina, uma das proteínas do trigo é capaz de atravessar essa barreira, e causar a longo inflamações no tecido cerebral.
+
+
+== Doenças relacionadas à barreira hematoencefálica ==
+
+
+=== Meningite ===
+Meningite é uma infecção das membranas que envolvem o cérebro e a medula espinhal (estas membranas são conhecidas como meninges). Meningite é causada principalmente por infecções com vários agentes patogênicos, como por exemplo a Streptococcus pneumoniae e a Haemophilus influenzae. Quando as meninges estão inflamadas, a barreira hematoencifálica pode ser rompida. Este rompimento pode aumentar a penetração de várias substâncias (incluindo toxinas e antibióticos) dentro do cérebro. Antibióticos usados para tratar meningite podem agravar a resposta inflamatória do sistema nervoso central liberando neurotoxinas  das paredes celulares de bactérias - como lipopolissacarídeo (LPS).
+
+
+=== Esclerose múltipla ===
+Esclerose múltipla (EM) é considerada uma doença auto-imune e neurodegenerativa na qual o sistema imunológico ataca a mielina que protege e isola eletricamente os neurônios do sistema nervoso central e periférico. Normalmente, o sistema nervoso de uma pessoa seria inacessível aos glóbulos brancos devido à barreira hematoencefálica. No entanto, imagens de ressonância magnética mostraram que quando uma pessoa está passando por um "ataque" de esclerose múltipla, a barreira hematoencefálica é quebrada em uma seção do cérebro ou da medula espinhal, permitindo que os glóbulos brancos chamados linfócitos T atravessem e ataquem a mielina. É por vezes sugerido que, em vez de ser uma doença do sistema imunológico, a EM é uma doença da barreira hematoencefálica. Um estudo recente sugere que o enfraquecimento da barreira hematoencefálica é o resultado de uma perturbação nas células endoteliais no interior do vaso sanguíneo, devido à falha na produção da proteína P-glicoproteína.
+Existem investigações ativas atualmente para tratamentos relacionados à barreira hematoencefálica. Acredita-se que o estresse oxidativo desempenha um papel importante na ruptura da barreira. Anti-oxidantes tais como o ácido lipóico podem ser capazes de estabilizar um enfraquecimento da barreira hematoencefálica.
+
+
+=== Doença de Alzheimer ===
+Algumas evidências indicam que a ruptura da barreira hematoencefálica em pacientes com doença de Alzheimer permite que plasma sanguíneo contendo beta-amilóide (Aß) entre no cérebro, onde o Aß adere preferencialmente à superfície de astrócitos.
+
+
+=== Outras condições ===
+Hipertensão: Uma grande pressão arterial pode quebrar a BHE
+Desenvolvimento: Achava-se que a BHE não estava totalmente formada em recém-nascidos - informação incorreta, a barreira é sim altamente seletiva em recém-nascidos.
+Hiperosmolaridade: Se uma substância estiver presente em grandes concentrações no sangue, ela pode conseguir entrar "à força" pela BHE
+Microondas: Exposição à microondas pode quebrar a BHE
+Radiação: Exposição à radiação pode quebrar a BHE
+Infecção: Agentes infecciosos podem abrir a BHE
+Trauma, isquemia, inflamação e principalmente lesões cerebrais como as causadas pela esclerose múltipla.
+
+
+== Referências ==

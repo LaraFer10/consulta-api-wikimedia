@@ -1,0 +1,32 @@
+Na biologia do desenvolvimento, diferenciação é o processo no qual as células vivas se "especializam", gerando uma diversidade celular capaz de realizar determinadas funções.
+Estas células diferenciadas podem atuar isoladamente - como os gametas e as células sexuais dos organismos menores, como as bactérias. Ou podem agrupar-se em tecidos diferenciados, como o tecido ósseo e o muscular. Apesar de diferenciadas, as células mantêm o mesmo código genético da primeira célula (zigoto). A diferença está na ativação e inibição de grupos específicos de genes que determinarão a função de cada célula.
+Esta especialização acarreta não só alterações da função, mas também da estrutura das células.
+Este "agrupamento" foi realizado ao longo do processo evolutivo. A seguir, os metazoários "agruparam" diversos tecidos para formar órgãos diferenciados como o estômago, os órgãos sexuais, etc. Estes, por sua vez, podem estar agrupados em aparelhos ou sistemas que, em conjunto, realizam determinada função vital, como é o caso do sistema digestivo.
+O processo inverso também pode ocorrer. Células já especializadas, por algum motivo, podem perder a sua função, assumindo um estado de crescimento exagerado. Esse processo é denominado desdiferenciação e é o que ocasiona o surgimento de neoplasias.
+
+
+== Estágios da Diferenciação Celular ==
+As mudanças que ocorrem na célula não são imediatas, mas são precedidas pelo processo de compromisso celular, na qual a célula possui um destino determinado e passará por grandes alterações. Assim, mesmo que uma célula ou tecido não sejam diferentes fenotipicamente das outras células ou tecidos que estão em estado de não comprometimento, o seu destino de desenvolvimento já está restrito.
+O processo de compromisso celular pode ser dividido em dois estágios (Harrison 1933; Slack 1991). O primeiro é uma fase instável chamado de especificação. O destino da célula ou tecido é considerado especificado quando este é capaz de se diferenciar autonomamente em ambiente neutro (o ambiente é neutro em relação à via de desenvolvimento), como uma placa de Petri ou um tubo de ensaio. E ainda nesse estágio, o compromisso pode ser revertido. O segundo estágio de compromisso é a determinação. Uma célula ou tecido pode ser chamada de determinada quando é capaz de se diferenciar autonomamente mesmo quando é colocado em outra região do embrião. Se for capaz de diferenciar de acordo com o destino original, mesmo sob essas circunstâncias, pode-se assumir que o compromisso é irreversível.[1]
+
+
+== Especificação autônoma ==
+Três modos básicos de compromisso foram descritos. O primeiro é chamado de especificação autônoma. Neste caso, se um blastômero particular for removido de um embrião no início do desenvolvimento, esse blastômero isolado irá produzir os mesmos tipos celulares que ele produziria se ainda fosse parte do embrião. E mais ainda, o embrião de onde foi retirado o blastômero perderá essas células e somente essas células, que seriam produzidas pelo blastômero retirado. A especificação autônoma dá origem a um padrão na embriogênese chamado de mosaico do desenvolvimento, pois o embrião parece uma construção de mosaico de peças independentes, com partes capazes de se auto-diferenciar. Embriões de invertebrados (especialmente de moluscos, anelídeos, e tunicados), geralmente possuem especificação autônoma para determinar o destino de suas células. Nesses embriões, determinantes morfogenéticos (certas proteínas ou RNAs mensageiros) são postos em diferentes regiões do citoplasma do ovo e são divididos em diferentes células de acordo com a divisão do embrião, sendo que os determinantes morfogenéticos especificam o tipo celular.
+
+
+=== Especificação sincicial ===
+Em embriões iniciais de insetos, a divisão celular não está completa. O núcleo se divide dentro do citoplasma do ovo, criando um multinucleado dentro do ovo. Um citoplasma que contém vários núcleos é chamado de sincício. O ovo citoplasmático, no entanto, não é uniforme. Em vez disso, o citoplasma do ovo anterior é marcadamente diferente do posterior. Aqui, a interação da especificação sincicial ocorre entre as diferentes partes de uma mesma célula, mas não entre elas.
+Embriologistas experimentais mostraram que cada núcleo de Drosophila tem uma informação posicional dado por proteínas chamadas de morfógenos (do grego “doador de forma”).
+
+
+=== Especificação condicional ===
+O terceiro modo de comprometimento envolve interações entre células vizinhas. Neste tipo de especificação, cada célula tem, originalmente, a habilidade de se tornar qualquer uma dentre tantos tipos celulares. Entretanto, as interações de uma célula com outras células restringem o destino de uma ou mais participantes. Esse modo de comprometimento é chamado de especificação condicional porque o destino da célula depende das condições em que se encontra.
+Se um blastômero for removido de um embrião, no início do desenvolvimento, que utiliza a especificação condicional, as células embrionárias remanescentes alteram seus destinos de modo que as funções das células que faltam sejam retomadas. Essa habilidade que células embrionárias têm de modificar seus destinos para compensar as partes que faltam é chamada de regulação. O blastômero isolado pode também dar origem a uma grande variedade de células (até gerar tipos celulares que a célula não faria se ainda fosse parte do embrião). Assim, a especificação condicional gera um padrão chamado de desenvolvimento regulador. O desenvolvimento regulador é visto na maioria dos embriões de vertebrados, e é crítico no desenvolvimento de gêmeos idênticos. Na formação dos gêmeos, as células no estágio de clivagem de um único embrião se divide em dois grupos, e cada grupo de células produz um indivíduo totalmente desenvolvido.
+
+
+== Referências ==
+Knisely, Karen; Gilbert, Scott F. (2009). Developmental Biology (8th ed.). Sunderland, Mass: Sinauer Associates. 
+Lodish, Harvey (2000) Mollecular Cell Biology (4th ed.).New York: W.H. Freeman.
+Becker, W.M. Kleinsmith, L.J. Hardin, J. & Bertoni,G.P. (2009) The World of the Cell (17th edition). Pearson Education, Inc.
+Guilak, Farshid; Cohen, Daniel M.; Estes, Bradley T.; Gimble, Jeffrey M.; Liedtke, Wolfgang; Chen, Christopher S. (2009-07-02). "Control of Stem Cell Fate by Physical Interactions with the Extracellular Matrix"
+Rabajante JF, Babierra AL (January 30, 2015)."Branching and oscillations in the epigenetic landscape of cell-fate determination".

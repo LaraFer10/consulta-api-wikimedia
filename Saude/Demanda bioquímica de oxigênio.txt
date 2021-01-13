@@ -1,0 +1,127 @@
+Demanda bioquímica de oxigênio é o parâmetro mais utilizado para a medida do consumo de oxigênio na água. Representa a quantidade de oxigênio do meio que é consumido pelos peixes e outros organismos aeróbicos e que gasta de oxidação de matéria orgânica presente na água. É medida a 20º C. Estima a quantidade de oxigênio necessário para estabilizar, por meio de processos bioquímicos, a matéria orgânica carbonácea presente no corpo hídrico.Para fins práticos, a DBO não é medida até a oxidação completa, mas apenas a quantidade ou a taxa de oxigênio que é gasta ou consumida em certo intervalo de tempo, a uma determinada temperatura, na oxidação de uma dada quantidade de amostra. O tempo de estabilização é de aproximadamente 20 dias (DBO20,20), porém convencionou-se realizar o ensaio em 5 dias a temperatura de 20ºC. (DBO5,20)...
+
+
+== Determinação de DBO de águas naturais ==
+O conceito de DBO representa tanto a matéria orgânica quanto o consumo de OD (oxigênio dissolvido). Assim podemos calcular o DBO de duas maneiras, uma para pouco poluídas e outra para muito poluídas ou vinda de esgoto sanitario:
+
+
+=== Pouco poluídas ===
+Medir o Oxigenio Dissolvido (OD) inicial e final ( apos 5 dias em media) após incubação a 20°C, assim temos :
+
+  
+    
+      
+        D
+        B
+        O
+        =
+        O
+        D
+        i
+        −
+        O
+        D
+        f
+      
+    
+    {\displaystyle DBO=ODi-ODf}
+  
+Se por acaso houver algum imprevisto na avaliação do OD dentro dos 5 dias, por exemplo, antecipando-se ou atrasando-se a avaliação do OD, pode – se utilizar a seguinte tabela para correção do cálculo da DBO:
+
+3 dias – valor da DBO encontrado x 1,360
+4 dias –  valor da DBO encontrado x 1,133
+5 dias –  valor da DBO encontrado x 1,000
+6 dias – valor da DBO encontrado x 0,907
+7 dias – valor da DBO encontrado x 0,850
+
+
+=== Muito poluídas ou esgoto sanitario ===
+Caso faça o mesmo teste simples anterior o OD pode ser consumido durante o teste rapidamente ( antes de 5 dias ).Portanto é necessario fazer diluições das amostras com redução de OD na faixa entre 40 a 70 % para se ter uma boa condição e precisão, para calcular essa faixa é feito :
+
+  
+    
+      
+        D
+        =
+        V
+        F
+        ÷
+        V
+        A
+      
+    
+    {\displaystyle D=VF\div VA}
+  
+onde :
+D = Diluição
+VF = Volume do Frasco
+VA = Volume da amostra
+Caso o valor de diluição esteja entre  40 a 70 % é calculado o DBO que é dado por :
+
+  
+    
+      
+        D
+        B
+        O
+        =
+        (
+        O
+        D
+        i
+        −
+        O
+        D
+        f
+        )
+        ×
+        (
+        V
+        F
+        ÷
+        V
+        A
+        )
+      
+    
+    {\displaystyle DBO=(ODi-ODf)\times (VF\div VA)}
+  
+
+
+=== Vantagens do teste de DBO ===
+- Indicação aproximada da fração biodegradável do despejo.
+- Indicação da taxa de degradação do despejo.
+- Indicação da taxa de consumo de OD em função do tempo.
+- Determinação aproximada da quantidade de OD requerido para estabilização biológica da matéria orgânica existente.
+
+
+=== Desvantagens do teste de DBO ===
+-Demora para fazer a analise da DBO
+-Acusa apenas a fração biodegradável dos compostos orgânicos
+
+
+== Importância da analise de DBO ==
+No campo do tratamento de esgotos, a DBO é um parâmetro importante no controle da eficiência das estações, tanto de tratamentos biológicos aeróbios e anaeróbios, bem como físico-químicos (embora de fato ocorra demanda de oxigênio apenas nos processos aeróbios, a demanda “potencial” pode ser medida à entrada e à saída de qualquer tipo de tratamento).
+Mas devido às desvantagens, se motivou o uso paralelo da demanda química de oxigênio(DQO). Emprega-se na análise de DQO um oxidante químico forte, o dicromato de potássio, que em uma reação catalisada oxida um número maior de compostos do que o que ocorre na reação bioquímica. A relação entre a DBO de cinco dias e a DQO de amostras de efluentes industriais é bastante utilizada nas previsões das suas condições de biodegradabilidade. 
+
+
+== Resolução do Conama ==
+Segundo a RESOLUÇÃO No 357, DE 17 DE MARÇO DE 2005 do CONSELHO NACIONAL DO MEIO AMBIENTE-CONAMA é regulado a quantidade de DBO presente nos rios.o Sendo os limites Demanda Bioquímica de Oxigênio (DBO), estabelecidos para as águas doces de classes 2 e 3, poderão ser elevados, caso o estudo da capacidade de autodepuração do corpo receptor demonstre que as concentrações mínimas de oxigênio dissolvido (OD) previstas não serão desobedecidas, nas condições de vazão de referência, com exceção da zona de mistura.
+
+
+== Consequências Ambientais ==
+Nas águas naturais a DBO representa a demanda potencial de oxigênio dissolvido que poderá ocorrer devido à estabilização dos compostos orgânicos biodegradáveis, o que poderá trazer os níveis de oxigênio nas águas abaixo dos exigidos pelos peixes, levando-os à morte.
+
+
+== Tratamento de DBO ==
+No campo do tratamento de esgotos, a DBO é um parâmetro importante no controle da eficiência das estações, tanto de tratamentos biológicos aeróbios e anaeróbios, bem como físico-químicos (embora de fato ocorra demanda de oxigênio apenas nos processos aeróbios, a demanda “potencial” pode ser medida à entrada e à saída de qualquer tipo de tratamento). Na legislação do Estado de São Paulo, o Decreto Estadual nº 8468, a DBO5 de cinco dias é padrão de emissão de esgotos diretamente nos corpos d’água, sendo exigidos ou uma DBO5 máxima de 60 mg/L ou uma eficiência 12 global mínima do processo de tratamento na remoção de DBO5 igual a 80%. Este último critério favorece aos efluentes industriais concentrados, que podem ser lançados com valores de DBO ainda altos, mesmo removida acima de 80%.
+
+
+== Concentrações e contribuições unitárias típicas de DBO ==
+
+
+== Bibliografia ==
+PIVELI, R. P.. Tratamento de esgotos sanitários. São Paulo:[sn],[entre 1995 e 2006]. (Apostila).
+DONIZETTI, A.. Determinação DBO. Poços de Caldas-MG. (Apostila).
+RESOLUÇÃO No 357, DE 17 DE MARÇO DE 2005 do CONSELHO NACIONAL DO MEIO AMBIENTE-CONAMA
+VON SPERLING, M. Princípios do Tratamento Biológico de Águas Residuárias: Lodos Ativados. 2. ed. Belo Horizonte: DESA/UFMG, 1997.

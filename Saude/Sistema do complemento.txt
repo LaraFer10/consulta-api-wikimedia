@@ -1,0 +1,65 @@
+O sistema complemento é composto por proteínas da membrana plasmática e solúveis no sangue, que participam das defesas inatas (natural) e adquiridas (memória) ao opsonizar os patógenos e induzir uma série apropriada de respostas inflamatórias que auxiliam no combate à infecção. Inúmeras dessas proteínas reagem entre si para complemento, como proteases que se ativam por clivagem proteolítica.
+
+
+== Introdução e conceito ==
+Às vezes a interacção dos anticorpos com antígenos é eficiente por si só. Por exemplo:
+
+Revestindo um vírus ou bactéria prevenindo assim a sua ligação – e invasão – a uma célula hospedeira (anticorpos antipólio)
+Ligando-se a uma toxina (toxina da difteria ou tétano) impedindo assim a entrada da toxina na célula - neutralizando a toxina.Mas, muitas vezes, a ligação de anticorpos a antigénios não produz função útil a menos que ela possa activar um mecanismo efectivo, seja ele celular ou humoral. O sistema complemento participa nestas funções efectoras.
+Denomina-se complemento um complexo sistema multiprotéico com mais de 30 componentes, na sua maioria proteínas plasmáticas, cujas funções principais são a defesa frente às infecções por microorganismos, a eliminação da circulação dos complexos antigénio-anticorpo e alguns dos seus fragmentos actuam como mediadores inflamatórios.
+O complemento é um dos mecanismos efectores mais importantes da resposta imune inata. Quando um microorganismo penetra no organismo, normalmente provoca a activação do complemento. Como resultado da sua activação e amplificação, alguns componentes do complemento depositam-se sobre a superfície do patogénico responsável pela activação, o que determina a sua destruição (lise) e/ou a sua eliminação por células do sistema fagocítico.
+Para que o sistema complemento expresse a sua atividade é necessária a sua ativação prévia. As actividades mais importantes de defesa do hospedeiro são efectuadas por C3 e C5, estruturalmente semelhantes. A clivagem de tais proteínas é feita por proteases altamente específicas, as convertases. Existem três C3 convertases (C4b2b, C3(H20)Bb, C3bBb) e duas C5 convertases (C4b2a3b, C3bBb3b), organizadas durante a activação das três vias do complemento, denominadas vias clássica, da lectina e alternativa.
+Uma das funções do sistema complemento é a opsonisação, ou seja, a facilitação para o processo de fagocitose.
+Enzimas do sistema complemento:
+
+C1-esterase;
+C3-convertase
+
+
+== Via clássica ==
+Nessa via a montagem e a organização das convertases são habitualmente iniciadas por anticorpos da classe IgG ou IgM formando complexos com o antígeno. Várias outras substâncias, tais como os complexos da proteína C-reativa (PCR), determinados vírus e bactérias Gram-negativas, também podem ativar esta via. Os ativadores são reconhecidos por serem C1q, uma das três proteínas do complexo C1. Esta ligação ativa C1r que ativa a pró-enzima C1s. Então, C1s ativado cliva C4, resultando na fixação covalente do seu principal fragmento, C4b, à superfície do ativador. O componente C2 liga-se a C4b e é clivado por C1 em dois fragmentos (este processo necessita da intervenção de Ca2+ o Mg2+), dos quais C2b permanece ligado a C4b, completando a montagem do complexo C4bC2b, que é a C3 convertase da via clássica. Esta cliva C3 resultando na ligação de C3b à superfície do ativador e na ligação posterior de C3b à subunidade C4b2b, formando a C4b2b3b que é C5 convertase da via clássica.
+
+
+== Via da lectina ==
+A via da lectina utiliza uma proteína similar a C1q para ativar a cascata do complemento, a lectina ligadora de manose (MBL). A MBL liga-se a resíduos de manose, fucose ou glicose e outros açúcares, organizados em um padrão, que recobrem superficialmente muitos patógenos.
+A lectina ligadora de manose é uma molécula formada por duas a seis cabeças, semelhante a C1q, que formam um complexo com duas serina proteases a MASP-1 e MASP-2. MASP-2 é similar as proteínas C1r e C1s.
+Quando o complexo MBL liga-se à superfície de um patógeno, MASP-2 é ativada para clivar C4, em C4a e C4b, e C2 em C2a e C2b, originando a C3 convertase da via da lectina - C4b2b. O papel de MASP-1 ainda não está bem claro na ativação do complemento.
+As pessoas deficientes em MBL têm maior suscetibilidade a infecções na infância, o que mostra a importância da via da lectina na defesa do hospedeiro [4].
+Esta via participa da resposta imune inata, uma vez que não é mediada por anticorpos.
+
+
+== Via alternativa ==
+Esta via foi denominada alternativa por razões históricas, por ter sido descoberta após a via clássica. A ativação desta via inicia-se a partir da hidrólise espontânea tiol-éster localizada na cadeia alfa do componente C3, gerando o C3(H2O).Esta molécula exibe sítios reativos que permite a ligação de uma proteína plasmática, fator B (fB), formando o complexo C3(H2O)B. O fB então é clivado por uma enzima denominada fator D (fD). Esta clivagem origina 2 fragmentos Ba e Bb. O fragmento Bb fica ligado a C3(H2O), gerando o C3(H2O)Bb, que na presença de íons Mg++, tem atividade serino-protease, clivando o C3 em C3a e C3b.
+Assim como o C3(H2O), C3b também apresenta sítio de ligação com o fB. Formando o complexo C3bBb, após clivagem do fB em fBb e fBa pelo fD. O C3bBb atua então como C3 convertase, clivando mais moléculas de C3, formando C3bBbC3b que cliva C5 em C5a e C5b.
+O fragmento C5b permanece ligado ao complexo e os outros componentes (C6,C7, C8 e C9)se ligam para a formação MAC.
+Esta via faz parte da resposta imune inata, uma vez que não é mediada por anticorpos.
+
+
+== Complexo de ataque à membrana (MAC) ==
+A clivagem de C5 pela C5-convertase produz C5a, que é lançado nas vizinhanças do plasma onde é uma potente anafilatoxina (como C3a) e uma agente quimiotático para neutrófilos; C5b, que serve como uma âncora para a formação de uma única estrutura composta por C6, C7 e C8.
+O complexo resultante C5b-6-7-8 guia a polimerização de até 18 moléculas de C9 em um tubo inserido na bicamada lipídica da membrana plasmática. Esse tubo forma um canal permitindo a passagem de íons e pequenas moléculas. Água entra na célula por osmose e a célula sofre lise.
+
+
+== Controle da ativação do complemento ==
+A multiplicidade e a potência das atividades biológicas geradas quando o complemento é ativado, e, em particular, a capacidade do complemento de mediar as reações inflamatórias agudas e de produzir lesões letais nas membranas celulares constituem uma ameaça não apenas para os patógenos invasores mas também às células e aos tecidos do hospedeiro. Esse potencial de autolesão da ativação do complemento é normalmente mantido sob controle efetivo por diversos inibidores e inativadores que atuam em pontos de amplificação enzimática, bem como em nível das moléculas efetoras.
+O C1 INH liga-se aos C1r, C1s, MASP-1 e MASP-2 ativados e os inibem, regulando assim a ativação da via clássica, bem como da via da lectina. Diversas proteínas no plasma e associadas à membrana, tais como C4bp, H, DAF, MCP e CR1, controlam a taxa de formação e a atividade das convertases do complemento. Algumas dessas proteínas atuam como co-fatores obrigatórios para a enzima proteolítica I, que cliva C4b e C3b em fragmentos menores. Duas proteínas séricas, a proteína S, também denominada vitronectina, e SP 40/40, bem como uma proteína associada a células, CD59, inibem a formação do MAC. Por fim, a C3a/C5a INA, uma carboxipeptidase, inativa as anafilatoxinas do complemento. Em seu conjunto, as proteínas de controle do complemento realizam duas funções importantes: asseguram que a ativação do complemento seja proporcional à concentração e à duração da presença dos ativadores do complemento e protegem as células do hospedeiro contra o potencial deletério dos produtos de ativação do complemento
+
+
+== Deficiências do complemento ==
+Já foram descritos casos déficits do complemento para quase todos os componentes desse sistema. Normalmente esses indivíduos sofrem infecções freqüentes e/ou enfermidades associadas a imunocomplexos. O déficit se transmite com caráter autossômico recessivo. Os indivíduos heterozigóticos são fáceis de identificar porque seu soro contém aproximadamente metade dos níveis normais do componente em questão. A única exceção a este modelo é o déficit de C1-Inh, que é herdado por um modelo autossômico dominante. Em geral, a situação clínica dos pacientes com déficits genéticos do complemento reflete o papel biológico e a importância de seus distintos componentes in vivo. Surpreendentemente, alguns indivíduos toleram os déficits de complemento muito melhor que outros.
+A via clássica é necessária para manter os imunocomplexos em solução e facilitar sua eliminação. Disto, a manifestação mais comum nos déficits dos componentes da via clássica é a presença de enfermidades associadas a imunocomplexos. A importância da via alternativa como mecanismo de defesa inespecífico do organismo contra a infecção por microorganismos reflete o caráter excepcional do déficit destes componentes. Não existe nenhum indivíduo com déficit de fator B e só se conhece um com déficit parcial de fator D (FARRERAS). O déficit de properdina é herdado de forma recessiva ao cromossomo X, só ocorrendo em homens. Sua maior aplicação clínica consiste nas infecções freqüentes.
+O déficit na fase lítica provoca infecções recorrentes por Neisseria, seguramente pela capacidade deste micro-organismo sobreviver ao sistema imune como parasita intracelular em macrófagos.
+O déficit dos componentes reguladores é raro e leva ao consumo dos componentes do complemento. No déficit que determina o consumo de C3 os pacientes sofrem infecções bacterianas repetidas por ausência de opsonização.
+Existem duas situações patológicas, a glomerulonefrite mesangiocapilar e a lipodistrofia parcial, nas quais existe uma grande estabilização das C3-convertases, devido a produção de anticorpos frente aos componentes ativados dessas convertases. Tais autoanticorpos ou fatores nefríticos só podem ser da classe IgG. A estabilização das C3-convertases produzem um consumo continuado de C3, pelo que estes pacientes possuem níveis muito baixos desse componente.
+
+
+=== Tabela sobre Deficiências do Complemento ===
+
+
+== Bibliografia ==
+ABBAS, A. K. Imunologia celular e molecular. 5ª Edição. Rio de Janeiro: Elsevier, 2005.
+GOLDMAN, L. Cecil: Tratado de medicina interna. 22ª Edição. Rio de Janeiro: Elsevier, 2005.
+FARRERAS & ROZMAN. Medicina interna: Edición em CD-ROM. 13ª Edición.
+JANEWAY, C. A.; TRAVERS, P.; WALPORT, M.; SHLOMCHIK, M. J. Imunobiologia: O sistema imune na saúde e na doença. 6ª Edição. Porto Alegre: Artmed, 2007.
+The role of complement in the elimination of microorganisms. Disponível em https://web.archive.org/web/20060222131342/http://www-micro.msb.le.ac.uk/MBChB/Merralls/Merralls.html Acesso: 25/10/2005
+FORTE, WILMA CARVALHO NEVES: Imunologia do Básico ao Aplicado. 3ª Edição. Atheneu, 2007.

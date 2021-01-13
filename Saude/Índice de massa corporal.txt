@@ -1,0 +1,163 @@
+O índice de massa corporal (IMC) é uma medida internacional usada para calcular se uma pessoa está no peso ideal. Desenvolvido pelo polímata Lambert Quételet no fim do século XIX, trata-se de um método fácil e rápido para a avaliação do nível de gordura de cada pessoa, sendo, por isso, um preditor internacional de obesidade adotado pela Organização Mundial da Saúde (OMS).
+
+
+== Como calcular ==
+O IMC é determinado pela divisão da massa do indivíduo pelo quadrado de sua altura, em que a massa está em quilogramas e a altura em metros.
+
+  
+    
+      
+        
+          
+            IMC
+          
+        
+        =
+        
+          
+            
+              massa
+            
+            
+              (
+              
+                
+                  altura
+                
+              
+              ⋅
+              
+                
+                  altura
+                
+              
+              )
+            
+          
+        
+      
+    
+    {\displaystyle {\mbox{IMC}}={\frac {\mbox{massa}}{({\mbox{altura}}\cdot {\mbox{altura}})}}}
+   
+
+
+=== Exemplo de IMC ===
+Para uma pessoa com 90 quilogramas de massa e  1,75 metros de altura, teremos 
+  
+    
+      
+        
+          
+            IMC
+          
+        
+        =
+        
+          
+            
+              90
+              
+              
+                
+                  kg
+                
+              
+            
+            
+              1
+              ,
+              
+              75
+              
+              
+                
+                  m
+                
+              
+              ⋅
+              1
+              ,
+              
+              75
+              
+              
+                
+                  m
+                
+              
+            
+          
+        
+        =
+        29
+        ,
+        
+        387
+        
+        
+          
+            kg
+          
+        
+        
+          /
+        
+        
+          
+            
+              m
+            
+          
+          
+            2
+          
+        
+      
+    
+    {\displaystyle {\mbox{IMC}}={\frac {90\;{\mbox{kg}}}{1,\!75\;{\mbox{m}}\cdot 1,\!75\;{\mbox{m}}}}=29,\!387\;{\mbox{kg}}/{\mbox{m}}^{2}}
+  
+
+
+== Tabela de IMC ==
+Você pode utilizar a tabela abaixo para consultar o seu índice de massa corporal.
+
+Na tabela abaixo, você poderá encontrar o seu IMC de acordo com sua altura e peso.
+
+
+== Índice considerado ideal ==
+Para adultos, um IMC entre 20 e 22 indica a quantidade ideal, saudável de gordura corporal, o que está associado com maior tempo de vida e menor incidência de doenças graves. Coincidentemente, essa relação é o que muitas pessoas consideram ser «o mais esteticamente atraente». Entretanto, é importante ressaltar que um índice entre 22 e 25 também é considerado um intervalo bastante aceitável, pois está igualmente associado à boa saúde.Pesquisas recentes apontaram que um IMC entre 23 e 25 é considerado o que garante taxas de sobrevivência mais longas aos indivíduos. O autor Charles E. Phelps corrobora tal informação ao afirmar em um de seus livros: 
+
+«Tanto para mulheres como para homens, a melhor taxa de sobrevivência aparece nos grupos de pessoas cujo IMC está entre 23 e 25. O risco relativo aumenta para pessoas com números mais altos ou mais baixos que esse índice massa corporal tido como “mais seguro”.»
+
+
+== IMC em Crianças e Adolescentes ==
+As crianças naturalmente começam a vida com um alto índice de gordura corpórea, mas vão ficando mais magras conforme envelhecem. Além disso, também há diferenças entre a composição corporal de meninos e meninas. E foi para poder levar todas essas diferenças em consideração que os cientistas criaram um IMC especialmente para as crianças .
+Os médicos e demais profissionais nutricionistas usam um conjunto de gráficos de crescimento para seguir o desenvolvimento de crianças e jovens adultos dos dois aos 20 anos de idade. O IMC por idade utiliza a altura, peso e idade de uma criança para determinar quanta gordura corporal ele ou ela tem e compara os resultados com os de outras crianças da mesma idade e gênero. Ele pode ajudar a prever se as crianças terão risco de ficar acima do peso quando estiverem mais velhas.
+Cada gráfico contém um conjunto de curvas que indica o percentil da criança. Por exemplo, se um garoto de 15 anos de idade está no percentil 75, isso significa que 75% dos garotos da mesma idade têm um IMC mais baixo. Ele tem o peso normal e, embora seu IMC mude durante seu crescimento, ele pode se manter nas proximidades do mesmo percentil e permanecer com um peso normal.
+A faixa de IMC normal pode ficar mais alta para as meninas conforme elas vão amadurecendo, já que as adolescentes normalmente têm mais gordura corporal do que os adolescentes. Um garoto e uma garota da mesma idade podem ter o mesmo IMC, mas a garota pode estar no peso normal enquanto o garoto pode estar correndo risco de ficar acima do peso.
+Os médicos dizem ser mais importante acompanhar o IMC das crianças ao longo do tempo do que olhar um número individual, pois elas podem passar por estirões de crescimento.
+A tabela com os valores do IMC para Adolescentes entre 10 e 19, conforme fora anteriormente citado é baseado em percentis:
+
+Baixo Peso = Percentil menor que 5.
+Peso Normal (Eutrófico) = Percentil igual a 5 e menor que 85.
+Sobrepeso = Percentil igual ou maior que 85.
+
+
+== Limitações do IMC ==
+Há alguns problemas em usar o IMC para determinar se uma pessoa está acima do peso. Por exemplo, pessoas musculosas podem ter um Índice de Massa Corporal alto e não serem gordas. O IMC também não é aplicável para crianças, sendo que precisa de gráficos específicos. Além disso, não é aplicável para idosos, para os quais se aplica classificação diferenciada.
+Ou seja, podemos usar o IMC com algumas ressalvas, exceto para pessoas que praticam musculação, onde o cálculo de percentual de gordura é muito mais condizente com a realidade.
+Para crianças e adolescentes de até 15 anos a fórmula do IMC continua sendo a mesma, só os valores de referência são diferenciados. 
+O IMC é o valor de massa corporal, que as diferenças raciais e étnicas têm sobre o Índice de Massa Corporal. Por exemplo, um grupo de assessoramento à Organização Mundial de Saúde concluiu que pessoas de origem asiática poderiam ser consideradas acima do peso com um IMC de apenas 25.
+
+
+== IMC para pessoas acima de 60 anos ==
+No caso dos idosos (acima de 60 anos) também, temos nesses casos tabelas de referência adequados. Internacionalmente ainda não existe um consenso sobre o padrão de IMC para pessoas com mais de 60 anos. No entanto, o Ministério da Saúde no Brasil, adota e recomenda o padrão de Lipschitz. Ou seja, valores abaixo de 21,9 considera-se peso baixo. Assim como, a partir de 27, entende-se que a pessoa tem sobrepeso. O peso adequado para essa idade seria entre 22 e 26,9 .
+O IMC para idosos deve ser diferente em decorrência da mudança da composição corporal ao longo do tempo. Isso ocorre devido a vários fatores tais como: diminuição da massa muscular, assim como da água corporal, e também um aumento da gordura corporal, principalmente na região abdominal. A própria osteoporose, comum nessa faixa de idade, interfere no cálculo do IMC específico da terceira idade.
+
+
+== Método mais preciso ==
+Em janeiro de 2013, foi anunciado que Nick Trefethen, professor de Análise Numérica na Universidade de Oxford, propôs uma nova fórmula para cálculo de IMC. Basicamente, sua fórmula propõe trocar o expoente 2 por 2,5, e introduzir um fator “k” para manter a média dos resultados próxima à média do método anterior. O valor que ele atribuiu a "k" foi 1,3. Assim, a nova fórmula fica:
+IMC = 1,3 x massa / altura2,5
+
+
+== Referências ==

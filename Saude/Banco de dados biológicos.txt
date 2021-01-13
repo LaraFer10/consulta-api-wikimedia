@@ -1,0 +1,14 @@
+Os bancos de dados biológicos são bibliotecas de informações sobre ciências da vida, coletadas de experimentos científicos, literatura publicada, tecnologia experimental de alta produtividade e análise computacional.  Eles contêm informações de áreas de pesquisa, incluindo genômica, proteômica, metabolômica, expressão gênica por microarranjo e filogenética.
+
+
+== Tipos de bancos de dados biológicos ==
+Existem dois conceitos comuns de bancos de dados biológicos: bancos de dados primários e bancos de dados secundários. Estes dois diferem em sua estrutura de arquivo.
+Os bancos de dados primários geralmente contêm apenas um tipo de dado específico que é armazenado em seu próprio arquivo. Eles carregam novos dados explorados em experimentos e atualizam as entradas para garantir a qualidade dos dados.
+Os bancos de dados secundários são bancos de dados, que usam outros bancos de dados como fonte de informações, portanto, obtêm seus dados solicitando outros bancos de dados. Eles geralmente já processam ou analisam os dados correspondentes à solicitação correspondente para obter novos resultados.
+
+
+== Acesso ==
+A maioria dos bancos de dados biológicos estão disponíveis através de sites que organizam os dados de modo que os usuários podem navegar através dos dados online.
+
+
+== Referências ==

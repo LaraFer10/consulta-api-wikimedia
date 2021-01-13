@@ -1,0 +1,104 @@
+Os receptores adrenérgicos ou adrenorreceptores pertencem à classe de receptores ligados à proteína G e que são alvos das catecolaminas. Os receptores adrenérgicos são ativados por seus ligantes endógenos, as catecolaminas: adrenalina (epinefrina) e noradrenalina (norepinefrina).
+Muitas células possuem estes receptores, e a ligação de um agonista geralmente causará uma resposta simpática, ou seja, respostas de luta ou fuga. Por exemplo, a frequência cardíaca ( efeito cronotrópico positivo) aumenta, as pupilas se dilatam, há a mobilização de energia e o fluxo sanguíneo é desviado de órgãos não essenciais para o músculo esquelético.
+
+
+== Subtipos ==
+Existem dois grupos principais de receptores adrenérgicos, α e β, apresentando vários subtipos:
+
+os receptores α têm os subtipos α1 (um receptor acoplado a uma proteína GQ) e α2 (um receptor acoplado Gi). A fenilefrina é um agonista seletivo do receptor α.
+os receptores β possuem os subtipos β1, β2 e β3. Todos os três estão ligados às proteínas Gs, que por sua vez estão ligadas à adenilato ciclase. Agonista obrigatório, assim, provoca um aumento na concentração intracelular do segundo mensageiro AMPc. Na mesma direção, os efetores do AMPc incluem proteína quinase dependente de AMPc (PKA), que medeia alguns dos eventos intracelulares após a ligação do hormônio. A isoprenalina é um agonista seletivo.
+
+
+== Funções ==
+
+
+=== Papel na circulação ===
+A adrenalina se liga em ambos receptores, α e β, causando vasoconstrição e vasodilatação, respectivamente. Embora os receptores α sejam menos sensíveis a adrenalina, quando ativados, irá substituir a vasodilatação mediada pelos receptores β. O resultado é que altos níveis circulantes de adrenalina causam vasoconstrição. Em baixos níveis circulantes de epinefrina, a estimulação aos receptores β domina, produzindo uma total vasodilatação.
+
+
+=== Receptores α ===
+Os receptores α possuem várias funções em comum, mas também efeitos individuais. Entre os efeitos comuns, ou de forma inespecífica, incluem:
+
+Vasoconstrição das artérias coronárias
+Vasoconstrição das veias
+Diminuição da motilidade do músculo liso no trato gastrointestinal
+
+
+==== Receptores α1 ====
+O receptores são membros da superfamília de receptores associados à proteína G. Ao ser ativados por seu ligante, uma proteína heterodimérica G, chamada Gq, ativa a fosfolipase C, que quebra o fosfatidilinositol 4,5-bifosfato (PIP2) em inositol trifosfato (IP3) e diacilglicerol (DAG). O IP3 interagem com os canais de cálcio do retículo sarcoplasmático, liberando o cálcio que estava retido para o citoplasma. Este aciona todos os outros efeitos.
+Ações específicas do receptor α1 envolve sobretudo contração do músculo liso. Ela provoca vasoconstrição em muitos vasos sanguíneos, incluindo os da pele e do sistema gastrointestinal além dos rins (artéria renal) e no cérebro. Outras áreas de contração do músculo liso são:
+
+uretra
+ducto deferente
+pelos (músculo eretor de pelo)
+útero (na gravidez)
+bronquíolos (embora possua efeito menor do que o efeito relaxante do receptor β2)
+vasos sanguíneos do corpo ciliar (a estimulação provoca midríase)Outros efeitos incluem a glicogenólise e a gliconeogênese a partir do tecido adiposo e da reserva de glicogênio do fígado, bem como a secreção de glândulas sudoríparas e a reabsorção de Na+ nos rins. Alguns antagonistas são usados na hipertensão.
+
+
+==== Receptores α2 ====
+O receptor está acoplado a uma proteína Gi. Sua ativação causa a inibição da atividade da adenilato ciclase com consequente redução dos níveis de AMPc. Não há abertura de canais de Ca++ necessários para a liberação do neurotransmissor.
+Existem três subtipos homólogos de receptores α2: α2A, α2Β e α2C.
+As ações específicas do receptor α2 incluem:
+
+Inibição da insulina no pâncreas
+Indução da liberação de glucagon do pâncreas.
+contração dos esfíncteres no trato gastrointestinal.
+feedback negativo nas sinapses neuronais (inicia a recaptação de norepinefrina)
+
+
+=== Receptores β ===
+
+
+==== Receptores β1 ====
+As ações específicas do receptor β1 incluem:
+
+Aumento do débito cardíaco, através do aumento da freqüência cardíaca e do aumento do volume expulso com cada batimento (aumento da fração de ejeção).
+liberação de renina nas células justaglomerulares.
+lipólise no tecido adiposo
+
+
+==== Receptores β2 ====
+O receptor β2 é um receptor polimórfico e é o receptor adrenérgico predominante nos músculos lisos que causam o relaxamento visceral. entre as suas funções conhecidas estão:
+
+relaxamento da musculatura lisa, por exemplo, nos brônquios;
+Lipólise do tecido adiposo.
+relaxamento do esfíncter urinário, gastrointestinais e do útero grávido;
+relaxamento da parede da bexiga;
+dilatação das artérias do músculo esquelético;
+glicogenólise e gliconeogênese
+aumento da secreção das glândulas salivares;
+inibição da liberação de histamina dos mastócitos;
+aumento da secreção de renina dos rins,
+Brônquios.
+
+
+==== Receptores β3 ====
+É o receptor adrenérgico que predominantemente causa efeitos metabólicos, nas quais as ações específicas do receptor  β3 incluem, por exemplo, a estimulação da lipólise do tecido adiposo, está também presente na bexiga no musculo detrusor.
+
+
+== Comparações ==
+† Não há um receptor α1C.  Por um tempo, houve um subtipo conhecido como C, mas mostrou-se idêntica a uma dos subtipos anteriormente descobertos. Para evitar confusão, a nomeação foi continuada com a letra D.
+
+
+== Reações adversas ==
+As reações adversas dos betabloqueadores dependem da especificidade pelo subtipo de receptor, de sua distribuição nos receptores β adrenérgicos e de seu grau de solubilidade. Esses fármacos são bem tolerados na prática clínica, embora determinados efeitos colaterais descritos com alguns deles incluam fadiga, depressão, capacidade de exercício diminuída, disfunção sexual e crises de asma. No entanto, estudo que analisou a relação entre suspensão do tratamento anti-hipertensivo e efeitos colaterais não encontrou diferenças entre os usuários de betabloqueadores ou de placebo, em relação aos principais efeitos indesejáveis descritos acima. Além disso, a porcentagem de suspensão do tratamento foi semelhante nos grupos placebo e betabloqueador.
+Os betabloqueadores também têm sido relacionados a efeitos metabólicos indesejáveis que podem influenciar a evolução do paciente com hipertensão arterial, sobretudo quando associados à síndrome metabólica. Os principais efeitos metabólicos são observados com os betabloqueadores mais antigos, que não apresentam ação vasodilatadora periférica, pois o aumento da resistência vascular diminui a disponibilidade de glicose e reduz seu uso pelo músculo esquelético, o que gera intolerância à glicose. Em consequência, tem sido correlacionado o aparecimento de novos casos de diabetes com o uso de betabloqueadores, como observado em recente metanálise de ensaios clínicos que utilizaram betabloqueadores por pelo menos um ano. No entanto, os autores chamam atenção para o fato de que o aparecimento de diabetes foi observado apenas com o atenolol, mas não nos estudos que utilizaram metoprolol ou propranolol, como demonstrado em alguns estudos, principalmente envolvendo o atenolol a novos casos de diabetes.
+Apesar disso, o clássico estudo britânico UKPDS já mencionado mostrou que o bom controle da pressão arterial com tratamento baseado em atenolol trouxe os mesmos benefícios sobre eventos cardiovasculares do que o controle obtido com o tratamento baseado em inibidores da enzima conversora da angiotensina
+(ECA). Portanto, pacientes diabéticos podem usar os betabloqueadores como anti-hipertensivos, se apresentarem indicação compulsória associada e mesmo como uma segunda ou terceira opção terapêutica ao lado dos inibidores da ECA ou bloqueadores dos receptores da angiotensina II.
+
+
+== Novos betabloqueadores ==
+Resultados de estudos em animais e estudos preliminares em humanos têm sido encorajadores para o uso terapêutico dos novos betabloqueadores com efeitos vasodilatadores, tais como o carvedilol e o nebivolol, no tratamento da hipertensão arterial. Esses resultados mostraram efeitos benéficos sobre a função endotelial, rigidez arterial e eventos cardiovasculares, além de menor efeito metabólico indesejável.
+O carvedilol é um betabloqueador de terceira geração, não seletivo, sem atividade simpatomimética intrínseca, com efeitos vasodilatadores devido à capacidade de bloquear concomitantemente os receptores periféricos alfa-1 adrenérgicos. Estudos experimentais demonstraram que o carvedilol bloqueia os receptores α1-, β1-, e β2 sem exibir altos níveis de atividade agonista inversa. Essa falta de atividade agonista inversa e de atividade simpatomimética intrínseca reduz os efeitos colaterais e torna o fármaco mais tolerado que os betabloqueadores mais antigos. O carvedilol é rapidamente absorvido depois de uma dose oral, atingindo pico de concentração plasmática em 1 a 2 horas. Como a meia-vida varia de 7 a 10 horas, deve ser administrado duas vezes ao dia. O carvedilol parece reduzir a pressão arterial por diminuir a resistência vascular periférica, sem afetar o débito cardíaco, devido ao efeito de bloqueio alfa-adrenérgico; esse efeito hemodinâmico é similar aos encontrados com inibidores da ECA e antagonistas dos canais de cálcio, sendo esperado um efeito anti-hipertensivo maior que os betabloqueadores mais antigos.Já existem várias demonstrações dos benefícios do carvedilol em pacientes com insuficiência cardíaca, tanto na redução de internações e eventos quanto na redução de mortalidade, o que torna essa medicação uma atraente opção para os hipertensos com insuficiência cardíaca associada. Mais recentemente, estudos em hipertensos diabéticos têm mostrado melhora da função endotelial e da inflamação, além de melhora da sensibilidade à insulina com melhor controle do diabetes nos pacientes que utilizaram carvedilol.O nebivolol é um betabloqueador altamente seletivo para o receptor beta 1 com uma ação adicional de vasodilatação mediada pela maior liberação de óxido nítrico. Essa combinação de ações não somente potencializa a redução da pressão, como também leva a um perfil hemodinâmico favorável, que é clinicamente relevante para o tratamento de pacientes hipertensos. Entre os betabloqueadores em uso, é o que apresenta maior afinidade pelo receptor β1 adrenérgico. Parece, também, ter melhor perfil metabólico que os betabloqueadores mais antigos.Seis novos estudos focando as propriedades vasodilatadoras do nebivolol demonstraram que: a) seu efeito anti-hipertensivo é acompanhado pela ação vasodilatadora, observada após dose única e crônica de 5 mg/dia; b) a vasodilatação pode ser documentada sistemicamente, em vários leitos regionais, e é acompanhada por aumento da distensibilidade arterial de pequenas artérias41; c) o aumento das concentrações de óxido nítrico não é apenas por aumento da síntese via arginina, mas também pela preservação do óxido nítrico da degradação oxidativa. O perfil hemodinâmico favorável do nebivolol (preservação do débito cardíaco, redução da resistência periférica e melhora da função diastólica) parece ter benefícios clinicamente relevantes sobre a função sistólica e a diastólica prejudicadas, que são complicações frequentemente observadas na doença hipertensiva.Apesar desses efeitos benéficos intermediários, ainda não se sabe se tais efeitos possam ser traduzidos em reduções significantes de eventos cardiovasculares em grandes ensaios clínicos. Ensaios clínicos com esses novos betabloqueadores são necessários para comprovar o benefício na prevenção primária de eventos cardiovasculares e assim recomendá-los como tratamento de primeira escolha na hipertensão arterial.
+Em conclusão, a classe terapêutica dos betabloqueadores inclui fármacos que, embora tenham em comum o bloqueio de receptores beta-adrenérgicos, apresentam perfis farmacológicos muito diferentes, incluindo seletividade nos receptores, lipossolubilidade e efeitos vasodilatadores associados. Há indicação formal para o uso desses fármacos em pacientes hipertensos com cardiopatias associadas. A prescrição de betabloqueadores, em especial do atenolol, como primeira escolha terapêutica anti-hipertensiva em idosos e diabéticos não tem sido sugerida nas diretrizes mais recentes. Entretanto, sua indicação como coadjuvante no tratamento da hipertensão arterial está bem estabelecida.
+
+
+== Ver também ==
+Receptores alfa
+Receptores beta
+Sistema nervoso autônomo
+Sistema nervoso simpático
+
+
+== Referências ==

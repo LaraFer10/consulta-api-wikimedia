@@ -1,0 +1,45 @@
+A Anemia de Fanconi (AF) é uma doença genética que afeta crianças e adultos de todos os grupos étnicos. A doença foi nomeada pelo pediatra suíço que originalmente descreveu esta desordem, Guido Fanconi. Não deve ser confundida com a síndrome de Fanconi, uma desordem renal também nomeada por Fanconi.
+A AF é caracterizada por estatura baixa, anomalias no esqueleto (rádio e cúbito), incidência aumentada de tumores sólidos e leucemias, insuficiência da medula óssea progressiva (anemia aplástica), alterações renais (rim em ferradura, rim pélvico agenesia de ureter) e susceptibilidade celular para os agentes que afetam as ligações cruzadas do DNA, tal como a mitomicina C.
+Pelo menos 19 defeitos que causam AF foram descritos em diferentes genes: FANCA, FANCB, FANCC, FANCD1, FANCD2, FANCE, FANCF, FANCG, FANCI, FANCJ, FANCL, FANCM, FANCN, FANCO, FANCP, FANCQ, FANCR, FANCS, FANCT. FANCB está presente no cromossoma X, sendo portanto a única exceção descrita à doença ser autossómica recessiva.
+
+
+== Definição da doença ==
+A anemia de Fanconi (FA) é uma doença hereditária da reparação do ADN caracterizada por pancitopenia progressiva com falência da medula óssea, malformações congénitas variáveis e predisposição para tumores hematológicos ou sólidos.
+
+
+== Epidemiologia ==
+Tem frequência estimada de mais de 1/200 e uma prevalência à nascença de pelo menos 1/160,000. Em certas populações, a frequência de portadores é muito superior, devido a mutações fundadoras. Foram descritos mais de 2,000 casos.
+
+
+== Descrição clínica ==
+Em 2/3 dos doentes, os primeiros sinais são malformações congénitas que envolvem o esqueleto, a pele, os sistemas uro-genital, cardio-pulmonar, gastrointestinal e nervoso central. As anomalias dos membros são uni ou bilaterais, sendo no último caso frequentemente assimétricas. Anomalias minor podem estar presentes, como baixa estatura e peso, microcefalia e microftalmia. Anomalias da pigmentação da pele e hipoplasia da eminência tenar são frequentes. Quase 20% dos doentes têm malformações do ouvido com ou sem surdez. As malformações congénitas podem variar dentro de uma família. Quando essas malformações não são proeminentes, o diagnóstico pode ser adiado até ao início da falência da medula óssea (BMF), que ocorre em média aos 7 anos. As anomalias hematológicas podem ocorrer numa idade mais jovem e, mais raramente, em adultos, com 90% dos doentes desenvolvendo BMF até aos 40 anos. Os doentes podem desenvolver leucemia mielóide aguda, muitas vezes precedida de síndrome mielodisplásico. Existe predisposição a tumores sólidos da cabeça e pescoço ou regiões ano-genitais. A baixa estatura é frequentemente secundária a deficiências hormonais. A fertilidade está quase totalmente comprometida nos homens, e está muito alterada em metade das mulheres. A gravidez é muitas vezes complicada.
+
+
+== Etiologia ==
+A FA é causada por mutações em genes envolvidos na reparação do ADN e na estabilidade genómica. Foram identificados 15 genes que representam 15 grupos de complementação.
+
+
+== Métodos de diagnóstico ==
+Dada a elevada heterogeneidade genética, no fenótipo clínico, e no mecanismo patogénico da FA, o diagnóstico baseia-se na avaliação de quebras cromossómicas induzidas por diepoxibutano (DEB) ou mitomicina C (MMC).
+
+
+== Diagnóstico diferencial ==
+As manifestações clínicas sobrepõem-se a síndromes malformativos (Dubowitz, Seckel, Holt-Oram, Baller-Gerold, trombocitopenia - ausência de rádio, síndromes de quebras de Nijmegen, associação VACTERL, disqueratose congénita; ver estes termos) e o diagnóstico é frequentemente adiado até que o doente desenvolva BMF ou neoplasias malignas. A FA deve ser considerada no diagnóstico diferencial dos doentes jovens com BMF de etiologia desconhecida. Outras síndromes de predisposição para cancro (Bloom, Rothmund-Thomson ou Werner; ver estes termos) ou síndromes com pancitopenia (anemia de Diamond-Blackfan, pancitopenia imune, síndromes de Pearson ou Shwachman-Diamond; ver estes termos) devem ser consideradas.
+
+
+== Diagnóstico pré-natal ==
+O diagnóstico pré-natal é viável com a pesquisa de quebras cromossómicas induzidas por DEB ou pelo estudo molecular quando a mutação é conhecida.
+
+
+== Aconselhamento genético ==
+É geralmente uma doença autossómica recessiva mas pode ocorrer transmissão ligada ao X.
+
+
+== Gestão e tratamento ==
+O tratamento de suporte inclui transfusões de concentrado de eritrócitos (RBC) ou plaquetas desleucocitadas. O único tratamento curativo para as manifestações hematológicas é o transplante de células hematopoiéticas (TCTH). No entanto, esta abordagem aumenta o risco de tumores sólidos, que devem ser monitorizados. O tratamento sintomático inclui administração oral de androgénios, o que melhora a contagem de células sanguíneas nalguns doentes, em particular de RBC. A administração de fator de crescimento hematopoiético pode ser considerada depois de aspiração da medula óssea e biópsia, que deve ser realizada periodicamente durante o tratamento. Quando se desenvolvem doenças malignas, o tratamento é complicado pela maior sensibilidade à radiação e à quimioterapia.
+
+
+== Prognóstico ==
+A BMF e as neoplasias levam a um prognóstico mau, com uma esperança de vida reduzida, que foi melhorado pelo tratamento com HSCT e androgénios.
+
+http://www.orpha.net/consor/cgi-bin/OC_Exp.php?Lng=PT&Expert=84

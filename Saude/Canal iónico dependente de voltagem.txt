@@ -1,0 +1,32 @@
+Os canais iónicos dependentes de voltagem são uma classe de canais iónicos transmembranares que são activados por alterações de diferença de potencial eléctrico perto do canal; a presença deste tipo de canais iónicos é especialmente crítica nos neurónios, mas são comuns em muitos tipos de células.
+Exercem um papel crucial em tecidos neuronais e musculares excitáveis, permitindo uma rápida e coordenada despolarização em resposta a alterações de voltagem. Ao longo de todo o axónio e na sinapse, os canais dependentes de voltagem propagam direccionalmente os sinais eléctricos.
+
+
+== Estrutura ==
+São geralmente compostas por diversas subunidades, dispostas de tal maneira que se forma um poro central através do qual os íons poderão se deslocar em função do seu gradiente electroquímico. Os canais tendem a ser específicos para um determinado iõns, apesar de iõns com carga e tamanho idêntico também possam, até um determinado limite, atravessar o canal.
+
+
+== Exemplos ==
+Exemplos incluem:
+
+os canais de sódio e os canais de potássio dependentes de voltagem, localizados nos nervos e músculos.
+o canal de cálcio dependente de voltagem, que desempenha um papel na libertação de neurotransmissores na terminação pré-sináptica.
+
+
+== Mecanismo ==
+Através de estudos estruturais de cristalografia de raios-X de um canal de potássio, assumindo que esta estrutura permanece intacta na membrana plasmática correspondente, é possível supor que quando uma diferença de potencial é introduzida na membrana, o campo electromagnético associado induz uma alteração conformacional no canal de potássio. Esta mudança de conformação distorce a forma dos canais proteicos de maneira suficientemente forte, permitindo que a cavidade ou canal se abra para admitir o influxo ou efluxo de iões através da membrana. Esta movimentação iónica gera depois uma corrente eléctrica suficiente para despolarizar a membrana.
+Os canais de sódio dependentes de voltagem e os canais de cálcio dependentes de voltagem são formados por um único polipéptido com quatro domínios homólogos. Cada domínio contém seis alfa-hélices que atravessam a membrana. Uma destas hélices, S4, é a hélice sensível à voltagem. Possui muitas cargas positivas de tal maneira que cargas positivas fora da célula repelem a hélice, induzindo uma alteração corformacional que induz o fluxo de iões pelo canal. Os canais de potássio funcionam de modo similar, com a excepção de serem compostos por quatro polipéptidos, cada um com um domínio.
+Os domínios proteicos sensíveis à voltagem destes canais (o "sensor de voltagem") contém geralmente uma região composta por hélices S3b e S4, que parecem ter uma sequência conservada, que ocorre numa variedade de células e espécies.
+
+
+== Ligações externas ==
+«The IUPHAR Compendium of Voltage-gated Ion Channels 2005» 
+MeSH Voltage-Dependent+Anion+Channels
+
+
+== Ver também ==
+Canal iónico
+Canal de cálcio dependente de voltagem
+Canal de sódio
+Canal de potássio
+Canal de potássio dependente de voltagem

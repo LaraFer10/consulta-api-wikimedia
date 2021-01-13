@@ -1,0 +1,343 @@
+O microARNs ou miARN (em inglês:  miRNAs) é um ARN monocatenário, com um comprimento de entre 21 e 25 nucleótidos, cuja principal função é atuar como silenciadores pós-transcricionais, pois pareiam-se com mRNAs específicos e regulam sua estabilidade e tradução. São pequenos RNAs não codificantes. Cada miRNA pode ter centenas ou milhares de alvos, e um mRNA pode ser inibido por diferentes miRNA.  Foram pela primeira vez descritos em 1993, por Lee e colaboradores no laboratório de Victor Ambros, no entanto, só em 2001 é que o termo "microARN" foi cunhado, ano em que apareceu num conjunto de três artigos publicados em Science (26 outubro de 2001).
+
+
+== Aspectos Gerais ==
+RNAs não codificantes (ou ncRNA, do inglês non coding RNAs) são moléculas transcritas a partir do genoma e não traduzidas em polipeptídeos, permanecendo geralmente no núcleo da célula, onde exercem sua função principal de regulação da expressão gênica tanto transcricional como pós-transcricional. A interferência por moléculas de RNAs não codificantes que atuam transcricionalmente é considerado um mecanismo epigenético, isto é, uma mudança estável e herdável da expressão gênica ou do fenótipo celular sem que haja alterações na sequência de bases do material genético. NcRNA
+podem ser divididos em três grandes grupos, em função de seu tamanho. Os dois
+primeiros correspondem às moléculas bem conservadas entre as espécies, sendo
+eles (1) MicroRNA (ou miRNA) e RNA de interferência (ou siRNA, do inglês Small interfering RNA) e (2)
+RNA nucleolares pequenos (ou snoRNA, do inglês small nucleolar RNAs), com tamanhos entre aproximadamente 20 a 30 e
+60 a 300 nucleotídeos, respectivamente. O terceiro grupo é representado pelos (3)
+RNAs longos não codificantes, com pouca conservação e comprimento médio de 2
+mil pares de bases. Outros critérios como origem, estrutura, proteínas efetoras
+associadas e função biológica reduzem os limites entre os grupos de ncRNA e
+dificultam sua classificação. Apesar de miRNA e siRNA constituírem um único
+grupo de ncRNA em função de seu tamanho, estrutura, biogênese e mecanismo de
+ação semelhantes e ampla distribuição filogenética e fisiológica, eles podem
+ser diferenciados principalmente em função e por sua origem: enquanto os miRNA
+são tidos como endógenos, ou seja, como produtos do genoma do próprio
+organismo, os siRNA são considerados primariamente de origem exógena, sendo
+derivados diretamente de vírus, transposons ou transgenes. Os
+miRNAs são pequenas moléculas endógenas de ácido ribonucleico (RNA), não codificantes,
+com cerca de 22 nucleotídeos (nt), que atuam como reguladores da expressão
+gênica em plantas e animais, ao nível pós-transcricional através da clivagem de
+um RNA mensageiro (mRNA) alvo ou da repressão da tradução. O
+primeiro miRNA, lin-4, foi descrito em 1993 pelo grupo de Rosalind Lee
+associado à regulação do desenvolvimento larval de Caenorhabditis elegans (C.
+elegans). lin-4 regulava negativamente o nível da proteína LIN-14
+(da primeira fase larvar), criando uma diminuição da expressão da mesma ao
+longo do tempo. Sete anos após a descrição de lin-4, ocorreu a
+descoberta do segundo miRNA, let-7, também no mesmo organismo modelo.
+Verificou-se que este miRNA atuava ao nível pós-transcricional e apresentava
+complementaridade parcial com a região 3’ não traduzida (3’-UTR) do mRNA LIN-41
+.A existência
+de genes homólogos no genoma humano, de Drosophila
+e de outros doze animais bilaterais, permitiu supor que os miRNAs seriam uma
+classe com funções reguladoras amplas em muitas espécies diferentes.
+Inicialmente foram denominados como RNAs temporais pequenos (ou stRNA, do
+inglês small temporal RNAs) devido ao
+seu papel em etapas do desenvolvimento embrionário de C. Elegans. O termo microRNA só foi cunhado em 2001 em três
+trabalhos publicados simultaneamente na revista científica Science. Nesta ocasião, os autores descreveram, no total, mais de
+cem novos genes de miRNA em vertebrados e invertebrados e de forma geral os
+consideraram amplamente conservados entre as espécies estudadas (humanos, Drosophilae e Caenorhabditis). Entretanto, notaram que estes novos miRNAs não
+necessariamente eram expressos em diferentes momentos do desenvolvimento
+embrionário, mas principalmente que eram expressos por diferentes tipos
+celulares de uma espécie. Desde então, uma série de novos trabalhos utilizando
+técnicas de clonagem revelaram numerosos novos genes para miRNAs em mamíferos,
+peixes, helmintos, insetos e plantas. Com isso, a necessidade de catalogar a
+informação e facilitar a atribuição de nomes a novos miRNA levou ao desenvolvimento
+de um banco de dados de microRNA – o miRNA Registry, atualmente conhecido como
+miRBase. Até o momento, mais
+de 17000 sequências de miRNAs em mais de 140 espécies diferentes foram
+catalogadas no miRBase (http://www.mirbase.org/), número este que tem
+aumentado exponencialmente, e nos últimos três anos quase triplicou. Em
+diversas espécies, a distribuição dos genes de miRNA predomina em regiões
+relativamente distantes de genes previamente anotados, sugerindo que eles
+derivam de unidades de transcrição independentes. Por outro lado, uma minoria
+significativa destes miRNA tem suas sequências codificadas em íntrons de
+pré-mRNA, não possuindo um promotor próprio. Nestes casos, é esperada uma
+expressão coordenada de um miRNA e uma proteína derivados do mesmo pré-mRNA,
+compondo um cenário de regulação mais simplificado. Contudo, se coexpressos,
+tanto o mRNA quanto o miRNA teriam a mesma orientação, o que não se observa na
+prática. Em outras palavras, o que de fato acontece, pelo menos em C. elegans, é a expressão independente
+dos miRNAs de regiões intrônicas em relação aos mRNA previstos. Um grande
+questionamento entre os especialistas em miRNA é a demora para sua descoberta,
+uma vez que a resposta definitivamente não está na raridade destas moléculas.
+Pelo contrário, os miRNA e proteínas associadas são aparentemente um dos
+complexos ribonucleoproteicos mais abundantes da célula. Assim, alguns autores
+sugerem dificuldades técnicas de transcriptômica, como a clonagem não otimizada
+para capturar miRNA, enquanto outros apontam para aspectos da estrutura destas
+moléculas, como a falta de um quadro aberto de leitura (ou ORF, do inglês open reading frame) que permitisse
+identificar um candidato a gene. Várias hipóteses existem, mas nenhuma ainda responde satisfatoriamente esta questão. 
+
+
+== Biogênese dos microRNAs ==
+A maioria dos genes transcritos em miRNAs se
+localiza em regiões intergênicas e estão organizados de forma isolada em
+plantas, C. elegans e humanos,
+sugerindo que são transcritos a partir de unidades transcricionais
+independentes.   Outros miRNAs estão agrupados no genoma em
+um arranjo e possuem um padrão de expressão que produz um miRNA primário
+(pri-miRNA) “policistrônico”, capaz de gerar vários miRNAs distintos após a
+finalização do processamento.  Em Drosophila mais da metade desses genes
+está organizada em clusters.   Os miRNAs também podem ser processados por
+sequências de íntrons de genes codificantes de proteínas, o que compreende
+aproximadamente 30% dos miRNAs. O número de genes que codificam miRNAs
+ultrapassou 110 em C. elegans, 140 na mosca Drosophila melanogaster e 400 em
+seres humanos, representando cerca de 1% a 2% do número de genes
+codificadores de proteínas nessas respectivas espécies.  Em função
+do número de genes transcritos em miRNAs já conhecidos e dos diferentes padrões
+de expressão estabelecidos por estudos de transcriptômica propõe-se que, cada
+tipo celular tenha um perfil distinto de expressão de miRNA em uma determinada
+etapa do desenvolvimento embrionário ou tecidual. Esse perfil é resultado da
+expressão ou não de certas moléculas, como também da abundância destas num dado
+momento. De forma geral, a maioria dos genes de miRNA
+são transcritos pela RNA polimerase II (RNA pol II) no núcleo em miRNAs
+primários (pri-miRNAs). Individualmente, um pri-miRNA pode produzir um
+único miRNA ou conter grupos de dois ou mais miRNAs que são processados a
+partir de um transcrito primário comum. Esses longos pri-miRNA são clivados por
+um complexo que abrange a enzima RNAse III de cadeia dupla (DROSHA) e seu
+cofator essencial, a proteína de ligação DGCR8 (DiGeorge Syndrome Critical
+Region 8 protein) em mamíferos. A DROSHA contém dois domínios de RNAse
+III, cada qual cliva uma fita do RNA resultando no microRNA precursor
+(pré-miRNA) com cerca de 70 pares de base, que contém um trecho de fita dupla e
+uma alça de fita simples, formando uma estrutura em grampo. O pré-miRNA é
+exportado para o citoplasma pela proteína exportina-5 (XPO-5), onde é clivado
+pela DICER1, uma RNAse III que avalia as extremidades 3’ e 5’ do pré-miRNA,
+gerando um miRNA maduro com cerca de 22 nucleotídeos. O
+processamento do pré-miRNA pela Dicer promove o desenrolamento do duplex de RNA
+em forma de grampo. Geralmente, apenas uma fita é incorporada no RNP (fita
+guia), sendo que a seleção da fita depende da sua instabilidade termodinâmica e
+da fragilidade do pareamento de bases em relação à outra cadeia. A posição na
+formação do grampo também pode influenciar na escolha da fita. A outra
+fita, chamada fita passageira, é indicada com um asterisco (*) e é normalmente
+degradada. Em alguns casos ambas as cadeias do duplex são viáveis e ambas se tornam
+miRNAs funcionais que tem como alvo populações de mRNA diferentes.A DICER1 se associa com a proteína TRBP
+(transactivation responsive RNA binding protein, também chamada de TRBP2), que
+se liga ao RNA dupla-fita (dsRNA). A TRBP também liga fisicamente à DICER1 com
+as proteínas Argonautas (AGO1, AGO2, AGO3 ou AGO4, por exemplo) na montagem do
+complexo ribonucleoproteico (RNP).  O RNP procura pelos mRNAs alvo
+através da busca de sequências nucleotídicas complementares usando uma das
+fitas do microRNA como molde.  As proteínas denominadas Argonautas são
+compostas por dois domínios, o PAZ que pode se ligar à porção 3’ da fita
+simples do miRNA maduro e o domínio PIWI que é estruturalmente semelhante a
+ribonuclease-H e interage com porção 5’ da fita guia. Esses domínios se ligam
+ao miRNA maduro e orientam a interação com o mRNA alvo. Uma fita do miRNA maduro (fita guia) é então
+ligada por uma Argonauta e retida no RNP guiando o complexo ao mRNA alvo no
+silenciamento gênico pós-transcricional. Esse passo ocorre nos corpos de
+processamento (p-bodies), que são estruturas citoplasmáticas envolvidas no
+controle da expressão gênica pós-transcricional. Esse controle regula a
+renovação de mRNA, bem como a remoção de RNA anormais e com mutações sem
+sentido. A formação dos p-bodies parece depender de proteínas específicas e
+RNA, em particular, miRNAs. 
+
+
+=== Biogênese em plantas ===
+Os miRNAs de plantas geralmente têm um
+pareamento quase que perfeito com seus mRNA alvos e induzem repressão do gene
+através da clivagem dos transcritos-alvo. A biogênese dos miRNAs em
+plantas difere da biogênese dos animais principalmente nas etapas de
+processamento e exportação. Ao invés de ser clivado pelas duas enzimas, uma
+dentro e outra fora do núcleo, ambas as clivagens do miRNA nas plantas são
+realizadas por uma proteína homóloga a Dicer chamada Dicer-like1 (DL1).  DL1 é expressa somente no núcleo celular de
+plantas, indicando que ambas as reações acontecem dentro do núcleo. Antes do
+complexo dsmiRNA (duplex) ser transportado para fora do núcleo sua extremidade
+3’ é metilada por uma RNA metiltransferase chamada HEN1 (Hua-Enhancer 1). Este
+complexo é então transportado para o citoplasma por uma proteína chamada HST
+(Hasty), uma homóloga da XPO-5, onde eles se desmontam e o miRNA maduro é então
+incorporado no RNP.
+
+
+== Função dos microRNAs ==
+Os
+miRNAs têm como principal função regular os genes e o genoma, silenciando-os de
+forma geral, o que pode levar a um aumento ou diminuição na expressão de um
+gene ou, inclusive, de uma proteína que atua em uma via de sinalização para um
+determinado contexto celular. Essa regulação pode ocorrer em vários níveis
+da função gênica, podendo interferir na estruturação da cromatina, no rearranjo
+cromossomal, em fenômenos de metilação do DNA ou das histonas, na transcrição
+(por exemplo, no silenciamento de genes promotores), no processamento e
+estabilidade do RNA e na tradução.  Neste sentido, os miRNA podem ser
+chamados de RNA de interferência (RNAi).
+Basicamente, a identificação do gene
+a ser silenciado se dá pelo pareamento de bases complementares com o miRNA
+específico para o mesmo. Portanto, pode-se dizer que esse silenciamento pode
+ser reprogramável. Cada situação exige um diferente padrão de expressão gênica,
+desta forma, a maquinaria de silenciamento pode ser redirecionada através da
+expressão de novos miRNAs ou da remoção de antigos miRNAs. Assim, quando o
+genoma se encontra diante de ameaças externas, como bactérias ou vírus, ele
+pode expressar sequências de miRNAs, que são capazes de reprimir a expressão gênica,
+fazendo que o mesmo consiga responder à ameaça. Além do pareamento sincronizado do
+miRNA com o alvo, outros fatores também são importantes no processo de RNAi,
+como a atuação da família de proteínas argonautas e a Dicer, que atuam na biogênese e no auxílio do reconhecimento dos
+alvos pelo miRNA. Por exemplo, a deficiência induzida de Dicer pode revelar outras funções dessa
+enzima, como no silenciamento transcricional de genes através da produção de siRNAs
+endógenos, sugerindo uma característica epigenética de adaptação. Já foram descritas várias famílias
+de miRNAs, e cada um deles é capaz de atuar sozinho ou em conjunto com outros
+miRNAs na regulação de um gene. Devido à essa característica principal de
+regulação gênica, acredita-se que os miRNAs estão diretamente ligados à
+formação de tumores.
+Foi descrito na literatura, por
+exemplo, que miRNAs estão diretamente envolvidos na regulação da proliferação
+celular através da via do receptor do fator de crescimento epitelial (EGFR - Epitelial Growth Factor Receptor), que
+está envolvido em vários tipos de câncer, como de pulmão, colo-retal, mama,
+dentre outros. Neste caso, verificou-se que miR-124, miR-147 e
+miR-193-a-3p são essenciais na regulação do EGFR. É importante ressaltar
+que não é apenas um miRNA específico que estará envolvido diretamente com uma
+proteína da via, mas que pode existir 
+uma série de interações entre um único miRNA e vários alvos dentro de
+uma mesma via de sinalização e, ainda, vários miRNA podem ser  capazes de atuar em um mesmo alvo da via.  Diante dessas descobertas, uma nova alternativa terapêutica pode surgir ao
+utilizar esses miRNA para bloquear uma via específica na formação de tumores.
+Os miRNAs também desempenham um
+papel essencial no desenvolvimento do controle e da resposta do sistema imune.
+Fatores como a remoção de genes responsáveis pela confecção da maquinaria de
+miRNA e a perda ou desregulação de alguns miRNAs comprometem o desenvolvimento
+da resposta imune ao alterar componentes principais de vias funcionalmente
+interligadas, gerando desordens como doenças auto-imunes e câncer. Por
+exemplo, através da inativação da Dicer
+em linfócitos T ou B de camundongos é possível demonstrar que os miRNAs são
+críticos para o processo de desenvolvimento e diferenciação dos linfócitos.
+Para as células T afetadas pela deleção da Dicer
+em camundongos mutantes verificou-se a ocorrência de várias imunopatologias,
+como esplenomegalias, aumento no tamanho dos linfonodos intestinais e colites.
+Ou seja, os miRNAs atuantes desta via são essenciais para a manutenção da
+homeostasia e da função repressora das células T regulatórias. Para
+reforçar essa hipótese, observou-se que quando ocorre uma deleção na Dicer e em Drosha verifica-se uma deficiência no fator Foxp3 que é essencial
+na diferenciação de células T regulatórias, sendo assim incompatível com a vida
+.Nos linfócitos B, aparentemente, os
+miRNAs não afetam diretamente a recombinação V(D)J, essencial para a formação
+do repertório de anticorpos. Porém, miRNAs estão envolvidos na diferenciação
+destes linfócitos, em especial miR-17~92, que aparece como um regulador crítico
+no desenvolvimento celular, envolvido especialmente na regulação de mecanismos
+apoptóticos ou divisão celular.Outros miRNAs sabidamente conhecidos
+como importantes na formação e regulação da imunidade inata e adaptativa são
+miR-155, miR-132 e miR-146, que aumentam seus níveis de expressão após estímulo
+com lipopolissacarídeo (LPS), um importante antígeno presente em bactérias
+Gram-negativas. Esses miRNAs têm como alvos principais componentes da
+via de receptores Toll-like (TLR), que é ativada por LPS, sugerindo uma atuação
+por feedback negativo desses miRNAs nessa via e no mecanismo da expansão da
+linhagem mielocítica durante uma resposta inflamatória.  Já miR-181
+aparenta estar diretamente envolvido no controle do limiar de ativação de
+receptores de células T (TCR), devendo participar na regulação da resposta
+imune dependente de anticorpos.  A deleção de miR-223 leva a um aumento
+de neutrófilos em infecções fúngicas, demonstrando um papel importante na
+formação da linhagem granulocítica e, consequentemente, na imunidade inata.
+A remoção do miR-150 levou a um aumento nos níveis de células B do tipo B1, que
+estão diretamente envolvidas na defesa natural do organismo contra patógenos.A plasticidade apresentada pelos
+miRNAs demonstram que são elementos muito importantes nas interações
+patógeno-hospedeiro, especialmente no que diz respeito a infecções virais.
+Diversos vírus expressam miRNAs, consequentemente, possibilitando interações
+entre os miRNAs e mRNAs do vírus e do hospedeiro. Ao regular a expressão
+gênica, miRNAs virais podem ajudar os vírus a escapar da reposta imune
+produzida pelo hospedeiro. Por exemplo, miR-UL112 de citomegalovírus humano
+(HCMV) diminui a expressão de um ligante ativador de células NK presente no
+complexo de histocompatibilidade de classe I (MHC-I), impedindo assim a morte
+das células infectadas com o vírus.  miRNAs codificados pelo vírus símio 40
+(SV40) se acumulam no estágio tardio da infecção e são perfeitamente
+complementares ao mRNA viral mais novo, fazendo uma diminuição da expressão dos
+antígenos virais que são detectados pelas células T citotóxicas, escapando da
+detecção pelas mesmas , esse é um mecanismo também utilizado nos miRNAs expressos
+pelo vírus herpes simples 1 (HSV-1), permitindo a manutenção desses vírus em um
+estado latente.Em contrapartida, miRNAs do
+hospedeiro também podem auxiliar na defesa antiviral. MiR-32, por exemplo,
+previne o acúmulo do vírus símio foamy
+(PFV-1) em células humanas, ao ter o genoma viral como alvo e causar uma inibição
+na tradução. Alguns vírus transpassam essa defesa ao codificar proteínas
+que reprimem o silenciamento de RNA, através do sequestro de pequenos RNAs ou
+interferindo na função de proteínas envolvidas no processamento de miRNA.Os vírus também podem se aproveitar
+de miRNAs do hospedeiro como forma de garantir sua sobrevivência. Um exemplo
+mais clássico seria o de miR-122 e a infecção pelo vírus da hepatite C (HCV). MiR-122
+é um miRNA altamente expresso nos hepatócitos, basicamente funcionando como um
+regulador do metabolismo de ácidos graxos, e a replicação do HCV é dependente
+da expressão desse miRNA. A especificidade tecidual da expressão de
+miR-122 também garante a predileção do HCV por esse tipo celular. Porém,
+esse mecanismo não é de todo mal, pois desta forma, miR-122 se classifica como
+um candidato a alvo para o tratamento de HCV com o uso de um antagonista
+anti-miR-122. Outros estudos apontam que os miRNAs
+desempenham um papel importante na fisiologia do sistema cardiovascular e estão
+diretamente ligados aos processos patogênicos do mesmo, especialmente por
+atuarem na regulação de cerca de 30% dos genes nucleares. Como as
+proteínas, os RNAs são capazes de se translocar para a mitocôndria, o que
+também acontece com os miRNAs, especialmente miR-181c, que é transportado para
+a mitocôndria de cardiomiócitos, regulando a expressão gênica mitocondrial e,
+consequentemente, afetando sua função.
+
+
+== Aplicações terapêuticas ==
+Há pouco
+mais de uma década surgiu uma revolucionária e promissora classe de agentes
+terapêuticos, os miRNAs, que produzem efeitos bem direcionados e específicos de
+inibir um mRNA através de alterações pós-transcricional. Estes oferecem a
+vantagem de serem altamente potentes e capazes de atuar em alvos inacessíveis a
+moléculas de fármacos convencionais. Antes eram vistos como simples RNAs não
+codificantes, mas com o avanço tecnológico da biologia molecular descobriu-se
+que alguns destes RNAs também auxiliam no controle da tradução e na regulação
+de genes. O potencial destes miRNAs como tratamento de diversas doenças
+infecciosas e do câncer tem elevado gradativamente.Os
+miRNAs possuem papéis importantes em indivíduos saudáveis, mas também estão associados
+a uma gama de doenças como diabetes, doenças cardiovasculares, doenças
+neurológicas e diferentes tipos de câncer. O estudo dos miRNAs vem
+possibilitando o conhecimento da função de genes para determinar biomarcadores
+de diagnóstico e preditores de resposta a tratamentos, que possam vir a ser candidatos
+a medicamentos e possibilitar estudos de doenças. Os miRNAs tem propriedades
+físico-química similares, mas com funções distintas, as sequências de miRNAs na
+maioria das vezes são completamente conservadas em múltiplas espécies de
+vertebrados, estas características do miRNAs os tornam de fácil manipulação e
+viáveis terapeuticamente.  Possuem muitos alvos dentro das células, as
+quais, permitem a modulação de vias inteiras em um estado de doença através de
+direcionamento terapêutico do miRNAs associados à doença.
+Há duas formas que podem ser
+utilizadas para modular a atividade do miRNA:
+
+Restabelecer a função de um miRNA utilizando miRNAs de cadeia dupla sintéticos ou super expressão baseada em vetor viral. Cujo objetivo é conseguir as mesmas funções biológicas dos miRNAs endógenos. Os vetores virais são utilizados para transportar o miRNA terapêutico para dentro da célula de interesse, são modificados geneticamente tanto na remoção da virulência quanto no seu tropismo. Utilização de dsRNAs sintéticas com modificações químicas para aumentar a estabilidade e a absorção celular, evitando a ligação do miRNA ao RISC prevenindo a sua rápida degradação .
+Inibir a função de um miRNA usando oligonucletídeos antimiR quimicamente modificados. MiRNAs maduros podem ser inibidos usando miRNA complementar ou oligonucleotídeos antisenso, conhecidos como antimiRs e oncomiR (atuam como oncogenes). Um miRNA complementar é produzida por expressão transgênica de uma molécula de RNA complementar aos sítios de ligação do miRNA de interesse para bloquear a função de um miRNA alvo ou uma família de miRNA. Para obter um eficiente silenciamento de um miRNA in vivo, o oligonucletídeo antimiR deve ser quimicamente modificado promovendo afinidade de ligação, bioestabilidade e propriedades farmacocinéticas. Uma vez que os níveis de expressão do miRNA variam dependendo do tipo celular, do tecido e das doenças, extensos estudos pré-clinicos são necessários para determinar o nível de inibição de uma miRNA alvo.  Atualmente, a bioinformática é
+a ferramenta inicial para escolha de um miRNA como candidato de um novo fármaco
+. Existem características necessárias que os miRNAs sintéticos devem ter
+como por exemplo potência, especificidade ao mRNA alvo, evitando efeitos fora
+do alvo, e estabilidade às nucleases. A resistência a nuclease é dada pela
+substituição do fosfodiéster (PO) pela fosforotioato (OS) na ligação do
+oligonucleotídeo antimiR. Um siRNA possui 19 – 21 nucleotídeos com alças (overhangs) no final 3’ com TT e UU, os
+quais são importantes para o reconhecimento pela maquinaria de RNAi. Sequências
+siRNAs com 27 nucleotídeo aumenta a potência, porém sequência com mais de 30
+nucleotídeos pode ativar a via interferon. A eficiência de um
+silenciamento via siRNA está relacionada com a região do mRNA ao qual ele é
+complementa e a  quantidade de G / C na
+sequência  que deve ser em torno de 30 e
+64%. O
+primeiro ensaio clínico de uma terapia utilizando siRNA foi iniciada em 2004,
+até o momento há 30 candidatos de siRNA em diferentes fases de ensaios clínicos
+para o tratamento de diferentes doenças.  Já o
+primeiro ensaio clínico de um miRNA como fármaco iniciou em 2013. Os miRNAs
+podem ser utilizados como agentes terapêuticos para doenças complexas para um
+tratamento eficaz, que exige a modulação de várias vias, pois estes são capazes
+de inibir a expressão de uma série de genes alvos, que em geral trabalham em
+conjunto, como por exemplo o miR-155. Por outro lado, os siRNAs tem seu
+potencial limitado pela sua capacidade de ter um único gene específico.Quase
+que 1/3 da terapia utilizando o siRNA ou miRNA em fase de ensaios clínicos são
+direcionados para o câncer. O primeiro miRNA como um oncogene é miR-155, e
+dados recentes indicam que ele desempenha um papel crucial em diversos
+processos fisiológicos e patológicos, tais como a diferenciação hematopoiética,
+imunidade, inflamação, infecções virais, câncer, doenças cardiovasculares e
+síndrome de Down.  O MRX34 foi primeiro a entrar nos estudos clínicos na
+terapia de câncer projetado para fornecer miR-34 similar por formulação lipossomal,
+sendo indicado para câncer de fígado primário ou metástase de outros tumores no
+fígado. Este miR-34 está bem caracterizado como regulador da supressão tumoral
+. O TargomiR também em fase de ensaios clínicos é indicado para mesotelioma
+maligno da pleura e para câncer de pulmão de não pequenas células. O TargomiRs
+consiste em três componentes similares ao miRNA-16, uma nanopartícula de
+entrega da droga e um anticorpo fator de crescimento como antiepidermal  para o direcionamento do farmaco.Em
+poucos anos estarão disponíveis uma gama de novos fármacos que utilizam esta
+estratégia terapêutica, inúmeros miRNA estão em fases de ensaios pré-clinicos e
+clínicos. Contudo, o perfil de segurança e eficácia será bem definido após
+estudos clínicos adicionais e de longo prazo, a fim de identificar ou não
+eventos adversos.
+
+
+=== microRNA em estudos terapêuticos ===
+miR-34 – terapia contra o câncer, possuem efeito de controlar a proliferação celular, ciclo celular e apoptose;
+miR-33 – terapia da arteriosclerose, regulam o colesterol, ácidos graxos e triglicérides e induz a homeostase com a codificação de SREBP1 e SREBP2;
+miR- 208 – tratamento de insuficiência cardíaca e diabetes;
+miR-122 – tratamento da infecção pelo vírus da hepatite C. 
+
+
+== Referências ==

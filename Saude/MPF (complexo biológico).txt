@@ -1,0 +1,6 @@
+O MPF é um complexo formado por uma CDK (cinase dependente das ciclinas) e por uma ciclina que intervem na mitose e na meiose. 
+Muitas das alterações que ocorrem na célula durante o processo mitotico é devido à activação ou desactivação deste complexo.  O MPF é activado no início da mitose e tem como função promover fosforilações que fazem as alterações na célula que permitem a continuação do processo mitótico. Provoca fosforilação das histonas para ocorrer a condensação do DNA, fosforilação do núcléolo ocorrendo a desorganização da membrana núclear, do reticulo endoplasmático, do complexo de Golgi. 
+Quando se entra na anáfase é necessário a descondensação dos cromossomas, por isso a concentração de MPF tem de diminuir. Para isso ocorrer as CDKs têm de ser inactivadas o que ocorre quando as ciclinas que estão associadas a elas são degradadas por um processo denominado ubiquitinação. Quando o MPF é inactivado a célula começa a voltar à sua estrutura inicial.
+
+
+== Referências ==

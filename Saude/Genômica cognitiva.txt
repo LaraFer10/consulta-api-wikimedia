@@ -1,0 +1,26 @@
+Genômica cognitiva é o sub-campo da genômica relativo ao estudo das funções cognitivas em que os genes e sequências não codificantes de organismos estão relacionados à saúde e/ou atividade cerebral. Ao aplicar genômica comparativa, os genomas de várias espécies são comparados, a fim de identificar diferenças e genéticas e fenotípicas entre as espécies. Características fenotípicas incluem aspectos relacionados a cognição, comportamento, personalidade, neuroanatomia e neuropatologia, sendo que a inteligência é o traço comportamental mais estudado. A teoria por trás genômica cognitivas é baseada em elementos da genética, biologia evolutiva, biologia molecular, psicologia cognitiva, psicologia comportamental e neurofisiologia.
+Em humanos, aproximadamente 70% de todos os genes são expressos no cérebro,  sendo a variação genética responsável por 40% da variação fenotípica. Abordagens em genômica cognitiva têm sido usadas para investigar as causas genéticas de distúrbios neurodegenerativos, síndrome de Down, Depressão Maior, autismo e doença de Alzheimer.
+
+
+=== Seleção de Gene Candidato ===
+Em genômica, um gene analisado a ser representado por imagem é referido como um gene candidato. Os genes candidatos ideais para testes de genômica comparativa são genes que abrigam polimorfismos funcionais bem definidos e com efeitos conhecidos sobre a função neuroanatomica e/ou cognitiva. No entanto, genes com polimorfismos de nucleotídeo único identificados ou variações alélicas já podem ser suficientes para implicações potenciais funcionais sobre o sistema nervoso central.
+
+
+=== Controle para fatores não-genéticos ===
+Fatores não-genéticos, como idade, doenças, ferimentos ou abuso de substâncias podem ter efeitos significativos sobre a expressão gênica e a variação fenotípica. A identificação e a contribuição da variação genética para fenótipos específicos só podem ser realizada quando outros fatores que contribuem potencialmente são combinados através de grupos de genótipos. No caso de neuroimagem durante a execução de tarefas, como em fMRI, os grupos são acompanhados por nível de desempenho. Fatores não-genéticos têm um efeito particularmente grande potencial no desenvolvimento cognitivo. No caso do autismo, fatores não-genéticos respondem por 62% do risco de doença. A fim de estudar a ligação entre um gene candidato e um fenótipo proposto, a um sujeito é dada frequentemente uma tarefa de execução que causa um fenótipo comportamental, enquanto passando por um exame de neuroimagem. Muitas tarefas comportamentais utilizados para estudos genômicos são versões de testes comportamentais e neuropsicológicos clássicos modificados destinados a investigar sistemas neurais críticos para determinados comportamentos.
+
+
+== Pesquisas com primatas ==
+Em 2003, a Projeto Genoma Humano produziu o primeiro genoma humano completo. Apesar do sucesso do projeto, muito pouco se sabe sobre a expressão cognitivas dos genes. Antes de 2003, todas as provas relativas a conectividade cérebro humano fora, baseadas em observações post mortem. Devido a preocupações de ordem ética, estudos genômica invasivos in vivo ainda não foram realizados em seres humanos vivos.
+Como os parentes genéticos mais próximos aos seres humanos, primatas não-humanos são os mais preferíveis nos estudos de genômica. Devido ao alto custo de captação e manutenção de populações de primatas, o teste genômico em primatas não-humanos é tipicamente realizada a instalações des pesquisas de grandes dimensões.
+
+
+== Distúrbios neurogenéticos e Transtornos Cognitivos ==
+Apesar do que às vezes é relatado, a maioria dos fenótipos comportamentais ou patológicas não são devidas a uma única mutação genética, mas oriunda de uma base genética complexa. No entanto, existem algumas excepções a esta regra, como doença de Huntington, que é causada por uma única desordem genética específica. A ocorrência de desordens neurogenéticas é influenciada por um número diverso de factores, genéticos e não genéticos.
+
+
+=== Alguns exemplos de distúrbios neurogenéticos e Transtornos Cognitivos ===
+síndrome de Rett, Prader-Willi, Síndrome de Angelman, Síndrome de Williams-Beuren, síndrome de Down, Síndrome de Turner.
+
+
+== Referências ==

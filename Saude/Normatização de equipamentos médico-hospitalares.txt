@@ -1,0 +1,39 @@
+Normatização refere-se aos requerimentos, especificações, diretrizes e características elaboradas para algum material, produto, processo ou serviço.Conforme o art. 12 da Lei nᵒ 6.360, de 23 de setembro de 1976, todo equipamento de uso em saúde com finalidade médica, odontológica, laboratorial ou fisioterápica deve ser registrado no Ministério da Saúde, salvo poucas exceções que são sujeitas ao regime da Vigilância Sanitária. A lei nᵒ 9.782, de 26 de janeiro de 1999, concedeu a Agência Nacional de Vigilância Sanitária (Anvisa) a competência de regulamentar, controlar e fiscalizar os produtos e serviços que envolvam risco a saúde pública.
+
+
+== Aspectos históricos ==
+Nas últimas décadas, a metrologia teve avanços grandiosos permitindo a concepção de novos instrumentos voltados para a ciência, indústria e saúde. Nesta última, o grande esforço está no desenvolvimento de instrumentos que meçam parâmetros fisiológicos com melhor precisão e que contornem ou minimizem as fontes de erros nas medidas. Com isso, é possível obter diagnósticos, prevenir e tratar doenças com maior acurácia.
+Uma consequência direta é que médicos passam a depender e confiar cada vez mais em parâmetros quantitativos medidos de seus pacientes. Essa confiabilidade deve ser refletida no equipamento utilizado, que deve fornecer segurança adequada ao paciente e operador, bem como apresentar resultados com alto nível de precisão e terem comparabilidade internacional através de um Sistema de Unidades adequado.
+A validade das medidas fisiológicas e riscos do uso de equipamentos só começou a receber maior preocupação em 1991, com um estudo prático realizado em Harvard. Neste estudo, pesquisadores investigaram dados de mais de 30 mil pacientes hospitalizados em estado grave. Destes, cerca de 3,7% sofreram por eventos adversos, sendo que 13,6% destes foram incidentes fatais.
+Entretanto, desde a década de 70 já existiam contribuições internacionais para a calibração de instrumentos de tratamento de câncer. Isso, além do alto risco à vida, contribuiu para que o ramo das radiações na medicina recebesse o maior controle metrológico, e é devido a isso que as radiações ionizantes têm o maior controle metrológico da medicina atualmente.
+Em 1999, na 21ª Conferência Geral de Pesos e Medidas (CGPM, da sigla em francês, Conférence générale des poids et mesures), foi destacada a necessidade de as medidas fisiológicas serem internacionalmente comparáveis, e através de infraestruturas padrões buscar a equivalência. Neste mesmo ano, foi criada no Brasil a Agência Nacional de Vigilância Sanitária (Anvisa), vinculada ao Ministério da Saúde, a qual foi incumbida o papel de garantir a segurança sanitária de equipamentos médicos, através de Resoluções próprias.
+A Anvisa passou então a adaptar sistemas internacionalmente reconhecidos de padronização de equipamentos médicos para a situação brasileira. Verificou-se que era inviável economicamente sujeitar todos os instrumentos aos mais rigorosos controles sanitários possíveis. Para isso, foi criado um modelo de enquadramento sanitário, baseado no perigo potencial inerente ao produto. A classificação estabelecida foi a seguinte:
+Classe I – baixo riscoClasse II – médio riscoClasse III – alto riscoClasse IV – máximo riscoComplementarmente à classificação por risco, existem dezoito enquadramentos por regras que obedecem à indicação e finalidade do uso do equipamento – divididos em produtos não invasivos, produtos invasivos, ativos e regras especiais, conforme Resolução Anvisa RDC nᵒ 185/01.
+
+
+== Registro de um equipamento médico ==
+O registro de um equipamento médico na ANVISA é feito por diversas etapas, descritas abaixo:
+
+
+=== Regularização da empresa junto à vigilância sanitária ===
+Regularização com a Vigilância Sanitária e Boas Práticas de Fabricação e Controle. Compreende a obtenção da Autorização de Funcionamento da Empresa (AFE), emitido pela própria ANVISA, e o Alvará de Funcionamento, emitido pela Vigilância Sanitária, municipal ou estadual. Sem estes documentos não é possível prosseguir o processo na ANVISA. Também é necessário que a empresa atenda aos requisitos de Boas Práticas de Fabricação e Controle (BPFC), definidos da resolução ANVISA RDC nᵒ 59, verificado in loco pela inspeção sanitária.
+
+
+=== Identificação sanitária do equipamento ===
+Inicialmente é feita a Classificação do equipamento conforme Resolução Anvisa RDC nᵒ 185/01. Alguns equipamentos estão sujeitos a apresentação de um Relatório de Informações Econômicas. A lista destes produtos pode ser consultada na Resolução Anvisa RE nᵒ 3385/2006. Outros ainda podem precisar de apresentação do Certificado de Conformidade INMETRO ou um Relatório Consolidado de Testes, enquadrados na Instrução Normativa Anvisa IN nᵒ 08, de 29 de maio de 2007.
+
+
+=== Identificação da petição ===
+Parte do processo em que é feita o cadastramento ou registro do equipamento na Anvisa, dependendo da classificação do mesmo. O produto pode ser cadastrado como único ou fazendo parte de uma família (produtos com tecnologia semelhante, finalidade, precauções, etc.)
+
+
+=== Peticionamento eletrônico ===
+Parte do processo que dá enfim, início à solicitação junto à Anvisa, feita direto no seu site. É feita somente após todos os passos anteriores estarem prontos.
+
+
+== Erros, incerteza e necessidade de calibração de equipamentos médicos ==
+A confiabilidade metrológica é essencial para que um equipamento médico hospitalar promova a segurança do operador e do paciente, indicando resultados verdadeiros sobre o estado clínico deste. Sendo um dispositivo mensurador de alguma grandeza, é inerente ao seu funcionamento uma certa incerteza na medida. Entretanto, não existe legislação específica ou regulamentação que promova o controle de instrumentos biomédicos através de calibrações e aferições periódicas. O mau funcionamento pode causar danos sérios, e até fatais, aos operadores e pacientes. Além do mais, ações jurídicas por parte de um ente ferido tornam-se causa de crescentes despesas financeiras de hospitais e profissionais da saúde.
+A importância da calibração em equipamentos médicos pode ser ilustrada através de um exemplo muito prático: a medição da pressão arterial, parâmetro fisiológico mais medido no mundo, indicativa de doenças coronárias e cardiovasculares. Esta medição é feita por um equipamento conhecido por esfigmomanômetro, que já possui regulamentação técnica metrológica elaborada pelo INMETRO. Neste equipamento, é permitido um erro na medida de até ±3 mmHg. Entretanto, um estudo publicado por pesquisadores australianos (6), demonstrou que uma incerteza da ordem de 3 mmHg resulta em um aumento de 83% o número de pacientes com pressão diastólica superior a 95 mmHg (hipertensão), da mesma maneira que quase metade dos pacientes com pressão diastólica superior a 95 mmHg não seriam identificados.Em 1997, através de uma pesquisa elaborada pelo INMETRO em Juiz de Fora, São Paulo e Rio de Janeiro, constatou-se que 61% dos esfigmomanômetros apresentavam erros acima de 4 mmHg. Portanto, mesmo em uma medida simples de pressão arterial, a falta de calibração destes equipamentos compromete totalmente a veracidade metrológica, tento consequências que podem ser fatais.
+
+
+== Referências ==

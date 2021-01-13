@@ -1,0 +1,9 @@
+Entrez (Global Query Cross-Database Search System) é um metabuscador mantido pelo National Center for Biotechnology Information (NCBI), uma secção da United States National Library of Medicine (NLM).
+O NCBI alberga dados provenientes da sequenciação de genomas no seu GenBank e mantém um índice de artigos de investigação biomédica que disponibiliza nas bases de dados PubMed Central e PubMed (inclusive Medline). Para além disso recolhe, trata e disponibiliza múltiplos outros tipos de informação relevante para o desenvolvimento da biotecnologia e ciência da saúde, como os bancos de dados  Projeto Genoma, PubChem, Online Mendelian Inheritance in Man, entre outros. Todas as bases de dados (39 no total) estão disponíveis na Internet através de Entrez.
+
+
+== Referências ==
+
+
+== Ligações externas ==
+«Site oficial» (em inglês)

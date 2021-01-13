@@ -1,0 +1,263 @@
+Em neurociência, plasticidade sináptica é a capacidade de sinapses de fortalecer ou enfraquecer ao longo do tempo, em resposta a aumentos ou diminuições em sua atividade.Por as memórias serem representadas por redes vastamente interligadas de sinapses no cérebro, a plasticidade sináptica é uma das importantes bases neuroquímicas para o aprendizado e a memória (ver teoria hebbiana).
+Mudanças plásticas muitas vezes resultam da alteração do número de receptores de neurotransmissores localizados em uma sinapse. Existem vários mecanismos subjacentes que cooperam para alcançar a plasticidade sináptica, incluindo mudanças na quantidade de neurotransmissores liberados em uma sinapse e mudanças em quão efetivamente as células vão responder aos neurotransmissores. A plasticidade sináptica, em ambas as sinapses excitatórias e inibidoras, foi verificada como sendo dependente da liberação pós-sináptica de cálcio.
+
+
+== Descobertas históricas ==
+Em 1973, Terje Lømo e Tim Bliss descreveram o fenômeno agora amplamente estudado de potenciação de longa duração (LTP) em uma publicação no Journal of Physiology. O experimento descrito foi conduzido na sinapse entre a via perfurante e o giro dentado no hipocampo de coelhos anestesiados. Eles foram capazes de demonstrar que uma explosão de estímulos tetânicos (100 Hz) nas fibras da via perfurante levaram a um aumento dramático e de longa duração na resposta pós-sináptica das células nas quais essas fibras fazem a sinapse no giro dentado. No mesmo ano, a dupla publicou dados muito similares gravados a partir de coelhos acordados. Essa descoberta foi particularmente interessante devido ao papel proposto para o hipocampo em certas formas de memória.
+
+
+== Mecanismos bioquímicos ==
+Dois mecanismos moleculares para a plasticidade sináptica envolvem os receptores de glutamato NMDA e AMPA. A abertura dos canais NMDA (que está relacionada ao nível de despolarização celular) leva a um aumento na concentração de Ca2+ pós-sináptico e isso tem sido associado a potenciação a longo prazo, a LTP (bem como a ativação da proteína quinase); forte despolarização da célula pós-sináptica desloca completamente os íons de magnésio que bloqueiam canais iônicos NMDA e permite que os íons de cálcio entrem em uma célula - provavelmente causando LTP, enquanto uma despolarização mais fraca desloca apenas parcialmente os íons Mg2 +, resultando em menos Ca2+ entrando no neurônio pós-sináptico e reduzindo a concentração intracelular de Ca2+ (que ativam proteínas fosfatases e induzem a depressão de longa duração, LTD).Estas proteínas quinases ativadas servem para fosforilar receptores pós-sinápticos excitatórios (por exemplo, receptores de AMPA), melhorar a condução de cátion e assim potencializando a sinapse. Além disso, esses sinais recrutam receptores adicionais para a membrana pós-sináptica, estimulando a produção de um tipo de receptor modificado, facilitando, assim, um influxo de cálcio. Isto por sua vez aumenta a excitação pós-sináptica por um dado estímulo pré-sináptico. Este processo pode ser revertido através da atividade de fosfatases de proteínas, que agem para desfosforilar estes canais de cátions.O segundo mecanismo depende de uma cascata de segundo mensageiro que regula a transcrição de genes e alterações nos níveis de proteínas-chave nas sinapses, como CaMKII e PKAII. A ativação da via de segundo mensageiro conduz ao aumento dos níveis de CaMKII e PKAII dentro da espinha dendrítica. Estas proteínas quinases têm sido associadas ao crescimento do volume espinha dendrítica e de processos LTP, tais como a adição de receptores de AMPA para a membrana plasmática e fosforilação de canais de íons para uma maior permeabilidade. A localização ou a compartimentalização de proteínas ativadas ocorre na presença do seu dado estímulo que cria efeitos locais na espinha dendrítica. O influxo de cálcio a partir de receptores de NMDA é necessário para a ativação de CaMKII. Esta ativação é localizada nas espinhas com estimulação focal e é desativada antes de se espalhar para espinhas adjacentes ou a base do dendrito, o que indica um mecanismo importante da LTP em que alterações particulares na ativação da proteína podem ser localizadas ou compartimentadas para aumentar a responsividade de espinhas dendríticas individuais. Espinhas dendríticas individuais são capazes de formar respostas únicas para células pré-sinápticos. Este segundo mecanismo pode ser desencadeado por fosforilação de proteína, mas leva mais tempo e dura mais tempo, fornecendo o mecanismo de armazenamento de memória de longa duração. A duração da LTP pode ser regulada pela desagregação destes segundos mensageiros. A fosfodiesterase, por exemplo, divide o mensageiro secundário cAMP, que tem sido implicado no aumento da síntese do receptor de AMPA no neurônio pós-sináptico.
+Mudanças de longa duração na eficácia das conexões sinápticas (potenciação de longa duração, ou LTP) entre dois neurônios podem envolver a criação e ruptura de contatos sinápticos. Os genes tais como activina ß-A, que codifica uma subunidade de activina A,são regulados positivamente durante a fase inicial da LTP. A molécula de activina modula a dinâmica de actina em espinhas dendríticas através da via de MAP quinase. Ao alterar a estrutura do citoesqueleto de actina F das espinhas dendríticas, as espinhas são alongadas e a chance de que elas façam contatos sinápticos com os terminais axonais da célula pré-sináptica é aumentada. O resultado final é a manutenção a longo prazo da LTP.O número de canais iônicos na membrana pós-sináptica afeta a força da sinapse. A investigação sugere que a densidade de receptores em membranas pós-sinápticas muda, afetando a excitabilidade do neurônio em resposta a estímulos. Em um processo dinâmico, que é mantido em equilíbrio, os receptores de N-metil D-aspartato (receptor de NMDA) e AMPA são adicionados à membrana por exocitose e removido por endocitose. Estes processos, e por extensão do número de receptores na membrana, podem ser modificados pela atividade sináptica. Experimentos demonstraram que os receptores de AMPA são passados para a sinapse através da fusão da membrana vesicular com a membrana pós-sináptica através da proteína quinase CaMKII, que é ativada pelo influxo de cálcio através de receptores de NMDA. CaMKII também melhora a condutância iônica de AMPA por meio de fosforilação. Quando há a ativação do receptor de NMDA de alta frequência, há um aumento na expressão de uma proteína PSD-95 que aumenta a capacidade sináptica para os receptores de AMPA. Isto é o que leva a um aumento a longo prazo dos receptores de AMPA e, assim, a força sináptica e plasticidade.
+
+
+=== Retroalimentação negativa ===
+Se a força de uma sinapse fosse somente reforçada por estimulação ou enfraquecida pela ausência, um circuito de retroalimentação positiva iria se desenvolver, fazendo com que algumas células nunca disparem e algumas disparem demais. Mas duas formas reguladoras de plasticidade, chamadas escalonamento e metaplasticidade, também existem para fornecer uma retroalimentação negativa.
+
+
+==== Escalonamento sináptico ====
+Escalonamento sináptico é um mecanismo primário pelo qual um neurônio é capaz de estabilizar as taxas de disparo para cima ou para baixo.  escalonamento sináptico serve para manter as forças das sinapses em relação umas as outras, diminuindo as amplitudes de pequenos potenciais pós-sinápticos excitatórios em resposta a uma excitação contínua e elevá-las após uma inibição ou bloqueio prolongado. Este efeito ocorre gradualmente ao longo de horas ou dias, mudando o número de receptores de NMDA na sinapse.
+
+
+==== Metaplasticidade ====
+A metaplasticidade varia o nível do limite em que a plasticidade ocorre, permitindo respostas integradas a atividade sináptica espaçadas ao longo do tempo e prevenindo estados saturadas de LTP e LTD. Uma vez que a LTP e LTD (depressão de longa duração) contam com o influxo de Ca2+ através de canais de NMDA, a metaplasticidade pode ser devida a mudanças nos receptores de NMDA, tamponamento de cálcio alterado, estados alterados de quinases ou fosfatases e a iniciação de um mecanismo de síntese de proteínas.O circuito neuronal afetado por LTP/LTD e modificado por escalonamento e metaplasticidade leva a reverberação do desenvolvimento circuito neural e regulação de forma Hebbiana que é manifestada como memória, ao passo que as alterações nos circuitos neurais, que começam no nível da sinapse, são parte integral da capacidade de um organismo de aprender.Há também um elemento de especificidade das interações bioquímicas para criar a plasticidade sináptica, notadamente, a importância do local. Os processos ocorrem em microdomínios, tais como a exocitose dos receptores AMPA é espacialmente regulada pela t-SNARE STX4. A especificidade é também um aspecto importante da sinalização de CaMKII envolvendo o nanodomínio de cálcio. O gradiente espacial de PKA entre espinhas dendríticas e o dendrito também é importante para a força e regulação da plasticidade sináptica. É importante lembrar que os mecanismos bioquímicos alterando a plasticidade sináptica ocorrem no nível de sinapses individuais de um neurônio. Uma vez que os mecanismos bioquímicos estão confinados a esses "microdomínios", a plasticidade sináptica resultante afeta apenas a sinapse específica em que ela ocorreu.
+
+
+== Mecanismos teóricos ==
+Um modelo bidirecional, descrevendo tanto a LTP e LTD, da plasticidade sináptica se revelou necessário para uma série de diferentes mecanismos de aprendizagem em neurociência computacional, redes neurais, e biofísica. Três hipóteses principais para a natureza molecular desta plasticidade são bem estudadas, e nenhuma necessita ser o mecanismo exclusivo:
+
+Mudança na probabilidade de liberação de glutamato.
+Inserção ou remoção de receptores AMPA pós-sinápticos.
+Fosforilação e desfosforilação induzindo uma alteração na condutância dos receptores de AMPA.Destas, as duas primeiras hipóteses têm sido recentemente examinadas matematicamente, tendo dinâmicas dependentes de cálcio idênticas, o que fornece uma evidência teórica forte para um modelo de plasticidade baseado no cálcio, que, em um modelo linear em que o número total de receptores são conservados, se dá como:
+
+  
+    
+      
+        
+          
+            
+              d
+              
+                W
+                
+                  i
+                
+              
+              (
+              t
+              )
+            
+            
+              d
+              t
+            
+          
+        
+        =
+        
+          
+            1
+            
+              τ
+              (
+              [
+              C
+              
+                a
+                
+                  2
+                  +
+                
+              
+              
+                ]
+                
+                  i
+                
+              
+              )
+            
+          
+        
+        
+          (
+          
+            Ω
+            (
+            [
+            C
+            
+              a
+              
+                2
+                +
+              
+            
+            
+              ]
+              
+                i
+              
+            
+            )
+            −
+            
+              W
+              
+                i
+              
+            
+          
+          )
+        
+        ,
+      
+    
+    {\displaystyle {\frac {dW_{i}(t)}{dt}}={\frac {1}{\tau ([Ca^{2+}]_{i})}}\left(\Omega ([Ca^{2+}]_{i})-W_{i}\right),}
+  onde 
+  
+    
+      
+        
+          W
+          
+            i
+          
+        
+      
+    
+    {\displaystyle W_{i}}
+   é o peso sináptico do 
+  
+    
+      
+        i
+      
+    
+    {\displaystyle i}
+  -ésimo axônio de entrada, 
+  
+    
+      
+        τ
+      
+    
+    {\displaystyle \tau }
+   é uma constante de tempo dependente das taxas de inserção e remoção de receptores de neurotransmissores, que é dependente de 
+  
+    
+      
+        [
+        C
+        
+          a
+          
+            2
+            +
+          
+        
+        ]
+      
+    
+    {\displaystyle [Ca^{2+}]}
+  , a concentração de cálcio. 
+  
+    
+      
+        Ω
+        =
+        β
+        
+          A
+          
+            m
+          
+          
+            
+              f
+              p
+            
+          
+        
+      
+    
+    {\displaystyle \Omega =\beta A_{m}^{\rm {fp}}}
+   é também uma função da concentração de cálcio que depende linearmente do número de receptores na membrana do neurônio em um ponto fixo. Ambos 
+  
+    
+      
+        Ω
+      
+    
+    {\displaystyle \Omega }
+   e 
+  
+    
+      
+        τ
+      
+    
+    {\displaystyle \tau }
+   são encontrados experimentalmente e concordam com os resultados de ambas as hipóteses. O modelo faz simplificações importantes que o tornam inadequado para previsões experimentais reais, mas fornece uma base importante para a hipótese de uma plasticidade sináptica dependente do cálcio.
+
+
+== Plasticidade de curto prazo ==
+A plasticidade sináptica de curto prazo atua em uma escala de tempo de dezenas de milissegundos até alguns minutos ao contrário da plasticidade de longo prazo, que dura de minutos a horas. A plasticidade de curto prazo pode fortalecer ou enfraquecer uma sinapse.
+
+
+=== Fortalecimento sináptico ===
+O fortalecimento de sinapses de curto prazo resulta de uma probabilidade aumentada de terminais sinápticos liberarem transmissores em resposta ao potencial de ação pré-sináptica. As sinapses serão reforçadas por um curto tempo por conta ou de um aumento na disponibilidade de transmissores embalados prontos para liberar ou um aumento na quantidade de transmissores embalados liberados em resposta a cada potencial de ação. Dependendo da escala de tempo durante o qual ele age realce sináptica é classificada como facilitação neuronal ou potenciação pós-tetânica.
+
+
+=== Depressão sináptica ===
+Depresão ou fadiga sináptica é geralmente atribuída ao esgotamento das vesículas prontas para liberar. A depressão também pode resultar de processos pós-sinápticos e da ativação em feedback dos receptores pré-sinápticos. Depressão heterosináptica é entendida como ligada à liberação de trifosfato de adenosina (ATP) a partir de astrócitos.
+
+
+== Plasticidade de longo prazo ==
+Depressão de longa duração (LTD) e potenciação de longa duração (LTP) são duas formas de plasticidade de longo prazo, durando minutos ou mais, que ocorrem nas sinapses excitatórias. LTD e LTP dependente de NMDA foram extensivamente estudadas, e verificou-se exigirem a ligação do glutamato e glicina ou D-serina para a ativação dos receptores de NMDA. O ponto de viragem para a modificação sináptica de uma sinapse foi verificado como modificável em si, dependendo do histórico da sinapse. se tem tentado oferecer um modelo completo que poderia ser responsável para a maioria das formas de plasticidade sináptica.
+
+
+=== Depressão de longa duração ===
+
+A breve ativação de uma via excitatória pode produzir o que é conhecido como a depressão de longa duração (LTD) da transmissão sináptica em muitas áreas do cérebro. A LTD é induzida por um nível mínimo de despolarização pós-sináptica e aumento simultâneo da concentração de cálcio intracelular no neurônio pós-sináptico. A LTD pode ser iniciada nas sinapses inativas se a concentração de cálcio é elevada para o nível mínimo exigido pela ativação heterosináptica, ou se a concentração extracelular é aumentada. Essas condições alternativas capazes de causar LTD diferem da regra de Hebb, e em vez disso dependem de modificações da atividade sináptica. Verificou-se que uma liberação de D-serina por astrócitos conduz a uma redução significativa de LTD no hipocampo. Um LTD foi evidenciado em 2011 para as sinapses elétricas (modificação da eficácia de junções gap através da sua atividade).
+
+
+=== Potenciação de longa duração ===
+
+A potenciação de longa duração, também chamada de LTP, é um aumento da resposta sináptica seguindo pulsos de estímulos elétricos potencializantes que sustentam um nível acima da linha de resposta durante horas ou mais. A LTP envolve interações entre os neurônios pós-sinápticos e as entradas pré-sinápticas específicas que formam uma associação sináptica, e é específica para a via estimulada da transmissão sináptica. A estabilização a longo prazo de alterações sinápticas é determinada por um aumento paralelo de estruturas pré e pós-sinápticas, como botão axonal, espinha dendrítica e a densidade pós-sináptica. No nível molecular, um aumento das proteínas pós-sinápticos PSD-95 e Homer1c foi verificada como correlacionada com a estabilização de alargamento sináptica.Uma modificação na cobertura dos astrócitos nas sinapses no hipocampo é vista como resultado da indução de LTP, que entende-se estar ligada à liberação de D-serina, óxido nítrico, e a quimiocina, S100B por astrócitos. A LTP é também um modelo para estudar a base sináptica da plasticidade Hebbiana. As condições de indução são semelhantes às descritas para a iniciação da depressão a longo prazo (LTD), mas uma despolarização mais forte e uma maior aumento de cálcio são necessários para atingir a LTP.
+
+
+== Força sináptica ==
+A modificação da força sináptica é referida como plasticidade funcional. Mudanças na força sináptica envolvem mecanismos distintos de tipos particulares de células da glia, sendo os astrócitos o tipo mais pesquisado. 
+
+
+== Veja também ==
+Classificação de disparos neuronais
+Depressão de longa duração (LTD)
+Neuroplasticidade
+Potenciação de longa duração (LTP)
+Potencial de ação
+Potencial pós-sináptico excitatório
+Potencial pós-sináptico inibitório
+Sinapse
+
+
+== Referências ==
+
+
+== Bibliografia ==
+Thornton, James K. (2003). «New LSD Research: Gene Expression within the Mammalian Brain». MAPS. 13 (1). Consultado em 8 de junho de 2007 
+Chapouthier, G. (2004). From the search for a molecular code of memory to the role of neurotransmitters: a historical perspective, Neural Plasticity, 11(3-4), 151-158
+Hawkins, R.D., Kandel, E.R., & Bailey, C.H. (June 2006). Molecular Mechanisms of Memory Storage in Aplysia. Biological Bulletin, 210, 174-191.
+LeDoux, Joseph. Synaptic Self: How Our Brains Become Who We Are. New York: Penguin Books, 2002. 1-324. Print.
+
+
+== Ligações externas ==
+Overview
+Finnerty lab, MRC Centre for Neurodegeneration Research, London
+Brain Basics Synaptic Plasticity Synaptic transmission is plastic
+Synaptic Plasticity, Neuroscience Online (livro eletrônico de neurociência pela UT Houston Medical School)
+
+
+=== Vídeos e podcasts ===
+Synaptic plasticity: Multiple mechanisms and functions - uma palestra pela Dra. Robert Malenka, Ph.D., Stanford University. Video podcast, tempo de duração: 01:05:17.

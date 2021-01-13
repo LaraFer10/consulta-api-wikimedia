@@ -1,0 +1,129 @@
+Auxina (plural de auxina  /ˈɔːksᵻn/) é uma classe de hormonas vegetais (ou reguladores de crescimento vegetal) com algumas características do tipo morfogênio. As auxinas desempenham um papel fundamental na coordenação de muitos processos comportamentais e de crescimento nos ciclos de vida das plantas e são essenciais para o desenvolvimento do corpo da planta. O biólogo holandês Frits Warmolt Went foi o primeiro a descrever as auxinas e seu papel no crescimento das plantas na década de 1920. Kenneth V. Thimann (1904-1997) foi o primeiro a isolar um desses fitormônios e a determinar sua estrutura química como ácido indolacético (IAA). Went e Thimann foram co-autores de um livro sobre hormônios vegetais, Phytohormones, em 1937.
+
+
+== Visão geral ==
+As auxinas foram os primeiros dos principais hormônios vegetais a serem descobertos. Eles derivam seu nome da palavra grega αυξειν (auxein - "crescer/aumentar"). A auxina está presente em todas as partes de uma planta, embora em concentrações muito diferentes. A concentração em cada posição é uma informação crucial para o desenvolvimento, portanto está sujeita a uma regulamentação rígida, tanto no metabolismo quanto no transporte. O resultado é que a auxina cria "padrões" de concentração máxima e mínima de auxina no corpo da planta, os quais, por sua vez, orientam o desenvolvimento adicional das respectivas células e, finalmente, da planta como um todo.
+O padrão (dinâmico e responsivo ao meio ambiente) da distribuição de auxina na planta é um fator-chave para o crescimento da planta, sua reação ao ambiente e, especificamente, para o desenvolvimento de órgãos da planta (como folhas ou flores). É alcançado através do transporte ativo muito complexo e bem coordenado de moléculas de auxina de célula para célula por todo o corpo da planta — pelo chamado transporte de auxina polar. Assim, uma planta pode (como um todo) reagir a condições externas e se ajustar a elas, sem exigir um sistema nervoso. As auxinas normalmente agem em conjunto com, ou em oposição a outros hormônios vegetais. Por exemplo, a proporção de auxina para citocinina em certos tecidos vegetais determina o início da raiz versus brotos.
+No nível molecular, todas as auxinas são compostos com um anel aromático e um grupo ácido carboxílico. O membro mais importante da família das auxinas é o ácido indolacético (IAA), que gera a maioria dos efeitos da auxina em plantas intactas e é a auxina nativa mais potente. E como auxina nativa, seu equilíbrio é controlado de várias maneiras nas plantas, desde a síntese, passando pela possível conjugação até a degradação de suas moléculas, sempre de acordo com os requisitos da situação.
+
+Cinco auxinas (endógenas) de ocorrência natural em plantas incluem os ácidos indolacético, cloroindolacético, fenilacético, indolbutírico e indolpropiônico. No entanto, a maior parte do conhecimento descrito até agora em biologia da auxina e como descrito nas seções a seguir se aplica basicamente ao IAA; as outras três auxinas endógenas parecem ter importância marginal para plantas intactas em ambientes naturais. Juntamente com auxinas endógenas, cientistas e fabricantes desenvolveram muitos compostos sintéticos com atividade auxinica.
+Análogos de auxina sintética incluem ácido 1-naftalenacético, ácido 2,4-diclorofenoxiacético (2,4-D), e muitos outros.Algumas auxinas sintéticas, como o ácido 2,4-D e 2,4,5-triclorofenoxiacético (2,4,5-T), são vendidas como herbicidas. As plantas de folhas largas (dicotiledôneas), como os dentes-de-leão, são muito mais suscetíveis às auxinas do que as de folhas estreitas (monocotiledôneas), como gramíneas e cereais, tornando essas auxinas sintéticas valiosas como herbicidas.
+
+
+== Descoberta da auxina ==
+
+
+=== Charles Darwin ===
+Em 1881, Charles Darwin e seu filho Francis realizaram experimentos com coleóptilos, as bainhas que envolviam folhas jovens em mudas de grama em germinação. O experimento expôs o coleóptilo à luz de uma fonte unidirecional e observou que eles se curvavam em direção à luz. Ao cobrir várias partes dos coleópteros com uma tampa opaca impermeável à luz, os Darwins descobriram que a luz é detectada pela ponta do coleóptilo, mas essa flexão ocorre no hipocótilo. No entanto, as mudas não mostraram sinais de desenvolvimento em direção à luz se a ponta estava coberta com uma tampa opaca ou se a ponta foi removida. Os Darwins concluíram que a ponta do coleóptilo era responsável pela detecção da luz e propuseram que um mensageiro fosse transmitido na direção descendente da ponta do coleóptilo, fazendo com que ele se dobrasse.
+
+
+=== Peter Boysen-Jensen ===
+Em 1913, o cientista dinamarquês Peter Boysen-Jensen demonstrou que o sinal não era transfixado, mas móvel. Ele separou a ponta do restante do coleóptilo por um cubo de gelatina que impedia o contato celular, mas permitia a passagem de produtos químicos. As mudas responderam normalmente inclinando-se para a luz. No entanto, quando a ponta foi separada por uma substância impermeável, não houve curvatura do caule.
+
+
+=== Frits Went ===
+Em 1928, o botânico holandês Frits Warmolt Went mostrou que um mensageiro químico difunde-se das pontas dos coleóptilos. O experimento de Went identificou como um produto químico que promove o crescimento faz com que um coleóptilo cresça em direção à luz. Ele cortou as pontas dos coleópteros e as colocou no escuro, colocando algumas dicas nos blocos de ágar que ele previa que absorvessem o produto que promove o crescimento. Nos coleópteros de controle, ele colocou um bloco que não possuía o produto químico. Em outros, ele colocou blocos contendo o produto químico, centralizado no topo do coleóptilo para distribuir o produto químico uniformemente ou compensado para aumentar a concentração de um lado.Quando o produto químico promotor de crescimento foi distribuído uniformemente, o coleóptilo ficou reto. Se o produto químico fosse distribuído de maneira desigual, o coleóptilo se curvava para o lado com o cubo, como se estivesse crescendo em direção à luz, mesmo que tivesse crescido no escuro. Posteriormente, foi proposto que a substância mensageira é um hormônio promotor de crescimento, que ele chamou de auxina, que se distribui assimetricamente na região de flexão. Concluiu-se que a auxina está em maior concentração no lado sombreado, promovendo o alongamento celular, o que resulta em coleópteros curvando-se em direção à luz.
+
+
+== Atividade hormonal ==
+As auxinas ajudam o desenvolvimento em todos os níveis nas plantas, desde o nível celular, através dos órgãos e, finalmente, para toda a planta.
+
+
+=== Mecanismos moleculares ===
+Quando uma célula vegetal entra em contato com a auxina, causa mudanças drásticas na expressão gênica, com muitos genes regulados para cima ou para baixo. Os mecanismos precisos pelos quais isso ocorre ainda são uma área de pesquisa ativa, mas agora existe um consenso geral em pelo menos duas vias de sinalização de auxina.
+
+
+==== Percepção ====
+Os receptores de auxina mais bem caracterizados são a família TIR1/AFB de proteínas F-box. As proteínas F-box têm como alvo outras proteínas para degradação através da via de degradação da ubiquitina. Quando as proteínas TIR1/AFB se ligam à auxina, a auxina atua como uma "cola molecular" que permite que essas proteínas se liguem aos seus alvos (veja abaixo).
+Outra proteína de ligação à auxina, o ABP1, agora é frequentemente considerado um receptor de auxina (no apoplasto), mas geralmente é considerado um papel muito menor do que a via de sinalização TIR1/AFB, e muito menos se sabe sobre a sinalização de ABP1.
+
+
+==== Módulos de sinalização Aux/IAA e ARF ====
+
+Os fatores de resposta à auxina (IRA) são um grande grupo de fatores de transcrição que atuam na sinalização de auxina. Na ausência de auxina, os IRA se ligam a uma classe de repressores conhecida como Aux/IAAs. Aux/IAA suprime a capacidade das ARFs para melhorar a transcrição de genes. Além disso, a ligação de Aux/IAA a ARFs coloca Aux/IAA em contato com os promotores dos genes regulados por auxina. Quando nesses promotores, o Aux/IAA reprime a expressão desses genes através do recrutamento de outros fatores para fazer modificações na estrutura do DNA.
+A ligação da auxina aos TIR1/AFBs permite que eles se liguem aos Aux/IAAs. Quando vinculados por TIR1/AFBs, Aux/IAAs são marcados para degradação. A degradação do Aux/IAA libera proteínas ARF, que são capazes de ativar ou reprimir genes aos promotores aos quais estão ligados.Pensa-se que o grande número possível de pares de ligação Aux/IAA e ARF e suas diferentes distribuições entre tipos de células e ao longo da idade do desenvolvimento sejam responsáveis pelas respostas surpreendentemente diversas que a auxina produz.
+Em junho de 2018, foi demonstrado que os tecidos vegetais podem responder à auxina de maneira dependente de TIR1 extremamente rapidamente (provavelmente muito rápido para ser explicado pelas alterações na expressão do gene). Isso levou alguns cientistas a sugerir que existe uma via de sinalização de auxina dependente de TIR1 ainda não identificada que difere da conhecida resposta transcricional.
+
+
+=== No nível celular ===
+No nível celular, a auxina é essencial para o crescimento celular, afetando tanto a divisão celular quanto a expansão celular. O nível de concentração de auxina, juntamente com outros fatores locais, contribui para a diferenciação celular e a especificação do destino celular.
+Dependendo do tecido específico, a auxina pode promover alongamento axial (como nas brotações), expansão lateral (como no inchaço das raízes) ou expansão isodiamétrica (como no crescimento dos frutos). Em alguns casos (crescimento do coleóptilo), a expansão celular promovida pela auxina ocorre na ausência de divisão celular. Noutros casos, a divisão celular promovida pela auxina e a expansão celular podem ser sequenciadas estreitamente no mesmo tecido (iniciação da raiz, crescimento do fruto). Em uma planta viva, as auxinas e outros hormônios vegetais quase sempre parecem interagir para determinar os padrões de desenvolvimento da planta.
+
+
+=== Padrões de órgãos ===
+O crescimento e a divisão das células vegetais juntos resultam no crescimento de tecidos, e o crescimento específico de tecidos contribui para o desenvolvimento dos órgãos das plantas.
+O crescimento das células contribui para o tamanho da planta, o crescimento localizado de maneira desigual produz flexão, rotação e direcionamento dos órgãos — por exemplo, hastes voltadas para fontes de luz (fototropismo), raízes crescendo em resposta à gravidade (gravitropismo) e outros tropismos originados porque as células um lado cresce mais rápido que as células do outro lado do órgão. Portanto, o controle preciso da distribuição de auxinas entre diferentes células tem importância primordial para a forma resultante de crescimento e organização das plantas.
+
+
+==== Transporte de auxina e distribuição desigual de auxina ====
+Para causar crescimento nos domínios requeridos, as auxinas devem necessariamente estar ativas preferencialmente neles. A auxina máxima local pode ser formada por biossíntese ativa em certas células dos tecidos, por exemplo, por vias dependentes de triptofano, mas as auxinas não são sintetizadas em todas as células (mesmo que as células mantenham a capacidade potencial de fazê-lo, apenas sob condições específicas a síntese de auxina será ativada neles). Para esse fim, as auxinas devem ser não apenas translocadas para os locais onde são necessárias, mas também devem ter um mecanismo estabelecido para detectar esses locais. A translocação é conduzida por todo o corpo da planta, principalmente de picos de brotos a picos de raízes (de cima para baixo).
+Para longas distâncias, a realocação ocorre através do fluxo de fluido nos vasos do floema, mas, para o transporte a curta distância, é explorado um sistema exclusivo de transporte polar coordenado diretamente de célula para célula. Esse transporte ativo de curta distância exibe algumas propriedades morfogenéticas.
+Esse processo, o transporte polar de auxina, é direcional, muito estritamente regulado e baseia-se na distribuição desigual de transportadores de efluxo de auxina na membrana plasmática, que envia auxinas na direção correta. Enquanto as proteínas PIN-FORMED (PIN) são vitais no transporte de auxina de maneira polar, a família dos genes AUXIN1/LIKE-AUX1 (AUX/LAX) codifica para transportadores de influxo de auxina não polares.A regulação da localização da proteína PIN em uma célula determina a direção do transporte de auxina a partir da célula, e o esforço concentrado de muitas células cria picos de auxina, ou auxina máxima (regiões com células com maior auxina — um máximo). A auxina máxima adequada e oportuna no desenvolvimento de raízes e brotos é necessária para organizar o desenvolvimento do órgão. As PINs são reguladas por várias vias, nos níveis transcricional e pós-traducional. As proteínas PIN podem ser fosforiladas pelo PINOID, que determina sua polaridade apicobasal e, portanto, a direcionalidade dos fluxos de auxina. Além disso, outras AGC quinases, como D6PK, fosforilam e ativam os transportadores de PIN. As AGC quinases, incluindo PINOID e D6PK, têm como alvo a membrana plasmática por ligação a fosfolipídios. A montante da proteína quinase 1 dependente de D6PK, 3'-fosfoinositida (PDK1) atua como um regulador principal. PDK1 fosforila e ativa D6PK no lado basal da membrana plasmática, executando a atividade de transporte de auxina polar mediada por PIN e subsequente desenvolvimento da planta. As auxinas máximas circundantes são células com vales baixos de auxina, ou mínimos de auxina. Por exemplo, nos frutos de Arabidopsis, a auxina mínima demonstrou ser importante para o desenvolvimento do tecido.A auxina tem um efeito significativo nas expressões de genes espaciais e temporais durante o crescimento de meristemas apicais. Essas interações dependem tanto da concentração de auxina quanto da orientação espacial durante o posicionamento primordial. A auxina depende do PIN1, que funciona como um transportador de efluxo de auxina. O posicionamento do PIN1 nas membranas determina o fluxo direcional do hormônio de concentrações mais altas para mais baixas. A iniciação dos primórdios nos meristemas apicais está correlacionada aos níveis elevados de auxina. Os genes necessários para especificar a identidade das células são organizados e expressos com base nos níveis de auxina. O STM, que ajuda a manter as células indiferenciadas, é regulado negativamente na presença de auxina. Isso permite que as células em crescimento se diferenciem em vários tecidos vegetais. Os genes CUC estabelecem os limites para o crescimento de tecidos e promovem o crescimento. Eles são regulados via influxo de auxina. Experimentos que utilizam a visualização GFP em Arabidopsis apoiaram essas alegações.
+
+
+=== Organização da planta ===
+Como as auxinas contribuem para a formação de órgãos, elas também são fundamentalmente necessárias para o desenvolvimento adequado da própria planta. Sem regulação e organização hormonal, as plantas estariam apenas proliferando pilhas de células semelhantes. O emprego da auxina começa no embrião da planta, onde a distribuição direcional da auxina conduz ao crescimento e desenvolvimento subsequentes dos pólos primários de crescimento e, então, forma botões de órgãos futuros. Em seguida, ajuda a coordenar o desenvolvimento adequado dos órgãos que surgem, como raízes, cotilédones e deixa e medeia sinais de longa distância entre eles, contribuindo para a arquitetura geral da planta. Durante a vida útil da planta, a auxina ajuda a planta a manter a polaridade do crescimento e, na verdade, "reconhece" onde está conectado seus ramos (ou qualquer órgão).
+Um princípio importante da organização das plantas com base na distribuição da auxina é a dominância apical, que significa que a auxina produzida pela gema apical (ou ponta de crescimento) difunde (e é transportada) para baixo e inibe o desenvolvimento do crescimento ulterior da gema lateral, que de outra forma competiria com a ponta apical de luz e nutrientes. A remoção da ponta apical e de sua auxina de ação supressora permite que os brotos laterais inferiores dormentes se desenvolvam, e os brotos entre o caule e o caule produzem novos brotos que competem para se tornar o crescimento principal. O processo é realmente bastante complexo, porque a auxina transportada para baixo da ponta do chumbo precisa interagir com vários outros hormônios vegetais (como estrigolactonas ou citocininas) no processo em várias posições ao longo do eixo de crescimento no corpo da planta para atingir esse fenômeno. Esse comportamento da planta é usado na poda por horticultores.
+Finalmente, a soma da auxina proveniente das hastes às raízes influencia o grau de crescimento das raízes. Se as pontas dos brotos são removidas, a planta não reage apenas pelo crescimento dos brotos laterais — que deveriam substituir o chumbo original. Da mesma forma, uma quantidade menor de auxina que chega às raízes resulta em um crescimento mais lento das raízes e os nutrientes são posteriormente investidos em maior grau na parte superior da planta, que começa a crescer mais rapidamente.
+
+
+== Efeitos ==
+
+A auxina participa do fototropismo, geotropismo, hidrotropismo e outras mudanças no desenvolvimento. A distribuição desigual da auxina, devido a sugestões ambientais, como luz unidirecional ou força da gravidade, resulta em crescimento desigual do tecido da planta e, geralmente, a auxina governa a forma e o formato do corpo da planta, a direção e a força do crescimento de todos os órgãos e sua interação mútua.A auxina estimula o alongamento celular estimulando fatores de afrouxamento da parede, como elastinas, para afrouxar as paredes celulares. O efeito é mais forte se as giberelinas também estiverem presentes. A auxina também estimula a divisão celular se houver citocininas. Quando auxina e citocinina são aplicadas ao calo, o enraizamento pode ser gerado se a concentração de auxina for maior que a concentração de citocinina. Os tecidos do xilema podem ser gerados quando a concentração de auxina é igual às citocininas.
+A auxina também induz o acúmulo de açúcar e minerais no local da aplicação.
+
+
+=== Reação a ferimentos ===
+A auxina induz a formação e organização de floema e xilema. Quando a planta é ferida, a auxina pode induzir a diferenciação celular e a regeneração dos tecidos vasculares.
+
+
+=== Crescimento e desenvolvimento das raízes ===
+As auxinas promovem a iniciação da raiz. A auxina induz o crescimento de raízes pré-existentes e a formação adventícia de raízes, ou seja, ramificação das raízes. À medida que mais auxina nativa é transportada pelo caule para as raízes, o desenvolvimento geral das raízes é estimulado. Se a fonte de auxina for removida, como aparar as pontas dos caules, as raízes serão menos estimuladas e o crescimento do caule será suportado.
+Na horticultura, as auxinas, especialmente NAA e IBA, são comumente aplicadas para estimular a iniciação das raízes ao enraizar estaquias de plantas. No entanto, altas concentrações de auxina inibem o alongamento das raízes e melhoram a formação adventícia das raízes. A remoção da ponta da raiz pode levar à inibição da formação da raiz secundária.
+
+
+=== Dominância apical ===
+A auxina induz a dominiância apical; os gomos axilares são inibidos pela auxina, pois uma alta concentração de auxina estimula diretamente a síntese de etileno nos gomos axilares, causando inibição de seu crescimento e potencializando a dominância apical. Quando o ápice da planta é removido, o efeito inibitório é removido e o crescimento dos brotos laterais é aumentado. A auxina é enviada para a parte da planta voltada para longe da luz, onde promove o alongamento celular, fazendo com que a planta se incline em direção à luz.
+
+
+=== Crescimento e desenvolvimento de frutas ===
+A auxina é necessária para o crescimento e desenvolvimento do fruto e atrasa a senescência do mesmo. Quando as sementes são removidas dos morangos, o crescimento das frutas é interrompido; a auxina exógena estimula o crescimento de frutos com sementes removidas. Para frutas com sementes não fertilizadas, a auxina exógena resulta em partenocarpia (crescimento de "fruto virgem").
+Os frutos formam morfologias anormais quando o transporte de auxinas é afetado. Nos frutos de Arabidopsis, a auxina controla a liberação de sementes do fruto (vagem). As margens da válvula são um tecido especializado em vagens que regula quando a vagem será aberta (deiscência). A ajuda deve ser removida das células da margem da válvula para permitir a formação das margens da válvula. Este processo requer modificação dos transportadores de auxina (proteínas PIN).
+
+
+=== Floração ===
+A auxina também desempenha um papel menor no início da floração e no desenvolvimento dos órgãos reprodutivos. Em baixas concentrações, pode atrasar a senescência das flores. Foi descrito um número de mutantes de plantas que afetam a floração e apresentam deficiências na síntese ou no transporte de auxinas. No milho, um exemplo é a inflorescência estéril bif2.
+
+
+=== Biossíntese de etileno ===
+Em baixas concentrações, a auxina pode inibir a formação de etileno e o transporte do precursor nas plantas; no entanto, altas concentrações podem induzir a síntese de etileno. Portanto, a alta concentração pode induzir feminilidade de flores em algumas espécies.[carece de fontes?]A auxina inibe a abscisão antes da formação da camada de abscisão e, assim, inibe a senescência das folhas.
+
+
+== Auxinas sintéticas ==
+No curso da pesquisa em biologia da auxina, muitos compostos com atividade notável da auxina foram sintetizados. Muitos deles tinham potencial econômico para o crescimento controlado pelo homem e o desenvolvimento de plantas em agronomia. As auxinas sintéticas incluem os seguintes compostos:Galeria de auxinas sintéticas
+		
+		
+		
+		
+		
+As auxinas são tóxicas para as plantas em grandes concentrações; eles são mais tóxicos para os dicotiledôneas e menos para as monocotiledôneas. Devido a essa propriedade, os herbicidas sintéticos de auxina, incluindo 2,4-D e 2,4,5-T, foram desenvolvidos e utilizados para o controle de ervas daninhas.
+No entanto, algumas auxinas sintetizadas exogenamente, especialmente o ácido 1-naftalenacético (NAA) e o ácido indolbutírico (IBA), também são comumente aplicadas para estimular o crescimento radicular quando se toma estaquias de plantas ou para diferentes fins agrícolas, como a prevenção da queda de frutas nos pomares.
+Utilizada em altas doses, a auxina estimula a produção de etileno. O excesso de etileno (também hormônio vegetal nativo) pode inibir o crescimento do alongamento, fazer com que as folhas caiam (abscisão) e até matar a planta. Algumas auxinas sintéticas, como o ácido 2,4-D e 2,4,5-triclorofenoxiacético (2,4,5-T), também foram comercializadas como herbicidas. Os dicotiledôneas, como os dentes-de-leão, são muito mais suscetíveis às auxinas do que as monocotiledôneas, como gramíneas e cereais. Portanto, essas auxinas sintéticas são valiosas como herbicidas sintéticos. O 2,4-D foi o primeiro herbicida amplamente utilizado, e ainda é. O 2,4-D foi comercializado pela primeira vez pela empresa Sherwin-Williams e foi utilizado no final da década de 1940. É fácil e barato de fabricar.
+O 3,5,6-TPA, embora conhecido como herbicida, também demonstrou aumentar o tamanho da fruta nas plantas. Em concentrações aumentadas, o hormônio pode ser letal. Foi demonstrado que a dosagem para a concentração correta altera as vias fotossintéticas. Esse obstáculo à planta causa uma resposta que aumenta a produção de carboidratos, levando a corpos frutíferos maiores.
+
+
+==== Fabricação de herbicidas ====
+O desfoliante Agente Laranja, usado extensivamente pelas forças britânicas nas emergências malaias e americanas na Guerra do Vietnã, era uma mistura de 2,4-D e 2,4,5-T. O composto 2,4-D ainda está em uso e é considerado seguro, mas o 2,4,5-T foi mais ou menos proibido pela Agência de Proteção Ambiental dos Estados Unidos em 1979. A dioxina TCDD é um contaminante inevitável produzido na fabricação de 2,4,5-T. Como resultado da contaminação integral com dioxina, o 2,4,5-T foi implicado em leucemia, abortos, defeitos congênitos, danos no fígado e outras doenças.
+
+
+== Ver também ==
+Herbicida
+Tropismo
+Vassoura-de-bruxa
+
+
+== Referências ==
+
+
+== Bibliografia ==
+Locascio, Antonella; Roig-Villanova, Irma; Bernardi, Jamila; Varotto, Serena «Current perspectives on the hormonal control of seed development in Arabidopsis and maize: a focus on auxin». Frontiers in Plant Science, 5, 25-08-2014. DOI: 10.3389/fpls.2014.00412. ISSN: 1664-462X. PMC: PMC4142864. PMID: 25202316.

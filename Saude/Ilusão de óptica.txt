@@ -1,0 +1,68 @@
+Ilusão de óptica ou ilusão de ótica (no Brasil) são termos usados para ilusões que "enganam" o sistema visual humano fazendo-nos ver qualquer coisa que não está presente ou fazendo-nos vê-la de um outro modo. Algumas são de carácter fisiológico, outras de carácter cognitivo. 
+As ilusões de óptica ou ótica podem surgir naturalmente ou serem criadas por astúcias visuais específicas que demonstram certas hipóteses sobre o funcionamento do sistema visual humano. Imagens que causam ilusão de óptica são largamente utilizados nas artes, por exemplo nas obras gráficas de M. C. Escher.
+Nem todas as ilusões de ótica são universais. As razões para tal fato são, na maioria das vezes, desconhecidas.
+
+
+== Uma explicação possível das muitas ilusões ópticas ==
+
+A explicação possível das ilusões ópticas é debatida extensamente. No entanto, os resultados da investigação mais recente indicam que as ilusões emergem simplesmente da assinatura do modo estatístico e empírico como todos os dados perceptivos visuais são gerados.
+Os circuitos neuronais do nosso sistema visual evoluem, por aprendizagem neuronal, para um sistema que faz interpretações muito eficientes das cenas 3D usuais, com base na emergência no nosso cérebro de modelos simplificados que tornam muito rápida e eficiente essa interpretação mas causam muitas ilusões ópticas em situações fora do comum. Como uma imagem em diferentes diâmetros.
+A nossa percepção do mundo é em grande parte auto-produzida. Os estímulos visuais não são estáveis: por exemplo, os comprimentos de onda da luz refletida pelas superfícies mudam com as alterações na iluminação. Contudo o cérebro atribui-lhes uma cor constante. Uma mão a gesticular produz uma imagem sempre diferente e, no entanto, o cérebro classifica-a consistentemente como uma mão. O tamanho da imagem de um objeto na retina varia com a sua distância mas o cérebro consegue perceber qual é o seu «verdadeiro» tamanho. A tarefa do cérebro é extrair as características constantes e invariantes dos objetos a partir da enorme inundação de informação sempre mutável que recebe. O cérebro pode também deduzir a distância relativa entre dois objectos quando há sobreposição, interposição ou oclusão. E pode deduzir a forma de um objeto a partir das sombras. O que implica uma aprendizagem da perspectiva linear. No entanto, existem vários tipos de ilusões de distância e profundidade que surgem quando esses mecanismos de dedução inconsciente resultam em deduções errónea.
+
+A imagem da retina é a fonte principal de dados que dirige a visão mas o que nós vemos é uma representação “virtual” 3D da cena em frente a nós. Não vemos uma imagem física do mundo, vemos objetos. E o mundo físico em si não está separado em objetos. Vemos o mundo de acordo com a maneira como o nosso cérebro o organiza. O processo de ver é um de completar o que está em frente a nós com aquilo que o nosso cérebro julga estar a ver. O que vemos não é a imagem na nossa retina - é uma imagem tridimensional criada no cérebro, com base na informação sobre as características que encontramos mas também com base nas nossas «opiniões» sobre o que estamos a ver.
+O que vemos é sempre, em certa medida, uma ilusão. A nossa imagem mental do mundo só vagamente tem por base a realidade. Porque a visão é um processo em que a informação que vem dos nossos olhos converge com a que vem das nossas memórias. Os nomes, as cores, as formas usuais e a outra informação sobre as coisas que nós vemos surgem instantaneamente nos nossos circuitos neuronais e influenciam a representação da cena. As propriedades percebidas dos objetos, tais como o brilho, tamanho angular, e cor, são “determinadas” inconscientemente e não são propriedades físicas reais. As ilusões surgem quando os “julgamentos” implícitos na análise inconsciente da cena entram em conflito com a análise consciente e raciocinada sobre ela.
+A interpretação do que vemos no mundo exterior é uma tarefa muito complexa. Já se descobriram mais de 30 áreas diferentes no cérebro usadas para o processamento da visão. Umas parecem corresponder ao movimento, outras à cor, outras à profundidade (distância) e mesmo à direção de um contorno. E o nosso sistema visual e o nosso cérebro tornam as coisas mais simples do que aquilo que elas são na realidade. E é essa simplificação, que nos permite uma apreensão mais rápida (ainda que imperfeita) da «realidade exterior», que dá origem às ilusões de óptica.
+
+
+=== Uma ilusão de luminosidade ===
+A ilusão do tabuleiro de damasA luminosidade é uma variável subjetiva que não corresponde de um modo preciso a uma quantidade física. É uma estimativa da refletância real dos objetos (a proporção de luz incidente que é refletida por uma superfície), feita pelo sistema visual. 
+
+Note que vemos o quadrado A como sendo mais escuro do que o quadrado B. No entanto, como se vê pela figura da direita, em que simplesmente se adicionou duas barras com a mesma cor de A, ambos têm exatamente a mesma cor - têm a mesma luminância (a quantidade de luz visível que chega ao olho vindo da superfície é a mesma). 
+O que se passa é que o sistema visual não se limita a medir a quantidade de luz que chega ao olho, que é influenciada pelas sombras. Parece ter em conta o contraste local e saber que as mudanças de luz na transição entre superfícies de cores diferentes são geralmente mais abruptas do que as causadas por sombras. O sistema visual «sabiamente» usa apenas a informação sobre as transições mais abruptas para construir a imagem de refletância. E por isso estima a cor dos objectos sem se deixar enganar pelas sombras de um objecto visível. 
+É uma «ilusão» que mostra o sucesso do sistema visual. Não é um bom medidor de luz, mas esse não é o seu propósito: se o sistema visual se baseasse apenas na luminância, não distinguiríamos uma superfície branca mal iluminada de uma superfície negra muito iluminada. A capacidade que o sistema tem para o fazer é aquilo a que se chama a «constância da luminosidade». O cérebro manda mensagem para o globo o ocular, assim dando para ver as impossíveis imagens de visão de óptica.
+
+
+=== Uma ilusão de distância ===
+
+O sistema visual conhece a perspectiva, e isso é nos muito útil para interpretar uma imagem tridimensional. Mas isso gera algumas ilusões, quando numa figura plana há pistas que enganam o sistema visual e o levam erradamente a fazer uma interpretação usando a perspectiva.
+Em situações usuais, quando o sistema visual detecta linhas que parecem paralelas (embora na imagem da retina não estejam), usa o seu ângulo para estimar o ângulo do nosso olhar relativamente ao solo. É um mecanismo automático que nos é muito útil. Mas o que se passa é que o sistema visual por vezes o usa erradamente no caso de certas figuras planas em que não se parece justificável.
+Note, por exemplo vemos a linha que está em baixo como sendo mais curta do que a outra. Mas têm exatamente o mesmo tamanho. Isso acontece porque o sistema visual possui diversas dicas monoculares de profundidade, o presente é chamado Perspectiva Linear, conforme pode ser visto ao lado. E isso faz com que pense que a linha de baixo está mais próxima. Ora, se ambas têm a mesma aparência visual e a linha de cima está mais longe, então ela deve ser na realidade mais longa. E é assim mesmo que a vemos.
+Mas esta é uma ilusão que mostra o sucesso do sistema visual na estimativa da perspectiva. Durante o desenvolvimento humano, os seres humanos estão sujeitos a variações culturais, tais variações que afetam sua capacidade de detecção da constância de tamanho dos objetos. É essa capacidade que faz com que, quando uma pessoa se afasta de nós, não a percebamos diminuir de tamanho.  
+Ou seja, existe um mecanismo cerebral que impõe a constância do tamanho dos objetos, como se "eliminasse" o efeito da perspectiva. E o mecanismo funciona com bastante precisão. Se virmos uma folha de um certo tamanho ao longe, desde que a distância não seja exagerada, e tivermos ao nosso lado algumas folhas de vários tamanhos diferentes, sabemos normalmente escolher entre elas a que tem o mesmo tamanho da que está longe!
+
+
+== Galeria ==
+
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+
+
+== Ver também ==
+
+
+== Referências ==
+2. Diferenças culturais e ilusões: Segall, M. H., Campbell, D. T., & Herskovits, M. J. (1963). Cultural differences in the perception of geometric illusions. Science, 139 (3556), 769-771.
+3. Leibowitz, H., Brislin, R., Perlmutrer, L., & Hennessy, R. (1969). Ponzo perspective illusion as a manifestation of space perception. Science,166 (3909), 1174-1176.
+
+
+== Ligações externas ==
+120 ilusões de óptica
+Curiosidades de ilusões de óptica (em inglês)
+ilusões de óptica
+ilusaodeotica.com
+Ilusões de zulmira
+Ilusões ópticas .com

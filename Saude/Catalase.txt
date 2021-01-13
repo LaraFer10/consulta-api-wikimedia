@@ -1,0 +1,59 @@
+A catalase (formalmente denominada hidroperoxidase; E.C. 1.11.1.6) é uma enzima intracelular, encontrada na maioria dos organismos, que decompõe o peróxido de hidrogénio (H2O2) segundo a reacção química:
+
+2 H2O2 → 2 H2O + O2.Esta enzima encontra-se nos peroxissomas em animais e plantas e também nos glioxissomas (apenas em plantas) e no citoplasma de procariontes.
+Pertence à subclasse das enzimas oxidorredutases (E.C. 1) que usam o peróxido como aceitador de electrões (E.C. 1.11) e também como dador electrónico (E.C. 1.11.1). A catalase é portanto uma peroxidase.
+
+
+== Estrutura ==
+São conhecidas diversas estruturas cristalográficas da catalase, que estão disponíveis na Protein Data Bank, a maior base de dados do mundo de estruturas de proteínas. O tipo mais comum de catalase é um tetrâmero de 240 kDa, ou seja, possui quatro cadeias polipeptídicas na sua estrutura quaternária, com cerca de 60 kDa de massa. Cada cadeia polipeptídica liga um grupo hemo, semelhante ao que existe na hemoglobina, possuindo então cada hemo um ião de ferro. É este centro metálico que reage com o peróxido de hidrogénio.
+Algumas catalases são não-hémicas, possuindo em vez do grupo hemo um centro binuclear de manganês.
+
+
+== Função ==
+O peróxido de hidrogénio é um produto decorrente do metabolismo celular em organismos expostos ao oxigénio atmosférico. Uma das fontes de peróxido de hidrogénio é a β-oxidação de ácidos gordos, necessária para a produção de diversos metabolitos essenciais. O peróxido de hidrogénio está relacionado com diversas patologias ligadas ao stress oxidativo.
+Sendo tóxico para as células, o peróxido tem de ser rapidamente convertido numa espécie química que seja inócua. A catalase tem o mais alto número de turnover (kcat) conhecido em enzimas: uma molécula de catalase pode catalisar a decomposição de até 40 000 000 moléculas de peróxido de hidrogénio por segundo , tornando-a numa enzima importante para a desintoxicação desta substância.
+Algumas células do sistema imunitário produzem peróxido de hidrogénio para uso como agente antibacteriano. As bactérias patogénicas que possuem catalase são capazes de resistir a este ataque graças à presença da enzima, conseguindo sobreviver nas células que invadem.
+A catalase parece estar envolvida no mecanismo de envelhecimento ligado ao stress oxidativo: mutantes de ratinhos expressando uma quantidade superior ao normal de catalase (cerca de 50% a mais)  vivem por mais tempo.
+
+
+== Mecanismo da reacção ==
+A reacção catalisada por esta enzima é uma reacção de dismutação, ou seja, o  substrato actua tanto como redutor como oxidante. Esta reacção também ocorre na ausência da catalase, mas mais lentamente, devido à presença de quantidades vestigiais de metais em solução (pela chamada reacção de Fenton).
+O mecanismo da reacção da catalase hémica, ou seja, os passos que a enzima efectua na decomposição do peróxido de hidrogénio, não é totalmente conhecido. Sabe-se que a reacção química ocorre em duas etapas fundamentais:
+
+H2O2 + Fe(III)-E →  H2O + O=Fe(IV)-EH2O2 + O=Fe(IV)-E → H2O + Fe(III)-E + O2em que Fe-E representa o átomo de ferro do grupo hemo ligado à enzima.
+Quando o H2O2 entra no centro activo da catalase, interage com dois aminoácidos da cadeia polipeptídica da enzima: uma histidina e uma asparagina. Um dos átomos de hidrogénio do H2O2 (sob a forma de protão) é transferido de um oxigénio para o segundo. Como consequência, a ligação entre os dois átomos de oxigénio sofre uma distensão e quebra-se heteroliticamente (ou seja, de uma forma desigual: os electrões responsáveis pela ligação química O-O deslocam-se para a molécula de água agora formada). O restante átomo de oxigénio coordena-se (liga-se) ao ferro (que está no estado de oxidação +3), formando a espécie Fe(IV)=O e libertando uma molécula de água.
+A espécie Fe(IV)=O (ferro no estado de oxidação +4 com um átomo de oxigénio ligado) é muito oxidante e reage com uma segunda molécula de peróxido de hidrogénio, retirando-lhe um átomo de oxigénio. Forma-se assim o O2, que se liberta do ferro, e uma segunda molécula de água. O ião de ferro volta ao estado de oxidação +3.
+A catalase é também capaz de catalisar a oxidação de outras moléculas como o formaldeído, o ácido fórmico e alguns álcoois. Neste tipo de reacção, a catalase usa uma molécula de peróxido de hidrogénio como agente oxidante, segundo a reacção:
+H2O2 + H2R → 2H2O + R
+em que R é a forma oxidada da molécula que sofre a reacção. Este mecanismo reaccional também não é bem conhecido.
+Nas catalases de manganês (Mn), o peróxido de hidrogénio liga-se ao centro binuclear metálico, ocorrendo uma mudança de estados de oxidação entre Mn(II)-Mn(II) e Mn(III)-Mn(III).
+
+
+=== Parâmetros cinéticos ===
+Como já referido, a catalase possui o mais alto número de turnover, kcat, conhecido em enzimas, 4×107 s−1. A maioria das enzimas possui kcat entre 1 s−1 e 1000 s−1. A sua constante de Michaelis-Menten, KM, é relativamente alta: 1,1 M. Isto significa que é uma enzima relativamente difícil de saturar, ou seja, só atinge a velocidade máxima da reacção a elevadas concentrações de peróxido. A constante de especificidade, kcat/KM, é então aproximadamente 4×107 M−1s−1, um valor próximo dos limites de difusão de moléculas em solventes (entre 108 e 109 M−1s−1) , sendo a catalase então uma enzima quase cataliticamente perfeita. A aplicação deste tipo de parâmetros à catalase não é muito directa, pois esta enzima só tem comportamento cinético descritível pela equação de Michaelis-Menten quando o peróxido se encontra em baixas concentrações. Ainda assim, é sabido que a catalase é mais eficiente na captação e desintoxicação celular do H2O2 que outros tipos de peroxidase.
+
+
+== Inibição ==
+Quaisquer íons metálicos (em especial cobre(II) e ferro(II)) podem agir como inibidores não competitivos da catalase. Os venenos cianeto e curare são inibidores competitivos da catalase, ou seja, ligam-se fortemente ao centro activo, impedindo a ligação do peróxido de hidrogénio.
+
+
+== Aplicações industriais e comerciais ==
+A catalase é usada na indústria têxtil para a remoção de peróxido de hidrogénio de tecidos. Encontra-se também em alguns produtos de limpeza de lentes de contacto, agindo como agente antibacteriano.
+Mais recentemente, a catalase tem sido usada em cosmética, em máscaras de beleza combinando a enzima e peróxido de hidrogénio para aumentar a oxigenação celular das camadas superiores da epiderme.
+
+
+== Teste da catalase ==
+O chamado teste da catalase é usado em microbiologia e consiste na detecção de catalase em bactérias, servindo essencialmente para a distinção entre estafilococos e estreptococos. Uma gota de peróxido de hidrogênio a 3%(v/v) é depositada numa lâmina de microscópio; uma amostra (uma gota de cultura líquida do microorganismo a testar ou uma colónia colhida com uma ansa de inoculação ou um palito) é então esfregada nesta gota. Se aparecem bolhas, o organismo é catalase-positivo (possui catalase, caso dos estafilococos), se não é catalase-negativo (estreptococos). As bolhas são formadas pelo oxigénio molecular libertado na reacção da catalase.
+
+
+== Ver também ==
+Peroxissoma
+Acatalasia
+Superóxido desproporcional
+
+
+== Ligações externas ==
+«Perguntas frequentes sobre Catalase» (em inglês) 
+
+
+== Referências ==

@@ -1,0 +1,21 @@
+Em biologia molecular e genética, o conteúdo GC (ou conteúdo de guanina-citosina) é a porcentagem de bases nitrogenadas em uma molécula de DNA ou RNA que são guanina ou citosina (dentre quatro bases possíveis, sendo as outras duas adenina e timina no DNA e adenina e uracil no RNA). Isto pode ser feito relativo a um determinado fragmento de DNA ou RNA ou ao genoma completo. G (guanina) e C (citosina) pareiam de forma específica na dupla hélice, da mesma forma que A (adenina) pareia com T (timina no DNA) ou U (uracilo no RNA).
+O par GC se liga por três ligações de hidrogênio, enquanto o AT e AU  se ligam por duas. Para enfatizar essa diferença no número de ligações de hidrogênio, os pareamentos podem ser representados, respectivamente, por G≡C e A=T e ou A=U. Moléculas de DNA com baixo conteúdo GC são menos estáveis do que com conteúdo GC alto. Essa estabilidade se dá, curisoamente, em grande parte não pelo número de ligações, mas por stacking de bases. Em experimentos de PCR, o conteúdo GC de primers é usado para prever a temperatura de anelamento ao molde de DNA. Um maior conteúdo GC indica, relativamente, uma maior temperatura de anelamento.
+
+
+== Determinação ==
+O conteúdo GC é geralmente expresso como um valor percentual. Em alguns casos, pode também ser expresso como uma relação (chamada de razão AT/GC). 
+O conteúdo GC, percentualmente, é calculada como
+enquanto a razão AT/GC é calculada como
+.O conteúdo GC pode ser medido de diversas formas. Um método é a medição do que é chamado de temperatura de fusão do DNA usando espectrofotometria. A absorbância de DNA no comprimento de onda de 260 nm aumenta de forma acentuada quando o DNA de fita dupla separa-se em duas fitas, permitindo a identificação da temperatura na qual as fitas se separam. 
+Alternativamente, se o DNA ou RNA sob investigação for sequenciado é possível calcular matematicamente o conteúdo GC, sem necessidade de métodos analíticos
+
+
+== Conteúdo GC de genomas ==
+O conteúdo GC dentro de um genoma pode ser muito variável. Estas variações no conteúdo GC podem resultar em um mosaico, com ilhas de conteúdo genômico maior. Isto resulta em variações na intensidade de coloramento de cromossomos. Regiões ricas em GC podem conter muitos genes codificadores de proteínas. Sendo assim, o cálculo do conteúdo GC contribui para o mapeamento de regiões do genoma rica em genes.
+
+
+== Referências ==
+
+
+== Ligações externas ==
+Tabela com conteúdo GC de todos procariotos sequenciados

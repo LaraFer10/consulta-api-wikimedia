@@ -1,0 +1,21 @@
+O retrómero é um complexo proteico que é importante para a reciclagem dos receptores transmembranares dos endossomas para a rede trans-Golgi.
+
+
+== Características ==
+O retrómero é um complexo heteropentamérico que nos humanos é composto por um dímero menos definido de nexina seleccionador associado à membrana (SNX1, SNX2, SNX5, SNX6), e uma proteína vacuolar de triagem (Vps) que contém Vps26, Vps29, Vps35. Apesar de o dímero SNX ser necessário para o recrutamento do retrómero na membrana endossómica, a função de união do carregamento deste complexo depende do trímero central através da união da subunidade Vps35 a várias moléculas do carregamento, como o M6PR, wntless e a sortilina. Os primeiros estudos sobre a selecção de hidrolases ácidas como a carboxipeptidase Y (CPY) em mutantes de Saccharomyces cerevisiae levaram à identificação do retrómero como mediador do tráfico retrógrado do receptor pró-CPY (Vps10) a partir dos endossomas até à rede trans-Golgi.
+
+
+== Estrutura ==
+O complexo retrómero está muito conservado: encontraram-se homólogos no nematoda C. elegans, o rato e os humanos.  O complexo retrómero consta de 5 proteínas em leveduras: Vps35p, Vps26p, Vps29p, Vps17p e Vps5p. O retrómero de mamíferos consta de Vps26, Vps29, Vps35, SNX1 e SNX2, e possivelmente SNX5 e SNX6. Acredita-se que actue em dois subcomplexos: (1) complexo de reconhecimento do carregamento, que consta de Vps35, Vps29 e Vps26 (trímero Vps), e (2) dímeros SNX-BAR, que constam de SNX1 ou SNX2 e SNX5 ou SNX6, que facilitam a remodelação da membrana endossómica e da sua curvatura, o que tem como resultado a formação de túbulos ou vesículas, que transportam as moléculas do carregamento para a rede trans-Golgi.
+
+
+== Função ==
+O complexo retrómero media a recuperação de vários receptores transmembranares, como o receptor de manose-6-fosfato independente de catiões, que é o receptor funcional de mamíferos correspondente ao Vps10, e o receptor de Wnt Wntless. O retrómero é necessário para a reciclagem de Kex2p e DPAP-A, que em leveduras também passam ciclicamente do trans-Golgi para o compartimento prevacuolar (equivalente em leveduras para o endossoma). Estes complexo também é necessário para a reciclagem do receptor da superfície celular CED-1, que é necessário para a fagocitose de células apoptóticas.O retrómero desempenha um papel central na recuperação de várias proteínas de caregamento desde o endossoma até à rede trans-Golgi. Porém, está claro que há outros complexos e proteínas que actuam neste processo de recuperação. Por enquanto não está claro se outros componentes que foram identificados na via de recuperação actuam com o retrómero na mesma via ou intervêm em vias alternativas. Estudos recentes implicam os defeitos na selecção de moléculas pelo retrómero na doença de Alzheimer  e na doença de Parkinson.O retrómero também parece exercer um papel na replicação do vírus da hepatite C.
+
+
+== Tráfico retrógrado mediado pelo retrómero ==
+A associação do complexo Vps35-Vps29-Vps26 aos domínios citosólicos das moléculas de carregamento em membranas endossómicas inicia a activação do tráfico retrógrado e a captura do caregamento. O complexo de nucleação forma-se pela interacção do complexo VPS com Rab7 activado por GTP, com clatrina, adaptadores da clatrina e várias proteínas de união.O dímero SNX-BAR entra no complexo de nucleação por união directa ou movimento lateral na superfície do endossoma. O aumento do nível dos SNX-BAR do retrómero causa uma mudança conformacional de modo a que induza curvatura na membrana, o que inicia a formação de túbulos de membrana. Uma vez que os transportadores do carregamento estão maduros, catalízase a excisão do transportador pela dinamina-II ou a EHD1, junto com as forças mecânicas geradas pela polimerização da actina e a actividade motora.
+O transportador do carregamento é conduzido para a rede trans-Golgi por proteínas motoras como a dineína. O amarre do transportador do carregamento ao compartimento receptor originará a eliminação da coberta do transportador, o qual é impulsionado pela hidrólise do ATP e a hidrólise de Rab7-GTP. Uma vez liberados do transportador, o complexo Vps35-Vps29-Vps26 e os dímeros SNX-BAR são reciclados de volta para as membranas endossómicas.
+
+
+== 32em ==

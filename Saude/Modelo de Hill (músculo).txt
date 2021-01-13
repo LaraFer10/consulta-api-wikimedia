@@ -1,0 +1,137 @@
+O modelo de músculo de Hill se refere tanto para a equação para velocidade da contração muscular quanto para o modelo de três elementos. Eles foram desenvolvidos pelo famoso fisiologista chamado Archibald Vivian Hill.
+
+
+== Equação da contração em tetania ==
+É uma equação de estado popular aplicada para prever a dinâmica do músculo esquelético estimulado para apresentar contração em tetania. O modelo relaciona tensão mecânica com a velocidade de contração, levando em consideração a termodinâmica interna do músculo. A equação é
+
+  
+    
+      
+        
+          (
+          
+            v
+            +
+            b
+          
+          )
+        
+        (
+        P
+        +
+        a
+        )
+        =
+        b
+        (
+        
+          P
+          
+            0
+          
+        
+        +
+        a
+        )
+      
+    
+    {\displaystyle \left(v+b\right)(P+a)=b(P_{0}+a)}
+  onde
+
+  
+    
+      
+        P
+      
+    
+    {\displaystyle P}
+   é a tensão (ou carregamento) do músculo
+
+  
+    
+      
+        v
+      
+    
+    {\displaystyle v}
+   é a velocidade de contração
+
+  
+    
+      
+        
+          P
+          
+            0
+          
+        
+      
+    
+    {\displaystyle P_{0}}
+   é a tensão isométrica máxima gerada pelo músculo
+
+  
+    
+      
+        a
+      
+    
+    {\displaystyle a}
+   coeficiente de calor gerado pelo encurtamento
+
+  
+    
+      
+        b
+        =
+        a
+        ⋅
+        
+          v
+          
+            0
+          
+        
+        
+          /
+        
+        
+          P
+          
+            0
+          
+        
+      
+    
+    {\displaystyle b=a\cdot v_{0}/P_{0}}
+  
+
+  
+    
+      
+        
+          v
+          
+            0
+          
+        
+      
+    
+    {\displaystyle v_{0}}
+   é a velocidade máxima, quando 
+  
+    
+      
+        P
+        =
+        0
+      
+    
+    {\displaystyle P=0}
+  Apesar da equação de Hill se parecer muito com a equação de van der Waals, a primeira tem unidades de energia de dissipação, enquanto a segunda tem unidades de energia interna. A equação de Hill demonstra que a relação entre P e v é hiperbólica. Portanto, quanto maior o carregamento aplicado no músculo, mais lenta é a contração do mesmo. Da mesma forma, quanto maior a velocidade da contração, menor é o carregamento que ele consegue segurar. Foi constatado que esta forma hiperbólica demonstra a física empiricamente somente durante contrações isotônicas próximas do comprimento de repouso.
+
+
+== Modelo de três elementos ==
+
+
+== Referências ==

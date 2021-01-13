@@ -1,0 +1,221 @@
+O Código ATC C01 (Terapia cardíaca) é um subgrupo terapêutico da classificação ATC (Anatomical Therapeutic Chemical Classification System), um sistema de códigos alfanuméricos desenvolvido pela Organização Mundial da Saúde (OMS) para classificar medicamentos e outros produtos médicos. O subgrupo C01 faz parte do grupo anatômico C (aparelho cardiovascular). Os códigos para uso veterinário (códigos ATCvet) podem ser criados colocando a letra Q antes do código ATC para uso humano: por exemplo, QC01. Os códigos ATCvet sem os códigos ATC humanos correspondentes são citados com a letra Q inicial nessa lista.
+
+
+== C01A Glicosídeos cardíacos ==
+
+
+=== C01AA Glicosídeos digitalis ===
+C01AA01 Acetildigitoxina
+C01AA02 Acetildigoxina
+C01AA03 Digitalis (folhas)
+C01AA04 Digitoxina
+C01AA05 Digoxina
+C01AA06 Lanatosídeo C
+C01AA07 Deslanosídeo
+C01AA08 Metildigoxina
+C01AA09 Gitoformato
+C01AA52 Acetildigoxina, associações
+
+
+=== C01AB Glicosídeos de scilla ===
+C01AB01 Proscilaridin
+C01AB51 Proscillaridin, associações
+
+
+=== C01AC Glicosídeos de strophanthus ===
+C01AC01 G-estrofantina
+C01AC03 Cimarin
+
+
+=== C01AX Outros glicosídeos cardíacos ===
+C01AX02 Peruvosídeo
+
+
+== C01B Antiarrítmicos, classes I e III ==
+
+
+=== C01BA Antiarrítmicos, classe Ia ===
+C01BA01 Quinidina
+C01BA02 Procainamida
+C01BA03 Disopiramida
+C01BA04 Esparteína
+C01BA05 Ajmalina
+C01BA08 Prajmalina
+C01BA12 Lorajmina
+C01BA13 Hidroquinidina
+C01BA51 Quinidina, associações, exceto psicolépticos
+C01BA71 Quinidina, associações com psicolépticos
+
+
+=== C01BB Antiarrítmico , classe Ib ===
+C01BB01 Lidocaína
+C01BB02 Mexiletina
+C01BB03 Tocainida
+C01BB04 Aprindina
+
+
+=== C01BC Antiarrítmicos, classe Ic ===
+C01BC03 Propafenona
+C01BC04 Flecainida
+C01BC07 Lorcainida
+C01BC08 Encainida
+C01BC09 Etacizina
+
+
+=== C01BD Antiarrítmicos, classe III ===
+C01BD01 Amiodarona
+C01BD02 Tosilato de bretílio
+C01BD03 Bunaftina
+C01BD04 Dofetilida
+C01BD05 Ibutilida
+C01BD06 Tedisamil
+C01BD07 Dronedarona
+
+
+=== C01BG Outros antiarrítmicos, classes I e III ===
+C01BG01 Moracizina
+C01BG07 Cibenzolina
+C01BG11 Vernakalant
+
+
+== C01C Estimulantes cardíacos excluindo glicosídeos cardíacos ==
+
+
+=== C01CA Agentes adrenérgicos e dopaminérgicos ===
+C01CA01 Etilefrina
+C01CA02 Isoprenalina
+C01CA03 Norepinefrina
+C01CA04 Dopamina
+C01CA05 Norfenefrina
+C01CA06 Fenilefrina
+C01CA07 Dobutamina
+C01CA08 Oxedrina
+C01CA09 Metaraminol
+C01CA10 Metoxamina
+C01CA11 Mefentermina
+C01CA12 Dimetofrina
+C01CA13 Prenalterol
+C01CA14 Dopexamina
+C01CA15 Gepefrina
+C01CA16 Ibopamina
+C01CA17 Midodrina
+C01CA18 Octopamina
+C01CA19 Fenoldopam
+C01CA21 Cafedrina
+C01CA22 Arbutamina
+C01CA23 Teodrenalina
+C01CA24 Epinefrina
+C01CA25 Metilsulfato de amezínio
+C01CA26 Efedrina
+C01CA27 Droxidopa
+C01CA30 Combinações
+C01CA51 Etilefrina, associações
+
+
+=== C01CE Inibidores da fosfodiesterase ===
+C01CE01 Amrinona
+C01CE02 Milrinone
+C01CE03 Enoximona
+C01CE04 Bucladesina
+QC01CE90 Pimobendano
+
+
+=== C01CX Outros estimulantes cardíacos ===
+C01CX06 Angiotensinamida
+C01CX07 Xamoterol
+C01CX08 Levosimendana
+C01CX09 Angiotensina II
+
+
+== C01D Vasodilatadores usados em doenças cardíacas ==
+
+
+=== C01DA Nitratos orgânicos ===
+C01DA02 Trinitrato de glicerilo
+C01DA04 Dinitrato de metilpropilpropanodiol
+C01DA05 Tetranitrato de pentaeritrina
+C01DA07 Propatilnitrato
+C01DA08 Dinitrato de isossorbida
+C01DA09 Trolnitrato
+C01DA13 Tetranitrato de eritritila
+C01DA14 Mononitrato de isossorbida
+C01DA20 Nitratos orgânicos em combinação
+C01DA38 Tenitramina
+C01DA52 Trinitrato de glicerila, associações
+C01DA54 Dinitrato de metilpropilpropanodiol, associações
+C01DA55 Tetranitrato de pentaeritritil, associações
+C01DA57 Propatylnitrate, associações
+C01DA58 Dinitrato de isossorbida, associações
+C01DA59 Trolnitrato, associações
+C01DA63 Tetranitrato de eritritil, associações
+C01DA70 Nitratos orgânicos em combinação com psicolépticos
+
+
+=== C01DB Vasodilatadores de quinolona ===
+C01DB01 Flosequinan
+
+
+=== C01DX Outros vasodilatadores usados em doenças cardíacas ===
+C01DX01 Tosilato de itramina
+C01DX02 Prenilamina
+C01DX03 Oxifedrina
+C01DX04 Benziodarona
+C01DX05 Carbocromeno
+C01DX06 Hexobendina
+C01DX07 Etafenona
+C01DX08 Heptaminol
+C01DX09 Imolamina
+C01DX10 Dilazepo
+C01DX11 Trapidil
+C01DX12 Molsidomina
+C01DX13 Efloxato
+C01DX14 Cinepazeto
+C01DX15 Cloridarol
+C01DX16 Nicorandil
+C01DX18 Linsidomina
+C01DX19 Nesiritide
+C01DX21 Serelaxina
+C01DX51 Tosilato de itramina, associações
+C01DX52 Prenilamina, associações
+C01DX53 Oxifedrina, associações
+C01DX54 Benziodarona, associações
+
+
+== C01E Outras preparações cardíacas ==
+
+
+=== Prostaglandinas C01EA ===
+C01EA01 Alprostadil
+
+
+=== C01EB Outras preparações cardíacas ===
+C01EB02 Cânfora
+C01EB03 Indometacina
+C01EB04 Glicosídeos de crataegus
+C01EB05 Creatinolfosfato
+C01EB06 Fosfocreatina
+C01EB07 Frutose-1,6-difosfato
+C01EB09 Ubidecarenona
+C01EB10 Adenosina
+C01EB11 Tiracizina
+C01EB13 Acadesina
+C01EB15 Trimetazidina
+C01EB16 Ibuprofeno
+C01EB17 Ivabradina
+C01EB18 Ranolazina
+C01EB21 Regadenoson
+C01EB22 Meldonium
+C01EB23 Ácido tiazótico
+
+
+=== C01EX Outros produtos de combinação cardíaca ===
+
+
+== Ver também ==
+Os antiarrítmicos de classe II (agentes beta-bloqueadores) estão no grupo ATC C07.
+Os antiarrítmicos de classe IV (bloqueadores dos canais de cálcio cardíacos) estão no grupo ATC C08D.
+Código ATC C: Aparelho cardiovascular
+Classificação ATC
+
+
+== Referências ==

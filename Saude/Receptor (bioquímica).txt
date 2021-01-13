@@ -1,0 +1,93 @@
+Em citologia, o termo receptores (AO 1990: receptores ou recetores) designa as proteínas que permitem a interação de determinadas substâncias com os mecanismos do metabolismo celular. Os receptores são proteínas ou glicoproteínas presentes na membrana plasmática, na membrana das organelas ou no citosol celular, que unem especificamente outras substâncias químicas chamadas moléculas sinalizadoras, como os hormônios e os neurotransmissores. 
+A união de uma molécula sinalizadora a seus receptores específicos desencadeia uma série de reações no interior das células (transdução de sinal), cujo resultado final depende não só do estímulo recebido, senão de muitos outros fatores, como o estado celular, a situação metabólica da célula, a presença de patógenos, o estado metabólico da célula, etc.
+
+
+== Tipos de receptores celulares ==
+
+
+=== Receptores transmembrana ===
+Os receptores transmembrana são proteínas que se estendem por toda a espessura da membrana plasmática da célula, com um extremo do receptor fora da célula (domínio extracelular) e outro extremo do receptor dentro (domínio intracelular). Quando o domínio extracelular reconhece a um hormônio, a totalidade do receptor sofre uma mudança em sua conformação estructural que afeta ao domínio intracelular, conferindo-lhe uma nova ação. Neste caso, o hormônio não atravessa a membrana plasmática para penetrar na célula.
+
+
+==== Reconhecimento do hormônio pelos receptores transmembrana ====
+O reconhecimento da estrutura química de um hormônio pelo receptor do hormônio utiliza os mesmos mecanismos de ligação não covalente como as ligações de hidrogênio, forças eletrostáticas, forças hidrófobas e de Van der Waals. A equivalência entre a união hormônio-receptor e o hormônio livre é igual a: 
+[H] + [R] <-> [HR], com
+
+  
+    
+      
+        
+          K
+          
+            d
+          
+        
+        =
+        
+          
+            
+              [
+              H
+              ]
+              ∗
+              [
+              R
+              ]
+            
+            
+              [
+              H
+              R
+              ]
+            
+          
+        
+      
+    
+    {\displaystyle K_{d}={{[H]*[R]} \over {[HR]}}}
+  
+[R]=receptor; [H]=hormônio livre; [HR]=receptor unido ao hormônio O importante da força do sinal transmitido pelo receptor é a concentração de complexos hormônio-receptor, que é definida pela afinidade que existe entre o hormônio com seu receptor, pela concentração do hormônio e pela concentração do receptor. A concentração de hormônio circulante é o ponto principal da força do sinal, sempre que os outros dois valores forem constantes. Em reações rápidas, a produção de hormônios pelas células pode armazenar-se na forma de prohormônios, e rapidamente transformar-se e liberar-se quando seja necessário.
+Também a célula pode modificar a sensibilidade do receptor, por exemplo pela fosforilação. Também pela variação do número de receptores que podem modificar a força total de sinalização no interior da célula.
+
+
+=== Receptores nucleares ===
+Os receptores nucleares ou citoplasmáticos são proteínas solúveis localizadas no citoplasma ou no núcleo celular. O hormônio que passa através da membrana plasmática, normalmente por difusão passiva, alcança o receptor e inicia a cascata de sinais. Os receptores nucleares são ativadores de transcrição ativados por ligantes, que se transportam com o ligante ao hormônio, que passam através da membrana nuclear ao interior do núcleo celular e ativam a transcrição de certos genes e portanto a produção de uma proteína.
+Os ligantes típicos dos receptores nucleares são hormônios lipofílicos como os hormônios esteróides, por exemplo a testosterona, a progesterona e o cortisol, derivados da vitamina A e vitamina D. Estes hormônios desempenham uma função muito importante na regulação do metabolismo, nas funções de muitos órgãos, no processo de desenvolvimento e crescimento dos organismos e na diferenciação celular. A importância da força do sinal é a concentração de hormônio, que está regulada por:
+
+Biossíntese e secreção de hormônio pelos órgãos endócrinos: Por exemplo o hipotálamo recebe informação, tanto elétrica como bioquímica. O hipotálamo produz fatores liberadores de hormônios que atuam sobre a hipófise e ativa a produção de hormônios hipofisários, os quais ativam os órgãos endócrinos que finalmente produzem os hormônios para os tecidos receptores. Este sistema hierarquizado permite a amplificação do sinal original que procede do hipotálamo. A liberação de hormônios relaciona-se a produção destes hormônios por meio de uma inibição reativa (feedback), para evitar uma produção excessiva.Disponibilidade do hormônio no citoplasma: Muitos hormônios podem ser convertidos em formas de depósito pela célula receptora para seu posterior uso. Este reduz a quantidade de hormônio disponível.Modificação dos hormônios no tecido receptor: Alguns hormônios podem ser modificados pela célula receptora, de modo que não ativem o receptor hormonal e assim reduzem a quantidade de hormônios disponíveis.Os receptores nucleares que são ativados por hormônios ativam receptores específicos do ADN chamados elementos sensíveis a hormônios (HREs, da inglês Hormone Responsive Elements), que são sequências de ADN que estão situados na região promotora dos genes que são ativados pelo complexo hormônio receptor. Como este complexo ativa a transcrição de determinados genes, estes hormônios também se chamam indutores da expressão genética. A ativação da transcrição de genes é muito mais lenta que o sinais que diretamente afetam a proteínas já existentes. Como consequência, os efeitos de hormônios que se unem a receptores nucleares se produzem a longo prazo. Entretanto o sinal de transdução através de receptores solúveis afeta só a algumas proteínas. Os detalhes da regulação genética todavia não são totalmente conhecidos. Todos os receptores nucleares têm uma estrutura modular similar:
+
+N-AAAABBBBCCCCDDDDEEEEFFFF-Conde CCCC é o domínio de união ADN que contém dedos de zinco, EEEE é o domínio de união ao ligante. O último é também responsável da dimerização da maioria dos receptores nucleares mais importantes que se unem ao ADN. Como terceira função, contém elementos estruturais que são responsáveis pela transativação, usada para a comunicação com o aparato da tradução ou síntese de proteínas. Os "dedos de zinco" no dominio que se une o ADN, estabiliza a união com o ADN por meio de contatos com fosfatos do esqueleto do ADN. As sequências de ADN que fazem jogo com o receptor são normalmente repetição hexaméricas, tanto invertidas como evertidas. As sequências são bastante parecidas, mas sua orientação e distância são os parâmetros pelos que os domínios que se unem ao ADN dos receptores podem distinguir-se de forma diferente.
+
+
+==== Receptores esteróides ====
+Os receptores esteróides são um subtipo de receptores nucleares localizados permanentemente no citoplasma. Na ausência de hormônio esteróide, os receptores estão unidos num complexo denominado complexo aporreceptor, que contém proteínas chaperonas ou carabinas, também conhecidas como proteínas de choque térmico ou de calor (HSPs do inglês Heat Shock Proteins). As HSPs são necessárias na ativação do receptor porque ajuda a modificar sua conformação que lhe permite unir-se à sequência de bases do ADN.
+Os receptores esteróides também podem ter um efeito repressivo sobre a expressão genética quando o domínio de transativação está escondido, pelo que não se pode ativar a transcrição. Além disso a atividade do receptor esteroíde pode ser aumentada pela fosforilação de resíduos de serina em seu N-terminal, como resultado de outras formas de sinal de transdução, por exemplo como por um fator de crescimento. Este comportamento é chamado crosstalk.
+
+
+==== RXS e receptores órfãos ====
+Estes receptores moleculares podem ser ativados por:
+
+Um certo hormônio clássico que entra na célula por difusão.
+Um hormônio que foi sintetizada na célula, como por exemplo retinol, de um precursor ou prohormônio, que pode ser transportado até a célula através da corrente sanguínea.
+Um hormônio que foi completamente sintetizado no interior da célula por exemplo, as prostaglandinas.Estes receptores estão localizados no núcleo e não estão acompanhados de proteínas carabinas. Na ausência de hormônio, se une a sua sequência específica de ADN inativando um gene. Quando se ativam pelos hormônios, se ativa a transcrição de genes que estavam reprimidos.
+
+
+== Ver também ==
+Receptor de insulina
+Transdução de sinal
+Receptor intracelular
+Receptores colinérgicos
+Receptor de citocinas
+Receptor de integrinas
+Receptor de leucotrienos
+Receptor de prostanóides
+Receptores de glicocorticóides
+Receptores opióides
+
+
+== Referências ==
+
+
+== Ligações externas ==
+IUPHAR GPCR Database and Ion Channels Compendium
+MeSH Cell+surface+receptors

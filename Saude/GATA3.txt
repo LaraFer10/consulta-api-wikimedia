@@ -1,0 +1,20 @@
+O fator de transcrição de ação "trans" específico de células T GATA-3 é uma proteína codificada pelo gene GATA3 em humanos.
+
+
+== Função ==
+GATA-3 pertence à família de fatores de transcrição GATA. Ele regula a de células epiteliais luminais das glândulas mamárias.A proteína contém dois domínios "dedo de zinco" do tipo GATA, que medeiam interação com o DNA. O fator é um importante regulador do desenvolvimento dos linfócitos T e possui um papel importante na biologia das células endoteliais.   GATA-3 induz a secreção de IL-4, IL-5 e de IL-13 pelos linfócitos Th2 e induz a diferenciação dos linfócitos Th0 em Th2, suprimindo a diferenciação em linfócitos Th1. Supõe-se que o papel de GATA-3 é dependente do tecido no qual ele é expresso.
+
+
+== Importância clínica ==
+Malfunções no gene levam À hipoparatireoidismo com surdez neurossensorial e displasia renal .
+
+
+=== Câncer de mama ===
+GATA-3 é um dos três genes mutados em mais de 10% dos cânceres de mamas (Cancer Genome Atlas).Já foi demonstrado que  GATA-3 é necessário para o câncer do tipo luminal A, e está implicado na cascata de sinalização de ERα assim como na sinalização de receptor de andrógeno nos tumores ER-/AR+.A expressão nuclear de GATA-3 no câncer de mama é considerado como marcador de  câncer luminal nos cânceres ER+ e luminal andrógeno-responsivo nos tumores ER-/AR+. Ele é altamente co-expresso com FOXA1 e serve de marcador negativo do subtipo basal e do subtipo ERBB2 ·  · . GATA-3  é capaz de regular diretamente a diferenciação das células luminais em modelos murinos de câncer de mama.Foi mostrado experimentalmente que a insulina diminuia a expressão de GATA3 devido à super-expressão de T-bet, resultando em resistência à terapia endócrina.
+
+
+== Interações ==
+GATA3 interage com LMO1 · , o receptor de estrógeno e FOXA1.
+
+
+== Notas e referências ==

@@ -1,0 +1,55 @@
+O receptor GABAA é um dos dois canais iônicos ativado por ligante, responsável por mediar os efeitos do ácido gama-aminobutírico (GABA), o principal neurotransmissor inibidor no cérebro. Além do sítio de ligação para o GABA, o complexo receptor GABAA parece ter sítio de ligação alostéricos distintos para benzodiazepinas, barbitúricos, etanol, anestésicos inalatórios, furosemida, kavalactonas, esteróides neuroativos (ex: alopregnanolona), e picrotoxina.
+
+
+== Alvo para Benzodiazepinas ==
+O receptor ionotrópico GABAA é também um alvo molecular para as benzodiazepinas, uma classe de drogas ansiolíticas e hipnótico-sedativas.  Os benzodiazepínicos não se ligam no mesmo sítio ativo que o GABA endógeno (cujo sitio de ligação está situado entre as subunidades α e β), mas se ligam a um sítio distinto situados no entre as subunidades α e γ contidos no receptor GABAA. Embora a maioria dos receptores GABAA (aqueles que contêm subunidades α1, α2,α3 ou α5 ) são sensíveis a benzodiazepinas (BZ), existe uma minoria de receptores GABAA (contendo subunidades α4 e α6) que são insensíveis a  1,4-benzodiazepinas clássicas, mas em vez disso são sensíveis a outras classes de drogas gabaérgicas, tais como os  neuroesteróides e o álcool. Além disso existem receptores benzodiazepínicos periféricos que não são associados com receptores GABAA. Como resultado, o IUPHAR (International Union of Basic and Clinical Pharmacology, União Internacional de Farmacologia Básica e Clínica) tem recomendado que as expressões "BZ receptor", "GABA / BZ receptor" e "receptor ômega " deixe de ser utilizado e que o termo "receptor benzodiazepínico " seja substituída por "sítio benzodiazepínico".Para um receptor GABAA ser sensível á ação dos benzodiazepínicos é preciso que haja as subunidades α e γ, onde as benzodiazepinas se ligarão. Uma vez ligado, o benzodiazepínico  bloqueia o receptor GABAA em uma conformação onde o neurotransmissor GABA tem muito maior afinidade para o receptor GABAA , aumentando a frequência de abertura do canal iônico, associado cloreto, e hiperpolarizando a membrana. Isso potencializa o efeito inibitório do GABA disponível levando a efeitos sedativos e ansiolíticos. Diferentes benzodiazepinas têm diferentes afinidades para receptores GABAA composta de diferentes coleções de subunidades, e isso significa que o seu perfil farmacológico varia seletivamente com o subtipo. Por exemplo, ligantes de receptores benzodiazepínicos com alta atividade no α1 e/ou α5 tendem a ser mais associada a sedação, ataxia e amnésia, enquanto aqueles com maior atividade em receptores GABAA contendo subunidades α2 e/ou  α3 têm geralmente maior ação ansiolítica. Efeitos anticonvulsivantes  podem ser produzidos por agonistas agindo em qualquer um dos subtipos GABAA, mas investigações atuais nesta área está focada principalmente na produção agonistas seletivos α2 como anticonvulsivantes, que carecem de efeitos secundários de medicamentos mais antigos, como uma sedação e amnésia.A ligação local para benzodiazepinas é distinto do da ligação local para barbitúricos e GABA no receptor GABAA, e também produz diferentes efeitos na ligação, as benzodiazepinas causam maior frequência da abertura dos canais de cloro, enquanto os barbitúricos causar a abertura dos canais de cloro mais longas. Uma vez que estes efeitos modulatórios são separados , eles podem se ligar ao mesmo tempo e, por isso, a associação de benzodiazepínicos com barbitúricos é fortemente sinérgicos, e pode ser perigosa se a dosagem não for estritamente controlada.
+Observe também que alguns agonistas GABAA tais como muscimol e o gaboxadol ligam-se ao mesmo local do GABA receptores GABAA como se fosse a própria molécula e, conseqüentemente, produzem efeitos que são semelhantes mas não idênticas às dos moduladores alostéricos positivos  como benzodiazepinas.
+
+
+== Estrutura e Função ==
+É um receptor transmembrana multimérico que consiste de cinco subunidades organizadas em torno de um poro central. O receptor fica na membrana dos neurônios em uma sinapse. O GABA é o ligante endógeno que causa a abertura deste receptor , uma vez ligado o GABA, a receptor-proteína provoca  mudanças na conformação da membrana, o que acaba promovendo a abertura dos poros, a fim de permitir íons cloreto (Cl-)passar e estabelece um gradiente eletroquímico. Devido à inversão de potencial do cloreto, na maior parte dos neurônios fica perto ou mais negativo do que o repouso membrana potencial, a ativação de receptores GABAA tende a estabilizar o potencial de repouso, e pode tornar mais difícil para os neurotransmissores excitatórios  depolarizar o neurônio e gerar um potencial de ação. O efeito obtido é tipicamente inibitório, reduzindo a atividade do neurônio. O canal GABAA se abre rapidamente e, portanto, contribui para a primeira parte do potencial inibitório pós-sináptico (IPSP). O ligante endógeno que se liga aos receptores benzodiazepínicos é a inosina.
+
+
+=== Subunidades ===
+Receptores GABAA  são membros da grande super família "circuito-Cis"  canais iônicos ativados por receptores evolutivamente relacionados e estruturalmente semelhantes, que também incluem os receptores nicotínicos de acetilcolina, receptores de glicina, e o receptor 5HT3.Existem numerosas subunidade isoformas do receptor GABAA, que determinam a afinidade do agonista do receptor, oportunidade de abertura, condutância, e outras propriedades.Existem três unidades ρ (GABRR1, GABRR2, GABRR3), porém estes não se assemelham com as clássicas unidades GABAA listadas acima, mas sim homoligomeriza para formar o receptores GABAC.
+Cinco subunidades podem combinar de diferentes maneiras para formar canais GABAA, mas o tipo mais comum no cérebro é um pentâmero compreendendo duas subunidades α, duas β e uma γ (α2β2γ).
+Os receptores  liga duas moléculas GABA, na interligação entre uma subunidade α e β.
+
+
+== Farmacologia ==
+Outros ligantes (além do GABA) interagem com o receptor GABAA  de aumentando a condutância de cloreto (agonistas), diminuindo condutância (agonistas inversos) ou para ligar ao receptor e não tendo qualquer efeito para além de impedir a ligação de agonistas ou agonistas inversos (antagonistas). Daí ligantes para o receptor GABAA abrangem toda uma gama de efeitos a partir de pleno agonismo, de antagonismo e de agonismo inverso.
+
+
+=== Agonistas ===
+Agonistas plenos exibem um grande número de efeitos, incluindo antiansiedade (ansiolítico), relaxante muscular, sedação, anticonvulsão, e em altas doses suficientes, anestesia. Agonistas parciais podem exibir um subconjunto dessas propriedades (por exemplo ansiolítico sem sedação).
+Entre os ligantes agonistas incluem:
+
+Benzodiazepinas (Aumentam a frequência da abertura dos canais de cloro pela potenciação da ligação do GABA com seu receptor. Em contraste com típicas drogas agonistas, os benzodiazepínicos não são verdadeiros agonistas. Sozinho, quando ligado ao receptor GABA-A, não têm efeitos farmacológicos. Eles são considerados "potencializadores" em vez de agonistas. Muitas vezes, é o ingrediente ativo de sedativos e medicamentos para ansiedade)
+Não-benzodiazepínicos (Nova classe de medicamentos antiansiedade e sedativo)
+L-Teanina
+Barbitúricos (aumento da duração de abertura dos poros, usados como sedativos)
+kavalactonas (compostos psicoativos encontrados nas raízes da planta kava-kava)
+Esteróides conhecidos como neuroesteróides ou esteróides neuroativos (Neuroesteróides, como a alopregnanolona, em baixas concentrações reforçam a função do receptor GABAA e, em doses mais elevadas, podem ativar diretamente receptores GABAA)
+Muscimol e gaboxadol (se ligam como agonistas para o mesmo sítio do GABA, utilizados para distinguir entre receptores GABAA e GABAB.)
+
+
+=== Antagonistas ===
+Entre os antagonistas são:
+
+Picrotoxina  (não-competitiva; se liga no poro do canal , efetivamente bloqueando qualquer movimento de íons através dela)
+Bicuculina (competitiva; transitoriamente ocupa o GABA bloqueando o local, impedindo assim a ativação dos receptores GABA)
+Cicutoxina e oenantotoxina, venenos encontrados em certas plantas do hemisfério norte que crescem em solos pantanoso.
+Flumazenil que é usado para reverter os efeitos excessivos das benzodiazepinas.
+
+
+=== Agonistas Inversos ===
+Os agonistas inversos totais como a DMCM e sarmazenil têm propriedades axiogênicas e convulsionantes, enquanto inversa agonistas inverso parciais, como Ro15-4513 ou subtipo-seletivos, tais como agonistas inversos α5IA podem ser úteis como auxiliares na memória e aprendizagem e como antídotos para os efeitos colaterais dos agonistas GABA.
+
+
+== Ver também ==
+GABA
+GABAB
+GABAC
+
+
+== Referências ==

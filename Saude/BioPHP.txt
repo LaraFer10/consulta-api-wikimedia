@@ -1,0 +1,29 @@
+BioPHP é um pacote de código aberto em PHP, com classes para a análise de seqüências de ADN e proteínas, alinhamento, análise sintática de bancos de dados, e outras ferramentas de Bioinformática.
+A biblioteca de softwares BioPHP tem sido usada no desenvolvimento de projetos em bioinformática. Ela também é usada em conjunto com outras ferramentas como o BioPerl. Uma importante ferramenta da biblioteca é a PCR amplification, para teste de iniciadores (primers) in silico.
+É um projeto de software ativo de código aberto apoiado pela Open Bioinformatics Foundation.
+
+
+== Projetos ==
+Quatro tipos de projetos estão disponíveis até o momento:
+
+GenePHP: reescrita ou tradução de BioPerl para PHP.
+Funções: códigos que podem ser incluídos em outros projetos.
+Miniferramentas (Minitools): um conjunto de scripts fo tipo copiar-e-colar para a realização de pequenas tarefas.
+Ferramentas (Tools): scripts multipáginas para requerimentos especiais.
+
+
+== Ver também ==
+Open Bioinformatics Foundation
+BioJava
+BioPerl
+BioPython
+BioRuby
+
+
+== Referências ==
+
+
+== Ligações externas ==
+«BioPHP.org». biophp.org 
+«Um BioPHP orientado a objeto». plasmidb.sourceforge.net 
+«Lee Katz's biophp». code.google.com

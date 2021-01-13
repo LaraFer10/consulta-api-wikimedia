@@ -1,0 +1,48 @@
+Interferon-gama (IFN-γ) é uma citocina solúvel dimerizada, sendo o único membro do tipo II da classe de interferões.Este interferão foi originalmente denominado factor de activação de macrófago, um termo actualmente usado para descrever uma maior família de proteínas ao qual o IFN-γ pertence. Em humanos, a proteína IFN-γ é codificada pelo gene IFNG.Os interferons (IFNs) fazem parte de uma família de citocinas α-helicoidais, induzidas em resposta a biomoléculas extra celulares através da estimulação de receptores Toll-like (TLRs). Estimulando redes intra  e intercelulares a fim de regular a imunidade inata e adquirida, resistência a infecções virais , sobrevivência e morte de células normais e tumorais.
+Usando receptores de superfície celular de alta afinidade, os IFNs estimulam genes, empregando moléculas de sinalização e atuam em quase todos os tipos de células e por meio de suas ações celulares podem ser eficazes na inibição e progressão de tumores e na indução de sua regressão.
+A supressão de IFNs e influências em seus produtos gênicos regulados em/por células malignas, está crescendo como um grande contribuinte para o desenvolvimento de alguns tipos de cânceres humanos, silenciamento epigenético e genético da sinalização de IFN também pode influenciar no desenvolvimento de tumores. 
+Além de ser uma fonte primária par a produção de IFNs- α e IFN-β, a maturação de células dendríticas também é influenciada pelos Interferons, ações dos IFNs- α e IFN-β e IFN-γ são a base para a eficácia dos IFNs.
+
+
+== Uso clínico do Interferon-gama ==
+O IFN-γ, é muito importante para respostas imunes Th1 e regula a ativação, expansão, diferenciação, homeostase e sobrevivência das células T. A morte de patógenos intracelulares requer a produção de IFN-γ pelas células T, O IFN-γ estimula os macrófagos, as células dendríticas a regular as moléculas do complexo principal de histocompatibilidade (MHC), melhorando a apresentação do antígeno e aumenta a expressão de moléculas coestimulatórias.
+
+
+=== Doença de Crohn: ===
+A doença de Crohn(DC) é uma doença inflamatória crônica do trato gastrointestinal, o IFN- γ tem sido implicado na inflamação observada na DC e são entrados altos níveis de IFN- γ na mucosa intestinal. 
+Estudos recentes examinaram a segurança e a eficácia de HuZAF ( o Fontolizumab (HuZAF) é um anticorpo monoclonal humanizado que se liga ao IFN-γ e inibe a expressão de genes regulados por IFN-γ.) no tratamento da doença de Crohn moderada a grave. Em ensaio clinico randomizado, 42 pacientes receberam uma dose e 91 pacientes receberam duas doses de HuZAF. No grupo em que receberam dose única e placebo não houve diferença na resposta, porém nos pacientes que receberam duas doses de HuZAF obtiveram taxa de resposta duplicada no dia 56, com base nos resultados, está sendo considerado como um tratamento para a doença.
+
+
+=== Esclerodermia ===
+A esclerodermia é uma doença do tecido conectivo que afeta múltiplos sistemas orgânicos, incluindo pele, coração, pulmões e rins. IFN-γ é usada no tratamento de esclerodermia por conta de sua atividade antifibrótica, de sua capacidade de reduzir a produção de colágeno e inibir a proliferação de células de fibroblastos. Em grande parte dos ensaios clínicos, a administração subcutânea ou intramuscular de IFN- γ resultou em melhoria modestas.
+
+
+== Ablação do fator regulador de interferon 4 nas células T ==
+A ablação  do fator regulador do interferon do fator de transcrição 4 (IRF) nas células T, induz a aceitação do transplante cardíaco, por dirigir a disfunção de células T CD4+ alogênicas.  
+O transplante de órgãos, sem dúvidas é um salva-vidas em pacientes com falência de órgãos em estágios finais, mas a sobrevida do procedimento é limitada por conta dos efeitos colaterais dos medicamentos imunossupressores e rejeição imunológica.
+O sinais de ativação dos receptores das células T, juntamente com a entrada de citocinas medeiam a resposta das células T aos transplantes de órgãos, assim para um efetivo controle  da imunidade ao transplante, é imprescindível a definição dos principais reguladores que ligam o TCR e outros sinais aos destinos das células T alorreativas
+IRF4 ( fator regulador do interferon 4, membro da família IRF de fatores de transcrição) é expresso em células hematopoiéticas e cumprem um papel critico na diferenciação e função de células T, células B e células dendríticas.
+Camundongos com transplantes cardíacos com deleção de IRF4 específica para células T eram tolerantes a antígenos específicos de doadores e aceitaram os enxertos de pele transplantados do tipo de doador, mas não de terceiros.  A ablação de IRF4 em células T resultou no estabelecimento progressivo de disfunção de células T CD4+ e induz a aceitação de aloenxerto cardíaco em camundongos.
+Rastreando células T CD4+ específicas de aloantígeno in vivo, foi revelado
+que o bloqueio do ponto de controle restaura os níveis  de expressão da maioria dos genes expressos em células T wild-type em células T deficientes em IRF4 no 6° dia após o enxerto cardíaco, isso indica a revigoração de células T deficientes de IRF4, mas tal bloqueio não é capaz de restaurar a frequência celular de células de memoria efetoras e a produção por IFN-γ/TNF-α de células T IRF4 aloreativas  no 30º dia pós-enxerto cardíaco.
+O estado disfuncional das células T IFR4 foi incialmente reversível bloqueando o ligante de morte programado 1  (PD-L1) e a proteína 4 associada a linfócitos citotóxicos (CTLA-4), mas culminou para um estado disfuncional terminal e irreversível. Relatórios recentes mostraram que em pacientes mesmo com a função dos rins transplantados estarem estáveis, desenvolveram câncer metastático, PD-1 foi usado para tratar o câncer, mas desencadeou uma forte rejeição dos rins transplantados, assim, a disfunção irreversível das células T aloreativas não foi estabelecidas nos receptores daquele rim, mesmo sobre imunossupressão crônica
+Portanto a segmentação do IRF4 representa uma potencial estratégia terapêutica para conduzir a disfunção de células T intrínsecas e alcançar a tolerância ao transplante, sendo essencial definir o estado irreversível da disfunção das células T.
+
+
+== Papel dos interferons no desenvolvimento de diagnósticos, vacinas e terapias para tuberculose ==
+O Mycobacterium tuberculosis (Mtb) é um patógeno de restrição humana que causa a tuberculose (TB), é uma das infecções mais comuns do mundo, afetando principalmente indivíduos em países de baixa e média renda.
+Diversos tipos de interferons, em especial o interferon-gama , são imunomoduladores importantes na patogênese do Mtb, pois promovem uma série de mecanismos imunes, mediados por células, como a ativação dos macrófagos,  a produção de IFN- γ em indivíduos infectados em sido usada como elementos chave nos Ensaios de liberação de IFN-γ e é uma excelente e valiosa ferramenta para a detecção específica de TB latente além de também ser usado como terapia em pacientes com TB.Na vacina contra TB, o IFN- γ tem seu uso abordado como a abordagem mais popular para a polarização e proteção de Th1.
+
+
+== Interferon-gama como mediador autócrino para maturação de células dendríticas ==
+As células dendríticas (CD), as mais potentes células apresentadoras de antígenos (APC), com a capacidade única de primogênitas células T virgens, desempenham um papel importante na iniciação e regulação das respostas imunes. As CD imaturas residem em tecidos periféricos não linfoides onde capturam e processam ativamente o antígeno. Interferons gama (IFNs-γ), produzidos durante os estágios inicial e tardio da resposta imune, respectivamente por células natural killer (NK) e células T ativadas regula vários aspectos da resposta imune e uma das principais moléculas efetoras em células mediadas da autoimunidade. O IFN-γ , além de sua atividade antiviral direta, ele é capaz de orquestrar as ligações leucócito-endotélio e desempenha um papel crucial na imunovigilância do câncer.Interferons tipo I (IFN alpha/beta) somados a cultura de monócitos CD14+ humanos com GM-CSF e IL-4, diminuiu a sobrevivência e alterou a diferenciação da DC, mas o IFN tipo II (IFN-γ) favorece a maturação da DC. 
+No encontro microbiano, as CD podem produzir IFN-γ, que então ativam a CD de maneira autócrina, resultados dos testes mostraram que o IFN-γ é um mediador autócrino para maturação fenotípica e funcional de DC.
+
+
+== Propriedades anti-inflamatórias de interferons-gama pró-inflamatórios ==
+Os interferons gama (IFNs-γ )interferirem com a função biológicas das Janus  Quinases associadas ao receptor,  os supressores da sinalização de citocinas  1 (SOCS-1) e SOC-3 são capazes de suprimir a sinalização de várias citocinas . A sobre-expressão de SOCS-1 e também da SOCS-3  pode superar a parada de crescimento mediada por IFN-γ , além disso, a produção de genes dependentes de IFN-γ , pode ser reduzida pela sobre-expressão de SOCS-1. Além da inibição da transdução de sinal do IFN-γ  , o SOCS-1 pode bloquear a sinalização do receptor da célula T.
+
+O interferon gama (IFN-γ) é uma citocina produzida por células T CD4+ ou CD8+ ativadas e por células killer. São reconhecidas como a principal mediadora da imunidade inata e adaptativa, o IFN-γ regula positivamente uma variedade de parâmetros pró-inflamatórios tais como interleucina (IL) -12, IL-15 fator de necrose tumoral-a (TNFa) , caspase-1 e gp91phox. A bioatividade o IFN-γ foi identificado como um pré-requisito em muitos modelos de doenças inflamatórias e autoimunes, o tratamento com IFN-γ foi associado a redução do influxo de leucócitos das sinovias.
+
+
+== Referências ==

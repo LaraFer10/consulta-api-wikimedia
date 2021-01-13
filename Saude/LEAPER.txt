@@ -1,0 +1,4 @@
+LEAPER também conhecido como Leveraging Endogenous ADAR for Programmable Editing of RNA, que significa “nivelador ADAR endógeno para edição programável de ARN", é uma técnica de edição genética com grande potencial no tratamento de doenças. O LEAPER é semelhante ao CRISPR-Cas13 na sua capacidade de editar RNA em vez de DNA, mas os dois diferem em que Cas13 depende tanto de um RNA guia quanto da enzima Cas13 para manipular o RNA. A técnica LEAPER se diferencia usando apenas um componente, conhecido como arRNA, o que torna o LEAPER mais fácil de administrar e menos propenso a causar efeitos colaterais indesejáveis.
+
+
+== Referências ==

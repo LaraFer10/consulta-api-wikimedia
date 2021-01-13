@@ -1,0 +1,53 @@
+Os corpos cetônicos (português brasileiro) ou corpos cetónicos (português europeu) são três substâncias solúveis em água que são produtos derivados da quebra dos ácidos graxos, a quebra ocorre no fígado durante períodos de baixa ingestão de alimentos (jejum), dieta de restrição de carboidratos, exercícios intensos prolongados, alcoolismo ou em diabetes mellitus tipo 1 não tratada. São usados como fonte de energia no coração, no cérebro e no tecido muscular. No cérebro são fonte vital de energia durante um jejum de pelo menos 24 horas.
+Ao contrário do que o nome "corpos" pode sugerir, eles são componentes solúveis, não partículas. São três os corpos cetônicos:
+
+acetoacetato
+acetona
+β-hidroxibutiratoO betaidroxibutirato não é tecnicamente uma cetona (é chamado de corpo cetônico porque ele é derivado de cetonas), é na verdade um ácido carboxílico.
+A reação entre acetoacetil-CoA e acetil-CoA resulta na produção de 3-hidroxi-3-metilglutaril-CoA (HMG-CoA), essa reação é catalisada pela enzima HMG-CoA-sintase. Posteriormente ocorre a quebra de HMG-CoA catalisada pela HMGCoA-liase resultando na formação de acetoacetato e acetil-CoA. O acetoacetato é capaz de entrar diretamente na corrente sanguínea, mas pode também pode ser reduzido pela β-hidroxibutirato-desidrogenase à β-hidroxibutirato, e então entrar na corrente sanguínea, a reação da desidrogenase é reversível e responsável por interconverter os corpos cetônicos, cuja existência é determinada pelo equilíbrio da razão NADH/NAD+ da matriz mitocondrial. Em condições normais a razão de β-hidroxibutirato e acetoacetato no sangue é de 1:1 aproximadamente. A descarboxilação espontânea é um destino alternativo do acetoacetato, onde ocorre sua quebra em acetona e dióxido de carbono.
+
+
+== Produção ==
+
+Os corpos cetônicos são produzidos a partir do acetil-CoA (veja cetogênese) principalmente na matriz mitocondrial das células do fígado quando os carboidratos estão tão escassos que a energia deve ser obtida através da quebra dos ácidos graxos.
+A acetona é formada a partir da descarboxilação espontânea do acetoacetato. De uma maneira correspondente, os níveis de acetona são muito menores do que ou níveis dos outros dois tipos de corpos cetônicos. E ao contrário dos outros dois, a acetona não pode ser convertida de volta a acetil-CoA, então ela é excretada na urina e exalada (ela pode ser exalada devido a sua alta pressão de vapor e conseqüentemente evapora facilmente). A exalação de acetona é responsável por um odor característico na respiração de pessoas em estados cetóticos.
+
+
+=== Fontes de corpos cetônicos ===
+Corpos cetônicos são formados principalmente através da oxidação de ácido graxo., uma rota alternativa para a formação de corpos cetônicos é o catabolismo dos aminoácidos fenilalanina, isoleucina, leucina, lisina, tirosina, triptofano e treonina onde será fornecida energia de forma imediata ao ciclo de Krebs, uma vez que a Acetil-CoA produzida não pode ser convertida em glicose Dentre os aminoácidos apenas leucina e lisina são exclusivamente cetogênicos , todos os aminoácidos cetogênicos possuem em comum o esqueleto de carbono que será catabolizado em acetoacetil-CoA ou acetil-CoA, que podem se inserir na rota de síntese de corpos cetônicos no fígado.
+
+
+== Regulação da síntese de corpos cetônicos ==
+A síntese hepática de corpos cetônicos durante o jejum é elevada pelo aumento de ácidos graxos dos triacilgliceróis adiposos, esse não é o único evento que atua na promoção da síntese de corpos cetônicos no fígado em estado não alimentado, sendo que ao fornecer corpos cetônicos aos outros tecidos o fígado se livra de substratos energéticos desnecessários. Uma razão insulina/glucagon menor causa inibição da Acetil-CoA carboxilase, que provoca diminuição nos níveis de mallonil-CoA, ativando a CPT1, tornando possível a entrada da acilCoA na rota da β-oxidação. No momento em que a quantidade de NADH e FAD(2H), originados da oxidação de acilCoA em acetil-CoA, é suficiente para suprir as necessidade de energia (ATP) do fígado, a acetil-CoA é desviada do ciclo do TCA (ciclo dos ácidos tricarboxílicos, também chamado de ciclo de Krebs), para o ciclo da cetogênese (produção de corpos cetônicos), e o oxalato presente no ciclo do TCA é desviado em direção a malato e para a gliconeogênese (síntese de glicose). Esse padrão é controlado pela razão NADH/NAD+, que se encontra relativamente alta durante a β-oxidação. Com a continuidade do estado não alimentado a transcrição elevada do gene da HMG-CoA-sintase mitocondrial estimula a rapidez na produção de corpos cetônicos.
+
+
+== Utilidade no corpo ==
+
+
+=== Cérebro ===
+O cérebro recebe sua energia a partir de corpos cetônicos quando uma quantidade insuficiente de glicose está disponível, isso geralmente ocorre em jejum, após alguns dias sem se alimentar. Quando o nível de glicose no sangue (glicemia) está baixo, a maioria dos outros tecidos tem fontes adicionais de energia além dos corpos cetônicos (como os ácidos graxos), mas o cérebro, ao contrário, não tem.
+Depois de uma dieta de baixo nível glicêmico durante 3 dias, o cérebro recebe 30% de sua energia a partir dos corpos cetônicos. Após 4 dias, este nível sobe para 70% (durante os estágios iniciais o cérebro não queima as cetonas, já que elas são um importante substrato para a síntese de lipídios no cérebro), nesse estágio o cérebro torna-se mais permeável às gorduras e corpos cetônicos e passa a consumir esses substratos energéticos.O cérebro ainda mantém uma certa necessidade pela glicose, porque os corpos cetônicos somente na mitocôndria podem ser quebrados para fornecer energia, e os axônios das células cerebrais estão muito longe da mitocôndria.[carece de fontes?]
+
+
+=== Fígado, coração e córtex renal ===
+Os corpos cetônicos são exportados do fígado através da corrente sanguínea para diferentes tecidos. O objetivo da produção de corpos cetônicos é permitir o transporte da energia obtida pela oxidação dos ácidos graxos aos tecido periféricos, para lá serem utilizados na síntese de ATP. Córtex renal e coração são estruturas que preferem o acetoacetato à glicose.A disponibilidade de oxaloacetato para fazer com que o acetil-CoA entre no ciclo do ácido cítrico, vai determinar qual via metabólica o acetil-CoA vai seguir.  Em algumas situações, como no caso de um jejum, as moléculas de oxaloacetato vão ser destinadas para a produção de glicose pela gliconeogênese. Com isso a quantidade de oxaloacetato disponível vai estar diminuída, e conseqüentemente pouco acetil-CoA vai entrar no ciclo de Krebs e vai haver uma maior produção de corpos cetônicos. A produção dos corpos cetônicos pelo fígado e sua liberação para os tecidos em geral vai permitir a β-oxidação de ácidos graxos mesmo quando o acetil-CoA não está sendo oxidado pelo ciclo de Krebs, já que vai haver a liberação da Coenzima A quando houver a condensação de duas moléculas de acetil.
+Normalmente a quantidade de corpos cetônicos no sangue é baixa, mas em situações como o jejum prolongado ou o "diabetes mellitus", suas concentrações podem aumentar muito, levando o indivíduo a um estado de "Cetoacidose". A cetoacidose diabética é uma condição patológica em que existe a conjugação de alta glicemia  com cetose, o  que pode ser fatal.O coração recebe muito de suas energias a partir dos corpos cetônicos, embora ele também utilize bastantes ácidos graxos.
+
+
+== Oxidação de corpos cetônicos ==
+Após a sua formação no tecido hepático, os corpos cetônicos são exportados para outras partes do corpo, tais como músculo, cérebro e córtex renal. Fora do tecido hepático, o D-ꞵ-hidroxibutirato é oxidado a acetoacetato pela D-β-hidroxibutirato-desidrogenase. O acetoacetato é ativado ao seu éster de coenzima A pela transferência da CoA do succinil-CoA, intermediário do ciclo do ácido cítrico, em uma reação catalisada pela enzima ꞵ-cetoacil-CoA-transferase, também chamada tioforase. O acetoacetil-CoA é então quebrado pela tiolase gerando dois acetil-CoAs, que entram no ciclo do ácido cítrico. Dessa forma, os corpos cetônicos podem ser utilizados como combustível para tecidos extra-hepáticos (o fígado não possui a enzima tioforase).Em condições de jejum, onde há pouca disponibilidade de glicose (principal fonte para obtenção de energia)  chegando no cérebro, este pode se adaptar utilizando o acetoacetato ou o D-β-hidroxibutirato na obtenção de energia, formados pela oxidação incompleta dos corpos cetônicos.
+
+
+== Cetose e cetoacidose ==
+Qualquer produção destes compostos é chamada de cetogênese, e ela é necessária em pequenas quantidades.
+Mas, quando corpos cetônicos se acumulam, é chamado de cetose este estado normal (mas não necessariamente comum).
+Quando ainda mais corpos cetônicos se acumulam de forma que o pH do corpo é baixado a níveis ácidos perigosos, este estado é chamado de cetoacidose, o que é comum no diabetes mellitus.
+
+
+== Ver também ==
+Cetogênese
+Cetose
+Cetoacidose
+
+
+== Referências ==

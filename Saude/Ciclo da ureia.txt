@@ -1,0 +1,41 @@
+Ciclo da ureia ou Ciclo da Ornitina, é um ciclo de reações bioquímicas que ocorrem nos animais terrestres para produzir ureia [NH2-CO-NH2-] a partir de amoníaco (NH3-). Ocorre parte nas mitocôndrias e parte no citoplasma principalmente dos hepatócitos (células do fígado), mas também, em menor grau, nos rins. É muito importante porque a amônia é muito mais tóxica que a ureia, logo seu mal funcionamento por insuficiência hepática ou problema genético resulta uma encefalopatia hepática. 
+Foi descoberto em 1932, por Hans Krebs. A produção de ureia é o destino de grande parte da amônia que enviada ao fígado e ocorre quase sempre nele.
+
+
+== Reações ==
+O ciclo da ureia consiste em cinco reações - duas dentro da mitocôndria e três no citosol. O ciclo utiliza dois grupos amino, um do NH4+ , e um do aspartato, e um carbono do HCO3- para formar a ureia, que é relativamente atóxica. Essas reações utilizam a energia de quatro ligações de fosfato (3 de ATP, que são hidrolizados a 2 ADP e 1 AMP). A molécula de ornitina é a carregadora desses átomos de carbonos e nitrogênios.
+Reações do ciclo:
+
+Necessidade energética geral:
+
+NH3 + CO2 + Aspartato + 3 ATP + 2 H2O → ureia + Fumarato + 2 ADP + 4 Pi + AMPEquação geral do ciclo da ureia:
+
+2 NH3 + CO2 + 3 ATP + H2O → ureia + 2 ADP + 4 Pi + AMP + 2 H+Perceba que as reações relacionadas ao ciclo da ureia também causam a redução de 2 NADH, de modo que o ciclo da ureia libera um pouco mais de energia do que ele consome. Esses NADH são produzidos de duas maneiras:
+
+Uma molécula é reduzida pela enzima glutamato desidrogenase, na conversão de glutamato a amônia e a-cetoglutarato. Lembre-se que o glutamato é um carregador atóxico dos grupos amino. Isso fornece o íon amônio usado na síntese inicial do carbamoil-fosfato.
+O fumarato liberado no citosol é convertido a malato pela fumarase citosólica. Esse malato é então convertido a oxalacetato pela malato desidrogenase, gerando um NADH reduzido no citosol.Os dois NADH produzidos podem fornecer energia para a formação de 5 ATP. No entanto, se a gliconeogênese está ocorrendo no citosol, energia da redução do NADH é utilzada na via reversa de GAPDH, ao invés de gerar energia.
+Depois de formada a ureia é lançada na corrente sanguínea, de onde vai ser captada pelos rins para depois ser excretada na urina.
+
+
+== Estruturas dos componentes do ciclo da ureia representadas através de projeções de Fischer e do modelo poligonal ==
+Os intermediários do ciclo da ureia são apresentados utilizando projeções de Fischer e do modelo poligonal.  
+
+
+== Regulação ==
+A regulação do ciclo da ureia pode ser de forma lenta ou rápida. A regulação lenta acontece em duas situações: com uma dieta de teor de proteína muito alto ou em jejum prolongado. No caso da dieta rica em proteínas, o excesso de aminoácidos são oxidados, dando origem a cetoácidos, e os grupos aminos resultam em um aumento na produção de ureia. No caso do jejum prolongado, a degradação das proteínas dos músculos vão ser intensificadas, já que as cadeias carbônicas desses aminoácidos vão ser utilizadas na neoglicogênese; e a eliminação dos grupos aminos restantes vai aumentar a excreção de ureia. Portanto nas duas situações vai ocorrer um aumento da síntese de enzimas do ciclo da ureia e carbamoilfosfato sintetase.
+A regulação rápida, também chamada de alostérica, ocorre quando a carbamoilfosfato sintetase é estimulada por N-acetilglutamato, que é um composto produzido a partir de glutamato e acetil-coa. Esta reação é catalisada pela N-acetilglutamato sintase, que é ativada por arginina (que é um intermediário do ciclo da ureia). Portanto se a produção de ureia não conseguir eliminar toda a amônia produzida pela oxidação de aminoácidos, vai haver o acúmulo de arginina. O seu acúmulo vai provocar um aumento da concentração de N-acetilglutamato. O N-acetilglutamato então vai estimular a carbamoilfosfato sintetase, essa enzima vai fornecer um dos substrato do ciclo da ureia. Assim a arginina vai adequar a velocidade de formação de amônia à sua conversão em ureia.
+
+
+== Patologia ==
+O ciclo da ureia é utilizado pelo organismo para desintoxicar amoníaco, uma molécula neurotóxica. A inativação das enzimas do ciclo da ureia é a causa do ciclo da ureia anormal. Estas desordens genéticas causando deficiência da enzima do ciclo de ureia (principalmente ornitina transcarbamilase) ou disfunção do fígado, resultando em uma acumulação de amoníaco no sangue. A encefalopatia hepática é resultante desta hiperamonemia.
+
+
+== Relação entre o ciclo da ureia e o ciclo do ácido cítrico ==
+O fumarato que é produzido na reação da argininossuccinato liase é um intermediário do ciclo do ácido cítrico. O fumarato entra na mitocôndria onde as atividades combinadas da fumarase e da malato desidrogenase transformam o fumarato em oxaloacetato. O aspartato, que age como doador de nitrogênios na reação do ciclo da ureia catalisada pela argininossuccinato sintetase no citosol, é formado do oxalatoacetato por transaminação com o glutamato; o α-cetoglutarato é o outro produto dessa transaminação e também é um intermediário do ciclo do ácido cítrico. As reações do ciclo da ureia e do ácido cítrico estão relacionadas e o conjunto de ambos é chamado de "bicicleta de Krebs".
+
+
+== Ver também ==
+Coordenação do Ciclo da uréia com o Ciclo de Krebs
+
+
+== Referências ==

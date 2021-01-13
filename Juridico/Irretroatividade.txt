@@ -1,0 +1,47 @@
+Irretroatividade é a qualidade de não retroagir, não ser válido para o passado. 
+As leis e atos normativos em geral, a princípio, são editadas para que passem a valer para o futuro, desde a data da publicação ou a partir de um período fixado, geralmente no final do seu texto.
+A principal razão para isso é que, se o ato passa a ser de cumprimento obrigatório, não poderia ser exigido antes do seu conhecimento dos que devem cumpri-lo. Isso não impede, todavia, que uma lei que institua um benefício a ser concedido pelo Poder Público (um aumento salarial aos servidores públicos, por exemplo), gere efeitos retroativos, como exceção à regra geral.
+
+
+== Princípio da Irretroatividade da lei ==
+
+
+=== No Direito Tributário ===
+O princípio da irretroatividade da lei, especialmente no âmbito do Direito Tributário, é a regra geral, significando que deve-se aplicar a lei vigente no momento da ocorrência do fato gerador.
+Tratando-se, assim, de aumento de tributo, o princípio da irretroatividade da lei deve ser cumprido rigorosamente, não sendo possível em um Estado democrático de direito que se exija o pagamento de tributos relativamente a atos jurídicos já realizados.
+Existem “aparentes” exceções previstas no CTN:
+Art. 106 do CTN – lei meramente interpretativa (lei que explica o conceito que já consta na legislação e, por isso, pode retroagir), sanção menor (para casos de sanções não definitivamente julgados = não houve lançamento ou extinção. Apenas para o caso de multa, se for para o caso de alíquota não retroage)
+Art. 144, §único do CTN – Estabelece novos critérios para lançamento tributário
+
+
+=== No Direito Penal ===
+O princípio da irretroatividade da lei também tem aplicação pacífica tratando-se da definição de novas hipóteses para a caracterização de crime ou contravenção, ou mesmo aumento da pena ou nova agravante.
+Dessa forma, no momento que o agente realiza um ato que possa ser moral ou socialmente condenável, ele tem condições de saber de antemão se a lei penal caracteriza aquela ação como crime ou não, se haveria algum agravante e qual a pena máxima prevista.
+Aplica-se aqui o princípio universalmente aceito do nullum crimen 
+nulla poena sine lege (princípio da Legalidade ou Reserva Legal ), que o Código Penal brasileiro colocou no seu artigo primeiro nos seguintes termos: "Art.1. Não há crime sem lei anterior que o defina. Não há pena sem prévia cominação legal".
+
+
+== Exceções ao princípio da irretroatividade da lei ==
+No Direito Penal, a irretroatividade não tem aplicação se a lei estabelecer pena mais branda ou deixar de considerar alguma ação como crime. É a chamada retroatividade benigna.
+
+
+=== No Brasil ===
+De acordo com o artigo 106 do Código Tributário Nacional - CTN, é possível a aplicação retroativa da lei, desde que nos mesmos contornos da retroatividade do Direito Penal.
+Isso implica dizer que no direito tributário, tal como no direito penal, apenas admite-se a retroatividade benigna.
+Nos termos do artigo 106 do CTN, a lei aplica-se a ato ou fato pretérito:
+
+em qualquer caso, quando seja expressamente interpretativa, excluída a aplicação de penalidade à infração dos dispositivos interpretados
+tratando-se de ato não definitivamente julgado:
+quando deixe de defini-lo como infração
+quando deixe de tratá-lo como contrário a qualquer exigência de ação ou omissão, desde que não tenha sido fraudulento e não tenha implicado em falta de pagamento de tributo
+quando lhe comine penalidade menos severa que a prevista na lei vigente ao tempo da sua prática.
+
+
+==== Jurisprudência ====
+A jurisprudência reconhece a aplicação retroativa em ambas as hipóteses do referidas no art. 106 do CTN, como se observa nas seguintes decisões (trechos de ementas):
+
+"(...)Nos termos da legislação tributária (CTN, art. 106), a lei só pode ser aplicada a fato pretérito quando tiver natureza expressamente interpretativa, excluindo a aplicação de penalidades."
+"(...)Nosso sistema tributário adotou, parcialmente, o princípio da retroatividade benéfica, permitindo que a lei nova possa reger fatos geradores pretéritos, desde que se trate de ato não definitivamente julgado. É o que determina o art. 106, II, do CTN."
+
+
+== Notas ==

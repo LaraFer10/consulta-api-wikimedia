@@ -1,0 +1,13 @@
+Um grande número de substâncias pode inibir a atividade enzimática. Algumas dessas substâncias são constituintes da célula e outras são estranhas, levando com a sua presença a alterações significativas do metabolismo. Quando o inibidor é produzido pela própria célula, a variação na sua concentração vai ser muito empregado pela própria célula como uma forma de controle da velocidade das reações. Esse mecanismo vai possibilitar ao organismo responder a diferentes condições fisiológicas.
+Muitos medicamentos usados rotineiramente baseiam-se na inibição específica de enzimas. O bloqueio de uma única reação vai afetar toda a sequência de reações, já que a reação bloqueada não vai gerar o produto que vai ser necessário pra reações seguintes.
+Os inibidores podem ser reversíveis ou irreversíveis, de acordo com a estabilidade gerada pela sua ligação com a enzima:
+
+Os inibidores irreversíveis se ligam as enzimas levando a inativação definitiva desta. Estes inibidores são muito tóxicos para o organismo já que não são específicos, sendo capazes de inativar qualquer enzima.
+Já os inibidores reversíveis podem ser divididos em dois grupos: os competitivos e os não-competitivos. Essa divisão é baseada na presença ou não de competição entre o inibidor e o substrato pelo centro ativo da enzima. 
+Os inibidores competitivos competem com o substrato pelo centro ativo da enzima. Estas moléculas apresentam configuração semelhante ao substrato e por isso são capazes de se ligarem ao centro ativo da enzima. Eles produzem um complexo enzima-inibidor que é semelhante ao complexo enzima-substrato.
+Os inibidores não-competitivos não tem semelhança estrutural com o substrato de reação que inibem. A sua inibição se dá pela sua ligação a radicais que não pertencem ao grupo ativo. Esta ligação vai alterar a estrutura da enzima e inviabiliza a sua catálise.
+
+
+== Ver também ==
+Enzima
+Cinética enzimática

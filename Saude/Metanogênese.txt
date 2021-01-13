@@ -1,0 +1,11 @@
+Metanogênese é a etapa final no processo global de degradação anaeróbica da matéria orgânica biodegradável em metano e dióxido de carbono que é efetuada pelas Archaebacterias metanogênicas. Estes microorganismos formam um domínio próprio dentre os três domínios da vida, sendo diferentes dos outros dois domínios, o das bactérias e os eucariotos.
+O papel que a metanogênese e, consequentemente as Arquéias, desempenham no ciclo do carbono do planeta é essencial, pois promovem um meio para que o carbono não se acumule em depósitos anaeróbicos e retorne a atmosfera, como dióxido de carbono ou metano.
+Seu metabolismo retira energia dos materiais orgânicos para seu crescimento e manutenção, e liberam parte da energia da matéria orgânica via metano. As principais reações e as mais pesquisadas e conhecidas são:
+ácido acético => metano + dióxido de carbono
+dióxido de carbono + hidrogênio => metano e água
+O hidrogênio normalmente está na forma de NADH, que é resultante de processos de oxidação de outras moléculas, por exemplo:
+álcool + NAD => ácido acético + NADH
+Este e outros processos de degradação da matéria orgânica são feitos por outros microorganismos, normalmente bactérias anaeróbicas, além das próprias Archaebacterias, para produção de energia metabólica. O consumo de NAD para formar NADH acabaria por impedir a geração de energia no meio, mas as Archaebacteria conseguem oxidar o NADH ou o hidrogênio produzido na decomposição deste, produzindo assim o metano.
+
+
+== Referências ==

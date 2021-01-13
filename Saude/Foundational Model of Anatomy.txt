@@ -1,0 +1,23 @@
+O Foundational Model of Anatomy (FMA) é uma ontologia de referência no âmbito da anatomia. Trata-se de uma representação simbólica da estrutura canónica e fenotípica de um organismo; uma ontologia espaço-estrutural de entidades e relações anatómicas que formam a organização física de um organismo a todos os níveis destacados de granularidade.
+O FMA é desenvolvido e mantido pelo Grupo de Informática Estrutural da Universidade de Washington.
+
+
+== Descrição ==
+A ontología FMA contém aproximadamente 75.000 classes, mais de 120.000 termos e mais de 2,1 milhões de instâncias de relação a mais de 168 tipos de relações.
+
+
+== Referências ==
+
+
+== Referências ==
+
+
+== Ver também ==
+Ontologia (informática)
+Terminologia Anatómica
+
+
+== Ligações externas ==
+The Foundational Model of Anatomy Ontology
+The Foundational Model of Anatomy Browser
+FMA Ontology Browser

@@ -1,0 +1,13 @@
+Frutose 2,6-bisfosfato (ou Frutose 2,6-disfosfato), abreviadamente Fru-2,6-P2, é um metabólito o qual alostericamente afeta a atividade de enzimas fosfofrutoquinase 1 (PFK-1) e frutose-1,6-bisfosfatase (FBPase-1) a regular a glicólise e gluconeogênese. Fru-2,6-P2 é sintetizada e degrada-se pela enzima bifuncional, fosfofrutoquinase 2/frutose-2,6-bisfosfatase (PFK-2/FBPase-2).A síntese da Fru-2,6-P2 é realizada através da fosforilação de frutose-6-fosfato usando ATP pela porção PFK-2 da enzima. A degradação da Fru-2,6-P2 é catalisada pela desfosforilação pela FBPase-2 para produzir frutose-6-fosfato e Pi.
+
+
+== Referências ==
+
+
+== Ligações externas ==
+Um esquema de reação de degradação do frutose-2,6-bisfosfato a frutose-6-fosfato é apresentado em KEGG REACTION: R02730 - www.genome.jp.
+
+
+== Ver também ==
+Frutose-2,6-bisfosfatase
+Frutose-1,6-bisfosfato

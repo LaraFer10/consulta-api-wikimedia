@@ -1,0 +1,46 @@
+Genes homeóticos são genes envolvidos na regulação do desenvolvimento de seres vivos. Eles estão associados à definição de eixos corpóreos e caracterização de diferentes regiões do corpo.Esses genes foram inicialmente estudados em animais, notadamente em Drosophila melanogaster. Estudando essa mosca modelo para genética, William Bateson descreveu mutantes que possuíam segmentos que assumiam características e portavam estruturas de outras regiões do corpo da mosca. Exemplos clássicos são Antennapedia e Bithorax, mutantes que, respectivamente, apresentavam pernas onde haveria antenas e um segundo par de asas, pois o terceiro segmento torácico caracterizava-se como o segundo. Tais genes apresentam alto grau de conservação em Metazoa e foram amplamente utilizados para reconstruir as relações evolutivas entres as diversas linhagens de animais.Depois, genes homeóticos foram ainda descritos em outros grupos, como plantas, fungos e algumas linhagens de eucariotos unicelulares, indicando um surgimento muito antigos dessas sequências. Há 11 classes de genes homeóticos (incluindo mais de 100 famílias) nas linhagens animais e 10-14 classes em plantas (a depender da classificação).
+
+
+== Organização geral ==
+
+Genes homeóticos são encontrados nos chamados clusters, ou seja, organizados em conjuntos lineares em regiões específicas do genoma. Porém, a organização desses genes nos clusters aparece de modo interessante: eles estão dispostos de modo colinear com as regiões corpóreas cujo desenvolvimento eles controlam de acordo com o eixo anteroposterior do animal. Sendo que os genes que se expressam na região anterior do corpo estão na porção a 3' do cromossomo, e aqueles cuja expressão se dá na região posterior estão a 5'.Além da colinearidade especial dos clusters, ocorre algo ainda mais interessante: há colinearidade temporal na expressão dos genes. Os que controlam o desenvolvimento da porção anterior se expressam antes dos que controlam o da região posterior.
+
+
+== Função biológica ==
+
+Esses genes são marcados pela presença do homeobox. Trata-se de uma sequência de cerca de 180 nucleotídeos, que codifica um peptídeo de 60 aminoácidos que é ligante de DNA. Isso significa que essas proteínas têm a capacidade de reconhecer sequências de DNA, se associar ao cromossomo e, assim, controlar a expressão de determinados genes, atuando, portanto, como fatores de transcrição.Tais fatores interagem com a região promotora de genes específicos. Isso ocorre em conjunto com outros fatores de transcrição, permitindo o reconhecimento mais específicos dessas sequências. Assim, a transcrição desses genes é ativada e iniciam-se diversas cascatas, envolvendo genes com diversas funções, que resultam na diferenciação correta da célula, na formação de órgãos e estruturas e na definição dos eixos corpóreos.
+
+
+== Regulação ==
+Mutações e/ou problemas de regulação nos padrões de expressão de genes homeóticos são muitas vezes letais ou, no mínimo, diminuem muito a probabilidade de sobrevivência dos indivíduos que as portam. Isso implica na necessidade de uma regulação refinada para garantir que os genes sejam expressos nas regiões e momentos corretos.Há uma regulação própria dos genes homeóticos interagindo entre si e se inibindo. No entendo, estudos mais recentes com D. melanogaster mostram que há mais mecanismos envolvidos nessa regulação. Eles dependem de fatores maternos presentes no oócito, genes gap, genes pair-rule, e genes segment-polarity.As descrições feitas a seguir são todas baseadas em D. melanogaster, configurando, portanto, um modelo e não sendo válidas a todos os casos.
+
+
+=== Genes de efeito materno ===
+São genes cujos mRNAs são transcritos e acumulados nos oócitos desde antes da fecundação. Tal acúmulo não é, porém, aleatório. Alguns mRNAs se concentram na porção anterior (como o do gene bicoid), outros na posterior (como o do gene oskar). Isso gera um gradiente de concentração morfogênico: onde há concentração elevada de bicoid  e baixa de oskar, há diferenciação celular de modo a formar as estruturas dos seguimentos anteriores do corpo da mosca. Na condição contrária, estimula-se a formação de estruturas da região posterior.
+
+
+=== Genes gap ===
+
+Genes gap (termo em inglês para lacuna) são expressos em blocos de segmentos colaterais. Seu nome deriva de mutantes para esses genes, os quais não apresentavam um conjunto de segmentos consecutivos, ou seja, havia uma "lacuna" no corpo das moscas. Eles estão relacionados com a sinalização para definir grandes regiões do corpo dos animais e sua expressão é regulada pelos genes de efeito materno e há interação de genes gap entre si. Entre os genes gap estão hunchback, kruppel e knirps. 
+
+
+=== Genes pair-rule ===
+
+Genes pair-rule são expressos em segmentos alternados, gerando um padrão de "zebra" com faixas de expressão. Esse é padrão é gerado pela regulação de genes gap sobre os pair-rule.  Mutantes para algum gene pair-rule não apresentam os segmentos em que ele é expresso. Entre esses genes pode-se destacar even-skipped, odd-skipped, hairy, fushi-tarazu e paired. 
+
+
+=== Genes segment-polarity ===
+Genes segment-polarity (termo em inglês para polaridade do segmento) estão envolvidos na determinação das porções anterior e posterior de cada segmento isoladamente. Entre eles há genes das vias Wingless e Hedgehog.
+
+A interação das sinalizações de todas essas classes de genes, somada às interações dos produtos dos próprios genes homeóticos entre si, leva à expressão correta dos genes homeóticos, tempo em termos espaciais, quanto temporais. Assim permitindo o desenvolvimento do embrião.
+
+
+== Genes homeóticos em plantas ==
+Há 14 classes homeóticas nos genosmas das plantas, a saber: HD-ZIP I, HD-ZIP II, HD-ZIP III, HD-ZIP IV, KNOX, BEL, PLINC, WOX, DDT, PHD, NDX, LD, PINTOX, e SAWADEE. Sendo que as classe KNOX e BEL têm uma similaridade grande com a classe TALE dos animais, indicando uma origem comum.O surgimento das 14 classes precede a cladogênese dos musgos com as demais linhagens de plantas terrestres(uma das mais antigas desse clado) sendo que houve ampliação de classes nas diferentes linhagens por eventos de duplicação e surgimento de genes parálogos dentro de cada classe.
+
+
+== Genes homeóticos em animais ==
+Em animais foram descritas 11 classes de genes homeóticos, a saber: ANTP PRD,TALE, POU, CERS, PROS, ZF, LIM, HNF, CUT, e SINE (além de alguns outros que não se encaixaram nas grandes categorias).Na classe ANTP há famílias muito conhecidas: Hox e ParaHox. Essas famílias existem, pelo menos desde o ancestral comum de cnidários e bilatérios mas não há registros deles em poríferos, placozoários e ctenóforos. Apesar disso, já foram encontrados genes homeóticos de outras classes em esponjas. Os genes Hox estão ligados ao desenvolvimento de tecidos derivados da ectoderme (epitélios e tecidos nervosos) e os ParaHox, da endoderme (sistema digestório). Há, ainda, um terceiro conjunto de genes, menos conhecido que os dois acima referidos, o NK, que está envolvido no desenvolvimento de derivados da mesoderme. Porém, o surgimento desse cluster precede o do folheto embrionário mesodérmico na evolução de Metazoa, sugerindo que houve cooptação de suas funções ao longo do tempo.Os clusters Hox e ParaHox estão bem conservados na linhagens animais, apesar de duplicações terem ocorrido nos diferentes claros, resultando em diferenças no tamanho dos clusters. Esse fato é inclusive importante para a reconstrução filogenética de Metazoa. Há, nesse genes, importantes sinapomorfias que definem grandes grupos como Ecdysozoa (possuem os genes abd-A e Ubx) e Lophotrochozoa (presença dos genes lox2, lox4, lox5, post1 e post2), além da união desses grupos no clado Protostomia (presença do peptídeo Ubd-A). Apesar disso, acredita-se que ambos derivam de um cluster ancestral, batizado de ProtoHox e presente no ancestral comum de cnidários e bilatérios.
+
+
+== Referências ==

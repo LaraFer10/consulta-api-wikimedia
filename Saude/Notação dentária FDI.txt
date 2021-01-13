@@ -1,0 +1,22 @@
+
+== Tabela de códigos ==
+Códigos, nomes, e número típico de raízes:
+
+11 21 Incisivo central superior 1
+41 31 Incisivo central inferior 112 22 Incisivo lateral superior 1
+42 32 Incisivo lateral inferior 113 23 Canino superior 1
+43 33 Canino inferior 114 24 Primeiro pré-molar superior 2
+44 34 Primeiro pré-molar inferior 115 25 Segundo pré-molar superior 1
+45 35 Segundo pré-molar inferior 116 26 Primeiro molar superior 3
+46 36 Primeiro molar inferior 217 27 Segundo molar superior 3
+47 37 Segundo molar inferior 218 28 Terceiro molar superior 3
+48 38 Terceiro molar inferior 2
+
+
+== Como são feitos os códigos ==
+Sintaxe: <código do quadrante><código do dente>
+
+Exemplos:
+
+"13" = canino permanente superior direito
+"32" = incisivo lateral permanente inferior esquerdo

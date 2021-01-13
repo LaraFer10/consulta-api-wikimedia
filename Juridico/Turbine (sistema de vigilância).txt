@@ -1,0 +1,46 @@
+Turbine é o sistema criado Agência de Segurança Nacional dos Estados Unidos (NSA), para automatizar o gerenciamento e a manutenção dos "implantes" da NSA. "Implante" foi o nome dado pela NSA aos diferentes programas ou dispositivos instalados em computadores ou outros dispositivos como telefone celular ao redor do mundo aos quais a NSA tem ou deseja ter acesso. Nas operações de interceptação dos produtos comprados pela Internet e a caminho do comprador mas que a NSA destinou a receberem o "implante", a CIA e o FBI trabalham em conjunto com a NSA.
+
+
+== "Implantes" da NSA ==
+
+A NSA se refere ao processo de implantar tais dispositivos como sendo uma “interdição” que “envolve a instalação de unidades de hardware em um computador ao, por exemplo, interceptá-lo quando ele está no processo de entrega ao alvo visado”.Os chamados "implantes" incluem tanto malware espiões como dispositivos físicos, escondidos em Hardware, seja em cabos, impressoras, teclados, no interior da Placa-mãe (motherboard), ou mesmo escondidos em conectores .Documentos vazados por Edward Snowden e revelados em 12 Março 2014, pelo "The Intercept", site fundado pelo jornalista Glenn Greenwald, mostram que a NSA criou o sistema Turbine para gerenciar os "milhões" de computadores infectados por estes "implantes" espiões.Outros documentos vazados por Snowden mostram que a agência teria infectado até 100 mil computadores com seus chamados "implantes". O "Turbine" foi aprovado como parte do "orçamento secreto" da agência para facilitar o gerenciamento desses implantes.
+Os documentos mostram ainda que o programa faz parte de uma iniciativa da NSA que leva o nome de "Dominando a Rede", que teve um orçamento de US$ 67,6 milhões (R$ 160 milhões de dólares americanos) em 2013.
+
+
+=== Tipos e funções dos "implantes" ===
+O "The Intercept" e o Der Spiegel forneceram alguns exemplos dos chamados "implantes da NSA", entre eles:
+
+- Implantes que geram ondas de rádio para espionar computadores sem conexão à internet e permitem a NSA analisar dados de máquinas que sequer contam com recursos online;- Implantes que permitem que a agência obtenha total controle do sistema infectado, acione microfones e webcams para capturar conversas e imagens;- Implantes que têm funções que registram senhas usadas na web, o histórico de navegação, livro de e-mails;- Implantes desenvolvidos para penetrar funções criptográficas, capturando dados quando eles estão desprotegidos durante a leitura.
+- Implantes que tem a capacidade de corromper dados baixados da rede, impedindo que a vítima visite certos sites ou obtenha arquivos que a NSA decide bloquear.
+- Implante de dispositivos instalados de forma disfarçada em USBs que permitem à agência acesso pleno ao computador;E vários outros.
+
+
+== Ataque aos Analistas de Sistemas ==
+Em Março 2014, o The Intercept publicou, baseado em documentos fornecidos por Edward Snowden, que a NSA tem como meta um previa o ataque a administradores de sistemas de informação. Isso daria à agência acesso a dados dos verdadeiros alvos que fariam uso da rede administradas sob responsabilidade desses técnicos.
+
+
+== Implantação dos "malware espiões" ==
+Os implantes da NSA, segundo documentos já revelados, são distribuídos por meio de páginas falsas, referenciadas a partir de mensagens em redes sociais, por exemplo. Dessa forma, um agente poderia enviar uma mensagem à vítima no LinkedIn, que levaria a uma página falsa do próprio Linkedin enquanto o código age para instalar o implante no sistema da vítima.
+
+
+== Ver Também ==
+GENIE
+Operações de acesso adaptado (TAO) NSA
+Catálogo ANT (NSA)
+Echelon
+Cinco Olhos
+Vigilância de Computadores e Redes
+
+
+== Referências ==
+
+
+== Ligações externas ==
+[5] FAIRVIEW: programa que amplia a capacidade da coleta de dados - Mapa mostra volume de rastreamento do governo americano Brasil é o país mais monitorado da América Latina - O Globo - 11 de junho de 2013;
+[6] EUA espionaram milhões de e-mails e ligações de brasileiros. País aparece como alvo na vigilância de dados e é o mais monitorado na América Latina - O Globo - 06 de julho de 2013;
+[7] Ministério de Minas e Energia foi alvo de espionagem do Canadá - O Globo - 6 de outubro de 2013;
+[8] Jornais destacam sistema de espionagem dos EUA no Brasil. The Guardian, Washington Post e El País foram alguns dos que comentaram denúncia feito pelo O GLOBO - 07 de julho de 2013;
+[9] James Bamford: ‘A NSA hoje pode entrar na mente das pessoas’ , por Flávia Barbosa - O Globo - 19 de março de 2014.
+[10] Video sobre tecnologia de vigilância da NSA-Catálogo ANT (NSA) com o Catálogo da NSA - Iterativo - dispositivos de vigilância criados pela ;
+[11] NSA pode escutar todas as chamadas telefônicas em qualquer pais estrangeiro (video em espanhol)
+[12] Vídeo: Você quebrou a Internet. Nós estamos fazendo uma GNU para nós-1h 19 min Jacob Appelbaum (em inglês).

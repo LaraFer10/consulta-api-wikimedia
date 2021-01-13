@@ -1,0 +1,38 @@
+O regulador apoptótico BAX é codificado pelo gene BAX em humanos e está ligado a diversas atividades celulares. A expressão desse gene é regulada pelo fator de transcrição p53, também conhecido como supressor tumoral, estando relacionada à apoptose mediada por p53. BAX faz parte da família de proteínas BCL-2, que atua como pró ou anti-apoptótico, na formação de homo ou heterodímeros. Quando ligado à proteínas BCL-2 formando um heterodímero, por exemplo, ele passa a funcionar como um ativador da apoptose (pró-apoptótico). Esse interage com o canal iônico mitocondrial dependente de voltagem (encontrado na membrana mitocondrial), o abrindo, por meio da perda de potencial de membrana, e ,assim, permite a liberação do citocromo c, iniciando o processo de apoptose.
+
+
+== Estrutura ==
+O gene BAX foi o primeiro membro pró-apoptótico identificado na família de proteínas BCL-2.[2] Os membros da família BCL-2 compartilham uma ou mais de quatro características da homologia BCL-2 (BH) dominante, podendo formar heterodímeros ou homodímeros. Esses domínios são compostos por nove α-hélices, com o núcleo hidrofóbico da α-hélice rodeado por hélices anfipáticas e uma transmembrana C-terminal ancorada a membrana externa da mitocôndria. Um sulco hidrofóbico é formado ao longo do C-terminal de α2 até o N-terminal de α5, e alguns resíduos de α8 ligam-se ao domínio BH3 de outro gene BAX ou proteínas BCL-2 em sua forma ativa. Na forma inativa da proteína, o sulco liga esse domínio BH3 ao domínio transmembrana, movendo-o do limite da membrana até a proteína citosólica. Um pequeno sulco hidrofóbico formado pelas hélices α1 e α6 está localizado ao lado oposto da proteína do sulco principal, podendo servir de sítio de ativação para a BAX.[3]
+Ortólogos do gene BAX foram identificados em muitos mamíferos que possuem dados de genoma disponíveis.
+
+
+== Função ==
+Em células saudáveis de mamíferos, a maioria das proteínas BAX é encontrada no citosol, mas no início da sinalização apoptótica, as BAX sofrem uma mudança conformacional. Após a indução da apoptose, a BAX torna-se associada à membrana da organela, e em particular, associada à membrana da mitocôndria.[5][6][7][8][9]
+Acredita-se que a BAX induza à abertura do canal iônico mitocondrial dependente de voltagem (VDAC em inglês), por meio de interações.[10] Alternativamente, evidências crescentes também sugerem que a atividade da BAX e/ou Bak forme um poro oligomérico, um canal induzido por apoptose na membrana mitocondrial.[11][12] Isso resulta na liberação do citocromo c e de outro fator pró-apoptótico da mitocôndria para o citoplasma. Esse fenômeno é conhecido como permeabilização da membrana externa mitocondrial e é o que leva à ativação de caspases[13], tal fato define um papel direto para a BAX nessa permeabilização. A ativação da BAX é estimulada por fatores abióticos variados, incluindo calor, peróxido de hidrogênio, níveis de pH e remodelamento da membrana mitocondrial. Outrossim, pode ser ativado pela ligação de BCL-2, bem como proteínas não BCL-2, como p53 e Bif-1. Por outro lado, o BAX pode se tornar inativo interagindo com VDAC2, Pin1 e IBRDC2.[3]
+
+
+== Importância Clínica ==
+O regulador de apoptose BAX está estritamente relacionado à proteína p53, que também realiza um papel fundamental no processo de morte celular por apoptose. A p53, também conhecida como supressor tumoral, é um regulador de transcrição que regula a expressão de diversos genes, incluindo BAX. Ela é ativada como parte da resposta celular ao estresse e, como foi comprovado em experimentos in vivo, promove a ativação de BAX e sua inserção na membrana mitocondrial. Esse evento é de fundamental importância, pois as proteínas da família BCL-2 abrem o canal iônico mitocondrial dependente de voltagem, para que o citocromo c possa sair da organela em direção ao citoplasma e, dessa forma, haja continuidade do processo de apoptose.Já existem drogas inibitórias de BAX, utilizadas no tratamento de esclerose lateral amiotrófica e de isquemia, porquanto a inibição impede a morte celular de células musculares atingidas por essas doenças. Em relação ao uso de BAX para o combate de doenças, ainda são necessários bastantes estudos na área a fim de que se aperfeiçoe o controle da ação medicamentosa. Contudo, drogas capazes de ativar BAX, como ABT737, que imita BH3, têm se mostrado promissoras no tratamento anticâncer, ao induzir à apoptose das células tumorais. ABT737 foi o primeiro indutor de morte da família BCL-2 a ser identificado, foi detectado como uma proteína co-purificada em estudos com BCL-2 de imunoprecipitação.A redução da expressão de BAX está relacionada ao aparecimento de câncer, portanto sua baixa quantidade já indica um prognóstico ruim, como uma resposta pouco efetiva à quimioterapia e a radioterapia. Outrossim, em células T e no endométrio de pacientes com leucemia linfoblástica aguda, foi observado que mutações no gene BAX e no gene BAX, códon 169, especificamente, que causam a inibição pró-apoptótica, geraram cânceres gastrointestinais. Ademais, análises com pacientes com câncer de pulmão revelaram a presença de uma mutação silenciosa no códon 184.
+
+
+== Interações ==
+A proteína X associada ao BCL-2 tem sido demonstrada na interação com:
+
+Bcl-2,
+BCL2L1,
+BCL2A1
+SH3GLB1,
+SLC25A4,
+VDAC1,
+TCTP,
+YWHAQ,
+Bid,
+Bim,
+Puma,
+Noxa,
+Mfn2,
+colesterol, e
+cardiolipina.
+
+
+== Referências ==

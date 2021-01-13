@@ -1,0 +1,17 @@
+Vírus ARN (português europeu) ou Vírus RNA (português brasileiro) são vírus que têm RNA como material genético. Os vírus ARN são mais propensos a sofrer mutações genéticas, se comparados aos vírus ADN. Isto se deve ao fato de as enzimas virais ARN polimerase, ARN integrase e transcriptase reversa não serem capazes de corrigir erros que ocorrem durante a replicação do RNA. Em função de utilizarem enzimas celulares para a replicação, os vírus ADN têm consideravelmente menor taxa de mutação, pois tais enzimas possuem atividade reparadora de erros gerados durante a síntese de DNA. Estes vírus infectam organismos de todos os principais grupos de seres vivos (eucariotas, bacterias e arqueas) os últimos foram detectados por metagenômica.Os vírus ARN estão organizados em 4 grupos do sistema de classificação de Baltimore:
+Grupo III (dsRNA): vírus com RNA fita dupla;
+Grupo IV ((+)ssRNA): vírus com RNA fita simples senso positivo;
+Grupo V ((-)ssRNA): vírus com RNA fita simples senso negativo;
+Grupo VI (ssRNA-RT): vírus com RNA fita simples senso positivo que realizam transcrição reversa.
+
+
+== Referências ==
+
+
+== Ligações externas ==
+«International Committee on Taxonomy of Viruses - ICTV» (em inglês) 
+«ViralZone - SIB Swiss Institute of Bioinformatics» (em inglês) 
+
+
+== Ver também ==
+Vírus DNA

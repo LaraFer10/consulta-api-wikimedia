@@ -1,0 +1,87 @@
+Epidemiologia genética é um campo emergente  com diversos interesses, representa uma importante interação  entre as duas disciplinas que o originaram: genética e epidemiologia. Pode se dizer que a epidemiologia genética é o estudo da ação conjunta de genes e fatores ambientais enquanto causa de doenças em populações humanas e dos seus padrões de herança familiar. A epidemiologia genética difere da epidemiologia por sua explicita consideração aos fatores genéticos e semelhança familiar, ela difere da genética de populações por seu foco sobre a doença e também difere da genética médica por sua ênfase na população investigando simultaneamente o impacto dos fatores ambientais. MacMahon & Pugh assinalam que tanto a genética como a epidemiologia dependem da aplicação da estatística e matemáticas para analisar a frequência e padrões de distribuição das doenças Nas relações acima descritas deve se observar que a genética também possui seu próprio modelo teórico como o exemplo do postulado que define os organismos como a relação de um conjunto de genes entre si e com o seu meio ambiente, tal modelo se revela capaz de prever ou explicar relações que não seriam percebidas analisando-se somente a distribuição de patologias, concebidas com o modelo de genética determinística, como por exemplo uma mutação de um gene recessivo com possibilidade "X" de expressão em um casamento, consanguíneo ou não, em uma população com freqüência "Y" daquele gene. Cabe a epidemiologia, por análise de multicausalidade, a determinação da freqüência de doenças na população, nesse caso de agravos de natureza genética, em sua interação com fatores (causais) mutagênicos e possibilidades de expressão, além de identificar separadamente a frequência de alelos associados à patologias e seu comportamento na população, por associação à genética populacional.
+
+
+== Aplicações da epidemiologia genética ==
+Uma das principais aplicações dessa interdisciplina estendida à toxicologia são às demandas sanitárias e jurídico - políticas decorrentes da agressão tóxico-genética ou seja, dano ao DNA celular e ao aparelho reprodutivo, especialmente os gametas, geralmente por poluição ambiental (especialmente radiativa), acidente nuclear, contaminação de alimentos ou exposição de trabalhadores.Outra aplicação, ainda mais conhecida são os critérios de liberação comercial /seleção de um fármaco no mercado considerando-se a segurança quanto ao risco de mutagênese, carcinogênese e teratogênese. Os problemas jurídicos de avaliação de risco devem incorporar tal possibilidade na identificação de um dano à população ou da resposta de cada organismo à uma exposição tóxica, constituem-se como problemas de diagnóstico clínico ou interpretação de indicadores consensualmente instituídos.A epidemiologia por sua articulação  com distintos campos das ciências médicas, ou sociais (onde a norma jurídica é formalizada), torna-se o instrumento da avaliação técnica do risco ou danos. Além do que, logicamente, se articula  com as práticas de avaliação, planejamento, administração das ações de saúde pública.Além da dimensão epidemiológica ou populacional de um dano a ser legado por herança à gerações futuras (efeito fundador ), em nível de indivíduos afetados, a tarefa do pesquisador em epidemiologia genética é o subsídio à informação - aconselhamento genético e incorporação da genética clínica (ou Geneticista) na avaliação p/ laudo pericial da Justiça do Trabalho em Unidades de Saúde do Trabalhador, visando se estabelecer  nexo causal entre determinado dano genético e seu ambiente, o que por sua vez também exige a aplicação, por excelência, da genética de populações, para se estabelecer as frequências esperadas no universo de possibilidades (gene pool)  de expressão do genoma da população e o risco individual. Não se descarta também o uso de marcadores biológicos de natureza citogenética identificando o dano toxicogenético, que não pode ser caracterizado unicamente por danos ao concepto neonato e lesão cancerígena.
+
+
+=== A medida das doenças e da exposição tóxica ambiental ===
+No estudo do efeito tóxico-genético a identificação do dano em nível de população, portanto,  se constitui como uma tarefa da epidemiologia. Tal estudo deve incluir a seleção  e validação de indicadores de morbi-mortalidade da população, elaborados a partir da estatística vital  e inquéritos epidemiológicos.
+Em paralelo, ou antes mesmo da monitoração das doenças ou danos, deve-se avaliar indicadores de exposição aos fatores de risco ambientais, inclusive  bioindicadores (animais, vegetais, ou aspectos específicos do ecossistema). O conjunto de tais medidas é que vão compor os sistemas de vigilância a saúde ambiental e ocupacional.Neste ultimo caso associando sua verificação aos parâmetros das medidas de avaliação da poluição ambiental e LTB - Limites de Tolerância Biológica definidos por lei.Deve-se levar em conta também as frequências normais dos fenômenos observados. Todo polimorfismo ou  variação natural da espécie, bem como as doenças genéticas hereditárias onde se incluem alguns tipos de câncer, são decorrentes de mutações na linhagem germinativa, ou seja são hereditárias, transmissíveis para geração seguinte.   A medida de sua ocorrência ou a taxa de mutação de um gene é  expressa como o número de mutações novas pelo local ou posição esperada para o gene "normal" no cromossomo (locus)  por geração, situa-se na ordem de 1 X 10 -5 a 10 -6 por locus por geração, ou que significa que uma entre cada 10 pessoas recebeu um gene modificado de um dos seus genitores. As alterações cromossômicas são também freqüentes , estima-se que aproximadamente 60% dos abortos espontâneos e 6% dos Natimortos 0.6% dos Nascidos Vivos apresentam um cariótipo anormal.    
+
+
+== Risco tóxico para disfunções reprodutivas ==
+O dano tóxicogenético pode se expressar como formas de câncer, malformação congênita e outras disfunções reprodutivas. Problemas aparentemente distintos exceto quanto ao método da “descoberta” por estudos da manifestação de acúmulos de caso (clusters)   em populações (dos quais os mais conhecidos referem-se a talidomida   e poluição por mercúrio na Baia de Minamata, Japão ) ou estudos experimentais, tem-se evidenciado os múltiplos efeitos de uma mesma substancia cujo efeito nocivo se concentra no aparelho reprodutor humano e mecanismo de regulação e replicação celular, em nível molecular  possíveis ações tóxicas ao sistema DNA - RNA - Proteína.
+O sanitarista Monteleone Neto (1985)  enumerou as principais disfunções da reprodução e desenvolvimento humano possíveis de serem provocados por agentes ambientais, considerando simultaneamente as informações disponíveis nos sistemas de registro de estatísticas vitais e possibilidades de expressão clínica do dano mutagênico (teratogênico - carcinogênico), a saber:
+
+Disfunção sexual: libido, potência
+Alteração dos espermatozóides: número, forma motilidade
+Diminuição da fertilidade: Anomalias das gônadas, amenorréia, infertilidade, etc.
+Aumento da freqüência de doenças durante a gestação ou parto: toxemia, hemorragia, etc.
+Perda fetal precoce (menos de 28 semanas): aumento do % de anomalias
+Perda fetal tardia (mais de 28 semanas): aumento do % de anomalias
+Morte fetal intra-parto
+Morte na primeira semana pós-natal
+Diminuição do peso ao nascer
+Alterações na idade gestacional: pré, pós-maturos
+Alterações na razão sexual: nas perdas fetais e nos recém nascidos vivos (RNV)
+Aumento da taxa de gestações múltiplas
+Aumento da taxa de anomalias congênitas
+Aumento da taxa de aberrações cromossômicas: nas perdas fetais, nos natimortos, nos RNV
+Aumento da mortalidade infantil
+Aumento da morbidade infantil
+Aumento do número de casos de câncer
+Alterações na idade da menopausa.
+
+
+== Genoma, novas perspectivas ==
+O termo epidemiologia genética, como referido  é utilizado para denotar o estudo do papel de fatores genéticos na ocorrência de doença em populações com métodos estatísticos e de análise familiar.  Khoury et al,  propõem o termo "epidemiologia do genoma humano", para indicar o novo patamar de complexidade decorrente da série de abordagens epidemiológicas do genoma humano, desde a descoberta de genes, até suas aplicações em medicina e saúde pública.
+Esta nova abordagem que inclui a integração de marcadores biológicos de exposição, susceptibilidade (de populações e indivíduos) da epidemiologia molecular,  abrange os novos e distintos estudos, tanto de genes únicos e seus efeitos, como da genómica, ou estudo de genes individuais, suas funções e interações com todos os genes do genoma. 
+
+
+== Ver também ==
+
+Teratologia
+Neonatologia
+Mutação /Agente mutagênico
+Genotoxicidade
+Raio X / Bomba atômica
+Demografia / Antropologia física
+ECLAMC: Estudio Colaborativo Latinoamericano de Malformações Congênitas
+Genética populacional / Genética humana
+Equilíbrio de Hardy-Weinberg
+Especificidade genética de populações (en)
+Anfíbios como bioindicadores de teratógenos ambientais
+Epidemiologia molecular / Bioindicadores
+CID-10 Capítulo XVII: Malformações congênitas, deformidades e anomalias cromossômicas
+
+
+== Referências ==
+
+
+== Leituras ==
+Calandra, D.; Anderson, O.A.; Reynoso, R.M.; Comparato, M. R.; Mormandi, J.O. Diaz, E. M. Ecologia embrionária y fetal - estudo dos fatores exógenos responsables de malformacones fetales. Argentina, Ed. Médica Panamericana, 1985
+Carvalho, A. Barreto[et al.]. Benzeno, Subsídios técnicos à Secretaria da Segurança e Saúde no Trabalho (SST/MTb). SP, FUNDACENTRO, FUNDESP,  1995
+«EPM» (PDF)  Coordenadoria de Física e Higiene das Radiações do Departamento de. Diagnóstico por Imagem. Riscos da Exposição à. Radiação Ionizante na Gestação
+«OPAS» , Grupo de consulta da. Prevenção e controle das enfermidades genéticas e dos defeitos  congênitos. Publicação científica Nº 460, 1984
+Orioli, I.M. Vigilância epidemiológica de malformações múltiplas.  Actas IV Congr. Latino Americano de Genética, v. 2, 59-66 1980.
+Orioli, I.M Estudo Colaborativo Latino Americano de Malformaciones Congenitas. ECLAMC/ Monitor. - Resumo dos projetos atuais do plano integrado de Genética (PIG-U) in: Sociedade Brasileira de Genética.  Desempenhos e Rumos da genética no Brasil. Ribeirão Preto, Revista Brasileira de Genética,1986
+Ribeiro, Lúcia R.; Salvadori, Daisy Favero; Marques, Edmundo K. (org.) Mutagênese ambiental. Canoas, ULBRA, 2003 Disponível no Google Livros
+Silva Joselli Santos. Efeitos genotóxicos em tétrades de Tradescantia pallida (Rose) D.R. Hunt var. purpurea  induzidos por poluentes atmosféricos na cidade do Salvador-Ba. Monografia (TCC) Curso de Ciências Biológicas da Universidade Estadual de Feira de Santana. Feira de Santana – BA, 2005 PDF Dez. 2011
+Sizenando José de Andrade Júnior, José Cleub Silva Santos Júnior, Jesiane da Luz Oliveira, Eneida de Moraes Marcílio Cerqueira e José Roberto Cardoso Meireles Micronúcleos em tetrades de Tradescantia pallida (Rose) Hunt. cv. purpurea Boom: alterações genéticas decorrentes de poluição aérea urbana. –The Free Library (Science and Technology) Jul. 2008 Dez. 2011
+Environmental Health Perspectives (Editor). Benzene Toxicity, Carcinogenesis, and Epidemiology Environ Health Perspect 104(Suppl 6):1219-1225 (1996) Dez. 2011
+Upton, Arthur C. Radiaciones ionizantes de bajo nivel y sus efectos biológicos. (1982). In: Santos, E.; Villanueva, J.R. (org.). El cancer. Libros de investigacion y ciencia (Scientific American). Barcelona, Prensa Científica S.A. 1986
+Veiga, L. Holanda Sadler. Avaliação do risco da exposição a poluentes radiativos na região da mina de urânio de Poços de Caldas, MG/ Brasil. RJ  Tese de Mestrado em Ciências Biológicas (Biofísica) – UFRJ 1995
+
+
+== Ligações externas ==
+Estudio Colaborativo Latinoamericano de Malformaciones Congénitas, ECLAMC:
+«Centro de Educación Médica e Investigaciones Clínicas (CEMIC)  Laboratorio de Epidemiología Genética del Instituto Multidisciplinario de Biología Celular (IMBICE)» 
+«Departamento de Genética de la Universidad Federal de Río de Janeiro (UFRJ) Brasil» 
+«Departamento de Genética de la Fundación Oswaldo Cruz (FIOCRUZ), Brasil» 
+«Ministério da Saúde (Brasil): DATASUS / Informações de Saúde» 
+«International Clearinghouse for Birth Defects Monitoring Systems» 
+«International Teratology Society» 
+«CDC Birth Defects Prevention»  eng. esp.
+«The National Birth Defects Prevention Network (NBDPN)»  eng.
+McKusic Mendelian Catalogue Jan. 2015

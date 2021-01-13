@@ -1,0 +1,8 @@
+Modelagem molecular é um termo coletivo que se refere aos métodos teóricos e técnicas computacionais para modelar ou mimetizar o comportamento das moléculas. As técnicas são  usadas em campos da física,  química, biologia, farmácia computacional, e ciência
+dos materiais,  para estudar sistemas moleculares oriundos de pequenos sistemas químicos à grandes moléculas biológicas e materiais. Os cálculos mais simples podem ser feitos à mão, mas inevitavelmente são necessários computadores para realizar cálculos de sistemas de
+qualquer tamanho.
+A Modelagem molecular pode ser feita através da Mecânica Molecular (MM) que se baseia na Mecânica Clássica e considera as interações entre os núcleos das moléculas. Ou pode ser feita através do uso da Mecânica Quântica. Neste caso, utiliza-se o método ab initio e/ou o método semi-empírico.
+Alguns programas que contribuem para a realização da modelagem molecular são o software igemDOCK. 
+
+
+== Notas e referências ==

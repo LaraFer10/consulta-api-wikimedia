@@ -1,0 +1,332 @@
+Mediadores químicos da inflamação são compostos derivados do hospedeiro que são secretados por células ativadas e servem para ativar ou aumentar aspectos específicos da inflamação. Estes compostos são ditos pró-inflamatórios, significando que eles promovem ou retroalimentam o processo de inflamação.
+Mediadores Químicos da Inflamação
+
+     Patologia - Mediadores Químicos da Inflamação
+
+Mediadores inflamatórios são compostos derivados do hospedeiro que são
+secretados por células ativadas e servem para ativar ou aumentar aspectos
+específicos da inflamação. Estes compostos são ditos pró-inflamatórios,
+significando que eles promovem inflamação. Muitas das citocinas atuam como
+mediadores da inflamação. Estes, por sua vez, são classificados em 4 grupos:
+
+   aqueles com propriedades vasoativas e de leve contração muscular;
+   aqueles que atraem outras células e são chamados de quimiotáticos;
+   enzimas;
+   proteoglicanos.
+
+Estas categorias não são mutuamente exclusivas e muitos mediadores podem ser
+designados para mais de um grupo.
+MEDIADORES VASOATIVOS E CONSTRITORES DO MÚSCULO LISO
+1. Histamina: encontra-se amplamente distribuída nos tecidos e sua fonte mais
+rica são os mastócitos normalmente presentes no tecido conjuntivo adjacente aos
+vasos; também é encontrada em basófilos e em plaquetas sangüíneas. A histamina
+pré-formada está presente nas granulações dos mastócitos e é liberada como
+resposta a diversos estímulos ( traumatismos, reações imunes que envolvam a
+ligação de Ac aos mastócitos, etc.). É considerada como o principal mediador da
+fase imediata, e exerce seus efeitos fisiológicos através da interação com 3
+diferentes tipos de receptores da célula-alvo, designados H1, H2 e H3. Efeitos
+da ligação com tais receptores:
+- H1: contração da musculatura lisa dos brônquios, intestino e útero, e aumento
+da permeabilidade do capilar venoso. Drogas anti-histamínicas bloqueiam estes
+receptores.
+- H2: aumenta a secreção de ácido gástrico e de muco nas vias aéreas. ,
+- H3: afeta principalmente a síntese da histamina e sua liberação.
+2. Metabólitos do Ácido Araquidônico (AA): O metabolismo do AA segue 2 vias
+principais. Uma delas, a via da Ciclooxigenase, conduz à geração de
+prostaglandinas (PGE2, PGD2, PGF2, PGI2 e Tromboxane TXA2):
+
+ - TXA2: principal produto das plaquetas, é um potente agregador plaquetário e
+ vasoconstritor.
+ - PGI2: causa vasodilatação e potencializa a formação do edema.
+ - PGE2: envolvida na patogenia da febre e da dor na inflamação.
+ - PGD2: principal produto da via da ciclooxigenase nos mastócitos, promove a
+ dilatação vascular local e permeabilidade vascular (em menor extensão que a
+ histamina), e também é quimiotático de neutrófilo.
+
+Drogas anti-inflamatórias não esteróides como a aspirina agem bloqueando a
+síntese de prostaglandinas, inibindo a enzima COX-1, porém, farmacos mais novos como o Celebra atuam inibindo a enzima COX-2. Ambas as enzimas estão presentes na via da ciclooxigenase.
+A outra via constitui a Via da Lipooxigenase cujos produtos principais são os
+leucotrienos LTB4, LTC4, LTD4 e LTE4.
+
+ - LTB4: poderoso agente quimiotático;
+ - LTC4, LTD4 e LTE4: estimulam a contração da musculatura lisa,
+ broncoconstrição, secreção mucosa das vias aéreas e rubor da pele.
+
+Os 2 últimos, quando injetados intravenosamente, podem causar hipotensão e
+disritmia cardíaca.
+Inibidores de leucotrienos têm sido testados e mostraram-se eficientes no
+tratamento da asma.
+3. Fator de Agregação Plaquetária (PAF): é liberado por mastócitos e plaquetas,
+podendo também ser produzidos por outras células ativadas. Efeitos: 1) estimula
+a agregação plaquetária; 2) ativação e desgranulação de neutrófilos e
+eosinófilos; 3) ativação de complemento; 4) estimula síntese de prostaglandinas
+e LTC4; 5) estimula produção de colagenases e outras proteínases que degradam a
+matriz extracelular, promovendo a destruição da cartilagem nas artrites
+inflamatórias; 6) é o mais potente quimiotático de eosinófilos conhecido; 7)
+quando injetado na pele, causa rubor e infiltração leucocitária; 8) quando
+inalado, causa broncoconstrição aguda, infiltração de eosinófilos, e um estado
+de hiper-reatividade brônquica não específica; 9) injetado intravenosamente,
+pode causar uma ampla ativação de neutrófilos, plaquetas e basófilos, assim como
+uma profunda hipotensão. O PAF atua diretamente na célula-alvo através de
+receptores específicos. Deste modo, o PAF é capaz de desencadear a maioria das
+características cardeais da inflamação.
+4. Adenosina: é liberado através da desgranulação dos mastócitos e pode se ligar
+a receptores de superfície de muitos tipos celulares. Causa broncoconstrição e
+estimula a secreção de fluido do epitélio intestinal.
+5. Óxido Nítrico: é um mediador relativamente 'moderno' da inflamação. Em 1980
+foi demonstrado que a vasodilatação produzida pela acetilcolina pressupunha um
+endotélio íntegro. Como resposta, as células endoteliais produziam um Fator de Relaxamento Derivado do Endotélio (EDRF), que levava a um relaxamento da
+musculatura lisa. Posteriormente, foi demonstrado que o endotélio vascular
+produzia NO, que apresentava propriedades físicas e biológicas do EDRF. O No
+aumenta a concentração de GMPc intracelular, que medeia o relaxamento e produz
+vasodilatação. A produção de NO é ativada pela entrada de Cálcio no interior da
+célula. Além de promover o relaxamento da musculatura lisa, o NO desempenha
+papéis importantes na inflamação: reduz a agregação plaquetária; produzido pelos
+macrófagos, atua como radical livre sendo citotóxico para determinados micróbios
+e células tumorais. A produção descontrolada de NO pelos macrófagos no choque séptico pode levar a uma vasodilatação periférica maciça e a choque.
+6. Outros mediadores: os neuropeptídeos, como a substância P, causam dilatação e
+aumento da permeabilidade vascular, tanto diretamente como através do estímulo à
+liberação e à produção de eicosanóides (prostaglandinas e leucotrienos) pelos
+mastócitos.
+
+MEDIADORES QUIMIOTÁTICOS
+
+Quimiotaxia: locomoção orientada das células em direção a um gradiente de concentração de uma molécula quimiotática, ou no caso, em direção ao local de
+inflamação ou resposta imune. Tanto substâncias exógenas ( como produtos bacterianos) quanto substâncias endógenas podem atuar como quimioatratores. Os
+mastócitos e basófilos produzem e liberam compostos capazes de interagir com
+outros leucócitos, aumentando assim sua migração em direção ao local de
+liberação desses compostos, sendo portanto, chamados mediadores quimiotáticos.
+Além de estimular a locomoção, muitos fatores quimiotáticos ( principalmente
+quando presentes em altas concentrações), induzem outras respostas nos
+leucócitos, denominadas de ativação leucocitária. Estas respostas incluem:
+
+   Produção de metabólitos do ácido aracdônico ( como já citado);
+   Desgranulação e secreção de enzimas lisossômicas e ativação do surto
+   oxidativo (induzidos pela ativação da proteinoquinase mediada pelo
+   diacilglicerol, produzido pela ligação do quimioatrator à membrana da célula);
+   Modulação das moléculas de adesão leucocitária ( levando a uma firme adesão
+   dos leucócitos, necessária à posterior transmigração através do endotélio).
+
+Com relação ao aspecto quimiotaxia, são os seguintes compostos os mais
+importantes:
+
+ Citocinas: IL-1, IL-8, TNFa e TNFb ;
+ Componentes do Complemento: especificamente C5a;
+ PAF ( direcionado a neutrófilos e eosinófilos);
+ Produtos da via lipoxigenase, basicamente LTB4.
+
+1. Citocinas
+IL-8: poderoso quimioativador e ativador de neutrófilos, com atividade limitada
+sobre monócitos e eosinófilos. Indutores mais importantes: IL-1 e TNFa .
+Pertence a uma família de pequenas proteínas estruturalmente semelhante,
+denominadas atualmente de QUIMIOQUINAS, que incluem, além do IL-8:
+
+ Proteína quimioatratora de monócitos ( MCP-1);
+ RANTES, quimiotático para timócitos;
+ PAF 4: atividade quimiotática para neutrófilos, monócitos e principalmente
+ eosinófilos ( atividade liberadora de histamina em mastócitos).
+
+IL- 1: é produzida praticamente por todas as células nucleadas, incluindo
+membros da linhagem monócito-macrófago, NK, clones de LT, queratinócitos,
+células dendríticas, fibroblastos, neutrófilos, células endoteliais e do músculo
+liso. São encontradas nas formas IL-1a e IL-1b , que possuem 26% de similaridade
+na seqüência de aminoácidos e são codificados por diferentes genes. Contudo,
+suas atividades biológicas são idênticas e ambos se ligam com a mesma afinidade
+aos receptores de membrana. Algumas células também expressam o gene Para a
+proteína IL-1Receptor Antagonista ( IL-1RA ) que compete biologicamente pela
+ligação aos receptores de IL-1, sendo portanto um inibidor competitivo de IL-1a
+e IL-1b .
+Alguns tecidos, como a pele, possuem sempre certa quantidade de IL-1, assim como
+o líquido amniótico, suor e urina. Em contraste, macrófagos e a maioria das
+células produzem IL-1 em resultado a um estímulo como LPS, urato, toxinas , etc.
+Durante a resposta imunológica a produção de IL-1 é inicialmente desencadeada
+pelo contato com LT e pode ser aumentado em resposta a TNF, IL-2 (liberada pela
+célula T quando ativada ) ou leucotrienos.
+Os receptores para IL-1 estão presentes em quase todas as células nucleadas. Há
+dois tipos de receptores: o tipo I (IL-1RI) transmite sinais intracelularmente,
+sendo responsável pela sinalização de IL-1 nas células responsivas. Agora o
+receptor tipo II (IL-1RII)não passa sinais intracelularmente , mas possui um
+domínio extracelular que é liberado nos locais da inflamação e no soro durante
+as inflamações sistêmicas. Funciona então como um inibidor endógeno da
+inflamação, principalmente porque se liga fortemente a IL-1b - que é o tipo de
+IL-1 produzida em maior quantidade pelos monócitos.
+Os receptores para IL-1 são sempre expressos nas células responsivas , mas seus
+níveis podem ser modulados por IL-3, IL-4 e corticosteróides, que aumentam a
+expressão de IL-1RII e assim diminuem a responsividade a IL-1.
+TNF: é expresso em duas formas: TNFa e TNFb ( ou linfotoxina ). TNFa foi
+descoberto em animais tratados com LPS induzindo a formação de necrose
+hemorrágica; é produzida predominantemente por macrófagos ativados, enquanto
+TNFb é primariamente um produto de linfócitos T ativado. TNFa e b se ligam aos
+mesmos receptores de membrana e tem efeitos semelhantes. Contudo, não idênticos
+porque o TNFb se liga a LTb ( receptor de MB expresso em linfócitos T e B e em
+algumas células mielomonocíticas). O complexo TNFb /LTb estimula
+intracelularmente o desenvolvimento de órgão linfóides.
+Foram detectados dois tipos de receptores para TNFa e b ; o tipo I promove
+atividade citotóxica, enquanto o tipo II promove a proliferação de linfócitos T.
+Ações de Ll-1 e TNF: IL-1 e TNF são citocinas que, embora com diferenças
+estruturais, compartilham muitos efeitos biológicos. São produzidas por
+macrófagos ativados e sua secreção pode ser estimulada por complexos imunológico, toxinas, lesão física entre outros desencadeantes do processo
+inflamatório.
+No endotélio, induzem uma série de mudanças ( segundo o nível de estímulo para a
+transcrição de genes) chamado de ativação do endotélio, ocorre aumento da
+produção de moléculas de adesão e mediadores químicos ( citocinas, quemoquinas,
+fatores de crescimento, NO ). Promovendo assim a marginação e migração dos
+leucócitos para o local da inflamação.
+IL-1 e TNF também induzem as respostas da fase aguda associados a infecção ou a
+lesão, incluindo-se febre, perda de apetite, sono de ondas curtas, liberação de
+neutrófilos na circulação, liberação de ACTH e corticosteróides e
+particularmente TNF está relacionado com hipotensão, aumento dos batimentos
+cardíacos e abaixamento do pH sangüíneo.
+IL-1 e TNF são secretados por CAA em contato com Ag e moléculas de MHC de
+células T helper, promovendo então sinal coestimulatório para a ativação da
+célula T. Também agem paracrinamente nas células Th aumentando a secreção de
+IL-2, além de promover o crescimento e diferenciação de células B.
+Componentes do Complemento: C5a é um poderoso agente quimiotático para
+neutrófilos, monócitos, eosinófilos e basófilos.
+Produtos da via lipoxigenase, basicamente LTB4: o leucotrieno B4 , causa
+agregação e adesão dos leucócitos ao endotélio venular, além de ser um poderoso
+agente quimiotático.
+Alguns outros mediadores quimiotáticos:
+
+ ECF-A: fator quimiotático de eosinófilos da anafilaxia;
+ HMW-NCF: fator de quimiotaxia para neutrófilo de alto peso molecular.
+
+MEDIADORES ENZIMÁTICOS
+I) PROTEASES PLASMÁTICAS
+O conjunto das proteases plasmáticas compreende 3 sistemas que se
+inter-relacionam:
+1. Sistema Complemento
+Complemento é um termo coletivo, usado para designar um grupo de proteínas do
+plasma e da membrana celular que desempenham um papel fundamental nos processos
+de defesa do hospedeiro.
+O Sistema Complemento compõe-se de mais de 25 proteínas que são encontradas em
+maior concentração no plasma e também nas membranas celulares. Este sistema
+funciona no sistema imunológico mediando uma série de reações biológicas todas
+elas servindo para a defesa contra agentes microbianos. As conseqüências
+fisiológicas da ativação do complemento são:
+
+ opsonização: preparo de células estranhas para a fagocitose;
+ ativação celular: geração de fragmentos peptídicos que regulam aspectos das
+ respostas imune e inflamatória;
+ lise dos organismos-alvo (células, bactérias, vírus com envoltório).
+
+As proteínas do Sistema Complemento podem atuar através de 2 vias:
+- Via Clássica: que é ativada por complexos Ag-Ac e é mais rápida. Os
+componentes da Via Clássica são: C1q, C1r, C1s, C2, C3, C4, C5, C6, C7, C8 e C9.
+O componente C3 é ode maior concentração no plasma
+- Via Alternativa: que não precisa dos Ac para sua ativação e sim de uma série
+de estímulos, em grande parte não-imunológicos. É mais lenta. Os componentes da
+Via Alternativa são: properdina, fator B e fator D.
+Os componentes principais do Sistema Complemento que possuem atividade biológica
+na inflamação são C3a e C5a. C3a é produzido pelas vias Clássica e Alternativa
+através da clivagem do componente C3 por enzimas encontradas em vários tecidos e
+em bactérias. O C3a aumenta a permeabilidade vascular na microcirculação
+(pequenas arteríolas, capilares e vênulas) e conseqüente exsudação de proteínas plasmáticas, caracterizando o edema inflamatório. C5a é liberado pela ativação
+do complemento ou por clivagem direta do componente C5 pela tripsina, proteases
+bacterianas e enzimas encontradas nos lisossomos neutrofílicos e nos macrófagos.
+O C5a induz o aumento da permeabilidade vascular e é altamente quimiotático aos
+neutrófilos, basófilos e monócitos. Ele também aumenta a adesão dos leucócitos
+ao endotélio. Os componentes C3a e C5a que aumentam a permeabilidade são
+chamados anafilatoxinas. Eles agem principalmente pela liberação de histamina
+dos mastócitos e das plaquetas. O C5a também ativa a via lipoxigenase do
+metabolismo do ácido aracdônico nos neutrófilos e macrófagos levando à formação
+de outros mediadores de maior permeabilidade e quimiotaxia a partir dessas
+células. Além do C3a e C5a, há outros componentes do Sistema Complemento
+envolvidos na inflamação:
+
+ - C3b e C3bi que são importantes opsoninas que reconhecem os receptores nos
+ neutrófilos, macrófagos e eosinófilos.
+ - C5b-9: o CAM (Complexo de ataque à membrana). Ele é o componente lítico
+ final do complemento e está envolvido na lesão das células parenquimatosas.
+
+2. Sistema Cinina
+O sistema gerador de cinina é também importante na formação de mediadores no
+sangue. Esse sistema resulta na liberação de bradicinina, um nonapeptídeo que
+aumenta a permeabilidade vascular, provoca vasodilatação, hipotensão, dor,
+contração de muitos tipos de músculo liso e ativação de fosfolipase A2 com
+ativação auxiliar do metabolismo celular do ácido aracdônico. A ação da
+bradicinina tem curta duração porque ela é rapidamente inativada por uma enzima
+chamada cininase.
+3. Sistema de Coagulação
+O passo final da cascata de coagulação é a conversão do fibrinogênio em fibrina
+através da ação da trombina. Durante essa conversão são formados
+fibrinopeptídeos, os quais induzem um aumento da permeabilidade vascular e da
+atividade quimiotática leucocitária.
+II) PROTEASES LISOSSOMAIS
+Os neutrófilos e monócitos possuem grânulos lisossômicos que, quando liberados,
+podem contribuir para a resposta inflamatória. Os neutrófilos possuem em seus
+grânulos específicos, além de outras enzimas, proteínas catiônicas, hidrolases
+ácidas e algumas proteases neutras.
+
+ Proteínas catiônicas: grupo heterogêneo de proteínas que aumentam a
+ permeabilidade vascular, causam quimiotaxia dos monócitos e inibem a
+ movimentação de outros monócitos e eosinófilos.
+ Hidrolases ácidas: degradam bactérias e restos de material em pH ácido, dentro
+ dos lisossomos onde o pH ácido é rapidamente alcançado.
+ Proteases neutras: Essas enzimas (colagenase , elastase, catepsinas, etc ) são
+ capazes de degradar vários constituintes extracelulares como o colágeno, a
+ membrana basal, a fibrina, a elastina e a cartilagem, resultando em
+ destruição tissular.
+
+Os monócitos também contem hidrolases ácidas, colagenase e elastase.
+Os mastócitos e basófilos possuem em seus grânulos tipos específicos de
+proteases neutras e hidrolases lisossômicas.
+
+ Proteases neutras - Triptase: Pode clivar C3 originando C3a, além de poder
+ alterar muitas das proteínas da cascata de coagulação. Também é um potente
+ fator de crescimento para os fibroblastos.
+ Hidrolases lisossômicas - beta hexosaminidase e beta glicoronidase: têm-se
+ especulado que essas enzimas são capazes de degradar substâncias tais como os
+ sulfatos de condroitina, mas suas funções específicas ainda são desconhecidas.
+
+PROTEOGLICANAS
+Os grânulos dos mastócitos e basófilos são ricos em proteoglicanas, que formam a
+matriz estrutural desses grânulos e que também servem de sítios de ligação para
+a heparina e outros mediadores. Essas devem ser as funções primárias do sulfato
+de condroitina que está presente em tais grânulos. Outras proteoglicanas,
+entretanto, também têm uma atividade regulatória intrínseca. Por exemplo, a
+principal proteoglicana granular nos mastócitos humanos é a heparina, que tem
+atividade anticoagulante e também é capaz de modular a atividade da triptase.
+
+RADICAIS LIVRES DERIVADOS DO OXIGÊNIO
+
+Os principais radicais são: o ânion superóxido, o peróxido de hidrogênio e o
+radical hidroxila. Esses metabólitos podem se combinar com o NO para formar
+outros intermediários reativos do nitrogênio. A liberação extracelular de baixos
+níveis desses potentes mediadores pode aumentar a expressão de quemoquinas (por
+exemplo, IL-8), citocinas e moléculas de adesão endotelial de leucócitos,
+amplificando a cascata que culmina na resposta inflamatória. Em níveis altos, a
+liberação desses potentes mediadores pode ser prejudicial ao próprio organismo.
+Eles estão envolvidos com as seguintes respostas: lesão endotelial, com
+conseqüente aumento da permeabilidade vascular; inativação de antiproteases,
+favorecendo a ação das proteases e aumentando a destruição da matriz
+extracelular; danos a outros tipos de células.
+FATORES DE CRESCIMENTO
+
+ PDGF (Platelet-derived growth factor): É uma família de dímeros de 30kD que
+ consistem de duas cadeias (A e B). Todas as três isoformas de PDGF (AA, AB e
+ BB) são secretadas e são biologicamente ativas. PDGF causa tanto a migração
+ como a proliferação de fibroblastos, células musculares lisas e monócitos e
+ também tem outras propriedades inflamatórias.
+
+TGF-b : funciona tanto como um fator de inibição como de estímulo. TGF-b é um
+inibidor de crescimento para a maioria das células epiteliais em cultura. Seu
+efeito sobre os fibroblastos e as células musculares lisas depende da
+concentração e das condições de cultura. Em baixas concentrações, ele induz a
+síntese e a secreção de PDGF, sendo portanto indiretamente um mitogênico . Em
+altas concentrações, é um inibidor do crescimento, devido à sua capacidade de
+inibir a expressão dos receptores da PDGF. TGF-b também estimula a quimiotaxia e
+a produção de colágeno e fibronectina pelas células, enquanto inibe a degradação
+de colágeno pela diminuição de proteases e o aumento de inibidores de proteases.
+Todos esses efeitos favorecem a fibrogênese, e há cada vez mais evidências de
+que a TGF-b esteja envolvida no desenvolvimento de fibrose numa variedade de
+condições de inflamação crônica.
+
+BIBLIOGRAFIA:
+
+ ROBBINS. Patologia estrutural e funcional. 2ª ed. Rio de Janeiro: Guanabara
+ Koogan, 1996.
+ STITES, Daniel P.; TERR, Abba I.; PARSLOW, Tristam G. Medical immunology. 9th
+ edition. Stamford, Connecticut : APPLETON & LANGE, 1997.
+ ROITT, Ivan M.; BROSTOFF, Jonathan; MALE, David. Imunologia. 3ª ed. São Paulo:
+ Editora Manole, 1994.

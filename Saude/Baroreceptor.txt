@@ -1,0 +1,21 @@
+Baroreceptores ou barorrecetores são mecanoreceptores relacionados à regulação da pressão arterial momento a momento. Estão localizados principalmente no seio carotídeo e no arco da aorta, detectando variações bruscas da pressão arterial e transmitindo esta informação ao sistema nervoso central. Esta informação gera respostas do sistema nervoso autônomo, modulando o funcionamento da circulação sanguinea (Reflexo barorreceptor).
+
+
+== Mecanismos celulares ==
+O receptor é tônico e é ativado caso sofra distorção durante a distensão do vaso sanguíneo. Canais iônicos mecanossensíveis seriam abertos nas terminações nervosas dos receptores. Três famílias destes canais estariam envolvidos: canais epiteliais de sódio (Epithelial sodium channels), canais iônicos sensíveis a ácido (Acid sensing ion channels) e canais de potencial transitório do receptor (Transient receptor potential channels). A abertura destes canais pode levar a um despolarização da membrana e levar a um aumento da frequência de potenciais de ação transmitidos pela terminação nervosa. A informação se propaga através do nervo sinusal (no caso de receptores no seio carotídeo), ramo do n. glossofaríngeo , e do nervo depressor aórtico (no caso de receptores no arco da aorta) para o sistema nervoso central, mais especificamente para o núcleo do trato solitário no bulbo.
+
+
+== Respostas no Sistema Nervoso Central ==
+No caso de aumento súbito de pressão arterial, os barorreceptores aumentam sua frequência de disparos e sinalizam tal informação para o núcleo do trato solitário. Nele, neurônios excitam outros do núcleo ambíguo e do núcleo dorsal do vago, elevando a um aumento do tônus vagal (indicador do funcionamento do sistema nervoso parassimpático). Além disso, excitam neurônios GABA-érgicos inibitórios, presentes no bulbo ventrolateral caudal, que agem em neurónios pré-motores do simpático presentes no bulbo ventrolateral rostral. Ocorre, assim, uma diminuição do tônus simpático.
+Caso haja queda da pressão arterial, ocorre menor excitação do neurônios relacionados ao sistema nervoso parassimpático (diminuição do tônus) e menor inibição do neurônios relacionados ao simpático (aumento do tônus), decorrentes da menor atividade dos barorreceptores.
+
+
+== Respostas no Sistema Cardiovascular ==
+O aumento do tônus simpático leva a taquicardia, aumento do volume sistólico, vasoconstricção, redução da capacitância venosa, com aumento do retorno venoso ao coração. Tal resposta (taquicardia reflexa) é responsável por aumentar a pressão arterial aos seus valores basais.
+Já o aumento do tônus vagal leva a bradicardia e, junto da inibição simpática, desencadeia processos antagônicos aos mencionados acima. Tal resposta (bradicardia reflexa) é responsável por diminuir a pressão arterial aos seus valores basais.
+
+
+== Referências ==
+
+2.HAIBARA, A. S. ; SANTOS, Robson Augusto Souza dos . Descobrimento e importância dos barorreceptores. Revista Brasileira de Hipertensão, São Paulo, v. 7, n. 2, p. 113-115, 2000.
+3.Kougias P, Weakley SM, Yao Q, Lin PH, Chen C. Arterial baroreceptors in the management of systemic hypertension. Med Sci Monit. 2010 Jan;16(1):RA1-8. Review. PubMed PMID 20037502; PubMed Central PMCID: PMC2921195.

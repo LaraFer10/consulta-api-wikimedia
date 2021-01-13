@@ -1,0 +1,443 @@
+Existem três tipos de seleção natural, seleção direcional, seleção estabilizadora e a seleção disruptiva. A seleção direcional favorece um único fenótipo e nesse tipo de seleção o alelo mais vantajoso aumenta de freqüência, ao longo das gerações a seleção direcional age sobre fenótipos homozigotos. O alelo não tem que ser necessariamente dominante, o alelo recessivo também poderá ser fixado na população.
+Esse tipo de seleção ocorre freqüentemente em mudanças ambientais e quando ocorre migração de populações para novas áreas que possuem diferentes pressões ambientais. Nota-se o uso de seleção direcional na genética quantitativa, visto que ela demonstra em  mudança de direção na média da população ao longo do tempo em características contínuas. Pode-se citar como exemplo a pesca do salmão rosa,o desenvolvimento de resistência de bactérias aos antibióticos, resistência de insetos a inseticida, no tamanho corporal de peixes e entre outros.
+
+
+== Conceito ==
+
+Em genética populacional, seleção direcional ocorre quando a selecção natural favorece um único fenótipo e por isso a frequência alélica muda continuamente na mesma direcção. Sob selecção direcional, o alelo vantajoso vai aumentar em frequência independentemente da sua dominância em relação aos outros alelos (isto é, mesmo que o alelo vantajoso seja recessivo, eventualmente ficará fixado na população).
+A seleção direcional age sobre os fenótipos extremos (homozigotos) de uma população ao longo das gerações. Podem ser selecionados os dois fenótipos homozigóticos ou apenas um deles. No primeiro caso, podemos pensar em uma determinada espécie em que animais grandes e pequenos tem vantagens em relação aos de tamanho intermediário e por isso são mais adaptados e consequentemente são selecionados. No segundo caso, podemos pensar em uma espécie de peixe a qual apenas os indivíduos pequenos não são pescados e por isso em um determinado momento o fenótipo grande e intermediário vão deixar de existir nessa população. A letalidade também pode ser um exemplo nos dois casos. O fenótipo intermediário (heterozigoto) ou um dos fenótipos extremos (homozigoto dominante ou recessivo) podem ser letais.
+
+
+== Genética quantitativa e conceitos ==
+
+Genética quantitativa é um ramo da genética que estuda caracteres quantitativos contínuos e ao nível de populações. São usados alguns parâmetros de estudo como a variância, média e covariância.
+Essa área da genética de populações também se utilizada da variabilidade, herdabilidade, efeito aditivo e a resposta a seleção em uma população.A variabilidade de uma população pode ser expressa como o somatório das influências ambientais e genotípicas:
+
+  
+    
+      
+        P
+        =
+        G
+        +
+        E
+      
+    
+    {\displaystyle P=G+E}
+  Onde:
+
+  
+    
+      
+        P
+      
+    
+    {\displaystyle P}
+   é o fenótipo
+
+  
+    
+      
+        G
+      
+    
+    {\displaystyle G}
+   é o genótipo
+
+  
+    
+      
+        E
+      
+    
+    {\displaystyle E}
+   é a influencia do meioEssa variabilidade também pode ser expressa na forma de uma variância nas quais estão incluídas a fenotípica, ambiental, genética, de dominância e aditiva, e a formula geral da variância é:
+
+  
+    
+      
+        V
+        x
+        =
+        
+          
+            1
+            
+              n
+              −
+              1
+            
+          
+        
+        
+          ∑
+          
+            i
+            =
+            1
+          
+          
+            n
+          
+        
+        
+          x
+          
+            2
+          
+        
+        ,
+      
+    
+    {\displaystyle Vx={\frac {1}{n-1}}\sum _{i=1}^{n}x^{2},}
+  No que diz respeito a herdabilidade, o efeito aditivo tem grande importância, pois a similaridade entre os progenitores e descendentes tem grande influência da variância genética aditiva, e se uma tal característica não tiver um efeito aditivo em uma população ela não será passada a outras gerações.  [1]
+A herdabilidade de uma característica é expressa da seguinte forma:
+
+  
+    
+      
+        
+          h
+          
+            2
+          
+        
+        =
+        
+          
+            
+              V
+              a
+            
+            
+              V
+              p
+            
+          
+        
+      
+    
+    {\displaystyle h^{2}={\frac {Va}{Vp}}}
+  onde:
+
+  
+    
+      
+        
+          h
+          
+            2
+          
+        
+      
+    
+    {\displaystyle h^{2}}
+   é a herdabilidade
+
+  
+    
+      
+        V
+        a
+      
+    
+    {\displaystyle Va}
+   é a variância aditiva
+
+  
+    
+      
+        V
+        p
+      
+    
+    {\displaystyle Vp}
+   é a variância fenotipicaA herdabilidade está compreendida em valores entre zero e um, sendo que se ela for um significa que todos os tipos de variâncias da característica são genéticos e aditivos. O diferencial de seleção é outro conceito da genética quantitativa que compara a média da população, antes ou após a seleção, e é representada como  sendo:
+
+  
+    
+      
+        S
+        =
+        X
+        s
+        −
+        X
+        p
+      
+    
+    {\displaystyle S=Xs-Xp}
+  Considerando:
+
+  
+    
+      
+        S
+      
+    
+    {\displaystyle S}
+   como o diferencial de seleção
+
+  
+    
+      
+        X
+        p
+      
+    
+    {\displaystyle Xp}
+   como a média da população total
+
+  
+    
+      
+        X
+        s
+      
+    
+    {\displaystyle Xs}
+   como a média da subpopulção selecionadaA resposta a seleção é o produto entre herdabilidade e o diferencial de seleção:
+
+  
+    
+      
+        R
+        =
+        
+          h
+          
+            2
+          
+        
+         
+        S
+      
+    
+    {\displaystyle R=h^{2}~S}
+  Se a herdabilidade for baixa ou seleção for fraca, resposta à seleção será lenta, se a herdabilidade for forte ou seleção forte à resposta a seleção será rápida. Pode-se utilizar esses conceitos para cálculos de seleção artificial aplicada a seleção direcional, como será demonstrada adiante.
+
+
+== Valores adaptativos e seleção direcional ==
+Como já visto, para que uma população seja selecionada direcionalmente, é necessário um genótipo homozigoto que tenha maior valor adaptativo, o mais vantajoso será fixado na população.
+Em um exemplo temos um alelo A completamente dominante e vantajoso no que diz respeito ao valor adaptativo. Sendo os valores adaptativos de AA e AA’ iguais e maiores que os de A’A’.
+Atribuindo-se as freqüências genotípicas p², 2pq e q² os genótipos AA, AA’ e A’A’ respectivamente, então os valores adaptativos serão 1, 1 e 1-s, a variação na freqüência de A após uma geração poderá ser representada desta forma:
+
+  
+    
+      
+        
+          
+            Δ
+          
+          
+            p
+          
+        
+        =
+        
+          
+            
+              s
+              p
+              
+                q
+                
+                  2
+                
+              
+            
+            
+              (
+              1
+              −
+              s
+              
+                q
+                
+                  2
+                
+              
+              )
+            
+          
+        
+      
+    
+    {\displaystyle {\Delta }_{p}={\frac {spq^{2}}{(1-sq^{2})}}}
+  A freqüência do alelo vantajoso aumenta (∆p positivo) a uma taxa que é proporcional à intensidade de seleção 
+  
+    
+      
+        (
+        s
+        )
+      
+    
+    {\displaystyle (s)}
+   e a freqüência de ambos os alelos, o alelo vantajoso 
+  
+    
+      
+        (
+        p
+        )
+      
+    
+    {\displaystyle (p)}
+   e o deletério 
+  
+    
+      
+        (
+        q
+        )
+      
+    
+    {\displaystyle (q)}
+  , que aos poucos será substituído, está sendo demonstrada na expressão demonstrada anteriormente.A taxa de variabilidade genética será máxima quando 
+  
+    
+      
+        p
+        =
+        
+          
+            1
+            3
+          
+        
+      
+    
+    {\displaystyle p={\frac {1}{3}}}
+  . Esse exemplo é um princípio muito importante e diz que a taxa de variabilidade genética somente é aumentada quando ambos os alelos são comuns na população.
+Se um alelo vantajoso tiver surgido recentemente na população por mutação, ele aumentará lentamente, agora, se ele já existia na população, porém não era vantajoso mas depois de uma mudança ambiental, ele se torna mais adaptativo e a população se adaptará a mudança de frequência mais rapidamente. Nota-se nesse caso a grande importância da variabilidade genética.
+Encontra-se a freqüência alélica de equação quando se considera 
+  
+    
+      
+        
+          
+            Δ
+          
+          
+            p
+          
+        
+        =
+        0
+      
+    
+    {\displaystyle {\Delta }_{p}=0}
+   e calcula-se 
+  
+    
+      
+        p
+      
+    
+    {\displaystyle p}
+  . É evidente que quando um alelo dominante é vantajoso sua freqüência igual a 1, significando que esse alelo é fixado e o recessivo deletério é eliminado.
+Porém, quando um alelo deletério se torna raro ∆q é muito pequeno, dessa forma o processo de eliminação é vantajoso, pois o alelo ocorrerá também em heterozigose. O alelo dominante mascara o deletério, e ele permanece na população em baixa freqüência.
+Alelos deletérios dominantes são raros na população, pois eles são eliminados mais rápidos, mas alelos raros vantajosos aumentam de freqüência rapidamente, portanto um fenótipo vantajoso que surge por mutações, a mutação dominante tem mais probabilidade de ser fixada do que uma mutação recessiva.
+Conforme um fenótipo vantajoso aumenta de freqüência na população há um aumento também no valor adaptativo médio,que é aproximadamente igual à vicariância genética aditiva no valor adaptativo, que é proporcional à freqüência de heterozigotos. Essa relação é denominada “teorema fundamental da seleção natural” e foi estabelecida por R.A Fischer.
+
+
+== Uso da seleção direcional na genética quantitativa ==
+
+
+=== Seleção direcional em populações artificiais ===
+A seleção direcional tem sido muito estudada através de experimentos com seleção artificial (endocruzamentos a fim de selecionar uma característica desejável). Por meio da seleção artificial, são separados indivíduos portadores condições que se pretende selecionar e promove-se o intercruzamento entre esses indivíduos; nas gerações seguintes faz o mesmo tipo de seleção. Genes responsáveis pelas condições escolhidas aumentam de freqüência e tem tendência a entrar em homozigose. Ao longo dos cruzamentos a população, com a característica selecionada, perde a variabilidade genética já que o genótipo dos indivíduos da população cada vez mais semelhantes.
+Quando o objetivo é elevar um valor adaptativo pode-se utilizar a seleção truncada, que é um método de seleção. Através desse método é possível selecionar indivíduos com características de maior aptidão que serão intercruzados para a obtenção de uma geração secundária.
+Através da geração parental e geração secundária é possível calcular o valor adaptativo da nova geração e medir a resposta à seleção e a herdabilidade da prole. É possível obter o valor adaptativo da geração seguinte utilizando a fórmula da resposta à seleção e com essa mesma expressão pode-se encontrar o desvio médio dos progenitores selecionados (s) a partir da média da população parental.
+A população só atende a seleção artificial até quando durar a sua variabilidade genética. Em um experimento com milhos em Illinois, foram selecionados em laboratório, indivíduos com pouca produção de óleo e muita produção de óleo. Em uma estimativa do experimento previu-se que após 90 gerações a resposta a seleção continuaria, porém na linhagem com pouco conteúdo de óleo, o conteúdo de óleo se tornaria muito baixo, e esse experimento decairia após 87 gerações.
+O experimento “elevado conteúdo” de óleo continuaria, porém também chegaria ao fim. Os genótipos selecionados para um aumento no conteúdo de óleo aumentariam de freqüência e substituiriam os de pouco conteúdo de óleo, até chegar ao ponto em que toda a população possuíria o mesmo genótipo para o conteúdo de óleo. Isso acarretaria em nenhuma variância nos loci que controlam o conteúdo de óleo e a herdabilidade terá sido reduzida para zero e a resposta à seleção artificial chegará ao fim. 
+O que ocorreu na realidade foi que nesse experimento a herdabilidade nas duas linhagens diminuiu no início do experimento, mas se manteve constate em cerca de 65 gerações.
+As populações continuaram respondendo a seleção artificial, pois a herdabilidade estava acima de zero.
+No caso de outro experimento feito com populações de mosca-de-fruta que levava ao aumento das cerdas estelares através da seleção direcional, a variância genética chegou à zero. Contudo observou-se que a seleção continuava a agir mesmo depois de a resposta a seleção ter parado. Depois de certo intervalo de tempo, a população começou novamente a responder a seleção, isso se deve a eventos de recombinação ou mutação que introduziram novas variações genéticas dentro da população.
+
+
+=== Seleção direcional em populações naturais ===
+
+Durante um longo período pode-se medir uma característica, por exemplo, o tamanho do bico em uma população de um pássaro, e fazer testes com a seleção direcional. Através desses testes é possível estimar a resposta a seleção fazendo medições durante um determinado período de tempo (anos) e também estimar a herdabilidade dessa população. Quanto mais a seleção estiver atuando mais forte será o diferencial de seleção.
+Se indivíduos melhores adaptados e que forem muito diferentes dos indivíduos médios na população, a seleção será forte e o diferencial de seleção 
+  
+    
+      
+        (
+        S
+        )
+      
+    
+    {\displaystyle (S)}
+   será grande. Se a seleção for fraca, indivíduos bem sucedidos serão mais como uma amostra aleatória da população como um todo e 
+  
+    
+      
+        S
+      
+    
+    {\displaystyle S}
+   será pequeno. Como exemplo tem-se os tendilhões de Darwin, que dentro da genética quantitativa, mantiveram a relação com a herdabilidade, o diferencial de seleção e a resposta à seleção.
+Porém em outros estudos não ocorreu esses três parâmetros não se encaixaram nos moldes da genética quantitativa. Nesses estudos características sujeitas à seleção direcional, detectou-se que havia herdabilidade, porém ela não apresentava resposta evolutiva.
+
+
+== Exemplos de seleção direcional ==
+
+
+=== Resistência de bactérias à antibióticos ===
+Um bom exemplo de seleção direcional são bactérias que desenvolvem resistência a antibióticos. Os antibióticos agem seletivamente e favorecem bactérias resistentes ( que surgem por mutações). Bactérias sensíveis aos remédios morrem e as mais resistentes persistem e se proliferam originando grandes linhagens resistentes.
+É preciso lembrar que as bactérias não sofrem mutações pelo antibiótico ou para resistir a ele, pois no processo evolutivo não há intenção de criar uma mutação específica que supra uma necessidade imediata. A mutação surge ao acaso e por sorte essa mutação é vantajosa para uma população de bactérias, o que lhe proporciona maior adaptação em relação às que são sensíveis ao antibiótico.
+A única função do antibiótico é selecionar bactérias resistentes e eliminar as sensíveis.
+
+
+=== Resistência de insetos à inseticida ===
+
+Em uma população de insetos em que a grande parte é sensível a um determinado inseticida, alguns indivíduos contêm uma característica que os fazem resistentes. Essa resistência é conferida por genes mutantes que confere uma condição favorável ao ambiente em que o inseticida seja inserido.
+No caso de os insetos estarem em um ambiente em que tenha o inseticida, haverá uma grande queda da população,devido a alta mortalidade dos insetos sensíveis. Os insetos resistentes sobrevivem e continuam a se reproduzir originando uma prole com a mesma resistência. Dessa forma a população será adaptada ao inseticida, pois pelo processo da seleção direcional o genótipo favorável foi fixado na população.
+
+
+=== Melanismo Industrial ===
+Um exemplo de seleção direcional em populações naturais é o caso das mariposas Biston betularia na inglaterra. Através das coleções de museus foi possível verificar que houve um aumento na freqüência da mariposas da cor escura, cerca de uma para mais de 90% em algumas áreas em menos de um século desde a Revolução Industrial.
+Nas Biston o alelo para cor negra não é totalmente dominante sobre o alelo para cor cinza. Viu-se que a partir da taxa de variação da freqüência alélica, pode ser calculado que a forma negra tem mais vantagem seletiva em algumas áreas de pelo menos 50%. Em outros estudos foi descoberto que há uma diferença na suscetibilidade à predação por pássaros.
+Esse exemplo do “melanismo industrial” em B. betularia é um exemplo da rápida mudança evolucionária em resposta à alteração humana do ambiente.
+
+
+=== Seleção direcional e a resistência nas plantas ===
+
+Nos arredores de minas de exploração de metais, algumas plantas se tornaram resistentes a metais pesados e tóxicos e espécies de ervas daninhas desenvolveram resistência à herbicidas.
+Essa resistência é atribuída a ação conjunta de vários genes. Se um único gene for substituído a Amaranthus hibridus, se torna resistente à triazina (herbicida).
+O processo de fotossíntese é inibido por esse herbicida, que se liga a um polipeptídio de 317 aminoácidos na membrana do cloroplasto. A resistência se deve a troca de um nucleotídeo que troca a serina por glicina no polipeptídio da forma resistente das ervas daninhas, o genótipo que lhe confere resistência,  a seleção agirá para que esse fenótipo seja mantido ao longo das gerações.
+
+
+=== Salmão rosado ===
+
+Os salmões rosa (Onchorhynchus gorbuscha), do noroeste do Pacífico, vem apresentando um decréscimo no tamanho corporal a alguns anos. Em 1945, os pescadores começaram a ser pagos pelo peso, em vez que por indivíduo, de salmão apanhado e, por isso, aumentaram o uso de um tipo de rede que seletivamente apanha peixes maiores.
+A seletividade dessa técnica de pesca pode ser demonstrada comparando-se o tamanho médio dos salmões apanhados por esse método com aquele dos salmões apanhados por uma técnica não-seletiva.
+Portanto depois que essa técnica pesca foi introduzida, salmões menores passaram a ter uma chance maior de sobrevivência. A seleção favoreceu ao menor tamanho na população do salmão foi intensa, pois o esforço de pesca é altamente eficiente, pois o tamanho médio dos salmões diminuiu em torno de um terço nos 25 anos seguintes.
+
+
+=== Seleção direcional em caracóis ===
+
+Pesquisadores chilenos observaram que a seleção natural direcional poderia estar atuando em caracóis desacelerando ainda mais seu metabolismo. Animais que gastam menos energia no seu metabolismo basal podem alocar mais para reprodução e sobrevivência. Isto é, gasto menos com as funções mais básicas, para gastar com algo que aumente meu fitness.
+Eles mediram o tamanho das conchas de 100 indivíduos de caracóis de jardins (Helix aspersa) e avaliaram a taxa padrão metabólica (metabolismo do animal em repouso). Essa taxa é medida analisando a quantidade de 
+  
+    
+      
+        C
+        
+          O
+          
+            2
+          
+        
+      
+    
+    {\displaystyle CO_{2}}
+   produzida pelo caracol em repouso, assim, podem inferir a quantidade de energia mínima que o animal gasta para se manter vivo.
+Depois de 7 meses, ele recapturaram os indivíduos vivos e as conchas dos mortos. Deste modo, puderam observar que o tamanho da concha não predizia bem quais animais sobreviveriam, mas a taxa padrão metabólica sim. Os sobreviventes tinham taxas metabólicas 20% menores do que os que morreram. Os pesquisadores concluíram que a seleção natural estaria selecionando os caracóis mais eficientes no uso de sua energia.
+
+
+== Ver Também ==
+
+
+== Referências ==

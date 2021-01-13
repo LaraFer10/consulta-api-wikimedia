@@ -1,0 +1,67 @@
+O coronavírus da síndrome respiratória aguda grave 2 (SARS-CoV-2) (em Inglês: Severe acute respiratory syndrome coronavirus 2), inicialmente denominado provisoriamente de "2019-nCoV" (em Inglês: 2019 novel coronavirus), por vezes denominado "coronavírus de Wuhan", ou "vírus da COVID-19", é um vírus ARN de cadeia simples positiva (genoma linear). É contagioso entre seres humanos e é a causa da doença COVID-19, da qual existe uma pandemia em curso.A Organização Mundial de Saúde (OMS) considera que morcegos são o reservatório natural mais provável do vírus, embora algumas diferenças entre os vírus encontrados em morcegos e os encontrados em seres humanos sugiram que os humanos foram infetados através de um hospedeiro intermédio. As primeiras infeções conhecidas foram descobertas na cidade de Wuhan (província de Hubei, China) em dezembro de 2019.
+
+
+== História ==
+
+
+=== Hipóteses sobre a origem ===
+Apesar da estirpe ter sido descoberta em Wuhan, ainda não é claro qual foi a fonte original de transmissão viral para os seres humanos, nem quando é que a estirpe se tornou patogénica (produzir doenças infecciosas nos hospedeiros). O vírus da COVID-19 apresenta proximidade genética com os coronavírus encontrados em morcegos, dos quais provavelmente originou-se. Uma sequência de ácido nucleico em morcegos da espécie Rhinolophus affinis recolhida na província de Yunnan, também na China,  revelou uma semelhança de 96% em relação ao SARS-CoV-2. Mas, pensa-se que antes de ser introduzido aos seres humanos tenha também estado envolvido um reservatório animal intermédio, como o pangolim. Do ponto de vista taxonómico, este vírus está classificado como estirpe da espécie de coronavírus relacionado com a síndrome respiratória aguda grave (SARS-CoV).Em 7 de fevereiro de 2020, investigadores na cidade de Guangzhou (província de Guangdong, China) descobriram uma amostra de pangolim com uma sequência de ácido nucleico 99% idêntica ao SARS-CoV-2, com a diferença apenas de um aminoácido. Embora a lei chinesa proteja esses mamíferos, ainda é comum seu comércio ilegal para uso na medicina tradicional chinesa. Também no estado do Texas (Estados Unidos), microbiólogos e geneticistas encontraram evidências de rearranjo em coronavírus, o que sugere o envolvimento de pangolins na origem do SARS-CoV-2. No entanto, os coronavírus em pangolins encontrados até hoje partilham apenas 92% do genoma com o SARS-CoV-2, o que é insuficiente para provar que os pangolins sejam o hospedeiro intermédio. Em comparação, o vírus SARS responsável pelo surto de 2002-2004 partilhava 99,8% do seu genoma com os coronavírus da civeta.Devido a descoberta ter sido em Wuhan, é por vezes denominada "vírus de Wuhan" ou "coronavírus de Wuhan", embora a Organização Mundial de Saúde (OMS) desaconselhe a utilização de nomes baseados na localização. Para evitar confusão com a doença síndrome respiratória aguda grave (SARS), em comunicados públicos  a OMS por vezes refere-se ao vírus como "vírus responsável pela COVID-19" ou "vírus da COVID-19". Tanto o vírus como a doença são muitas vezes denominados "coronavírus" ou "novo coronavírus" pelo público em geral, embora cientistas usem termos mais precisos.
+
+
+== Virologia ==
+
+
+=== Infecção ===
+A transmissão do SARS-CoV-2 entre seres humanos foi confirmada pela primeira vez durante a pandemia de coronavírus de 2019-20. A principal forma de transmissão são gotículas produzidas no sistema respiratório e expulsas ao tossir ou espirrar até um raio de 1,8 m. Outra possível causa de infeção é o contacto indireto através de superfícies contaminadas. A investigação preliminar sugere que o vírus possa permanecer ativo em plástico e aço até três dias, embora não consiga sobreviver em cartão mais do que um dia ou em cobre mais do que quatro horas. Foi também observado ARN viral em fezes de pacientes infetados.Ainda não é claro se o vírus é infecioso durante o período de incubação. Em 1 de fevereiro de 2020 a OMS indicava que "a transmissão a partir de casos assintomáticos provavelmente não é uma das principais formas de transmissão". Acredita-se que a maior parte das infeções em seres humanos seja o resultado de transmissão entre pessoas que manifestam sintomas de COVID-19. No entanto, um modelo epidemiológico do início do surto na China sugere que a transmissão pré-sintomática pode ser típica entre as infeções documentadas.Um estudo publicado em janeiro de 2021, indica que mais de metade dos contágios pelo novo coronavírus poderá ser provocado por transmissão assintomática. Apesar de sem ser possível obter números exatos, é estimado que 59 por cento dos contágios podem ser provocados quer por pessoas antes de desenvolverem sintomas (35%), quer por pessoas que, embora infetadas, nunca vêm a ter sintomas.
+
+
+=== Reservatório ===
+
+A OMS considera serem os morcegos o mais provável reservatório natural de SARS-CoV-2, embora algumas diferenças entre os coronavírus dos morcegos e o SARS-CoV-2 sugiram que os seres humanos foram infetados através de um hospedeiro intermédio. Embora já se tenha determinado que a estirpe é de origem natural. A investigação do reservatório natural da estirpe de vírus que causou a pandemia de SARS em 2002-2004 permitiu a descoberta de diversos coronavírus semelhantes à SARS em morcegos, a maior parte com origem no género Rhinolophus dos morcegos-de-ferradura, e duas sequências de ácido nucleico encontradas em amostras de Rhinolophus sinicus revelaram uma semelhança de 80% em relação ao SARS-CoV-2. Outra sequência de Rhinolophus affinis recolhida em Yunnan revelou uma semelhança de 96%.Um estudo metagenómico publicado em 2019 concluiu que o SARS-CoV, a estirpe que causa a SARS, era o coronavírus com maior distribuição entre uma amostra de pangolins-malaio. Em 7 de fevereiro de 2020, foi anunciado que investigadores de Guangzhou tinham descoberto uma amostra de pangolim com uma sequência de ácido nucleico 99% idêntica ao SARS-CoV-2, com a diferença apenas de um aminoácido.Em paralelo, microbiólogos e geneticistas no Texas encontraram evidências de rearranjo em coronavírus, o que sugere o envolvimento de pangolins na origem do SARS-CoV-2. No entanto, os coronavírus em pangolins encontrados até hoje partilham apenas 92% do genoma com o SARS-CoV-2, o que é insuficiente para provar que os pangolins sejam o hospedeiro intermédio. Em comparação, o vírus SARS responsável pelo surto de 2002-2004 partilhava 99,8% do seu genoma com os coronavírus da civeta.
+
+
+=== Filogenética e taxonomia ===
+O SARS-CoV-2 pertence a uma grande família de vírus denominada coronavírus. É um vírus ARN de cadeia simples positiva (+ssRNA). Os coronavírus têm a capacidade de causar várias doenças em seres humanos, desde a simples constipação até doenças mais graves como a síndrome respiratória do Médio Oriente (MERS). O SARS-CoV-2 é o sétimo coronavírus conhecido a poder infetar seres humanos, sendo os restantes o 229E, NL63, OC43, HKU1, MERS-CoV e o SARS-CoV original.Tal como a estirpe que causou o surto de SARS em 2003, o SARS-CoV-2 é um membro do sub-género Sarbecovirus (betacoronavírus linhagem B). A sua sequência de ARN tem o comprimento de aproximadamente 30 000 nucleobases. No entanto, o SARS-CoV-2 é o único dos coronavírus a incorporar um local de clivagem polibásico, uma característica que se sabe aumentar a patogenicidade e ritmo reprodutivo de outros vírus.A partir de um número suficiente de genomas sequenciados, é possível reconstruir a árvore filogenética do historial de mutações de uma família de vírus. Em 12 de janeiro de 2020 foram isolados em Wuhan cinco genomas de SARS-CoV-2. Em 30 de janeiro de 2020 eram conhecidos 42 genomas. Uma análise filogenética dessas amostras revelou estarem relacionados até sete mutações com um ancestral comum, o que significa que a primeira infeção em seres humanos ocorreu em novembro ou dezembro de 2019. Em 13 de março de 2020 estavam já amostrados e disponíveis publicamente 410 genomas de SARS-CoV-2.Em 11 de fevereiro de 2020, o Comité Internacional de Taxonomia de Vírus anunciou que, de acordo com as regras vigentes que determinam as relações hierárquicas entre os coronavírus com base nas sequência conservadas dos ácidos nucleicos, as diferenças entre o SARS-CoV-2 e o SARS-CoV responsável pelo surto de SARS eram insuficientes para serem classificados como duas espécies virais diferentes. Desta forma, o SARS-CoV-2 foi classificado como estirpe dos coronavírus associados à síndrome respiratória aguda (SARS-CoV).
+
+
+=== Biologia estrutural ===
+
+Cada virião de SARS-CoV-2 mede aproximadamente 50–200 nanómetros de diâmetro. Tal como outros coronavírus, o SARS-CoV-2 tem quatro proteínas estruturais, conhecidas como proteínas S (spike), E (envelope), M (membrana) e N (nucleocapsídeo). A proteína N contém o genoma ARN e em conjunto as proteínas S, E e M criam o envelope viral. A proteína S é a proteína que permite ao vírus ligar-se à membrana celular de uma célula hospedeira.As primeiras experiências de modelação de proteínas na proteína S do vírus sugeriram que o SARS-CoV-2 tinha suficiente afinidade com os receptores de Enzima conversora da angiotensina 2 (ACE2) nas células humanas para as usar como mecanismo de penetração celular. Em 22 de janeiro de 2020, um grupo chinês e um grupo norte-americano, de forma independente, conseguiram demonstrar experimentalmente que a ACE2 podia ser o receptor do SARS-CoV-2. Vários estudos têm demonstrado que o SARS-CoV-2 tem uma maior afinidade com a ACE2 humana do que a estirpe de SARS original. O SARS-CoV-2 pode também usar a proteína basigina para penetrar nas células do hospedeiro. Para a penetração do SARS-CoV-2 também é fundamental o priming inicial da proteína S através de TMPRSS2. O SARS-CoV-2 produz pelo menos três fatores de virulência que promovem a libertação de novos viriões das células hospedeiras e inibem a resposta imunitária.
+
+
+== Epidemiologia ==
+
+Com base na baixa variabilidade verificada entre as sequências genómicas conhecidas de SARS-CoV-2, pensa-se que a estirpe tenha sido detectada pelas autoridades apenas poucas semanas após ter emergido entre a população humana no fim de 2019. O caso mais antigo de infeção humana de que se tem conhecimento data de 17 de novembro de 2019. Posteriormente, o vírus espalhou-se para todas as províncias da China e mais de cem países em todos os continentes. Em todos os continentes foram confirmadas transmissões entre seres humanos. Em 30 de janeiro de 2020, a OMS declarou o SARS-CoV-2 uma Emergência de Saúde Pública de Âmbito Internacional, e em 11 de março uma pandemia.À data de 9 de janeiro de 2021 a pandemia tinha resultado em 88 821 629 casos confirmados de infeção em todo o mundo, dos quais 1 911 637 tinham resultado em morte e 49 370 264 tinham recuperado. Embora a proporção de infeções que resulta em infeções confirmadas ou que evolui para doença diagnosticável permaneça incerta, um modelo matemático estimou que o número de pessoas infetadas apenas em Wuhan em 25 de janeiro de 2020 tenha sido de 75 815, data em que as infeções confirmadas eram bastante inferiores.Estima-se que o número básico de reprodução (
+  
+    
+      
+        
+          R
+          
+            0
+          
+        
+      
+    
+    {\displaystyle R_{0}}
+  ) do SARS-CoV-2 seja de entre 1,4 e 3,9. Isto significa que é esperado que cada infeção pelo vírus resulte em 1,4 a 3,9 novas infeções quando nenhum membro da comunidade é imune e não é tomada nenhuma medida preventiva.
+
+
+== Ver também ==
+Pesquisa de vacina para COVID-19
+Lista de vírus
+
+
+== Referências ==
+
+
+=== Bibliografia ===
+Brüssow H (março de 2020). «The Novel Coronavirus – A Snapshot of Current Knowledge». Microbial Biotechnology. 2020: 1–6. PMID 32144890. doi:10.1111/1751-7915.13557 
+Habibzadeh P, Stoneman EK (fevereiro de 2020). «The Novel Coronavirus: A Bird's Eye View». The International Journal of Occupational and Environmental Medicine. 11 (2): 65–71. PMID 32020915. doi:10.15171/ijoem.2020.1921 
+World Health Organization (2 de março de 2020). Laboratory testing for coronavirus disease 2019 (COVID-19) in suspected human cases: interim guidance, 2 March 2020 (Relatório). World Health Organization. hdl:10665/331329. WHO/COVID-19/laboratory/2020.4. License: CC BY-NC-SA 3.0 
+
+
+== Ligações externas ==
+
+OMS sobre o novo coronavírus (em inglês)
+Um guia do novo coronavírus da Revista Pesquisa FAPESP

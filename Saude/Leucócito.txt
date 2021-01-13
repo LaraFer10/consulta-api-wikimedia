@@ -1,0 +1,81 @@
+Os leucócitos, também chamados de glóbulos brancos, são um grupo heterogêneo de células do sistema imunológico que executam a resposta imune, intervindo na defesa do corpo contra substâncias estranhas ou agentes infecciosos. Todos os leucócitos são produzidos a partir da diferenciação de células-tronco oriundas da medula óssea. São as únicas células sanguíneas encontradas em todo o corpo, incluindo o sangue, linfa, órgãos linfoides e vários tecidos conjuntivos.
+Os leucócitos são células nucleadas, o que os diferencia das outras células sanguíneas, os glóbulos vermelhos e as plaquetas. Os glóbulos brancos compreendem um grande grupo de células que se apresenta numa grande variedade de formas, tamanhos, número e funções específicas. 
+Os diferentes tipos de glóbulos brancos são classificados de maneiras padronizadas; dois pares de categorias mais amplas classificam-nos por estrutura (granulócitos ou agranulócitos) ou por linhagem celular (células mieloides ou células linfoides). Essas categorias mais amplas podem ser divididas em cinco tipos principais: neutrófilos, eosinófilos, basófilos, linfócitos e monócitos,sendo que o primeiro e o último grupo são constituídos por células fagocíticas.
+Em média, um humano adulto saudável possui entre 3 800 e 9 800 mil leucócitos por microlitro (milímetro cúbico) de sangue.
+
+
+== Etimologia ==
+Os leucócitos, do grego λευκός, leukós (branco) + κύτος, kýtos (célula), são também chamados de glóbulos brancos. O nome "glóbulo branco" deriva da aparência física de uma amostra de sangue após centrifugação. As células brancas são encontradas no buff, uma camada fina, tipicamente branca, de células nucleadas entre os glóbulos vermelhos sedimentados e o plasma sanguíneo.
+
+
+== Tipos de leucócitos ==
+
+
+=== Visão geral ===
+
+
+=== Neutrófilos ===
+
+Os neutrófilos são os glóbulos brancos mais abundantes, constituindo 60-70% dos leucócitos circulantes, e incluindo duas subpopulações funcionalmente desiguais: os eliminadores de neutrófilos e os neutrófilos. 
+Os neutrófilos se defendem contra infecções bacterianas ou fúngicas. Geralmente são os primeiros a responder à infecção microbiana; sua atividade e morte em grande número formam pus. Eles são comumente referidos como leucócitos polimorfonucleares (PMN), embora, no sentido técnico, PMN se refira a todos os granulócitos. Eles têm um núcleo multilobulado, que consiste em três a cinco lobos conectados por fios delgados. Isso dá aos neutrófilos a aparência de ter múltiplos núcleos, daí o nome leucócito polimorfonuclear. O citoplasma pode parecer transparente devido aos grânulos finos, que são lilases claros quando manchados. 
+Os neutrófilos são ativos na fagocitose de bactérias e estão presentes em grande quantidade no pus das feridas. Essas células não são capazes de renovar seus lisossomos (usados na digestão de micróbios) e morrem após ter fagocitado alguns patógenos. Os neutrófilos são o tipo de célula mais comum observado nos estágios iniciais da inflamação aguda. A média de vida dos neutrófilos humanos inativados na circulação foi relatada por diferentes abordagens entre 5 e 135 horas.
+
+
+=== Eosinófilos ===
+
+Os eosinófilos constituem cerca de 2-4% do total de leucócitos. Essa contagem varia ao longo do dia, sazonalmente e durante a menstruação. Ele aumenta em resposta a alergias, infecções parasitárias, doenças do colágeno e doenças do baço e do sistema nervoso central. Eles são raros no sangue, mas numerosos nas membranas mucosas dos tratos respiratório, digestivo e urinário inferior. Eles lidam principalmente com infecções parasitárias. Os eosinófilos também são as células inflamatórias predominantes nas reações alérgicas. 
+As causas mais importantes de eosinofilia incluem alergias como asma, febre do feno e urticária; e também infecções parasitárias. Eles secretam substâncias químicas que destroem esses grandes parasitas, como ancilóstomos e tênias, que são grandes demais para fagocitar qualquer um dos leucócitos. Em geral, seu núcleo é bi-lobado. Os lóbulos são conectados por uma fita fina. O citoplasma está repleto de grânulos que assumem uma cor rosa-alaranjada característica com coloração de eosina.
+
+
+=== Basófilos ===
+
+Os basófilos são os principais responsáveis pela resposta alérgica e antigênica, liberando a histamina química que causa a dilatação dos vasos sanguíneos. Como são os mais raros dos leucócitos (menos de 0,5% da contagem total) e compartilham propriedades físico-químicas com outras células sanguíneas, eles são difíceis de estudar. Eles podem ser reconhecidos por vários grânulos violáceos grosseiros e escuros, dando-lhes uma tonalidade azulada. O núcleo é biolobulado ou tri-lobulado, mas é difícil de ver por causa do número de grânulos grossos que o escondem.
+
+
+=== Linfócitos ===
+
+Os linfócitos são muito mais comuns no sistema linfático do que no sangue. Os linfócitos são diferenciados por terem um núcleo profundamente corado, que pode ser excêntrico na localização, e uma quantidade relativamente pequena de citoplasma. Os linfócitos incluem:
+
+Linfócito B: produz anticorpos que podem se ligar a patógenos, bloquear a invasão de patógenos, ativar o sistema complemento e aumentar a destruição de patógenos.
+Linfócito T:
+Linfócito T auxiliar CD4+: células T que apresentam o co-receptor CD4 são conhecidas como células T CD4+. Essas células têm receptores de células T e moléculas de CD4 que, em combinação, se ligam a peptídeos antigênicos apresentados nas moléculas de classe II do complexo principal de histocompatibilidade (MHC) em células apresentadoras de antígenos. As células T auxiliares produzem citocinas e executam outras funções que ajudam a coordenar a resposta imunológica. Na infecção pelo HIV, essas células T são o principal índice para identificar a integridade do sistema imunológico do indivíduo.
+Linfócito T citotóxico CD8+: células T exibindo co-receptor CD8 são conhecidas como células T CD8+. Essas células se ligam a antígenos apresentados no complexo MHC I de células infectadas por vírus ou tumorais e as matam. Quase todas as células nucleadas exibem MHC I.
+Linfócitos T gama/delta: possuem um receptor de células T alternativo (diferente do TCR αβ encontrado em células T CD4 + e CD8 + convencionais). Encontradas mais comumente no tecido do que no sangue, as células T γδ compartilham características das células T auxiliares, células T citotóxicas e células assassinas naturais.
+Linfócito T regulador: retorna o funcionamento do sistema imunológico à operação normal após a infecção; impede a autoimunidade
+Linfócito NKT: são capazes de matar células do corpo que não exibem moléculas de MHC de classe I, ou exibem marcadores de estresse, como a sequência A relacionada ao polipeptídeo de MHC de classe I (MIC-A). A expressão diminuída de MHC classe I e a regulação positiva de MIC-A podem ocorrer quando as células são infectadas por um vírus ou se tornam cancerosas.
+
+
+=== Monócitos ===
+
+Os monócitos, o maior tipo de leucócitos, compartilham a função de fagocitose dos neutrófilos, mas têm uma vida muito mais longa, pois têm uma função extra: apresentam pedaços de patógenos às células T para que os patógenos possam ser reconhecidos novamente e morto. Isso faz com que uma resposta de anticorpos seja montada. Os monócitos eventualmente deixam a corrente sanguínea e se tornam macrófagos do tecido, que removem os restos de células mortas e também atacam os microorganismos. Nem os restos de células mortas nem os microorganismos atacantes podem ser tratados de forma eficaz pelos neutrófilos. Ao contrário dos neutrófilos, os monócitos são capazes de substituir seu conteúdo lisossomal e acredita-se que tenham uma vida ativa muito mais longa. Eles têm o núcleo em forma de rim e são tipicamente agranulados. Eles também possuem citoplasma abundante.
+
+
+== Produção ==
+São fabricados na medula óssea a partir de células hematopoiéticas que se diferenciam em células precursoras mieloides (para os granulócitos, monócitos e macrófagos) ou linfoides (para linfócitos).
+No caso dos linfócitos: os linfócitos T4 migram para o timo, onde amadurecem, e os linfócitos B ficam na medula óssea para o mesmo efeito. Após serem linfócitos maduros migram para os órgãos linfoides secundários onde são armazenados. Estes órgãos são as adenoides, as tonsilas, o baço e os linfonodos que temos essencialmente nas axilas e nas virilhas.
+
+
+== Capacidades ==
+Os leucócitos também têm capacidades especiais. São capazes de realizar a diapedese, ou seja, migrarem para fora dos vasos capilares, e também conseguem capturar material estranho através de um processo chamado fagocitose. Na fagocitose, os leucócitos projetam as suas extremidades (pseudópodes) de modo a conseguirem "aprisionar" corpos estranhos e então fazer a digestão dos mesmos.
+
+
+== Doenças ==
+As duas categorias comumente usadas de distúrbios dos leucócitos os dividem quantitativamente em aqueles que causam números excessivos (distúrbios proliferativos) e aqueles que causam números insuficientes (leucopenias). A leucocitose é geralmente saudável (por exemplo, lutando contra uma infecção), mas também pode ser disfuncionalmente proliferativa. Os distúrbios proliferativos de leucócitos podem ser classificados como mieloproliferativos e linfoproliferativos. Alguns são autoimunes, mas muitos são neoplásicos.
+Além disso, podemos também dividir estes transtornos de forma qualitativa, sendo que se podem identificar diversos tipos de doenças que podem afetar o correto funcionamento destas células.A neoplasia de leucócitos pode ser benigna, mas costuma ser maligna. Dos vários tumores do sangue e da linfa, os cânceres de leucócitos podem ser amplamente classificados como leucemias e linfomas, embora essas categorias se sobreponham e sejam frequentemente agrupadas como um par.
+
+
+== Quantidade de leucócitos no sangue ==
+Geralmente, a quantidade de leucócitos num determinado volume de sangue é determinada automaticamente através de um contador celular computadorizado. Esses instrumentos fornecem a contagem leucocitária total, expressa como quantidade de células por mililitros de sangue, assim como a proporção de cada um dos cinco tipos principais de leucócitos. A contagem leucocitária total normalmente varia de 4 mil a 12 mil células por milímetro cúbico. Uma quantidade muito pequena ou muito grande de leucócitos indica um distúrbio.
+A leucopenia, uma diminuição na quantidade de leucócitos para menos de 4 000 células por microlitro, torna uma pessoa mais suscetível a infecções. A leucocitose, um aumento na quantidade de leucócitos, pode ser uma resposta a infecções ou substâncias estranhas, ou ser resultante do estresse ou de determinadas drogas.
+A maioria dos distúrbios dos leucócitos envolve os neutrófilos, os linfócitos, os monócitos e os eosinófilos. Distúrbios envolvendo os basófilos são muito raros.
+
+
+== Referências ==
+Vinay Kumar; et al. (2010). Robbins and Cotran pathologic basis of disease (8th ed.). Philadelphia, PA: Saunders/Elsevier. ISBN 1416031219.
+Kenneth Kaushansky et al., eds. (2010). Williams hematology (8th ed.). New York: McGraw-Hill Medical. ISBN 0071621512.
+Victor Hoffbrand - Fundamentos em Hematologia, 6ª Edição
+
+
+== Ligações externas ==
+
+Sangue, células sanguíneas, coagulação e imunidade

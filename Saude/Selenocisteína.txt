@@ -1,0 +1,18 @@
+A selenocisteína é um aminoácido incomum. Sua estrutura química é semelhante à cisteína, com um átomo de selênio no lugar do enxofre. Ela faz parte de certas proteínas, especialmente enzimas que usam o selênio como grupo prostético em reações de redução. A selenocisteína está presente em várias enzimas, como por exemplo as enzimas glutationa peroxidase, tetraiodotironina 5' desiodase, tiorredoxina redutase, formiato desidrogenase , glicina redutase e algumas hidrogenases. 
+
+
+== Nomenclatura ==
+O comitê conjunto das nomenclaturas da IUPAC / IUBMB tem recomendado oficialmente o símbolo de três letras Sec e o símbolo de uma letra U para selenocisteína [2]. 
+
+
+== Estrutura ==
+A selenocisteína tem uma estrutura semelhante à da cisteína, mas com um átomo de selênio no lugar do átomo de enxofre usual, formando um grupo selenol. Proteínas que contêm um ou mais resíduos de selenocisteína são chamados selenoproteínas. 
+
+
+== Biologia ==
+A selenocisteína ​​tem um pKa tanto menor e um maior potencial de redução que a cisteína. Estas propriedades a tornam muito adequada em proteínas que estão envolvidas na atividade anti-oxidante. Ao contrário de outros aminoácidos presentes nas proteínas biológicas, selenocisteína não é codificada diretamente no código genético. Em vez disso, ela é codificada de uma maneira especial por um códon UGA, que normalmente é um códon de parada. Quando as células são cultivadas na ausência de selênio, a tradução de selenoproteínas termina no códon UGA, resultando em uma enzima truncada, não-funcional. O códon UGA é feito para codificar selenocisteína pela presença de um elemento SECIS (Sequência de Inclusão de selenocisteína) no mRNA. O elemento é definido pelas seqüências características de nucleotídeos no SECIS e estrutura secundária de emparelhamento de base padrões. Em bactérias, o elemento SECIS está localizado logo após o códon UGA dentro do quadro de leitura para a selenoproteína. Em archaea e eucariotas, o elemento SECIS está na <<região não traduzida>> (3' os 3 UTR) do mRNA, e pode direcionar vários códons UGA para codificar os resíduos de selenocisteína. Ao contrário dos outros aminoácidos, selenocisteína livre não existe na célula. Sua alta reatividade incorreria danos às células. Em vez disso, as células armazenam selênio na forma de seleneto menos reativo (H2Se). A síntese de selenocisteína ocorre em um tRNA especializado, que também funciona para incorporá-lo em polipeptídeos nascentes. A estrutura primária e secundária do tRNA selenocisteína, tRNA (Sec), difere dos tRNAs padrão em vários aspectos, principalmente em ter um 8-base (bactérias) ou 10-base (eucariontes) tronco par receptor, uma região muito variável no braço, e substituições em várias posições de bases bem conservadas . Os tRNAs selenocisteína são inicialmente ligado a serina por seril-tRNA ligase, mas a resultante Ser-tRNA (Sec) não é usada para a tradução, porque não é reconhecida pelo fator de conversão normal (EF-Tu em bactérias, eEF1A em eucariotos). Em vez disso, o resíduo tRNA- seril é convertido para um resíduo de selenocisteína pela enzima selenocisteína sintase contendo o cofator fosfato de piridoxal. Finalmente, o Sec-tRNA(Sec) resultante é especificamente ligado a um fator de elongação alternativa translacional (Selb ou mSelB (aka eEFSec)), que o entrega em uma forma orientada para os ribossomos traduzindo mRNAs para selenoproteínas. A especificidade deste mecanismo de entrega é provocada pela presença de um domínio de proteína extra (em Selb bacteriana) ou uma subunidade extra (SBP2 para mSelB eucarióticas / eEFSec) que se ligam a estruturas secundárias  correspondentes no RNA formado pelos elementos SECIS em mRNAs que codificam selenoproteínas.
+
+
+== Ver também ==
+Pirrolisina
+Selenometionina

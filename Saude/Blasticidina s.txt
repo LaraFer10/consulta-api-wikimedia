@@ -1,0 +1,21 @@
+Blasticidina S é um antibiótico que é produzido por Streptomyces griseochromogenes. Na pesquisa biológica, especificamente naengenharia genética, ele é utilizado para selecionar células transformadas que foram projetados para transportar um gene com resistência à blasticidina. Em suma, o DNA de interesse é fusionado ao DNA que codifica um gene de resistência, e, em seguida, é transformado às células de interesse. Depois de dar tempo para a recuperação e para que as células comecem a transcrição e tradução de seus novos DNA, a blasticidina é adicionada. Agora somente as células que tem o novo DNA pode crescer.
+
+
+== História ==
+Na década de 1950, um programa de triagem de drogas foi desenvolvido no Japão para descobrir um novo antibiótico que impede a brusone do arroz pelo fungo Magnaporthe grisea.
+
+
+== Genes de resistência ==
+Três genes de resistência têm sido clonados:
+
+bls (acetiltransferase) a partir de Streptoverticillum sp.  que por si só produz blasticidina em um exemplo natural de guerra biológica
+bsr (blasticidina-S deaminase) de Bacillus cereus (outros genes bsr são também conhecidos - consulte as listagens no Genbank)
+BSD (deaminase) de Aspergillus terreusbsr e BSD são os genes de resistência mais utilizados. As proteínas produzidas a partir desses genes ativam as células, levando-as a produzir proteínas na presença da blasticidina.
+
+
+== Mecanismo de ação ==
+A Blasticidina impede o crescimento de células eucarióticas e procariontes. Ela funciona através da inibição do encerramento da tradução e da ligação peptídica (em menor grau) pelo ribossomo. Isto significa que as células não podem mais produzir novas proteínas através da tradução do mRNA.
+
+
+== Referências ==
+Taxonomia de Streptomyces griseochromogenes

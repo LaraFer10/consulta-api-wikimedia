@@ -1,0 +1,6 @@
+Todo organismo vivo possui um DNA, e toda molécula de DNA possui um mecanismo de reparação que evita que ocorram erros no momento da sua duplicação.
+Os mecanismos de reparação do DNA são guiados, principalmente, por proteínas codificadas pelo próprio DNA (entre as quais, a DNA-Polimerase é a principal). Estas proteínas reconhecem eventuais danos na seqüência de nucleotídeos durante o processo de replicação, e atuam promovendo a substituição da área danificada por uma semelhante à original. O processo possui uma margem de erro mínima, e evita que haja morte celular ou mutações decorrente de tais feridas.
+
+
+== Ver também ==
+Seqüência de DNA

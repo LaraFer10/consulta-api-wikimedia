@@ -1,0 +1,12 @@
+Concentração de Hemoglobina Corpuscular Média, abreviadamente CHCM (ou MCHC, do inglês Mean corpuscular hemoglobin concentration), é a concentração de hemoglobina em uma hemácia. Usualmente é medida em conjunto com outros dados (como VCM, HCM e RDW) sendo parte de um dos exames de  hemograma padrão. 
+Os valores considerados normais variam de 32 à 36 g/dl, mas sua interpretação depende da correlação de outros dados do exame para estabelecer um diagnóstico por um profissional de saúde.
+
+
+== Cálculo ==
+cHCM = HCM / VCM
+V.c. m 83.9
+H.c. m 29.1
+C. H. C.m. 34.7
+R.d.w.  14.5
+
+31,5 - 36,0

@@ -1,0 +1,16 @@
+O fosfolambano, também conhecido como PLN ou PLB, é uma proteína que, em humanos, é codificada pelo gene PLN.  O fosfolambano é uma proteína integral de membrana com 52 amino ácidos que participa da regulação de bombas de Ca2+ em células musculares cardíacas e esqueléticas.
+
+
+== Função ==
+Essa proteína é encontrada na forma de pentâmero e é um dos principais substratos da proteína cinase dependente de AMP cíclico (PKA) no músculo cardíaco. A proteína é um inibidor da Ca++-ATPase do músculo cardíaco ( do inglês "sarcoplasmic reticulum Ca++-ATPase", SERCA) quando desfosforilada, mas essa inibição é desmanchada quando o PLB é fosforilado. A ativação subsequente da bomba de Ca++ leva a intervalos menores entre contrações, contribuindo para a resposta lusitrópica gerada por agonistas beta. A proteína é , consequentemente, um fator de regulação chave do funcionamento cardíaco diastólico. Mutações no gene responsável por essa proteína são uma causa de uma forma hereditária de cardiomiopatia dilatada com insuficiência cardíaca congestiva refratária.Quando o PLB é fosforilado pela PKA, sua habilidade de inibir a  Ca++-ATPase do músculo cardíaco (SERCA) é perdida . Sendo assim, ativadores da PKA como o agonista beta epinefrina ( liberada por estimulação simpática, pode melhorar a taxa de relamento do músculo cardíaco (lusitropia). Além disso, visto que SERCA está mais ativado, o próximo potencial de ação irá causar uma liberação maior de cálcio, levando a maior contração (efeito inotrópico positivo). O efeito geral do fosfolambano não-fosforilado é, então, de diminuir a contratilidade cardíaca e a taxa de relaxamento muscular, diminuindo assim, respectivamente, o volume sistólico e a frequência cardíaca .
+
+
+== História ==
+O fosfolambano foi descoberto por Arnold Martin Katz e colaboradores em 1974.
+
+
+== Interações ==
+Já foi demonstrado que o PLB é capaz de interagir com SLN eATP2A1.
+
+
+== Referências ==

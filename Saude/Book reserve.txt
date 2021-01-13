@@ -1,0 +1,14 @@
+Sistema de Book reserve é um modelo de previdência complementar fechado, no qual as reservas financeiras que garantem benefícios previdenciários para um grupo de empregados são registradas na contabilidade do patrocinador. Neste tipo de fundo, os ativos são efetivamente investidos no negócio da empresa à qual os segurados estão ligados. Para garantir o pagamento dos benefícios estipulados no plano em caso da empresa passar por problemas operacionais e financeiros da empresa patrocinadora, os fundos book reserve devem necessariamente contratar seguros contra insolvência. A contratação deste seguro claramente irá aumentar os custos do plano.
+Esse sistema é necessariamente estruturado sob regime de capitalização, mas quando da contração de seguros assume as características de um regime financiado antecipadamente.
+Para empresa patrocinadora, esse arranjo apresenta como vantagem a formação de fundos para seu próprio financiamento e eventualmente melhora os fluxos de caixa, através de benefícios fiscais. O valor do seguro passa então a ser os "juros" pagos pela empresa pelo capital aportado no fundo.
+Estes sistema é adotado em países como a Alemanha e Áustria. O caso germânico é exemplo de rigor nos métodos e pressupostos para o cálculo das reservas. As reservar das seguradoras que operam oferecendo planos de cobertura para este sistema exigi planos e avaliações anuais para efeitos fiscais, contábeis e solvência.
+
+
+== Notas e referências ==
+
+IYER, Subramaniam. Matemática Atuarial de Sistamas de Previdência Social
+Encyclopedia of Actuarial Science
+
+
+== Ver também ==
+Previdência privada

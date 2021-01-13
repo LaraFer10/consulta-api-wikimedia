@@ -1,0 +1,16 @@
+O genoma e as proteínas do Vírus da Imunodeficiência Humana (VIH) têm sido objeto de ampla investigação desde a descoberta do vírus em 1983. Cada virião é constituído por um envelope viral ao qual está associada uma matriz que encerra uma cápside, que por sua vez encerra duas cópias do genoma ARN e várias enzimas. A descoberta do vírus ocorreu apenas dois anos depois de serem reportados os primeiros casos da doença associada ao vírus, a SIDA, em 1981.
+
+
+== Genoma ==
+O HIV tem muitos genes que codificam proteínas estruturais.
+
+Genes retrovírus gerais
+gag. proteínas derivadas do gag sintetizam o capsídeo viral em forma de cone (p24, i.e. proteína de 24 Quilo[[dáltons, CA) a proteína do núcleocapsídeo (p17, NC) e um proteína da matriz (MA).
+pol.  O gene pol codifica as proteínas enzimaticamente ativas do vírus. A mais importante é a chamada transcriptase reversa (RT) que realiza a única transcrição reversa do RNA viral em uma cadeia dupla de DNA. O último é integrado ao genoma do hospedeiro, ou seja, em um cromossomo de uma célula infectada de uma pessoa HIV-positiva pela integrase (IN) pol-codificadora. Além disso, a pol codifica uma protease viral específica (PR). Essa enzima cliva o gag e as proteínas derivadas de gag e pol em pedaços funcionais.
+env. env, abreviação para "envelope". As proteínas derivadas de env são uma membrana de superfície (gp120) e uma proteína transmembrana (gp41). Elas estão localizadas na parte externa da partícula viral, formando um envelope viral o qual permite que o vírus se anexe e incorpore às células-alvo para então iniciar o ciclo infeccioso. A gp possui uma estrutura semelhante a uma maçaneta.
+Genes específicos do HIV
+tat. Um porção da estrutura do RNA do HIV é uma estrutura como um grampo de cabelo que inicialmente impede que uma transcrição completa ocorra. Parte do RNA é transcrita (ie. antes da parte do grampo) e codifica a proteína tat. A tat liga-se à CdK9/CycT e a fosforila, ajudando a alterar sua forma e a eliminar o efeito da estrutura de grampo do RNA. Isso por si só aumenta a taxa de transcrição, fornecendo um ciclo de retroalimentação positiva. Isto permite que o HIV tenha uma resposta explosiva, uma vez que uma grande quantidade de tat é produzida.
+rev. A rev permite que fragmentos do mRNA do HIV que contém uma unidade de resposta a rev (RRE) sejam exportados do núcleo ao citoplasma. Na ausência da rev, a maquinaria de splicing do RNA no núcleo rapidamente cliva o RNA. Na presença da rev, o RNA é exportado do núcleo antes de ser clivado, num mecanismo de retroalimentação positiva.
+
+
+== Referências ==

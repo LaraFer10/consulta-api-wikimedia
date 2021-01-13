@@ -1,0 +1,19 @@
+KDEL é uma sequência-sinal de aminoácidos na estrutura de uma proteína que evita sua secreção do retículo endoplasmático (ER) através da recuperação de proteínas luminais do  ER a partir do complexo de Golgi através de transporte retrógrado. Proteínas com a sequência KDEL só são capazes de deixar o ER quando essa sequência é clivada.
+A abreviação KDEL é formada pelas letras correspondentes a cada aminoácido. Esse sistema de letras foi definido pela IUPAC e pela IUBMB em 1983, e, no caso, é aplicado da seguinte forma:
+
+K—Lisina
+D—Aspartato
+E—Glutamato
+L—LeucinaSendo assim, a sequência em código de três letras é:: Lys-Asp-Glu-Leu.
+
+
+== Ver também ==
+Retenção no ER
+Sequência KKXX
+Receptores de retenção de proteína no retículo endoplasmático
+KDELR1
+KDELR2
+KDELR3
+
+
+== Referências ==

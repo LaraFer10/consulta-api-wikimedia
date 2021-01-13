@@ -1,0 +1,23 @@
+Apesar dos longos intervalos entre refeições ou do consumo ocasional de refeições com uma carga pesada de carboidratos (por exemplo, metade de um bolo de aniversário ou um pacote inteiro de batatas fritas), o nível glicêmico em humanos normalmente fica dentro de uma faixa estreita de valores. Na maioria das pessoas, os valores variam de 70 mg/dL a talvez 110 mg/dL (3,9-6,1 mmol/L), exceto bem logo após de se alimentar, quando ocorre um aumento temporário da glicemia. Em homens adultos saudáveis de cerca de 75 kg e com um volume de sangue de 5 L, um nível glicêmico de 100 mg/dL ou 5,5 mmol/L corresponde a aproximadamente 5 g de glicose no sangue e aproximadamente 45 g na água total do organismo (neste caso, a água representa muito mais do que apenas sangue, já que o corpo humano é feito de 60% de água, em peso).
+Este efeito homeostático é resultado de vários fatores, sendo o mais importante a regulagem hormonal. Existem dois grupos de hormônios metabólicos de efeitos antagônicos que afetam o nível de glicose sangüíneo:
+
+hormônios catabólicos, por exemplo o glucagon, o hormônio do crescimento e as catecolaminas, que aumentam a glicemia, e;
+hormônios anabólicos - insulina -, que reduzem a glicemia.
+As células beta presentes nas ilhotas de Langerhans são sensíveis a variações na glicemia por causa dos seguintes mecanismos (veja a figura):
+
+A glicose entra nas células beta pelo transportador de glicose GLUT2
+A glicose passa por glicólise e pelo ciclo respiratório, onde são produzidas moléculas de ATP de alta energia por reações bioquímicas de oxidação
+Por ser dependente de ATP, que por sua vez originou-se de glicose proveniente do sangue, os canais de potássio controlados por ATP fecham-se e a membrana celular despolariza-se
+Sob despolarização, os canais de cálcio (Ca2+) controlados por voltagem elétrica abrem-se e os íons de cálcio fluem para dentro das células
+O aumento do nível de cálcio ocasiona a ativação da fosfolipase C, que corta o fosfolipídeo da membrana fosfatidil inositol 4,5-bifosfato em 1,4,5-trifosfato e diacilglicerol
+O inositol 4,5-bifosfato liga-se às proteínas receptoras no retículo endoplasmático. Isto aumenta ainda mais a concentração de cálcio no interior da célula
+O aumento significativo de cálcio na célula produz a liberação de insulina previamente sintetizada, que tinha sido armazenada em vesículas secretoras
+O nível de cálcio também controla a expressão do gene de insulina via proteína Ligante de Elemento Responsivo a Cálcio (em inglês, CREB)Este é o mecanismo principal de liberação de insulina e regulagem de síntese de insulina. Adicionalmente, certa parte da síntese e liberação de insulina ocorre geralmente durante o consumo de alimentos, não apenas sob a presença de glicose ou carboidratos no sangue, e as células beta são ainda influenciadas de alguma forma pelo sistema nervoso autônomo.
+A acetilcolina, liberada de terminações nervosas do nervo vago (sistema nervoso parassimpático), a colecistocinina, liberada por células enteroendócrinas da mucosa intestinal, e o peptídeo inibitório gastrointestinal são algumas substâncias que estimulam a liberação de insulina.
+O sistema nervoso simpático (agonistas adrenérgicos alfa-2) pode inibir a liberação de insulina.
+Quando a glicemia estabelece-se nos valores fisiológicos normais, cessa ou diminui a liberação de insulina a partir das células-beta. Se a glicemia cai abaixo desses valores, especialmente a valores perigosamente baixos, a liberação de hormônios hiperglicemiantes (principalmente glucagon, de células alfa) induz à disponibilização de glicose ao sangue. A liberação de insulina é fortemente inibida pelo hormônio do estresse, a adrenalina (epinefrina).
+
+
+== Ver também ==
+Glicemia
+Índice glicêmico

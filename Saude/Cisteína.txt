@@ -1,0 +1,44 @@
+A cisteína é um dos aminoácidos codificados pelo código genético, sendo portanto um dos componentes das proteínas dos seres vivos.
+
+
+== Estrutura ==
+O seu nome tem origem na palavra grega kustis, significando "bexiga", pois foi isolada inicialmente a partir de cálculos renais (sob a forma de cistina). A cisteína possui um grupo tiol na sua cadeia lateral e é principalmente encontrado em proteínas e no tripeptido glutationa. Quando exposto ao ar, e sob determinadas condições fisiológicas (incluindo no interior de proteínas), a cisteína oxida-se formando cistina, composta por duas cisteínas unidas por uma ligação dissulfureto.
+O grupo tiol possui carácter nucleofílico. Como o pKa deste grupo é de 8,3, a sua atividade química pode ser regulada pelo ambiente em que se enquadra.
+
+
+== Bioquímica ==
+Algumas proteínas com atividade biológica fortemente dependente de cisteínas incluem as ubiquitina ligases, que transferem ubiquitina para proteínas, e caspases, que participam na proteólise em apoptose celular. Outras proteínas que dependem de cisteínas no seu centro catalítico são a inteína e a ribonucleótido redutase. Estes papéis estão fundamentalmente limitados ao interior celular, cujo ambiente é tipicamente redutor, mantendo as cisteínas na sua forma reduzida (não oxidada a cistina).
+As cisteínas têm um papel fundamental na manutenção da estrutura terciária de proteínas. Ao formarem ligações dissulfureto entre os seus grupos tiol, aumentam a estabilidade molecular e a resistência à proteólise. A insulina é um exemplo deste tipo de ligações, pois é formada por dois péptideos ligados por duas destas ligações dissulfureto. A disposição das ligações dissulfureto em proteínas contidas no cabelo determina quão encaracolado o cabelo é.
+
+
+== Fontes alimentares ==
+Alimentos ricos em cisteína incluem pigmentos vermelhos, alho, cebola, bróculos, couve-de-bruxelas, aveia e gérmen de trigo. Não é, contudo, um aminoácido essencial: é sintetizado no organismo humano se existir uma quantidade disponível suficiente de metionina.
+A L-cisteína (o enantiómero naturalmente abundante da cisteína) pode ser produzida comercialmente a partir da proteólise em cabelo humano, penas e pêlos suínos. Existe algum debate sobre se o consumo de cisteína derivada de cabelo humano é ou não uma forma de canibalismo. O maior produtor mundial de cisteína é a China.
+Embora muitos aminoácidos estejam disponíveis já há bastante tempo através da fermentação, só em 2001 uma companhia alemã apresentou uma via fermentativa para a produção de L-cisteína, sem o recurso a produtos animais ou humanos.[carece de fontes?]A forma oxidada cistina é encontrada no soro de leite bovino inteiro (não tratado); esta forma é encontrada também no leite materno.
+
+
+== Aplicações ==
+A cisteína (particularmente a L-cisteína) é usada não só em investigação laboratorial mas também como suplemento alimentar, em produtos farmacêuticos e de cuidado pessoal. Uma das maiores aplicações é a produção de aromas. Por exemplo, a reacção de cisteína com açúcares, pela reação de Maillard, resulta num produto com gosto de carne. Também é usada industrialmente em pastelaria e padaria, em doses que não excedem as dezenas de ppm, para amaciar a massa, reduzindo o seu tempo de processamento.
+A N-acetilcisteína e a Carbocisteína, que são outras formas do aminoácido, dependendo da dose de Cisteína administrada, são usadas como mucolíticos, pois interfere com a formação de ligações dissulfureto em proteínas do muco, liquefazendo-o e tornando mais simples a sua expulsão. A N-acetilcisteína e a Carbocisteína são usados como suplementos alimentares tais como a cisteína.
+Diversos estudos demonstraram o importante papel da Cisteína em afecções Hepáticas Agudas com efeitos superiores ao SAME (S Adenosil Metionina) e da Silimarina. Isso ocorre porque o fígado é o principal orgão de filtração orgânica e o mesmo sempre recebe alta concentração de produtos tóxicos ou venenos em casos de intoxicação. O fígado é o órgão com maior reserva de glutationa celular em todo o organismo. A Glutationa é o principal antioxidante e marcador da saúde intracelular. Justamente esta Glutatina é consumida nos casos severos de afecções agudas hepáticas como intoxicações e envenenamentos. Ao consumir a Glutationa celular, a célula entra em processo de necrose. No caso, a Cisteína, utilizada numa dose 10 vezes superior à dose de efeito mucolítico, promove direcionamento deste excesso de Cisteína para o fígado o onde a mesma atua como sítio alternativo para interação com os metabólitos tóxicos, evitando assim a depleção da glutationa intracelular. Também a cisteína é o mais importante precursor da produção de glutationa.
+A cisteína é usada em produtos para o cabelo para fazer permanentes, especialmente na Ásia. Neste caso, são as ligações dissulfureto na queratina no cabelo quem sofre a ação interferente deste aminoácido.
+O gado ovino necessita de cisteína para produzir lã, sendo nestes organismos um aminoácido essencial. As ovelhas adquirem este aminoácido ao ingerir erva; como tal, a produção de lã cai ou pára totalmente em períodos de baixa disponibilidade de alimentos (como secas prolongadas). Foram já desenvolvidas ovelhas transgénicas que conseguem produzir cisteína, obviando a necessidade permanente da sua ingestão.
+Em investigação laboratorial, a cisteína é muitas vezes alvo em experiências de marcação biomolecular (labeling) para investigar aspectos estruturais e funcionais de proteínas que contenham este aminoácido. Por exemplo, é possível adicionar compostos como a maleimida, que forma ligações covalentes com cisteínas, ou usar labeling em EPR.
+Em 1994, um relatório preparado por cinco representativas marcas de cigarros apontou a cisteína como um dos 599 aditivos permitidos no fabrico de cigarros nos Estados Unidos da América[1]. A função da cisteína como aditivo em cigarros é desconhecida.
+
+
+== Ver também ==
+selenocisteína
+aminoácido
+ligação dissulfureto
+tiol
+
+
+== Ligações externas ==
+Informação bioquímica sobre a cisteína (em inglês)
+Artigo científico sobre a natureza hidrofóbica da cisteína (em inglês)
+Computational Chemistry Wiki (em inglês)
+
+
+== Referências ==
+↑ 1. Lista de aditivos de cigarros, autorizados nos EUA (em inglês)

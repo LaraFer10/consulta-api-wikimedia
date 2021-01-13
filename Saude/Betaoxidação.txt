@@ -1,0 +1,44 @@
+A ß oxidação é um processo catabólico de ácidos graxos que consiste na sua oxidação mitocondrial. Eles sofrem remoção, por oxidação, de sucessivas unidades de dois átomos de carbono na forma de acetil-CoA. Como exemplo pode ser citado o ácido palmítico, um ácido graxos de 16 carbonos, que vai sofrer sete reações oxidativas, perdendo em cada uma delas dois átomos de carbono na forma de acetil-CoA. Ao final desse processo os dois carbonos restantes estarão na forma de acetil-CoA.
+A ß oxidação é dividida em quatro reações sequenciais:
+
+Oxidação, na qual o acil-CoA é oxidado a enoil-CoA, com redução de FAD a FADH2
+Hidratação, na qual uma dupla ligação é hidratada e ocorre a formação de 3-hidroxiacil-CoA
+Oxidação de um grupo hidroxila a carbonila, tendo como resultado uma beta-cetoacil-CoA e NADH
+Cisão, em que o ß-cetoacil-CoA reage com uma molécula de CoA formando um acetil-CoA e um acil-CoA que continua no ciclo até ser convertido a acetil-CoA
+Mas quando a cadeia de ácidos graxos for ímpar, o produto final da β-oxidação será o propionil-CoA, esse composto, através da incorporação de CO2 e gasto energético através de quebras de ligações do ATP, se transforma em succinil-CoA, que é um composto do Ciclo de Krebs.
+Após a β-oxidação, os resíduos acetila do acetil-CoA são oxidados até chegarem a CO2, o que ocorre no ciclo do ácido cítrico. Os acetil-coa vindos da oxidação vão entrar nessa via junto com os acetil-coA provenientes da desidrogenação e descarboxilação do piruvato pelo complexo enzimático da piruvato desidrogenase. Nessa etapa haverá produção de NADH e FADH2 para suprir de elétrons a cadeia respiratória da mitocôndria, que os levará ao oxigênio. Junto a esse fluxo de está a fosforilação do ADP em ATP. Com isso a energia gerada na oxidação de ácidos graxos vai ser conservada na forma de ATP.
+
+
+== A ativação do ácido graxo ==
+A oxidação de ácidos graxos começa com a formação de uma ligação de tioéster entre o grupo carboxilo do grupo de ácido graxos e o tiol do CoA. Esta reação é catalisada pela acetil-CoA sintase. A reação pode ter lugar na mitocôndria. Este é o caso para os ácidos graxos de cadeia curta, que podem difundir-se através da membrana daquela organela. Para moléculas de cadeia longa, a reação tem lugar no folheto citoplasmático da membrana mitocondrial. A reação é acompanhada por hidrólise de uma molécula de ATP em AMP e pirofosfato. Esta reação é prontamente reversível: o pirofosfato é hidrolisado para que sua concentração citosólica seja baixa. Isto ajuda a dirigir a reação de ativação no sentido da formação do acetil-CoA. 
+
+
+== Saldo energético ==
+A oxidação de ácidos graxos produz muito mais energia que a oxidação de carboidratos. Uma molécula de palmitato, por exemplo, produz um saldo líquido de 108 ATPs, enquanto uma molécula de glicose produz apenas 32.
+
+
+== Similaridades entre beta-oxidação e ciclo do ácido cítrico mostradas como projeções de Fischer e como modelo poligonal ==
+As reações da beta oxidação e parte do ciclo dos ácido cítrico apresentam similaridades estruturais em três das quatro reações da beta oxidação: a oxidação por FAD, a hidratação e a oxidação por NAD+. Tal comparação pode ser feita observando as reações utilizando projeções de Fischer, e também de maneira bastante clara usando o modelo poligonal.  Cada enzima dessas etapas apresenta similaridades estruturais.
+
+
+== Formação de corpos cetônicos no humano ==
+Em situações de baixa concentração de glicose no sangue (como jejum prolongado) a β-oxidação é uma alternativa para a produção de energia (pois libera FADH2 e NADH).Consequentemente, há muita produção de acetil-CoA. O Ciclo de Krebs não consegue absorver todo esse substrato, estando prejudicado, uma vez que seus intermediários estão envolvidos na gliconeogênese. Essas moléculas de acetil-CoA se condensam , formando Corpos cetônicos, essa condensação acaba liberando Coenzima A, o que é essencial para que haja continuidade no Ciclo de Krebs. Essa produção ocorre principalmente no fígado, que por sua vez não possui a capacidade de degradar corpos cetônicos (evita ciclo fútil, pois nesse caso o fígado realizaria a síntese e a degradação desses corpos, e os outros órgãos do corpo não poderiam obter a energia da quebra dessas moléculas). Os corpos cetônicos podem ser usados como fonte de energia no cérebro em casos de desnutrição, nos quais a a disponibilidade de glicose é mínima.
+
+
+== Estrutura dos intermediários da cetogênese em projeções de Fischer e modelo poligonal ==
+	Os intermediários da reação de condensação de acetil CoA em projeções de Fischer mostram as mudanças químicas passo a passo. Tal imagem pode ser representada utilizando-se o modelo poligonal. 
+
+
+== Os tecidos extra-hepáticos usam os corpos cetônicos como combustíveis ==
+O D-β-hidroxibutirato é oxidado até acetoacetato pela D-β-hidroxibutirato desidrogenase nos tecidos extra-hepáticos. O acetoacetato é ativado para formar o éster da coenzima A por transferência do CoA do succinil-CoA, um intermediário do ciclo do ácido cítrico, numa reação catalisada pela β-cetoacil-CoA transferase. O acetoacetil-CoA é então clivado pela tiolase para liberar duas moléculas de acetil-CoA que entram no ciclo do ácido cítrico.
+
+
+== Estrutura dos intermediários da degradação de corpos cetônicos em projeção de Fischer e modelo poligonal ==
+Os intermediários de reação em projeção de Fischer mostram as mudanças químicas passo a passo. Tal imagem pode ser comparada à representação utilizando o modelo poligonal. 
+
+
+== Referências ==
+
+
+== Ligações externas ==
+«A lógica química do metabolismo de ácidos graxos»

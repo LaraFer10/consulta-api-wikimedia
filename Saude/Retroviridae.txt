@@ -1,0 +1,64 @@
+Retroviridae é uma família de vírus que possuem genoma constituído por RNA fita simples senso positivo e que replicam o RNA viral por meio de um processo denominado transcrição reversa, onde moléculas de DNA dupla fita (dsDNA) são geradas a partir de RNA, pela ação da enzima transcriptase reversa. Esta família viral pertence ao grupo VI (vírus ssRNA-RT) no Sistema de Classificação de Baltimore.  Ledy do Horto dos Santos Oliveira 
+
+
+== Ciclo viral dos retrovírus ==
+
+De maneira geral, o ciclo viral dos retrovírus ocorre da seguinte maneira:
+Transmissão: O vírus é levado (por algum meio) até uma célula compatível com seus recetores sítios de ligação;
+Adsorção: O vírus adere à célula hospedeira;
+Injeção: O vírus injeta seu RNA e enzimas virais dentro da célula hospedeira;
+Eclipse: O vírus, através da enzima transcriptase reversa, sintetiza DNA a partir do seu RNA, e liga esse DNA ao DNA da célula hospedeira. Ainda durante a Eclipse, o DNA celular produz as proteínas e outras substâncias da cápsula viral;[carece de fontes?]
+Retrotranscrição: A síntese de DNA (ssDNA senso negativo) a partir do genoma viral (ssRNA senso positivo) ocorre por intermédio da enzima viral transcriptase reversa, uma DNA polimerase RNA-dependente que catalisa esta reação. O DNA produzido pode se integrar ao genoma celular, onde será transcrito e codificará mRNAs e novos RNAs virais. Estes processos são mediados pela ação de uma RNA polimerase DNA-dependente celular, que transcreve o provírus integrado ao genoma hospedeiro;
+Liberação: os novos retrovírus formados dentro da célula hospedeira saem dela. Esse processo pode ser lítico (quando, devido ao grande número de vírus, a célula se rompe) ou lisogênico (os vírus saem da célula sem rompê-la).[carece de fontes?]
+
+
+== Classificação ==
+Os seguintes gêneros são incluídos dentro da família Retroviridae :
+Alpharetrovirus; espécies: vírus da leucemia aviária "Structure and Classification of Retroviruses" do livro The Retroviridae.
+Betaretrovirus; espécies: vírus do tumor mamário dos ratos  
+Gammaretrovirus; espécies: vírus da leucemia de camundongos e vírus da leucemia felina
+Deltaretrovirus; espécies: vírus da leucemia bovina e os vírus HLTV, que afetam humanos
+Epsilonretrovirus;
+Lentivirus; espécies: vírus da imunodeficiência humana (AIDS) e da imunodefiência de felinos e símios
+Spumavirus;
+
+
+== Doenças causadas por retrovírus ==
+A SIDA (ou AIDS) é uma doença causada pelo retrovírus HIV (em português:  vírus da imunodeficiência humana, VIH );
+Os retrovírus HTLV-1 e HTLV-2, sendo o primeiro é responsável pela ocorrência  de algumas doenças como o linfoma das células T, já o segundo retrovírus citado, não há até o momento, ligação com alguma patologia determinada. 
+
+
+== Papel Medicinal ==
+Quando utilizados como vetores na terapia gênica somática, alteram de forma permanente a célula hospedeira, integrando-se ao genoma. São utilizados especialmente em células dos músculos liso e esquelético, da medula óssea, fibroblastos e hepatócitos.[carece de fontes?]
+
+
+== Retrovírus exógeno ==
+São retrovírus com comportamento infeccioso típico, disseminando-se horizontalmente por contacto. Muitos retrovírus exógenos são recombinantes produzidos em laboratório ou por co-infecção casual de um animal, não se encontrando como provírus endógeno na natureza.
+
+
+== Retrovírus endógeno ==
+Uma cópia DNA completa do genoma (provírus), em determinadas situações, em muitas espécies de retrovírus, pode ser transmitida ao DNA da linhagem germinal materna à prole por herança mendeliana. Perpetua-se, assim, esse DNA em todas as células de um indivíduo em algumas espécies de vertebrados. Ex: retrovírus PERV-A e PERV-B em suínos. Esses genomas provirais são controlados pelos genes reguladores das células e normalmente são silenciosos devido à mutações, deleções ou transposições. Seqüências endógenas de retrovírus representam 8% do genoma humano. Sugere-se que esses provírus possam ser ativados por diversos fatores como radiações, exposição a substâncias químicas mutagênicas ou carcinogênicas, hormônios e etc.
+
+
+== Ver também ==
+Lista de doenças causadas por seres vivos
+Transcrição reversa
+
+
+== Notas ==
+
+
+== Referências ==
+
+
+== Bibliografia ==
+↑  Ledy do Horto dos Santos Oliveira, Virologia humana; Cultura Médica, 1994, ISBN 8-570-06170-6
+↑  Jay A Levy, The Retroviridae; Springer My Copy UK, 1992, Volume 1, ISBN 1-461-53373-2 , Volume 2, ISBN 0-306-44369-4 doi:10.1007/978-1-4899-1627-3 , Volume 3, ISBN 0-306-44693-6 , Volume 4, ISBN 0-306-45033-X (em inglês)
+↑  Stephen P. Goff, Retroviridae : The Retroviruses and Their Replication; OCLC 66002376 (em inglês)
+↑  Coffin, John M. (1992). "Structure and Classification of Retroviruses". In Levy, Jay A. The Retroviridae Vol. 1 (1st ed.). New York: Plenum. p. 20. ISBN 0-306-44074-1. (em inglês)
+↑   Dr. Monique Dubois-Dalcq, Professor Dr. Kathryn V. Holmes, Dr. Bernard Rentier , Assembly of Enveloped RNA Viruses ; Springer Vienna, ISBN 978-3-7091-8758-6  doi:10.1007/978-3-7091-8756-2 (em inglês)
+
+
+== Ligações externas ==
+
+«Nuevos retrovirus humanos» (PDF) (em espanhol)

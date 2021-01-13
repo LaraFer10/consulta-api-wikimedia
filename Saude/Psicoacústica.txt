@@ -1,0 +1,44 @@
+
+== Conceito ==
+A psicoacústica é o ramo da psicofísica que envolve o estudo científico da percepção sonora e da audiologia - como os seres humanos percebem vários sons. Mais especificamente, é o ramo da ciência que estuda as respostas psicológicas associadas ao som (incluindo ruído, fala e música). Ela estuda a relação entre sensações auditivas e as características físicas do som. As sensações auditivas são determinadas pelas características físicas do som, principalmente, frequência e amplitude, mas também características temporais.
+
+
+== Audição ==
+A audição não é um fenômeno puramente mecânico de propagação de ondas, mas também é um evento sensorial e perceptivo; em outras palavras, quando uma pessoa ouve algo, esse som chega ao ouvido como uma onda sonora mecânica, que viaja pelo ar, e, dentro do ouvido, é transformado em potenciais de ação neural. As células ciliadas externas (CCE) da cóclea de mamíferos dão origem a uma sensibilidade aprimorada e uma melhor resolução de frequência da resposta mecânica.. Esses pulsos nervosos então viajam para o cérebro onde são percebidos.  Portanto, em muitos problemas de acústica, é vantajoso levar em conta não apenas a mecânica do ambiente, mas também o fato de que o ouvido e o cérebro estão envolvidos na experiência auditiva de uma pessoa.
+A orelha interna, por exemplo, realiza um processamento de sinal significativo na conversão de formas de onda sonora em estímulos neurais, de modo que certas diferenças entre formas de onda podem ser imperceptíveis . Técnicas de compactação de dados, como MP3, fazem uso desse fato . Além disso, o ouvido tem uma resposta não linear a sons de diferentes níveis de intensidade; essa resposta não linear é chamada de sonoridade. As redes telefônicas e os sistemas de redução de ruído de áudio fazem uso desse fato compactando não-linearmente amostras de dados antes da transmissão e expandindo-as para reprodução . Outro efeito da resposta não-linear do ouvido é que os sons mais próximos produzem notas de batida fantasma ou produtos de distorção de intermodulação .
+O termo "psicoacústica" também surge nas discussões sobre psicologia cognitiva e os efeitos que as expectativas, preconceitos e predisposições pessoais podem ter nas avaliações relativas dos ouvintes e nas comparações de estética, acuidade e nas determinações dos ouvintes sobre as qualidades de aspectos musicais, instrumentos e artistas. A expressão "a pessoa ouve o que quer (ou espera) ouvir" pode pertencer a essas discussões.
+
+
+== Limites de percepção ==
+O ouvido humano pode nominalmente ouvir sons na faixa de 20 Hz a 20.000 Hz. O limite superior tende a diminuir com a idade; a maioria dos adultos não consegue ouvir acima de 16 kHz. A frequência mais baixa identificada como tom musical é de 12 Hz em condições ideais de laboratório . Os tons entre 4 e 16 Hz podem ser percebidos por meio da sensação de toque do corpo.
+Segundo Zwicker existem pelo menos cinco sensações auditivas básicas para sinais não musicais:
+
+loudness: sensação subjetiva de volume sonoro, determinada pela pressão sonora e frequência do sinal, além de características espectrais e temporais.
+agudeza: sensação auditiva de grave ou agudo, determinada pela quantidade de energia em baixa ou alta frequência.
+intensidade de flutuação: sensação auditiva de flutuações do loudness, causada por modulações lentas do sinal sonoro em frequência ou amplitude com frequências de modulação de até 20 Hz.
+roughness: sensação auditiva causada por modulações rápidas do sinal sonoro em frequência ou amplitude com frequências de modulação entre 40 Hz e 300 Hz.
+tonalidade: sensação auditiva causada pela presença de componentes tonais no sinal.Para sinais musicais consideram-se normalmente as sensações de loudness, altura (pitch) e timbre.
+Há divergências sobre a independência destas sensações entre si. Enquanto Zwicker afirmava que as cinco sensações básicas seriam independentes entre si, estudos mais recentes confirmaram que existe interdependência entre eles.
+A resolução de frequência do ouvido é de cerca de 3,6 Hz na oitava de 1000 a 2000 Hz. Ou seja, alterações no tom maior que 3,6 Hz podem ser percebidas em um ambiente clínico. No entanto, diferenças de tom ainda menores podem ser percebidas por outros meios. Por exemplo, a interferência de dois tons pode ser ouvida como uma variação repetitiva no volume do tom. Essa modulação de amplitude ocorre com uma frequência igual à diferença de frequências dos dois tons e é conhecida como batida.
+A escala de semitons usada na notação musical ocidental não é uma escala de frequência linear, mas logarítmica. Outras escalas foram derivadas diretamente de experimentos sobre a percepção auditiva humana, como a escala Mel e a escala Bark (são usadas no estudo da percepção, mas geralmente não na composição musical), e essas são aproximadamente logarítmicas na frequência no final da alta frequência, mas quase linear no final de baixa frequência.
+A gama de intensidade de sons audíveis é enorme. Os tímpanos humanos são sensíveis a variações na pressão sonora e podem detectar alterações de pressão de tão pequenos quanto alguns micropascais (µPa) a mais de 100 kPa. Por esse motivo, o nível de pressão sonora também é medido logaritmicamente, com todas as pressões referenciadas a 20 µPa (ou 1,97385 × 10−10 atm). O limite inferior de audibilidade é, portanto, definido como 0 dB, mas o limite superior não é tão claramente definido. O limite superior é mais uma questão do limite em que a audição será fisicamente prejudicada ou com o potencial de causar perda auditiva induzida por ruído.
+Uma análise mais rigorosa dos limites inferiores de audibilidade determina que o limite mínimo no qual um som pode ser percebido depende da frequência. Medindo essa intensidade mínima para testar tons de várias frequências, uma curva de limiar absoluto de audição dependente da frequência pode ser derivada. Normalmente, a orelha mostra um pico de sensibilidade entre 1 e 5 kHz, embora o limiar mude com a idade, com orelhas mais velhas mostrando sensibilidade diminuída acima de 2 kHz .
+
+
+== Localização sonora ==
+É o processo de determinar a localização de uma fonte de som. O cérebro utiliza diferenças sutis em volume, tom e tempo entre as duas orelhas para nos permitir localizar fontes sonoras . A localização pode ser descrita em termos de posição tridimensional: o azimute ou ângulo horizontal, o zênite ou o ângulo vertical e a distância (para sons estáticos) ou a velocidade (para sons em movimento) . Os seres humanos são hábeis em detectar a direção na horizontal, menos na vertical devido ao posicionamento simétrico das orelhas. Algumas espécies de corujas têm seus ouvidos colocados de forma assimétrica e podem detectar sons nos três planos, uma adaptação para caçar pequenos mamíferos no escuro . 
+
+
+== Programas ==
+O modelo psicoacústico fornece compressão de sinal com perda de alta qualidade, descrevendo quais partes de um determinado sinal de áudio digital podem ser removidas (ou compactadas agressivamente) com segurança - ou seja, sem perdas significativas na qualidade (conscientemente) percebida do som.
+Ele pode explicar como uma batida de palma pode parecer dolorosamente intensa em uma biblioteca silenciosa, mas é quase imperceptível depois que um carro sai de ré em uma via urbana movimentada. Isso oferece um grande benefício à taxa de compactação geral, e a análise psicoacústica rotineiramente leva a arquivos de música compactados com 1/10 a 1/12 de tamanho de mestres de alta qualidade, mas com perda de qualidade discernivelmente menor. Essa compactação é um recurso de quase todos os formatos modernos de compactação de áudio com perdas. Alguns desses formatos incluem Dolby Digital (AC-3), MP3, Opus, Ogg Vorbis, AAC, WMA, MPEG-1 Layer II (usado para transmissão de áudio digital em vários países).
+A psicoacústica se baseia fortemente na anatomia humana, especialmente as limitações do ouvido na percepção do som, conforme descrito anteriormente. Para resumir, essas limitações são:
+- Limite de alta frequência
+- Limiar absoluto da audição
+- Mascaramento temporal (mascaramento para frente, mascaramento para trás)
+- Mascaramento simultâneo (também conhecido como mascaramento espectral)
+
+Um algoritmo de compressão pode atribuir uma prioridade mais baixa a sons fora do alcance da audição humana. Ao desviar cuidadosamente os bits dos componentes sem importância e para os importantes, o algoritmo garante que os sons que um ouvinte provavelmente perceba sejam representados com mais precisão.
+
+
+== Referências ==

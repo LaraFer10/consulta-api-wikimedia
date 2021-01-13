@@ -1,0 +1,10 @@
+Substituição de aminoácido é a mudança de um aminoácido numa proteína por um aminoácido diferente devido a mutação pontual na sequência de DNA. É causado por mutação de sentido trocado não sinônima que altera a sequência do códon para codificar outros aminoácidos em vez dos originais.
+
+
+== Substituições conservativas e radicais ==
+Nem todas as substituições de aminoácidos têm o mesmo efeito na função ou estrutura da proteína. A magnitude deste processo pode variar dependendo da sequência de aminoácidos e da sua posição na sequência ou estrutura. Similaridade entre aminoácidos pode ser calculada com base em matrizes de substituição, distâncias fisicoquímicas, ou propriedades simples tais como o tamanho ou carga do aminoácido (ver também propriedades químicas de aminoácidos). Geralmente aminoácidos são assim classificados em dois tipos:
+Substituição conservativa - um aminoácido é trocado por um que tenha propriedades semelhantes. Espera-se que este tipo de substituição ocorra na proteína correspondente.
+Substituição radical - um aminoácido é trocado por outro com diferentes propriedades. Isso pode levar a mudanças na estrutura ou função da proteína, o que pode levar a mudanças no fenótipo, às vezes patogênico. Um exemplo bem conhecido em humanos é anemia falciforme, devido a uma mutação na beta globina, localizada na posição 6 do ácido glutâmico (negativamente carregado) que é substituído por valina (não carregada).
+
+
+== Referências ==

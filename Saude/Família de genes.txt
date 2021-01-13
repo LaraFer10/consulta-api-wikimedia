@@ -1,0 +1,33 @@
+Uma família de genes é um conjunto de vários genes semelhantes, formados pela duplicação de um único gene original e geralmente com funções bioquímicas semelhantes. Os genes são categorizados em famílias com base em seqüências compartilhadas de nucleotídeos ou proteínas. Técnicas filogenéticas podem ser usadas como um teste mais rigoroso. As posições dos exons na sequência de codificação podem ser usadas para inferir ancestralidade comum. O conhecimento da sequência da proteína codificada por um gene pode permitir que os pesquisadores apliquem métodos que encontrem semelhanças entre as seqüências de proteínas que forneçam mais informações do que semelhanças ou diferenças entre as seqüências de DNA. Se os genes de uma família de genes codificam proteínas, o termo família de proteínas é frequentemente usado de maneira análoga à família de genes.Uma dessas famílias são os genes das subunidades da hemoglobina humana; os dez genes estão em dois grupos em diferentes cromossomos, chamados loci α-globina e β-globina. Pensa-se que estes dois agrupamentos de genes tenham surgido como resultado de um gene precursor duplicado aproximadamente 500 milhões de anos atrás.
+
+
+== Estrutura básica ==
+Um nível de organização do genoma é o agrupamento de genes em várias famílias de genes. Famílias de genes são grupos de genes relacionados que compartilham um ancestral comum. Membros de famílias de genes pode ser parálogos ou ortólogos. Parálogos de genes são genes com seqüências semelhantes de dentro da mesma espécie, enquanto ortólogos de genes são genes com seqüências semelhantes em espécies diferentes.  As famílias de genes são altamente variáveis em tamanho, diversidade de seqüências e arranjo. Dependendo da diversidade e funções dos genes dentro da família, as famílias podem ser classificadas como famílias multigênicas ou superfamílias.
+
+
+== Formação ==
+As famílias de genes surgiram de múltiplas duplicações de um gene ancestral, seguidas de mutação e divergência.
+
+
+=== Duplicação ===
+Na formação de famílias de genes, existem quatro níveis de duplicação: 
+1) duplicação e embaralhamento de exons, 
+2) duplicação de genes inteiros, 
+3) duplicação de famílias multigênicas e 
+4) duplicação de genoma completo. 
+A duplicação e a reprodução aleatória de éxons dão origem a variações e novos genes. Os genes são então duplicados para formar famílias multigênicas que se duplicam para formar superfamílias abrangendo vários cromossomos. A duplicação de todo o genoma dobra o número de cópias de cada gene e família de genes.
+
+
+=== Realocação ===
+Membros genéticos de uma família multigênica ou famílias multigênicas dentro de superfamílias existem em diferentes cromossomos devido à realocação desses genes após a duplicação do gene ancestral. Elementos transponíveis desempenham um papel no movimento dos genes. A proteína transposase reconhece as repetições invertidas mais externas, cortando o segmento de DNA. Quaisquer genes entre os dois elementos transponíveis são realocados quando o transposão composto salta para uma nova área do genoma.
+
+
+=== Divergência ===
+Mutações não-sinônimas que resultam na substituição de aminoácidos aumentam a duplicação de cópias de genes. A duplicação dá origem a várias cópias do mesmo gene, proporcionando um nível de redundância em que as mutações são toleradas. Com uma cópia funcional do gene, outras cópias são capazes de adquirir mutações sem ser extremamente prejudicial para os organismos. Mutações permitem que genes duplicados adquiram funções novas ou diferentes.
+
+
+=== Evolução concertada ===
+Algumas famílias multigênicas são extremamente homogêneas, com membros individuais de genes compartilhando sequências idênticas ou quase idênticas. Os ciclos repetidos de transferência e conversão de genes tornam cada vez mais os membros da família de genes mais semelhantes.No processo de transferência gênica, a conversão gênica alélica é enviesada. Alelos mutantes que se espalham em uma família de genes em direção à homogeneidade são o mesmo processo de um alelo vantajoso que se espalha em uma população para a fixação. A conversão de genes também ajuda na criação de variação genética em alguns casos.ref name=:3GeneConversion>Ohta, T (30 September 2010). «Gene conversion and evolution of gene families: an overview.». Genes. 1 (3): 349–56. PMC 3966226. PMID 24710091. doi:10.3390/genes1030349  </ref>
+
+
+== Referências ==

@@ -1,0 +1,67 @@
+Leucemia mieloide crônica (português brasileiro) ou leucemia mieloide crónica (português europeu) (LMC) é uma forma de leucemia crônica caracterizada pela proliferação de células da linhagem granulocítica sem a perda de capacidade de diferenciação. É um tipo de doença mieloproliferativa característica por uma aberração citogenética ocasionada por uma translocação entre o cromossomo 9 e 22; t(9;22). Essa translocação resulta em um cromossomo 22 mais encurtado, chamado de cromossomo Filadélfia (cromossomo Ph1). Ocorre a fusão de dois genes nos cromossomos 9 e 22, chamados respectivamente de abl e bcr. É uma doença mais comum em adultos entre 40-50. Quando acomete jovens, a doença é mais agressiva que o normal.
+
+
+== Epidemiologia ==
+LMC ocorre em todas as faixas etárias, mas é mais comum em pessoas de meia idade e idosos. Sua incidência anual é de 1 a 2 pessoas por 100.000, sendo ligeiramente mais prevalente entre homens do que mulheres. LMC representa de 15–20% de todos os casos de leucemia entre a população ocidental. O único fator de risco documentado é a exposição a radiação ionizante; por exemplo, o aumento de casos de LMC em pessoas expostas a bomba atômica de Hiroshima ou Nagasaki.
+
+
+== Sinais e sintomas ==
+Pacientes geralmente são assintomáticos no momento do diagnóstico, apresentando uma elevação na contagem de glóbulos brancos (ou leucócitos) em um exame laboratorial de rotina. Sintomas incluem febre, infecções, cansaço, anemia. Esplenomegalia (aumento do volume do baço) também pode ser encontrado. Hepatomegalia (aumento do volume do fígado) também pode ocorrer mas é menos comum que a esplenomegalia.
+LMC evolui na maioria dos pacientes para uma fase mais turbulenta e com maior dificuldade de controle chamada fase acelerada. Nesta fase, há um aumento ainda maior do baço e aumento das células imaturas, blastos. Finalmente, a doença evolui para a chamada fase blástica ou aguda, na qual predominam as células blásticas na medula óssea e no sangue.
+
+
+== Diagnóstico ==
+Chega-se a suspeita de LMC baseado em um exame de hemograma de rotina, que mostra um aumento de granulócitos de todos os tipos, tipicamente incluindo células mieloides maduras. Eosinófilos e basófilos estão quase universalmente aumentados, este achado pode ajudar a diferenciar a LMC da reação leucemoide. Uma biopsia da medula óssea é frequentemente feita como parte da avaliação da LMC, mas sua avaliação morfológica somente é insuficiente para o diagnóstico.Ultimamente, LMC é diagnosticada pela detecção do cromossomo Filadélfia (cromossomo Ph). Esta anormalidade cromossômica característica pode ser detectada pela citogenética, pela técnica de hibridização fluorescente in situ (FISH) ou pela reação em cadeia de polimerase (PCR).Existem casos chamados de Ph-negativo, ou casos de suspeita de LMC nos quais o cromossomo Filadélfia não pode ser detectado. Muitos destes pacientes na verdade têm um complexo anormalidade cromossômica que mascara a translocação (9;22), ou têm evidência de translocação pelo FISH ou pelo PCR-TR (PCR transcriptase reversa) apesar da cariotipagem rotineira. O pequeno número de pacientes sem evidência da fusão bcr-abl detectável podem ser classificados como tendo doença mieloproliferativa/mielodisplásica indiferenciada, com clínica diferente dos pacientes com LMC.
+Hemograma: Os glóbulos brancos variam de número entre 100.000 e 300.000 por mm³. Seu número pode às vezes ser bem mais elevado podendo chegar a casa dos milhões: nestes casos durante a sedimentação do sangue em tudo ocorre uma espessa camada leucocitária. As formas sub e aleucêmicas são raras. Do ponto de vista quantitativo, estes glóbulos brancos são representados principalmente por neutrófilos (50-70%). Os eosinófilos e basófilos são igualmente numerosos. O resto da população branca é representada de precursores imediatos dos granulócitos: metamielócitos, mielócitos e promielócitos sobretudo dos neutrófilos. Os mieloblastos são pouco numerosos (1-5%) e seu aumento pode ser um sinal da transformação aguda. Os glóbulos vermelhos: a anemia pode ser nula ou moderada, podendo ser achados eritroblastos. Plaquetas: seu número é frequentemente aumentado e com a transformação para leucemia aguda ocorre sua diminuição (trombocitopenia).
+Mielograma: a medula óssea apresenta-se rica em células (hipercelular), ela mostra hiperplasia do tecido granulopoiético.
+Outros exames: a taxa de ácido úrico do sangue e sua excreção urinária são geralmente aumentadas em decorrência do hipermetabolismo dos ácidos nucleicos do tecido em proliferação. O exame de fosfatase alcalina do sangue tem sua atividade diminuída.
+Citogenética e biologia molecular: Cariótipo: 95% dos casos de LMC são cromossomo Filadélfia positivo (Ph+) e  5% são Ph-; FISH: fusão do Abl e Bcr; reacção em cadeia de polimerase com transcriptase reversa (RT-PCR).
+
+
+== Fisiopatologia ==
+A LMC foi a primeira doença maligna claramente relacionada a uma anormalidade genética, uma translocação cromossômica conhecida como cromossomo Filadélfia. Esta anormalidade cromossômica é chamada assim por que foi descoberta e pela primeira vez descrita em 1960 por dois cientistas da Filadélfia e Pensilvânia: Peter Nowell da Universidade da Pensilvânia e David Hungerford do centro de tratamento e pesquisa para câncer chamado Fox Chase Cancer Center.Nesta translocação, partes de dois cromossomos (9 e 22) trocam de lugar. Como resultado, parte do gene BCR ("breakpoint cluster region") do cromossomo 22 se funde com o gene ABL do cromossomo 9. Esta fusão anormal dos genes gera uma proteína de p210 ou às vezes p185 de peso (p é o peso da proteína celular em kDa). Pelo fato do gene abl possuir um domínio que pode adicionar grupos fosfatos a resíduos tirosina (tirosina quinase), o produto da fusão bcr-abl também é tirosina quinase.A proteína bcr-abl interage com o receptor interleucina 3beta(c). O bcr-abl é continuamente ativa e não requer ativação por outra proteína celular. Sucessivamente, bcr-abl ativa uma cascata de proteínas que controla o ciclo celular, acelerando a divisão celular. Além disto, a proteína bcr-abl inibe reparação do DNA, causando instabilidade genômica e fazendo com que a célula fique mais suscetível a desenvolver anormalidade genéticas futuras. A ativação da proteína bcr-abl é a causa patofisiológica da LMC. Com o aumento do conhecimento da natureza da proteína bcr-abl e sua ação como a tirosina quinase, terapias alvo têm sido desenvolvidas com especificidade para inibir a atividade proteína bcr-abl (a primeira foi a Imatinib). Estes inibidores tirosina quinase podem induzir uma completa remissão da LMC, confirmando a importância central da bcr-abl como causa da LMC.
+
+
+== Classificação ==
+A LMC geralmente é dividida em três fases baseando-se nas características clínicas e laboratoriais. Na ausência de intervenção, a LMC começa tipicamente na fase crônica, e com o avanço de muitos anos progride para uma fase acelerada e finalmente para uma crise blástica. Crise blástica é a fase terminal da LMC e clinicamente se comporta como uma leucemia aguda. Um dos achados da progressão da fase crônica para a fase de aceleração e crise blástica é a aquisição de uma nova anormalidade cromossômica (adicional ao cromossomo Fildélfia). Alguns pacientes podem já se encontrar na fase acelerada ou na fase blástica na altura em que é feito o diagnóstico.
+
+
+=== Fase crônica ===
+Aproximadamente 85% dos pacientes com LMC estão na fase crônica na época do diagnóstico. Durante esta fase, pacientes são geralmente assintomáticos ou têm somente sintomas leves de fadiga no momento do diagnóstico. A duração da fase crônica é variável e depende do diagnóstico prematuro assim como da terapia usada. Ultimamente, na ausência de um tratamento curativo, a doença evolui para a fase de aceleração.
+
+
+=== Fase de aceleração ===
+O critério de diagnóstico para a transição para fase de aceleração é variado; o mais usado é o colocado pelos investigadores do M.D. Anderson Cancer Center, da Universidade do Texas por Sokal e colaboradores, e pela Organização Mundial de Saúde (OMS). O critério da OMS talvez o mais usado, inclui:
+
+10–19% mieloblastos no sangue ou na medula óssea
+>20% basófilos no sangue ou na medula óssea
+Contagem de plaquetas <100.000, sem realçao com a terapia
+Contagem de plaquetas >1.000.000, não respondendo a terapia
+Evolução citogenética com novas anormalidades em adição ao cromossomo Filadélfia
+Aumento da esplenomegalia ou da contagem de leucócitos, não respondendo a terapiaO paciente é considerado na fase de aceleração se algum destes critérios acima estiver presente. A fase de aceleração é significativa porque seus sinais representam que a doença está evoluindo para uma transformação para crise blástica.
+
+
+=== Crise blástica ===
+Crise blástica é a fase final da evolução da LMC, e comporta-se como uma leucemia aguda, com rápida progressão e sobrevivência curta. A crise blástica é diagnosticada se algum dos seguintes critérios estiverem presentes no paciente com LMC:
+>30% mieloblastos ou linfoblastos no sangue ou na medula óssea
+Grandes agrupamentos de blastos na medula óssea
+Desenvolvimento de cloroma (ou sarcoma granulocítico), ou seja, coleção sólida de células leucemicas fora da medula óssea
+
+
+== Tratamento ==
+
+
+=== Fase crônica ===
+
+Na fase crônica, a LMC é tratada com inibidores da tirosino-quinase, o primeiro deles é o mesilato de imatinib anteriormente conhecido como STI-571. No passado, antimetabolitos (Citarabina, Hidroxiureia), agentes alquilantes, interferon alfa 2b, e esteroides eram usados, mas estas drogas foram substituídas pelo imatinib.  Imatinib foi aprovado nos Estados Unidos pela FDA em 2001 como agente específico contra BCR/abl, a proteína de fusão ativada causada pela translocação cromossomo Filadélfia. É uma droga melhor tolerada e mais efetiva que as terapias anteriores.  Transplante de medula óssea também era usada no tratamento inicial da LMC de pacientes jovens antes do advento da imatinib, e enquanto era curativo, havia uma alta incidência de morte em pacientes transplantados. Esta mortalidade em transplantados atualmente é de menos de 5%.Para vencer a resistência ao imatinib e aumentar a resposta do inibidor de tirosino-quinase, dois novos agentes foram desenvolvidos.  O primeiro, Dasatinib, Sprycel, é um inibidor tirosino-quinase que bloqueia várias proteínas oncogênicas e foi aprovada pela FDA em 2007 para o tratamento de pacientes com LMC que eram resistentes ou intolerantes ao imatinib. Outro inibidor tirosino-quinase, Nilotinib, que também aprovado pela FDA pela mesma indicação. Nilotinib foi projetado para ligar-se mais fortemente que o imatinib a proteína anormal Bcr-Abl responsável pela LMC. Dasatanib (Sprycel) e Nilotinib falham em relação a resistência do Imatinib causada pela mutação T315I. Transplante de células-tronco é uma opção para estes pacientes que desenvolvem a mutação T315I.A grande vantagem do Dasatinib, Sprycel, é sua comodidade posológica, o medicamento deve ser tomado uma vez ao dia sem restrições alimentares ou jejum, diferente do Nilotinib que precisa ser tomado 2 vezes ao dia com duas horas de jejum antes de tomar o medicamento e 1 hora após tomar o medicamento, resultando em 6 horas por dia nas duas tomadas Uma droga para vencer a resistência está sendo desenvolvida pela Merck (MK-0457, primeiramente conhecido como VX-680), entretanto, novos pacientes sendo admitidos a este experimento clínico estão atualmente suspensos até que uma completa análise de toda sua eficácia e segurança esteja completamente comprovada.  Outra droga em desenvolvimento para a mutação T315I é a Omacetaxine (primeiramente conhecida como Ceflatonin). Dados clínicos dos primeiros 21 pacientes envolvidos na fase 2/3 de testes foram apresentados no encontro anual da Sociedade Americana de Hematologia (ou American Society of Hematology, a ASH).Em 2005 resultados favoráveis de uma vacinação foram relatadas com a proteína de fusão p210 BCR/abl em pacientes com doença estável, com GM-CSF como um adjuvante.
+
+
+=== Crise blástica ===
+A crise blástica possui todos os sintomas e características da leucemia mieloide aguda ou da leucemia linfoide aguda, e tem uma alta incidência de mortalidade. Este estágio da LMC pode ser tratada com transplante de medula óssea depois de uma alta dose de quimioterapia. Em pacientes jovens que estão na fase de aceleração, o transplante também pode ser uma opção. Entretanto a provável recaída depois de um transplante de medula óssea é maior em pacientes com crise blástica ou na fase de aceleração se comparado a pacientes na fase crônica.
+
+
+== Prognóstico ==
+Em uma análise de vários estudos clínicos, três diferentes grupos de risco foram identificados baseando-se no sistema de escore de prognóstico que inclui várias variáveis: idade, tamanho do baço, contagem de blastos, contagem de plaquetas, contagem de eosinófilos e basófilos. No grupo de menor risco, a média de sobrevivência era de 98 meses. No grupo intermediário, a média era de 65 meses, e no grupo de maior risco em média 42 meses. De todos os pacientes analisados, a maior sobrevida foi de 117 meses. Entretanto, este estudo foi anteriormente realizado ao uso ao tratamento com terapia alvo. O seguinte uso do Imatinib publicada no New England Journal of Medicine mostra um resultado de sobrevida de 90% após 5 anos.
+
+
+== Referências ==

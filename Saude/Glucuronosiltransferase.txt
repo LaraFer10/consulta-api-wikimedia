@@ -1,0 +1,33 @@
+A uridina 5'-difosfo-glucuronosiltransferase (UDP-glucuronosiltransferase, UGT) é uma glicosiltransferase citosólica (CE 2.4.1.17), que catalisa a transferência de ácido glucorónico do componente de ácido UDP-glucurónico com uma pequena molécula hidrófoba. Esta é uma reação de glucuronidação.
+Nomes alternativos:
+
+glucuroniltransferase
+UDP-glucuronil-transferase
+UDP-GT
+
+
+== Função ==
+As glucuronosiltransferases são responsáveis pelo processo de glucuronidação, uma parte importante do metabolismo de fase II. Provavelmente a mais importante das enzimas de fase II (conjugativas), as UGTs têm sido objeto de crescente pesquisa científica desde a segunda metade da década de 1990.
+A reação catalisada pela enzima UGT envolve a adição de uma unidade de ácido glucurónico a xenobióticos e é a via mais importante para a eliminação do corpo humano das drogas mais frequentemente prescritas. É também a principal via para remoção química externa (alimentar, do ambiente, farmacêutica) para a maioria das drogas, substâncias alimentares, toxinas e substâncias endógenas. A UGT está presente em seres humanos, outros animais, plantas e bactérias. Notoriamente, as enzimas UGT não estão presentes no gênero Felis, e este é responsável por uma série de toxicidades incomuns na família dos felinos.
+A reação de glucuronidação consiste na transferência do grupo glucuronosil do ácido uridina 5'-difosfo-glucurónico (UDPGA) ao substrato de moléculas que contêm oxigénio, nitrogênio, enxofre ou os grupos funcionais carboxilo. O glucuronido resultante é mais polar (hidrofílico por exemplo) e mais facilmente excretado do que a molécula de substrato. A solubilidade do produto no sangue é aumentada permitindo que seja eliminado do corpo pelos rins.
+
+
+== Doenças ==
+Uma deficiência na forma específica de bilirrubina glucuronosiltransferase se pensa ser a causa da síndrome de Gilbert, que é caracterizada por hiperbilirrubinemia não conjugada.
+Também está associada à síndrome de Crigler-Najjar, uma doença mais grave em que a atividade da enzima, quer seja completamente ausente (Síndrome de Crigler-Najjar do tipo I) ou menos do que 10% do normal (tipo II).
+Bebês podem ter uma deficiência de desenvolvimento na UDP-glucuronil transferase, e são incapazes de metabolizar hepaticamente o antibiótico cloranfenicol que exige glucuronidação. Isto leva a uma condição conhecida como síndrome do bebê cinzento.
+
+
+== Genes ==
+Os genes humanos que codificam enzimas UGT incluem:
+
+B3GAT1, B3GAT2, B3GAT3
+UGT1A1, UGT1A3, UGT1A4, UGT1A5, UGT1A6, UGT1A7, UGT1A8, UGT1A9, UGT1A10
+UGT2A1, UGT2A2, UGT2A3, UGT2B4, UGT2B7, UGT2B10, UGT2B11, UGT2B15, UGT2B17, UGT2B28
+
+
+== Referências ==
+
+
+== Links externos ==
+MeSH Glucuronosyltransferase

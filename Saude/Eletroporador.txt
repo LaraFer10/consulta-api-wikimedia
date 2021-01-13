@@ -1,0 +1,12 @@
+Eletroporador é um equipamento eletromédico utilizado para induzir eletroporação em células e tecidos biológicos. No Brasil, eletroporadores de pequeno porte são utilizados em processos como transfecção (i.e., inserção de ácido nucleicos nas células), enquanto os de maior porte são para sessões de eletroquimioterapia (atualmente, usado apenas em oncologia veterinária). 
+
+
+== Funcionamento ==
+A principal finalidade deste equipamento é a indução da eletroporação nas células ou tecidos alvos. A eletroporação (ou eletropermeabilização) das células ocorre pela imposição de um campo elétrico de alta intensidade (e.g., 100 kV/m) por curtos períodos (e.g., 100 ms). Um eletroporador é um tipo de gerador de pulsos de baixas ou médias tensões capaz de sustentar correntes numa escala entre 10-3 e 101 A, dependendo da aplicação. A frequência dos pulsos encontra-se na ordem 103 a 107 Hz. 
+
+
+== Aplicações ==
+As principais aplicações da eletroporação, e por consequências dos eletroporadores, são a eletromanipulação intracelular, a descontaminação bacteriana (como pasteurização), a prevenção de acúmulo de microorganismos, a introdução de medicamentos (e.g., eletroquimioterapia) e a transferência de genes. 
+
+
+== Referências ==

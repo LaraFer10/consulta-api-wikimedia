@@ -1,0 +1,58 @@
+A enzima superóxido dismutase (SOD) catalisa a dismutação do superóxido em oxigénio e peróxido de hidrogénio. Devido a isto, é uma importante defesa antioxidante na maioria das células expostas ao oxigénio. Uma das excepções dá-se em Lactobacillus plantarum e em lactobacilli relacionados que possuem um mecanismo diferente.
+
+
+== Reacção ==
+A dismutação catalisada pela SOD do superóxido pode representar-se como as seguintes semirreacções:
+
+M(n+1)+ − SOD + O2− → Mn+ − SOD + O2
+Mn+ − SOD + O2− + 2H+ → M(n+1)+ − SOD + H2O2.onde M = Cu (n=1) ; Mn (n=2) ; Fe (n=2) ; Ni (n=2).
+Nesta reacção o estado de oxidação do catião metálico oscila entre n e n+1.
+
+
+== Tipos ==
+
+
+=== Geral ===
+Existem várias formas comuns de SOD: são proteínas com cofactores como cobre, zinco, manganês, ferro ou níquel.
+
+O citosol de praticamente todas as células eucariotas contêm uma enzima SOD com cobre e zinco (Cu-Zn-SOD). (Por exemplo, a Cu-Zn-SOD disponível comercialmente é purificada normalmente de eritrócitos de bovinos: PDB 1SXA, EC 1.15.1.1). A enzima de Cu-Zn é um homodímero de peso molecular 32,5 kDa. As duas subunidades estão unidas por interacções hidrofóbicas e electrostáticas. Os ligandos de cobre e zinco são cadeias laterais de histidina.
+Mitocondrias de fígado de galo e muitas bactérias (e.g. E. coli) contêm uma forma com manganês (Mn-SOD). (Por exemplo a Mn-SOD que se encontra nas mitocôndrias humanas: PDB 1N0J[ligação inativa], EC 1.15.1.1). Os ligandos dos iões de manganês são três cadeias laterais de histidina, uma de aspartato e uma molécula de água ou um ligando hidroxilo dependendo do estado de oxidação do Mn (II e III respectivamente).
+E. coli e muitas outras bactérias contêm uma forma da enzima com ferro (Fe-SOD); algumas bactérias contêm Fe-SOD, outras Mn-SOD, e algumas contêm ambas. (Para a E. coli Fe-SOD: PDB 1ISA, EC 1.15.1.1). Os sítios activos das superóxido dismutases de Mn e Fe contêm o mesmo tipo de cadeias laterais de aminoácidos.
+
+
+=== Humanos ===
+Em humanos existem três formas de superóxido dismutase. SOD1 encontra-se no citoplasma, SOD2 nas  mitocôndrias e SOD3 no líquido extracelular. A primeira é um dímero (consiste em duas subunidades), enquanto que as outras são tetrâmeros (quatro subunidades). SOD1 e SOD3 contêm cobre e zinco, enquanto que SOD2 tem manganês no seu centro reactivo. Os genes encontram-se localizados nos cromossomas 21, 6 e 4, respectivamente (21q22.1, 6q25.3 y 4p15.3-p15.1).
+Existem disponíveis placas para ensaios de microtitulação de SOD.
+
+
+== Bioquímica ==
+A SOD protege a célula das reacções danosas do superóxido. A reacção da superóxido com espécies não-radicies não é permitida por spin segundo ls regras de selecção. Em sistemas biológicos isto significa que as suas principais reacções são com se mesmo (dismutação) ou com outro radical biológico como eo óxido nítrico (NO). O anion radical da superóxido (O2-) espontaneamente dismuta a O2 e peróxido de hidrogénio (H2O2) de forma bastante rápida (~105 M-1 s-1 a pH 7). A SOD é biologicamente necessária porque a superóxido reage ainda mais rápido com alguns componentes como o radical de NO, que forma peroxinitrito. De forma similar, a taxa de dismutação é de segunda ordem com respeito à concentração inicial de superóxido. Ainda que a vida média da superóxido seja muito curta em concentrações muito elevadas (e.g. 0,05 segundos a 0,1mM) é bastante grande em baixas concentraçoes (e.g. 14 horas a 0,1 nM). Em contraste, a reacção da superóxido com SOD é de primeira ordem com respeito à concentração de superóxido. Mais, a SOD tem a maior taxa de reacção com o seu substrato que alguma enzima conhecida (~109 M-1 s-1), esta reacção está somente limitada pela frequência de colisões da enzima com o superóxido. Quer dizer, a taxa de reacção está limitada pela difusão.
+
+
+== Fisiologia ==
+A superóxido é uma das principais espécies reactivas de oxigénio na célula e a SOD tem um papel fundamental como antioxidante. A importância fisiológica da SOD é ilustrada pelas severas patologias que se evidenciam em ratos geneticamente modificados para que careçam desta enzima. Os ratos sem SOD2 morrem depois de poucos dias após nascerem por estresse oxidativo massivo. Os ratos sem SOD1 desenvolvem uma grande variedade de patologias, incluindo hepatocarcinoma, uma acelerada perda de massa muscular relacionada con a idade, uma mais cedo incidência de cataratas e uma esperança de vida reduzida. Os ratos carentes de SOD3 não mostram deficiências óbvias e têm uma esperança de vida normal.
+
+
+== Papel nas enfermidades ==
+Relacionaram-se mutações na primeira enzima SOD (SOD1) com esclerose lateral amiotrófica (ELA). Os outras dois tipos de enzimas não foram relacionadas com nenhuma patologia conhecida, no entanto, em ratos, a inactivação de SOD2 provoca a morte perinatal e a inactivação da SOD1 causa hepatocarcinoma. As mutações em SOD1 podem provocar ELA através de um mecanismo que ainda não é compreendido, mas que não se deve a uma perda da actividade enzimática. Relacionou-se a sobreexpressão de SOD1 com a síndrome de Down. A droga antiinflamatória "Orgotein" contém superóxido dismutase purificada de fígado bovino.
+
+
+== Uso em cosméticos ==
+A SOD é usada em productos comésticos para reduzir o dano dos radicais livres na pele, por exemplo para reduzir a fibrose que se produz como consequência da radioterapia. Estes estudos devem ser considerados como tentativos já que não houve controlos adequados nos estudos, incluindo a falta de ensaios de aleatoriedade, duplo-cego ou placebo. Sabe-se que a superóxido dismutase reverte a fibrose, possivelmente através da reversão dos miofibroblastos de novo em fibroblastos
+
+
+== Ver também ==
+Catalase
+Peroxidase
+
+
+== Referências ==
+
+
+== Ligações externas ==
+OMIM 105400 (ELA)
+Resumo general da SOD e sua literatura.
+Damage-Based Theories of Aging Inclui uma discussão sobre os papeis da SOD1 e SOD2 no envelhecimento.
+SOD and Oxidative Stress Pathway Image
+Historical information on SOD research"The evolution of Free Radical Biology & Medicine: A 20-year history" y "Free Radical Biology & Medicine The last 20 years: The most highly cited papers"
+JM McCord discute el descubrimiento de SOD

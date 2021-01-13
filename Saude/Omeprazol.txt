@@ -1,0 +1,53 @@
+Omeprazol é um medicamento protótipo da classe dos inibidores da bomba de protões (ou prótons), que diminuem a secreção gástrica alterando a atividade da H+/K+-ATPase. É um pó branco ou quase branco, muito pouco solúvel na água.
+
+
+== Histórico ==
+Omeprazol chega ao final dos anos 90 como droga mais bem vendida e bem avaliada do mundo, na época.
+A representatividade citada ganha explicação quando o panorama da doença dispéptica, da DRGE e da doença ulcerosa até o ano de 1980 é mostrado. O tratamento de tais doenças era limitado. O uso de antiácidos e hidróxidos de metais alcalinos tinha efeito de alívio temporário, não mudando o prognóstico da enfermidade; a gastrectomia parcial visava amputar a parte com maior produção de gastrina e de ácido clorídrico da mucosa gástrica, onde residem as células parietais;a vagotomia também se mostrava presente, com resultados pouco esperados e aumento crescente de novos sintomas dispépticos não existentes anteriormente à cirurgia.Em 1970, a introdução de uma nova droga nomeada cimetidina, um antagonista de receptor H2 de histamina, abriu espaço  e estimulou  o início do desenvolvimento de novas drogas que controlavam a secreção ácida estomacal. A cimetidina melhorou a qualidade de vida de milhares de pessoas, diminuindo a quantidade de complicações agudas graves da doença ulcerosa péptica. Porém, seu efeito era curto, com pequeno  tempo de meia vida.
+Ocupando o espaço aberto, no final dos anos 60, a companhia farmacêutica Hassle (associada à Astra) começou uma divisão de pesquisa voltada exclusivamente à produção de uma droga com potente ação inibitória da secreção ácida estomacal. Como consequência, começaram a desenvolver um protótipo eficaz para ratos, mas ineficaz em humanos.
+Em 1972, o projeto ganhou mais força com experimentos em cães. CMN131, foi testado como nova promessa pela empresa Servier, mas também falhou. Seus efeitos tóxicos e acumulativos o tiraram da corrida. Em 1973, o benzimidazol H124/26 aparece como promissor, devido aos seus efeitos tóxicos insignificantes e melhor atividade anti-secretiva, tornando-se o composto líder do segmento; a substância já havia sido descrita como fármaco para tratamento de tuberculose na Hungria. Resolvendo-se o problema de patente, foi usado e registrado o metabólito ativo H83/69, um óxido de enxofre chamado timoprazol, tendo mais sucesso.
+Os testes toxicológicos foram aprimorando e reciclando os compostos produzidos. Timoprazol estava relacionado com hipertiroidismo e disfunção de recaptura de iodo pela glândula. Benzimidazol surgiu com algumas modificações e aprimorando o composto anterior. Relatos de vasculites nos cães-teste estimularam a avaliação continuada da droga. Picoprazol, então, um novo metabólito, acrescido de cadeia de isômeros protetores, surge e passa para a fase de testes com humanos.
+Junto com o teste em humanos, evoluiu o estudo molecular in vitro da droga, chegando-se em uma teoria até então não descrita antes: inibir a bomba de prótons H+/K+ ATPase, controlava-se, de forma ativa, a secreção ácida final do estômago. E a melhor forma de aumentar a biodisponibilidade e a cumulação celular era aumentando o pKa da substância inibidora da bomba de prótons. Isso foi feito acrescentando substitutos ao anel de piridina da molécula de benzidazol. O resultado foi o composto H168/68, nomeado omeprazol. A nova substância se mostrou muito estável e com pequeno potencial toxicológico. A ação anti-secretiva chegou em seu patamar máximo até então. Em 1982, começou a ser dado de forma mais volumosa a pacientes em regime de pesquisa ou de tratamento.
+Com efeito significativamente maior que os antagonistas de receptores H2 (ranitidina-like), atingindo eficácia em até o dobro dos pacientes. Assim, o omeprazol passa à ser vendido oficialmente na Europa, em 1988, com o nome Losec.
+
+
+== Usos clínicos ==
+Doença do Refluxo Gastroesofágico
+Síndrome de Zollinger-Ellison
+Erradicação do Helicobacter pylori (associado à terapia antimicrobiana)
+Úlceras gástricas e duodenais associadas ao uso de anti-inflamatórias não esteroidais (AINEs) ou em pacientes com doença ulcerosa já conhecida e que utilizarão AINEs por período prolongado
+Prevenção de úlceras hemorrágicas recorrentes
+
+
+== Mecanismo de ação ==
+A secreção do ácido clorídrico pela células parietais gástricas é dependente da função da bomba de prótons (íon hidrogênio)  ; essa proteína é exclusiva do polo apical dessas células. O omeprazol penetra livremente no citoplasma da célula parietal (que tem pH de 7,1) na forma não-carregada; no ambiente ácido do sistema canalicular da célula parietal (pH menor que 2,0), é convertido em sua forma sulfenamida ativa, que reage com um resíduo cisteína na H+/K+ ATPase, formando ligação dissulfeto covalente, inibindo a atividade da bomba. Quando utilizados de forma adequada, os inibidores da bomba de prótons reduzem a produção diária de ácido em cerca de 95%; a secreção ácida retorna ao normal ...
+
+
+== Ações farmacológicas ==
+Por causa da inibição da H+/K+ ATPase, há diminuição da secreção gástrica. O omeprazol não inibe a secreção de fator intrínseco e a absorção de vitamina B12 cristalina é normal; a absorção de vitamina B12 ligada à proteína é diminuída, mas terapias a longo prazo não aparentam causar deficiência de vitamina B12. Há um redução leve da secreção de pepsinogênio, provavelmente por causa da redução da acidez gástrica e do volume, mas as concentrações de pepsinogênio sérico elevam-se durante a terapia.
+Não há efeito nas pressões esofágicas e no esvaziamento gástrico; mesmo que existam enzimas similares às H+/K+ ATPase no cólon e no rim, como essas bombas não estão em meio ácido, o omeprazol não é ativado.
+
+
+== Efeitos colaterais ==
+Em geral, são bem tolerados. Os efeitos adversos podem incluir cefaleia, náusea, distúrbio da função intestinal e dor abdominal.
+Uma revisão sistemática publicada em 2015 concluiu que a terapia a longo prazo com inibidores de bomba de prótons induz hipergastrinemia moderada na maioria dos pacientes e uma maior prevalência de hiperplasia de células enterocromafin-like; pacientes positivos para H. pylori com terapia prolongada de IBP possuíam maior risco de atrofia do corpo gástrico em relação aos pacientes H. pylori negativos; a revisão mostrou que não havia risco aumentado para tumores neuroendócrinos.
+É sugerido que os IBP podem diminuir a eficácia clínica do antiplaquetário clopidogrel, possivelmente uma interação medicamentosa por uma via metabólica em comum: a isoenzima do citocromo P450 CYP2C19, onde a maioria dos IBP é metabolizada e o clopidogrel é convertido de pró-fármaco em fármaco ativo pela mesma enzima; no entanto, a importância clínica dessa associação permanece incerta, sem resultados conclusivos até o momento .
+Sugere-se, também, risco aumentado de fraturas de quadril em pacientes que fazem uso prolongado de IBP (teoriza-se que os IBP diminuem a absorção gástrica de cálcio insolúvel ao elevar o pH gástrico ou que o omeprazol diminua a ressorção óssea ao inibir a H+/K+ ATPase vacuolar osteoclástica) . Um estudo mostrou associação entre o uso prolongado de IBP e um maior risco de fraturas de quadril, sendo essa associação mais forte quanto mais prolongado for o uso .  Uma meta-análise publicada em 2011 encontrou associação entre maior risco de fraturas e uso prolongado de IBP, sendo que tal associação não foi encontrada com os antagonistas de receptores H2, sugerindo precaução ao prescrever tais medicamentos a longo prazo para pacientes de risco.
+Constatou-se que o uso de IBP durante internação hospitalar aumenta o risco de pneumonia adquirida em hospital, infecção por C. difficile e de infecções entéricas causadas por Salmonella e Escherichia coli; tal risco aumentado pode estar associado ao comprometimento de mecanismos normais de defesa (como a própria secreção gástrica) pelos IBP, de forma que os mecanismos ingeridos escapem da destruição pelo ácido .
+Houve um aumento do número de casos de hipomagnesemia induzida por inibidores de bomba de prótons nos últimos anos; presume-se que tal estado ocorra por uma diminuição da absorção de magnésio, no entanto, o mecanismo permanece desconhecido. Em estudo realizado em 2011, houve associação entre ambos, com recuperação dos pacientes após 4 dias de suspensão do tratamento com IBP, não havendo um perfil certo de paciente em que a hipomagnesemia ocorre, no entanto, ressalta-se que o médico deve atentar-se a essa risco ao prescrever algum IBP por prolongado período .
+
+
+== Aspectos farmacocinéticos ==
+A exposição ao ácido gástrico degrada o omeprazol, o que leva a baixa biodisponibilidade oral; assim, a droga passou a ser formulada em grânulos que liberam a droga apenas quando o pH está acima de 6, assim, a biodisponibilidade do omeprazol passa para acima de 50%.  O pico plasmático de concentração ocorre 2 a 4 horas após a administração oral e pode aumentar nas primeiras semanas de tratamento (provavelmente, a menor secreção gástrica leva a uma menor degradação do medicamento).
+A meia vida plasmática é de 60 minutos, no entanto, como para o efeito cessar deve haver a produção de novas bombas de prótons, o efeito de uma dose única excede 24 horas. Quando o tratamento é terminado, demora, pelo menos, três dias para que a secreção ácida retorne aos níveis pré-tratamento; não é conhecida hipersecreção rebote.
+O metabolismo dos inibidores de bomba de prótons envolve duas isoenzimas do citocromo P450:
+
+CYP2C19: responsável pelo metabolismo principal dos IBP;
+CYP3A4: atua como via metabólica auxiliar quando a via principal da CYP2C19.Indivíduos possuem diferentes taxas de metabolismo e depuração desses fármacos, por causa de polimorfismos genéticos dessas enzimas; dois polimorfismos da CYP2C19 (CYP2C19m1 e CYP2C19m2) estão associados a diminuição da atividade, assim, os portadores de duas cópias desses polimorfismos são considerados metabolizadores fracos, enquanto que portadores de uma cópia desses polimorfismos são metabolizadores intermediários a extensos; tais polimorfismos são mais frequentes em asiáticos; comparados a indivíduos que tomam a mesma dose de omeprazol, os metabolizadores fracos exibem redução da depuração dos IBP, resultando em concentrações plasmáticas mais altas de fármaco, bem como em maior grau de supressão de ácido, mas as doses-padrão do omeprazol levam em conta esses polimorfismos. Considera-se, atualmente, que as únicas interações medicamentosas relevantes do omeprazol são com fármacos metabolizados pela CYP2C19, como varfarina, fenitoína, diazepam ou carbamazepina.
+
+
+== Referências ==
+
+
+== Ligações externas ==
+Bula do medicamento

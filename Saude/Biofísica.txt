@@ -1,0 +1,42 @@
+A biofísica é uma ciência interdisciplinar que aplica as teorias e os métodos da física para resolver questões das ciências biológicas, em quaisquer níveis: molecular, celular, morfofisiológico, ecológico, biodiversidade, reprodução e genética. 
+A biofísica busca enxergar o ser vivo e suas partes com um corpo, que ocupando lugar no espaço, e transformando energia, existe num meio ambiente o qual interage com este ser. Aspectos elétricos, gravitacionais, magnéticos e mesmo nucleares estão na fundamentação de vários fenômenos biológicos, e portanto, podem ser tratados pelos conhecimentos das ciências físicas. É estudada por diversas ciências da saúde (Enfermagem, Farmácia, Fonoaudiologia, Medicina, Nutrição, Odontologia, Zootecnia, Veterinária, Fisioterapia e Terapia Ocupacional), ciências biológicas (Biologia,  Biotecnologia, Biomedicina),  e também por algumas ciências exatas e químicas (Bioquímica, Química, Física e a Engenharia Biomédica). A Biofísica é uma ciência que constitui teorias e métodos.
+Em resumo: biofísica é o estudo da matéria, espaço, energia e tempo que ocorrem nos Sistemas Biológicos.
+
+
+== Foco em um subcampo ==
+Embora algumas faculdades e universidades tenham departamentos de biofísica dedicados, geralmente em nível de pós-graduação, muitos não têm departamentos de biofísica em nível universitário, em vez disso, têm grupos em departamentos relacionados, como bioquímica, biologia celular, química, ciência da computação, engenharia, matemática, medicina, biologia molecular, neurociência, farmacologia, física e fisiologia. Dependendo dos pontos fortes de um departamento de uma universidade, será dada ênfase diferente aos campos da biofísica. A seguir, é apresentada uma lista de exemplos de como cada departamento aplica seus esforços no estudo da biofísica. Esta lista dificilmente inclui tudo. Nem cada sujeito de estudo pertence exclusivamente a um departamento em particular. Cada instituição acadêmica cria suas próprias regras e há muita sobreposição entre os departamentos:
+
+Biofísica molecular - Estruturas e dinâmicas de biomoléculas  como ácidos nucléicos, lipídios, carboidratos e proteínas. Bioenergética e fluxos metabólicos. Relações estrutura-atividade, Físico-química biomolecular;
+Biofísica genética e celular-  Regulação de genes e movimentação de cromossomos nas diferentes fases celulares, transporte intracelular, permissividade de membrana, potenciais de membrana;
+Biofísica computacional - simulações de dinâmicas moleculares, acoplamentos moleculares, uso de química quântica e redes neurais, modelagem molecular, modelagem de populações e sistemas ecológicos;
+Biofísica Fisiológica e médica:  Explica vários aspectos e sistemas do corpo de uma perspectiva física e matemática. Exemplos são dinâmica de fluidos do fluxo sanguíneo, física dos gases da respiração, radiação em diagnóstico / tratamento, bases físicas do movimento do corpo e movimento dos órgãos internos;
+Física - negentropia, processos estocásticos e desenvolvimento de novas técnicas e instrumentação física, bem como sua aplicação;
+Biologia quântica - O campo da biologia quântica aplica a mecânica quântica a objetos e problemas biológicos. Isômeros descoerados para produzir substituições de base dependentes do tempo. Esses estudos implicam aplicações em computação quântica.Na biofísica molecular temos técnicas como as de imagem fluorescente, bem como microscopia eletrônica, cristalografia de raios-X, espectroscopia de RMN, microscopia de força atômica (AFM) e espalhamento de ângulo pequeno (SAS), tanto com raios X quanto nêutrons (SAXS / SANS), que são frequentemente usadas para visualizar estruturas de significado biológico. Mudanças conformacionais na estrutura podem ser medidas usando técnicas como interferometria de polarização dupla, dicroísmo circular, SAXS e SANS. A manipulação direta de moléculas usando pinças ópticas ou AFM também pode ser usada para monitorar eventos biológicos em que forças e distâncias estão em nanoescala. Os biofísicos moleculares consideram frequentemente eventos biológicos complexos como sistemas de entidades que interagem que podem ser entendidos através da mecânica estatística, termodinâmica e cinética química. Ao atrair conhecimento e técnicas experimentais de uma ampla variedade de disciplinas, os biofísicos costumam observar, modelar ou mesmo manipular diretamente as estruturas e interações de moléculas individuais ou complexos de moléculas.
+A biofísica moderna abrange uma gama extraordinariamente ampla de pesquisas, da bioeletrônica à biologia quântica, envolvendo ferramentas experimentais e teóricas. Está se tornando cada vez mais comum para os biofísicos aplicar os modelos e técnicas experimentais derivadas da física, bem como matemática e estatística, a sistemas maiores, como tecidos, órgãos, populações e ecossistemas. Modelos biofísicos são usados extensivamente no estudo da condução elétrica em neurônios únicos, bem como na análise de circuitos neurais no tecido e no cérebro inteiro.
+Física médica, um ramo da biofísica, é qualquer aplicação da física na medicina ou na área da saúde, variando de radiologia a microscopia e nanomedicina. Por exemplo, o físico Richard Feynman teorizou sobre o futuro da nanomedicina. Ele escreveu sobre a ideia de uso médico para máquinas biológicas (veja nanomáquinas). Feynman e Albert Hibbs sugeriram que certas máquinas de reparo poderiam um dia ser reduzidas em tamanho a ponto de ser possível (como Feynman colocou) "engolir o médico". A ideia foi discutida no ensaio de Feynman em 1959, Há muito espaço na parte inferior.
+
+
+== Biofísicos famosos ==
+Luigi Galvani, descobridor da bioelectricidade
+Hermann von Helmholtz, primeiro a medir a velocidade de impulsos nervosos
+Alan Hodgkin e Andrew Huxley, visão moderna do impulso nervoso
+Georg von Békésy, investigação sobre a audição humana
+Bernard Katz, descoberta do funcionamento das sinapses
+Maurice Wilkins e Rosalind Franklin, pioneiros da cristalografia de DNA
+Francis Crick, descoberta da estrutura do DNA
+Max Perutz e John Kendrew, pioneiro da cristalografia de proteínas
+
+
+== Ver também ==
+Bioquímica
+Biotecnologia
+Química
+Física Biológica
+Física médica
+Bioengenharia
+Engenharia biológica
+Engenharia biomédica
+Físico-química
+
+
+== Referências ==

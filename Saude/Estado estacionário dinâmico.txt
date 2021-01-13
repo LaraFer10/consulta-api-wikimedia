@@ -1,0 +1,74 @@
+Antes de falarmos em Estado Estacionário Dinâmico precisamos compreender o significado do termo homeostase. Quando os fisiologistas falam em homeostase, eles estão se referindo à estabilidade do meio interno do corpo. Homeostase não significa equilíbrio, por isso, estabilidade é um termo mais apropriado.
+
+
+=== Compartimentos líquidos do corpo ===
+Nosso organismo possui dois compartimentos líquidos: plasma sanguíneo e o líquido intersticial (estes formam o LEC - líquido extracelular) e o líquido intracelular (LIC). Em um estado de homeostase a composição de ambos os compartimentos é relativamente estável. Se Compararmos os solutos em cada compartimento, notaremos diferentes concentrações no LEC e no LIC. Por causa desses gradientes de concentração diferentes, os compartimentos líquidos encontram-se em um estado de equilíbrio e dois estados de desequilíbrio.A água é uma molécula que se move de modo relativamente livre entre os compartimentos do organismo gerando um equilíbrio osmótico. Ao mesmo tempo, entretanto, o fluxo de moléculas e íons entre os compartimentos líquidos do corpo ocorrem de forma desigual, acarretando dois estados de desequilíbrio: químico e elétrico. Tais desequilíbrios são de suma importância para a vida.As diferenças de concentração do desequilíbrio químico são características dos organismos vivos e apenas a entrada contínua de energia mantém o corpo nesse estado. Por exemplo, os íons 
+  
+    
+      
+        
+          K
+          
+            +
+          
+        
+      
+    
+    {\displaystyle K^{+}}
+   que escapam para fora da célula e os íons 
+  
+    
+      
+        N
+        
+          a
+          
+            +
+          
+        
+      
+    
+    {\displaystyle Na^{+}}
+   que escapam para dentro da célula retornam aos seus compartimentos originais pela ação, com uso de energia, da enzima 
+  
+    
+      
+        N
+        
+          a
+          
+            +
+          
+        
+        −
+        
+          K
+          
+            +
+          
+        
+        −
+        A
+        T
+        P
+        a
+        s
+        e
+      
+    
+    {\displaystyle Na^{+}-K^{+}-ATPase}
+  . Quando as células morrem e não podem usar energia, elas obedecem à segunda lei da termodinâmica, retornando a um estado de desordem e a perda do desequilíbrio químico.
+O corpo como um todo é eletricamente neutro, porém, o interior das células é ligeiramente negativo em relação ao líquido extracelular. Esse desequilíbrio iônico gera um estado de desequilíbrio elétrico, cuja alteração, cria os importantes sinais elétricos.
+O equilíbrio osmótico e os dois desequilíbrios são estados estacionários dinâmicos. O termo dinâmico indica que os materiais estão constantemente em movimento entre o LEC e o LIC. Já o termo estacionário indica que não há movimento resultante de materiais entre os compartimentos. Tanto o equilíbrio osmótico, quanto os desequilíbrios químico e elétrico são essenciais para os seres vivos. O objetivo da homeostase é manter os estados estacionários dinâmicos dos compartimentos do corpo.
+
+
+== Referências ==
+
+
+== Bibliografia ==
+Silverthorn, Dee Unglaub. Fisiologia: uma abordagem integrada. Artmed, 5 ed., 2010.
+Donald E. Gardner, Toxicology of the Lung, Fourth Edition, CRC Press, 2005 ISBN 1-616-31020-0 (em inglês)
+Paul D. Boyer, Edwin G. Krebs, Enzymes, Volume 17 , Academic Press, 1986 ISBN 0-121-22717-0 (em inglês)
+Mark O. J. Olson, The Nucleolus , Springer Science & Business Media, 2004 ISBN 0-306-47873-0 (em inglês)
+Arthur Koch, Bacterial Growth and Form , Springer Science & Business Media, 2001 ISBN 1402000677 (em inglês)
+Jan-Michael Peters, J. Robin Harris, Daniel Finley, Ubiquitin and the Biology of the Cell , Springer Science & Business Media, 1998 ISBN 0-306-45649-4 (em inglês)

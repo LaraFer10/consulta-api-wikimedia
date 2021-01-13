@@ -1,0 +1,23 @@
+A coenzima A (CoA, CoASH ou HSCoA) é uma coenzima, notável pelo seu papel na síntese e na oxidação de ácidos gordos, assim como na descarboxilação oxidativa do ácido pirúvico antes do ciclo de Krebs. A sua molécula é constituída por ácido pantoténico (vitamina B5), adenosina trifosfato e cisteamina.
+
+
+== Função ==
+Posto que a coenzima A é quimicamente um tiol, pode reagir com os ácidos carboxílicos para formar tioésteres, de modo que atue como um portador de grupo acilo. Uma molécula de coenzima A que leva um grupo acetilo é referida como Acetil-CoA. Quando não está unida a um grupo acetilo é referida  geralmente como "CoASH" o "HSCoA".
+Quando a Coenzima A se une ao Acetil, ela permite que ele seja degradado pelas enzimas do ciclo de krebs, o qual ocorre posteriormente a degradação da mesma
+
+
+== Estrutura ==
+A coenzima A é composta de elementos diferentes: um nucleótido, o difosfato de adenosina (ADP), uma vitamina (a B5, ácido pantotênico) e um aminoácido, a cisteína, ligeiramente modificados pela ligação entre eles.
+
+Pela imagem acima, a coenzima A é composta de:
+
+a adenosina 3'-fosfato
+o pirofosfato
+o ácido pantoico (3 + 4 = ácido pantotênico)
+a β-alanina
+a cisteamina (2-aminoetanotiol)A parte reativa é a função tiol (-SH) da tioetanolamina e ela é simbolizada muitas vezes por HS-CoA (ou CoA-SH).
+
+
+== Referências ==
+
+Predefinição:Cofactores enzimáticocs

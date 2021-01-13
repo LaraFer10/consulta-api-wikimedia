@@ -1,0 +1,21 @@
+A calorimetria de titulação isotérmica (ITC) é uma técnica biofísica usada para determinar parâmetros termodinâmicos de interações bioquímicas. É frequentemente usada para estudar a ligação de pequenas moléculas (como, por exemplo, compostos medicinais) a grandes macromoléculas (proteínas, DNA etc.). 
+
+
+== Medições termodinâmicas ==
+ITC é uma técnica quantitativa que pode medir diretamente a afinidade de ligação (Ka), mudanças na entalpia (ΔH), e estequiometria da ligação (n) da interação entre duas ou mais moléculas em solução. Destas medições iniciais, mudanças na energia livre de Gibbs (ΔG), e mudanças na entropia (ΔS), podem ser determinadas usando a relação:
+
+ΔG = -RTlnK = ΔH-TΔS(onde R é a constante dos gases e T é a temperatura absoluta).
+
+
+== O Instrumento ==
+
+Calorimetria de titulação isotérmica é composta por duas pilhas idênticas feitas de um condutor  térmico altamente eficiente e de material quimicamente inerte, tal como ouro ou ligas de Hastelloy, rodeado por uma camisa adiabática . Termopilha Sensível / circuitos de termopares são usados para detectar as diferenças de temperatura entre a célula de referência (cheia com tampão ou água) e a célula de amostra, contendo a macromolécula. Antes da adição do ligante, uma potência constante (<1 mW) é aplicada à célula de referência. Isto direciona um circuito de realimentação a ativação de um aquecedor localizado na célula de amostra. Durante a experiência, o ligante é titulado para a célula das amostras em alíquotas precisamente conhecidas, fazendo com que o calor suba (dependendo da natureza da reação). Medições consistem da entrada em função do tempo de energia requerida para manter uma temperatura igual entre a amostra e as células de referência.
+Numa reação exotérmica, a temperatura na célula de amostra aumenta com a adição de um ligante. Isto faz com que a potência de feedback para a célula de amostra seja diminuída (lembrar: uma fonte de referência é aplicada à célula referente), a fim de manter uma temperatura igual entre as duas células. Em uma reação endotérmica, ocorre o inverso, o circuito de realimentação aumenta a potência de modo a manter uma temperatura constante (operação isotérmica / isotérmica).
+As observações estão representadas como a potência necessária para manter a referência e a célula de amostra a uma temperatura idêntica contra o tempo. Como resultado, os dados brutos experimentais consistem de uma série de picos de fluxo de calor (alimentação), com cada ponto correspondendo a uma injeção ligando. Estes pulsos de calor são integrados com respeito ao tempo, dando o calor total trocado por injeção. O padrão destes efeitos de calor como uma função da razão molar [ligante] / [macromolécula] pode então ser analisado para dar os parâmetros termodinâmicos da interação em estudo. Deve notar-se que as amostras de desgaseificação são frequentemente necessárias, a fim de se obter boas medições como a presença de bolhas de gás no interior da célula da amostra, isso pode gerar erros nos resultados registados. Todo o experimento ocorre sob o controle do computador.
+
+
+== Aplicação na descoberta de medicamentos ==
+ITC é uma das técnicas mais recentes para serem utilizadas na caracterização de afinidade de ligação de ligantes para proteínas. É normalmente utilizada como uma técnica de triagem secundária em High throughput screening. ITC é particularmente útil, uma vez que não só dá a afinidade de ligação, mas também a termodinâmica da ligação. Esta caracterização termodinâmica permite maior otimização de compostos.
+
+
+== References ==

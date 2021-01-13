@@ -1,0 +1,30 @@
+Uma aldo-hexose ou aldoexose é um carboidrato linear de fórmula C6H12O6, em que o carbono de um dos extremos da cadeia (carbono 1) forma um grupo aldeído, e os demais carbonos estão ligados a uma hidroxila.Os quatro carbonos intermediários (carbonos 2 a 5) são quirais, então existem 24 isômeros óticos. Emil Fischer convencionou denominar os pares de enantiômeros como D- ou L- de acordo com a orientação do carbono 5, comparando com o carbono 5 da D-glucose ou da L-glucose.Dos dezesseis isômeros, apenas três ocorrem na natureza: D-glucose, D-galactose e D-manose[carece de fontes?].
+As oito D-aldo-hexoses são:
+   CH=O           CH=O          CH=O            CH=O
+   |              |             |               |
+  HC-OH        HO-CH           HC-OH         HO-CH
+   |              |             |               |
+  HC-OH          HC-OH       HO-CH           HO-CH
+   |              |             |               |
+  HC-OH          HC-OH         HC-OH           HC-OH
+   |              |             |               |
+  HC-OH          HC-OH         HC-OH           HC-OH
+   |              |             |               |
+   CH2-OH         CH2-OH        CH2-OH          CH2-OH
+D-Alose      D-Altrose     D-Glucose      D-Manose
+
+   CH=O        CH=O            CH=O            CH=O
+   |           |               |               |
+  HC-OH     HO-CH             HC-OH         HO-CH
+   |           |               |               |
+  HC-OH       HC-OH         HO-CH           HO-CH
+   |           |               |               |
+HO-CH       HO-CH           HO-CH           HO-CH
+   |           |               |               |
+  HC-OH       HC-OH           HC-OH           HC-OH
+   |           |               |               |
+   CH2-OH      CH2-OH          CH2-OH          CH2-OH
+D-Gulose    D-Idose       D-Galactose        D-Talose
+
+
+== Referências ==

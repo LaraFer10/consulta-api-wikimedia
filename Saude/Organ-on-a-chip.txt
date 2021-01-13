@@ -1,0 +1,8 @@
+Um organ-on-a-chip (OC) é um chip tridimencional multi-canal de cultura de células microfluídicas que simula as atividades, mecânica e a resposta fisiológica de órgãos e de completos sistemas de órgãos, um tipo de órgão artificial. Constitui o tema de uma importante pesquisa em engenharia biomédica, mais precisamente em bio-MEMS. A convergência de labs-on-chips e biologia celular permitiu o estudo da fisiologia humana em um contexto específico de órgão, introduzindo um novo modelo de organismos humanos multicelulares in vitro.Em 2017, engenheiros biológicos da Universidade de Harvard inventaram um microchip que pode ser revestido com células humanas vivas para testes de drogas, modelagem de doenças e medicina personalizada. O organ-on-a-chip "humano" é um microchip feito de um polímero flexível transparente que contém canais microfluídicos ocos que são revestidos com células humanas vivas, juntamente com uma interface que alinha a superfície interior dos vasos sanguíneos e vasos linfáticos, conhecida como endotélio..
+
+
+== Doenças inflamatórias ==
+Pesquisadores que usam o modelo physiome on-a-chip exploraram o papel das células imunes circulantes na colite ulcerosa e em outras doenças inflamatórias. Eles descobriram que um subproduto metabólico produzido por bactérias que vivem no intestino humano assume um trabalho significativo nessas condições inflamatórias.
+
+
+== Referências ==

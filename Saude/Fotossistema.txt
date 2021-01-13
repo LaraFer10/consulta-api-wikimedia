@@ -1,0 +1,29 @@
+Os fotossistemas são complexos proteicos envolvidos no processo de fotossíntese. Podem ser encontrados nos tilacoides de plantas, algas e cianobactérias (nas plantas e algas estão localizados nos cloroplastos), ou em membranas citoplasmáticas de bactérias fotossintéticas. O fotossistema (ou centro de reacção fotossintético) é uma enzima que utiliza a luz para reduzir moléculas. Este complexo proteico membranar é composto por diversas subunidades e contém numerosos cofactores.
+Nas membranas fotossintéticas, os centros de reacção providenciam a força motriz para a cadeia transportadora de elétrons e de prótons. Quando a luz é absorvida por um centro de reação (diretamente ou através dos pigmentos antena vizinhos), uma série de reações de oxido-redução são iniciadas, levando à redução de um aceitador terminal. Existem duas famílias de fotossistemas: centros de reação do tipo I (como o fotossistema I, P700, nos cloroplastos e em bactérias verdes sulfurosas) e centros de reação do tipo II (como o fotossistema II, P680), nos cloroplastos e em bactérias púrpuras não sulfurosas.
+Cada fotossistema pode ser identificado pelo comprimento de luz ao qual é mais reativo (700 e 680 nanometros, para o PSI e PSII, respectivamente) e pelo receptor final de elétrons. Os fotossistemas de tipo I, usam um complexo proteico ferrosulfuroso do tipo ferredoxina, como aceptores finais de elétrons. Os fotossistemas II, em última análise, movimentam elétrons para uma quinona. De notar que ambos os tipos de centros de reacção estão presentes em cloroplastos e em cianobactérias, trabalhando em conjunto para a formação de uma cadeia fotossintética capaz de extrair elétrons da água, libertando o oxigênio como subproduto.
+
+
+== Estrutura ==
+
+Um centro de reação compreende várias (> 10 ou >11) subunidades proteicas, providenciando um esqueleto para uma série de cofactores. Os últimos podem ser pigmentos (clorofila, feofitina, carotenóides), quinonas ou complexos ferrosulfurosos. Porque a clorofila a só consegue absorver luz num pequeno intervalo de comprimento de luz, trabalha em conjunto com outros pigmentos antena com vista a ganhar mais energia a partir de um intervalo maior do espectro de luz. Os pigmentos absorvem luz de vários comprimentos de onda, transferindo a energia assim ganha, para a clorofila do centro de reação. Quando a energia chega à clorofila a, existe a libertação de dois elétrons para a cadeia transportadora de elétrons.
+
+
+== Relações entre o fotossistema I e II ==
+Historicamente, o fotossistema I foi nomeado desta forma visto que foi descoberto antes que o fotossistema II. A numeração não representa a ordem pela qual os elétrons fluem.
+Quando o fotossistema II absorve luz, os elétrons na clorofila do centro de reação são excitados para um nível de energia mais elevado e são captados pelo aceptor primário de elétrons. Para compensar a deficiência em elétrons, outros são extraídos da água, através de fotólise ou por via enzimática, sendo depois direcionados para a clorofila.
+Os elétrons fotoexcitados viajam através do complexo citocromos b6f para o fotossistema I, via cadeia transportadora de elétrons existente na membrana tilacoidal. Esta queda de energia é controlada (o processo todo é denominado quimiosmose), para transportar prótons (H+) através da membrana, providenciando uma força motriz protônica para a geração de ATP. Se os elétrons apenas passarem uma vez, o processo leva o nome de fotofosforilação não-cíclica ou acíclica.
+Quando o elétron chega ao fotossistema I, preenche a deficiência eletrônica da clorofila do centro de reação do fotossistema I. A deficiência é devida à fotoexcitação dos elétrons que são novamente sequestrados numa molécula aceptora de elétrons, neste caso a do fotossistema I.
+Estes elétrons podem seguir uma de duas vias: continuar no transporte cíclico de elétrons através do fotossistema I ou passar, via ferredoxina, para a enzima NADP+ redutase. Dois elétrons (e-) e dois prótons (H+) são adicionados ao NADP+ para formar NADPH. Este agente redutor é transportado para o cliclo de Calvin para reagir com o 3-fosfoglicerato (PGA), juntamente com ATP, para formar gliceraldeído-3-fosfato (GADP), o bloco de construção fundamental a partir do qual as plantas podem produzir uma variedade de substâncias.
+
+
+== Ver também ==
+Centro reacional fotossintético
+Fotossíntese
+Clorofila
+
+
+== Ligações externas ==
+(Em inglês) Photosystems I + II: Imperial College, Barber Group
+(Em inglês) Photosystem I: Molecule of the Month in the Protein Data Bank
+(Em inglês) Photosystem II: Molecule of the Month in the Protein Data Bank
+(Em inglês) Photosystem II: ANU

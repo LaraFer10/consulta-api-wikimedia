@@ -1,0 +1,87 @@
+Engenharia biológica  ou bioengenharia é a aplicação dos princípios de biologia e da engenharia ao processamento de materiais, através de agentes biológicos, para prover bens e assegurar serviços.
+Este ramo interdiciplinar aproveita também a aplicação de conhecimentos de matemática, química, física, programação, microbiologia economia, entre outros à concepção, desenvolvimento e operação de instalações ou instrumentos que permitem a utilização de organismos vivos para a produção biotecnológica.
+
+
+== Bioengenheiro ==
+Os bioengenheiros (engenheiros biológicos) são profissionais da saúde como biólogos ou em engenheiros em geral que usam os princípios da biologia e as ferramentas de engenharia para criar produtos utilizáveis, tangíveis e economicamente viáveis. A engenharia biológica emprega  conhecimentos de uma série de ciências puras e aplicadas , tais como processos de transferência de massa e transferência de calor, cinética, biocatalisadores, biomecânica, bioinformática, separação e purificação, design de biorreator, ciência de superfície, mecânica de fluidos e termodinâmica. É utilizado na concepção de dispositivos médicos, equipamentos de diagnóstico, materiais biocompatíveis, bioenergia renovável, engenharia agrícola e outras áreas que melhoram o padrão de vida das sociedades.Os engenheiros biológicos geralmente tentam imitar sistemas biológicos para criar produtos ou modificar e controlar sistemas biológicos, como organismos vivos ou vírus  para que estes possam trazer algum bem em relação ao que se espera.  Os bioengenheiros podem aplicar seus conhecimentos a outras aplicações de engenharia e biologia, incluindo modificações genéticas de plantas ou microorganismos.
+
+
+=== No Brasil ===
+
+No Brasil não há uma única graduação ou pós-graduações que habilitem para a área, sendo os "bioengenheiros" designados por aqueles que trabalham com o intermédio da biologia e engenharias juntas, sendo biólogos  e médicos entre os principais profissionais que usam da bioengenharia no quesito "melhoramento biológico" para o aperfeiçoamento da prática da biologia e da medicina, ou engenheiros químicos, engenheiros bioquímicos, engenheiros de bioprocessos  e engenheiros biomédicos profissionais da bioengenharia que usam de técnicas da engenharia em si para construção de equipamentos que agreguem no contexto biológico profissional e científico.
+
+
+== História ==
+A bioengenharia é uma disciplina científica baseada na biologia da mesma forma que a engenharia química,  engenharia elétrica e engenharia mecânica podem ser baseadas em química, eletricidade e magnetismo e mecânica clássica, respectivamente.
+Essa área pode ser diferenciada das suas raízes da biologia em si ou outros campos de engenharia geral. Estudos biológicos seguem frequentemente uma abordagem reducionista ao visualizar um sistema em sua escala menor possível, o que naturalmente leva ao desenvolvimento de ferramentas como a genômica funcional. As abordagens de engenharia, usando perspectivas de design clássico, são construtivas, criando novos dispositivos, abordagens e tecnologias de componentes ou conceitos. A engenharia biológica usa tanto a biologia quanto a engenharia para as abordagens em concertação, e dependendo de abordagens reducionistas para identificar, compreender e organizar as unidades fundamentais, que são então integradas para gerar algo novo.
+
+
+== Equipamentos e áreas de influência da bioengenharia ==
+Exemplo clássico do uso de equipamentos, dispositivos e sistemas de bioengenharia é a aparelhagem utilizada em hospitais nos Centros Cirúrgicos e Unidades de Terapia Intensiva em geral.
+O bioengenheiro projeta e mantém funcionando equipamentos e instrumentos para substituir ou complementar, temporária ou permanentemente, a função de um órgão, por exemplo: as próteses utilizadas por seres humanos e outros animais, respiradores, monitores diversos, capnógrafos, oxímetros, equipamentos de hemodiálise, etc.
+
+
+=== Instrumentos para diagnósticos ===
+São os bioengenheiros atualmente os responsáveis pelo desenvolvimento de equipamentos para exames e diagnósticos por imagem como ressonância magnética nuclear, raios-X para uso clínico, tomografia computadorizada, mamógrafos, ultrassonografia, endoscópios, etc.
+
+
+== Equipamentos de manutenção da vida ==
+A bioengenharia estuda e desenvolve instrumentos essenciais à manutenção da vida como esfigmomanômetros, hemodiálise, bombas infusoras ou bomba de infusão, bombas de sangue, pulmões artificiais (ventiladores), desfibriladores, incubadoras neonatais, etc.
+
+
+== Instrumentos para Centros Cirúrgicos e Unidades de Terapia Intensiva ==
+Em cirurgias são utilizados equipamentos desenvolvidos por bioengenheiros: bisturis convencionais e eletrônicos, espéculos dos mais diversos, catéteres, bombas de vácuo, coaguladores eletrônicos, desfibriladores, marca passos, autoclaves etc. Também faz parte da bioengenharia a instrumentação necessária à observação, diagnóstico e análises clínicas como microscópios óticos, laparoscópios,  endoscópios, cardiógrafos, eletroencefalógrafos, etc.
+
+
+== Análises clínicas ==
+Os instrumentos de Laboratórios de análises clínicas desde Espectrofotômetros de Absorção Atômica até centrífugas microhematocritas, são desenvolvidos e projetados por bioengenheiros.
+
+
+== Outras áreas ==
+Além da área hospitalar, a bioengenharia também pesquisa e desenvolve equipamentos metodologias e tecnologias para serem utilizadas em missões submarinas e espaciais, de instrumental para monitorar funções biológicas variadas, como circulação e respiração.
+
+
+=== Genética ===
+Os bioengenheiros também desenvolvem técnicas e equipamentos para a  manipulação ou pesquisa genética. Por exemplo os equipamentos de eletroforese são construídos por estes cientistas, que buscam através do estudo os melhores métodos e tecnologias para construir aqueles instrumentos, porém, não é o bioengenheiro que faz a manipulação genética, nem exames clínicos.
+
+
+== Engenharia genética e engenharia bioquímica ==
+Já na antiguidade eram conhecidos os processos de produção de pão e bebidas fermentadas. Também os Astecas cultivavam em lagos variedades de algas utilizadas como fontes de alimentos.
+A partir do século XIX e início do século XX, com o progresso das ciências, houve grandes avanços na tecnologia das fermentações e cultura de tecidos. No final da década de 1970, a engenharia genética revolucionou a engenharia biológica "clássica" dando origem ao que denominamos "nova" Biotecnologia.
+Atualmente torna-se possível, em alguns casos, "convencer" uma célula ou molécula  a fazerem algo para o qual  não estavam "programadas" inicialmente, utilizando-se de métodos de biologia molecular associados à Biologia, Bioquímica, Genética, Química do organismo e/ou molécula escolhido como agente de processo biotecnológico. Em geral, a engenharia genética, deve-se escolher e isolar o gene para determinado(s) produto(s)biotecnológico(s) e o agente biológico celular e em seguida inserir o gene em um vetor apropriado para então transferi-lo para o agente biológico celular(transformação). Em seguida ao processo de transformação, cultiva-se a célula na presença de agentes químicos que possam selecionar apenas as células transformadas com o vetor contendo o gene de interesse. Estas células podem ser células vegetais, microbianas, de mamíferos ou de insetos e mesmo de parasitas não-patológicos.
+
+
+== Engenharia de bioprocessos ==
+A engenharia de bioprocessos é uma integração de biotecnologia,  bioengenharia , engenharia química ou engenharia agrícola. Ela lida com a concepção e desenvolvimento de equipamentos e processos para a fabricação de produtos como alimentos, rações, produtos farmacêuticos, nutracêuticos, produtos químicos e polímeros, produção de biocombustíveis e papel a partir de materiais biológicos. A engenharia de bioprocessos é um conglomerado de matemática, biologia,química e design industrial, e consiste em vários espectros como projetos de biorreatores e o estudo de fermentadores. Abrange também estudar vários processos biotecnológicos utilizados nas indústrias de produção de grande escala de produto biológico para a otimização do rendimento no produto final e da qualidade do produto final, podendo incluir o trabalho dos engenheiros mecânicos, eletricistas e industrial para aplicar princípios de suas disciplinas de processos baseados no uso de células vivas ou sub componente de tais células.Também é chamada de Engenharia de Bioprocessos e Biotecnologia, Engenharia Bioquímica, Biotecnologia, e Ciências Biológicas com ênfase em Biotecnologia.
+
+
+=== Reatores biológicos ===
+Os reatores biológicos são recipientes onde microrganismos transformam reagentes em produtos. Os microrganismos podem estar livres ou em suportes. Por vezes, os microrganismos floculam, o que facilita a separação dos microrganismos dos produtos de reação.
+
+
+=== Processos de separação ===
+Após uma reação biológica os produtos da reacção têm que ser separados dos reagentes e dos microrganismos. Alguns dos processos de separação mais promissores são a ultrafiltração, a microfiltração e a diálise.
+
+
+== Engenharia Biomédica e engenharia de sistemas biológicos ==
+Estas áreas da Engenharia estão em grande expansão e se dedicam ao desenvolvimento de produtos que dão suporte à produção de alimentos, materiais e energia, produção de próteses, instrumentos médicos, equipamentos e kits de diagnóstico, e ao estudo do ser humano ou de organismos de importância agropecuária do ponto de vista da engenharia biológica e bioengenharia.
+
+
+== Setores importantes na engenharia biológica ==
+Sendo clássica ou moderna, a engenharia biológica impacta os setores mais diversos de bens e serviços. Podemos citar entre outros, a produção de alimentos, bebidas, produtos químicos, energia, produtos Farmacêuticos, pesticidas, purificação da água, tratamentos de resíduos, controle de poluição.
+
+Agricultura:  Adubo composto, pesticidas, silagem, mudas de plantas ou de árvores, plantas transgênicas, etc.Alimentação: Pães, queijos, picles, cerveja, vinho, proteína unicelular, aditivos, etc.Indústria química: Butanol, acetona, glicerol, ácidos, enzimas, metais, etc.Eletrônica: Biossensores, etc.Energia: Etanol, biogás, etc.Meio ambiente: Recuperação de petróleo, tratamento do lixo, purificação da água, etc.Pecuária:Embriões, animais transgênicos, etc.Saúde: Antibióticos, hormônios e outros produtos farmacêuticos, vacinas, reagentes e testes para diagnóstico, células-tronco e novos tratamentos, etc.
+
+
+== Debates ==
+
+
+=== Futuro da biotecnologia e engenharia biológica ===
+A biotecnologia tem provocado inúmeros debates e controvérsias, (biodiversidade, patentes, ética). Seu futuro depende dos fatores econômicos e sociais que condicionam o desenvolvimento industrial.
+
+
+== Referências ==
+
+
+== Ligações externas ==
+Departamento de Engenharia Biológica da Universidade do Minho - O que é a Engenharia Biológica

@@ -1,0 +1,87 @@
+A Análise de Redes é a área de tecnologia da informação e das ciências sociais que trata do processo de analisar qualquer tipo de rede por meio da teoria das redes. As redes podem ser social, de transporte ou tecnológicas, como a internet.
+A análise inclui descrições da estrutura, como redes de pequeno mundo, círculos sociais ou redes sem escala, otimização, como a Análise de Caminho Crítico e PERT (Program Evaluation & Review Technique), e propriedades como atribuição de fluxo.
+A teoria de redes preocupa-se com o estudo dos gráficos como uma representação quer de relações simétricas ou, mais geralmente, de relações assimétricas entre objetos discretos. Aplicações da teoria de redes incluem redes logísticas, a World Wide Web, Internet, redes reguladoras de genes, redes metabólicas, redes sociais, redes epistemológicas, etc.
+
+
+== Optimização de redes ==
+Problemas de redes que envolvem encontrar uma forma ideal para fazer algo são estudados sob o nome de otimização combinatória. Os exemplos incluem fluxo de redes, problemas de caminho crítico, problema de transporte, problema de alteração, problema de localização, problema de correspondência, problema de atribuição, de roteamento, análise do caminho crítico e PERT.
+
+
+== Análise de redes ==
+A análise de rede - assim como sua prima próxima, análise de tráfego -, tem uso significativo em atividades de inteligência. Ao monitorizar os padrões de comunicação entre os nós de uma rede, pode-se estabelecer sua estrutura. Isto pode ser usado para rastrear redes insurgentes de natureza tanto hierárquica quando descentralizada.
+
+
+=== Análise de redes sociais ===
+A análise de redes sociais mapeia relacionamentos entre indivíduos numa rede social. Examina a estrutura das relações entre entidades sociais. Essas entidades são, muitas vezes pessoas, mas também podem ser grupos, organizações, nações, websites, publicações académicas.
+Desde os anos 70, o estudo empírico das redes tem desempenhado um papel central na ciência social, e muitas das ferramentas Matemática e estatísticas usadas para estudar as redes foram primeiro desenvolvidas na Sociologia. Entre muitas outras aplicações, a análise de redes sociais tem sido usada para entender a difusão das inovações, notícias e rumores. Similarmente, tem sido usada para examinar  a propagação das doenças e comportamentos relacionados com saúde. Também tem sido aplicada no estudo dos mercados, onde tem sido usada para examinar o papel da confiança nas relações de troca e de mecanismos sociais na fixação de preços. Do mesmo modo, tem sido utilizada para estudar o recrutamento dentro dos movimentos políticos e organizações sociais. Também tem sido usada para conceptualizar divergências científicas bem como prestígio académico.
+
+
+=== Análise de redes biológicas ===
+O tipo de análise neste contexto está intimamente relacionado com a análise de rede social, mas foca-se frequentemente em padrões locais na rede. Por exemplo motivos de rede são pequenos subgrafos pequenos que estão sobre-representados na rede. Da mesma forma, motivos de atividade são padrões nos atributos de nós e arestas na rede que estão sobre-representadas dada a estrutura da rede.
+
+
+=== Análise de ligações ===
+A análise de ligações (ou de links) é um subsetor da análise de rede que explora associações entre objetos. Um exemplo pode ser quando a polícia examina os endereços de suspeitos e vítimas, os números de telefone que discaram e as transações financeiras que realizaram num determinado período de tempo, e as relações familiares entre estas pessoas. A análise de link (ou ligação) neste caso fornece as relações e associações cruciais entre vários objetos de diferentes tipos que não estão aparentes de pedaços isolados de informação. A análise de links assistida por computador ou totalmente automatizada é cada vez mais empregada por bancos e empresas de segurança de dados para detecção de fraudes, por operadoras de telecomunicação em análise de redes de comunicação, pelo setor médico em estudos de epidemiologia e farmacologia, na segurança pública e em investigações policiais, por mecanismos de busca para taxa de relevância (e, no sentido oposto, por spammers para spamdexação) e por empresários para otimização em retornos de sites de busca, além de todo lugar onde relacionamentos entre pessoas e objetos possam ser analisados.
+
+
+==== Robustez de redes ====
+A robustez estrutural das redes é estuda usando a teoria de percolação. Quando uma fração crítica de nós (ou ligações) é removida, a rede fica fragmentada em pequenos grupos desconexos. Este fenómeno é chamado de percolação e representa um tipo de fase de transição ordem-desordem  com expoentes críticos.
+
+
+==== Análise de ligação web ====
+Vários algoritmos de ranking de pesquisa na web usam ligações baseadas em métricas de centralidade, incluindo o PageRank do Google, o algoritmo HITS da Kleinberg, o CheiRank e algoritmos TrustRank. A análise de ligação também é realizada na ciência da informação e ciência da comunicação a fim de entender e extrair informações a partir da estrutura de coleções de páginas da web. Por exemplo, a análise pode ser da interligação entre os sites políticos ou blogs. Outra utilização é para a classificação de páginas de acordo com a sua menção em outras páginas.
+
+
+=== Medições de centralidade ===
+A informação sobre a relativa importância dos nós e arestas num gráfico pode ser obtida por meio de medições de centralidade. Por exemplo, centralidade eigenvetorial usa os eigenvetores da matriz de adjacência para determinar nós que tendem a ser freqüentemente visitados. Um exemplo é o algoritmo de ranking de páginas usados pelo Google.  O principal eigenvetor da matriz de adjacência modificada pela representação gráfica da WWW dá o ranking de páginas como seus componentes.A finalidade ou objectivo da análise determina geralmente o tipo de medida de centralidade a ser usado. Por exemplo, se alguém está interessado em dinâmica nas redes ou na robustez de uma rede para remoção do nó/ligação, muitas vezes a importância da dinâmica de um nó é a medida de centralidade mais relevante.
+
+
+=== Mistura associativa e dissociativa ===
+Estes conceitos foram feitos por causa da natureza de hubs numa rede. Geralmente chamam-se Hubs aos nós que têm muitas ligações. Se virmos uma ligação no hub, não há diferença entre os hubs, no entanto, algumas diferenças estão encerradas entre esses nós. Alguns hubs tendem a ligar a outros nós e outros hubs evitando ligar a outros nós. Dizemos que um hub é associativo quando tende para outros hubs. O oposto é o hub dissociativo, que evita ligar-se a outros hubs. Se alguns nós têm algumas ligações com as probabilidade aleatórias esperadas, os hubs são neutros. Existem três métodos para quantificar as correlações de grau.
+
+
+== Processos de propagação ==
+O conteúdo numa rede complexa pode-se propagar através de dois métodos principais: propagação conservada e propagação não conservada. Na propagação conservada, a totalidade de conteúdo que entra numa rede complexa permanece constante enquanto passa por ela. O modelo de propagação conservada pode ser melhor representado por um jarro contendo uma quantidade fixa de água sendo derramada numa série de funis ligados por tubos. Aqui, o jarro representa a fonte original e a água é o conteúdo sendo propagado. Os funis e os tubos de ligação representam os nós e as conexões entre eles, respetivamente. Enquanto a água passa de um funil para outro, desaparece instantaneamente do funil que foi anteriormente exposto à água. Na propagação não conservada, a quantidade de conteúdo altera-se à medida que entra e passa através da rede complexa. O modelo de propagação não conservada pode ser melhor representado por uma torneira a correr continuamente através de uma série de funis ligados por tubos. Aqui, a quantidade de água da fonte original é infinita. Também, quaisquer funis que tenham sido expostos à água, continuam a sentir a água, mesmo quando passa por funis sucessivos. O modelo não conservado é o mais adequado para explicar a transmissão das doenças mais infeciosas, excitação neural, informações e rumores, etc.
+
+
+== Redes interdependentes ==
+Redes interdependentes são um sistema de redes acopladas onde os nós de uma ou mais redes dependem de nós de outras redes. Essas dependências são reforçadas pelos desenvolvimentos da tecnologia moderna. Dependências podem conduzir a falhas em cascata entre redes e uma falha relativamente pequena pode conduzir a um colapso catastrófico do sistema. Apagões são uma demostração fascinante papel importante desempenhado pelas dependências entre as redes. Um estudo recente desenvolveu uma estrutura para estudar as falhas em cascata num sistema de redes interdependente.
+
+
+== Implementações ==
+Igraph Igraph, uma biblioteca de fonte aberta C para a análise  de redes complexas de grande escala, com interfaces para R, Python e Ruby.
+Graph-tool e  NetworkX, gratuitos e eficientes módulos Python para manipulação e análise estatística de redes.
+Orange, software gratuito de data mining, módulo orngNetwork.
+Pajek Pajek programa para (grande) análise de rede e visualização.
+Tulip, data mining gratuito e software de visualização dedicado à análise e visualização de dados relacionais.
+
+
+== Ligações externas ==
+netwiki Scientific wiki dedicated to network theory
+New Network Theory Conferência Internacional 'New Network Theory'
+Network Workbench: Análise de Redes de grande escala,ferramenta de modelação e visualização
+Network analysis of computer networks
+Network analysis of organizational networks
+Network analysis of terrorist networks
+Network analysis of a disease outbreak
+Link Analysis: An Information Science Approach (Livro)
+Connected: The Power of Six Degrees (Documento)
+Influential Spreaders in Networks, M. Kitsak, L. K. Gallos, S. Havlin, F. Liljeros, L. Muchnik, H. E. Stanley, H.A. Makse, Nature Physics 6, 888 (2010)
+A short course on complex networks
+A course on complex network analysis by Albert-László Barabási
+
+
+== Ver também ==
+Comunicação
+Teoria da informação
+Tecnologia da informação
+Teoria das redes
+Mineração de dados
+NTICs
+
+
+== Referências ==
+
+
+== Livros ==
+E. Estrada, "The Structure of Complex Networks: Theory and Applications", Oxford University Press, 2011, ISBN 978-0-199-59175-6

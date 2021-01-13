@@ -1,0 +1,69 @@
+Em genética, um promotor é uma região do DNA que inicia a transcrição de um determinado gene. Os promotores estão localizados perto do sítio de início da transcrição de genes, na mesma fita e a montante no DNA (para 5' da fita código). Os promotores podem ter por volta de 100-1000 pares de bases de comprimento.
+
+
+== Visão geral ==
+Para a transcrição acontecer, a enzima que sintetiza o RNA, conhecido como RNA polimerase, deve se anexar ao DNA perto de um gene. Promotores contêm sequências de DNA específicas como sequências consenso, que fornecem um sítio seguro de ligação para a RNA polimerase e para proteínas chamadas fatores de transcrição que recrutam a RNA polimerase. Estes fatores de transcrição têm sequências ativadoras ou repressoras de aminoácidos que se anexam a promotores específicos e regulam a expressão do gene.
+
+
+=== Em bactérias ===
+O promotor é reconhecido pela RNA polimerase e um Fator sigma  associado, que por sua vez é muitas vezes trazido para o DNA promotor pela ligação de uma proteína ativadora no seu próprio sítio de ligação de DNA nas proximidades.
+
+
+=== Em eucariotos ===
+O processo é mais complicado, e pelo menos sete diferentes fatores são necessários para a ligação de uma RNA polimerase II ao promotor.
+Promotores representam elementos essenciais que podem trabalhar em conjunto com outras regiões reguladoras (enhancers, silenciadores, elementos de fronteira/isolantes) para direcionar o nível de transcrição de um determinado gene. Um promotor é induzido em resposta a alterações na abundância ou conformação de proteínas reguladoras em uma célula, que permitem a ativação de fatores de transcrição para recrutar RNA polimerase.
+
+
+== Identificação da localização relativa ==
+Como os promotores estão normalmente imediatamente adjacentes ao gene em questão, posições no promotor são designadas em relação ao sítio de início da transcrição, onde a transcrição do DNA começa para um gene em particular (por exemplo, posições a montante são números negativos contando a partir de -1. Por exemplo, -100 é uma posição 100 pares de bases a montante).
+
+
+== Localização relativa no núcleo da célula ==
+No núcleo da célula, parece que os promotores são distribuídos preferencialmente na borda dos territórios cromossômicos, provavelmente para a co-expressão de genes em diferentes cromossomos. Além disso, em humanos, os promotores mostram certas características estruturais específicas de cada cromossomo.
+
+
+== Elementos ==
+Promotor essencial – conjunto mínimo de elementos do promotor necessário para poder iniciar a transcriçãoInclui o sítio de início da transcrição e elementos diretamente a montante
+Um sítio de ligação para a RNA polimerase
+RNA polimerase I: transcreve genes de codificação de RNA ribossomal 18s, 5,8s, 28s
+RNA polimerase II: transcreve genes que codificam RNA mensageiro (mRNA) e certos pequenos RNAs nucleares (snRNA) e microRNAs (miRNA)
+RNA polimerase III: transcreve genes de codificação de RNAs tranportadores (tRNA), RNA ribossomal 5s e outros pequenos RNAs
+Sítios de ligação de fatores gerais de transcrição, como por exemplo TATA box
+Promotor proximal – sequência normalmente a montante do gene que tende a conter elementos de regulamentação primários
+Cerca de 250 pares de bases a montante do local de início
+Sítios de ligação de fatores de transcrição específicos
+Promotor distal –  sequência distal a montante do gene que pode conter elementos adicionais de regulamentação, muitas vezes com menor influência do que do promotor proximal
+  Qualquer coisa mais a montante (mas não um enhancer ou outra região reguladora cuja influência é independente de posição/orientação)
+Sítios de ligação de fatores específicos de transcrição
+
+
+=== Bacterianos ===
+Em bactérias, o promotor contém dois elementos curtos de aproximadamente 6 pares de bases, um na posição - 10 (Pribnow Box) e outro na posição - 35 nucleotídeos a montante do sítio de início da transcrição (+1).
+
+A seqüência a -10 (o elemento -10) tem a sequência consenso TATAAT.
+A seqüência a -35 (elemento -35) tem a sequência consenso TTGACA.
+As sequências consenso acima, enquanto conservadas no geral, não são encontradas intactas na maioria dos promotores. Em média, apenas 3 a 4 dos 6 pares de bases em cada sequência consenso são encontrados em qualquer promotor. Poucos promotores naturais foram identificados até hoje que possuem sequências consenso intacto de ambos os elementos -10 e -35;  foi achado que promotores artificiais de conservação completa dos elementos -10 e -35 transcrevem com frequências mais baixas do que aqueles com poucas inadequações com o consenso.
+O melhor espaçamento entre as sequências -35 e -10 é de 17 bp.
+Alguns promotores contém um ou mais subsítios de elementos promotores a montante (elemento UP)Deve ser destacado que as sequências promotoras acima são reconhecidas apenas pela holoenzima RNA polimerase contendo sigma-70. Holoenzimas de RNA polimerase contendo outros fatores sigma reconhecem diferentes promotores essenciais.
+
+
+=== Eucarióticos ===
+Promotores eucarióticos são diversos e podem ser difíceis de caracterizar, no entanto, estudos recentes mostram que eles são divididos em mais de 10 classes.Promotores gênicos estão normalmente localizados a montante do gene e pode ter elementos de regulamentação de vários kilobases de distância do local de início de transcrição (enhancers). Nos eucariotos, o complexo de transcrição pode fazer o DNA curvar-se sobre si mesmo, o que permite a colocação de sequências regulatórias longe do local efetivo da transcrição. Promotores eucarióticos RNA-polimerase II-dependentes promotores podem conter um elemento TATA (sequência consenso TATAAA), que é reconhecido pelo fator geral de transcrição proteína ligante de TATA; e elemento de reconhecimento B (BRE), que é reconhecida pelo fator geral de transcrição TFIIB. O elementos TATA e BRE normalmente estão localizados perto do sítio de início de transcrição (normalmente por volta de 30 a 40 pares de base).
+Sequências regulatórias de promotores eucarióticos normalmente se ligam a proteínas chamadas fatores de transcrição envolvidos na formação do complexo transcricional. Um exemplo é a caixa-E (sequência CACGTG), que se liga a fatores de transcrição na família hélice-loop-hélice básica (bHLH)(por exemplo BMAL1-Clock, cMyc). Alguns promotores que são alvo de vários fatores de transcrição podem alcançar um estado hiperativo, levando ao aumento da atividade transcricional.
+
+
+== Constitutivo vs regulado ==
+Alguns promotores são chamados constitutivos, como eles estão ativos em todas as circunstâncias na célula, enquanto outros são regulados, tornando-se ativo na célula apenas em resposta a estímulos específicos.
+
+
+== Referências ==
+
+
+== Ver também ==
+Regulação genética
+Fator de transcrição
+Fator sigma
+RNA polimerase
+Gene
+Enhancer
+Repressor

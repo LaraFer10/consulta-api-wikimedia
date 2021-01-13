@@ -1,0 +1,9 @@
+Na genética, a teoria da coalescência é um modelo retrospectivo de genética populacional. Ele emprega uma amostra dos indivíduos de uma população para rastrear todos os alelos de um gene compartilhados por todos os membros da população até uma única cópia ancestral, conhecida como ancestral comum mais recente (MRCA; algumas vezes designado como coancestral para enfatizar a relação coalescente).
+
+
+== Fontes ==
+Hein, J; Schierup, M. H., and Wiuf, C. Gene Genealogies, Variation and Evolution – A Primer in Coalescent Theory. Oxford University Press, 2005. ISBN 0-19-852996-1.
+Nordborg, M. (2001) Introduction to Coalescent Theory
+Chapter 7 in Balding, D., Bishop, M., Cannings, C., editors, Handbook of Statistical Genetics. Wiley ISBN 978-0471860945
+Wakeley J. (2006) An Introduction to Coalescent Theory Roberts & Co ISBN 0-9747077-5-9 Accompanying website with sample chapters
+↑  Rice SH. (2004). Evolutionary Theory: Mathematical and Conceptual Foundations. Sinauer Associates: Sunderland, MA. See esp. ch. 3 for detailed derivations.

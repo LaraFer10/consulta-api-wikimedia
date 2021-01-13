@@ -1,0 +1,42 @@
+O receptor de histamina H4 é, como os outros 3  receptores de histamina, um membro da superfamília dos receptores acoplados à proteína G.
+
+
+== Distribuição nos tecidos ==
+O H4  é expresso amplamente na medula óssea e nos leucócitos, regulando a liberação de neutrófilos da medula ósea e subsequente infiltração no modelo murido de pleurisia induzida por zimosano. Ele também é expresso no cólon, no fígado, nos pulmões, no duodeno, no bao, nos testículos, no timo, nas tonsilas e na traqueia.
+
+
+== Função ==
+O receptor de histamina H4 está envolvido na mediação da mudança de formato de eosinófilos e quimiotaxia de mastócitos. Isso ocorre através da ação da subunidade βγ na fosfolipase C, levando a polimerização da actina e eventual quimiotaxia.
+
+
+== Estrutura ==
+A estrutura em 3D do receptor H4 ainda não foi solucionada devido a dificuldades na cristalização desse  GPCR. Algumas tentativas já foram feitas para desenvolver modelos estruturai desses receptores para diferentes propósitos. O primeiro modelo foi construído por homologia, baseado na estrutura cristalina da rodopsina bovina. Esse modelo foi utilizado para a interpretação de dados de mutagênese sítio-dirigida, que revelou a importância dos resíduos Asp94 (3.32) e Glu182 (5.46) na ligação a ligantes e ativação.
+Um segundo modelo do receptor H4 baseado em rodopsina foi utilizado com sucesso para a identificação de nos ligantes de H4 .Avanços recentes na cristalização de GPCR, em particular na determinação do receptor H1 complexado com doxepina will irão, provavelmente, aumentar a qualidade de novos modelos estruturais de receptores H4.
+
+
+== Ligantes ==
+
+
+=== Agonistas ===
+4-Metil-histamina
+VUF-8430 (éster ácido 2-[(Aminoiminometil)amino]etil carbamimidotióico)
+OUP-16
+
+
+=== Antagonistas ===
+Thioperamide
+JNJ 7777120
+VUF-6002 
+A987306
+A943931
+
+
+=== Therapeutic potential ===
+Através da inibição do receptor H4 é possível tratar asma e alergia.O antagonista de H4 altamente seletivo VUF-6002 é ativo oralmente e inibe a atividade tanto de mastócitos quato eosinófilos in vivo, e possui efeitos anti-inflamatórios e  anti-hiperalgésicos.
+
+
+== Referências ==
+
+
+== Ligações externas ==
+MeSH HRH4+protein,+human

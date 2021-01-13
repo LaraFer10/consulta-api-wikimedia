@@ -1,0 +1,6 @@
+
+== Hemoglobina desoxigenada (DesoxiHb) ==
+A hemoglobina é uma proteína globular composta por quatro subunidades. Cada subunidade possui um grupo heme, onde ocorre a ligação ao oxigênio. Essa proteína pode ser encontrada em três formas principais: a sem oxigênio (desoxiHb); a com oxigênio (oxiHb); e a com a presença de Fe3+(meta-hemoglobina). A estrutura quartenária da desoxiHb é chamada de estado T (tensa), tem como característica ser mais compacta. Essa conformação é responsável por se ligar mais ao CO2 do que a oxiHb, assim modulando a afinidade do O2 pela Hb. Outras moléculas como Cl- também se ligam diferencialmente à desoxiHb. Desse modo, o Cl- também modula a afinidade de Hb pelo O2. Em mamíferos a substância D-2,3-bifosfoglicerato (BPG), que está presente nos eritrócitos, se liga fracamente à oxiHb, mas fortemente à desoxiHb, reduzindo sua afinidade pelo oxigênio e mantendo a hemoglobina nessa conformação. Em passáros, o fosfato orgânico hexafosfato de inositol (IHP) faz o papel do BPG em mamíferos, da mesma forma, o ATP tem essa função em peixes e em boa parte dos anfíbios.
+
+
+== Referências ==

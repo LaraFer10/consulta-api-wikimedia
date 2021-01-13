@@ -1,0 +1,84 @@
+A síndrome de privação de antidepressivos, também conhecida como síndrome de descontinuação de antidepressivos por razões comerciais , é uma condição que pode ocorrer após a interrupção, redução de dose, ou descontinuação de fármacos antidepressivos, incluindo inibidores seletivos da recaptação da serotonina (SSRIs) ou inibidores de recaptação da serotonina e norepinefrina (SNRIs). Os sintomas podem ser comuns aos da vulgar constipação e incluir alterações do sono, dos sentidos, do movimento, do humor e do pensamento. Os sintomas podem ser suaves, autolimitados e resolver sem tratamento, embora em alguns casos possam ser severos, persistindo ao longo de meses ou anos e podendo necessitar de um tratamento específico.
+
+
+== Etiologia ==
+O desenvolvimento de modelos animais para explicar o mecanismo responsável por este fenómeno clínico tem sido difícil e estão a ser necessários estudos em humanos. Uma possível explicação prende-se com o facto de sintomas de privação provocados pela redução ou descontinuação de fármacos psicotrópicos poderem ocorrer devido à rápida redução da disponibilidade de serotonina quando o tratamento é abruptamente interrompido. No entanto, o surgimento desta sintomatologia pode não ser exclusivamente mediado pelos receptores de serotonina, uma vez que a serotonina exerce também um papel regulador em outros sistemas de receptores químicos no cérebro. Deste modo, tentativas de explicar os determinantes deste fenómeno pertencem ainda ao campo da especulação. Até à data, pelo menos 3 possíveis sistemas de recetores têm sido sugeridos como possíveis contribuintes para a ocorrência desta síndrome: o sistema da serotonina, o sistema da noradrenalina e o sistema colinérgico [2]
+
+
+== Impacto e prevalência ==
+Infelizmente, ainda não foram realizados estudos na população geral ou em populações clínicas para saber a incidência e prevalência desta síndrome.
+
+
+== ICD10 ==
+O código diagnóstico do ICD 10 relacionado com este tópico é o Y49. Refere-se a complicações devido a fármacos psicotrópicos não classificados em outra parte. Em particular, o código Y49.0 refere-se a antidepressivos tricíclicos e tetracíclicos; o código Y49.1 refere-se a antidepressivos inibidores da monoamina oxidase; o código Y49.2 serve para referência a outros antidepressivos (ou antidepressivos não especificados).
+
+
+== Sinais e sintomas ==
+Pessoas com sintomas de privação de antidepressivos têm estado sob o efeito continuado de antidepressivos durante semanas ou meses e, depois deste uso continuado, diminuíram ou descontinuaram a medicação. Os sintomas de privação podem ocorrer depois da descontinuação abrupta bem como depois de uma redução gradual. Uma lista completa de sintomas de privação após a redução ou descontinuação de SSRIs ou SNRIs está disponível abaixo e pode ser lida integralmente em Chouinard & Chouinard (2015).
+Em certos casos, sintomas de privação duram semanas ou meses; em alguns casos podem persistir durante meses ou anos. A paroxetina e a venlafaxina foram os primeiros antidepressivos a ser associados à privação quando reduzidos ou descontinuados, no entanto casos clínicos de síndrome de privação depois da redução ou descontinuação de sertralina, citalopram ou escitalopram foram recentemente publicados.
+
+
+== Diagnóstico ==
+Em 2015, Chouinard & Chouinard [3] publicaram os critérios de diagnóstico para síndromes de privação de SSRIs e SNRIs e identificaram 3 diagnósticos: novos sintomas de privação, sintomas ‘rebound’, perturbações pós-privação.
+Novos sintomas de privação podem ser diagnosticados quando as seguintes condições estão reunidas:
+
+O SSRI ou SNRI foi descontinuado ou reduzido depois de um uso continuado de 6 meses;
+Um ou mais dos seguintes sintomas ocorreram: náuseas, cefaleias, tremor, alterações do sono, diminuição da capacidade de concentração, ansiedade, irritabilidade, agitação, agressividade, depressão ou disforia;
+Dois ou mais novos sintomas especificamente relacionados com a serotonina ocorreram;
+Os sintomas são caracterizados por um pico de ocorrência dentro de 36 – 96 h depois da interrupção ou redução da dose do SSRI/SNRI (dependendo da duração de ação do fármaco), e persistem até 6 semanas (dependendo da meia-vida plasmática terminal do fármaco);
+Os sintomas causam mal-estar clinicamente significativo ou prejuízo social, ocupacional ou em outras importantes áreas de funcionamento;
+Os sintomas não são devidos a uma condição médica e não são melhor explicados por outra perturbação mental ou pelo uso de substâncias.Sintomas de privação ‘rebound’ podem ser diagnosticados quando as seguintes condições estão reunidas:
+
+O SSRI ou SNRI foi descontinuado ou reduzido depois de um uso continuado de 6 meses;
+Reaparecimento de sintomas iniciais (e.g. ansiedade, ansiedade psíquica, ansiedade somática, pânico, agitação, insónia, depressão, disforia, obsessões, compulsões) e pelo menos 4 dos seguintes critérios: maior intensidade de sintomas comparativamente ao período que antecedeu o tratamento, rápido aparecimento de sintomas; crença psicológica transitória e reversível da necessidade do fármaco; melhoria rápida de sintomas depois da reintrodução do fármaco;
+Os sintomas são caracterizados por um pico de ocorrência dentro de 36 – 96 h depois da interrupção ou redução da dose do SSRI/SNRI (dependendo da duração de ação do fármaco), e persistem até 6 semanas (dependendo da meia-vida plasmática terminal do fármaco);
+Os sintomas causam mal-estar clinicamente significativo ou prejuízo social, ocupacional ou em outras importantes áreas de funcionamento;
+Os sintomas não são devidos a uma condição médica e não são melhor explicados por outra perturbação mental ou pelo uso de substâncias.Finalmente, a perturbação pós-privação persistente pode ser diagnosticada quando as seguintes condições estão reunidas:
+
+O SSRI ou SNRI foi descontinuado ou reduzido depois de um uso continuado de 6 meses;
+Um ou mais dos seguintes: reaparecimento da doença original com uma intensidade superior à que existia antes do tratamento e/ou aparecimento da doença original com sintomas adicionais (e.g. características melancólicas de depressão); aparecimento de sintomas relacionados com a emergência de novas perturbações mentais;
+Os sintomas persistem por mais de 6 semanas depois da interrupção ou redução do fármaco e são caracterizados por dois ou mais dos seguintes critérios: maior severidade da doença comparativamente ao período que antecedeu o tratamento; reversível com remissão total ou parcial; resposta total ou parcial à reintrodução do fármaco descontinuado;
+Os sintomas são caracterizados por um pico de ocorrência que varia entre 24 horas e 6 semanas depois da interrupção ou redução da dose do SSRI/SNRI (dependendo da duração de ação e farmacologia do fármaco) e pode persistir por alguns meses ou mais;
+Os sintomas causam mal-estar clinicamente significativo ou prejuízo social, ocupacional ou em outras importantes áreas de funcionamento;
+Os sintomas não são devidos a uma condição médica e não são melhor explicados por outra perturbação mental ou pelo uso de substâncias.
+
+
+== Avaliação ==
+Até ao momento, apenas uma ferramenta de avaliação de sintomas de privação de antidepressivos foi desenvolvida. É designada de Discontinuation-Emergent Signs and Symptoms (DESS). Esta ferramenta não é diagnóstica e, até ao momento, apenas existe na versão Inglesa.
+
+
+== Duração ==
+Os sintomas podem durar semanas, meses ou anos. A estratégia para restaurar a medicação descontinuada não é baseada na evidência. Alguns casos clínicos sugeriram abordar de diferentes formas (ver abaixo).
+
+
+== Prevenção e tratamento ==
+A síndrome de privação de antidepressivos não pode ser prevenida através da descontinuação gradual do fármaco. Possíveis opções terapêuticas para síndromes de privação incluem: a. tomar a medicação como foi prescrita e, quando for para descontinuar, fazê-lo gradualmente. Quando da descontinuação de um antidepressivo com uma baixa meia-vida, a troca deste por um de meia-vida maior (e.g. fluoxetina) com subsequente descontinuação do segundo antidepressivo pode diminuir a severidade ou a probabilidade de ocorrência de sintomas[2] b. uso de clonazepam [3]; c. uso de psicoterapia cognitivo-comportamental específica.
+
+
+== Referências ==
+Persistent tardive rebound panic disorder, rebound anxiety and insomnia following paroxetine withdrawal: a review of rebound-withdrawal phenomena. Bhanji NH, Chouinard G, Kolivakis T, Margolese HC.  2006 Winter; Can J Clin Pharmacol. 13(1):e69-74.
+SSRI discontinuation syndrome. Awareness as an approach to prevention. Ditto KE. 2003 Aug; Postgrad Med. 114(2):79-84.
+Behavioral Toxicity Revisited: Iatrogenic Comorbidity in Psychiatric Evaluation and Treatment. Fava GA, Cosci F, Offidani E, Guidi J. 2016 Dec; J Clin Psychopharmacol. 36(6):550-553.
+Selective serotonin reuptake inhibitor discontinuation symptoms. Mahendran R, Chan A. 1999 Jul; Ann Acad Med Singapore. 28(4):596-9.
+Antidepressant discontinuation manic states: a critical review of the literature and suggested diagnostic criteria. Narayan V, Haddad PM. 2011 Mar; J Psychopharmacol. 25(3):306-13. doi: 10.1177/0269881109359094.
+Antidepressant discontinuation syndrome: consensus panel recommendations for clinical management and additional research. Schatzberg AF, Blier P, Delgado PL, Fava M, Haddad PM, Shelton RC. 2006; J Clin Psychiatry. 67 Suppl 4:27-30.
+Possible biological mechanisms of the serotonin reuptake inhibitor discontinuation syndrome. Discontinuation Consensus Panel. Schatzberg AF, Haddad P, Kaplan EM, Lejoyeux M, Rosenbaum JF, Young AH, Zajecka J. 1997; J Clin Psychiatry. 58 Suppl 7:23-7.
+The nature of the discontinuation syndrome associated with antidepressant drugs. Shelton RC. 2006; J Clin Psychiatry. 67 Suppl 4:3-7.
+Serotonin toxicity: a short review of the literature and two case reports involving citalopram. Talarico G, Tosto G, Pietracupa S, Piacentini E, Canevelli M, Lenzi GL, Bruno G. 2011 Jun; Neurol Sci. 32(3):507-9. doi: 10.1007/s10072-011-0546-z.
+Discontinuation symptoms after treatment with serotonin reuptake inhibitors: a literature review. Zajecka J, Tracy KA, Mitchell S. 1997 Jul; J Clin Psychiatry. 58(7):291-7.
+
+
+== Notas ==
+
+
+== Tópicos relacionados ==
+Antidepressivo
+Psicofármaco
+Paroxetina
+Venlafaxina
+Sertralina
+Escitalopram
+Fluvoxamina
+
+
+== Notas ==

@@ -1,0 +1,176 @@
+Biopython é uma biblioteca ou uma suite de ferramentas escritas em Python para manipulação de dados biológicos. Biopython apresenta uma coleção de classes, módulos e pacotes para análises de sequências biológicas, alinhamentos de sequências, estruturas de proteínas, genética de populações, filogenia, visualização de dados biológicos, detecção de regiões motivo em sequências, aprendizado de máquina, além de prover fácil acesso a bancos de dados biológicos.O Projeto Biopython faz parte da coleção de Bio* projetos open-source mantidos pela Open Bioinformatics Foundation.
+
+
+== História ==
+
+O desenvolvimento do Biopython iniciou-se no ano de 1999. Foi lançado em julho do ano 2000, entretanto a primeira versão surgiu apenas em março de 2001 e a primeira versão estável em dezembro de 2002.A ideia de produzir um pacote de programas para análises biológicas usando a linguagem Python foi encabeçada por Jeff Chang e Andrew Dalke, inspirados por Ewan Birney e pelo projeto BioPerl. Além de Jeff e Andrew, Brad Chapman logo se tornou um dos grandes colaboradores do projeto. Atualmente, Biopython conta com centenas de contribuidores.Desde o ano de 2012, Biopython superou BioPerl e passou a ser considerado o mais popular dos Bio* Projetos mantidos pela Open Bioinformatics Foundation.
+
+
+== Características ==
+A utilização da linguagem Python foi sugerida por ser uma linguagem de alto nível, com tipagem dinâmica e com baixa curva de aprendizado, que vem sendo bastante adotada em projetos no ensino de princípios da computação. Biopython é um  orientado a objetos. Biopython foi criado originalmente para rodar com Python 2, entretanto, a partir da versão 1.62 passou a suportar a execução em Python 3. A versão mais recente é a 1.70.Biopython permite acesso a programas usados em bioinformática, manipulação de arquivos de diversos formatos, além de acesso remoto a diversas bases de dados. Dentre os programas, formatos e bases de dados, pode-se citar: SwissProt, UniGene, SCOP, ExPASy, GenBank, Medline, PubMed, além de execução de programas como BLAST (local ou remoto), Clustalw e FASTA.
+
+
+== Download e instalação ==
+Biopython pode ser obtido em sua página oficial. Ele é suportado nos principais sistemas operacionais: Windows, Linux e MacOS. A instalação padrão em distribuições Linux requer apenas o download do arquivo de instalação, a descompactação e execução de três linhas de comando no terminal:No Windows, é possível realizar a instalação através de arquivos executáveis ou por meio do pip. Para isso acesse o CMD e execute o comando abaixo (o endereço do pip pode variar de acordo com a versão instalada do Python):
+Instalando no MacOS:
+
+Para outros sistemas operacionais ou outros métodos de instalação, consulte a documentação oficial do Biopython.
+
+
+== Exemplos ==
+
+
+=== Manipulações de sequências ===
+
+Em Biopython, sequências são declaradas como objetos e não como strings. O módulo necessário para manipulação de sequências é o Bio.Seq. Para trabalhar com sequências de nucleotídeos e aminoácidos é necessário ainda declarar o módulo Bio.Alphabet e a classe IUPAC, que define padrões internacionais para os alfabetos utilizados tanto para sequências de DNA, RNA e proteínas.
+
+A classe Seq apresenta métodos para manipulação de sequências, como por exemplo, a detecção da sequência complementar e complementar reversa de uma sequência de nucleotídeos pertencentes a DNA, métodos para transcrição (DNA -> RNA) e transcrição reversa (RNA -> DNA), além de métodos para tradução (RNA -> proteína / DNA -> proteína)..
+
+
+=== Manipulando arquivos no formato FASTA ===
+O formato FASTA é um padrão bastante utilizado em aplicações de bioinformática. Ele consiste num arquivo de sequências, a qual cada sequência possui um cabeçalho iniciado com o sinal de ">". Veja abaixo um exemplo de arquivo FASTA:Biopython apresenta o módulo SeqIO para leitura e manipulação de arquivos em diversos formatos. Por exemplo, dado um arquivo denominado "nome_arquivo.fasta", pode-se utilizar o método SeqIO.parse para percorrer o arquivo e obter informações como: título do cabeçalho e sequência completa.O módulo SeqIO também pode ser utilizado para manipular outros formatos, como o formato GenBank, que armazena informações de anotações de proteínas em genomas.
+
+
+=== Anotação de sequências ===
+A classe SeqRecord do módulo SeqIO permite o acesso a sequências de arquivos de anotação (formato "genbank"), além de outras informações como nome, descrição, informações sobre genes, CDS (sequência codificante), regiões de repetição, dentre outras informações.
+
+
+=== Estruturas de proteínas ===
+
+Biopython possui pacotes para manipulação de arquivos de estruturas de proteínas (formato PDB). O módulo Bio.PDB foi desenvolvido por Thomas Hamelryck e Bernard Manderick. Este módulo requer o pacote NumPy.
+Bio.PDB converte um arquivo de estrutura tridimensional em um objeto Structure seguindo a chamada arquitetura EMCRA (Estrutura, Modelo, Cadeia, Resíduo e Átomo; no original SMCRA architecture)[1]. Nesta abordagem:
+
+uma estrutura consiste em modelos;
+um modelo consiste em cadeias;
+uma cadeia consiste em resíduos;
+um resíduo consiste em átomos.
+
+
+==== Estrutura (structure) ====
+O objeto structure está no topo da hierarquia. Seu id é uma string dada pelo usuário. Ela pode ser lida a partir do método get_structure( ), que deve ser aplicado a um objeto de PDBParser( ).
+
+
+==== Modelo (model) ====
+Estruturas obtidas por cristalografia de raio-x tendem a apresentar apenas um modelo, enquanto estruturas obtidas por NMR podem apresentar diversos modelos.
+
+
+==== Cadeia (chain) ====
+Cadeias representam a estrutura quaternária de uma proteína, que pode ter uma ou mais. Para Biopython, o id de uma cadeia, em geral, é um caracter.
+
+
+==== Resíduo (residue) ====
+O id de um resíduo é uma tupla composta por três elementos:
+
+hetero-field (hetfield): "W" em caso de molécula de água; "H_" seguido de um nome de resíduo (ex.: "H_ALA"); e vazio (padrão para qualquer aminoácido);
+sequence identifier (resseq; identificador de sequência): um valor inteiro que descreve a posição do resíduo;
+insertion code (icode; código de inserção): usado para preservar posições de resíduos; esse campo recebe uma string (ex.: 'A).
+Entretanto, o hetero-field e o insertion code são opcionais. Observe o exemplo a seguir, a qual o 100º resíduo é extraído da cadeia A de uma proteína com apenas um modelo:Dois método podem ser aplicados a resíduos:
+
+
+==== Átomo (atom) ====
+O id de um átomo é uma string única para um resíduo (ex.: 'CA'; carbono-alfa).
+Além disso, Biopython permite a aplicação de diversos métodos para obtenção de informações sobre átomos.
+
+
+==== Baixando arquivos PDB ====
+É possível fazer o download de arquivos PDB usando o método retrieve_pdb_file( ), que recebe como parâmetro o código PDB.
+
+
+==== Salvando arquivos no formato PDB ====
+Bioptyhon fornece a classe PDBIO( ) para permitir o salvamento de arquivos no formato PDB. No exemplo a seguir é criado um arquivo contendo apenas "alaninas":
+
+
+==== Cálculo de distância entre átomos ====
+No exemplo a seguir é demonstrado o cálculo de distância entre dois átomos (posições 1 e 2) da cadeia A de uma estrutura tridimensional armazenada no arquivo "FILE.pdb":
+
+
+==== Salvando um arquivo PDB em formato FASTA ====
+É possível salvar um arquivo PDB em formato FASTA, entretanto é necessário o uso de CaPPBuilder( ) para auxiliar nesse processo.
+
+
+==== Alinhamento estrutural ====
+O módulo Bio.PDB permite o alinhamento estrutural entre arquivos PDB usando a classe Superimposer( ). Alinhamento estrutural é uma técnica da bioinformática estrutural que visa alinhar (rotacionar e translacionar) uma ou mais estruturas tridimensionais de macromoléculas a uma macromolécula referência.
+
+No exemplo a seguir, o arquivo "2.pdb" (PDB2) será alinhado estruturalmente ao arquivo "1.pdb" (PDB1). Ao final, um novo arquivo denominado "3.pdb", com novas coordenadas será salvo no mesmo diretório de execução do arquivo. Observe que para o alinhamento ser realizado, é necessário percorrer a variável que recebe a estrutura da proteína para obter-se os átomos. Por fim, os átomos do PDB2 são alinhados aos átomos do PDB1 e um novo arquivo é salvo com as novas coordenadas e o RMS é exibido.
+
+
+=== Visualização de dados biológicos ===
+
+Biopython possui um conjunto de métodos para auxiliar na produção de visualização de dados biológicos. Python apresenta o módulo pylab, que auxilia na construção de visualizações de dados. Biopython apresenta o pacote Bio.Graphics que trabalha em paralelo com a biblioteca ReportLab.
+
+
+==== Visualização de genomas ====
+O pacote Bio.Grafics apresenta o módulo GenomeDiagram para visualização de sequências. Bio.Graphics pode ser utilizado para visualização de regiões codificadoras e comparações sintênicas entre genomas. No exemplo a seguir temos a implementação da visualização de CDS em um arquivo de anotações gênicas no formato GenBank. 
+
+
+==== Sintenia entre genomas ====
+Define-se sintenia como regiões conservadas entre diferentes genomas de dois ou mais organismos. Para determinação de sintenia, utiliza-se ferramentas de alinhamento local, como por exemplo o BLAST. Em bioinformática, a visualização de sintenia permite comparações entre grandes blocos de genomas e pode ser realizada com ferramentas como ACT, CONTIGuator, MUMmer.
+
+No exemplo a seguir a sintenia entre dois genomas é executada. Como entrada são utilizados dois arquivos no formato GenBank. O primeiro genoma é exibido acima e o segundo abaixo. Linhas vermelhas indicam regiões sintênicas. Cada linha verde representa um gene. Linhas azuis representam regiões codificadoras de RNA ribossomal.
+
+
+=== Filogenia ===
+
+Biopython apresenta o módulo Bio.Phylo, que fornece métodos para manipular árvores filogenéticas. Bio.Phylo suporta diversos formatos, como por exemplo phyloXML, Newick e NEXUS. Manipulações e travessias de árvore comuns são suportadas através dos objetos "Tree" e "Clade". Os exemplos incluem a conversão e o agrupamento de arquivos de árvores, a extração de subconjuntos de uma árvore, a alteração da raiz de uma árvore e a análise de recursos de ramificações, como comprimento ou pontuação.Árvores enraizadas podem ser desenhadas em ASCII ou usando o matplotlib, e a biblioteca Graphviz pode ser usada para criar layouts não-arraigados.
+
+
+=== Genética de populações ===
+O módulo Bio.PopGen adiciona suporte ao Biopython para Genepop, um pacote de software para análise estatística da genética de populações. Isso permite análises do equilíbrio de Hardy-Weinberg, desequilíbrio de ligação e outras características das frequências alélicas de uma população.
+Este módulo também pode realizar simulações genéticas de populações usando a teoria coalescente com o programa fastsimcoal2.
+
+
+=== Acessando bases de dados online ===
+Biopython permite o download de arquivos de bases de dados online, como por exemplo as bases de dados de nucleotídeos do NCBI, por meio do módulo Entrez.
+
+
+== Wrappers ==
+Biopython possui métodos para fácil execução de ferramentas externas e manipulação dos arquivos de saída. Os principais pacotes são:
+
+Bio.Align.Applications: permite acesso a ferramentas de alinhamento;
+Bio.Blast.Applications: permite acesso a alinhamentos locais de sequência com BLAST;
+Bio.Emboss.Applications: permite o acesso a aplicações Emboss;
+Bio.Sequencing.Applications: permite acesso a ferramentas de manipulação de dados de sequenciamento.
+
+
+=== Alinhamentos múltiplos ===
+O pacote Bio.Align permite fácil acesso a ferramentas de alinhamento múltiplos de sequências executadas por linha de comando, dentre eles: Clustal Omega, Clustal W, DIALIGN 2-2, MAFFT, MUSCLE, PRANK, PROBCONS e T-Coffee.
+
+A seguir será demonstrado um exemplo de alinhamento múltiplo usando o software Clustal W:
+
+
+=== BLAST ===
+BLAST é uma ferramenta para busca de alinhamentos locais de sequências. Biopython permite execução de BLAST localmente e pela internet.
+
+
+==== BLAST pela Internet ====
+Biopython permite a execução de BLAST pelo web service do NCBI usando a função qblast( ) da classe NCBIWWW do módulo Bio.Blast. A execução de BLAST online pela classe NCBIWWW requer como entrada a versão do BLAST utilizada para busca (blastn, blastp, blastx ou tblastn), além da base de dados, a sequência armazenada no objeto que recebeu o arquivo FASTA de busca e um tipo de formato para saída dos dados.
+
+
+==== BLAST Local ====
+Executar BLAST localmente, em geral, é mais rápido que pela Internet. Além disso, isso permite que você construa suas próprias bases de dados. Entretanto, para isso é necessário:
+
+Suíte NCBI-BLAST+ instalada;
+Base de dados desejadas para consultas estejam armazenadas localmente.Você pode comparar duas sequências em localmente usando o comando NcbiblastnCommandline (usado para sequências de nucleotídeos). Para isso, é necessário que a suite de aplicações NCBI-BLAST+ esteja instalada.Biopython também permite a execução de outras versões do programa BLAST:
+
+
+== Veja também outros Bio* projetos ==
+BioPHP
+BioPerl
+BioRuby
+BioJS
+BioJava
+BioSQL
+BioDAS
+BioMOBY
+
+
+== Links externos ==
+Página oficial do Biopython Project
+Biopython Tutorial e Cookbook
+Documentação de instalação do Biopython
+Download Biopython
+Repositório no GitHub
+Twitter oficial Biopython
+
+
+== Referências ==

@@ -1,0 +1,56 @@
+Os telômeros (português brasileiro) ou telómeros (português europeu) (do grego telos, final, e meros, parte) são estruturas constituídas por fileiras repetitivas de proteínas e DNA não codificante que formam as extremidades dos cromossomos. Sua principal função é impedir o desgaste do material genético e manter a estabilidade estrutural do cromossoma. Os telômeros estão presentes principalmente em células eucarióticas, visto que o DNA das células procarióticas forma cadeias circulares, logo não tem locais de terminação, embora existam exceções como: bactérias com DNA linear e que possuem telômeros.
+Cada vez que a célula se divide, os telômeros são ligeiramente encurtados, pois a principal enzima que participa na replicação semiconservativa do DNA - a DNA polimerase- necessita de uma ancora de 16 repetições da sequência TTAGGG (no caso humano) e apenas copia o material genético daí em diante, causando um encurtamento da extremidade da molécula de DNA. Como estes não se regeneram, chega a um ponto em que não permitem mais a correta replicação dos cromossomos e a célula perde completa ou parcialmente a sua capacidade de divisão, pois a DNApolimerase não é capaz de replicar o material genético. O encurtamento dos telômeros também pode eliminar certos genes que são indispensáveis à sobrevivência da célula ou silenciar genes próximos. Como o processo de renovação celular não tolera a morte das células antes da divisão correta das mesmas, o organismo tende a morrer num curto prazo de tempo no momento em que seus telômeros se esgotam.
+Os telômeros funcionam como um protetor para os cromossomos, assegurando que a informação genética (DNA) relevante seja perfeitamente copiada quando a célula se duplica. Os telômeros também protegem os cromossomas, de uma forma geral, da degradação, da recombinação e da translocação robertsoniana.
+Os telômeros foram identificados pela primeira vez por Hermann Joseph Muller, na década de 30 do século XX. Mais tarde, em 1965, Leonard Hayflick fez a primeira observação direta do fenômeno de morte celular sem pré-replicação. Em homenagem ao cientista, o comprimento mínimo que os telômeros podem alcançar antes de causar problemas à divisão celular passou a ser chamado de Limite de Hayflick.
+
+
+== Estrutura dos telômeros ==
+Na maioria dos organismos, os telômeros são formados por repetições simples de nucleotídeos. É essencial que o telômero esteja associado a uma proteína ou a um arranjo específico para que ele possa ser diferenciado das quebras cromossomáticas.
+Nos seres humanos os telômeros são formados pela repetição de seis nucleotídeos: TTAGGG, que compreendem até dezenas de quilobases. Os telómeros humanos contêm ainda um pequeno trecho de fita simples com poucas centenas de nucleotídeos.
+Acredita-se que pelo menos metade dos cromossomas dos mamíferos possui telómeros que formam um tipo mais complexo de arranjo, o chamado T-loop. Este T-loop tem entre cinco e dez mil bases de DNA e é catalisado pela proteína TRF2, que ajuda a estabilizar a extremidade do cromossoma. Além da presença de TRF2, a formação do T-loop depende também de mais dois fatores: repetições de fita dupla e repetições de fita simples.
+Os telômeros são sintetizados no final da replicação do DNA pela enzima telomerase, que é uma transcriptase reversa, pois sintetiza DNA tendo por molde uma molécula de RNA.
+
+
+== Outras questões associadas ==
+
+
+=== Telômero como relógio biológico ===
+Toda vez que a célula se duplica ela também duplica os cromossomas. Este processo, como já mencionado, encurta os telômeros das células, portanto, teoricamente pode-se definir com exatidão a expectativa de vida de um ser vivo analisando quantos telômeros ainda restam em suas células, ou seja, quantas vezes as células ainda poderão se duplicar antes de o indivíduo morrer. Assim, os telômeros podem ser considerados sofisticados relógios biológicos.
+
+
+=== Telômeros e clonagem ===
+Por diversos motivos os telômeros também têm sido alvo de pesquisas no ramo da clonagem. O fato é que em todas as clonagens feitas através de transferência nuclear, o ser vivo clonado acaba por morrer muito precocemente. Exemplo disso é a ovelha Dolly que envelheceu e morreu muito rapidamente. As células de um clone gerado por transferência nuclear são cópias de uma célula já adulta cujos telômeros já estão bastante encurtados, ou seja, a ovelha Dolly ao ser gerada tinha, biologicamente, a idade da ovelha que a originou, fato este que diminuiu drasticamente a sua expectativa de vida.
+
+
+=== Telômeros e senescência celular ===
+Os telômeros são alvo de pesquisas não apenas porque interessam ao ramo da clonagem, mas também porque acredita-se que eles estejam intimamente relacionados com o nosso ciclo de vida ; Sabe-se que existe uma relação entre os telômeros e a senescência celular, mas ainda não se sabe exatamente que relação é essa. Se, ao menos, metade das teorias a respeito dos telômeros estiver correta é bastante provável que prevenir o encurtamento dos mesmos seja uma das chaves para a superlongevidade.
+Alguns cientistas sugerem que a perda dos telômeros apenas correlaciona com a senescência celular, não sendo assim a causa determinante da mesma. Um número crescente de evidências tem vindo a demonstrar que pode haver indução da senescência em presença de telômero de dimensões apreciáveis.
+Outros estímulos, para além dos telômeros, também têm sido sugeridos como sendo indutores da senescência celular, dentre os quais podemos destacar a danificação do DNA e a ativação de oncogenes.
+
+
+== Prevenção do encurtamento do telómero ==
+Nas células eucarióticas existe um complexo ribonucleoproteíco chamado telomerase que previne o encurtamento progressivo dos cromossomas derivado das sucessivas divisões celulares. A telomerase é uma enzima que adiciona sequências repetitivas à extremidade 3' do cromossoma. Para cumprir esta função a telomerase usa um molde de RNA para a produção do DNA (é um tipo de transcriptase reversa ou polimerase de DNA dependente de RNA). A extensão do cromossoma pela telomerase e o encurtamento provocado pela divisão celular é um processo de equilíbrio dinâmico. A telomerase está presente principalmente em células embrionárias e em tumores - já que além de prevenir o encurtamento dos telómeros (retardando o envelhecimento) também ativa genes que fazem a célula se dividir indefinidamente.
+O número de vezes que esta enzima adiciona as sequências repetitivas de nucleotídeos não é controlado por ela própria, mas sim por outras proteínas envolvidas no processo.
+O telômero permite a estabilidade do cromossoma e por consequência a sobrevivência da célula: a par de um centrômero para poder haver segregação cromossomática, de uma origem para poder haver a iniciação da replicação do cromossoma; a existência do telómero é um dos elementos mais básicos para a existência do cromossoma. A junção destes três elementos foi já testada no âmbito da produção de cromossomas artificiais.
+Em 1998, a Geron Corporation começou a desenvolver técnicas e drogas para estender os telómeros e prevenir a senescência celular.
+
+
+== Ver também ==
+Biologia molecular
+Bioquímica
+Genética
+Imortalidade
+Radical livre
+Senescência celular
+Superlongevidade
+Relógio biológico
+
+
+== Referências ==
+
+Witzany, Guenther (2008), The Viral Origins of Telomeres and Telomerases and their Important Role in Eukaryogenesis and Genome Maintenance". Biosemiotics 1: 191-206.
+
+
+== Ligações externas ==
+«Página com informações sobre os telômeros e a telomerase» (em inglês) 
+«Site dedicado ao assunto» (em inglês)

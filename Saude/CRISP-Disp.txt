@@ -1,0 +1,5 @@
+Em Biologia Molecular, CRISPR-Display ou CRISP-Disp é uma modificação do sistema CRISPR/Cas9 para edição de genoma. O sistema CRISPR/Cas9 usa uma sequência curta de RNA guia (sgRNA) para direcionar uma nuclease de Streptococcus pyogenes Cas9, atuando como uma proteína de ligação de DNA programável, para clivar o DNA em um local de interesse. CRISP-Disp facilita aplicações de biologia sintética e permite a elucidação de funções de ncRNA.
+O CRISPR-Display foi publicado pela primeira vez na Nature Methods em julho de 2015 e desenvolvido por David M. Shechner, Ezgi Hacisuleyman, Scott T. Younger e John Rinn na Universidade de Harvard e no Instituto de Tecnologia de Massachusetts (MIT), EUA.
+
+
+== Referências ==

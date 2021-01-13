@@ -1,0 +1,20 @@
+A LILACS é o mais importante e abrangente índice da literatura científica e técnica da América Latina e Caribe. Há 33 anos contribuindo para o aumento da visibilidade, acesso e qualidade da informação em saúde na América Latina e Caribe.É uma base de dados de informação bibliográfica em ciências da saúde. Em termos gerais, abrange toda a literatura relativa as ciências da saúde, produzida por autores latino-americanos e publicado nos países da região a partir de 1982.  
+São analisados e processados documentos, tais como: teses, capítulos de teses, livros, capítulos de livros, anais de congressos ou conferências, relatórios técnico-científicos, publicações governamentais e artigos extraídos da análise corrente de aproximadamente 400 títulos de periódicos na área.
+A Base de dados é estruturada por meio da Metodologia LILACS que compreende: 
+
+Software LILDBI-Web: programa utilizado para fazer a descrição e indexação de documentos, além de realizar checagem de dados exigidos pela Metodologia;
+Software SeCS - Sistema de Controle de Coleções de Publicações Periódicas: utilizado para controle da coleção de periódicos e controle dos títulos de revistas;
+DeCS - Descritores em Ciências da Saúde: vocabulário controlado utilizado na indexação para assegurar recuperação precisa das referências bibliográficas;
+Manual de Descrição Bibliográfica (7ª edição - 2008): orienta no preenchimento dos campos de dados do LILDBI-Web;
+Manual de Indexação: orienta na indexação dos documentos descrito LILDBI-Web. A indexação na LILACS segue política de indexação bastante similar à NLM - National Library of Medicine;
+Guia de Seleção de Documentos: guia que orienta na seleção de documentos e artigos de periódicos que serão inseridos na base de dados LILACS.
+
+
+== Bibliografia ==
+BIREME.Centro Latinoamericano y del Caribe de Información en Ciencias de la Salud. São Paulo:Centro Latinoamericano y del Caribe de Información en Ciencias de la Salud,[19--?].
+BIREME: A 20 años de su fundación. Temas de actualidad. Bol Of Sanit Panam. 104(8), 1988. p. 80-82. Disponível em: https://iris.paho.org/bitstream/handle/10665.2/17913/v104n1p80.pdf?sequence=1&isAllowed=y
+Alonso, F. R. Los servicios de información biomédica en América Latina. BIREME y el Proyecto LILACS. III Jornadas de Documentación e Información de Ciencias de la Salud: Sevilla, 14-16 marzo 1990, Facultad de Medicina, 1992,  84-87247-44-X, págs. 23-24. Disponível em: https://dialnet.unirioja.es/servlet/articulo?codigo=3250327
+Metodologia LILACS
+
+
+== Referências ==

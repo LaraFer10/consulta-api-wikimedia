@@ -1,0 +1,746 @@
+Ácido sulfúrico, também conhecido como vitríolo, é um ácido mineral composto pelos elementos enxofre, oxigênio e hidrogênio com a fórmula molecular H2SO4. É um líquido viscoso, incolor, inodoro e solúvel em água, produzindo uma reação altamente exotérmica.Sua corrosividade pode ser atribuída principalmente à sua natureza de ácido forte e, se em alta concentração, a suas propriedades de desidratação e oxidação. Também é higroscópico, prontamente absorvendo vapor d'água do ar. Em contato com a pele o ácido sulfúrico pode causar graves queimaduras químicas e até queimaduras de segundo grau; é muito perigoso mesmo em concentrações moderadas.O ácido sulfúrico é um importante produto e, de fato, a produção de ácido sulfúrico de um país é um bom indicador de sua força industrial. É largamente produzido por diferentes métodos, como o processo de contato, o processo de ácido sulfúrico a úmido, o processo de câmara de chumbo e alguns outros métodos.O uso mais comum de ácido sulfúrico (60% do total) é na a indústria de fertilizantes.[carece de fontes?] Também é uma substância essencial para a indústria química. Os usos principais incluem produção de fertilizantes (e outros processamentos minerais), refinamento de petróleo, tratamento de águas residuais e síntese química. Possui um vasto uso de aplicações finais, como em eletrólitos de baterias de chumbo-ácido e em vários agentes de limpeza.
+
+
+== Propriedades físicas ==
+
+
+=== Gradação do ácido sulfúrico ===
+Embora quase 100% possa ser produzido, a perda subsequente de SO3 no ponto de ebulição leva a uma concentração ácida de 98,3%. A gradação de 98% é mais estável para armazenamento e é a forma comum do que é descrito como "ácido sulfúrico concentrado". Outras concentrações são usadas com diferentes objetivos. Algumas concentrações comuns são:
+"Ácido de câmara" e "ácido de torre" eram as concentrações de ácido sulfúrico produzidas pelo processo de câmara de chumbo, sendo o ácido de câmara o ácido produzido na própria câmara (<70% para evitar contaminação com ácido nitrossulfúrico e o ácido de torre sendo o ácido recuperado do fundo da torre de Glover. Atualmente são obsoletas como concentrações comerciais de ácido sulfúrico, embora possam ser preparadas em laboratório a partir de ácido sulfúrico concentrado se necessário. Em particular, o ácido sulfúrico "10M" (a versão moderna equivalente do ácido de câmara, usada em várias titulações) é preparada adicionando lentamente ácido sulfúrico 98% em um volume igual de água, com boa agitação: a temperatura da mistura pode chegar a 80&nbsp;ºC(176 ºF) ou mais.O ácido sulfúrico reage com seu anidro, SO3, para formar H2S2O7, chamada de ácido dissulfúrico, oleum ou, mais raramente, ácido Nordhausen. Concentrações de oleum são expressas em termos de % deSO3 (chamada % oleum) ou como % H2SO4 (a quantidade de H2O que foi adicionada); concentrações comuns são 40% oleum (109% H2SO4) e 65% oleum (114.6% H2SO4). H2S2O7 puro é sólido com ponto de fusão em 36&nbsp;°C.
+Ácido sulfúrico puro possui uma pressão de vapor de <0.001 mmHg a 25 °C e 1 mmHg a 145,8 °C, e ácido sulfúrico a 98% tem uma pressão de vapor <1 mmHg a 20 °C.Ácido sulfúrico puro é um líquido viscoso claro, como óleo, e isso explica o antigo nome do ácido ('óleo de vitriolo').
+O ácido sulfúrico é sólido em diversos graus de pureza diferentes. A gradação técnica H2SO4 é impura e frequentemente colorida, mas é indicada para produção de fertilizante. Gradações puras, como a gradação United States Pharmacopeia (USP), é utilizada para manufatura de medicamentos e corantes. Gradações analíticas também são disponíveis.
+São conhecidos nove hidratos, mas três deles foram confirmados como tetrahidratos (H2SO4·4H2O), hemihexhidrato (H2SO4·6+1⁄2H2O) e octahidrato (H2SO4·8H2O).
+
+
+=== Polaridade e condutividade ===
+O anidro H2SO4 é um líquido muito polar, possuindo uma constante dielétrica em torno de 100. Possui uma alta condutividade elétrica causada pela dissociação por meio de protonação, um processo conhecido como autoprólise.
+2 H2SO4  H3SO+4 + HSO−4A constante de equilíbrio para a autoprólise é
+Kap (25 °C) = [H3SO+4][HSO−4] = 2.7×10−4comparável à constante de equilíbrio da água, Kw é 10−14, um fator de 1010 (10 bilhões) menor.
+Apesar da viscosidade do ácido, a condutividade efetiva dos íons H3SO+4 e do HSO−4 é maior devido ao mecanismo de troca de prótons intramolecular (análogo ao mecanismo de Grotthuss na água), tornando o ácido sulfúrico um bom condutor de eletricidade. Também é um excelente solvente em muitas reações.
+
+
+== Propriedades químicas ==
+
+
+=== Reação com água e propriedade desidratante ===
+
+Devido à reação de hidratação o ácido sulfúrico é altamente exotérmico. A diluição deve sempre ser feita adicionando ácido à água ao invés de adicionar água ao ácido. Como a reação está em um equilíbrio que favorece a rápida protonação da água, a adição de ácido à água garante que o ácido é o reagente limitante. Esta reação é melhor entendida com a formação de íons de hidrônio:
+
+H2SO4 + H2O → H3O+ + HSO−4   Ka1 = 2.4×106 (ácido forte)
+HSO−4 + H2O → H3O+ + SO2−4   Ka2 = 1.0×10−2 HSO−4 é o ânion bisulfato e SO2−4 é o ânion sulfato anion. Ka1 e Ka2 são as constantes de dissociação ácida.
+Em razão da hidratação do ácido sulfúrico ser termodinamicamente favorável e consequente afinidade pela água ser suficientemente forte, ele é um excelente agente desidratante. O ácido sulfúrico concentrado possui uma forte propriedade de desidratação, removendo a água(H2O) de outros compostos químicos, incluindo o açúcar e outros carboidratos, resultando em carbono, calor e vapor.
+No laboratório, isso é frequentemente demonstrado misturando açúcar (sucralose) com ácido sulfúrico. O açúcar se transforma de branco para marrom escuro e então o carbono preto é formado. Uma coluna rígida de carbono preto e poroso emerge dessa reação. O carbono terá um cheiro forte de caramelo devido ao calor gerado.
+
+  
+    
+      
+        
+          
+            
+              
+                
+                  C
+                  
+                    12
+                  
+                  
+                    
+                  
+                
+                
+                  H
+                  
+                    22
+                  
+                  
+                    
+                  
+                
+                
+                  O
+                  
+                    11
+                  
+                  
+                    
+                  
+                
+              
+              ⏞
+            
+          
+          
+            sacarose
+          
+        
+         
+        
+          
+            
+              →
+              
+                
+                  
+                    H
+                    
+                      2
+                    
+                    
+                      
+                    
+                  
+                  
+                    SO
+                    
+                      4
+                    
+                    
+                      
+                    
+                  
+                
+              
+            
+          
+        
+         
+        
+          
+            
+              12
+              
+              C
+            
+            (espuma grafite preta)
+          
+        
+        +
+        
+          
+            11
+            
+            
+              H
+              
+                2
+              
+              
+                
+              
+            
+            O
+          
+          
+            (g,l)
+          
+        
+      
+    
+    {\displaystyle \overbrace {{\ce {C12H22O11}}} ^{\text{sacarose}}\ {\ce {->[{\ce {H2SO4}}]}}\ {\underset {\text{(espuma grafite preta)}}{{\ce {12C}}}}+{\ce {11H2O}}_{\text{(g,l)}}}
+  Similarmente, misturando amido em ácido sulfúrico concentrado produzirá carbono e água conforme é absorvida pelo ácido (que se torna levemente diluído). O efeito disso pode ser visto quando ácido sulfúrico concentrado é aspergido em papel composto de celulose: a celulose reage e produz um efeito de queimadura e o carbono parece muito como fuligem em um incêndio. Embora menos dramática, a ação do ácido no algodão mesmo na forma diluída, destruirá o tecido.
+
+  
+    
+      
+        
+          
+            
+              
+                
+                  (
+                  
+                    C
+                    
+                      6
+                    
+                    
+                      
+                    
+                  
+                  
+                    H
+                    
+                      10
+                    
+                    
+                      
+                    
+                  
+                  
+                    O
+                    
+                      5
+                    
+                    
+                      
+                    
+                  
+                  )
+                
+                
+                  
+                    n
+                  
+                
+                
+                  
+                
+              
+              ⏞
+            
+          
+          
+            polissacarídeo
+          
+        
+         
+        
+          
+            
+              →
+              
+                
+                  
+                    H
+                    
+                      2
+                    
+                    
+                      
+                    
+                  
+                  
+                    SO
+                    
+                      4
+                    
+                    
+                      
+                    
+                  
+                
+              
+            
+          
+        
+         
+        6
+        n
+        
+          C
+        
+        +
+        5
+        n
+        
+          
+            H
+            
+              2
+            
+            
+              
+            
+          
+          O
+        
+      
+    
+    {\displaystyle \overbrace {\ce {(C6H10O5)_{\mathit {n}}}} ^{\text{polissacarídeo}}\ {\ce {->[{\ce {H2SO4}}]}}\ 6n{\ce {C}}+5n{\ce {H2O}}}
+  A reação com sulfato de cobre(II) também pode demonstrar a propriedade de desidratação do ácido sulfúrico. O cristal azul é transformado em um pó branco conforme a água é removida.
+
+  
+    
+      
+        
+          
+            
+              
+                
+                  
+                    CuSO
+                    
+                      4
+                    
+                    
+                      
+                    
+                  
+                  ⋅
+                  5
+                  
+                  
+                    H
+                    
+                      2
+                    
+                    
+                      
+                    
+                  
+                  O
+                
+                (cristal azul)
+              
+              ⏞
+            
+          
+          
+            hidrato de sulfato de cobre (II)
+          
+        
+         
+        
+          
+            
+              →
+              
+                
+                  
+                    H
+                    
+                      2
+                    
+                    
+                      
+                    
+                  
+                  
+                    SO
+                    
+                      4
+                    
+                    
+                      
+                    
+                  
+                
+              
+            
+          
+        
+         
+        
+          
+            
+              
+                
+                  
+                    CuSO
+                    
+                      4
+                    
+                    
+                      
+                    
+                  
+                
+                (pó branco)
+              
+              ⏞
+            
+          
+          
+            sulfato de cobre (II) anidro
+          
+        
+        +
+        
+          5
+          
+          
+            H
+            
+              2
+            
+            
+              
+            
+          
+          O
+        
+      
+    
+    {\displaystyle \overbrace {\underset {\text{(cristal azul)}}{{\ce {CuSO4.5H2O}}}} ^{\text{hidrato de sulfato de cobre (II)}}\ {\ce {->[{\ce {H2SO4}}]}}\ \overbrace {\underset {\text{(pó branco)}}{{\ce {CuSO4}}}} ^{\text{sulfato de cobre (II) anidro}}+{\ce {5H2O}}}
+  
+
+
+=== Propriedades ácido-base ===
+Como todo ácido, o ácido sulfúrico reage como a maioria das bases produzindo o sulfato correspondente. Por exemplo, o sal sulfato de cobre(II), comumente usado para cobreação e como fungicida, é preparado com a reação do óxido de cobre (II) com ácido sulfúrico:
+:CuO (s) + H2SO4 (aq) → CuSO4 (aq) + H2O (l)
+O ácido sulfúrico também pode ser utilizado para separar ácidos fracos dos seus sais. A reação química com acetato de sódio, por exemplo, separa ácido acético, CH3COOH e apresentações de bissulfato de sódio
+
+H2SO4 + CH3COONa → NaHSO4 + CH3COOHSimilarmente, a reação de ácido sulfúrico com nitrato de potássio pode ser utilizada para produzir ácido nítrico e um precipitado de bissulfato de potássio. Quando combinado com ácido nítrico, o ácido sulfúrico atua em ambos como um ácido e como um agente desidratante, produzindo um íon nitrônio NO+2 que é importante em reações de nitração envolvendo substituição eletrolífica aromática. Este tipo de reação, na qual ocorre protonação de um átomo de oxigênio é importante em muitas reações de química orgânica, como a esterificação de Fischer–Speier e a desidratação de álcoois.
+
+Quando permitida a reação com superácidos, o ácido sulfúrico pode agir como uma base e ser protonado, produzindo o íon [H3SO4]+. Sal de [H3SO4]+ tem sido preparado utilizando a reação abaixo com HF líquido:
+
+((CH3)3SiO)2SO2 + 3 HF + SbF5 → [H3SO4]+[SbF6]− + 2 (CH3)3SiFA reação acima é termodinamicamente favorecida devida à alta entalpia da ligação Si-F do produto. Contudo, a protonação utilizando HF/SbF5 não é bem sucedida, porque o ácido sulfúrico puro sofre auto ionização gerando íons [H3O]+, que impedem a conversão de H2SO4 para  [H3SO4]+ pelo sistema HF/SbF5:
+2 H2SO4  [H3O]+ + [HS2O7]−
+
+
+=== Reações com metais e propriedade oxidante forte ===
+Ácido sulfúrico diluído reage com metais por meio de uma reação de deslocamento assim como com outros ácidos típicos, produzindo gás hidrogênio e sais (o sulfato metálico). Ele ataca metais reativos (metais posicionados acima do cobre na série de reatividade), como ferro, zinco, manganês, magnésio e níquel.
+
+Fe (s) + H2SO4 (aq) → H2 (g) + FeSO4 (aq)Não obstante, ácido sulfúrico concentrado é um forte agente oxidante e não reage com metais da mesma forma que outros ácidos típicos. Dióxido de enxofre, água e íons SO2−4 são envolvidos na reação ao invés de hidrogênio e sais.
+
+2 H2SO4 + 2 e− → SO2 + 2 H2O + SO2−4Ele pode oxidar metais não ativos como estanho e cobre, dependendo da temperatura.
+
+Cu + 2 H2SO4 → SO2 + 2 H2O + SO2−4 + Cu2+Chumbo e tungstênio, contudo, são resistentes ao ácido sulfúrico.
+
+
+=== Reações com não metais ===
+Ácido sulfúrico concentrado quente oxida não metais como o carbono (como por exemplo carvão betuminoso) e enxofre.
+
+C + 2 H2SO4 → CO2 + 2 SO2 + 2 H2O
+S + 2 H2SO4 → 3 SO2 + 2 H2O
+
+
+=== Reações com cloreto de sódio ===
+Ele reage com cloreto de sódio e produz gás cloreto de hidrogênio e bissulfato de sódio:
+
+NaCl + H2SO4 → NaHSO4 + HCl
+
+
+=== Substituição aromática eletrofílica ===
+O benzeno sofre substituição aromática eletrofílica com ácido sulfúrico produzindo os ácidos sulfônicos correspondentes:
+
+
+== Ocorrência natural ==
+
+O ácido sulfúrico puro não é encontrado naturalmente na Terra na sua forma anidra, devido à sua alta  afinidade com a água. Ácido sulfúrico diluído é um constituinte da chuva ácida, que é produzida pela oxidação atmosférica do dióxido de enxofre na presença de água, ou seja, oxidação de ácido sulfuroso. O dióxido de enxofre é o resultado principal produzido quando combustíveis sulfurosos como carvão ou óleo são queimados.
+O ácido sulfúrico é formado naturalmente pela oxidação de sulfetos minerais, como o sulfeto de ferro. A água resultante pode ser altamente ácida e é chamada de drenagem ácida de mina (DAM) ou drenagem ácida de rocha (DAR). A água acidificada é capaz de dissolver metais presentes em minérios de sulfeto, o que resulta em fios de água tóxicos e altamente coloridos. A oxidação da pirita (sulfeto de ferro) pelo oxigênio molecular produz Ferro II, ou Fe2+:
+
+2 FeS2 (s) + 7 O2 + 2 H2O → 2 Fe2+ + 4 SO2−4 + 4 H+O Fe2+ pode ser oxidado posteriormente em Fe3+:
+
+4 Fe2+ + O2 + 4 H+ → 4 Fe3+ + 2 H2OO Fe3+ produzido pode precipitar como o hidróxido ou óxido hidratado:
+
+Fe3+ + 3 H2O → Fe(OH)3↓ + 3 H+O íon de Ferro(III) ("íon férrico") também pode oxidar a pirita:
+
+FeS2(s) + 14 Fe3+ + 8 H2O → 15 Fe2+ + 2 SO2−4 + 16 H+Quando a oxidação do Ferro(III) da pirita acontece, o processo pode se tornar bem rápido. Valores abaixo de zero do pH foram medidos em DAR produzida nesse processo.
+O DAR também pode produzir ácido sulfúrico em uma taxa baixa, de forma que a capacidade ácida neutralizante (CAN) do aquífero pode neutralizar o ácido produzido. Nesses casos, a concentração dos sólidos dissolvidos totais (SDT) da água pode aumentar a partir da dissolução de minerais com a reação de ácido-neutralização dos minerais.
+O ácido sulfúrico é utilizado como forma de defesa por certas espécies marinhas, como por exemplo a alga Desmarestia munda (da ordem Desmarestiales) que concentra ácido sulfúrico em vacúolos celulares.
+
+
+=== Aerossol estratosférico ===
+Na estratosfera, na segunda camada atmosférica que está geralmente entre 10 e 50 km sobre a superfície terrestre, o ácido sulfúrico é formado pela oxidação de dióxido de enxofre vulcânico pelo radical hidroxila:
+SO2 + HO• → HSO3
+HSO3 + O2 → SO3 + HO2
+SO3 + H2O → H2SO4Devido ao ácido sulfúrico alcançar supersaturação na estratosfera, ele pode nuclear partículas de aerossol e formar uma superfície para o crescimento de aerossol por condensação e coagulação com outros aerossóis de ácido sulfúrico-água. Isso produz a camada estratosférica de aerossol.
+
+
+=== Ácido sulfúrico extraterrestre ===
+
+
+==== Vênus ====
+O ácido sulfúrico é produzido na atmosfera superiora de Vênus pela ação fotoquímica do Sol no dióxido de carbono, dióxido de enxofre e vapor d'água. Fótons ultravioletas de comprimento de onda menor que 169 nm podem fotodissociar o dióxido de carbono em monóxido de carbono e oxigênio atômico. O oxigênio atômico é extremamente reativo. Quando ele reage com o dióxido de enxofre (um componente da atmosfera venusiana), o resultado é o trióxido de enxofre, que pode reagir com vapor d'água (outro componente da atmosfera de Vênus) e produzir ácido sulfúrico. Na camada superiora, porções geladas da atmosfera de Vênus, o ácido sulfúrico existe como líquido e pesadas nuvens de ácido sulfúrico encobrem totalmente a superfície do planeta quando vista de cima. A camada principal de nuvens se estende entre 45-50 km sobre a superfície do planeta, com áreas variando de 30 km até 90 km. As nuvens venusianas permanentes produzem uma chuva ácida concentrada, assim como as nuvens na atmosfera terrestre produzem água da chuva.
+A atmosfera apresenta um ciclo do ácido sulfúrico. Conforme a chuva de ácido sulfúrico cai abaixo das camadas mais quentes da temperatura atmosférica, ocorre um aquecimento e liberação de vapor d'água, tornando-se mais e mais concentrado. Quando alcança a temperatura acima de 300 ºC, o ácido sulfúrico começa a se decompor em trióxido de enxofre e água, ambos na forma gasosa. O trióxido de enxofre é extremamente reativo e é dissociado em dióxido de enxofre e oxigênio atômico, que oxida os traços de monóxido de carbono para a forma de dióxido de carbono. O dióxido de enxofre a o vapor d'água sobem em correntes de convecção da camada intermediária da atmosfera para altas altitudes, onde serão transformados novamente em ácido sulfúrico, reiniciando o ciclo.
+
+
+==== Europa ====
+O espectro infravermelho observado pela sonda espacial Galileo da NASA mostra absorções distintas na lua Europa de Júpiter que foram atribuídas e um ou mais hidratos de ácido sulfúrico. O ácido sulfúrico em solução aquosa produz uma significante redução do ponto de fusão da água, abaixo de 210 K (−63
+ °C), o que faria a existência de soluções aquosas abaixo da crosta congelada de Europa bastante provável. A interpretação desse espectro é um tanto controversa. Alguns cientistas planetários preferem atribuir o espectro à características do íons de sulfato, talvez devido a um ou mais minerais na superfície de Europa.
+
+
+== Manufatura ==
+
+O ácido sulfúrico é produzido a partir do enxofre, oxigênio e água por meio do processo de contato tradicional ou pelo processo a úmido.
+
+
+=== Processo de contato ===
+
+Na primeira etapa, o enxofre é queimado para produzir dióxido de enxofre.
+
+S (s) + O2 (g) → SO2 (g)Este é então oxidado para trióxido de enxofre utilizando o oxigênio na presença de pentóxido de vanádio como catalisador. Esta reação é reversível e a formação do trióxido de enxofre é exotérmica.
+
+2 SO2 (g) + O2 (g)  2 SO3 (g) (na presença de V2O5)O trióxido de enxofre é absorvido formando H2SO4 a 97-98% para formar o oleum (H2S2O7), também conhecido como ácido sulfúrico fumegante. O oleum é então diluído em água para formar o ácido sulfúrico concentrado.
+
+H2SO4 (l) + SO3 (g)→ H2S2O7 (l)
+H2S2O7 (l) + H2O (l) → 2 H2SO4 (l)Dissolver diretamente SO3 em água não é factível devido à extremamente forte natureza exotérmica da reação do trióxido de enxofre com água. A reação forma um aerossol corrosivo que é muito difícil de separar, ao contrário do líquido.
+
+SO3 (g) + H2O (l) → H2SO4 (l)
+
+
+=== Processo de ácido sulfúrico a úmido ===
+
+No primeiro passo, o enxofre é queimado para produzir dióxido de enxofre:
+
+S(s) + O2(g) → SO2(g)ou, alternativamente, o gás sulfeto de hidrogênio(H2S) é incinerado para formar o gás SO2:
+
+2 H2S + 3 O2 → 2 H2O + 2 SO2 (−518 kJ/mol)O produto é então oxidado em trióxido de enxofre utilizando oxigênio com pentóxido de vanádio como catalisador.
+
+2 SO2 + O2 → 2 SO3 (−99 kJ/mol) (reação reversível)O trióxido de enxofre é hidratado formando ácido sulfúrico H2SO4:
+
+SO3 + H2O → H2SO4(g) (−101 kJ/mol)O último passo é a condensação do ácido sulfúrico para  H2SO4 a 97-98%:
+
+H2SO4(g) → H2SO4(l) (−69 kJ/mol)
+
+
+=== Outros métodos ===
+Outro método é o não tão conhecido método do metabisulfeto, no qual metabisulfeto é colocado no fundo de um béquer e ácido clorídrico em concentração molar de 12,6 é adicionado. O gás resultante é fervido com ácido nítrico, o que produzirá vapores marrons/vermelhos. A finalização da reação é indicada pela interrupção das fumaças. Este método não produz uma mistura inseparável, o que é bastante conveniente.
+
+SO2 + HNO3 + H2O→ H2SO4 + NOO ácido sulfúrico pode ser produzido em laboratório queimando enxofre no ar e dissolvendo o gás produzido em uma solução de peróxido de hidrogênio
+
+SO2 + H2O2 → H2SO4Antes de 1900, a maior parte do ácido sulfúrico era manufaturada pelo processo da câmara de chumbo. Após 1950, até 50% do ácido sulfúrico manufaturado nos Estados Unidos era produzido em fábricas com o processo da câmara de chumbo.
+No início da metade do século XIX, fábricas de vitriolo existiam, entre outros lugares, em Prestonpans na Escócia, Shropshire e no Lagan Valley na Irlanda onde era usado como alvejante para o linho. O antigo branqueamento do linho era feito utilizando ácido lácteo do soro de leite, mas esse processo era lento e o uso do vitriolo acelerou o processo de branqueamento.
+
+
+== Utilização ==
+
+O ácido sulfúrico é um importante recurso químico e, na verdade, a produção de ácido sulfúrico de um país é um bom indicador de sua potência industrial. A produção mundial em 2004 foi de aproximadamente 180 milhões de toneladas, com a seguinte distribuição geográfica: 35% na Ásia, 24% na América do Norte, 11% na África, 10% na Europa ocidental, 10% na Europa oriental e na Rússia, 7% na Oceania e 7% na América do Sul. A maior parte dessa produção (≈60%) é utilizada em fertilizantes (em particular, superfosfatos, fosfato de amônia e sulfetos de amônia). Em torno de 20% é utilizado na indústria química para a produção de detergentes, resinas sintéticas, corantes, medicamentos, catalisadores de petróleo, inseticidas e anticongelantes, como também em vários processos como a acidificação de óleo, redução de alumínio e tratamento de água. Em torno de 6% da utilização é relacionada à pigmentação de tintas, tinta esmalte, tinta de impressora, tecidos e papel. O restante é utilizado em diversas aplicações como produção de explosivos, de celofane, acetato e tecidos de viscose, lubrificantes, metais não ferrosos e baterias.
+
+
+=== Produção industrial de produtos químicos ===
+A maior utilização do ácido sulfúrico é no "método úmido" para a produção de ácido fosfórico, utilizado na manufatura de fertilizantes a base de fosfato. Neste método, pedras de fosfato são utilizadas e mais de 100 milhões de toneladas são processadas anualmente. Esta matéria prima é apresentada abaixo como fluorapatita, embora a composição exata possa variar. Ela é tratada com ácido sulfúrico a 93% para produzir sulfato de cálcio, ácido fluorídrico (HF) e ácido fosfórico. O processo geral pode ser representado da seguinte forma:
+
+  
+    
+      
+        
+          
+            
+              
+                
+                  Ca
+                  
+                    5
+                  
+                  
+                    
+                  
+                
+                F
+                
+                  
+                    (
+                    
+                      PO
+                      
+                        4
+                      
+                      
+                        
+                      
+                    
+                    )
+                  
+                  
+                    3
+                  
+                  
+                    
+                  
+                
+              
+              fluorapatita
+            
+          
+          
+
+          
+          +
+          
+            5
+            
+            
+              H
+              
+                2
+              
+              
+                
+              
+            
+            
+              SO
+              
+                4
+              
+              
+                
+              
+            
+          
+          
+
+          
+          +
+          10
+          
+          
+            H
+            
+              2
+            
+            
+              
+            
+          
+          O
+          ⟶
+          
+            
+              
+                5
+                
+                
+                  CaSO
+                  
+                    4
+                  
+                  
+                    
+                  
+                
+                ⋅
+                2
+                
+                
+                  H
+                  
+                    2
+                  
+                  
+                    
+                  
+                
+                O
+              
+              
+                sulfato
+                 
+                de
+                 
+                calcio
+              
+            
+          
+          
+
+          
+          +
+          
+            HF
+          
+          
+
+          
+          +
+          3
+          
+          
+            H
+            
+              3
+            
+            
+              
+            
+          
+          
+            PO
+            
+              4
+            
+            
+              
+            
+          
+        
+      
+    
+    {\displaystyle {\ce {{\overset {fluorapatita}{Ca5F(PO4)3}}{}+{5H2SO4}{}+10H2O->{\overset {sulfato~de~calcio}{5CaSO4.2H2O}}{}+{HF}{}+3H3PO4}}}
+  
+O sulfato de amônia, um importante fertilizante nitrogênico, é mais comumente produzido como um subproduto das plantas de coque fornecendo ferro e aço. Reagindo com a amônia produzida da decomposição térmica do carvão com uso de ácido sulfúrico, permite que a amônia se cristalize como sal (frequentemente marrom devido à contaminação com ferro) e vendida para a indústria agro-química.
+Outro importante uso do ácido sulfúrico é para a produção de sulfato de alumínio. Ele pode reagir com pequenas quantidades de fibras da polpa de celulose gerando alumínio carboxílico, que favorece a coagulação das fibras de celulose em uma superfície sólida de papel. O ácido sulfúrico também é utilizado para produzir hidróxido de alumínio, que pode ser utilizado em estações de tratamento de água para filtrar impurezas, como também para melhorar o gosto da água. O sulfato de alumínio também é produzido reagindo bauxita com ácido sulfúrico:
+
+2 AlO(OH) + 3 H2SO4 → Al2(SO4)3 + 4 H2OO ácido sulfúrico também é importante na produção de soluções corantes.
+
+
+=== Ciclo iodo e enxofre ===
+O ciclo iodo e enxofre é uma série de processos termo-químicos utilizada para obtenção de hidrogênio. Consiste de três reações químicas cujo reagente líquido é a água e cujos produtos são hidrogênio e oxigênio. O primeiro passo do ciclo é a reação de Bunsen:
+
+Os componentes enxofre e iodo são recuperados e reutilizados, e por isso o processo é considerado um ciclo. Este processo é endotérmico e deve ocorrer em altas temperaturas. Portanto, a energia em forma de calor precisa ser fornecida.
+O ciclo iodo e enxofre é sugerido como uma forma de fornecer hidrogênio para uma economia baseada no hidrogênio. Ele não requer hidrocarbonetos como os métodos atuais de reforma de vapor. Mas observe que toda a energia disponível no hidrogênio produzida é gerada a partir do calor.
+O ciclo iodo e enxofre está em processo de pesquisa como um método factível para obtenção de hidrogênio, mas o ácido corrosivo e concentrado em altas temperaturas apresenta incontáveis riscos de segurança se o processo for construído em larga escala.
+
+
+=== Agente de limpeza industrial ===
+
+O ácido sulfúrico é utilizado em vastas quantidades pela indústria siderúrgica para remover oxidação, ferrugem e incrustação de chapas laminadas e tarugos antes da venda para indústria automotiva e outras indústrias.[carece de fontes?] O ácido utilizado é frequentemente reciclado utilizando em plantas como agente de regeneração. Essas plantas consomem o ácido gasto com gás natural, gás refinado, óleo combustível e outras fontes de combustível. Este processo de combustão produz gás dióxido de enxofre (SO2) e trióxido de enxofre (SO3) que são então utilizadas para fazer "novo" ácido sulfúrico. Indústrias SAR são adições comuns às indústrias de metalurgia, refinarias de óleo e outras indústrias em que ácido sulfúrico é consumido a granel, porque a manipulação da planta SAR é muito mais barata do que recorrer aos custo de ácido descartado ou novas compras de ácido.
+O peróxido de hidrogênio (H2O2) pode ser adicionado ao ácido sulfúrico para produzir solução piranha, uma solução poderosa mas muito tóxica com a qual superfícies com substrato podem ser limpas. A solução de piranha é tipicamente utilizada na indústria de microeletrônica e também em laboratórios para limpeza de vidraria.
+
+
+=== Catalisador ===
+O ácido sulfúrico é usado em uma variedade de processos na indústria química. Por exemplo, é comum utilizar ácido catalisador para a conversão da oxima de ciclohexanona em caprolactama, utilizada para produção de nylon. Também é utilizado para a produção de ácido clorídrico a partir do sal via processo de Mannheim. Muito H2SO4 é utilizado no refino de petróleo, como catalisador, por exemplo, da reação de isobutano com isobutileno para geração de isooctano, um componente que aumenta a octanagem da gasolina. O ácido sulfúrico é também utilizado como agente desidratante ou oxidante em reações químicas industriais, como a desidratação de vários açúcares para a forma de carbono sólido.
+
+
+=== Eletrólito ===
+O ácido sulfúrico age como eletrólito nas baterias de chumbo-ácido (acumulador chumbo-ácido):
+No ânodo:
+
+Pb + SO42− ⇌ PbSO4 + 2 e−No cátodo:
+
+PbO2 + 4 H+ + SO42− + 2 e− ⇌ PbSO4 + 2 H2ODe forma geral:
+
+Pb + PbO2 + 4 H+ + 2 SO42− ⇌ 2 PbSO4 + 2 H2O
+
+
+=== Uso doméstico ===
+
+O ácido sulfúrico em altas concentrações é frequentemente o ingrediente principal em desentupidores ácidos, que são utilizados para remover graxa, cabelo, lenço de papel, etc. Similar às versões alcalinas, esses desentupidores podem dissolver gordura pela hidrólise. Além disso, como o ácido sulfúrico concentrado possui uma propriedade desidratante forte, também pode remover lenço de papel pelo processo de desidratação. Uma vez que o ácido reage com a água vigorosamente, tal desentupidor ácido deve ser adicionado lentamente ao cano que será limpo.
+
+
+== História ==
+
+O estudo do vitríolo, uma categoria de minerais vítreos a partir dos quais o ácido pode ser derivado, começou na antiguidade clássica. Os sumérios possuíam uma lista de tipos de vitríolo que eles classificavam de acordo com a cor da substância. Algumas das primeiras discussões sobre a origem e propriedades do vitríolo constam nos trabalhos do médico grego Dioscórides (Século I EC) e do naturalista romano Plínio, o Velho (23-79 EC). Galeno também discutiu seu uso medicinal. Usos metalúrgicos para substâncias vitriólicas foram registrados nos trabalhos helenistas alquimistas de Zósimo de Panópolis, no tratado Phisica et Mystica, e o no Papiro X de Leyden.Alquimistas da era medieval islâmica, Jābir ibn Hayyān (c. 721 – c. 815 EC, também conhecido como Geber), Razi (865 – 925 EC) e Jamal Din al-Watwat (por volta de 1318, escreveu o livro Mabāhij al-fikar wa-manāhij al-'ibar) incluíram o vitríolo em suas listas de classificação mineral. Ibn Sina trabalhou em seus usos medicinais e com diferentes variedades de vitríolo.O ácido sulfúrico foi chamado de "óleo de vitríolo" pelos alquimistas europeus medievais devido à sua preparação por meio de torra do "vitríolo verde" (sulfato de ferro II) em um destilador de ferro. Há diferenciação disso nos trabalhos de Vicente de Beauvais e no Compositum de Compositis atribuído ao santo Alberto Magno. Uma passagem na Summa Perfectionis de Pseudo-Geber foi considerada a primeira receita para ácido sulfúrico, mas essa interpretação não estava correta.No século XVII, o químico alemão-holandês Johann Glauber preparava o ácido por meio da queima de enxofre com nitrato de potássio (KNO3) na presença de vapor. Conforme o nitrato se decompõe, ele oxida o enxofre em SO3, que combina com a água para produzir ácido sulfúrico. Em 1736, Joshua Ward, um farmacêutico londrino, utilizou este método para iniciar a primeira produção em larga escala de ácido sulfúrico.
+Em 1746 em Birmingham, John Roebuck adaptou esse método para produzir ácido sulfúrico em câmaras de chumbo, que eram mais fortes, mais baratas e poderiam ser produzidas em tamanho maior do que os antigos frascos de vidro. Este processo permitiu a industrialização de fato da produção de ácido sulfúrico. Após diversas melhorias, este método (chamado processo da câmara de chumbo ou "câmara de chumbo") se tornou o padrão para a produção de ácido sulfúrico por quase dois séculos.O processo de John Roebuck para produção de ácido sulfúrico conseguia uma concentração a 65%. Melhorias posteriores ao processo da câmara de chumbo pelo químico francês Joseph Louis Gay-Lussac e o químico britânico John Glover melhoraram a concentração para 78%. Contudo, a produção de alguns corantes e outros processos químicos necessitavam de um produto mais concentrado. Ao longo do século XVIII, isso só foi possível com a destilação seca de minerais em uma técnica similar à processo alquímicos. A pirita (dissulfeto de ferro, FeS2) era aquecida no ar para produzir sulfato de ferro II FeSO4, que era subsequentemente oxidado por meio de aquecimento do ar para formar sulfato de ferro III, Fe2(SO4)3, o qual, quando aquecido a 480 ºC, decompunha-se em óxido de ferro III e trióxido de enxofre, que podia ser umidificado com água para produzir ácido sulfúrico em qualquer concentração. Contudo, o custo deste processo proibia o uso de ácido sulfúrico concentrado em larga escala.E 1831, o britânico comerciante de vinagre Peregrine Phillips patenteou o processo de contato, que era muito mais econômico para produzir trióxido de enxofre e ácido sulfúrico concentrado. Atualmente, quase todo o ácido sulfúrico mundial é produzido com esse método.
+
+
+== Segurança ==
+
+
+=== Riscos laboratoriais ===
+
+O ácido sulfúrico é capaz de causar queimaduras graves, especialmente quando em altas concentrações. Em comum com outros ácidos corrosivos e álcalis, ele rapidamente decompõe proteínas e lipídios por meio de hidrólise e hidrólise éster a partir do contato com tecidos vivos, como a pele e músculos. Complementarmente, ele apresenta uma forte reação de desidratação em carboidratos, liberando calor adicional e causando queimaduras de segundo grau. Da mesma forma, ele ataca rapidamente a córnea e pode levar à deficiência visual permanente se em contato com os olhos. Se ingerido, danifica os órgãos internos de forma irreversível e pode ser fatal. Equipamento de proteção deve sempre ser utilizado ao manipular ácido sulfúrico. Além disso, sua forte propriedade de óxido redução torna-o extremamente corrosivo de muitos metais e pode estender sua destruição a outros materiais. Por essas razões, o estrago feito pelo ácido sulfúrico é potencialmente mais grave do que aqueles causados por outros ácidos fortes, como o ácido clorídrico e o ácido nítrico.
+O ácido sulfúrico deve ser armazenado cuidadosamente em recipientes de materiais não reagentes (como o vidro). Soluções iguais ou mais fortes que 1,5 M devem ser rotuladas como "CORROSIVAS", enquanto que soluções com mais de 0,5 M mas menos de 1,5 M devem ser rotuladas como "IRRITANTE". Contudo, mesmo a diluição "normal" de laboratório (aproximadamente 1 M, 10%) carbonizará papel se deixado em contato por tempo suficiente.
+Os primeiros socorros padrão para respingo de ácido na pele é, assim como outros agentes corrosivos, lavar com água em abundância. A lavagem devem ser feita de dez a quinze minutos para resfriar o tecido ao redor da queimadura de ácido e prevenir danos secundários. A roupa contaminada deve ser removida imediatamente e a pele deve ser lavada.
+
+
+=== Riscos de diluição ===
+A preparação do ácido diluído pode ser perigosa devido ao calor liberado no processo de diluição. Para evitar derramamento, o ácido concentrado é normalmente adicionado à água e não ao contrário. A água possui uma capacidade térmica maior que a do ácido, de forma que o recipiente com água fria absorverá o calor conforme o ácido é adicionado.
+
+Além disso, devido a densidade do ácido ser maior do que a da água, ele afunda. O calor é gerado na interação entre o ácido e a água, o qual está no fundo do recipiente. O ácido não ferverá devido ao seu ponto de ebulição ser maior. Água quente próxima à interação sobe devido à convecção, que resfria a interação e evita a fervura tanto do ácido quanto da água.
+Em contraste, a adição de água ao ácido sulfúrico concentrado resulta em uma fina camada de água no topo do ácido. O calor gerado na fina camada da água pode fazê-la ferver, levando à dispersão de aerossol de ácido sulfúrico ou, pior, a uma explosão.
+A preparação de soluções maiores que 6 M (35%) em concentração é muito perigosa, porque o calor produzido pode ser suficiente para ferver o ácido diluído: agitação mecânica eficiente e o resfriamento externo (como um banho de gelo) são essenciais.
+A taxa de reação dobra o aumento na temperatura em torno de cada 10 graus Celsius.
+Portanto, a reação se tornará mais violenta conforme a diluição acontece, a menos que a solução tenha tempo para resfriar. Adicionar ácido à água quente causará uma reação violenta.
+Na escala laboratorial, o ácido sulfúrico pode ser diluído pingando ácido concentrado em gelo triturado de água desionizada. O gelo derrete em um processo endotérmico enquanto dissolve o ácido. O total de calor necessário para derreter o gelo neste processo é maior do que o total de calor envolvido pela diluição do ácido, de forma que a solução permanece fria. Quando todo o gelo estiver dissolvido, uma diluição adicional pode ser feita utilizando água.
+
+
+=== Riscos industriais ===
+O ácido sulfúrico não é inflamável.
+Os maiores riscos laborais são devidos ao contato com a pele ocasionando queimaduras (veja acima) e à inalação de aerossóis. A exposição à aerossóis em altas concentrações leva à irritação grave e imediata dos olhos, trato respiratório e membranas mucosas: esta cessa rapidamente após a exposição, embora haja um risco de edema pulmonar subsequente se o tecido for atingido gravemente. Em baixas concentrações, o sintoma mais comum reportado à exposição crônica de aerossóis de ácido sulfúrico é o desgaste dos dentes, encontrado em quase todos os estudos: indicações de sequela crônica no trato respiratório são inconclusivas desde 1997. Exposição laboral repetida a névoas de ácido sulfúrico podem aumentar a chance de câncer de pulmão em 64 porcento. Nos Estados Unidos, o limite de exposição permissível (LEP) para o ácido sulfúrico é de 1 mg/m3: limites em outros países são similares. Há relatos de ingestão de ácido sulfúrico causar deficiência de vitamina B12 com degeneração combinada. A medula espinhal é mais frequentemente afetada em tais casos, mas os nervos óticos podem apresentar doença desmielinizante, perda de axônios e glicose.
+
+
+== Restrições legais ==
+O comércio internacional de ácido sulfúrico respeita a Convenção das Nações Unidas contra Tráfico Ilegal de Drogas e Substâncias Psicotrópicas (1988), que lista o ácido sulfúrico na Tabela II da convenção como um produto químico frequentemente utilizado na manufatura ilegal de narcóticos ou substâncias psicotrópicas.
+
+
+== Ver também ==
+Água régia
+Éter etílico – também conhecido como "óleo suave de vitriolo"
+Ácidos do enxofre
+
+
+== Referências ==
+
+
+== Ligações externas ==
+
+«Sulfuric acid». at The Periodic Table of Videos (Universidade de Nottingham) 
+«NIOSH Pocket Guide to Chemical Hazards» 
+«CDC – Sulfuric Acid – NIOSH Workplace Safety and Health Topic» 
+«External Material Safety Data Sheet» 
+Calculators: surface tensions, and densities, molarities and molalities of aqueous sulfuric acid
+«Sulfuric acid analysis – titration freeware» 
+Process flowsheet of sulfuric acid manufacturing by lead chamber process

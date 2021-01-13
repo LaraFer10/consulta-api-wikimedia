@@ -1,0 +1,15 @@
+O Sistema de Classificação Biofarmacêutica(do inglês: Biopharmaceutics Classification System, BCS) classifica os fármacos em termos de sua biodisponibilidade esperada. Ele possibilita um prognóstico, de se o grau e a velocidade da absorção após administração oral se devem principalmente às propriedades físicas do fármaco ou às condições fisiológicas do organismo. O conceito se baseia na ideia que a biodisponibilidade oral de uma substância é determinada principalmente por sua solubilidade e por sua  permeabilidade.
+O BCS foi desenvolvido em meados da década de 1990 nos EUA por Gordon Amidon e faz parte desde então de tanto diretrizes da  US-FDA (Food and Drug Administration) Richtlinie Como da Agência Europeia de Medicamentos (EMA) para avaliação da bioequivalência de medicamentos. Sob certas condições, empresas farmacêuticas podem se basear no BCS para a produção e autorização de genéricos sem necessariamente ter que passar pelos processos obrigatórios exigidos de outra forma de estudos in vivo  para determinação da bioequivalência.
+
+
+== Referências ==
+Amidon G.L., Lennernäs H., Shah V.P., Crison J.R. A Theoretical Basis For a Biopharmaceutics Drug Classification: The Correlation of In Vitro Drug Product Dissolution and In Vivo Bioavailability.  Pharm Res 1995. Mar;12(3):413-20. PMID 7617530
+Waterbeemd H., Lennernäs H., Artursson P. (editors), Drug bioavailability: estimation of solubility, permeability, absorption and bioavailability, Wiley-VCH, Weinheim, Germany. 2003. ISBN 3-527-30438-X
+Möller H., Potthast H. Biopharmazeutische Charakterisierung von Arzneistoffen und Fertigarzneimitteln. Pharm. Ztg. 144 (1999) 1640.
+Bekanntmachung über die Zulassung nach § 21 des Arzneimittelgesetzes (Bioverfügbarkeit/Bioäquivalenz) vom 18. Dezember 2002. BAnz. vom 25. März 2003 5296
+
+
+== Ligações externas ==
+The Biopharmaceutics Classification System (BCS) Guidance der Food and Drug Administration, zuletzt aktualisiert am 1. April 2009
+Working Group on BCS and Biowaiver  der International Pharmaceutical Federation
+Concept Paper on BCS-based Biowaiver[ligação inativa] der Europäischen Arzneimittelagentur (PDF-Datei; 43 kB)

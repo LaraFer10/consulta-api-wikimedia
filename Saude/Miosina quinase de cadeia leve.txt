@@ -1,0 +1,14 @@
+Miosina quinase de cadeia leve, em inglês myosin light-chain kinase é uma proteína quinase específica de serina/treonina que fosforila uma cadeia leve específica de miosina, que é a cadeia leve regulatória de miosina II. 
+
+
+== Isoformas ==
+Existem quatro diferentes isoformas de MLCK: MYLK - tecido muscular liso
+MYLK2 - tecido muscular estriado esquelético
+MYLK3 - tecido muscular estriado cardíaco
+
+
+== Função ==
+Essas enzimas são importantes na contração muscular. Quando um fluxo de íons de cálcio entra no músculo, seja pelo retículo sarcoplasmático ou pelo líquido extracelular, a contração do músculo liso pode ser iniciada. Primeiro, o cálcio se ligará à calmodulina. Essa ligação vai ativar a MLCK, que vai fosforilar a cadeia leve de miosina. Isso vai permitir que a cabeça de miosina se ligue ao miofilamento de actina e a contração inicie. Como o músculo liso não tem o complexo troponina-tropomiosina, esse mecanismo é a via principal de regulação da contração desse tipo muscular. A redução dos níveis intracelulares de cálcio desativa a MLCK, mas não impede a contração do músculo liso, já que a cadeia leve de miosina foi modificada pela fosforilação. Para impedir a contração, essa mudança deve ser revertida. Desfosforilar a cabeça da miosina (e consequentemente interromper a contração muscular) ocorre pela ação de uma segunda enzima, a fosfatase da cadeia leve de miosina.
+
+
+== Referências ==

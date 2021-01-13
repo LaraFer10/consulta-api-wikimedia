@@ -1,0 +1,25 @@
+Em biologia, a hipótese de buscas por voos de Lévy pode ser enunciada da seguinte forma:
+
+O movimento de animais na natureza possui semelhanças com o movimento browniano realizado por partículas sólidas em um fluido. Esta conexão entre biologia e física estatística levou a tentativas de compreender o padrão de movimento dos animais através de analogias com o movimento browniano.
+Estes trabalhos que empregavam a difusão normal como teoria na descrição do movimento de animais persistiram até o começo da década de 90 como um senso comum na área. Porém, desde o início dos anos 80 dados empíricos deixaram de fornecer suporte à teoria.Em 1999, uma abordagem teórica das propriedades dos voos de Lévy mostrou que uma distribuição do tipo inverso do quadrado para os tempos ou distâncias de vôo pode levar à otimização da eficiência de busca sob certas circunstâncias.
+
+Especificamente, uma busca realizada por voos de Lévy (onde a velocidade 
+é constante durante o caminho percorrido) otimiza o processo de busca em ambientes esparsos com alvos revisitáveis aleatoriamente distribuídos. O grupo de pesquisadores Gandhimohan M. Viswanathan, Segey V. Buldyrev, Marcos Gomes E. da Luz, Shlomo Havlin, Ernesto P. Raposo e H. Eugene Stanley publicou estes resultados inovadores na área de processos de busca na revista Nature em 1999. Após este trabalho seguiram-se vários outros que ajudaram a modificar o senso comum da área de busca aleatória aplicada ao forrageamento animal.Os maiores e mais longos estudos feitos para a verificação da hipótese de buscas por voos de Lévy
+foram realizados por Sims et al. e Humphries et al. Nestes trabalhos, a credibilidade da teoria foi 
+extensivamente verificada por mais de 
+  
+    
+      
+        
+          10
+          
+            6
+          
+        
+      
+    
+    {\displaystyle 10^{6}}
+   pontos de dados empíricos.
+
+
+== Referências ==

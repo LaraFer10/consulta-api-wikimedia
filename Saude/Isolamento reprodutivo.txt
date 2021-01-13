@@ -1,0 +1,121 @@
+O isolamento reprodutivo resulta da incapacidade, total ou parcial, de membros de duas populações se cruzarem, produzindo descendência fértil.
+Num caso típico de especiação alopátrica, depois de um longo período de isolamento geográfico, as populações podem se diferenciar tanto que perdem a capacidade de cruzamento entre si, tornando-se reprodutivamente isoladas. É o critério principal do "conceito biológico de espécie" para considerar duas populações como espécies distintas.
+O isolamento reprodutivo pode ser classificado como pré ou pós-zigótico, parcial ou total. Pode também ser classificado tendo em conta o mecanismo que impede a reprodução. Em alguns casos, mecanismos genéticos impedem a reprodução, ou as populações ocupam nichos ecológicos diferentes impedindo machos e fêmeas de se encontrarem. Outros mecanismos incluem diferenças morfológicas que impedem a copulação.
+
+
+== Conceitos de Espécie ==
+Para entender isolamento reprodutivo e consequentemente a especiação, devemos abordar antes os Conceitos de Espécie. 
+O primeiro conceito é o Tipológico de Linneus, que é baseado na filosofia grega do eidos (para Platão: a natureza genuína e imutável de alguma coisa). Indivíduos são da mesma espécie se eles conformam-se a um tipo que tem propriedades essenciais fixadas.O Conceito Biológico de espécie, proposto por Ernst Mayr em 1963, diz que: “uma espécie é formada por um conjunto de indivíduos que são ﬁsiologicamente capazes de, real ou potencialmente, cruzarem entre si e produzir descendência fértil, encontrando-se isolados reprodutivamente de outros conjuntos semelhantes.
+O conceito biológico de espécies se consolidou a partir do século XX como o principal conceito de espécie dentro de biologia evolutiva. O Conceito Ecológico surge em 1976 com Van Valen e diz que ‘’Uma espécie é uma linhagem (ou intimamente relacionado conjunto de linhagens) que ocupam uma zona adaptativa minimamente diferente de outras linhagens e que evolui separadamente de todas as outras linhagens. 
+Com Wiley, em 1978, temos o Conceito Evolutivo: ‘’Uma espécie é uma linhagem (uma seqüência ancestral-descendente) de populações ou organismos que mantêm identidade em relação a outras linhagens e que possui suas próprias tendências evolutivas e destino histórico. 
+Além destes, temos o Conceito de Identificação ou de Reconhecimento, onde ‘’Uma espécie é uma população de organismos que compartilham um sistema de fertilização comum’’ (Paterson, 1985) Em 1989, Cracaft propôs o Conceito Filogenético, onde ‘’ Uma espécie é um grupo simples de organismos que é diagnosticamente distinto de outros grupos, e dentro do qual existe um padrão parental de ancestralidade e descendência’’. Sendo complementado em 1990 por Queiroz & Donoghue, que diziam que ‘’Uma espécie é o menor grupo monofilético de um ancestral comum. 
+Recentemente, em 1993, surge o conceito Internodal: ‘’ Organismos individuais são da mesma espécie em virtude da pertença comum a uma parte da rede genealógica entre dois eventos permanentes ou entre uma divisão permanente e um evento de extinção’’ (Kornet, 1993). O Conceito Biológico de Espécie (CBE) é o que utiliza o isolamento reprodutivo para definir espécies e apesar de ser o mais aceito, apresenta alguns problemas como a dificuldade em determinar o isolamento para populações geograficamente separadas, não sendo aplicável a todas as espécies (por exemplo, espécies assexuadas, espécies com introgressão e hibridização e espécies fósseis). Deste modo, só podemos aplicá-lo às populações mendelianas. Por outro lado, destacamos seus pontos fortes: adaptação dentro da genética de populações fornece um critério empírico não ambíguo e dá suporte conceitual para especiação. Por cerca de trinta anos, o CBE foi amplamente aceito, embora não o fosse pelos botânicos, pois, frequentemente as plantas têm altas taxas de hibridização, variabilidade local e plasticidade induzida pelo ambiente. Um dos movimentos tem sustentado que populações mais que espécies, são as reais e importantes unidades de evolução, outros defendem a presença de processos biológicos subjacentes, mas cada um apregoa um tipo de processo diferente como sendo o mais importante.  
+
+
+== Isolamento Geográfico ==
+
+É o fenômeno que acontece quando grandes populações biológicas ficam fisicamente isoladas por uma barreira externa, envolvendo isolamento reprodutivo de tal modo que depois da barreira desaparecer, indivíduos das populações já não poderão se cruzar. Quando existe o livre fluxo gênico entre as populações de uma espécie, a coesão genética da espécie é mantida. Com o aparecimento de barreiras geográficas, como o surgimento de um rio ou formação de uma cadeia de montanhas, o fluxo gênico entre duas subpopulações é interrompido e as mudanças adquiridas por mutações, recombinações e seleção podem se acumular diferentemente entre as subpopulações levando ao isolamento reprodutivo e a especiação. O isolamento geográfico entre populações de uma espécie pode ocorrer por eventos de vicariância ou eventos fundadores.   A especiação pode, dessa forma, ocorrer por uma divergência gradual, como acontece em processos vicariantes (quando uma espécie se subdivide em duas populações grandes que se tornam isoladas pelo surgimento de uma barreira física) ou por revolução genética em função do efeito fundador, nesse caso a deriva genética desestabiliza um complexo gênico adaptativo moldando um novo incompatível com o ancestral. 
+Dessa forma, o isolamento reprodutivo evolui, portanto, como subproduto da divergência entre populações geograficamente afastadas. 
+
+
+== Especiação ==
+
+A formação de uma nova espécie, a especiação, pode implicar na transformação completa de uma espécie em outra ou na divisão de uma espécie em outras. Descobrir quando e como uma nova espécie se desenvolveu é uma tarefa ainda mais difícil que deﬁnir uma espécie existente. A formação de uma nova espécie está associada diretamente às modiﬁcações do genoma de uma população.  Quando existe livre ﬂuxo de genes entre as várias populações de uma espécie, o conjunto genético formado pelos indivíduos mantém-se mais ou menos uniforme. No entanto, se o ﬂuxo genético entre conjuntos de indivíduos for interrompido, essas sub-populações irão lentamente acumulando diferenças que podem levar a uma situação que já não permita o cruzamento entre indivíduos dessas populações.  Nesse momento obtêm-se duas espécies diferentes, por isolamento reprodutivo. Uma vez formada a nova espécie, a divergência entre ela e a espécie ancestral torna-se praticamente irreversível. A forma como o ﬂuxo genético entre os grupos de indivíduos de uma mesma espécie torna-se restrito é o fator que irá determinar o tipo de especiação que eventualmente ocorrerá.  Por exemplo, se o ﬂuxo genético é nulo, temos a especiação alopátrica onde grupos ﬁcam isolados geograﬁcamente impedindo a troca genética pela reprodução sexual. No outro extremo temos a especiação simpátrica, onde o ﬂuxo genético é total e mesmo assim surgem grupos que se tornam diferentes da espécie ancestral, formando assim novas espécies. Na especiação parapátrica ocorre ﬂuxo genético parcial.
+
+
+=== Principais eventos ===
+
+
+==== Especiação Alopátrica ====
+
+É quando uma nova espécie evolui geograficamente isolada de sua ancestral. Pode ocorrer isolamento por barreira física, como um rio ou cadeia montanhosa, separando a população anteriormente contínua. Ou então populações intermediárias sendo extintas (por doença talvez) deixando as populações geograficamente extremas separadas entre si. Ou uma subpopulação pode migrar para um novo local, fora do âmbito da espécie ancestral (colonização de ilhas).  
+Um exemplo famoso de especiação alopátrica são os tentilhões de Darwin.  Acredita-se que todas as espécies derivaram de uma espécie ancestral que se dispersou colonizando o arquipélago. Apesar de sua semelhança forte, cada espécie de tentilhão tem uma forma altamente característica do bico. Os fatores evolutivos são: isolamento geográfico, ambiente e competição. O isolamento geográfico impede a migração e fluxo de genes com a espécie original e com aquelas de outras ilhas, favorecendo a estabilização de características genéticas peculiares em cada ilha. Os ambientes ecológicos diferentes, dentro da mesma ilha, conduzem a especializações nutricionais caracterizadas pelas diferenças no bico entre as diferentes espécies de tentilhões. Além disso, mostrou-se que para melhorar o alcance dos cantos de acasalamento, aqueles tentilhões que vivem nas zonas de vegetação densa tem canto diferente daqueles que vivem nas áreas de vegetação esparsa. Este fenômeno aumenta a probabilidade de encontrar um par o qual seja parte do mesmo ambiente: daí se dá a estabilização das características genéticas específicas ao ambiente ecológico. A competição, que é particularmente severa durante períodos secos por causa da escassez do alimento, favorece aqueles indivíduos mais bem adaptados ao seu ambiente. Porque estes têm uma possibilidade maior de sobrevivência e portanto de se reproduzir, suas características genéticas particulares tendem a ser passadas para as gerações seguintes. 
+
+
+==== Especiação Simpátrica ====
+
+Uma espécie divide-se sem que haja divisão da distribuição geográfica da espécie ancestral. A etapa inicial é um polimorfismo independente de espaço intrapopulacional. 
+Por exemplo, a '’Troca de hospedeiro’’ em uma mosca Rhagoletis pomonella. As moscas Rhagoletis pomonella estão em processo de especiação em função da  troca de hospedeiro do pilriteiro para maçãs, pêras, cerejas e rosas na Américado Norte. Há uma preferência pela reprodução no hospedeiro onde a mosca se desenvolveu. Existem diferenças enzimáticas e de tempo de desenvolvimento entre as raças (40 dias na maçã, 55-60 no pilrito, aumentando o isolamento reprodutivo). Isso pode ser responsável por muitas irradiações de insetos fitófagos. 
+
+
+==== Especiação Parapátrica ====
+A nova espécie evolui de populações contíguas e não das completamente afastadas. Há a formação de uma clina escalonada, talvez por uma mudança abrupta no ambiente, dessa forma os extremos da população estariam adaptados a condições diferentes.
+Como exemplo podemos citar o Corvo carniceiro (Corvus corone)  e o Corvo de topete (C. cornix) na Europa. A parcela intermediária seria uma zona híbrida, onde as extremidades se intercruzam e produzem descendentes. Zonas híbridas podem ser chamadas de zona de tensão, pois os híbridos são  letivamente desvantajosos. Nesse cenário o reforço pode atuar, completando a especiação parapátrica. No entanto, as evidências sugerem que a maioria das zonas híbridas não é primária, mas é secundária, ou seja, um contato secundário de espécies que se formaram em alopatria. 
+
+
+== Isolamento Reprodutivo ==
+Isolamento Reprodutivo é o evento chave para a especiação.  O ambiente pode impor uma barreira externa à reprodução, tal como um rio ou cadeia de montanhas entre duas espécies principiantes, mas essa barreira externa sozinha não fará com que as duas subpopulações sejam espécies diferentes. A alopatria pode iniciar o processo, mas a evolução das barreiras internas (ou seja, de base genética) ao fluxo gênico é necessária para a especiação estar completa. Se as barreiras internas não evoluem, indivíduos das duas partes da população irão acasalar entre si livremente se voltarem a ter contato. Especiação requer que as duas espécies sejam incapazes de produzir descendentes viáveis juntos ou que eles evitem acasalar com membros de outro grupo. 
+O desenvolvimento de mecanismos que determinam o isolamento reprodutivo é fundamental para a origem das espécies. Populações reprodutivamente isoladas de outras passarão a ter uma história evolutiva própria e independente de outras populações. Não havendo troca de genes com populações de outras espécies, todos os fatores evolutivos que atuam sobre populações de uma espécie terão uma resposta própria. É importante esclarecer que os mecanismos de isolamento reprodutivo não se referem apenas à esterilidade, pois isolamento reprodutivo não é sinônimo de esterilidade. Duas espécies também podem estar reprodutivamente isoladas devido a fatores etológicos ou ecológicos que impendem o fluxo gênico. Um exemplo pode ser dado por duas espécies de patos de água doce, Anas platyrhinchos e Anas acuta, as quais, apesar de nidificarem lado a lado, não trocam genes, pois respondem a estímulos sensoriais diferentes. A cópula entre machos e fêmeas de uma espécie é desencadeada por certos estímulos sensoriais que não têm efeito sobre machos e fêmeas da outra espécie. Com isso, é muito raro haver cópula entre indivíduos das duas espécies. No entanto, se essas duas espécies forem criadas em cativeiro, elas poderão se reproduzir, originando descendentes férteis. Neste caso, não é a esterilidade o fator de isolamento reprodutivo e sim o fator etológico (comportamental). 
+
+
+=== Mecanismos de Isolamento Pré-Zigótico ===
+São aqueles que impedem a fecundação.
+Dois fatores genéticos podem contribuir para a evolução do isolamento pré-zigótico: pleiotropia e efeito carona.
+Pleiotropia é quando um gene influi em mais de uma característica fenotípica do organismo. Um exemplo desse caso ocorre nos tentilhões de Darwin, onde o tipo de canto pode estar correlacionado pleiotropicamente com o formato do bico. Dessa forma, um gene que é favorecido por melhorar a adaptação ecológica também causará algum isolamento reprodutivo. A pleiotropia surge porque o mesmo caráter morfológico (o bico) influi na alimentação e na reprodução. 
+
+Efeito carona significa que quando a seleção natural favorece um gene de um loco, genes em locos ligados também podem aumentar em frequência. Como exemplo podemos citar o experimento de Dodd, com isolamento reprodutivo em Drosophila pseudoobscura, onde a seleção natural aumentou a frequência dos genes que codificavam as enzimas digestivas apropriadas. Talvez um gene estreitamente ligado influencie a dança de acasalamento da drosófila. Desse modo, quando um gene de uma adaptação ecológica(a enzima digestiva) aumenta em frequência, ele pode trazer consigo um gene ligado, relacionado com um novo passo da dança de acasalamento. Novamente, o isolamento pré-zigótico poderia evoluir como um subproduto, só que o mecanismo genético é o efeito carona em vez da pleiotropia.
+
+
+==== Isolamento Ecológico ou de Habitat ====
+
+As populações envolvidas ocorrem em habitats diferentes, na mesma região.
+Ex: Em condições não naturais, leões e tigres, por exemplo, podem se cruzar em cativeiro, produzindo descendentes estéreis. Na natureza, entretanto, não se cruzam por viverem em habitats diferentes.
+
+
+==== Isolamento Sazonal ou Temporal ====
+As épocas de acasalamento ou de florescimento ocorrem em estações diferentes.
+Como exemplo, citamos grupos diferentes de rãs que vivem em uma mesma lagoa, mas não se reproduzem na mesma época. Esse isolamento também se aplica aos vegetais. 
+No caso dos vegetais, citamos algumas espécies de orquídeas que, embora habitem uma mesma região, florescem em dias diferentes, o que impede o cruzamento entre elas.
+
+
+==== Isolamento Sexual ou Etológico ====
+
+A atração sexual mútua entre espécies diferentes é fraca ou ausente
+Como exemplo, citamos os sinais luminosos emitidos por vagalumes machos que, dependendo das espécies, variam na frequência, duração da emissão e na cor, levando a fêmea a só responder ao sinal emitido pelo macho da sua própria espécie. Outro exemplo é representado pelo canto das aves. Sendo esse canto específico, as fêmeas são atraídas para o território dos machos de sua espécie. Como terceiro exemplo, citamos o comportamento dos sapos, cujo coachar dos machos é específico, atraindo apenas as fêmeas de sua espécie. Uma forma extremamente curiosa de atração sexual é observada nas fragatas. Objetivando atrair as fêmeas, os machos inflam o papo, tornando-o bastante avermelhado. Essa alteração na coloração do papo deixa as fêmeas receptivas para o acasalamento.
+
+
+==== Isolamento Mecânico ====
+Falta de correspondência entre as genitálias ou órgãos florais que impedem a cópula ou transferência de pólen
+Quando há incompatibilidade entre seus órgãos reprodutores (tamanho ou forma dos órgãos genitais, impedindo a cópula;
+Em plantas fanerógamas (gimnospermas e angiospermas) pode haver a não germinação do tubo polínico no estigma da outra flor.
+
+
+==== Isolamento Gamético ====
+Incompatibilidade entre os gametas de espécies diferentes, que podem não se atrair mutuamente ou serem inviáveis no dutos sexuais ou estilos de outras espécies.
+Tipo de isolamento que ocorre em muitos animais aquáticos de espécies diferentes. Estas espécies depositam os gâmetas na água, no mesmo local e ao mesmo tempo, ocorrendo só fecundação entre os gâmetas originados pela mesma espécie. As membranas dos óvulos possuem moléculas específicas que são reconhecidas por moléculas complementares dos espermatozoides da mesma espécie, permitindo assim a penetração desses espermatozoides.
+
+
+==== Isolamento por Polinizadores Diferentes ====
+Espécies de plantas podem ser especializadas em atrair polinizadores diferentes.
+
+
+=== Mecanismos de Isolamento Pós-Zigótico ===
+Isolamento Pós Zigótico significa que é produzida prole híbrida, mas, ou ela morre antes de cruzar ou sobrevive, mas estéril. Os híbridos são heterozigotos e, se há isolamento pós zigótico, esses heterozigotos tem de ter baixa aptidão. O modelo de isolamento póz zigótico devido a um loco contém um paradoxo: a evolução teve de passar por uma fase desvantajosa ou mesmo mortal – o que é improvável, ou até impossível. A solução para isso foi a Teoria de Dobzhansky-Muller, onde constataram que o isolamento pós zigótico poderia evoluir sem dificuldade se fosse controlado pela interação de dois ou mais loco gênicos. Uma população ancestral ramifica-se em duas ou mais populações entre as quais não há fluxo gênico. Cada população se adapta às condições de seu local por mudanças genéticas. É provável que, nas diferentes populações, essas mudanças sejam em locos diferentes. Se, mais tarde duas dessas populações se reencontram, é provável que suas modificações genéticas sejam incompatíveis e seus híbridos sejam estéreis ou inviáveis. 
+O isolamento pós zigótico geralmente segue a regra de Haldane (1922): ‘’O sexo heterogamético nos híbridos interespecíficos é geralmente mais afetado na viabilidade ou fertilidade. 
+
+
+==== Inviabilidade do Híbrido ====
+Os zigotos híbridos têm viabilidade reduzida ou são inviáveis.
+Como exemplo, citamos o caso de algumas espécies de rãs que, embora habitem uma mesma lagoa e possam, eventualmente, cruzar-se, geram híbridos interespecíficos que não se desenvolvem.
+
+
+==== Esterilidade do Híbrido ====
+
+A F1 híbrida não consegue produzir gametas funcionais de um ou de ambos os sexos.
+Como exemplo clássico, citamos o caso do burro ou da mula, que é um híbrido estéril, resultante do cruzamento entre o jumento (Equus asinus) e a égua (Equus cabalus). Os cromossomos dos genitores do burro apresentam diferenças na homologia e no número. Enquanto o jumento tem 2n = 62, a égua tem 2n = 64. Nas células germinativas do burro, os cromossomos não se emparelham corretamente, impedindo a ocorrência de meiose normal e, consequentemente, a formação de gametas viáveis. O burro e a mula são considerados híbridos interespecíficos. Eles não constituem uma terceira espécie.
+Lembramos que o pintagol (ou arlequim), que resulta do cruzamento entre um pintassilgo macho e uma canária; o tigão (ou ligre), produto do cruzamento de uma leoa com um tigre e o lepórido, gerado a partir do cruzamento entre uma lebre e um coelho, são também considerados híbridos interespecíficos.
+
+
+==== Desmoronamento do Híbrido ====
+A F2 ou dos híbridos retrocruzados têm viabilidade ou fertilidade reduzida. 
+
+
+== Espécies em Anel ==
+
+Uma espécie em anel é uma espécie na qual seus extremos não se intercruzam na região de sobreposição. Ela apresenta um conjunto de contínuos intermediários entre as duas espécies distintas e esses intermediários estão arranjados em um anel. 
+Espécies em anel fornecem importantes evidências para a evolução, pois mostram que as diferenças intra-espercíficas podem ser grandes o suficiente para produzirem uma diferença interespecífica.  
+O exemplo mais conhecido é o das salamandras da Califórnia, Ensatina eschscholtzii, que se distribuem ao longo do vale de San Joaquin no sul da Califórnia se encontrando no extremo sul na altura do condado de San Diego. Acredita-se que inicialmente se tratava de uma única espécie que vivia mais ao norte; então duas correntes de populações dessa espécie seguiram para o sul dividindo-se em dois ramos (um de cada lado do vale). As populações costeiras evoluíram para um padrão de cores levemente pigmentado e sem manchas. Já as populações do interior evoluíram para um padrão manchado. Em vários pontos da distribuição dessas populações ocorre o encontro entre indivíduos das duas formas que são capazes de gerar híbridos férteis, o que indica que nessas áreas elas não divergiram o suficiente para serem consideradas duas espécies diferentes. Porém, mais ao sul, no condado de San Diego, as duas linhagens estão tão diversificadas que são facilmente reconhecidas como espécies diferentes, sendo incapazes de intercruzarem, fechando o anel. 
+Um outro possível exemplo de “espécies em anel”, são as populações de Phylloscopus trochiloides. Durante a última era glacial, quando a Sibéria se dividiu em pequenos focos de ﬂoresta, as populações dessa ave foram conﬁnadas ao sul da área em que viviam anteriormente. Quando a ﬂoresta voltou a se expandir, as aves teriam seguido para o norte circundando o planalto tibetano por dois caminhos diferentes, pelo leste e pelo oeste. A partir da localização de um anel contínuo de populações de Phylloscopus trochiloides em torno do Planalto Tibetano, os cientistas descobriram variações graduais nos padrões de canto, na morfologia e nos marcadores genéticos de 15 populações da ave. O processo de especiação ainda não está completo. Populações próximas ainda podem se cruzar, ou seja, existe um contínuo genético entre as populações de Phylloscopus trochiloides. Pode ser que futuramente essas populações se separem em espécies, embora os autores do trabalho acreditem que o anel é estável. As espécies em anel constituem, portanto, uma clara evidência de que a divergência genética pode se elevar ao ponto de gerar duas espécies, pois nesse tipo de situação os extremos da distribuição se encontram e podem provar a ocorrência do isolamento reprodutivo na natureza.
+
+
+== Referências ==

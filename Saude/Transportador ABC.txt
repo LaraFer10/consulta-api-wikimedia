@@ -1,0 +1,38 @@
+O transportadores ABC são uma superfamília de sistemas de transporte que é uma das maiores e possivelmente uma das mais antigas famílias de genes. Ela tem representante em todos os filos existentes, de procariontes a humanos.Os transportadores ABC frequentemente consistem em múltiplas subunidades, uma ou duas das quais são proteínas transmembrana e uma ou duas das quais são AAA ATPases associadas à membrana. As subunidades ATPase hidrolisam trifosfato de adenosina (ATP) para fornecer a energia para a translocação de substratos através das membranas. 
+A maioria dos sistemas de captação também possui um receptor extracitoplasmático, uma proteína de ligação de soluto. Algumas ATPases funcionam em processos não relacionados ao transporte, como tradução de RNA e reparo de DNA. Os transportadores ABC são considerados uma superfamília com base nas semelhanças da sequência e organização de seus domínios de cassete de ligação de ATP, ainda que as proteínas integrais de membrana pareçam ter evoluído várias vezes, formando diferentes famílias.Centenas de transportadores ABC foram caracterizados tanto de procariotos quanto de eucariotos. Os genes ABC são essenciais para muitos processos na célula e as mutações nos genes humanos causam ou contribuem para várias doenças genéticas humanas.   Os transportadores ABC também estão envolvidos na resistência a múltiplos medicamentos, e foi assim que alguns deles foram identificados pela primeira vez. Quando as proteínas de transporte ABC são superexpressas nas células cancerígenas, elas podem exportar drogas anticâncer e tornar os tumores resistentes.
+
+
+== Função ==
+Os transportadores ABC utilizam a energia de ligação e hidrólise do ATP para transportar vários substratos através das membranas celulares. Eles são divididos em três categorias funcionais principais. Nos procariotos, os importadores medeiam a absorção de nutrientes pela célula. Exportadores ou efluxadores, que estão presentes tanto em procariotos quanto em eucariotos, funcionam como bombas que expelem toxinas e drogas para fora da célula. Em bactérias gram-negativas, os exportadores transportam lipídios e alguns polissacarídeos do citoplasma para o periplasma . O terceiro subgrupo de proteínas ABC não funciona como transportador, mas está envolvido nos processos de tradução e reparo do DNA. 
+
+
+=== Procariota ===
+Os transportadores bacterianos ABC são essenciais para a viabilidade, virulência e patogenicidade das células. Os sistemas de captação de ferro ABC, por exemplo, são importantes efetores de virulência. Os patógenos usam sideróforos para capturar ferro de proteínas. Estas são moléculas quelantes de ferro são secretadas por bactérias e reabsorvem ferro em complexos de ferro-sideróforo.  
+Em sistemas de efluxo bacteriano, são extrudadas da célula incluem componentes de superfície da célula bacteriana, proteínas envolvidas na patogênese, toxinas, antibióticos, e sideróforos.  Eles também desempenham papéis importantes nas vias biossintéticas, incluindo a biossíntese extracelular de polissacarídeos e a biogênese do citocromo.
+
+
+=== Eucariótica ===
+Embora a maioria dos transportadores ABC eucarióticos sejam efluxadores, alguns não estão diretamente envolvidos no transporte de substratos. No regulador transmembrana da fibrose cística (CFTR) e no receptor de sulfonilureia (SUR), a hidrólise do ATP está associada à regulação da abertura e do fechamento dos canais iônicos carregados pela própria proteína ABC ou por outras proteínas.
+
+
+== Estrutura ==
+
+Todas as proteínas de transporte ABC compartilham uma organização estrutural que consiste em quatro domínios centrais. Esses domínios consistem em dois domínios transmembranares (T) e dois domínios citosólicos (A). Os quatro domínios podem estar presentes em quatro polipeptídeos separados ou  em um ou dois polipeptídeos de múltiplos domínios.
+
+
+== Papel na resistência a múltiplas drogas ==
+Os transportadores ABC são conhecidos por desempenhar um papel crucial no desenvolvimento da resistência a múltiplas drogas (MDR). No MDR, os pacientes que estão tomando medicamentos acabam desenvolvendo resistência não apenas ao medicamento que estão tomando, mas também a vários tipos diferentes de medicamentos. Isso é causado por vários fatores, um dos quais é o aumento da expulsão da droga da célula pelos transportadores ABC. Por exemplo, a proteína ABCB1 (P-glicoproteína ) atua no bombeamento de drogas supressoras de tumor para fora da célula. Pgp também chamado de MDR1, ABCB1, é o protótipo dos transportadores ABC.  
+Outros transportadores ABC que contribuem para a resistência a múltiplas drogas são ABCC1 (MRP1) e ABCG2 (proteína de resistência ao câncer de mama).
+
+
+== Papel fisiológico ==
+Além de conferir MDR nas células tumorais, os transportadores ABC também são expressos nas membranas das células saudáveis, onde facilitam o transporte de várias substâncias endógenas, bem como de substâncias estranhas ao organismo. Por exemplo, transportadores ABC, como Pgp, MRPs e BCRP limitam a absorção de muitos medicamentos do intestino e bombeiam medicamentos das células do fígado para a bile como meio de remover substâncias estranhas do corpo. Um grande número de drogas é transportado pelos próprios transportadores da ABC ou afeta o transporte de outras drogas. O último cenário pode levar a interações medicamentosas, às vezes resultando em efeitos alterados dos medicamentos.
+
+
+== Referências ==
+
+
+== Links externos ==
+Classificação dos transportadores ABC em TCDB
+ABCdb Archaeal and Bacterial ABC Systems database, ABCdb
+MeSH ATP-Binding+cassette+transporters

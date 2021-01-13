@@ -1,0 +1,42 @@
+Monofilia ou monofiletismo é a propriedade apresentada por um agrupamento taxonómico (um taxon ou conjunto de organismos) que contenha entre os seus elementos todos e apenas os descendentes de um ancestral comum exclusivo. Um conjunto de organismos que satisfaça a condição de monofilia é um agrupamento monofilético, o que na moderna cladística corresponde a um táxon (grupo de organismos) que forma um clado ou ramo, ou seja, que consiste exclusivamente numa espécie ancestral e todos os seus descendentes. Em consequência da partilha do património genético do ancestral comum, os membros de um grupo monofilético caracterizam-se por partilharem características derivadas comuns, as sinapomorfias. «Monofilia» é sinónimo de «holofilia», termo entretanto caído em desuso.
+
+
+== Descrição ==
+Monofilia contrasta com parafilia e polifilia, como mostrado nos diagramas ao lado. A moderna taxonomia de base filogenética assenta na análise de grupos filogenéticos que são classificados de acordo com o padrão estabelecido pela condição de monofilia. Com essa base os grupos são classificados em:
+
+Grupo monofilético — os seus elementos cumprem a condição de monofilia, agrupando exclusivamente o universo dos descendentes de um ancestral comum pré-determinado. Em teoria, apenas os grupos monofiléticos podem constituir um táxon de bona fide num sistema de classificação biológica.
+Grupo parafilético — consiste no conjunto de todos os descendentes de um ancestral comum minus um ou mais grupos monofiléticos. Em consequência, um grupo que exiba parafilia é "quase monofilético" (daí o prefixo 'para', significando 'próximo' ou 'concordante'.)
+Grupo polifilético — consiste num conjunto de organismos que forma um grupo caracterizado por apresentar características comuns resultantes da acção da evolução convergente. As características partilhadas, que podem ser anatómicas, bioquímicas, comportamentais ou outras (por exemplo, primatas com actividade nocturna, árvores de fruto, insectos aquático), não resultam da herança de um ancestral comum mas da adaptação a condições ambientais específicas.A aceitação generalizada da definição de «monofilia» foi demorada. Quando a escola cladística passou a dominar o campo da taxonomia, na década de 1960, estavam em uso várias definições alternativas. Na realidade, muitos taxonomistas utilizaram as definições associadas aos grupos filogenéticos sem os definir de forma precisa, o que levou a confusão na literatura, uma confusa que ainda parcialmente persiste.
+
+
+== Definições ==
+Quando analisadas num contexto alargado, as definições de «monofilia» caem em dois grupos:
+
+As definições assentes no postulado do entomologista alemão Willi Hennig (1966:148), definindo a monofilia de um grupo com base no reconhecimento da existência de sinapomorfia entre os seus membros (em contraste com os grupos parafiléticos, criados com base na ocorrência de simplesiomorfia, e com os grupos polifiléticos assentes sobre os resultados da convergência). Alguns autores procuraram definir a monofilia de forma a incluir a parafilia, considerando-a como a característica do conjunto formado por dois ou mais grupos que partilhassem um ancestral comum. Contudo, essa definição alargada, ao juntar grupos monofiléticos stricto sensu com grupos parafiléticos, como atrás definidos, mostra-se menos útil na construção dos sistemas de classificação, razão pela qual a maioria dos cientistas restringe o uso do termo «monofilético» aos grupos que juntam todos os descendentes de um (hipotético) ancestral comum. Contudo, quando sejam considerados agrupamentos taxonómicos tais como géneros ou espécies, a natureza desse «ancestral comum» é pouco clara. Assumir que o ancestral seria um indivíduo, ou mesmo um par acasalante, é irrealista para espécies que utilizem reprodução sexual, que por definição são populações de indivíduos capazes de acasalar entre si.
+As definições assentes numa abordagem de carácter genealógico consideram que o conceito de monofilia e termos associados estão restritos à discussão de taxa, e não são necessariamente precisos, ou seja não têm precisão aceitável, quando usados para descrever o que Willi Hennig designou por «relações tocogenéticas», no presente em geral designadas por «genealogias». Como argumento, apontam que a utilização de uma definição alargada, como «espécie e todos os seus descendentes», não é apropriada para definir um género. Nessa acepção, uma definição cladística satisfatória de «espécie» ou «género» é impossível porque muitas espécies (ou mesmo géneros) podem ser formados por "ramificação" de uma espécie existente, deixando a espécie ancestral parafilética. Dificuldade ainda maior surge quando uma espécie ou género resulta de especiação por hibridação.
+
+
+== Ver também ==
+Clado
+Parafilia
+Polifilia
+Grupo coroa
+Taxonomia
+Árvore filogenética
+
+
+== Referências ==
+
+
+== Bibliografia ==
+Colin Tudge. 2000. La Variedad de la Vida. Oxford University Press. ISBN 0198604262.
+
+
+== Ligações externas ==
+Abbey, Darren (1994–2006). «Graphical explanation of basic phylogenetic terms». University of California, Berkeley. Consultado em 15 de janeiro de 2010 
+Carr, Steven M. (2002). «Concepts of monophyly, polyphyly & paraphyly». Memorial University. Consultado em 15 de janeiro de 2010 
+Hyvönen, Jaako (2005). «Monophyly, consensus, compromise» (pdf). University of Helsinki. Consultado em 15 de janeiro de 2010 
+Evolving Thoughts: Clade
+A poster-sized cladogram showing the Tree of Life (Evolution)
+DM Hillis, D Zwickl & R Gutell: ~3000 species Tree of Life
+Phylogenetic systematics, an introductory slide-show on evolutionary treesUniversity of California, Berkeley

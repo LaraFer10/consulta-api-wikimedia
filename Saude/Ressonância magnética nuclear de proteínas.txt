@@ -1,0 +1,7 @@
+A espectroscopia mediante ressonância magnética nuclear de proteínas, também chamada de RMN de proteínas, é um campo da biologia estrutural no qual se utiliza espectroscopia RMN para obter informação sobre a estrutura e dinâmica das proteínas. O campo foi desenvolvido por Kurt Wüthrich entre outros, que compartilhou o Prémio Nobel de química em 2002. As técnicas de RMN utilizam-se de forma rotineira no âmbito académico e na indústria de biotecnologia. A determinação da estrutura das proteínas mediante espectroscopia RMN, no geral, consiste em várias fases sucessivas, cada uma delas utilizando um conjunto de técnicas altamente especializadas. A amostra é preparada, atribuem-se as ressonâncias, geram-se as restrições e calcula-se e valida-se a estrutura.
+
+
+== Ligações externas ==
+«Herramienta Didáctica para el Estudio de los Principios Físicos de la Imagen por Resonância Magnética». www.voxelart.net 
+«NOESY-Based Strategy for Assignments of Backbone and Side Chain Resonances of Large Proteins without Deuteration (a protocol)». www.natureprotocols.com 
+«ProSA-web Serviço web para o reconhecimento de erros na determinaçâo de estruturas de proteínas»

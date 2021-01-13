@@ -1,0 +1,29 @@
+Carbapenema ou Carbapenem é uma classe de Antibiótico beta-lactâmicos com um espectro bactericida muito amplo e uma estrutura a qual propicia uma alta resistência a beta-lactamases (enzima produzida por bactérias que podem inibir a ação das penicilinas).
+Antibióticos de carbapenemas foram originalmente desenvolvidos da tienamicina, um produto derivado naturalmente do Streptomyces cattleya.
+
+
+== Farmacocinética ==
+Sua administração é de apenas por via intravenosa, pois a absorção oral é muito baixa. Podem ser excretados ativos tratando infecçoes urinárias. Em regra, passam a placenta e leite. Penetram pouco pela barreira hemato-encefálica.
+Pode ser usado por via intramuscular, mas sua absorção é mais imprevisível e causa flebite, dor e eritema no local, portanto é melhor dar preferência à via intravenosa.
+
+
+== Indicaçoes ==
+Servem contra gram-positivos e gram-negativos, com resistências como beta-lactamase, aeróbicos ou anaeróbicos e infecçoes hospitalares ou da comunidade. Eles são geralmente utilizados em hospitais para tratar infecções severas e polimicrobianas. Não se recomenda seu uso rotineiro em bactérias sem resistências, pois essa prática estimularia o desenvolvimento de bactérias resistentes a carbapenem (por Seleção natural).
+
+
+== Mecanismo de ação ==
+Atuam contra as enzimas que sintetizam a parede bacteriana (PBP 1, 2 e 3), causando poucos efeitos colaterais.
+
+
+== Fármacos desse grupo ==
+Todos do grupo carbapenem terminam com "penem", exemplos :
+
+Imipenem (sempre combinado a cilastatina)
+Meropenem: Único carbapenem indicado em meningite
+Ertapenem: Nao atua contra bactérias com múltiplas resistências.
+Faropenem
+Doripenem: Indicado para bactérias com múltiplas resistências como Pseudomonas aeruginosa e Acinetobacter.
+Panipenem
+
+
+== Referências ==

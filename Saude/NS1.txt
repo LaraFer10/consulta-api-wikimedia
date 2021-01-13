@@ -1,0 +1,10 @@
+NS1 (do inglês, Non Structural) é uma proteína não estrutural do vírus da dengue de aproximadamente 46 kDa que possui 12 resíduos conservados de cisteína e 2 ou 3 sítios de glicosilação ligadas ao N-terminal nas posições Asn-130 e Asn-207 – sendo a única proteína NS a sofrer glicosilação. Seu papel ainda não é totalmente conhecido. Contudo, mutações nos sítios de glicosilação acarretam outras mutações no genoma do vírus e retardo na sua velocidade de replicação e crescimento em  células C6/36, além de retardo na velocidade no aparecimento de efeitos citopáticos nessas células. Mutações induzidas nesses sítios não têm impactos sobre o efeito da temperatura no crescimento viral a 37ºC e 39ºC quando comparado à linhagem selvagem do vírus. Estudos indicam que a glicosilação da NS1 do sorotipo DENV-2 tem papel importante no processamento e transporte de proteínas virais, na patogenicidade do vírus e na replicação do RNA, no caso do vírus da dengue e da febre amarela.Imunização com NS1 ou imunização passiva pela administração de anticorpos anti-NS1 ou ainda a imunização por DNA codificador de NS1 mostraram-se eficientes em camundongos e macacos.Quando recém-sintetizada essa proteína encontra-se na forma monomérica e é altamente hidrofílica, contudo, após sua dimerização torna-se hidrofóbica e associa-se com a membrana citoplasmática da célula hospedeira.
+É sintetizada como uma região de 352 aminoácidos na poliproteína e ligada à membrana do retículo endoplasmático por um sinal do retículo endoplasmático na região C terminal da proteína E, da qual é clivada por uma peptidase de sinal do retículo endoplasmático. É clivada da proteína NS2A entre 10 e 12 minutos após sua síntese, por uma enzima residente do retículo endoplasmático do hospedeiro e depende de 8 resíduos de aminoácidos na região C-terminal da NS1 assim como resíduos conservados na região proximal da NS2A.
+
+
+== Ver também ==
+Vírus da dengue
+Dengue
+
+
+== Referências ==

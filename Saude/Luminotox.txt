@@ -1,0 +1,5 @@
+LuminoTox é um bioensaio rápido com base em teste de ecotoxicidade aquática.
+Ele usa a fluorescência fotossintética das espécies de algas como Chlorella vulgaris, e extratos de espinafre. Um contaminante que afectam o metabolismo das algas resultou numa diminuição da fotossíntese, o que é medido por uma diminuição da fluorescência da clorofila.Empresa Lab_Bell desenvolveu um biossensor portátil usando teste LuminoTox e um biossensor para leituras contínuas.
+
+
+== Referências ==

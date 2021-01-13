@@ -1,0 +1,56 @@
+Um clorofluorocarboneto (clorofluorcarboneto, clorofluorcarbono ou CFC) é um composto baseado em carbono que contém cloro e flúor, responsável pela redução da camada de ozônio, e antigamente usado como aerossóis e gases para refrigeração, sendo atualmente proibido seu uso em vários países. O banimento da produção e uso dos gases CFC ocorreu em 1987 no Protocolo de Montreal, que levou à substituição destes pelos hidroclorofluorcarbonos, hidrofluorcarbonos e perfluorcarbonos, que embora contribuam para o aquecimento global não são danosos à camada de ozônio.Os clorofluorcarbonos pertencem à função orgânica derivados halogenados obtidos principalmente pela halogenação do metano. Entre as principais aplicações se destacam o emprego como solventes orgânicos, gases para refrigeração e propelentes em extintores de incêndio e aerossóis.
+São derivados dos hidrocarbonetos saturados obtidos mediante a substituição de átomos de hidrogênio por átomos de cloro e flúor.
+Exemplos de CFC são estes :
+
+CFCℓ3 (CFC-11);
+CF2Cℓ2 (CFC-12);
+C2F3Cℓ3 (CFC-113);
+C2F4Cℓ2(CFC-114);
+C2F5Cℓ (CFC-115).
+
+
+== Camada de Ozono/Ozônio ==
+Quando começou a ser utilizado, o freon, o mais conhecido CFC, parecia a solução perfeita aos problemas da refrigeração, por não se dividir e não causar danos ao seres vivos, muito melhor que o produto anteriormente utilizado, a amônia. Porém, atualmente descobriu-se que os CFC sofrem fotólise quando submetidos à radiação UV, ultravioleta, dividindo-se na altura da camada de ozono onde a presença desse raios são constantes:
+
+     F                      F
+     |       Luz U.V.       |
+Cℓ — C — Cℓ ---------> Cℓ — C.    +      .Cℓ
+     |                      |
+     Cℓ                     Cℓ
+
+O Radical Livre Cloro que se forma, logo reage com o Ozônio, o decompondo em O2 (oxigênio gasoso) e CℓO (monóxido de cloro):
+
+Cℓ + O3 → O2 + CℓO
+
+O CℓO então pode reagir com outra molécula de O3, formando duas moléculas de O2 e deixando o Radical Livre Cℓ pronto para repetir o ciclo reacional:
+
+CℓO + O3 → 2 O2 + Cℓ
+
+Em Resumo:
+
+CFC + Luz + 2 O3 → 3 O2 + Cℓ
+
+O Ciclo prossegue até que o cloro se ligue a uma substância diferente de O3 que forme uma substância resistente à fotólise ou uma substância mais densa (que leve o Cℓ da camada de ozônio para uma mais baixa):
+(O2). Esse fenômeno causa a destruição na camada de ozônio, o que aumenta a entrada de raios UV na atmosfera causando grandes problemas como o câncer de pele, catarata, diminuição do fitoplâncton e redução das colheitas.
+
+
+=== Protocolo de Montreal ===
+A restauração da camada de ozônio ocorre naturalmente, porém de forma lenta, e o ritmo da destruição atual não permite a plena restauração. O Protocolo de Montreal foi firmado pela maioria dos países do mundo com o objetivo de, aos poucos, extinguir a produção destas substâncias, através da substituição por outras menos nocivas.
+O Protocolo de Montreal sobre substâncias que empobrecem a camada de ozônio é um tratado internacional em que os países signatários se comprometeram a substituir as substâncias que se demonstraram nocivas ao ozônio (O3) na parte superior da estratosfera (conhecida como ozonosfera). O tratado esteve aberto para adesões a partir de 16 de setembro de 1987 e entrou em vigor em 1989. Foi revistado em 1990, 1994, 1996, 1998 e 2000. Devido à grande adesão mundial, Kofi Annan disse sobre ele: "Talvez seja o mais bem sucedido acordo internacional de todos os tempos…".
+
+
+=== Emissões de gases CFC ===
+Esta é a lista da diferença das emissões de gases CFC entre 1990 e 2004 dos principais poluidores segundo a ONU.
+
+
+== Alternativas ==
+Existem hoje vários projetos para diminuir a utilização dos CFC, mas eles têm sido dificultados pelo seu uso principalmente na refrigeração. Uma das alternativas tem sido os hidroclorofluorocarbonetos (HCFC), haloalcanos em que nem todos os hidrogênios foram substituídos por cloro ou flúor. Seu impacto ambiental tem sido avaliado como sendo de apenas 10% do dos CFC. Outra alternativa são os hidrofluorcarbonetos (HFC) que não contêm cloro e são ainda menos prejudiciais à camada de ozônio, porém apresentam alto potencial de aquecimento global, ou seja, eles contribuem para o aumento do efeito estufa.
+
+
+== Ver também ==
+Ozonosfera
+Hidrofluorcarbonetos (HCFCs)
+Haloalcanos
+
+
+== Referências ==

@@ -1,0 +1,43 @@
+Índice terapêutico é uma comparação entre a quantidade de um agente terapêutico necessária para causar um efeito terapêutico desejado e a quantidade que causa efeitos tóxicos. Quantitativamente, é a proporção dada entre a dose tóxica dividida pela dose terapêutica. Um IT baixo condiz com drogas que podem atingir níveis tóxicos com extrema facilidade, tais como a digoxina e a varfarina. O termo relacionado janela terapêutica se refere à faixa de valores de doses que otimizam o equilíbrio entre a eficácia e a toxicidade do medicamento, de forma a atingir o melhor efeito terapêutico sem levar a efeitos colaterais ou toxicidade consideradas inaceitáveis.
+No início da toxicologia farmacêutica, o IT era usualmente determinado em animais como sendo a dose letal de uma droga para 50% da população (LD50) dividida pela dose efetiva mínima para 50% da população (ED50). Atualmente, métodos toxicológicos mais sofisticados são utilizados.
+
+  
+    
+      
+        
+          
+            Indice terapêutico
+          
+        
+        =
+        
+          
+            
+              
+                L
+                D
+              
+              
+                50
+              
+            
+            
+              
+                E
+                D
+              
+              
+                50
+              
+            
+          
+        
+      
+    
+    {\displaystyle {\mbox{Indice terapêutico}}={\frac {\mathrm {LD} _{50}}{\mathrm {ED} _{50}}}}
+  
+Muitas drogas apresentam efeitos tóxicos severos em doses subletais para humanos, o que usualmente limita a dose máxima delas. Um índice terapêutico alto é preferível a um baixo, pois a dose necessária para atingir o limite tóxico seria muito maior que aquela necessária para atingir o efeito terapêutico.
+Usualmente, medicamentos ou outros agentes terapêuticos com uma janela terapêutica estreita (ou seja, que possuem diferença pequena entre doses tóxicas e terapêuticas) podem ter sua dosagem ajustada de acordo com as medidas de concentração dos mesmos no sangue da pessoa que o está tomando. Isso pode ser feito por meio de protocolos de monitoramento terapêutico de drogas. O uso de tais monitoramentos é recomendado no tratamento de condições psiquiátricas com lítio.
+
+
+== Notas e referências ==

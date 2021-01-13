@@ -1,0 +1,46 @@
+A enzima conversora da angiotensina (ECA; nome aceito pela NC-IUBMB: peptidil-dipeptidase A), foi descoberta em meados de 1950, sendo o último componente do sistema renina angiotensina a ser identificado. De facto, a ECA foi descoberta mais de 50 anos após a identificação da renina pelos fisiologistas Robert Tigerstedt e Per Gustav Bergman em Estocolmo. É o componente central do sistema renina-angiotensina, atuando no controle da pressão arterial regulando o volume de fluidos no corpo . Converte angiotensina I em angiotensina II, um vaso constritor . Sua importância médica reside no fato de que inibidores da ECA são utilizados como drogas farmacológicas.
+
+
+== Nomenclatura ==
+ACE
+DCP
+PDH
+Enzima conversora da angiotensina I
+Enzima conversora da angiotensina
+Carboxicatepsina
+Dipeptidase
+Dipeptídeo hidrolase
+Dipeptidil-carboxipeptidase
+Dipeptidil-carboxipeptidase I
+Peptidil-dipeptidase da célula endotelial
+Cininase II
+Peptidase P
+Peptidil-dipeptidase I
+Peptidil-dipeptidase-4
+Peptidil-dipeptídeo hidrolase
+Peptidil-dipeptídeo hidrolase
+Peptidildipeptídeo hidrolase
+
+
+== Função ==
+
+A ECA tem função no sistema renina angiotensina (uma via fisiológica importante no sistema cardiovascular e no balanço eletrolítico). No rim, células justaglomerulares são responsáveis por liberar a renina na corrente sanguínea, que por sua vez atuará no angiotensinogênio, uma proteína circulante do plasma, formando angiotensina I. Nos vasos dos pulmões a angiotensina I é convertida em angiotensina II pela ECA. A angiotensina II tem um forte papel vasoconstritor, que quando se liga aos receptores AT1, localizados no endotélio, induz uma cascata de ativação enzimática e proteica que resultará na entrada de mais Ca2+ na célula muscular lisa, aumentando a vasoconstrição e consequentemente a pressão arterial .
+
+
+== Relevância na doença ==
+Inibidores da ECA são amplamente usados como fármacos no tratamento de doenças como pressão arterial elevada, insuficiência cardíaca, diabetes tipo I e diabetes tipo II.
+Os inibidores de ECA a inibem competindo pelo receptor . Que resulta na diminuição da formação de angiotensina II e diminuição do metabolismo de bradicinina, levando a vasodilatação e consequente diminuição da pressão arterial. Além disso, inibir a formação de angiotensina II, diminui a secreção de aldosterona mediana por angiotensina II, diminuindo a reabsorção de água e sódio e redução no volume extracelular .   
+
+
+== Estrutura ==
+
+A ECA é uma proteína transmembrana sintetizada como um polipeptídeo com 1306 aminoácidos, sendo sua forma composta por 1277 aminoácidos e possui uma massa molecular de 146.6 kDa. Contém duas áreas internas (domínios N e C terminal) com homologia entre aminoácidos, cada uma com aproximadamente 612 aminoácidos. Cada um dos dois domínios catalíticos contém motivos de ligação a zinco His-Glu-XX-His, estrutura de peptidases de zinco. Sendo as duas histidinas e o glutamato responsáveis pela ligação com zinco. O domínio N terminal da molécula começa com uma Leucina1 (Leu1) e se estende até prolina613 (Pro613). Dentro dessa sequência de aminoácidos contém o motivo His361-Glu-Met-Gly-His365 e Glu389 que se liga o zinco. O interdominio que liga a porção N terminal com a C terminal é formado por 11 aminoácidos Pro602 ao Aspartato612 (Asp612). Enquanto a porção C terminal se estende da Leu613 até a Pro1193 mais uma cauda Gln1194 a Ser1277, com o domínio de ligação ao zinco His959-Glu-Met-Gly-His963 e Glu987 .
+
+
+== Genética e ECA ==
+Estudos tem demonstrado que diferentes genótipos para a ECA podem estar relacionados a doenças, capacidades físicas e performance atlética. O polimorfismo de inserção (I) ou deleção (D) de 287 pb (rs 1799752), localizado no cromossomo 17q23 e está associado ao aumento (alelo D) e diminuição (alelo I) na atividade da enzima, como também mais fibras musculares do tipo II .  
+Relacionado à capacidades físicas e performance atlética, estudos com atletas que praticavam esporte de inverno , com jogadores de rugby asiáticos  e em outro com idosos  mostraram a capacidade cardiorrespiratória estar associada com o polimorfismo de I/D da ECA, no qual os indivíduos com o genótipo II apresentavam melhor capacidade cardiorrespiratória do que os que portavam o genótipo ID e o grupo ID melhores resultados do que o grupo DD, indicando que o alelo I está relacionado com predisposição a uma melhor capacidade aeróbia. Enquanto em outros dois estudos indivíduos com o alelo D apresentavam maior força muscular  .
+Relacionado à doenças, um estudo com 574 homens caucasianos demonstrou que os indivíduos portadores do alelo D apresentavam maior número de casos de diabetes mellitus tipo II (DMT2) comparado ao genótipo II . Um outro estudo encontrou resultados semelhantes, no qual maior número de indivíduos com DMT2 e hipertensão arterial apresentavam o genótipo DD .  
+
+
+== Referências ==

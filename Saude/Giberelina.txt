@@ -1,0 +1,98 @@
+As giberelinas (GAs) são hormônios vegetais que regulam vários processos de desenvolvimento, incluindo alongamento de caule, germinação, dormência, floração, desenvolvimento de flores e senescência de folhas e frutos. As GAs são uma das classes mais antigas de hormônio vegetal. Pensa-se que o melhoramento seletivo (embora inconsciente) de cepas deficientes na síntese de GA foi um dos principais fatores da "revolução verde" na década de 1960, uma revolução que, segundo se acredita, economizou mais de um bilhão de vidas em todo o mundo.
+
+
+== História ==
+As primeiras incursões no entendimento das GAs foram desenvolvimentos no campo da patologia vegetal, com estudos sobre as bakanae, ou a doença das "mudas tolas" no arroz. A doença das mudas tolas causa um forte alongamento das hastes e folhas do arroz e, eventualmente, faz com que elas tombem. Em 1926, o cientista japonês Eiichi Kurosawa identificou que a doença tola das mudas foi causada pelo fungo Gibberella fujikuroi. Trabalhos posteriores na Universidade de Tóquio mostraram que uma substância produzida por esse fungo desencadeou os sintomas da doença das mudas tolas e eles chamaram essa substância de "giberelina".O aumento da comunicação entre o Japão e o Ocidente após a Segunda Guerra Mundial aumentou o interesse em giberelinas no Reino Unido (Reino Unido) e nos Estados Unidos (EUA). Trabalhadores da Imperial Chemical Industries no Reino Unido e do Departamento de Agricultura dos Estados Unidos isolaram independentemente o ácido giberélico (com os americanos se referindo originalmente ao produto químico como "giberelina-X", antes de adotar o nome britânico — o químico é conhecido como giberelina A3 ou GA3 no Japão).O conhecimento das giberelinas espalhadas pelo mundo à medida que o potencial de seu uso em várias plantas comercialmente importantes se tornou mais óbvio. Por exemplo, pesquisas iniciadas na Universidade da Califórnia em Davis, em meados da década de 1960, levaram ao seu uso comercial em uvas sem sementes Thompson em toda a Califórnia em 1962. Um inibidor conhecido da biossíntese da giberelina é o paclobutrazol (PBZ), que por sua vez inibe o crescimento e induz frutos precoces e também sementes.
+Temia-se uma escassez crônica de alimentos durante a rápida subida da população mundial na década de 1960. Isso foi evitado com o desenvolvimento de uma variedade de arroz de alto rendimento. Essa variedade de arroz semi-anão é chamada IR8 e tem uma baixa estatura por causa de uma mutação no gene sd1. Sd1 codifica GA20ox, portanto, espera-se que um sd1 mutante exiba uma altura curta que seja consistente com a deficiência de GA.
+
+
+== Química ==
+Todas as giberelinas conhecidas são ácidos diterpenoides que são sintetizados pela via terpenoide nos plastídeos e depois modificados no retículo endoplasmático e citosol até atingirem sua forma biologicamente ativa. Todas as giberelinas são derivadas através do esqueleto ent-giberelano, mas são sintetizadas via ent-caureno. As giberelinas são nomeadas GA1 a GAn em ordem de descoberta. O ácido giberélico, que foi a primeira giberelina a ser estruturalmente caracterizada, é o GA3.
+Em 2003, havia 126 GAs identificados a partir de plantas, fungos e bactérias.As giberelinas são ácidos tetracíclicos diterpenos. Existem duas classes baseadas na presença de 19 ou 20 carbonos. As giberelinas de 19 carbonos, como o ácido giberélico, perderam carbono 20 e, no lugar, possuem uma ponte de lactona de cinco membros que liga os carbonos 4 e 10. As formas de 19 carbonos são, em geral, as formas biologicamente ativas das giberelinas. A hidroxilação também tem um grande efeito na atividade biológica da giberelina. Em geral, os compostos mais biologicamente ativos são as giberelinas di-hidroxiladas, que possuem grupos hidroxila no carbono 3 e no carbono 13. O ácido giberélico é uma giberelina di-hidroxilada.
+
+
+=== GAs bioativas ===
+As GAs bioativas são GA1, GA3, GA4 e GA7. Existem três características estruturais comuns entre essas GAs: grupo hidroxila em C-3β, um grupo carboxila em C-6 e uma lactona entre C-4 e C-10. O grupo 3β-hidroxila pode ser trocado por outros grupos funcionais nas posições C-2 e/ou C-3. GA5 e GA6 são exemplos de GAs bioativos que não possuem um grupo hidroxila em C-3β. A presença de GA1 em várias espécies de plantas sugere que é uma GA bioativa comum.
+
+		
+		
+		
+
+
+== Função biológica ==
+
+As giberelinas estão envolvidas no processo natural de quebrar a dormência e outros aspectos da germinação. Antes que o aparelho fotossintético se desenvolva suficientemente nos estágios iniciais da germinação, as reservas de energia armazenadas de amido nutrem as mudas. Geralmente na germinação, a decomposição do amido em glicose no endosperma começa logo após a semente ser exposta à água. Acredita-se que as giberelinas no embrião da semente sinalizem a hidrólise do amido através da indução da síntese da enzima α- amilase nas células aleurônicas. No modelo para produção de α-amilase induzida por giberelina, é demonstrado que as giberelinas (denotadas pela GA) produzidas no escutelo se difundem para as células aleuronas, onde estimulam a secreção de α-amilase. A α-amilase hidrolisa o amido, que é abundante em muitas sementes, em glicose que pode ser usada na respiração celular para produzir energia para o embrião da semente. Estudos deste processo indicaram que as giberelinas causam níveis mais altos de transcrição do gene que codifica a enzima α-amilase, para estimular a síntese da α-amilase.As giberelinas são produzidas em maior massa quando a planta é exposta a baixas temperaturas. Eles estimulam o alongamento celular, quebra e brotamento, frutos sem sementes e germinação de sementes. Eles fazem o último, quebrando a dormência da semente e agindo como um mensageiro químico. Seu hormônio se liga a um receptor e o cálcio ativa a proteína calmodulina, e o complexo se liga ao DNA, produzindo uma enzima para estimular o crescimento do embrião.
+
+
+== Metabolismo ==
+
+
+=== Biossíntese ===
+As GAs são geralmente sintetizadas a partir da via do fosfato de metileritritol (MEP) em plantas superiores. Nesta via, a GA bioativa é produzida a partir de difosfato trans-geranilgeranil (GGDP). Na via MEP, três classes de enzimas são usadas para produzir AG a partir de GGDP: síntese de terpenos (TPSs), mono-oxigenases do citocromo P450 (P450s) e dioxigenases dependentes de 2-oxoglutarato (2ODDs). Existem oito etapas no caminho do MEP:
+GGDP é convertido em ent-copalil difosfato (ent-CPD) pela ent-copalil difosfato sintase
+etn-CDP é convertido em ent-caureno pela ent-caureno sintase
+O ent-caureno é convertido em ent-caurenol pela ent-caureno oxidase (KO)
+ent-caurenol é convertido em ent-caurenal por KO
+ent-caurenal é convertido em ácido ent-caurenóico por KO
+O ácido ent-caurenóico é convertido em ácido ent-7a-hidroxiquiaurenóico pela oxidase de ácido ent-caureno (KAO)
+O ácido ent-7a-hidroxicaurenóico é convertido em GA12-aldeído por KAO
+O GA12-aldeído é convertido em GA12 pela KAO. O GA12 é processado na GA4 bioativa por oxidações em C-20 e C-3, que são realizadas por dois ODDs solúveis: GA 20-oxidase e GA 3-oxidase.Um ou dois genes codificam as enzimas responsáveis pelos primeiros passos da biossíntese de GA em Arabidopsis e arroz. Os alelos nulos dos genes que codificam CPS, KS e KO resultam em anões de Arabidopsis com deficiência de GA. As famílias multigênicas codificam os dois ODDs que catalisam a formação de GA12 em GA4 bioativa.AtGA3ox1 e AtGA3ox2, dois dos quatro genes que codificam GA3ox em Arabidopsis, afetam o desenvolvimento vegetativo. Estímulos ambientais regulam a atividade de AtGA3ox1 e AtGA3ox2 durante a germinação das sementes. Na Arabidopsis, a superexpressão da GA20ox leva a um aumento na concentração de GA.
+
+
+==== Locais de biossíntese ====
+A maioria das GAs bioativas estão localizados em órgãos que crescem ativamente nas plantas. Os genes GA20ox e GA3ox (genes que codificam GA 20-oxidase e GA 3-oxidase) e o gene SLENDER1 (um gene de transdução de sinal GA) são encontrados em órgãos em crescimento no arroz, o que sugere que a síntese bioativa de GA ocorre em seu local de ação. órgãos em crescimento nas plantas. Durante o desenvolvimento da flor, acredita-se que o tapetum das anteras seja um local primário da biossíntese de GA.
+
+
+==== Diferenças entre biossíntese em fungos e plantas inferiores ====
+Arabidopsis, uma planta, e Gibberella fujikuroi, um fungo, possuem diferentes vias e enzimas GA. P450s em fungos desempenham funções análogas às funções de KAOs nas plantas. A função de CPS e KS em plantas é desempenhada por uma única enzima, CPS/KS, em fungos. Nos fungos, os genes da biossíntese de GA são encontrados em um cromossomo, mas nas plantas são encontrados aleatoriamente em múltiplos cromossomos. As plantas produzem baixa quantidade de GA3, portanto o GA3 é produzido para fins industriais por micro-organismos. Industrialmente, o ácido giberélico pode ser produzido por fermentação submersa, mas esse processo apresenta baixo rendimento com altos custos de produção e, portanto, maior valor de venda; no entanto, outro processo alternativo para reduzir os custos da produção do GA3 é a fermentação em estado sólido (SSF) que permite o uso de resíduos agroindustriais.
+
+
+=== Catabolismo ===
+Vários mecanismos para inativar GAs foram identificados. A 2β-hidroxilação desativa a GA e é catalisada pelas GA2-oxidases (GA2oxs). Algumas GA2oxs usam C19-GAs como substratos e outras GA2oxs usam C20-GAs. A monoxigenase do citocromo P450, codificada pelo internodo superior alongado (isa), converte as GAs em 16α, 17-epóxidos. Os mutantes do isa do arroz acumulam GAs bioativas em altos níveis, o que sugere que a mono-oxigenase do citocromo P450 é a principal enzima responsável pela desativação da GA no arroz. Os genes Gamt1 e gamt2 codificam enzimas que metilam o grupo C-6 carboxila de GAs. Em um mutante gamt1 e gamt2, as concentrações de GA estão desenvolvendo sementes aumentadas.
+
+
+=== Homeostase ===
+O feedback e a regulamentação de feedforward mantêm os níveis de GAs bioativas nas plantas. Os níveis de expressão de AtGA20ox1 e AtGA3ox1 aumentam em um ambiente com deficiência de GA e diminuem após a adição de GAs bioativas, Por outro lado, a expressão dos genes de desativação de AtGA2ox1 e AtGA2ox2, GA, é aumentada com a adição de GA.
+
+
+== Regulação ==
+
+
+=== Regulação por outros hormônios ===
+O ácido indolacético (AIA), um tipo de auxina, regula a concentração de GA1 nos internódios alongados em ervilhas. A remoção do AIA pela remoção do broto apical, a fonte de auxina, reduz a concentração de GA1 e a reintrodução do AIA reverte esses efeitos para aumentar a concentração de GA1. Esse fenômeno também foi observado nas plantas de tabaco. A auxina aumenta a oxidação de GA 3 e diminui a oxidação de GA 2 na cevada. A auxina também regula a biossíntese de GA durante o desenvolvimento de frutos em ervilhas. Essas descobertas em diferentes espécies vegetais sugerem que a regulação da auxina no metabolismo da GA pode ser um mecanismo universal.
+O etileno diminui a concentração de GAs bioativas.
+
+
+=== Regulação por fatores ambientais ===
+Evidências recentes sugerem que flutuações na concentração de GA influenciam a germinação de sementes reguladas pela luz, a fotomorfogênese durante a des-etiolação e a regulação do fotoperíodo do alongamento e floração do caule. A análise por microarranjo mostrou que cerca de um quarto genes responsivos ao frio estão relacionados a genes regulados pela GA, o que sugere que a GA influencia a resposta a temperaturas frias. As plantas reduzem a taxa de crescimento quando expostas ao estresse. Foi sugerida uma relação entre os níveis de GA e a quantidade de estresse experimentada na cevada.
+
+
+=== Papel no desenvolvimento de sementes ===
+As GAs bioativas e os níveis de ácido abscísico têm uma relação inversa e regulam o desenvolvimento e a germinação das sementes. Os níveis de FUS3, um fator de transcrição de Arabidopsis, são aumentados pelo ABA e reduzidos pela GA, o que sugere que existe um ciclo de regulação que estabelece o equilíbrio entre GA e ABA.
+
+
+== Mecanismo de sinalização ==
+
+
+=== Receptor ===
+No início dos anos 90, havia várias linhas de evidência que sugeriam a existência de um receptor GA em sementes de aveia localizadas na membrana plasmática. No entanto, apesar da pesquisa intensiva, até o momento, nenhum receptor de GA ligado à membrana foi isolado. Isso, juntamente com a descoberta de um receptor solúvel, o anão insensível à GA 1 (GID1) levou muitos a duvidar da existência de um receptor ligado à membrana.
+
+O GID1 foi identificado pela primeira vez no arroz e em Arabidopsis existem três ortólogos do GID1, AtGID1a, bec. GID1s têm uma alta afinidade pelas GAs bioativas. A GA se liga a um bolso de ligação específico no GID1; a C3-hidroxila na GA faz contato com tirosina-31 na bolsa de ligação GID1. A ligação da GA ao GID1 causa alterações na estrutura do GID1, causando uma 'tampa' no GID1 para cobrir o bolso de ligação da GA. O movimento dessa tampa resulta na exposição de uma superfície que permite a ligação do GID1 às proteínas DELLA.
+
+
+=== Proteínas DELLA: Repressão de um repressor ===
+As proteínas DELLA, como SLR1 no arroz ou GAI e RGA em Arabidopsis, são repressores do desenvolvimento das plantas. As DELLAs inibem a germinação, crescimento, floração e AG revertem esses efeitos. As proteínas DELLA são caracterizadas pela presença de um motivo DELLA (aspartato-glutamato-leucina-leucina-alanina ou DELLA no código de aminoácidos de letra única).Quando o GA se liga ao receptor GID1, ele melhora a interação entre as proteínas GID1 e DELLA, formando um complexo GA-GID1-DELLA. Quando no complexo GA-GID1-DELLA, pensa-se que as proteínas DELLA sofrem alterações na estrutura que permitem sua ligação às proteínas de caixa F (SLY1 em Arabidopsis ou GID2 em arroz). As proteínas de caixa F catalisam a adição de ubiquitina aos seus alvos. A adição de ubiquitina às proteínas DELLA promove sua degradação através do proteossomo 26S. A degradação das proteínas DELLA libera células de seus efeitos repressivos.
+
+
+=== Alvos de proteínas DELLA ===
+
+
+==== Fatores de transcrição ====
+Os primeiros alvos das proteínas DELLA identificadas foram os fatores interativos do fitocromo (FIF). Os FIF são fatores de transcrição que regulam negativamente a sinalização da luz e são fortes promotores do crescimento do alongamento. Na presença de GA, as DELLAs são degradados e isso permite que os PIFs promovam alongamento. Mais tarde, verificou-se que as DELLAs reprimem um grande número de outros fatores de transcrição, entre os quais os reguladores positivos da auxina, período de brassinosteróide e sinalização de etileno. As DELLAs podem reprimir os fatores de transcrição, interrompendo sua ligação ao DNA ou promovendo sua degradação.
+
+
+==== Prefoldinas e montagem de microtúbulos ====
+Além de reprimir fatores de transcrição, os DELLAs também se ligam às prefoldinas (PFDs). As PFDs são chaperonas moleculares, o que significa que auxiliam no dobramento de outras proteínas. As PFDs funcionam no citosol, mas quando os DELLAs se ligam às PFDs, os restringem ao núcleo. Uma função importante das PFDs é auxiliar no dobramento da β-tubulina. Como tal, na ausência de GA (quando há um alto nível de proteínas DELLA), a função das PFDs é reduzida e há um pool celular menor de β-tubulina. Quando a GA está presente, as DELLAs são degradadas, as PFDs podem se mover para o citosol e auxiliar na dobragem da β-tubulina. A β-tubulina é um componente vital do citoesqueleto (na forma de microtúbulos). Como tal, a GA permite a reorganização do citoesqueleto e o alongamento das células.Microtúbulos também são necessários para o tráfego de vesículas de membrana. O tráfego de vesículas de membrana é necessário para o posicionamento correto de vários transportadores de hormônios. Um dos transportadores hormonais mais bem caracterizados são as proteínas PIN, responsáveis pelo movimento do hormônio auxina entre as células. Na ausência de GA, as proteínas DELLA reduzem os níveis de microtúbulos e, assim, inibem o tráfego de vesículas na membrana. Isso reduz o nível de proteínas PIN na membrana celular e o nível de auxina na célula. A GA reverte esse processo e permite o tráfego de proteínas PIN para a membrana celular para aumentar o nível de auxina na célula.
+
+
+== Referências ==

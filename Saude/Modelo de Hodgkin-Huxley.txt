@@ -1,0 +1,2119 @@
+O modelo de Hodgkin-Huxley, ou modelo baseado em condutância, é um modelo matemático que descreve como potenciais de ação nos neurônios são iniciados e propagados. É um conjunto de equações diferenciais não-lineares que se aproxima das características elétricas das células excitáveis, tais como neurônios e miócitos cardíacos, e, portanto, é um modelo de tempo contínuo.
+Alan Lloyd Hodgkin e Andrew Huxley descreveram o modelo em 1952 para explicar os mecanismos iônicos subjacentes à iniciação e propagação dos potenciais de ação no axônio gigante de lula. Em 1963, eles receberam o Prêmio Nobel em Fisiologia ou Medicina por este trabalho.
+
+
+== Componentes básicos ==
+O modelo de Hodgkin-Huxley típico trata cada componente de uma célula excitável como um elemento elétrico (como mostrado na figura). A bicapa lipídica é representada como uma capacitância (
+  
+    
+      
+        
+          C
+          
+            m
+          
+        
+      
+    
+    {\displaystyle C_{m}}
+  ). Canais de íons dependentes da voltagem e de vazamento são representados por condutâncias não-lineares (
+  
+    
+      
+        
+          g
+          
+            n
+          
+        
+      
+    
+    {\displaystyle g_{n}}
+  , onde 
+  
+    
+      
+        n
+      
+    
+    {\displaystyle n}
+   é o canal de íon específico) e lineares (
+  
+    
+      
+        
+          g
+          
+            l
+          
+        
+      
+    
+    {\displaystyle g_{l}}
+  ), respectivamente. Os gradientes eletroquímicos que conduzem o fluxo de íons são representados por fontes de voltagem (
+  
+    
+      
+        
+          E
+          
+            n
+          
+        
+      
+    
+    {\displaystyle E_{n}}
+  ), determinados pela relação das concentrações intra e extracelulares das espécies iônicas de interesse, e bombas de íons são representados por fontes de corrente (
+  
+    
+      
+        
+          I
+          
+            p
+          
+        
+      
+    
+    {\displaystyle I_{p}}
+  ). O potencial da membrana é designado por 
+  
+    
+      
+        
+          V
+          
+            m
+          
+        
+      
+    
+    {\displaystyle V_{m}}
+  .
+Matematicamente, a corrente que flui através da bicapa lipídica é descrita como
+
+  
+    
+      
+        
+          I
+          
+            c
+          
+        
+        =
+        
+          C
+          
+            m
+          
+        
+        
+          
+            
+              
+                
+                  d
+                
+              
+              
+                V
+                
+                  m
+                
+              
+            
+            
+              
+                
+                  d
+                
+              
+              t
+            
+          
+        
+      
+    
+    {\displaystyle I_{c}=C_{m}{\frac {{\mathrm {d} }V_{m}}{{\mathrm {d} }t}}}
+  e a corrente através de um dado canal de íons é o produto
+
+  
+    
+      
+        
+          I
+          
+            i
+          
+        
+        =
+        
+          
+            g
+            
+              n
+            
+          
+        
+        (
+        
+          V
+          
+            m
+          
+        
+        −
+        
+          V
+          
+            i
+          
+        
+        )
+        
+      
+    
+    {\displaystyle I_{i}={g_{n}}(V_{m}-V_{i})\;}
+  onde 
+  
+    
+      
+        
+          V
+          
+            i
+          
+        
+      
+    
+    {\displaystyle V_{i}}
+   é o potencial de reversão do 
+  
+    
+      
+        i
+      
+    
+    {\displaystyle i}
+  -ésimo canal de íon. Assim, para uma célula com canais de sódio e de potássio, a corrente total através da membrana é dada por:
+
+  
+    
+      
+        I
+        =
+        
+          C
+          
+            m
+          
+        
+        
+          
+            
+              
+                
+                  d
+                
+              
+              
+                V
+                
+                  m
+                
+              
+            
+            
+              
+                
+                  d
+                
+              
+              t
+            
+          
+        
+        +
+        
+          g
+          
+            K
+          
+        
+        (
+        
+          V
+          
+            m
+          
+        
+        −
+        
+          V
+          
+            K
+          
+        
+        )
+        +
+        
+          g
+          
+            N
+            a
+          
+        
+        (
+        
+          V
+          
+            m
+          
+        
+        −
+        
+          V
+          
+            N
+            a
+          
+        
+        )
+        +
+        
+          g
+          
+            l
+          
+        
+        (
+        
+          V
+          
+            m
+          
+        
+        −
+        
+          V
+          
+            l
+          
+        
+        )
+      
+    
+    {\displaystyle I=C_{m}{\frac {{\mathrm {d} }V_{m}}{{\mathrm {d} }t}}+g_{K}(V_{m}-V_{K})+g_{Na}(V_{m}-V_{Na})+g_{l}(V_{m}-V_{l})}
+  onde 
+  
+    
+      
+        I
+      
+    
+    {\displaystyle I}
+   é a corrente total da membrana por unidade de área, 
+  
+    
+      
+        
+          C
+          
+            m
+          
+        
+      
+    
+    {\displaystyle C_{m}}
+   representa a capacitância de membrana por unidade de área, 
+  
+    
+      
+        
+          g
+          
+            K
+          
+        
+      
+    
+    {\displaystyle g_{K}}
+   e 
+  
+    
+      
+        
+          g
+          
+            N
+            a
+          
+        
+      
+    
+    {\displaystyle g_{Na}}
+   são as condutâncias de potássio e de sódio por unidade de área, respectivamente, 
+  
+    
+      
+        
+          V
+          
+            K
+          
+        
+      
+    
+    {\displaystyle V_{K}}
+   e 
+  
+    
+      
+        
+          V
+          
+            N
+            a
+          
+        
+      
+    
+    {\displaystyle V_{Na}}
+    são os potenciais de reversão de potássio e de sódio, respectivamente, e 
+  
+    
+      
+        
+          g
+          
+            l
+          
+        
+      
+    
+    {\displaystyle g_{l}}
+   e 
+  
+    
+      
+        
+          V
+          
+            l
+          
+        
+      
+    
+    {\displaystyle V_{l}}
+    são a condutância de vazamento por unidade de área e potencial de reversão de vazamento, respectivamente.  Os elementos dependentes do tempo desta equação são 
+  
+    
+      
+        
+          V
+          
+            m
+          
+        
+      
+    
+    {\displaystyle V_{m}}
+  , 
+  
+    
+      
+        
+          g
+          
+            N
+            a
+          
+        
+      
+    
+    {\displaystyle g_{Na}}
+  , e 
+  
+    
+      
+        
+          g
+          
+            K
+          
+        
+      
+    
+    {\displaystyle g_{K}}
+  ,  onde as duas últimas condutâncias também dependem explicitamente da voltagem.
+
+
+== Caracterização da corrente iônica ==
+Em canais de íons dependentes da voltagem, o canal de condutância 
+  
+    
+      
+        
+          g
+          
+            i
+          
+        
+      
+    
+    {\displaystyle g_{i}}
+    é uma função de tempo e voltagem (
+  
+    
+      
+        
+          g
+          
+            n
+          
+        
+        (
+        t
+        ,
+        V
+        )
+      
+    
+    {\displaystyle g_{n}(t,V)}
+   na figura), enquanto em canais de vazamento 
+  
+    
+      
+        
+          g
+          
+            l
+          
+        
+      
+    
+    {\displaystyle g_{l}}
+   é uma constante (
+  
+    
+      
+        
+          g
+          
+            L
+          
+        
+      
+    
+    {\displaystyle g_{L}}
+   na figura). A corrente gerada por bombas de íons é dependente das espécies iônicas específicas a essa bomba. As seções a seguir descrevem essas formulações com mais detalhes.
+
+
+=== Canais de íons dependentes da voltagem ===
+Usando uma série de experimentos de grampeamento de voltagem e variando as concentrações de sódio e potássio extracelulares, Hodgkin e Huxley desenvolveram um modelo no qual as propriedades de uma célula excitável são descritas por um conjunto de quatro equações diferenciais ordinárias. Juntamente com a equação para a corrente total mencionada acima, estas são:
+
+  
+    
+      
+        I
+        =
+        
+          C
+          
+            m
+          
+        
+        
+          
+            
+              
+                
+                  d
+                
+              
+              
+                V
+                
+                  m
+                
+              
+            
+            
+              
+                
+                  d
+                
+              
+              t
+            
+          
+        
+        +
+        
+          
+            
+              
+                g
+                ¯
+              
+            
+          
+          
+            K
+          
+        
+        
+          n
+          
+            4
+          
+        
+        (
+        
+          V
+          
+            m
+          
+        
+        −
+        
+          V
+          
+            K
+          
+        
+        )
+        +
+        
+          
+            
+              
+                g
+                ¯
+              
+            
+          
+          
+            Na
+          
+        
+        
+          m
+          
+            3
+          
+        
+        h
+        (
+        
+          V
+          
+            m
+          
+        
+        −
+        
+          V
+          
+            N
+            a
+          
+        
+        )
+        +
+        
+          
+            
+              
+                g
+                ¯
+              
+            
+          
+          
+            l
+          
+        
+        (
+        
+          V
+          
+            m
+          
+        
+        −
+        
+          V
+          
+            l
+          
+        
+        )
+        ,
+      
+    
+    {\displaystyle I=C_{m}{\frac {{\mathrm {d} }V_{m}}{{\mathrm {d} }t}}+{\bar {g}}_{\text{K}}n^{4}(V_{m}-V_{K})+{\bar {g}}_{\text{Na}}m^{3}h(V_{m}-V_{Na})+{\bar {g}}_{l}(V_{m}-V_{l}),}
+  
+  
+    
+      
+        
+          
+            
+              d
+              n
+            
+            
+              d
+              t
+            
+          
+        
+        =
+        
+          α
+          
+            n
+          
+        
+        (
+        
+          V
+          
+            m
+          
+        
+        )
+        (
+        1
+        −
+        n
+        )
+        −
+        
+          β
+          
+            n
+          
+        
+        (
+        
+          V
+          
+            m
+          
+        
+        )
+        n
+      
+    
+    {\displaystyle {\frac {dn}{dt}}=\alpha _{n}(V_{m})(1-n)-\beta _{n}(V_{m})n}
+  
+  
+    
+      
+        
+          
+            
+              d
+              m
+            
+            
+              d
+              t
+            
+          
+        
+        =
+        
+          α
+          
+            m
+          
+        
+        (
+        
+          V
+          
+            m
+          
+        
+        )
+        (
+        1
+        −
+        m
+        )
+        −
+        
+          β
+          
+            m
+          
+        
+        (
+        
+          V
+          
+            m
+          
+        
+        )
+        m
+      
+    
+    {\displaystyle {\frac {dm}{dt}}=\alpha _{m}(V_{m})(1-m)-\beta _{m}(V_{m})m}
+  
+  
+    
+      
+        
+          
+            
+              d
+              h
+            
+            
+              d
+              t
+            
+          
+        
+        =
+        
+          α
+          
+            h
+          
+        
+        (
+        
+          V
+          
+            m
+          
+        
+        )
+        (
+        1
+        −
+        h
+        )
+        −
+        
+          β
+          
+            h
+          
+        
+        (
+        
+          V
+          
+            m
+          
+        
+        )
+        h
+      
+    
+    {\displaystyle {\frac {dh}{dt}}=\alpha _{h}(V_{m})(1-h)-\beta _{h}(V_{m})h}
+  onde 
+  
+    
+      
+        I
+      
+    
+    {\displaystyle I}
+   é a corrente por unidade de área, e 
+  
+    
+      
+        
+          α
+          
+            i
+          
+        
+      
+    
+    {\displaystyle \alpha _{i}}
+   e 
+  
+    
+      
+        
+          β
+          
+            i
+          
+        
+      
+    
+    {\displaystyle \beta _{i}}
+   são constantes de velocidade para o canal iônico de ordem 
+  
+    
+      
+        i
+      
+    
+    {\displaystyle i}
+  , que dependem da voltagem, mas não do tempo. 
+  
+    
+      
+        
+          
+            
+              
+                g
+                ¯
+              
+            
+          
+          
+            n
+          
+        
+      
+    
+    {\displaystyle {\bar {g}}_{n}}
+   é o valor máximo da condutância. 
+  
+    
+      
+        n
+      
+    
+    {\displaystyle n}
+  , 
+  
+    
+      
+        m
+      
+    
+    {\displaystyle m}
+  , e 
+  
+    
+      
+        h
+      
+    
+    {\displaystyle h}
+    são valores adimensionais entre 0 e 1 que estão associados com a ativação do canal de potássio, a ativação dos canais de sódio, e a inativação do canal de sódio, respectivamente. Para 
+  
+    
+      
+        p
+        =
+        (
+        n
+        ,
+        m
+        ,
+        h
+        )
+      
+    
+    {\displaystyle p=(n,m,h)}
+  , 
+  
+    
+      
+        
+          α
+          
+            p
+          
+        
+      
+    
+    {\displaystyle \alpha _{p}}
+   e 
+  
+    
+      
+        
+          β
+          
+            p
+          
+        
+      
+    
+    {\displaystyle \beta _{p}}
+   assumem a forma
+
+  
+    
+      
+        
+          α
+          
+            p
+          
+        
+        (
+        
+          V
+          
+            m
+          
+        
+        )
+        =
+        
+          p
+          
+            ∞
+          
+        
+        (
+        
+          V
+          
+            m
+          
+        
+        )
+        
+          /
+        
+        
+          τ
+          
+            p
+          
+        
+      
+    
+    {\displaystyle \alpha _{p}(V_{m})=p_{\infty }(V_{m})/\tau _{p}}
+  
+  
+    
+      
+        
+          β
+          
+            p
+          
+        
+        (
+        
+          V
+          
+            m
+          
+        
+        )
+        =
+        (
+        1
+        −
+        
+          p
+          
+            ∞
+          
+        
+        (
+        
+          V
+          
+            m
+          
+        
+        )
+        )
+        
+          /
+        
+        
+          τ
+          
+            p
+          
+        
+        .
+      
+    
+    {\displaystyle \beta _{p}(V_{m})=(1-p_{\infty }(V_{m}))/\tau _{p}.}
+  
+  
+    
+      
+        
+          p
+          
+            ∞
+          
+        
+      
+    
+    {\displaystyle p_{\infty }}
+   e 
+  
+    
+      
+        (
+        1
+        −
+        
+          p
+          
+            ∞
+          
+        
+        )
+      
+    
+    {\displaystyle (1-p_{\infty })}
+   são os valores de estado estacionário para a ativação e inativação, respectivamente, e são geralmente representados por equações de Boltzmann como funções de 
+  
+    
+      
+        
+          V
+          
+            m
+          
+        
+      
+    
+    {\displaystyle V_{m}}
+  .  No artigo original por Hodgkin e Huxley, as funções 
+  
+    
+      
+        α
+      
+    
+    {\displaystyle \alpha }
+   e 
+  
+    
+      
+        β
+      
+    
+    {\displaystyle \beta }
+   são dadas por
+
+  
+    
+      
+        
+          
+            
+              
+                
+                  α
+                  
+                    n
+                  
+                
+                (
+                
+                  V
+                  
+                    m
+                  
+                
+                )
+                =
+                
+                  
+                    
+                      0.01
+                      (
+                      
+                        V
+                        
+                          m
+                        
+                      
+                      −
+                      10
+                      )
+                    
+                    
+                      exp
+                      ⁡
+                      
+                        
+                          (
+                        
+                      
+                      
+                        
+                          
+                            
+                              V
+                              
+                                m
+                              
+                            
+                            −
+                            10
+                          
+                          10
+                        
+                      
+                      
+                        
+                          )
+                        
+                      
+                      −
+                      1
+                    
+                  
+                
+              
+              
+                
+                  α
+                  
+                    m
+                  
+                
+                (
+                
+                  V
+                  
+                    m
+                  
+                
+                )
+                =
+                
+                  
+                    
+                      0.1
+                      (
+                      
+                        V
+                        
+                          m
+                        
+                      
+                      −
+                      25
+                      )
+                    
+                    
+                      exp
+                      ⁡
+                      
+                        
+                          (
+                        
+                      
+                      
+                        
+                          
+                            
+                              V
+                              
+                                m
+                              
+                            
+                            −
+                            25
+                          
+                          10
+                        
+                      
+                      
+                        
+                          )
+                        
+                      
+                      −
+                      1
+                    
+                  
+                
+              
+              
+                
+                  α
+                  
+                    h
+                  
+                
+                (
+                
+                  V
+                  
+                    m
+                  
+                
+                )
+                =
+                0.07
+                exp
+                ⁡
+                
+                  
+                    (
+                  
+                
+                
+                  
+                    
+                      V
+                      
+                        m
+                      
+                    
+                    20
+                  
+                
+                
+                  
+                    )
+                  
+                
+              
+            
+            
+              
+                
+                  β
+                  
+                    n
+                  
+                
+                (
+                
+                  V
+                  
+                    m
+                  
+                
+                )
+                =
+                0.125
+                exp
+                ⁡
+                
+                  
+                    (
+                  
+                
+                
+                  
+                    
+                      V
+                      
+                        m
+                      
+                    
+                    80
+                  
+                
+                
+                  
+                    )
+                  
+                
+              
+              
+                
+                  β
+                  
+                    m
+                  
+                
+                (
+                
+                  V
+                  
+                    m
+                  
+                
+                )
+                =
+                4
+                exp
+                ⁡
+                
+                  
+                    (
+                  
+                
+                
+                  
+                    
+                      V
+                      
+                        m
+                      
+                    
+                    18
+                  
+                
+                
+                  
+                    )
+                  
+                
+              
+              
+                
+                  β
+                  
+                    h
+                  
+                
+                (
+                
+                  V
+                  
+                    m
+                  
+                
+                )
+                =
+                
+                  
+                    1
+                    
+                      exp
+                      ⁡
+                      
+                        
+                          (
+                        
+                      
+                      
+                        
+                          
+                            
+                              V
+                              
+                                m
+                              
+                            
+                            −
+                            30
+                          
+                          10
+                        
+                      
+                      
+                        
+                          )
+                        
+                      
+                      +
+                      1
+                    
+                  
+                
+              
+            
+          
+        
+      
+    
+    {\displaystyle {\begin{array}{lll}\alpha _{n}(V_{m})={\frac {0.01(V_{m}-10)}{\exp {\big (}{\frac {V_{m}-10}{10}}{\big )}-1}}&\alpha _{m}(V_{m})={\frac {0.1(V_{m}-25)}{\exp {\big (}{\frac {V_{m}-25}{10}}{\big )}-1}}&\alpha _{h}(V_{m})=0.07\exp {\bigg (}{\frac {V_{m}}{20}}{\bigg )}\\\beta _{n}(V_{m})=0.125\exp {\bigg (}{\frac {V_{m}}{80}}{\bigg )}&\beta _{m}(V_{m})=4\exp {\bigg (}{\frac {V_{m}}{18}}{\bigg )}&\beta _{h}(V_{m})={\frac {1}{\exp {\big (}{\frac {V_{m}-30}{10}}{\big )}+1}}\end{array}}}
+  enquanto em muitos programas de software atuais, modelos do tipo Hodgkin–Huxley generalizam 
+  
+    
+      
+        α
+      
+    
+    {\displaystyle \alpha }
+   e 
+  
+    
+      
+        β
+      
+    
+    {\displaystyle \beta }
+   como
+
+  
+    
+      
+        
+          
+            
+              
+                A
+                
+                  p
+                
+              
+              (
+              
+                V
+                
+                  m
+                
+              
+              −
+              
+                B
+                
+                  p
+                
+              
+              )
+            
+            
+              exp
+              ⁡
+              
+                
+                  (
+                
+              
+              
+                
+                  
+                    
+                      V
+                      
+                        m
+                      
+                    
+                    −
+                    
+                      B
+                      
+                        p
+                      
+                    
+                  
+                  
+                    C
+                    
+                      p
+                    
+                  
+                
+              
+              
+                
+                  )
+                
+              
+              −
+              
+                D
+                
+                  p
+                
+              
+            
+          
+        
+      
+    
+    {\displaystyle {\frac {A_{p}(V_{m}-B_{p})}{\exp {\big (}{\frac {V_{m}-B_{p}}{C_{p}}}{\big )}-D_{p}}}}
+  Para caracterizar canais dependentes da voltagem, as equações podem grampear os dados de voltagem. Resumidamente, quando o potencial de membrana é mantido a um valor constante (isto é, grampeamento de voltagem), para cada valor do potencial de membrana as equações não lineares de gating reduzem a equações da forma:
+
+  
+    
+      
+        m
+        (
+        t
+        )
+        =
+        
+          m
+          
+            0
+          
+        
+        −
+        [
+        (
+        
+          m
+          
+            0
+          
+        
+        −
+        
+          m
+          
+            ∞
+          
+        
+        )
+        (
+        1
+        −
+        
+          e
+          
+            −
+            t
+            
+              /
+            
+            
+              τ
+              
+                m
+              
+            
+          
+        
+        )
+        ]
+        
+      
+    
+    {\displaystyle m(t)=m_{0}-[(m_{0}-m_{\infty })(1-e^{-t/\tau _{m}})]\,}
+  
+  
+    
+      
+        h
+        (
+        t
+        )
+        =
+        
+          h
+          
+            0
+          
+        
+        −
+        [
+        (
+        
+          h
+          
+            0
+          
+        
+        −
+        
+          h
+          
+            ∞
+          
+        
+        )
+        (
+        1
+        −
+        
+          e
+          
+            −
+            t
+            
+              /
+            
+            
+              τ
+              
+                h
+              
+            
+          
+        
+        )
+        ]
+        
+      
+    
+    {\displaystyle h(t)=h_{0}-[(h_{0}-h_{\infty })(1-e^{-t/\tau _{h}})]\,}
+  
+  
+    
+      
+        n
+        (
+        t
+        )
+        =
+        
+          n
+          
+            0
+          
+        
+        −
+        [
+        (
+        
+          n
+          
+            0
+          
+        
+        −
+        
+          n
+          
+            ∞
+          
+        
+        )
+        (
+        1
+        −
+        
+          e
+          
+            −
+            t
+            
+              /
+            
+            
+              τ
+              
+                n
+              
+            
+          
+        
+        )
+        ]
+        
+      
+    
+    {\displaystyle n(t)=n_{0}-[(n_{0}-n_{\infty })(1-e^{-t/\tau _{n}})]\,}
+  Assim, para cada valor de potencial de membrana 
+  
+    
+      
+        
+          V
+          
+            m
+          
+        
+      
+    
+    {\displaystyle V_{m}}
+   as correntes de sódio e de potássio podem ser descritas por
+
+  
+    
+      
+        
+          I
+          
+            
+              N
+              a
+            
+          
+        
+        (
+        t
+        )
+        =
+        
+          
+            
+              
+                g
+                ¯
+              
+            
+          
+          
+            
+              N
+              a
+            
+          
+        
+        m
+        (
+        
+          V
+          
+            m
+          
+        
+        
+          )
+          
+            3
+          
+        
+        h
+        (
+        
+          V
+          
+            m
+          
+        
+        )
+        (
+        
+          V
+          
+            m
+          
+        
+        −
+        
+          E
+          
+            
+              N
+              a
+            
+          
+        
+        )
+        ,
+      
+    
+    {\displaystyle I_{\mathrm {Na} }(t)={\bar {g}}_{\mathrm {Na} }m(V_{m})^{3}h(V_{m})(V_{m}-E_{\mathrm {Na} }),}
+  
+  
+    
+      
+        
+          I
+          
+            
+              K
+            
+          
+        
+        (
+        t
+        )
+        =
+        
+          
+            
+              
+                g
+                ¯
+              
+            
+          
+          
+            
+              K
+            
+          
+        
+        n
+        (
+        
+          V
+          
+            m
+          
+        
+        
+          )
+          
+            4
+          
+        
+        (
+        
+          V
+          
+            m
+          
+        
+        −
+        
+          E
+          
+            
+              K
+            
+          
+        
+        )
+        .
+      
+    
+    {\displaystyle I_{\mathrm {K} }(t)={\bar {g}}_{\mathrm {K} }n(V_{m})^{4}(V_{m}-E_{\mathrm {K} }).}
+  De modo a chegar à solução completa para um potencial de ação propagado, deve-se escrever o termo da corrente 
+  
+    
+      
+        I
+      
+    
+    {\displaystyle I}
+   no lado da mão esquerda da primeira equação diferencial em termos de 
+  
+    
+      
+        V
+      
+    
+    {\displaystyle V}
+  , para que a equação se torne uma equação da voltagem apenas. A relação entre 
+  
+    
+      
+        I
+      
+    
+    {\displaystyle I}
+   e 
+  
+    
+      
+        V
+      
+    
+    {\displaystyle V}
+   pode ser derivada da teoria dos cabos e é dada por
+
+  
+    
+      
+        I
+        =
+        
+          
+            a
+            
+              2
+              R
+            
+          
+        
+        
+          
+            
+              
+                ∂
+                
+                  2
+                
+              
+              V
+            
+            
+              ∂
+              
+                x
+                
+                  2
+                
+              
+            
+          
+        
+        ,
+      
+    
+    {\displaystyle I={\frac {a}{2R}}{\frac {\partial ^{2}V}{\partial x^{2}}},}
+  Onde 
+  
+    
+      
+        a
+      
+    
+    {\displaystyle a}
+   é o raio do axônio, 
+  
+    
+      
+        R
+      
+    
+    {\displaystyle R}
+   é a resistência específica do axoplasma, e 
+  
+    
+      
+        x
+      
+    
+    {\displaystyle x}
+   é a posição ao longo da fibra nervosa. Substituir essa expressão para 
+  
+    
+      
+        I
+      
+    
+    {\displaystyle I}
+   transforma o conjunto original de equações em um conjunto de equações diferenciais parciais, porque a voltagem se torna uma função de ambos 
+  
+    
+      
+        x
+      
+    
+    {\displaystyle x}
+   e 
+  
+    
+      
+        t
+      
+    
+    {\displaystyle t}
+  .
+O algoritmo de Levenberg-Marquardt, um algoritmo de Gauss-Newton modificado, é frequentemente para ajustar essas equações aos dados do grampeamento de voltagem.Embora as experiências originais tratassem apenas os canais de sódio e de potássio, o modelo de Hodgkin-Huxley também pode ser estendido para explicar outras espécies de canais iónicos.
+
+
+=== Canais de vazamento ===
+Canais de vazamento representam a permeabilidade natural da membrana a íons e tomam a forma da equação de canais dependentes da voltagem, em que o 
+  
+    
+      
+        
+          g
+          
+            l
+          
+        
+      
+    
+    {\displaystyle g_{l}}
+   da condutância é uma constante.
+
+
+=== Bombas e trocadores ===
+O potencial de membrana depende da manutenção de gradientes de concentração iônicas através dele. A manutenção destes gradientes de concentração requer o transporte ativo de espécies iônicas. Os trocadores de sódio-potássio e sódio-cálcio são os mais conhecidos destes. Algumas das propriedades básicas do permutador Na/Ca são bem estabelecidas: a estequiometria de troca de Na+ para Ca2+ é de 3:1 e o permutador é eletrogênico e sensível à voltagem. O permutador de Na/K também foi descrito em detalhe, com uma estequiometria de 3 Na+: 2 K+.
+
+
+== Propriedades matemáticas ==
+O modelo Hodgkin-Huxley pode ser pensado como uma equação diferencial com quatro variáveis de estado, 
+  
+    
+      
+        v
+        (
+        t
+        )
+      
+    
+    {\displaystyle v(t)}
+  , 
+  
+    
+      
+        m
+        (
+        t
+        )
+      
+    
+    {\displaystyle m(t)}
+  , 
+  
+    
+      
+        n
+        (
+        t
+        )
+      
+    
+    {\displaystyle n(t)}
+  , e 
+  
+    
+      
+        h
+        (
+        t
+        )
+      
+    
+    {\displaystyle h(t)}
+  , que mudam em relação ao tempo 
+  
+    
+      
+        t
+      
+    
+    {\displaystyle t}
+  . O sistema é de difícil estudo por ser um sistema não-linear, e não poder ser resolvido analiticamente. Porém, existem vários métodos numéricos disponíveis para analisar o sistema. A existência de certas propriedades e comportamentos gerais, como por exemplo ciclo limite, podem ser provados.
+
+
+=== Ciclo limite ===
+Por existirem quatro variáveis de estado, visualizar o caminho no espaço de fase pode ser difícil. Normalmente, duas variáveis são escolhidas, a voltagem 
+  
+    
+      
+        v
+        (
+        t
+        )
+      
+    
+    {\displaystyle v(t)}
+   e a variável de gating de potássio 
+  
+    
+      
+        n
+        (
+        t
+        )
+      
+    
+    {\displaystyle n(t)}
+  , que permite visualizar o ciclo limite. No entanto, é preciso ter cuidado, pois este é um método ad hoc de visualizar o sistema quadridimensional. Isto não prova a existência do ciclo limite.
+Uma projeção melhor pode ser construída a partir da análise cuidadosa da matriz jacobiana do sistema, avaliado no ponto de equilíbrio. Especificamente, os autovalores da matriz são indicativos da existência do ciclo limite. Da mesma forma, os autovetores da matriz revelam a orientação do ciclo limite. O modelo Hodgkin-Huxley tem dois autovalores negativos e dois autovalores complexos com parte reais levemente positivas. Os autovetores associados com os dois autovalores negativos irão reduzir a zero conforme o tempo 
+  
+    
+      
+        t
+      
+    
+    {\displaystyle t}
+   cresce. Os dois autovetores complexos remanescentes definem o ciclo limite. Em outras palavras, o sistema quadri-dimensional colapsa em um plano bidimensional. Qualquer solução começando fora do ciclo limite irá decair em direção a ele.
+
+
+=== Bifurcação ===
+Se a corrente injetada 
+  
+    
+      
+        I
+      
+    
+    {\displaystyle I}
+   for utilizada como um parâmetro de bifurcação, então o modelo Hodgkin-Huxley passa por uma bifurcação de Hopf. Como a maioria dos modelos neuronais, aumentar a corrente injetada irá aumentar a razão de disparo do neurônio. Uma consequência da bifurcação de Hopf é que há uma razão mínima de disparo. Isso quer dizer que ou o neurônio não está disparando (com uma frequência zero), ou está disparando à razão mínima de disparo. Por conta da lei do tudo-ou-nada, não há um aumento gradual na amplitude do potencial de ação, mas sim um súbito "salto". A transição resultante é conhecida como canard.
+
+
+== Melhorias e modelos alternativos ==
+O modelo Hodgkin-Huxley é considerado uma das grandes realizações da biofísica do século 20. No entanto, os modelos do tipo Hodgkin-Huxley modernos foram aprimorados em vários aspectos importantes:
+
+Populações adicionais de canais iônicos têm sido incorporadas com base em dados experimentais.
+O modelo Hodgkin-Huxley foi modificado para incorporar a teoria do estado de transição e produzir modelos Hodgkin-Huxley termodinâmicos.
+Modelos frequentemente incorporam geometrias altamente complexas de dendritos e axônios, muitas vezes com base em dados de microscopia.
+Modelos estocásticos de comportamento dos canais de íons, levando a sistemas híbridos estocásticos. Vários modelos neuronais simplificados também têm sido desenvolvidos (tal como o modelo FitzHugh-Nagumo), facilitando a simulação em larga escala eficiente dos grupos de neurônios, bem como uma visão matemática na dinâmica da geração do potencial de ação.
+
+
+== Veja também ==
+Classificação de disparos neuronais
+Modelos de disparos neuronais
+Neuromatemática
+
+
+== Referências ==

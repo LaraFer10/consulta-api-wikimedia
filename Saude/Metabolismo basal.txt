@@ -1,0 +1,16 @@
+Metabolismo basal ou Taxa metabólica basal é um método matemático, não exato, de calcular a quantidade calórica que o corpo necessita, em vinte e quatro horas, para manter-se nutrido durante o decorrer das atividades diárias, e/ou fazendo um jejum de pelo menos doze horas em repouso, sem prejudicar o funcionamento dos principais órgãos. Exemplo: o coração, cérebro, pulmões, intestino, etc., e manter a temperatura corporal sobre a normalidade. A TMB (Taxa Metabólica Basal) irá variar, a depender do nível/fator de atividade que cada indivíduo exerce.
+
+
+== Cálculo do Metabolismo Basal ==
+Taxa de atividade
+
+Sedentários = 1.2 (pouco ou nenhum exercício)
+Levemente ativo = 1.375 (exercício leve 1 a 3 dias por semana)
+Moderadamente ativo = 1.55 (exercício moderado, faz esportes 3 a 5 dias por semana)
+Altamente ativo = 1.725 (exercício pesado de 5 a 6 dias por semana)
+Extremamente ativo = 1.9 (exercício pesado diariamente e até 2 vezes por dia)Cálculo para Homens: MB = Taxa de atividade x {66 + [(13,7 x Peso(kg)) + ( 5 x Altura(cm)) - (6,8 x Idade(anos))]}Cálculo para Mulheres: MB = Taxa de atividade x {655 + [(9,6 x Peso(kg)) + (1,8 x Altura(cm)) - (4,7 x Idade(anos))]}
+Deve-se dar preferência ao consumo de cereais integrais, além de frutas e verduras, ricos em fibras (são necessários por volta de 30g de fibras por dia). De 15 a 25% da dieta deve ser composta de proteínas e até 30% de gordura.
+
+
+== Ver também ==
+Metabolismo

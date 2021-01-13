@@ -1,0 +1,52 @@
+O fator de segurança certeiro é a razão da dose letal para 1% de uma população pela dose efetiva para 99% da população (LD1/ED99). Este é um índice de segurança melhor que LD50 para materiais que possuem tanto efeitos desejáveis como indesejáveis, porque considera os extremos do espectro onde doses podem ser necessárias para produzir uma resposta em uma pessoa mas podem ser letais para outros.
+  
+    
+      
+        
+          
+            Fator de segurança certeiro
+          
+        
+        =
+        
+          
+            
+              
+                L
+                D
+              
+              
+                1
+              
+            
+            
+              
+                E
+                D
+              
+              
+                99
+              
+            
+          
+        
+      
+    
+    {\displaystyle {\mbox{Fator de segurança certeiro}}={\frac {\mathrm {LD} _{1}}{\mathrm {ED} _{99}}}}
+  
+
+
+== Referências ==
+
+Este artigo foi inicialmente traduzido do artigo da Wikipédia em inglês, cujo título é «Certain safety factor», especificamente desta versão.
+
+
+== Ver também ==
+Dose letal mediana (LD50)
+Dose efetiva
+Índice terapêutico
+Menor dose letal publicada (LDLo)
+Menor dose tóxica publicada (TDLo)
+
+
+== Referências ==

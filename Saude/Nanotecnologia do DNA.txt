@@ -1,0 +1,32 @@
+A nanotecnologia do DNA é o design e fabricação de estruturas artificiais de ácidos nucleicos para usos tecnológicos. Nesse campo, os ácidos nucleicos são usados ​​como materiais de engenharia não biológicos para a nanotecnologia, e não como portadores de informações genéticas nas células vivas. Pesquisadores da área criaram estruturas cristalinas estáticas, como redes bidimensionais e tridimensionais, nanotubos, poliedros e formas arbitrárias, além de dispositivos funcionais, como máquinas moleculares e computadores de DNA.
+
+
+== Conceitos fundamentais ==
+O campo está começando a ser usado como uma ferramenta para resolver problemas científicos básicos em biologia estrutural e biofísica, incluindo aplicações em cristalografia de raios X e ressonância magnética nuclear de proteínas para determinar estruturas. Aplicações potenciais em eletrônica de escala molecular e nanomedicina também estão sendo investigadas. A base conceitual para a nanotecnologia do DNA foi apresentada pela primeira vez por Nadrian Seeman no início dos anos 80, e o campo começou a atrair interesse generalizado em meados dos anos 2000. Esse uso de ácidos nucleicos é permitido por suas regras estritas de emparelhamento de bases, que fazem com que apenas porções de fios com sequências de bases complementares se unam para formar estruturas rígidas e fortes de hélice dupla. Isso permite o design racional de sequências de bases que serão reunidas seletivamente para formar estruturas alvo complexas com recursos em nanoescala controlados com precisão. Vários métodos de montagem são usados ​​para fazer essas estruturas, incluindo estruturas baseadas em ladrilhos que se montam a partir de estruturas menores, estruturas dobráveis ​​usando o método DNA Origami e estruturas reconfiguráveis ​​dinamicamente usando métodos de deslocamento de fios. O nome do campo faz referência específica ao DNA, mas os mesmos princípios também foram usados ​​com outros tipos de ácidos nucléicos, levando ao uso ocasional do nome alternativo nanotecnologia dos ácidos nucleicos.
+
+
+== Ver também ==
+Nanobiotecnologia
+
+
+== Referências ==
+
+
+== Leituras futuras ==
+Geral:
+
+Seeman, Nadrian C. (junho de 2004). «Nanotechnology and the double helix». Scientific American. 290 (6): 64–75. Bibcode:2004SciAm.290f..64S. PMID 15195395. doi:10.1038/scientificamerican0604-64  — Artigo escrito para leigos pelo fundador do campo
+Seeman, Nadrian C. (9 de junho de 2010). «Structural DNA nanotechnology: growing along with Nano Letters». Nano Letters. 10 (6): 1971–1978. Bibcode:2010NanoL..10.1971S. PMC 2901229. PMID 20486672. doi:10.1021/nl101262u  — Uma revisão dos resultados no período 2001–2010
+Seeman, Nadrian C. (2010). «Nanomaterials based on DNA». Annual Review of Biochemistry. 79: 65–87. PMC 3454582. PMID 20222824. doi:10.1146/annurev-biochem-060308-102244  — Uma revisão mais abrangente, incluindo resultados antigos e novos em campo
+Service, Robert F. (3 de junho de 2011). «DNA nanotechnology grows up». Science. 332 (6034): 1140–1143. PMID 21636754. doi:10.1126/science.332.6034.1140  and Service, R. F. (2011). «Next Step: DNA Robots?». Science. 332 (6034). 1142 páginas. PMID 21636755. doi:10.1126/science.332.6034.1142 . — Um artigo focado na história do campo e no desenvolvimento de novas aplicações
+Zadegan, Reza M.; Norton, Michael L. (junho de 2012). «Structural DNA Nanotechnology: From Design to Applications». Int. J. Mol. Sci. 13 (6): 7149–7162. PMC 3397516. PMID 22837684. doi:10.3390/ijms13067149  — Uma revisão abrangente e muito recente do campoSubcampos específicos:
+
+Bath, Jonathan; Turberfield, Andrew J. (5 de maio de 2007). «DNA nanomachines». Nature Nanotechnology. 2 (5): 275–284. Bibcode:2007NatNa...2..275B. PMID 18654284. doi:10.1038/nnano.2007.104  — Uma revisão de dispositivos nanomecânicos de ácido nucleico
+Feldkamp, Udo; Niemeyer, Christof M. (13 de março de 2006). «Rational design of DNA nanoarchitectures». Angewandte Chemie International Edition. 45 (12): 1856–76. PMID 16470892. doi:10.1002/anie.200502358  — Uma revisão vinda do ponto de vista do design da estrutura secundária
+Lin, Chenxiang; Liu, Yan; Rinker, Sherri; Yan, Hao (11 de agosto de 2006). «DNA tile based self-assembly: building complex nanoarchitectures». ChemPhysChem. 7 (8): 1641–1647. PMID 16832805. doi:10.1002/cphc.200600260  — Uma minireview focada especificamente na montagem baseada em blocos
+Zhang, David Yu; Seelig, Georg (fevereiro de 2011). «Dynamic DNA nanotechnology using strand-displacement reactions». Nature Chemistry. 3 (2): 103–113. Bibcode:2011NatCh...3..103Z. PMID 21258382. doi:10.1038/nchem.957  — Uma revisão de sistemas de DNA que utilizam mecanismos de deslocamento de fita
+
+
+== Ligações externas ==
+
+What is Bionanotechnology? — uma introdução em vídeo à nanotecnologia do DNA (em inglês). Consultado em 25 de maio de 2020

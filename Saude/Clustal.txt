@@ -1,0 +1,41 @@
+Clustal é um programa de computador para alinhamento múltiplo de sequências amplamente usado. Sua versão mais recente é a 2.1. Existem duas variações principais:
+
+ClustalW: interface de linha de comandos
+ClustalX: Esta versão possui uma interface gráfica de usuário. Ele está disponível para Windows, Mac OS e Unix / Linux.Este programa está dsponível a partir do sítio página oficial do Clustal ou do sítio Servidor ftp do European Bioinformatics Institute.
+
+
+== Entrada/Saída ==
+
+Este programa aceita uma grande variedade de formatos de entrada. Incluindo NBRF/PIR, FASTA, EMBL/Swissprot, Clustal, GCC/MSF, GCG9 RSF, e GDE.
+O formato de saída pode ser um ou vários dos seguintes: Clustal, NBRF/PIR, GCG/MSF, PHYLIP, GDE, or NEXUS.
+
+
+== Alinhamento múltiplo de sequências ==
+Há três etapas principais:
+Fazer um alinhamento de seqüências
+Criar uma árvore filogenética (ou usar uma árvore definida-por-usuário)
+Usar a árvore filogenética para realizar um alinhamento múltiploAs três opções são feitas automaticamente quando você seleciona "Fazer Alinhamento completo" ("Do Complete Alignment"). Outras opções são "Fazer alinhamento da árvore guia" ("Do Alignment from guide tree") e "Produza somente a árvore guia" ("Produce guide tree only").
+
+
+== Ajustes ==
+Os usuários podem alinhar as seqüências usando a configuração padrão, mas ocasionalmente pode ser útil personalizar com os seus próprios parâmetros.
+Os principais parâmetros são a penalidade de lacuna aberta (gap opening penalty) e a penalidade por extensão  de lacuna (gap extension penalty).
+
+
+== Ver também ==
+PHYLIP
+MEGA, Molecular Evolutionary Genetics Analysis
+PAUP
+T-Coffee
+Filogenética computacional
+Árvore filogenética
+Filogenética
+
+
+== Ligações externas ==
+Clustal Homepage  (Unix/Linux, Mac, and Windows download livre)
+ClustalW e ClustalX mirror no EBI  (Unix/Linux, Mac, and Windows download livre)
+Alinhamento múltiplo de sequências pelo CLUSTALW
+
+
+== Referências ==

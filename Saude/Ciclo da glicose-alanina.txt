@@ -1,0 +1,8 @@
+O Ciclo da glicose-alanina, assim como o Ciclo de Cori, é um dos mecanismos que supre a necessidade de alguns tecidos de obter glicose continuamente, já que está ligado à gliconeogênese do fígado.
+
+
+== Descrição Geral ==
+No ciclo da glicose-alanina vai haver o transporte dos grupos amino para o fígado de uma forma não tóxica. Nos músculos que degradam os aminoácidos para empregá-los como uma forma de combustível, os grupos amino são coletados por transaminação na forma de glutamato.
+O glutamato é então convertido em glutamina. A glutamina pode ser transportada até o fígado ou transferir seu grupo amino para o piruvato pela ação da alanina aminotransferase. Pela ação da mesma enzima, a alanina transfere o seu grupo amino para o a-cetoglutarato formando o glutamato. Uma parte do glutamato é transportado para a mitocôndria e sofre a ação da glutamato desidrogenase, liberando NH4.
+
+Desta forma a carga energética da gliconeogênese é imposta sobre o fígado e não sobre o músculo de tal forma que todo o ATP disponível no músculo pode ser destinado para a contração muscular.

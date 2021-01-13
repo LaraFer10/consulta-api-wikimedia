@@ -1,0 +1,79 @@
+Progeria ou síndrome de Huntchinson-Gilford é uma enfermidade genética extremamente rara cujos sintomas se assemelham ao processo do envelhecimento manifestando-se logo nos primeiros anos de vida. A palavra progeria foi criada a partir dos sufixos gregos "pro" (πρό), significando "antes" ou "precoce", e "gēras" (γῆρας), "velho, envelhecido".
+A progeria foi identificada inicialmente por Jonathan Hutchinson em 1886, quando descreveu o caso de um paciente que apresentava ausência congênita de cabelo logo na infância. Posteriormente, em 1904, Hastings Gilford analisou outro caso com as mesmas características. Devido à análise desses dois pesquisadores que se deu o nome atual da doença. Desde então só foram relatados cerca de 100 casos em todo o mundo. Essa doença é caracterizada por um rápido envelhecimento – cerca de 7 vezes maior em relação à taxa normal – que se inicia por volta dos 18 meses de idade. As crianças portadoras dessa disfunção vivem, em média, até os 13.4 anos e geralmente morrem por infarto no miocárdio. Esta síndrome apresenta alterações em vários órgãos e sistemas como a pele, esquelético e sistema cardiovascular.
+As pesquisas sobre as possíveis causas da progeria e seu tratamento são de grande importância para os cientistas, pois podem revelar pistas essenciais sobre o envelhecimento do ser humano.
+
+
+== Epidemiologia ==
+Após o primeiro relato de caso de progeria, apenas cerca de outros 100 casos foram relatados na literatura médica. Isso representa a baixa incidência da doença, que é de um caso em 8 milhões de nascimentos. Além disso, o sexo masculino é afetado 5 vezes mais do que o feminino (5:1) e também é mais frequente em caucasianos (97% de todos os casos relatados). O bebê ao nascer não apresenta sintomas evidentes. As características só começam a surgir por volta dos 18 meses de idade. Desta forma, uma criança portadora da doença com 7 anos apresenta características físicas de um idoso de 70 anos. A morte acomete essas pessoas geralmente na faixa dos 14 a 16 anos.
+
+
+=== Casos no Brasil ===
+No Brasil foram relatados cerca de dez casos nas seguintes cidades:
+
+Bianca Pinheiro: Campina Grande (Paraíba)
+Rafaelle Idaline dos Santos: Campo Limpo Paulista (São Paulo)
+Mônica C. S.: Caruaru (Pernambuco)
+Nathan Feitosa: Natal (Rio Grande do Norte)
+Jocélia Silva: Sobral (Ceará)
+
+
+=== Caso em Portugal ===
+Cláudia Amaral: Viseu
+
+
+== Etiologia ==
+A causa da síndrome não é bem conhecida, embora possa estar relacionada com a idade média paterna avançada, que pode resultar em uma mutação genética de uma doença autossômica dominante. Existem três teorias que tentam explicar a doença: teoria da helicase, teoria dos telômeros e teoria dos genes mutantes.
+
+
+=== Teoria dos genes mutantes ===
+Em 88% dos doentes são encontradas as mutações citadas pela teoria que consiste em mutação de ponto na posição 1824 do gene LMNA - que em condições normais codifica uma proteína, Prelamina A, que leva à forma da Lâmina A. A principal função da "lâmina A" parece ser na desmontagem e na nova formação do núcleo durante a mitose. O processo como um todo é controlado, como muitos outros processos reversíveis na célula, pela fosforilação e desfosforilação de proteínas nucleares pela ação de uma quinase específica, a Cdc2 quinase (quinase dependente de ciclina ou CDK), que é uma proteína reguladora crucial de todos os eucariotos superiores e extremamente conservada entre espécies, mesmo filogeneticamente afastadas. Esta proteína sofre modificação pós-traducional, sendo um grupo Farnesyl adicionado à sua extremidade carboxi-terminal, que permite a ligação da Prelamina A à borda nuclear. Posteriormente há a remoção do Grupo e Lamina A matura é gerada  - trocando uma Citosina por uma Timina, forma-se uma forma truncada e imatura da proteína da Lamina A, a Progerina. A Prelamina A é uma das principais proteínas estruturais do envoltório nuclear interno. Quando há a mutação do LMNA, o Farnesyl não pode ser removido e a Progerina começa a se acumular. O envoltório nuclear participa na organização da cromatina e dá suporte ao envelope nuclear, quando acontece a mutação, há perturbação na divisão das células, em sua aparência, causando herniações e lóbulos, bem como prejuízo na organização da heterocromatina. Essa teoria é valida e ocorre no caso de Adalia Rose.
+
+
+=== Teoria da helicase ===
+Nesta mutação acontecem anomalias na enzima helicase, que desempenha papel fundamental no processo de replicação do DNA, fazendo com que esta não funcione normalmente.
+
+
+=== Teoria dos telômeros ===
+Consiste na existência de telômeros, regiões localizadas na extremidade dos cromossomos essenciais para a estabilidade destes, encurtados em crianças que portam a progeria, provocando o envelhecimento rápido de suas células. A cada replicação, os cromossomos das células somáticas perdem uma sequência pequena do telômero que não é reposta. Desta forma, com os telômeros já encurtados de crianças portadoras de progeria o envelhecimento se dá de forma mais acelerada.
+
+
+=== Teoria de inibição ou depleção da acetil-transferase NAT10 ===
+Células de pacientes com síndrome de Hutchinson-Gilford progeria têm defeitos na arquitetura nuclear e função que levam à senescência celular precoce, envelhecimento e morte precoce. Larrieu et al. descobriram que a inibição ou depleção da acetil-transferase NAT10 resgatou muitos dos fenótipos das células do paciente HGPS desestabilizando os microtúbulos, o que reverteu a acumulação citoplasmática anormal do importador nuclear Transportin-1 (TNPO1). Isso restaurou a montagem adequada do complexo de poros nucleares, a importação de proteínas nucleares, a organização da cromatina e os padrões de expressão gênica. Juntos, esses efeitos atrasaram a senescência prematura das células do HGPS. Células de indivíduos idosos também apresentaram retenção citoplasmática de TNPO1, sugerindo que o alvo do NAT10 pode ser uma estratégia clínica para tratar tanto o HGPS quanto patologias relacionadas à idade.
+
+
+== Características ==
+Logo ao nascimento, as crianças não apresentam características que alertem para a presença da progeria. Apenas após o primeiro ano de vida, atestam-se os primeiros problemas que só se agravam com o avançar da idade, levando a morte até os 16 anos. São eles:
+
+
+== Diagnóstico ==
+O diagnóstico da progeria é fundamentalmente clínico e realizado nas crianças que apresentam os sinais iniciais da doença entre o primeiro e o segundo ano de vida. Não existe atualmente nenhum exame que certifica o diagnóstico de progeria.
+No entanto, alguns exames apontam para o diagnóstico, como por exemplo: o aumento da excreção de ácido hialurônico na urina, evento que não pode se relacionar com transtornos endócrinos nem eventos metabólicos. Além disso, existem determinados sinais radiológicos e histopatológicos que foram descritos no progeria. Entre algumas alterações radiológicas, existem: osteoporose, escoliose. As características histopatológicas incluem alterações da pele como as áreas de pele normal que alterna com as zonas em que a epiderme apresenta um aumento de melanina da camada basal, a derme é delgada e apresenta áreas de desorganização das fibras colágenas e áreas de hialinização. No nível do tecido subcutâneo, se evidencia perda de tecido adiposo. No nível cardiovascular encontram-se placas ateromatosas, as quais estão presentes nas artérias coronárias, na aorta e nas mesentéricas.
+Outros sinais são calcificações das válvulas aórtica e mitral, assim como sinais de fibroses, isquemia e infarto do miocárdio.
+Nas glândulas endócrinas detectou-se atrofia das tireóides e interrupção da espermatogénese em alguns pacientes.
+
+
+== Tratamento ==
+Atualmente o tratamento da progeria é feito de acordo com os seus sintomas, necessitando de uma abordagem diferente em cada fase da doença. A partir do diagnóstico, o paciente deve ser acompanhado por uma vasta gama de profissionais da saúde, pois a progeria é uma doença que acomete vários sistemas.
+
+Estudos em cursoUma pesquisa de cientistas espanhóis conseguiu, recentemente, desenvolver medicamentos que impedissem o envelhecimento precoce em ratos de laboratório. Embora, essa seja uma grande notícia, ainda são necessários testes desses medicamentos em humanos. O coquetel de medicamentos é composto por: complexos vitamínicos, coenzima Q-10, ácidos graxos, vitamina E, antioxidantes, hormônio do crescimento, nitroglicerina, aspirina, cálcio, morfina, entre outros
+.
+Além dessa esperançosa possibilidade, outra forma de tratamento possível seria através da terapia gênica. Esta consistiria em inserir o gene que codifica as proteínas nos pacientes com progeria, anexando o gene pretendido a um vírus, por exemplo, o da gripe, servindo este como um vetor.
+Um outro novo estudo, iniciado dia 7 de maio de 2007, com duas crianças tem apresentado progresso. A proteína que se acredita ser responsável pela progeria, chamada progerin, bloqueia o funcionamento normal das células. Para causar a progeria, uma molécula chamada “farnesyl group” deve ser ligada a proteína progerin. Os inibidores de farnesyltransferase (farnesyltransferase inhibitors – FTIs) agem bloqueando a ligação da “farnesyl group” a proteína progerin. Se essa ligação é bloqueada em crianças com progeria, então a progerin pode ser paralisada e a progeria melhorada. 
+.
+
+
+== Ver também ==
+Envelhecimento
+
+
+== Referências ==
+
+
+== Ligações externas ==
+Mais informações sobre progeria
+conheca a progeria
+Saúde geriátrica
+Ciência viva
+Tua saúde
+Find the other 150[ligação inativa]
+Pediatria São Paulo

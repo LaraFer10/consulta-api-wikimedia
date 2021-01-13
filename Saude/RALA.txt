@@ -1,0 +1,29 @@
+A proteína RalA (do inglês: Ras-related protein Ral-A) é uma proteína que em humanos é codificada pelo gene RALA no cromossomo 7. Essa proteína é um dos dois paralelos da proteína Ral, o outro sendo RalB, e parte da família Ras GTPase. RalA funciona como uma chave molecular para ativar vários processos biológicos, principalmente a divisão celular e o transporte, através de vias de sinalização. Seu papel biológico, portanto, implica em muitos cânceres.
+
+
+== Estrutura ==
+As isoformas Ral compartilham uma correspondência global de 80% na sequência de aminoácidos e 100% na região de ligação a efetores. As duas isoformas diferem principalmente na região hipervariável do terminal C, que contém vários locais para modificação pós-traducional, levando a localização subcelular divergente e função biológica. Por exemplo, a fosforilação da Serina 194 no RalA pela cinase Aurora A resulta na realocação do RalA para a membrana mitocondrial interna, onde RalA ajuda a realizar a fissão mitocondrial; enquanto a fosforilação da Serina 198 no RalB pela quinase C resulta na realocação do RalB para outras membranas internas e ativação de sua função tumorigênica.
+
+
+== Função ==
+RalA é uma das duas proteínas da família Ral, que é uma subfamília dentro da família Ras de pequenas GTPases. Como Ras GTPase, o RalA funciona como um comutador molecular que se torna ativo quando vinculado ao GTP e inativo quando vinculado ao PIB. O RalA pode ser ativado pelos RalGEFs e, por sua vez, ativar efetores nas vias de transdução de sinal que levam a resultados biológicos. Por exemplo, o RalA interage com dois componentes do exocisto, Exo84 e Sec5, para promover a montagem do autofagossomo, o tráfego de vesículas secretoras e a amarração. Outras funções a jusante incluem exocitose, endocitose mediada por receptor, biogênese de junção estreita, formação de filópodes, fissão mitocondrial e citocinese. A exocitose mediada por Ral também está envolvida em processos biológicos como ativação plaquetária, funções celulares imunes, plasticidade neuronal e regulação da ação da insulina.Embora as funções acima pareçam ser compartilhadas entre as duas isoformas de Ral, suas localizações subcelulares diferenciais resultam em seu envolvimento diferente em certos processos biológicos. Em particular, RalA está mais envolvido no crescimento celular independente da ancoragem, no tráfico de vesículas e na organização citoesquelética. Além disso, RalA interage especificamente com Exo84 e Sec5 para regular o transporte de proteínas da membrana em células epiteliais polarizadas e GLUT4 para a membrana plasmática, bem como a fissão mitocondrial para divisão celular.
+
+
+== Significado clínico ==
+As proteínas Ral têm sido associadas à progressão de vários tipos de câncer, incluindo câncer de bexiga e câncer de próstata. Embora os mecanismos exatos continuem incertos, estudos revelam que RalA promove crescimento independente de ancoragem nas células cancerígenas. Como resultado, a inibição da RalA inibe a iniciação do câncer.Devido ao seu papel exocitótico nas plaquetas, células imunes, neurônios e regulação da insulina, a regulação negativa de Ral pode levar a condições patológicas, como trombose e síndrome metabólica . Em pacientes com hipertensão pulmonar tromboembólica crônica, observou-se que as Ral GTPases são altamente ativas em suas plaquetas.
+
+
+== Interações ==
+Foi mostrado que RalA interage com:
+
+EXOC8,
+Filamina,
+PLD1,
+Sec5, e
+RALBP1.
+
+
+== Referências ==
+
+
+== Bibliografia ==

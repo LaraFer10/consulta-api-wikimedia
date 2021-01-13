@@ -1,0 +1,74 @@
+O Sistema Médico Unificado de Linguagem (em inglês: Unified Medical Language System (UMLS)) é um compêndio de muitos vocabulários controlados nas ciências biomédicas (criado em 1986). Ele fornece uma estrutura de mapeamento entre esses vocabulários e, portanto, permite traduzir entre os vários sistemas terminológicos; também pode ser visto como um dicionário de sinônimos e ontologia abrangente de conceitos biomédicos. O UMLS fornece ainda facilidades para processamento de linguagem natural. Destina-se a ser utilizado principalmente por desenvolvedores de sistemas em informática médica.
+O UMLS consiste em fontes de conhecimento (bancos de dados) e um conjunto de ferramentas de software.
+O UMLS foi projetado e é mantido pela Biblioteca Nacional de Medicina dos EUA, é atualizado trimestralmente e pode ser usado gratuitamente. O projeto foi iniciado em 1986 por Donald A.B. Lindberg, M.D., então diretor da Biblioteca de Medicina e dirigido por Betsy Humphreys.
+
+
+== Finalidade e aplicações ==
+O número de recursos biomédicos disponíveis para os pesquisadores é enorme. Geralmente, esse é um problema devido ao grande volume de documentos recuperados quando a literatura médica é pesquisada. O objetivo do UMLS é aprimorar o acesso a essa literatura, facilitando o desenvolvimento de sistemas de computador que entendem a linguagem biomédica. Isso é alcançado através da superação de duas barreiras significativas: "a variedade de maneiras que os mesmos conceitos são expressos em diferentes fontes legíveis por máquina e por pessoas diferentes" e "a distribuição de informações úteis entre muitos bancos de dados e sistemas diferentes".[carece de fontes?]
+
+
+== Licenciamento ==
+Os usuários do sistema são obrigados a assinar um "contrato UMLS" e apresentar breves relatórios anuais de uso. Usuários acadêmicos podem usar o UMLS gratuitamente para fins de pesquisa. O uso comercial ou de produção requer licenças de direitos autorais para alguns dos vocabulários de origem incorporados.
+
+
+== Fontes de conhecimento ==
+
+
+=== Metathesaurus ===
+O Metathesaurus forma a base da UMLS e compreende mais de 1 milhão de conceitos biomédicos e 5 milhões de nomes de conceitos, todos originários dos mais de 100 vocabulários controlados incorporados e sistemas de classificação. Alguns exemplos dos vocabulários controlados incorporados são CPT, CID-10, MeSH, SNOMED CT, DSM-IV, LOINC, Terminologia de Reação Adversa a Medicamentos da OMS, Termos Clínicos do Reino Unido, RxNorm, Ontologia Genética e OMIM (veja a lista completa).
+O Metathesaurus é organizado por conceito, e cada conceito possui atributos específicos que definem seu significado e está vinculado aos nomes de conceito correspondentes nos vários vocabulários de origem. Inúmeras relações entre os conceitos são representadas, por exemplo, hierárquicas como "isa" para subclasses e "faz parte de" para subunidades, e as associativas como "são causadas por" ou "na literatura geralmente ocorrem próximas a" (o sendo derivado do Medline).
+O escopo do Metathesaurus é determinado pelo escopo dos vocabulários de origem. Se vocabulários diferentes usam nomes diferentes para o mesmo conceito, ou se eles usam o mesmo nome para conceitos diferentes, isso será fielmente representado no Metathesaurus. Todas as informações hierárquicas dos vocabulários de origem são retidas no Metathesaurus. Os conceitos de Metathesaurus também podem ser vinculados a recursos fora do banco de dados, por exemplo, bancos de dados de sequência de genes.
+
+
+=== Rede Semântica ===
+Cada conceito no Metathesaurus recebe um ou mais tipos semânticos (categorias), que são vinculados entre si por meio de relacionamentos semânticos. A rede semântica é um catálogo desses tipos e relacionamentos semânticos. Essa é uma classificação bastante ampla; existem 127 tipos semânticos e 54 relacionamentos no total.
+Os principais tipos semânticos são organismos, estruturas anatômicas, função biológica, produtos químicos, eventos, objetos físicos e conceitos ou idéias. Os links entre os tipos semânticos definem a estrutura da rede e mostram importantes relações entre os agrupamentos e conceitos. O principal link entre os tipos semânticos é o "isa", estabelecendo uma hierarquia de tipos. A rede também possui 5 categorias principais de relacionamentos não hierárquicos (ou associativos), que constituem os 53 tipos de relacionamento restantes. Estes são "fisicamente relacionados a", "espacialmente relacionados a", "temporalmente relacionados a", "funcionalmente relacionados a" e "conceitualmente relacionados a".As informações sobre um tipo semântico incluem um identificador, definição, exemplos, informações hierárquicas sobre os tipos semânticos abrangentes e relacionamentos associativos. As relações associativas dentro da Rede Semântica são muito fracas. Eles capturam no máximo alguns relacionamentos, ou seja, capturam o fato de que alguma instância do primeiro tipo pode estar conectada pelo relacionamento saliente a alguma instância do segundo tipo. Em termos diferentes, eles capturam o fato de que uma afirmação relacional correspondente é significativa (embora não precise ser verdadeira em todos os casos).
+Um exemplo de um relacionamento associativo é "pode-causar", aplicado aos termos (tabagismo, câncer de pulmão) produziria: fumar "causa-câncer".
+
+
+=== SPECIALIST Lexicon ===
+O SPECIALIST Lexicon contém informações sobre vocabulário comum em inglês, termos biomédicos, termos encontrados no MEDLINE e termos encontrados no Metathesaurus da UMLS. Cada entrada contém informações sintáticas (como as palavras são reunidas para criar significado), informações morfológicas (forma e estrutura) e ortográficas (ortografia). Um conjunto de programas Java usa o léxico para trabalhar com as variações nos textos biomédicos, relacionando as palavras por suas partes do discurso, o que pode ser útil em pesquisas na Web ou em registros médicos eletrônicos.
+As inscrições podem ser termos de uma palavra ou de várias palavras. Os registros contêm quatro partes: formulário base (ou seja, "executar" para "executar"); partes do discurso (das quais o especialista reconhece onze); um identificador único; e quaisquer variantes de ortografia disponíveis. Por exemplo, uma consulta para "anestésico" retornaria o seguinte:
+{ base=anaesthetic
+      spelling_variant=anesthetic
+      entry=E0008769
+          cat=noun
+          variants=reg
+}
+{ base=anaesthetic
+      spelling_variant=anesthetic
+      entry=E0008770
+          cat=adj
+          variants=inv
+          position=attrib(3)
+}
+
+O léxico SPECIALIST está disponível em dois formatos. O formato "registro da unidade" pode ser visto acima e inclui slots e preenchimentos . Um slot é o elemento (ou seja, "base =" ou "variante ortográfica =") e os preenchimentos são os valores atribuíveis a esse slot para essa entrada. O formato " tabela relacional " ainda não está normalizado e contém uma grande quantidade de dados redundantes nos arquivos.
+
+
+== Inconsistências e outros erros ==
+Dado o tamanho e a complexidade do UMLS e sua política permissiva de integração de termos, os erros são inevitáveis. erros incluem ambiguidade e redundância, ciclos hierárquicos de relacionamento (um conceito é ancestral e descendente de outro), ancestrais ausentes (os tipos semânticos de conceitos de pai e filho não têm relação) e inversão semântica (o relacionamento filho/pai com o tipos semânticos não é consistente com os conceitos).Esses erros são descobertos e resolvidos através da auditoria do UMLS. As auditorias manuais podem ser muito demoradas e caras. Os pesquisadores tentaram resolver o problema de várias maneiras. Ferramentas automatizadas podem ser usadas para procurar esses erros. Para inconsistências estruturais (como loops), uma solução trivial baseada no pedido funcionaria. No entanto, o mesmo não se aplica quando a inconsistência está no nível do termo ou do conceito (significado específico do contexto de um termo). Isso requer que seja usada uma estratégia de pesquisa informada (representação do conhecimento).
+
+
+== Suporte a ferramentas de software ==
+Além das fontes de conhecimento, a Biblioteca Nacional de Medicina também fornece ferramentas de suporte. 
+
+
+== Software de terceiros ==
+UMLS-Similarity, um pacote de software de código aberto que implementa muitas medidas de similaridade e semântica semânticas.
+Interface da web UMLS-Similarity, uma interface da web para UMLS-Similarity
+
+
+== Referências ==
+
+
+== Leitura adicional ==
+
+
+== Ligações externas ==
+Sítio oficial
+Descrição sumária do UMLS, com links para as fichas técnicas e a documentação do Metathesaurus, Rede Semântica, SPECIALIST Lexicon e MetamorphoSys
+Visão geral e tutorial do UMLS, por Rachel Kleinsorge, Jan Willis, Allen Browne, Alan Aronson
+Um módulo Perl para consultar uma instalação mysql UMLS
+MeSH Unified+Medical+Language+System
+UMLS.me - extrai conceitos e códigos médicos UMLS de texto livre no navegador, por Alexander Scarlat MD.

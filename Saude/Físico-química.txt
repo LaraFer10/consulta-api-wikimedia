@@ -1,0 +1,51 @@
+A físico-química é a disciplina que estuda os fenômenos químicos sob a ótica dos princípios, conceitos e práticas da física, sendo assim a combinação dessas duas ciências: a física e a química. Dessa forma, busca-se explicar os fenômenos químicos  através dos conceitos de movimento, energia, força, tempo, temperatura, pressão, volume, calor, e trabalho, química quântica e equilíbrio químico, mecânica estatística e eletroquímica.
+Alguns dos tópicos mais comumente tratados na físico-química são:
+
+Forças intermoleculares
+Cinética de reações químicas
+Eletroquímica.
+Termodinâmica
+Propriedades coligativas
+Fenômenos de superfície
+Mudanças nos estados da matéria (sólidos, líquidos, gasosos, coloidais e plasmáticos)
+
+
+== História ==
+
+O termo "físico-química" foi criado por Mikhail Lomonosov, em 1752, quando ele apresentou uma palestra intitulada "A Course in True Physical Chemistry" (em russo: «Курс истинной физической химии») diante dos estudantes da Universidade Estatal de São Petersburgo.A físico-química moderna originou-se entre as décadas de 1860 a 1880 com trabalhos sobre termodinâmica química, eletrólitos em soluções, cinética química entre outros assuntos. O marco foi a publicação em 1876 por Josiah Willard Gibbs de seu artigo, sobre o equilíbrio de substâncias heterogêneas. Este artigo apresentou vários dos pilares da físico-química, como a energia livre de Gibbs, os potenciais químicos e a regra das fases de Gibbs. Outros marcos incluem a introdução dos termos entalpia por Heike Kamerlingh Onnes e processos macromoleculares.
+A primeira revista científica especificamente no campo da físico-química foi o jornal alemão Zeitschrift für Physikalische Chemie, fundado em 1887 por Wilhelm Ostwald e Jacobus Henricus van 't Hoff. Juntamente com Svante August Arrhenius, estas foram as principais figuras da área de físico-química no final do século XIX e início do século XX e todos os três foram agraciados com o Prêmio Nobel de Química entre 1901-1909.
+Desenvolvimentos nas décadas seguintes incluem a aplicação da mecânica estatística para os sistemas químicos e trabalhos envolvendo colóides e química de superfície, onde Irving Langmuir teve muitas contribuições. Outro passo importante foi o desenvolvimento da mecânica quântica, originando a química quântica a partir de 1930, onde Linus Pauling foi um dos principais nomes. Desenvolvimentos teóricos andaram de mãos dadas com a evolução dos métodos experimentais, onde o uso de diferentes formas de espectroscopia, como espectroscopia de infravermelho, espectroscopia rotacional, espectroscopia de ressonância paramagnética eletrônica e espectroscopia de ressonância magnética nuclear são considerados as principais ferramentas desenvolvidas no século XX. Outros importantes aspectos da físico-química foram as descobertas em química nuclear, especialmente a separação de isótopos (antes e durante a Segunda Guerra Mundial), as descobertas mais recentes em astroquímica, bem como o desenvolvimento de algoritmos para a previsão de parâmetros físico-químicos. Praticamente todas as propriedades físico-químicas tais como ponto de ebulição, o ponto crítico, a tensão superficial, a pressão do vapor, etc - mais de 20 propriedades ao todo - podem ser calculadas com precisão a partir de estrutura química, mesmo que a molécula química seja inexistente.
+
+
+== Áreas de estudo ==
+A Físico-química pode ser dividida em quatro áreas a seguir:
+1) Termodinâmica: estuda as trocas de energia entre sistemas que sofrem transformações químicas ou físicas,  e a relação dessas trocas energéticas com os conceitos de espontaneidade e equilíbrio. Ela deve envolver sistemas multimoleculares (macroscópicos) e define propriedades de estado (tais como energia interna, energia livre, entalpia) que determinam o estado energético (chamado também de potencial termodinâmico) do sistema e a tendência de transferir energia para o ambiente sobre determinadas condições. Para se descrever "como " se transfere energia de um sistema para outro, se definiram as funções de processo "calor" e "trabalho", sendo o primeira provocada por uma desiquilíbrio térmico entre sistemas em contato, provocando um movimento aleatório mais intenso de moléculas, e o segundo devido a um desiquilíbrio mecânico, provocando um movimento ordenado direcional de moléculas. Define-se também uma nova função termodinâmica, entropia, que é uma propriedade de estado que indica a direção da espontaneidade de uma transformação (química ou física), buscando ao final, o chamado equilíbrio termodinâmico. A Termodinâmica também envolve transformações com transferência de carga (Eletroquímica), que define a  energia livre por carga transferida como potencial elétrico, que é o potencial termodinâmico para esse tipo de reação. A Termodinâmica também envolve o estudo de sistemas coloidais e fenômenos de interface,  uma vez que o conceito de "tensão superficial " se relaciona com energia livre e estabilidade de interfaces entre fases, incluindo  aquelas envolvendo sistemas coloidais. 
+2) Cinética: estuda a velocidade de transformações químicas ou físicas. Preocupa-se em descrever a velocidade de moléculas gasosas (teoria cinética dos gases), de fluidos gasosos ou líquidos (fenômenos de transporte) e de reações químicas (cinética química). A cinética química se atém não somente em medir a velocidade de reações, como também entender os motivos que levam a uma reação ter determinada velocidade,  procurando descrever o mecanismo de reação e os aspectos termodinâmicos (entálpicos e entrópicos) que afetam a velocidade de uma reação química. 
+3) Química Quântica: estuda os aspectos microscópicos da matéria,  ou seja a estrutura da matéria nas escalas atômica e molecular. Para isso, faz faz uso da mecânica quântica (o qual descreve, entre outros fenômenos, o movimento dos elétrons) e expande seus conceitos intrínsecos para entender as ligações químicas, chegando a conceitos tais como orbital atômico e molecular, vibração e rotação molecular. Também estuda como a interação da matéria com a radiação eletromagnética afeta as propriedades quânticas de um átomo ou molécula (espectroscopia).
+4) Mecânica Estatística: faz a relação entre os propriedades e processos de natureza microscópica (quântica) e macroscópica (termodinâmica e cinética) da matéria.  Faz uso dos conceitos de fator de Boltzmann e função de partição para, através da previsão da distribuição estatística de vários átomos e moléculas em estados quantizados,  consiga se definir tanto as propriedades termodinâmicas de sistemas (termodinâmica estatística ou termoestatística), como se descrever molecularmente o estado de transição em reações químicas (Teoria das Colisões Moleculares e Teoria do Estado de Transição), o qual é fator determinante para a velocidade de reações químicas.
+
+
+== Físico-químicos de destaque ==
+
+
+== Referências ==
+
+
+== Bibliografia ==
+Giraldo, Asdrúbal Valencia (2004). De la técnica a la modernidad: construcciones técnicas, ciencia, tecnología y modernidad (em espanhol). Medellín: Universidad de Antioquia. 263 páginas. ISBN 9789586557818. Consultado em 13 de janeiro de 2013 
+Barrow, Gordon M (1982). Físico-Química. Rio de Janeiro: Reverté. 971 páginas. ISBN 9788585006051. Consultado em 13 de janeiro de 2013 
+
+
+== Ver também ==
+Fotoquímica
+Termoquímica
+Cinética química
+Química quântica
+Eletroquímica
+Química de superfícies
+Química do estado sólido
+Espectroscopia
+Biofísica química
+Ciência dos materiais
+Físico-química orgânica
+Micromerítica

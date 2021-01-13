@@ -1,0 +1,64 @@
+A desfibrilação ou desfibrilhação é a aplicação de uma corrente elétrica em um paciente, através de um desfibrilador, um equipamento eletrônico cuja função é reverter um quadro de fibrilação auricular ou ventricular. A reversão ou cardioversão se dá mediante a aplicação de descargas elétricas no paciente, graduadas de acordo com a necessidade. Os choques elétricos em geral são aplicados diretamente ou por meio de eletrodos (Placas metálicas, ou apliques condutivos que variam de tamanho e área conforme a necessidade) colocados na parede torácica.
+Em 1959 Bernard Lown iniciou as pesquisas em um desfibrilador com um banco de capacitores que descarregava através de um indutor gerando uma onda senoidal na descarga do circuito RLC chamada onda de Lown. O trabalho iniciado por Lown foi colocado em prática pelo engenheiro Barouh Berkovits[carece de fontes?].
+Além dos desfibriladores tradicionais, onde um especialista (de preferência) averigua a situação presente e ajusta o aparelho conforme a necessidade, há também os aparelhos DEA (Desfibrilador Automático Externo), estes com a capacidade de fazer uma avaliação das condições cardíacas do paciente e informar o utilizador se um choque deve ser dado ou não, bem como também (eventualmente) dando os procedimentos para reanimação na parada cardiorrespiratória.
+
+
+== Desfibrilador ==
+Equipamento utilizado na parada cardiorrespiratória com objetivo de restabelecer ou reorganizar o ritmo cardíaco . O primeiro equipamento foi elaborado através de Claude Beck em 1947 utilizado em intra-operatório ( desfibrilação interna ). Em 1956 o médico Paul Zoll elabora a teoria e equipamento da desfibrilação externa.
+O Desfibrilador Automático Externo (DEA), utilizado em parada cardiorrespiratória, tem como função identificar o ritmo cardíaco "FV" ou fibrilação ventricular, presente em 90% das paradas cardíacas. Efetua a leitura automática do ritmo cardíaco através de pás adesivas no tórax. Tem o propósito de ser utilizado por público leigo, com recomendação que o operador faça curso de Suporte Básico em parada cardíaca. Descarga: 200 J ( bifásico ) e 360 J ( monofásico ) em adultos. Crianças, acima de 8 anos - 100 J (redutor). Não há consenso na utilização de crianças com menos de 30 kg.
+Hoje, são utilizados equipamentos em Unidade Emergencia e UTI, com cargas monofásicas que variam de 0 a 360 Joules ou Bifásicas de 0 a 200J.
+O DEA, Desfibrilador Automático Externo, é equipamento capaz de efetuar desfibrilação com leitura automática, independente do conhecimento prévio do operador.
+Em muitos paises a aquisição e utilização dos aparelhos DEA é livre e incentivada, pelas seguintes razões:
+
+Em caso de paragem cardio-respiratória tem de ser aplicado de imediato, não havendo tempo para chamar o 112/emergência;
+Os DEA actuam sozinhos/inteligentemente, aplicando o choque apenas se for estritamente necessário.
+
+
+== Tipo ==
+Desfibriladores são dispositivos que restabelecem um batimento cardíaco normal enviando um pulso ou choque elétrico ao coração. Eles são utilizados para evitar ou corrigir uma arritmia, um batimento cardíaco irregular ou excessivamente moderado ou excessivamente rápido. Os desfibriladores também podem restabelecer a pulsação do coração se o centro parar de repente.
+
+
+=== Desfibrilador  manual externo ===
+Desfibriladores externos manuais requerem a experiência de um profissional de saúde. Eles são usados em conjunto com um eletrocardiograma, que pode ser separado ou embutido.
+
+
+=== Desfibrilador  manual interno ===
+Os desfibriladores internos manuais entregam o choque através das pás colocadas diretamente no coração. Eles são usados principalmente na sala de cirurgia e, em raras circunstâncias, na sala de emergência durante um procedimento de coração aberto.
+
+
+=== Desfibrilador  automático externo (DEA) ===
+
+Desfibriladores externos automatizados são projetados para uso por leigos não treinados ou treinados brevemente. DEAs contêm tecnologia para análise de ritmos cardíacos. Como resultado, não é necessário que um profissional de saúde treinado determine se um ritmo é ou não chocável. Ao disponibilizar publicamente essas unidades, os DEAs obtiveram melhores resultados para paradas cardíacas repentinas fora do hospital.
+
+
+=== Desfibrilador cardioversor implementável ===
+Também conhecido como desfibrilador cardíaco automático interno (AICD). Esses dispositivos são implantes, semelhantes aos marca-passos (e muitos também podem executar a função de marca-passo). Um estudo mostrou que a implantação preventiva de um desfibrilador resultou em um declínio geral de 43% na mortalidade nos quatro anos resultantes.
+
+
+=== Desfibrilador cardioversor vestível ===
+Um desfibrilador cardioversor vestível é um desfibrilador externo portátil que pode ser usado por pacientes em risco. A unidade monitora o paciente 24 horas por dia e pode fornecer automaticamente um choque bifásico se for detectada FV ou TV. Este dispositivo é indicado principalmente em pacientes que não são candidatos imediatos a CDIs.
+
+
+=== Desfibrilador interno ===
+Isso geralmente é usado para desfibrilar o coração durante ou após a cirurgia cardíaca, como um desvio cardíaco. Os eletrodos consistem em placas de metal redondas que entram em contato direto com o miocárdio.
+
+
+== História ==
+1850 - Carl Ludiwig ( 1816 - 1895 ), relata a fibrilação ventricular após indução elétrica.
+1874 - A. VUlpian, descreve a irregular contração miocárdica gerando alterações anormais de impulsos propagados como causa da FV.
+1947 -  Claude Beck inventa desfibrilador e efetua a primeira desfibrilação com sucesso em humano.
+
+
+== Em Portugal ==
+Em 2013, Portugal tem 446 desfibrilhadores automáticos externos (DAE) licenciados pelo INEM em locais públicos, sendo possível encontrar estes equipamentos em aeroportos, bancos, casinos, centros comerciais, hipermercados e unidades hoteleiras.
+A legislação que estabelece as regras para a utilização dos desfibrilhadores foi alterada em agosto de 2012 e veio tornar obrigatória, até setembro de 2014, a instalação de equipamentos de DAE em estabelecimentos comerciais de dimensão relevante, como são o caso de aeroportos e portos comerciais, estações ferroviárias, de metro e de camionagem, recintos desportivos e de lazer com lotação superior a 5.000 pessoas, e estabelecimentos comerciais de grande dimensão.Em 2013 os desfibrilhadores automáticos externos disponíveis em ambulâncias foram utilizados 4.558 vezes, contribuindo para que fossem salvas 447 vidas. Das 4.558 utilizações em 532 casos o aparelho recomendou a administração de choque elétrico, sendo que 447 vítimas foram transportadas para uma unidade hospitalar com sinais de circulação espontânea.
+
+		
+		
+
+
+== Ligações externas ==
+«Projeto DEA» 
+
+
+== Referências ==

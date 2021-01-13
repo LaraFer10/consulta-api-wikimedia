@@ -1,0 +1,24 @@
+O lanosterol é um triterpenóide tetracíclico. É o composto a partir do qual todos os esteróides são derivados.Em 2015 um estudo divulgado na revista nature mostrou que este tipo de esteroide é capaz de derreter cataratas e impedir o desenvolvimento desta quando administrado regularmente em pacientes por meio de um colírio desenvolvido.
+
+
+== Papel na criação dos esteróides ==
+O lanosterol é bioquimicamente sintetizado a partir de farnesil pirofosfato. O passo crítico é a conversão enzimática do esqualeno (terpeno acíclico) em lanosterol (policíclico), via 2,3-oxidoesqualeno. Um processamento mais elaborado através de catálise enzimática, dá origem à estrutura base dos esteróides. A 14-demetilação do lanosterol pelo citocromo P450 dá origem ao colesterol.
+
+
+== Biossíntese ==
+Duas moléculas de farnesil pirofosfato condensam-se, com redução do NADPH, dando origem ao esqualeno - pela enzima esqualeno sintase;
+
+O esqualeno é reduzido pelo NADPH em 2,3-oxidoesqualeno - pela enzima esqualeno monooxigenase;
+
+O 2,3-oxidoesqualeno é convertido num anião proesterol e finalmente convertido em lanosterol, catalisado pela enzima lanosterol sintase:
+
+
+== Ver também ==
+Cicloartenol
+CYP51
+
+
+== Referências ==
+
+E. J. Corey, W. E. Russey, P. R. Ortiz de Montellano (1966). «2,3-Oxidosqualene, an Intermediate in the Biological Synthesis of Sterols from Squalene». Journal of the American Chemical Society. 88 (20): 4750 - 4751. doi:10.1021/ja00972a056  !CS1 manut: Nomes múltiplos: lista de autores (link)
+I. Abe, M. Rohmer, G. D. Prestwich (1993). «Enzymatic cyclization of squalene and oxidosqualene to sterols and triterpenes». Chemical Reviews. 93 (6): 2189 - 2206. doi:10.1021/cr00022a009  !CS1 manut: Nomes múltiplos: lista de autores (link)

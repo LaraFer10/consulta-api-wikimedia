@@ -1,0 +1,18 @@
+Phyloscan é um serviço web service para análise de seqüências de ADN que é livre e aberto a todos usuários (sem necessidade de login). 
+Para a localização de pareamentos de seqüências motivo especificadas pelo usuário para um sítio de ligação regulatório, Phyloscan fornece uma varredura estatisticamente sensível de seqüência  mistas de ADN alinhados e não alinhados fornecidas pelo usuário. A força do Phyloscan é que ele reúne
+
+O método Staden para computação da significância estatística,
+O "modelo de motivo de filogenética" funcionalidade de digitalização do software MONKEY este modela relacionamentos evolutivos entre seqüências alinhadas,
+O uso do método Bailey & Gribskov para combinar as estatísticas não-alinhadas em seqüência de dados, e
+A técnica Neuwald & Green para combinar estatísticas em vários sítios de ligação encontrados dentro de uma única região do gene promotor.
+
+
+== Ver também ==
+Bioinformática
+
+
+== Ligações externas ==
+Phyloscan homepage
+
+
+== Referências ==

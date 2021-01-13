@@ -1,0 +1,52 @@
+Aldosterona  é um hormônio (da família dos mineralocorticóides) sintetizado na zona glomerulosa do córtex das glândulas suprarrenais. Tem como alvo os rins. A sua principal função consiste na regulação do balanço eletrolítico.Foi isolado pela primeira vez por Simpson e Tait em 1953.
+
+
+== Ações fisiológicas ==
+Aumento da natremia (aumento da concentração de sódio no sangue chamado de hipernatremia)
+
+Transporte ativo de sódio da célula tubular renal para o espaço extracelular
+Reabsorção passiva de sódio do filtrado urinárioDiminuição da calemia (hipocalemia)(concentração de potássio no sangue)
+
+Aumento da reabsorção de cloro do filtrado urinário
+Aumento da excreção de potássio para o filtrado urinárioAumento do pH do sangue ou alcalose
+
+Excreção de ions de hidrogênio para o filtrado urinário (antiporter de Na+/H+)Aumento da pressão arterial e da volemia (volume de sangue circulante)
+
+Aumento de reabsorção de águaA função principal da aldosterona é a manutenção do volume de fluido extracelular, por conservação do Na+ corporal; a sua produção depende de aferências renais, estimuladas quando é detectada uma redução no volume de fluido circulante.
+Quando há redução do sódio extracelular, como acontece, por exemplo, na restrição dietética de sódio, a diminuição volume plasmático e do fluido extracelular diminui o fluxo e pressão de perfusão renais, o que é detectado pelas células justaglomerulares renais, que segregam, como resposta, renina para a circulação periférica. A renina converte o angiotensinogénio (a2-globulina plasmática sintetizada no fígado) em angiotensina I que, depois, é clivada pela enzima de conversão da angiotensina presente em muitos leitos capilares, sendo classicamente destacado como mais importante o pulmonar, originando a angiotensina II.
+A angiotensina II fixa-se a receptores membranares específicos a nível supra-renal, produzindo segundos mensageiros como o Ca2+ e derivados do fosfatilinositol; a activação da cinase C altera a expressão enzimática, favorecendo a síntese de aldosterona.
+Alterações mínimas no sistema angiotensina plasmático são suficientes para desencadear respostas máximas de produção de aldosterona. Após algumas horas/ dias, as velocidades de secreção de renina e aldosterona podem ser aumentadas consideravelmente, de 4 a 8 vezes no caso de dieta com restrição de sódio, e 2 a 4 vezes, no caso de hemorragias, ortostatismo prolongado ou diurese aguda. Por oposição, na ingestão excessiva de sódio e na retenção de grandes quantidades de volume extracelular, a secreção de renina e aldosterona está suprimida. Deste modo, há um sistema de feedback negativo resultante da interacção entre a zona glomerular e as células justaglomerulares.
+Outros estímulos para a secreção de renina:
+Maior actividade simpática, ex. na hipovolemia, por acção da noradrenalina em receptores b-adrenérgicos renais;
+Prostaglandinas locais – medicamentos como agentes anti-inflamatórios não-esteróides (inibidores da ciclo-oxigénase) reduzem a resposta de produção de aldosterona, nas situações de baixo fluxo sanguíneo renal.
+Mecanismos de feedback:
+A angiotensina II exerce uma acção local de inibição da libertação de renina, participando num “feedback” negativo. 
+O ANP (peptídeo auricular natriurético) contraria os efeitos do sistema renina-angiotensina na produção de aldosterona. Quando há expansão do volume plasmático, os miócitos auriculares, sensibilizados pela distensão, libertam o ANP que se fixa a receptores específicos na zona glomerulosa, inibindo a síntese e libertação da aldosterona (nestas circunstâncias, os valores de angiotensina são, também, reduzidos, encontrando-se o sistema renina-angiotensina inactivo); por outro lado, o ANP também actua indirectamente, reduzindo a libertação de renina.
+O principal condicionante da actividade da aldosterona é, no entanto, o potássio. A aldosterona é um facilitador biológico da depuração de potássio, sendo a sua secreção aumentada na presença de níveis aumentados de potássio. As elevações do potássio plasmático, ou da sua ingestão na dieta são fortes estímulos para a libertação de aldosterona.
+O potássio estimula a libertação de aldosterona por despolarização das células endócrinas da suprarrenal, abrindo canais de Ca2+ dependentes da voltagem. A elevação da concentração de Ca2+ intracelular é responsável pela activação da produção.
+O ACTH também se associa, como acontece com o cortisol, à estimulação da produção de aldosterona; contudo, face à acção continuada do ACTH, este efeito sofre uma atenuação e anulação em poucos dias, porque os efeitos de “feedback” negativo da aldosterona inibem a sua secreção, impondo-se ao estímulo positivo do ACTH. O papel do ACTH parece ser uma estimulação tónica basal, na sua ausência a resposta da zona glomerulosa a outros estímulos está francamente diminuída.
+Os estímulos positivos para a secreção de aldosterona ([Na+] reduzida, angiotensina II, [K+] alta e ACTH) estão interrelacionados e cada um deles facilita a acção dos restantes.
+Há outros factores de regulação em estudo, entre os quais um outro peptídeo, também derivado da POMC (mas diferente do ACTH), a acetilcolina e a serotonina, todos estimulatórios, e a dopamina, inibitória (reduz os níveis de AMPc, por intermédio de uma proteína G inibitória).
+O padrão de secreção diária de aldosterona (circadiana) parece ser independente de qualquer um destes estímulos; é uma propriedade intrínseca da glândula. O pico de secreção ocorre às 8 horas da manhã e o mínimo às 23 horas da noite.
+Acções da aldosterona e restantes mineralocorticóides:
+A aldosterona fixa-se ao receptor de mineralocorticóides e altera a transcrição génica; normalmente, é necessária uma latência de uma a duas horas até que se verifiquem os efeitos hormonais.
+O rim é o principal alvo. É estimulada a reabsorção activa de sódio a nível tubular, pelas células dos túbulos colectores e túbulos contornados distais, sendo preservado o principal catião extracelular. A água sofre reabsorção passiva, acompanhando o Na+, de modo que a expansão do volume extracelular faz-se sem alteração da osmolaridade.
+Apesar da aldosterona interferir em apenas 3% da capacidade total de reabsorção de Na+, o défice de aldosterona cria um saldo negativo considerável no equilíbrio do Na+.
+A acção subcelular faz-se sentir no polo luminal, aumentando o número de canais membranares que permitem passagem de Na+ a favor do gradiente electroquímico, no pólo basal, aumentando a ATPase Na+ - K+, que exterioriza Na+ para os capilares, nas mitocôndrias, estimulando as reacções do ciclo de Krebs e aumentando a produção energética e, no citosol, aumentando a actividade da fosfolípase e a síntese de ácidos gordos para formação de membranas biológicas.
+Simultaneamente, há excreção activa de potássio para o lúmen tubular renal. A electronegatividade luminal, gerada após a passagem do Na+ para as células tubulares, favorece a difusão passiva de K+ para o lúmen. A aldosterona é responsável por um nível mínimo de excreção de K+. A maioria da excreção diária de potássio depende da secreção tubular distal a nível renal, sendo essencial a presença da aldosterona; ao contrário do que acontece com o sódio, o fluxo de potássio não arrasta consigo água e, portanto, a retenção de potássio plasmática não altera a volemia, mas, por isso mesmo, manifesta-se rapidamente como elevação perigosa das concentrações de potássio.
+A retenção de Na+ e H2O, na administração continuada de aldosterona, resulta num aumento da pressão sanguínea e volume plasmático.
+No entanto, após alguns dias esta retenção cessa, passando a um estado de equilíbrio, porque a hipervolemia aumenta a taxa de filtração glomerular e o ANP (libertado em situação de hipervolemia) inibe a libertação da aldosterona e diminui a sua actividade nos túbulos renais. Apesar do referido, persiste a perda de K+ e de H+ por troca com Na+ reabsorvido, desenvolvendo-se uma alcalose metabólica.
+A aldosterona, para além da acção renal, também altera as trocas iónicas em outros órgãos e  estimula a reabsorção de sódio no cólon, aumentando a excreção de potássio nas fezes. Acontece algo semelhante na saliva e suor.
+A aldosterona também poderá aumentar a pressão arterial por acção vasoconstrictora directa, actuando em receptores de mineralocorticóides, nas células musculares lisas vasculares. Poderá contribuir para o desenvolvimento de fibrose no sistema cardiovascular, em situações patológicas como a insuficiência cardíaca e a doença isquémica do miocárdio.
+Apesar do cortisol se associar com elevada afinidade ao receptor de mineralocorticóides, a sua actuação é escassa, dados os elevados níveis de enzimas inactivadoras a nível local.
+
+
+== Farmacologia ==
+Sua função é alterada pelos antagonistas da aldosterona, como a Espironolactona e o Eplerenone.
+
+
+== Relacionados ==
+Síndrome de Conn - hiperaldosteronemia primária, em 80% dos casos associada com adenomas de adrenal hiperfuncionantes e em 20% dos casos com hiperplasia adrenal bilateral.
+
+
+== Referências ==

@@ -1,0 +1,49 @@
+As cinesinas são motores protéicos que têm a capacidade de se locomover usando microtúbulos como trilhos. Elas foram identificadas pela primeira vez nos axônios gigantes de lulas, transportando organelas membranosas. As proteínas dessa superfamília têm como único elemento unificador o domínio motor, que tem a capacidade de atrelar a hidrólise de ATP a modificações espaciais em sua estrutura.
+
+
+== Estrutura ==
+Normalmente essas proteínas motoras são compostas por duas cadeias pesadas, portadoras, cada uma, de uma cabeça na qual se localiza o motor, e duas cadeias leves por motor. Nas cadeias pesadas, o motor está conectado através de uma sequência de aminoácidos a uma alfa hélice que forma uma super hélice com a outra cadeia pesada, sendo, portanto, estas hélices responsáveis pela dimerização da cinesina. Na outra extremidade da hélice, ligam-se as cadeias leves da cinesina, responsáveis por auxiliar o processo de encaixe das estruturas que serão carregadas pelos microtúbulos.
+Na grande maioria das cinesinas, o motor está próximo do N terminal das cadeias pesadas: essas proteínas caminham em direção à extremidade de crescimento rápido dos microtúbulos. Uma família de cinesinas, no entanto, tem o motor localizado próximo ao C terminal e anda na direção oposta.
+Além disso a Cinesina, tem grande fonte de 2NadH e sem esse elemento as bactérias não se locomoveriam.
+
+
+== Função e funcionamento ==
+Dentre as possíveis cargas das cinesinas estão mitocôndrias, vesículas contendo neurotransmissores e até outros microtúbulos. Há até cinesinas que têm o poder de se auto associar formando motores bipolares que deslizam microtúbulos em direções opostas. Além do funcionamento como carregadoras, as cinesinas também têm um importante papel na formação dos fusos meióticos e mitóticos.
+Embora sua importância seja mais óbvia em neurônios, células nas quais as cargas devem percorrer longas distâncias, o transporte polarizado também é necessário em praticamente qualquer outra célula eucarionte, sendo o responsável pela estruturação e alocação de organelas membranosas como o complexo de Golgi e o retículo endoplasmático rugoso. Grande parte do transporte direcionado a regiões distantes do núcleo é realizado pelas cinesinas.
+É importante notar que as cinesinas só agem como ATPases quando ligadas ao microtúbulo, estando a atividade catalítica atrelada a um ciclo mecânico processivo. Foi determinado que a hidrólise de uma molécula de ATP acarreta num passo de 8 nm da cinesina.
+O ciclo mecânico inicia-se com a entrada de um ATP no sítio de ligação de nucleotídeos, que mobiliza uma pequena alça alguns décimos de angstrom. Essa mudança conformacional é amplificada e transmitida pela região de interface entre as cadeias pesadas (a super hélice), lançando o outro motor para frente, onde ele se liga ao microtúbulo. Ocorre então a hidrólise do ATP seguida da liberação de um fosfato e novas transformações espaciais que levam ao desacoplamento da cabeça de trás do microtúbulo. Retorna-se então ao estado inicial, com troca de posição das cabeças.
+A super hélice funciona tanto como coordenadora dos ciclos mecanoquímicos quanto como
+determinante da direção do movimento: as cinesinas com motores perto do N terminal se movem
+numa direção e os com motores perto do C terminal noutra, mesmo sendo os motores praticamente
+iguais. Isso se dá pois as super hélices estão torcidas em sentido contrário, e exercem forças em direções opostas.
+Comparadas às miosinas, as cinesinas caminham longas distâncias sem que se dissociem do trilho de tubulinas, o que equivale a centenas de ciclos de ATPase seguidos (durante cada ciclo, cada motor passa aproximadamente 50% do tempo associado ao microtúbulo). A função biológica disso é clara: um pequeno número de cinesinas deve ser capaz de transportar uma organela por todo um axônio, as miosinas, por sua vez, quase sempre atuam em grupos muito maiores de moléculas, de modo que se elas se mantivessem atreladas após sua contribuição ao movimento, atrapalhariam o impulso das outras unidades (de fato, as miosinas passam, em média, apenas 5% do tempo associadas ao filamento de actina).
+O alto grau de processividade da cinesina se deve à coordenação das duas unidades do dímero: uma cabeça só se solta quando a outra já se uniu ao trilho. Tal coordenação não é vista na miosina II.
+Embora isso faça com que a miosina solte-se muito mais facilmente de seu trilho, isso também
+permite que ela deslize filamentos com velocidade muito maior, quando em grandes grupos,
+enquanto a ação da cinesina tende a até decrescer a partir de um número de moléculas carregando a mesma estrutura.
+Assim, enquanto as cinesinas atingem velocidades que variam entre 0,2 μm/s e 3 μm/s, um grupo de
+miosinas alcança velocidades de até 60 μm/s. A variação das velocidades atingidas pelas cinesinas pode ser explicada por diferentes ritmos intrínsecos de hidrólise de ATP pelo motor, assim como por diferentes ângulos de torção da super hélice no processo de amplificação da transformação estérica.
+
+
+== A determinação do mecanismo de locomoção das cinesinas ==
+O comportamento enzimático das cinesinas pode ser satisfatoriamente descrito através da equação de Michaelis-Menten, e a velocidade da reação pode ser verificada diretamente através da velocidade dos microtúbulos deslizantes, visto que o tamanho da passada é conhecido assim como se sabe que cada ciclo de hidrólise corresponde a um passo.
+A partir dessas informações, foi possível propor vários mecanismos para o andar da cinesina, como o já apresentado modelo mão sobre mão, no qual as cabeças alternam a liderança, e o mede palmos, no qual uma cabeça lidera o movimento, ocorrendo apenas nela a hidrólise de ATP. No entanto, dados a respeito da inibição da reação por ADP e Pi, indicam que provavelmente a primeira hipótese é a correta, com liberação de ADP antes de Pi, uma vez ligado o ATP.
+Foi verificado que o fosfato é um inibidor competitivo da reação, visto que afetou o KM da enzima, o ADP, por sua vez, revelou-se um inibidor misto, afetando tanto o KM quanto a velocidade máxima da reação. Assim supõe se que o fosfato e o ATP ligam-se exclusivamente ao mesmo estado da molécula, e o ADP liga-se a outro estado também. Essas suposições são inconsistentes com o modelo mede palmos.
+Analisando o modelo mão sobre mão, e as propriedades cinéticas do ciclo, percebe-se ser de difícil determinação a reação que limita a velocidade deste, já que dois processos ocorrem quase simultaneamente, sendo que um deles é o determinante da velocidade do ciclo. Trata-se da liberação do Pi da cabeça de trás e o desligamento desta do microtúbulo. A captura de ATP pela cabeça da frente ocorre apenas depois desses dois processos, de modo a manter a coordenação entre as unidades do dímero. Possivelmente uma transformação conformacional ocorrida após o último desses dois processos permite a ancoragem do ATP, mas a determinação de qual deles produz esse sinal depende da determinação de qual das reações é mais rápida.
+A descoberta de uma cinesina mutante que têm uma afinidade muito maior pelo microtúbulo, e que dele não desliga, permitiu que se determinasse qual das duas reações antecederia a outra, sendo a limitante da velocidade. Já que a cabeça de trás não se desligaria do microtúbulo, se não houvesse liberação de Pi, isso significaria que essa reação depende do desligamento, sendo esta a etapa limitante, no entanto foi detectada liberação de Pi, com velocidade semelhante à do passo de desacoplamento do microtúbulo e liberação de Pi como um todo, donde se conclui que a reação lenta é a saída do Pi.
+Assim pode-se inferir que a reação que provoca a mudança de conformação que permite à cabeça da frente ligar-se ao ATP é o desligamento da cabeça de trás.
+
+
+== Regulação da ação das cinesinas ==
+O transporte realizado pelas cinesinas não é aleatório, elas são capazes de fazer entregas a diferentes subcompartimentos de células, por exemplo, nos neurônios canais de sódio são entregues aos nódulos de Ranvier e vesículas sinápticas são endereçadas aos terminais pré-sinápticos. Embora diferentes proteínas façam diferentes entregas, acredita-se que a fosforilação de cinesinas pode ter efeito regulatório.
+As cadeias leves são importantes para atracar as organelas carregadas, e elas se encontram fosforiladas dentro das células, esses pontos fosforilados foram identificados como possíveis sítios de fosforilação pela GSK3, uma quinase de alta expressão, encontrada em neurônios. Em axoplasma isolado, a GSK3 inibiu o transporte anterogrado, mas não o retrógrado, de carga. Já se sabe que chaperonas têm a capacidade de liberar a cinesina de sua carga, mas as altas concentrações dessas proteínas por todo o neurônio não explicam o controle local da descarga das cinesinas.
+Propôs-se que a fosforilação das cadeias leves pudesse suscetibilizar a cinesina ao ataque da chaperona. Assim, se a distribuição de GSK3 coincidisse com as trilhas das cinesinas, poder-se-ia supor que a fosforilação regulada por receptores de membrana (o que de fato ocorre com a GSK3) fosse a responsável pela liberação da carga das cinesinas.
+
+
+== Ver também ==
+Transporte de vesículas
+Citoesqueleto
+Dineína
+
+
+== Referências ==

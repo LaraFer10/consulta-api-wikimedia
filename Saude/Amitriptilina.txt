@@ -1,0 +1,73 @@
+A amitriptilina é um fármaco utilizado para tratar várias condições que afectam o SNC. Entre elas estão principalmente a depressão e problemas de ansiedade, mas também a enurese. É eficaz na prevenção das enxaquecas, cefaleias de tensão e no controlo da dor neuropática. Para além disso, é utilizado em casos de insónia, fibromialgia, síndrome do cólon irritável, entre outros, embora o seu uso não esteja oficialmente aprovado em muitos países para essas condições. Segundo uma meta análise em grande escala feita em 2018, que comparou 21 antidepressivos disponíveis atualmente no mercado, tanto a nível de eficácia como de tolerabilidade, a amitriptilina foi considerado o mais eficaz com uma diferença significativa. Já a nível de tolerabilidade, algo no qual os antidepressivos tricíclicos possuem uma má reputação, ficou na sexta posição.
+
+
+== História ==
+A amitriptilina foi sintetizada pela primeira vez em 1960 e foi introduzida para uso médico nos Estados Unidos em 1961 e no Reino Unido em 1962, sob o nome comercial Elavil. Foi o segundo TCA a ser introduzido, após a imipramina, comercializada a partir de 1957. Ainda hoje é utilizada, apesar da introdução dos antidepressivos ISRS e ISRNS, estando na 88º posição dos medicamentos mais prescritos nos Estados Unidos. Pertence ao grupo dos antidepressivos tricíclicos e está na lista dos medicamentos essenciais da OMS.
+
+
+== Mecanismo de ação ==
+A amitriptilina atua primariamente como um inibidor da recaptação da serotonina-norepinefrina, com ações fortes sobre o transportador de serotonina e efeitos moderados no transportador de norepinefrina. Tem influência negligenciável sobre o transportador de dopamina e, portanto, não afeta a recaptação de dopamina, sendo quase 1000 vezes mais fraca do que sobre ele em serotonina. É metabolizada em nortriptilina, potente e seletivo inibidor da recaptação de norepinefrina, que podem complementar os seus efeitos sobre a recaptação da norepinefrina.
+A amitriptilina, adicionalmente, funciona como um bloqueador dos receptores 5-HT2A, 5-HT2C, 5-HT3, 5-HT6 e  5-HT7 (receptores de serotonina), receptores alfa-1-adrenérgicos, receptores histamínicos H1, H2 e  H4 e também, como um agonista do receptor sigma (σ) opioide. Também tem sido mostrado ser um ligante relativamente fraco do receptor de NMDA (receptor de glutamato), agindo como modulador alostérico negativo no mesmo local de ligação da fenciclidina.
+
+
+== Reações adversas ==
+Algumas das reações adversas da amitriptilina incluem:
+
+
+== Contraindicações ==
+Pode estar desaconselhada no caso de doença cardíaca, histórico de ataque cardíaco ou convulsões. No caso de pacientes com diabetes, a amitriptilina pode reduzir os níveis de açúcar no sangue, bem como pode agravar outros problemas de saúde como o hipertiroidismo, o glaucoma ou os problemas em urinar.
+
+
+== Interações medicamentosas ==
+A amitriptilina interage com IMAOs (inibidores da monoamina oxidase), principalmente com inibidores da MAO-A, pois podem induzir uma síndrome serotoninérgica. O medicamento interage negativamente com cisaprida. Foi relatado delírio com o uso concomitante com dissulfiram. Como todo tricíclico, a dose usada deve ser repensada caso haja uso de outros psicotrópicos, bem como inibidores ou substratos do citocromo P450 2D6 (quinidina, cimetidina, fenotiazinas, propafenona e flecainida) devido às alterações no metabolismo dos medicamentos. Devido aos efeitos sobre o intestino, deve-se evitar o uso concomitante com antiespasmódicos, que pode levar, em casos extremos, ao íleo paralítico. Outras interações medicamentosas da amitriptlina incluem: 
+
+Inibidores da CYP2D6 e substratos, como a fluoxetina, devido ao potencial de aumento nas concentrações plasmáticas da droga
+Guanetidina, pois pode reduzir os efeitos anti-hipertensivos deste medicamento
+Agentes anticolinérgicos, como benztropina, hioscina (escopolamina) e atropina, porque os dois podem exacerbar os efeitos anticolinérgicos um do outro, incluindo íleo paralítico e taquicardia
+Antipsicóticos, devido ao potencial de exacerbarem os efeitos sedativos, anticolinérgicos, epileptogênicos e piréticos. Também aumenta o risco de síndrome neuroléptica maligna
+A eletroconvulsoterapia pode aumentar os riscos associados a este tratamento
+Medicamentos antitireoidianos podem aumentar o risco de agranulocitose
+Foi relatado aumento da concentração plasmática da amitriptilina e de outros ADTs no uso concomitante com o anticonvulsivo ácido valproico
+Os hormônios tireoidianos têm potencial para aumentar os efeitos adversos, como estimulação do SNC e arritmias.
+Alguns analgésicos, como tramadol e petidina, devido ao potencial de aumento do risco de convulsões e síndrome da serotonina
+Medicamentos sujeitos à inativação gástrica (por exemplo, levodopa) devido ao potencial da amitriptilina em retardar o esvaziamento gástrico e reduzir a motilidade intestinal
+Medicamentos sujeitos a absorção prolongada devido a maior tempo de presença no intestino delgado (por exemplo, anticoagulantes)
+Deve haver cautela na associação com outros agentes serotonérgicos, como os ISRSs e triptanos, pois podem induzir síndrome serotoninérgica
+
+
+== Overdose ==
+Os sintomas e o tratamento de uma overdose são basicamente os mesmos dos outros ADTs, incluindo a possibilidade de síndrome serotoninérgica e efeitos cardíacos adversos. O British National Formulary observa que a amitriptilina é particularmente perigosa em overdose, e por isso, ela e outros TCAs não são mais recomendados como terapia de primeira linha para a depressão. Agentes alternativos, das classes ISRS e ISRSN, são mais seguros em termos de overdose e geralmente mais toleráveis, embora não sejam mais eficazes do que os TCAs. O cantor inglês Nick Drake morreu de overdose de amitriptilina em 1974. Os possíveis sintomas de overdose de amitriptilina incluem:  
+O tratamento da intoxicação é principalmente de suporte, uma vez que não existe um antídoto específico para a sobredosagem com amitriptilina. O carvão ativado pode reduzir a absorção se administrado em até 2 horas após a ingestão. Se a pessoa afetada estiver inconsciente ou com reflexo de vômito prejudicado, uma sonda nasogástrica pode ser usada para que o carvão ativado chegue ao estômago. O monitoramento de ECG para anormalidades cardíacas é essencial. Caso necessário, a temperatura corporal deve ser regulada com medidas como cobertores de aquecimento. A monitorização cardíaca é recomendada durante pelo menos cinco dias após a overdose. Os benzodiazepínicos são recomendados para o controle de possíveis convulsões. A diálise não costuma ser útil devido ao alto grau de ligação às proteínas que a amitriptilina possui. 
+
+
+== Pesquisas ==
+A amitriptilina foi estudada em vários distúrbios:
+
+Transtornos alimentares: Os poucos ensaios clínicos randomizados que investigaram sua eficácia em transtornos alimentares foram desanimadores 
+Insônia: em 2004, a amitriptilina era o remédio para dormir mais comumente prescrito nos Estados Unidos (uso off label). Devido ao desenvolvimento de tolerância e ao potencial para efeitos adversos, como prisão de ventre, seu uso em idosos para esta indicação é desaconselhado.
+Incontinência urinária: a amitriptilina pode ser utilizada para tratamento de enurese noturna e incontinência urinária
+Síndrome do vômito cíclico
+Tratamento preventivo para pacientes com discinesia biliar recorrente (disfunção do Esfíncter de Oddi)
+Transtorno de déficit de atenção/hiperatividade (em conjunto, ou às vezes no lugar de drogas estimulantes)
+Náusea, especialmente após o procedimento anti-refluxo Fundoplicação de NissenA amitriptilina também atua como um inibidor funcional da esfingomielinase ácida
+
+
+== Nomes comerciais ==
+Alguns nomes comerciais da amitriptilina incluem:
+
+
+== Ver também ==
+Imipramina
+Clomipramina
+Nortriptilina
+Benzocicloeptenos
+
+
+== Referências ==
+
+
+== Ligações externas ==
+PubChem Substance Summary: Amitriptyline Informação do Centro Nacional de Biotecnologia National Center for Biotechnology Information.
+AMITRIP® Amitriptyline hydrochloride 10 mg, 25 mg and 50 mg Capsules Medsafe NZ Physician Data Sheet. Novembro de 2004.
+Informaçãos Médica para o Consumidor, Austrália, Dezembro de 2005
+US National Institutes of Health, Janeiro de 2008

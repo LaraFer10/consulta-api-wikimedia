@@ -1,0 +1,24 @@
+O CyberKnife System é um equipamento de radioterapia fabricado pela Accuray Incorporated. O sistema é utilizado para realizar radiocirurgia para o tratamento de tumores benignos, tumores malignos e outras condições médicas.
+
+
+== O aparelho ==
+O dispositivo combina um acelerador linear compacto montado em um braço robótico e um sistema integrado de orientação por imagem . O sistema de orientação por imagem adquire imagens estereoscópicas kV durante o tratamento, rastreia o movimento do tumor e orienta o braço robótico para alinhar com precisão o feixe de tratamento ao tumor em movimento. O sistema é projetado para radiocirurgia estereotáxica (SRS) e terapia de radiação corporal estereotáxica (SBRT). O sistema também é usado para selecionar radioterapia conformada 3D (3D-CRT) e terapia de radiação modulada de intensidade (IMRT).
+Esse sistema de Raios X integrado permite a visualização do tumor em tempo real durante a sessão, fazendo com que o feixe de radiação atinja apenas os locais necessários. Essa característica permite que a dose de radiação seja aumentada somente na área tumoral, o que diminui o número total de sessões.Por possuir braço robótico, o aparelho não possui as limitações físicas que os sistemas de radioterapia baseados em radiação isocêntrica possuem, isso torna as sessões de tratamentos mais rápidas pois não são necessários diversos reposicionamentos do paciente para irradiação.
+
+
+== História ==
+O sistema foi inventado por John R. Adler, professor de neurocirurgia e radiação oncológica da Universidade de Stanford, e por Peter e Russell Schonberg da Schonberg Research Corporation. Foi um desenvolvimento do primeiro tratamento de irradiação 3D realizado com um acelerador linear produzindo raios X de 4 MeV, naquela época ainda usado apenas em dimensões plares como um CAT, pelo físico Renzo Carlo Avanzo no hospital de Vicenza (Itália). O Cyberknife foi o primeiro linac (acelerador linear) dedicado, aumentando a precisão e diminuindo o tempo do tratamento. O primeiro sistema foi instalado na Stanford University em 1991, e foi liberado pelo FDA para investigação clínica em 1994. Após anos de investigação clínica, o FDA liberou o sistema para o tratamento de tumores intracranianos em 1999 e para o tratamento de tumores em qualquer parte do corpo em 2001. Desde o projeto original, a Accuray Incorporated lançou sete modelos de Sistema CyberKnife ao longo dos anos: o Sistema CyberKnife G3 em 2005, o Sistema CyberKnife G4 em 2007, o Sistema CyberKnife VSI em 2009, o Sistema CyberKnife M6 em 2012 e o Sistema CyberKnife S7 em 2020.
+
+
+== Aplicação clínica ==
+O sistema é usado para tratar tumores do pâncreas, fígado, próstata, coluna vertebral, câncer de garganta e cérebro e tumores benignos.
+
+
+== Veja também ==
+Câncer
+Radiocirurgia
+Cirurgia robótica
+Acelerador linear
+
+
+== Referências ==

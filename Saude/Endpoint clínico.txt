@@ -1,0 +1,68 @@
+Os endpoints clínicos ou resultados clínicos (ou ainda desfechos clínicos) são medidas de resultados referentes à ocorrência de doença, sintoma, sinal ou anormalidade laboratorial que constituem um desfecho alvo em ensaios clínicos. O termo também pode se referir a qualquer doença ou sinal que motive fortemente a retirada de um indivíduo ou entidade do estudo e, em seguida, frequentemente denominado desfecho humano (clínico).
+O endpoint primário de um estudo clínico é o endpoint para o qual os indivíduos são randomizados e para os quais o estudo é desenvolvido. Endpoints secundários são endpoints analisados post hoc, para os quais o teste pode não ser alimentado nem randomizado.
+Endpoints substitutos são endpoints de teste que têm resultados que substituem um desfecho clínico, geralmente porque o estudo do desfecho clínico é difícil, por exemplo, o aumento da pressão arterial como substituto da morte por doença cardiovascular, onde existem fortes evidências de um nexo de causalidade.
+
+
+== Escopo ==
+Em um sentido geral, um desfecho clínico é incluído nas entidades de interesse em um estudo. Os resultados de um ensaio clínico geralmente indicam o número de pessoas inscritas que atingiram o endpoint clínico pré-determinado durante o intervalo do estudo em comparação com o número total de pessoas que foram inscritas. Quando um paciente atinge o endpoint, ele geralmente é excluído de outras intervenções experimentais (a origem do termo endpoint).
+Por exemplo, um ensaio clínico que investiga a capacidade de um medicamento para prevenir um ataque cardíaco pode usar a dor no peito como desfecho clínico. Qualquer paciente inscrito no estudo que desenvolver dor no peito ao longo do estudo seria contado como tendo atingido esse objetivo clínico. Os resultados refletem, finalmente, a fração de pacientes que atingiram o objetivo de desenvolver dor no peito, em comparação com o número total de pessoas inscritas.
+Quando um experimento envolve um grupo de controle, a proporção de indivíduos que atingem o endpoint clínico após uma intervenção é comparada com a proporção de indivíduos no grupo de controle que atingiram o mesmo endpoint clínico, refletindo a capacidade da intervenção de impedir o endpoint em questão.
+Um estudo clínico geralmente define ou especifica um endpoint primário como uma medida que será considerada o sucesso da terapia que está sendo testada (por exemplo, na justificação de uma aprovação de marketing). O endpoint primário pode ser uma melhoria estatisticamente significativa na sobrevida global (OS). Um estudo também pode definir um ou mais endpoints secundários, como sobrevida livre de progressão (PFS), que serão medidos e deverão ser alcançados. Uma avaliação também pode definir endpoints exploratórios com menor probabilidade de serem alcançados.
+
+
+== Exemplos ==
+Os desfechos clínicos podem ser obtidos de diferentes modalidades, como escores comportamentais ou cognitivos ou biomarcadores da eletroencefalografia (qEEG), ressonância magnética, PET ou biomarcadores bioquímicos.
+Na pesquisa do câncer clínica, os objetivos comuns incluem descoberta de recorrência local, descoberta de metástase regional, descoberta de metástase distante, início de sintomas, hospitalização, aumento ou diminuição da necessidade de medicação para dor, início da toxicidade, necessidade de quimioterapia de resgate, exigência de cirurgia de resgate, exigência de radioterapia de resgate, morte por qualquer causa ou morte por doença. Um estudo de câncer pode ser desenvolvido para a sobrevivência geral, geralmente indicando o tempo até a morte por qualquer causa ou a sobrevivência específica da doença, em que o parâmetro é a morte por doença ou a morte por toxicidade.
+Eles são expressos como um período de tempo (duração da sobrevivência), por exemplo, em meses. Freqüentemente, a mediana é usada para que o endpoint do teste possa ser calculado assim que 50% dos indivíduos atingiram o endpoint, enquanto o cálculo de uma média aritmética só pode ser feito depois que todos os indivíduos atingiram o endpoint.
+
+
+=== Sobrevida livre de doença ===
+A sobrevida livre de doença é geralmente usada para analisar os resultados do tratamento para a doença localizada, que torna o paciente aparentemente livre da doença, como cirurgia ou cirurgia mais terapia adjuvante. Na sobrevida livre de doença, o evento é recaída e não morte. As pessoas que recaem ainda sobrevivem, mas não estão mais livres de doenças. Assim como nas curvas de sobrevida nem todos os pacientes morrem, nas "curvas de sobrevida livre de doença" nem todos os pacientes recaem e a curva pode ter um platô final representando os pacientes que não recidivaram após o acompanhamento máximo do estudo. Como os pacientes sobrevivem pelo menos algum tempo após a recaída, a curva para a sobrevivência real pareceria melhor do que a curva de sobrevida livre de doença.
+
+
+=== Sobrevida livre de progressão ===
+A sobrevivência livre de progressão é geralmente usada na análise dos resultados do tratamento para a doença avançada. O evento para a sobrevivência livre de progressão é que a doença piora ou progride ou o paciente morre por qualquer causa. Time to Progression é um endpoint semelhante que ignora os pacientes que morrem antes que a doença progrida.
+
+
+=== Duração da resposta ===
+A duração da resposta é ocasionalmente usada para analisar os resultados do tratamento para a doença avançada. O evento é progressão da doença (recidiva). Esse endpoint envolve a seleção de um subgrupo de pacientes. Ele mede a duração da resposta nos pacientes que responderam. Os pacientes que não respondem não são incluídos.
+
+
+=== Sobrevivência geral ===
+A sobrevida global é baseada na morte por qualquer causa, não apenas na condição sendo tratada; assim, ela capta a morte pelos efeitos colaterais do tratamento e pelos efeitos na sobrevida após a recaída.
+
+
+== Endpoint humano ==
+Um endpoint humano pode ser definido como o endpoint em que a dor e/ou angústia é encerrada, minimizada ou reduzida para uma entidade em um estudo (como um animal experimental), executando ações como matar o animal humanamente, encerrando um procedimento doloroso ou dar tratamento para aliviar a dor e/ou angústia. A ocorrência de um indivíduo em um estudo que tenha atingido pode exigir a retirada do estudo antes que o resultado desejado do interesse seja totalmente alcançado.
+
+
+== Endpoint substituto ==
+Um endpoint substituto (ou marcador) é uma medida do efeito de um tratamento específico que pode se correlacionar com um endpoint clínico real, mas não necessariamente tem um relacionamento garantido. Os Institutos Nacionais de Saúde (EUA) definem o desfecho substituto como "um biomarcador destinado a substituir um desfecho clínico".
+
+
+== Endpoint combinado ==
+Alguns estudos examinaram a incidência de um endpoint combinado, que pode mesclar uma variedade de resultados em um grupo. Por exemplo, o estudo de ataque cardíaco acima pode relatar a incidência do desfecho combinado de dor no peito, infarto do miocárdio ou morte. Um exemplo de um estudo de câncer desenvolvido para um endpoint combinado é a sobrevida livre de doença (DFS); os participantes do estudo que experimentam a morte ou a descoberta de qualquer recorrência constituiriam o ponto final. O General Treatment Utility é um exemplo de um endpoint composto multidimensional em ensaios clínicos de câncer.Em relação aos desfechos humanos, um desfecho combinado pode constituir um limiar em que há grau cumulativo suficiente de doença, sintomas, sinais ou anormalidades laboratoriais para motivar uma intervenção.
+
+
+== Taxas de resposta ==
+Cada estudo pode definir o que é considerado uma resposta completa (CR) ou resposta parcial (PR) à terapia ou intervenção. Portanto, os estudos relatam a 'taxa de resposta completa' e a taxa de resposta geral que inclui CR e PR.
+
+
+== Consistência ==
+Vários estudos sobre um tópico específico geralmente não abordam os mesmos resultados, dificultando tirar conclusões clinicamente úteis quando um grupo de estudos é analisado como um todo. A Iniciativa dos Principais Resultados em Saúde da Mulher (CROWN) é um esforço para padronizar os resultados.
+
+
+== Notas ==
+
+
+== Referências ==
+
+
+== Bibliografia ==
+AR Waladkhani. (2008). Conducting clinical trials. A theoretical and practical guide. ISBN 978-3-940934-00-0
+Sobrevida livre de progressão (PFS) e tempo para progressão (TTP) como desfechos substitutos para sobrevida global mediana (mOS) no câncer colorretal metastático (MCRC): análise de 34 ensaios clínicos randomizados (ECR) de quimioterapia de primeira linha
+
+
+== Ligações externas ==
+Clinical trial endpoints no Wayback Machine (arquivado 5 de outubro de 2011)
+Endpoints: como os resultados dos ensaios clínicos são medidos

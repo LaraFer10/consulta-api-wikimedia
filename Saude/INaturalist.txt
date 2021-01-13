@@ -1,0 +1,26 @@
+iNaturalist é um projeto científico e cidadão e uma rede social conectada de naturalistas, científicos e biólogos com o objetivo de construir e mapear a biodiversidade em todo o globo partilhando observações. As observações podem ser acrescentadas através da página web ou desde uma aplicação móvel. As observações achegam valiosos dados abertos a uma grande variedade de projectos investigadores cientistas, museus, jardins botânicos, parques, e outras organizações. Os utentes de iNaturalist contribuíram com mais de dois milhões de observações desde o sua criação em 2008, e o projeto foi chamado "um líder das aplicações móveis de história natural". e o projeto está considerado como "líder entre as aplicações móveis de história natural."
+
+
+== História ==
+iNaturalist.org começou em 2008 como um projeto final de Nate Agrin, Jessica Kline, e Ken-ichi Ueda, da Universidade de Califórnia, Berkeley. Nate Agrin e Ken-ichi Ueda continuaram trabalhando no sítio com Sean McGregor, um desenvolvedor de web. Em 2011, Ueda começou a colaborar com Scott Loarie, um sócio investigador da Universidade de Stanford e professor universitário em Berkeley. Ueda e Loarie são os atuais com co-directores de iNaturalist.org. A 24 de abril de 2014, iNaturalist.org fundiu-se com a Academia de Califórnia de Ciências. Em 2014, iNaturalist celebrou a sua observação um milhão.
+
+
+== Identificação automatizada de espécies ==
+Além das observações serem identificadas por outras pessoas na comunidade, o iNaturalist inclui uma ferramenta de identificação automatizada de espécies chamada "Visão computacional". As imagens podem ser identificadas através de um modelo de inteligência artificial que foi treinado no grande banco de dados das observações do "grau de pesquisa" no iNaturalist.  Um taxon mais amplo, como um gênero ou família, é normalmente fornecido se o modelo não puder decidir o que é a espécie. Se a imagem tiver pouca iluminação, estiver desfocada ou contiver vários assuntos, pode ser difícil para o modelo determinar a espécie e ela pode decidir incorretamente.  Múltiplas sugestões de espécies são normalmente fornecidas, com a que o software acredita que a imagem é mais provável no topo da lista.
+
+
+== Participação ==
+A partir de 4 de outubro de 2018, os usuários do iNaturalist contribuíram com mais de 15.900.000 observações de plantas, animais e outros organismos em todo o mundo, com mais de 88.000 usuários ativos nos últimos 30 dias. O iNaturalist é a aplicação preferida para dados de biodiversidade de origem coletiva no México e na África Austral.
+
+
+=== Desafio da Natureza da Cidade ===
+Em 2016, Lila Higgins, do Museu de História Natural do Condado de Los Angeles, e Alison Young, da Academia de Ciências da Califórnia, foram co-fundadoras do Desafio da Natureza da Cidade.  No primeiro Desafio, os naturalistas de Los Angeles e da área da baía de São Francisco documentaram mais de 20.000 observações com a plataforma iNaturalist. Em 2018, o desafio expandiu-se para um público global, com 68 cidades participantes de 19 países, com algumas cidades usando plataformas de ciência da comunidade além do iNaturalist para participar.  Em 4 dias, mais de 17.000 pessoas catalogaram mais de 440.000 observações da natureza em regiões urbanas em todo o mundo.
+
+
+== Referências ==
+
+
+== Ligações externas ==
+Página web oficial ((em inglês) )
+iNaturalist em Vimeo
+Apresentando iNaturalist por Suzanne Cadwell

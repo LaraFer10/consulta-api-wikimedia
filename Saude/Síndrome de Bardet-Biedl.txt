@@ -1,0 +1,106 @@
+Síndrome de Bardet-Biedl, ou simplesmente BBS, é uma doença genética relacionada ao prejuízo da
+expressão gênica de pelo menos um dos seguintes genes: BBS1, BBS2,
+BBS3, BBS4, BBS5, BBS6, BBS7, BBS8, BBS9, BBS10, BBS11, BBS12,
+BBS13 (FRITZZ), BBS14 (CEP290)que podem formar o BBSome ou as
+chaperonas. O complexo BBSome auxilia no IFT (Intraflagellar Transport, em inglês,ou Transporte Intraflagelar, em português) e é composto pelas
+proteínas BBS1, BBS2, BBS4, BBS5, BBS7, BBS8 e BBS9. As chaperonas,
+por sua vez, são as proteínas que regulam a atividade desse complexo e
+são representadas por BBS6, BBS10 e BBS12. A síndrome tem a obesidade como uma das características principais. A  grande  maioria  das  crianças  apresentam  hiperfagia  o que leva  a  obesidade. Há também moderado  atraso do desenvolvimento neurocognitivo e  atraso  de  caracteristicas  sexuais,  como  hipogonadismo.
+Ainda não existe tratamento para a doença, já que ela está relacionada diretamente à expressão gênica, embora os sintomas possam ser tratados. Um em cada 160 mil nascimentos tem a doença.
+
+
+== Sintomas ==
+Os sintomas mais freqüentes são: obesidade, retinopatias (doença degenerativa não
+inflamatória da retina) como a distrofia retiniana, polidactilia, problemas renais,
+hipogonadismo e retardo mental. Outros
+problemas também relacionados à BBS, porém
+menos freqüentes, são os seguintes: estrabismo,
+catarata, astigmatismo, anosmia (diferentes
+graus, com possível perda total, de sensibilidade
+olfativa), problemas auditivos, sindactilia
+(qualquer grau de fusão ou aderência – por meio
+de membranas – dos dedos das mãos ou pés,
+envolvendo as partes moles ou até estruturas
+ósseas), braquidactilia (encurtamento dos dedos),
+cardiomiopatia dilatada (causada pela hipertrofia
+do septo interventricular e do ventrículo
+esquerdo), situs inversus (inversão de órgãos
+internos), dificuldade com interações sociais
+(muitas vezes, associada à forma branda de
+autismo), deficiência nas sensações térmica e
+mecânica, diabete tipo II, hipertensão e
+hipercolesterolemia.
+
+
+== Causas moleculares dos sintomas principais ==
+1) Obesidade: pessoas com BBS tendem a ter maiores índices de massas corpóreas (IMC
+médio de 31,5 nas mulheres e 36,6 nos homens), maior quantidade de gordura visceral e
+baixa atividade locomotora, o que inclui baixo consumo energético. Devido à existência do
+baixo consumo energético e da hiperfagia, especulou-se que a obesidade da BBS poderia
+estar relacionada à leptina. A leptina é uma proteína com 167 aminoácidos expressa
+principalmente em adipócitos, de onde é lançada em direção à corrente sanguínea. Sua ação
+no SNC (sistema nervoso central) promove a perda de peso, com a redução da fome e aumento do gasto energético.
+Testes com os indivíduos afetados ressaltaram a hiperleptinemia, mostrando que a obesidade
+associada à síndrome não é devida à deficiência de leptina, mas sim, à resistência do
+organismo ao hormônio. Para encontrar a fonte dessa resistência, foram elaboradas 3
+hipóteses:
+1)A primeira se baseava no fato de a leptina não conseguir ser transportada do
+plasma sanguíneo ao cérebro. Esse transporte ocorre, em condições normais, por meio de
+receptores a leptina (denominados ObRb), que garantem o fluxo unidirecional do hormônio e
+são localizados no endotélio da vasculatura cerebral e no plexo coróide. Essa hipótese, no
+entanto, foi logo rechaçada, devido à presença de altos níveis de leptina no líquido
+cerebroespinhal e à continuidade do problema em questão mesmo após a aplicação de leptina
+diretamente ao ventrículo cerebral.
+2)A segunda hipótese era a de menor expressão gênica
+hipotalâmica dos receptores ObRb, a qual foi descartada pela simples averiguação dos índices
+de receptores ObRb na célula.
+3)A terceira e última hipótese, que foi considerada plausível,
+seria a existência de problemas na via de sinalização celular relacionada aos receptores
+ObRb. Isso porque os receptores ObRb não conseguem ser transportados para sua devida
+localização na membrana plasmática, em virtude da disfunção dos microtúbulos do axonema
+(com conseqüente problema no IFT), causada pela deficiência do complexo BBSome. Esses
+receptores ObRb, quando na sua localização correta, ativam a fosforilação da STAT-3, que,
+por sua vez, ativa a expressão do gene POMC nos neurônios POMC e inativa a expressão do
+genes AgRP e NPY nos neurônios NPY. Os índices de AgRP e de NPY (Neuropeptídeo Y) nas células de indivíduos
+com BBS não parecem ter sido influenciados. No entanto, a expressão gênica do POMC foi
+consideravelmente reduzida, explicando a falta de saciedade e a diminuição do consumo
+energético nessas pessoas.
+2) Distrofia Retiniana: doença degenerativa não inflamatória da retina que acarreta a
+perda progressiva de visão. Inicialmente, a visão noturna é a mais afetada, caracterizando a
+cegueira noturna. Em seguida, o quadro clínico se agrava com perda de visão periférica. Por
+fim, perde-se também a visão central. A evolução dessa doença é decorrente da inativação
+de pelo menos um dos genes BBS, o que causa a inibição do complexo BBSome (e, por
+consequência, o IFT é afetado). Isso, por sua vez, impede o correto endereçamento da
+rodopsina na célula, causando a apoptose dos fotorreceptores, com conseqüente degeneração
+da retina. Além disso, a inativação desses genes pode levar a defeitos na transmissão da
+informação sensorial dos fotorreceptores aos neurônios secundários.
+3) Polidactilia: acréscimo do número de dedos das mãos ou dos pés. Sua presença em
+indivíduos com BBS está relacionada à desregulação da via de sinalização celular Hh
+(Hedgehog) no período embrionário. Sabe-se que quanto maior a concentração de proteínas
+SHh (sonic hedgehog) maior será a probabilidade de polidactilia no local.4) Problemas Renais: os problemas renais mais freqüentes são rins com dimensões
+reduzidas e a presença de cistos corticais ou medulares. Os sintomas mais simples
+manifestados por problemas renais são a poliúria e a polidipsia. Esses problemas renais são
+decorrentes da desregulação da via de sinalização Wnt. Sabe-se que quanto maior a
+atuação da sinalização canônica maior será a probabilidade de formação de cistos renais.
+5) Hipogonadismo: atrofia do sistema reprodutivo, caracterizada pelo micropênis e
+diminuição do volume dos testículos no sexo masculino, e pela menarca tardia, dentre outros
+acometimentos, no sexo feminino.
+6) Desordens Neurológicas: as principais ocorrências são caracterizadas pela dificuldade
+em se sociabilizar (alguns médicos consideram como uma forma branda de autismo),
+perturbações na fala, depressão, imaturidade emocional, transtornos obsessivos compulsivos
+e dificuldade de aprendizado. Todas essas desordens neurológicas são oriundas da má
+formação dos cílios primários do SNC, que recebem e reconfiguram sinais formadores de
+neurônios, esculpem o plano corporal e formam, em última análise, o próprio cérebro.
+Obs.: apenas um único cílio de cada célula é responsável por essa recepção e
+reconfiguração dos sinais formadores de neurônios.
+
+
+== Referências ==
+
+http://www.ncbi.nlm.nih.gov/pmc/articles/PMC3130119/
+http://www.ncbi.nlm.nih.gov/pubmed/23599282
+http://www.ncbi.nlm.nih.gov/books/NBK1363/
+http://www.nature.com/ejhg/journal/v21/n1/full/ejhg2012115a.html
+http://www.news-medical.net/health/Bardet-Biedl-Syndrome-Symptoms.aspx
+http://www.news-medical.net/health/Bardet-Biedl-Syndrome-Pathophysiology.aspx
+http://www.scielo.br/pdf/abo/v66n5/18160

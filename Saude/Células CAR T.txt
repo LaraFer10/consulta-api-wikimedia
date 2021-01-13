@@ -1,0 +1,9 @@
+As células T quiméricas do receptor de antígeno (também conhecidas como células CAR-T) são células T que foram geneticamente modificadas para produzir um receptor artificial de células T para uso em imunoterapia. Receptores de antígeno quiméricos (CARs, também conhecidos como imunorreceptores quiméricos, receptores de células T quiméricos ou receptores de células T artificiais) são proteínas receptoras que foram projetadas para dar às células T a nova capacidade de direcionar uma proteína específica.
+A terapia com células CAR-T usa células T projetadas com CARs para terapia contra o câncer. A premissa da imunoterapia com CAR-T é modificar as células T para reconhecer as células cancerígenas, a fim de atingir e destruí-las de maneira mais eficaz. Os cientistas colhem células T das pessoas, alteram-nas geneticamente e depois injetam as células CAR-T resultantes nos pacientes para atacar seus tumores.
+
+
+== Tratamento de câncer ==
+As células T são geneticamente modificadas para expressar receptores quiméricos de antígeno direcionados especificamente para antígenos nas células tumorais de um paciente, depois infundidos no paciente onde atacam e matam as células cancerígenas.Os pesquisadores usaram o CRISPR juntamente com outra estratégia que incorpora novo DNA nas células imunológicas. A equipe de junho ajudou a ser pioneira nessa estratégia em 2010, quando adicionou DNA às células T de três homens com leucemia crônica e devolveu essas células aos pacientes. Os resultados foram notáveis: os dois homens ainda estavam vivos e saudáveis em 2020. Outros estavam testando a mesma abordagem, chamada terapia celular CAR-T - após o gene quimérico inserido do receptor de antígeno que ajuda as células T infundidas a se prenderem e destruirem as células cancerígenas. uma proteína específica em sua superfície. Duas terapias com células CAR-T foram aprovadas para pacientes com leucemia e linfoma.
+
+
+== Referências ==

@@ -1,0 +1,89 @@
+Os erros metabólicos hereditários (ou erros inatos do metabolismo) são distúrbios bioquímicos, geneticamente determinados, em que um defeito enzimático especifico produz um bloqueio metabólico que pode originar uma doença.
+
+
+== Características gerais ==
+
+
+=== Primeiras hipóteses sobre como atuam os genes ===
+O primeiro pesquisador a sugerir que os genes atuavam por meio de enzimas foi o médico inglês Archibald Garrod (1857–1939). Ele propôs uma hipótese para explicar a enfermidade conhecida como alcaptonúria, no começo do século XX, quando ainda se sabia pouco sobre genes e enzimas. A alcaptonúria é uma doença rara, em que a pessoa excreta na urina uma substância chamada alcaptona, que escurece em contato com o ar.
+Garrod havia examinado a genealogia de uma criança portadora de alcaptonúria, e o fato de os pais da criança serem primos em primeiro grau levou-o a pensar que a enfermidade poderia ser hereditária. Em 1902, após estudar, juntamente com Bateson, a genealogia de outros alcaptonúricos, Garrod concluiu que a doença devia ser condicionada por um alelo recessivo. 
+O pesquisador supôs que a alcaptona se formava em todas as pessoas. Os indivíduos normais transformavam essa substância em outra, enquanto os alcaptonúricos não conseguem fazer essa transformação devido à falta de uma enzima. Por isso, secretam alcaptona na urina.
+
+
+=== Observações de Garrod ===
+Quando Garrod utilizou o modelo mendelismo em pesquisa com humanos, baseado em seus estudos sobre a alcaptonúria, uma doença cujos pacientes não realizam determinada etapa metabólica, Garrod fez as seguintes observações:
+
+Um individuo tem ou não uma doença metabólica, inexistindo formas intermediárias. Portanto, os desvios da normalidade são marcantes.
+Essas doenças tendem a aparecer nos irmãos, mas não nos genitores de afetados.
+Ocorrem em famílias cuja consanguinidade parental está aumentada.
+Não estão sujeitas a grandes flutuações quanto a sua gravidade.
+Essas doenças são decorrentes de alterações enzimáticas.
+Alguns erros metabólicos são assintomáticos e não acarretam doenças, como, por exemplo, a redução da sensibilidade gustativa à feniltiocarbamida (PTC). Outros são assintomáticos, até que sejam evidenciados pela ingestão de certas substâncias, como a deficiência da enzima glicose-6-fosfato-desidrogenase(G6PD). Por outro lado, uma certa fração dos erros metabólicos é sintomática, mas não causa grandes problemas (por exemplo, a alcaptonúria).Com a demostração, a partir de meados da década de 1940, de que os genes atuam por meio do controle do metabolismo das células, a hipótese original de Garrod para explicar os erros inatos do metabolismo foi confirmada. A fenilcetonúria, a alcaptonúria e o albinismo são três doenças hereditárias causadas por alterações em genes que atuam no metabolismo da fenilalanina (ver aminoácido).
+
+
+== Genética ==
+São conhecidos mais de duzentos distúrbios metabólicos hereditários. A maioria é de herança autossômica recessiva; alguns são determinados por genes recessivos ligados ao cromossomo X (síndrome de Lesch-Nyhan, síndrome de Hunter) e raros os de herança autossômica dominante (porfiria hepática, uma das formas de hipercolesterolemia familiar) ou dominante ligada ao cromossomo X (deficiência de ornitina-carbamil-transferase), com outros mostrando, também, heterogeneidade genética.
+A herança recessiva da maioria das deficiências enzimáticas é compreensível, pois os níveis da maior parte das enzimas, nas células, não se limitam as reações. Isto é, o heterozigoto, com cerca de 50% do nível enzimático normal, geralmente é capaz de sintetizar o produto final da rota prejudicada, em quantidades normais. São exceções os casos em que os heterozigotos podem manifestar alterações clínicas; por exemplo, quando o produto gênico faz parte de um complexo multimérico. Por outro lado, quando as proteínas envolvidas são não-enzimáticas, como os receptores ou proteínas estruturais, seu padrão de herança é dominante, causando doenças mesmo quando o gene está em heterozigose, conforme se verifica entre as doenças hereditárias do colágeno.
+A maioria dos erros metabólicos hereditários em que seja identificado um produto gênico deficiente ou anormal pode ser diagnosticada pré-natalmente. Isso pode ser feito por análise bioquímica de aminoácidos cultivados, obtidos por meio de amniocentese, análise das vilosidades coriônicas ou estudo do DNA.
+
+
+== Mecanismos que reduzem a atividade enzimática ==
+
+O mecanismo processa-se em uma série gradativa de reações, cada etapa sendo catalisada por uma enzima específica.
+Normalmente, uma enzima catalisa a conversão de um substrato em um produto. A maior parte das enzimas (holoenzimas)  é composta de uma apoenzima, ligada a uma coenzima (geralmente vitamina), que é o principal componente de centro ativo da enzima.
+A via metabólica pode ser bloqueada em qualquer etapa, se a enzima necessária para esta estiver deficiente ou ausente. Essa alteração pode ser causada por vários mecanismos:
+
+mutação no gene estrutural que codifica a enzima pode acarretar, nos homozigotos, ausência da mesma ou produzir uma forma anormal, com atividade reduzida;
+mutação no gene regulador da taxa de produção de enzima pode levar a uma quantidade inadequada da enzima estruturalmente normal;
+degradação acelerada da enzima, levando à deficiência da enzima ativa;
+mutação que afeta a absorção ou biossíntese do co-fator, ou altera o seu o seu sítio de ligação, pode reduzir a atividade enzimática;
+quando a enzima é codificada por dois ou mais genes, uma mutação em um desses genes pode causar a inatividade enzimática, podendo diferentes loci mutantes ter o mesmo produto final.
+
+
+== Consequências patológicas dos defeitos enzimáticos ==
+Em qualquer rota de processo metabólico realizado no organismo, é suscetível de ocorrer um bloqueio enzimático, que pode ter as seguintes consequências.
+
+
+=== Ausência do produto final ===
+A ausência do produto final pode acarretar dois tipos de efeito:
+
+o próprio produto final pode ser substrato para uma reação subsequente que, então não se realiza;
+o mecanismo de controle do tipo inibição retroativa, que tal produto realizaria, encontra-se prejudicado.
+
+
+==== Albinismo oculocutâneo ====
+
+No tipo clássico desta condição de herança autossômica recessiva, a falta de tirosinase no melanócito bloqueia a via metabólica que leva a tirosina até a melanina por intermédio da DOPA (3,4-diidroxifenilalanina), não havendo, portanto, o pigmento melanina no cabelo, na pele e na íris. A pele é branco-leitosa, desenvolvendo eritemas intensos quando exposta ao sol. O cabelo é branco-amarelado e os olhos não tem pigmento na coroide, nem na retina, sendo a íris azul-acinzentada. Além disso, os afetados apresentam fotofobia, astigmatismo, nistagmoe diminuição da acuidade da pele. Os albinos em geral são suscetíveis ao câncer de pele. Os cuidados médicos consistem na proteção da pele contra os raios solares e no uso de óculos escuros e corretivos. 
+
+
+===== Frequência =====
+Em torno de um entre vinte mil indivíduos; frequência de heterozigotos: 1/75.
+
+
+=== Acúmulo do substrato ===
+O acúmulo do substrato pode acarretar duas consequências principais:
+
+o próprio substrato acumulado é prejudicial;
+dado o acúmulo do precursor, são utilizadas vias metabólicas alternativas, com superprodução de metabólitos tóxicos.Aqui, um dos exemplo é o da forma clássica da galactosemia. De herança autossômica recessiva determinada por um gene localizado no cromossomo 9p, que resulta da deficiência da enzima galactose-1-fosfato uridil-transferase, que normalmente converte a galactose-1-fosfato em glicose-1-fosfato. Nos homozigotos, esta etapa metabólica está bloqueada, acumulando-se galactose nas células sanguíneas, no fígado, no cérebro e nos rins.
+A frequência varia muito nos diferentes países, desde um em dez mil a um em cem mil, talvez devido a problemas relacionados com o diagnóstico e a amostragem.
+
+
+==== Alcaptonúria ====
+A alcaptonúria é causada pelo alelo recessivo de um autossômico localizado no cromossomo 3 humano. O alelo é raro na maioria das populações humanas.
+O gene cuja alteração causa alcaptonúria codifica a enzima chamada de oxidase do ácido homogentísico, responsável pela transformação desse ácido no ácido maleilacetoacético. O ácido homogentísico (ou alcaptona) acumula-se no sangue é eliminado na urina, que torna escura em contato com o ar; por isso o distúrbio metabólico e diagnosticado com facilidade.  
+A frequência de pessoas afetadas é da ordem de uma em cada 250 mil a um milhão de nascidos. Na Eslováquia, porém, ocorre um caso em cada dezenove mil nascidos. No entanto, é importante salientar a importância médica desta doença, porque poderá levar a deformidades físicas, insuficiência renal, alterações cardiovasculares e mesmo o óbito.
+
+
+== Interferências nos mecanismos reguladores ==
+A falta de um produto final ou o excesso de um substrato pode interferir nos mecanismos reguladores, causando vários tipos de doenças. Uma delas é a hipercolesterolemia hereditária, de herança autossômica dominante, caracterizada pela elevação do nível plasmático de colesterol. Este composto é importante na síntese das membranas celulares, hormônios e sais biliares. É insolúvel, sendo transportado como um complexo lipoproteico, principalmente como lipoproteína de baixa densidade. Este complexo pode ser obtido pela alimentação ou sintetizado por muitas células, mas é produzido pelo fígado. Normalmente, a LDL entra na célula por meio de receptores específicos da membrana plasmática, alojando-se nos lisossomos. Nessas organelas, o colesterol é separado da proteína e, como colesterol livre, desencadeia o aumento da atividade da acil coenzima A, inibe a síntese da b-hidroxi-b-metilglutaril coenzima  A-redutase e suprime a síntese dos receptores. Dessa forma, os níveis intracelulares de colesterol são mantidos por um sistema de regulação retroativa, no qual o colesterol livre inibe a síntese de receptores para a LDL a síntese endógena de colesterol.
+A prevalência dos homozigotos é basicamente menor do que um entre 250 mil recém-nascidos. A frequência dos heterozigotos é de um em quinhentos para os caucasoides, sendo mais alta entre os brancos da África do Sul (1%), provavelmente em decorrência do efeito fundador.
+
+
+== Referências ==
+
+
+== Bibliografia ==
+Genética Humana, Maria Regina Borges-Osório, Wanyce Miriam Robinson, 2006.
+Introdução à genética, Riffiths, Wessler, Lewontin, Gesbart, suzuki, Miller, 8º Edição, Guanabara Koogan, 2006.
+Biologia; José Mariano Amabis, Gilberto Rodriges Martho; Moderna; 2004
+Fernandes, John. Inborn metabolic diseases: diagnosis and treatment. NY, Springer, 2006 Google Books Jul. 2011

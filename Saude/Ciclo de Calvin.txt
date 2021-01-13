@@ -1,0 +1,6 @@
+O Ciclo de Calvin-Benson é a fase não dependente da luz da fotossíntese, que ocorre no estroma do cloroplasto (liquido que envolve os tilacoides).Nesta segunda etapa (fase química), é utilizado o ATP e o NADPH produzidos na etapa fotoquímica.
+O dióxido de carbono combina-se com uma pentose - ribulose difosfato (RuDP), originando um composto intermédio, instável, com seis carbonos. Devido à sua instabilidade, este composto origina de imediato duas moléculas de fosfoglicerato ou ácido fosfoglicérico (PGA), constituído por 3 carbonos. Estas duas moléculas são fosforiladas pelo ATP e posteriormente reduzidas pelo NADPH, a partir da fase dependente da luz. Estas reacções formam o aldeído fosfoglicérico (PGAL). Por cada doze moléculas de PGAL formadas, dez são utilizadas para regenerar a ribulose (fazendo assim voltar, após a fosforilação deste por 6 ATPs, o ciclo à etapa inicial). Duas moléculas são utilizadas para formar compostos orgânicos, como glícidos e outros, dando assim sentido à autotrofia da fotossíntese.
+As moléculas de ácido pirúvico resultantes da degradação da glicose penetram no interior das mitocôndrias, onde ocorrerá a respiração propriamente dita. Cada ácido pirúvico reage com uma molécula da substância conhecida como coenzima A, originando três tipos de produtos: acetil-coenzima A, gás carbônico e hidrogênios.
+
+
+== Referências ==

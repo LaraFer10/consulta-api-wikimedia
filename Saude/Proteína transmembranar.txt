@@ -1,0 +1,36 @@
+Uma proteína transmembranar é um tipo de proteína membranar que envolve a totalidade da membrana biológica à qual é permanentemente ligada - ou seja,  recobre essa membrana de um lado a outro, podendo cobrir  a bicamada lipídica uma vez (unipasso) ou várias vezes (multipasso).
+Podem-se distinguir três domínios nestas proteínas. Em primeiro lugar, uma zona que passa através da membrana, de características hidrofóbicas (que repele a água), e que interage com os lípidos da bicamada lipídica (membrana celular). Para além deste domínio, existe um citosólico e outro extracitosólico, que estão em contacto com o interior e exterior da célula respectivamente, de carácter hidrofílico. O resultado é uma proteína anfipática. Como proteína integral que é, só se pode isolar da bicamada lipídica mediante a aplicação de detergentes, como o SDS.Suas principais funções são: servir como canais transportadores de iões ou moléculas, como por exemplo as aquaporinas que transportam água através da membrana; recepção de sinais celulares, ancoragem ao citoesqueleto ou à matriz extracelular, etc.
+
+
+== Tipos de proteínas transmembranares segundo a sua estrutura ==
+
+
+=== Transmembranar unipasso ===
+Atravessa a bicamada lipídica uma única vez. O extremo N-terminal da proteína fica de um dos lados da membrana e o extremo C-terminal, do outro. Deste tipo são os receptor PTK, as enzimas do aparelho de Golgi etc. Um exemplo muito estudado é a glicoforina da membrana do eritrócito. Os domínios destas proteínas caracterizam-se por:
+
+Domínio transmembranarApresenta uma estrutura secundária em α-hélice, com um comprimento de 20 a 30 aminoácidos. Os resíduos laterais são  na sua grande maioria hidrofóbicos, como a alanina, leucina, isoleucina, entre outros, para poder interagir com o interior da bicamada lipídica por forças hidrofóbicas e de forças de van der Waals. É importante salientar que o interior da hélice está ocupado, e não serve como canal. Nos extremos da hélice, podem estar resíduos carregados electricamente, que interagem com a cabeça polar dos fosfolípidos da bicamada lipídica.
+
+Domínios não transmembranaresSão geralmente hidrofílicos e globulares, de dimensões variáveis, e que são mantidos mediante ligações de hidrogénio e forças electrostáticas. No domínio extracitosólico podem apresentar ligações dissulfito (-S-S-) e cadeias de oligossacarídeos, facto que não ocorre no domínio citosólico.
+
+
+=== Transmembranar multipasso ===
+
+Atravessam a bicamada lipídica por duas ou mais ocasiões, normalmente mediante varias α-hélices, ainda que haja casos de inserções através de folhas-beta. Existem muitos exemplos: receptores associados a proteínas G triméricas, canais iónicos, porinas em bactérias, e de novo no eritrócito, a proteína banda 3, proteína transmembranar multipasso que atravessa membrana com 12 α-hélices e com os seus extremos em direcção ao citosol.
+
+Multipasso em α-héliceEstas proteínas possuem tantas α-hélices quantas forem as vezes que atravessam a membrana. Estas hélices unem-se depois nos domínios citosólico e extracitosólico. As α-hélices podem servir unicamente como simples meio de ancoragem à bicamada lipídica ou podem formar um canal através do qual podem passar diversas substâncias. Neste último caso, as hélices possuem resíduos hidrofóbicos dirigidos para fora do canal e que interagem com a bicamada lipídica, e resíduos hidrofílicos dirigidos para o canal. Desta forma, muitas substâncias polares que, em ausência de proteínas, não poderiam cruzar a membrana, poderão fazê-lo através destes canais. Para poder formar um canal iónico, são necessárias, no mínimo, 5 α-hélices.
+As α-hélices podem mover-se, resvalando umas sobre as outras, para produzir uma modificação conformacional. Isto serve para regular a abertura de canais, transportar compostos por permeases e para a transdução de sinais.
+
+Multipasso em lâmina βMuito menos frequentes são os casos de proteínas transmembranares multipasso em lâmina β. Exemplos existem cloroplastos, mitocôndrias e em bactérias. A lâmina β só requer cerca de 10 aminoácidos para atravessar a bicamada lipídica. Existem proteínas com um número de lâminas β desde 8 até 22.
+Normalmente formam canais pelos quais atravessam diferentes solutos. É o caso dos poros da porina, uma proteína presente na membrana de algumas bactérias, assim como em mitocôndrias e cloroplastos, através dos quais passam substâncias com um peso molecular inferior a 800 Da, por difusão simples. A porina cruza a membrana com 16 lâminas β antiparalelas que simulam as aduelas de um barril. Essas lâminas alternam aminoácidos polares e apolares, sendo que os polares estão orientados para o lúmen do canal, e os apolares contactam com a parte hidrófoba da bicamada lipídica. Isto é uma diferença em relação às α-hélices.
+Não obstante, nem todas as proteínas multipasso em lâmina β actuam como canais. Existem enzimas em lâmina β, como a lipase OMPLA (do inglês outer membrane phospholipase A; em português,  'fosfolipase A da membrana externa')  e alguns receptores de membrana. Nestes casos, os resíduos polares das lâminas β obstruem o canal, impossibilitando esta função. A única função do barril é a da ancoragem à membrana.
+Diferentemente das α-hélices, as lâminas β unem-se entre si de uma forma mais rígida, impedindo as mudanças de forma, limitando assim a sua versatilidade.
+
+
+== Referências ==
+
+
+== Ver também ==
+Aquaporina
+Proteína G
+Proteína transmembranar
+Receptor transmembranar

@@ -1,0 +1,29 @@
+O hormônio da paratireoide, paratormônio (português brasileiro) ou hormona paratiroide, paratormona (português europeu) (PTH) é formado na glândula paratireóide e segregado na circulação sanguínea. A PTH intacta é composta por uma única cadeia polipeptídica com 84 aminoácidos e tem um peso molecular de aproximadamente 9500 daltons.
+O PTH provoca, juntamente com a vitamina D e a calcitonina, a mobilização de cálcio e de fosfato no sistema esquelético e aumenta a absorção de cálcio no intestino, assim como  a eliminação de fosfatos através dos rins. A constância do nível de cálcio no sangue é garantida pela ação conjunta da PTH e da calcitonina. A secreção de PTH é inibida pela elevadas concentrações de cálcio e promovida pelas baixas concentrações.
+O paratormônio estimula a atividade osteolítica (destruidora do cristal do osso) dos osteoclastos e a osteólise osteocítica (reabsorção de cálcio e fosfato em osso ainda não mineralizado); aumenta a absorção renal de cálcio; aumenta a absorção de vitamina D e a síntese de 1,25(OH)2 Vitamina D; e absorção intestinal de cálcio, o que se traduz num incremento rápido e sustentado da quantidade de cálcio no sangue.
+Também tem influência na concentração sanguínea de fosfato, aumentando a excreção renal deste íon pela diminuição da sua absorção nos túbulos renais e isso pode ser fatal.
+
+
+== Metabolismo e modo de ação ==
+O PTH é secretado pelas células principais das glândulas paratiroides. A sua síntese inicia-se nos ribossomas, sendo traduzida na forma de Pré-proPTH. O fragmento pré permite o transporte e co-tradução para o RER, onde sofre proteólise  e é removida a sequência final. A proPTH é posteriormente transportada para o complexo de Golgi da paratiroide onde ocorre a formação final da PTH. Esta tem, então, 3 destinos possíveis: armazenamento, degradação ou secreção imediata.
+
+
+== Síntese, secreção e metabolismo ==
+A biossíntese de PTH e a sua subsequente degradação são reguladas pela concentração sérica de  Ca2+ e pelos níveis de calcitriol, a vitamina D activa.  
+A diminuição do Ca2+ sérico resulta num aumento do mRNA da PTH e, consequentemente, num aumento da síntese de PTH. Além disso, a síntese de PTH é também condicionada pelos níveis de calcitriol, já que este, quando em níveis elevados, pode ligar-se a um receptor que inibe a transcrição do gene da PTH. Uma vez que a produção de calcitriol é promovida pela 1α-hidroxilase, enzima dependente da PTH, está evidente a presença de um feedback negativo. 
+A maior parte do mecanismo de proteólise da PTH ocorre na tiróide, podendo também sofrer proteólise noutros tecidos, como no fígado por acção das células de Krupffer. 
+A secreção é dependente da concentração sérica de Ca2+. A ligação de Ca2+ a um receptor associado a uma proteína G promoverá a libertação de Ca2+ dos locais de armazenamento e a activação da proteína cinase C, levando a um aumento da [Ca2+] intracelular, que por sua vez levará à inibição da secreção hormonal.
+
+
+== Ação da PTH ==
+A PTH atua ao nível do rim, do osso e do intestino.
+Os órgãos sobre os quais a PTH atua possuem células com receptores membranares da PTH associados à proteína G que estimulam a proteína cinase A, que tem ação ao nível dos canais de Ca2+ da membrana celular, e a fosfolipase C, que produz IP3 e DAG. O IP3 leva à libertação de Ca2+ do retículo endoplasmático, cujo aumento intracelular activa as cinases dependentes de Ca2+. 
+A PTH atua ao nível do osso, provocando o aumento da reabsorção óssea pela activação dos osteoclastos que, por sua vez, libertam citoquinas que promovem a diferenciação de percursores de osteoblastos em osteoclastos. 
+A PTH atua também ao nível do rim, onde aumenta a actividade da 1α-hidroxilase (responsável pela produção de calcitriol) e promove o aumento da reabsorção de Ca2+ e a diminuição da reabsorção de Pi.
+A nível intestinal, como a PTH promove a formação de vitamina D ativa, vai levar ao aumento indireto da absorção de Ca2+ e Pi.
+Em casos de dietas prolongadas com deficiência de Ca2+, a PTH evita a hipocalcémia à custa da degradação do osso/reabsorção óssea.
+
+
+== Referências ==
+
+Boron, Walter F.; Boulpaep, Emile L. (2012). Medical Physiology (2e Updated Edition).

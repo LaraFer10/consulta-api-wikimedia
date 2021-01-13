@@ -1,0 +1,4 @@
+Sistema de quebra Cas9 ativado por luz vermelho extremo ou FACE (far-red light–activated split-Cas9 system) é um sistema que pode induzir de maneira robusta a edição de genes em células de mamíferos através da iluminação de luz vermelho extremo (FRL-Cas9) baseada em diodo emissor de luz. O sistema FAST, um sistema similar ao CRISPR/Cas, pode ser implantado para edição de genes de tecidos profundos programáveis em contextos biológicos e biomédicos, visando alta precisão e especificidade espacial. O dispositivo FRL-Cas9 também pode ser usado para eliminar oncogenes no modelo de camundongo portador de tumor para terapia do câncer simplesmente por iluminação.O dispositivo FACE é biocompatível e atende aos critérios de aplicação médica segura em humanos, fornecendo uma estratégia de diferenciação robusta para produção em massa de células neurais funcionais a partir de células-tronco pluripotentes induzidas simplesmente utilizando um feixe de FRL.
+
+
+== Referências ==

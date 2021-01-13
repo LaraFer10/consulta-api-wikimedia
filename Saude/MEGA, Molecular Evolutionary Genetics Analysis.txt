@@ -1,0 +1,11 @@
+MEGA, Molecular Evolutionary Genetics Analysis, é um software livre disponível para ajudar cientistas e estudantes na elaboração de dendrogramas ou árvores filogenéticas usando sequências de nucleótidos ou proteínas. É desenvolvido por Koichiro Tamura da Tokyo Metropolitan University, Daniel Peterson, Nicholas Peterson, Glen Stecher, Sudhir Kumar da Arizona State University, e Nei Masatoshi da Pennsylvania State University. Os manuscritos descrevendo este recurso estão entre os mais citados em biologia.
+Atualmente MEGA está disponível em sua versão regular 5.2.2 e versões anteriores (4.02, 3.1, DOS) em sua homepage.
+
+
+== Ligações externas ==
+Fórum de discussão MEGA.
+MEGA, um software disponível gratuitamente
+MEGA: A biologist-centric software for evolutionary analysis of DNA and protein sequences. (2008) Kumar S, Dudley J, Nei M & Tamura K. Briefings in Bioinformatics Vol.9, pages 299-306 weblink.
+
+
+== Referências ==

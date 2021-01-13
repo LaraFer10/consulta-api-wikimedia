@@ -1,0 +1,84 @@
+Um coração artificial é um dispositivo implantável que substitui as duas câmaras inferiores do coração, chamadas de ventrículos. O paciente pode se beneficiar do coração artificial se ambos ventrículos não funcionam em decorrência de insuficiência cardíaca em estágio final. Até há pouco tempo, para muitos pacientes com insuficiência cardíaca, a única opção era o transplante de coração. Porém, pouco mais de 2000 transplantes cardíacos são feitos anualmente nos Estados Unidos, enquanto dezenas de milhares de pessoas morrem anualmente à espera de um doador de coração. Um coração artificial geralmente estende a vida por meses além do esperado para um paciente com insuficiência cardíaca em estágio final. Se o paciente estiver aguardando por transplante de coração, o coração artificial pode mantê-lo vivo enquanto espera pelo doador. O dispositivo também pode melhorar a qualidade de vida. Porém, é um aparelho muito complexo, difícil de implantar, e que pode causar complicações. 
+
+
+== História ==
+A ideia de inventar um coração artificial já existia há mais de cem anos. Nos início do século XIX, os médicos já tentavam conservar os órgãos bombeando sangue através deles. Porém, este procedimento era falho, e fracassava porque ainda não se conhecia a necessidade de oxigenar o sangue para conservar as células.
+Isso mudou quando John Gibbon criou uma máquina capaz de fazer as duas coisas ao mesmo tempo: o coração-pulmão artificial. Isto é, durante o tempo da cirurgia, em que o coração tem que ser "desligado" do sistema circulatório, o sangue passa por uma "bomba oxigenadora".
+
+
+=== Em Portugal ===
+O primeiro implante de um coração artificial definitivo foi realizado no Hospital de Santa Marta, em Lisboa-Portgal, em março de 2017. A cirurgia foi efetuada em um homem de 65 anos, que sofre de doença renal grave, e que impedia um transplante com coração doado.
+
+
+== Funcionamento ==
+Essa “bomba oxigenadora” é usada desde a década de 1950 em cirurgias que exigem a abertura do coração, sejam coronarianas, de ponte de safena e até mesmo em crianças. Em primeiro lugar, o paciente recebe a anestesia geral, é entubado (respiração artificial) e depois recebe os catéteres que vigiarão a pressão nas veias e artérias.
+Só então é aberto o peito e o sangue é desviado, antes de chegar ao coração, para o coração-pulmão artificial. Essa máquina de circulação extracorpórea é composta de várias partes. Num reservatório, o sangue tem sua temperatura reduzida de 37°C para cerca de 29°C. Resfriados, os órgãos conseguem resistir melhor ao tempo sem o coração. Depois, o sangue passa por um “oxigenador” e vários filtros, até retornar à artéria aorta, numa velocidade programada na máquina.
+Durante o tempo em que dura a cirurgia, a pressão sanguínea tem que ser constantemente controlada. Mas para que tudo isso funcione, o paciente recebe um anticoagulante. Se não, seu sangue coagularia na máquina e haveria o risco de tromboses que poderiam ser fatais. Concluída a cirurgia, a temperatura do sangue volta a ser elevada e o coração é "religado" ao sistema.
+
+
+== O Jarvik-7 ==
+
+Em 1982, o dr. William Devries implantou o Jarvik-7, o primeiro aparelho projetado para ser um coração totalmente artificial. A cirurgia foi feita na Universidade de Utah, e o paciente era o dr. Barney Clark, um dentista de Seattle. Clark viveu 112 dias com o coração antes de sucumbir às complicações causadas pelo aparelho.
+
+O Jarvik-7 era um coração movido a ar, projetado pelo dr. Willem Kolff e o dr. Don Olsen. O coração Jarvik-7 exigia vários fios externos, que se projetavam do paciente e se conectavam a uma grande unidade externa. Estes fios causaram várias infecções em Clark.
+Mais quatro pacientes receberam o Jarvik-7 antes de sua fabricação ser suspensa por causa de complicações, incluindo derrame, falha mecânica e problemas de adaptação anatômica. Desde então, ele foi aprimorado e rebatizado, e agora se chama coração CardioWest. Ele é usado apenas em situações experimentais enquanto o paciente aguarda o transplante.
+
+
+== AbioCor ==
+No dia 2 de julho de 2001, pacientes com insuficiência cardíaca tiveram suas esperanças renovadas quando cirurgiões no Jewish Hospital em Louisville, Kentucky, realizaram o primeiro transplante de coração artificial em quase duas décadas. O coração artificial para implante AbioCor é o primeiro coração totalmente artificial e há a expectativa de que ele, no mínimo, dobre a expectativa de vida de pacientes cardíacos.
+O coração AbioCor é composto de titânio e plástico, e seu sistema completo pesa cerca de 0,9 kg. Para seu funcionamento, conecta-se a quatro locais:
+
+átrio direito
+átrio esquerdo
+aorta
+artéria pulmonar
+
+
+=== Componentes do sistema ===
+O AbioCor, produzido pela Abiomed, é um aparelho médico muito sofisticado, uma grande evolução em relação ao coração-pulmão artificial, mas seu mecanismo central é a bomba hidráulica que envia fluido hidráulico de um lado a outro. Os componentes do sistema são:
+
+Bomba hidráulica - a ideia fundamental deste dispositivo é semelhante às bombas hidráulicas usadas em equipamentos pesados. A força que é aplicada em um ponto é transmitida a outro com o uso de um fluido incompressível. A engrenagem dentro da bomba gira a 10 mil rotações por minuto (rpm), para criar pressão.
+Válvula de ligação - esta válvula abre e fecha para permitir o fluxo de fluido hidráulico de um lado do coração artificial para o outro. Quando o fluido se move para a direita, o sangue é bombeado para os pulmões através de um ventrículo artificial. Quando o fluido se move para a esquerda, o sangue é bombeado para o resto do corpo.
+Sistema de transferência de energia sem fio - também denominado transferência de energia transcutânea (TET), este sistema consiste de duas espirais, uma interna e outra externa, que transmitem potência por meio de força magnética de uma bateria externa através da pele sem perfurar a superfície. A espiral interna recebe a potência e a envia à bateria interna e ao dispositivo de controle.
+Bateria interna - uma bateria recarregável é implantada dentro do abdome do paciente. Isso dá ao paciente 30 a 40 minutos para realizar certas atividades, como tomar banho, enquanto estiver desconectado do pacote da bateria principal.
+Bateria externa - esta bateria é envolvida em um cinto de velcro colocado em torno da cintura do paciente. Cada bateria recarregável proporciona cerca de quatro a cinco horas de energia.
+Dispositivo de controle - este pequeno dispositivo eletrônico é implantado na parede abdominal do paciente. Ele monitora e controla a velocidade de bombeamento do coração.A cirurgia para implantar o coração artificial AbioCor é delicadíssima. Além de os cirurgiões removerem os ventrículos direito e esquerdo do coração natural, eles também colocam um corpo estranho no peito do paciente. O paciente precisa ser acoplado a uma máquina de circulação extra-corpórea, da qual será separado posteriormente. A cirurgia exige centenas de pontos, para prender adequadamente o coração aos ventrículos artificiais. Enxertos ligam o AbioCor às partes restantes do coração natural. Os enxertos são um tipo de tecido sintético usado para ligar o dispositivo artificial ao tecido natural do paciente.
+Em consequência da complexidade da cirurgia, há muitos profissionais da área médica presentes durante a operação. A cirurgia feita em 2 de julho de 2001, a primeira deste tipo no mundo, contou com uma equipe de dois cirurgiões liderando, 14 enfermeiras, perfusionistas, anestesistas e outros profissionais da equipe.
+Originalmente, executivos da Abiomed alertaram contra resultados muito otimistas; as previsões mais otimistas eram de que um paciente viveria até seis meses com o coração AbioCor. O aparelho é projetado apenas para dobrar a expectativa de vida de pacientes que teriam somente cerca de 30 dias de vida antes da operação.
+Todos os 12 pacientes que receberam o AbioCor foram selecionados pela U.S. Food and Drugs Administration (F.D.A.), por terem os problemas de insuficiência mais grave e menor expectativa de vida, sendo considerados os “mais doentes dos doentes”. 
+Ainda não se sabe os resultados do AbioCor em algum paciente com maior expectativa de vida, pois  o AbioCor destina-se a pacientes com insuficiência cardíaca no estágio final, cujas outras opções de tratamento tiverem sido esgotadas, segundo a própria fabricante do coração, a Abiomed.
+Atualmente, há entre 2 e 3 milhões de americanos com insuficiência cardíaca, e 400 mil novos casos são diagnosticados anualmente. A insuficiência cardíaca causa 39 mil óbitos por ano, segundo o National Heart, Lung, and Blood Institute (NHLBI). 
+A maioria das pessoas diagnosticadas com insuficiência cardíaca tem expectativa de vida de cinco anos, e precisa de um transplante de coração para prolongar a vida.
+
+Só nos Estados Unidos, foram feitos 2.143 transplantes em 2003. Contudo, milhares de candidatos potenciais morrem anualmente à espera de um transplante de coração. Os médicos ainda incentivam a população a doar órgãos, mas o AbioCor pode salvar muitos daqueles que não têm a opção de um transplante natural ou não podem esperar pela disponibilidade de um doador.
+
+
+== LVAD (Texas Heart Institute) ==
+Uma equipe médica do Instituto do Coração do Texas, nos Estados Unidos, obteve sucesso em uma experiência pioneira: implantou, em um paciente em estado terminal, um novo modelo pioneiro de coração artificial formado por duas bombas de fluxo contínuo em forma de turbinas. Elas foram capazes de manter o receptor do dispositivo vivo durante trinta dias sem produzir um único pulso cardíaco ou sem que fosse detectado qualquer sinal sonoro em um aparelho de eletrocardiograma.
+O paciente, o norte-americano Craig Lewis, sofria de uma rara doença conhecida como amiloidose, na qual seu coração sofreu acúmulo de uma substância proteica rara chamada amiloide. Pessoas nessa condição não são candidatos a se submeterem a um transplante de coração, pois a amiloide teria grande chance de reincidir no novo órgão transplantado. Antes de se sujeitar à experiência, Lewis sobrevivia graças a uma bomba externa de sangue, uma máquina de diálise, e uma máquina de respiração. Menos de uma semana após o implante do dispositivo, Lewis foi capaz de sentar-se na cama e falar com seus familiares. Entretanto, tudo o que se podia ouvir quando se colocava a cabeça no lado esquerdo do peito era um zumbido. Lewis faleceu um mês depois da cirurgia, porém, Segundo os médicos, isso aconteceu devido ao avanço da doença sobre outros órgãos, já que o implante continuava funcionando de forma eficaz.
+
+
+=== Funcionamento ===
+A novidade utiliza duas turbinas para distribuir o sangue pelo corpo e já foi testada com sucesso em pacientes humanos.
+Habitualmente, os corações artificiais são utilizam métodos de bombeamento para replicar o método de funcionamento de um coração humano. O problema é que estes requerem muitas peças mecânicas em seu interior, agravando as probabilidades de falharem. Já o novo dispositivo, chamado de LVAD (Left Ventricular Assist Device), usa um método mais direto para distribuir nutrientes pelo corpo. Segundo os médicos, o único motivo pelo qual o órgão bate é por questões de nutrição, processo que acontece no intervalo entre as pulsações. 
+A escolha da equipe por turbinas se deu pelo fato de elas realizarem movimentos mais simples do que os equipamentos convencionais, o que aumenta sua eficácia e reduz a necessidade de manutenções. A novidade foi construída a partir de implantes conhecidos como dispositivos de assistência ventricular, muito usados em operações rotineiras que envolvem obstruções no coração. Bully Cohn e Bud Frazier acreditam que a busca pelo coração artificial perfeito poderá ter chegado ao fim. Com apenas um simples rotor em cada turbina, esta máquina não se desgasta, não avaria e não provoca coágulos ou infeções.
+
+
+=== Obstáculos ao projeto ===
+Segundo a equipe que desenvolveu o LVAD, a principal dificuldade enfrentada para estabelecer o implante como opção viável são os conceitos a que estamos acostumados, afinal, a pulsação é utilizada para definir se a pessoa está viva ou não. Eles afirmam que deve demorar algum tempo até as pessoas se acostumarem com seres vivos sem nenhum pulso, porém creem que isso poderá tornar-se algo normal, após a comprovação a eficiência dos equipamentos.
+
+
+== Resultados dos corações artificiais ==
+O equipamento do Texas Heart Institute já foi testado com sucesso em animais de grande porte, caso da vaca Abigail que mora no laboratório de pesquisa dos médicos, além de ter aumentado o tempo e a qualidade de vida de Craig Lewis. O animal teve seu coração substituído pelo novo implante que, até o momento, não apresentou qualquer problema de desempenho.
+O AbioCor também apresentou resultados satisfatórios, conseguindo fazer com que seus pacientes, que tinham uma expectativa de vida de cerca de 30 dias, vivessem em média mais 5 meses após o implante. O caso mais surpreendente foi de Tom Christerson, segundo paciente a receber o coração artificial, que tinha 70 anos de idade e poucas chances de sobreviver mais 30 dias. Com o AbioCor, porém, Christenson viveu um total de 17 meses após receber o dispositivo.
+Com estes resultados positivos, principalmente com o dispositivo do Texas Heart Institute, há a esperança dos criadores do projeto de que, em breve, o coração artificial passe a ser uma alternativa viável, e que possa também salvar milhares de vidas, de pessoas à espera de um transplante.
+
+
+== Referências ==
+
+Abiomed - AbioCor
+CALENDÁRIO HISTÓRICO - 1951: Coração-pulmão artificial
+How Stuff Works - Como funciona o Coração artificial
+Tecmundo - Coração artificial mantém usuário vivo mas sem pulsação
+TDUG - Novo coração artificial permite viver sem pulso
+Tribuna da Bahia - Nos EUA, coração artificial que não bate mantém homem vivo por 30 dias

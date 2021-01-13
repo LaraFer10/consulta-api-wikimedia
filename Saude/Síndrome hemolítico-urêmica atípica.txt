@@ -1,0 +1,71 @@
+A síndrome hemolítico-urêmica atípica (SHUa) é uma doença rara, grave, sistêmica e fatal, com uma evolução negativa. A SHUa afeta crianças e adultos e está associada à microangiopatia trombótica (MAT). A MAT resulta da formação de coágulos em pequenos vasos sanguíneos ao longo de todo o corpo que podem levar a complicações sistémicas em vários órgãos.  A SHUa é causada principalmente pela ativação crónica e descontrolada do sistema complemento, um componente do sistema imunitário que combate as infecções e serve como máquina de limpeza endógena de células mortas. Normalmente, o sistema complemento é altamente autorregulado por determinadas proteínas que controlam os seus efeitos destrutivos mas, no caso da SHUa, esta regulação está comprometida — devido principalmente às mutações em proteínas reguladoras do complemento. Perturbações nestes mecanismos de controlo podem levar à uma sobreativação do sistema complemento que, subsequentemente, origina lesões nos próprios tecidos corporais. O rápido diagnóstico da doença e o início precoce do tratamento apropriado melhoram os resultados e possivelmente reduzem os riscos associados à MAT e consequentes complicações fatais, tais como insuficiência renal, acidente vascular cerebral ou ataque cardíaco.
+
+
+== Nomenclatura ==
+A SHUa é uma forma da SHU (síndrome hemolítico-urêmica), que se apresenta majoritariamente em adultos e aparece em criança em apenas 5 a 10% dos casos. A maioria dos casos de SHU em crianças são provocados por uma infeção pela bactéria Escherichia coli produtora da toxina Shiga, sendo esta forma designada por SHU-ECTS (muitas vezes referida como (D+)SHU). Em algumas publicações a SHUa foi descrita como uma síndrome hemolítico-urémica sem diarreia ((D-)SHU). Contudo, esta nomenclatura pode ser considerada enganadora, pois até 30% dos pacientes apresentaram sinais de diarreia. Foi sugerido que a terminologia da (D-)SHU seja retirada.
+
+
+== Epidemiologia ==
+A SHUa pode ser esporádica ou familiar, e não parece variar com a etnia, o género ou a área geográfica. Como é expectável para uma doença rara, os dados sobre a incidência dessa síndrome são limitados. Um registo europeu que envolveu 167 pacientes pediátricos documentou 3,3 casos por milhão de crianças, com taxas mais baixas entre os adultos. Um estudo recente que envolveu 214 pacientes com SHUa apresentou ocorrências semelhantes na infância (41,6%) e na idade adulta (58,4%). O site da internet Orphanet (um portal para doenças raras e medicamentos órfãos) reporta uma prevalência de 1 a 9 casos por milhão de pessoas.
+
+
+== Patogénese ==
+A SHUa é induzida por uma ativação crónica e descontrolada do complemento levando à lesão endotelial e do órgão alvo. Em indivíduos saudáveis, o sistema complemento é responsável por atacar e destruir agentes patogénicos, como por exemplo bactérias, vírus ou células corporais alteradas e remover restos celulares. Consiste em três vias diferentes: via clássica, via da lectina e via alternativa. Enquanto as duas primeiras vias ocorrem como resultado de ligação a complexos imunes ou a microrganismos, respectivamente, a via alternativa está constantemente ativada, causando, assim, uma indução contínua do complexo de ataque à membrana (MAC) que provoca lise da célula.Por isso, é essencial que o corpo controle rigorosamente o sistema complemento de forma a evitar danos nos tecidos e órgãos saudáveis. Mutações genéticas das proteínas reguladoras do complemento (por exemplo, CFH, CFB, CFI, MCP, CFHR 1/3 e trombomodulina) perturbam o frágil equilíbrio da via do complemento na SHUa. A atividade contínua e descontrolada do complemento resulta em dano das células endoteliais (células que revestem os vasos sanguíneos). A ativação sustentada subsequente das plaquetas e dos leucócitos provocam MAT e, consequentemente, isquemia, inflamação dos vasos sanguíneos que originam danos irreversíveis dos tecidos, falha de vários órgãos e, muitas vezes, a morte. A maioria das mutações tem uma penetrância de aproximadamente 50% e os fatores ambientais também parecem desempenhar um papel importante na patogénese.
+
+
+== Apresentação clínica ==
+A SHUa apresenta-se muitas vezes com sintomas não-específicos, tais como indisposição e fadiga. Mais da metade dos pacientes apresenta lesões nos rins incluindo doença renal terminal (DRT). Os sinais e sintomas comuns são creatinina elevada, oligúria, edema,  hipertensão arterial, redução da taxa de filtração glomerular estimada (TFGe)  ou proteinúria.
+Outros sistemas, excluindo os rins, podem apresentar sintomas, incluindo pródromos: 
+
+Um terço dos pacientes apresenta eventos trombóticos fora dos rins
+Sistema nervoso central: cerca de um em cada dois pacientes apresenta sinais e sintomas relacionados com o cérebro e com o sistema nervoso: confusão, acidente vascular cerebral,  convulsão, coma, ou encefalopatia
+Aparelho cardiovascular: cardiomiopatia ocorre em 43% dos pacientes com SHUa; também foram reportados casos de enfarte do miocárdio (ataque cardíaco) hipertensão (pressão alta), ou vasculopatia difusa
+Aparelho gastrointestinal: 37% dos pacientes apresenta sinais e sintomas gastrointestinais: colite, dores abdominais, pancreatite, vómitos, gastroenterite, necrose hepática, ou diarreia
+Complicações visuais: oclusão ocular (derrame ocular)
+Pele: lesões na pele, úlceras, erupção cutânea petequial
+Complicações pulmonaresAlgumas doenças levam os pacientes com SHUa à um risco elevado de manifestações de MATs.. Os pacientes com SHUa apresentaram manifestações de MAT em condições como:
+Diarreia/gastroenterite
+Infeções do trato respiratório superior
+MAT associada à gravidez
+Hipertensão maligna
+MAT associada ao transplante
+Glomerulopatia
+Doenças sistémicas, por exemplo, lúpus eritematoso sistêmico (LES) e esclerodermia
+Malignidade
+
+
+== Prognóstico ==
+Os pacientes com SHUa têm um prognóstico pouco favorável em longo prazo. Cerca de 79% dos pacientes com SHUa morrem ou ficam com lesões renais permanentes num espaço de três anos, apesar de receberem cuidados médicos. 
+O transplante renal em pacientes com SHUa com doença renal terminal é raramente considerado devido à alta incidência de recorrência da doença e falência do enxerto em cerca de 90% dos pacientes com nova MAT.  Consequentemente, a maioria dos pacientes com SHUa com doença renal terminal são submetidos a diálise crónica, o que está associado a um prognóstico pouco favorável. O transplante combinado de rim e fígado já foi tentado em pacientes com SHUa mas este procedimento complexo apresenta uma taxa de mortalidade muito elevada (um em cada dois casos).
+
+
+== Diagnóstico ==
+A SHUa manifesta-se de acordo com as características clínicas da MAT (trombocitopenia, hemólise microangiopática e sintomas de disfunção orgânica). Contudo, a SHUa não é a única doença que causa MAT sistémica, o que acentua a importância de um diagnóstico diferencial. As outras grandes MATs são a púrpura trombocitopénica trombótica (PTT) e a síndrome hemolítico-urêmica devida à Escherichia coli produtora de toxinas Shiga (SHU-ECTS).
+Após confirmação da MAT utilizando valores laboratoriais para a trombocitopenia e para a hemólise microangiopática, além de medidas sintomáticas para a disfunção orgânica, é essencial diagnosticar a causa subjacente da doença. Um teste de atividade da ADAMTS13 pode confirmar a PTT ou a SHUa enquanto um teste de toxinas Shiga pode detetar a SHU-ECTS:
+Uma atividade de ADAMTS13 igual ou inferior a 5% confirma um diagnóstico de PTT
+Um teste positivo de toxinas Shiga em amostras de fezes e a evidência de infeção por ECTS em amostras serológicas confirma um diagnóstico de SHU-ECTS 
+Uma atividade de ADAMTS13 superior a 5% e a ausência de toxinas Shiga em amostras de fezes aumenta a probabilidade de um diagnóstico de SHUa positivoNa ausência de resultados de ADAMTS13, é possível recorrer aos níveis de creatinina sérica e à contagem de plaquetas para prever a atividade de ADAMTS13 em pacientes com MAT. Um nível de creatinina sérica >150–200 μmol/l (>1,7–2,3 mg/dl) em adultos ou uma contagem de plaquetas de >30 000/mm3 eliminam praticamente um diagnóstico de deficiência grave de ADAMTS13 e, consequentemente, de PTT.
+Embora a SHUa seja uma doença predominantemente genética, 30–50% dos pacientes não apresentam uma mutação genética identificável. Por conseguinte, os testes genéticos não são uma alternativa confiável no diagnóstico da doença. Nem todas as mutações genéticas conhecidas têm implicações no prognóstico. Por esta razão, e dada a disponibilidade limitada de testes genéticos devido aos elevados custos implicados e à morosidade da análise dos resultados, tal teste não é adequado para a avaliação inicial e gestão da SHUa.
+
+
+== Tratamento ==
+
+
+=== Substituição/perfusão de plasma (SP/PP) ===
+Embora a SP/PP seja frequentemente utilizada, não há ensaios controlados que atestem a sua segurança e eficácia no tratamento da SHUa. Alguns pacientes apresentaram melhorias em termos hematológicos mas, apesar da aplicação inicial de SP/PP, verificou-se a persistência de desregulação complementar e MAT em outros pacientes. Isto pode dever-se ao facto de que a SP/PP não é suficiente para remover fatores de mutação complementar ou substituir fatores deficientes, implicando que a SP/PP produz uma resposta clínica limitada. 
+A American Society for Apheresis atribui um grau de recomendação 2C/fraco à SP/PP para tratamento da SHUa devido à qualidade «baixa» e «muito baixa» de evidências que comprovem a sua utilização.
+
+
+=== Diálise crónica ===
+Os pacientes com SHUa com doença renal em fase terminal são geralmente submetidos à diálise, a qual resulta numa taxa de 50% de sobrevida em 5 anos. Visto que a ativação sistémica e descontrolada do complemento continua nos pacientes com SHUa em diálise,  estes apresentam uma atividade do complemento mais pronunciada do que pacientes em diálise crónica sem SHUa.  Os pacientes com SHUa em diálise ainda correm o risco de MAT em outros órgãos.
+
+
+=== Transplante ===
+Apesar do seu histórico de utilização em pacientes com SHUa, o transplante renal não resolve a ativação descontrolada do complemento que conduz à MAT sistémica progressiva. Dependendo da mutação genética, cerca de 90% dos pacientes com SHUa voltam a sofrer da doença após um transplante renal. Depois de um transplante renal, a ativação descontrolada do complemento que se segue associada à SHUa causa perda do enxerto, o que não pode ser recuperado com SP/PP na maioria dos pacientes. O transplante combinado de rim e fígado só está disponível para muito poucos pacientes devido à escassez de órgãos sólidos. Além disso, a inflamação e a MAT persistem em outros órgãos e existe um risco considerável de morte que muitos médicos e pacientes consideram excessivo.
+
+
+=== Eculizumab ===
+Aprovado pelo FDA em 2011 para tratar SHUa.
+
+
+== Referências ==

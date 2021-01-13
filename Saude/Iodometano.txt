@@ -1,0 +1,48 @@
+Iodometano, comumente chamado iodeto de metila e comumente abreviado "MeI", é um composto químico com a fórmula CH3I. Este líquido denso e volátil é relacionado ao metano por substituição de um átomo de hidrogênio por um átomo de iodo e seu momento dipolar é 1.59 D. Índice de refração de 1.5304 (20 °C, D), 1.5293 (21 °C, D). É miscível com solventes orgânicos comuns. É incolor, embora se exposto a luz, amostras desenvolvem uma cor púrpura causada pela presença de I2. Estocagem em cobre absorve o iodo. O iodeto de metila é largamente usado em síntese orgânica como fonte do grupo metila, via a transformação chamada metilação. É naturalmente emitido por plantações de arroz em pequenas quantidades.
+
+
+== Propriedades químicas ==
+Iodeto de metila é um excelente substrato para as reações de substituição SN2. Sua estericalidade aberta ao ataque por nucleófilos, e iodo é um bom grupo lábil. Por exemplo, pode ser usado para a metilação de fenóis ou ácidos carboxílicos:
+Nestes exemplos, as bases (K2CO3 ou Li2CO3) remove o próton ácido para formar o ânion carboxilato ou fenóxido, o qual serve como um nucleófilo na substituição SN2.
+Iodeto é um ânion "macio" o que significa que a metilação com MeI tende a ocorrer na terminação "mais macia" de um múltiplo nucleófilo.  Por exemplo, reação com íon tiocianato favorece o ataque no enxofre preferencialmente que o "duro" nitrogênio, conduzindo normalmente a tiocianato de metila (CH3SCN) mais que CH3NCS. Este comportamento é relevante para a metilação de enolatos estabilizados os quais derivam dos compostos de 1,3-dicarbonila.  Metilação destes e enolatos relacionados podem ocorrer no átomo mais "duro" oxigênio ou o (usualmente desejado) átomo de carbono. Com iodeto de metila, C-alquilação normalmente sempre predominará.
+MeI é também um importante precursor do iodeto de metilmagnésio ou "MeMgI", o qual é um reagente usual. Porque o MeMgI forma-se prontamente, ele é frequentemente preparado em laboratórios de instituições de ensino como uma ilustração do reagente de Grignard.  O uso do MeMgI tem sido substituído crescentemente pelo comercialmente disponível metil-lítio.
+No processo Monsanto, MeI forma in situ da reação do metanol e iodeto de hidrogênio.  O CH3I então reage com monóxido de carbono na presença de um complexo de ródio para formar iodeto de acetila, o precursor do ácido acético após hidrólise. Muito ácido acético é preparado deste modo.
+MeI hidrolisa a 270 °C formando iodeto de hidrogênio, monóxido de carbono e dióxido de carbono.
+
+
+== Preparação ==
+Iodometano é formado via a reação exotérmica que ocorre quando iodo é adicionado a uma mistura de metanol com fósforo vermelho:
+10 CH3OH  +  2 P  +  5 I2  →  10 CH3I  +  2 H3PO4  +  H2OO reagente de iodação é o triiodeto de fósforo que é formado in situ. Alternativamente, é preparado pela reação de dimetilsulfato com iodeto de potássio em presença de carbonato de cálcio:
+(CH3O)2SO2  +  KI  →  K2SO4  +  2 CH3IO CH3I pode facilmente ser purificado por destilação seguida por lavagem com Na2S2O3 (para remover o iodo) e então água, e Na2CO3 aq..
+Iodeto de metila póde ser formado durante acidentes nucleares pela reação de matéria orgânica com o "iodo de fissão".
+
+
+== Escolha do iodometano como agente de metilação ==
+Iodometano é um excelente reagente para metilação, mas há algumas desvantagens no seu uso. Ele tem um lto peso equivalente: um mole de MeI pesa quase três vezes quanto um único mole de cloreto de metila. Entretanto, o cloreto é um gás (como é o brometo de metila), fazendo-o mais difícil de se trabalhar que o MeI, líquido. Colreto de metila é um mais pobre agente de metilação que MeI, mas é frequentemente adequado.
+Iodetos são geralmente mais caros relativamente aos mais comuns cloretos e brometos, embora o iodometano seja razoavelmente acessível; numa escala comercial, o tóxico sulfato de dimetila é preferido, já que é barato e líquido. O iodo que deixa o grupo em MeI pode causar reações colaterais, como é um poderoso nucleófilo. Finalmente, sendo altamente reativo, MeI é mais perigoso para trabalhadores em laboratório que os cloretos e brometos. Quando consideramos alternativas ao MeI, é necessário considerar custo, manuseio, riscos, seletividade química, e a facilidade de reação.
+
+
+== Usos ==
+Além do uso como um agente de metilação. tem sido proposto seu uso como fungicida, herbicida, inseticida ou nematicida e como um extintor de incêndio. Além disso pode ser usado como um desinfetante de solos, substituindo o bromometano (o qual tem sido banido pelo Protocolo de Montreal), e em microscopia devido a suas propriedades relacionadas ao índice de refração. Em uma decisão controversa em outubro de 2007, a United States Environmental Protection Agency aprovou seu uso como um fumigante de solo em alguns casos, empora não possa ainda ser usado na Califórnia (um mercado de maior potencial) devido a falta de aprovação estadual.
+
+
+== Efeitos biológicos ==
+Iodometano tem LD50 para administração oral em ratos de 76 mg/kg e no fígado ele sofre rápida conversão a S-metilglutationa.Respirar vapores de iodometano pode causar danos nos pulmões, fígado, rins e sistema nervoso central. Causa náusea, vertigens, tosse e vômito. Contato prolongado com a pele causa queimaduras. Inalação massiva causa edema pulmonar.
+
+
+== Referências ==
+
+Sulikowski, G. A.; Sulikowski, M. M. (1999). in Coates, R.M.; Denmark, S. E. (Eds.) Handbook of Reagents for Organic Synthesis, Volume 1: Reagents, Auxiliaries and Catalysts for C-C Bond Formation New York: Wiley, pp. 423–26.
+Bolt H. M., Gansewendt B. (1993). «Mechanisms of carcinogenicity of methyl halides.». Crit Rev Toxicol. 23 (3): 237-53 
+
+
+== Ligações externas ==
+Pocket Guide to Chemical Hazards 0509 (em inglês)
+International Chemical Safety Card 0420 (em inglês)
+International Chemical Safety Card 0509 (em inglês)
+Omkar Speciality Chemicals Pvt Ltd. (em inglês)
+IARC Summaries & Evaluations: Vol. 15 (1977), Vol. 41 (1986), Vol. 71 (1999) (em inglês)
+[ligação inativa] MSDS na Oxford University (em inglês)
+[ligação inativa] MSDS do iodometano-d3 na Oxford University (em inglês)
+Metabolismo do iodometano em ratos (em inglês)
+Espectro NMR do iodometano (em inglês)

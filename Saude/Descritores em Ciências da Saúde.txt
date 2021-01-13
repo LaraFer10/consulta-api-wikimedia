@@ -1,0 +1,35 @@
+O vocabulário estruturado e trilíngue DeCS - Descritores em Ciências da Saúde - foi criado em 1986 pela BIREME - Centro Latino-Americano e do Caribe de Informação em Ciências da Saúde - para uso na indexação de artigos de revistas científicas, livros, anais de congressos, relatórios técnicos, e outros tipos de materiais, assim como para ser usado na pesquisa e recuperação de assuntos da literatura científica nas bases de dados LILACS, MEDLINE e outras. Na BVS, Biblioteca Virtual em Saúde, o DeCS é a ferramenta que permite a navegação entre registros e fontes de informação através de conceitos controlados e organizados em português, espanhol, inglês e francês.
+Foi desenvolvido a partir do MeSH - Medical Subject Headings da NLM - U.S. National Library of Medicine - com o objetivo de permitir o uso de terminologia comum para pesquisa nos idiomas da região das Américas, proporcionando um meio consistente e único para a recuperação de informação independentemente do idioma. Além dos termos biomédicos originais do MeSH foram desenvolvidas as áreas específicas de Ciência e Saúde (2005), Homeopatia (1991), Saúde Pública (1986) e Vigilância Sanitária (2005).
+Os conceitos que compõem o DeCS são organizados em uma estrutura hierárquica permitindo a execução de pesquisa em termos mais amplos ou mais específicos ou todos os termos que pertençam a uma mesma estrutura hierárquica.
+Tem como finalidade principal servir como uma linguagem única para indexação e recuperação da informação entre os componentes do Sistema Latino-Americano e do Caribe de Informação em Ciências da Saúde, coordenado pela BIREME, e que abrange 37 países na América Latina e no Caribe, permitindo um diálogo uniforme entre cerca de 600 bibliotecas.
+Foram feitas as seguintes publicações em papel:
+
+em 1984 foi publicada pela BIREME o primeiro exemplar do MeSH trilíngueem 1986 foi impressa apenas a categoria de Saúde Pública em espanhol, com 1409 descritores,
+uma edição preliminar completa em espanhol e em português foi produzida em 1987, em dois volumes cada: o primeiro em ordem alfabética e o segundo em ordem hierárquica.
+a primeira edição completa, produzida em espanhol e em português, foi em 1988;
+a segunda edição foi produzida em 1992 em espanhol e em português nos dois idiomas e em três volumes: alfabético, hierárquico e permutado.
+a terceira edição foi produzida em 1996, também em espanhol e em português, porém apenas em ordem alfabética e dividida em parte I (letras A-H) e parte II (I a Z).A partir de 1999, com o início da internet, o DeCS ficou acessível online, com atualizações anuais.
+Participa no projeto de desenvolvimento de terminologia única e rede semântica em saúde, Unified Medical Language System (UMLS), da NLM, com a responsabilidade da atualização e envio dos termos MeSH em português e espanhol.
+
+
+== Referências ==
+
+
+== Ligações externas ==
+Homepage do DeCS - Descritores em Ciências da Saúde
+DeCS no Wiki da BIREME
+BIREME - Centro Latino-Americano e do Caribe de Informação em Ciências da Saúde
+Portal Regional da BVS - Biblioteca Virtual em Saúde
+NLM - U. S. National Library of Medicine
+MeSH - Medical Subject Headings
+UMLS - Unified Medical Language System
+Pesquisa na área da saúde: 1 - base de dados DeCS (Descritores em Ciências da Saúde)
+Metodologia LILACS
+
+
+== Ver também ==
+Banco de dados
+Categorização
+Ontologia (ciência da computação)
+Taxonomia
+Tesauro

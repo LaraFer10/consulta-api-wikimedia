@@ -1,0 +1,64 @@
+O ciclo de Krebs, tricarboxílico ou do ácido cítrico, também referido como ciclo dos ácidos tricarboxílicos (em inglês, TCA), é uma série de reações químicas que ocorrem na vida da célula e seu metabolismo  foi descrito pelo bioquímico alemão Hans Adolf Krebs.
+O ciclo é executado na matriz da mitocôndria dos eucariontes e no citoplasma dos procariontes. Trata-se de uma parte do metabolismo dos organismos aeróbicos (utilizando oxigênio da respiração celular); organismos anaeróbicos utilizam outro mecanismo, como a fermentação lática, onde o piruvato é o receptor final de elétrons na via glicolítica, gerando lactato.O ciclo de Krebs é uma rota anfibólica, ou seja, possui reações catabólicas e anabólicas, com a finalidade de oxidar a acetil-CoA (acetil coenzima A), que se obtém da degradação de carboidratos, ácidos graxos e aminoácidos a duas moléculas de dióxido de carbono (CO2).
+Este ciclo inicia-se quando o piruvato que é sintetizado durante a glicólise é transformado em acetil CoA (coenzima A) por acção da enzima piruvato desidrogenase. Este composto vai reagir com o oxaloacetato que é um produto do ciclo anterior formando-se citrato. O citrato vai dar origem a um composto de cinco carbonos, o alfa-cetoglutarato com libertação de NADH2, e de CO2. O alfa-cetoglutarato vai dar origem a outros compostos de quatro carbonos com formação de GTP, FADH2 e NADH e oxaloacetato.
+Após o ciclo de Krebs, ocorre outro processo denominado fosforilação oxidativa.
+
+
+== Características ==
+O ciclo do ácido cítrico começa com a quebra de carboidratos, aminoácido e ácidos-graxos em Acetil-CoA (2 carbonos), se misturando ao ácido oxalacético(4 carbonos)e dando origem ao ácido cítrico com 6 carbonos, o ácido cítrico perde um carbono e um hidrogênio, o carbono se perde no meio e o hidrogênio e incorporado pelo NAD (nicotinamida adenina dinucleotídio) que vira NADH, o antes ácido cítrico vira ácido alfa-cetoglutário com 5 carbonos, novamente perde um carbono e um hidrogênio, o carbono se perde no meio e o hidrogênio é incorporado pelo NAD que vira NADH, o antes ácido-alfacetoglutário vira Sucinil COA com 4 carbonos, não podendo mais perder carbono o sucinil libera o COA que o conduziu até ali, nesse estágio do ciclo já essa possível transformar ADP ( adenosina difosfato) em ATP (adenosina trifosfato) que é a energia da célula. Depois da produção de energia o sucinil COA vira ácido sucinico com 4 carbonos, já não podendo perder carbonos, ele perde duas moléculas de hidrogênio, o FAD ( flavina adenina dinucleotídio) incorpora, pelo fato de o NAD só poder incorporar 1 molécula, e o então FAD vira FADH2, e o até então ácido sucinico vira ácido málico com 4 carbonos, não podendo mais perder carbono, é liberado 1 molécula de hidrogênio, o NAD incorpora e vira NADH, perdendo essa molécula de hidrogênio ele vira ácido oxalacético novamente para iniciar o ciclo outra vez.
+O citrato então passa por uma série de transformações químicas, perdendo dois grupos carboxila na forma de CO2. Os carbonos liberados na forma de CO2 são oriundos do oxaloacetato, e não diretamente do Acetil-CoA. Os carbonos doados pelo Acetil-CoA se tornam parte do oxaloacetato após o primeiro passo do ciclo do ácido cítrico.
+A transformação dos carbonos doados pelo Acetil-CoA em CO2 requer vários passos no ciclo de Krebs. No entanto, por causa do papel do ácido cítrico no anabolismo (síntese de substâncias orgânicas), ele pode não ser perdido já que muitas substâncias intermediárias do ciclo também são usadas como precursoras para a biossíntese em outras moléculas.
+A maior parte da energia disponível graças ao processo oxidativo do ciclo é transferida por elétrons altamente energéticos que reduzem o NAD+, transformando-o em NADH. Para cada grupo acetila que entra no ciclo de Krebs, três moléculas de NADH são produzidas (o equivalente a 2,5 ATPs).
+Elétrons também são transferidos ao receptor Q, formando QH2.
+No final de cada ciclo, o Oxoalocetato de quatro carbonos é regenerado, e o processo continua sucessivamente.
+São produzidas 38 moléculas de ATP.
+
+
+== Via metabólica do ciclo de Krebs ==
+Dois carbonos são oxidados, tornando-se CO2, e a energia dessas reações é armazenada em GTP, NADH e FADH2. NADH e FADH2 são coenzimas (moléculas que ativam ou intensificam enzimas) que armazenam energia e são utilizadas na fosforilação oxidativa.
+
+
+=== As principais etapas do ciclo de Krebs ===
+Oxalacetato (4 átomos de carbono) a Citrato (6 C): O ácido acético proveniente das vias de oxidação de glícidos, lípidos e proteínas, combinam-se com a coenzima a formando o Acetil - CoA. A entrada deste composto no ciclo de Krebs ocorre pela combinação do ácido acético com o oxalacetato presente na matriz mitocondrial. Esta etapa resulta na formação do primeiro produto do ciclo de Krebs, o citrato. O coenzima A, sai da reação como CoASH.
+Citrato (6 C) a Isocitrato (6 C): O citrato sofre uma desidratação originando o isocitrato. Esta etapa acontece para que a molécula de citrato seja preparada para as reações de oxidação seguintes
+Isocitrato (6 C) a αcetoglutarato (5 C): Nesta reação há participação de NAD, onde o isocitrato sofre uma descarboxilação e uma desidrogenação transformando o NAD em NADH, liberando um CO2 e originando como produto o alfa-cetoglutarato
+αcetoglutarato (5 C) a Succinil - CoA (4 C): O α-cetoglutarato sofre uma descarboxilação, liberando um CO2. Também ocorre uma desidrogenação com um NAD originando um NADH, e o produto da reação acaba sendo o Succinato
+Succinil - CoA (4 C) a Succinato (4 C): Nesta reação houve entrada de GDP+Pi, e liberação de CoA-SH. O succinil-CoA libera grande quantidade de energia quando perde a CoA, originando succinato. A energia liberada é aproveitada para fazer a ligação do GDP com o Pi(fosfato inorgânico), formando o GTP, como o GTP não é utilizado para realizar trabalho deve ser convertido em ATP, assim esta é a única etapa do Ck que forma ATP.
+Succinato (4 C) a  Fumarato (4 C): Nesta etapa entra FAD. O succinato sofre oxidação através de uma desidrogenação originando fumarato e FADH2. O FADH2 é formado a partir da redução do FAD.
+Fumarato (4 C) a  Malato (4 C): O fumarato é hidratado formando malato.
+Malato (4 C) a  Oxalacetato (4 C): Nesta etapa entra NAD. O malato sofre uma desidrogenação originando NADH, a partir do NAD, e regenerando o oxalacetato.
+
+
+== Estruturas dos intermediários através de projeções de Fischer e do modelo poligonal ==
+Os intermediários do Ciclo de Krebs apresentados segundo projeções de Fischer mostram as mudanças químicas passo a passo. Essa imagem pode ser comparada à representação através do modelo poligonal. Outra comparação de projeções de Fischer e o modelo poligonal no Ciclo de Krebs é mostrado em vídeo.
+
+
+== O ciclo de Krebs e a respiração ==
+A influência do ciclo de Krebs no processo da respiração celular começa com a glicólise, processo ocorrido no citoplasma de uma célula, onde a glicose, obtida através dos alimentos ingeridos, passa por uma série de dez reações químicas que culminam na formação de duas moléculas de ácido pirúvico.
+É a partir desse ponto que começa a participação do ciclo de Krebs na respiração propriamente dita.
+O ciclo de Krebs ocorre dentro da mitocôndria, logo as moléculas de ácido pirúvico têm que entrar nela. Esse processo só ocorre quando há moléculas de oxigênio suficientes para cada molécula de glicose; se há, na entrada do ácido pirúvico na mitocôndria faz com que o oxigênio reaja com o ácido formando gás carbônico e libera os elétrons dos átomos de hidrogênio presentes na fórmula da glicose.Esses elétrons são transportados pelo NADH e o FADH, duas moléculas transportadoras.
+Os elétrons então se responsabilizam pela união de mais um átomo de fósforo, com uma molécula de adenosina difosfato (ADP) formando a adenosina trifosfato, o ATP.
+Esta molécula de ATP então é que fornecerá a energia para a vida da célula e o transporte ativo de substâncias pelo corpo.
+
+
+== Função anabólica do ciclo de Krebs ==
+Os compostos intermediários do ciclo de Krebs podem ser utilizados como precursores em vias biossintéticas: oxaloacetato e α-cetoglutarato vão formar respectivamente aspartato e glutamato. A eventual retirada desses intermediários pode ser compensada por reações que permitem restabelecer o seu nível. Entre essas reações, que são chamadas de anapleróticas por serem reações de preenchimento, a mais importante é a que leva à formação de oxaloacetato a partir do piruvato e que é catalisada pela piruvato carboxilase. O oxaloacetato além de ser um intermediário do ciclo de Krebs, participa também da gliconeogênese. A degradação de vários aminoácidos também produz intermediários do ciclo de Krebs, funcionando como reações anapleróticas adicionais.
+
+
+== Regulação do ciclo do ácido cítrico ==
+O ciclo do ácido cítrico para o fluxo de átomos de carbono do piruvato e o regula em dois níveis: a conversão de piruvato em acetil-CoA, o material inicial do ciclo (a reação do complexo do piruvato desidrogenase), e a entrada de acetil-CoA no ciclo (a reação da citrato sintase. Como o piruvato não é a única fonte de acetil-CoA (a maioria das células pode obter acetil-CoA pela oxidação dos ácidos graxos e de certos aminoácidos), a possibilidade de obtenção de intermediários dessas outras vias é muito importante na regulação da oxidação do piruvato e do ciclo do ácido cítrico. O ciclo também é regulado na altura da reação da isocitrato desidrogenase e na reação da α-cetoglutarato desidrogenase.
+
+
+== Ver também ==
+Glicólise
+Respiração
+Bicicleta de Krebs (coordenação do ciclo da ureia com o ciclo de Krebs)
+
+
+== Referências ==
+
+
+== Ligações externas ==
+
+«A lógica química do ciclo de Krebs» 
+«Ciclo de Krebs, câncer e imunidade»

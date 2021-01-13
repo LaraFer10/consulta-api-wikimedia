@@ -1,0 +1,77 @@
+O Código ATC P02 (Anti-helmínticos) é um subgrupo terapêutico da classificação ATC (Anatomical Therapeutic Chemical Classification System), um sistema de códigos alfanuméricos desenvolvido pela Organização Mundial da Saúde (OMS) para classificar medicamentos e outros produtos médicos. O subgrupo P02 faz parte do grupo anatômico P (antiparasitários, insecticidas e repelentes).
+
+
+== P02B Antitrematodais ==
+
+
+=== P02BA Derivados da quinolina e substâncias relacionadas ===
+P02BA01 Praziquantel
+P02BA02 Oxamniquina
+
+
+=== P02BB Compostos organofosforados ===
+P02BB01 Metrifonato
+
+
+=== P02BX Outros agentes antitrematodais ===
+P02BX01 Bitionol
+P02BX02 Niridazol
+P02BX03 Estibofeno
+P02BX04 Triclabendazol
+
+
+== P02C Agentes antinematodais ==
+
+
+=== P02CA Derivados de benzimidazol ===
+P02CA01 Mebendazol
+P02CA02 Tiabendazol
+P02CA03 Albendazol
+P02CA04 Ciclobendazol
+P02CA05 Flubendazol
+P02CA06 Fenbendazol
+P02CA51 Mebendazol, associações
+
+
+=== P02CB Piperazina e derivados ===
+P02CB01 Piperazina
+P02CB02 Dietilcarbamazina
+
+
+=== P02CC Derivados da tetrahidropirimidina ===
+P02CC01 Pyrantel
+P02CC02 Oxantel
+
+
+=== P02CE Derivados de imidazotiazol ===
+P02CE01 Levamisol
+
+
+=== P02CF Avermectinas ===
+P02CF01 Ivermectina
+
+
+=== P02CX Outros antinematodais ===
+P02CX01 Pirvinium
+P02CX02 Befênio
+P02CX03 Moxidectina
+
+
+== P02D Anticestodais ==
+
+
+=== Derivados do ácido salicílico P02DA ===
+P02DA01 Niclosamida
+
+
+=== P02DX Outros anticestodais ===
+P02DX01 Desaspidina
+P02DX02 Diclorofeno
+
+
+== Ver também ==
+Classificação ATC
+Código ATC P: Produtos antiparasitários, insecticidas e repelentes
+
+
+== Referências ==

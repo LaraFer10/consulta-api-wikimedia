@@ -1,0 +1,62 @@
+MYSTIC (programa de vigilância) é o programa de espionagem e vigilância para interceptação de áudio (voz), capaz de gravar "100 por cento" das chamadas telefônicas de um país estrangeiro, e que permitem ao usuário do sistema, seja a NSA ou outras agencias americanas, retroceder e ouvir na integra conversas telefônicas, mesmo um mês depois de terem ocorrido. O MYSTIC é apenas um dos muitos programas que a NSA esta usando para captar dados da população em vários países. Outros programas podem ser vistos no mapa apresentado abaixo.O MYSTIC é utilizado com a ferramenta chamada "RETRO", abreviação de "recuperação retrospectiva", que recupera as chamadas anteriores reconhecendo a voz nas chamadas mesmo que sejam bem antigas.
+
+
+== Máquina do Tempo ==
+Os técnicos da NSA comparam o programa à uma "máquina do tempo" porque pode reproduzir as conversações em qualquer chamada, mesmo que a pessoa que fez as chamadas jamais tenha tido suas chamadas ouvidas anteriormente, o que facilitaria o reconhecimento da voz na conversação.
+O programa de interceptação começou em 2009. Sua ferramenta "RETRO" e  os projetos relacionados atingiram já em 2011, capacidade total de interceptar cem por cento das mensagens do primeiro país alvo dos Estados Unidos.
+Documentos revelados por Edward Snowden mostram que operações do Mystic serão implementadas em vários outros países e mostram também que a partir de 2013, mais cinco países já estavam incluídos na lista do Mystic para vigilância total.
+
+
+== Funcionamento Inicial ==
+Na fase inicial de implantação, o sistema grava cada conversa em todo o país e armazenando bilhões delas em um buffer por 30 dias, onde são analisadas as chamadas mais antigas assim que as novas chegam ao buffer.
+Este arquivo de chamadas armazenadas, dizem os documentos, abrem uma porta "para o passado", permitindo aos usuários do programa Mystic "recuperar o áudio da conversação de interesse, mesmo que não tenha sido carregado no momento da chamada original."
+A cada 30 dias, amostras das vozes armazenadas no buffer são trasferidas para os computadores da NSA nos sistemas nos Estados Unidos, onde são armazenadas e processadas para "arquivamento" de longo prazo.
+Estas amostras de vozes armazenadas nos computadores da NSA a longo prazo, serão, dizem os especialistas, utilizadas quando necessário atraves de softwares de reconhecimento de fala, que podem conectar fatores como  entonação e o timbre da voz a uma única pessoa.
+O Mystic é o primeiro programa revelado que armazena cem por cento das chamadas telefônicas de um país.O emblema do programa MYSTIC  mostra  um feiticeiro segurando um cetro com cabeça de telefone. Entre os programas anteriormente revelados, o fato do MYSTIC gravar conversações e voz, faz o programa ser especialmente único. A maioria dos programas revelados anteriormente envolvia coleta de metadados, ou texto incluindo livros de endereços de e-mail .
+
+
+== Centro de Processamento de Dados Utah (Utah Data Center) ==
+
+A capacidade de armazenar dados de voz das chamadas telefonicas, requer sistemas de armazenamento gigantescos e há indícios de que o programa de gravação de chamadas tem sido atrasado apenas pela capacidade da NSA para armazenar e transmitir grandes volumes de arquivos de voz. Tal capacidade está sendo expandida com a construção do centro de processamento de dados da NSA em Utah, USA, o chamado "Utah Data Center".
+A função do  Centro de Processamento de Dados Utah é:
+"receber, processar e armazenar todas as formas de comunicação interceptadas, incluindo o conteúdo completo de e-mails particulares, chamadas de telefone incluindo de celulares e fixos, pesquisas na internet, bem como todos os tipos de recibos de dados pessoais como recibos de estacionamento, roteiros de viagem, reservas em hotéis, compras em livrarias, e quaisquer outros dados de qualquer transação que deixe rastro eletrônico.
+
+
+== Sem Proteção para os povos não americanos ==
+Quando tais dados forem de estrangeiros, não ha qualquer restrição para a interceptação e armazenamento, todavia, no que diz respeito aos dados de americanos, como resposta à alegações de que o centro de dados Utah seria utilizado para monitorar ilegalmente e-mails de cidadãos dos EUA, em abril de 2013 um porta-voz da NSA disse: "Muitas alegações infundadas foram feitas sobre as atividades planejadas do Data Center Utah, ... um dos maiores equívocos sobre a NSA é que estamos ouvindo ilegalmente em diante, ou ler e-mails de cidadãos dos Estados Unidos, o que não é o caso ".
+Christopher Soghoian , o diretor técnico da União Americana pelas Liberdades Civis , disse que a história sugere que "ao longo dos próximos dois anos eles vão se expandir para mais países, manter os dados por mais tempo e expandir para usos secundários."
+Com até 30 dias de conversas gravadas em mãos e amostras de voz, a NSA pode instantaneamente extrair dados de qualquer pessoa e obter sua história de movimentos, pessoas associadas e planos futuros inclusive. Várias outras agências de inteligência dos Estados Unidos também têm acesso a RETRO , incluindo contratados,  que se torna ainda mais ameaçador considerando a maneira arbitraria como as informações de qualquer individuo estarão disponíveis e podem ser acessadas nos sistemas dos Estados Unidos, facilitando situações de chantagem politica, recrutamento voluntário ou involuntário, sob chantagem ou pressão para espionagem, seja industrial ou de inteligencia, difamação de lideres não complacentes com os interesses americanos etc...
+RETRO e MYSTIC são programas autorizados pela Ordem Executiva 12333 , autorização presidencial para as agências de inteligência com operações fora dos Estados Unidos .
+Especialistas dizem que não há muita legislação que possa limitar o trabalho de inteligência no exterior.
+"Grande parte da coleção de inteligência do governo dos EUA não é regulado por qualquer lei aprovada pelo Congresso", disse Timothy H. Edgar , ex-diretor de privacidade e as liberdades civis da equipe de segurança nacional de Barack Obama. "Há muito foco na Lei de Vigilância de Estrangeira, o que é compreensível, mas isso é apenas uma fatia do que a comunidade de inteligência faz."
+Quando o propósito da vigilância no exterior é inteligência ligada a espionagem, disse ele, pode necessitar de autorização mas não existe tal necessidade para quaisquer coletas de dados para outros propósitos, sejam quais forem, porque não são regidas por lei, e não estão cobertos pela lei americana (FISA) , em Português Ato de Vigilância no Exterior . "
+
+
+== Ver Também ==
+PRISM
+Revelações da Vigilância global (1970–2013)
+Revelações da Vigilância global (2013-Presente)
+Cinco Olhos
+Echelon
+NSA
+Communications Security Establishment Canada
+GCHQ
+Vigilância de Computadores e Redes
+Operações de acesso adaptado (TAO) NSA
+Operações de Fonte Especial(SSO)
+Vigilância de Computadores e Redes
+
+
+== Referências ==
+
+
+== Ligações externas ==
+
+[1] Catalogo da NSA - Iterativo - com os dispositivos de vigilancia criados pela TAO
+[2] NSA pode escutar todas as chamadas telefônicas em qualquer pais estrangeiro (video em espanhol)
+[3] Der Spiegel Interativo  - Documentos: Video sobre tecnologia de vigilancia da NSA-Catálogo ANT (NSA)
+[4] James Bamford: ‘A NSA hoje pode entrar na mente das pessoas’ , por Flávia Barbosa - O Globo - 19 de março de 2014.
+[5] FAIRVIEW: programa que amplia a capacidade da coleta de dados - Mapa mostra volume de rastreamento do governo americano Brasil é o país mais monitorado da América Latina - O Globo - 11 de junho de 2013;
+[6] EUA espionaram milhões de e-mails e ligações de brasileiros. País aparece como alvo na vigilância de dados e é o mais monitorado na América Latina - O Globo - 06 de julho de 2013;
+[7] Jornais destacam sistema de espionagem dos EUA no Brasil. The Guardian, Washington Post e El País foram alguns dos que comentaram denúncia feito pelo O GLOBO - 07 de julho de 2013;
+[8] Veja os documentos ultrassecretos que comprovam espionagem da presidencia do Brasil. Arquivos foram obtidos com o ex-analista da NSA Edward Snowden

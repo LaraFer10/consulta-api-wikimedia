@@ -1,0 +1,11 @@
+A bicicleta de Krebs, em fisiologia, é uma interação entre o ciclo de Krebs e o ciclo da ureia.
+O ciclo da ureia produz, em uma das suas reações intermediárias, o fumarato, que será liberado no citosol da célula, e poderá assim ser utilizado no ciclo de Krebs.
+Esse fumarato é hidratado a malato, que é oxidado a oxaloacetato. E o oxaloacetato tem vários destinos possíveis: ele pode tanto ir sofrer transaminação a aspartato; pode ser convertido a glicose pela neoglicogênese; pode ser transformado em piruvato ou ainda pode ser condensado com acetil-Coa formando citrato.
+Embora existam vias próprias para a oxidação da cadeia carbônica da cada aminoácido, estas diferentes vias de degradação convergem para a produção de apenas alguns compostos: piruvato, acetil-Coa ou intermediários do ciclo de Krebs. A partir deste ponto, o metabolismo da cadeia carbônica dos aminoácidos confunde-se com o das cadeias carbônicas de carboidratos ou de ácidos graxos. A oxidação pelo ciclo de Krebs ou utilização por outras vias dependerá do tecido e do estado fisiológico do organismo.
+Como as reações do ciclo da ureia e do ácido cítrico (Ciclo de Krebs) estão correlacionadas, o conjunto dos dois tem sido chamado de "bicicleta de Krebs". O fumarato, produzido na reação da argininosuccinato liase no ciclo da ureia é também um intermediário do ciclo do ácido cítrico. O fumarato entra na mitocôndria onde as atividades combinadas da fumarase (fumarato hidratase) e da malato desidrogenase transformam o fumarato em oxalacetato . 
+O aspartato, que age como um, doador de nitrogênios na reação do ciclo da ureia catalisada pelo argininosuccinato sintetase no citosol, é formado do oxalacetato por transaminação com o glutamato, o a -cetoglutarato é o produto da transaminação e também é um intermediário do ciclo do ácido cítrico.
+
+
+== Ver também ==
+Ciclo de Krebs
+Ciclo da ureia

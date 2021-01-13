@@ -1,0 +1,14 @@
+O dinucleótido de flavina e adenina (FAD), também conhecido como flavina-adenina dinucleótido e dinucleótido de flavina-adenina, é um cofator capaz de sofrer ação redox, presente em diversas reações importantes no metabolismo. O FAD pode existir em dois estados de oxidação e o seu papel bioquímico envolve frequentemente alternância entre esses dois estados. O FAD é capaz de se reduzir a 2 FADH, estado em que aceita dois átomos de hidrogénio:
+
+O FAD tem uma coloração amarela quando oxidado e incolor após a redução do anel isoaloxazina, a parte da molécula que sofre a ação redox. A reoxidação da forma reduzida, FADH2, pelo oxigénio molecular resulta na formação de peróxido de hidrogénio.
+O FAD deriva da vitamina riboflavina. Diversas oxidorredutases, designadas flavoenzimas ou flavoproteínas, requerem FAD como grupo prostético, utilizado em reacções de transferência electrónica.
+O FADH2 é uma molécula transportadora de energia metabólica, sendo utilizada como substrato na fosforilação oxidativa mitocondrial. O FADH2 é reoxidado a FAD, resultando subsequentemente na síntese de duas moléculas de ATP por cada FADH2. As principais fontes de FADH2 no metabolismo eucariótico são o ciclo dos ácidos tricarboxílicos e a beta-oxidação de ácidos gordos. No ciclo dos ácidos tricarboxílicos, o FAD é um grupo prostético da enzima succinato desidrogenase, que oxida succinato a fumarato, enquanto que na beta-oxidação serve como coenzima na reação da acil-CoA desidrogenase.
+
+
+== Ver também ==
+Cadeia de transporte de eletrões
+NAD
+Bomba de protões
+
+
+== Referências ==

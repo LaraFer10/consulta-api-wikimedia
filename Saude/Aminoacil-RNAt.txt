@@ -1,0 +1,20 @@
+Aminoacil-RNA transportador (também aa-tRNA ou tRNA carregado) se refere ao RNA transportador (RNAt) ligado a um aminoácido. O aa-ARNt, juntamente com alguns fatores de tradução/elongação, entregam um aminoácido a um ribossomo para incorporação na cadeia polipeptídica que está sendo produzida por ele.
+
+
+== Ligação ==
+A ligação do aminoácido com o tRNA é feita com gasto de ATP (ATP -> AMP+PP) acumulando alta energia química. Essa energia é usada posteriormente na síntese da proteínas para realizar uma ligação covalente entre os aminoácidos. A leitura do códon complementar (anticódon) correto é feita ao entrar em contato com o RNAm, mas ligação aos outros aminoácidos é sempre feita na extremidade 3’ do RNAt pelo ribossomo. 
+
+
+== Redundância ==
+Devido à redundância do código genético, vários códons diferentes podem ser lidos pela mesma enzima (Aminoacil-RNAt sintetase) e assim codificam o mesmo aminoácido. Existem 64 códons, mas apenas 20 enzimas aaRNAt sintetase diferentes. Os ARNt que codificam o mesmo aminoácido são chamados ARNt iso-aceptores. É por esse motivo que o código de DNA é considerado “degenerado”.
+
+
+== Hidrólise ==
+Sob certas circunstâncias, aminoácidos não compatíveis vão ser carregada, o que resultando em uma má codificação. Estes ARNt incompatíveis devem ser hidrolisado a fim de impedir a síntese incorreta da proteína que está sendo produzida. O aumento da força iónica feito por sódio, potássio ou sais de magnésio podem desestabilizar a ligação aminoácido-ARNt. O aumento de pH também desestabiliza a ligação e muda a ionização do carbono alfa do grupo amino do aminoácido. O grupo amino carregado pode desestabilizar o vínculo aa-tRNA por efeito indutivo. Um fator de elongação (EF-Tu) estabiliza essa ligação.
+
+
+== Medicação ==
+Tetraciclinas sao capazes de inibir a ligação aminoácido-ARNt em bactérias.
+
+
+== Referências ==

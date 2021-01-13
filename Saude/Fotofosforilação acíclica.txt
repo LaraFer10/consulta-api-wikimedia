@@ -1,0 +1,17 @@
+A fosforilação acíclica é uma reação da fase clara (ou fotoquímica) da fotossíntese em que uma molécula de ADP é transformada em ATP, sem que os elétrons libertados da clorofila regressem a ela.
+O processo ocorre com a participação de dois pigmentos (P700 e P680) e de moléculas de água. Ao serem atingidos por fótons, os pigmentos e as moléculas de água liberam elétrons carregados de energia. Os elétrons do P700 sao recolhidos pelo íon H+ da água, formando H2, que são recolhidos pelo NADP+, formando NADP (além de íons em solução).
+O fotossistema I recebe elétrons do fotossistema II, deixando-o com deficiência de elétrons, neutralizada pelos elétrons originados na fotólise da água. Os elétrons recebidos pelo P 700 e liberados pelo P 680 passam, antes de serem absorvidos, por uma cadeia de aceptores intermediários de elétrons, liberando em seu caminho energia, que é absorvida por um ADP+P, transformando-o em ATP e armazenando a energia gerada pelo processo.
+Quando a molécula de água perde elétrons, formam-se íons de hidrogênio e oxigênio:
+
+             2H20 → 4ē + 4H+ + O2
+Os H e elétrons da água são usados para a formação de NADPH e o oxigenio é liberado para a atmosfera ou absorvido pela mitocôndria da própria célula vegetal, sendo usado para a respiração celular. Portanto, a manutenção do processo depende da fotólise da água, que é provocado diretamente pela luz.
+O saldo do processo é: ATP, NADPH2 e O2. O ATP e NADPH2 serão utilizados na etapa escura(ou enzimática), motivo pelo qual esta etapa é dependente indireta da luz.
+
+
+== Ver também ==
+Fotofosforilação cíclica
+Etapa química da fotossíntese ou etapa escura dito como Ciclo de Calvin
+
+
+== Ligações externas ==
+Simbiotica.org Fotossíntese

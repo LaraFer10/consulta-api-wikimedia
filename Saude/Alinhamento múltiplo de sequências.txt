@@ -1,0 +1,30 @@
+Um alinhamento múltiplo de sequências é um alinhamento de três ou mais sequências biológicas, geralmente proteínas, ADN ou ARN. De modo geral, assume-se que o conjunto de sequências de consulta que se coloca como entrada (conjunto problema) tem uma relação evolutiva pela qual compartilham uma linhagem e descendem de um ancestral comum. Do alinhamento resultante, pode-se inferir a homologia, e pode levar-se a cabo a análise filogenética para avaliar as origens evolutivas compartilhadas pelas sequências. As representações visuais do alinhamento ilustram mutações tais como mutações puntuais (uma só mudança de aminoácidos ou nucleótidos) que aparecem como diferentes caracteres numa só coluna do alinhamento, e a inserção ou supressão de mutações que aparecem como ocos numa ou várias das sequências no alinhamento. O alinhamento múltiplo de sequências utiliza-se para avaliar a conservação dos domínios proteicos, as estruturas terciárias e secundárias, e também aminoácidos ou nucleótidos individuais.
+Os alinhamentos múltiplos de sequências também se referem ao processo de alinhá-las como um conjunto de sequências. Como pode ser difícil alinhar à mão três ou mais sequências de comprimento biologicamente relevante, e quase sempre consome muito tempo, utilizam-se algoritmos computacionais para produzir e analisar os alinhamentos. Os alinhamentos requerem metodologias mais sofisticadas que os alinhamentos de pares porque são computacionalmente mais complexos de produzir. A maior parte dos programas de alinhamento múltiplo de sequências usam métodos heurísticos em lugar de optimização global, porque identificar o alinhamento óptimo entre mais de umas poucas sequências de comprimento moderado é proibitivamente custoso computacionalmente.
+
+
+== Ver também ==
+Alinhamento de sequências
+Bioinformática
+Cladística
+Filogenética
+
+
+=== Artigos de consulta ===
+Duret, L.; S. Abdeddaim (2000). «Multiple alignment for structural functional or phylogenetic analyses of homologous sequences». In:  D. Higgins and W. Taylor. Bioinformatics sequence structure and databanks. Oxford: Oxford University Press  
+Notredame, C. (2002). «Recent progresses in multiple sequence alignment: a survey». Pharmacogenomics. 31 (1): 131 -- 144 
+Thompson, J. D.; F. Plewniak and O. Poch (1999). «A comprehensive comparison of multiple sequence alignment programs». Nucleic Acids Research. 27 (13): 12682--2690  
+Wallace, I.M.; Blackshields G and Higgins DG. (2005). «Multiple sequence alignments». Curr Opin Struct Biol. 15 (3): 261-6.  
+Notredame, C (2007). «Recent evolutions of multiple sequence alignment algorithms». PLOS Computational Biology. 8 (3): e123. 
+
+
+== Bibliografia ==
+Markel, Scott; León, Darryl (2003). Sequence Analysis. Beijing: O'Reilly. 286 páginas. ISBN 0-596-00494-X  !CS1 manut: Nomes múltiplos: lista de autores (link)
+Setubal, João; Meidanis, João (1997). Introduction to Computational Molecular Biology. Boston: PWS Publishing Company. 296 páginas. ISBN 0-534-95262-3  !CS1 manut: Nomes múltiplos: lista de autores (link)
+
+
+== Ligações externas ==
+Ferramentas de alinhamento de seqüências ExPASy
+Página de recursos de alinhamentos múltiplos, da Virtual School of Natural Sciences
+Ferramentas para alinhamentos múltiplos, do Pôle Bioinformatique Lyonnais
+Notas sobre alinhamentos múltiplos de seqüências, do Max Planck Institute for Molecular Genetics
+Ponto de entrada dos principais servidores T-Coffee

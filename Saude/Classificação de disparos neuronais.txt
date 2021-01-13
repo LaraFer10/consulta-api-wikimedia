@@ -1,0 +1,19 @@
+Classificação de disparos neuronais ou Spike sorting é uma classe de técnicas utilizadas na análise de dados eletrofisiológicos. Algoritmos de spike sorting utilizam a forma dos registros com um ou mais eletrodos. Seu objetivo é identificar a atividade de um ou mais neurônios, separando-a do ruído de fundo.
+Neurônios produzem potenciais de ação que são chamados de spikes, no jargão das Neurociências. No inglês, spike significa algo pontiagudo, como um prego. Os spikes podem ser observados em registros de sinais elétricos medidos nas imediações de neurônios individuais com microeletrodos, por exemplo. Nestes registros, os potenciais de ação dos neurônios aparecem como pontas afiadas (desvios da linha de base).
+Eletrodos extracelulares captam as correntes sinápticas e os spikes. As correntes sinápticas têm maior tempo de duração, e os spikes, têm menor tempo de duração. Assim, os dois são facilmente separáveis. Christophe Pouzat, pesquisador do Laboratório MAP 5 da Universidade Paris Descartes sugere que, no processo identificação dos spikes seja utilizado o desvio mediano absoluto: pontos da trilha que se distanciem do desvio mediano absoluto serão considerados spikes.
+
+Spike sorting refere-se ao processo de atribuição dos spikes (picos nos dados eletrofisiológicos) a diferentes neurônios. Entende-se que a duração do potencial de ação registrada pelo eletrodo depende do tamanho e da forma do neurônio e da posição do eletrodo em relação ao neurônio.
+O problema pode ser mais bem compreendido por meio de uma analogia, segundo Pouzat: imagine uma festa em que as pessoas conversam e há microfones instalados nas paredes. Por meio do registro dos microfones é possível identificar os autores das falas gravadas pelos microfones, desde que seja realizada uma triagem dos registros sonoros. As pessoas corresponderiam aos neurônios, os microfones aos eletrodos e as falas, aos dados eletrofisiológicos.
+Os eletrodos são posicionados no lado de fora dos neurônios e, assim, muitas vezes, uma mesma trilha possui spikes (picos) de mais de um neurônio, isto é, de toda uma vizinhança. Como as formas dos picos são bastante diferentes entre neurônios distintos, é possível separar o potencial de ação de cada um deles no registro. No processo de separação, são utilizadas informações sobre toda a forma do spike, e são, então, aplicadas técnicas estatísticas como a Análise de Componentes Principais.
+Múltiplos eletrodos gravam formas de trilhas diferentes para cada potencial de ação emitido por neurônios na vizinhança dos eletrodos. A configuração geométrica dos eletrodos pode, então, ser usada para definir as dimensões adicionais para analisar quais spikes se originaram de cada célula da população de células gravadas. Assim, realizar spike sorting utilizando vários eletrodos é melhor do que a classificação baseada simplesmente na forma do potencial de ação. 
+
+Pesos da Análise de Componentes Principais para dois neurônios distintos.
+
+Formas coloridas conforme a correspondência a diferentes neurônios. O azul não pôde ser designado inequivocamente.
+
+
+== Ver também ==
+Spike sorting artigo na Scholarpedia
+
+
+== Referências ==

@@ -1,0 +1,135 @@
+Farmacodinâmica (do grego pharmakon, "remédio" e dýnamis, forças) é o campo da farmacologia e medicina, que estuda os efeitos fisiológicos dos fármacos nos organismos vivos, seus mecanismos de ação e a relação entre concentração do fármaco e efeitos desejados e indesejados. 
+
+
+== Efeitos desejáveis ==
+Dentre os possíveis efeitos desejáveis de um fármaco estão:
+
+Interação com enzimas
+Interação com proteínas estruturais
+Interação com proteínas transportadoras
+Interação com canais iônicos
+Ligação do ligando aos receptores:
+Receptores hormonais
+Receptores neuromoduladores
+Receptores de neurotransmissores
+“Upregulation” ou “Downregulation”
+Ruptura da membrana celular do parasita
+
+
+== Efeitos indesejáveis ==
+
+Os efeitos indesejáveis de um fármaco incluem:
+
+Adicção química
+Aumento da probabilidade de mutação de células (atividade carcinogênica)
+Dano fisiológico induzido
+Doenças induzida pela droga (Iatrogenia)
+Grande número de ações simultâneas diferentes (inespecificidade)
+Potencialização ou inibição indesejável de outras substâncias
+Reação de hipersensibilidade
+
+
+== Fatores importantes ==
+Quatro fatores do paciente podem influenciar a farmacodinâmica :
+
+Idade
+Genética
+Outras drogas
+Outros distúrbios
+
+
+== Termos importantes ==
+A farmacodinâmica inclui o estudo de:
+
+Agonismo
+Antagonismo
+Citotoxicidade
+Dose efetiva
+Dose-Resposta
+Dose letal
+Janela terapêutica
+Meia-vida
+Toxicodependência
+
+
+== Modelos PK/PD ==
+
+Modelos que evolvem as duas áreas são chamados de modelos PK/PD, (do inglês Pharmacokinetics/Pharmacodynamics). De forma adicional, usar-se as abreviações em inglês para cada área em separado: PD e PK, respectivamente, Pharmacodynamics e Pharmacokinetics.
+Uma forma de traçar as “fronteiras” entre as áreas é usar a seguinte sequência de estados: dose (D), concentração (C), e efeito (E). Modelos PK tentam entender matematicamente desde o processo de administração de medicamentos (Doses) até o processo de aumento da concentração do fármaco no local almejado, como, por exemplo, o cérebro humano. Ao passo que, dado a concentração no local de atuação do fármaco, a função que relaciona concentração contra efeito é do domínio dos modelos PD.
+A Farmacocinética e farmacodinâmica usam modelos que representam o que ocorre desde a administração de um fármaco até efeitos perceptíveis. Modelos Farmacocinéticos incluem estudos de absorção, distribuição, metabolismo, eliminação (ADME). Modelos farmacodinâmicos são mais recentes e mais complicados por envolveram interação do fármaco com os receptores e proteínas do organismo.
+
+
+=== Funções ===
+Farmacocinética procura funções do tipo:
+
+  
+    
+      
+        y
+        =
+        f
+        (
+        D
+        )
+      
+    
+    {\displaystyle y=f(D)}
+  Onde: y é a concentração no sitio de ação, f é uma função com valores reais e positivos, e D é a dose (terapia). A dose é um vetor dado que temos  grandezas como frequência, dose, tempo da terapia, e outras grandezas.
+Ao passo que farmacodinâmica:
+
+  
+    
+      
+        E
+        =
+        f
+        (
+        y
+        )
+      
+    
+    {\displaystyle E=f(y)}
+  onde: E medi o efeito do medicamento, e y é a concentração no ponto de atuação.
+O modelos chamados de farmacodinâmicos/farmacocinéticos, abreviados como PK/PD, juntam as duas etapas:
+
+  
+    
+      
+        E
+        =
+        f
+        (
+        f
+        (
+        D
+        )
+        )
+      
+    
+    {\displaystyle E=f(f(D))}
+  
+
+
+== Farmacodinâmica de algumas drogas (medicamentos) ==
+
+
+=== Fluoxetina ===
+A fluoxetina é um inibidor seletivo da recaptação de um tipo de neurotransmissor, a serotonina.  Atua através da inibição da sua recaptação na fenda sináptica e dessa forma aumenta a sua concentração.
+
+
+=== IMAO ===
+Os IMAO (inibidores da mono-amino-oxidase) são fármacos que aumentam a concentração de monoaminas (como a dopamina e a serotonina) na fenda sináptica. Sua ação se dá através da inibição da monoaminooxidase, enzima responsável pela biotransformação destes neurotransmissores
+
+
+== Referências ==
+
+
+== Bibliografias ==
+KÄLLÉN, A. Computational pharmacokinetics. Chapman and Hall/CRC Biostatistics Series, 2008.
+KATZUNG, B. G.; MASTERS, S. B.; TREVOR, A. J. Basic and clinical pharmacology. 12th edition. McGraw Hill. 2012.
+ROSENBAUM, S. E Basic pharmacokinetics and pharmacodynamics: an integrated textbook and computer simulations, John Wiley & Sons, 2011.
+SHONKWILER, R. W.; HEROD, J. Mathematical biology: an introduction with Maple and Matlab. Undergraduate texts in mathematics. Second Edition: Spring: 2009.
+
+
+== Ver também ==
+COLLEGY OF PHARMACY. The University of Rhode Island. IMODR: Basic Pharmacokinetic and Pharmacodynamic Models. Online: http://www.uri.edu/pharmacy/faculty/rosenbaum/basicmodels. Último acesso em: Março, 2014.

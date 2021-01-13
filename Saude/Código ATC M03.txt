@@ -1,0 +1,94 @@
+O Código ATC M03 (Relaxantes musculares) é um subgrupo terapêutico da classificação ATC (Anatomical Therapeutic Chemical Classification System), um sistema de códigos alfanuméricos desenvolvido pela Organização Mundial da Saúde (OMS) para classificar medicamentos e outros produtos médicos. O subgrupo M03 faz parte do grupo anatômico M (sistema musculoesquelético).Os códigos para uso veterinário (códigos ATCvet) podem ser criados colocando a letra Q antes do código ATC para uso humano: por exemplo, QM03. Os códigos ATCvet sem os códigos ATC humanos correspondentes são citados com a letra Q inicial nessa lista. 
+
+
+== M03A Relaxantes musculares, agentes de ação periférica ==
+
+
+=== M03AA Alcalóides de curare ===
+M03AA01 Alcurônio
+M03AA02 Tubocurarina
+M03AA04 Dimetiltubocurarina
+
+
+=== M03AB Derivados da colina ===
+M03AB01 Suxametônio
+
+
+=== M03AC Outros compostos de amônio quaternários ===
+M03AC01 Pancurônio
+M03AC02 Galamina
+M03AC03 Vecurônio
+M03AC04 Atracúrio
+M03AC05 Hexaflurônio
+M03AC06 Brometo de pipecurônio
+M03AC07 Cloreto de doxacúrio
+M03AC08 Brometo de fazadinium
+M03AC09 Brometo de rocurônio
+M03AC10 Cloreto de mivacúrio
+M03AC11 Cisatracúrio
+
+
+=== M03AX Outros relaxantes musculares, agentes de ação periférica ===
+M03AX01 Toxina botulínica
+
+
+== M03B Relaxantes musculares, agentes de ação central ==
+
+
+=== M03BA Ésteres do ácido carbâmico ===
+M03BA01 Fenprobamato
+M03BA02 Carisoprodol
+M03BA03 Metocarbamol
+M03BA04 Estiramato
+M03BA05 Febarbamato
+M03BA51 Fenprobamato, associações, exceto psicolépticos
+M03BA52 Carisoprodol, associações, exceto psicolépticos
+M03BA53 Metocarbamol, associações, exceto psicolépticos
+M03BA71 Fenprobamato, associações com psicolépticos
+M03BA72 Carisoprodol, associações com psicolépticos
+M03BA73 Metocarbamol, associações com psicolépticos
+QM03BA99 Combinações
+
+
+=== M03BB Derivados de oxazol, tiazina, e triazina ===
+M03BB02 Clormezanona
+M03BB03 Clorzoxazona
+M03BB52 Clormezanona, associações, exceto psicolépticos
+M03BB53 Clorzoxazona, associações, exceto psicolépticos
+M03BB72 Clormezanona, associações com psicolépticos
+M03BB73 Clorzoxazona, associações com psicolépticos
+
+
+=== M03BC Éteres quimicamente próximos aos anti-histamínicos ===
+M03BC01 Orfenadrina (citrato)
+M03BC51 Orfenadrina, associações
+
+
+=== M03BX Outros agentes de ação central ===
+M03BX01 Baclofeno
+M03BX02 Tizanidina
+M03BX03 Pridinol
+M03BX04 Tolperisona
+M03BX05 Tiocolquicosido
+M03BX06 Mefenesina
+M03BX07 Tetrazepam
+M03BX08 Ciclobenzaprina
+M03BX09 Eperisona
+M03BX30 Feniramidol
+M03BX55 Tiocolquicosídeo, associações
+QM03BX90 Guaifenesina
+
+
+== M03C Relaxantes musculares, agentes de ação direta ==
+
+
+=== M03CA Dantrolene e derivados ===
+M03CA01 Dantrolene
+
+
+== Ver também ==
+Classificação ATC
+Código ATC M: Sistema musculo-esquelético
+
+
+== Referências ==

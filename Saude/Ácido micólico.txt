@@ -1,0 +1,23 @@
+Ácidos micólicos são longos ácidos graxos encontrados nas paredes celulares do táxon mycolata (Mycobacterium), um grupo de bactérias que incluem Mycobacterium tuberculosis, o agente causador da doença tuberculose. Eles formam o principal componente da parede celular das espécies mycolata. Apesar de seu nome, ácidos micólicos não têm ligação biológica aos fungos; o nome advém da aperência filamentosa que apresentam mycolata sob alta magnificação. A presença de ácidos micólicos na parede da célula dá a mycolata um traço morfológico bruto distinto conhecido como "cording" (algo como "encordoamento"). Ácidos micólicos foram primeiramente isolados por Stodola et al. em 1938 do extrato de M. tuberculosis.
+Os ácidos micólicos são compostos de uma cadeia beta-hidróxi mais curta com uma cadeia lateral de alfa-alquil mais longa. Cada molécula contém entre 60 e 90 átomos de carbono. O número exato dos carbonos varia pela espécie e pode ser usado como um critério de identificação. A maioria de ácidos micólicos contêm também vários grupos funcionais.
+
+
+== Ácidos micólicos de M. tuberculosis ==
+M. tuberculosis produz três tipos de ácidos micólicos: alfa-, metóxi-, e ceto-.  Ácidos alfa-micólicos acids compreendem pelo menos 70% dos ácidos micólicos presentes no organismo e contém diversos anéis de ciclopropano. Ácidos metóxi-micólicos, os quais contém diversos grupos metóxi, compreendem entre 10% e 15% dos ácidos micólicos no organismo. Os restantes 10% a 15% dos ácidos micólicos são ácidos ceto-micólicos, os quais contém diversos grupos cetona.
+A presença de ácidos micólicos dá ao M. tuberculosis muitas características que provocam o tratamento médico. Doam a resistência aumentada do organismo a dano e à desidratação por produtos químicos, e impedem a atividade eficaz de antibióticos hidrófobos. Além disso, os ácidos micólicos permitem que a bactéria cresça prontamente para dentro de macrófagos, escondendo-se eficazmente do sistema imunológico do hospedeiro.
+A estrutura exata dos ácidos micólicos parece ser intimamente ligada à nocividade do organismo, porque a modificação dos grupos funcionais da molécula pode conduzir a uma atenuação do crescimento  in vivo. Adicionalmente, os indivíduos com mutações nos genes responsáveis pela síntese de ácido micólico exibem comportamento do "encordoamento" alterado.
+A coloração ácido-resistente, desenvolvida por Paul Ehrlich se baseia exatamente na presença de ácidos micólicos para a identificação do Mycobacterium tuberculosis, assim como a coloração de Ziehl Neilsen, e Kinyoun.Se atribui a ação antibacteriana da isoniazida pela inibição da síntese do ácido micólico e ruptura da parede celular, mas tal ainda não é plenamente comprovado. Igualmente é usada a etionamida (derivada do ácido micólico).Pelos mesmos mecanismos, o ácido micólico é importante no entendimento do tratamento de infecções pelo Mycobacterium abscessus.
+
+
+== Ácidos micólicos de Rhodococcus sp. ==
+Os ácidos micólicos do gênero Rhodococcus, outro membro do taxon mycolata, diferem de algumas maneiras daqueles do M. tuberculosis. Eles não contém grupos funcionais, mas apresentam diversas ligações insaturadas. Existem dois diferentes tipos de ácidos micólicos do gênero Rhodococcus. O primeiro tem entre 28 e 46 átomos de carbono com 0 ou 1 ligação insaturada. O segundo tem entre 34 e 54 átomos de carbono com 0 a 4 ligações insaturadas.  Sutcliffe (1998) propôs que eles são ligados ao restante da parede celular por moléculas arabinogalactanas.
+
+
+== Referências ==
+
+
+== Leitura adicional ==
+Barry et al. (1998).  "Mycolic acids:  structure, biosynthesis, and physiological functions."  Prog. Lipid Res. 37(3): 143-79.
+Nishiuchi, Baba, and Yano (1999).  "Mycolic acids from Rhodococcus, Gordonia, and Dietzia."  J. Microbiol. Methods 40: 1-9.
+Sutcliffe (1998).  "Cell envelope composition and organization in the genus Rhodococcus."  Antonie van Leeuwenhoek 74: 49-58.
+Takayama, Wang, and Besra (2005).  "Pathway to synthesis and processing of mycolic acids in Mycobacterium tuberculosis."  Clin. Microbiol. Rev. 18(1): 81-101.

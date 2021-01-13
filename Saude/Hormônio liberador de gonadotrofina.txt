@@ -1,0 +1,32 @@
+Hormônio liberador de gonadotrofina (português brasileiro) ou hormona libertadora de gonadotrofina (português europeu) (também conhecido pela sigla GnRH, do inglês Gonadotropin-Releasing Hormone) é um hormônio peptídico liberado pelo hipotálamo que estimula a hipófise a liberar o hormônio folículo-estimulante de gonadotrofinas e hormônio luteinizante, que são necessários à gametogênese e a esteroidogênese de mamíferos. O peptídeo pertence à família de hormônios liberadores de gonadotrofinas, e constitui o passo inicial no eixo hipotálamo-hipófise-gonadal.
+
+
+== Estrutura ==
+A identidade do GnRH foi esclarecida pelos vencedores do Nobel de 1977 Roger Guillemin e Andrew V. Schally:pyroGlu-His-Trp-Ser-Tyr-Gly-Leu-Arg-Pro-Gly-NH2
+
+
+== Síntese ==
+O gene, GNRH1, para o precursor de GnRH está localizado no cromossomo 8 e é expresso exclusivamente em uma população discreta de neurônios no hipotálamo. Nos mamíferos, o produto final do decapeptídeo linear é sintetizado a partir de um pré-hormônio de 92 aminoácidos no hipotálamo anterior pré-óptico. É o alvo de vários mecanismos reguladores do eixo hipotálamo-hipófise-gonadal, como o efeito bimodal do estrogênio, com influência tanto inibitória quanto estimuladora na secreção de GnRH.
+
+
+== Função ==
+Os terminais nervosos do GnRH envolvidos na regulação da função hipofisária anterior residem na eminência mediana, onde o GnRH é liberado na vasculatura do portal hipofisário.
+De lá, ele é transportado para a glândula pituitária, que contém as células gonadotrópicas, onde o GnRH ativa seu próprio receptor, o receptor do hormônio liberador de gonadotropina (GnRHR), um receptor acoplado à proteína G de sete transmembranas, que estimula a ativação da fosfolipase C e a produção de inositol trifosfato, que resulta na mobilização do cálcio, na produção de diacilglicerol e na ativação da proteína quinase C. Isso resulta na ativação de proteínas envolvidas na síntese e secreção das gonadotrofinas LH e FSH. O GnRH é degradado por proteólise em poucos minutos. 
+A atividade do GnRH é muito baixa durante a infância e é reativada no início da puberdade. Os pulsos de GnRH são fundamentais para o sucesso da função reprodutiva. No entanto, uma vez estabelecida a gravidez, a atividade de GnRH não é necessária. A atividade pulsátil pode ser interrompida pela doença hipotalâmica-hipofisária, seja por disfunção (ou seja, supressão hipotalâmica) ou lesões orgânicas (trauma, tumor). Níveis elevados de prolactina diminuem a atividade de GnRH. Por outro lado, a hiperinsulinemia aumenta a atividade do pulso, levando à atividade desordenada de LH e FSH, como observado na síndrome dos ovários policísticos. A formação de GnRH está ausente congenitamente na síndrome de Kallmann.
+
+
+=== Controle de FSH e LH ===
+O GnRH estimula a secreção hipofisária do hormônio luteinizante (LH) e do hormônio folículo-estimulante (FSH). Esses processos são controlados pelo tamanho e frequência dos pulsos de GnRH, bem como pelo feedback de andrógenos e estrógenos. Os pulsos de GnRH de baixa frequência são necessários para a liberação de FSH, enquanto os pulsos de GnRH de alta frequência estimulam os pulsos de LH de maneira individual.
+Existem diferenças na secreção de GnRH entre mulheres e homens. Nos homens, o GnRH é secretado em pulsos a uma frequência constante; no entanto, nas mulheres, a frequência dos pulsos varia durante o ciclo menstrual, e há um grande aumento de GnRH imediatamente antes da ovulação.A secreção de GnRH é pulsátil em todos os vertebrados e é necessária para a correta função reprodutiva. Assim, um único hormônio, GnRH1, controla um processo complexo de crescimento folicular, ovulação e manutenção do corpo lúteo na mulher e espermatogênese no homem.
+
+
+=== Como um neurohormônio ===
+O GnRH é considerado um neurohormônio, um hormônio produzido em uma célula neural específica e liberado em seu terminal neural. Uma área chave para a produção de GnRH é a área pré-óptica do hipotálamo, que contém a maioria dos neurônios secretores de GnRH. Os neurônios da GnRH se originam no nariz e migram para o cérebro, onde estão espalhados por todo o septo medial e hipotálamo e conectados por dendritos muito maiores >1 milímetro. Eles são agrupados para receberem entrada sináptica compartilhada, um processo que lhes permite sincronizar sua versão do GnRH.
+Os neurônios GnRH são regulados por muitos neurônios aferentes diferentes, usando vários transmissores diferentes (incluindo noradrenalina, GABA, glutamato).
+
+
+== Referências ==
+
+
+== Bibliografia ==
+Gilbert, Scott F.; Barresi, Michael J. F. (2019). Biologia do Desenvolvimento. São Paulo: Artmed

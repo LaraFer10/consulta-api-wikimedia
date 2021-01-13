@@ -1,0 +1,67 @@
+Radiação ionizante é a radiação que possui energia suficiente para ionizar átomos e moléculas, ou seja, é capaz de arrancar um elétron de um átomo ou molécula.
+O termo radiação ionizante refere-se a partículas capazes de produzir ionização em um meio, sendo "diretamente ionizantes" as partículas carregadas, como elétrons, pósitrons, prótons, alfas e "indiretamente ionizantes" aquelas sem carga, como fótons (raios X e raios gama) e nêutrons. Nesses últimos a ionização é produzida pela partícula carregada que se origina de sua interação com a matéria.
+A energia mínima típica da radiação ionizante é cerca de 10 eV.
+
+
+== Efeitos biológicos ==
+
+Os efeitos biológicos da radiação podem ser classificados quanto ao mecanismo de ação: direto ou indireto.
+
+Mecanismo direto: ocorre quando a radiação age sobre uma biomolécula importante como o ADN (em inglês DNA), principal constituinte dos cromossomos do núcleo da célula. A radiação pode danificar a molécula de ADN e isso pode levar a aberrações cromossômicas.
+Mecanismo indireto: ocorre quando a radiação age na molécula da água, que compõe cerca de 70% das células. A molécula da água é quebrada (radiólise) e formam-se radicais livres como a hidroxila (OH) e produtos oxidantes como o peróxido de hidrogênio (água oxigenada). Estes produtos são muito reativos e atacam moléculas importantes para o funcionamento celular como o ADN.É importante salientar que os organismos vivos possuem mecanismos de reparo do ADN, porém se o número de danos for muito alto ou se houver alguma falha no reparo, danos irreversíveis podem surgir. Os efeitos biológicos podem ainda ser classificados quanto a sua natureza, em reações teciduais e efeitos estocásticos.
+
+Reações teciduais: (também conhecidos como efeitos não estocásticos ou determinísticos), ocorrem quando uma alta dose de radiação causa a morte celular de um número muito grande de células de um determinado tecido ou órgão a ponto do mesmo ficar com seu funcionamento prejudicado.
+Efeitos estocásticos: são alterações que surgem nas células normais, sendo os principais o efeito cancerígeno e o efeito hereditário. O primeiro ocorre em células somáticas, ou seja o câncer ocorre na pessoa que recebeu a radiação, e o último em células germinativas, portanto pode ter seu efeito passado para os descendentes de quem foi irradiado. Os efeitos estocásticos são probabilísticos, portando não aparecem em todas as pessoas irradiadas. Diferentemente das reações teciduais (descrito acima), os efeitos estocásticos podem ser causados por qualquer dose de radiação, alta ou baixa.
+
+
+== Detectores de radiação ==
+Um detector de radiação é um dispositivo que, quando colocado em um meio onde exista um campo de radiação, seja capaz de indicar a sua presença.
+Existem diversos processos pelos quais os diferentes tipos de radiações podem interagir com o meio material utilizado para medir essas radiações. Alguns desses processos envolvem a geração de cargas elétricas, a geração de luz, a sensibilização de películas fotográficas, a criação de traços (buracos) no material, a geração de calor e alterações da dinâmica de certos processos químicos. Pode-se citar alguns tipos de detectores de radiação:
+Câmara de ionização
+Contador Geiger-Müller
+Contador proporcional a gás
+Detector a cintilação
+Detector semicondutor
+
+
+== Grandezas e unidades ==
+As medições da radiação ionizante são feitas utilizando-se a própria radiação ou os efeitos e subprodutos de sua interação com a matéria. As dificuldades de medição estão associadas a natureza da radiação, pois ela é invisível, inodora, insípida, inaudível e indolor.Pode-se citar algumas grandezas e unidades usadas na medição da radiação:
+Exposição: é uma grandeza definida apenas para os raios X e raios gama interagindo no ar, e mede a quantidade de carga elétrica produzida por ionização no ar, por unidade de massa do ar. A unidade do Sistema Internacional de Unidades (SI) usada nesta medição é o coulomb por quilograma (C/kg) e a unidade anteriormente usada era o roentgen (R).
+Dose absorvida: é a energia média cedida pela radiação ionizante à matéria por unidade de massa dessa matéria. A unidade do SI usada é o gray (Gy) e a unidade anteriormente usada era o rad.
+Dose equivalente: para uma mesma dose absorvida, o efeito biológico pode ser maior ou menor dependendo do tipo da radiação. A dose equivalente leva isso em conta, multiplicando-se a dose absorvida por um fator numérico adimensional chamado fator de qualidade. A unidade do SI usada é o sievert (Sv) e a unidade anteriormente usada era o rem.
+Atividade: a atividade de uma amostra radioativa é o número de desintegrações nucleares de seus átomos por unidade de tempo. A unidade do SI usada é o becquerel (Bq) e a unidade anteriormente usada era o curie (Ci).
+
+
+== Aplicações da radiação ==
+
+As aplicações da radiação ionizante são inúmeras, pode-se citar algumas:
+
+
+=== Aplicações industriais ===
+Algumas aplicações industriais que utilizam a radiação ionizante produzida por fontes radioativas ou aceleradores de partículas são:
+Esterilização por irradiação: neste processo são usados raios X e gama de alta energia, produzidos por fontes como o 60Co ou aceleradores lineares com o intuito de destruir micro-organismos nocivos. Isso pode ser feito para materiais hospitalares (como seringas, algodão, sutura) mas também pode ser usado para irradiação de alimentos, diminuindo a contaminação por micro-organismos ou inibindo o brotamento. Neste caso é importante notar que não há contato dos alimentos com o material radioativo, inexistindo a possibilidade de contaminação.
+Modificação de materiais por irradiação: é possível alterar ou melhorar a coloração de gemas para uso em joias, como água marinha, topázio, quartzo e turmalina. Plásticos também podem ser irradiados por elétrons tendo suas propriedades melhoradas através de reações de reticulação, como por exemplo a isolação de cabos elétricos.
+Controle de processos usando fontes radioativas: fontes radioativas seladas (ou seja, seladas de forma rígida e inviolável) podem ser usadas para monitorar a espessura de filmes e o nível de fluídos em envasamentos.
+Radiografia com fontes gama: quando é necessário verificar a integridade de materiais e equipamentos em campo de forma não destrutiva, mas onde não seja possível o uso de um aparelho de raios X, pode-se utilizar fontes radioativas seladas, emissoras de raios gama como o 192Ir.
+
+
+=== Aplicações na medicina ===
+No início do século XX, quando ainda havia falta de maiores estudos sobre as propriedades físico-químicas da radiação, uma série de terapias com elementos radioativos (especialmente urânio, rádio e radônio) foram propostas e até mesmo comercializadas. Nos Estados Unidos, apenas a partir da década de 1930 foram tomadas medidas para proibir o uso de produtos com substâncias radioativas prejudiciais à saúde. Até a década de 1940, uma empresa americana comercializava medicamentos na forma de pomadas, comprimidos e supositórios contendo elementos radioativos.De uma maneira geral, as aplicações das radiações ionizantes na medicina compreendem um campo genericamente denominado radiologia, que por sua vez compreende a radioterapia, a radiologia diagnóstica e a medicina nuclear.Radiações podem ser usadas para pesquisa, diagnóstico e tratamento na medicina estando todos esses usos sujeitos às regulações governamentais. Nos EUA, esses usos constituem a principal fonte de exposição humana a radiação. Na pesquisa, normalmente usam-se pequenas doses de radiação, na busca de novas formas de diagnosticar e tratar doenças.
+Um dos usos mais comuns, para diagnóstico, são os raios-X; na Rússia 50% da população está sujeita a eles, e nos EUA raios-X são utilizados em mais de metade dos diagnósticos de ferimentos físicos. Também se destacam a tomografia computadorizada (em inglês CT scan) e o uso de radionuclídeos para formação de imagens na medicina nuclear.Quando usada para tratamento, o principal destaque é o uso da radioterapia para combate ao câncer; neste caso, os radionuclídeos mais usados são: 131I, 32P, 89Sr e 153Sm; 60Co é usado externamente, como um potente emissor gama. Atualmente, aceleradores lineares de elétrons com energia entre 5 e 30 MeV são as principais máquinas para radioterapia (em 2008 existiam aproximadamente 5000 destes no mundo). Nessas máquinas, os raios X são produzidos quando os elétrons acelerados atingem um alvo de metal pesado. Caso medidas adequadas de segurança sejam adotadas, a contaminação por radionuclídeos em hospitais deve ser mínima. No entanto, Ho & Shearer , ao analisarem a contaminação em sanitários próximos aos laboratórios que utilizam radiação, recomendaram que sejam designados sanitários especiais a pacientes realizando tratamento radioativo, presumivelmente para evitar contaminação dos outros pacientes.
+
+
+== Radiação de fundo ==
+Os níveis naturais de radiação constituem a chamada radiação de fundo. Sua existência se deve à presença de radionuclídeos, tais como 40K (potássio), 238U (urânio empobrecido) e 232Th (tório), na atmosfera, hidrosfera e litosfera, e aos raios cósmicos, que atingem a Terra vindos do espaço. Uma porção menos importante da radiação de fundo é devida a radionuclídeos de meia-vida curta formados nas camadas superiores da atmosfera, na interação de gases atmosféricos com raios cósmicos.Diferentes tipos de rocha emitem diferentes intensidades de radiação, e alguns radionuclídeos, em especial o 40K, são encontrados em organismos vivos.
+A ação antrópica pode modificar essa radiação de três maneiras principais: redistribuindo radionuclídeos artificiais; liberando no ambiente radionuclídeos artificiais recentes, resultantes da produção de energia por fissão nuclear; e pela produção, uso e descarte de radionuclídeos, artificiais e naturais, na ciência, medicina e indústria. 
+
+
+== Ver também ==
+Radiação não ionizante
+Degradação de materiais por radiação
+
+
+== Referências ==
+
+
+== Ligações externas ==
+Textos: Radiações Ionizantes no Saúde e Trabalho Online

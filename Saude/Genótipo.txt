@@ -1,0 +1,36 @@
+O genótipo é a parte da composição genética de uma célula e, portanto, de qualquer indivíduo, que determina uma de suas características (fenótipo).  O termo foi cunhado pelo botânico dinamarquês , fisiologista e geneticista Wilhelm Johannsen em 1903.O genótipo é um dos três fatores que determinam o fenótipo, juntamente com fatores epigenéticos hereditários e fatores ambientais não hereditários.  Nem todos os organismos com o mesmo genótipo se parecem ou agem da mesma forma, porque a aparência e o comportamento são modificados pelas condições ambientais e de crescimento.  Da mesma forma, nem todos os organismos parecidos têm necessariamente o mesmo genótipo.
+Tipicamente, um refere-se ao genótipo de um indivíduo a relação entre gene particular de interesse e a combinação de alelos que o indivíduo carrega (veja homozigoto , heterozigoto ).  Os genótipos são frequentemente denotados com letras, por exemplo, Bb , em que B representa um alelo e b o outro e, normalmente, a letra escolhida para fazer tal representação á a primeira letra da característica descrita por aquele gene, no caso os alelos B e b poderiam estar vinculados ao fato de uma pessoa apresentar bruxismo ou não.
+Mutações que são adquiridas ao longo da vida, e não herdadas (mudanças hereditárias), são chamadas mutações somáticas, por exemplo aqueles que causam cânceres, não fazem parte do genótipo do indivíduo.  Por isso, quando cientistas e médicos se referem ao genótipo de um câncer particular, eles falam do da doença especificamente.
+Um exemplo de uma característica determinada por um genótipo é a cor da pétala em uma planta de ervilha (veja a imagem inicial).  A coleção de todas as possibilidades genéticas para uma única característica são chamadas de alelos; dois alelos para a cor da pétala são roxo e branco.
+
+
+== Fenótipo ==
+Geralmente, qualquer alteração gênica causa uma mudança observável em um organismo, conhecido como o fenótipo.
+Os termos genótipo e fenótipo são distintos por pelo menos dois motivos:
+
+Superficialmente, pode-se definir  genótipo como a observação do DNA e o fenótipo como a aparência externa de um organismo.
+O genótipo e o fenótipo nem sempre são diretamente correlacionados.  Alguns genes expressam apenas um determinado fenótipo em certas condições ambientais.  Por outro lado, alguns fenótipos podem ser o resultado de múltiplos genótipos.  O termo genótipo é comumente confundido com fenótipo. Mas fenótipo descreve o resultado final do genótipo aliado a fatores ambientais, dando a expressão observada (por exemplo, olhos azuis, coloração do cabelo ou várias doenças hereditárias).Um exemplo simples para diferenciar o genótipo do fenótipo é a cor da flor nas plantas de ervilha (veja Gregor Mendel).  Existem três genótipos disponíveis, PP (homozigoto dominante), Pp (heterozigoto) e pp (homozigoto recessivo).  Todos os três têm genótipos diferentes, mas os dois primeiros têm o mesmo fenótipo (roxo), distinto do terceiro (branco).
+Um exemplo mais técnico para ilustrar o genótipo é o polimorfismo de nucleotídeo único ou PNS.  Um PNS ocorre quando sequências correspondentes de DNA de diferentes indivíduos apresentam uma base de DNA diferente, por exemplo, onde a sequência AAGCCTA muda para AAGCTTA.  Os SNPs tipicamente possuem três genótipos, denotados genericamente AA Aa e aa.  No exemplo acima, os três genótipos seriam CC, CT e TT.  Outros tipos de marcadores genéticos , como os microssatélites , podem ter mais de dois alelos e, portanto, muitos genótipos diferentes.
+
+
+== Herança mendeliana ==
+A distinção entre genótipo e fenótipo é comumente vivenciada quando se estuda padrões familiares para certas doenças ou condições hereditárias, como por exemplo a hemofilia .  Humanos e a maioria dos animais são diplóides, desta forma, existem dois alelos para qualquer gene.  Esses alelos podem ser os mesmos (homozigotos) ou diferentes (heterozigotos), dependendo do indivíduo (veja zigoto).  Com um alelo dominante , a descendência é garantida para herdar a característica em questão, independentemente do segundo alelo.
+No caso de um albino com um alelo recessivo (aa), o fenótipo depende do outro alelo (Aa, aA, aa ou AA).  Uma pessoa afetada que se acasala com um indivíduo heterozigoto (Aa ou aA, também portador) tem 50% de chance de que a descendência seja o fenótipo albino.  Se um heterozigoto se acasala com outro heterozigoto, há 75% de chance de passar o gene e apenas 25% de chance de que o gene do albinismo seja exibido.  Um indivíduo homozigoto dominante (AA) tem um fenótipo normal e nenhum risco de descendência anormal.  Um indivíduo homozigótico recessivo tem um fenótipo anormal e é garantido que passe o gene anormal para os descendentes.
+No caso da hemofilia, ela é ligada ao sexo , sendo vinculada exclusivamente no cromossomo X.  Somente as fêmeas podem ser portadoras e não exibir a condição.  Esta mulher tem um fenótipo normal, mas corre uma chance de 50-50, com um parceiro não afetado, de passar seu gene anormal para sua prole.  Se ela se acasalasse com um homem com hemofilia (outro portador ), haveria uma chance de 75% de passar o gene.
+
+
+== Determinação ==
+A genotipagem é o processo de elucidar o genótipo de um indivíduo com um ensaio biológico.  Também conhecido como ensaio genotípico , as técnicas incluem PCR , análise de fragmentos de DNA , sondas oligonucleotídicas específicas para alelos (ASO), sequenciamento de DNA e hibridização de ácidos nucleicos com microarrays ou beads de DNA .  Várias técnicas comuns de genotipagem incluem polimorfismo de comprimento de fragmento de restrição ( RFLP ), polimorfismo de comprimento de fragmento de restrição terminal ( t-RFLP ), polimorfismo de comprimento de fragmento amplificado ( AFLP ), e amplificação de sonda dependente de multiplex ( MLPA ).A análise de fragmentos de DNA também pode ser usada para determinar tal doença causando aberrações genéticas como instabilidade de microssatélites ( MSI ), trissomia ou aneuploidia , e perda de heterozigosidade ( LOH ).  MSI e LOH em particular foram associados a genótipos de células cancerígenas para câncer de cólon , mama e cervical .
+A aneuploidia cromossômica mais comum é uma trissomia do cromossomo 21 que se manifesta como síndrome de Down .  Limitações tecnológicas atuais normalmente permitem que apenas uma fração do genótipo de um indivíduo seja determinada de forma eficiente.
+
+
+== Veja também ==
+Epigenética
+Sequência de ácido nucleico
+Fenótipo
+Genética
+Sistema numeral quaternário
+Sequência (biologia)
+
+
+== Referências ==

@@ -1,0 +1,56 @@
+Um neurônio receptor olfatório (do inglês ORN ou OSN), é uma célula de transdução de sinal do sistema olfativo presente no epitélio olfatório. Esses neurônios podem se dividir em neurônios olfatórios maduros ou imaturos e são originados das células horizontais ou basais.
+
+
+== Vertebrados ==
+Os seres humanos têm cerca de 6 milhões de neurônios olfatórios. Em vertebrados, OSNs são neurônios bipolares com um dendrito voltados para a luz da cavidade nasal e um axônio que atravessa a placa cribriforme e segue ao longo do nervo olfatório para o bulbo olfatório onde convergem para estruturas denominadas glomérulos. Os OSNs estão localizados na cavidade nasal do epitélio olfatório . Os corpos celulares dos OSNs são distribuídos entre as três camadas estratificadas do epitélio olfatório.
+
+
+=== Estrutura ===
+Pequenas estruturas denominadas cílios se projetam a partir do dendrito da célula olfatória para fora do epitélio olfatório onde ficam recobertos do muco presente nessa cavidade. A superfície desses cílios é coberto com receptores olfatórios, um tipo de Receptor acoplado à proteína G que ativa os neurônios mediante reconhecimento de um odorante. Cada OSN expressa apenas um tipo de receptor olfatório (OR) dentre cerca de 800 possibilidades (em humanos) e 1400 em camundongos. Os axônios das células receptoras que expressam um mesmo OR convergem para os mesmos glomérulos no bulbo olfatório.
+
+
+=== Função ===
+A principal função dos neurônios olfatórios é reconhecer moléculas, que tenham se dissolvido no muco, e sinalizar esse reconhecimento para neurônios de níveis hierárquicos superiores, como as células mitrais do bulbo olfatório. O reconhecimento dessas moléculas acontece através dos receptores olfatórios, localizados nas membranas dos cílios, que desencadeiam uma complexa cascata que leva a ativação de receptores ionotrópicos capazes de despolarizar o neurônio. Os neurônios ativos realizam sinapses, nos glomérulos, com as células mitrais indicando a presença dos odorantes pelos quais aqueles neurônios são responsáveis.
+
+
+==== Mecanismo ====
+Um odorante (molécula que ativa os receptores olfatórios) dissolve-se no muco do epitélio olfatório e, em seguida, liga-se a receptores olfatórios (ORs) específicos para aquela molécula. Essa interação ativa o OR que muda de conformação e ativa a proteína G. Quando ativa, a subunidade alfa da proteína G (que nesses neurônios é a G alfa olf) se desliga do restante do complexo e fosforila a proteína adenilato ciclase III.
+A proteína adenilato ciclase III fosforilada é capaz de converter ATP e cAMP. O aumento na concentração de cAMP causa a ativação de canais iônicos, na membrana celular, que mudam de conformação e permitem um fluxo de íons sódio e cálcio para dentro da célula, e um efluxo de íons cloreto de dentro para fora da célula. Essa passagem de íons faz com que o neurônio depolarize, gerando um potencial de ação. Se esse potencial é suficientemente positivo, o neurônio libera vesículas contendo neurotransmissores, para os glomérulos, que podem ser reconhecidos por outros neurônios.
+
+
+=== Dessensibilização de Neurônio Olfatório ===
+O feedback negativo de resposta após a despolarização neurônio olfatório tem um funcionamento rápido. Quando o neurônio é despolarizado, o canal de íons CNG é aberto, permitindo que a entrada de Sódio e Cálcio. O cálcio, agora em alta concentração na célula, inicia uma cascata de eventos que geram a dessensibilização do neurônio. Primeiro, o cálcio se liga à calmodulina para formar o complexo CaM. CaM vai, em seguida, se ligar ao canal (CNG) e fechá-lo, interrompendo a entrada de sódio e de cálcio. A Proteína quinase dependente de calmodulina (CaMKII) será ativada pela presença de CaM, que vai fosforilar a adenilato ciclase II e reduzir a produção cAMP. CaMKII irá também ativar a fosfodiesterase, que, em seguida, irá hidrolisar o cAMP presente na célula. O efeito da resposta de feedback negativo diminui a sensibilidade do neurônio, necessitando uma maior quantidade de odorantes para sua ativação.
+
+
+== Ciclo de Maturação ==
+
+
+=== Células Basais ===
+São pequenas, redondasas ou cónicas e formam uma camada única basal na região do epitélio, entre as células olfativas e as de sustentação.
+
+
+=== Células Globosas ===
+
+
+=== Neurônios Olfatórios Imaturos ===
+As células globosas se diferenciam em neurônios olfatórios que ficam em porções mais basais do epitélio. É nesse período que o neurônio passa a expressar genes característicos de neurônios olfatórios, como por exemplo os fatores de transcrição necessários para a expressão dos genes ORs.
+Nessa fase, é iniciada a transcrição de receptores olfatórios num padrão de expressão diferente dos neurônios maduros. A quantidade de transcritos ainda é bem reduzida e mais de um gene pode ser expresso desde que seja pertencente àquela zona. Essa transcrição desencadeia um sinal de feedback negativo  que causa uma uma marcação epigenética responsável pelo silenciamento desses outros genes. Depois disso, o neurônio escolhe apenas um dos receptores olfatórios para ser expresso e intensifica sua transcrição reprimindo também os demais. Os mecanismos envolvidos nessa escolha e na repressão dos genes ainda são desconhecidos, embora já se saiba que dependem da expressão das proteínas de receptores olfatórios funcionais, da adenilyl ciclase III e da proteína de deposição de marcas de histona LSD I
+
+
+=== Neurônios Olfatórios Maduros ===
+
+
+== Insetos ==
+
+
+== Veja também ==
+Quimiorreceptores
+Receptores sensoriais
+
+
+== Referências ==
+
+
+== Ligações externas ==
+NIF de Busca Olfativa receptor do neurônio através da Neurociência Estrutura de Informações
+Inseto olfato

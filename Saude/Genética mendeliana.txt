@@ -1,0 +1,63 @@
+A genética mendeliana, herança mendeliana ou mendelismo  é um conjunto de princípios relacionados à transmissão hereditária das características de um organismo a seus filhos. Forma a base principal da genética clássica. Originou-se dos trabalhos de Gregor Mendel publicados em 1865 e 1866, os quais foram considerados controversos inicialmente, e redescobertos em 1900. Somente quando incorporada à teoria do cromossomo de Thomas Hunt Morgan em 1915, a genética mendeliana se tornou a essência da genética clássica. 
+
+
+== Leis de Mendel ==
+Baseado em trabalhos já existentes acerca de hibridização de plantas ornamentais, mas que não haviam sido bem-sucedidos, tais como o trabalho de Kölreuter, Gartner, e outros, Mendel decidiu estudar o mesmo problema. O primeiro cuidado que teve foi selecionar devidamente o material de estudo; para isso, estabeleceu alguns critérios e procurou material que se lhes adequassem. Tais critérios consistiam principalmente em encontrar plantas de caracteres nitidamente distintos e facilmente diferenciáveis; que essas plantas cruzassem bem entre si, e que os híbridos delas resultantes fossem igualmente férteis e se reproduzissem bem; e, por fim, que fosse fácil protegê-las contra polinização estranha. Baseado nesses critérios, depois de várias análises, Mendel escolheu algumas variedades e espécies de ervilhas (Pisum sativum), conseguindo um total de sete pares de caracteres distintos.
+Vamos chamar de linhagem os descendentes de um ancestral comum. Mendel observou que as diferentes linhagens, para os diferentes caracteres escolhidos, sempre eram puras, isto é, não apresentavam variações ao longo das gerações. Por exemplo, a linhagem que apresentava sementes da cor amarela produziam descendentes que apresentavam exclusivamente a semente amarela. O mesmo caso ocorre com as ervilhas com sementes verdes. Essas duas linhagens eram, assim, linhagens puras. Mendel resolveu então estudar esse caso em especifico.A flor de ervilha é uma flor típica da família das Leguminosae. Apresenta cinco pétalas, duas das quais estão opostas formando a carena, em cujo interior ficam os órgãos reprodutores masculinos e femininos. Por isso, nessa família, a norma é haver autofecundação; ou seja, o grão de pólen da antera de uma flor cair no pistilo da própria flor, não ocorrendo fecundação cruzada. Logo para cruzar uma linhagem com outra era necessário evitar a autofecundação. Mendel escolheu alguns pés de ervilha de semente amarela e outros de semente verde, emasculou as flores ainda jovens, ainda não-maduras. Para isso, retirou das flores as anteras imaturas, tornando-as, desse modo, completamente femininas. Depois de algum tempo, quando as flores amadureceram, polinizou as flores de ervilha amarela com o pólen das flores de ervilha verde, e vice-versa. Essas plantas constituem portanto as linhagens parentais. Os descendentes desses cruzamentos constituem a primeira geração em estudo designada por geração F¹, assim como as seguintes são designadas por F², F³, etc.
+
+
+=== Lei da dominância ===
+A lei da dominância afirma que todos os descendentes de progenitores que diferem em apenas uma característica terão o fenótipo de apenas um deles, o dominante. A outra característica é chamada recessiva, e só se manifesta caso ambos os factores sejam recessivos.
+
+
+=== Lei da segregação ===
+A lei da segregação afirma que fatores determinam uma característica e a 
+formação dos gâmetas, os progenitores segregam os factores aleatoriamente de modo que cada gâmeta possui apenas um deles. Ou seja, cada descendente possui um factor vindo de um progenitor, e um segundo vindo do outro progenitor. 
+Todas as sementes obtidas em F¹, foram amarelas (por serem dominantes e as verdes recessivas), portanto iguais a um dos pares. Uma vez que todas as sementes eram iguais, Mendel plantou-as e deixou que as plantas quando florescessem, se autofecundassem, produzindo assim a geração F². As sementes obtidas na geração F² foram verdes e amarelas, na proporção de 3 para 1, sempre 3 amarelas para 1 verde. Inclusive na análise de dois caracteres simultaneamente, Mendel sempre caía na proporção final de 3:1. Para explicar a ocorrência de somente sementes amarelas em F¹ os dois tipos em F², Mendel começou admitindo a existência de fatores que passassem dos pais para os filhos por meio dos gametas. Cada fator seria responsável pelo aparecimento de um caráter.
+Assim, existiria um fator que condiciona o caráter amarelo e que podemos representar por A (maiúsculo), e um fator que condiciona o caráter verde e que podemos representar por a (minúsculo). Quando a ervilha amarela pura é cruzada com uma ervilha verde pura, o híbrido F¹ recebe o fator A e o fator a, sendo portanto, portador de ambos os fatores. As ervilhas obtidas em F¹ eram todas amarelas, isso quer dizer que, por ter o fator A (maiúsculo), esse se manifestou, sendo assim chamado de "dominante". Mendel chamou de "recessivo" (a)(minúsculo) o fator que não se manifesta em F¹. Utiliza-se sempre a letra do caráter recessivo para representar ambos os caráteres, sendo maiúscula a letra do dominante e minúscula a do recessivo. 
+Continuando a análise, Mendel contou em F², o número de indivíduos com caráter recessivo, e verificou que eles ocorrem sempre na proporção de 3 dominantes para 1 recessivo. Mendel chegou a conclusão que o fator para verde só se manifesta em indivíduos puros, ou seja com ambos os fatores iguais à a (minúsculo). Em F¹ as plantas possuíam tanto os fatores A quanto o fator a sendo, assim, necessariamente amarelas. Podemos representar os indivíduos da geração F¹ como Aa (heterozigoto e, naturalmente, dominante). Logo para poder formar indivíduos aa (homozigotos recessivos) na geração F² os gametas formados na fecundação só poderiam ser aa. Esse fato não seria possível se a geração desse origem a gametas com fatores iguais aos deles (Aa). Isso só seria possível se ao ocorrer a fecundação houvesse uma segregação dos fatores A e a presentes na geração F¹, esses fatores seriam misturados entre os fatores A e a provenientes do pai e os fatores A e a provenientes da mãe. Os possíveis resultados sendo: AA, Aa e aa.
+Esse fato foi posteriormente explicado pela meiose, que ocorre durante a formação dos gametas. Mendel havia criado então sua teoria sobre a hereditariedade e da segregação dos fatores.
+
+
+=== Lei da segregação independente ===
+A lei da segregação independente afirma que uma característica é herdada independentemente de outra característica. Ou seja, durante a formação dos gâmetas, os factores que determinam cada uma das características são segregados independentemente. 
+Mendel em seus experimentos também cruzou plantas que diferiam em relação a dois pares de alelos. Neste cruzamento, que objetivava esclarecer a relação de diferentes pares de alelos, ele cruzou plantas que possuíam sementes amarelas e lisas com plantas que possuíam sementes verdes e rugosas. A progênie F1 resultante entre o cruzamento dos progenitores homozigota é formada por híbridos (heterozigotos) para dois pares de genes. A progênie F1 (GgWw) é formada por diíbridos e, por extensão, o cruzamento GGWW x ggww é um cruzamento diíbrido. Sabia-se, graças à experiências anteriores, que os alelos que determinavam sementes amarelas e lisas eram dominantes e sobre seus respectivos alelos, que produziam sementes verdes e rugosas. Assim, considerando dois deles tinham-se as informações: 
+
+caráter cor dos cotilédonesjá tinha sido observado que o padrão amarelo (V_) apresentava dominância sobre o padrão verde (vv);
+caráter aspecto da casca da sementeneste caso, já se observa que o padrão de casca lisa (R_) era dominante sobre o tipo casca rugosa (rr).Os cruzamentos foram realizados no mesmo esquema da elaboração da primeira lei. A geração parental (F) utilizava duas plantas homozigóticas para as características estudadas, assim uma duplo-dominante (AA) era cruzada com um duplo-recessiva (aa). Desse cruzamento surgiu um híbrido heterozigótico (Aa). Mendel selecionou dois caracteres das sete estudadas na primeira lei para comparação, ervilhas amarelas (AA) e lisas (BB)(duplo-dominante) e ervilhas verdes (aa) e rugosas (bb) (duplo-recessiva). No primeiro cruzamento (F1) todas as ervilhas obtidas eram amarelas (Aa) e lisas (Bb). Na segunda geração (F2) foram obtidas ervilhas amarelas (A_) e lisas(B_), amarelas(A_) e rugosas(bb), verdes(aa) e lisas(B_) e verdes(aa) e rugosas(bb), na proporção, respectivamente, 9:3:3:1
+(P)AA/aa + BB/bb
+(F1)AAxaa=Aa                        BBxbb=Bb
+(F2)AaxAa=AA/Aa/Aa/aa               BbxBb=BB/Bb/Bb/bb
+
+
+==== Cruzamentos possíveis de todos os gametas obtidos ====
+A_: Dominante(cor Amarela).
+B_: Dominante(forma Lisa).
+aa: Recessivo(cor Verde).
+bb: Recessivo(forma Rugosa).
+Obs.: Foram obtidos dezesseis resultados entre os cruzamentos dos possíveis tipos de cromossomos.
+Obs.2: A proporção obtida na experiencia decorre da soma do número de ocorrências. Exemplo: Amarela e Lisa(A_B_)- 1/16x9= 9/16.
+Assim na geração F2 constata-se a existência de quatro fenótipos distintos, sendo dois idênticos da geração parental e dois novos(A_bb e aaB_). Todos os resultados confirmaram que os genes de cada carácter passavam de forma independente dos demais, ou seja, o fenótipo dominante - amarelo - não era transmitido obrigatoriamente com o fenótipo dominante - liso, o mesmo ocorreu com a transmissão dos fenótipos recessivos - verde e rugoso - para os descendentes.
+
+
+== Mecanismos hereditários não previstos por Mendel ==
+Co-dominância
+Alelos múltiplos
+Genes Letais
+
+
+== Importância dos estudos de Mendel ==
+Embora as conclusões de Mendel tenham se baseado em trabalhos com uma única espécie de planta, os princípios enunciados nas duas leis aplicam-se a todos os organismos de reprodução sexuada. Pode-se tomar como exemplo um caso de herança animal.
+Cobaias pretas homozigotas cruzadas com cobaias brancas homozigotas originarão descendentes pretos heterozigotos, que cruzados entre si, originarão cobaias pretas e brancas na proporção 3:1.
+Mendel criou a base da genética moderna. Embora seus estudos tenham permanecidos obscuros até o século XX eles influenciaram a biologia como um todo dando origem a todos os estudos posteriores sobre hereditariedade e genética.
+
+
+== Referências ==
+
+
+== Bibliografia ==
+
+
+== Ligações externas ==
+Biografia de Mendel - em inglês
+Página do museu sobre Mendel (em inglês)

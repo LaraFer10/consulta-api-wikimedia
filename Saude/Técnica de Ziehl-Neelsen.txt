@@ -1,0 +1,53 @@
+A coloração ou técnica de Ziehl-Neelsen, abreviada na literatura muitas vezes como ZN, é uma técnica de coloração de bactérias mais agressiva que a técnica de Gram, sendo usada em bactérias que não são bem coradas com esta técnica, como os bacilos da lepra e da tuberculose, as bactérias dos gêneros Mycobacterium e Nocardia, entre outros. Foi desenvolvida por Franz Ziehl e posteriormente melhorada por Friedrich Neelsen, no final do século XIX.
+
+
+== Técnica de Ziehl-Neelsen ==
+Há bactérias que são resistentes à coloração, mas que uma vez coradas vão resistir fortemente à descoloração, mesmo por ácidos fortes diluídos e álcool absoluto. Às bactérias que possuem esta propriedade dizemos que são ácido-álcool resistentes, (BAAR) (géneros Mycobacterium e Nocardia). Esta característica é devida ao elevado teor de lípidos estruturais (ex. ácido micólico) na parede celular destas bactérias, que provoca uma grande hidrofobicidade, dificultando a ação dos mordentes e diferenciadores de corantes aquosos.
+A técnica de Ziehl-Neelsen evidencia esta ácido-álcool resistência. Segue o seguinte protocolo:
+
+Confeccionar o esfregaço seguindo as técnicas atuais de biossegurança;
+Cobrir a lâmina com fucsina fenicada (o mordente é o ácido fénico);
+Aquecer a lâmina até à emissão de vapores (é importante não deixar ferver);
+Aguardar 5 a 8 minutos;
+Lavar com água corrente;
+Cobrir a lâmina com álcool-ácido 3% até descorar totalmente o esfregaço;
+Lavar com água corrente;
+Cobrir a lâmina com azul de metileno durante 1 minuto;
+Lavar com água corrente;
+Secar;
+Observar.A fucsina fenicada, atuando a quente, vai corar todas as células bacterianas e outras estruturas presentes no esfregaço de vermelho (o calor vai derreter os lípidos de membrana, tornando-a permeável). O ácido diluído em álcool aplicados vão descorar todas as bactérias exceto as ácido-álcool resistentes, que permanecem coradas de vermelho pela fucsina. Assim, ao serem observadas após coloração e contraste, com azul de metileno, encontraremos as bactérias:
+
+Ácido-álcool resistentes: coradas de vermelho.
+Não ácido-álcool resistentes: coradas de azul.
+
+
+== Preparação para a Coloração ==
+Na observação microscópica pós coloração o material a observar deve ser previamente fixado, o que facilita a observação de bactérias, uma vez que têm reduzidas dimensões, fraco contraste e algumas refringência e mobilidade.
+A fixação é a coagulação do protoplasma bacteriano com o mínimo de deformação e sua colagem à lâmina. Como exemplos de agentes fixadores temos o calor, o formol e o éter.
+A coloração recorre do uso de corantes e permite aumentar o contraste e evidenciar a estrutura bacteriana. Estes são compostos orgânicos, com um ou mais anéis benzénicos que se encontram ligados a dois grupos funcionais, o cromóforo que é responsável pela cor do corante e o auxócromo que se dissocia ionicamente em solução dotando o corante de capacidade para reagir com os tecidos, células e estruturas celulares. Podemos diferenciar dois tipos de corantes; os corantes ácidos (são negativos formando sais com cátions) e os corantes básicos (são positivos formando sais com ânions). Como as bactérias possuem carga elétrica negativa existe afinidade entre os corantes básicos e as estruturas celulares da bactéria permitindo que esta fique corada. Para reforçar a ação do corante, aumentando a força de ligação deste às estruturas celulares utilizam-se mordentes como o ácido tânico, o ácido crômico, o ácido fénico, o iodo (Soluto de Lugol), o calor e os álcalis. Os solutos corantes são compostos de várias substâncias sendo geralmente hidro-alcoólicos-fenicados porque além da substância corante possuem água para permitir a dissociação iônica do corante, álcool para conservar e ácido fénico que atua como mordente e como bacteriostático evitando a contaminação das soluções corantes. Após a aplicação do corante aplica-se um diferenciador que serve para retirar o excesso de corante (acetona, ácido sulfúrico, álcool 95º). Os diferenciadores têm a capacidade de descorar certas bactérias já previamente coradas e são usados em colorações policromáticas.
+A preparação de colorações policromáticas segue um protocolo constante. Assim, sobre um esfregaço (células fixadas pelo calor), aplica-se:
+
+O primeiro corante
+O mordente
+O diferenciador
+Água (vai parar a diferenciação)
+O segundo corante (vai ser contrastante)
+
+
+== Aplicações ==
+As técnicas de coloração ácido-resistente, desenvolvidas inicialmente por Paul Ehrlich se baseiam na presença de ácidos micólicos, como as voltadas para a identificação do Mycobacterium tuberculosis pela coloração de Ziehl Neilsen e Kinyoun.Os esporos de Encephalitozoon cuniculi são coloridos com a coloração de Ziehl-Neelsen, os quais também apresentam afinidade com fucsina e azul de toluidina e a coloração azul de toluidina-fucsina.A coloração de Ziehl-Neelsen também encontra aplicação no diagnóstico de um fungo causador de dermatites assim como de feohifomicoses chamado Curvularia lunata.
+
+
+== Referências ==
+
+
+== Ligações externas ==
+«MÉTODO DE ZIEHL-NEELSEN PARA BACILOS ÁLCOOL-ÁCIDO RESISTENTES (tuberculose, lepra) - www.fcm.unicamp.br» 
+Sumário de aula prática com aplicação da técnica
+«PREPARAÇÕES DE MICRORGANISMOS PARA MICROSCÓPIO ÓPTICO COLORAÇÃO ZIEHL-NEELSEN - med.up.pt» 
+Aplicação da coloração com fucsina pela técnica de Ziehl-Neelsen
+«Estudo comparativo entre métodos de coloração para a pesquisa do bacilo álcool-ácido resistente em secreções pulmonares; Clara Pechmann Mendonça, Vera Lygia Ferreira Lourenço, Mario Tsunezi Shimizu, Paulo Roberto Natalino, Ivone Shizuko Anno, Romanoff Jorge S. Haddad, José Dario Prada, Geraldo Campos Costa; Rev. Saúde Pública vol.9 no.1 São Paulo Jan./Mar. 1975 - www.scielo.br» 
+
+
+== Ver também ==
+Corante auramina-rodamina

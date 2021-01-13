@@ -1,0 +1,49 @@
+O cromossomo sexual (pt-BR) ou cromossoma sexual (pt)  é um tipo de cromossomo, encontrado em células da maioria dos organismos, e determina o sexo dos indivíduos.
+A maioria das plantas e animais são organismos diploides (2n): possuem duas cópias de cada cromossomo. Nos núcleos das células, os cromossomos são encontrados em conjuntos de pares idênticos, excetuando-se um par de cromossomos. Os cromossomos pareados são chamados de autossomos. Os cromossomos não-pareados são chamados de cromossomos sexuais.
+No caso da espécie humana, o total de cromossomos é de 23 pares, sendo 22 pares de autossomos e um par de cromossomos sexuais (XX ou XY).
+
+
+== Mecanismos de determinação dos tipos de sexos ==
+
+
+=== Machos heterogaméticos ===
+É o mecanismo da espécie humana e aparentemente em todos os outros mamíferos (com exceção do ornitorrinco), no qual a presença do cromossomo Y determina a masculinidade.
+O sexo, nestes casos, é caracterizado por:
+
+Fêmeas: Apresentam em suas células somáticas um número par de cromossomos do tipo XX e produzem apenas um tipo de gameta, com cromossomo X
+Machos: Apresentam em suas células somáticas um número par de cromossomos do tipo XY e produzem dois diferentes gametas, X e Y.Neste caso a proporção de 50% de machos e 50% de fêmea se mantém pois os cruzamentos envolvem indivíduos XX cruzando com XY.
+
+Nos insetos, como os percevejos (hemípteros) e gafanhotos e baratas (Orthoptera e Blattodea respectivamente) o número de cromossomos X é o determinante do sexo. 
+Já nestes casos, o sexo caracteriza-se por:
+
+Fêmeas: Apresentam em suas células somáticas um número par de cromossomos do tipo XX + 2A e produzem apenas um tipo de gameta, A + X.
+Machos: Apresentam em suas células somáticas um número ímpar de cromossomos do tipo 2A + XO e produzem dois diferentes gametas, (A + X) e (A).Também neste caso a proporção de 50% de machos e 50% de fêmea se mantém pois os cruzamentos envolvem indivíduos XX cruzando com XO.
+
+
+=== Fêmeas heterogaméticas ===
+É o mecanismo de borboletas, mariposas e alguns peixes e aves.
+Neste caso o mecanismo de determinação do sexo é assemelhado a apresentada pelos mamíferos e a espécie humana, mas, neste caso, as fêmeas são heterogaméticas. Para tornar o entendimento da diferenciação dos cromossomos mais clara o cromossomo X passa a ser representado por Z e o Y por W. Os sexos passam a ser caracterizados por:
+
+Fêmeas: Apresentam constituição cromossômica 2A + ZW e produzem dois diferentes tipos de gametas.Machos: Apresentam constituição cromossômica 2A + ZZ e apenas produzem um tipo de gameta: A + Z
+
+
+=== Balanço gênico ===
+A determinação de sexo pelo mecanismo de balanço gênico é a evidenciada nos insetos do gênero Drosophila. Primeiramente imaginou-se que a determinação de sexo nestes insetos se daria por um mecanismo similar ao apresentado pelos mamíferos e a espécie humana. Porém, após observações citológicas em células somáticas foi constatado que um conjunto diploide de 8 cromossomos (2x = 8), no qual os machos apresentam constituição cromossômica 2A + XY e as fêmeas 2A + XX.
+Baseando-se nas observações de tipos sexuais, foi posteriormente proposto que a determinação do sexo em Drosophila seria uma função de um "índice sexual"  que é uma função de um balanço entre cromossomos X e conjuntos autossomais, conforme descrito a seguir:
+
+IS = (Número de cromossomos X)/(Número de conjunto autossomais)
+
+
+=== Haplodiploidismo ===
+O haplodiploidismo é um mecanismo de determinação de sexo complexo característico dos Hymenopteros (formigas, abelhas e vespas). No caso das abelhas, o sexo masculino é definido pela condição haploide (ou monoploide) e no sexo feminino pela condição diploide dos indivíduos. As fêmeas, cujos organismos são diploides, dependem de sua alimentação para adquirir sua fertilidade. A alimentação prolongada com geleia real possibilita a formação de rainhas que são responsáveis pela formação da colmeia.
+
+
+== Outros mecanismos de determinação do sexo ==
+Deve-se observar que existem mecanismos de determinação do sexo não cromossomiais, como o efeito de genes e o efeito do ambiente.
+☀Em algumas espécies de crocodilos, jacarés, tartarugas e lagartos, o sexo da prole depende da temperatura de incubação dos ovos. Nas tartarugas marinhas, por exemplo, se os ovos forem incubados a temperaturas muito baixas, os indivíduos que eclodirem serão machos, se os ovos forem incubados em temperaturas altas, os indivíduos serão fêmeas.
+
+
+== Ligações externas ==
+Genética II: Ligação e a Teoria Cromossômica www.universia.com.br
+DETERMINAÇÃO DO SEXO - www.ccb.ufsc.br
+MECANISMOS DE DETERMINAÇÃO DO SEXO - www.ufv.br

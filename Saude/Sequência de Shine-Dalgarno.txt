@@ -1,0 +1,20 @@
+A sequência de Shine-Dalgarno (SD) é uma sequência do RNA mensageiro de bactérias e arqueas localizado a cerca de 8 bases a montante do códon de início AUG. Essa sequência de RNA ajuda a recrutar o ribossomo ao RNA mensageiro (mRNA) para iniciar a síntese de proteínas, alinhando o ribossomo com o códon de início.
+O Shine-Dalgarno seqüência foi proposta pelos cientistas australianos John Shine e Lynn Dalgarno.
+
+
+== Reconhecimento ==
+
+
+=== Sítio de início de tradução ===
+Usando um método desenvolvido por Hunt, Shine e Dalgarno mostraram que a região 3' do RNA ribossomal 6s (rRNA) de E. coli é rica em pirimidina e tem a sequência ACCUCCUU. Eles propuseram que estes nucleotídeos reconheceriam, por pareamento, a região rica em purinas AGGAGGU, que se encontra a montante do códon de início AUG  em diversos vírus que infectam E. coli. Muitos estudos confirmam que o pareamento entre a sequência de Shine-Dalgarno e a região 3' do rRNA 16S é de importância primordial para a iniciação da tradução por ribossomos bacterianos.O páreamento entre o rRNA e a sequência de Shine-Dalgarno é um mecanismo pelo qual a célula pode distinguir entre os códons de início de tradução da proteína e códons AUG internos e/ou fora-de-quadro. O nível de complementariedade também influencia na força de ligação do ribossomo e regula a taxa de produção de proteínas.
+
+
+== Sequência e expressão proteica ==
+Mutações na sequência de Shine-Dalgarno podem reduzir ou aumentar a taxa de tradução em procariotos. Esta mudança se deve a modificação do grau de pareamento com o ribossomo, uma vez que mutações compensatória no terminal  3' do RNA ribossomal 16S pode restaurar a tradução.
+
+
+== Veja também ==
+Sequência de Kozak, a sequência que guia o ribossomo em eucariotos para início da tradução.
+
+
+== Referências ==

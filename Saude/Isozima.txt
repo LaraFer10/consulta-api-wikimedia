@@ -1,0 +1,32 @@
+As isozimas ou isoenzimas são enzimas que diferem na sequência de aminoácidos, mas que catalisam a mesma reação química. Estas enzimas podem mostrar diferentes parâmetros cinéticos (i.e. diferentes valores de KM), ou propriedades de regulação diferentes. A existência das isozimas permite o ajuste do metabolismo para satisfazer as necessidades particulares de um determinado tecido ou etapa de desenvolvimento. Em bioquímica, as isozimas são isoformas (variantes estreitamente relacionadas) das enzimas. Em muitos casos, são codificadas por genes homólogos que divergiram com o tempo. Ainda que de forma estrita, as isoenzimas representam enzimas de diferentes alelos de um mesmo gene e as isozimas representam enzimas de diferentes genes cujos produtos catalisam a mesma reação. As duas terminologias podem-se usar indistintamente.
+
+
+== Introdução ==
+Em 1957 R. L. Hunter e Clement Markert descreveram pela primeira vez as isozimas, e as definiram como as diferentes variantes da mesma enzima que têm idênticas funções e estão presentes no mesmo indivíduo. Esta definição abarca as variantes de enzimas que são o produto de diferentes genes e portanto representam diferentes loci (descritos como isozimas) e as enzimas que são o produto de diferentes alelos de um mesmo gene (descritos como aloenzimas).
+As isozimas podem ser o resultado da duplicação de genes, mas também podem derivar da poliploidia ou da  hibridação do ácido nucleíco. No tempo evolutivo, se a função da nova variante for idêntica à original, então é provável que um ou outro se perca com a acumulação de mutações, resultando num pseudogene. No entanto, se as mutações não impedem o funcionamento da enzima mas modificam a sua função ou o seu padrão de expressão genética, as duas variantes poderiam ser favorecidas pela selecção natural e se especializariam em diferentes funções. Por exemplo, pode ser que se expressem em diferentes etapas do desenvolvimento ou em diferentes tecidos.
+As aloenzimas podem ser o resultado de mutações pontuais ou por mutações indel (inserção-delecção) que afectam a sequência de ADN que codifica o gene. De igual forma que com qualquer outra nova mutação, existem três coisas que podem suceder a uma nova aloenzima:
+
+O mais provável é que o novo alelo não seja funcional e neste caso provavelmente, resulte em baixa aptidão e seja eliminado da população por selecção natural.
+Por outra parte, se o resíduo aminoacídico que se muda é numa parte da enzima relativamente pouco importante, por exemplo longe do sítio activo, então a mutação pode ser que seja selectivamente neutra e fique sujeita à deriva genética.
+Em raros casos, a mutação pode dar lugar a uma enzima que seja mais eficiente, ou a uma que possa catalisar uma reacção química ligeiramente diferente, em cujo caso a mutação pode causar um aumento da aptidão, e ser favorecido pela selecção natural.
+
+
+== Exemplo de isozima ==
+Um exemplo de uma isozima é a glucoquinase, uma variante de hexoquinase que não é inibida pela glucose-6-fosfato. As suas diferentes funções de regulação e a sua menor afinidade pela glucose (em comparação com outras hexoquinases), permitem-lhe ter diferentes funções nas células de determinados órgãos, como o controle da libertação de insulina pelas células beta do pâncreas, ou a iniciação da síntese de glicogênio pelas células do fígado. Ambos os processos devem ocorrer somente quando a glucose é abundante, ou ocorre algum problema.
+
+
+== Distinguindo isozimas ==
+Isozimas (e aloenzimas) são variantes da mesma enzima. A menos que sejam idênticas em relação às suas propriedades bioquímicas, tais como substratos e cinética enzimática, elas podem ser diferenciadas com o uso de ensaios bioquímicos. Entretanto, estas diferenças são geralmente sutis, sobretudo entre as aloenzimas. Esta sutileza é esperada, uma vez que enzimas que diferem consideravelmente em suas funções não são normalmente identificadas como isozimas.
+Enquanto que as isozimas podem ser quase idênticas quanto ao seu funcionamento, podem diferir em outros aspetos. Em particular, as substituições de aminoácidos que mudam a carga elétrica da enzima (por exemplo, a substituição de ácido aspártico com ácido glutâmico) são fáceis de identificar por eletroforese em gel, e isto constitui a base para o uso das isozimas como marcadores moleculares.
+
+
+== Isozimas e aloenzimas como marcadores moleculares ==
+Em genética populacional é essencial um estudo das causas e efeitos da variação genética dentro e entre as populações, e no passado foram as isozimas os marcadores moleculares mais amplamente utilizados com este fim. Apesar de que já terem sido amplamente superados por outros enfoques mais informativos baseados no ADN (como a sequenciação directa de ADN, polimorfismos de um só nucleótido e microssatélites), ainda estão entre os sistemas de marcadores mais rápidos e mais baratos de desenvolver, e são uma excelente eleição para projectos que só necesitam identificar baixos níveis de variação genética.
+
+
+== Referências ==
+Hunter, R. L. and C.L. Merkert. (1957) Histochemical demonstration of enzymes separated by zone electrophoresis in starch gels. Science 125: 1294-1295
+Wendel, JF, and NF Weeden. 1990. "Visualisation and interpretation of plant isozymes." Pp. 5-45 in D. E. Soltis and P. S. Soltis, eds. Isozymes in plant biology. Chapman and Hall, London.
+Weeden, NF, and JF Wendel. 1990. "Genetics of plant isozymes". Pp. 46-72 in D. E. Soltis and P. S. Soltis, eds. Isozymes in plant biology. Chapman and Hall, London
+Crawford, DJ. 1989. "Enzyme electrophoresis and plant systematics". Pp. 146-164 in D. E. Soltis and P. S. Soltis, eds. Isozymes in plant biology. Dioscorides, Portland, Oregon.
+Hamrick, JL, and MJW Godt. 1990. "Allozyme diversity in plant species". Pp. 43-63 in A. H. D. Brown, M. T. Clegg, A. L. Kahler and B. S. Weir, eds. Plant Population Genetics, Breeding, and Genetic Resources. Sinauer, Sunderland

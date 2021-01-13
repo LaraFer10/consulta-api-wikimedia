@@ -1,0 +1,18 @@
+Em ciência da computação, o algoritmo de Ukkonen é um algoritmo online de tempo linear para construção de árvores de sufixos, proposto por Esko Ukkonen em 1995.O algoritmo inicia com uma árvore de sufixos implícita contendo o primeiro caracter da string. Então ele prossegue através da string adicionando caracteres sucessivos até que a árvore esteja completa. Esta ordem de adição dos caracteres dá ao algoritmo de Ukkonen a sua propriedade "online". Anteriormente, os algoritmos procediam de forma inversa, do último caractere ao primeiro, seja do maior ao menor sufixo ou do menor ao maior sufixo. A implementação ingênua para a geração de uma árvore de sufixos requer tempo O(n²) ou mesmo O(n3), aonde n é o tamanho da string. Ao explorar um número de técnicas algorítmicas, Ukkonen reduziu para um tempo O(n) (linear), para alfabetos de tamanho constante, e O(n log n) em geral.
+
+
+== Referências ==
+
+
+== Ligações externas ==
+Paper original de Ukkonen PDF | PDF com imagens
+Paper de McCreight em PDF
+Paper de Weiner em PDF
+Explicação detalhada em inglês
+Fast String Searching With Suffix TreesTutorial de Mark Nelson. Possui uma implementação escrita em C++.
+Implementação em Java
+Implementação em C#
+Implementação em C com explicação detalhada
+Slides de palestra por Guy Blelloch
+Homepage de Ukkonen
+Text-Indexing project(Construção de Ukkonen em tempo linear de árvores de sufixo)

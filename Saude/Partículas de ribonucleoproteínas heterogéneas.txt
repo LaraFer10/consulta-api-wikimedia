@@ -1,0 +1,8 @@
+As partículas de ribonucleoproteínas heterogéneas (hnRNPs) são complexos de ARN e proteína presentes no núcleo celular durante a transcrição e subsequente modificação pós-transcricional do recém sintetizado ARN (pré-ARNm). A presença das proteínas ligadas a uma molécula de pré-ARNm serve como sinal de que o pré-ARNm não está totalmente precessado e pronto para exportação para o citoplasma. Depois do splicing ocorrer, as proteínas permanecem ligadas aos intrões que sofreram splicing e marcam eles para degradação.
+As proteínas envolvidas nos complexos hnRNP são colectivamente designadas por ribonucleoproteínas heteronégeas. Incluem a proteína K e a proteína PTB, que é regulada por fosforilação catalisada pela proteína quinase A e é responsável pela supressão do splicing de ARN num exão particular através do bloqueio do acesso do spliciossoma.
+
+
+== Referências ==
+Xie J, Lee JA, Kress TL, Mowry KL, Black DL. (2003). Protein kinase A phosphorylation modulates transport of the polypyrimidine tract-binding protein. Proc Natl Acad Sci USA 100(15):8776-81.
+Takimoto M, Tomonaga T, Matunis M, Avigan M, Krutzsch H, Dreyfuss G, Levens D. (1993). Specific binding of heterogeneous ribonucleoprotein particle protein K to the human c-myc promoter, in vitro. J Biol Chem 268(24):18249-58.
+Watson JD, Baker TA, Bell SP, Gann A, Levine M, Losick R. (2004). Molecular Biology of the Gene, ch. 9 and 10. Peason Benjamin Cummings; CSHL Press. 5th ed.

@@ -1,0 +1,128 @@
+Hemograma é um exame que avalia as células sanguíneas de um paciente, ou seja, as da série branca e vermelha, contagem de plaquetas, reticulócitos e índices hematológicos. O exame é requerido pelo profissional de saúde para diagnosticar ou controlar a evolução de uma doença. Um hemograma é constituído pela contagem das células brancas (leucócitos), células vermelhas (hemácias), hemoglobina (Hb), hematócrito (Ht), índices das células vermelhas, e contagem de plaquetas. Hemograma Completo consiste do hemograma mais a contagem diferencial dos leucócitos.As células circulantes no sangue são divididas em três tipos: células vermelhas (hemácias ou eritrócitos), células brancas (ou leucócitos) e plaquetas (ou trombócitos).
+
+
+== Coleta de sangue ==
+
+O sangue do indivíduo é colhido com anticoagulante (EDTA) ou mistura de Paul-Heller, para se evitar sua coagulação. Após a coleta com seringa descartável, o sangue é transferido para um tubo de ensaio de vidro, que deverá ser rotulado com o nome do paciente e lacrado com tampa. Não é necessário jejum, mas recomenda-se 24 horas sem prática de exercícios físicos e 48 horas sem consumo de bebida alcoólica. Deve-se perguntar ao paciente se faz uso de algum medicamento, ou se fez uso nas horas antecedentes ao exame, pois alguns fármacos podem interferir nos resultados do exame. Após a coleta, o tubo deverá ser enviado a um laboratório capaz de fazer o hemograma.
+
+
+=== Processo manual ===
+Contagens manuais do número de hemácias, plaquetas e leucócitos podem ser feitas em câmara de Neubauer, após uma diluição prévia do sangue. O método dificilmente é usado, exceto em poucos casos de dúvidas da metodologia automática .
+O esfregaço de sangue é utilizado para fazer uma diferenciação entre os leucócitos, isto é, fazer uma contagem do número de neutrófilos, linfócitos, monócitos, eosinófilos e basófilos, chegando-se a uma porcentagem de cada célula encontrada, processo usado também para avaliar a série vermelha e as plaquetas. É feito com uma pequena gota de sangue posta sobre uma lâmina de vidro onde o técnico fará um esfregaço, arrastando a gota de sangue com outra lâmina para formar uma película. O sangue tem que ser homogeneizado antes de se fazer o esfregaço para que as células estejam bem distribuídas. O esfregaço é corado com Leishman ou Giemsa e observado em microscópio.
+A vantagem de se fazer um esfregaço é que algumas células podem ser contadas erradamente pelos processos automáticos. Alguns aparelhos não contam células imaturas e podem levar a um erro quanto a um diagnóstico de leucemia. O esfregaço, porém, deve ser avaliado por pessoal experiente.
+
+
+=== Processo automático ===
+
+Hoje em dia o hemograma é feito em aparelhos que usam uma pequena quantidade de sangue. Há dois sensores principais: um detector de luz e um de impedância elétrica.
+As células brancas, ou leucócitos, podem ser contadas baseando-se em seu tamanho ou avaliando-se suas características. Quando a contagem é baseada no tamanho das células, o aparelho as diferencia por 3 tipos: células pequenas (linfócitos), células médias (neutrófilos, eosinófilos e basófilos) e células grandes (monócitos). Esse primeiro tipo de aparelho requer uma contagem manual de células, pois não diferencia as células de tamanho médio, podendo omitir uma eosinofilia, por exemplo. Os que utilizam o método de características das células são mais precisos.
+Em relação a série vermelha, o aparelho mede a quantidade de hemoglobina, o número de hemácias e o tamanho destas, realizando cálculos para chegar ao valor do hematócrito e os outros índices hematimétricos. As plaquetas também são contadas por aparelhos.
+
+
+== Valores de referência ==
+
+
+=== Série Vermelha ===
+
+Eritrograma é o estudo da série vermelha (eritrócitos ou hemácias). Ao microscópio, as hemácias tem coloração acidófila (afinidade pelos corantes ácidos que dão coloração rósea) e são desprovidos de núcleo. As hemácias apresentam coloração central mais pálida e coloração um pouco mais escura na periferia. Elas são bicôncovas. Em indivíduos normais, possuem tamanho mais ou menos uniforme. Quando uma hemácia tem tamanho normal ela é chamada de normocítica. Quando ela apresenta coloração normal é chamada de normocrômica.
+O estudo da série vermelha revela algumas alterações relacionadas como por exemplo anemia, eritrocitose (aumento do número de hemácias).
+Os resultados a serem avaliados são:
+
+Número de glóbulos vermelhos: Os valores normais variam de acordo com o sexo e com a idade. Valores normais: Homem de 5.000.000 - 5.500.000, Mulher de 4.500.000 - 5.000.000. Seu resultado é dado em número por mililitro (ml).
+Hematócrito: É um índice, calculado em porcentagem, definido pelo volume de todas as hemácias de uma amostra sobre o volume total desta amostra (que contém, além das hemácias, os leucócitos, as plaquetas e, é claro, o plasma, que geralmente representa mais de 50% do volume total da amostra). Os valores variam com o sexo e com a idade. Valores: Homem de 40 - 50% e Mulher de 36 - 45%. Recém-nascidos tem valores altos que vão abaixando com a idade até o valor normal de um adulto.
+Hemoglobina: segundo a Organização Mundial de Saúde é considerado anemia quando um adulto apresentar Hb < 12,5g/dl, uma criança de 6 meses a 6 anos Hb < 11g/dl e crianças de 6 anos a 14 anos, uma Hb < 12g/dl.
+VCM (Volume Corpuscular Médio): é o índice que ajuda na observação do tamanho das hemácias e no diagnóstico da anemia: se pequenas são consideradas microcíticas (< 80fl, para adultos), se grandes consideradas macrocíticas(> 96fl, para adultos) e se são normais, normocíticas (80 - 96fl). Anisocitose: é denominação que se dá quando há alteração no tamanho das hemácias. As anemais microcíticas mais comuns são a ferropriva e as síndromes talassêmicas. As anemias macrocíticas mais comuns são as anemia megaloblástica e perniciosa. O resultado do VCM é dado em femtolitro.
+HCM (Hemoglobina Corpuscular Média): é o peso da hemoglobina na hemácia. Seu resultado é dado em picogramas. O intervalo normal é 26-34pg
+CHCM (concentração de hemoglobina corpuscular média): é a concentração da hemoglobina dentro de uma hemácia. O intervalo normal é de 32 - 36g/dl. Como a coloração da hemácia depende da quantidade de hemoglobina elas são chamadas de hipocrômicas (< 32), hipercrômicas (> 36) e hemácias normocrômicas (no intervalo de normalidade). É importante observar que na esferocitose o CHCM geralmente é elevado.
+Os três índices acima apresentam valores de referência para normalidade, e quando estão normais, as hemácias são normocíticas ou normocrômicas.
+RDW (Red Cell Distribution Width): é um índice que indica a anisocitose (variação de tamanho), sendo o normal de 11 a 14%, representando a percentagem de variação dos volumes obtidos. Nem todos os laboratórios fornecem o seu resultado no hemograma.Normalmente realiza-se uma análise estatística em testes realizados em um grande grupo de indivíduos normais para se chegar aos limites estabelecidos para hemoglobina, hematócrito e número de hemácias, isto quer dizer que cada região possui um limite de normalidade.
+A morfologia das hemácias (ou estudo da forma das hemácias) é feita em microscópio, analisando o esfregaço de sangue. As formas encontradas são:
+
+Drepanócitos (forma de foice): aparece somente nas síndromes falciformes (não aparecendo no traço falciforme).
+Esferócitos (forma esférica, pequena e hipercrômica): em grande quantidade é comum na anemia esferocítica (esferocitose), em menores quantidades podem estar presentes em outros tipos de anemias hemolíticas.
+Eliptócitos (forma de charuto): em grandes quantidades comum na eliptocitose. Em menores quantidades podem aparecer em qualquer tipo de anemia.
+Hemácias em alvo (células cujas membranas são grandes havendo uma palidez e um alvo central mais corado): aparece em hemoglobinopatias C, E ou S, nas síndromes talassêmicas e em pacientes com doença hepática.
+Dacriócitos (forma de lágrima ou forma de coxinha): em grande quantidade na mielofibrose. Em pequena quantidade podem aparecer em qualquer tipo de anemia.
+Hemácias policromáticas (forma normal mas com coloração azul devido a presença de RNA residual): são reticulócitos, formas imaturas dos eritrócitos. Aparece quando grandes quantidades de hemácias novas estão sendo produzidas. Comuns em anemias hemolíticas.
+Esquizócitos (hemácias fragmentadas): aparecem quando nas hemácias há uma lesão mecânica, em casos de hemólise, ou em casos de pacientes que sofreram queimaduras.
+Hemácias mordidas: quando ocorre a formação um precipitado de hemoglobina nas hemácias (chamados de Corpúsculos de Heinz) ocorre remoção destes precipitados pelo baço formando um aspecto de hemácia mordida.
+Acantócitos (hemácias com vesículas na membrana celular, podem ter diversos tamanhos): nas hepatopatias, hipofunção esplênica, esplenectomizados.
+Crenadas (hemácias com várias pontas pequenas): na uremia, quando o paciente faz tratamento com heparina, deficiência de piruvatokinase.OBS: O termo pecilocitose ou poiquilocitose se refere a diferença da forma das hemácias.
+Outros achados não relacionados a forma:
+
+Hemácias aglutinadas (agrupamentos de hemácias): quando a hemólise é causada por um anticorpo contra hemácias, elas acabam se agrupando (crioaglutininas).
+Hemácias em Roleux (hemácias em rolos, formam pilhas de rolos de hemácias): aparece em alta concentração de globulinas anormais, mieloma múltiplo e macroglobulinemia.Inclusões nas hemácias:
+
+Corpúsculos de Howell-Jolly (aparecem como se fossem um botão azul escuro junto à membrana da hemácia, por fragmento nuclear ou DNA condensado): após esplenectomia, anemias hemolíticas severas.
+Hemácias com pontilhados basófilos: (vários pontos roxos dentro da hemácia, pela precipitação dos ribossomos ricos em RNA): aparecem na talassemia beta, intoxicação por chumbo, anemia hemolítica por deficiência de pirimidina-5-nucleotidase.
+Anel de Cabot (forma de uma anel ou em oito dentro da hemácia, por restos nucleares): em anemias hemolíticas severas.Gama-GT - É uma enzima que pode ser encontrada em membranas celulares, útil em identificar a aumentada toxicidade alcoólica (aguda e crônica). Em alguns laboratórios, a GGT não faz parte dos testes de função hepática padrões e deve ser solicitada especificamente.
+
+
+== Série branca ==
+Leucograma é o estudo da série branca (ou leucócitos), faz-se uma contagem total dos leucócitos e uma contagem diferencial contando-se 100 células. O adulto normalmente apresenta de 5.000-10.000 leucócitos por 1 mm³ de sangue.
+Contagem diferencial de leucócitos:
+Em um paciente normal as células encontradas são:
+
+Monócitos: uma das maiores células da série branca, têm citoplasma azulado, núcleo irregular (indentado, lobulado, em C ou oval) podem ter vacúolos (pela recente fagocitose). Quando estão aumentados usa-se o termo monocitose e ocorre em infecções virais, leucemia mielomonocítica crônica e após quimioterapia.
+Linfócitos: se pequenos têm citoplasma escasso, núcleo redondo; se grandes têm citoplasma um pouco mais abundante. Podem ter grânulos. É a célula predominante nas crianças. Seu aumento é chamado de linfocitose. Em adultos, seu aumento pode ser indício de infecção viral ou leucemia linfocítica crônica.
+Eosinófilos: citoplasma basofílico que não é visualizado por causa da presença de grânulos específicos (de coloração laranja-avermelhada), com núcleo com 2-3 lóbulos. Quando seu número aumenta é chamado de eosinofilia, e ocorre em casos de processos alérgicos ou parasitoses.
+Basófilos: citoplasma cheio de grânulos preto-purpúreos que cobrem o citoplasma. Em um indivíduo normal, só é encontrado até uma célula (em termos percentuais), seu aumento causa processos alérgicos.
+Neutrófilos Segmentados: citoplasma acidófilo (róseo), núcleo com vários lóbulos (2-5 lóbulos) conectados com filamento estreito. É a célula mais encontrada em adultos. Seu aumento pode indicar infecção bacteriana, mas pode estar aumentada em infecção viral.Outras células que podem ser encontradas:
+
+Blasto:
+Linfoblasto:
+L1: célula pequena, citoplasma basofílico e escasso. Encontrada nas leucemia linfoide aguda tipo L1.
+L2: célula de tamanho médio, citoplasma de tamanho e basofilia variada. Encontrada na leucemia linfoide aguda tipo L2.
+L3: célula grande ou média, citoplasma com intensa basofilia e com vacúolos. Aparece no linfoma de Burkitt.
+Mieloblasto: possui citoplasma escasso, azulado (basofílico), núcleo redondo ou oval, com um ou mais nucléolos evidentes. Pode apresentar grânulos no seu citoplasma e bastão de Auer (forma de agulha). Os mieloblastos aparecem em casos de leucemia mieloide e podem aparecer na síndrome mielodisplásica ou na reação leucemoide (infecção grave).
+Monoblasto: similar a outros blastos mas com núcleo mais contorcido ou irregular que o mieloblasto. Aparece na leucemia mielomonocítica aguda ou na leucemia monocítica aguda.
+Promielócitos neutrofílico: O mieloblasto evolui para promielócito, célula maior que o mieloblasto, citoplasma basófilo, grânulos de coloração vermelho-púrpura (grânulos primários), núcleo oval com uma pequena indentação.
+Mielócitos neutrofílico: O promielócito evolui para mielócito, célula com citoplasma acidófilo (rosa), mais abundante que o promielócito e com poucos grânulos e já não são mais visualizados os nucléolos.
+Metamielócitos neutrofílico: citoplasma acidófilo, núcleo indentado com forma de feijão, poucos grânulos.
+Bastonetes Neutrofílicos: citoplasma acidófilo, núcleo em forma de S ou C. Não é comum seu achado em sangue de pacientes normais, mas aparecem em número aumentado em casos de infecção.
+Linfócitos atípicos: citoplasma mais basofílico que o linfócito normal, núcleo irregular. Aparece em infecções virais. Em grande número na mononucleose infecciosa, na infecção por citomegalovírus, na toxoplasmose.
+Células plasmáticas: citoplasma basofílico, tamanho moderado e núcleo excêntrico. Pode aparecer no mieloma múltiplo.
+Células linfomatosas: citoplasma em quantidade variada, núcleo dobrado, convoluto, clivado ou dobrado. Com um ou mais nucléolos. Aparece em linfomas.
+Hairy cells: citoplasma azul pálido, com projeções citoplasmáticas. Aparece somente na leucemia das células cabeludas.
+Célula cerebriforme: núcleo escuro contendo fendas e dobras (aparência de cérebro). Aparece na síndrome de Sézary.Inclusões citoplasmáticas que podem ser encontradas em neutrófilos:
+
+Granulações Tóxicas: quando há um aumento na produção dos granulócitos, há uma diminuição no tempo da maturação das células precursoras dos neutrófilos. Por isso os neutrófilos aparecem no sangue com os grânulos primários. Estão presentes em casos de infecções.
+Vacuólos: resultantes da fagocitose. Podem aparecer nos neutrófilos e monócitos. Seu relato só é importante quando aparece nos neutrófilos. Aparece em casos de infecções graves.
+
+
+== Série Plaquetária ==
+
+Plaquetas são observadas em relação à quantidade e a seu tamanho. Seu número normal é de 150.000 à 400.000 por microlitro de sangue. O tamanho de uma plaqueta varia entre 1 a 4 micrômetros.
+A contagem de plaquetas é feita pelo método automático. A maioria dos laboratórios usam aparelhos cuja contagem de plaquetas se faz no mesmo canal de contagens de hemácias, sendo que a diferenciação de ambas se dá pelo volume (plaquetas são menores que 20 fl e hemácias maiores que 30 fl). Devido ao grande volume de exames feito por um laboratório ficou inviável a contagem manual de todas as plaquetas, mas a contagem manual não foi totalmente abandonada sendo que a contagem automática pode ser confirmada pela observação das plaquetas no esfregaço ou pela contagem manual feita em câmara de Neubauer.
+Os erros mais comuns em uma contagem automática são: aparelhos mal calibrados e problemas na coleta do sangue. A coleta correta é muito importante. Uma coleta muito lenta, agitação errada do sangue colhido, entre outros problemas, podem fazer com que as plaquetas se agrupem e, ao realizar a contagem em aparelhos, seu número se torne diminuído. O agrupamento de plaquetas não é um sinal clínico.
+
+
+== Termos utilizados ==
+Leucocitose: aumento no número total de leucócitos.
+Leucopenia: diminuição do número total de leucócitos.
+Plaquetopenia: diminuição do número total de plaquetas
+Eritrocitose ou policitemia: aumento do número de hemácias no sangue.
+Eritroblastemia: diminuição do número dos precursores das hemácias.
+Trombocitopenia: diminuição do número normal de plaquetas.
+Bicitopenia: diminuição em número de duas populações celulares.
+Pancitopenia: diminuição em número das três populações celulares.
+Desvio à esquerda: aumento do número de bastões acima de 5/mm³, ou presença de formas mais imaturas como mielócitos e metamielócitos.
+Linfocitose: aumento do número de linfócitos.
+Linfopenia: diminuição do número de linfócitos.
+Neutrofilia: aumento do número de neutrófilos.
+Neutropenia: diminuição do número de neutrófilos.
+Eosinofilia: aumento do número de eosinófilos.
+Monocitose: aumento do número de monócitos.
+Basofilia: aumento do número de basófilos.
+
+
+== Notas e referências ==
+
+
+== Bibliografia ==
+FAILACE R., Hemograma, Manual de Interpretação; Artmed; quarta edição, ISBN 85-363-0158-9
+
+
+== Ver também ==
+Perfil lipídico
+Coprocultura

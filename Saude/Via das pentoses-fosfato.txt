@@ -1,0 +1,19 @@
+A via das pentoses-fosfato é uma via alternativa de oxidação de glicose-6-fosfato, que leva à produção de três compostos, a ribose-5-fosfato, CO2 e o NADPH.
+
+A ribose-5-fosfato, produto da reação da ribulose-5-fosfato com a enzima ribulose-5P isomerase,  é a pentose constituinte dos nucleotídeos, que vão compor os ácidos nucleicos, e de muitas coenzimas, como o ATP, NADH, FADH2 e coenzima A.
+O NADPH que atua como coenzima doadora de hidrogênio em sínteses redutoras e em reações para proteção contra compostos oxidantes.Em outros tecidos, o produto final da via das pentoses não é a pentose e sim o NADPH+, necessário para redução das vias biossintéticas ou contrapor efeitos deletérios dos radicais do oxigênio.
+Na via das pentoses são produzidos vários açúcares fosforilados, com um número variável de átomos de carbono. A energia vinda da oxidação da glicose é armazenada sob a forma de NADPH e não de ATP, como na glicólise.
+A via das pentoses fosfato compreende uma etapa inicial que é oxidativa, na qual a glicose-6-fosfato é convertida como produto final em ribulose-5-fosfato, CO2 e NADPH por duas oxidações intercaladas por uma reação de hidrólise.
+
+A etapa oxidativa ocorre no sentido da conversão de NADP a NADPH e produção de Pentoses-fosfato. A etapa seguinte, que não é oxidativa, recicla as pentoses fosfato a glicose-6-P.Assim como a glicólise a via das pentoses ocorre no citosol; elas estão relacionadas por intermediários comuns que são a glicose-6-fosfato, frutose-6-fosfato e o gliceraldeído-3-fosfato.  Esse compartilhamento de intermediários e a interconversibilidade permite que esta seja uma via de integração entre várias linhas metabólicas.
+Estruturas dos componentes da via das pentoses-fosfato representadas através de projeções de Fischer e do modelo poligonal 
+Os intermediários da via das pentoses-fosfato apresentados utilizando projeções de Fischer mostram as mudanças químicas passo a passo em ambas as fases, oxidativa e não oxidativa. Essa imagem pode ser comparada à representação através do modelo poligonal. 
+
+Regulação da via das pentoses
+A atividade da via das pentoses vai variar de acordo com tecido, sendo mais intensa em tecidos que ativam ácidos graxos ativamente, como é o caso do fígado e do tecido adiposo. As duas desidrogenases que participam da via convertem NADP a NADPH e vão ser inibidas competitivamente por NADPH.
+A utilização da glicose-6-fosfato pela via das pentoses ou pela glicólise vai depender das relações ATP/ADP e NADPH/NADP existentes nas células.
+
+Quando a relação ATP/ADP é baixa, a glicose vai ser degradada pela via glicolítica, produzindo ATP; não vai ocorrer a síntese de ácidos gordos e a relação NADPH/NADP é alta, inibindo a via das pentoses.
+Mas se a relação ATP/ADP é alta, a via glicolítica fica inibida e a síntese de ácidos gordos é favorecida, consumindo NADPH e eliminando a inibição das desidrogenases.Portanto quando a carga energética das células é alta, o consumo de glicose-6-fosfato pela via das pentoses é favorecida.
+A via das pentoses é ativa quando as taxas glicémicas são altas; os níveis altos de insulina resultantes acarretam, no tecido adiposo, aumento da permeabilidade à glicose e, no fígado, intensa síntese de glicocinase. Essas duas condições propiciam a síntese de ácidos graxos, que também é estimulada pela insulina.
+Então: A entrada de Glicose-6-P na via glicolítica ou na via das Pentoses-fosfato é basicamente determinada pelas concentrações relativas de NADP+ e NADPH.

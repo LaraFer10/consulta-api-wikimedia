@@ -1,0 +1,38 @@
+Receptores H2 são receptores responsivos a histamina acoplados positivamente à adenilato ciclase via proteína Gs. Sua ativação estimula a produção de cAMP que leva à ativação da cascata de sinalização da proteína quinase A (PKA).  Além da própria histamina, a droga betazol é um exemplo de agonista do receptor H2.
+
+
+== Função ==
+A histamina é uma molécula de sinalização ubíqua e é liberada por mastócitos, células tipo-enterocromoafims e neurônios. Sua ação é determinada pelos receptores H1, H2, H3 e H4. O receptor H2  pertence à família de  receptores acoplados à proteína G semelhantes à rodopsina. Ele é uma proteína integral de membrana e, após ativação no trato gastro intestinal (TGI), é capaz de estimular a secreção de ácido clorídrico no estômago. Ele também participa no processo de motilidade do TGI e de secreção intestinal, sendo possivelmente envolvido na regulação de crescimento celular e diferenciação.
+
+
+== Distribuição nos tecidos ==
+Ele é encontrado em:
+Células da parede do estômago (células oxínticas)
+Músculo liso vascular
+Neutrófilos
+Sistema nervoso central 
+Coração
+Útero
+
+
+== Respostas fisiológicas ==
+A ativação do receptor H2 resulta nas seguintes respostas fisiológicas:
+
+Estimulação da secreção de ácido gástrico (O receptor é alvo de anti-histamínicos para úlcera péptica e para a  doença do refluxo gastroesofágico(GERD))
+Relaxamento do músculo liso (experimentos em curso para uso de agonistas para tratar asma)
+Vasodilatação – A PKA ativada leva à fosforilação de MLCK, diminuindo sua atividade, e favorecendo a forma desfosforilada da cadeia leve da miosina (MLC), inibindo a contração muscular. O relaxamento do músculo liso nas artérias leva à vasodilatação.
+
+
+== Veja também ==
+Anti-histamínico H2
+
+
+== Referências ==
+
+
+== Leitura adicional ==
+
+
+== Ligações externas ==
+«Histamine Receptors: H2». IUPHAR Database of Receptors and Ion Channels. International Union of Basic and Clinical Pharmacology 
+MeSH H2+receptors

@@ -1,0 +1,66 @@
+BRENDA (O Sistema Abrangente de Informações sobre Enzimas) é um sistema de informações que representa um dos repositórios de enzimas mais abrangentes. É um recurso eletrônico que compreende informações moleculares e bioquímicas sobre enzimas que foram classificadas pelo IUBMB. Toda enzima classificada é caracterizada em relação à sua reação bioquímica catalisada. As propriedades cinéticas dos reagentes correspondentes (isto é, substratos e produtos) são descritas em detalhes. O BRENDA contém dados específicos de enzimas extraídos manualmente da literatura científica primária e dados adicionais derivados de métodos de recuperação automática de informações, como mineração de texto. Ele fornece uma interface de usuário baseada na Web que permite um acesso conveniente e sofisticado aos dados.
+
+
+== História ==
+O BRENDA foi fundado em 1987 no antigo Centro Alemão de Pesquisa em Biotecnologia (agora o Helmholtz Center for Infection Research) em Braunschweig e foi publicado originalmente como uma série de livros. Seu nome era originalmente um acrônimo para o banco de dados de enzimas Braunschweig. De 1996 a 2007, o BRENDA foi localizado na Universidade de Colônia. Lá, o BRENDA se transformou em um sistema de informações enzimáticas publicamente acessível. Em 2007, o BRENDA retornou a Braunschweig. Atualmente, o BRENDA é mantido e desenvolvido no Departamento de Bioinformática e Bioquímica da TU Braunschweig.
+
+
+== Atualizações ==
+Uma grande atualização dos dados no BRENDA é realizada duas vezes por ano. Além da atualização de seu conteúdo, melhorias na interface do usuário também são incorporadas ao banco de dados BRENDA.
+
+
+== Conteúdo e recursos ==
+Base de dados:
+O banco de dados contém mais de 40 campos de dados com informações específicas de enzimas em mais de 7000 números EC classificados de acordo com o IBMB. Os diferentes campos de dados cobrem informações sobre a nomenclatura da enzima, reação e especificidade, estrutura da enzima, isolamento e preparação, estabilidade da enzima, parâmetros cinéticos como valor de Km e número de rotatividade, ocorrência e localização, mutantes e enzimas manipuladas, aplicação de enzimas e ligantes. dados relacionados. Atualmente, o BRENDA contém dados anotados manualmente de mais de 140.000 artigos científicos diferentes. Cada entrada de enzima está claramente ligada a pelo menos uma referência da literatura, ao seu organismo de origem e, quando disponível, à sequência de proteínas da enzima. Uma parte importante do BRENDA representa os mais de 110.000 ligantes enzimáticos, disponíveis em seus nomes, sinônimos ou através da estrutura química. O termo "ligando" é utilizado neste contexto para todos os compostos de baixo peso molecular que interagem com enzimas. Estes incluem não apenas metabolitos do metabolismo primário, co-substratos ou cofatores, mas também inibidores de enzimas ou íons metálicos. A origem dessas moléculas varia de antibióticos naturais a compostos sintéticos que foram sintetizados para o desenvolvimento de drogas ou pesticidas. Além disso, são fornecidas referências cruzadas a recursos de informações externas, como bancos de dados de sequência e estrutura 3D, bem como ontologias biomédicas.
+Extensões:
+Desde 2006, os dados no BRENDA são complementados com informações extraídas da literatura científica por uma abordagem de mineração de texto baseada em co-ocorrência. Para esse fim, foram introduzidos quatro repositórios de mineração de texto FRENDA (Enzyme DAta de referência completa), AMENDA (Mineração automática de enzima DAta), DRENDA (DAtabase de informações de enzimas relacionadas a doenças) e KENDA (Enzyme DAta de cinética). Esses resultados de mineração de texto foram derivados dos títulos e resumos de todos os artigos no banco de dados da literatura PubMed.Acesso de dados:
+Existem várias ferramentas para obter acesso aos dados no BRENDA. Alguns deles estão listados aqui.
+
+Vários formulários de consulta diferentes (por exemplo, pesquisa rápida e avançada)
+Navegador em árvore CE
+Navegador da árvore de taxonomia
+Ontologias para diferentes domínios biológicos (por exemplo, ontologia de tecidos BRENDA, ontologia genética)
+Thesaurus para nomes de ligantes
+Motor de busca de subestrutura química para estruturas de ligantes
+Interface SOAP
+
+
+== Disponibilidade ==
+O uso do BRENDA é gratuito. Além disso, FRENDA e AMENDA são gratuitas para usuários sem fins lucrativos. Os usuários comerciais precisam de uma licença para esses bancos de dados através do BIOBASE.
+
+
+== Outras bases de dados ==
+O BRENDA fornece links para vários outros bancos de dados com um foco diferente na enzima, por exemplo, função metabólica ou estrutura da enzima. Outros links levam a informações ontológicas sobre o gene correspondente da enzima em questão. Links para a literatura são estabelecidos com o PubMed. O BRENDA possui links para outros bancos de dados e repositórios, como:
+
+Ontologia de tecidos BRENDA
+ExPASy
+Bases de dados NCBI (Proteína, nucleotídeo, estrutura, genoma, OMIM, Domínios
+Nomenclatura da enzima IUBMB
+KEGG
+Banco de dados do PDB (informações 3D)
+PROSITE
+SCOP
+CATH
+InterPro
+ChEBI
+Uniprot
+
+
+=== Leitura adicional ===
+Scheer M, Grote A, Chang A, Schomburg I, Munaretto C, Rother M, Söhngen C, Stelzer M, Thiele J, Schomburg D (2011). «BRENDA, the enzyme information system in 2011». Nucleic Acids Res. 39 (Database issue): D670–76. PMC 3013686. PMID 21062828. doi:10.1093/nar/gkq1089 
+Chang A, Scheer M, Grote A, Schomburg I, Schomburg D (2009). «BRENDA, AMENDA and FRENDA the enzyme information system: new content and tools in 2009». Nucleic Acids Res. 37 (Database issue): D588–92. PMC 2686525. PMID 18984617. doi:10.1093/nar/gkn820 
+Schomburg D, Schomburg I, Chang A (2006). Springer Handbook of Enzymes 2nd ed. Heidelberg: Springer 
+Schomburg I, Chang A, Ebeling C, Gremse M, Heldt C, Huhn G, Schomburg D (2004). «BRENDA, the enzyme database: updates and major new developments». Nucleic Acids Res. 32 (Database issue): D431–433. PMC 308815. PMID 14681450. doi:10.1093/nar/gkh081 
+Pharkya P, Nikolaev EV, Maranas CD (2003). «Review of the BRENDA Database». Metab Eng. 5 (2): 71–73. PMID 12850129. doi:10.1016/S1096-7176(03)00008-9 
+Schomburg I, Chang A, Hofmann O, Ebeling C, Ehrentreich F, Schomburg D (2002). «BRENDA: a resource for enzyme data and metabolic information]». Trends Biochem Sci. 27 (1): 54–56. PMID 11796225. doi:10.1016/S0968-0004(01)02027-8 
+Schomburg I, Chang A, Schomburg D (2002). «BRENDA, enzyme data and metabolic information». Nucleic Acids Res. 30 (1): 47–49. PMC 99121. PMID 11752250. doi:10.1093/nar/30.1.47 
+Schomburg I, Hofmann O, Bänsch C, Chang A, Schomburg D (2000). «Enzyme data and metabolic information: BRENDA, a resource for research in biology, biochemistry, and medicine». Gene Funct Dis. 3 (4): 109–118 
+
+
+== Referências ==
+
+
+== Ligações externas ==
+Site oficial do BRENDA
+Nomenclatura enzimática
+Biobase BRENDA - Banco de Dados de Enzimas

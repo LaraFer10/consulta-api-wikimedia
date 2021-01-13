@@ -1,0 +1,25 @@
+O sinal de Hoffmann e o estudo do reflexo de Hoffmann são técnicas utilizadas para avaliar a presença ou ausência de problemas em circuitos neuronais do cérebro e da medula espinhal. O sinal de Hoffmann pode ser obtido com o pinçamento da falange distal do dedo médio, exercendo pressão sobre a unha; uma resposta positiva é observada com a flexão da falange distal do polegar. O reflexo de Hoffmann, de outro modo, é obtido com a estimulação elétrica de fibras sensoriais em nervos periféricos.
+
+
+== Relação com o sinal de Babinski ==
+O sinal de Hoffmann é geralmente considerado o equivalente, no membro superior, ao sinal de Babinski, porque, assim como Babinski, indica disfunção do neurônio motor superior. Entretanto, o mecanismo difere consideravelmente entre os dois reflexos.
+
+
+== Reflexo de Hoffmann ==
+Uma técnica importante, baseada nos trabalhos de Johann Hoffmann, permite o exame das conexões monossinápticas das fibras sensórias Ia com neurônios motores. Essa técnica envolve a estimulação elétrica das fibras Ia em um nervo periférico e o registro da resposta reflexa em um músculo inervado por este nervo, sendo conhecida como reflexo de Hoffmann ou reflexo H. O reflexo H é facilmente medido no músculo sóleo (um extensor do tornozelo) utilizando eletromiografia. Para tanto, as fibras Ia do sóleo são excitadas por um eletrodo colocado sobre o nervo tibial, atrás do joelho. Ao serem recrutadas, ou seja, quando essas fibras sensoriais geram potenciais de ação, transmitem esses sinais aos neurônios motores que inervam o músculo associado às fibras Ia recrutadas, causando a contração muscular. Ao variar o nível de estimulação elétrica sobre o nervo avaliado, pode-se estudar a fisiologia das vias neuronais envolvidas.
+
+
+== Acurácia diagnóstica ==
+Em uma pesquisa com o objetivo de investigar a relação entre o sinal de Hoffmann e a evidência radiográfica de compressão da medula espinhal cervical (mielopatia) e lesões cerebrais, infere-se que o sinal de Hoffmann tem um valor preditivo muito baixo como um achado isolado do exame físico e não é possível predizer a presença de compressão medular ou patologia cerebral.Usos clínicos do reflexo de Hoffmann dos músculos dos membros superiores e inferiores têm apresentado bons resultados.
+
+
+== Ver também ==
+Sinal de Babinski
+Fibra sensorial Ia
+Neurônio motor
+Redes neurais biológicas
+Neurofisiologia
+Neurofisiologia clínica
+
+
+== Referências ==

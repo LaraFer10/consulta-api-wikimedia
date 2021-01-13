@@ -1,0 +1,26 @@
+Bicoid é um gene de expressão maternal, cujo gradiente de concentração proteica ao longo do embrião de Drosophila melanogaster define a formação do eixo anteroposterior na embriogênese dessa espécie. Com esse gradiente de concentração, essa proteína é capaz de induzir diferentes comportamentos celulares a partir de suas diferentes concentrações ao longo do embrião , e dessa forma age como um morfógeno, sendo a primeira proteína a ser caracterizada dessa forma .
+
+
+== Histórico ==
+O papel do gradiente de concentração de bicoid em Drosophilas foi publicado por Nüsslein-Volhard e Wolfgang Driever em 1988 , sendo a primeira demonstração molecular do conceito de morfógenos. Hoje em dia sabe-se que esta proteína tem duplo papel, ela é Fator de Transcrição e de Tradução. 
+
+
+== Oogênese e papel de Bicoid na formação do eixo anteroposterior ==
+O folículo ovariano de Drosophila possui 16 células germinativas conectadas por canais, entre elas uma é selecionada como ovócito enquanto as outras 15 tormam-se células nutridoras. Uma das funções das células nutridoras é transcrever mRNAs importantes para o futuro desenvolvimento embrionário. A localização desses mRNAs no ovócito é determinada de forma assimétrica pelas células nutridoras e irá especificar os eixos corporais do embrião. Então, durante a formação do ovócito são transcritos genes codificadores de fatores maternos, e os seus mRNA são posicionados em determinadas regiões deste ovócito. Após a fecundação, estes mRNA são traduzidos em proteínas que ocuparão o mesmo lugar no zigoto. O gene bicoid é um desses fatores maternos e possui grande importância no desenvolvimento de Drosophilas.
+Os produtos do gene bicoid definem, juntamente com os de nanos, o eixo anteroposterior de drosófilas , sendo bicoid importante para a definição da região anterior. O mRNA de bicoid é expresso pelas células nutridoras e depositado no ovo não fertilizado perto da região que posteriormente formará a região anterior do embrião. Esse mRNA é traduzido logo após a fecundação e a proteína se difunde através da célula criando, a partir da sétima divisão, um gradiente de concentração ao longo do embrião com a maior concentração de bicoid no polo anterior . 
+
+A proteína bicoid possui um homeodomínio, característica de genes Homeobox, sendo uma das poucas proteínas que consegue se ligar a RNA e DNA, e dessa forma conseguir regular transcrição e tradução. Assim, bicoid é um fator de transcrição que ativa a expressão de vários genes relacionados a transcrição , como o gene hunchback que responde a altas concentrações de bicoid definindo a posição da cabeça e tórax. Ao mesmo tempo, a proteína bicoid é também um repressor de tradução, inativando certos mRNA dependendo do seu gradiente de concentração. A concentração local de bicoid afeta a expressão dos genes de uma forma dependente de limiar, ou seja, os genes são expressos por transcrição ou inibidos por tradução apenas quando a concentração de bicoid é maior que o limite em que consegue provocar efeito. Alterações no gradiente de bicoid resulta em curiosos efeitos no padrão corporal dos embriões. A ausência de bicoid  produz um embrião sem tórax e cabeça, mas com dois abdomes .
+
+
+== Interação e posição no embrião em relação a outras proteínas ==
+Bicoid e hunchback tem gradiente de concentração começando na região anterior do embrião, enquanto nanos e caudal tem gradiente começando na região posterior. Hunchback é um gene que responde a altas concentrações de bicoid para ser expresso e define a posição da cabeça e tórax. Nanos é um gene também de expressão maternal, porém os produtos de sua expressão são depositados na região posterior do ovócito. Caudal possui tradução reprimida por bicoid, pois seu mRNA é um alvo dessa proteína, e assim tem maior concentração proteica nas regiões com menor concentração de bicoid.
+
+
+== Estrutura ==
+As funções de bicoid, de fator de transcrição de genes embrionários e de repressor de tradução, exigem um homeodomíneo que seja capaz de reconhecer sequências alvo de DNA e RNA. Bicoid possui uma região rica em arginina (parte da hélice presente na imagem) semelhante a encontrada na proteína REV de HIV, essencial para a ligação com ácidos nucleicos. Mutantes de bicoid, com substituição da argenina 54, tem a propriedade de ligação com RNA alterada, enquanto a propriedade de ligação com DNA permanece a mesma. Assim, esses mutantes falham ao reprimir a tradução, enquanto a transcrição dos genes alvos continua ativa .                  
+
+
+== Referências ==
+
+Gilbert, S.E. 2003. Developmental Biology, 7ª ed., pp 307-355 e pp 711-748, Sinauer Associates Inc., Sunderland.
+Macdonald, P.M. 1990. Bicoid mRNA localization signal: phylogenetic conservation of function and RNA secondary structure. Development 110: 161-171.

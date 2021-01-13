@@ -1,0 +1,71 @@
+A homocisteína é um composto químico com a fórmula HSCH2CH2CH(NH2)CO2H.  
+É um homólogo do aminoácido natural cisteína, diferindo na sua cadeia lateral que contém um metileno adicional, grupo (-CH2-), antes do grupo tiol (-SH). Alternativamente, a homocisteína pode derivar da metionina removendo o grupo metil do carbono terminal.
+A determinação do nível de homocisteína é útil para avaliação de pacientes em risco para doenças cardiovasculares (DCV), ele pode lesionar o revestimento endotelial das artérias e promover a formação de trombos. Os fatores genéticos e um dieta pobre em ácido fólico, vitamina B6 e B12 estão associados a níveis elevados de homocisteína.
+Um jejum de 12 horas é necessário antes de coletar uma amostra de sangue para uma medida sérica exata. 
+NORMAL:  5 A 15 micromol/L
+MODERADO: 16 A 30 micromol/L
+INTERMEDIÁRIO: 31 A 100 micromol/L
+GRAVE: > 100 micromol/L
+
+
+== Metabolismo da homocisteína ==
+A homocisteína é um aminoácido sulfidrílico formado a partir da desmetilação da metionina. A homocisteína é metabolizada por meio de duas vias: a de remetilação (dependente de vitamina B12 e ácido fólico) e a de transfuração (dependente de vitamina B6). Na remetilação, a homocisteína é convertida a mationina, pela enzima metionina sintetase, que requer vitamina B12 como co-fator. Nesse momento, ocorre a redução do 5,10 metilenotetra-hidrofolato, que tem como finalidade doar agrupamento metil à metionina sintetase. Essa reação é catalisada pela 5,10 metilenotetra-hidrofolato-redutase (MTHF). Contudo, a remetilação também ocorre por meio do metabolismo da betaína, que doa agrupamento metil para a metionina sintetase, com o objetivo de converter a homocisteína em metionina . Na transfuração, a homocisteína é convertida em cistationina, reação essa catalisada pela enzima cistationina B sintetase (CBS), que necessita de vitamina B6 como co-fator e, após, gerando cisteína e alfa-cetobutirato. Uma redução da atividade da CBS por deficiência de cofator, que é a vitamina B6, ou por alguma mutação, pode levar a um aumento da homocisteína. A cisteína, formada a partir da homocisteína, pode ser incorporada em enzimas e proteínas podendo ter seu grupo -SH convertido em pontes dissulfeto, necessárias para a força e estabilidade de muitas proteínas, inclusive do colágeno.22 Baines et al. avaliaram mulheres na pósmenopausa e constataram que aquelas que apresentavam baixa massa óssea tinham níveis séricos diminuídos de cisteína e um risco mais elevado de fratura óssea. A deficiência de vitamina B12, vitamina B6 e folato dificulta a execução de diversas reações enzimáticas. A redução dos níveis dessas vitaminas impede o funcionamento da metionina sintase, CBS e MTHFR, aumentando as concentrações plasmáticas de homocisteína. Evidências atuais mostram que o excesso de homocisteína está relacionado com alterações na estrutura de proteínas, peroxidação lipídica, inflamação e danos ao DNA. A hiper-homocisteinemia é um fator de risco para a osteoporose e fraturas ósseas, pois atua bloqueando as reações da enzima lisil-oxidase, responsável pela síntese das ligações cruzadas do colágeno, que tem como função estabilizar as fibras de colágeno no osso, produzindo uma estrutura rígida e forte ao tecido ósseo.
+As alterações ocorridas no metabolismo da homocisteína são de causa multifatorial, envolvendo fatores genéticos, fisiológicos, nutricionais e hormonais.
+
+
+== Consequências da homocisteína no organismo ==
+A homocistinúria é um problema no metabolismo da homocisteína, é uma doença autossômica recessiva, em que a enzima cistationina-β-sintetase (CβS) está deficiente. Essa doença pode ser um dos determinantes das doenças vasculares. Isso porque há diversos estudos que mostraram a íntima relação entre o acúmulo de homocisteína e doenças vasculares como trombose, arteriosclerose e doenças cardiovasculares.
+Alguns estudos de metanálise com mais de 4 mil pacientes obtiveram as seguintes relações quando as concentrações de homocisteína estão acima de 10mmol/l, cada 5mmol/l acrescidos nos valores de He circulante estão associados a:
+- 80% de risco para doença cardiovascular em mulheres e 60% em homens; 
+- 50% para doença cerebrovascular
+- aumentar em 6,8 vezes o risco para doença vascular periférica
+No entanto, ainda não se sabe exatamente qual a influência da homocisteína nos mecanismos fisiopatológicos dessas doenças. É notório que a presença de HHe determina uma lesão vascular, crescimento da musculatura lisa, além de ocasionar uma maior aderência plaquetária, maior oxidação e acúmulo de LDL-colesterol nos vasos sanguíneos e o consequente estímulo a cascata de coagulação.
+Além disso, estudos in vivo comprovaram que HHe atua como um “condutor” ou endereçador natural dos leucócitos, estimulando essas células a se aderir nos endotélios e a fazer a migração transendotelial. 
+Além disso, a homocisteína e a homocistina (sua forma oxidada) tem um efeito direto nas propriedades eletroﬁsiológicas do coração, pois inibem os canais de cálcio em miócitos ventriculares, o que gera modificações na repolarização da ﬁbra cardíaca.
+Resumindo, o excesso de homocisteína e de sua forma oxidada em associação com espécies de oxigênio reativas pode levar a uma peroxidação lipídica, lesão da matriz vascular e proliferação da célula muscular lisa, o que pode resultar em aterogênese (formação da placa arterosclerótica). Além disso, também pode resultar em lesão endotelial vascular, regulação vasomotora prejudicada e superfície protrombótica, levando a um quadro de trombogênese (formação de trombo ou coágulo).
+
+
+== Consequências de sua alta concentração no organismo ==
+﻿A homocisteína é um aminoácido natural no corpo humano. Geralmente é produzido como um subproduto de comer carne e, juntamente com outros aminoácidos, é um bloco de construção para todas as proteínas do corpo. No entanto, níveis elevados de homocisteína estão associados ao endurecimento das artérias, ataques cardíacos, acidentes vasculares cerebrais, osteoperosis e até mesmo a doença de Alzheimer.
+A pesquisa sobre os altos níveis de homocisteína durante a década de 1990 levou à compreensão de como este aminoácido está ligado a doenças cardíacas e acidentes vasculares cerebrais. Os níveis significativamente elevados de homocisteína, também conhecidos como hiperhomocisteinemia, bloqueiam e causam o endurecimento das artérias. Esta condição, conhecida como arteriosclerose, faz com que as artérias se contraponham ,o que restringe o fluxo de sangue através das artérias afetadas. Os coágulos sanguíneos se formam devido a altos níveis de homocisteína, que por sua vez reprime ainda mais passagens arteriais, diminuindo o fluxo sanguíneo ainda mais.
+A falta de fluxo sanguíneo para o cérebro é uma das principais causas do acidente vascular cerebral, juntamente com a formação de coágulos sanguíneos no cérebro. A falta de fluxo sanguíneo para os músculos causa cólicas severas e dor à medida que os músculos se tornam privados de oxigênio, uma condição conhecida como claudicação. Osteoperosis é um resultado conhecido de altos níveis de homocisteína, quando a falta de fluxo sanguíneo enfraquece os ossos do corpo.
+De acordo com a MedicineNet.com, os níveis normais de homocisteína no corpo de uma pessoa variam de cinco a quinze micromoles por litro de sangue. Um micrograma é uma unidade de medida usada para medir pequenas quantidades de uma molécula, então isso deve dar uma idéia de quão pouco este aminoácido é considerado normal quando está presente. Qualquer quantidade dentro deste intervalo é considerada alta.
+A falta ou deficiência de enzimas que quebram a homocisteína levará a níveis mais elevados, à medida que o aminoácido se acumula no sangue. Esta falta pode ser a dieta, quando as vitaminas do complexo B B12, B6 e ácido fólico não estão presentes em quantidades suficientes para quebrar este aminoácido ou, em alguns casos, pode ser hereditária. O tabagismo também foi associado a altos níveis de homocisteína.
+Entre cinco e dez por cento da população tem um certo grau de altos níveis de homocisteína. Todo mundo corre o risco de desenvolver essa doença, embora pessoas com uma dieta vegetariana estão  em menor risco. Estudos neste estado durante 1990 também mostraram que pessoas com diabetes ou estão em diálise renal, bem como pessoas com doença de Crohn apresentam maior risco de desenvolver altos níveis de homocisteína em relação ao resto da população.
+Vitaminas envolvidas
+Ácido fólico, vitamina B6 e vitamina B12.
+Tanto a vitamina B6 como a vitamina B12 atuam como coenzimas no metabolismo da metionina e da homocisteína, razão pela qual uma relação estreita entre os níveis plasmáticos dessas vitaminas e os níveis de homocisteína é refletida. Por sua vez, o ácido fólico regula a via metabólica que é catalisada pela metilenetetrahidrofolato redutase (MTHFR); A Cobalamina (B12) regula a via catalisada da metionina sintase e a vitamina B6 atua como cofator da cistatina sintase.
+A deficiência de qualquer das vitaminas mencionadas acima (B6-B12), pode causar disponibilidade insuficiente de grupos metilo, dificultando assim o metabolismo adequado da mielina, neurotransmissores e fosfolípidos das membranas, que posteriormente serão refletidos como comprometimento cognitivo. Embora existam estudos que não mostrem uma relação direta entre vitaminas e comprometimento cognitivo, os resultados revelam que as vitaminas B6 e B12 estão em menor concentração em indivíduos doentios do que em indivíduos saudáveis.
+Fatores que aumentam as concentrações plasmáticas de homocisteína
+Alguns dos fatores que causam altos níveis de homocisteína estão relacionados a fatores alimentares ou genéticos. Pode haver consumo excessivo de alimentos contendo precursores de homocisteína ou consumo de alimentos com nutrientes que contribuem para a reciclagem da homocisteína.
+a) Mutações enzimáticas relacionadas ao MTHFR, HMT e CS.
+b) Deficiência de folatos, piridoxina e falhas na absorção de vitamina B12.
+c) Distúrbios sistêmicos, tais como: insuficiência renal e hepática, hipotireoidismo, neoplasias e transplantes.
+d) Fatores farmacológicos e tóxicos, como consumo excessivo de café e / ou álcool, tabagismo, administração de metionina oral e alguns inibidores.2
+e) Presença plasmática de oxysterol, a partir da ingestão de alimentos de origem animal
+Doenças associadas á homocisteína 
+Estudos focados na homocisteína e danos nos neurônios associaram hiperhomocisteinemia como fator de risco importante em doenças neurológicas e cerebrovasculares como:
+Doença de Alzheimer
+Demência
+Doença de Parkinson
+Epilepsia
+Doenças cerebrovasculares.
+Alzheimer associado a hiper-homocisteinemia
+O Alzheimer é uma doença neurodegenerativa, que se reflete na perda de habilidades cognitivas e mudanças no comportamento. Isso afeta habilidades como memória, linguagem, capacidade visuoespacial e a capacidade de raciocinar.
+O mecanismo neurotóxico da hiperhomocisteinemia que implica: dano endotelial, aumento do estresse oxidativo, falha na vasodilatação mediada por óxido nítrico e toxicidade mediada por β-amilóides, tem sido relatado nos últimos anos à morte de neurônios corticais e neurônios. seus circuitos.
+A proteína β-amilóide em associação com a homocisteína activa a apoptose em neurônios corticais, uma vez que aumenta os níveis citoplasmáticos de Ca ++ e ativa a geração de EROs (espécies reativas de oxigênio), devido ao estresse oxidativo mediado pelo fluxo de Ca ++. Os resultados dessas análises representam evidências claras de que a homocisteína potencializa a ação da proteína β-amilóide, que causa neurodegeneração irreversível através de mecanismos de excitotoxicidade, dano do DNA, modificação oxidativa de bases nitrogenadas e falhas nas capacidades reparadoras. , levando assim à morte celular.
+
+
+== Referências ==
+Metionina y Homocisteína
+Estructura, Propiedades, y Metabolismo de la homocisteína
+Vitaminas B12, B6, B9 e homocisteína e sua relação com a massa óssea em idosos
+NEVES, Lindalva Batista; MACEDO, Danielle Mazziero; LOPES, Antonio Carlos. Homocisteína. Scielo, São Paulo - Sp, v. 40, n. 5, p.1-10, 20 out. 2004. Disponível em: <http://www.scielo.br/pdf/jbpml/v40n5/a06v40n5.pdf>. Acesso em: 13 dez. 2017
+http://www.cuerpomente.com/alimentacion/nutricion/homocisteina-alta-causas-sintomas-tratamiento_1002
+https://web.archive.org/web/20120417111355/http://computo.sid.unam.mx/Bioquimica/PDF/2009/01/e_1erArticulo.pdf
+http://letras-diferentes.info/salud/tratamientos-y-enfermedades/caracteristicas-de-la-homocisteina-elevada.php
+F. Blanco Vaca. «Hiperhomocisteinemia asociada a múltiples enfermedades, desde la aterotrombosis al Alzheimer: ¿casualidad o causalidad?» (PDF). Consultado em 28 de abril de 2012.Cómo la homocisteína degrada (thiolatos) proteínas en arterias
+
+
+== Ligações externas ==
+(em inglês) Bula de medicamento com homocisteína

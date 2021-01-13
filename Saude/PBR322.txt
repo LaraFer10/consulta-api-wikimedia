@@ -1,0 +1,7 @@
+pBR322 é um plasmídio e foi um dos mais utilizados vectores de clonagem em E. coli. Foi o primeiro plasmídio artificial. Criado em 1977, o seu nome deriva de p (plasmídio) e BR, Bolivar e Rodriguez, os criadores de origem mexicana.
+Possui 4361 pares de bases  de comprimento e contém um região de replicão, o gene ampR, que codifica a proteína de resistência a ampicilina e o gene tetR, que codifica a proteína de resistência à tetraciclina.
+O plasmídio possui locais de restrição únicos para mais de 40 enzimas de restrição. 11 desses 40 sítios ficam no gene tetR. Existem 2 sítios para a enzima de restrição HindIII e ClaI dentro do promotor do gene tetR. Existem 6 locais de restrição chave dentro do gene ampR. A origem da replicação ou sítio ori neste plasmídio é pMB1. O ori codifica dois ARN (RNAI and RNAII) e uma proteína (chamada Rom ou Rop).
+A sequência circular é numerada de tal forma que 0 está no meio do sítio EcoRI e a contagem cresce através dos genes tet. Os promotores P1 e P3 são para o gene de beta-lactamase. P3 é o promotor natural, e P1 é artificialmente criado. P2 está na mesma região que o P1 mas na fita oposta e inicia a transcrição na direcção do gene de resistência à tetraciclina.
+
+
+== Referências ==

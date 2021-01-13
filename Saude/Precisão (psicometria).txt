@@ -1,0 +1,29 @@
+Precisão, Fidedignidade, Confiabilidade ou Consistência Interna, é a propriedade Psicométrica de um Instrumento Psicológico (conhecido comumente como teste), que é definida como a estabilidade com que os escores (os resultados obtidos) dos testandos conservam-se em diferentes aplicações alternativas de um teste ou em formas equivalentes de testes distintos, sendo também definida como a capacidade de medir com a menor taxa de erro possível, o valor real do construto ou característica psicológica em questão. Os diversos nomes existentes desse parâmetro, resultam diretamente do tipo de técnica utilizada na coleta dos dados e, da análise estatística que será utilizada para avaliá-lo, tais como análise de consistência interna (Alfa de Cronbach ou Kuder-Richardson), Formas Paralelas (Ou Alternadas), Teste Reteste (Estabilidade Temporal), Duas metades e Fidedignidade do Avaliador.    
+A precisão é um dos parâmetros fundamentais para a construção de qualquer instrumento Psicométrico ou Projetivo junto à Validade e a Normatização, sendo de fundamental importância para a validade, de modo que um teste com baixa precisão, não será válido, pois não mede adequadademente o construto de interesse.  
+
+
+== Técnicas para Avaliação da Precisão ==
+Existem cinco principais forma de avaliação da Fidedignidade de um instrumento, estas que tem como base, o uso de duas técnicas estatísticas para a estimação do chamado Coeficiente de Fidedignidade, que são a correlação simples e as técnicas alfa (Cronbach e Kuder-Richardson).
+
+Fidedignidade Teste-RetesteO conceito base desta forma de avaliação, consiste na aplicação do instrumento em dois períodos de tempo distintos com a amostra normativa e verificando o nível de correlação entre os escores obtidos, verificando se há flutuação nesses resultados. Possuindo vantagens relativas a equivalência (pois se trata do mesmo instrumento), sendo bastante intuitiva. Possui como desvantagem, a dificuldade de definir o intervalo de tempo específico entre as aplicações.  
+
+Formas ParalelasEste procedimento parte do principio da utilização e aplicação de duas forma distintas do mesmo instrumento (mesma quantidade de itens, mesmo formato, mesma quantidade de alternativas falsas ou certas, dificuldade e etc.) que avalia um construto especifico e, aplicar as duas formas com a amostra designada. Ao final da aplicação e obtenção dos escores, faz-se uma análise de correlação entre os escores de ambas as partes, em que resultados acima de 0,80 indicam um bom índice de fidedignidade.
+
+Duas MetadesA avaliação por duas metades, consiste em separar o teste em duas partes e calcular o nível de correlação entre elas. Esta divisão deve ser feita de forma harmônica entre ambas as partes (itens pares vs ímpares, 1ª ou segunda metades e etc.). 
+
+Avaliação por Consistência InternaEstes procedimentos se baseiam na análise da congruência que cada item do teste tem com os restantes itens do mesmo teste. Tendo como principio básico, se um teste fosse dividido em todas as suas possibilidades, obter-se-ia um coeficiente de correlação entre cada divisão, se, então calcularmos a média de todos esse coeficientes, se obterá o coeficiente alfa. Outro tipo de avaliação por consistência interna, é o alfa de Kuder-Richardson, que é utilizado em testes com itens dicotômicos (sim ou não, concordo ou discordo e etc).
+
+Fidedignidade do Avaliador (ou juízes)Este último tipo de avaliação, consiste na correlação dos escores dados por dois especialistas em um formulário de avaliação do instrumento, em um esquema de validação por pares. Posteriormente, verifica-se o nível de correlação entre os escores dados pelos avaliadores. Esta é mais comumente utilizada em instrumentos projetivos e como uma avaliação complementar as anteriores.  
+
+
+== Ver também ==
+Psicometria
+Teoria Clássica dos Testes
+Validade
+Psicometria: fundamentos matemáticos da Teoria Clássica dos Testes
+
+
+== Referências ==
+HUTZ, Simon Cláudio; BANDEIRA, Denise Ruschel; TRENTINI, Clarisse Marceli (Orgs). Psicometria. Porto Alegre: Artmed Editora. 2015.
+PASQUALI, Luiz. Psicometria: Teoria dos Testes na Psicologia e na Educação. Rio de Janeiro: Vozes. 2003. 
+PASQUALI, Luiz. Validade dos testes psicológicos: será possível reencontrar o caminho?. Psic.: Teor. e Pesq.,  Brasília ,  v. 23, n. spe, p. 99-107,    2007 .   Disponível em <http://www.scielo.br/scielo.php?script=sci_arttext&pid=S0102-37722007000500019&lng=en&nrm=iso>

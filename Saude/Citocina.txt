@@ -1,0 +1,84 @@
+Citocina é o nome geral dado a qualquer proteína que é secretada por células e que afeta o comportamento das células vizinhas portadoras de receptores adequados (MURPHY, 2015). Constitui um grupo de fatores extracelulares, os quais podem mandar as células se dividirem ou pararem de se dividir, estimulá-las a secretarem suas próprias moléculas de sinalização ou expressarem novos receptores (estruturas que surgem na superfície das membranas), ou ordená-las a se "autodestruírem"(TIZARD,2009). 
+Os sinais são produzidos por células do sistema imune, como os linfócitos, macrófagos, monócitos e leucócitos, os quais "combatem" partículas estranhas que adentram no nosso organismo. Essas células possuem a capacidade de liberar mais de uma única citocina por vez, assim como, podem atingir diferentes tipos celulares (TIZARD, 2009). 
+As variadas citocinas podem ser enquadradas em diversas categorias: 
+
+As interleucinas (IL), caracterizando-se por mediarem a sinalização entre linfócitos e os outros leucócitos¹;
+Os interferons que são produzidos em resposta a infecções virais ou à estimulação imunológica, estes podem se dividir em 3 grupos: tipo I (interferon alfa - INF-ɑ e interferon beta - INF-β); tipo II (interferon gama - INF-ɤ) e tipo III (IFN-λ)¹;
+Os Fatores de Necrose Tumoral (TNF) que são secretados por macrófagos e mastócitos, atuando como principal mediador da inflamação aguda e criando efeitos citotóxicos nas células tumorais (BATISTA, K., 2020);
+As quimiocinas que desempenham um papel na quimiotaxia, circulação, migração e ativação de leucócitos, principalmente na inflamação¹;
+O Fator de transformação de Crescimento (TGF-β) que é responsável pelo controle, diferenciação, proliferação celular, desenvolvimento e reparo tecidual (SOUSA, et al. 2013).
+
+
+== Funções das citocinas ==
+Regular a duração e intensidade das respostas especificas;
+Recrutar células efetoras para as áreas onde se desenvolvem respostas e induzir a geração e maturação de novas células a partir de precursores.
+
+
+== Outras Funções ==
+As citocinas são produzidas durante a fase de ativação e fase efetora da imunidade para mediar e regular a resposta inflamatória e imunitária. Têm uma vida média curta. Estas só estimulam as células com receptores específicos na membrana da célula alvo, têm uma ação extremamente potente. São moléculas pleiotrópicas (podem atuar sobre muitos tipos celulares diferentes). São também redundantes ( várias citocinas podem efetuar as mesmas ações). 
+As citocinas podem induzir efeitos diferentes sobre as mesmas células alvo de forma separada no tempo ou simultaneamente. Podem também influir na ação de outras citocinas de forma antagônica ou sinérgica.
+
+
+== Classificação ==
+Classificação estrutural:
+depende das estruturas secundárias da proteína.
+Classificação funcional:
+Mediadores e reguladores da imunidade inata:
+
+produzidos pelos macrófagos e estimulados pelos microorganismos;
+estimulam ou inibem as reações inflamatórias;
+TRL, IFN , IL-4 , IL-13 ,IL-1, IL-6, IL-12, IL-16, TNF-alfa, IFN-alfa, INF-ß.Mediadores de regulação da imunidade específica:
+
+produzem-se em resp0sta à activação dos linfócitos T;
+potencializam as reações imunitárias;
+IL-2, IL-4, TGF-ß, INF-y.Estimuladores da proliferação e diferenciação dos percursores hematopoiéticos:
+- SCF, IL-3, IL-7, G-CSF, GM-CSF, M-CSF.
+
+
+== Caracteristicas funcionais das citocinas ==
+Mediadores e reguladores da imunidade inata
+Reconhecimento do vírus. Os RNSs virais induzem a libertação de interferons de tipo I que inibem a replicação viral e proliferação celular; incrementam o potencial litico das celulas NK; e estimulam a expressão de moléculas MHC I. 
+Detecção de vírus pelas células NK. As células NK activadas liberam citocinas que activam fagócitos, neutrófilos e células endoteliais.
+Detecção de bactérias pelos fagócitos mononucleares. Os monócitos/macrófagos activados produzem citocinas que levam à activação de respostas sistémicas como o aumento de temperatura, activação das células T e B e libertação de outras citocinas. 
+Quimiocinas 
+
+Família de citocinas que induzem a adesão rápida, quimiotaxia e activação de subpopulações de leucóucitos efectores. São produzida por quase todos os tipos celulares em resposta a sinais pro-inflamatórias (plaquetas...). Orientam os leucócitos circulantes. 
+Citocinas mediadoras da função dos linfócitos T e B 
+Os linfócitos T activados libertam um grande número de citocinas que controlam os efectores da resposta imunitária. Actuam sobre macrófafos, eosinófilos e células endoteliais. Estes participam na diferenciação dos TH em TH1 e TH2. 
+Citocinas estimuladoras da hematopoiese 
+Denominam-se fatores estimulantes de colonias (CFS). 
+Estimulação de novas células que substituem as utilizadas na resposta imunitária.
+
+
+== Polimorfismos em genes de citocinas ==
+A inflamação tem sido considerada uma das responsáveis pela progressão de diversas doenças. As citocinas atuam diretamente nesse processo,
+aumentando ou diminuindo a resposta inflamatória. O estímulo dessas citocinas está relacionado com as variantes em genes reguladoras de citocinas. Os polimorfismos de um único nucleotídeo (SNPs, em inglês) representam as variantes em genes de citocinas que podem levar ao desenvolvimento de diversas doenças inflamatórias. Assim, pesquisas recentes têm se concentrado nessa interface Imunogenética.
+Estudo brasileiro descreveu diversas variantes para os genes TGFB1, TNF, IL2, IL4, IL6, IL10 e IFNG, além do fenótipo produtor de citocinas, em várias doenças inflamatórias.
+Outra pesquisa brasileira identificou SNPs nos genes TGFB1, TNF, IL2, IL4 e IFNG relacionados à predisposição da Doença renal policística autossômica dominante.
+
+
+== Citocinas na gênese da obesidade ==
+Ácidos graxos saturados de cadeia longa, presentes na dieta, induzem uma resposta inflamatória muito precoce no hipotálamo, ao ativarem receptores TLR4 e induzirem tanto inflamação, quanto estresse de retículo endoplasmático (ER stress). Ademais, alterações na função mitocondrial pode desempenhar um papel patofisiológico durante a instalação da disfunção hipotalâmica na obesidade. Estudos recentes mostraram marcadores de inflamação, estresse de retículo endoplasmático e alterações mitocondriais em etapas iniciais da obesidade induzida por dieta. Um trabalho da UNICAMP, demonstrou um aumento precoce, no conteúdo de proteínas relacionadas à inflamação, IL-1β, IL-6, IL-10, TNF-α e fractalkina, em camundongos Swiss submetidos a uma dieta rica em gordura saturada (o que quer dizer que camundongos sofrem com dieta rica em gorduras saturadas. Só isso. Extrapolar para humanos é absurdo.) A exposição dos camundongos a 3 horas de dieta hiperlipídica foi capaz de aumentar significativamente o conteúdo da fractalkina, sendo assim, a resposta mais precoce ao insulto da dieta hiperlipídica. Após 6 horas de exposição, observou-se um aumento da chaperona GRP78, proteína envolvida na resposta às proteínas mal enoveladas (UPR) no retículo endoplasmático, e este aumento se conservou com o passar dos dias enquanto mantida a oferta da dieta hiperlipídica. A mitofusina 2, proteína envolvida na dinâmica morfológica mitocondrial, teve redução após 24 horas de exposição à dieta hiperlipidica e aumento após 7 dias. Além de variações nos contatos entre as mitocôndrias e o retículo endoplasmático. Assim, Carraro e colaboradores, demostraram que o consumo de dieta hiperlipídica induz rápida resposta inflamatória no hipotálamo de camundongos, o que é seguido de indução de ER stress.
+
+
+== Referências ==
+"Les cytokines", J.-M. Cavaillon, Edições Masson, 1996
+"Molecular mediators: Cytokines",  J.-M. Cavaillon, em  "Encyclopedia of Molecular Cell Biology and Molecular Medicine", 2ª Edição, Vol. 8Wiley-VCH Verlag, Weinheim, Alemanha, 2005, pp 431-460
+Gallin J, Snyderman R (eds). Inflammation: Basic Principles and Clinical Correlates. 3rd edition, Philadelphia, Lippincott William and Wilkins, 1999.
+Janeway CA et al. (eds). Immunobiology. The immune system in Health and Disease, 4th edition, New York, Garland, 1999.
+Roitt I et al. (eds.) Immunology. 5th edition, London, Mosby, 2002.
+Science Vol. 311 No. 5769, pp. 1875 - 1876, 31 March 2006 DOI: 10.1126/science.1126030
+Alves EF, Borelli SD, Tsuneto LT. Cytokines genes and autosomal dominant polycystic kidney disease in a brazilian population. In: THE AMERICAN SOCIETY OF HISTOCOMPATIBILITY AND IMMUNOGENETICS: 40TH ANNUAL MEETING ABSTRACTS, 2014, Denver. Human Immunology, 2014. v. 75. p. 126-126. DOI: 10.1016/j.humimm.2014.08.171
+Alves EF, Borelli SD, Tsuneto LT. Autosomal dominant polycystic kidney disease: possible influences of single nucleotide polymorphism in cytokine genes. Perspect. Med. 2015; 26(1):5-15. DOI: 10.6006/perspectmed.20150101.56372S1645
+¹TIZARD, Ian R. Imunologia veterinária: uma introdução. 9. ed. São Paulo: Saunders Elsevier, 2009. xvi, 587 p. 174-175, il.
+SOUSA, J. R. et al. Imunoexpressão de TNF-a e TGF-b em lesões de pacientes nas diversas formas clínicas da hanseníase por meio da técnica de imunoistoquímica. Revista Pan-amazônica de Saúde, [s.l.], v. 4, n. 2, p. 45-53, jun. 2013. Instituto Evandro Chagas. http://dx.doi.org/10.5123/s2176-62232013000200006. Disponível em: http://scielo.iec.gov.br/pdf/rpas/v4n2/v4n2a06.pdf. Acesso em: 22 abr. 2020.
+BATISTA, Keila Zaniboni Siqueira. Notas de aula, 2020. Projetor digital.
+MURPHY, Kenneth. Imunologia de Janeway. 8. ed. Ed. Artmed, 2015, p. 10, il.
+
+
+== Ligações externas ==
+Cytokine Tutorial
+Cell Interactions: Cytokines
+Reperfusion Injury in Stroke.
+Cytokines Online Pathfinder Encyclopaedia
+Cytokines and inflammation, science and practical journal

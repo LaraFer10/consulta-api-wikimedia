@@ -1,0 +1,21 @@
+O domínio C1 (também conhecido como domínio de ligação a forbol éster/diacilglicerol) é um domínio presente na região N-terminal das proteínas quinases C (PKC's). É um domínio cuja função é o de se ligar a um importante segundo mensageiro, o diacilglicerol (DAG), assim como os análogos ésteres de forbol.A região N-terminal se PKC é composta pelo domíno C1. O domínio C1 é ativo tanto nas cPKC's (clássicas) quanto nas nPKC's (novel), e embora presente nas aPKC's (atípicas), não apresenta atividade . 
+Os ésteres de forbol (como o PMA) são análogos de DAG e potentes causadores de tumor. O DAG ativa uma família de proteínas cinases de serina/treonina, conhecida coletivamente como proteínas cinase C (PKC). Sua ação de estimulação é diretamente na PKC, ativando-a.
+A região N-terminal da PKC, o domínio C1, liga-se a PMA e DAG em uma maneira dependente de zinco e de fosfolipídeo. Essa região contém uma ou duas cópias de domínios ricos em cisteína, que é composto por aproximadamente  50 resíduos de aminoácidos, essencial para ligar DAG/PMA. O domínio se liga a dois íons de zinco, provavelmente ancorados em 6 cisteínas e 2 histidinas altamente conservadas.
+
+
+== Proteínas humanas que contém esse domínio ==
+AKAP13;    ARAF;      ARHGAP29;  ARHGEF2;   BRAF;      CDC42BPA;  CDC42BPB;  CDC42BPG;
+CHN1;      CHN2;      CIT;       DGKA;      DGKB;      DGKD;      DGKE;      DGKG;
+DGKH;      DGKI;      DGKK;      DGKQ;      DGKZ;      GMIP;      HMHA1;     KSR1;
+KSR2;      MYO9A;     MYO9B;     PDZD8;     PRKCA;     PRKCB1;    PRKCD;     PRKCE;
+PRKCG;     PRKCH;     PRKCI;     PRKCN;     PRKCQ;     PRKCZ;     PRKD1;     PRKD2;
+PRKD3;     RACGAP1;   RAF1;      RASGRP;    RASGRP1;   RASGRP2;   RASGRP3;   RASGRP4;
+RASSF1;    RASSF5;    ROCK1;     ROCK2;     STAC;      STAC2;     STAC3;     TENC1;
+UNC13A;    UNC13B;    UNC13C;    VAV1;      VAV2;      VAV3; 
+
+
+== Referências ==
+
+
+== Ligações externas ==
+UMich Orientação das Proteínas nas Membranas famílias/superfamília-63 (em inglês) Orientações dos domínios C1 nas membranas (OPM)

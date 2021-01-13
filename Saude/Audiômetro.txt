@@ -1,0 +1,31 @@
+Um audiômetro é um equipamento usado para avaliar a acuidade auditiva.  Eles geralmente consistem em uma unidade de hardware conectada a um par de fones de ouvido e um botão de feedback, às vezes controlado por um computador (PC) padrão.Tais sistemas também podem ser usados com vibradores ósseos, para testar o mecanismo auditivo de condução.Os audiômetros são equipamentos usados nas clínicas de otorrinolaringologia e audiologia. Uma alternativa aos audiômetros de hardware são os audiômetros de software, que estão disponíveis em várias configurações diferentes. Os audiômetros de varredura baseados em PC, que usam um computador padrão.  Eles são mais comumente usados em hospitais, centros de audiologia e instituições de pesquisa. Esses audiômetros também são usados para realizar testes audiométricos industriais. Alguns audiômetros fornecem um kit que permite modificar o software, o que da aos pesquisadores a capacidade de criar seus próprios testes de diagnóstico. 
+
+
+== Funcionalidade ==
+
+Um audiômetro normalmente transmite sons gravados, como tons puros ou fala, aos fones de ouvido do sujeito de teste são utilizados em frequências e intensidades variadas, e registram as respostas do sujeito para produzir um audiograma de sensibilidade de limiar ou perfil de compreensão de fala. 
+
+
+== Tipos ==
+Os audiômetros de nível médico são geralmente uma unidade de hardware incorporada e controlada por um PC.  Os audiômetros de software que são executados em um PC também estão comercialmente disponíveis, mas sua precisão e utilidade para avaliar a perda auditiva são questionáveis devido à falta de um padrão de calibração. 
+O tipo mais comum de audiômetro gera tons puros ou transmite partes da fala. Outro tipo de audiômetro é o audiômetro Bekesy, no qual o sujeito segue um tom de amplitude crescente e decrescente à medida que o tom é varrido pela faixa de frequência, pressionando um botão quando o tom é ouvido e liberando-o quando não pode ser ouvido. e adiante, acima do limiar da audição. A audiometria de Bekesy normalmente produz limiares e desvios padrão menores do que a audiometria tonal liminar. 
+
+
+== Padrões ==
+Os requisitos do audiômetro e o procedimento de teste são especificados nos padrões IEC 60645, ISO 8253 e ANSI isoS3.6. 
+
+
+== Veja também ==
+Audiologia
+Audiograma
+Audiometria
+Teste auditivo
+Audiometria tonal
+
+
+== Links externos ==
+Diretrizes Nacionais de Laboratório Físico sobre Calibração Audiométrica
+MedlinePlus Encyclopedia 003341
+
+
+== Referências ==

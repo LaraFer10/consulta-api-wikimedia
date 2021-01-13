@@ -1,0 +1,82 @@
+Em direito tributário, a responsabilidade tributária define quem é responsável pelo pagamento do tributo. Essa responsabilidade pode ter dois sentidos, um amplo e um restrito. 
+No sentido amplo, é a submissão de determinada pessoa (contribuinte ou não) ao direito do fisco de exigir a prestação da obrigação tributária (ou seja, o pagamento de determinado tributo). Essa responsabilidade pelo pagamento dos tributos (sentido amplo) corresponde à sujeição passiva em matéria tributária e abrange, nos termos do art. 121 do CTN, o contribuinte e o responsável (sentido estrito).
+O contribuinte é o sujeito passivo direto da obrigação tributária. Ele tem obrigação direta pelo pagamento do tributo. Sua capacidade tributária é objetiva, pois decorre da lei, não de sua vontade. Esta capacidade independe da capacidade civil e comercial do contribuinte. Não pode haver convenções particulares modificando a definição legal de sujeito passivo. Assim, o contribuinte é a pessoa física ou jurídica que tem relação direta com o fato gerador. O sujeito passivo deve cumprir as obrigações principais (pagamento do tributo e da penalidade pecuniária) e as obrigações acessórias (obrigação de fazer ou não fazer) impostas a ele.
+No sentido restrito, o responsável é o sujeito passivo indireto da obrigação tributária. Ele não é vinculado diretamente com o fato gerador, mas por imposição legal, é obrigado a responder pelo tributo. Ainda que sua vinculação com o fato gerador não seja direta e pessoal (características do contribuinte), para que seja possível a responsabilização de terceiros há que existir uma relação deste com o fato gerador. Diferentemente do contribuinte, cuja identificação pode decorrer do próprio estudo do critério material do tributo, o responsável pelo pagamento de determinado tributo será expressamente definido em lei. Exemplo: o empregador que recolhe na fonte o IRPF de seu empregado.
+
+
+=== Responsabilidade solidária ===
+Há solidariedade, quando na mesma obrigação concorre mais de um credor, ou mais de um devedor, cada um com direito, ou obrigado, à dívida toda (art. 264 do Código Civil).
+São solidariamente responsáveis pelo pagamento do crédito tributário as pessoas que tenham interesse comum na situação que constitua o fato gerador da obrigação principal e aquelas pessoas expressamente designadas por lei, nos termos do art. 124 do CTN. A solidariedade não comporta benefício de ordem.
+Os efeitos da solidariedade são: a) o pagamento efetuado por um dos obrigados aproveita os demais; b) a isenção ou remissão de crédito exonera todos os coobrigados, salvo quando o benefício for concedido em caráter pessoal, substituindo, nesse caso, a solidariedade dos demais pelo saldo remanescente; c) a interrupção da prescrição em relação a um dos obrigados favorece ou prejudica os demais.
+
+
+=== Responsabilidade tributária em sentido estrito ===
+A responsabilidade tributária (sentido estrito) pode ser subdividida em duas categorias distintas de sujeitos: o substituto tributário e o responsável por transferência.
+
+
+==== Responsável por substituição ====
+Segundo o art. 150, § 7º da Constituição Federal, a lei pode atribuir ao sujeito passivo da obrigação tributária a condição de responsável pelo pagamento do imposto ou contribuição cujo fato gerador deva ocorrer em etapa posterior. A substituição está regulada no art. 128 do CTN.
+Fala-se em substituição quanto o legislador, ao descrever a conduta praticada pelo contribuinte que corresponde ao fato gerador, determina que outra pessoa (substituto) terá a obrigação de recolher o tributo quando verificada aquela conduta. A conduta que determina a substituição da responsabilidade pelo pagamento do tributo integra o próprio conceito do fato gerador.
+Alguns doutrinadores subdividem a substituição tributária em duas subespécies: substituição “para frente” e substituição “para trás”.
+Na substituição “para trás”, embora a relação jurídico-tributária se instaure perante o substituto (é ele, afinal, o sujeito passivo da obrigação), há uma presunção de que o substituto esteja suficientemente vinculado ao fato gerador, de modo a ressarcir-se do valor pago, ou mesmo reter o tributo. Diz respeito a fato gerador já ocorrido ao qual corresponde um tributo certo e definido, possibilitando que o substituto saiba o exato valor que seria devido pelo contribuinte cuja responsabilidade lhe foi transferida pelo legislador.
+Diferentemente, na substituição “para frente” o substituto recolhe tributo referente a fato gerador futuro, ainda não realizado, mas que tem alta probabilidade de ocorrer, e desde que seja assegurada a imediata e preferencial restituição do tributo pago em substituição caso o fato gerador não ocorra. Como exemplo, temos o industrial do cigarro que se responsabiliza pelo tributo devido pelo comerciante do produto; a distribuidora de combustíveis que recolhe, em regime de substituição, o ICMS que seria devido pelo revendedor do combustível.
+
+
+==== Responsável por transferência ====
+Na responsabilidade por transferência, o legislador determina que outra pessoa será responsável pelo recolhimento do tributo em virtude de fato diverso do fato jurídico tributário (fato gerador do tributo). Nesse caso, com a prática do fato gerador pelo contribuinte, surge para este (ou para um responsável por substituição) a responsabilidade originária pelo pagamento do tributo; com a ocorrência de fato jurídico distinto, desloca-se a obrigação para o responsável por transferência, seja para responder solidariamente ou não.
+
+
+===== Responsabilidade dos sucessores =====
+A responsabilidade dos sucessores está prevista nos arts. 129 a 133 do CTN. Trata-se de responsabilidade atribuída a terceiro que, de alguma das formas previstas no artigo 131, passa a ser titular de riqueza do sucedido que deu origem a determinado fato gerador.
+Sua responsabilidade decorre de um fato gerador anterior à sucessão, ainda que só apurado ou lançado posteriormente. O adquirente do imóvel é responsável pelos tributos cujo fato gerador seja a propriedade, o domínio útil ou a posse do bem. Se houver certidão de quitação dos tributos, ele não será responsável pelos débitos tributários anteriores. A sucessão causa mortis – o CTN estabelece que os sucessores a qualquer título e o cônjuge meeiro respondem pelos tributos devidos pelo falecido até a data da partilha ou adjudicação.
+As pessoas jurídicas originadas de fusão, transformação, incorporação ou cisão respondem pelos tributos devidos até a data pela pessoa originária. A pessoa jurídica sucessora é responsável pelos débitos da sucedida existentes até a data da formalização do negócio.
+O adquirente de um Fundo de comércio ou estabelecimento comercial, industrial ou profissional que mantiver a exploração do mesmo ramo de atividade responderá pelos tributos relativos ao fundo de comércio ou estabelecimento comercial e devidos pelo antecessor até a data da transação. A responsabilidade será integral se o antecessor não mais exercer qualquer atividade comercial ou industrial.
+
+
+===== Responsabilidade de terceiros =====
+A responsabilidade de terceiros prevista no art. 134 do CTN é subsidiária, ou seja, comporta benefício de ordem (os responsáveis somente serão chamados a responder pelos tributos devidos no caso de impossibilidade de adimplemento pelo devedor principal). As pessoas listadas nesse artigo responderão pelos tributos devidos nos casos em que for comprovado que uma ação ou omissão culposa dessas pessoas, teve o efeito de gerar a impossibilidade de exigência do cumprimento da obrigação principal pelo sujeito passivo originário.
+São os seguintes terceiros responsáveis: a) os pais pelos tributos devidos pelos filhos menores; b) os tutores e curadores; c) administradores de bens de terceiros; d) o inventariante; e) o síndico e o comissário; f) os tabeliães, escrivães e demais serventuários pelos atos praticados por eles; g) os sócios, nos casos de liquidação da sociedade.
+Diferentemente, o art. 135 do CTN prevê a responsabilização solidária das pessoas ali listadas para com o devedor principal, pelos créditos correspondentes a obrigações tributárias resultantes de atos praticados dolosamente com com excesso de poderes, infração de lei, contrato social ou estatuto.
+Importante lembrar que a Lei Complementar 123/2006, que criou o Estatuto Nacional da Microempresa e Empresa de Pequeno Porte, prevê a responsabilidade solidária dos empresários, sócios e administradores, pelos tributos lançados ou cobrados posteriormente à baixa dos empresários ou da pessoa jurídica, nos termos dos parágrafos 4º e 5º de seu art. 9º, com as alterações da Lei Complementar 147/2014.   
+
+
+===== Responsabilidade por infrações =====
+Nas infrações tributárias a responsabilidade por multas é objetiva, não depende de culpa ou dolo, conforme previsto no art. 136 do CTN. A responsabilidade tratada nesse artigo não tem relação com a sujeição passiva indireta anteriormente tratada, mas diz respeito à sujeição de alguém às consequências de seus atos. Nesse sentido, a responsabilidade por infrações à legislação tributária é aplicável ao tanto ao contribuinte quanto ao responsável tributário, e ainda a terceiro (não contribuinte nem responsável tributário) que descumpre algum dever acessório.
+Por sua vez, no art. 137, o CTN desloca a responsabilidade pela infração ao próprio agente que a realizou, quando: o agente tiver praticado infrações conceituadas por lei como crimes ou contravenções, salvo quando praticadas no exercício regular de administração, mandato, função, cargo ou emprego, ou no cumprimento de ordem expressa emitida por quem de direito; o agente praticar infrações em cuja definição o dolo específico seja elementar.
+Ainda, quando as infrações decorram direta e exclusivamente de dolo específico, a responsabilidade passa a ser pessoal dos agentes que beneficiário do proveito econômico delas decorrentes. Nesses casos, respondem pessoalmente pelas infrações as pessoas referidas no artigo 134, contra aquelas por quem respondem; os mandatários, prepostos ou empregados, contra seus mandantes, preponentes ou empregadores; os diretores, gerentes ou representantes de pessoas jurídicas de direito privado, contra estas.
+
+
+=== Dicas importantes ===
+a) substituição tributária – é uma construção jurídica onde a lei poderá atribuir a sujeito passivo da obrigação tributária a condição de responsável pelo pagamento de imposto ou contribuição cujo fato gerador deva ocorrer posteriormente;
+b) a obrigação tributária nasce a partir do momento em que ocorrer o fato imponível, previsto na lei;
+c) o pagamento do tributo ou penalidade pecuniária constitui objeto da obrigação tributária principal;
+d) sujeito passivo é a pessoa física ou jurídica, de direito público ou privado, que deve pagar o tributo ou a penalidade pecuniária, na forma da legislação tributária específica;
+e) no ilícito tributário o elemento subjetivo vem em segundo plano;
+f) a pessoa que adquirir de outra, por qualquer título, fundo de comércio ou estabelecimento comercial, continuando a exploração, responde pelos tributos relativos ao fundo ou estabelecimento adquirido, devidos até a data do ato, integralmente, se o alienante cessar a exploração da atividade;
+g) os mandatários, prepostos e empregados são pessoalmente responsáveis pelos créditos pertinentes a obrigações tributárias resultantes de atos que praticarem com excesso de poderes ou infração de lei;
+h) a obrigação principal nasce simplesmente com a ocorrência do fato gerador;
+i) a capacidade tributária independe da capacidade civil;
+j) Para o CTN, a responsabilidade tributária caracteriza-se quando a lei fixa em outra pessoa, sem relação pessoal e direta com o fato gerador, o dever de pagamento do tributo, nas hipóteses em que este não seja pago pelo sujeito passivo direto;
+l) a aplicação de penalidade ao contribuinte, na modalidade multa, não substitui o cumprimento da obrigação acessória;
+m) o contribuinte é a pessoa que tem vinculação material, pessoal e direta com o fato gerador;
+n) o responsável é a pessoa, que, sem revestir na condição de contribuinte, responde pela obrigação em decorrência de dispositivo legal.
+
+
+== Referências ==
+
+DIFINI, Luiz Felipe Silveira (2008). Manual de direito tributário 4 ed. São Paulo: Saraiva 
+PAULSEN, Leandro (2005). Direito tributário. Constituição e código tributário à luz da doutrina e da jurisprudência 7 ed. Porto Alegre: Livraria do Advogado 
+MACHADO, Hugo de Brito (2000). Curso de direito tributário 18 ed. São Paulo: Malheiros 
+SCHOUERI, Luís Eduardo (2012). Direito tributário 2 ed. São Paulo: Saraiva 
+FERRAGUT, Maria Rita e NEDER, Marcos Vinícius. Responsabilidade Tributária. 1ª ed. São Paulo: Dialética, 2007. 
+
+
+== Ver também ==
+fato gerador
+base de cálculo
+alíquota
+vigência
+solidariedade
+tributo
+legislação tributária
+Sistema Constitucional Tributário

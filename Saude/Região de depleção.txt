@@ -1,0 +1,14 @@
+A região de depleção refere-se a região em torno de uma junção P-N de um semicondutor na qual existem poucos portadores de carga (elétrons ou buracos).
+
+
+== Formação ==
+
+Quando uma junção P-N é formada, em função da dopagem do semicondutor, no lado N da junção existe uma alta concentração de elétrons livres (portadores com carga negativa), enquanto no lado P existe uma alta concentração de buracos (ou lacunas, portadores com carga positiva). Manifesta-se então uma corrente de difusão, com os elétrons seguindo para o lado P e os buracos para o lado N.  Portanto, o material do tipo N que era inicialmente neutro, começa a ficar com uma deficiência de elétrons e consequentemente com carga positiva. O mesmo raciocínio vale para o lado P da junção, que começa a ficar com carga negativa. A acumulação de íons positivos na zona N e de íons negativos na zona P, cria um campo elétrico (E) que atuará sobre os elétrons livres da zona N e sobre os buracos da zona P com uma determinada força que se oporá à corrente de difusão até que um equilíbrio seja atingido. A região que contém esses átomos ionizados e portanto desprovida de cargas livres é chamada de região de depleção.
+
+
+== Ver também ==
+Junção P-N
+Semicondutor
+
+
+== Referências ==

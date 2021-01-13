@@ -1,0 +1,8 @@
+PRIAM, ou Perfis para a Identificação Automática do Metabolismo, é um método para a detecção automática de enzimas prováveis em sequências de proteínas. Os PRIAM utilizam matrizes de pontuação, também designadas por perfis, geradas de forma automática para cada número EC.
+
+
+== Referências ==
+
+
+== Ligações externas ==
+Claudel-Renard C, Chevalet C, Faraut T, Kahn D. «PRIAM: Enzyme-specific profiles for metabolic pathway prediction». On-line database. Rhone-Alpes Bioinformatics Center. Consultado em 19 de julho de 2009. Arquivado do original em 6 de outubro de 2015  !CS1 manut: Nomes múltiplos: lista de autores (link)

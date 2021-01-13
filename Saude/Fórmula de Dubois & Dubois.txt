@@ -1,0 +1,37 @@
+Uma fórmula para estimar a área aproximada da superfície do corpo humano, desde que se conheça o peso e a altura. A medida da área do corpo é dada por:
+
+  
+    
+      
+        S
+        =
+        0
+        ,
+        007184
+        ∗
+        
+          X
+          
+            0
+            ,
+            425
+          
+        
+        ∗
+        
+          Y
+          
+            0
+            ,
+            725
+          
+        
+      
+    
+    {\displaystyle S=0,007184*X^{0,425}*Y^{0,725}}
+  
+onde
+
+ S = Área da superfície do corpo (em m²)
+ X = Peso (em Kg)
+ Y = Altura (em cm)

@@ -1,0 +1,22 @@
+As SNAREs (soluble NSF attachment receptor) constituem uma família de proteínas que desempenham um papel central na geração da especificidade do tráfego vesicular e na catálise do processo de fusão. Muitas vesículas transportadoras só se formam se um tipo específico de proteína Rab e SNARE estiverem acopladas à sua membrana, permitindo assim que a vesícula se funda corretamente.
+
+
+== Localização, função e mecanismo ==
+Existem pelo menos 20 tipos diferentes de SNAREs em células animais, cada uma delas associada a um tipo específico de membrana ou organela envolvidas nas vias secretória, biossintética ou endocítica. A despolimerização das proteínas envoltórias (coat proteins) das vesículas permite que uma proteína denominada v-SNARE (vesicle SNARE), antes coberta pela proteína envoltória, agora seja descoberta, podendo então executar seu papel e se associar à membrana-alvo correspondente. Esta proteína é incorporada à vesícula na própria organela de origem, que ao desprender um pedaço de sua membrana na formação vesicular libera associada ao fragmento a proteína devidamente encaixada na bicamada lipídica. A membrana de cada organela ou membrana-alvo possui uma ou mais proteínas integrais de membrana, denomindas t-SNAREs(target SNARE) , junto com uma proteína de fusão denominada SNAP25. Essas proteínas agem de forma conjunta, efetuando uma ligação específica à v-SNARE correspondente. Tanto as v-SNAREs quanto as t-SNAREs possuem um formato helicoidal. Quando uma v-SNARE interage com uma t-SNARE, seu domínio helicoidal se enrola ao redor do outro domínio helicoidal formando um complexo estável denominado trans-SNARE que prende uma membrana a outra. A especificidade com que cada SNARE interage determina a especificidade do ancoramento e da fusão de cada vesícula. Dessa maneira, as SNAREs especificam a identidade de seus compartimentos e governam a troca de materiais durante o transporte vesicular.
+
+
+== Reciclagem ==
+A maioria das SNAREs nas células já participaram de vários processos de sinalização celular, e muitas vezes estão presentes nas células como complexos estáveis trans-SNARE ligadas a uma ou duas outras SNAREs. Estes complexos precisam ser dissociados para que as SNAREs possam participar de outros processos de sinalização. Uma proteína crucial chamada de NSF circula entre as membranas e o citosol e catalisa as reações de dissociação do complexo estável. Essa enzima é uma ATPase que lembra estruturalmente uma classe menor das chaperonas citosólicas que usam ATP para solubilizar e refazer a conformação de proteínas desnaturadas. Similarmente, a NSF usa ATP para desenrolar as hélices enroladas (coiled-coil) entre os domínios helicoidais das SNAREs associadas, usando alguns adaptadores protéicos para se ligarem as SNAREs e separá-las.
+Os requerimentos para a dissociação do complexo estável trans-SNARE podem ajudar a explicar porque as vesículas não se fundem indiscriminadamente na célula. Se uma t-SNARE estiver sempre ativa na membrana-alvo, qualquer outra membrana que contivesse a v-SNARE correspondente se fundiria àquela membrana sempre que as duas fizessem contato. No entanto a necessidade de uma reativação controlada de SNAREs pela NSF permite que a célula controle quando e onde as membranas irão se fundir.
+
+
+== Referências ==
+Molecular Biology of The Cell – Fourth Edition – Albert, Johnson, Lewis, Raff, Robert, Walter.
+Molecular Cell Biology – Fourth Edition – Lodish, Berk, Zipursky, S. Lawrence, Matsudaira, Baltimore and Darnell
+
+
+== Ver também ==
+ancoramento e fusão de vesículas
+transporte de vesículas
+vesícula
+Rabs - Proteína envolvida no docking de vesículas

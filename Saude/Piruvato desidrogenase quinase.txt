@@ -1,0 +1,27 @@
+Piruvato desidrogenase quinase (também piruvato desidrogenase complexo quinase, PDC quinase, ou PDK (do inglês pyruvate dehydrogenase kinase). Classificada com número EC 2.7.11.2, é uma enzima quinase a qual atua inativando a enzima piruvato desidrogenase por fosforilação por meio de ATP. 
+PDK participa na regulação do complexo piruvato dehidrogenase da qual piruvato dehidrogenase é o primeiro componente. Tanto PDK e o complexo piruvato dehidrogenase estão localizados na matrix mitocondrial dos eucariotas. O complexo atua em converter piruvato (um produto da glicólise no citosol) a acetilcoenzima A ou "acetil-coA", a qual então é oxidada na mitocôndria para produzir energia, no ciclo de ácido cítrico, também chamado ciclo de Krebs. Por atuar limitando a atividade deste complexo, PDK irá diminuir a oxidação de piruvato na mitocôndra e aumenta a conversão de piruvato em lactato no citosol.
+A ação opsta do PDK, nomeada a defosforilação e ativação da piruvato desidrogenase, é catalisada por uma fosfoproteína fosfatase chamada piruvato desidrogenase fosfatase.
+
+
+== Genes ==
+PDK tem quatro isoenzimas:
+
+PDK1
+PDK2
+PDK3
+PDK4
+
+
+== Regulação ==
+Piruvato desidrogenase quinase é estimulada por ATP, NADH e acetilcoenzima A. 
+É inibida por ADP, NAD+, CoA-SH e piruvato. 
+Piruvato desidrogenase quinase é também inibida pela droga ácido dicloroacético o qual tem sido testado como um tratamento de certas doenças metabólicas e está sob investigação como um tratamento de câncer.
+
+
+== Ligações externas ==
+MeSH - National Library of Medicine - Medical Subject Headings - pyruvate dehydrogenase (acetyl-transferring) kinase - www.nlm.nih.gov (em inglês)
+EC
+bioinfo.genopole-toulouse.prd.fr[ligação inativa] (em inglês)
+www.ebi.ac.uk (em inglês)
+www.brenda-enzymes.info (em inglês)
+www.enzyme-database.org (em inglês)

@@ -1,0 +1,22 @@
+Biossimilar ou medicamento biológico similar é um fármaco similar ao biológico originador, produzido por tecnologia de DNA recombinante em células animais. A Food and Drug Administration (FDA), agência regulatória de medicamentos dos Estados Unidos, define um produto biossimilar como um produto biológico que é altamente similar a um produto de referência, apesar de pequenas diferenças físico-químicas e sem diferenças clínicas significativas em termos de eficácia, segurança e pureza. Como os biossimilares são produzidos usando técnicas de cultivo celular diferentes do medicamento biológico originador, não são totalmente idênticos, isto é, não são “bio-genéricos”.O principal objetivo do desenvolvimento de medicamentos biossimilares é a redução de custo e o aumento do acesso aos biofármacos, abrindo uma grande oportunidade para que milhões de pessoas recebam o que há de mais eficiente no tratamento de doenças como o câncer.As principais classes de medicamentos biológicos são as proteínas terapêuticas (como a insulina, somatropina, filgrastima) e os anticorpos monoclonais.
+
+
+== Como são produzidos ==
+Os medicamentos biológicos em geral possuem métodos de fabricação totalmente diferentes dos sintéticos. Enquanto os fármacos convencionais são feitos a partir de produtos químicos, os biofármacos são feitos a partir de células, o que torna-os muito mais complexos. Os biossimilares, por conta das suas características físico-químicas, são muito sensíveis aos processos de fabricação e também ao ambiente, e por isso mudanças pequenas entre lotes podem acontecer.Para desenvolver um medicamento biossimilar, os cientistas responsáveis realizam análises do produto referência e, a partir desta análise, os atributos do biofármaco são obtidos (como os CQAs, atributos de qualidade crítica), responsáveis por dizer sobre a eficiência e seguridade da substância ativa. A comparabilidade do biossimilar proposto é medida pelos intervalos dos CQAs, onde os cientistas seguem buscando uma linha celular que traduz a substância com as características físico-químicas mais próximas do produto originador.O processo de produção dos biossimilares pode ser separado em três etapas:
+
+Produção: nesta primeira etapa, as linhas de células são definidas a partir dos CQAs do produto originador. As células usadas na produção, normalmente, são as CHO (chinese hamster ovary cells), e também são analisadas as modificações pós-traducionais e a glicosilação dos anticorpos;</ref name="DESAN" />
+Purificação: ocorre a remoção de impurezas, como proteínas degradadas, DNA, entre outros;
+Formulação e garantia da esterilidade: nesta fase, o medicamento biossimilar com a formulação é estabelecido e ocorre a remoção dos vírus contaminantes que podem vir a afetar a saúde dos pacientes.
+
+
+== Registro ==
+No Brasil, a legislação utilizada para o registro de biossimilares é a RDC 55, de 16 de dezembro de 2010. A norma define que, para a aprovação de um biossimilar, devem ser apresentados, dentre outros requisitos, estudos comparativos entre o biossimilar e o produto biológico comparador, contendo informações suficientes para predizer se as diferenças detectadas nos atributos de qualidade entre os produtos resultam em impactos adversos na segurança e eficácia do biossimilar.
+
+
+== Intercambialidade ==
+Um biossimilar se torna intercambiável quando, além de preencher os requisitos para a aprovação nos órgãos regulatórios, se torna permutável - isto é, quando este demonstra que não há risco associado a alternância entre o biológico originador e o medicamento biossimilar ao longo do tratamento.A substituição pode ser feita por:
+Troca: quando um prescritor decide trocar um medicamento por outro medicamento com o mesmo objetivo terapêutico;
+Substituição automática: é a pratica de dispensar um medicamento ao invés de outro equivalente e intercambiável pelo farmacêutico sem consultar o prescritor.Em 2017, a Anvisa publicou a nota de esclarecimento nº 003/2017, cujo objetivo é discorrer sobre a intercambialidade entre produtos registrados pela via de desenvolvimento por comparabilidade (“biossimilares”) e o produto biológico comparador.
+
+
+== Referências ==

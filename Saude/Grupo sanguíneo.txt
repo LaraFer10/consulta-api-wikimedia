@@ -1,0 +1,73 @@
+Os grupos sanguíneos ou tipos sanguíneos foram descobertos no início do século XX (cerca de 1900 - 1901), quando o cientista austríaco Karl Landsteiner se dedicou a comprovar que havia diferenças no sangue de diversos indivíduos. Ele colheu amostras de sangue de diversas pessoas, isolou os glóbulos vermelhos (hemácias) e fez diferentes combinações entre plasma e hemácias, tendo como resultado a presença de aglutinação dos glóbulos vermelhos em alguns casos e sua ausência em outros. Landsteiner explicou então por que algumas pessoas morriam depois de transfusões de sangue e outras não. Em 1930 ele ganhou o Prêmio Nobel por esse trabalho. 
+Os tipos sanguíneos são determinados pela presença na superfície das hemácias, de antígenos que podem ser de natureza bioquímica variada, podendo ser compostos por carboidratos, lipídeos, proteínas ou uma mistura desses compostos. Estes antígenos eritrocitários são independentes do Complexo principal de histocompatibilidade (HLA), o qual determina a histocompatibilidade humana e é importante nos transplantes. 
+
+
+== Importância ==
+Cada indivíduo possui um conjunto diferente de antígenos eritrocitários, e por seu número existem hoje cerca de 29 sistemas antigênicos conhecidos, mais alguns antígenos diferenciados que ainda não foram atribuídos a nenhum sistema específico; é quase impossível encontrar dois indivíduos de mesma composição antigênica. Daí a possibilidade da presença no soro, de anticorpos específicos (dirigidos contra os antígenos que cada indivíduo não possui), o que resulta na aglutinação ou hemólise quando ocorre uma transfusão incompatível, ou em determinações laboratoriais, quando se fazem reagir soros específicos com os antígenos correspondentes presentes nas hemácias.
+Diferentes sistemas antigênicos se caracterizam por induzir a formação de anticorpos em intensidades diferentes; além do que, alguns são mais comuns e outros, mais raros. Estes dois fatos associados determinam a importância clínica de cada sistema.
+Os sistemas antigênicos considerados mais importantes são o sistema ABO e o Sistema Rh. Estes são os sistemas mais comumente relacionados às temidas reações transfusionais hemolíticas. Outra complicação, a eritroblastose fetal ou Doença Hemolítica do Recém-nascido (DHRN), é geralmente (mas não sempre) causada por diferenças antigênicas relacionadas ao Sistema Rh, como o fator Rh+ do pai e da criança e o Rh- da mãe.
+A determinação dos grupos sanguíneos tem importância em várias ciências:
+
+Em Hemoterapia, torna-se necessário estudar pelo menos alguns desses sistemas em cada indivíduo para garantir o sucesso das transfusões. Assim, antes de toda transfusão eletiva, é necessário se determinar, pelo menos, a tipagem ABO e Rh do doador e do receptor.
+Em ginecologia/obstetrícia e neonatologia, é possível se diagnosticar a DHRN através do seu estudo, adotando-se medidas preventivas e curativas.
+Em Antropologia, é possível estudar diversas etnias e suas inter-relações evolutivas, através da análise da distribuição populacional dos diversos antígenos, determinando sua predominância em cada etnia humana e fazendo-se comparações.
+Em Medicina legal, é possível se determinar, por exemplo, o tipo sanguíneo de um criminoso a partir de material colhido na cena do crime, auxiliando na investigação criminal.
+
+
+== Terminologia e uso ==
+Alguns termos utilizados no que se referem à tipagem sanguínea são ambíguos ou pouco conhecidos.
+
+A determinação em laboratório, da tipagem quanto aos sistemas ABO e Rh é rotineiramente realizada em um procedimento único. A melhor maneira de se referir a este procedimento e a seu resultado é Tipagem sanguínea (ABO e Rh). Entretanto a simplicidade consagrou o uso da palavra tipagem para se referir aos dois sistemas.
+Quando necessária a distinção, convencionou-se utilizar respectivamente as expressões grupo ABO e Fator Rh. Estas designações, contudo, não são unânimes.
+Geralmente usam-se os termos aglutininas para se referir aos anticorpos e aglutinógenos para se referir os antígenos.
+Um estudo mais aprofundado do sistema ABO determinou a presença de variedades antigênicas ou subgrupos. Estes podem ser designados, por exemplo, A1, A2 ou Bx.
+Historicamente, a classificação de Landsteiner previa os grupos A, B e O; o grupo AB foi posteriormente descoberto (1902, von Decastello e Sturli). No entanto, em inobservância à tradição, alguns autores falam em grupo 0 (zero) devido à ausência de reação com os anticorpos anti-A e anti-B.
+Estudos determinaram que o sistema Rh apresenta certa complexidade genética, além de variações qualitativas e quantitativas em sua expressão. Assim, são usadas as seguintes designações:
+O termo Rh Fraco substituiu a designação Du. Este termo representa uma variação quantitativa na expressão do antígeno D.
+O termo Rhnull designa uma condição rara, em que os antígenos do sistema Rh estão completamente ausentes.
+O termo "CDE" designa a determinação, recomendada para os pacientes Rh negativos, de outros antígenos menos frequentes do sistema Rh. Assim, fala-se em Rh negativo ou CDE positivo.
+Em alguns casos, pode ser necessária a determinação mais detalhada dos antígenos dos sistemas ABO e Rh, e/ou a determinação de antígenos pertencentes a outros sistemas antigênicos. Esta determinação é geralmente denominada fenotipagem.
+Da combinação entre o Sistema ABO e Fator Rh, podemos encontrar os chamados doador universal (O negativo) e receptor universal (AB positivo).
+Entretanto, normalmente se faz a transfusão isogrupo (doador e receptor de mesma tipagem ABO e Rh) em preferência à doação heterogrupo (tipos diferentes).
+
+
+== Distribuição de ABO e Rh por país ==
+
+
+== Compatibilidade dos glóbulos vermelhos ==
+Grupo sanguíneo AB: Indivíduos têm tanto antígenos A quanto B na superfície de suas hemácias, e o soro sanguíneo deles não contem quaisquer anticorpos dos antígenos A ou B. Assim, alguém com tipo de sangue AB pode receber sangue de qualquer grupo (com AB preferível), mas só pode doar sangue para outros com o tipo AB.
+Grupo sanguíneo A: Indivíduos têm o antígeno A na superfície de suas hemácias, e o soro sanguíneo contido na Imunoglobulina M são anticorpos contra o antígeno B. Assim, uma pessoa do grupo A pode receber sangue só de pessoas dos grupos A ou O (com A preferível), e só pode doar sangue para indivíduos com o tipo A ou AB.
+Grupo sanguíneo B: Indivíduos têm o antígeno B na superfície de suas hemácias, e o soro sanguíneo contido na Imunoglobulina M são anticorpos contra o antígeno A. Assim, alguém do grupo B pode receber sangue só de indivíduos de grupos B ou O (com B preferível), e pode doar sangue para indivíduos com o tipo B ou AB.
+Grupo sanguíneo O (ou 0): Indivíduos não possuem antígenos nem A ou B na superfície de suas hemácias (dai o 0 usado por alguns autores), mas o soro sanguíneo deles contém Imunoglobulina M com anticorpos anti-A e anti-B contra os antígenos A e B. Portanto, alguém do grupo O pode receber sangue só de alguém do grupo O, mas pode doar sangue para pessoas com qualquer grupo ABO (ou seja, A, B, O ou AB). Se alguém precisar de uma transfusão de sangue em uma emergência, e se o tempo necessário para testar o tipo de sangue causaria um atraso prejudicial, o sangue O- (O Negativo) pode ser administrado.
+Nota da tabela
+1. Pressupõe ausência de anticorpos atípicos que causaria uma incompatibilidade entre doador e receptor de sangue, como é habitual em sangues selecionados por cruzamentos apropriados.
+Anticorpos Rh D são incomuns, geralmente nem RhD negativo nem RhD positivos contem anticorpos anti-RhD. Se um potencial doador é encontrado tendo anticorpos anti-RhD, ou qualquer atípico grupo sanguíneo de anticorpos para a triagem de anticorpos do banco de sangue, ele normalmente não é aceito como doador (ou em alguns bancos de sangue, o anticorpo que é retirado dele e propriamente rotulados); portanto, o doador do banco de sangue pode ser selecionado por ser livre de anticorpos RhD e de outros incomuns e assim doar, para receptores que possuem estes anticorpos, sendo eles negativos ou positivos, enquanto o plasma sanguíneo ABO e do receptor forem compatíveis. 
+Um paciente RhD-negativo, que não possui anticorpos anti-RhD, ou seja, que nunca foi exposto à hemácias RhD-positivo, pode receber uma transfusão de sangue Rh positivo uma única vez, mas esta ação causa sensibilidade ao antígeno RhD, e no caso do paciente ser do sexo feminino, ficaria exposto ao risco para a doença hemolítica do recém-nascido. Se um paciente Rh negativo já desenvolveu anticorpos anti-RhD pela exposição ao sangue Rh positivo, teria potencialmente, uma  perigosa reação transfusional. Sangue RhD-positivo nunca deve ser administrado a mulheres RhD-negativo em idade fértil ou para pacientes com anticorpos RhD,  assim os bancos  de sangue deve conservar em seu estoque o sangue Rh-negativo para esses pacientes. 
+Em circunstâncias extremas, como um grande sangramento quando os estoques das unidades de sangue Rh negativo for muito baixo no banco de sangue, o sangue Rh positivo pode ser dado a mulheres RhD-negativo acima da idade fértil ou homens Rh-negativo, desde que eles não tenham ainda, os anticorpos anti-RhD. O inverso não é verdadeiro; pacientes RhD-positivo não reagem ao sangue Rh negativo.
+
+
+== Compatibilidade de plasma ==
+
+Na transfusão de plasma (parte líquida do sangue, sem as células) a compatibilidade doador-receptor para o plasma sanguíneo é diferente da compatibilidade para as hemácias: o que mais importa neste caso são os anticorpos presentes no plasma, porque esses podem reagir com as hemácias do receptor. Os receptores podem sempre receber plasma do mesmo grupo sanguíneo. Entretanto, plasma extraído do sangue tipo O pode ser transfundido apenas para pessoas de grupo sanguíneo O; ao contrário, indivíduos do grupo sanguíneo AB podem doar plasma para qualquer grupo sanguíneo; indivíduos dos grupos A ou B podem receber plasma somente de seu respetivo grupo ou do grupo AB; indivíduos de grupo AB podem receber plasma apenas de outros indivíduos AB  .
+
+Notas
+1. Considerando ausência de fortes anticorpos atípicos em doadores de plasma
+
+
+== Ver também ==
+Eritroblastose fetal
+Tipagem sanguínea
+Fator Rh
+Sistema ABO
+Hemoterapia
+Imunohematologia
+Fenótipo Bombaim
+
+
+== Referências ==
+
+
+== Ligações externas ==
+«American Association of Blood Banks» (em inglês) 
+«International Society of Blood Transfusion» (em inglês) 
+«Sociedade Brasileira de Hematologia e Hemoterapia»

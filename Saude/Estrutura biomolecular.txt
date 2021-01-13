@@ -1,0 +1,21 @@
+Uma estrutura biomolecular é uma estrutura de biomoléculas, fundamentalmente proteínas e os ácidos nucleicos ADN e ARN. A estrutura destas moléculas é normalmente repartida em estrutura primária, secundária, terceária e quaternária. O suporte desta estrutura é fornecido por elementos estruturais secundários dentro da própria molécula, as ligações de hidrogénio. Isto leva a que haja vários "domínios" observáveis de estruturas proteicas e estruturas nucleicas, incluindo estruturas secundárias como  hairpin loops, protuberâncias, e laços internos para os ácidos nucleicos, e alfa-hélices e folhas-beta para as proteínas. Os termos das estruturas primária, secundária, terciária e quaternária foram sugeridos por Linderstrøm-Lang na Universidade de Stanford em 1951.
+
+
+== Estrutura primária ==
+Em bioquímica, a estrutura primária de uma molécula biológica é a especificação exacta da sua composição atómica e dos laços químicos que ligam os átomos entre si. Para um biopolímero típico, sem ramificações ou ligações cruzadas (como uma molécula de ADN ou ARN), a estrutura primária é equivalente a especificar a sequência das suas sub-unidades monométricas, isto é, a sua sequência nucleótida ou péptida.
+
+
+== Estrutura secundária ==
+
+Em bioquímica e em biologia estrutural, a estrutura secundária é a forma tridimensional de segmentos locais de biopolímeros como as proteínas e os ácidos nucleicos (ADN a ARN). Contudo, não descreve posições atómicas específicas no espaço tridimensional, que são consideradas como fazendo parte da estrutura terceária. A estrutura secundária define-se formalmente pelos laços de hidrogénio dos biopolímeros, tal como observado numa estrutura a nível atómico. Nas proteínas, a estrutura secundária é definida por padrões de laços de hidrogénio entre a estrutura de amido e os grupos carboxyl.
+
+
+== Estrutura terciária ==
+Em bioquímica e em biologia estrutural, a estrutura terciária de uma proteína ou qualquer outra macromolécula é a sua estrutura tridimensional, tal como definida pelas coordenadas atómicas. As proteínas e os ácidos nucleicos são capazes de exercer diversas funções, desde o reconhecimento molecular até à catalização. Estas funções necessitam de uma estrutura terciária tridimensional. Ao mesmo tempo que estas estruturas são complexas e bastante diversificadas, são compostas por elementos recorrentes e facilmente identificáveis que actuam como blocos de construção.
+
+
+== Estrutura quaternária ==
+Em bioquímica, a estrutura quaternária é a disposição de múltiplas proteínas enoveladas ou moléculas de proteínas num complexo de múltiplas subunidades. O termo é menos frequente para ácidos nucleicos, mas pode-se referir à mais alta organização de ADN na cromatina,  incluindo as suas interacções com as histonas, ou com as interacções entre unidades separadas de ARN no ribossoma ou no spliceossoma.
+
+
+== Referências ==

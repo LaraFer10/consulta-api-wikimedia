@@ -1,0 +1,23 @@
+Resistência à insulina   é uma condição de saúde em que os níveis normais de insulina são insuficientes para uma resposta normal à insulina nos adipócitos (células de gordura), nos miócitos (células dos músculos). A resistência acontece somente em células insulino dependentes; os neurônios, por exemplo, não dependem de insulina para transportar glicose para seus citosóis. 
+Vale lembrar que alguns livros colocam os hepatócitos (células do fígado) como insulino dependentes, porém, a glicose entra nestas células por gradiente proporcionado pela GLUT 2 (proteína transportadora), que fosforila glicose dentro da célula e assim gera gradiente para glicose entrar, diferente do que acontece em células insulino dependentes, onde a entrada da glicose se dá pela ativação de GLUT 4, transportador de glicose sensível à insulina.
+
+
+== O Transporte ==
+O transporte de glicose do meio extra-celular para dentro da célula ocorre através de proteínas (tipo GLUT) carreadoras de glicose.  São armazenadas em vesículas dentro das células que, quando recebem um sinal químico proveniente das proteínas receptoras de insulina (que também se auto fosfatam para desenvolver uma série de ligações em cadeia até a ativação da transcrição de novas proteínas transportadoras), se locomovem pelo citosol até a membrana citoplasmática e se fundem a ela aumentando, por causa da maior quantidade agora de proteínas transportadoras, a absorção de glicose. Com esse aumento de proteínas tipo GLUT na membrana da célula a absorção ocorre aproximadamente 15 vezes mais rápido do que na ausência de insulina, conseguindo um efeito hipoglicemiante rápido e eficaz.  Os tipos de proteínas tipo GLUT nas células variam, de célula para célula, de GLUT1 até GLUT12.
+
+
+== A Resistência ==
+A resistência ao hormônio hipoglicemiante consiste em uma falha no reconhecimento do hormônio por parte dos receptores de insulina.  A causa pode ser tanto genética quanto por uma supersaturação de moléculas energéticas no organismo (ácidos graxos, glicerol, glicose e principalmente Acetil CoA) que leva a uma desativação das proteínas receptoras de insulina. A causa pode também ser, como na maioria dos casos é, uma combinação dos dois fatores (herança multifatorial).  O que faz com que haja essa desativação dos receptores de insulina ainda é controverso.
+
+
+== Associação à Síndrome do Ovário Policístico (SOP) ==
+Estudo recentes indicam que a resistência à insulina pode estar associada à Síndrome do Ovário Policístico (SOP), fazendo parte de seu quadro sintomatológico .
+
+
+== Ver também ==
+Regulagem da glicemia
+Diabetes
+Síndrome do Ovário Policístico (SOP)
+
+
+== Referências ==

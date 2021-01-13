@@ -1,0 +1,44 @@
+A representação é a relação jurídica pela qual certa pessoa se obriga diretamente perante terceiro, por meio de ato praticado em seu nome por um representante. Entretanto, para que esta situação ocorra, é necessário, primeiramente, que o ordenamento jurídico a permita e, em segundo lugar, que os requisitos desse mesmo ordenamento tenham sido cumpridos.
+
+
+== Espécies de representação ==
+Há duas espécies de representação.
+
+
+=== Representante legal ===
+O representante legal é aquele a quem a norma jurídica confere poderes para administrar bens alheios, como o pai, ou mãe, em relação a filho menor, quanto o tutor ao pupilo e curador, no que concerne ao curatelado. A representação legal presta-se para servir aos interesses do incapaz. Nesses casos, o poder de representação decorre diretamente da lei, que estabelece a extensão do âmbito da representação, os casos em que é necessária, o poder de administrar e quais as situações em que se permite dispor dos direitos do representado.
+
+
+=== Representação voluntária ===
+É baseada, em regra, no mandato, cujo instrumento é a procuração. A figura da representação não se confunde com a do mandato. O representante convencionado é o munido de mandato expresso ou tácito, verbal ou escrito, do representante, como o procurador, no contrato de mandato.
+
+
+== Regras gerais relativas à representação ==
+
+
+=== A manifestação de vontade do representante ===
+A manifestação de vontade do representante, no limite de seus poderes, vincula o representado, de tal arte que fica aquele fica vinculado às manifestações de vontade exaradas pelo representante, nos limite dos poderes que lhe foram outorgados. A manifestação da vontade do representante ao efetivar um negócio em nome do representado, nos limites dos poderes que lhe foram conferidos, produz efeitos jurídicos relativamente ao representado, que adquirirá os direitos dele decorrentes ou assumirá as obrigações que dele advierem. Logo, uma vez realizado o negócio pelo representante, os direitos serão adquiridos pelo representado, incorporando-se em seu patrimônio; igualmente os deveres contraídos em nome do representado devem ser por ele cumpridos , e por eles responde o seu acervo patrimonial.
+
+
+=== Anulabilidade do contrato consigo mesmo ou autocontrato ===
+Ocorre o chamado contrato consigo mesmo ou autocontrato em duas situações:
+a) as duas partes têm o mesmo representante;
+b) o representante de uma das partes é a outra parte.
+Como o contrato, por definição, é um acordo de vontades, não se admite a existência de contrato consigo mesmo, sendo este anulável, salvo se o permitir a lei ou o representado. Caso o representante venha a efetivar negócio jurídico consigo mesmo no seu interesse ou por conta de outrem anulável será tal ato, exceto se houver permissão legal ou autorização do representado.
+
+
+=== Substabelecimento e contrato consigo mesmo ===
+Se, em caso de representação voluntária, houve substabelecimento de poderes, o ato praticado pelo substabelecido reputar-se-á como tendo sido celebrado pelo substabelecente, pois não houve transmissão do poder, mas mera outorga do poder de representação. É preciso esclarecer que no caso de poder de representação legal é insuscetível de substabelecimento. Os pais, os tutores ou os curadores não podem substabelecer os poderes que têm em virtude de lei.
+
+
+=== Anulabilidade dos atos praticados contra o interesse do representado ===
+Nesta hipótese, leva-se em conta os atos praticados pelo representante contra o interesse do representado. são atos praticados pelo representante, em nome do representado, objetivamente legais, mas que prejudicam este último. Estamos, na hipótese, na presença de dois interesses possivelmente antagônicos: de um lado, o interesse do representado, que se almeja proteger, pois a ideia é de que o representante deva atuar na defesa do interesse do representado; de outro, o interesse do terceiro de boa-fé, que contratou com o representante, na persuasão de que este atuava de acordo com as suas instruções. O Código Civil protege os interesse do terceiro de boa-fé, tornando anulável o negócio apenas se o fato era ou devia ser do conhecimento do terceiro, pois nesta hipótese não existe mais a figura do terceiro de boa-fé. Assim se, porventura, o representante concluir o negócio jurídico, havendo conflito de interesses com o representado, com pessoa que devia ter conhecimento desse fato, aquele ato negocial deverá ser declarado anulável.
+
+
+=== Obrigatoriedade de provar a condição de representante ===
+Como os negócios jurídicos realizados pelo representante são assumidos pelo representado, aquele terá o dever de provar àqueles, com quem vier a tratar em nome do representado, não só a sua qualidade, mas também a extensão dos poderes que lhe foram conferidos. Assim, sem que o terceiro tenha plena ciência da representação, sua extensão e qualidade, seja ela voluntária ou legal, o dito representante responderá perante este terceiro pela prática de atos que excederem os poderes.
+
+
+== Fontes ==
+Referências bibliográficas:
+Gonçalves, Carlos Roberto. Direito Civil Brasileiro. 9. ed. São Paulo: Editora Saraiva, 2011. 561p.

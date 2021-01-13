@@ -1,0 +1,16 @@
+As formato desidrogenases são um conjunto de enzimas que catalisam a oxidação do Formiato a bicarbonato, doando os electrões a um substrato secundário, tal como NAD+ no formato:NAD+ oxidoredutase (EC 1.2.1.2) ou a um citocromo em formato:ferricitocromo-b1 oxidoredutase (EC 1.2.2.1).As formato desidrogenases dependentes de NAD são importantes em leveduras metilotróficas e em bactérias e são vitais no catabolismo de compostos C1 tais como o metanol. As enzimas dependentes de citocromo são mais importantes no metabolismo anaeróbico em procariontes. Por exemplo, em E. coli, o formato:ferricitocromo-b1 oxidoredutase é uma proteína intrínseca de membrana com duas subunidades e está envolvida na respiração anaeróbica de nitrato.
+Reacção dependente de NADFormato + NAD(+) ⇐⇒ CO(2) + NADH
+
+REacção dependente de citocromoFormato + 2 ferricitocromo b1 ⇐⇒ CO(2) + 2 ferrocitocromo b1 + 2 H(+)
+
+
+== Ver também ==
+Metabolismo microbiano
+
+
+== Referências ==
+
+
+== Ligações externas ==
+«Ligação ENZYME para EC 1.2.2.1» 
+«Ligação ENZYME para EC 1.2.1.2»

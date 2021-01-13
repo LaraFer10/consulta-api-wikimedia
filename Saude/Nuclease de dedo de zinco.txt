@@ -1,0 +1,10 @@
+Nucleases de dedo de zinco (ZFNs) são uma classe de proteínas projetadas de ligação de ADN, gerada por fusão de dedo de zinco, que facilitam a edição do genoma alvejado criando intervalos em par de bases no ADN em locais especificados pelo usuário.
+A classe de proteínas de dedo de zinco foi a primeira das "nucleases de edição de genoma" a aparecer. Os dedos de zinco são o domínio de ligação ao ADN mais comum encontrada em eucariotas. ZNFs foram concebidas que reconhece todas as 64 combinações possíveis de trinucleotídeos, e amarrando diferentes porções do dedo de zinco pode-se criar ZNFs que concretamente reconhecem qualquer sequência específica de tripletos de ADN.
+
+
+== Ver também ==
+CRISPR/Cas9
+TALEN
+
+
+== Referências ==

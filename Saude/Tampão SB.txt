@@ -1,0 +1,17 @@
+O tampão SB é uma solução tamponante utilizada em eletroforese com gel de agarose ou poliacrilamida para separação de ácidos nucléicos .como DNA e RNA. 
+O tampão é composto de borato de sódio, normalmente 1–10 mM, pH 8.0. O tampão SB tem baixa condutividade, produzindo bandas nítidas, e podendo ser submetido a voltagens mais altas que géis feitos com tampão TBE ou tampão TAE (5–35 V/cm, em comparação com 5–10 V/cm). Para uma dada tensão elétrica, há geração de calor na solução, aquecendo o gel. Contudo, o tampão SB buffer, com condutividade menor que TBE ou TAE, aquece muito menos, permitindo o aumento de voltagem para acelerar a eletroforese. Dessa forma, a corrida leva apenas uma fração do tempo obtido por métodos tradicionais. Aplicações à jusante (downstream),s como o isolamento de DNA a partir de um fragmento do gel ou análise de southern blot também são eficazes após uso de tampão SB.
+O tampão LB, contendo borato de lítio, é semelhante ao de borato de sódio e tem todas as suas vantagens, mas permite o uso de voltagens ainda mais elevadas, devido à baixa condutividade de íons de lítio em comparação de íons de sódio. Entretanto, o borato de lítio é mais caro que o borato de sódio, sendo, então, menos acessível.
+
+
+== Veja também ==
+Tampão TBE
+Tampão LB
+
+
+== Referências ==
+
+
+== Ligaões externas ==
+Sodium borate as an electrophoresis buffer
+Cost-effective media for the rapid and high resolution of small DNA fragments using polyacrylamide-based electrophoresis
+Analysis of oligonucleotide annealing by electrophoresis in agarose gels using sodium borate conductive medium

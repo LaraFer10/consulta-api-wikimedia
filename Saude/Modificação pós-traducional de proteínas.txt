@@ -1,0 +1,64 @@
+Modificação pós-traducional  de proteínas é a modificação química de uma cadeia proteica depois de sua tradução.
+Uma cadeia proteica nada mais é que uma longa sequência de vinte possíveis aminoácidos. Esses vinte constituintes básicos oferecem um cardápio limitado de funções e constituições proteicas; para aumentar a variabilidade dessas características, a célula frequentemente faz uso das modificações pós-traducionais.
+Algumas dessas modificações estendem o conjunto de possíveis funções proteicas pela adição de novos grupos funcionais (grupos heme, acetato ou sulfato) ou de cadeias de carboidratos e/ou lipídios. Essas alterações químicas podem alterar a hidrofobicidade de uma proteína e assim determinar a localização celular desta (por exemplo, proteínas hidrofóbicas tendem a se ancorar em membranas fosfo-lipídicas). Outras modificações, como a fosforilação, são parte de um sistema para controlar o comportamento proteico (por exemplo, ativando ou inativando uma enzima) amplamente utilizado pela célula.
+
+
+== Modificações ==
+As modificações pós-traducionais conhecidas incluem fosforilação, acetilação, alquilação, metilação, sulfatação, isoprenilação, glicilação, ubiquitinação e formação de pontes dissulfeto.
+
+
+=== Enovelamento de proteínas ===
+Logo após a tradução, a proteína é apenas uma longa cadeia de aminoácidos incapaz de exercer sua função biológica. Para se tornar ativa ela precisa assumir a devida conformação, adquirir uma estrutura tridimensional específica, a chamada forma nativa. Este processo - a passagem de uma cadeia amorfa para uma proteína ativa - é chamado de enovelamento. O processo reverso é a desnaturação. Proteínas desnaturadas podem perder sua solubilidade e precipitar. Algumas proteínas desnaturadas podem eventualmente se re-enovelar, a maioria não.
+A informação sobre como será a estrutura terciária de uma proteína estão contidas em sua própria estrutura primária; pois esta é sempre a forma mais estável, de menor energia, que a cadeia pode assumir. A forma mais estável varia de acordo com o meio. Em um solvente polar, por exemplo, uma forma estável terá os aminoácidos de cadeia lateral polar expostos ao meio e os de cadeia lateral apolar escondidos no núcleo da proteína; num solvente apolar vale o contrário. O enovelamento é guiado pelas forças de Van der Waals, contribuições da energia livre de Gibbs, formação de ligações de hidrogênio e pontes dissulfeto.
+Apesar de as proteínas espontaneamente assumirem sua forma nativa, muitas vezes esse processo é demasiadamente demorado. Por isso existem as chaperonas, proteínas que catalisam o enovelamento de outras proteínas.
+
+
+=== Fosforilação ===
+É a adição de um grupo fosfato (PO4) a uma aminoácido de uma cadeia proteica.
+A reação é:
+ATP + proteína <-> fosfoproteína + ADP
+As fosfatases são as enzimas responsáveis pela desfosforilação e as quinases, pela fosforilação.
+A fosforilação em eucariotos ocorre apenas em serina, treonina ou tirosina. A taxa relativa de probabilidade de fosforilação desses três aminoácidos é de aproximadamente 1000/100/1 para serina/treonina/tirosina respectivamente. Podemos então notar que a tirosina é relativamente muito raramente fosforilada, ainda assim, sua fosforilação é de profunda importância, porque, por exemplo, a atividade de muitos receptores de fatores de crescimento é regulada por ela.
+De um modo geral, a fosforilação é a mais importante e bem estudada modificação pós-traducional. Exerce papel crucial em inúmeros processos celulares; muitos receptores e enzimas são “ligados” ou “desligados” pela fosforilação e desfosforilação. O controle da atividade enzimática pela fosforilação é responsável por diversas vias de transdução de sinal, pelo controle do ciclo celular e muitos outros eventos celulares cruciais.
+À primeira vista pode parecer que a simples adição de um grupo fosfato não deveria ser tão importante. No entanto, o grupo fosfato é fortemente negativo, então sua adição induz forças na cadeia proteica que podem levar a uma radical alteração em sua conformação. Desse modo, uma proteína pode expor os aminoácidos antes escondidos em seu centro e mudar muito suas características. Por exemplo, uma proteína apolar e hidrofóbica pode se tornar polar e hidrofílica.
+A poli-fosforilação também é um processo importante. A proteína p53, (já foi “molécula do ano”, é conhecido como o guardião do DNA) de crucial importância para a manutenção da integridade do material genético e para o bom andamento do ciclo celular, possui 18 sítios de fosforilação. Isso decorre principalmente de sua importância; sua atividade precisa ser finamente regulada, pois quando muito ativa ela induz a apoptose e quando muito inativa o desenvolvimento de câncer é muito provável.
+
+
+=== Formação de pontes dissulfeto ===
+Modificações pós-traducionais podem levar à formação de pontes dissulfeto, o que altera drasticamente a estrutura tridimensional da proteína em questão.
+Pontes dissulfeto são ligações fortes covalentes entre dois grupos sulfidril ( -SH ), quase sempre da cadeia lateral de cisteína. Essa ligação é muito importante para a formação da estrutura terciária de proteínas e, consequentemente, para a função destas.
+Em células eucarióticas, as pontes dissulfeto são formadas no lúmen do RER (retículo endoplasmático rugoso), porque esse ambiente, ao contrário do citosol, é um meio oxidativo. Sendo assim, pontes dissulfeto são desfeitas no citosol, e, portanto, apenas proteínas lisossomais, secretórias e do glicocálice as possuem. Mas  há exceções notáveis para essa regra. Por exemplo, proteínas citoplasmáticas possuem resíduos de cisteína muito próximos que funcionam como detectores do potencial de redução  do citosol: quando este cai, os resíduos se oxidam, formando pontes dissulfeto e disparando mecanismos celulares de resposta.
+
+
+=== Glicosilação ===
+É a adição de sacarídeos a cadeias proteicas. Este processo é primordial para a formação das proteínas de membrana e secretórias.
+Há dois tipos de glicosilação: a nitrogênio-glicosilação, que ocorre no nitrogênio da amida de cadeias laterais de asparagina e a oxigênio-glicosilação, que ocorre no hidróxi oxigênio de serina e treonina.
+As cadeias de polisacarídeas adicionadas as proteínas tem diversas funções: experimentos mostraram que sem elas, algumas proteínas não se enovelam corretamente e outras tem sua vidamédia muito diminuída. A glicosilação também desempenha uma papel central na adesão célula-célula.
+
+
+=== Sulfatação ===
+Ocorre em resíduos de tirosina de proteínas como o fibrinogênio e proteínas que serão secretadas (por exemplo a gastrina).
+O grupo sulfato uma vez adicionado não será mais removido, sendo assim, ele é não usado para a regulação proteica como a fosforilação, só é adicionado quando necessário para a função biológica daquela proteína.
+
+
+=== Metilação ===
+É a substituição de um hidrogênio (H) por um grupo metil (CH3).
+Em sistemas biológicos essa reação é catalisada por enzimas e está envolvida na modificação de metais pesados, na regulação da expressão gênica e no metabolismo de RNA.
+A metilação de DNA é um tema vasto, muito importante e estudado atualmente.
+Em proteínas a metilação ocorre em resíduos de arginina ou lisina. A metilação proteica é hoje mais bem conhecida em histonas, as proteínas responsáveis pelo enovelamento das fitas de DNA. A transferência de grupos metil de S-adenosil metionina (SAM, um cofator enzimático presente em todas as células eucarióticas) para histonas é catalisada por enzimas conhecidas como histona metil transferases. A metilação das histonas pode influenciar na expressão gênica, sendo portanto um fator epigenético.
+
+
+=== Zimogênios ===
+Zimogênios ou pró-enzimas são precursores inativos de proteínas que precisam ser clivados em um ponto específico para dar origem a proteínas funcionais.
+A síntese de proteínas em forma de zimogênios é uma estratégia utilizada pela célula para evitar que uma proteína exerça uma atividade perigosa em hora e local errado. Por exemplo, as proteínas com função digestiva não podem se tornar ativas no citosol porque começariam a degradar deliberadamente outras proteínas, então a célula sintetiza essas proteínas numa forma inativa (os zimogênios). Exemplos conhecidos são a tripsina e a quimiotripsina.
+As caspases, responsáveis pelo disparo do processo de apoptose, também só podem se tornar ativas em situações específicas, por isso são também sintetizadas na forma de pró-enzima.
+A modificação pós-traducional em questão é a clivagem de zimogênios.
+
+
+== Referências ==
+Van G. Wilson (Ed.) (2004). Sumoylation: Molecular Biology and Biochemistry. HorizonBioscience. ISBN 0-9545232-8-8.
+
+Malakhova, Oxana A.; Yan, Ming; Malakhov, Michael P.; Yuan, Youzhong; Ritchie, Kenneth J.;Kim, Keun Il; Peterson, Luke F.; Shuai, Ke; and Dong-Er Zhang. (2003). Protein ISGylation
+modulates the JAK-STAT signaling pathway. Genes & Development 17 (4), 455-460.
+
+Michael W. King, Ph.D / IU School of Medicine / miking at iupui.edu / athttp://www.indstate.edu/thcme/mwking/protein-modifications.html#methylation

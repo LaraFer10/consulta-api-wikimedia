@@ -1,0 +1,340 @@
+Em química, eletrólise (do grego: elektron, "eletricidade"; e lysis, "decomposição") é a reação química de oxirredução provocada pela passagem da corrente elétrica. Há dois tipos principais de eletrólise: eletrólise em solução, isto é, que ocorre em uma solução iônica; e eletrólise ígnea, quando um composto iônico é aquecido até ser fundido. O que há em comum entre os dois tipos de eletrolises é a presença de íons.Na eletrólise ígnea a substância pura está liquefeita (fundida) e não existe água no sistema. Esse sistema é submetido a uma corrente elétrica, por meio de dois eletrodos (geralmente inertes). Os elétrons saem do polo negativo do gerador (pilha) e seguem em direção ao eletrodo, que fica carregado de cargas negativas, assim, os íons positivos são atraídos por ele, por isso é chamado de catodo, pois atrai cátions. No catodo ocorre a reação de redução. No outro eletrodo, os íons negativos descarregam sua carga, ou seja, o eletrodo recebe cargas negativas ficando carregado negativamente e, consequentemente, os elétrons do eletrodo saem em direção do polo positivo do gerador, esse eletrodo é chamado de anodo, pois é descarregado nele cargas negativas. No anodo ocorre a reação de oxidação.  Neste sentido, o circuito é fechado, onde se tem uma corrente iônica e uma corrente elétrica.A eletrólise aquosa segue o mesmo processo de eletrólise ígnea, sendo que a diferença se dá pelo processo ocorrer em meio aquoso. Em outras palavras,  a substância iônica dever ser solúvel em água. Neste caso, a água é ionizada e, assim, os íons provenientes da água competirão com os íons do soluto. Portanto, é necessário consultar a tabela de potencial de redução para conhecer quais íons irão chegar ao eletrodo.Os processos eletrolíticos são de grande importância na indústria atual e tiveram participação no desenvolvimento de ideias quanto à natureza elétrica da matéria. Entre seus usos está a recarga de baterias e a produção industrial de elementos como o alumínio e o cloro, bem como a confecção de peças extremamente refinadas e de alto rendimento como aquelas usadas na indústria aeronáutica ou aeroespacial.
+
+
+== História ==
+
+Define-se eletroquímica como sendo um ramo da química responsável pelo estudo de reações químicas que ocorrem em uma solução envolvendo um condutor, podendo ser um metal ou um semicondutor e um condutor iônico, que é um eletrólito. Baseando-se nisso, podemos dizer que o primeiro registro de um experimento notável no ramo da eletroquímica aconteceu em 1800, quando Alessandro Volta utilizou discos de Zinco (Zn) e Cobre (Cu) separados por algodão embebido em solução salina e criou a pilha eletroquímica. Porém, em 1778, Humphry Davy obteve potássio passando uma corrente elétrica através do carbonato de potássio. Mais tarde John Frederic Daniell, no ano de 1836, desenvolveu uma pilha (cujo nome dado foi pilha de Daniell) com eletrodos de cobre e zinco, onde cada eletrodo ficava em células individuais, existindo então um tubo, denominado "ponte salina", que ligava as duas cubas, aumentando assim sua eficiência.
+
+
+== Conceitos Químicos ==
+
+
+=== Espontaneidade das reações ===
+Os fenômenos da natureza possuem certa “tendência” de distribuição de energia, chamada de entropia. De uma forma geral, a entropia é uma quantidade em um primeiro momento termodinâmica, que mede a organização de um sistema. Assim, um sistema tende a transformar-se espontaneamente em direção ao arranjo mais caótico, com menor densidade energética possível. Sabe-se, de um modo geral, que o Universo tende ao aumento de sua entropia, ou seja, microscopicamente, há uma tendência natural à desordem. Isso garante, por exemplo, que quando se coloque uma gota de tinta azul em um copo de água, depois de certo tempo, as moléculas de tinta se espalhem pela água, tornando-a azul; porém, pode-se perguntar por que as moléculas de tinta não se concentram em um determinado ponto ou região do copo.
+Isso se deve ao fato que as moléculas da tinta procuram a distribuição menos organizada, ou seja, espalharem-se pelo copo (de certa forma, pode-se dizer, portanto, que o movimento browniano é consequência dessa tendência natural à desordem). Da mesma forma, ao soltar uma bola no chão ela começa a pingar cada vez mais baixo; ela nunca irá começar a pular mais alto sem que haja a interferência de algum fator externo ao sistema bola-chão. Isso porque quando a bola pinga no chão, ela dispersa partículas do chão e libera energia principalmente nas formas mecânica e sonora. Assim, salvo uma ação exterior, a bola nunca irá se mover mais alto, porque a energia nunca irá se concentrar, mas sim se dispersar.
+Também há uma dúvida frequente que atormenta muitos estudantes. Suponhamos um copo com água quente em uma mesa. A tendência da água no copo é esfriar, liberando calor para o ambiente ou para a mesa. Mas, segundo o princípio de conservação de energia, ou a primeira lei da termodinâmica, também há a possibilidade de o ambiente ceder calor ao copo, esquentando a água ainda mais mas esfriando o ambiente, de forma que o balanço de energia do sistema copo-ambiente fosse zero (não violando as leis antes citadas), ou seja, a energia se conservasse. A não ocorrência desse fenômeno é garantida pelo aumento da entropia. O sentido livre da energia é dispersar-se, de forma que ela nunca se concentraria espontaneamente na água do copo, mas sim se dispersaria para o ambiente, de forma que o único modo de esquentar ainda mais a água do copo é inserir energia forçadamente.
+Há de se construir um paralelo dessa situação com a lei zero da termodinâmica, que garante que quando um corpo mais quente e outro mais frio entram em contato, o calor do mais quente se transfere para o mais frio, nunca o contrário. Em miúdos, a energia não pode se concentrar no mais quente; espontaneamente ela irá se dispersar, se equilibrando entre o mais quente e o mais frio até que ambos estejam à mesma temperatura.Quando há duas substâncias químicas, ocorre o mesmo: a energia do sistema tende a se distribuir, formando elementos menos energéticos (isto é, mais estáveis). Assim, podemos classificar certas reações em espontâneas ou não. Uma pilha descarregando é um exemplo de reação química espontânea, da mesma forma que uma diluição é. Porém, algumas reações químicas podem ser em parte revertidas, principalmente quando se fala de reações dinâmicas que entram em equilíbrio.
+Para que tal reversibilidade ocorra, deve-se fazer trabalho sobre o sistema, já que tal reação não é espontânea (pois a reversibilidade não é natural). Logo, a eletrólise é um processo em que é utilizado um gerador externo para que uma reação não espontânea ocorra. Em suma, a eletrólise é a conversão de energia elétrica em energia química. Conhecendo-se o potencial de redução ou oxidação de algumas semirreações, é possível prever o comportamento da eletrólise.
+
+
+=== Aspectos quantitativos ===
+O número de moles de material oxidado ou reduzido em um eletrodo está relacionado pela estequiometria da reação do elétrodo com a quantidade de eletricidade que passa através da cela. Por exemplo, 1 mol de elétrons irão reduzir e depositar 1 mol de Ag+ ou 0,5 mol de Zn2+, conforme sugerido pela seguintes reações de eletrodo (e- representa um elétron):
+
+  
+    
+      
+        
+          
+            
+              Ag
+              
+                +
+              
+            
+          
+          +
+          
+            
+              e
+              
+                −
+              
+            
+          
+          ⟶
+          
+            Ag
+          
+        
+      
+    
+    {\displaystyle {\ce {{Ag^{+}}+{e^{-}}->{Ag}}}}
+  
+
+  
+    
+      
+        
+          
+            
+              Zn
+              
+                2
+                +
+              
+            
+          
+          +
+          2
+          
+          
+            
+              e
+              
+                −
+              
+            
+          
+          ⟶
+          
+            Zn
+          
+        
+      
+    
+    {\displaystyle {\ce {{Zn^{2}+}+2{e^{-}}->{Zn}}}}
+  Enquanto é conveniente "contar" átomos pela pesagem de substâncias, o número de moles de elétrons entregues a um elétrodo é medido mais eficientemente em termos de carga elétrica total. Como a carga de um elétron é 1,602177 x 10-19 Coulomb (C), a carga de 1 mol de elétrons é
+
+  
+    
+      
+        1
+        ,
+        602177
+        ×
+        
+          10
+          
+            −
+            19
+          
+        
+        
+        
+          
+            C/elétron
+          
+        
+        ×
+        6
+        ,
+        022137
+        ×
+        
+          10
+          
+            23
+          
+        
+        
+        
+          
+            elétrons
+          
+        
+        =
+        96485
+        
+        
+          
+            C
+          
+        
+      
+    
+    {\displaystyle 1,602177\times 10^{-19}\,{\mbox{C/elétron}}\times 6,022137\times 10^{23}\,{\mbox{elétrons}}=96485\,{\mbox{C}}}
+    Este valor geralmente é aproximado para 95 000 C e a quantidade de 95 000 C/mol e é chamada de Faraday (F). Um Faraday é, então, a quantidade de carga presente em 1 mol de elétrons. Assim, é necessário um Faraday de eletricidade para reduzir um mol de Ag+ e dois Faradays para reduzir um mol de Zn++, uma vez que o íon Ag+ é monovalente, ou seja, 1 mol desse íon deve receber 1 mol de elétrons para se reduzir, e o íon Zn++ é bivalente. Tal lei foi enunciada por Faraday, que basicamente afirmou que, nos processos eletrolíticos, a quantidade de massa dos elementos químicos que reagem é proporcional com a quantidade de eletricidade inserida na reação.
+Como um Ampére (A) é igual a um Coulomb por segundo, pode-se estabelecer a seguinte relação:
+
+  
+    
+      
+        n
+        =
+        (
+        I
+        ×
+        t
+        )
+        ÷
+        F
+      
+    
+    {\displaystyle n=(I\times t)\div F}
+  Onde n é o número de Faradays, I é a corrente elétrica em Ampéres e t é o tempo em segundos.
+Assim, é possível calcular a corrente necessária em determinado tempo para que seja obtido o resultado desejado da eletrólise.
+
+
+== Esquema de uma Eletrólise ==
+
+Como sabemos, precisamos de uma fonte de energia para forçar o fluxo de corrente elétrica, uma vez que a eletrólise não é um processo espontâneo. São usadas fontes de alimentação para fornecer a corrente elétrica do processo, também podemos utilizar uma pilha como fonte de alimentação.
+A fonte de alimentação irá forçar os elétrons do polo positivo (ânodo) da cuba eletrolítica (nome dado ao recipiente onde ocorre a eletrólise) e os transfere para o polo negativo (cátodo).
+Na primeira semi reação o gerador atrai ânions A- para o polo positivo e retira elétrons. Na segunda semi reação o gerador faz com que os cátions B+ recebam os elétrons. Desse modo existe fluxo de corrente elétrica. Observe a imagem ao lado.
+O polo positivo da fonte de alimentação, descrita como Gerador na imagem é chamado, na eletrólise, de Ânodo e o negativo, de Cátodo. Lembrando que o fluxo da corrente é representado como o real, do negativo para o positivo.
+Os ânions A- se concentram no polo positivo da bateria, pois a fonte forçará a perda de elétrons. E os cátions B+ se concentram no polo negativo da bateria, pois a fonte lhes transferirá elétrons.
+No caso de eletrólise aquosa, participam da reação a substância dissolvida e a água, sendo que apenas um cátion e um ânion sofrerão as descargas do eletrodo. Mais a frente definiremos as prioridades de descarga dos elementos.
+No caso da eletrólise ígnea, a passagem de corrente elétrica se dá em uma substância iônica fundida (liquefeita), esse tipo é muito utilizado em indústrias, principalmente para a produção de metais. Na imagem ao lado temos como exemplo a eletrólise ígnea do cloreto de sódio.
+
+
+== Processo eletrolítico ==
+Dependendo do tipo de eletrodo e do modo de obtenção dos íons que constituem o eletrólito as reações que ocorrem no processo eletrolítico são diferentes. A eletrólise pode ser realizada com um reagente em estado líquido(fundido), chamada eletrólise ígnea, ou com uma solução aquosa deste produto. Há também a eletrólise com eletrodos reativos, na qual os eletrodos participam da reação. A seguir vemos exemplos dos tipos de eletrólise, bem como as regras que determinam os s produtos a serem formados:
+
+
+=== Exemplos de eletrólise ===
+
+
+==== Eletrólise ígnea do NaCl ====
+Os produtos da eletrólise do sal de cozinha comum(NaCl) quando fundido são os elementos sódio e cloro.
+
+Etapas:O NaCl é fundido e colocado numa cuba.Na fusão ocorre a dissociação dos íons do sal: 2 NaCl → 2 Na+  + 2 Cl-Dois eletrodos inertes (exemplo, grafites) são mergulhados no sal fundido e ligados a um gerador químico (pilha ou bateria)
+Os ânions (2 Cl-) movem-se para o eletrodo positivo (ânodo) onde perdem elétrons (oxidação) tornando-se neutros, e ligando-se entre si:2 Cl- - 2 elétrons → Cl2Por diferença de potencial os dois elétrons são enviados através do gerador para o polo negativo.
+
+Os cátions (2 Na+) movem se para o eletrodo negativo (cátodo) onde recebem estes dois elétrons (redução) transformando-se em sódio metálico:
+2 Na+ + 2 elétrons → 2 NaEncerrado o processo obteve-se a decomposição do NaCl em cloro e sódio metálico:
+
+2 NaCl → 2 Na  + Cl2
+
+
+==== Eletrólise ígnea de MgCl2(Cloreto de Magnésio) ====
+Na eletrólise deste composto fundido, ocorrem as reações:
+
+No cátodo: Mg2+ + 2 e- → Mg(s)
+No ânodo: 2 Cl-(l) → Cl2(g) + 2e-Os produtos obtidos são o cloro gasoso e o magnésio sólido, depositado no cátodo, com a reação total sendo:
+
+Mg2+(l) + 2 Cl-(l) → Cl2(g) +  Mg(s)
+
+
+==== Eletrólise de NaCl em solução aquosa(H2O + NaCl) ====
+Com a mistura de Água e Sal, Este é um processo industrial importante para a obtenção do hidrogênio, cloro e soda cáustica (NaOH). Considerando todas as reações possíveis de acontecer no ânodo e no cátodo, temos:
+2 Cl-(aq) → Cl2(g) + 2e-
+2 H2O → O2(g) + 4H+(aq) + 4 e-
+4OH-(aq) → O2(g) + 2 H2O + 4 e-
+e- + Na+(aq) → Na(s)
+2e- + 2H2O → H2(g) + 2OH-(aq)
+2e- + 2H+(aq) → H2(g)Nesse caso a formação dos produtos obedece às prioridades de descarga mencionadas abaixo, de forma que as únicas das reações acima que ocorrerão serão a primeira(no ânodo) e a última(no cátodo), gerando a reação global:
+
+2 Cl-(aq) + 2H+(aq) → H2(g) + Cl2(g)Assim são produzidos gás hidrogênio e gás cloro, porém ocorre também a formação de soda cáustica, dissolvida na água. Se os eletrodos utilizados forem de cobre, reagirão com o cloro formando um precipitado azul esverdeado (CuCl2). Pela eletrólise, pode se decompor a água acidulada em hidrogênio e oxigênio. Este procedimento foi descoberto pela primeira vez pelo químico inglês William Nicholson em 1800, e posteriormente por Faraday em 1820.
+
+
+==== Eletrólise do ácido clorídrico (HCl) em água ====
+Ao realizar esta eletrólise obtemos também cloro e hidrogênio gasoso, ocorrendo as reações:
+
+No ânodo: 2 Cl-(aq) → Cl2(g) + 2e-
+No cátodo: 2e- + 2H+(aq) → H2(g)O que resulta na mesma reação global da eletrólise aquosa do NaCl, dando como produtos finais cloro e hidrogênio gasosos.
+
+
+==== Eletrólise aquosa do Na2SO4(sulfato de sódio) ====
+Neste caso particular de eletrólise, ocorrem as seguintes reações:
+No ânodo: 2 H2O → O2(g) + 4H+(aq) + 4 e-
+No cátodo: 2 e- + 2 H2O → H2(g) + 2OH-(aq)Apesar de realizada com uma solução de Na2SO4, percebe-se que nem o íon Na+ nem o íon SO4- participam das reações nos eletrodos. Isto acontece pois a água oxida mais facilmente que o SO4- e ao mesmo tempo reduz mais facilmente que o Na+. Neste caso o sulfato de sódio atua no transporte de elétrons e na manutenção da eletroneutralidade, apenas.
+
+
+==== Eletrólise do CuSO4 com eletrodos de cobre em solução aquosa ====
+Neste caso quem sofre a oxidação (perda de elétrons) é o próprio ânodo (eletrodo positivo). Isso ocorre porque o elétrodo de cátions tem mais facilidade para se oxidar que os ânions do eletrólito.
+
+Ionização:CuSO4 + 2 H2O --> Cu2+ + SO42- + 2 H+ + 2 OH-No ânodo: O cobre tem mais facilidade para perder elétrons que os ânions presentes:Cu - 2 elétrons --> Cu2+No cátodo: Entre os cátions Cu2+ e 2 H+ a facilidade do cobre em receber elétrons é maior, ocorrendo a descarga do íon Cu2+:Cu2+ + 2 elétrons  --> CuAnalisando o processo verifica-se que não ocorreu nenhuma reação química, apenas uma transferência de cobre do ânodo para o cátodo. Como no processo não ocorre a passagem das impurezas este tipo de eletrólise é utilizado para a purificação de metais como cobre e outros. O metal purificado obtido é de altíssima pureza.
+
+
+=== Prioridade de descarga de íons ===
+Na eletrólise aquosa, a autoionização da água não é desprezível, e portanto deve-se considerar as filas de prioridade de descarga. Os íons em solução deverão competir com os íons H3O+ e OH-.
+
+2 H2O(l) ⇌ H3O+(aq) + OH-(aq)
+
+
+==== Cations ====
+Da esquerda para a direita, aumenta a dificuldade de descarga:
+Au3+ Pt2+ Hg2+ Ag+ Cu2+ Ni2+ Cd2+ Pb2+ Fe2+ Zn2+ Mn2+ H3O+ Al3+ Mg2+ Na+ Ca2+ Ba2+ K+ Li+ Cs+
+
+
+==== Ânions ====
+Da esquerda para a direita, aumenta a dificuldade de descarga:
+Ânions não oxigenados e HSO4-, OH-, ânions oxigenados, F-
+
+
+== Proteção Catódica ==
+
+
+=== Visão geral ===
+A proteção catódica (CP) é uma técnica utilizada para controlar a corrosão de uma estrutura metálica, exposta a meios oxidantes, como água do mar ou solo úmido. Consiste em tornar a estrutura a ser protegida no cátodo de uma célula eletroquímica, conectando a um outro metal com maior facilidade de corrosão que será o ânodo da célula (metal com menor potencial de redução), ou o metal de sacrifício, também chamada de anodo de sacrifício. Sendo assim, o metal de sacrifício é corroído enquanto toda a estrutura metálica é protegida. A técnica de proteção catódica é muito útil e amplamente utilizada, uma vez que sua instalação e manutenção são relativamente simples e podem ser aplicadas a grandes estruturas.
+
+
+=== Teoria ===
+A corrosão é um processo eletroquímico. Para que ocorra é necessária a presença de três condições:
+
+Dois metais diferentes;
+Um eletrólito ( meio em que os dois metais estão inseridos, como água do mar);
+Um caminho condutivo entre os dois metais (um fio ou contato direto).Os dois metais podem ser de materiais completamente diferentes, contudo o mais comum são as diferenças microscópicas e macroscópicas que uma mesma estrutura contém ao passar por processos metalúrgicos. Essa diferença de material já o suficiente para que partes da estrutura atuem como um ânodo e outras como cátodo de uma célula eletroquímica. Estando a parte mais reativa da estrutura, o anodo, exposto as condições descritas acima, a seguinte reação ocorre:
+
+Fe → Fe2+ + 2e-
+Nesse processo, os elétrons deixam o metal, provocando sua corrosão e reagem com a água ou com o oxigênio, dependendo do meio em que a estrutura esta exposta, através das seguintes reações:
+
+O2 + 2H2O + 4e- → 4OH- - Ar
+2H2O + 2e- → H2 + 2OH- - Água
+Em ambas as reações  são produzidas íons de hidroxilas (OH-), que se combinam com os íons de ferro desprendidos da estrutura que estão presentes no eletrólito, formando o Hidróxido de ferro (II) ou Hidróxido ferroso (Fe(OH)2), conhecido pelo nome popular de ferrugem, caracterizado pela sua consistência e cor marrom. A equação abaixo ilustra a reação:
+
+Fe2+ + 2OH- → Fe(OH)2
+Para evitar que isso ocorra é conectado ao sistema um metal de sacrifício. Esse metal deve necessariamente ter um menor potencial de redução que o metal da estrutura. Devido a diferença de potencial de redução, o metal inserido atuara como ânodo e todas as partes da estruturas reativas que atuariam como anodos tornam-se cátodos. Todas as reações agora acontecem no o metal de sacrifício, que perderá elétrons, se corroendo. Tomando como exemplo de metal de sacrifício o alumínio, ocorre a seguinte reação:
+
+Al → Al3+ + 2e-
+Os elétrons deixam o alumínio, liberando íons de Al3+ gerando a corrosão do metal. Os elétrons por sua vez reagem com o oxigênio ou a água, dependendo do meio, liberando íons de hidroxilas (OH-), exatamente como ocorre na reação com o ferro:
+
+O2 + 2H2O + 4e- → 4OH- - Ar
+2H2O + 2e- → H2 + 2OH- - Água
+Ocorre assim a produção de Hidróxido de alumínio(AL(OH)3), que não é prejudicial a estrutura:
+
+Al3+ + 3OH- → Al(OH)3
+Sendo assim metal que sofre corrosão é o metal de sacrifício, protegendo o metal que compõe a estrutura que permanece intacto. Não há formação de ferrugem, pois não estão presentes no eletrólito os íons de ferro para que a reaja com as hidroxilas para a formação do hidróxido ferroso.
+
+
+=== Materiais ===
+Os metais mais usados como metal de sacrifício no processo de proteção catódica são o alumínio, zinco e o magnésio.
+
+
+==== Magnésio ====
+O magnésio tem o menor potencial de redução entre eles, e é o mais aplicado a meios eletrolíticos com grande resistividade eletrolítica, por isso é muito utilizado em navios, gasodutos e oleodutos, além de ser usado em estrutura enterradas no solo. Contudo, a eletronegatividade do magnésio pode ser um problema, se o metal é muito eletronegativo, as íons de hidrogênio presentes no processo acabam envolvendo a superfície do catodo, podendo causar um efeito chamado “fragilização por hidrogênio”, que fragiliza a estrutura, podendo causar sua ruptura.
+
+
+==== Zinco ====
+O zinco não pode ser exposto a grandes temperaturas, pois seu potencial de redução tende a aumentar e pode por em risco o material que ele protege, por isso, ele é aplicado a locais com baixa temperatura como oleodutos e gasodutos subterrâneos. Também é muito comum substituir o anodo de magnésio pelo de zinco em embarcações, pois assim risco de ocorrer o efeito de fragilização por hidrogênio é nulo.
+
+
+==== Alumínio ====
+O alumínio possui diversas vantagens como o seu baixo peso e baixo custo. Contudo possui o mesmo comportamento eletrolítico do zinco, devendo ter muito cuidado com a sua aplicação.
+
+
+=== Aplicações ===
+As principais estruturas que utilizam a proteção catódica para evitar a corrosão.
+
+Monumentos expostos a brisa marinha: Cristo Redentor e a Estátua da Liberdade
+Linhas de transmissão de óleo (oleodutos) e de gás (gasodutos) submersos, enterrados ou expostos ao ar atmosférico
+Navios e embarcações
+Estruturas metálicas próximas ao litoral
+Tanques de estocagem enterrados
+
+
+== Aplicações ==
+Obtenção de elementos químicos, como o lítio, o berílio, entre outros;
+Obtenção de elementos químicos como metais, hidrogênio e cloro;
+Obtenção de substâncias como soda cáustica (NaOH) e água oxigenada (H2O2);
+Purificação eletrolítica de metais como cobre e outros;
+Galvanização: Eletrodeposição de metais tais como cromagem, niquelagem, cobreagem e outros;
+Proteção metálica contra a corrosão.
+Produção de peças de alta precisão ou alto rendimento, cuja confecção se mostra impossível através de métodos convencionais mecânicos.
+Operação de capacitores eletrolíticos;
+Fabricação de discos fonográficos.Além da obtenção, purificação e revestimento de camadas superficiais, a eletrólise em geral possibilita determinados processos de fabricação mecânica que originam peças bem uniformes e praticamente ausente de trincas e falhas. Elas podem suportar altos esforços, variações de temperatura e regimes críticos de trabalho. A consequência da uniformidade é o bom acabamento superficial liso que elas apresentam após esses processos. Entre eles, pode-se citar a “eletromaquinagem” e a “eletroformação”, que possuem em sua essência a eletrólise.
+Um exemplo de produto oriundo da eletromaquinagem é a turbina de avião, que pelas características do processo (ainda mantido sob sigilo), faz com que ela saia com um bom acabamento e praticamente perfeita no que diz respeito à uniformidade e ausência de trincas e tensões superficiais. Assim, peças desse calibre suportam variações extremamente bruscas de temperatura - lembremo-nos que o motor de um avião funciona a quase 900 °C, enquanto a atmosfera a 10 000 m (nível médio da altura de operação de um avião comercial) se aproxima de -30 °C - e imprimem ao avião forças hercúleas. Uma grande desvantagem desse processo de fabricação é o seu alto custo agregado, tornando-se então de uso mais restrito e limitado em campos como o militar e o aeronáutico. Pelo processo de eletroformação, originam-se produtos como a lâmina do barbeador elétrico e o molde para vidro, que deve ter um ótimo acabamento superficial interior liso.
+
+
+== Métodos de obtenção de substâncias ==
+Eletrólise NaClÉ possível obter (Cl(g)) e (H2(g)) a partir da eletrólise de uma solução aquosa de cloreto de sódio. Apesar de várias reações serem possíveis em tal célula eletrolítica, verifica-se que no ânodo se  produz gás cloro e no cátodo se forma gás hidrogênio.
+
+Cobre metálicoAo ligarmos dois eletrodos de cobre aos terminais de uma fonte de potencial, mergulhados numa solução aquosa de sulfato de cobre, obtemos uma deposição de cobre metálico no catodo e uma oxidação no anodo. Com uma célula análoga à descrita acima, pode-se obter cobre com uma pureza de 99,98% com um anodo de cobre de 99,0%. De fato, na industria moderna, muito se tem utilizado de tal método para obtenção de metais de alta pureza, devido à sua alta eficiência e à pureza dos materiais obtidos.
+
+Eletrólise da águaO (H2(g)) pode também ser obtido por meio da sua redução do estado +1, onde temos o (H2O(l)) como reagente (H possui NOX +1) e (O2(g)) como produtos (H possui NOX 0).
+Embora o processo seja simples, não é extremamente viável decido ao custo da energia elétrica necessária. Por isso, o (H2(g)) é muitas vezes obtido pela redução química onde tem-se um custo viável.
+
+Metais Alcalinos e Alcalino-Terrosos:Os metais alcalinos e alcalino-terrosos são elementos químicos que atuam como agentes redutores, sendo assim, necessário utilizar um elemento ou substância oxidante para o sucesso da transformação química. Para isso, é usual executar a eletrólise com cloreto de sódio (em solução), com os metais nos polos positivos (ânodo) e o cloreto de sódio nos polos negativos (catodo). Após a reação, costuma-se resfriar e separar os metais do reagente químico.
+AlumínioO alumínio pode ser obtido através da aluminia por meio do processo Hall, vide figura.
+Charles Martin Hall era estudante de graduação de Oberlin College, quando seu professor o incentivou a produzir uma forma de obtenção do alumínio metálico que fosse viável. Foi então que Hall produziu, uma ano após se formar, uma célula com três ânodos de grafite, uma camada de criolita sólida, cátodos de grafite, alumina dissolvida em criolita fundida e um plugue. Tal célula eletrolítica opera a cerca de 1 000 ºC e não é possível descrever o processo por meio de equações simples. Resumidamente, no cátodo flúr complexos de alumínio reduzem-se a alumínio líquido. No ânodo de grafita forma-se produtos como (O2) e (F2). O alumínio formado no cátodo é então retirado pelo fundo da cela.
+
+
+== Referências ==
+
+
+== Bibliografia ==
+Feltre, Ricardo (2004). Química Volume 2 - Físico-Química (6ª ed). São Paulo: Moderna Salvador, E. (2009). Físico-química. Vol 2. São Paulo: Saraiva 
+
+
+== Ver também ==
+
+Eletrólise da água

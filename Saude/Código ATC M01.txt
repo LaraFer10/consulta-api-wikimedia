@@ -1,0 +1,144 @@
+O Código ATC M01 (Anti-inflamatórios e antirreumáticos) é um subgrupo terapêutico da classificação ATC (Anatomical Therapeutic Chemical Classification System), um sistema de códigos alfanuméricos desenvolvido pela Organização Mundial da Saúde (OMS) para classificar medicamentos e outros produtos médicos. O subgrupo M01 faz parte do grupo anatômico M (sistema musculoesquelético).Os códigos para uso veterinário (códigos ATCvet) podem ser criados colocando a letra Q antes do código ATC para uso humano: por exemplo, QM01. Os códigos ATCvet sem os códigos ATC humanos correspondentes são citados com a letra Q inicial nessa lista. 
+
+
+== M01A Anti-inflamatórios e anti-reumáticos não esteróides ==
+
+
+=== M01AA Butilpirazolidinas ===
+M01AA01 Fenilbutazona
+M01AA02 Mofebutazona
+M01AA03 Oxifenbutazona
+M01AA05 Clofezona
+M01AA06 Cebuzona
+M01AA07 Aceclofenaco
+
+
+=== M01AB Derivados do ácido acético e substâncias relacionadas ===
+M01AB01 Indometacina
+M01AB02 Sulindaco
+M01AB03 Tolmetina
+M01AB04 Zomepiraco
+M01AB05 Diclofenaco
+M01AB06 Alclofenaco
+M01AB07 Bumadizona
+M01AB08 Etodolaco
+M01AB09 Lonazolaco
+M01AB10 Fentiazaco
+M01AB11 Acemetacina
+M01AB12 Difenpiramida
+M01AB13 Oxametacina
+M01AB14 Proglumetacina
+M01AB15 Cetorolaco
+M01AB16 Aceclofenaco
+M01AB17 Bufexamaco
+M01AB51 Indometacina, combinações
+M01AB55 Diclofenac, combinações
+
+
+=== M01AC Oxicams ===
+M01AC01 Piroxicam
+M01AC02 Tenoxicam
+M01AC04 Droxicam
+M01AC05 Lornoxicam
+M01AC06 Meloxicam
+
+
+=== M01AE Derivados do ácido propiónico ===
+M01AE01 Ibuprofeno
+M01AE02 Naproxeno
+M01AE03 Cetoprofeno
+M01AE04 Fenoprofeno
+M01AE05 Fenbufeno
+M01AE06 Benoxaprofeno
+M01AE07 Suprofeno
+M01AE08 Pirprofeno
+M01AE09 Flurbiprofeno
+M01AE10 Indoprofeno
+M01AE11 Ácido tiaprofênico
+M01AE12 Oxaprozina
+M01AE13 Ibuproxam
+M01AE14 Dexibuprofeno
+M01AE15 Flunoxaprofeno
+M01AE16 Alminoprofeno
+M01AE17 Dexcetoprofeno
+M01AE51 Ibuprofeno, combinações
+M01AE53 Cetoprofeno, combinações
+
+
+=== M01AG Fenamatos ===
+M01AG01 Ácido mefenâmico
+M01AG02 Ácido tolfenâmico
+M01AG03 Ácido flufenâmico
+M01AG04 Ácido meclofenâmico
+
+
+=== M01AH Coxibs ===
+M01AH01 Celecoxib
+M01AH02 Rofecoxib
+M01AH03 Valdecoxib
+M01AH04 Parecoxib
+M01AH05 Etoricoxib
+M01AH06 Lumiracoxib
+
+
+=== M01AX Outros agentes anti-inflamatórios e antirreumáticos não-esteroidais ===
+M01AX01 Nabumetona
+M01AX02 Ácido niflumico
+M01AX04 Azapropazona
+M01AX05 Glucosamina
+M01AX07 Benzidamina
+M01AX12 Glicosaminoglicano polissulfato
+M01AX13 Proquazona
+M01AX14 Orgoteína
+M01AX17 Nimesulida
+M01AX18 Feprazona
+M01AX21 Diacereína
+M01AX22 Morniflumato
+M01AX23 Tenidap
+M01AX24 Oxaceprol
+M01AX25 Sulfato de condroitina
+M01AX68 Feprazona, combinações
+
+
+== M01B Angentes anti-inflamatórios/antirreumáticos em combinação ==
+
+
+=== M01BA Angentes anti-inflamatórios/antirreumáticos em combinação com corticosteróides ===
+M01BA01 Fenilbutazona e corticosteróides
+M01BA02 Dipirocetil e corticosteróides
+M01BA03 Ácido acetil salicílico e corticosteróides
+
+
+=== M01BX Outros angentes anti-inflamatórios/antirreumáticos em combinação com outras drogas ===
+
+
+== M01C Agentes antirreumáticos específicos ==
+
+
+=== M01CA Quinolinas ===
+M01CA03 Oxicincofeno
+
+
+=== M01CB Compostos de ouro ===
+M01CB01 Aurotiomalato de sódio
+M01CB02 Aurotiossulfato de sódio
+M01CB03 Auranofina
+M01CB04 Aurotioglicose
+M01CB05 Aurotioprol
+
+
+=== M01CC Penicilamina e agentes similaress ===
+M01CC01 Penicilamina
+M01CC02 Bucilamina
+
+
+=== M01CX Outros agentes antirreumáticos específicos ===
+M01C Agentes anti-reumáticos específicos
+
+
+== Ver também ==
+Classificação ATC
+Código ATC M: Sistema musculo-esquelético
+
+
+== Referências ==

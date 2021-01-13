@@ -1,0 +1,102 @@
+O Gráfico de Ramachandran, ou Diagrama de Ramachandran ou [φ,ψ] plot, é um gráfico da bioquímica que representa todas as combinações possíveis de ângulos diédricos Ψ (psi) versus os φ (phi) nos aminoácidos de um polipeptídeo, as combinações mais estáveis de ângulos C alfa-N e C alfa-C, permitindo determinar a possível estrutura secundária da biomolécula peptídeo (formada pela ligação de dois ou mais aminoácidos) e a forma final (conformação) das estruturas das proteínas. Este gráfico foi criado pela equipe de bioquímicos Indianos formado por: G.N. Ramachandran, Chandrasekaran Ramakrishnan e V. Sasisekharan.
+Para cada resíduo em uma proteína, dois ângulos de torção φ (phi) e ψ (psi) determinam a conformação do esqueleto da proteína. Onde: o ângulo φ para o resíduo r1 é o ângulo diedro formado por quatro átomos: o carbono do grupo carbonilo do resíduo r0, e os átomos N, Cα e C do resíduo r1; o ângulo ψ é o ângulo diedro formado pelos átomos de N, Cα, e C do resíduo r1, e o átomo de N do resíduo r2. Em outras palavras: φ define a rotação em torno da ligação Cα-N do resíduo, e ψ define a rotação em torno da ligação Cα-C do mesmo resíduo. Um gráfico de Ramachandran é um gráfico de φ versus ψ, com um pequeno símbolo marcando a posição correspondente a φ e ψ para cada resíduo. Este gráfico permite, portanto, aproximar a priori qual será a estrutura secundária do peptídeo, uma vez que existem combinações de ângulos típicos para cada estrutura (α- hélice e folhaβ). A conformação dos péptidos é definida pela atribuição de valores para cada par de cantos Φi, Ψi para cada aminoácido. No segundo quadrante estão as combinações da folhaβ, no terceiro quadrante está a hélice α direita e as curvas ou laços (loops); e no primeiro quadrante as combinações da hélice α esquerda.Matemáticamente, um gráfico de Ramachandran é a visualização de uma função 
+  
+    
+      
+        f
+        :
+        
+          [
+          
+            −
+            π
+            ,
+            π
+          
+          )
+        
+        ×
+        
+          [
+          
+            −
+            π
+            ,
+            π
+          
+          )
+        
+        →
+        
+          
+            R
+            
+              
+
+              
+              +
+              
+
+              
+            
+          
+        
+      
+    
+    {\displaystyle f:\left[-\pi ,\pi \right)\times \left[-\pi ,\pi \right)\rightarrow \mathbb {R_{{}+{}}} }
+  . O domínio desta função é o toro, por conseguinte o gráfico convencional de Ramachandran corresponde a uma projeção do toro sobre o plano, resultando em uma vista distorcida e na presença de descontinuidades.
+O gráfico Ramachandran foi concebido pouco antes de serem determinadas as primeiras estruturas proteicas a resolução atômica. Quarenta anos mais tarde, havia dezenas de milhares de estruturas de proteínas com alta resolução, determinadas por cristalografia de raios X, depositadas no Protein Data Bank (PDB). De um milhar de cadeias de proteínas diferentes, foram obtidos gráficos de Ramachandran de cerca de 200,000 aminoácidos, obtendo-se diferenças significativas especialmente para a glicina (Hovmöller et al. 2002). Verificou-se que a região superior esquerda poderia ser dividida em duas: uma para a esquerda contendo aminoácidos em folhas beta, e a outra para a direita, com aminoácidos em conformações de emaranhados aleatórios.
+
+
+== Ângulos permitidos e proibidos ==
+Nem todos os pares de ângulos são, na verdade, possíveis dentro das estruturas dos peptídeos, isto é devido a efeitos estéricos entre os resíduos (cadeias laterais) dos aminoácidos. Pois os átomos dentro de uma molécula ocupam um determinado espaço, se estes forem colocados demasiado próximos, há um custo em energia associado devido à sobreposição das nuvens eletrônicas (repulsão Pauli ou Born), e esta pode afetar a forma final da molécula (conformação).
+
+
+=== Os casos especiais da Glicina e da Prolina ===
+No caso do aminoácido glicina, as áreas de possível conformação da tabela com uma simetria central, e são muito mais amplas do que as dos outros ácidos aminados, porque tem somente H como uma cadeia lateral.
+Outro caso especial é o aminoácido proteico prolina, único aminoácido capaz de ter ligações CIS e TRANS.
+
+
+== Tipos de estuturas estáveis ==
+Existe basicamente três tipos de estruturas estáveis (de baixa energia) em uma cadeia polipeptídica:
+hélice-alfa;
+folha-beta, e;
+hélice de colagénio.Para os peptídeos de origem biológica sem prolina existem duas estruturas estáveis: a hélice-alfa e a folha-beta. Uma das diferenças, é a consequência direta dos diferentes ângulos da ligação, é que a hélice-alfa apresenta ligações de hidrogénio raozavelmente alinhadas com o eixo da molécula, possibilitando a formação de ligações Intra-cadeia e conformação como um tubo alongado, e a folha-beta apresenta ligações de hidrogénio razoavelmente perpendiculares ao eixo da molécula, permitindo a formação de ligações Inter-cadeia e conformação com uma "superfície" plana rígida.
+
+
+== Galeria ==
+
+		
+		
+		
+
+
+== Software ==
+Ramachandran plot 2.0
+Ferramenta online para desenhar o gráfico de Ramachandran para entrada PDB
+STING
+Pymol com a extensão DynoPlot
+VMD, distribuída com plugin para gráficos de Ramachandran
+Sirius
+Swiss PDB Viewer
+TALOSVer também PDB para uma lista de softwares similar.
+
+
+== Referências ==
+
+S. Hovmöller, T. Zhou & T. Ohlson (2002) Conformations of amino acids in proteins.  In: Acta Cryst. vol. D58, p. 768-776.
+
+
+== Ver também ==
+
+Categoria:Aminoácidos
+Categoria:PeptídeosCategoria:Proteínas
+Aminoácido proteinogénico
+Código genéticoLista de bioquímicosBiotecnologia
+Bioinformática
+
+
+== Ligações externas ==
+Wiki do DynoPlot na PyMOL
+link para gráficos de Ramachandran de localizações de alfa hélices e folhas beta
+Gráfico de Ramachandran na Proteopedia

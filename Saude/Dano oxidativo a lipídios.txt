@@ -1,0 +1,33 @@
+Dano oxidativo a lipídios pode ser definido como deterioração oxidativa de lipídios polinsaturados ou dano oxidativo a ácidos graxos polinsaturados.Em sistemas biológicos, os ácidos graxos polinsaturados (PUFAs) são encontrados principalmente na composição das membranas celulares de animaise possuem geralmente um número par de carbonos, entre 14 a 24 átomos, e duas ou mais ligações duplas entre carbonos.Os PUFAs são muito susceptíveis a oxidação devido à presença das duplas ligações, que geram um enfraquecimento da ligação do hidrogênio alílico. A oxidação dos PUFAs promove modificações físicas nas membranas celulares, que resultam em alterações na fluidez e permeabilidade, comprometendo as funções biológicas.Há estudos que relacionam a oxidação dos PUFAs com diversas doenças humanas, tais como arteriosclerose, diabetes, lesão pulmonar aguda, e doenças neurodegenerativas incluindo Doença de Parkinson, Doença de Huntington, Esclerose Lateral Amiotrófica e Alzheimer.
+
+
+== Mecanismos de oxidação a lipídios ==
+O processo oxidativo dos PUFAs pode ocorrer por dois mecanismos: 
+i)os enzimáticos, com atividade das lipoxigenases, cicloxigenases, citocromo P450 e heme-peroxidase;ii)não enzimático, pela reação com espécies reativas de oxigênio ou nitrogênio radicalares ou não radicalares.
+
+
+== Oxidação enzimática ==
+A oxidação enzimática é uma reação regioespecífica e esteroespecífica, por isso há geração de menos isômeros, se comparada à oxidação não enzimática. O mecanismo proposto para a oxidação dos PUFAs catalisada por lipoxigenases, gerando como produto os hidroperóxidos de lipídio (LOOH).
+
+
+== Oxidação não enzimática ==
+Pelo mecanismo de oxidação não enzimático, os PUFAs podem reagir com espécies radicalares dando início a um processo denominado de peroxidação lipídica ou autooxidação, ou podem reagir com espécies reativas tais como: oxigênio singlete, uma espécie excitada do oxigênio molecular, hipoclorito e ozônio.
+A peroxidação lipídica ocorre por meio de uma série de reações em cadeia que são divididas em três etapas: iniciação, propagação e terminação.
+
+
+=== Iniciação ===
+Ocorre a abstração de um átomo de hidrogênio bisalílico da cadeia de lipídio (LH) do PUFA por um radical livre reativo (R•), gerando um radical lipídico (L•) centrado no carbono.
+
+
+=== Propagação ===
+O radical lipídico (L•) formado reage rapidamente com o O2 formando um radical peroxila (LOO•). Esse radical propaga a lipoperoxidação, pois pode reagir com outra LH gerando outro L• e o hidroperóxido de lipídio (LOOH).
+
+
+=== Terminação ===
+O término da reação em cadeia da lipoperoxidação ocorre quando dois radicais peroxila reagem entre si formando um produto não radicalar, ou quando abstraem um átomo de hidrogênio de uma molécula sem gerar outro radical.
+Íons de Fe2+ ou Fe3+ podem participar do processo de peroxidação lipídica, pois catalisam reações do hidroperóxido de lipídio (LOOH) formando radicais RO• e ROO• que podem reagir com outra cadeia lipídica (LH) continuando a propagação. Abaixo esquema das reações catalisadas pelos íons de ferro.
+
+LOOH + Fe2+ → LO• + OH- + Fe3+LOOH + Fe3+ → LOO• + H+ + Fe2+No processo de oxidação não enzimático por meio de espécies reativas não radicalares, como por exemplo, o oxigênio singlete, podem ser formados isômeros de hidroperóxidos de lipídios diferentes dos formados no mecanismo de peroxidação lipídica, pois o 1O2 se adiciona diretamente ao carbono da dupla ligação através de uma ligação do tipo “ene”, enquanto na peroxidação lipídica os isômeros de posição formados dependem do número de ligações duplas (n) sendo (2n-2) isômeros.
+
+
+== Referências ==

@@ -1,0 +1,24 @@
+Glosa médica é o termo que se refere ao não pagamento, por parte dos  planos de saúde, de valores referentes a atendimentos, medicamentos, materiais ou taxas cobradas pelas empresas prestadoras (hospitais, clínicas, laboratórios, entre outros) e profissional liberal da área de saúde. É uma prática cada vez mais comum e de fiscalização a empresas e profissionais liberais que prestam atendimento aos pacientes de convênios e credenciamentos com órgão públicos.
+A ocorrência de glosas está condicionada a uma série de questões que variam entre a falta de documentação adequada, incorreção dos valores cobrados, entre outras. Ao reconhecer um item glosado, o prestador tem um prazo determinado para recorrer da decisão do convênio. O convênio, por sua vez, avalia o pedido em um prazo de até 2 meses a partir do pedido do prestador de recorrer da decisão. Por isso, identificar essas glosas com agilidade é essencial. Na maior parte dos casos, o controle é feito manualmente e o volume de contas a se conferir impede que os recursos sejam gerados a tempo.
+Atualmente, definir diretrizes internas que venham a reduzir a ocorrência de glosas e agilizar o processo de análise das contas hospitalares a fim de evitar prejuízos é um dos grandes desafios das empresas prestadoras.
+
+
+== Como ocorre ==
+Todos os meses o prestador deve organizar suas contas médicas para enviar aos convênios a fim de receber o valor devido naquela competência (período determinado pelo convênio, normalmente de um mês chegando alguns até três meses). Após reunidas e divididas, as contas são enviadas juntamente com uma planilha TISS/XML que discrimina todos os itens pelos quais o prestador espera receber e os valores de cada procedimento realizado, material ou  medicamento utilizado.
+Quando o convênio realiza o pagamento por determinada competência, devolve ao prestador suas contas acompanhadas pelo demonstrativo de retorno (a lista completa de todos os itens pelos quais pagou). As contas que estão fora desta lista são os itens glosados, ou seja, pelos quais o convênio optou por não pagar ou pagar parcialmente.
+
+
+== Causas ==
+Questões de origem administrativa, como o preenchimento incorreto de uma conta, a ausência da assinatura do médico ou a divergência entre os valores cobrados pelo prestador e os valores constantes na tabela do convênio são razões comuns para a ocorrência da glosa. Mensurar os maiores responsáveis por essas ocorrências é fundamental para diminuir o número de glosas e, consequentemente, de recursos gerados pelo prestador.
+Uma série de estudos têm sido realizados com esse objetivo. Identificando, por exemplo, que anotações de enfermagem têm uma importância especial na ocorrência das glosas. Outras análises apontam que os convênios tem preferências por glosar alguns produtos específicos, uma tendência que tem causado polêmica no universo médico.
+
+
+== Recomendação da ANS ==
+Segundo o presidente da ANS Andrew Pacheco, em reunião com a SOERGS(Sindicato dos Odontologistas no Rio Grande do Sul) “ Os médicos tem se assegurado com uma certidão direcionada aos pacientes, em que a pessoa que esta sendo atendida  assume a responsabilidade de receber cobrança do procedimento, caso o pagamento seja glosado pela operadora” e “Precisamos que as denúncias cheguem até a ANS para que ela tome as medidas cabíveis”.
+
+
+== Reparação dos prejuízos ==
+Cabe ao analista de contas médicas do prestador confrontar os registros de todas as suas cobranças com os itens do demonstrativo enviado pelo convênio para identificar quais foram as glosas. Cada convênio dá ao prestador a oportunidade de recorrer de sua decisão, a partir de um formulário de recurso. Esse é um processo por vezes realizado manualmente e de difícil execução, o que pode acarretar em prejuízos elevados aos prestadores, pois muitas vezes o analista não consegue elaborar os recursos dentro do prazo estabelecido.
+
+
+== Referências ==

@@ -1,0 +1,46 @@
+Na medicina, a ventilação mecânica é o método de substituição da ventilação normal. A ventilação mecânica pode salvar vidas e é usada na ressuscitação cardiopulmonar, medicina de tratamento intensivo, e anestesia. Em muitas situações o organismo é incapaz de manter  o ciclo  respiratório, que consiste da aspiração de ar até os pulmões onde este ar é absorvido pelos alvéolos e transportando pela hemácias até os tecidos, mantendo a oxigenação tecidual. A ventilação mecânica substitui a aspiração de ar, "empurrando" o ar pulmões adentro (neste caso, ventilação com pressão positiva). É um método de substituição de função vital, sendo útil como um auxílio ao tratamento de  algumas doenças. Também apresenta uma série de complicações, sendo a principal a infecção respiratória.
+
+
+== Parâmetros Ventilatórios ==
+Tempo inspiratório: 0.8 á 1.2 seg.
+Tempo expiratório: 4 á 2 seg.
+Relação: I:E = 1:2
+Frequência: 12 irpm (incursões respiratórias por minuto)
+Fluxo: 40 a 60 L/min
+VC: 6 a 8 ml/kg corrigido (peso ideal do paciente, que é calculado pela fórmula "altura - 1 metro" para homens e o mesmo valor para mulheres, menos 10%)
+Pressão inspiratória = Ppi
+Pressão expiratória = PEEP (fisiológico 5 cmH2O)
+Fração inspirada de O2: FiO2 de 21 a 100%
+Sensibilidade: de -0,5 a -2,0
+
+
+== Disparo do Ventilador ==
+Disparo a tempo
+Disparo a pressão
+Disparo a fluxo
+
+
+== Ciclagem do Ventilador ==
+Ciclagem a volumeNeste modo de ciclagem o final da fase inspiratória é determinado pelo valor de volume corrente ajustado. Há um sensor no aparelho que detecta a passagem do volume determinado e desliga o fluxo inspiratório.
+A pressão inspiratória não pode ser controlada e depende da resistência e da complacência do sistema respiratório do paciente, de modo que este tipo de ventilação pode provocar barotrauma. Ao mesmo tempo, este tipo de ventilação é bastante segura uma vez que garante o volume corrente para o paciente, principalmente para aqueles em que se deve fazer um controle rigoroso da PaCO2, como nos pacientes portadores de hipertensão intracraniana.
+
+Ciclagem a pressãoA fase inspiratória é determinada pela pressão alcançada nas vias aéreas. Quando o valor predeterminado é alcançado interrompe-se o fluxo inspiratório, independente do tempo inspiratório ou do volume utilizado para se atingir esta pressão. Desta forma, este tipo de ventilação também não garante um volume corrente adequado e pode ser ineficaz caso haja grandes vazamentos de ar como nos casos de fístulas bronco-pleurais.
+Os ventiladores ciclados a pressão são representados pela série Bird-Mark 7, 8 e 14, possuindo como vantagens o fato de não dependerem da eletricidade e serem pequenos e leves facilitando seu uso nos transportes de pacientes.
+
+Ciclagem a tempoA transição inspiração/expiração ocorre de acordo com um tempo inspiratório predeterminado, não importando as características elástico-resistivas do sistema respiratório do paciente.
+Normalmente os aparelhos ciclados a tempo são limitados a pressão, ou seja, existe uma válvula de escape impedindo altos níveis de pressão inspiratória. Os ventiladores infantis e aqueles com ventilação com pressão controlada possuem este tipo de ciclagem. Deve-se ressaltar que este tipo de ciclagem não garante o volume corrente, sendo este uma resultante da pressão de escape aplicada, da complacência e do tempo inspiratório programado.
+
+Ciclagem a fluxoNeste tipo de ciclagem, o tempo inspiratório é interrompido quando o fluxo inspiratório cai abaixo de um valor pré-ajustado como foi descrito na ventilação com pressão de suporte. Neste tipo de ciclagem, o paciente exerce total controle sobre o tempo e fluxo inspiratórios e sobre o volume corrente.
+
+
+== Modos Ventilatórios ==
+Controlado
+Assistido/Controlado (AC)
+Ventilação Mandatória Intermitente Sincronizada (SIMV)
+Pressão de Suporte Ventilatória (PSV)
+CPAP
+BIPAP
+
+
+== Veja também ==
+Respirador (ventilador mecânico)

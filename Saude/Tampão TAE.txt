@@ -1,0 +1,23 @@
+Tampão TAE (tampão Tris-Acetato-EDTA) é uma solução tampão usada em eletroforese em agarose, tipicamente para a separação de ácidos nucleicos tais como o DNA e RNA. Ele é feito de tampão acetato da base Tris, normalmente a pH 8.0, e EDTA, os quais sequestram cátions divalentes. TAE tem uma mais baixa capacidade que TBE e facilmente pode se exaurir, mas DNA de dupla cadeia linear migra mais rápido em TAE.
+
+
+== Usos ==
+Tampão TAE é usado tanto como um tampão de corrida como em gel de agarose. TAE tem sido usado em várias concentrações para estudar mobilidade de DNA livre com e sem cloreto de sódio. Métodos em eletroforese em gel em gradiente denaturado para análise de mutações em amplo espectro têm sido também descritos.
+
+
+== Formulação ==
+Tampão TAE (50x)
+
+242 g TRIS base (2-amino-2-hidroximetil-propano-1,3-diol) (= 2 moles)
+57,1 ml ácido acético glacial
+100 ml de solução de EDTA dissódico (Na2 EDTA) 0,5 M (pH 8.0)
+Água destilada até 1 litroPara preparar solução a 0.5 M de Na2 EDTA (pH 8.0) adicionar 18,612 g de etilenodiaminotetraacetato dissódico a 80 mL de água destilada. Agitar vigorosamente. Ajustar o pH a 8,0 com hidróxido de sódio, NaOH (aprox. 1,8 g de NaOH. Terminar ajuste adicionando gotas de NaOH 10N durante a medição de pH). Acertar o volume final para 100 mL. Esterilizar por autoclavagem. 
+
+Observação. O sal dissódico do EDTA não irá permanecer em solução até o pH da solução ser ajustado a aproximadamente 8,0 pela adição de NaOH.
+
+
+== Referências ==
+
+
+== Ver também ==
+Tampão TBE

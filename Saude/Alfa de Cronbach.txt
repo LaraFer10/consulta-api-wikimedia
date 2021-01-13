@@ -1,0 +1,11 @@
+O coeficiente alfa de Cronbach foi apresentado por Lee J. Cronbach, em 1951, como uma forma de estimar a confiabilidade de um questionário aplicado em uma pesquisa.
+Ele mede a correlação entre respostas em um questionário através da análise das respostas dadas pelos respondentes, apresentando uma correlação média entre as perguntas. O coeficiente α é calculado a partir da variância dos itens individuais e da variância da soma dos itens de cada avaliador de todos os itens de um questionário que utilizem a mesma escala de medição.
+
+
+== Bibliografia ==
+[HORA, MONTEIRO E ARICA, 2010 - Henrique Rego Monteiro da Hora e Gina Torres Rego Monteiro e Jose Arica, Confiabilidade em Questionários para Qualidade: Um Estudo com o Coeficiente Alfa de Cronbach. Produto & Produção, vol. 11, n. 2, p. 85 - 103, jun. 2010, http://seer.ufrgs.br/index.php/ProdutoProducao/article/viewFile/9321/8252]
+MONTEIRO, G. T. R.; HORA, H. R. M. Pesquisa em saúde pública: como desenvolver e validar instrumentos de coleta de dados. Curitiba: Appris, 2014.
+ALMEIDA, D.; SANTOS, M. A. R. dos; COSTA, A. F. B. Aplicação do coeficiente alfa de Cronbach nos resultados de um questionário para avaliação de desempenho da saúde pública. In: XXX Encontro Nacional de Engenharia de Produção, Anais da Associação Brasileira de Engenharia de Produção. São Carlo - SP. p. 1 - 12. 2010. Download
+
+
+== Referências ==

@@ -1,0 +1,63 @@
+LiquidFeedback é um software livre de apoio ao debate e à tomada de decisões em processo políticos. Sua característica mais importante é a implementação da abordagem da Democracia líquida, que visa estabelecer uma nova forma de representação e participação política. O modelo demonstra uma notável diferença entre democracias representativa e direta. Além da funções de busca para "decisão" e "opinião", também é possível agrupar as especialidades técnicas dos participantes de forma eficiente.
+
+
+== A ideia básica ==
+Liquid Feedback é destinado a ajudar partidos, associações e iniciativas públicas a utilizar a Internet para reunir opiniões, especialmente quando o número de participantes é muito grande, de forma a substituir um fórum real. Dessa forma é assegurada aos participantes a oportunidade de promover suas próprias iniciativas, diminuindo a influência de hierarquia. O software pretende transmitir as opiniões de forma democrática amenizando a distorção causada pelo desequilíbrio na distribuição de poder, conhecimento ou por outras restrições. O Liquid Feedback permite também identificar obstáculos e determinar prazos para realização das ideias discutidas.
+
+
+== Aplicação ==
+Uma característica essencial de Liquid Feedback a incorporação de propostas/projetos a serem votadas mais tarde. Nessa função, o usuário escolhe o tema, e depois decide se essa proposta de texto (Iniciativa/Projeto) deve formar um novo tópico ou deve ser associada como solução alternativa a um tema já existente. Caso seja aberto um novo tópico, há um regulamento de acordo com objetivos do criador do tópico a ser aplicado, que irá então  orientar o limite de tempo, quóruns e a continuação das respectivas ações.
+As regras são predefinidas pelo operador que instala o software. Por exemplo:
+
+Emendas
+Pedidos à Assembleia Geral
+Pareceres de conselhos deliberativos
+Votação rápidaTemas e iniciativas/propostas em competição seguem os seguintes passos:
+
+novo
+em discussão
+congelado/em verificação
+votar
+concluído ou canceladoEnquanto um tema estiver nas fases "novo", "em discussão" ou "congelado/em verificação", os participantes do sistema podem apoiar uma ou mais iniciativas/propostas sobre o tema. Se um tema está em estado "novo", é necessário que uma iniciativa/proposta tenha um determinado percentual de apoio, de acordo com o regulamento de quórum e tempo limite. Depois disso, caso o regulamento tenha sido cumprido, o assunto/tema/tópico passa para "em discussão". Caso contrário, a questão será anulada.
+Enquanto um tema está nas fases "novo" ou "em discussão", é possível que os propositores da iniciativa melhorem suas propostas, alterando os textos. Os apoiadores da iniciativa podem marcar sugestões sobre a iniciativa ou apoiar determinadas melhorias na proposta. Após um determinado período a questão passa para a fase de discussão para o "congelado/em verificação" assim por diante. Esta fase é utilizada para evitar alterações no texto pouco antes da votação, já que o congelamento evita mudanças de texto. Após passado o próximo limite de tempo, a questão passa para a "votação".
+Somente iniciativas que alcançariam um segundo quórum passam para votação. O tamanho deste segundo quórum também resulta do regulamento. A votação é feita usando um método de voto de preferências, baseado no Método de Schulze.
+Basicamente, em todos estes processos é possível delegar o seu próprio poder de voto a outro participante, mas somente no caso do participante não estar "ativo" nesse tema. As delegações concedidas podem ser revogadas a qualquer momento.
+No Liquid Feedback, os dados do sistema sempre estão disponíveis aos usuários para fins de verificação, já os dados das votações atuais permanecem ocultos, de forma a evitar seleção/votação tática. Ver também teorema da impossibilidade de Arrow e o teorema de Gibbard–Satterthwaite.
+
+
+== História ==
+O Liquid Feedback foi desenvolvido em outubro de 2009 a partir dos esforços dos membros do Partido Pirata  Alemão, para suprir a insatisfação desses com os modelos existentes de formação de opinião dentro de partidos. Entretanto o desenvolvimento ocorreu independente do partido, no âmbito da associação Public Software Group. Seu uso é aberto a outros partidos políticos e associações.
+Em 15 de Abril de 2010 foi lançada a primeira versão estável 1.0.0 dos Front-end e back-end.
+Como o interesse em torno do Liquid Feedback e outras formas interativas de Democracia participativa aumentou, o Public Software Group decidiu em 27 de junho de 2010 transferir as atividades a ONG Democracia Interativa (Interaktive Demokratie e. V.).
+O Liquid Feedback está sendo usado atualmente pelo Partido Pirata da Alemanha. Os Partidos Pirata de Brasil, Áustria, e Suíça, estão no modo de teste e se preparam para uso em convenções partidárias. Slow Food tem usado também o Liquid Feedback desde março 2012. Em julho de 2012, o conselho regional de Friesland (distrito) decidiu adotar o software como plataforma de participação cidadã, com início em Novembro de 2012, sob o nome "Liquid Friesland".
+
+
+== Interesse da mídia ==
+Liquid Feedback tem causado certo interesse na mídia. Por parte do Partido Pirata, a esperança é que, com o software, as falhas da democracia de base (ver Lei de ferro da oligarquia) se resolvam de forma mais eficaz que os modelos atuais o tem feito. Presume-se que o sistema recompensa com competência ao invés de produto para massa. O sistema é imune a vândalos (troll) possibilitando somente comentários construtivos.
+
+
+== Tecnologia ==
+O frontend do Liquid Feedback é escrito em Lua, o backend é um servidor PostgreSQL, onde a programação do banco de dados é feita em PL/pgSQL. Ambas as partes são desenvolvidas pela ONG Public Software Group e estão sob a licença MIT.
+Há API disponível para o Liquid Feedback para que programas externos possam acessar a instalação assim fornecer serviços adicionais.
+
+
+== Críticas ==
+A introdução do Liquid Feedback gerou controvérsias dentro do partido pirata alemão. Devido ao fato de as atividades serem personalizadas, foi identificada uma falha na questão de privacidade e proteção de dados. O fato de o software permitir somente votações nominais, deve-se à intenção de possibilitar as inerentes conclusões sobre as respectivas opiniões políticas (Veja também: Votações secreta no parlamento).
+Há discussões sobre a chance de consolidação de estruturas de poder, mesmo com possibilidade de se revogar delegações a qualquer momento. A fim de evitar esse processo, foi feito uma atualização que desativa automaticamente contas de participantes, tirando a validade de votos delegados por ex-participantes.
+Também foi questionado no sistema o direito das minorias. Entretanto as minorias sempre podem expor seus pontos de vista. Para a formação de iniciativas, não é exigido quorum. O alcance de um quórum mínimo (ex. 5%) pode ser exigido de acordo com o tempo limite ajustável pelo criador do tópico. Apenas na votação final é exigida uma maioria de pelo menos 50% (dependendo da configuração ou mesmo maior).
+
+
+== Referências ==
+Site oficial
+
+
+== Ligações externas ==
+Estatuto do Liquid Feedback
+LiquidFeedback Public Software Group website
+CNN: Fed up with politics?... - The "Liquid Feedback" generation
+Spiegel Magazine: Web Platform Makes Professor Most Powerful Pirate
+The Economist: The ayes have it
+The New York Times: Direct Democracy, 2.0
+The New York Times: New Politics, Ahoy!
+Adhoc
+Teorema de Gibbard–Satterthwaite

@@ -1,0 +1,13 @@
+A proteína p21 é uma reguladora da transição da fase G1 para S no ciclo celular, que é codificada com informação do cromossoma 6. Esta transição é particularmente importante no estudo de células cancerígenas, pois é na fase S que se dá a replicação do DNA, uma das fases onde existe maior probabilidade de ocorrerem mutações genéticas provocadas por uma perda da integridade do genoma.
+É da competência da proteína p53 a regulação da expressão de p21 existente.
+Esta proteína liga-se às ciclinas D e E, inibindo a cinases dependentes destas ciclinas (cdk 2 e cdk 4) necessárias para a progressão do ciclo celular.
+Devido à sua função e intercooperação com a proteína p53, a p21 é considerada uma proteína supressora de tumores.
+
+
+== Ver também ==
+p53, uma proteína responsável pela manutenção da integridade do genoma.
+Ciclo celular, vida de uma célula, desde do seu nascimento até à sua divisão.dwedw
+Tumor, divisão descontrolada das células que pode levar à morte.
+
+
+== Leitura de apoio ==

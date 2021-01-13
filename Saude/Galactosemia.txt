@@ -1,0 +1,68 @@
+A Galactosemia pode ser descrita como uma concentração sanguínea elevada do monossacarídeo galactose (aldohexose, epímera da glicose em C-4), devido a uma desordem no metabolismo causada por atividade enzimática deficiente ou função hepática prejudicada.
+Os seres humanos obtêm a galactose primariamente através do leite humano e bovino e de derivados lácteos, pela hidrólise da lactose, dissacarídeo que é composto por glicose e galactose unidas por ligação β-glicosídica. Galactose livre também está presente em algumas frutas e vegetais, como tomates, bananas e maçãs. A digestão da lactose se dá por intermédio da enzima intestinal lactase, que a quebra nos dois monossacarídeos que a constituem. Após a quebra da lactose em glicose e galactose, se dá o processo de metabolização desses monossacarídeos, que envolve catálises enzimáticas que levarão, em seu final, à conversão da galactose em glicose para uso como fonte de energia. A fase de metabolização da galactose é a que apresenta problemas no paciente galactosêmico, devido a deficiências enzimáticas em vários níveis possíveis.
+
+
+== Epidemiologia ==
+A galactosemia é uma doença de fundo genético condicionada por gene autossômico recessivo. Estudos conduzidos desde 1979 mostram que 1 em cada 7500 nascidos vivos terá alguma forma de galactosemia (Georgia annual Newborn Screening report - 1997). Estima-se também que 1 em cada 40 pessoas é um portador do gene defeituoso. A galactosemia clássica ocorre em aproximadamente 1 a cada 60.000 nascidos vivos. A frequência é bastante variável de acordo com o país, de 1 em 30.000 a 40.000 na Europa, para 1 em 1 milhão no Japão, provavelmente devido a problemas de amostragem. A incidência estimada nos Estados Unidos é de 1 em 53.000. Um estudo feito no Estado de São Paulo em 2009, mostrou que a população brasileira têm a segunda maior incidência de galactosemia clássica do mundo - 1 em 20.000 - estando atrás apenas da África do Sul. 
+
+
+== Aspectos bioquímicos do metabolismo normal da galactose ==
+O primeiro passo na metabolização é a reação de transformação da galactose em galactose-1-fosfato, que é catalisada pela enzima galactoquinase com gasto de ATP. Em seguida, a galactose-1-fosfato passa pela seguinte reação catalisada pela enzima galactose-1-P-uridil transferase:
+
+Galactose-1-fosfato + UDP–Glicose → UDP-Galactose + Glicose–1-Fosfato
+
+A UDP-galactose passa pela enzima uridina–difosfogalactose epimerase, que promove sua transformação em UDP-glicose.
+
+
+== Metabolismo anormal e sintomas ==
+O metabolismo anormal da galactose na galactosemia é principalmente causado por deficiência em três enzimas da via metabólica da galactose: galactoquinase, galactose–1–P–uridil transferase e uridina–difosfogalactose epimerase.
+Quando ocorrem as deficiências enzimáticas, a galactose não segue sua via metabólica normal, e seu acúmulo leva a uma reação que não ocorreria normalmente. Essa reação se dá pela conversão de galactose em galactitol, um poliálcool de toxicidade elevada, ou em galactonato, que também é um produto tóxico.
+O paciente galactosêmico pode apresentar, quando não é feito o tratamento correto, os seguintes sintomas:
+
+Hepatomegalia
+Falhas renais
+Catarata
+Danos cerebrais
+Galactosúria
+Deficiências de aprendizagem
+Falhas nos ováriosA hepatomegalia é causada por acúmulo de galactitol nas células hepáticas, levando a um aumento da pressão osmótica e à entrada de água nessas células, que leva à hipertrofia.
+Defeitos oculares são causados pelo acúmulo de substâncias tóxicas que promovem a formação de catarata (aumento de opacidade do cristalino) e, em alguns casos, podem levar à cegueira.
+Já os problemas neurológicos têm causas mais complexas e não se relacionam apenas com acúmulos de substâncias.
+
+
+== Tipologia da doença ==
+
+
+=== Galactosemia do Tipo 1 ===
+É a forma mais comum e grave de galactosemia. Nesse tipo, ocorre deficiência da galactose-1-P uridil transferase (GALT), a enzima que converte galactose-1-fosfato (galactose-1-P) em uridina difosfato galactose (UDPgalactose), o que leva ao acúmulo de galactose-1-fosfato e a sintomas variados.
+A deficiência completa da atividade da GALT é conhecida como galactosemia clássica, e é frequentemente referida com o termo isolado "galactosemia". Pacientes não-tratados tipicamente têm disfunção hepática e renal; tanto paciente tratados como não-tratados podem ter catarata, neurodesenvolvimento anormal e insuficiência ovariana precoce.
+O mecanismo de toxicidade de galactose-1-fosfato não é ainda totalmente compreendido. Mas, já foi mostrado que esse metabólito possuí a capacidade de inibir in vitro as proteínas Fosfoglicomutase, Inositol Monofosfatase e Glicogênio Fosforilase. 
+
+
+==== Variante Duarte ====
+Atividade parcial da GALT ocorre em numerosas variantes; a mais comum destas é a variante Duarte, na qual paciente têm um alelo duarte e um alelo clássico (D/G), resultando em uma atividade enzimática que corresponde a aproximadamente 25% do normal. Pacientes com dois alelos Duarte (D/D) têm aproximadamente 50% da atividade enzimática normal. Pacientes com atividade maior ou igual a 50% do normal se apresentam com pouca ou nenhuma evidência de morbidade neonatal ou a longo prazo se não tratados.
+
+
+=== Galactosemia do Tipo 2 ===
+Defeito da galactoquinase leva a acúmulo de galactose, tendo como principais características os problemas oculares.
+
+
+=== Galactosemia do Tipo 3 ===
+Causada por deficiência da uridil difosfo galactose-4-epimerase, a galactosemia do tipo 3 é uma forma muito rara, com formas inicial e severa, que aparecem no curso da doença.
+
+
+=== Outros tipos ===
+Existem outros tipos benignos de galactosemia que são assintomáticos como, por exemplo, a galactosemia Duarte e a variante da raça negra. Notamos, nessas variantes, deficiências enzimáticas que não levam a quadros sintomáticos graves, como os da galactosemia clássica.
+
+
+== Diagnóstico ==
+O diagnóstico de galactosemia é freqüentemente suspeitado quando um açúcar redutor que não reage no sistema glicose oxidase é encontrado na urina. Contudo, outros açúcares além da galactose podem dar o mesmo tipo de reação, e a própria enfermidade hepática pode resultar em galactosúria (excreção de galactose através da urina). Portanto, a galactosemia clássica é diagnosticada pela demonstração de que a atividade da galactose-1-P uridil transferase esteja ausente ou muito baixa nos eritrócitos.
+No estado normal, é encontrada a transferase nas células hepáticas, nos leucócitos e nos eritrócitos, e, na galactosemia, os ensaios permitem a verificação da carência da enzima nessas células. O diagnóstico pré-natal pode ser realizado por amniocentese, com cultura de fibroblastos derivados do líquido amniótico.
+
+
+== Tratamento ==
+O tratamento para a galactose se dá pela restrição de galactose e lactose na dieta. Existem várias formas de galactosemia e as restrições alimentares variam de uma forma para outra, havendo inclusive discordâncias em algumas formas. Nos casos mais graves, um monitoramento multidisciplinar, incluindo pediatria, neurologia, oftalmologia, endocrinologia, genética,nutrição e fonoaudiologia, minimiza os efeitos da doença.
+A não-ingestão de galactose e lactose diminui bastante os sintomas, porém podem ocorrer alguns problemas como deficiência de aprendizagem, distúrbios da fala e, nas meninas, disfunções ovarianas. O grau em que os sintomas se manifestam em um paciente submetido a dieta gera discordâncias e pesquisas, não havendo conclusões precisas e não pássiveis de contestação a esse respeito. Apesar da galactose ser utilizada na composição de várias estruturas celulares, a sua supressão da alimentação não causará maiores problemas pois, há um mecanismo metabólico para conversão da glicose em galactose.
+
+
+== Referências ==

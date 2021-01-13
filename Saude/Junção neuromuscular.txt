@@ -1,0 +1,16 @@
+Uma junção neuromuscular (ou junção mioneural) é a junção entre a parte terminal de um axónio motor com uma placa motora (ou sinapse neuromuscular), que é a região da membrana plasmática de uma fibra muscular (o sarcolema) onde se dá o encontro entre o nervo e o músculo permitindo desencadear a contração muscular.
+Na junção neuromuscular o neurotransmissor utilizado é a acetilcolina. A fibra nervosa ramifica-se no final, para formar a placa terminal. que se invagina para dentro da fibra muscular, mas repousa inteiramente na parte externa da membrana. 
+Músculos requerem inervação para funcionarem - até mesmo para apenas manter o tônus muscular, evitando a atrofia. A transmissão sináptica na junção neuromuscular se inicia quando um potencial de ação atinge o terminal pré-sináptico de um neurônio motor, que ativa canais de cálcio dependente de voltagem, permitindo a entrada de íons de cálcio no interior do neurônio. Íons de cálcio ligam-se à proteínas sensitivas (sinaptotagminas) em vesículas sinápticas, armando vesículas de fusão na membrana celular e subsequente liberação de neurotransmissores do neurônio motor na fenda sináptica. Em vertebrados, o neurônio motor libera acetilcolina (ACh), uma pequena molécula que se difunde através da fenda sináptica e se liga a receptores nicotínicos de acetilcolina (nAChRs) na membrana plasmática da fibra muscular, conhecida como sarcolema. Os nAChRs são receptores ionotrópicos, o que significa que atuam como canais iônicos ativados por ligantes (ligand-gated ion channels, em inglês). A ligação de ACh ao receptor pode despolarizar a fibra muscular, causando uma cascata de eventos que eventualmente resulta em contração muscular. 
+
+A placa motora é o local em que um estímulo elétrico tem de ser transformado em movimento, através de alguns mediadores químicos, o principal dos quais a acetilcolina, permitem essa transformação.
+As sinapses, incluindo as placas motoras e o sistema nervoso autônomo são colinérgicos, isto é, liberam acetilcolina.
+
+
+== Mecanismo de ação ==
+A junção neuromuscular é onde o neurônio ativa a contração de um músculo. Quando um potencial de ação chega ao terminal pré-sináptico de um neurônio, canais de cálcio dependentes de voltagem abrem e íons Ca2+ fluem do fluído intersticial ao citosol do neurônio pré-sináptico. Esse influxo de Ca2+ causa as vesículas cheias de neurotransmissores a se ligar à membrana celular do neurônio com o auxílio das proteínas SNARE. Essa fusão resulta no esvaziamento das vesículas que contém acetilcolina na fenda sináptica, por exocitose. A acetilcolina se difunde na fenda e se liga aos receptores nicotínicos de acetilcolina na placa motora. 
+
+
+== Ver também ==
+Bloqueador neuromuscular
+Neurônio motor
+Miastenia gravis

@@ -1,0 +1,32 @@
+Em biologia molecular, os receptores nucleares são uma classe de proteínas encontradas no interior das células e que são responsáveis por sentir a presença de hormonas e outras moléculas.[carece de fontes?]Os receptores nucleares têm a capacidade de se ligarem directamente ao ADN e regular a expressão de genes adjacentes. Como tal, estes receptores são classificados como factores de transcrição A regulação da expressão genética pelos receptores nucleares só acontece quando um ligando, uma molécula que afecta o comportamento do receptor, está presente. Mais especificamente, a ligação do ligando a um receptor nuclear resulta numa mudança conformacional no receptor, activando-o, resultando na regulação (positiva) da expressão genética.
+A propriedade única dos receptores nucleares, que os diferencia de outras classes de receptores, é a habilidade de directamente interagir e controlar a expressão do ADN. Consequentemente, os receptores nucleares assumem um papel no desenvolvimento e na homeostase do organismo. OS receptores nucleares podem ser classificados de acordo com o seu mecanismo de acção ou através de homologias.
+
+
+== Distribuição de espécies ==
+Os receptores nucleares são específicos de metazoários (animais) e não são encontrados em protistas, algas, fungos, ou plantas. Entre o início de ramificação de linhagens de animais com genomas sequenciados, dois foram relatados a partir da esponja Amphimedon queenslandica, dois do ctenóforo Mnemiopsis leidyi  quatro dos placozoa Trichoplax adhaerens e 17 dos cnidários Nematostella vectensis. Há 270 receptores nucleares dos nematóides C. elegans sozinho. Os seres humanos, camundongos e ratos têm, respectivamente, 48, 49, 47 e receptores nucleares cada um.
+
+
+== Ligantes ==
+
+Os ligantes que se ligam e ativam os receptores nucleares incluem substâncias lipofílicas, tais como os hormônios endógenos, vitaminas A e D, e xenobióticos desreguladores endócrinos. Como a expressão de um grande número de genes é regulada pelos receptores nucleares, os ligantes que ativam estes receptores podem ter efeitos profundos sobre o organismo. Muitos destes genes regulados estão associados a várias doenças, o que explica por que os alvos moleculares de aproximadamente 13% dos medicamentos aprovados pela EUA Food and Drug Administration (FDA) são receptores nucleares.Ha uma série de receptores nucleares, referidos como receptores órfãos,  que não se têm conhecimento (ou, pelo menos, geralmente acordado) de ligantes endógenos. Alguns destes receptores, como FXR, LXR, e PPAR ligam-se a um certo número de intermediários metabólicos, tais como ácidos graxos, ácidos biliares e / ou esteróides, com uma afinidade relativamente baixa. Estes receptores, portanto, podem funcionar como sensores metabólicos. Outros receptores nucleares, tais como o CAR e PXR parecem funcionar como sensores de xenobióticos aumentando a regulação da expressão de enzimas do citocromo P450 que metabolizam os xenobióticos.
+
+
+== Estrutura ==
+Os receptores nucleares são modulados em estruturas e contem os seguintes domínios: A-B) Domínio regulador N-terminal: contém a função de activação 1 (AF-1), cuja acção é independente da presença de ligantess. A activação da transcrição do AF-1 é normalmente muito fraca, mas não sinergiza com FA-2 no domínio-E (ver abaixo) para produzir uma regulação mais robusta da expressão do gene. O domínio A-B é altamente variável em sequência entre os vários receptores nucleares.
+C) Domínio de ligação do DNA (DBD): domínio altamente conservado, contendo dois dedos de zinco, que se liga a sequências específicas de DNA denominadas elementos de resposta hormonal (HRE).
+D) Região da dobradiça: Pensado para ser um domínio flexível, que conecta o DBD com a LBD. Influencia tráfico intracelular e distribuição subcelular.
+E) Domínio de ligação do ligante (LBD): moderadamente conservado em sequência e tem estrutura altamente conservada entre os vários receptores nucleares. A estrutura do LBD é referida como uma dobra em sanduíche alfa helicoidal, no qual três hélices alfa anti paralelas (o "enchimento sandwich") são flanqueadas por duas hélices alfa, de um lado e três do outro (o "pão"). A cavidade de ligação do ligante está no interior do LBD e logo abaixo de três "enchimentos" anti paralelos alfa helicoidais em sanduiche. Juntamente com o DBD, o LBD contribui para a interface de dimerização do receptor e, além disso, liga-se e coativa proteínas correpressoras. O LBD contém também a função de activação 2 (AF-2), cuja acção é dependente da presença de ligante ligado.F) Domínio C terminal: Altamente variável em sequência entre os vários receptores nucleares.
+O N-terminal (A / B), de ligação ao DNA (C), e de ligação ao ligante (E) os domínios são independentemente bem dobrados e estruturalmente estáveis, enquanto a região de dobradiça (D) e o domínio C-terminal (F) opcional podem ser conformacionalmente flexíveis e desordenados.
+
+
+== Ver também ==
+Receptor
+Receptor intracelular
+Factor de transcrição
+
+
+== Referências ==
+
+
+== Ligações externas ==
+MeSH Nuclear+Receptors

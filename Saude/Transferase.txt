@@ -1,0 +1,22 @@
+Transferases (EC 2) são enzimas que transferem grupos funcionais entre doador e aceptor.
+Algumas catalisam a reação da conversão de cetoacetato em Acetil CoA.
+
+
+== Nomenclatura ==
+A determinação do nome das enzimas é normatizada por um comitê especializado, o Nomenclature Committee of the International Union of Biochemistry and Molecular Biology (NC-IUBMB).
+
+
+=== Classes de transferases ===
+EC2.1 - Enzimas que tranferem grupos de um carbono
+EC2.2 - Enzimas que tranferem grupos aldeído ou cetona
+EC2.3 - Aciltransferases
+EC2.4 - Glicosiltransferases
+EC2.5 - Enzimas que tranferem grupos alquil ou aril, a exceção de grupos metil
+EC2.6 - Enzimas que tranferem grupos nitrogenados
+EC2.7 - Enzimas que tranferem grupos que contenham fósforo
+EC2.8 - Enzimas que tranferem grupos que contenham enxofre
+EC2.9 - Enzimas que tranferem grupos que contenham selênio
+
+
+== Ligações externas ==
+«Enzimas do grupo EC.2» (em inglês)

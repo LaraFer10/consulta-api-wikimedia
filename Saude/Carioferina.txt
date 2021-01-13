@@ -1,0 +1,30 @@
+As carioferinas são um grupo de proteínas envolvidas no transporte de moléculas através dos poros nucleares localizados no envelope nuclear (a membrana que envolve o núcleo celular).
+As carioferinas, que podem actuar como importinas ou exportinas, fazem parte da superfamília importina-β, que comungam da mesma estrutura tridimensional.
+
+
+== Ciclo ==
+Por exemplo, 
+
+importina beta + adaptador + proteína carga (citoplasma)-->(carioplasma)
+importina beta + adaptador + RanGTP (carioplasma)-->(citoplasma)
+Ran-GTP --> RanGDP + P
+
+
+== Genes ==
+KPNA1
+KPNA2
+KPNA3
+KPNA4
+KPNA5
+KPNA6
+KPNB1
+
+
+== Imagens adicionais ==
+
+
+== Ligações externas ==
+MeSH Karyopherins
+Ilustrações em berkeley.edu
+Animações
+Ilustrações

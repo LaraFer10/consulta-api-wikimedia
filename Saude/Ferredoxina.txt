@@ -1,0 +1,47 @@
+Ferredoxinas (do Latim ferrum: ferro + redox, freqüentemente abreviadas como "fd") são proteínas ferro-enxofre que intermedeiam a transferência de elétrons num grande número de reações metabólicas. O termo "ferredoxina" foi cunhado por D.C. Wharton da DuPont Co. e atribuído à "proteína de ferro" purificada inicialmente em 1962 por Mortenson, Valentine e Carnahan a partir da bactéria anaeróbica Clostridium pasteurianum (Valentine, 1964). Outra proteína redox, isolada de cloroplastos do espinafre por Tagawa e Arnon em 1962, foi denominada "ferredoxina do cloroplasto." A ferredoxina do cloroplasto participa tanto da fotofosforilação cíclica como da acíclica na fotossíntese. Na fotofosforilação acíclica a ferredoxina é o último aceptor de elétrons e reduz a enzima NADP+ redutase. Ela recebe os elétrons produzidos pela clorofila ao ser excitada pela luz solar e os transfere para a enzima ferredoxina:NADP+ oxidoredutase. As ferredoxinas são pequenas proteínas contendo átomos de ferro e enxofre organizados comos agregados ferro-enxofre. Estes "capacitores" biológicos podem receber ou fornecer elétrons, havendo aí uma mudança no estado de oxidação (+2 or +3) dos átomos de ferro. Desta forma, as ferredoxinas atuam como agentes de tranferência de elétrons nas reações redox biológicas. Outros sistemas bioinorgânicos de transporte de elétrons incluem as rubredoxinas, os citocromos, as proteínas azuis de cobre e as proteínas de Rieske.
+As ferredoxinas podem ser classificadas de acordo com a natureza de seus agregados ferro-enxofre e pela similaridade de seqüências.
+
+
+== Ferredoxinas Fe2S2 ==
+
+
+=== Ferredoxinas do tipo vegetal ===
+Um grupo de ferredoxinas, originalmente encontrada em membranas de cloroplastos, foi designada como "tipo vegetal" ou "tipo cloroplasto". O centro ativo é um agregado[Fe2S2], onde os átomos de ferro estão tetraedricamente coordenados tanto com enxofre inorgânico quanto pos átomos de enxofre fornecidos por quatro unidades de cisteína (Cys).
+Nos cloroplastos, as ferredoxinas Fe2S2 atuam como carreadoras de elétrons na cadeia de transporte de elétrons fotossintética e como doadoras de elétrons de várias proteínas celulares, tais como a glutamato sintase, a nitrato redutase e a sulfito redutase. Nos sistemas de dioxigenase hidroxilante bacteriana, servem como carredores de elétrons intermediários entre as flavoproteínas redutase e oxigenase.
+
+
+=== Ferredoxinas do tipo adrenodoxina ===
+A adrenodoxina, a putidaredoxina e a terpredoxina são proteínas Fe2S2 solúveis que agem como carreadoras de elétrons simples. Nos sistemas de monooxigenase mitocondrial, a adrenodoxina transfere um elétron da NADPH:adrenodoxina reductase para o citocromo P450 ligado à membrana. Em bactérias, a putidaredoxina e a terpredoxina servem como carreadoras de elétrons entre as ferredoxina-redutases NADH-dependentes correspondentes e os P450s solúveis. As funções exatas das outras constituintes desta família não são conhecidas. Foi demonstrado porém, que a ferredoxina da Escherichia coli participa da biogênese de agregados Fe-S. Em que pese a pequena similaridade entre as seqüências das ferredoxinas do tipo planta e as do tipo adrenodoxina, as duas classes apresentam uma topologia de dobramento semelhante.
+
+
+=== Ferredoxinas do tipo tioredoxina ===
+As ferredoxinas Fe2S2 do Clostridium pasteurianum (Cp2FeFd) foram reconhecidas como participantes de uma família distinta de proteínas com base em sua seqüência de amino-ácidos, nas propriedades espectroscópicas de seu agregado ferro-enxofre e a singular habilidade de alternância entre seus dois ligantes cisteína ao agregado [Fe2S2]. Apesar de o papel fisilógico destas ferredoxinas não haver sido esclarecido, foi verificada uma interação forte e específica da Cp2FeFd com a proteína molibdênio-ferro da nitrogenase. As ferredoxinas homólogas do Azotobacter vinelandii (Av2FeFdI) e do Aquifex aeolicus (AaFd) foram caracterizadas. A estrutura cristalina da AaFd foi também determinada. AaFd existe como um dímero. A estrutura do monômero AaFd é diferente das outras ferredoxinas Fe2S2. A dobra pertence a uma classe +ß, com as quatro primeiras cadeias ße duas alfa-helices adotando uma variante da dobra característica da tioredoxina.
+
+
+== Ferredoxinas Fe4S4 and Fe3S4 ==
+As ferredoxinas [Fe4S4] podem ser ainda subdivididas em ferredoxinas de baixo potencial (tipo bacteriano) e alto potencial (HiPIP).
+As ferredoxinas de alto e baixo potencial estão interrelacionadas através do seguinte esquema redox:
+
+Os números de oxidação formais do ferro podem ser [2Fe3+, 2Fe2+] ou [1Fe3+, 3Fe2+] nas ferredoxinas de baixo potencial. Os números de oxidação formais do ferro nas ferredoxinas de alto potencial podem ser [3Fe3+, 1Fe2+] ou [2Fe3+, 2Fe2+].
+
+
+=== Ferredoxinas do tipo bacteriano ===
+Um grupo de ferredoxinas Fe4S4, originalmente encontradas em bactérias foi designada como de "tipo bacteriano". Ab ferredoxinas de tipo bacteriano podem ser sub divididas de acordo com as propriedades de suas seqüências formadoras. A maioria comtém ao menos um domínio conservado, incluindo as quatro cisteínas que se ligam ao agregado [Fe4S4]. Na ferredoxina Fe4S4 do Pyrococcus furiosus, uma das cisteínas é substituída por ácido aspártico.
+Durante a evolução das ferredoxinas do tipo bacteriano ocorreram eventos de duplicação de genes intraseqüenciais, transposição e fusão, resultando no aparecimento de proteínas com múltiplos centros ferro-enxofre. Em algumas ferredoxinas bacterianas um dos domínios duplicados perdeu uma ou mais das unidades de cisteínas. Estes domínios perderam sua capacidade de ligar-se aos grupamentos ferro-enxofre, ou passaram a ligar-se a [Fe3S4] no lugar de [Fe4S4].
+São conhecidas as estruturas tridimensionais de muitas ferredoxinas do tipo bacteriano monoagregado ou diagregado. A dobra pertence à classee a+ß, com 2-7 a-hélices e quatro cadeias ß formando uma estrutura em forma de barril, e um enovelamento externo contendo três ligantes "Cys" ao agregado ferro-enxofre.
+
+
+=== Proteínas ferro-enxofre de alto potencial ===
+As proteínas ferro-enxofre de alto potencial (HiPIPs) formam uma família singular das ferredoxinas Fe4S4 que atuam nas cadeias anaeróbicas de transporte de elétrons. Algumas HiPIPs têm um potencial redox superior a todas as demais proteínas ferro-enxofre conhecidas (por exemplo, a HiPIP de Rhodopila globiformis tem um potencial redox de aproximadamente 450 mV). Várias HiPIPs já foram caracterizadas estruturalmente, e seus dobramentos são da classe a+ßs. Tal como em outras ferredoxinas bacterianas, o agregado [Fe4S4] adota uma conformação do tipo cubano e é ligado à proteína por intermédio de quatro unidades "Cys"
+
+
+== Referências ==
+Bruschi, M. and Guerlesquin, F. (1988). «Structure, function and evolution of bacterial ferredoxins». FEMS Microbiol. Rev. 4: 155–175. PMID 3078742  !CS1 manut: Nomes múltiplos: lista de autores (link)
+Ciurli, S. and Musiani, F. (2005). «High potential iron-sulfur proteins and their role as soluble electron carriers in bacterial photosynthesis: tale of a discovery». Photosynth. Res. 85: 115–131. PMID 15977063  !CS1 manut: Nomes múltiplos: lista de autores (link)
+Fukuyama, K. (2004). «Structure and function of plant-type ferredoxins». Photosynth. Res. 81: 289–301. PMID 16034533 
+Grinberg, A.V., Hannemann, F., Schiffler, B., Müller, J., Heinemann, U. and Bernhardt, R. (2000). «Adrenodoxin: structure, stability, and electron transfer properties». Proteins. 40: 590–612. PMID 10899784  !CS1 manut: Nomes múltiplos: lista de autores (link)
+Holden,H.M., Jacobson, B.L., Hurley, J.K., Tollin, G., Oh, B.H., Skjeldal, L., Chae, Y.K., Cheng, H., Xia, B. and Markley, J.L. (1994). «Structure-function studies of [2Fe-2S] ferredoxins». J. Bioenerg. Biomembr. 26: 67–88. PMID 8027024  !CS1 manut: Nomes múltiplos: lista de autores (link)
+Meyer, J. (2001). «Ferredoxins of the third kind». FEBS Lett. 509: 1–5. PMID 11734195 
+Mortenson, L.E., Valentine, R.C. and Carnahan, J.E. (1962). «An electron transport factor from Clostridium pasteurianum». Biochem. Biophys. Res. Commun. 7: 448–452. PMID 14476372  !CS1 manut: Nomes múltiplos: lista de autores (link)
+Tagawa, K. and Arnon, D.I. (1962). «Ferredoxins as electron carriers in photosynthesis and in the biological production and consumption of hydrogen gas». Nature. 195: 537–543. PMID 14039612  !CS1 manut: Nomes múltiplos: lista de autores (link)
+Valentine, R.C. (1964). «Bacterial ferredoxin». Bacteriol Rev. 28: 497–517. PMID 14244728

@@ -1,0 +1,92 @@
+Xilema é o tecido vivo em plantas vasculares cuja função básica é transportar água com nutrientes (a chamada seiva bruta) das raízes para os caules e folhas.A palavra "xilema" é derivada da palavra grega ξύλον (xylon), que significa "madeira"; o tecido de xilema mais conhecido é a madeira, embora seja encontrado em toda a planta. O termo foi introduzido por Carl Nägeli em 1858.O xilema é um dos dois tipos de tecido de transporte nas plantas vasculares, sendo o outro o floema (que transporta a seiva elaborada). O transporte xilémico é o mais rápido nas plantas podendo atingir, em dias de verão, em media 60 cm/min
+
+
+== Células do xilema ==
+O xilema possui quatro tipos celulares:
+
+
+=== Traqueídeos ===
+As células do xilema, chamadas traqueídeos, são células cilíndricas, alongadas e com numerosos poros, tanto nas paredes laterais, como nas apicais. A parede celular dos traqueídos encontra-se reforçada com lenhina, um composto químico produzido apenas pelas plantas, que as torna impermeáveis. Quando se encontram totalmente formadas, estas células perdem todo o citoplasma (tornam-se células mortas) e funcionam como vasos condutores da seiva, não só na direção vertical, mas também para os tecidos circundantes. São mais comuns em plantas pteridófitas e gimnospermas.
+
+
+=== Elementos de vaso ===
+
+Tal como os traqueídeos, também são células mortas lignificadas, aparecendo nas angiospermas.
+As células dispõem-se topo a topo, e as paredes celulares transversais desaparecem, formando-se vasos xilémicos.
+Também nos elementos vaso existem poros (pontoações areoladas), que correspondem a zonas de permeabilidade, em que pode ocorrer passagem lateral da seiva bruta, evitando-se assim o colapso destes.
+
+
+=== Fibras lenhosas ===
+São células mortas e alongadas, bastante lignificadas, e cuja função principal é a de suporte dos feixes xilémicos.
+
+
+=== Parênquima lenhoso ===
+As células do parênquima lenhoso são as únicas células vivas do tecido xilémico, e exercem funções de reserva.
+
+
+== Mecanismos envolvidos no movimento xilémico ==
+Existem várias propostas para explicar a ascensão da seiva bruta no xilema.
+
+
+=== Hipótese da Pressão Radicular (Pressão de Raiz) ===
+Esta hipótese postula que existe uma pressão formada na raiz (pressão radicular) que impele a seiva bruta para cima.
+A acumulação de iões nas células radiculares (por transporte activo), faz com que a concentração de solutos aumente pelo que a água entra na raiz por osmose.
+A acumulação de água na raiz provoca então uma pressão radicular(pressão positiva da raiz) que força a água a subir.
+
+
+==== Dois fenómenos apoiam esta teoria/ Evidências ====
+Exsudação : subida contínua da água, mesmo cortando ou podando as suas extremidades.
+Gutação: liberação de água sob a forma de gotículas pelas folhas através de hidátodos ou estomas aquíferos. Este fenómeno ocorre geralmente de manhã, já que a maior absorção de água ocorre durante a noite.
+
+
+==== Limitações do modelo ====
+Subida lenta.
+Não atinge alturas muito elevadas
+As coníferas e outras plantas não apresentam pressão radicular, pelo que este modelo não tem validade no geral.
+
+
+=== Hipótese da Tensão-Coesão-Adesão  -  Teoria de Dixon (1895) ===
+Estudos realizados por Dixon indicam que existe uma relação direta entre a transpiração e a ascensão da água no xilema, sendo a transpiração o motor essencial da ascensão da seiva bruta.
+Mais de 90% da água absorvida do solo é perdida por transpiração essencialmente foliar, sendo a grande parte da transpiração realizada de dia.
+Assim, durante o dia, devido às elevadas taxas de transpiração, cria-se um défice de água no mesofilo foliar (parênquima clorofilino).
+Durante a noite, a transpiração é mínima, e a absorção radicular de água é máxima.
+Assim, segundo esta hipótese:
+
+Durante o dia o défice de água no mesófilo faz com que o meio fique hipertónico em relação ao xilema. O potencial de soluto elevado cria forças de tensão (diferença de potencial - pressão negativa).
+As moléculas de água tendem a agregar-se devido às ligações de hidrogênio, mantendo-se unidas numa coluna contínua, pode dizer-se que as ligações de hidrogênio exercem uma força de coesão.
+Além das forças de coesão, as moléculas de água possuem grande capacidade de adesão a outras substâncias, aderindo às paredes xilémicas.
+A tensão no mesofilo faz com que entre água por osmose. Devido às propriedades de adesão e coesão da água, a água movimenta-se numa corrente contínua (como um comboio, em que cada molécula é uma carruagem unida a outras). Assim, a entrada de água no mesofilo faz mover toda a coluna hídrica sendo que, quanto maior a taxa de transpiração foliar, maior é a velocidade de ascensão xilêmica.
+A ascensão da coluna hídrica diminui o potencial hídrico no xilema radicular, aumentando assim a entrada de água no xilema por osmose e aumentando também a taxa de absorção radicular de água (devido à baixa no potencial hídrico do parênquima radicular).Assim, devido a estas três forças básicas, é estabelecida uma corrente contínua de água no xilema, entre as raízes e as folhas denominada Corrente de Transpiração.
+Este fenômeno permite a ascensão de seiva bruta até cerca de 150 m, valor superior às árvores mais altas conhecidas, pelo que este modelo é atualmente aceite como verdadeiro para a grande maioria das plantas vasculares.
+É de notar que este sistema, embora eficaz, possui algumas “falhas”:
+
+A corrente de transpiração estabelecida tem que ser obrigatoriamente contínua.
+Se a continuidade da coluna for comprometida, o fluxo ascendente pára imediatamente.A continuidade da coluna hídrica é quebrada quando ocorre cavitação (formação de bolhas gasosas na coluna de água), e pode ocorrer devido a movimentos bruscos da planta (em dias de vento, por exemplo) ou devido ao congelamento da água xilêmica (em zonas muito frias), que obriga à expulsão dos gases dissolvidos na seiva que formam bolhas de ar.
+Caso a continuidade não seja restabelecida, o vaso xilêmico deixa de ser funcional.
+Algumas plantas, em algumas situações, são capazes de restabelecer o fluxo xilêmico, restaurando a continuidade da coluna hídrica, embora os mecanismos aqui envolvidos ainda não estejam compreendidos (em algumas plantas a pressão radicular pode ajudar).
+
+
+=== Controle da transpiração ===
+A grande parte da transpiração é realizada a nível das plantas. Na epiderme foliar (geralmente na página inferior – exceto gramíneas em que são simétricos) existem diversas estruturas denominadas estomas, que apesar de ocuparem somente 1 a 2% da superfície foliar, controlam a quantidade de água perdida por transpiração, devido à sua capacidade de abrir e fechar.
+
+
+== Formação de xilema ==
+O xilema primário é produzido pelo procâmbio, ao mesmo tempo que o caule ou ramo se alonga. Nas plantas perenes, para além do xilema primário, o câmbio vascular produz para o lado interior do caule o xilema secundário, formado alternadamente por células de paredes finas, quando as condições ambientais de temperatura e umidade são favoráveis, e células mais espessas. A deposição dessas camadas dá lugar aos anéis de crescimento que se observam num corte transversal de um tronco.
+Este xilema secundário só é produzido pelas plantas lenhosas; as monocotiledóneas, mesmo quando são perenes, não apresentam crescimento secundário.
+
+
+== Referências ==
+
+
+== Bibliografia ==
+Campbell, Neil A. e Jane B. Reece (sem data) Biology, 6ª ed., Benjamin Cummings.
+Salisbury, Frank; Ross, Cleon (1992). Plant Physiology Fourth ed. Belmont: Wasworth, Inc. pp. 103–115. ISBN 0-534-15162-0  !CS1 manut: Nomes múltiplos: lista de autores (link)
+Meyer, B.;  et al. (1973). Introdução à Fisiologia Vegetal 2ª ed. Lisboa: Fundação Calouste Gulbenkian. pp. 153–176  !CS1 manut: Uso explícito de et al. (link)
+
+
+== Ligações externas ==
+Biomania - tecidos vegetais
+Univ.California, Berkeley - morfologia das plantas vasculares
+Xilema - considerações gerais
+Xilema em inglês
+Relações hídricas nas plantas

@@ -1,0 +1,191 @@
+O Processamento tubular no néfron é uma das funções mais importantes desenvolvidas pelos rins. De maneira geral, refere-se aos mecanismos responsáveis pela reabsorção e secreção tubular. 
+
+
+== Túbulo Proximal ==
+O Túbulo Proximal (TP) é o responsável pela maior parte da recuperação de solutos e água do néfron. É constituído por um epitélio "leaky", ou seja, tem alta capacidade de transporte (em especial de água), mas não consegue sustentar grande diferença de concentração para a mesma substância; considera-se a absorção como isosmótica. A membrana apical de TP possui extensa borda em escova, e uma característica ultraestrutural proeminente é a grande presença de mitocôndrias. O TCP pode ser dividido em três porções: S1 (os 20 a 25% mais próximos do glomérulo), S2 e S3, com progressiva diminuição da complexidade celular. Outra possível divisão de TP é a em Túbulo Contorcido Proximal e Túbulo Reto Proximal, sendo que a divisão seria na metade de S2. Contudo, é comum a utilização de Túbulo Contorcido Proximal no lugar de Túbulo Proximal, não havendo consenso na nomenclatura. 
+
+
+=== S1 ===
+
+
+==== Principais transportadores de solutos apicais ====
+NHE3 - Na+ / H+ exchanger 3, um trocador Na+ (para dentro da célula) / H+ (para fora da célula). Esse H+ transportado para a luz se liga a HCO3−, formando H2CO3 (reação catalizada pela anidrase carbônica IV, presente na membrana apical), um ácido volátil que rapidamente se torna H2O e CO2. Esse CO2 atravessa a membrana apical via difusão passiva. Dali, pode passar diretamente para o interstício por difusão simples na membrana basolateral ou se ligar à H2O, formando outro H2CO3, que pela anidrase carbônica II presente no citosol é convertido a H+ e HCO3−.
+SGLT2 - Na+/Glucose linked transporter 2, um cotransportador Na+ / glicose0 de alto Tm (i.e. alta capacidade de transporte) e alto Km (i.e. baixa afinidade)
+SLC1A1 - cotransportador 2 Na+ / H+ / aminoácido−
+SLC7A9 SLC3A1 - heterodímero trocador aminoácido+ ou cisteína0 (influxo) / aminoácido0 (efluxo)
+SLC6A15 - cotransportador Na+ / aminoácido0 (exceto prolina)
+SLC6A18 - cotransportador Na+ / glicina0
+SLC6A19 - cotransportador Na+ / aminoácido0 (exceto prolina) - considerado o mais importante dos transportes apicais de aminoácidos.
+SLC6A20 - cotransportador 2 Na+ / Cl− / prolina ou iminoácido
+SLC36A1 - cotransportador prolina ou alanina ou glicina ou iminoácido / H+
+SLC36A2 - cotransportador prolina ou alanina ou glicina ou iminoácido / H+
+SLC5A8 - cotransportador Na+ / monocarboxilato−
+SLC5A12 - cotransportador Na+ / monocarboxilato−
+SLC13A2 - cotransportador 3 Na+ / dicarboxilato2− ou tricarboxilato3−
+URAT1 - trocador urato− (influxo) / monocarboxilato− (efluxo)
+OAT4 - trocador urato− (influxo) / dicarboxilato2− (efluxo)
+Canais de potássio (não participam da reabsorção, inclusive secretam minimamente potássio para o lúmen)  
+
+
+==== Principais transportadores de solutos basolaterais ====
+Na+/ K+ ATPase - trocador 3 Na+ / 2 K+
+ROMK - um canal de potássio sensível à ATPintracelular, que se ativa quando esta última cai (como ocorre em situações de alta entrada apical de sódio, que causa a maior atividade Na+ / K+ ATPase. Portanto, o aumento da atividade de ROMK promove menor flutuação da [K+]intracelular, mesmo quando a Na+ / K+ ATPase está jogando muito K+ para dentro da célula).
+GLUT2 - canal de glicose
+NBCe1-A - cotransportador 3 Na+ / HCO3− 
+SLC7A7 - trocador aminoácidos+ (efluxo) / aminoácidos0 e Na+ (influxo)
+SLC3A2 - trocador aminoácidos+ (efluxo) / aminoácidos0 e Na+ (influxo)
+SLC7A8 - trocador aminoácidos0 / aminoácidos0
+SLC3A2 - trocador aminoácidos0 / aminoácidos0
+SLC16A10 - efluxo por difusão facilitada de aminoácidos aromáticos (fenilalanina, triptofano e tirosina).
+SLC38A3 - glicina ou asparagina ou histidina (influxo) / Na+ (influxo) / H+ (efluxo)
+SLC1A4 - trocador alanina ou serina ou cisteína ou treonina / aminoácidos0
+
+
+==== Transporte de água ====
+A água em S1 atravessa o epitélio por via transcelular e paracelular movida pela diferença de osmolaridade (288 mOsm luminal, 290 mOsm interstício). Na via transcelular, destaca-se a Aquaporina 1 (tanto apical quanto basolateral). A via paracelular é quantitativamente menos; a explicação disso é simplesmente pela área de superfície transcelular maior, e não por diferenças permeabilidade à água entre as duas vias.
+
+
+==== Transporte paracelular ====
+Como já citado, há transporte paracelular de água em S1. Além dele, há reabsorção paracelular de Cl−, sendo que a força movente para tanto é gerada pelo transporte eletrogênico supracitado. Também deve ser mencionado o fato de que até um terço do sódio reabsorvido por via transcelular em S1 sofre "vazamento" paracelular, ou seja, passa de volta ao lúmen por via paracelular, devido à voltagem transepitelial negativa. Ainda, sempre se deve considerar o "solvent drag" (arraste por solvente; transporte passivo de solutos arrastados passivamente pela movimentação do solvente, no caso a água). 
+
+
+==== Voltagem transepitelial ====
+Inicialmente, a voltagem transepitelial é de -3 mV. Ela é negativa porque há transporte eletrogênico, principalmente por Na+ acoplado à solutos neutros na membrana apical (glicose, aminoácidos) e pela Na+ / K+ ATPase na membrana basolateral. É, em módulo, pequena pois a via paracelular possui alta permeabilidade à Cl−.
+
+
+==== Diuréticos com ação em S1 ====
+Acetazolamida - inibe a anidrase carbônica IV.
+
+
+=== S2/S3 ===
+
+
+== Alça de Henle ==
+A alça de Henle é a porção do néfron responsável pela hipertonicidade medular, que em última análise é a responsável pela concentração e diluição da urina.
+
+
+=== Segmento Fino Descendente da Alça de Henle ===
+
+
+=== Segmento Fino Ascendente da Alça de Henle ===
+
+
+=== Segmento Espesso Ascendente da Alça de Henle ===
+
+
+== Túbulo Contorcido Distal ==
+
+
+== Túbulo Coletor ==
+
+
+== Ducto Coletor ==
+
+
+== Processamento Tubular de Sódio ==
+
+
+== Processamento Tubular de Cloreto ==
+
+
+== Processamento Tubular de Potássio ==
+Os rins filtram 810 mmoles/dia de Potássio (K+) e excretam apenas 90 mmoles/dia. Isso não significa que os rins reabsorvem 720 mmoles/dia. Significa que o resultado final do processamento tubular é a recuperação de 720 mmoles/dia, sendo que são reabsorvidos 770 mmoles e secretados 50 mmoles. 
+A regulação fina das concentrações de K+ é importante pois, por ser o íon mais permeável nas membranas celulares, é em grande parte responsável por seu potencial. Excesso ou déficit de K+ perturba a excitabilidade das células do organismo, sendo que as mais relevantes afetadas são os neurônios e as células musculares (como as do coração). Além disso, os níveis de potássio estão intimamente ligados com distúrbios ácido-base. A hipocalemia (causada por exemplo por doença diarreica crônica, hiperaldosteronemismo, síndromes renais específicas, uso crônico de diuréticos espoliadores de potássio) pode levar a acidose metabólica, fraqueza e parestesia, paralisia intestinal, arritmias etc. A hipercalemia (causada por exemplo por insuficiência renal severa, deficiência de aldosterona, insensitividade à aldosterona, morte celular severa, como hemólise ou lise tumoral) pode levar a paralisia muscular, vômitos e arritmias .
+
+
+=== Túbulo Proximal ===
+67% de todo o K+ filtrado é reabsorvido no Túbulo Proximal, sendo que toda essa reabsorção se dá de forma passiva por via paracelular.
+
+
+==== S1 ====
+A voltagem transepitelial de S1 é negativa (−3 mV), de modo que não há potencial elétrico para o transporte de K+ nesse segmento - na verdade, há potencial para uma pequena secreção, que experimentalmente é notada, mas não se sabe seu grau de importância. Portanto, a reabsorção de K+ se dá exclusivamente pelo "solvent drag" paracelular. Tanto em S1 como em S2/S3, há canais de K+ basolateral ou cotransportadores K+ / Cl−, que extravasam o K+ que entra pela Na+ / K+ ATPase. 
+
+
+==== S2/S3 ====
+A voltagem transepitelial em S2/S3 é positiva (+3 mV), de modo que há potencial elétrico para o transporte de cátions paracelular. O K+ é um dos cátions que atravessam as junções tight do epitélio nessa região pela força movente em direção ao interstício. Ainda, há a presença de "solvent drag" nessa região. Tanto em S1 como em S2/S3, há canais de K+ basolateral ou cotransportadores K+ / Cl−, que extravasam o K+ que entra pela Na+ / K+ ATPase.  
+
+
+=== Alça de Henle ===
+A absorção  de K+ na alça de Henle se dá no segmento espesso ascendente, em que há o transportador NKCC2 (cotransportador Na+ / K+ / 2 Cl−). Parte do K+ que entra na célula por este transportador recircula por canais tipo ROMK para realimentar o transportador, e parte sai pela membrana basolateral por canais de K+ ou cotransportadores K+ / Cl−. A proporção que recircula e que é reabsorvido é de aproximadamente 50%/50%. A via paracelular também é relevante, sendo cátion-seletiva movida pela voltagem transepitelial positiva (de +8 a +15 mV). Lembrando que a região é impermeável à água, não havendo "solvent drag".
+Como a furosemida inibe NKCC2 e zera a voltagem transepitelial no segmento espesso ascendente, ela acaba por inibir as vias transcelular e paracelular de reabsorção de K+ nesse segmento.
+
+
+=== Túbulo Convoluto Distal ===
+Nessa porção, começa a secreção de K+. 
+
+
+==== TCD1 ====
+Há pouca ou nenhuma secreção de K+ nessa porção, já que a voltagem transepitelial é próxima de 0. Mesmo assim, já há a expressão apical de canais tipo ROMK e cotransportadores de K+ / Cl− (voltados para fora para da célula). Para recircular o K+ que entra pela Na+ / K+ ATPase, há canais de K+ basolaterais.
+A presença dos cotransportadores de K+ / Cl− (voltados para fora para da célula) explica o motivo pelo qual baixo Cl− luminal causa aumento da secreção de potássio. Condições de aumento luminal de outro íon negativo, como sulfato, fosfato ou bicarbonato, são exemplos de situações que diminuem Cl− luminal. 
+
+
+==== TCD2 ====
+Ao longo de TCD2, a expressão de NCC declina e de ENaC sobe, sendo esta a primeira porção do Néfron Distal Sensitivo a Aldosterona (algo atestado pela presença de receptor de mineralocorticoide e pela enzima 11β-hidroxiesteroide desidrogenase II, que catalisa a conversão de cortisol à cortisona, muito menos ativa, permitindo que a ação do cortisol sobre o receptor de mineralocorticoide seja reduzida). Há expressão apical de canais de potássio (ROMK1 e BK) e cotransportadores de K+ / Cl− (voltados para fora para da célula), e canais de K+ basolaterais. 
+
+
+=== Ducto Coletor ===
+Porção do néfron também responsiva a aldosterona.
+
+
+==== Células principais ====
+O ENaC é o transportador apical mais importante dessa célula. Há expressão apical de canais de potássio (ROMK1 e BK) e cotransportadores de K+ / Cl− (voltados para fora para da célula), e canais de K+ basolaterais.
+
+
+==== Células Alfa ====
+Presença de trocador H+ (efluxo) / K+ (influxo) ATPase apical, além de canal de potássio basolateral para vazamento. H+ / K+ ATPase tem implicação na relação Potássio/Distúrbios ácido-base, sendo que hipocalemia estimula e hipercalemia inibe esse transportador.
+Além de alterações na função do trocador H+ / K+ tubular, distúrbios ácido-base influenciam [K+]plasmático ao alterar células de todo o organismo. A redução do pH plasmático inibe trocadores sódio/hidrogênio e cotransportadores sódio/bicarbonato, de modo que caem o pH intracelular e a [Na+]intracelular. H+ intracelular tende a se ligar a proteínas citoplasmáticas, deslocando K+ que estavam nesses sítios. Ainda, a queda de pH intracelular inibe transportadores que captam K+, como a Na+ / K+ ATPase e a Na+ / K+ / 2Cl−, e a queda de [Na+]intracelular inibe a  Na+ / K+ ATPase.
+
+
+=== Regulação da secreção de potássio ===
+4 fatores principais aumentam a secreção de potássio:
+
+Aumento de Fluxo Tubular: Os canais BK, mencionados anteriormente, estão presentes em quase todos os segmentos do néfron, mas se destacam no néfron distal e no ducto coletor cortical, pois foram identificados como um dos mediadores da secreção de K+ induzida pelo aumento do fluxo tubular. Funciona da seguinte maneira: o aumento do fluxo tubular muda a conformação da borda em escova, flexionando os cílios centrais das microvilosidades; já se observou que o dobramento desses cílios induz aumento da [Ca2+]intracelular de forma transitória; os canais BK são sensíveis à [Ca2+]intracelular, sendo que entram em estados mais ativos quando ela aumenta. O aumento do aporte de Na+ e a lavagem luminal de K+ são outros mecanismos que induzem a secreção de potássio com o aumento de fluxo.
+Aumento de Na+ luminal: o aporte de Na+ luminal aumentado leva a maior incorporação de cargas positivas pelo ENaC, de modo que há estímulo eletrogênico para K+ "vazar" pela membrana apical pelos canais de potássio ali presentes.
+Queda de Cl−: A presença dos cotransportadores de K+/Cl− (voltados para fora para da célula) explica o motivo pelo qual baixo Cl− luminal causa aumento da secreção de potássio. Condições de aumento luminal de outro íon negativo, como sulfato, fosfato ou bicarbonato, são exemplos de situações que diminuem Cl− luminal (mais detalhes na seção "Ação da Acetazolamida sobre o potássio").
+Aldosterona:
+
+
+=== Ação da Acetazolamida sobre o potássio ===
+
+
+== Processamento Tubular de Cálcio ==
+
+
+== Processamento Tubular de Magnésio ==
+O néfron reabsorve ~95% do Mg2+ filtrado. A reabsorção é regulada no Túbulo Convoluto Distal 2, sendo que o Paratormônio a aumenta.
+
+
+=== S2/S3 ===
+15% do filtrado é reabsorvido aqui. Reabsorção paracelular via "solvent drag"  e eletrodifusão. Sua concentração luminal, mesmo assim, aumenta, devido à maior absorção de água proporcionalmente.
+
+
+=== Segmento Espesso Ascendente ===
+70% do filtrado é reabsorvido aqui. Via paracelular por eletrodifusão, especialmente atráves de claudinas 16 e 19.
+
+
+=== Túbulo Convoluto Distal 2 ===
+10% do filtrado é reabsorvido aqui. Via transcelular: canal TRPM6 apical, trocador SLC41A1 basolateral Mg2+ / Na+. Se a reabsorção de sódio nesse segmento aumenta, a reabsorção de magnésio diminui.
+
+
+== Processamento Tubular de Fosfato ==
+
+
+== Processamento Tubular de Glicose ==
+O controle do balanço de glicose não é realizado pelos rins, mas é uma função metabólica. Contudo, ela é livremente filtrada e não deve ser perdida na urina; portanto, devem haver mecanismos de reabsorção de glicose nos rins. Esses mecanismos podem ser saturados, e pessoas com hiperglicemia (i.e. Diabetes Mellitus) podem perder glicose na urina, que pode até a ajudar a diminuir os níveis de glicose sanguíneos.
+
+
+=== Túbulo Proximal ===
+O Túbulo Proximal é responsável por toda a reabsorção de glicose do néfron.
+
+
+==== S1 ====
+O segmento S1 do Túbulo Proximal  reabsorve glicose exclusivamente por via transcelular (a glicose não consegue atravessar as "tight junctions" ). Na membrana apical, a glicose é transportada para dentro da célula epitelial de maneira acoplada à um íon Na+ por meio do transportador SGLT2; essa glicose sai pela membrana basolateral através do canal de constitutivo GLUT2. Ambos os transportadores possuem alta capacidade de transporte (i.e. alto Tm), mas baixa afinidade por glicose (i.e. alto Km). Como a quantidade de glicose oriunda do glomérulo é grande, essa alta capacidade de transporte é de fato necessária, e a baixa afinidade por glicose acaba por não afetar o transporte.
+
+
+==== S2/S3 ====
+Nessas regiões, o transportador basolateral continua sendo GLUT2, mas o apical muda para SGLT1, um cotransportador 2 Na+ / Glicose de baixa capacidade de transporte (i.e. baixo Tm), mas alta afinidade (i.e. baixo Km). Como a maior parte da glicose já foi absorvida em S1, a característica da afinidade alta é relevante, e a baixa capacidade de transporte não é deletéria. Observe que, nessa porção, são necessários 2 Na+ para que a glicose vença a força movente contrária à sua entrada na célula. 
+
+
+==== Transporte máximo de glicose ====
+Se a concentração plasmática de glicose for 90 mg/dL, apenas S1 já consegue reabsorver praticamente toda a glicose filtrada. Considerando o Túbulo Proximal como um todo, são necessárias concentrações de glicose acima de 180 mg/dL para que haja perda de glicose na urina. A glicose é um soluto osmótico, que se não for totalmente reabsorvido no Túbulo Proximal, causa diurese osmótica, com perda de vários outros solutos.
+(PÁGINA AINDA EM PROCESSO DE CRIAÇÃO)

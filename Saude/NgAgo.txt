@@ -1,0 +1,4 @@
+NgAgo é uma endonuclease de Argonauta guiada por DNA de cadeia simples (ssDNA), um acrônimo para Argonauta Natronobacterium gregoryi. O NgAgo liga o ssDNA fosforilado em 5 'de ~ 24 nucleotídeos (gDNA) para guiá-lo ao seu local alvo e fará quebras de fita dupla no DNA no local do gDNA. Como o sistema CRISPR/Cas, o NgAgo foi descrito como adequado para edição de genoma, mas isso não foi replicado. Ao contrário do Cas9, o sistema NgAgo – gDNA não requer um motivo adjacente protospacer (PAM).
+
+
+== Referências ==

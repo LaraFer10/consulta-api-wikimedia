@@ -1,0 +1,56 @@
+Vírus (+)ssRNA (do inglês, positive-sense single-stranded RNA viruses) são vírus que possuem material genético constituído por RNA de cadeia simples e senso positivo. No Sistema de Classificação de Baltimore, tais vírus pertencem ao grupo IV, que compreende 29 famílias virais.
+
+
+== Características gerais ==
+Os vírus (+)ssRNA são os mais abundantes do planeta. Eles possuem genoma linear, com tamanho variando entre 2,3 e 31 kb. O genoma viral poder ser constituído por um único segmento ou por até 5 moléculas de RNA. Assim como ocorre com os vírus dsRNA, o material genético dos ssRNA também podem sofrer degradação por nucleases ou ataques por cátions bivalentes, fatores que podem influenciar no limite de tamanho dos genomas. Este grupo é composto por vírus com capsídeos de simetria icosaédrica ou helicoidal. Capsídeos helicoidais são mais frequentes entre vírus de plantas e vírus que apresentam grandes genomas de RNA (Roniviridae, Coronaviridae). Os vírions deste grupo podem ser envelopados ou não (com ou sem invólucro). Em geral, vírus com genoma medindo menos de 10 Kb são não-envelopados, enquanto os com grandes genomas possuem partículas virais envelopadas (Flaviviridade, Togaviridae, Arteviridae, Coronaviridae, Roniviridae), uma vez que o envelope viral pode proporcionar proteção adicional ao material genético. No grupo III são encontrados agentes infecciosos de vertebrados (incluindo humanos), invertebrados, microrganismos eucarióticos, bactérias e grande parte dos vírus que infectam plantas. O ciclo de replicação dos vírus (+)ssRNA ocorre no citoplasma. A replicação do genoma se dá em duas etapas. Inicialmente, a partir da fita de senso positivo é formada uma fita de sequência complementar (senso negativo); em seguida, esta fita de (-)ssRNA é utilizada como molde para a síntese do genoma viral (+)ssRNA.Em função do senso positivo das moléculas que constituem o genoma viral, estas podem servir como mRNAs para a síntese de proteínas. Assim que o nucleocapsídeo adentra a célula hospedeira, é comum o genoma ser traduzido antes de ser transcrito. Para traduzir seus genomas em proteínas, os vírus utilizam diversas estratégias, muitas das quais são adotadas em conjunto durante a expressão gênica. Entre elas estão:
+Produção de poliproteínas: Toda a informação genética contida no genoma viral pode estar codificada em apenas uma ORF, a partir da qual um único mRNA é produzido. Este mRNA, denominado mRNA monocistrônico, é traduzido em uma poliproteína, que contém as proteínas virais concatenadas, que posteriormente são clivadas em sequências peptídicas indivíduais.
+mRNAs subgenômicos: Alguns genomas virais possuem duas ou mais ORFs. Assim que o genoma viral entra no citosol, uma RNA polimerase RNA-dependente viral é traduzida a partir da sequência presente na região 5'. Sob ação desta enzima, os genes virais são transcritos em mRNAs subgênomicos. Estes RNAs possuem uma mesma sequência 3' finalizando a cadeia polinucleotídica, mas são iniciados por sequências 5' diferentes.
+Genomas segmentados: Em genomas com esta característica, cada ORF é codificada por um segmento (molécula) de RNA genômico diferente, os quais são traduzidos separadamente.
+
+
+== Classificação taxonômica dos vírus (+)ssRNA ==
+Abaixo estão listadas as famílias que compõem o grupo IV:
+
+
+=== Ordem Nidovirales ===
+Arteriviridae
+Coronaviridae
+Roniviridae
+
+
+=== Ordem Picornavirales ===
+Dicistroviridae
+Iflaviridae
+Marnaviridae
+Picornaviridae
+Secoviridae
+
+
+=== Ordem Tymovirales ===
+Alphaflexiviridae
+Betaflexiviridae
+Gammaflexiviridae
+Tymoviridae
+
+
+=== Famílias sem ordem atribuída ===
+Astroviridae
+Barnaviridae
+Bromoviridae
+Caliciviridae
+Closteroviridae
+Comoviridae
+Flaviviridae
+Hepeviridae
+Leviviridae
+Luteoviridae
+Narnaviridae
+Nodaviridae
+Potyviridae
+Tetraviridae
+Togaviridae
+Tombusviridae
+Virgaviridae
+
+
+== Referências ==

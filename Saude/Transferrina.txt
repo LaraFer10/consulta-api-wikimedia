@@ -1,0 +1,60 @@
+Transferrina ou siderofilina é uma glicoproteína (proteínas modificadas por ligações covalentes a hidratos de carbono) plasmática do sangue que transporta o ferro. Sua função fundamental é ceder ferro às células da medula, baço, fígado e músculo. Grande parte é sintetizada pelo fígado, mas existem outros locais de síntese. A transferrina humana é codificada pelo gene TF. As glicoproteínas de transferrina se ligam avidamente ao ferro, porém de forma reversível. Embora o ferro ligado à transferrina seja inferior a 0,1% (4 mg) do ferro total do corpo, forma o pool de ferro mais vital com a maior taxa de renovação (25 mg / 24 h). A transferrina tem um peso molecular de cerca de 80 kDa e contém dois locais específicos de ligação de Fe (III) de alta afinidade. A afinidade da transferrina por Fe (III) é extremamente alta (a constante de associação é 1020 M−1 em pH 7.4) mas diminui progressivamente com a diminuição do pH abaixo da neutralidade.
+Quando não ligada ao ferro, a transferrina é conhecida como "apotransferrina" (ver também apoproteína).
+
+
+== Mecanismo de transporte ==
+Quando uma proteína transferrina carregada com ferro encontra um receptor de transferrina na superfície de uma célula, por exemplo, precursores eritroides na medula óssea, liga-se a ela e é transportada para dentro da célula numa vesícula por endocitose mediada por receptor. O pH da vesícula é reduzido por bombas de íons de hidrogênio (H+ ATPases) a cerca de 5.5, fazendo com que a transferrina libere os seus íons de ferro. O receptor com sua ligante transferrina é então transportado através do ciclo endocítico de volta à superfície da célula, pronto para outra rodada de absorção de ferro. Cada molécula de transferrina tem a capacidade de transportar dois íons de ferro na forma férrica (Fe3+).
+O gene que codifica a transferrina em humanos está localizado na banda cromossômica 3q21.Profissionais médicos devem verificar o nível sérico de transferrina na deficiência de ferro e em distúrbios de sobrecarga de ferro, como a hemocromatose.
+
+
+== Estrutura ==
+Em humanos, a transferrina consiste em uma cadeia polipeptídica contendo 679 aminoácidos e duas cadeias de carboidratos. A proteína é composta de alfa-hélices e folhas-beta que formam dois domínios. As sequências terminais N- e C- são representadas por lobos globulares e entre os dois lobos se encontra o sítio de ligação do ferro.
+Os aminoácidos que ligam o íon de ferro à transferrina são idênticos para ambos os lobos; duas tirosinas, uma histidina e um ácido aspártico. Para o íon de ferro se ligar, é necessário um ânion, preferencialmente carbonato (CO32−).
+A transferrina também possui um receptor para transferrina ligada ao ferro; é um homodímero ligado por dissulfeto. Em humanos, cada monômero consiste em 760 aminoácidos. Isso permite a ligação do ligante à transferrina, uma vez que cada monômero pode ligar-se a um ou dois átomos de ferro. Cada monômero consiste em três domínios: os domínios protease, helicoidal e apical. A forma de um receptor de transferrina assemelha-se a uma borboleta baseada na interseção de três domínios claramente formados.
+		
+
+
+== Distribuição tecidual ==
+O fígado é o principal local de síntese da transferrina, mas outros tecidos e órgãos, incluindo o cérebro, também produzem transferrina. Uma das principais fontes de secreção de transferrina no cérebro é o plexo coroide no sistema ventricular. O principal papel da transferrina é administrar ferro a partir de centros de absorção no duodeno e macrófagos para todos os tecidos. A transferrina desempenha um papel fundamental em áreas onde ocorrem eritropoiese e divisão celular ativa. O receptor ajuda a manter a homeostase do ferro nas células, controlando as concentrações de ferro.
+
+
+== Sistema imunológico ==
+A transferrina também está associada ao sistema imune inato. Encontra-se na mucosa e liga-se ao ferro, criando assim um ambiente com baixo teor de ferro livre que impede a sobrevivência bacteriana num processo chamado retenção de ferro. O nível de transferrina diminui na inflamação.
+
+
+== Papel nas doenças ==
+Um nível aumentado de transferrina no plasma é frequentemente observado em pacientes que sofrem de anemia por deficiência de ferro, durante a gravidez, e com o uso de contraceptivos orais, refletindo um aumento na expressão da proteína transferrina. Quando os níveis plasmáticos de transferrina aumentam, há uma diminuição recíproca na porcentagem de saturação de ferro na transferrina e um aumento correspondente na capacidade total de ligação de ferro nos estados deficientes em ferro. Uma diminuição da transferrina plasmática pode ocorrer em doenças de sobrecarga de ferro e desnutrição proteica. A ausência de transferrina resulta de uma doença genética rara conhecida como atransferrinemia, uma condição caracterizada por anemia e hemossiderose no coração e no fígado que leva à insuficiência cardíaca e muitas outras complicações.
+A transferrina e seu receptor demonstraram diminuir as células tumorais quando o receptor é usado para atrair anticorpos.
+
+
+== Outros efeitos ==
+A transferrina deficiente em carboidratos aumenta no sangue com o consumo excessivo de etanol e pode ser monitorada através de exames laboratoriais.A transferrina é uma proteína de fase aguda e, portanto, diminui a incidência de inflamação, câncer e certas doenças.
+
+
+== Patologia ==
+A atransferrinemia está associada a uma deficiência na transferrina.
+Na síndrome nefrótica, a perda urinária de transferrina, juntamente com outras proteínas séricas, como globulina ligada à tiroxina, gamaglobulina e anti-trombina III, pode se manifestar como anemia microcítica resistente ao ferro.
+
+
+== Valores de referência ==
+Um exemplo de valor de referência para a transferrina é de 204 a 360 mg/dL. Os resultados dos testes laboratoriais devem sempre ser interpretados usando o intervalo de referência fornecido pelo laboratório que realizou o teste.
+
+Um alto nível de transferrina pode indicar uma anemia por deficiência de ferro. Níveis de ferro sérico e capacidade total de ligação de ferro (TIBC) são usados em conjunto com transferrina para especificar qualquer anormalidade. Veja a interpretação do TIBC. A baixa transferrina provavelmente indica desnutrição.
+
+
+== Interações ==
+A transferrina demonstrou interagir com o fator de crescimento semelhante à insulina 2 (IGF-2) e o IGFBP-3. A regulação transcricional da transferrina é supra-regulada pelo ácido retinoico.
+
+
+== Proteínas relacionadas ==
+Os membros da família incluem a serotransferrina do sangue (ou siderofilina, geralmente chamada simplesmente de transferrina); lactotransferrina (lactoferrina); transferrina de leite; ovotransferrina da clara do ovo (conalbumina); e melanotransferrina associada à membrana.
+
+
+== Leitura adicional ==
+
+
+== Referências ==
+
+
+== Ligações externas ==
+MeSH Transferrin

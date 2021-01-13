@@ -1,0 +1,47 @@
+Coleta Upstream (Programa de Vigilância) (em inglês: Upstream collection) Coleta Upstream é o termo usado pela (NSA) dos Estados Unidos para se referir a interceptação do tráfego de telefônico e da Internet através de acesso direto aos cabos  e comutadores que compõem as redes locais de computadores, tanto fora dos Estados Unidos como dentro..Além da coleta Upstream, a NSA também desvia para armazenação em seus computadores as informações de comunicações recebidas diretamente das empresas de Internet que fornecem a NSA dados de seus usuários, através de acordos assinados com a (NSA) através da divisão da NSA chamada Operações de Fonte Especial (SSO), que é responsável pela coleta de dados com a cooperação com parceiros corporativos.
+O programa de Espionagem e Vigilância PRISM se utiliza destes acordos. Os programas foram revelados em 2013, através de documentos fornecidos por Edward Snowden.
+
+
+== Relação com o PRISM ==
+A interceptação pode se feita diretamente pela NSA na chamada coleta Upstream ou, como no caso do programa PRISM, a Agência de Segurança Nacional (NSA) coleta os dados de comunicações através de acordos com as empresas provedoras de serviços de Internet. Como explicado na apresentação revelada, o Upstream deve ser usado com o PRISM. "Você deve usar ambos", diz a instrução na nuvem amarela da esquerda. Isso se explica uma vez que cada um dos programas recebe dados de fontes diferentes. Apesar dos documentos revelados apontarem para a colaboração das empresas de telecomunicações, provedores de serviços e outros, apos as denuncias, a mesma resposta da Microsoft foi dada pelas outras empresas envolvidas. Elas alegam também que apenas fornecem informação de seus usuários através de ordem judicial.Um dos slides de uma apresentação sobre o programa de vigilância PRISM, descreve Upstream como sendo "a coleta dos dados de comunicações enquanto eles passam pelos cabos de fibra e pela infra-estrutura (das redes)" . E diz que coleta de dados "upstream" é realizada sob os quatro seguintes programas de vigilância principais : Fairview, BLARNEY, STORMBREW, OAKSTAR.
+
+
+== Pesquisa de dados ==
+O Programa OAKSTAR, abrange oito programas diferentes usados para a coleta de dados fora os EUA. Em todas os quatro programas, a coleta de dados e envio dos mesmos para o repositórios da NSA no Centro de Processamento de Dados Utah (Utah Data Center), nos Estados Unidos, ocorre em cooperação com empresas de telecomunicações comerciais locais ou localizadas nos Estados Unidos.Dados da Internet coletados pelos programas de Coleta Upstream, podem ser processados e pesquisados atraves do Xkeyscore indexing and analysing system.
+
+
+== Mídia - Upstream  e FAIRVIEW ==
+
+		
+		
+		
+
+
+== Ver Também ==
+Revelações da Vigilância global (1970–2013)
+Tratado de Segurança UK-USA (Cinco Olhos ou Five Eyes)
+Echelon
+Revelações da Vigilância global (2013-Presente)
+Communications Security Establishment Canada
+GCHQ
+Vigilância de Computadores e Redes
+Operações de acesso adaptado (TAO) NSA
+Operações de Fonte Especial(SSO)
+Vigilância de Computadores e Redes
+
+
+== Referências ==
+
+
+== Ligações externas ==
+Fantástico - Veja os documentos ultrassecretos da NSA
+Fantástico - Petrobras foi espionada pelos EUA, apontam documentos da NSA
+Top Level Telecommunications: Slides sobre a coleta de Upstream da NSA
+[2] Catalogo da NSA - Iterativo - com os dispositivos de vigilancia criados pela TAO
+[3] NSA pode escutar todas as chamadas telefônicas em qualquer pais estrangeiro (video em espanhol)
+[4] Der Spiegel Interativo  - Documentos: Video sobre tecnologia de vigilancia da NSA-Catálogo ANT (NSA)
+[5] James Bamford: ‘A NSA hoje pode entrar na mente das pessoas’ , por Flávia Barbosa - O Globo - 19 de março de 2014.
+[6] FAIRVIEW: programa que amplia a capacidade da coleta de dados - Mapa mostra volume de rastreamento do governo americano Brasil é o país mais monitorado da América Latina - O Globo - 11 de junho de 2013;
+[7] EUA espionaram milhões de e-mails e ligações de brasileiros. País aparece como alvo na vigilância de dados e é o mais monitorado na América Latina - O Globo - 06 de julho de 2013;
+[8] Jornais destacam sistema de espionagem dos EUA no Brasil. The Guardian, Washington Post e El País foram alguns dos que comentaram denúncia feito pelo O GLOBO - 07 de julho de 2013;
+[9] Veja os documentos ultrassecretos que comprovam espionagem da presidencia do Brasil. Arquivos foram obtidos com o ex-analista da NSA Edward Snowden

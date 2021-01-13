@@ -1,0 +1,41 @@
+Em biologia, transdução de sinal refere-se a qualquer processo através do qual uma célula converte um tipo de sinal ou estímulo em outro. A maioria dos processos de transdução de sinal envolvem sequências ordenadas (chamadas tambem de cascatas) de reacções bioquímicas dentro da célula, que são levadas a cabo por enzimas activadas por mensageiros secundários, resultando numa via de transdução de sinal. Tais processos são usualmente rápidos, levando cerca de milisegundos a realizarem-se, no caso do fluxo de ions, ou minutos para a activação de cascatas de quinases mediadas por proteínas e lípidos, mas podem durar horas, e mesmo dias, a completar. O número de proteínas e outras moléculas participantes nos eventos envolvendo transdução de sinal aumenta à medida que o processo emana do estímulo inicial, resultando numa cascata de sinal, começando com um relativo pequeno estímulo que desenvolve uma grande resposta. Isto é referido como amplificação de sinal.
+
+
+== Características ==
+Especificidade
+Cooperatividade
+Afinidade entre sinal e receptor
+Amplificação
+
+
+== Estímulos do ambiente ==
+Nos organismos pluricelulares, são necessários numerosos processos para coordenar as células para que o organismo funcione como um todo; a complexidade destes processos aumenta conforme a complexidade do organismo. A percepção do ambiente a nível celular depende em grande parte da transdução de sinais; muitas doenças, como a diabetes e a arterosclerose têm origem por defeitos nestas vias, o que destaca a importância destes processos na medicina e biologia.
+Vários estímulos ambientais iniciam processos de transmissões de sinais nos organismos pluricelulares; exemplos são as células de captação de fotões da retina do olho, e a ligação de moléculas olorosas nos receptores olfativos do epitélio olfatório. Certas moléculas microbianas, como os nucleótidos virais e antígenos proteicos, podem desencadear uma resposta imune contra o patógeno invasor através de processos de transdução de sinais. Isto pode ocorrer independentemente da estimulação da transdução de sinais de outras moléculas, como no caso dos receptores de tipo toll. Pode ocorrer com o auxílio de moléculas estimuladoras situadas na superfície doutras células, como na sinalização do receptor de células T. Os organismos unicelulares podem responder aos estímulos ambientais por meio da ativação de vías de transdução de sinais, como por exemplo no caso dos mofos mucilaginosos, que segregam adenosina monofosfato cíclica quando lhes faltam alimentos, estimulando todas as células que se encontrem nas imediações a agregarem-se, e as leveduras, que utilizam um factor de copulação para determinar os tipos de copulação a que pertencem outras células e participar na reprodução sexual.
+
+
+== Hormônios ==
+Os hormônios são mensageiros quimicos, classificados de acordo com a distância de atuação com relação ao sitio de liberação:
+
+Endocrinos: São os hormônios que agem em células distantes do local onde são liberados inicialmente.
+Paracinos: São os mediadores locais , como por exemplo a Interleucina 1 (IL-1) liberada pelos macrofagos, auxiliam na chamada das células T.
+Autocrinos: Agem na mesma célula, como a resposta das células T à IL-1 que produz um hormônio autocrino de regulação a Interleucina 2 (IL-2).
+Por fim, os Feromônios: Atuam sobre outros animais da mesma espécie, seja como atrativo sexual ou social, este ultimo como no caso da comunicação das formigas.
+
+
+== Leitura adicional ==
+Não técnicoCosma Shalizi's "Signal transduction" Notebook from 2003-01-20 used under the GFDL with permission
+Werner R. Loewenstein, The Touchstone of Life: Molecular Information, Cell Communication, and the Foundations of Life, Oxford University Press, 1999, ISBN 0-19-514057-5TécnicoGomperts, Kramer, Tatham, "Signal Transduction", AP/Elsevier [2002], ISBN 0122896319. Reference book, for more information: http://www.cellbiol.net .
+Gerhard Krauss, Biochemistry of Signal Transduction and Regulation, Wiley-VCH, 1999, ISBN 3-527-30378-2
+John T. Hancock, Cell Signalling, Addison-Wesley, 1998 ISBN 0-582-31267-1
+
+
+== Referências ==
+
+
+== Ligações externas ==
+Signal Transduction - The Virtual Library of Biochemistry and Cell Biology
+TRANSPATH(R) - A database about signal transduction pathways
+Science's STKE - Signal Transduction Knowledge Environment, from the journal Science, published by AAAS.
+MeSH Signal+Transduction
+UCSD-Nature Signaling Gateway, from Nature Publishing Group
+LitInspector - Signal transduction pathway mining in PubMed abstracts

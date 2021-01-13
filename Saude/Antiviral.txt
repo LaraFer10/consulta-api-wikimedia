@@ -1,0 +1,38 @@
+Um antiviral é uma classe de medicamentos usado especificamente para tratar infecções virais. Como os antibióticos para as bactérias, antivirais específicos são usados para vírus específicos. Podem também distinguir-se de viricidas, que desactivam partículas do vírus fora do corpo. Atuam em eventos específicos da replicação viral, inibição da síntese de ácidos nucleicos ou proteínas do vírus, dado que utilizam a maquinaria celular para sua reprodução.A maioria dos antivirais disponíveis atualmente são para lidar com o HIV, vírus da herpes, hepatite B e C e influenza A e B, mas cientistas querem estender o alcance dos antivirais para outras famílias de patógenos.
+Dentre os mecanismos para o tratamento de infecções virais temos o Bloqueio da ligação do vírus, Inibição da síntese de DNA/RNA, Inibição da síntese proteica, Inibição de juntamento, Inibição da liberação de vírus, Inibição de vírus não encapsulado e o Estímulo Imunológico.
+
+
+== Classificação ==
+Os antivirais são classificados de acordo com sua forma de ação, dentre os principais fármacos podemos citar:
+
+
+=== Inibidores nucleosídicos da transcriptase reversa ===
+Inibem a enzima transcriptase por incorporação à cadeia de DNA do vírus tornando-a defeituosa e impedindo sua duplicação. Os principais fármacos desta lista são o Abacavir, Didanosina, Estavudina, Lamivudina, zidovudina e tenofovir.
+
+
+=== Inibidores não nucleosídicos ===
+Também inibem a enzima transcriptase se incorporando a cadeia de DNA do vírus. Exemplo: Efavirenz, Etravirina e Nevirapina.
+
+
+=== Inibidores da protease ===
+Para o vírus se tornar infeccioso é necessário que ele produza novas proteínas virais e estes inibidores bloqueiam a protease interferindo em sua ação e inibindo a produção de novos vírus HIV. Como exemplo de inibidores da proteases temos: Darunavir, Fosamprenavir, Indinavir, Ritonavir, Saquinavir, Tipranavir e Lopinavir.
+
+
+=== Inibidores da DNA-polimerase ===
+Inibe a síntese do DNA viral e interrompe o alongamento de sua cadeia, o aciclovir, penciclovir, Foscarnet e o cidoforvir são exemplos dessa classe.
+
+
+=== Inibidores da fusão do HIV ===
+Estes impedem o vírus de se ligar e entrar nos linfócitos do típo CD4. Exemplo: Enfuvirtida e Maraviroc.
+
+
+=== Imunomoduladores ===
+Estes não são diretamente antivirais. Levam a elaboração de proteínas efetoras nas células expostas, o que contribui para um estado de resistência ao vírus.
+Os fármacos desta classe ativam cascatas de sinalização que levam à produção de proteínas antivirais, dentre estas a proteinocinase R, que impede o mecanismo de tradução nas células infectadas pelos vírus. Exemplos: Interferons, Palivisumabe e Imunoglobulina.
+
+
+=== Inibidores da liberação e desmontagem viral ===
+Inibem a neuraminidase do vírus da influenza, fazendo com que os vírions recém-sintetizados permaneçam fixados à célula hospedeira. Exemplos: Zanamivir, Oseltamivir, Rimantadina e Amantadina.
+
+
+== Notas e referências ==

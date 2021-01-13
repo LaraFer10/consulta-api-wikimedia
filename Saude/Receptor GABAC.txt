@@ -1,0 +1,46 @@
+O receptor GABAC é um dos canais iônicos dependentes de ligantes, responsável por mediar os efeitos do ácido gama-aminobutírico (GABA), o principal neurotransmissor inibitório no cérebro. O receptor GABAC, estreitamente relacionado com o receptor GABAA, é expressado em muitas áreas do cérebro, mas em contraste com o GABAA, o receptor GABAC possui alta especialização de expressão na retina.
+
+
+== Função ==
+Além de conter um sítio de ligação para o GABA, o complexo receptor GABAC conduz íons cloreto através das membranas neuronais. A ligação do GABA ao receptor resulta na abertura do canal, permitindo o fluxo de íons cloreto pelo gradiente eletroquímico dentro da célula. Este fluxo de íons cloreto estabiliza o potencial de repouso, tornando mais difícil para estas células conduzir impulsos elétricos. Após a estimulação pelo GABA, o fluxo de cloreto produzido pelo receptor GABAC possui um iniciação lenta, portanto, mais demorado. Ao contrário, o receptor GABAA conduz os íons mais rapidamente e portanto om uma duração menor. O GABA é mais potente cerca de 10 vezes a mais no receptor GABAC do que no receptor GABAA.
+
+
+== Estrutura ==
+Assim como em outros canis iônicos dependentes de ligantes, o receptor GABAC é formado pela oligomerização de cinco subunidades arranjadas, formando um eixo simétrico, por onde será conduzido os íons. Até hoje, três subtipos de receptores GABAC foram identificados em humanos:
+
+ρ1 (GABRR1)
+ρ2 (GABRR2)
+ρ3 (GABRR3)Há também indícios de que se pode formar subunidades ρ1  hetero-pentamericas complexas com subunidades γ2 de receptores GABAA.
+
+
+== Farmacologia ==
+Há várias diferenças farmacológicas que distinguem os receptores GABAC dos receptores GABAA e GABAB. Por exemplo, os receptores GABAC são:
+
+seletivamente ativados por (+)-CAMP [ácido (+)- cis-2-aminometilciclopropano-carboxílico] e bloqueados pelo TPMPA [ácido(1,2,5,6-tetrahidropiridin-4-il) metilfosfinico]
+não é sensível aos agonistas dos receptores GABAB, como o baclofeno, nem aos agonistas do receptor GABAA, como a bicuculina
+não é modulado por modulares do receptor GABAA, como os barbitúricos, benzodiazepinas e esteróides neuroativos
+
+
+=== Ligantes seletivos ===
+
+
+==== Agonistas ====
+Ácido (Z)-4-Amino-2-butenóico
+CAMP
+
+
+==== Antagonistas ====
+TPMPA (ácido(1,2,5,6-Tetrahidropiridin-4-il)metilfosfínico)
+
+
+== Genética ==
+Nos seres humanos, as subunidades ρ1 e ρ2 do receptor GABAC são codificados pelos genes GABRR1 e GABRR2, que são encontrados no cromossomo 6, enquanto que, o gene GABRR3 que codifica a subunidade ρ3, é encontrado na cromossomo 3. Mutações nos genes da ρ1 ou ρ2 podem ser responsáveis por alguns casos de retinose pigmentária autossômica recessiva.
+
+
+== Ver também ==
+GABA
+GABAA
+GABAB
+
+
+== Referências ==

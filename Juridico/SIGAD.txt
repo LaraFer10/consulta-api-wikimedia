@@ -1,0 +1,53 @@
+SIGAD ou Identificador da Atividade de SIGINT é o acrônimo da expressão em inglês, "SIGINT Atividade designador", (ou SIGAD).É uma sequência alfanumérica, que associa os sinais coletados à estacao ou base que os coletou. Por exemplo, o SIGAD para a base de coleta de sinais Echelon em Menwith Hill, Inglaterra, é USD1000.De forma simples, o SIGAD é a sequência alfanumérica que identifica de onde veem os sinais, quando eles chegam nas instalações de interceptação.
+Tais identificadores ou "SIGAD", são usados por estacões de interceptação operados por agências de inteligência dos Estados Unidos, Inglaterra, Canadá, Austrália e Nova Zelândia, os chamados Cinco Olhos ou Five Eyes, já que estes cinco países têm uma relação estreita na colêta e compartilhamento de inteligência.Desde a Segunda Guerra Mundial, milhares de SIGADs foram atribuídos de acordo com suas origens. Uma captura de tela da ferramenta BOUNDLESS INFORMANT da NSA revelou que em março de 2013, havia 504 SIGADs ativos. Isto quer dizer apenas que nesse mês, a NSA recebeu dados de 504 instalações de interceptação. Como este número inclui, provavelmente, muitos subconjuntos, talvez apenas algumas dezenas de tais identificadores sejam realmente as fontes importantes.
+
+
+== Formato da sequência alfanumérica do SIGAD ==
+SIGAD é formado por uma sequência de 5 a 8 caracteres alfanuméricos, como no exemplo acima da base de coleta de sinais Echelon em Menwith Hill, Inglaterra cujo SIGAD é USD1000.
+
+
+== Destinação dos Dados Coletados ==
+Os dados coletados são então enviados para o repositórios da NSA nos Estados Unidos.As empresas provedoras de serviços participantes, são remuneradas pela NSA e os acordos são chamados de SS0 pela agência americana.
+
+
+== SIGAD do PRISM ==
+Um dos documentos revelados por Edward Snowden explica como se dá a coleta de dados através do PRISM. Uma apresentação de slides identifica tal coleta , em Abril de 2013, com do SIGAD US-984XN. SIGAD US-984XN ligado ao PRISM, foi identificado como a fonte para 1.477 itens apenas em 2012.
+
+
+== SIGADs de navios espiões ==
+O SIGAD conhecido para o navio americano "USS Liberty", era USN-855.O navio "USS Pueblo" foi um navio de pesquisa técnica que foi capturado pela Coreia do Norte em 1968. Seu SIGAD era USN-467Y.
+
+
+== Alguns dos vários modos de interceptação ==
+- Interceptação física, como o caso dos dados interceptados através do Sistema de interceptação ECHELON (utilizando antenas, satélites...) tendo como destino final os repositórios da NSA nos Estados Unidos.
+
+ou
+- Através de parcerias entre a NSA e os provedores de serviços locais, que dão então a NSA acesso direto aos dados de telefone, internet e e-mail, computadores e telefones celulares dos cidadãos usuários; caso do programa PRISM.ou ainda
+- Através da coleta dos dados de comunicações enquanto eles passam pelos cabos de fibra e pela infra-estrutura das redes. É o caso da chamada Coleta Upstream , feita utilizando os quatro seguintes programas de vigilância principais : Fairview, Blarney, STORMBREW, OAKSTAR.
+
+
+== Apresentação da NSA - SIGAD  e Operações de Fonte Especial(SSO) ==
+(slides de documentos revelados por Snowden)
+
+		
+		
+
+
+== Ver Também ==
+Edward Snowden
+PRISM
+Coleta Upstream (Programa de Vigilância)
+Revelações da Vigilância global (1970–2013)
+Revelações da Vigilância Global (2013–presente)
+Vigilância de Computadores e Redes
+Lista de programas de vigilância em massa do governo
+
+
+== Referências ==
+
+
+== Ligações externas ==
+«10 Coisas que você não sabia sobre os Programas de Vigilância da Agência de Segurança Nacional (em inglês)». BuzzFeed. 28 de fevereiro de 2013. Consultado em 19 de março de 2014 
+«Slides da NSA explicam a coleta de dados pelo Programa PRISM (em inglês) - The Washington Post]</ref>». The Washington Post. 6 de junho de 2013. Consultado em 26 de março de 2014 
+«EUA espionaram milhões de e-mails e ligações de brasileiros. País aparece como alvo na vigilância de dados e é o mais monitorado na América Latina». O Globo. 6 de julho de 2013. Consultado em 23 de março de 2014 
+«Jornais destacam sistema de espionagem dos EUA no Brasil. The Guardian, Washington Post e El País foram alguns dos que comentaram denúncia feito pelo O GLOBO». O Globo. 7 de julho de 2013. Consultado em 23 de março de 2014

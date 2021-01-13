@@ -1,0 +1,37 @@
+O Código ATC M04 (Preparações antigotosas) é um subgrupo terapêutico da classificação ATC (Anatomical Therapeutic Chemical Classification System), um sistema de códigos alfanuméricos desenvolvido pela Organização Mundial da Saúde (OMS) para classificar medicamentos e outros produtos médicos. O subgrupo M04 faz parte do grupo anatômico M (sistema musculoesquelético).Os códigos para uso veterinário (códigos ATCvet) podem ser criados colocando a letra Q antes do código ATC para uso humano: por exemplo, QM04. Os códigos ATCvet sem os códigos ATC humanos correspondentes são citados com a letra Q inicial nessa lista. 
+
+
+== M04A Preparações anti-gota ==
+
+
+=== M04AA Preparações de que inibem a produção de ácido úrico ===
+M04AA01 Alopurinol
+M04AA02 Tisopurina
+M04AA03 Febuxostato
+M04AA51 Alopurinol, associações
+
+
+=== M04AB Preparações de que aumentam a excreção de ácido úrico ===
+M04AB01 Probenecida
+M04AB02 Sulfinpirazona
+M04AB03 Benzbromarona
+M04AB04 Isobromindiona
+M04AB05 Lesinurad
+
+
+=== M04AC Preparações sem efeito no metabolismo do ácido úrico ===
+M04AC01 Colchicina
+M04AC02 Cinchofeno
+
+
+=== M04AX Outras preparações anti-gota ===
+M04AX01 Urato oxidase
+M04AX02 Pegloticase
+
+
+== Ver também ==
+Classificação ATC
+Código ATC M: Sistema musculo-esquelético
+
+
+== Referências ==

@@ -1,0 +1,22 @@
+O ARNm precursor ou pré-ARNm (ou pré-mRNA) é um ARNm monocatenário imaturo, que dará origem ao ARNm definitivo depois de sofrer um processamento nos eucariotas. O pré-ARNm sintetiza-se a partir dum molde de ADN (o gene ou unidade de transcrição) situado no núcleo celular. O pré-ARNm é muito maior do que o ARNm definitivo.
+O pré-ARNm compreende a grande maioria do chamado ARN heterogéneo nuclear ou ARNhn (ou também ARN nuclear heterogéneo ou hnRNA). O termo ARNhn é mais antigo, uma vez que uma das primeiras características utilizadas para distinguir os ARNs do núcleo foi o seu tamanho, e inclui todos os transcritos da ARN polimerase II. Geralmente utiliza-se ARNhn como sinónimo de pré-ARNm, embora em stricto sensu, o ARNhn pode incluir transcritos de ARN nuclear que não acabam por originar um ARNm citoplasmático.
+A maturação do pré-ARNm nos eucariotas tem lugar no núcleo. Uma vez que o pré-ARNm foi completamente processado, passa a ser denominado "ARNm maduro" ou simplemente "ARNm", que se unirá a um ribossoma citoplasmático para ser traduzido para proteínas.
+
+
+== Processamento dos pré-ARNm ==
+
+O pré-ARNm eucariótico apresenta uma vida curta antes de ser processado para dar lugar ao ARNm. Um pré-ARNm contém dois tipos de segmentos, exões e intrões. Os exões são segmentos que se conservam no ARNm final, uma vez que compreendem as partes codificantes, entanto que os intrões, que se encontram intercalados entre os exões, não são codificantes e são eliminados num processo chamado splicing, geralmente realizado pelo spliceossoma formado pelas ribonucleoproteínas snRNP (excepto nos intrões com auto-splicing).
+Outros processos são produzidos na maduração do pré-ARNm eucariótico, entre os quais a modificação dos suas duas extremidades 5' e 3'. Na extremidade 5' acrescenta-se uma 7-metilguanosina (cap) e na 3' uma cauda poli-A.Assim que uma cadeia de pré-ARNm é devidamente processada para um ARNm, este é exportado desde o núcleo para o citoplasma, onde se une a um ribossoma para ser traduzido para proteínas.
+Nos procariotas os genes não possuem geralmente intrões, pelo que não é necessário um splicing para os ARNm como nos eucariotas, mas antes os outros ARN são cortados com ribonucleases.
+
+
+== Referências ==
+
+
+== Ver também ==
+Processamento do ARN
+Edição do ARN
+
+
+== Ligações externas ==
+Scienceden.com RNA Article

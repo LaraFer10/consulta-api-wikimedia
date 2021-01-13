@@ -1,0 +1,59 @@
+A eletroforese é uma técnica de separação que se baseia no princípio de migração de íons em um campo elétrico. Constitui uma técnica laboratorial importante e em amplo crescimento, atualização e pedidos de patentes, pois permite a separação analítica de moléculas sintéticas e biológicas, podendo segregar até moléculas praticamente iguais como são os tipos de ácidos de 18 carbonos presentes no azeite de oliva. O princípio da técnica é a possibilidade de segregar analitos durante a migração de moléculas conforme sua carga elétrica , tamanhos, e conformidade espacial que adquirem conforme o eletrólito tamponado no qual as amostras serão postas e analisadas. A utilização da eletroforese para a separação de proteínas foi descrita pela primeira vez pelo bioquímico Arne Tiselius, em 1937, com a chamada eletroforese de fronteira móvel. Todavia, o método implementado por Tiselius era realizado inteiramente em solução, o que poderia gerar a mistura de proteínas em migração. Assim, suportes sólidos tais como papel filtro e celulose foram adicionados à técnica e permitiram a separação mais adequada das moléculas. De acordo com as leis da eletrostática, a força elétrica Felétrica, sobre um íon de carga q em um campo elétrico de força E é expresso em:
+Felétrica= q E
+A migração eletroforética do íon através da solução sofre oposição da força de atrito ou também chamada de atrito:
+Ffricção= vf
+V= velocidade de migração
+f= coeficiente de atrito
+O coeficiente de atrito é uma medida importante, pois representa o atrito que a solução exerce sobre o íon em movimento e algumas particularidades do íon tais como tamanho, forma, estado de solvatação bem como a viscosidade da solução impactam o coeficiente de atrito e assim, a migração do íon.
+Em um campo elétrico constante, as forças que atuam sobre o íon irão se contrabalancear, de modo que cada íon de uma determinada solução movimenta-se com velocidade constante:
+qE=vf
+A mobilidade eletroforética de um íon (mobilidade iônica, ou µ) também pode ser definida pela equação abaixo:
+µ =  v/E  =  q/f
+No entanto, na prática a equação acima apenas aplica-se a íons em diluições infinitas diante de solventes não condutores. Por exemplo, em uma solução aquosa, as proteínas são envolvidas por uma nuvem de íons opostos, gerando um campo elétrico adicional.
+
+
+== Eletroforese em papel ==
+Nessa técnica as amostras são aplicadas sob uma tira de papel filtro ou acetato de celulose umedecida em solução tampão. As extremidades de papel devem ser colocadas em reservatórios separados contendo solução tampão na qual os eletrodos estão imersos. Em seguida, uma corrente contínua é aplicada, permitindo que os íons da amostra migrem em direção ao eletrodo de polaridade contrária. A velocidade da migração é influenciada pela carga do íon e em menor grau, pela interação do íon com a matriz do suporte.
+Depois que o eletroforetograma estiver completo, é preciso deixar a tira secar e aplicar métodos de detecção de amostras.
+
+
+== Eletroforese em gel ==
+A eletroforese em gel é um método mais comumente utilizado na separação de macromoléculas, substituindo a eletroforese em papel. As macromoléculas migram em um campo elétrico,  atravessando os poros do gel. Essa técnica pode ser empregada na separação de DNA, RNA e proteínas. A qualidade do material a ser separado vai definir a composição do gel, que pode ser basicamente de dois tipos: agarose e poliacrilamida
+
+
+=== Gel de agarose ===
+Os géis de agarose são uma ferramenta importante para a separação de DNA e RNA. A agarose é um polissacarídeo extraído de algas marinhas. Consiste em um polímero linear com repetidas unidades de agarobiose, um dissacarídeo formado pela ligação de  L-galactose e D-galactose. Os géis de agarose são formados dissolvendo a agarose, um pó cristalino, em um tampão por aquecimento. O gel é formado com o resfriamento dessa mistura. Essa propriedade gelificante da agarose é atribuída à formação de pontes de hidrogênio inter e intra-moleculares. O gel forma uma matriz porosa que permite a passagem de macromoléculas. O tamanho do poro do gel é controlado pela concentração da agarose, sendo que poros grandes são formados em baixas concentrações e poros menores são formados em altas concentrações.
+Em uma eletroforese, o gel de agarose fica submerso em uma cuba que contém uma solução tampão, que permite a passagem e fluxo de corrente elétrica. Uma força eletromotriz é aplicada ao longo da cuba e impulsiona a migração eletroforética dos ácidos nucléicos. A solução tampão reduz mudanças de pH, no campo elétrico e previne o aquecimento causado pela passagem da corrente elétrica. Na eletroforese, os ácidos nucléicos, DNA e RNA, migram do pólo negativo em direção ao pólo positivo. Isso ocorre porque ácidos nucléicos possuem em sua estrutura grupamentos fosfato, que são carregados negativamente. A taxa de migração do DNA ou RNA em um gel de agarose depende: do tamanho e conformação da molécula, concentração da agarose, voltagem aplicada e tipo de tampão usado. Ao fim da eletroforese, a separação pode ser visualizada com o uso de corantes apropriados.
+
+
+=== Gel de poliacrilamida ===
+A eletroforese em gel de poliacrilamida (em inglês Polyacrylamide gel electrophoresis - PAGE)    é mais comumente utilizada na separação de proteínas, mas também pode ser utilizada na separação de ácidos nucleicos pequenos. O gel de poliacrilamida é formado pela polimerização de monômeros de acrilamida na presença de N,N-metilenobisacrilamida, que consiste de duas moléculas de acrilamida ligadas por um grupo metileno e é utilizada como agente formador de ligações cruzadas. A polimerização da acrilamida é catalisada por radicais livres, iniciada pela adição de TEMED (N,N,N',N'-Tetrametiletilenodiamina), que catalisa a decomposição de íons persulfato em ânion sulfato e radical sulfato. A velocidade de polimerização vai depender de fatores como a concentração de monômeros e de catalisadores. O gel de poliacrilamida é definido em percentual total da acrilamida presente. O poro do gel é determinado pela concentração de acrilamida e N,N-metilenobisacrilamida.
+
+
+==== Gel SDS-PAGE ====
+SDS-PAGE (eletroforese em gel de poliacrilamida na presença de dodecil sulfato de sódio, SDS) é uma técnica muito utilizada tanto na bioquímica quanto na biologia molecular com o objetivo de separar proteínas presentes em uma amostra com base no seu peso molecular. Essa separação ocorre através da migração dessas proteínas na malha do gel que estarão sob influência de um campo elétrico.
+A migração de uma proteína carregada pelo campo elétrico se dá pela sua carga líquida, pelo seu raio molecular e também pelo tamanho do campo aplicado. Porém, em proteínas dobradas naturalmente, sua carga é determinada apenas a partir da soma de sua composição de aminoácidos positivos e negativos. Sendo assim, diferentes proteínas em seu estado nativo, mesmo com pesos moleculares similares, vão migrar em velocidades diferentes. Para separar as proteínas com base em seu peso molecular é necessário desnaturar sua estrutura terciária para que a molécula possa ficar linearizada e também camuflar sua carga, função esta realizada pelo SDS.
+
+
+===== O papel do SDS =====
+O SDS é um detergente que, aliado a uma fonte de calor e a um agente redutor (substância capaz de desfazer as ligações dissulfeto presentes na proteína, que podem ser o ditiotreitol (DTT) ou então o β-mercaptoetanol) que também está presente na composição do tampão de amostra utilizado nessa técnica, é capaz de romper a estrutura terciária da proteína, deixando-a na forma linear. A ligação do SDS com a proteína ocorre em uma proporção de 1,4 g de SDS para cada 1 g de proteína, o que equivale a uma molécula de SDS para cada dois aminoácidos.Dodecil Sulfato de Sódio
+[CH3 – (CH2)10 – CH2 – O – SO3-]Na+O SDS também é responsável por igualar as cargas das proteínas presentes na amostra a ser analisada, deixando-as todas com uma carga negativa uniforme. Além disso, para garantir que a linearização e o mascaramento das cargas se mantenha durante toda a corrida, é necessário que o SDS também esteja na composição do gel de eletroforese.
+
+
+===== Preparo das amostras =====
+Para o preparo das amostras para o gel, as mesmas devem passar por um processo de lise celular, que vai promover o rompimento de células e organelas. Esse tampão é composto basicamente por um detergente associado a um coquetel de inibidores de proteases, que vai evitar a degradação da sua amostra. Após essa etapa é feita a separação das frações solúveis e insolúveis por centrifugação e por fim é adicionado o tampão de amostra que irá possibilitar o desenovelamento das proteínas. Além disso, a amostra ainda é aquecida, o que vai favorecer a desnaturação proteica.
+
+
+===== A matriz do gel =====
+Após o tratamento da amostra com SDS, as proteínas passarão a migrar do ânodo para o cátodo a partir da aplicação de um campo elétrico de acordo com seu peso molecular. A matriz utilizada por esse tipo de gel é a de poliacrilamida, um reagente que pode ser preparado com uma variedade de concentrações, que vai produzir diferentes tamanhos de poros, que por sua vez vão alterar diretamente na taxa de migração da proteína.
+A massa molecular de uma proteína pode ser determinada, após a sua linearização, através da eletroforese da proteína de interesse junto com um padrão de peso molecular de proteínas, cujas massas moleculares são conhecidas.
+A técnica de SDS-PAGE é muito utilizada associada à técnica de focalização isoelétrica na realização de géis bidimensionais (2D), o que torna esse tipo de eletroforese uma ferramenta muito importante para os estudos de proteômica.
+
+
+== Eletroforese capilar ==
+A técnica de eletroforese capilar foi introduzida em 1981 por Jorgenson e Lukacs e consiste na realização da eletroforese em capilares muitos finos, que podem variar de 10 a 100 μm de diâmetro interno, geralmente feitos de sílica, vidro ou plástico. Por serem muito estreitos, esses capilares são capazes de dissipar rapidamente o calor, o que permite a utilização de um alto campo elétrico, capaz assim de reduzir o tempo de separação da sua amostra. Além disso, devido a alta velocidade de separação, a resolução torna-se mais nítida, visto que o alargamento das zonas de separação que pode ser causado pela difusão é reduzido.
+Os capilares podem ser preenchidos tanto com tampão como também com gel SDS-poliacrilamida ou até mesmo anfólitos. Essas técnicas possuem um alto poder de resolução e, tanto a aplicação da amostra como a detecção da mesma em sua linha de processamento, pode ocorrer de forma automatizada, assim como em HPLC (High Performance Liquid Chromatography).
+Esse tipo de eletroforese se caracteriza como uma técnica analítica visto que é capaz de separar apenas pequenas quantidades de amostra.
+
+
+== Referências ==

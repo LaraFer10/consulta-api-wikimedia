@@ -1,0 +1,23 @@
+Inibidor de integrase é uma classe de medicamentos para o tratamento da infecção pelo HIV. 
+
+
+== Ação ==
+Eles atuam impedindo a replicação do vírus ao bloquear a atividade da enzima integrase, que tem a capacidade de inserir o DNA viral ao DNA humano.O primeiro medicamento desta classe foi o raltegravir, aprovado em 2007 pela FDA. 
+
+
+== Referências ==
+
+
+== Ligações externas ==
+Cooper D, Gatell J, Rockstroh J, et al. Results of BENCHMRK-1, a phase III study evaluating the efficacy and safety of MK-0518, a novel HIV-1 integrase inhibitor, in patients with triple-class resistant virus. Abstract 105aLB, 14th CROI 2007, Los Angeles.
+DeJesus E, Berger D, Markowitz M, et al. Antiviral activity, pharmacokinetics, and dose response of the HIV-1 integrase inhibitor GS-9137 (JTK-303) in treatment-naive and treatment-experienced patients. J AIDS 2006, 43:1-5. PMID 16936557
+Hazuda DJ, Felock P, Witmer M, et al. Inhibitors of strand transfer that prevent integration and inhibit HIV-1 replication in cells. Science 2000, 287:646-50. PMID 10649997
+Jones G, Ledford RM, yu F, et al. In vitro resistance profile of HIV-1 mutants selected by the HIV-1 integrase inhibitor, GS-9137 (JTK-303). Abstract 627, 14th CROI 2007, Los Angeles.
+Lataillade M, Kozal MJ. The hunt for HIV-1 integrase inhibitors. AIDS Patient Care and STDs 2006, 20:489-501. PMID 16839248
+Markowitz M, Morales-Ramirez JO, Nguyen BY, et al. Antiretroviral activity, pharmacokinetics, and tolerability of MK-0518, a novel inhibitor of HIV-1 integrase, dosed as monotherapy for 10 days in treatment-naive HIV-1-infected individuals. J AIDS 2006, 43:509-515. PMID 17133211
+Nair V. HIV integrase as a target for antiviral chemotherapy. Rev Med Virol 2002, 12:179-93. PMID 11987143
+Pommier Y, Johnson AA, Marchand C. Integrase inhibitors to treat HIV/AIDS. Nat Rev Drug Discov 2005, 4:236-48. PMID 15729361
+Reddy S, Min S, Borland J, et al. A double-blind, parallel, randomized, placebo-controlled, single and repeat dose-escalation study to investigate the safety, tolerability, and pharmacokinetics of the HIV integrase inhibitor GSK364735 in healthy subjects. Abstract 562, 14th CROI 2007, Los Angeles.
+Sato M, Motomura T, Aramaki H, et al. Novel HIV-1 integrase inhibitors derived from quinolone antibiotics. J Med Chem 2006, 49:1506-8. PMID 16509568
+Steigbigel R, Kumar R, Eron J, et al. Results of BENCHMRK-2, a phase III study evaluating the efficacy and safety of MK-0518, a novel HIV-1 integrase inhibitor, in patients with triple-class resistant virus. Abstract 105bLB, 14th CROI 2007, Los Angeles.
+Zolopa A, Mullen M, Berger D, et al. The HIV integrase inhibitor GS9137 demonstrates potent ARV activity in treatment-experienced patients. Abstract 143 LB, 14th CROI 2007, Los Angeles.

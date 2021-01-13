@@ -1,0 +1,86 @@
+O Código ATC N03 (Antiepilépticos) é um subgrupo terapêutico da classificação ATC (Anatomical Therapeutic Chemical Classification System), um sistema de códigos alfanuméricos desenvolvido pela Organização Mundial da Saúde (OMS) para classificar medicamentos e outros produtos médicos. O subgrupo N03 faz parte do grupo anatômico N (sistema nervoso).Os códigos para uso veterinário (códigos ATCvet) podem ser criados colocando a letra Q antes do código ATC para uso humano: por exemplo, QN03. Os códigos ATCvet sem os códigos ATC humanos correspondentes são citados com a letra Q inicial nessa lista.
+
+
+== N03A Antiepilépticos ==
+
+
+=== N03AA Barbitúricos e derivados ===
+N03AA01 Metilfenobarbital
+N03AA02 Fenobarbital
+N03AA03 Primidona
+N03AA04 Barbexaclone
+N03AA30 Metarbital
+
+
+=== N03AB Derivados da hidantoína ===
+N03AB01 Etotoína
+N03AB02 Fenitoína
+N03AB03 Amino(difenilhidantoína) ácido valérico (neocitrulamon)
+N03AB04 Mefenitoína
+N03AB05 Fosfenitoína
+N03AB52 Fenitoína, associações
+N03AB54 Mefenitoína, associações
+
+
+=== N03AC Derivados da oxazolidina ===
+N03AC01 Parametadiona
+N03AC02 Trimetadiona
+N03AC03 Etadiona
+
+
+=== N03AD Derivados da succinimida ===
+N03AD01 Etossuximida
+N03AD02 Fensuximida
+N03AD03 Mesuximida
+N03AD51 Etossuximida, associações
+
+
+=== N03AE Derivados da benzodiazepina ===
+N03AE01 Clonazepam
+
+
+=== N03AF Derivados da carboxamida ===
+N03AF01 Carbamazepina
+N03AF02 Oxcarbazepina
+N03AF03 Rufinamida
+N03AF04 Eslicarbazepina
+
+
+=== N03AG Derivados de ácido graxo ===
+N03AG01 Ácido valproico
+N03AG02 Valpromida
+N03AG03 Ácido aminobutírico
+N03AG04 Vigabatrina
+N03AG05 Progabida
+N03AG06 Tiagabina
+
+
+=== N03AX Outros antiepilépticos ===
+N03AX03 Sultiama
+N03AX07 Fenacemida
+N03AX09 Lamotrigina
+N03AX10 Felbamato
+N03AX11 Topiramato
+N03AX12 Gabapentina
+N03AX13 Feneturida
+N03AX14 Levetiracetam
+N03AX15 Zonisamida
+N03AX16 Pregabalina
+N03AX17 Estiripentol
+N03AX18 Lacosamida
+N03AX19 Carisbamato
+N03AX21 Retigabina
+N03AX22 Perampanel
+N03AX23 Brivaracetam
+N03AX24 Canabidiol
+N03AX30 Beclamida
+QN03AX90 Imepitoína
+QN03AX91 Brometo de potássio
+
+
+== Ver também ==
+Classificação ATC
+Código ATC N: Sistema Nervoso
+
+
+== Referências ==

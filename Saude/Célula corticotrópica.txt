@@ -1,0 +1,56 @@
+Os corticotropos (ou células corticotrópicas ) são células basofílicas na hipófise anterior que produzem pró-opiomelanocortina (POMC). A POMC sofrem clivagem, formando adrenocorticotropina (ACTH), β-lipotropina (β-LPH) e hormônio estimulador de melanócitos (MSH).  Essas células são estimuladas pelo hormônio liberador de corticotropina (CRH) e compõem 15 a 20% das células da hipófise anterior.  A liberação de ACTH das células corticotrópicas é controlada pelo CRH, que é formado nos corpos celulares das células neurossecretoras parvocelulares dentro do núcleo paraventricular do hipotálamo e passa para os corticotrópicos na hipófise anterior através do sistema portal hipofisário. O hormônio adrenocorticotrofina estimula o córtex adrenal a liberar glicocorticóides e desempenha um papel importante na resposta ao estresse . 
+
+
+== Função ==
+
+A principal função das células corticotrópicas é produzir o pró-hormnio POMC em resposta à libertação de CRH a partir do hipotálamo. O POMC é clivado em vários hormônios peptídicos através da atividade enzimática. Além da síntese nos corticotropos, o POMC também é sintetizado nas células melanotróficas, no núcleo arqueado do hipotálamo e nos melanócitos.  O POMC sofre clivagem diferencial em vários hormônios peptídicos, dependendo da célula em que é sintetizado. O POMC nos corticotrópicos de seres humanos é proteoliticamente clivado por pr-convertases em ACTH e β-lipotropina .  Nos ratos, no entanto, o ACTH é ainda clivado em α-MSH e CLIP no corticótropo.  Esses hormônios peptídicos são armazenados nas vesículas das células corticotrópicas e são liberados em resposta à estimulação por CRH do hipotálamo. Essas vesículas, em seguida, deixam a hipófise anterior e viajam por todo o corpo através da corrente sanguínea para atingir seus tecidos-alvo. 
+
+
+== Papel no eixo hipotálamo-hipófise-adrenal ==
+
+
+=== Estimulação ===
+As células corticotrópicas desempenham um papel importante no circuito de realimentação do eixo hipotálamo-hipófise-adrenal (HPA) e na resposta ao estresse . Os corticotropos produzem e liberam ACTH, um hormônio peptídeo de 39 aminoácidos, em resposta à liberação do hormônio liberador corticotrópico (CRH) do hipotálamo. O CRH é um hormônio peptídeo de 41 aminoácidos que é secretado pelas células neurossecretoras parvocelulares, encontradas no núcleo paraventricular do hipotálamo. Os estímulos para a liberação de CRH a partir do hipotálamo incluem: 
+
+Forskolin 
+Interleucina-6
+Peptídeo ativador de adenilato ciclase da hipófise (PACAP)
+Estresse ou trauma
+Ritmos circadianos A forskolina e o PACAP regulam a síntese de CRH no hipotálamo, ligando -se a receptores acoplados à proteína G e estimulando e aumentando o cAMP nas células através da ação da adenilato ciclase . Isso ativa a via da proteína cinase A, que resulta na ligação da proteína de ligação ao elemento de resposta cAMP (CREB) à região promotora de CRH e induz a transcrição de CRH. Este processo é reprimido por glicocorticóides; esse feedback inibitório ajuda a manter a homeostase da resposta ao estresse. Uma vez liberado pelo hipotálamo, o CRH viaja pelo sistema portal hipofisário até a hipófise anterior, onde se liga aos receptores acoplados à proteína G na membrana celular corticotrópica e estimula a produção de AMPc. Os efeitos da CRH nos corticotrópicos da hipófise são potencializados pela vasopressina (AVP); O AVP é um indutor fraco da produção de ACTH por si só, mas tem um forte efeito sinérgico na produção de ACTH quando o CRH também está ligado ao receptor.  Esses hormônios sinalizadores agem via transdução de sinal, causando a síntese de POMC e eventual clivagem para ACTH e β-lipotropina. Esses hormônios peptídicos são então liberados na corrente sanguínea, onde circulam e atuam nos tecidos-alvo. 
+
+
+=== Função ===
+O ACTH liberado pelos corticotrópicos se liga aos receptores acoplados à proteína G no córtex adrenal, onde estimula a produção de glicocorticóides (principalmente cortisol).  O ACTH se liga ao receptor da melanocortina 2 e, através da transdução de sinal, aumenta os níveis de colesterol esterase, o transporte do colesterol através da membrana mitocondrial, a ligação do colesterol ao P450SCC e um aumento na síntese da pregnenolona.  Também serve como estímulo secundário para a síntese de mineralocorticóides, como a aldosterona, que desempenham um papel importante na regulação do equilíbrio de sal no sangue.  Os glicocorticóides liberados pelo córtex adrenal inibem a produção de CRH e ACTH, formando um loop de feedback negativo.    
+
+
+== Doenças associadas ==
+
+
+=== Doença de Cushing ===
+As células corticotrpicas podem ter efeitos prejudiciais no corpo se expressarem muito ou pouco ACTH. Um exemplo é a doença de Cushing, que pode resultar da superprodução de ACTH nos corticotropos devido a tumores hipofisários conhecidos como adenomas corticotróficos; essa é a causa de aproximadamente dois terços daqueles diagnosticados com a doença de Cushing.  Também é possível que essa doença possa resultar da produção de ACTH em um tumor não hipofisário, conhecido como produção ectópica, ou que as glândulas supra-renais possam superproduzir o cortisol devido a um tumor adrenal.  Essa superprodução de ACTH causa um aumento nos níveis de cortisol devido ao aumento da síntese de glicocorticóides no córtex adrenal, resultando em vários sintomas associados. 
+Os sintomas da doença de Cushing incluem: 
+
+Depósitos de gordura no pescoço ou nas costas
+Estrias (estrias) 
+Fadiga
+Osteoporose
+Sistema imunológico enfraquecido
+Hipertensão
+
+
+=== Doença de Addison ===
+As células corticotrópicas também podem ser a causa da doença de Addison em alguns casos. A doença de Addison é caracterizada por insuficiência adrenal, definida como subprodução de glicocorticóides pelo córtex adrenal. Se os cortricrotopos produzem menos ACTH que necessário, isso poderesultar em insuficiência adrenal secundária, fazendo com que as glândulas supra-renais produzam pouco cortisol. Isso pode ser causado por tumores da hipófise anterior ou hipotálamo, inflamação ou cirurgia.  Em última análise, isso resulta na subprodução do cortisol, que apresenta muitos sintomas prejudiciais. 
+Os sintomas da doença de Addison incluem: 
+
+Perda de peso 
+Hipoglicemia
+Hipotensão
+Irritabilidade
+
+
+== Veja também ==
+Neuroendocrinologia
+Glândula pituitária
+Célula somatotrópica
+Célula lactotrópica
+Célula gonadotrópica

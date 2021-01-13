@@ -1,0 +1,30 @@
+A saturação de oxigênio (português brasileiro) ou saturação de oxigénio (português europeu) é um caso particular do uso do termo saturação (do lat. saturatio) que se utiliza para indicar a quantidade (em %) de um gás num líquido. Em medicina mede-se a saturação de oxigênio em fluídos corporais, geralmente no sangue.
+Em medicina, o termo emprega-se habitualmente para referir ao nível de oxigenação do sangue. A oxigenação produz-se quando as moléculas de oxigênio entram nos tecidos do corpo. Por exemplo, o sangue se oxigena nos pulmões, onde as moléculas de oxigênio viajam do ar para o sangue e se combinam com a hemoglobina formando a oxi-hemoglobina, e com ela se distribuem por todo o corpo.
+A saturação de oxigênio no sangue, concretamente a saturação arterial de oxigênio (SaO2), é um importante parâmetro para avaliar a função respiratória. Em muitos casos, segundo o quadro clínico, a idade e a situação do paciente, permite tirar conclusões sobre a função e a atividade pulmonar. 
+
+
+== Saturação de oxigênio no sangue ==
+O uso mais corrente da saturação em medicina é a medida da saturação de oxigênio no sangue (saturação de oxigênio no sangue arterial) mediante o método da pulsioximetría para poder detectar a insuficiência respiratória. É importante, em particular, o monitoramento do paciente durante anestesia geral nos procedimentos médicos, ou durante a oxigenoterapia no caso de um estado grave do paciente. De fato mede-se a percentagem de oxigênio vinculado com a hemoglobina do sangue (o conteúdo de oxi-hemoglobina).
+Os valores de saturação expressam-se com a abreviatura "S", acrescentando o símbolo químico do oxigênio..
+Em baixas pressões parciais de oxigênio, a maioria da hemoglobina está desoxigenada. Ao redor de 90% (o valor varia segundo o contexto clínico), a saturação de oxigênio aumenta de acordo com uma curva de dissociação de oxi-hemoglobina e aproxima-se ao 100% a pressões parciais de oxigênio superiores aos 10 kPa.
+
+
+== Saturação de oxigênio e pressão parcial de oxigênio ==
+
+A curva mostra que a percentagem de hemoglobina saturada de oxigênio está diretamente relacionada com a pressão arterial parcial de oxigênio. Quanto mais alta é a pressão parcial do oxigênio (pO2) mais alta é a saturação de oxigênio em sangue. Devido à dependência da afinidade do oxigênio com a hemoglobina, que depende do número de moléculas de O2 já vinculadas esta relação não é linear. A curva do O2  vinculado mostra uma pendente em forma de "S".Valores médios:
+pO2 (sangue arterial): 71 - 100 mm Hg; sO2: 94 - 97 %
+pO2 venosa mista: pO2: 36 - 44 mm Hg; sO2: 65 - 82 %
+
+
+== Medida e alcance da saturação ==
+A medida da saturação realiza-se com o oxímetro de pulso e baseia-se no princípio de absorção de uma luz característica pela oxi-hemoglobina. O valor da saturação de oxigênio em sangue para os humanos sãos está na faixa de 95-99%. Para as pessoas fumantes, estes valores são mais baixos. Uma saturação de oxigênio em sangue inferior ao 90% implica uma hipoxia que pode ser originada, entre outras causas, por uma anemia. Um dos sintomas de uma baixa saturação de oxigênio no sangue é a cianose.
+
+
+== Referências ==
+
+
+== Enlaces externos ==
+Wikimedia Commons alberga uma categoria multimédia sobre Saturação de oxigénio.ligação=|alt=|20x20px
+Reinhart paper
+Interactive haemoglobin saturation graph
+Saturation]

@@ -1,0 +1,97 @@
+Os meios de culturas são preparações químicas geralmente usadas para a realização de análises laboratoriais, que possuem na sua fórmula nutrientes entre outras substâncias que provém as condições necessárias para que os microrganismos inoculados multipliquem-se em um meio artificial, para entre outras funções, o seu estudo e análise.
+
+
+== Composição ==
+Entre os principais componentes de um meio de cultura estão as fontes de carbono e energia (como os açúcares), as fontes de nitrogênio, fósforo e sais minerais. Diversos outros componentes podem ser encontrados em um meio especifico para um determinado organismo (meio seletivo) visando satisfazer as condições ideias para determinado teste. Alguns destes componentes visam nutrir e incentivar apenas os micro-organismos que serão objetos de estudo e por tanto devem conter fatores de Crescimento específicos como vitaminas, aminoácidos, e outros mais.Por outro lado podemos ter num meio agentes/constituintes que inibam o crescimento de determinados micro-organismos ou até mesmo a ausência de algum componente essencial para um determinado grupo (ausência de sangue no ágar MacConkey permitindo a identificação de Streptococcus spp.), sendo estes também considerados meios seletivos.
+Além de meios seletivos existem também meios que permitem diferenciar microrganismos (meios diferenciadores ou diferenciais), o exemplo mais simples é a existência de um indicador de pH que permite verificar se, por exemplo, um açúcar presente no meio é metabolisado pois, ao ser, implica a produção de metabólitos que acidificam o meio alterando o seu pH e consequentemente a alteram a cor do indicador de pH.
+
+
+== Tipos ==
+
+
+=== Quanto à consistência ===
+sólido
+semi-sólido
+líquido
+
+
+=== Quanto à função ===
+Meio quimicamente definido: São meios que se conhece a composição química exata, e ao adicionar ou retirar um componente ao meio, pode-se saber se aquele constituinte é essencial para o crescimento do microrganismo. Ex.: meio para cultivo de bactérias autotróficas e uso experimental em laboratórios.
+Meio complexo: São meios preparados a partir de produtos naturais e, em que não se conhece a composição química exata, portanto, ditos quimicamente indefinidos. Ex.: Meio para cultivo de bactérias heterotróficas e fungos. Contém extrato de carne (C,N,P), peptonas, extrato de leveduras (vitaminas), sangue, leite, soro, ágar, etc.
+Meios enriquecidos: Favorece o desenvolvimento de uma população bacteriana que está em desvantagem entre outras populações. Ex.: Caldo Tetrationato e Selenito-Cistina para cultivo de Salmonelas (líquidos), Caldo Tioglicolato para Clostridium perfringens.
+Seletivos: Favorece o crescimento de uma determinada bactéria de interesse, impedindo o crescimento de outras bactérias. Ex.: Ágar sabouraud dextrose, PH 5,6, é utilizado no crescimento de fungos que são favorecidos, em relação as bactérias, pelo baixo PH.
+Meio diferencial: possui substâncias que evidenciam uma característica que permite separar um grupo ou uma espécie de microrganismo, facilitando a identificação de um grupo de bactérias de interesse, enquanto existem outras que crescem no mesmo meio. Ex.: Meio de Teague ou Eosina de azul de metileno (diferencial para coliformes), Ágar MacConkey para diferenciação de enterobactérias, Ágar sangue, Ágar Baird-Parker para isolamento e diferenciação de cocos Gram positivos (sólidos).
+
+
+=== Quanto à natureza ===
+Animados
+Inanimados
+
+
+== Formulação dos meios de cultura ==
+Os meios de cultura são classificados quanto ao estado físico em sólidos, quando contém agentes solidificantes, principalmente ágar (cerca de 1 a 2,0 %). Os semi-sólidos, quando a quantidade de ágar e ou gelatina é de 0,075 a 0,5 %, dando uma consistência intermediária, de modo a permitir o crescimento de micro-organismos em tensões variadas de oxigênio ou a verificação da motilidade e também para conservação de culturas. Os líquidos, sem agentes solidificantes, apresentam-se como um caldo, utilizados para ativação das culturas, repiques de microrganismos, provas bioquímicas, e dentre outros.
+Os meios de cultura podem ainda ser classificados quanto a procedência dos constituintes em naturais ou complexos, quando usa ingredientes com composição química não definida, tais como extratos de vegetais (malte, tomate, amido de tubérculos, peptona de soja, etc.) de animais (carne, cérebro, fígado, caseína, etc.) e de microrganismos (levedura) e artificiais, sintéticos ou ainda quimicamente definidos quando a composição química é conhecida (usados para trabalhos de pesquisa) e seus componentes servem para suprir as exigências nutritivas dos microrganismos, em fontes de carbono, nitrogênio, vitaminas, energia, sais minerais, dentre outros, quando então são conhecidas as necessidades nutricionais específicas. Quanto à composição química podem ser simples (meios básicos) ou complexos.
+Básicos são aqueles que permitem o crescimento bacteriano, sem satisfazer contudo nenhuma exigência em especial (Ex. caldo e ágar simples).
+Especiais quando cumprem com as exigências vitais de determinados microrganismos, como meio de infusão de cérebro e coração, ágar suco de tomate, ágar sangue, meio de Loeffler (com soro bovino), ágar chocolate (ágar simples fundido, adicionado de sangue e aquecido a 80 °C), Meio de Tarozzi (com fragmento de fígado - para anaeróbios), Meio de Lowenstein, meios Shahidi Ferguson Perfringens (SFP), Triptose Sulfito Ciclosserina (TSC), Baird-Parker (com gema de ovo) (meios ricos ou meios enriquecidos com as substâncias citadas), etc.
+
+
+== Classificação ==
+De acordo com a finalidade bacteriológica ou micológica os meios especiais podem ser classificados em:
+
+Meios de pré-enriquecimento - são aqueles que permitem a dessensibilização de microrganismos injuriados, i.e., para amostras que sofreram algum tipo de tratamento (térmico ou químico). Ex. Água peptonada, caldo lactosado (isolamento de salmonelas de leite em pó).Meios de Enriquecimento - quando proporcionam nutrientes adequados ao crescimento de microrganismos presentes usualmente em baixos números ou de crescimento lento, bem como microrganismos exigentes e fastidiosos. Esses meios têm a propriedade de estimular o crescimento de determinados microrganismos, mas existem alguns que também podem inibir o crescimento de outros. Ex. caldo tetrationato e selenito-cistina para cultivo de salmonelas (líquidos), caldo tioglicolato para Clostridium perfringens.Diferenciais - quando contém substâncias que permitem estabelecer diferenças entre microrganismos muito parecidos, tais como meio de Teague ou Eosina Azul de Metileno (diferencial para coliformes), Ágar MacConkey para a diferenciação de enterobactérias, Ágar sangue, ágar Baird-Parker para isolamento e diferenciação de cocos Gram positivos (sólidos).Seletivos - os que contém substâncias que inibem o desenvolvimento de determinados grupos de microrganismos, permitindo o crescimento de outros. Exemplo: meios com telurito de potássio (para isolamento de Corynebacterium diphtheriae), ágar Salmonella-Shigella (SS) e ágar MacConkey, meios com sais biliares e verde brilhante para isolamento seletivo de Salmonella, meios com 7,5% de cloreto de sódio, meio Baird-Parker, para isolamento de Staphylococcus aureus, meios com antibióticos para isolamento de diversos microrganismos (TSC, SFP, meio de Blaser, meio de Skirrow, etc.). A maioria deles é também diferencial, permitindo diferenciar as colônias (sólidos) dos microrganismos.Meios de triagem - meios que avaliam determinadas atividades metabólicas permitindo caracterização e identificação perfunctória ou presuntiva de muitos microrganismos (ágar tríplice açúcar e ferro, meio Instituto Adolfo Lutz, ureia, etc.);Identificação - prestam-se para a realização de provas bioquímicas e  verificação de funções fisiológicas de organismos submetidos a identificação (meios Oxidação/Fermentação, Ágar Citrato, Caldo nitrato, meio semi-sólido, caldo triptofano, meio de Sulfito Indol Motilidade, etc.;Dosagem -  empregados nas determinações de vitaminas, antibióticos e aminoácidos;Contagem - empregados para a determinação quantitativa da população microbiana (Ágar de Contagem em Placas, TSC, Ágar Batata Dextrose, Ágar Baird-Parker, etc.);Estocagem ou manutenção - utilizados para conservação de microrganismos no laboratório, i.e. garantem a viabilidade de microrganismos (Ágar Sabouraud, Meios com leite, Ágar suco de tomate, Ágar sangue, Ágar Simples, meio semi-sólido, etc.)
+
+
+== Preparo dos meios de cultura ==
+A água utizada na reidratação dos meios de cultura deverá ser destilada ou deionizada.
+Os meios preparados comerciais, devem ser pesados separadamente em papel manteiga ou papel alumínio
+Adicionados em um único frasco (normalmente em béquer, erlenmeyer);
+Hidratar em pequena quantidade de água até que todo o meio fique úmido e só depois deve-se acrescentar o restante da água.
+Sempre que for necessário levar o meio para fundir, usar vidro Pyrex, aquecer sobre a tela de amianto ou similar e tripé, chapar aquecera, ou até em banho-maria na autoclave. Bico de Bunsen ou micro-ondas não são indicados, pois podem alterar drasticamente as propriedades físico-químicas dos nutrientes encontradas no meio em preparo.
+Usar sempre luvas térmicas apropriadas para laboratório para manipular vidrarias quentes.
+Sempre que for usado o termo "esterilizar em autoclave", o tempo de esterilização é de 15 minutos e a temperatura de 121ºC.
+Verifique a precisão da temperatura e controle de pressão da autoclave, utilizando para isso um indicador biológico Bacillus stearothermophilus, que morrem a 121 °C, entre 12-15 minutos.
+Quando distribuir o meio antes de autoclavar, os tubos não precisam estar esterilizados.
+Quando distribuir o meio após a autoclavação, os tubos, frascos, placas, pipetas e vidrarias ou materiais auxiliares obrigatoriamente devem ser estéreis.
+Os meios devem ser autoclavados com as tampas semi-abertas, para que a esterilização seja por igual em todo o conteúdo dos tubos e frascos; tampas fechadas não permitem a entrada do vapor.
+
+
+== Controle de qualidade ==
+Meios confecionados, colocar no mínimo 10% do lote preparado na estufa 35 ± 1°C por 24 horas para o controle de esterilidade.
+Não deve haver mudança de cor nem crescimento de qualquer colônia.
+As placas de Petri são de 50, 90 ou 150 mm de diâmetro
+Todos os meios confecionados devem ser devidamente identificados com o nome, data de fabricação, data de validade e tipo de armazenamento.
+Todos os meios de placa devem ser embalados em filme plástico PVC transparente para evitar o ressecamento.
+Evitar o uso de sacos plásticos para embalar as placas, a água de condensação formada facilita a proliferação de fungos; meios de cultura em tubos, colocar em sacos plásticos, procurando tirar o excesso de ar.
+
+
+== Alguns meios de cultura ==
+Ágar sangue: meio não seletivo, crescimento de bactérias gram – e +
+Ágar chocolate: meio nutritivo maioria bactérias
+Ágar thayer-martin: meio seletivo utilizado para isolamento Neisseria, inibe a maioria das outras bactérias.
+Ágar MacConkey: Seletivo gram -, inibe crescimento bactérias gram+
+Cled- Ágar cystine lactose eletrolyte deficient: meio que permite o crescimento de gram+ e gram-.
+Ágar eosin methilene blue (EMB): seletivo gram-, Inibe bactérias gram+. Substituir.
+Ágar Salmonella-Shigella (SS): seletivo e diferencial isolamento - fezes
+Ágar Colistin nalidix (CNA): seletivo para Streptococcus e Enterococos. Inibe bactérias gram-
+Caldo de tioglicolato: meio de enriquecimento maioria das bactérias
+Ágar tetrationato: meio de enriquecimento Salmonella sp
+Ágar karmali: meio seletivo para o isolamento de campylobacter sp
+
+
+== Materiais biológicos e os meios em que deverão ser semeados ==
+Secreções purulentas: sg, Mac,Tio
+Orofaringe, Nasal, Ocular: sg
+LCR: sg, CHO, Tio
+Fungo: Saboraund
+Vaginal, Uretral, Endocervical: CHO, sg
+Ponta de cateter: sg, Tio
+Urina: Cled e MacConkey
+Fezes: SS e MacConkey
+
+
+== Referências ==
+
+
+== Ligações externas ==
+Descrição dos Meios de Cultura Empregados nos Exames Microbiológicos - ANVISA
+Meios de Cultura Cromogênicos

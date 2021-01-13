@@ -1,0 +1,12 @@
+InterPro é uma plataforma com acesso a bancos de dados de famílias, domínios e lugares funcionais de proteínas onde as características identificáveis encontradas em proteínas conhecidas podem ser aplicadas a novas sequências de proteínas. 
+Foi criada em 1999 depois da formação do InterPro Consortium entre o grupo de Swiss-Prot no Instituto Europeu de Bioinformática e o Instituto Suíço de Bioinformática e os membros fundadores dos bancos de dados Pfam, PRINTS, PROSITE e ProDom. Actualmente integra informação dos bancos de dados PROSITE, Pfam, PRINTS, ProDom, SMART, TIGRFAMs, PIRSF, SUPERFAMILY, GENE3D e PANTHER.
+O banco de dados está disponível para buscas por texto e baseadas em sequência através de um serviço web, e para descargas por FTP anônimo. Inclui vários formatos de saída como tabelas de texto, documentos XML e gráficos para facilitar a análise de seus resultados. Ao igual que os outros bancos de dados do Instituto Europeu de Bioinformática, se encontra em domínio público.
+
+
+== Referências ==
+Mulder NJ, Apweiler R, Attwood TK, Bairoch A, Bateman A, Binns D, Bradley P, Bork P, Bucher P, Cerutti L, Copley R, Courcelle E, Dás Ou, Durbin R, Fleischmann W, Gough J, Haft D, Harte N, Hulo N, Kahn D, Kanapin A, Krestyaninova M, Lonsdale D, Lopez R, Letunic I, Madeira M, Maslen J, McDowall J, Mitchell A, Nikolskaya AN, Orchard S, Pagni M, Ponting CP, Quevillon E, Selengut J, Sigrist CJ, Silventoinen V, Studholme DJ, Vaughan R, Wu CH (2005). «InterPro, progress and status in 2005». «InterPro, progress and status in 2005»: D201–5. PMID 15608177. doi:10.1093/nar/gki106  Rês.  (Database issue): D201-5.   doi:10.1093/nar/gki106. 
+Quevillon E, Silventoinen V, Pillai S, Harte N, Mulder N, Apweiler R, Lopez R (2005). «InterProScan: protein domains identifier». «InterProScan: protein domains identifier»: W116–20. PMID 15980438. doi:10.1093/nar/gki442  Rês.  (Site Server issue): W116-20.   doi:10.1093/nar/gki442. 
+
+
+== Ligações externas ==
+Website de InterPro

@@ -1,0 +1,40 @@
+Citometria de fluxo é uma técnica utilizada para contar, examinar e classificar partículas microscópicas suspensas em meio líquido em fluxo. Permite a análise de vários parâmetros simultaneamente, sendo conhecida também por citometria de fluxo multiparamétrica. Através de um aparelho de detecção óptico-eletrônico são possíveis análises de características físicas e/ou químicas de uma simples célula.
+
+
+== Princípio ==
+Um feixe de luz (normalmente laser) de um único comprimento de onda (cor) é direccionado a um meio líquido em fluxo. 
+Cada partícula suspensa passando através do feixe de luz do laser, dispersa a luz de uma forma, e os corantes químicos fluorescentes (fluorocromos) encontrados na partícula ou acoplados a anticorpos específicos juntos as partículas podem ser excitados emitindo luz de comprimento de onda característico.Um número de dectores são apontados ao local onde o fluxo passa através do feixe de luz; um na posição do feixe de luz (Forward Scatter ou FSC) e vários perpendiculares a este (Side Scatter ou SSC), além de um ou mais detectores fluorescentes.  Esta combinação de luz dispersa e fluorescente é captada pelos detectores, de acordo com filtros situados a frente dos mesmos. Analisando as flutuações de brilho de cada detector (uma para cada pico de emissão fluorescente) é possível explorar vários tipos de informação sobre a estrutura física e química de cada partícula individual. FSC correlaciona-se com o volume celular e SSC depende da complexidade interna da partícula, por exemplo: forma do núcleo, quantidade e tipo dos grânulos citoplasmáticos e rugosidade da membrana. 
+
+
+== Citômetros de fluxo ==
+
+Os citômetros de fluxo modernos são capazes de analisar várias partículas em cada segundo em "tempo real" e podem ativamente separar e isolar partículas com propriedades específicas. Um citômetro de fluxo é similar a um microscópio que produz, ao invés de imagens da célula, uma quantificação de um conjunto de parâmetros. Para análise de tecidos biológicos é necessária a preparação de uma suspensão de células.
+Um citômetro de fluxo tem 5 principais componentes:
+
+uma célula de fluxo - flow cell
+uma fonte de luz - normalmente são usados lasers (de excitação de gases, como Argônio e Hélio-Neon) e lasers de estado sólido (solid state laser) emitindo em diversos comprimentos de onda (cores), como: 355 nm; laser UV; 405 nm; laser violeta; 488 nm; laser azul; 561 nm, laser amarelo-verde (yellow-green laser); 633 ou 638 nm, laser vermelho;  808 nm, laser infravermelho (Infrared laser).
+um sistema ótico/eletrônico compostos de filtros e detectores (PMTs ou APDs) que captam as luzes emitidas pelos lasers e pelas substâncias fluorescentes e as convertem em sinais eletrônicos analógico e em digitais (ADC), e amplificando esses sinais (linear ou logarítmico).
+um computador para análise de sinais.
+
+
+== Parâmetros medidos ==
+Os parâmetros possíveis de medir são: volume e complexidade morfológica das células, pigmentos celulares como clorofila, ADN (análise de tipo de células, cinética celular, proliferação, etc.), RNA, análise e classificação de cromossomas, proteínas, antigénios à superfície celular (marcadores CD), antigénios intracelulares (várias citosinas, mediadores secundários, etc.), antigénios nucleares, actividade enzimática, pH, cálcio ionizado intracelular, magnésio, potencial membranar, fluidez membranar, apoptose (quantificação, medidas da degradação do DNA, potencial da membrana mitocondrial, alterações na permeabilidade, actividade da caspase), viabilidade celular, monitorização da electropermeabilização das células, caracterização da multi resistência a fármacos em células tumorais, glutationa, várias combinações (ADN/antigénios de superfície, etc.). Esta lista é muito longa e está em constante expansão.
+
+
+== Principais aplicações ==
+Na hematologia algumas das aplicações da citometria de fluxo são atualmente utilizadas regularmente para o diagnóstico de algumas desordens hematológicas, como p. ex. as leucemias, a hemoglobinúria paroxística noturna entre outras. Estas aplicações concernem bem também ao estudo funcional das células sadias que coloca em evidência a natureza patológica das células analisadas.
+Em cancerologia, a detecção da célula patológica é a aplicação mais desenvolvida. Esta detecção repousa essencialmente sobre a medição de um conteúdo anormal de DNA no núcleo da célula tumoral.
+Na imunologia utiliza-se a citometria de fluxo para a detecção ou identificação de subtipos de células implicadas na imunidade, assim como seus perfis funcionais, de estágios de diferenciação, e de morte celular . 
+O ciclo celular representa a integralidade do período de divisão, pode-se dizer, o conjunto de acontecimentos bioquímicos e morfológicos que são responsáveis pela proliferação celular. A citometria oferece uma metodologia rápida e simples de se colocar em obra para analisar o ciclo celular. Ela permite de acompanhar a distribuição das células nas diferentes fases do ciclo em função de diversos estímulos ou da adição de algumas drogas. Ela permite também ver a presença de células com os conteúdos anormais de DNA.
+Numerosos estudos em farmacologia referentes a citometria de fluxo dão enfoque em estudos de drogas antimitóticas, imunoterapia.
+Em oceanografia, a citometria de fluxo tornou-se um método de rotina para contar as diferentes populações de Picoplancton fotossintética sob a base da fluorescência de pigmentos semelhante a clorofila. 
+As outras pesquisas são referentes a análise de cromossomos, fisiologia vegetal (para a seleção de plantas mais resistentes), sexagem de semen, produção de cálcio, estudos da produção e ativação enzimática.
+Citometria de Fluxo em escala nanométrica (nano-scale flow cytometry). O avanço da citometria de fluxo em resolução de escala de nanopartículas permite avaliar partículas previamente ignoradas nas análise citofluorimétricas traducionais. Várias características da citometria de fluxo nanométrica fazem dela uma plataforma atraente para o estudo de nanopartículas, como as vesículas extracelulares. Algumas delas são a capacidade de detectar um grande número de eventos e discriminação de eventos raros, ao mesmo tempo em que coleta informações sobre a expressão fenotípica. O citômetro de fluxo CytoFLEX (Beckman Coulter) possui resolução suficiente para detectar partículas de poliestireno de 80 nm, permitindo a análise de nanopartículas biológicas dentro de um contexto fenotípico.
+
+
+== Referências ==
+
+
+== Bibliografia ==
+Sales, Mirtes (2013). Citometria de Fluxo: aplicações no laboratório clínico e de pesquisa. São Paulo: Ateneu. 610 páginas  
+Bertho, Alvaro Luiz (2018). «CITOMETRIA DE FLUXO: FUNDAMENTOS E APLICAÇÕES NA PESQUISA CIENTÍFICA» (PDF). Instituto Oswaldo Cruz - FIOCRUZ. Consultado em 28 de maio de 2019

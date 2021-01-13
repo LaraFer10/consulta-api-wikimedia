@@ -1,0 +1,29 @@
+As células T de memória (ou com memória) são um conjunto de linfócitos T que se encontraram previamente com o seu antígeno correspondente e reconhecem-no; a isto chamam-se também as células com experiência de antígeno. As células T de memória que têm "experiência de antígeno" porque se encontraram previamente com ele em anteriores infecções víricas ou bacterianas, ou por vacinação ou pelo encontro com células cancerosas, vivem um longo período em inactividade, mas um segundo encontro com o mesmo invasor faz com que se reproduzam rapidamente e originem uma resposta imunitária (secundária) mais rápida e forte do que a que se produziu pela primeira vez que teve contacto com o invasor (resposta primária). Este comportamento utiliza-se em ensaios de proliferação de linfócitos T, que podem indicar a exposição prévia a antígenos específicos.
+Em resumo, a função das células T com memória é actuar na resposta secundária para realizar uma resposta rápida e forte contra um antígeno que aparece de novo e com o qual já teve um contacto prévio.
+
+
+== Subpopulações ==
+Dentro da população total de células T de memória distinguem-se subpopulações reconhecidas pela expressão diferencial do receptor de quimiocinas CCR7 e L-selectina (CD62L).As células T de memória específicas de antígeno que actuam contra vírus e outras moléculas microbianas podem ser do tipo TCM ou TEM, e ainda que a maioria da informação esteja baseada actualmente em observações de células T citotóxicas (CD8+), parecem existir nas células T colaboradoras (CD4+) populações similares.
+
+As células TCM de memória central expressam L-selectina e CCR7, e segregam IL-2, mas não IFNγ nem IL-4. Acredita-se que têm algumas propriedades associadas com as células-tronco. A CM apresenta uma capacidade de autorenovação devido ao alto nível de fosforilação que apresenta um importante factor de transcrição chamado STAT5. No rato, as células TCM conferem uma protecção superior contra os vírus, bactérias e o cancro em vários sistemas modelo em comparação com as células TEM.Outros dois subtipos de células de memória efectoras muito relacionados, que expressam genes para moléculas essenciais para a função citotóxica das células T CD8, são:
+T de memória efectoras (TEM), que não expressam L-selectina nem CCR7 mas produzem citocinas efectoras como IFNγ e IL-4.
+células T de memória RA (TEMRA).
+Recentemente, foram descritas no rato células T CD8+ com experiência com o antígeno com aparentes capacidades de autorenovação. Esta população, agora chamada de células mães de memória (TSCM), pode identificar-se põe-los marcadores CD44(baixo)CD62L(alto)CD122(alto)sca-1(+) e pode gerar TCM e TEM ao mesmo tempo que as células se mantêm a sim mesmas (uma célula filha diferencia-se no novo tipo e a outra não). Em estudos pré-clínicos, as células TSCM transferidas adoptivamente conferem uma imunidade superior em comparação com outras subpopulações de células T de memória. Têm sido levadas a cabo várias investigações que visam saber se essas subpopulações de rato se encontram também nos humanos.Mais recentemente, exploraram-se outras subpopulações utilizando as moléculas co-estimulatórias CD27 e a expressão de CD28 para além de CCR7 e CD62L.
+
+
+== Referências ==
+
+
+== Bibliografia ==
+Janeway, Charles (2005). Immunobiology: the immune system in health and disease. New York: Garland Science. ISBN 978-0-443-07310-6 
+Lichtman, Andrew H.; Abbas, Abul K. (2003). Cellular and molecular immunology. Philadelphia: Saunders. ISBN 0-7216-0008-5  !CS1 manut: Nomes múltiplos: lista de autores (link)
+
+
+== Ligações externas ==
+Grupo das células T - Universidade de Cardiff
+
+
+== Ver também ==
+Célula T virgem
+Recombinação V(D)J do ADN
+Célula B de memória

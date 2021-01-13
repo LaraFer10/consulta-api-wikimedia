@@ -1,0 +1,14 @@
+RuBisCO (abreviatura de ribulose-1,5-bisfosfato carboxilase oxigenase) é a enzima mais abundante nas plantas e, por conseguinte, a proteína mais abundante no planeta.Esta enzima capta o dióxido de carbono procedente do ar e um açúcar existente na célula chamado RuDP (ribulose 1,5-difosfato ou RuBP - ribulose bis-fosfato). A reacção entre estes dois reagentes dá origem a duas moléculas do açúcar PGA (fosfoglicerato). A RuBisCO é assim responsável pelo importante primeiro passo do ciclo de Calvin e em concreto pela fixação do dióxido de carbono na sua forma orgânica.
+É importante dizer que a reacção pode acontecer tanto com dióxido de carbono quanto com oxigênio molecular (O2). Quando o oxigênio é absorvido, o processo faz parte da fotorespiração, sem absorção de carbono. Algumas plantas (por volta de 5% das plantas existentes na Terra), utilizam um processo intermédio e mais seletivo para absorção do dióxido de carbono, evitando o contato direto com o oxigênio do ar típico do "processo rubisco" (às vezes chamado C3), com o processo chamado C4 ou o CAM ("Crassulacean acid metabolism"). O C4 usa estruturas dentro da célula e um sistema bioquímico de transporte que envolve moléculas com 4 átomos de carbono (por isso C4). O CAM é usado por plantas em ambientes muito áridos, em que os estômatos só abrem à noite, a fim de economizar água, que se perderia por evaporação se estes ficassem abertos durante o dia. Assim, à noite, absorvem o dióxido de carbono em moléculas de 4 carbonos, que ficam armazenadas em vacúolos para serem utilizadas durante o dia.
+Os processos C3, C4 e CAM têm vantagens e desvantagens. O C3 é mais direto, gastando cerca de 18 ATPs para fixar cada molécula de dióxido de carbono, mas requer concentrações mais altas de dióxido de carbono e água. O C4 requer mais estruturas e mais energia (30 ATPs), porém trabalha com concentrações de dióxido de carbono mais baixas na atmosfera e é mais apropriado para ambientes secos. O CAM é usado em ambientes predominantemente áridos, mas fixa pouco dióxido de carbono, levando a taxas de crescimento da planta baixas.
+Existe ainda um quarto processo, chamado pirenoide, que é usado pelas algas e plantas aquáticas Ceratophyllaceae.
+
+
+== Processo ==
+As cianobactérias e as plantas compartilham o RuBisCO, que captura o dióxido de carbono do clima. A captura de carbono é a primeira de uma série de reações que transformam carbono em moléculas de alta energia. RuBisCO nas plantas, muitas vezes é bloqueado por pequenas moléculas que se ligam a ele. Aqui, a Rubisco activase (Rca) regula o RuBisCO, removendo moléculas indesejadas para que o RuBisCO possa funcionar novamente.Foi identificado um gene cianobacteriano que se parece com o que codifica a RuBisCO activase da planta. O gene codifica a proteína cianobacteriana do tipo ativase (ALC). A ALC ajuda seu hospedeiro a identificar os níveis de CO2 para ajustar as taxas de fotossíntese.
+
+
+== Referências ==
+
+
+== Leitura adicional ==

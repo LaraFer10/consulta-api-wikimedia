@@ -1,0 +1,40 @@
+O açúcar nucleótido (ou nucleotídeo) é a forma ativada dos monossacarídeos. Os açúcares nucleotídeos atuam como doadores de glicosila nas reações de glicosilação. Essas reações são catalisadas por um grupo de enzimas chamadas glicosiltransferases.
+
+
+== História ==
+O anabolismo dos oligossacarídeos — e, portanto, o papel dos açúcares nucleotídeos — não ficou claro até a década de 1950, quando Leloir e seus colaboradores descobriram que as enzimas-chave nesse processo são as glicosiltransferases. Estas enzimas transferem um grupo glicosilo de um nucleido de acar para um aceitador.
+
+
+== Importância biológica e energética ==
+Para atuar como doadores de glicosila, esses monossacarídeos devem existir em uma forma altamente energética. Isso ocorre como resultado de uma reação entre o nucleosídeo trifosfato (NTP) e o monofosfato de glicosila (fosfato no carbono anômero). A recente descoberta da reversibilidade de muitas reações catalisadas pela glicosiltransferase coloca em questão a designação de nucleotídeos de açúcar como doadores "ativados".
+
+
+== Tipos ==
+Existem dez nucleotídeos de açúcar em humanos que atuam como doadores de glicosila e podem ser classificados dependendo do tipo de nucleosídeo que os formam: 
+Difosfato de uridina: UDP-α-D-Glc, UDP-α-D-Gal, UDP-α-D-GalNAc, UDP-α-D-GlcNAc, UDP-α-D-GlcA, UDP-α-D-Xil
+Difosfato de guanina: GDP-α-D-Man, GDP-β-L-Fuc.
+Monofosfato de citosina: CMP-β-D-Neu5Ac, é o único açúcar nucleotídeo na forma de monofosfato de nucleotídeo.
+Difosfato de citosina: CDP-D-Ribitol; O ribitol é um álcool de açúcar derivado da ribose e, por esse motivo, não forma uma estrutura de anel como os outros açúcares. Além disso, é o fosfato de ribitol que é transferido deste doador, ao invés do açúcar sozinho, tornando-o único, até agora, em humanos.Em outras formas de vida, muitos outros açúcares são usados e vários doadores são utilizados para eles. Todos os cinco nucleosídeos comuns são usados como base para um doador de açúcar nucleotídeo em algum lugar na natureza. Como exemplos, CDP-glicose e TDP-glicose dão origem a várias outras formas de nucleótidos dadores de açúcares CDP e TDP.
+
+
+== Estruturas ==
+Abaixo estão listadas as estruturas de alguns açúcares nucleotídeos (exemplo de cada tipo).
+
+
+== Relação com doença ==
+O metabolismo normal dos açúcares nucleotídicos é muito importante. Qualquer disfunção em qualquer enzima contribuinte levará a uma certa doença por exemplo:
+
+Miopatia do corpo de inclusão: é uma doença congênita resultante da alteração da função da epimerase UDP-GlcNAc.
+Distrofia corneana macular: é uma doença congênita resultante do mau funcionamento da GlcNAc-6-sulfotransferase.
+O distúrbio congênito na α-1,3 manosiltransferase resultará em uma variedade de sintomas clínicos, por exemplo, hipotonia, retardo psicomotor, fibrose hepática e vários problemas de alimentação.
+
+
+== Relação com a descoberta de medicamentos ==
+O desenvolvimento de estratégias quimioenzimáticas para gerar grandes bibliotecas de nucleotídeos de açúcar não nativo possibilitou um processo conhecido como glicorandomização, onde essas bibliotecas de nucleotídeos de açúcar servem como doadores de glicosiltransferases permissivas para produzir glicosilação diferencial de uma ampla gama de fármacos e produtos complexos baseados em produtos naturais conduz.
+
+
+== Referências ==
+
+
+== Ligações externas ==
+MeSH "Nucleotide sugars" "Nucleotide sugars"

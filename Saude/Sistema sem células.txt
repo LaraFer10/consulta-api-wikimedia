@@ -1,0 +1,10 @@
+O sistema sem células ou sistema livre de células é uma ferramenta in vitro amplamente utilizada para estudar reações biológicas que ocorrem dentro das células à parte de um sistema de células completas, reduzindo assim as complexas interações tipicamente encontradas quando se trabalha em uma célula inteira.  Esses sistemas permitiram que a biologia sintética livre de células emergisse, fornecendo controle sobre qual reação está sendo examinada, bem como seu rendimento, e diminuindo as considerações que seriam invocadas ao trabalhar com células vivas mais sensíveis.
+
+
+== Vantagens ==
+Os sistemas livres de células podem imitar sistemas dentro das células, mas são muito mais simples e seus mecanismos podem ser modelados matematicamente. Isso significa que eles podem ajudar a contribuir para a compreensão de fenômenos biológicos mais complexos, dividindo-os em partes mais simples.
+Os sistemas livres de células são robustos e permanecem estáveis após o congelamento (e até a liofilização), o que permite que eles sejam produzidos em grande escala e implantados em aplicações de diagnósticos de baixo custo à produção sob demanda de produtos biológicos - como vacinas - para medicina personalizada.
+Por não são vivos, sistemas livres de células podem ser usados para produzir compostos que vão além do escopo dos métodos tradicionais de biomanufatura. E eles não apresentam risco de auto-replicação ou biocontaminação fora do ambiente de laboratório.
+
+
+== Referências ==

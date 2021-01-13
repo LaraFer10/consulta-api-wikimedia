@@ -1,0 +1,202 @@
+O efeito de Bayliss, também conhecido como autorregulação miogénica do músculo liso vascular, é um reflexo do músculo liso vascular conhecido pela seu papel na autorregulação da pressão arterial. O efeito de Bayliss condiciona um aumento do tónus do músculo vascular liso quando a pressão arterial (PA) aumenta. Este mecanismo está claramente patente nas arteríolas, que são o principal foco da resistência ao fluxo sanguíneo de todo o sistema circulatório. O estímulo deste processo é o estiramento dos próprios miócitos.A resposta traduz-se numa contracção do músculo liso, que permite que o aumento da pressão arterial verificado a montante não se transmita a jusante para a rede capilar. Como tal, permite manter o fluxo sanguíneo constante e, consequentemente, os níveis de perfusão inalterados no leito capilar. Explica o porquê de, aquando de um aumento da pressão arterial (PA), as arteríloas não sofrerem uma vasodilatação tão grande quanto o esperado: pois  a estimulação da acção do sistema nervoso parassimpático vai ser contrariada por este mecanismo.
+Este fenómeno da fisiologia do sistema circulatório foi descoberto em 1902 pelo fisiologista inglês Sir William Maddock Bayliss, em honra de quem ainda hoje se usa o epónimo efeito de Bayliss para descrever este mecanismo.
+
+
+== Mecanismo de acção ==
+
+
+=== Pressupostos amplamente aceites ===
+Após os trabalhos Falguni Guharay e Frederick Sachs em 1983, que deram a conhecer a existência de canais iónicos activados por força física, foi possível propor um mecanismo explicativo do efeito de Bayliss. O estiramento dos miócitos da tunica media das arteríolas provoca modificações conformacionais em canais iónicos que ficam, então, activos. Subsistem ainda algumas dúvidas à cerca das vias de transdução de sinal despoletadas por estes canais. A actividade destes canais iónicos permite a despolarização do miócito, que é afinal um tipo de célula excitável. A despolarização provoca um influxo de ião cálcio (Ca2+) para o citoplasma dos miócitos.O aumento do cálcio citoplasmático é o passo fulcral para qualquer contracção muscular, pois vai ligar-se à tropomiosina C dos filamentos de actina das miofibrilhas e promover, então, a mudança das ligações das cabeça de miosina dependente de ATP, que permite a contracção do músculo. De salientar que esta contracção ocorreu independentemente da mediação do sistema nervoso autónomo, não sendo necessário nenhum potencial de acção. O efeito de Bayliss é um reflexo miogénico e não tem mediação nervosa. O nível de contracção das fibras musculares lisa será tanto maior quanto maior for o estiramento induzido pela pressão arterial, numa tentativa de manter do fluxo a jusante constante.O efeito de Bayliss condiciona assim uma diminuição do raio do vaso em resposta a um aumento da pressão arterial, o que pela equação de Poiseuille-Hagen e segundo o Princípio de Bernoilli se traduz na manutenção dos níveis do fluxo e, consequentemente, da perfusão sanguínea.
+
+
+=== Controvérsias e linhas de investigação ===
+O conhecimento do mecanismo de vasoconstrição miogénica apresenta ainda grandes lacunas no que às vias de transdução de sinal diz respeito. Nomeadamente, falta ainda estabelecer: (1) qual o mecanismo de que o miócito dispõe para detectar a variação de pressão, (2) qual a causa imediata da elevação do Ca2+ e (3) o papel modelador de outras vias além da despoletada pelo Ca2+. Embora a hipótese de que a mecanotransdução se realiza directamente por canais iónicos sensíveis ao estiramento (apresentada acima) seja hoje a mais divulgada, acumulam-se nos meios de investigação dados que ou não suportam ou contrariam abertamente essa hipótese.A polémica começa logo com o estímulo, que classicamente se define como o estiramento do miócito. Desde a década de 80 do século XX que se aceita que a variável física detectada é a tensão de superfície ou de cisalhamento no interface líquido-vaso, devido aos modelos de Johnson e Intaglietta (baseados na lei de Laplace). Contudo, que alterações na parede do vaso permitem a detenção dessa variável é uma questão em aberto. Particularmente pertinente é a observação de que a ser esse o caso, a arteríola apenas poderia contrair até ao valor basal anterior à distensão provocada pela pressão; o que obviamente não se correlaciona com o grande poder vasoconstritor das arteríolas.  Contudo, a hipótese do estiramento não está posta de parte, tendo sido reformulada por vários autores. Prôs-se a hipótese de o sinal de estiramento partir das proteínas estruturais da matriz extracelular, que se encontram ligadas ao citoesqueletocelular por complexos proteicos de membrana onde se encontram, por exemplo, as integrinas. De notar igualmente, que as integrinas parecem ter um efeito modulador sobre os canais de cálcio dependentes de voltagem.
+
+
+== Princípios de Biofísica de Fluídos ==
+
+
+=== Relação entre o estiramento e a pressão arterial (fórmula de Laplace) ===
+O efeito de Bayliss é, em última análise, um dos mecanismos fisiológicos que adapta o diâmetro dos vasos sanguíneos (particularmente das arteríolas) a variações hemodinâmicas. A activação dos canais iónicos que lhe está subjacente depende da alteração de factores físicos. O estiramento do vaso que activa esses canais não é mais do que um aumento da tensão de cisalhamento, ou tensão tangencial à superfície do vaso. A variação do valor da tensão de cisalhamento (Tci) relaciona-se com a pressão no interior do vaso e com o raio (r) e espessura da parede do mesmo (W) pela fórmula de Laplace para a dinâmica de fluídos (uma das aplicações da Equação de Laplace).
+
+  
+    
+      
+        
+          P
+          
+            T
+            M
+          
+        
+        =
+        
+          
+            
+              2
+              T
+              c
+              i
+              ×
+              W
+            
+            r
+          
+        
+      
+    
+    {\displaystyle P_{TM}={\frac {2Tci\times W}{r}}}
+  
+A Pressão Transmural (PTM) é a diferença entre a pressão no interior do vaso e a pressão no exterior. Assim, quanto maior a pressão arterial (PA), que é afinal a pressão no interior de um vaso, maior o valor da pressão transmural. Assim se prova que aumentos na PA geram aumentos na Tci, que são sentidos por receptores de estiramento acoplados a canais iónicos.
+
+
+=== Importância da histologia da arteríola (elastância e lei de Hooke) ===
+Note-se que a composição essencialmente muscular das arteríolas (em contraponto com o elevado componente elástico das artérias) presta-se à função que estas têm de ajustar o tónus em função da pressão. Isto porque todos os vasos sanguíneos são mais ou menos elásticos e, como tal, tendem a adaptar-se elasticamente a variações da tensão de cisalhamento. De facto, a tensão de cisalhamento na parede de um vaso só se altera quando é superada a sua elastância (ou deformação de um material relativa a uma dada força), o que está patente na Lei de Hooke.
+
+  
+    
+      
+        T
+        c
+        i
+        =
+        E
+        ×
+        
+          
+            
+              2
+              π
+              R
+              −
+              2
+              π
+              
+                R
+                
+                  0
+                
+              
+            
+            
+              2
+              π
+              
+                R
+                
+                  0
+                
+              
+            
+          
+        
+      
+    
+    {\displaystyle Tci=E\times {\frac {2\pi R-2\pi R_{0}}{2\pi R_{0}}}}
+  
+Na formulação apresentada E é a elastância, R0 é o raio inicial do vaso e R o raio adaptado ao novo valor de pressão.
+Em suma, para haver variação de Tci que despolete o efeito de Bayliss é necessário que se verifiquem tanto as condições da fórmula de Laplace como da lei de Hooke, ou seja, um aumento na PA só gera aumento da Tci depois de ultrapassar o valor da E (que é o mesmo que dizer: depois de ultrapassar a complacência do vaso). Daí que faça todo o sentido que esta autorregulação miogénica ocorra nas arteríolas, onde a componente elástica do vaso é menor e, logo também é menor a complacência do vaso, tornando o susceptível a variações de Tci e,logo, mais sensível a alterações na PA.
+
+
+=== Diminuição do fluxo a jusante (Equação de Hagen-Poiseuille) ===
+O efeito de Bayliss provoca uma vasoconstrição arteriolar local. A diminuição do raio do vaso vai provocar uma diminuição de fluxo sanguíneo. Note-se que em Biofísica de Fluídos, um fluxo ou débito é a quantidade de um líquido que passa por uma dada área, por unidade de tempo. Aplicando ao sistema circulatório, é a quantidade de sangue que atravessa um plano de secção de um vaso, por unidade de tempo. É possível demonstrá-lo pela aplicação da Equação de Hagen-Poiseuille, derivada dos princípios do movimento laminar dos fluídos de Newton e do Princípio de Bernoulli.
+
+  
+    
+      
+        F
+        =
+        Δ
+        P
+        ×
+        
+          
+            
+              π
+              ×
+              1
+              ×
+              
+                r
+                
+                  4
+                
+              
+            
+            
+              8
+              ×
+              η
+              ×
+              l
+            
+          
+        
+      
+    
+    {\displaystyle F=\Delta P\times {\frac {\pi \times 1\times r^{4}}{8\times \eta \times l}}}
+  
+Na formulação apresentada F é o fluxo, ΔP é a variação de pressão, r é o raio do vaso, η é a viscosidade do sangue e l é o comprimento do vaso.
+Demonstra-se assim que o fluxo sanguíneo está em relação de proporcionalidade directa com a quarta potência do raio, pelo que pequenas diminuições deste diminuem significativamente o dito fluxo.
+
+
+=== Manutenção da pressão a jusante com aumento da pressão arterial ===
+A diminuição do fluxo sanguíneo conseguida pelo efeito de Bayliss tem como objectivo último impedir que a pressão a jusante da vasoconstrição aumente com o aumento da pressão arterial (PA). Note-se que a pressão no interior de um vaso pode ser reduzida a uma simples relação dependente do fluxo (F) e da resistência (R).
+
+  
+    
+      
+        P
+        =
+        F
+        ×
+        R
+      
+    
+    {\displaystyle P=F\times R}
+  
+Pelo que a diminuição do fluxo a jusante se vai de facto traduzir numa pressão mais baixa do que a montante, o que, em termos fisiológicos, corresponde à manutenção dos valores de pressão anteriores à variação da PA.
+
+
+== Consequência Hemodinâmicas Sistémicas ==
+
+A ser o único mecanismo de controlo da pressão arterial (PA), o efeito de Bayliss revelar-se-ia hipoteticamente desastroso, no plano sistémico, na regulação de um aumento dessa mesma pressão arterial. De facto, o aumento do tónus das arteríolas provocaria um aumento da resistência periférica total (RPT) (como se confere pela fórmula de cálculo da PA), aumentando inevitavelmente a pressão arterial num ciclo vicioso.
+
+  
+    
+      
+        P
+        A
+        =
+        R
+        P
+        T
+        ×
+        D
+        C
+      
+    
+    {\displaystyle PA=RPT\times DC}
+  
+É, no entanto, compreensível a existência de tal mecanismo se atentarmos que tanto a lógica fisiológica, como a vantagem evolutiva da sua existência são a manutenção da perfusão sanguínea dos tecidos e a protecção dos leitos capilares dos efeitos nefastos de uma excessiva pressão arterial. Ou seja, a autorregulação miogénica serve os interesses locais e não do organismo como um todo.Consequentemente, o efeito de Bayliss nunca poderia actuar isoladamente. No caso de 
+  
+    
+      
+        ↑
+      
+    
+    {\displaystyle \uparrow }
+   PA é contrariado pela diminuição do tónus do sistema nervoso simpático e pelo efeito de Schretzenmayer. De facto, é importante ter sempre presente que os vários mecanismos de regulação da pressão arterial se articulam para agirem de forma consertada.
+
+
+== Referências ==
+
+
+== Bibliografia ==
+CORDERO, M.; ESTELLER, A. Fundamentos de Fisiopatología. Madird, 1998, McGraw-Hill. ISBN 84-406-0214-5
+GUYTON, A.;HALL, J. Textbook of Medical Physiology. 2006, Esevier Saunders, 11ª edição. ISBN 0-8089-2317-X
+LIMA, J. Pedroso de. Biofísica Médica. Coimbra, 2005, Imprensa da UC. ISBN 972-8704-56-9
+MCPHEE, S.;LINGAPPA, V.;GANONG, W.Pathophysiology od Disease, an introduction to clinical medicine. 2003, McGraw-Hill, 4ªedição. ISBN 0-07-121240-XDAVIS MJ, WU X. Integrines and mechanotransduction of the vascular myogenic response. Am J Physiol Heart Circ Physiol, 2001; 280:H1427-H1433. PMID 11247750
+HILL M, ZHOU H. Arteriolar smooth muscle mechanotransduction: Ca2+ signaling pathways underlying myogenic reactivity. J Appl Physiol. 2001; 91:973-983. PMID 11457816
+SECOMB, T. Theoretical models for regulation of blood flow. Microcirculation, 2008; 15(8):765-775. PMID 18951240
+WU X, MOGFORD JE et al. Modulation of calcium current in arteriolar smooth muscle by alphav beta3 and alpha5 beta1 integrin ligands. J Cell Biol. Outubro 1998; 5;143(1):241-52. PMID 9763435

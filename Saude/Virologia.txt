@@ -1,0 +1,45 @@
+Virologia é a especialidade biológica e médica que estuda os vírus e suas propriedades.
+Essencialmente, o vírus é “ácido nucleico envolvido por um pacote proteico”, inerte no ambiente extracelular, somente sendo capaz de reproduzir-se dentro da célula hospedeira, por isso é frequentemente classificado como "parasita intracelular obrigatório".
+
+Dentre os tópicos inerentes ao campo da virologia, incluem-se:
+
+Classificação e estrutura viral
+Replicação viral
+Patogênese viral
+Imunologia viral
+Vacinas virais
+Terapias virais
+Métodos de diagnósticos
+Quimioterapia antiviral
+Medidas para controle de infecções
+Epidemias de vírus, etc.A definição do que venha a ser um vírus passa também pelo debate do que é ou não vida. Um vírus é totalmente inerte fora da sua célula hospedeira, chegando inclusive a formar cristais, como um mineral. Além disso, depende 100% da maquinaria celular para seu metabolismo, sendo ALTAMENTE específicos para o tipo celular para o qual atuam.
+Em essência, um vírus é um ácido nucleico cercado por proteínas que o protegem (o capsídeo). O conjunto capsídeo + ac. nucleico = nucleocapsídeo.
+Outras estruturas compõem o vírus, como as espículas - estruturas glicoproteicas que ajudam na fixação do vírus a célula hospedeira - e o tegumento - proteínas da matriz (celular?), ficam no espaço entre o capsídeo e o envelope e ajudam a manter a estrutura viral.
+O capsídeo tem como unidades estruturais os capsômeros, aglomerados polipeptídeos. Pela economia genética que os vírus têm (pouco material genético), poucas proteínas realmente entrarão no arranjo dessa estrutura de revestimento. Do ponto de vista de simetria, temos que os vírus podem se apresentar como helicoidais, cúbicos ou complexos.
+Os vírus com capsídeo cúbico (como os adenovírus) são em sua maioria icosaédricos (20 lados)- cada lado um triângulo equilátero. Podem ou não estar associados a um invólucro lipídico. A formação do capsídeo nestes vírus é, de certa forma, independente da formação do material genético, tanto é que podem ser encontradas cápsulas vazias - sem DNA ou RNA.
+As partículas virais do tipo helicoidal tem esse aspecto porque os capsômeros estão intrinsecamente ligados ao material genético, seguindo o seu formato - uma hélice.
+
+
+== Material Genético ==
+Em geral, os vírus só apresentam um tipo de material genético - DNA ou RNA (a exceção dos citomegalovírus que tem DNA e um RNAm), que podem ser duplos ou simples, linear ou circular, segmentado ou não. O tipo e o peso deste material genético é o principal critério para classificar os vírus em suas diversas famílias.
+Os vírus podem ser classificados como vírus que contêm DNA ou vírus que contêm RNA.
+Vírus de DNA:
+Parvovírus, Papovírus, Adenovírus, Herpesvírus, Poxvírus, Hepadnavírus.
+Vírus de RNA:
+Picornavírus, Calicivírus, Reovírus, Arbovírus, Togavírus, Flavivírus, Arenavírus, Coronavírus, Retrovírus, Bunyavírus, Ortomixovírus, Paramixovírus, Rabdovírus, viroides e outros.
+Outros conceitos:
+
+Viroide: vírus sem capsídeo, com apenas uma molécula de RNA circular.
+Virusoide: vírus que para atuarem patogenicamente precisam da atuação de um outro vírus, como o vírus da hepatite D que precisa do vírus da hepatite B.
+
+
+== Referências ==
+
+
+== Ver também ==
+retrovírus
+Lista de especialidades biológicas
+Lista de especialidades médicas
+HIV
+fago
+enterovírus

@@ -1,0 +1,43 @@
+O reflexo acústico (também conhecido como reflexo estapédio, reflexo dos músculos da orelha média, reflexo de atenuação ou reflexo auditivo) é uma contração muscular involuntária que ocorre na orelha média em resposta a estímulos sonoros de forte intensidade ou quando o indivíduo começa a vocalizar. 
+Quando apresentados estímulos sonoros de forte intensidade, os músculos estapédio e tensor timpânico dos ossículos se contraem.  O estapédio enrijece a cadeia ossicular puxando o estribo da orelha média para fora da janela oval da cóclea e o músculo tensor do tímpano enrijece a cadeia ossicular carregando a membrana timpânica ao puxar o martelo em direção a orelha média. O reflexo diminui a transmissão da energia vibracional para a cóclea, onde é convertida em impulsos elétricos a serem processados pelo cérebro. 
+
+
+== Limiar do reflexo acústico ==
+O limiar do reflexo acústico (LRA) é o nível de pressão sonora (NPS) a partir do qual um estímulo sonoro com uma determinada frequência aciona o reflexo acústico. O LRA é uma função do nível e da frequência da pressão sonora.  
+Indivíduos com audição normal têm um limiar de reflexo acústico em torno de 70 a 100 dB NA. Pessoas com perda auditiva condutiva (ou seja, transmissão ruim na orelha média) podem ter um limiar de reflexo acústico mais alto ou ausente. O limiar do reflexo acústico é geralmente 10-20 dB abaixo do limiar de desconforto. No entanto, o limiar de desconforto não é um indicador relevante da nocividade de um som: os trabalhadores da indústria tendem a ter um limiar de desconforto mais alto, mas o som é igualmente prejudicial para os ouvidos. O limiar do reflexo acústico pode ser reduzido pela apresentação simultânea de um segundo tom (facilitador). O tom do facilitador pode ser apresentado em qualquer um dos ouvidos. Esse efeito de facilitação tende a ser maior quando o tom do facilitador tem uma frequência menor que a frequência do eliciador (ou seja, o som usado para acionar o reflexo acústico). 
+
+
+== Características e efeitos ==
+Para a maioria dos animais, o reflexo acústico é a contração dos dois músculos da orelha média: o estapédio e o tensor do tímpano. Entretanto, em humanos, o reflexo acústico envolve apenas a contração do músculo estapédio, não o tensor do tímpano. 
+A contração do músculo estapédio ocorre bilateralmente nos ouvidos normais, independentemente do ouvido exposto à estimulação sonora de forte intensidade. 
+A prevalência de reflexos acústicos bilaterais em pessoas de 18 a 30 anos é de 85,3% (82,9%, 87,4%) intervalo de confiança do percentil 95% N = 3280 e em todas as pessoas 74,6% (73,2%, 75,9%) N = 15.106. 
+O reflexo acústico protege principalmente contra sons de baixa frequência. 
+Quando acionado por sons de 20 dB acima do limiar do reflexo, o reflexo do estapédio diminui a intensidade do som transmitido à cóclea em cerca de 15 dB. 
+O reflexo acústico também é evocado quando uma pessoa vocaliza.  Em humanos, esse reflexo induzido pela vocalização reduz a intensidade do som que atinge a orelha interna em aproximadamente 20 decibels. O reflexo é acionado em antecipação ao início da vocalização.  Enquanto o reflexo do estapédio induzido pela vocalização em humanos resulta em aproximadamente uma redução de 20 dB na transdução para a orelha interna, as aves têm um reflexo do estapédio mais forte, que é evocado logo antes do cantar das aves. 
+
+
+== Função de proteção ==
+A proteção do órgão de Corti, fornecida pelo reflexo acústico contra a estimulação excessiva (especialmente a das frequências mais baixas), foi demonstrada tanto no homem quanto nos animais. Mas esse efeito de proteção é limitado. De acordo com o artigo Significância do reflexo do estapédio para a compreensão da fala, a latência da contração é de apenas 10 ms, mas a tensão máxima pode não ser alcançada por 100 ms ou mais.  Segundo o artigo Le traumatisme acoustique, a latência da contração é de 150 ms com estímulo sonoro cujo NPS está no limiar (LRA) e 25-35 ms em elevados níveis de pressão sonora. De fato, a amplitude da contração cresce com o nível de pressão sonora do estímulo. Devido a essa latência, o reflexo acústico não pode proteger contra ruídos intensos repentinos.   No entanto, quando vários ruídos intensos repentinos são apresentados em um ritmo superior a 2-3 segundos de intervalo, o reflexo acústico é capaz de desempenhar um papel contra a fadiga auditiva.  
+Além disso, a tensão total do músculo estapédio não pode ser mantida em resposta à estimulação contínua. De fato, a tensão cai para cerca de 50% do seu valor máximo após alguns segundos. Nos critérios de risco de dano para exposição a ruído de impulso, o reflexo acústico é parte integrante do modelo do Algoritmo de Avaliação de Perigo Auditivo para Humanos e dos modelos de Energia Coclear Integrada. Esses dois modelos estimam a resposta da membrana basilar em resposta a um estímulo de entrada e somam a vibração dos segmentos da membrana basilar para prever o risco potencial de perda auditiva. O reflexo acústico pode ser ativado antes que um impulso chegue ao ouvido através de uma resposta condicionada assumida ou pode ser ativado após o estímulo exceder um nível específico (por exemplo, 134 dB). 
+Medições recentes do reflexo acústico com um grupo de 50 indivíduos constataram que apenas 2 dos indivíduos exibiram qualquer pré-ativação do reflexo no controle advertido (contagem regressiva) ou volitivo do estímulo provocador. 
+
+
+== Medição ==
+Na maioria das vezes, o reflexo do estapédio é testado com a imitanciometria (timpanometria + pesquisa do reflexo acústico). A contração do músculo estapédio enrijece a orelha média, diminuindo assim a admitância na orelha média; isso pode ser medido graças à imitanciometria.  O reflexo acústico do estapédio também pode ser registrado por meio de manometria extratimpânica (MET). O reflexo estapediano pode ser medido com a velocimetria com laser Doppler. Jones et al.  concentraram um laser no reflexo da luz do manúbrio em seres humanos acordados. A amplitude de um tom de sonda de 500 Hz foi utilizado para monitorar as vibrações da membrana timpânica. Vários eliciadores foram apresentados aos sujeitos: tone burst de 1000 Hz por 0,5 s a 100 dB NPS, registrou ruído de tiro de calibre 0,22 com um nível de pico de 110 dB NPS. A amplitude do tom de sonda de 500 Hz foi reduzido em resposta aos estímulos que o provocam. As constantes de tempo para a taxa de início e recuperação foram medidas em cerca de 113 ms para o tom e 60-69 ms para as gravações de tiros. 
+
+Como o músculo estapediano é inervado pelo nervo facial,  uma medida do reflexo pode ser usada para localizar a lesão no nervo. Se a lesão estiver distal ao músculo estapediano, o reflexo ainda estará funcional. 
+Uma medida do reflexo também pode ser usada para sugerir uma lesão retrococlear (por exemplo, schwannoma vestibular, neuroma acústico). O reflexo acústico normalmente ocorre apenas em intensidades relativamente fortes; a contração dos músculos da orelha média para sons mais fracos pode indicar disfunção da orelha (por exemplo, síndrome do tensor tônico tímpano - TTTS). 
+A via envolvida no reflexo acústico é complexa e pode envolver a cadeia ossicular (martelo, bigorna e estribo), a cóclea (órgão da audição), o nervo auditivo, tronco encefálico, nervo facial, complexo olivar superior e núcleo coclear. Consequentemente, a ausência de um reflexo acústico, por si só, pode não ser conclusiva na identificação da fonte do problema.  
+
+
+== Ver também ==
+Tensor do tímpano
+Emissão otoacústica
+Contornos de igual volume
+Audiometria
+Hiperacusia
+Músculo estapédio
+Timpanometria
+
+
+== Referências ==

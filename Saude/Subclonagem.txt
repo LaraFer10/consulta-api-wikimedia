@@ -1,0 +1,10 @@
+Subclonagem é uma técnica de biologia molecular utilizada para transferir uma sequência de DNA de um vetor (parental) para outro (vetor de destino).
+
+
+== Procedimento ==
+Durante o primeiro passo de uma subclonagem, enzimas de restrição são utilizadas para liberar a sequência de DNA ( denominada inserto) correspondente ao gene de interesse do vetor parental. O inserto é então purificado, evitando assim a contaminação com outras moléculas de DNA (como por exemplo: vetores cortados completa ou parcialmente, DNA de microrganismos). A purificação do inserto é normalmente realizada por eletroforese em gel. Após isso o inserto é amplificado por PCR.
+Paralelamente, as mesmas enzimas de restrição são usadas para clivar o vetor de destino. O objetivo desse processo é criar extremidades complementares na dupla fita de DNA entre o inserto e o vetor, o que facilitará a reação de ligação posteriormente. Também é utilizada uma fosfatase, que impede a recircularização do vetor de destino pela remoção dos grupos fosfato da extremidade 5'. O vetor de destino é então isolado e purificado.
+Para o passo seguinte, inserto e vetor de destino são misturados em uma reação de ligação na presença da enzima DNA ligase, normalmente na proporção de 3:1 entre inserto e vetor, respectivamente. Ao aumentar-se a concentração de inserto, reações de recircularização do vetor de destino são diminuídas.
+
+
+== Referências ==

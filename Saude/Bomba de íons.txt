@@ -1,0 +1,12 @@
+Em biologia celular, uma bomba de íons  ou bomba iônica  é uma  proteína transmembranar que,  através da membrana plasmática, transfere   íons através da membrana celular,  contra os respectivos gradientes de concentração, para a região de potencial químico mais elevado, mediante a utilização de uma fonte de energia externa, que pode ser, por exemplo, a energia liberada pela hidrólise de uma molécula de ATP ou uma  reação de oxirredução ou a energia solar ou, ainda,   outro gradiente de concentração  preexistente. Em termos simplificados, as bombas de íons  situadas  na membrana da célula  bombeiam para fora os íons positivos quando eles tentam entrar, e bombeiam para dentro os íons negativos quando eles tentam escapar para o meio externo. Isso só ocorre porque a membrana da célula permite a permeabilidade seletiva.
+A bomba de sódio-potássio é um bom exemplo de bomba de íons que utiliza   a energia liberada  pela  hidrólise de uma molécula de ATP para  expulsar três íons de sódio Na+ e absorver dois íons de potássio K+, o que permite restabelecer o  potencial eletroquímico de  membrana após a passagem de um potencial de ação.
+O  potencial químico induzido pelo gradiente de concentração gerado por essas bombas de íons é, em seguida,  utilizado por transportadores secundários, que podem ser  outras bombas de íons ou canais iônicos, para realizar diversos processos bioquímicos, como a síntese de ATP.
+Assim, se um íon A está mais concentrado de um lado da membrana plasmática, enquanto a concentração de um íon B está equilibrada de ambos os lados da membrana, um simporte   pode utilizar o gradiente de concentração de A para levar  B do lado onde A é menos concentrado, enquanto que um antiporte pode trocar um certo número de íons A por um número inferior ou igual de íons B, o que faz com que os íons B se acumulem do lado em que os íons A estão mais concentrados. Tem-se assim uma dissipação do gradiente de concentração em íons A paralelamente à  geração de um gradiente de concentração em íons B  do mesmo lado da membrana, no caso de um  antiporte, e e do outro lado, no caso de um simporte.
+
+
+== Referências ==
+
+
+== Ligações externas ==
+(em francês)  Fonctions de la membrane plasmique. Site da  Universidade de Aix-Marseille
+NEUROBIOLOGIE CELLULAIRE. Site da Universidade Montpellier 1.

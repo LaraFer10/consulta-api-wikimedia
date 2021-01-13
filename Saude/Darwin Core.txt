@@ -1,0 +1,14 @@
+O Darwin Core é um conjunto de normas originalmente concebido para facilitar a descoberta, a recuperação e a integração de informações sobre espécimes biológicos.
+Ele inclui um glossário de termos (propriedades, elementos, campos, colunas, atributos ou conceitos), destinadas a facilitar o compartilhamento de informações sobre a diversidade biológica, fornecendo definições de referência para a comunidade científica.
+
+
+== Simple Darwin Core ==
+O Darwin Core Simples é um subconjunto predefinido dos termos do Darwin Core padrão (Principal) que têm uso mais comum através de uma ampla variedade de aplicações da biodiversidade. 
+
+
+== Notas ==
+
+
+== Ligações externas ==
+Arquivo de referencia do Padrão Darwin Core
+Biodiversity Information Standards - Taxonomic Databases Working Group (TDWG)

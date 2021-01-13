@@ -1,0 +1,24 @@
+O reflexo óculo-cefálico (RCO) é um movimento ocular de reflexo que estabiliza as imagens na retina durante o movimento da cabeça ao produzir um movimento ocular na direção oposta ao movimento da cabeça, desta maneira preservando a imagem no centro do campo visual. Por exemplo, quando a cabeça se move para a direita, os olhos se movem para a esquerda, e vice-versa.
+
+Na função de estabilizar uma imagem na retina participam o reflexo vestíbuloocular (VOR) assim como sistemas motores oculares que serão discutidos a seguir.  O
+VOR desencadeia movimentos oculares na mesma velocidade e na direção oposta aos
+movimentos da cabeça, e por se tratar de um arco reflexo de 3 neurônios  – gânglio
+vestibular, núcleo vestibular e núcleos motores oculares  – apresenta características que
+tornam sua atuação possível com movimentos bastante rápidos, como por exemplo ao
+caminharmos. O VOR tem uma latência de 16 ms, atua em movimentos com uma
+freqüência de 0,5 a 5,0 Hz e com uma velocidade máxima que varia de 30 a 150°/s.
+As informações do labirinto são transmitidas pelos neurônios do nervo vestibular
+até o complexo nuclear vestibular – núcleo vestibular medial, lateral, superior e inferior  –
+localizados na região dorso-lateral da transição bulbo-pontina, no assoalho do IV
+ventrículo. Do núcleo vestibular saem fibras que através do fascículo longitudinal medial,
+brachium conjuntivum e via tegmental ventral alcançam os núcleos dos nervos motores
+oculares: oculomotor, troclear e abducente.
+Cada CSC estimula um par de músculos motores oculares, que move os olhos
+aproximadamente no mesmo plano do canal, como esquematizado nas figuras. (Para
+simplificar serão discutidas apenas as vias excitatórias.)
+Do CSC horizontal caminham informações pelo ramo superior do n. vestibular, que
+chegam ao núcleo vestibular medial (NVM) onde fazem sinapse com o segundo neurônio
+que cruza a linha média até o núcleo do nervo abducente. Do núcleo do VI saem dois
+neurônios, um para o m. reto lateral do mesmo lado, enquanto o outro cruza na ponte, e
+pelo fascículo longitudinal medial (FLM), alcança o núcleo do nervo oculomotor
+contralateral, onde faz sinapse com o neurônio para o m. reto medial.

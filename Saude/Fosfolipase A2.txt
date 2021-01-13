@@ -1,0 +1,59 @@
+
+== Árvore EC ==
+     3 Hidrolases
+         3.1 Atuação em ligações éster
+             3.1.1 Hidrolases de éster carboxílico
+                3.1.1.4 fosfolipase A2
+
+Nome aceito: Fosfolipase A (2).
+Nome(s) Alternativo(s): Lecitinase A, Fosfatidase, Fosfatidolipase, Fosfatidilcolina 2-acil-hidrolase, Fosfolipase A2.
+Reação catalisada
+
+
+=== Fosfatidilcolina + H (2) O <=> 1-acilglicerofosfocololina + um carboxilato ===
+Cofator(es): Ca (2+).
+Comentários: Também atua sobre a fosfatidiletanolamina, o plasmalogênio da colina e os fosfatos, removendo o ácido graxo ligado à posição 2.
+As fosfolipases A2 (PLA2s) são enzimas que clivam o ácido graxo na posição dois dos fosfolipídios, hidrolisando a ligação entre a segunda cauda do ácido graxo e a molécula de glicerol. Esta fosfolipase em particular reconhece especificamente a ligação ac-sn-2 acil dos fosfolípidos e hidrolisa cataliticamente a ligação, liberando ácido araquidônico e ácido lisofosfatídico. Após modificação a jusante por ciclo-oxigenases ou lipoxigenases, o ácido araquidônico é modificado em compostos ativos chamados eicosanóides. Os eicosanóides incluem prostaglandinas e leucotrienos, que são classificados como mediadores anti-inflamatórios e inflamatórios.
+As enzimas PLA2 são comumente encontradas em tecidos de mamíferos, bem como em venenos de aracnídeos, insetos e cobras. O veneno de cobras e insetos é amplamente composto de melitina, que é um estimulante da PLA2. Devido ao aumento da presença e atividade do PLA2 resultante de uma picada de cobra ou inseto, o ácido araquidônico é liberado desproporcionalmente da membrana fosfolipídica. Como resultado, inflamação e dor ocorrem no local. Existem também fosfolipases A2 procarióticas.
+Tipos adicionais de fosfolipases incluem fosfolipase A1, fosfolipase B, fosfolipase C e fosfolipase D.
+
+
+== Mecanismo ==
+O mecanismo catalítico sugerido do sPLA2 pancreático é iniciado por um complexo His-48/Asp-99/cálcio no sítio ativo. O íon cálcio polariza o oxigênio carbonil sn-2 enquanto também coordena com uma molécula de água catalítica, w5. His-48 melhora a nucleofilicidade da água catalítica através de uma segunda molécula de água em ponte, w6. Foi sugerido que são necessárias duas moléculas de água para percorrer a distância entre a histidina catalítica e o éster. Pensa-se que a basicidade do His-48 seja aprimorada através da ligação de hidrogênio com o Asp-99. Uma substituição por His-48 da asparagina mantém a atividade do tipo selvagem, pois o grupo funcional amida da asparagina também pode funcionar para diminuir o pKa, ou constante de dissociação ácida, da molécula de água em ponte. O estado limitante da taxa é caracterizado como a degradação do intermediário tetraédrico composto por um oxianion coordenado com cálcio. O papel do cálcio também pode ser duplicado por outros cátions relativamente pequenos, como cobalto e níquel. Antes de se tornar ativo na digestão, a proforma de PLA2 é ativada pela tripsina.
+Mecanismo de hidrólise catalisada por PLA2
+O PLA2 também pode ser caracterizado como tendo um canal que apresenta uma parede hidrofóbica na qual resíduos de aminoácidos hidrofóbicos, como Phe, Leu e Tyr, servem para ligar o substrato. Outro componente do PLA2 são as sete pontes dissulfeto que influenciam na regulação e dobragem estável de proteínas.
+
+
+== Efeitos biológicos ==
+A ação do PLA2 pode liberar histamina dos mastócitos peritoneais de ratos. Também causa liberação de histamina em basófilos humanos.
+
+
+=== Regulação ===
+Devido à importância do PLA2 nas respostas inflamatórias, a regulação da enzima é essencial. O PLA2 é regulado pela fosforilação e pelas concentrações de cálcio. O PLA2 é fosforilado por um MAPK na Ser-505. Quando a fosforilação é acoplada a um influxo de íons cálcio, o PLA2 fica estimulado e pode translocar para a membrana para iniciar a catálise.A fosforilação do PLA2 pode ser resultado da ligação do ligante aos receptores, incluindo:
+Receptores 5-HT2
+mGLUR1
+receptor de bFGF
+Receptor de IFN-α 
+Receptor de IFN-γ 
+No caso de uma inflamação, a aplicação de glicocorticóides regula positivamente (mediada no nível do gene) a produção da proteína lipocortina que inibe o PLA2 e reduz a resposta inflamatória.
+
+
+== Relevância em distúrbios neurológicos ==
+Nas células cerebrais normais, a regulação da PLA2 é responsável pelo equilíbrio entre a conversão do ácido araquidônico em mediadores pró-inflamatórios e sua reincorporação na membrana. Na ausência de regulação estrita da atividade do PLA2, é produzida uma quantidade desproporcional de mediadores pró-inflamatórios. O estresse oxidativo induzido resultante e a neuroinflamação são análogos a doenças neurológicas, como doença de Alzheimer, epilepsia, esclerose múltipla, isquemia. Os lisofosfolípides são outra classe de moléculas liberadas da membrana que são predecessoras a montante dos fatores ativadores de plaquetas (PAF). Níveis anormais de PAF potente também estão associados a danos neurológicos. Um inibidor enzimático ideal teria como alvo específico a atividade do PLA2 nas membranas das células neurais, já sob estresse oxidativo e inflamação potente. Assim, inibidores específicos da PLA2 cerebral podem ser uma abordagem farmacêutica para o tratamento de vários distúrbios associados a trauma neural. O aumento da atividade da fosfolipase A2 é uma reação de fase aguda que aumenta durante a inflamação, que também é exponencialmente maior nas hérnias do disco lombar em comparação com a artrite reumatóide. É uma mistura de inflamação e substância P que são responsáveis para dor. O aumento da fosfolipase A2 também foi associado a distúrbios neuropsiquiátricos, como esquizofrenia, e distúrbios generalizados do desenvolvimento (como o autismo), embora os mecanismos envolvidos não sejam conhecidos.
+
+
+== Referências ==
+
+
+== Ligações externas ==
+ExplorEnz
+ExPASy
+KEGG
+MetaCyc
+SABIO-RK
+NCBI: PubMed, Protein, Nucleotide, Structure, Gene, OMIM
+IUBMB Enzyme Nomenclature
+UniProt
+PDB
+PROSITE Database of protein families and domains
+InterPro (database of protein families, domains and functional sites)

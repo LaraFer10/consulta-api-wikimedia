@@ -1,0 +1,22 @@
+Ligases (ou sintetases) são enzimas que catalisam a ligação entre duas moléculas.
+
+
+== Nomenclatura ==
+A determinação do nome das enzimas é normatizada por um comitê especializado , o Nomenclature Committee of the International Union of Biochemistry and Molecular Biology (NC-IUBMB).
+A Comissão Conjunta de Nomenclatura Bioquímica (JCBN) determina que 'sintase' pode ser usada com qualquer enzima que catalisa a síntese (usando ou não trifosfatos de nucleósidos), ao passo que 'sintetase' é para ser usada como sinônimo de 'ligase'.
+
+
+=== Classes de ligases ===
+EC6.1 - Enzimas que formam ligações carbono-oxigênio
+EC6.2 - Enzimas que formam ligações carbono-enxofre
+EC6.3 - Enzimas que formam ligações carbono-nitrogênio
+EC6.4 - Enzimas que formam ligações carbono-carbono
+EC6.5 - Enzimas que formam ligações tipo estér fosfórico
+EC6.6 - Enzimas que formam ligações nitrogênio-metal
+
+
+== Notas ==
+
+
+== Ligações externas ==
+«Enzimas do grupo EC.6» (em inglês)

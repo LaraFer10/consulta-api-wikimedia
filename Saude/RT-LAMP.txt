@@ -1,0 +1,27 @@
+A amplificação isotérmica mediada por alça com transcrição reversa (do inglês, Reverse transcription loop-mediated isothermal amplification,  RT-LAMP) é uma técnica para a amplificação de RNA. 
+O método LAMP  é utilizado para detecção de patógenos, tumores e identificação de sexo de embriões, entre outras aplicações.  A combinação do LAMP com uma fase de transcrição reversa permite de RNAs nas amostras. O RT-LAMP é um método de amplificação de ácido nucleico usado para diagnosticar doenças infecciosas causadas por bactérias ou vírus. O método de PCR é capaz de gerar milhões de cópias de uma cadeia alvo de DNA. Esse processo depende de ciclos de aquecimento e resfriamento para a replicação do DNA. O RT-LAMP não requer esses ciclos e é realizado a uma temperatura constante entre 60 e 65° C. Semelhante ao RT-PCR, o RT-LAMP usa a transcriptase reversa para sintetizar DNA complementar (cDNA) a partir de seqüências de RNA. Este cDNA é então amplificado usando DNA polimerase, gerando 10^9 cópias por hora. 
+
+
+== Aplicações ==
+Os vírus infectam as células hospedeiras e o RT-LAMP é usado para testar uma sequência específica desse vírus, que não é encontrada em outros vírus conhecidos. 
+Um exemplo do uso  RT-LAMP foi  um experimento para detectar um novo vírus  de pato.   Como os sintomas desse vírus eram semelhantes para Tembusu, uma doença já identificada, a sequência nucleotídica do genoma completo desse vírus estava disponível em recursos externos. A sequência conhecida foi colocada no software de criação de primers online, LAMP Primer Explorer (http://primerexplorer.jp/e/ ), onde os primers apropriados foram projetados e selecionados. Com os iniciadores selecionados, foi realizado um ensaio de RT-LAMP para amplificar o RNA, com o qual as amostras poderiam ser visualizadas e confirmadas sob luz natural e UV. 
+O RT-LAMP está sendo usado para diagnósticos do vírus da COVID-19 no Brasil. 
+
+
+=== Detecção do novo coronavírus (SARS-CoV-2) da COVID-19 ===
+Na China, em dezembro de 2019, foram identificados vários casos de pneumonia de causa desconhecida, relacionados a um mercado de frutos-do-mar na cidade de Wuhan. Essa nova doença causada por um coronavírus, SARS-CoV-2,  recebeu o nome COVID-19. 
+Nos primeiros meses da pandemia do novo coronavírus, os testes baseados em RT-PCR (Reação em cadeia da polimerase com transcriptase reversa) foram considerados padrão-ouro para o diagnóstico de COVID-19. Porém vários gargalos dificultam a aplicação do teste de RT-PCR em larga escala, principalmente no Brasil e nos Estados Unidos : falta de kits de coleta e de reagentes, quantidade insuficiente de equipamentos de PCR em tempo real, alto custo e prazo de entrega superior a 24 horas. 
+Assim como o RT-PCR, a amplificação isotérmica mediada por loop (RT-LAMP) é uma técnica de biologia molecular que consegue identificar o RNA do vírus SARS-CoV-2  em uma pessoa infectada apenas alguns dias após o início da infecção. A detecção do vírus pode ser feita a partir de amostra nasofaríngea ou de saliva.
+Além do protocolo ser mais simples e rápido do que o RT-PCR, o RT-LAMP não requer o uso de aparelhos laboratoriais complexos, como termociclador em tempo real ou de reagentes em falta na pandemia. 
+Desde abril de 2020, vários artigos publicados por grupos de pesquisa no mundo todo mostraram a eficiência da técnica de RT-LAMP como estratégia alternativa ao RT-PCR para detecção SARS-CoV-2   . O primeiro teste comercial para COVID-19 baseado em RT-LAMP foi disponibilizado em abril pelo Laboratório americano Color Genomics. O teste recebeu aprovação do agência federal americana FDA (U.S. Food and Drug Administration).  
+
+
+== Testes de RT-LAMP para  COVID-19 no Brasil ==
+Em junho de 2020, o laboratório Mendelics desenvolveu o primeiro teste de RT-LAMP para COVID-19 na América Latina: o #PARECOVID. O teste identifica a presença do vírus SARS-CoV-2 em amostra de saliva.Pesquisadores do Instituto de Biociências da Universidade de São Paulo (IB-USP) e da Universidade Federal de Goiás (UFG) estão atualmente também desenvolvendo testes para detecção em larga escala do SARS-CoV-2 baseado em RT-LAMP. Já existem iniciativas também para produzir reagentes do RT-LAMP no Brasil e assim internalizar a produção de insumos que hoje são importados.
+
+
+== Referências ==
+
+
+== Links externos ==
+http://primerexplorer.jp/e/

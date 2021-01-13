@@ -1,0 +1,34 @@
+Proteína quinase C (PKC) é um grupo de enzimas capazes de fosforilar proteínas envolvidas no controle da função de outras proteínas através da fosforilação de grupos hidroxilo de resíduos de aminoácidos serina e treonina nestas proteínas.Essas enzimas PKC, por sua vez são ativados por sinais, tais como aumentos na concentração de diacilglicerol (DAG) ou íons de cálcio (Ca2 +). Assim enzimas PKC desempenham papéis importantes em várias cascatas de transdução de sinal.
+
+
+== Tipos ==
+Convencionais: Precisam da ativação de PLC, DAG e 
+  
+    
+      
+        
+          
+            Ca
+            
+              2
+              +
+            
+          
+        
+      
+    
+    {\displaystyle {\ce {Ca^2+}}}
+   para serem ativados. Subtipos alfa, beta e gamas.
+Incomuns: Precisam apenas de DAG para serem ativados. Subtipos delta, epsilon, eta e teta.
+Atípicos: Precisam de fosfatidilserina para serem ativados. Subtipos iota, zeta, N1, N2 e N3.
+
+
+== Estrutura ==
+A estrutura de todos os PKC consiste de um domínio de regulação e um domínio catalítico acoplados em conjunto por uma região "dobradiça". A região catalítica é bastante conservada entre as diferentes isoformas, sendo também similar, em menor grau, com a região catalítica de outras quinases de serina/treonina. As diferenças entre o segundo mensageiro que ativa cada isoformas são resultado das diferenças na região reguladora.
+
+
+== Funções ==
+As diversas PKC dependendo do receptor que ativam podem estar envolvidas na dessensibilização de receptores celular, na modulação da estrutura da membrana plasmática, na regulação da transcrição, na mediação de respostas imunes, na regulação do crescimento celular, na aprendizagem ou na memória.
+
+
+== Referências ==

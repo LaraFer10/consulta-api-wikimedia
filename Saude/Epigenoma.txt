@@ -1,0 +1,42 @@
+Depois do Projecto Genoma Humano, um programa que levou a bom termo o mapa dos 25.000 genes e dos três mil milhões de pares de bases do nosso ADN, está agora em desenvolvimento o Projecto Epigenoma Humano. Com um longo conjunto de sinalizadores bioquímicos ao longo de todo o genoma, o epigenoma responde aos sinais ambientais e depois liga ou desliga os genes, aumentando ou reduzindo a sua atividade. O genoma, o mero conhecimento dos genes (sequências de ADN) por si só não permite saber como os genes funcionam. É o conhecimento do epigenoma (a dinâmica que determina a expressão dos genes)que permite saber como os genes funcionam.
+
+
+== Conceitos genéticos ==
+Enquanto a genética revela um mapa de genes, a epigenética revela um mapa dos agentes que ligam ou desligam genes por forma a que eles se exprimam. Importa conhecer os efeitos epigenéticos que desempenham um papel evolutivo importante, dado poderem transmitir-se por mais do que uma geração. Ainda não estão esclarecidos todos os mecanismos da epigénese, mas já está comprovado que o efeito de alguns hábitos de um indivíduo durante a vida, não os hábitos em si, podem ser transmitidos aos seus descendentes. É a herança genética e a herança epigenética, factores internos e externos, que ao interagirem entre si, determinam os efeitos hereditários nos indivíduos.
+O prefixo “epi” na palavra epigénese designa o nível acima dos genes. À semelhança da genómica funcional, o sufixo “ómica” em epigenómica, significa o estudo dos elementos epigenéticos, assim como a genómica funcional visa identificar as funções dos genes de um dado organismo. Da mesma forma que a proteómica estuda as funções das proteínas no organismo.
+
+
+== Epigénese ==
+
+Os mecanismos epigenéticos são afectados por alguns processos – desenvolvimento na fase intra-uterino e na idade infantil –, bem como por alguns factores – agentes químicos do ambiente, dieta –, e pela idade. No factor da dieta, verifica-se, por exemplo, a metilação do ADN, em que grupos metilo activam ou reprimem genes. As histonas são as principais proteínas que entram na regulação dos genes. São encontradas no núcleo das células as quais compõem o nucleossoma. A disponibilidade dos genes para serem activados está relacionada com a capacidade dos factores epigenéticos em interferir na modificação das histonas no ADN.
+
+
+== Epigenética ==
+
+O termo epigenética refere-se a todas as mudanças funcionais, reversíveis e herdáveis, no genoma sem alterar a sequência dos nucleotídeos do ADN. A epigenética consiste no estudo dos factores que influenciam essas mudanças funcionais no genoma, ou seja, a maneira como os genes se exprimem. É mais um passo no avanço da genética molecular para a compreensão da genómica funcional. Está relacionada com a variabilidade fenotípica dos indivíduos, pela via da activação ou silenciamento de genes. Desconhece-se ainda a sua relevância nos mecanismos evolutivos.
+A epigenética tem a ver com toda a actividade reguladora do genoma sem envolver mudanças no código genético, isto é, sem alterar a sequência do ADN. É a esta actividade reguladora do genoma que se chama epigenoma. O epigenoma é uma espécie de mapa que se sobrepõe ao mapa do genoma. Pesquisadores do Instituto Salk, nos Estados Unidos, já conseguiram um primeiro mapa detalhado do epigenoma humano. As alterações epigenéticas podem transmitir-se à geração seguinte. Mas pode não ir além de uma ou duas gerações.
+
+
+== Projecto Epigenoma Humano ==
+O Projecto Epigenoma Humano aponta no sentido da maior complexidade das características e comportamento das pessoas, que vai muito para além do determinismo directo dos genes. O nosso genoma pode exprimir características e comportamentos muito diferentes devido a diferentes expressões dos genes, que podem ser modificadas ao longo da vida conforme são activados ou desactivados por agentes externos aos próprios genes. Entre três principais mecanismos para ligar ou desligar os genes, o mecanismo de metilação é o mais comum. O Projecto pretende catalogar as várias interacções existentes entre o genoma do indivíduo ao longo da vida com o ambiente. As alterações epigenéticas geram um epigenoma característico de cada indivíduo.
+Assim, o Projecto Epigenoma Humano está a desenterrar a teoria de Jean-Baptiste Lamarck (1744-1829), que afirmava que características adquiridas durante a vida de um indivíduo podiam ser transmitidas às gerações seguintes. à escala molecular tal teoria não é de todo descabida. Somos o efeito de algo mais do que apenas dos genes.
+O Projecto Epigenoma Humano destina-se a desvendar o mecanismo que está na base da activação e desactivação dos genes. A sua missão principal consiste na identificação e catalogação dos vários processos de metilação que ocorrem no funcionamento do genoma humano.Promete grandes benefícios futuros no campo da medicina, uma vez que o entendimento do epigenoma pode ter importantes implicações no tratamento de doenças oncológicas e certas doenças neurodegenerativas, como, por exemplo, a Doença de Alzheimer. ocorrem modificações muito significativas no epigenoma durante o envelhecimento. A diferença entre as células estaminais do embrião e do adulto reside no epigenoma. Se a medicina conseguir controlar o epigenoma poderá induzir a diferenciação das células estaminais mediante a ligação ou a desligação dos genes adequados.
+
+
+== Epigenoma e Medicina ==
+Há mecanismos epigenéticos aberrantes que estão envolvidos no desenvolvimento de muitas doenças, nomeadamente o cancro. A sequência do genoma é fixa (com raras excepções), mas as células diferenciam-se em muitos tipos, que exercem funções diferentes e respondem de forma diversa ao ambiente e à sinalização intercelular. Algumas doenças humanas estão associadas com o “imprinting genómico”, um fenómeno que tem a ver com o contributo em diferentes padrões epigenéticos de cada progenitor através das suas células germinativas. As doenças humanas melhor conhecidas de “imprinting genómico” são: Síndrome de Angelman e Síndrome de Willi-Prader.
+
+
+== Ver também ==
+Genoma
+Genoma humano
+Projecto Genoma Humano
+Projecto Epigenoma Humano
+Epigenética
+
+
+== Referências ==
+
+
+== Ligações Externas ==
+Projecto do Epigenoma HumanoAlguns aspectos funcionais do epigenoma, genoma e transcriptoma nos animais - Revista electrónica de veterinária - volume VIII, nº 10, 2007.

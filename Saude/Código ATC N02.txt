@@ -1,0 +1,212 @@
+O Código ATC N02 (Analgésicos) é um subgrupo terapêutico da classificação ATC (Anatomical Therapeutic Chemical Classification System), um sistema de códigos alfanuméricos desenvolvido pela Organização Mundial da Saúde (OMS) para classificar medicamentos e outros produtos médicos. O subgrupo N02 faz parte do grupo anatômico N (sistema nervoso).Os códigos para uso veterinário (códigos ATCvet) podem ser criados colocando a letra Q antes do código ATC para uso humano: por exemplo, QN02. Os códigos ATCvet sem os códigos ATC humanos correspondentes são citados com a letra Q inicial nessa lista.    
+
+
+== N02A Opioides ==
+
+
+=== N02AA Alcalóides naturais do ópio ===
+N02AA01 Morfina
+N02AA02 Ópio
+N02AA03 Hidromorfona
+N02AA04 Nicomorfina
+N02AA05 Oxicodona
+N02AA08 Di-hidrocodeína
+N02AA09 Diamorfina
+N02AA10 Papaveretum
+N02AA51 Morfina, associações
+N02AA53 Hidromorfona e naloxona
+N02AA55 Oxicodona e Naloxona
+N02AA56 Oxicodona e Naltrexona
+N02AA58 Di-hidrocodeína, associações
+N02AA59 Codeína, combinações excluindo psicolépticos
+N02AA79 Codeína, associações com psicolépticos
+
+
+=== N02AB Derivados da fenilpiperidina ===
+N02AB01 Cetobemidona
+N02AB02 Petidina
+N02AB03 Fentanil
+N02AB52 Petidina, associações, exceto psicolépticos
+QN02AB53 Fentanil, associações, exceto psicolépticos
+N02AB72 Petidina, associações com psicolépticos
+QN02AB73 Fentanil, associações com psicolépticos
+
+
+=== N02AC Derivados de difenilpropilamina ===
+N02AC01 Dextromoramida
+N02AC03 Piritramida
+N02AC04 Dextropropoxifeno
+N02AC05 Bezitramida
+N02AC52 Metadona, associações, exceto psicolépticos
+N02AC54 Dextropropoxifeno, associações, exceto psicolépticos
+N02AC74 Dextropropoxifeno, associações com psicolépticos
+QN02AC90 Metadona
+
+
+=== N02AD Derivados do benzomorfano ===
+N02AD01 Pentazocina
+N02AD02 Fenazocina
+
+
+=== N02AE Derivados da oripavina ===
+N02AE01 Buprenorfina
+QN02AE90 Etorfina
+QN02AE99 Derivados de Oripavina, associações
+
+
+=== N02AF  Derivados de morfinan ===
+N02AF01 Butorfanol
+N02AF02 Nalbufina
+
+
+=== N02AG Opioides em combinação com antiespasmódicos ===
+N02AG01 Morfina e antiespasmódicos
+N02AG02 Cetobemidona e antiespasmódicos
+N02AG03 Petidina e antiespasmódicos
+N02AG04 Hidromorfona e antiespasmódicos
+
+
+=== N02AJ Opioides em combinação com analgésicos não opioides ===
+N02AJ01 Di-hidrocodeína e paracetamol
+N02AJ02 Di-hidrocodeína e ácido acetilsalicílico
+N02AJ03 Di-hidrocodeína e outros analgésicos não opioides
+N02AJ06 Codeína e paracetamol
+N02AJ07 Codeína e ácido acetilsalicílico
+N02AJ08 Codeína e ibuprofeno
+N02AJ09 Codeína e outros analgésicos não opioides
+N02AJ13 Tramadol e paracetamol
+N02AJ14 Tramadol e dexcetoprofeno
+N02AJ15 Tramadol e outros analgésicos não opioides
+N02AJ17 Oxicodona e paracetamol
+N02AJ18 Oxicodona e ácido acetilsalicílico
+N02AJ19 Oxicodona e ibuprofeno
+
+
+=== N02AX Outros opioides ===
+N02AX01 Tilidina
+N02AX02 Tramadol
+N02AX03 Dezocina
+N02AX05 Meptazinol
+N02AX06 Tapentadol
+
+
+== N02B Outros analgésicos e antipiréticos ==
+
+
+=== N02BA Ácido salicílico e derivados ===
+N02BA01 Ácido acetilsalicílico
+N02BA02 Aloxiprin
+N02BA03 Salicilato de colina
+N02BA04 Salicilato de sódio
+N02BA05 Salicilamida
+N02BA06 Salsalate
+N02BA07 Etenzamida
+N02BA08 Salicilato de morfolina
+N02BA09 Dipirocetil
+N02BA10 Benorilato
+N02BA11 Diflunisal
+N02BA12 Salicilato de potássio
+N02BA14 Guacetisal
+N02BA15 Carbasalato de cálcio
+N02BA16 Salicilato de imidazol
+N02BA51 Ácido acetilsalicílico, associações, exceto psicolépticos
+N02BA55 Salicilamida, associações, exceto psicolépticos
+N02BA57 Etenzamida, associações, exceto  psicolépticos
+N02BA59 Dipirocetil, associações, exceto psicolépticos
+N02BA65 Carbasalato de cálcio, combinações, exceto psicolépticos
+N02BA71 Ácido acetilsalicílico, associações com psicolépticos
+N02BA75 Salicilamida, associações com psicolépticos
+N02BA77 Etenzamida, associações com psicolépticos
+N02BA79 Dipirocetil, associações com psicolépticos
+
+
+=== N02BB Pirazolonas ===
+N02BB01 Fenazona
+N02BB02 Metamizol
+N02BB03 Aminofenazona
+N02BB04 Propifenazona
+N02BB05 Nifenazona
+N02BB51 Fenazona, associações, exceto psicolépticos
+N02BB52 Metamizol de sódio, associações, exceto psicolépticos
+N02BB53 Aminofenazona, associações, exceto psicolépticos
+N02BB54 Propifenazona, associações, exceto psicolépticos
+N02BB71 Fenazona, associações com psicolépticos
+N02BB72 Metamizol de sódio, associações com psicolépticos
+N02BB73 Aminofenazona, associações com psicolépticos
+N02BB74 Propifenazona, associações com psicolépticos
+
+
+=== N02BE Anilidas ===
+N02BE01 Paracetamol
+N02BE03 Fenacetina
+N02BE04 Bucetin
+N02BE05 Propacetamol
+N02BE51 Paracetamol, associações, exceto psicolépticos
+N02BE53 Fenacetina, combinações, exceto psicolépticos
+N02BE54 Bucetin, combinações, exceto psicolépticos
+N02BE71 Paracetamol, associações com psicolépticos
+N02BE73 Fenacetina, associações com psicolépticos
+N02BE74 Bucetin, associações com psicolépticos
+
+
+=== N02BG Outros analgésicos e antipiréticos ===
+N02BG02 Rimazólio
+N02BG03 Glafenina
+N02BG04 Floctafenina
+N02BG05 Viminol
+N02BG06 Nefopam
+N02BG07 Flupirtina
+N02BG08 Ziconotida
+N02BG09 Metoxiflurano
+N02BG10 Canabinóides (inclui nabiximóis)
+QN02BG90 Frunevetmab
+QN02BG91 Bedinvetmab
+
+
+== N02C Preparações antienxaqueca ==
+
+
+=== N02CA Alcalóides do ergot ===
+N02CA01 Di-hidroergotamina
+N02CA02 Ergotamina
+N02CA04 Metisergida
+N02CA07 Lisurida
+N02CA51 Di-hidroergotamina, combinações
+N02CA52 Ergotamina, associações, exceto psicolépticos
+N02CA72 Ergotamina, associações com psicolépticos
+
+
+=== N02CB Derivados de corticosteroides ===
+N02CB01 Flumedroxona
+
+
+=== N02CC Agonistas seletivos da serotonina (5-HT1) ===
+N02CC01 Sumatriptano
+N02CC02 Naratriptano
+N02CC03 Zolmitriptano
+N02CC04 Rizatriptano
+N02CC05 Almotriptano
+N02CC06 Eletriptano
+N02CC07 Frovatriptano
+
+
+=== N02CD Antagonistas de peptídeo relacionado ao gene da calcitonina (CGRP) ===
+N02CD01 Erenumabe
+N02CD02 Galcanezumabe
+N02CD03 Fremanezumabe
+
+
+=== N02CX Outras preparações anti-enxaqueca ===
+N02CX01 Pizotifeno
+N02CX02 Clonidina
+N02CX03 Iprazocromo
+N02CX05 Dimetotiazina
+N02CX06 Oxetorona
+
+
+== Ver também ==
+Classificação ATC
+Código ATC N: Sistema Nervoso
+
+
+== Referências ==

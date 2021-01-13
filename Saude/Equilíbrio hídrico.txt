@@ -1,0 +1,57 @@
+Em fisiologia, o equilíbrio hídrico é o equilíbrio entre a água que é ingerida e a que é perdida na respiração, transpiração, urina e fezes. É controlado pelo hipotálamo através da ativação do mecanismo de sede.
+Entrada: alimentação, líquidos, soro, medicamentos, água endógena (produzida pelo próprio organismo).
+Saída: urina, fezes, perdas insensíveis (sudorese, respiração, perspiração).
+
+
+== ÁGUA ENDÓGENA & PERDAS INSENSÍVEIS ==
+A água do organismo pode ser de origem endógena ou exógena. Endógena – É aquela proveniente das reações químicas que ocorrem no próprio organismo, com liberação de água. Exemplo: água liberada durante a síntese de proteínas, polissacarídeos, lipídios e ácidos nucléicos e, ainda, no final da respiração celular.
+A água também é normalmente perdida pelo organismo através dos rins, por meio da urina; através do trato intestinal por meio de material fecal e de forma insensível através da pele como respiração. ... A evaporação insensível, a partir da pele e do trato respiratório, resulta em perda significante de líquido
+No equilíbrio hídrico é possível calcular uma valor estimado da água endógena (AE) e da perda insensível (PI) para que assim consigamos identificar com maior precisão o total de líquidos inseridos (Ganhos) ou perdidos (Perdas) por um paciente.
+Essas Formulas podem ser utilizadas em unidades de terapia intensiva para cálculo do balanco hídrico, os mesmo servem para pacientes adultos ou pediátricos;
+O peso é multiplicado por uma constante que por sua vez é definida de acordo com qual dispositivo ou meio de ventilação o paciente se encontra;
+O balanço hídrico (BH) deve ser fechado ou avaliado a cada 6 horas, logo para as 24 horas do dia o volume total da AE e PI deve ser dividida para 4, para que assim possamos saber seu respectivo volume a cada 6 horas do dia; 
+Ao avaliarmos o BH faz-se a somatória dos volumes infundidos ou “ganhos” junto a AE e posteriormente subtraímos da somatória dos volumes perdidos ou “perdas” com a PI;
+BH positivo (> Zero) pode indicar retenção de líquidos;
+BH negativo (< Zero) pode indicar perda excessiva de líquidos;
+Formulas:.
+Ventilação Espontânea
+Ar ambiente
+AE: Peso x 8 ÷ 4        PI: Peso x 10 ÷ 4
+Cateter Nasal
+AE: Peso x 9 ÷ 4        PI: Peso x 11 ÷ 4
+Macro nebulização
+AE: Peso x 10 ÷ 4       PI: Peso x 12 ÷ 4
+Ventilação Mecânica
+VM: Suporte (PSV/CPAP)
+AE: Peso x 11 ÷ 4       PI: Peso x 13 ÷ 4
+VM: Controlada (VCV/PCV)
+AE: Peso x 12 ÷ 4       PI: Peso x 14 ÷ 4
+
+
+== ÁGUA ENDÓGENA E PERDAS INSENSÍVEIS EM NEONATOLOGIA (Até 28 dias de vida) ==
+Cálculo aplicado em neonatogia (Recém nascidos de até 28 dias de vida)
+AE: 10 x Peso ÷ 4        PI: ML x Peso ÷ 4
+ML: Vide tabela abaixo                                                                                                    
+Peso                                       Idade Pós Natal
+< 7 Dias de Vida             > 7 Dias de Vida
+0,500-0,750 Kg               100 ml/Kg                       80 ml/Kg        
+0,751-1000  Kg                65 ml/Kg                        50 ml/Kg        
+1,001-1,250 Kg                55 ml/Kg                        50 ml/Kg        
+1,251-1,500 Kg                40 ml/Kg                        40 ml/Kg        
+1,501-1,750 Kg                20 ml/Kg                        20 ml/Kg        
+1,751-2,000 Kg                15 ml/Kg                       15 ml/Kg         
+Existem fatores que podem influenciar nas perdas insensíveis, de forma a aumentar ou diminuir.
+Fatores que aumentam as PI:
+
+Prematuridade em 100-300%
+Calor radiante em 50-100%
+Fototerapia convencional em 30-50%
+Hiperatividade ou choro em 20-70%
+Hipertermia em 30-70%
+Hiperpneia em 20-30%Fatores que diminuem as PI:
+
+Incubadora de parede dupla em 30%
+Umidificação de incubadora em 30%
+Protetor plastico em 30%
+Ventilação mecânica em 30%
+Membrana semipermeável em 50%

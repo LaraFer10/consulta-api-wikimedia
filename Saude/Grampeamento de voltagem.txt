@@ -1,0 +1,22 @@
+Grampeamento de tensão (voltage clamp) é a técnica utilizada pelos pesquisadores Alan Lloyd Hodgkin e Andrew Huxley quando decidiram estudar as propriedades da membrana do axônio.
+Nesta técnica é utilizado pulsos de tensão em vez de pulsos de correntes para controlar o mecanismo explosivo envolvido na geração do potencial de ação nos neurônios.
+Esta técnica era muito utilizada na eletrofisiologia
+
+
+== Variações da Técnica Grampeamento de Tensão ==
+Uma explicação mais detalhada pode ser encontrada nos links:
+Guia de Axonios.
+PDF do Axon Instruments.
+
+
+== Ver também ==
+Eletrofisiologia
+Andrew Huxley
+Alan Lloyd Hodgkin
+
+
+== Ligações externas ==
+Canais dependentes de voltagem UFMG
+
+
+== References ==

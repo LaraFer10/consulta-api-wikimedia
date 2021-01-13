@@ -1,0 +1,10 @@
+A motilidade do tipo swarming (do inglês "enxame") é uma translocação rápida (2–10 μm / s) e coordenada de uma população bacteriana em superfícies sólidas ou semi-sólidas. O motilidade swarming foi relatada pela primeira vez por Jorgen Henrichsen e tem sido estudada principalmente no gênero Serratia, Salmonella, Aeromonas, Bacillus, Yersinia, Pseudomonas, Proteus, Vibrio e Escherichia.
+
+Este comportamento multicelular tem sido observado principalmente em condições controladas de laboratório e depende de dois elementos principais: 1) a composição de nutrientes e 2) viscosidade do meio de cultura (isto é, a % de ágar). Uma característica particular desse tipo de motilidade é a formação de padrões dendríticos do tipo fractal, formados por enxames migrantes que se afastam de um local inicial.
+
+
+== Biossurfactante, quorum sensing e swarming ==
+Em algumas espécies, a motilidade swarming requer a produção de biossurfactante. A síntese de biossurfactante geralmente está sob o controle de um sistema de comunicação intercelular denominado quorum sensing. Pensa-se que as moléculas de biossurfactante atuem diminuindo a tensão superficial, permitindo assim que as bactérias se movam pela superfície.
+
+
+== Referências ==

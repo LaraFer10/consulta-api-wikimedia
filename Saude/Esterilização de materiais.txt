@@ -1,0 +1,74 @@
+Esterilização de materiais é a total eliminação da vida microbiológica destes materiais. É diferente de limpeza e diferente de assepsia. Como exemplo, uma tesoura cirúrgica pode ser lavada, e ela estará apenas limpa. Para ser esterilizada é necessário que seja submetida a uma determinada temperatura  e pressão durante um determinado tempo, destruindo todas as suas bactérias, esporos, vírus e fungos. Existem várias técnicas de esterilização, que apresentam vantagens e desvantagens; contudo, a técnica usada mais regularmente é a flambagem.
+
+
+== Conceito técnico ==
+Esterilização de materiais é na verdade a tendencia de eliminação de todas as bactérias ou redução da população de uma colônia, pois mesmo depois da esterilização o material supostamente estéril ainda possui uma porção minima de bactérias portanto depois de estéril estes materiais são colocados com uma data de validade e armazenados em uma sala com temperatura controlada, isto é, se não forem usados neste período os materiais deverão ser esterilizados novamente.
+A questão da temperatura vai de acordo com o método de esterilização, quanto maior a temperatura menor é o tempo de exposição dos materiais, isto se referindo a esterilização a vapor, hoje em dia existem dois tipos de temperaturas, 121 °C e de 134 °C em autoclaves, para manter a segurança e aumentar a confiabilidade no fim do processo, os materiais não devem sair molhados deste tipo de equipamento,o que seca o material no fim da esterilização ou fase de secagem é a temperatura que o material fica exposto da "câmara externa",que por sua vez a pressão é geralmente maior que a pressão na câmara onde ficam os materiais,a maioria das auto claves contem duas câmaras facilitando este processo." apesar de toda esta tecnologia que temos hoje o conceito de que o material está totalmente estéril é falso, podemos falar em métodos mais seguros que é o correto.
+A proximidade de um processo de esterilização com qualidade encontra-se na validação e qualificação do equipamento, no suprimento de água do vapor, da manutenção, usado muito em locais chamados de salas limpas em hospitais, ambulatórios, setor de saúde, entre outros.
+
+
+== Flambagem ==
+A flambagem é a colocação do material sobre o fogo até que o metal fique vermelho.
+
+Vantagem: fácil execução
+Desvantagem: Não é seguro, pode não esterilizar alguns tipos de bactérias pelo baixo tempo de exposição. O material fica com uma cor preta, e com cheiro forte
+
+
+== Fervura ==
+Ferver o material por 15 minutos (contar o tempo após o início da fervura). Após a fervura, escorrer a água e deixar mais um pouco dentro da vasilha para secar; pegar o material sempre pelo cabo e com as mãos bem lavadas. Após isso, secar bem o material com um pano limpo e guardá-lo em recipiente com tampa, até o seu uso.
+
+
+== Calor seco ==
+Atua sobre os microorganismos provocando a oxidação dos constituintes celulares orgânicos e a desnaturação e coagulação das proteínas. Penetra nas substâncias de uma forma mais lenta que o calor úmido e por isso exige temperaturas mais elevadas e tempos mais longos, para que haja uma eficaz esterilização.São utilizadas as estufas. Conforme o calor gerado recomenda-se um certo tempo: a 160 Graus Celsius, são necessários 120 minutos. A 140 Graus Celsius são necessários 2 horas. A 120 Graus Celsius são necessários 6 horas.
+
+Vantagens: não forma ferrugem, não danifica materiais de corte. É o ideal para vidros, metais, algumas gorduras e substâncias em pó.
+Desvantagens: O material deve ser resistente a variação da temperatura. Não esteriliza líquidos.
+
+
+== Calor úmido ==
+Atua também desnaturando e coagulando as proteínas das células microbianas, mas a água vai influenciar a destruição das membranas e enzimas pois pode induzir a destruição das ligações de hidrogénio, o que vai tornar estes processos mais eficazes e diminuir o tempo de exposição.
+
+Autoclavagem: é a exposição do material a vapor de água sob pressão, a 121 °C durante 15 min. É o processo mais usado e os materiais devem ser embalados de forma a permitirem o contacto total do material com o vapor de água. Deve ser realizado no vácuo para permitir que a temperatura não seja inferior à desejada, permitir a penetração do vapor nos poros dos corpos porosos e impedir a formação de uma camada inferior mais fria. Podem ser usados autoclaves de parede simples (que são mais rudimentares) ou de parede dupla, que permitem melhor extração do ar e melhor secagem. É muito usado para o vidro seco e materiais que não oxidem com água (os materiais termolábeis não podem ser esterilizados por esta técnica). É utilizada ainda para esterilizar tecidos. A sua eficácia é valiada por dois métodos. Indicadores químicos: mudam de cor consoante a temperatura (ex. tubos de Brown a fita adesiva Bowie-Dick). Indicadores biológicos: tubo com suspensão de esporos de bactérias muito resistente (Bacillus stearothermophylus) que morrem quando expostos por 12 min ou mais a uma temperatura de 122 °C. Após um repouso de 14h, faz-se uma sementeira dos esporos, que deve dar negativa. Ver autoclave.
+Vantagens: fácil uso, custo acessível para grandes hospitais.
+Desvantagens: Não serve para esterilizar pós.
+Nota:Hoje já existem modelos de autoclaves que esterilizam cargas líquidas.
+Ebulição: Não é um verdadeiro método, pois não elimina formas resistentes. A sua condição mínima é a fervura a 100 °C durante 15 min.
+Tindalização: o material é submetido a 3 sessões de exposição a vapor de água a 100 °C, durante 20-45 min, 45 min e 20-45 min, com um tempo de repouso entre elas de 24 h. Consegue-se a esterilização, visto que permite a germinação dos esporos entre duas sessões e sua posterior destruição. É usada para soluções açucaradas ou que contenham gelatina.
+
+
+== Raios Gama/Cobalto ==
+Os raios-gama têm comprimentos de onda ainda menores do que o tamanho dos átomos. Os fótons de raio-gama levam muita energia e são mortais.
+
+Vantagens: Esteriliza uma variedade de materiais
+Desvantagens: caro e perigoso, requer equipe altamente especializada.
+
+
+== Métodos químicos ==
+Gás Óxido de Etileno:O gás óxido de etileno é um produto altamente tóxico usado para esterilizar materiais.
+Vantagens: Não danifica os materiais
+Desvantagens: Danos ao meio ambiente quando manipulado erroneamente, alto custo, tóxico para o manipulador, requer aeração forçada por um periodo mínimo de 12 horas e na aeração ambiente 48 horas. Todo o processo leva cerca de 48 horas.
+Glutaraldeído: Fornecido na forma de líquido a 25 ou 50%, são pouco voláteis a frio e utilizados para a desinfecção de instrumentos médicos. Irritante das mucosas e tóxico, necessita de cuidados especiais
+Vantagens: facilidade de uso
+Desvantagens: esterilização é tempo dependente. É necessário a imersão total do material. Alergênico, tóxico e irritante. Mycobacterias podem ser resistentes, bem como esporos.
+Formaldeído: Atualmente utilizado em processos fechados com autoclave especial. A esterilização é eficiente mas depende de umidade local controlada.
+Vantagens: Barato. Muito eficiente. Ciclo de 6 horas. Baixa temperatura (55 °C)
+Desvantagens: Requer equipamento específico e controle rigoroso.
+Ácido peracético: Líquido que esteriliza materiais por imersão.
+Vantagens: rapidez: em 10 minutos sob imersão apresenta desinfecção.
+Desvantagens: muitos fabricantes no mercado com formulações de ph baixo e assim agressivo ao material, mas existe alguns com o ph neutro no mercado.
+Plasma de Peróxido de Hidrogênio: Sistema à gás que utiliza equipamento complexo composto de alto vácuo e gerador elétrico de plasma. Processo químico eficiente e de baixa temperatura (35~40 °C).
+Vantagens: Rapidez, eficiência, baixa temperatura.
+Desvantagens: Custo alto do equipamento e processo, incompatibilidade de embalagens.
+
+
+== Filtração ==
+Em grande parte dos casos a esterilização por autoclave a vapor, óxido de etileno ou radiação ionizante são utilizados para tornar um produto estéril. Apesar disso, alguns produtos não são estáveis quando submetidos a essas condições e a filtração esterilizante é um bom candidato para esses casos.
+Diferentemente dos outros processos de esterilização, o processo de filtração atua removendo microrganismos da solução ao invés de induzir a morte do patógeno. Outras vantagens desse tipo de processo é que ele remove outros tipos de partículas além de microrganismos. Ainda, ele evita uma possível reação pirogênica por não resultar em microrganismos mortos na solução como nos outros métodos de esterilização. No entanto, mesmo sendo capaz de eliminar praticamente a totalidade de seres vivos (como bactérias e fungos) presentes no produto a ser esterilizado, ainda assim os filtros podem permitir a passagem de organismos menores tais como micoplasma e vírus.Filtros de membrana são constituídos de uma matriz porosa que permite que a solução passe através dela enquanto retém microrganismos e partículas indesejadas. O tamanho dos poros deve ser relativamente pequeno para que possam reter microrganismos. Filtros com poros de tamanho de 0,2 ou 0,22 µm são considerados ideais para esse processo. Estes filtros devem ser capazes de reter totalmente uma cultura contendo 107 microrganismos de Brevundimonas diminuta (ATCC 19146), por cm2. A escolha desse microrganismo em específico segue a mesma lógica utilizada na escolha de B. stearothermophilus para testar a eficiência da esterilização por autoclave à vapor. O B. stearothermophilus é resistente a altas temperaturas, desse modo, atuando como um ótimo indicador de esterilidade por processos em autoclave. De modo similar, a filtração como é um processo de remoção baseado no tamanho das partículas utiliza-se do B. diminuta como indicador, pois esta é uma das menores bactérias conhecidas, apresentando um tamanho médio de 0,3µm.Os filtros utilizados podem ser adquiridos de diversas empresas e são fabricados de diferentes materiais, dentre as membranas filtrantes disponíveis incluem acetato de celulose, nitrato de celulose, polímeros acrílicos, poliéster, policarbonato, cloreto de polivinila, vinil, nylon, polytef e ainda, membranas metálicas.Membranas de filtração apresentam uma vida útil muito curta devido às suas grandes capacidades de retenção, desse modo, fazendo com que elas entupam rapidamente. A maior parte dos sistemas de filtração esterilizantes não seria eficaz e financeiramente viáveis  sem o uso de uma pré-filtração. Assim, filtros de pré-filtração são utilizados para que se possa proteger e aumentar a vida útil da membrana de filtração final.O filtro deve passar por um processo de validação que assegure que sua utilização correta é capaz de esterilizar o produto em condições reais do processo, considerando-se temperatura, pressão e tempo de filtração, sem que haja perdas e prejuízos como adsorção e liberação de substâncias, ao que se quer esterilizar e, também, que o filtro não sofrerá danos.
+A validação dos filtros consiste nos seguintes testes:
+
+Desafio microbiológico - contaminação proposital com microrganismos específicos e biocarga avaliada em intervalos regulares - Observa-se a viabilidade dos microrganismos na presença do produto a ser filtrado;
+Compatibilidade entre filtro e produto;
+Adsorção de componentes do produto e substâncias extraíveis;Os testes primariamente são realizados com o produto a ser esterilizado ou, em caráter de exceção, com outro fluido e pode ocorrer em escala reduzida se as condições operacionais mimetizarem as reais da produção.
+
+
+== Referências ==

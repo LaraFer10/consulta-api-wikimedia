@@ -1,0 +1,135 @@
+As junções comunicantes, também chamadas de junções gap ou nexos, são estruturas que permitem a comunicação entre células através de conexinas (proteínas pertencentes a cada uma das células e que as atravessam). Através desse tipo de junção, substâncias celulares como, por exemplo, íons, podem passar de célula para célula, fazendo com que grupos celulares formem um conjunto funcional. Quando encontrado em nervos também pode ser chamado de sinapse elétrica. Enquanto uma efapse tem algumas semelhanças com uma das junções comunicantes, por definição moderna os dois são diferentes.
+As junções comunicantes são uma ligação intercelular especializada entre uma multiplicidade de tipos de células animais. Elas conectam diretamente os citoplasmas de duas células, o que permite que várias moléculas, íons e impulsos elétricos passem diretamente através de um portão regulamentada entre as células.Um canal de junção comunicante é constituído por dois hemicanais (ou conexônios), que se conectam através do espaço intercelular. As junções comunicantes são análogas aos plasmodesmos que ligam células vegetais.As junções comunicantes ocorrem em praticamente todos os tecidos do corpo, com a exceção do músculo esquelético adulto totalmente desenvolvido e tipos de células móveis, tais como o esperma ou eritrócitos. No entanto, não são encontrados em organismos mais simples, tais como esponjas e limo.
+
+
+== Estrutura ==
+Nos vertebrados, hemicanais de junções comunicantes são principalmente homo- ou hetero-hexâmeros de proteínas de conexina. Junções comunicantes de invertebrados compreendem proteínas da família inexina. Inexinas não têm homologia de sequência significativa com conexinas.  Embora diferindo em sequência para conexinas, inexinas são semelhantes o suficiente às conexinas para afirmar que inexinas formam junções comunicantes da mesma forma que as conexinas. A recentemente caracterizada família panexina, que se pensava originalmente formarem canais inter-celulares (com uma sequência de aminoácidos semelhante às inexinas), de fato funciona como um canal de membrana única que se comunica com o ambiente extracelular, e foi mostrado passar cálcio e ATP Nas junções comunicantes, o espaço intercelular é entre 2 e 4 nm  e as unidades de conexônio na membrana de cada célula estão alinhadas umas com as outras. Canais de junções comunicantes formado por dois hemicanais idênticos são chamados homotípicos, enquanto aqueles com diferentes hemicanais são heterotípicos. Por sua vez, hemicanais de composição conexina uniforme são chamados homomérico, enquanto aqueles com diferentes conexinas são heteromérico. Acredita-se que a composição do canal possa influenciar o funcionamento dos canais de junções comunicantes.
+Antes das inexinas e panexinas serem bem caracterizadas, os genes que codificam os canais de junções comunicantes de conexina foram classificada em um de três grupos, com base em mapeamento gene e similaridade de sequência: A, B e C (por exemplo, GJA1, gjc1)  No entanto, os genes da conexina não codificam diretamente para a expressão de canais de junções comunicantes; os genes podem produzir apenas as proteínas que formam os canais de junções comunicantes. Um sistema de nomenclatura alternativa com base no peso molecular desta proteína também é utilizado (por exemplo: conexina43 = GJA1, conexina30.3 = GJB4).
+
+
+== Níveis de organização ==
+DNA para RNA para a proteína conexina.
+Uma proteína conexina tem quatro domínios de transmembranas.
+6 conexinas criam um conexônio (hemicanal). Quando diferentes conexinas se juntam para formar um conexônio, é chamado de um conexônio heteromérico.
+Dois hemicanais, unidas através de uma membrana celular compreendem uma junção gap. Quando dois conexônios idênticos se juntam para formar um canal de junção gap, ele é chamado um canal homotípico GJ. Quando um ou ambos os conexônios forem heteroméricos, é chamado um canal de junção gap heterotípico.
+Vários canais de junções comunicantes (centenas) podem montar dentro de um complexo macromolecular chamado placa de junção comunicante.
+
+
+== Propriedades de pares de canais de conexônios ==
+
+Permite a comunicação elétrica direta entre as células, embora diferentes subunidades de conexina possam transmitir diferentes condutâncias, de cerca de 30 pS a 500 pS.
+Permite a comunicação química entre células, através da transmissão de pequenas segundos mensageiros, tais como trifosfato de inositol e cálcio,  embora diferentes subunidades de conexina podem conferir seletividade diferente para determinadas moléculas pequenas.
+Em geral, permite o movimento transmembrana de moléculas menores que 485 Daltons (1.100 Daltons através de junções de invertebrados), embora diferentes subunidades de conexina podem resultar em diferentes tamanhos de poros e diferente seletividade de carga. Biomoléculas grandes, por exemplo, ácido nucleico e proteína, não podem sofrer transferência citoplasmática entre células através dos canais de junção comunicante de conexina.
+Garante que moléculas e passagem de corrente através da junção gap não vaze para o espaço intercelular.Até o momento, cinco diferentes funções foram atribuídas a proteína de junção gap:
+
+Acoplamento elétrico e metabólico entre as células
+Troca elétrica e metabólica através hemicanais
+Genes supressores de tumor (Cx43, Cx32 e Cx36)
+Função adesiva independente do canal de junção gap condutora (migração neural no neocórtex)
+Papel do terminal carboxilo em vias de sinalização citoplasmáticas (Cx43)
+
+
+== Ocorrência e distribuição ==
+Junções gap têm sido observadas em vários órgãos e tecidos de animais em que as células contatam umas as outras. De 1950 até 1970 foram detectados em nervos de lagostas,  pâncreas, fígado, córtex adrenal, epidídimo, duodeno e músculo de ratos,  ceco hepático de dáfnia, músculo de hidra, retina de macaco, córnea de coelho, blastoderme de peixes, embriões de sapos, ovário de coelho, células re-agregando-se, cápsulas hemócitas de baratas, pele de coelho, embriões de galinhas, ilhéus de Langerhans humano, receptores acústico-vestibulares que sentem a pressão de peixes e hamsters, coração de lampréia e tunicado, túbulos seminíferos de ratos, miométrio, cristalino e epitélio digestivo de cefalópodes. Desde os anos 1970 junções comunicantes continuaram a ser encontradas em praticamente todas as células animais que se tocam. Com as novas tecnologias da década de 1990, tal como a microscopia confocal, permitido pesquisar mais rapidamente grandes áreas de tecido. Até mesmo tecidos que foram tradicionalmente considerados como possivelmente tendo células isoladas tais como osso mostraram que as células ainda estavam ligadas com junções gap, mesmo que tenuamente. Junções comunicantes parecem estar em todos os órgãos e tecidos animais e seria interessante encontrar exceções para além de células que não estão normalmente em contato com as células vizinhas. O músculo esquelético adulto é uma possível exceção. Pode-se argumentar que, se presente no músculo esquelético, junções comunicantes podem propagar contrações de forma arbitrária entre as células que compõem o músculo. Em alguns casos, isso pode não ser correto, como mostrado em outros tipos musculares que têm junções comunicantes.  Uma indicação de que resulta de uma redução ou a ausência de junções de hiato pode ser indicado por análise de cânceres ou o processo de envelhecimento.
+
+
+== Funções ==
+As junções comunicantes podem ser encontradas em funcionamento no nível mais simples como um caminho de célula a célula para correntes elétricas, pequenas moléculas e íons. O controle dessa comunicação permite efeitos complexos em organismos multicelulares como descrito abaixo.
+
+
+=== Desenvolvimento embrionário, de órgãos e tecidos ===
+Na década de 1980, os papéis mais sutis, mas não menos importante da comunicação por junções gap foram investigados. Descobriu-se que a comunicação por junções gap pode ser interrompida por adição de anticorpos anti-conexina em células embrionárias.  Embriões com áreas de junções comunicantes bloqueadas não conseguiram desenvolver normalmente. O mecanismo pelo qual os anticorpos bloquearam as junções comunicantes não era claro, mas estudos sistemáticos foram realizados para elucidar o mecanismo. Refinamentos destes estudos mostraram que as junções comunicantes parecem ser a chave para o desenvolvimento da polaridade celular e a simetria/assimetria  esquerda/direita nos animais. Tanto a sinalização que determina a posição dos órgãos do corpo quanto a diferenciação mais fundamental das células em fases posteriores do desenvolvimento embrionário parecem depender de junções comunicantes. 
+As junções comunicantes também foram consideradas responsáveis pela transmissão de sinais requerido para as drogas terem um efeito  e, inversamente, algumas drogas demonstraram bloquear os canais de junções comunicantes. 
+
+
+=== Junções comunicantes e o "efeito espectador" ===
+
+
+==== Morte celular ====
+O "efeito espectador", com suas conotações do espectador inocente ser morto também é mediado por junções comunicantes. Quando as células são comprometidas devido a uma doença ou lesão e começam a morrer, mensagens são transmitidas para as células vizinhas ligadas à célula que está morrendo por junções comunicantes. Isso pode fazer com que as células espectadoras não afetadas e saudáveis também comecem a morrer. Por isso, o efeito espectador é importante a se considerar em células doentes, e abriu caminho para mais financiamento e pesquisas. Mais tarde, o efeito espectador também foi pesquisado em relação a células danificadas pela radiação ou lesão mecânica e, portanto, na cura de ferimentos. Doenças também parecem ter um efeito sobre a capacidade das junções comunicantes em cumprirem seus papéis na cicatrização de feridas. 
+
+
+==== Reestruturação de tecidos ====
+Embora tenha havido uma tendência a concentrar-se sobre o efeito espectador em doenças devido à possibilidade de desenvolver novas vias terapêuticas, há evidências de que existe um papel mais importante no desenvolvimento normal dos tecidos. A morte de algumas células e sua matriz circundante pode ser necessária para um tecido chegar a sua configuração final e as suas junções comunicantes também parecem ser essenciais para este processo.  Há também estudos mais complexos que tentam combinar a compreensão dos papéis simultâneos de junções comunicantes tanto no desenvolvimento de tecidos e na cura de feridas. 
+
+
+=== Áreas de acoplamento elétrico ===
+As junções comunicantes pareiam eletricamente e quimicamente células em todo o corpo da maioria dos animais. O acoplamento elétrico pode ser de ação relativamente rápida. Tecidos nesta seção têm funções observadas bem conhecidas, sendo coordenadas por junções comunicantes com a sinalização intercelular acontecendo em intervalos de tempo de microssegundos ou menos.
+
+
+==== Coração ====
+As junções comunicantes são particularmente importantes no músculo cardíaco: o sinal para contrair é passado através das junções gap de forma eficiente, permitindo que as células do músculo cardíaco contraiam em uníssono. As junções comunicantes estão em virtualmente todos os tecidos do corpo, com a exceção do músculo esquelético adulto totalmente desenvolvido e de tipos de células móveis, tais como o esperma ou eritrócitos. Várias desordens genéticas humanas estão associadas a mutações nos genes de junções comunicantes. Muitos dessas afetam a pele, porque este tecido é fortemente dependente da comunicação de junções gap para a regulação da diferenciação e proliferação. Junções comunicantes cardíacas podem ser abertas farmacologicamente com rotigaptide.
+
+
+==== Neurônios ====
+As junções gap localizadas em neurônios são muitas vezes referidas como uma sinapse elétrica. A sinapse elétrica foi descoberta usando medições elétricas antes que a estrutura de junção gap fosse descrita. Sinapses elétricas estão presentes em todo o sistema nervoso central e têm sido estudadas especificamente no neocórtex, hipocampo, núcleo vestibular, núcleo reticular do tálamo, cerúleo, núcleo olivar inferior, núcleo mesencefálico do nervo trigêmeo, área tegmental ventral, bulbo olfativo, retina e medula espinhal dos vertebrados.Foram observados o acoplamento fraco de neurônios e células gliais no cerúleo, e no cerebelo entre neurônios de Purkinje e células gliais de Bergmann. Parece que os astrócitos são acoplados por junções comunicantes, com outros astrócitos e com oligodendrócitos. Além disso, mutações nos genes de junções comunicantes Cx43 e Cx56.6 causam degeneração da matéria branca semelhante à observada na doença de Pelizaeus-Merzbacher e esclerose múltipla.
+Proteínas de conexina expressos em junções comunicantes neuronais incluem:
+
+mCX36
+mCX57
+mCX45com mRNA para pelo menos cinco outras conexinas (mCx26, mCx30.2, mCx32, mCx43, mCx47) detectadas, mas sem evidência imunocitoquímica para a proteína correspondente em junções comunicantes ultra-estruturalmente definidas. Esses mRNAs parecem estar regulados para baixo ou destruídos por micro-RNAs (miRNAs) que são específicos ao tipo de células e de linhagem.
+
+
+==== Retina ====
+Neurônios dentro da retina mostram acoplamento extenso, tanto em populações de um tipo de célula, e entre diferentes tipos de células.
+
+
+== Descoberta ==
+
+
+=== Origem do termo ===
+Junções "gap" receberam esse nome por conta da lacuna, ou "gap" em inglês, que está presente nestas conexões entre duas células. Com o aumento da resolução da microscopia eletrônica de transmissão (MET), estruturas de junções comunicantes foram pela primeira vez vistas e descritas, em torno de 1953. O termo “junção gap” apareceu cerca de 16 anos depois, por volta de 1969.  Um gap normal estreito semelhante não foi demonstrado em outras junções intercelulares fotografadas usando o MET naquele momento.
+
+
+=== Forma e indicador de função ===
+Bem antes da demonstração do "gap" em junções comunicantes eles foram vistos na junção de células nervosas vizinhas. A proximidade das membranas das células vizinhas nas junções comunicantes levou os pesquisadores a especular que eles tinham um papel na comunicação intercelular, em especial, a transmissão de sinais elétricos. Junções comunicantes também foram provadas serem eletricamente retificantes e referidas como uma sinapse elétrica. Mais tarde verificou-se que substâncias químicas também podem ser transportadas entre as células por meio das junções.Implícito ou explícito na maioria dos primeiros estudos é que a área da junção gap era diferente em estrutura das membranas ao redor de uma forma que faz com que pareça diferente. Foi demonstrado que as junções comunicantes criam um micro-ambiente entre as duas células, no espaço extra-celular ou "gap". Esta porção do espaço extra-celular é isolado de uma certa forma do espaço envolvente e também ligado por meio do que hoje chamamos de pares de conexônios que formam pontes que cruzam de modo mais hermeticamente fechado o gap da junção entre duas células. Quando visto no plano da membrana por técnicas de fratura por congelamento, é possível ter uma distribuição de maior resolução de conexônios no interior da placa de junções gap.
+
+
+==== Pesquisa de Peracchia ====
+Ilhas livres de conexina são observadas em algumas junções. A descoberta ficou em grande parte sem explicação até vesículas serem mostrados por Peracchia usando seções finas de MET como sendo sistematicamente associadas com placas de junção gap. O estudo de Peracchia foi provavelmente também o primeiro estudo a descrever estruturas de conexônios emparelhados, que ele chamou simplesmente de "glóbulo". Estudos mostrando vesículas associadas com junções comunicantes e propondo que o conteúdo das vesículas pode mover-se através das placas de junção entre duas células eram raros, enquanto a maioria dos estudos focava nos conexônios em vez das vesículas. Um estudo posterior usando uma combinação de técnicas de microscopia confirmou as primeiras evidências de uma função provável para as junções comunicantes em transferência de vesícula intercelular. Áreas de transferência de vesícula foram associadas com ilhas livres de conexina dentro de placas de junção gap.
+
+
+=== Junções comunicantes e as sinapses nervosas elétricas e químicas ===
+Devido à ocorrência generalizada de junções comunicantes em outros tipos de células além das células nervosas, o termo “junção gap” tornou-se mais usado geralmente do que termos como sinapse elétrica ou nexo. Outra dimensão na relação entre as células nervosas e as junções comunicantes foi revelado pelo estudo da formação de sinapses químicas e a presença de junções gap. Ao traçar o desenvolvimento do nervo em sanguessugas com junção gap suprimida, foi demonstrado que a junção gap bidirecional (sinapse elétrica nervosa) precisa formar entre duas células antes que elas possam crescer para formar uma "sinapse química nervosa" unidirecional. A sinapse química nervosa é na maioria das vezes desconsiderada no termo mais ambíguo "sinapse nervosa".
+
+
+=== Do que é feita uma junção comunicante? ===
+
+
+==== Conexônios ====
+A purificação das placas de junções comunicantes intercelulares enriquecidas de proteínas formadoras de canais (conexina) mostrou uma proteína formando matrizes hexagonais em uma difração de raios-x. Agora o estudo sistemático e a identificação da proteína predominante na junção gap se tornou possível.
+Estudos refinados de ultraestruturas usando MET mostraram a ocorrência de proteína em uma forma complementar em ambas as células participantes de uma placa de junção gap.  A placa de junção gap é uma área relativamente grande de membrana, observada em MET e fratura por congelamento (FF), e preenchida com proteínas trans-membrana em tecidos e junções gap de tratamento mais delicado.  Com a capacidade aparente para uma proteína sozinha para permitir a comunicação intercelular visto em junções gap o termo junção gap tende a tornar-se sinônimo de um grupo de conexinas agregadas embora isso não tenha sido demonstrado. A análise bioquímica da junção comunicante isolada de vários tecidos demonstrou uma família de conexinas.A ultra-estrutura e a bioquímica das junções comunicantes isoladas já referenciadas tinham indicado que as conexinas preferencialmente agrupavam-se em placas ou domínios de junções gap e que eram a melhor constituinte caracterizada. Tem-se observado que a organização das proteínas em matrizes com uma placa de junção comunicante pode ser significativo. É provável que este trabalho inicial já refletisse a presença de mais do que apenas conexinas em junções comunicantes. Combinando os campos emergentes de fratura por congelamento para ver o interior de membranas e imunocitoquímica (MET FRIL) para rotular componentes celulares mostrou que placas de junção gap continham proteína conexina. Estudos posteriores utilizando microscopia de imunofluorescência de maiores áreas de tecido esclareceram divergências de resultados anteriores. Foi confirmado que as placas de junção gap têm composição variável, sendo o lar de conexônios e proteínas não-conexina, assim fazendo com que o uso moderno dos termos "junção gap" e "placa de junção gap" não sejam intercambiáveis. Em outras palavras, o termo mais comumente utilizado "junção comunicante" refere-se sempre a uma estrutura que contém as conexinas, enquanto uma placa de junção comunicante pode também conter outras características estruturais que a definem.
+
+
+==== A “placa” e “placa de formação” ====
+Descrições iniciais de "junções comunicantes" e "conexônios" não se referiam a eles com estes termos, e muitos outros termos foram usados. É provável que "discos sinápticos" eram uma referência precisa para placas de junções comunicantes. Embora a estrutura detalhada e a função do conexônio foi descrito de uma maneira limitada naquele tempo, a estrutura grosseira do "disco" era relativamente grande e facilmente vista através de várias técnicas de MET. Os discos permitiram que os pesquisadores usando MET localizarem facilmente os conexônios contidos no disco como manchas in vivo e in vitro. O disco ou "placa" parecia ter propriedades estruturais diferentes das transmitidas apenas pelos conexônios.  Pensava-se que, se a área da membrana na placa transmitisse sinais, a área da membrana teria de ser selada de alguma maneira para evitar vazamentos.
+Estudos posteriores mostraram que placas de junção comunicante são o lar de proteínas não-conexina, tornando o uso moderno dos termos "junção gap" e "placa de junção gap" não-intercambiáveis já que a área da placa de junção gap pode conter outras proteínas além de conexinas.  Assim como as conexinas nem sempre ocupam toda a área da superfície da placa as outras componentes descritas na literatura podem ser apenas residentes de longo prazo ou de curto prazo. 
+Estudos permitindo a visualização dentro do plano da membrana das junções gap durante a formação indicaram que uma "placa formação" é formada entre duas células anteriores à chegada das conexinas. Elas eram áreas livres de partículas quando observado por MET FF, indicando muito poucas ou nenhumas proteínas transmembranares provavelmente presentes. Pouco se sabe sobre quais estruturas compõem a placa de formação ou como a estrutura dela muda quando as conexinas e outros componentes se movem para dentro ou para fora. Um dos estudos anteriores da formação de pequenas junções gap descreve filas de partículas e halos livres de partículas.  Com junções comunicantes maiores, as placas foram descritas como placas de formação com conexinas passando para elas. Pensava-se que as junções comunicantes com partículas formavam-se 4 a 6 horas após as placas de formação aparecerem.  Como as conexinas podem ser transportadas para as placas usando tubulina está se tornando mais clara. 
+
+
+===== Desafios na identificação de placas de formação =====
+A placa de formação e a parte que não contém conexina da placa de junção gap clássica foram difíceis para os primeiros pesquisadores analisarem. Aparecem na MET FF e na seção fina como um domínio de membrana lipídica que de alguma forma pode formar uma barreira relativamente rígida para outros lípidos e proteínas. Há evidências indiretas para certos lípidos sendo preferencialmente envolvidos com a placa de formação, mas isso não pode ser considerada definitiva.  É difícil romper a membrana para analisar as placas de membrana sem alterar a sua composição. Por meio do estudo de conexinas ainda em membranas, os lípidos associados com as conexinas têm sido estudados. Verificou-se que conexinas específicas tendem a se associar preferencialmente com fosfolípidos específicos. Como placas de formação precedem conexinas, estes resultados ainda não dão certezas quanto ao que é único sobre a composição das próprias placas. Outros resultados mostram conexinas associadas com andaimes de proteínas utilizadas em outra junção, o zonula occludens ZO1.  Enquanto isso nos ajuda a entender como conexinas pode ser movidas para uma placa de formação de junções gap, a composição da placa em si ainda é pouco conhecida. Alguns avanços na composição in vivo de placas de junções comunicantes está sendo feita usando MET FRIL. 
+
+
+== Ver também ==
+Canal iônico
+Complexo de junção
+Conexina
+Conexônio
+Desmossomo
+Junção celular
+Músculo cardíaco
+Plasmodesmo
+Sinapse
+
+
+== Referências ==
+
+
+== Leituras adicionais ==
+Harris, Andrew; Locke, Darren, eds. (2009). Connexins. New York: Springer. ISBN 978-1-934115-46-6 
+
+
+== Ligações externas ==
+
+MeSH Gap+Junctions

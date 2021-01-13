@@ -1,0 +1,8 @@
+O Sistema de alvejamento de RNA inspirado em CRISPR-Cas (CIRTS) é uma estratégia de engenharia de proteínas para a construção de elementos de controle de RNA programáveis.  CIRTS é uma abordagem generalizável para fornecer uma gama de proteínas efetoras, incluindo nucleases, maquinaria de degradação, ativadores translacionais e editores de base para direcionar as transcrições. CIRTS é menor do que os sistemas de ligação a RNA programáveis CRISPR-Cas e também pode ser construído inteiramente a partir de partes de proteínas humanas.
+
+
+== Veja também ==
+CRISPR-Cas13
+
+
+== Referências ==

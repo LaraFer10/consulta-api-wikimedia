@@ -1,0 +1,17 @@
+Em biologia, tradução é o processo biológico no qual a sequência nucleótica de uma molécula de mRNA (RNA mensageiro) é utilizada para ordenar a síntese de uma cadeia nucleotidica, cuja sequência de aminoácidos determina uma proteínaNeste processo, moléculas de RNA de transferência (tRNA) operam a tradução reconhecendo as sequências nucleotídicas do mRNA e correlacionando-as com a sequência que corresponde a determinados aminoácidos. A molécula que fornece a informação genética a ser traduzida é o RNA mensageiro. Este contém uma sequência de nucleotídeos que é lida, pelo RNA transportador (que possui uma série de anticodões) de três em três bases. Cada trinca de bases do RNA mensageiro representa um codão e está relacionada a um aminoácido específico. A inserção de aminoácidos na cadeia polipeptídica crescente ocorre na mesma ordem em que os seus respectivos códons aparecem na molécula de RNA mensageiro.Na célula a tradução é processada em estruturas chamadas de membrana, que posiciona corretamente RNAs transportadores com RNAs mensageiros e catalisam as ligações peptídicas entre aminoácidos para a síntese de proteínas. Os ribossomos são compostos por duas subunidades e agem de maneira a percorrer a totalidade da cadeia de RNA mensageiro. O papel do RNA transportador nesse processo seria o de conectar os códons do RNA mensageiro com os devidos aminoácidos espalhados pelo citoplasma. Ao efetuar tal processo, o ribossomo fará a ligação peptídica entre os códons trazidos pelo RNA transportador, gerando a fita protéica.
+
+
+== Processo ==
+
+Este processo ocorre nos ribossomas livres ou em ribossomas associados ao Retículo Endoplasmático Rugoso (RER).
+1-No início desta fase (denominada de Iniciação), as subunidades do ribossoma dividem-se e o mRNA (ácido ribonucleico mensageiro) liga-se à subunidade menor através da extremidade 5' (estrutura do RNA), depois, a subunidade menor desliza sobre o mRNA até encontrar o codão de iniciação (AUG). Posteriormente, um tRNA (ácido ribonucleico de transferência) que transporta o aminoácido metionina liga-se por complementaridade ao codão de iniciação (pelo anticodão). De seguida, a subunidade maior liga-se à subunidade menor do ribossoma.
+2-A segunda fase, denominada de Alongamento, um segundo tRNA com outro aminoácido (ligado à extremidade 3') liga-se ao ribossoma e por consequência liga-se ao codão do mRNA (pelo anticodão). Assim estabelece-se uma ligação peptidica entre os aminoácidos, posteriormente o ribossoma avança três nucleótidos, e assim o primeiro tRNA (que transportou metionina) desprende-se do ribossoma, libertando espaço, para que outro tRNA ligue-se, e assim em diante. Este processo repete-se ao longo da molécula de mRNA no sentido 5'->3'. Os tRNA, que se tinham ligado vão-se desprendendo sucessivamente.
+3-A terceira fase, denominada de Finalização, o ribossoma encontra o codão de finalização (UAA, UAG ou UGA). Como estes codões não correspondem a nenhum tRNA, o alongamento termina. E o péptido é libertado.
+
+
+== Ver também ==
+Replicação do DNA
+Transcrição
+
+
+== Referências ==

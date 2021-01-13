@@ -1,0 +1,19 @@
+BLAST (sigla em inglês que significa: Basic Local Alignment Search Tool), é um algoritmo para comparar  informações de sequências biológicas primárias, tais como seqüências de aminoácidos de diferentes proteínas ou nucleotídeos de seqüencias de DNA.
+Uma pesquisa BLAST permite que um investigador compare uma seqüencia fornecida em uma consulta com uma biblioteca ou base de dados de seqüências e identificar as bibliotecas de seqüências que se assemelham à seqüência consultada e que estejam acima de um certo grau de semelhança.
+Numa situação hipotética, após descobrir um gene anteriormente desconhecido em um camundongo, um cientista poderia tipicamente elaborar uma pesquisa no BLAST do genoma humano para verificar se existem seres humanos portadores de um gene semelhante.
+O programa BLAST foi projetado por Eugene Myers, Stephen Altschul, Warren Gish, David J. Lipman e Webb Miller no National Institutes of Health.
+
+
+== Bibliografia ==
+Korf, Ian;Yandell, Mark;Bedell, Joseph (2003). Blast. Beijing: O'Reilly. 339 páginas. ISBN 0-596-00299-8  !CS1 manut: Nomes múltiplos: lista de autores (link)
+Markel, Scott; León, Darryl (2003). Sequence Analysis. Beijing: O'Reilly. 286 páginas. ISBN 0-596-00494-X  !CS1 manut: Nomes múltiplos: lista de autores (link)
+Setubal, João; Meidanis, João (1997). Introduction to Computational Molecular Biology. Boston: PWS Publishing Company. 296 páginas. ISBN 0-534-95262-3  !CS1 manut: Nomes múltiplos: lista de autores (link)
+
+
+== Ver também ==
+Alinhamento de seqüências
+FASTA
+
+
+== Ligações externas ==
+Sítio Oficial da Ferramenta

@@ -1,0 +1,98 @@
+Interatômica  é uma disciplina que surge da intersecção de bioinformática e biologia, que lida com o estudo, tanto das interações  entre as Proteínas e as conseqüências dessas interações, como também de outras moléculas dentro da célula.  Interatômica, portanto, tem por objetivo comparar tais redes de interações entre e dentro de espécies, a fim de descobrir como as características de tais redes variam, ou são preservadas.
+Interatômica é um exemplo de biologia de sistemas top-down o que leva a uma sobrecarga, bem como em geral, a visualização de sistemas biológicos ou organismo. Grandes conjuntos de dados de todo o genoma, proteômica, e correlações entre os diferentes moléculas podem ser inferidos. A partir dos dados novas hipóteses são formuladas sobre o feedback entre estas moléculas. Estas hipóteses podem ser testadas por novos experimentos.
+Em biologia molecular,  Interatoma é todo o conjunto de interações moleculares que ocorre em uma determinada célula. O termo refere-se especificamente à interações físicas entre as moléculas (como aquelas entre proteínas, também conhecida como Interação proteína-proteína) mas também pode descrever conjuntos de interações indiretas entre genes (Integração genética), ainda indireta entre proteínas quando elas participam utilizando um substrato ou produto em uma via metabólica. A palavra "interatôma" foi originalmente criado em 1999 por um grupo de cientistas franceses liderado por Bernard Jacq. Embora interatomas possam ser descritos como redes biológicas, eles não devem ser confundidos com outras redes, como redes neurais ou cadeias alimentares.
+
+
+== 1. Rede de Interação ==
+  
+As rede interatômicas podem ser de diferentes tipos, podendo envolver diferentes grupos de biomoléculas: Interações moleculares podem ocorrer entre as moléculas pertencentes a diferentes grupos (proteínas, ácidos nucléicos, lipídios, carboidratos, etc.) e também dentro de um mesmo grupo. Sempre que tais moléculas são ligados por interações físicas, formam redes de interação molecular que são geralmente classificados pela natureza dos compostos envolvidos. Mais comumente, interatoma refere-se à interação proteína-proteína (IPP), ou subconjunto dos mesmos. Por exemplo, o Sirt-1 de proteína interatoma e Sirt família de segunda ordem interatoma  é a rede envolvendo Sirt-1, diretamente interagindo proteínas, onde, como interatoma de segunda ordem  ilustra medicamentosas até segunda ordem de vizinhos (Vizinhos dos vizinhos). Outro  tipo de interatoma extensivamente estudado é o do tipo proteína–DNA , também chamado de rede de regulamentação genica, uma rede formada por fatores de transcrição (proteínas regulatórias de cromatina) e os seus genes alvo. Mesmo redes metabólicas podem ser consideradas como redes de interação molecular: metabólitos, i.e. compostos químicos em uma célula, são convertidos em outros por enzimas, que tem que ligar seus substratos fisicamente.
+Na verdade, todos os  tipos de  interatômas estão interligados. Por exemplo, um interatoma de proteína contém muitas enzimas, que por sua vez formam redes bioquímicas. Da mesma forma, redes de regulação gênica sobrepor-se substancialmente com a proteína de interação e redes de sinalização.
+
+
+== 2. Rede de interação genética ==
+Os Genes interagem no sentido de que eles afetam cada função. Por exemplo, uma mutação pode ser inofensiva, mas quando ele é combinado com outra mutação, a combinação pode vir a ser letal. Alguns dos objetivos dessas redes são: desenvolver um  mapa funcional de processos de uma célula, interações identificação do alvo, e para prever a função de  genes não caracterizados.
+
+
+== 3. Métodos experimentais na determinação de interatômas ==
+O estudo de interatomas é que chamos de interatomica. A unidade básica de uma proteína de rede é a de interação proteína–proteína  (IPP). Enquanto existem vários métodos para o estudo de IPP, são relativamente poucos os que têm sido utilizados em larga escala para mapear todo o interatomas.
+O sistema duplo hibrido (Y2H)  é adequado para explorar a interação entre duas proteínas ao mesmo tempo. A imunoprecipitação e posterior a espectrometria de massa é uma técnica adequada para identificar interação entre complexos de proteínas.  No sistema Y2H existe uma desvantagem de poder ocorrer a identificação de falsos positivos, pois podem encontra interação entre proteínas que não são expressas no mesma momento e nem na mesma sublocalização celular em contrapartida a captura por afinidade  na espectrometria de massa não tem esta desvantagem, e é o atual "padrão-ouro" na identificação de interação entre moléculas, por indica melhoras as interações proteína–proteína em um sistema vivo.
+
+
+== 4. Métodos computacionais para o estudo de interatomas ==
+Uma vez que um interatoma foi criado, existem inúmeras maneiras para analisar suas propriedades. No entanto, existem dois importantes objetivos de tais análises. Primeiro, os cientistas tentam explicar as propriedades dos sistemas, por exemplo, a topologia de suas interações. Segundo, os estudos podem concentrar-se em proteínas individuais e seu papel na rede. Tais análises são realizadas, principalmente, usando métodos de bioinformática, que incluem os seguintes métodos abaixo, entre muitos outros:
+
+
+=== 4.1. Predição de interações ===
+Usando dados experimentais, como um ponto de partida, a transferência de interações por homologia  é uma forma de prever interatômas, para isso, a partir de uma rede de IPP  de um organismo modelo, como saccharomyces cerevisiae, são utilizados para prever as interações entre proteínas homólogas em outro organismo, essas redes baseadas em homologia são chamadas de redes "interologas". No entanto, esta abordagem tem algumas limitações, principalmente porque os dados de origem podem não ser confiáveis (por exemplo, contém falsos positivos e falsos negativos). Além disso, as proteínas e suas interações alterar durante a evolução e, portanto, pode ter sido perdido ou ganhado. No entanto, inúmeros interatômas ter sido previstos, por exemplo, que de Bacillus licheniformis.Alguns algoritmos utilizam a evidência experimental estruturais complexos, como detalhes da interfaces atômicas que pode prever a interação entre proteínas , bem como outras interações entre proteínas-molécula.  Outros algoritmos utilizam apenas informações de seqüência, para predizer as redes de interação usando domínios de interação ente as proteínas. Essa abordagem pode conter muitos erros.
+Alguns métodos de uso de aprendizado de máquina para distinguir a interação se baseando na localização celular, co-expressão de genes, se as proteínas pertencem a um mesmo operon, e assim por diante. Random forest tem sido identificado como o mais eficaz método de aprendizagem de máquina para a previsão de interações entre proteína. Tais métodos têm sido aplicados para descobrir proteína alvos de medicamentosas a partir do interatôma de humanos, especificamente o interatôma de proteínas de Membranae o interatôma de proteínas associadas com a Esquizofrenia.
+
+
+=== 4.2. Perturbações e doenças ===
+A topologia de um interatôma faz algumas previsões, como uma rede reage à perturbação (e.g. remoção) de nós (proteínas) ou bordas (interações). Tais perturbações podem ser causadas por mutações de genes, e, portanto, suas proteínas, e uma rede de reação pode se manifestar como uma doença. Uma análise de rede pode identificados alvos de medicamentos e biomarcadores de doenças.
+
+
+=== 4.3. Validação ===
+Primeiro, a cobertura e a qualidade de um interatoma tem de ser avaliada. Interatomas nunca estão completos, dadas as limitações dos métodos experimentais. Por exemplo, estima-se que a típica Y2H telas de detectar apenas 25% de todas as interações em um sistema. A cobertura de um interatôma pode ser avaliada comparando-o com benchmarks de interacções conhecidas que foram encontrados e validados por ensaios independentes.  Outros métodos de filtrar os falsos positivos que calculam a similaridade de anotações conhecidas das proteínas envolvidas ou definem uma probabilidade de interação com a localização subcelular destas proteínas
+
+
+=== 4.4. Estrutura da rede e topologia ===
+Interação com redes podem ser analisadas utilizando as ferramentas da teoria dos grafos. Dentre as propriedade de rede temos o grau de distribuição, coeficiente de clusterização, betweenness degree, e muitos outros. A distribuição de propriedades entre as proteínas de uma interatôma revelou módulos funcionais dentro de uma rede que indicam especializada em sub-redes. Tais módulos podem ser funcionais, como em uma via de sinalização, ou estruturais, como em um complexo de proteínas. Na verdade, é uma tarefa formidável para identificar complexos de proteína em uma interatôma, dado que uma rede sobre a sua própria, não diretamente revelar a presença de um complexo estável.
+
+
+== 5. Estudos em iteratômica ==
+
+
+=== 5.1. Interatoma viral ===
+Proteína Viral interatômas consistem em interações entre viral ou fago proteínas. Eles estavam entre os primeiros interatôma projetos como seus genomas são pequenos e de todas as proteínas podem ser analisados com recursos limitados. Viral interatômas estão ligados a seu anfitrião interatômas, formando vírus-hospedeiro interação de redes. Alguns publicados vírus interatômas incluem:
+
+Escherichia coli bacteriófago lambda
+Escherichia coli bacteriófago T7
+Streptococcus pneumoniae bacteriófago Dp-1 O lambda e VZV interatômas não são relevantes apenas para a biologia do vírus, mas também por razões de ordem técnica: eles foram os primeiros interatômas que foram mapeadas com vários Y2H vetores, provando-se que uma melhor estratégia para investigar interatômas mais completamente do que as tentativas anteriores têm mostrado.
+
+
+=== 5.2. Interatoma de procariotos ===
+Relativamente poucas bactérias têm sido amplamente estudadas pela sua proteína–proteína medicamentosas. No entanto, nenhum desses interatômas estão completos, no sentido de que eles capturaram todas as interações. Na verdade, estima-se que nenhum deles cobre mais de 20% ou 30% de todas as interações, principalmente porque a maioria destes estudos têm apenas empregou um método único, todos do que descobrir apenas um subconjunto das interações. Entre publicado bacteriana interatômas (total ou parcial) são
+
+A E. coli e a Mycoplasma interatomas foram analisados utilizando em grande escala complexo de proteína de afinidade de purificação e espectrometria de massa (AP/MS), por isso não é facilmente possível inferir interações diretas. Os outros têm utilizado ampla levedura de dois híbridos (Y2H) telas. O Mycobacterium tuberculosis interatom foi analisado usando um bacterianas de dois híbridos de tela (B2H).
+Observe que muitos outros interatômas foram previstos usando métodos computacionais (ver seção acima).
+
+
+=== 5.3. Interatoma de eucariotos ===
+Tem havido vários esforços para mapear eucarióticas interatômas através de HTP métodos. Enquanto não biológicos interatômas foram totalmente caracterizado, mais de 90% de proteínas em Saccharomyces cerevisiae foram selecionados e de suas interações caracterizadas, tornando-o no melhor caracterizada interatôma. as Espécies cuja interatômas têm sido estudados em detalhe incluem:
+
+Schizosaccharomyces pombe
+Caenorhabditis elegans
+Drosophila melanogaster
+Homo sapiensRecentemente, o patógeno-hospedeiro interatômas do Vírus da Hepatite C/Humanos (2008), Epstein Barr vírus Humano (2008), o vírus da Gripe Humana (2009) foram delineadas através de HTP para identificar essencial componentes moleculares de patógenos e para o seu sistema imune do hospedeiro.
+
+
+=== 5.4. Interatomas preditos ===
+Como descrito acima, Ipp e, assim, todo o interatômas pode ser previsto. Enquanto a confiabilidade dessas previsões é discutível, eles estão fornecendo hipóteses que podem ser testadas experimentalmente. interatômas ter sido prevista para um número de espécies, por exemplo,
+
+O ser humano (Homo sapiens) 
+O arroz (Oryza sativa) 
+Xanthomonas oryzae 
+Arabidopsis thaliana 
+Tomate 
+Brassica rapa 
+O milho, o milho (Zea mays) 
+Populus trichocarpa 
+
+
+== 6. Propriedades de redes ==
+Proteína de interação de redes podem ser analisados com a mesma ferramenta como outras redes. Na verdade, eles compartilham muitas propriedades biológicas ou redes sociais. Algumas das principais características são as seguintes.
+
+
+=== 6.1. Grau ===
+O grau de distribuição descreve o número de proteínas que possuem um determinado número de conexões. A maioria das proteínas de interação de redes de mostrar uma escala livre (power law) grau de distribuição, onde a conectividade de distribuição P(k) ~ k−γ , com k sendo o grau. Esta relação também pode ser visto como uma linha reta em um log-log enredo desde então, a equação acima é igual a log(P(k)) ~ —y•log(k). Uma característica de tais distribuições é que existem muitas proteínas com poucas interações e algumas proteínas que tem muitas interacções, sendo este último chamado de "hubs".
+
+
+=== 6.2. Hubs ===
+Altamente conectado e nós (proteínas) são chamados de hubs. Han et al. ter cunhado o termo "festa hub" para hubs cuja expressão está relacionada com os seus parceiros de interação. Festa de hubs também ligar a proteínas dentro de módulos funcionais, tais como complexos de proteína. Em contraste, "data hubs" não apresentam tal correlação e aparecer para se conectar diferentes módulos funcionais. Festa de hubs são encontrados predominantemente em AP/MS conjuntos de dados, considerando que a data de hubs são encontrados predominantemente em binário interatôma mapas de rede. Note que a validade da data de hub/festa de hub distinção foi disputada. Festa de hubs, geralmente, consistem em multi-interface de proteínas considerando que a data de hubs são mais frequentemente interação única interface de proteínas. Consistente com uma função para a data-polos de conectar diferentes processos, o fermento, o número de binário interacções de uma determinada proteína é correlacionada com o número de fenótipos observados para a correspondente gene mutante em diferentes condições fisiológicas.
+
+
+=== 6.3. Modularidade ===
+Nós envolvidos no mesmo processo bioquímico são altamente interligado.
+
+
+== Referências ==

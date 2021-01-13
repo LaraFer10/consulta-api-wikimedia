@@ -1,0 +1,39 @@
+<O Teste de Sensibilidade aos Antibióticos (TSA) é um exame rotinamente feito em microbiologia clínica da capacidade de um antibiótico de inibir o crescimento de bactérias em cultura. Este teste é essencial na escolha do agente a ser usado na terapia do doente.>
+
+
+== Antibiótico ==
+Os antibióticos são um grupo de substâncias elaboradas por fungos, bactérias ou outros seres vivos, ou sintetizadas quimicamente, que têm como denominador comum a sua acção sobre os microrganismos, causando-lhes a morte (bactericidas) ou paragem no seu desenvolvimento e multiplicação (bacteriostáticos).
+O agente antimicrobiano "ideal" será aquele que, entre outras características, tenha uma potente actividade contra o microrganismo que se pretende eliminar e, simultaneamente, não tenha qualquer acção prejudicial para as células do hospedeiro que o microrganismo referido infecta. Aplica-se-lhe o conceito de toxicidade selectiva, inicialmente proposto por Paul Ehrlich, e que pode ser alcançado quando se utilizam substâncias antimicrobianas que actuam em alvos estruturais ou metabólicos da célula procariótica que não existem na célula hospedeira eucariótica.
+
+
+== TSA ==
+Estes testes são uma medida da sensibilidade de uma bactéria a um antibiótico, permitindo assim a escolha do antibiótico mais eficaz a ser usado contra essa mesma bactéria. Tal como os testes de identificação bioquímica, só são passíveis de serem realizados quando estamos perante uma cultura bacteriana isolada.
+Se uma bactéria sofre a ação de um antibiótico, esta diz-se sensível; se pelo contrário, o antibiótico não exerce qualquer efeito sobre a bactéria esta diz-se resistente. A resistência pode ser natural ou adquirida (por exemplo, pela transferência de plasmídeos ou por ocorrência de mutações). Portanto, para cada bactéria há um conjunto de antibióticos que são eficazes e outros não eficazes. Ainda, de acordo com a faixa de bactérias sensíveis a determinado antibiótico, podemos classificá-los de largo espectro e de espectro estreito.
+Segundo o local da bactéria no qual o antibiótico vai exercer a sua ação, podemos definir 5 tipos de antibióticos; os que atuam a nível:
+
+Da parede celular;
+Da membrana plasmática;
+Da síntese protéica;
+Da síntese de ácidos nucléicos;
+Das reacções metabólicas dos precursores dos ácidos nucléicos.A selecção das drogas antimicrobianas depende dos seguintes factores:
+
+Diagnóstico: deve ser formulado um diagnóstico etiológico específico. O diagnóstico é baseado nas seguintes considerações, entre outras; (1) o local da infecção; (2) a idade do paciente; (3) o lugar onde a infecção foi adquirida; (4) factores mecânicos pré-disponentes; (5) factores pré-disponentes do hospedeiro. Para o conhecimento exacto da etiologia pede-se o exame bacteriológico, devendo a colheita ser sempre anterior ao início da antibioterapia.
+Testes de Sensibilidade (T.S.A.): os testes laboratoriais de susceptibilidade aos antibióticos são indicados nas seguintes circunstâncias: (1) quando o microrganismo envolvido é frequentemente resistente às drogas antimicrobianas (ex. bactérias gram-negativas entéricas); (2) quando um processo infeccioso é mortal se não tratado especificamente; (3) em certas infecções que requerem o uso de drogas que são rapidamente bactericidas.
+
+
+=== Método das diluições ===
+Nesta técnica utiliza-se uma série de tubos de ensaio, com o mesmo inóculo e incorpora-se em cada tubo quantidades crescentes do antibiótico estudado mais meio de cultura. Colocam-se os tubos na estufa a 37 °C, durante 24h, observando-se findo esse tempo o aspecto macroscópico. Num certo número de tubos a cultura desenvolveu-se, verificando-se que houve turvação do meio. A partir de uma certa concentração, não ocorre cultura visível. A menor concentração de antibiótico capaz de inibir o crescimento do gérmen considerado chama-se Concentração Mínima Inibitória (CMI). Além disso, os efeitos bactericidas podem ser estimados cultivando as soluções não turvas num meio de cultura sem antibiótico. Uma redução de 99,9% no número de colônias indica a Concentração Mínima Bactericida (CMB).
+
+
+=== Método por difusão em gelose ou anticocograma ===
+Este método baseia-se no fato de um antibiótico depositado sobre uma gelose nutritiva se difundir segundo um gradiente de concentração. O teste mede a capacidade das drogas para inibir o crescimento das bactérias. Haverá o aparecimento de uma zona de inibição à volta do antibiótico, maior ou menor consoante a sensibilidade da estirpe.
+O diâmetro das zonas de inibição variam com as características moleculares dos diferentes antibióticos. Assim, o diâmetro para uma droga não pode ser comparada com outra droga que actue no mesmo organismo. Porém, para qualquer antibiótico, o diâmetro pode ser comparado com um padrão. Isto torna possível determinar para cada antibiótico um diâmetro mínimo para a zona de inibição que denota susceptibilidade.
+Segundo este teste as bactérias podem ser classificadas em sensíveis (a estirpe pode ser atingida pela dose habitual), pouco sensíveis (estirpes atingidas por doses altas) e resistentes (a concentração que a estirpe é capaz de suportar é superior à concentração possível de obter "in vivo").
+Podem também ser usados antibiogramas de galerias, em que estas são preenchidas por antibiótico liofilizado. Faz-se a hidratação com a cultura em estudo e considera-se que existe crescimento bacteriano se existir turvação.
+
+
+== Ligações externas ==
+«"Antibióticos - Classificação química" material do curso de Medicina da Universidade Federal Fluminense» 
+«"Antibióticos - Classificação quanto o espectro de ação" material do curso de Medicina da Universidade Federal Fluminense» 
+«"Antibióticos - Principais opções contra bactérias" material do curso de Medicina da Universidade Federal Fluminense» 
+«"Antibióticos - Mecanismos de ação dos antimicrobianos" material do curso de Medicina da Universidade Federal Fluminense»

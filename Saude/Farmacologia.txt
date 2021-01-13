@@ -1,0 +1,111 @@
+A farmacologia (do grego: ϕάρμακον, fármacon ("droga"), e λογία, derivado de -λόγος lógos ("palavra", "discurso"), sintetizado em "ciência") é a área da farmácia que estuda como as substâncias químicas interagem com os sistemas biológicos. Como ciência nasceu em meados do século XIX. Se essas substâncias tem propriedades medicinais, elas são referidas como "substâncias farmacêuticas". O campo abrange a composição de medicamentos, propriedades, interações, toxicologia e efeitos desejáveis que podem ser usados no tratamento de doenças.
+Esta ciência engloba o conhecimento da história, origem, propriedades físicas e químicas, associações, efeitos bioquímicos e fisiológicos, mecanismos de absorção, biotransformação e excreção dos fármacos para seu uso terapêutico ou não.
+
+
+== História ==
+A história da farmacologia é bem antiga e podemos dividir em 3 eras: a natural, sintética e biotecnológica.
+
+Era natural4.500 A.E.C.: Na Mesopotâmia utilizava-se da fermentação para produção de etanol, em Nagpur há registros escritos de 250 plantas medicinais como a papoula e a mandrágora.
+1.550 A.E.C.: Um dos primeiros registros históricos que menciona o uso de fármacos é um texto da farmácia egípcia, conhecido como o Papiro de Edwin Smith, datado de 1500 A.E.C. Existe também o Papiro de Ebers de 1550 A.E.C. que relata a forma de preparo e uso cerca de 700 remédios. extraídos de plantas como romã, babosa,cebola, alho, coentro, etc
+77 E.C. Dioscórides (considerado o fundador da farmacognosia) escreveu "Sobre Material Médico" ou "De Materia Medica" com 944 preparações de 657 de plantas
+131-200 E.C. Cláudio Galeno ou Galeno de Pérgamo escreve "De succedanus" ou “drogas paralelas”
+Séc. XV Paracelso considerado por muitos como um reformador do medicamento, fundador da Bioquímica e da Toxicologia e autor da frase “A dose faz o veneno” Signatura doctrinae
+Séc. XV-XVII: iniciam as Grandes Navegações onde novas espécies vegetais são introduzidas à Europa (café, cacau, Ipecacuanha, etc).
+Iluminismo: Desenvolvimento do pensamento científico e conhecimento fisiológico,elementos fundamentais para a Farmacologia.Era sintética1804: Friedrich Sertürner isola a Morfina.
+1817: Carl Linnaeus isola a Estriquinina (Pesticida, muito usado para matar Ratos).
+1820: Pierre-Joseph Pelletier e Joseph Bienaimé Caventou Isolam o Quinino Tratamento de malária.
+1828: Johann Buchner isola a Salicilina usada no tratamento de dores e febre.
+1847: Rudolf Buchheim Funda o primeiro instituto de Farmacologia
+1897: Felix Hoffmann sintetiza a Aspirina a partir do ácido salicílico.
+1932: Josef Klarer e Fritz Mietzsch sintetizam o Prontosil precursor dos antibióticosEra biotecnológica1978: Genentech produz insulina humana a partir de E. Coli com DNA recombinante
+1981: Genentech produz hormônio de crescimento (GH) com DNA recombinante
+1990: Primeira tentativa de terapia gênica
+Luxturna (Voretigene neparvovec) Primeira terapia gênica aprovada pela FDA para tratamento de Amaurose congênita de Leber (US$ 850.000) doença degenerativa e hereditária onde provoca alterações na atividade elétrica da retina diminuindo a visão.Antes do uso medicinal os fármacos eram considerados "artigos de festa" como o Óleo doce de Vitríolo (éter etílico – séc. XVI) e Óxido Nitroso (Humphrey Davy – 1799) 
+
+
+== Destino dos fármacos no organismo ==
+Para que um fármaco aja no organismo ele precisará se ligar a um receptor especifico, como dito na famosa frase "Corpora non agunt nisi fixata" (Um fármaco não agirá, a menos que esteja ligado) [Paul Ehrlich], com algumas exceções: Diuréticos e purgativos osmóticos, antiácidos e agentes quelantes de metais pesados.
+Qualquer substância que atue no organismo vivo pode ser absorvida por este, distribuída pelos diferentes órgãos, sistemas ou espaços corporais, modificada por processos químicos e finalmente eliminada. A farmacologia estuda estes processos e a interação dos fármacos com o homem e com os animais: absorção, distribuição, metabolismo/autotransformação e exceção.
+
+Absorção - Para chegar na circulação sanguínea o fármaco deve passar por alguma barreira dada pela via de administração, que pode ser: cutânea, subcutânea, respiratória, oral, retal, muscular. Ou pode ser inoculada diretamente na circulação pela via intravenosa, sendo que neste caso não ocorre absorção, pois não atravessa  nenhuma barreira, caindo diretamente na circulação. A absorção (nos casos que existe barreira) do fármaco, é como já foi citado anteriormente, fundamental para seu efeito no organismo.A maioria dos fármacos é absorvida no intestino, e poucos fármacos no estômago, os fármacos são melhor absorvidos quando estiverem em sua forma não ionizada, então os fármacos que são ácidos fracos serão absorvidos melhor no estômago que tem pH ácido, Exemplo(Àcido Acetil Salicilico), já os fármacos que são bases fracas, serão absorvidos principalmente no intestino, sendo que esse tem um pH mais básico que o do estômago.
+Os fármacos na forma de comprimido, passam por diversas fases de quebra, até ficarem na forma de pó e assim serem solubilizados e absorvidos, já os fármacos em soluções, não necessitam sofrer todo esse processo, pois já estão na forma solúvel, e podem ser rapidamente absorvidos. A seguir uma ordem de tempo de absorção, para várias formas farmacêuticas:
+Comprimido>Cápsula>Suspensão>Solução.
+
+Distribuição - Uma vez na corrente sanguínea o fármaco, por suas características de tamanho e peso molecular, carga elétrica, pH, solubilidade, capacidade de união a proteínas se distribui pelos distintos compartimentos corporais.
+Metabolismo ou Biotransformação - Muitos fármacos são transformados no organismo por ação enzimática. Essa transformação pode consistir em degradação (oxidação, redução, hidrólise), ou em síntese de novas substâncias como parte de uma nova molécula (conjugação). O resultado do metabolismo pode ser a inativação completa ou parcial dos efeitos do fármaco ou pode ativar a droga como nas "pródrogas" p.ex: sulfas. Ainda mudanças nos efeitos farmacológicos dependendo da substância metabolizada. Alguns fatores alteram a velocidade da biotransformação, tais como, inibição enzimática, indução enzimática, tolerância farmacológica, idade, patologias, diferenças de idade, sexo, espécie  e o uso de outras drogas concomitantemente.
+Excreção - Finalmente, o fármaco é eliminado do organismo por meio de algum órgão excretor. Os principais são rins e fígado p.ex: através da bile, mas também são importantes a pele, as glândulas salivares e lacrimais, ocorre também a excreção pelas fezes.Os fármacos geralmente tem uma lipofilia moderada, caso contrário eles não conseguiriam penetrar através da membrana das células com facilidade, e a via de excreção mais usada pelo organismo é a via renal, através da urina, então geralmente os fármacos como são mais apolares tendem a passar pelo processo de metabolização, que os torna mais polares e passíveis de serem eliminados pela urina, mas aí o que está sendo eliminado do organismo são os metabólitos do fármaco, já não é mais o fármaco. Já os fármacos que são polares são eliminados pela urina sem passar pela metabolização, e então o que está sendo eliminado agora é o fármaco mesmo e não seus metabólitos.
+
+
+== Vias de administração de um fármaco em humanos ==
+Oral: Simples, segura e barata, geralmente os fármacos são absorvidos no intestino delgado por difusão (efeito sistêmico). A absorção por essa via pode ser afetada por: conteúdo do trato gastro intestinal (TGI) pode retardar a absorção, motilidade gastrointestinal (diarreia), fluxo sanguíneo esplâncnico (propranolol), tamanho da partícula e formulação, fatores físico-químicos (pH, interações medicamentosas), efeito de primeira passagem (um fármaco pode sofrer metabolização por ação de enzimas intestinais e, principalmente, hepáticas ao ser absorvido pelo intestino antes de chegar a circulação sistêmica). 90% nitroglicerina (vasodilatador) é degradada, uma via alternativa deve ser usada (normalmente sublingual).
+Sublingual: Absorção rápida e diretamente para a circulação sistêmica. Indicação: fármacos instáveis em pH ácido ou que são rapidamente metabolizadas pelo fígado. Poucos medicamentos são absorvidos corretamente por essa via (Ex.: nitroglicerina).
+Retal: Absorção rápida. Indicação: impossibilidade de utilizar a via oral devido a náuseas, impossibilidade de deglutir ou restrições alimentares pré- e pós-  operatórias. Ex.: acetaminofeno (febre), diazepam (convulsões) e laxantes (constipação)
+Aplicações em superfícies epiteliais
+Cutânea:
+Tópica: ação local com pouca absorção do fármaco. Ex.: Cetoconazol (infecções fúngicas)
+Transdérmica: ação sistêmica de efeitos prolongados, são necessariamente lipossolúveis e relativamente caros. Ex.: contraceptivo hormonal, Nicotina
+Ocular: através de colírios, possui ação local sem efeitos colaterais sistêmicos. Ex.: Dorzolamida
+Nasal: Spray nasais, possui efeito sistêmico de absorção rápida. Ex.: Calcitonina (osteoporose), Fluticasona (rinite alérgica)
+Inalação: De absorção rápida, ajuste fácil, possui ação sistemática (usado para aplicação de anestésicos voláteis e gasosos (ex.: óxido nitroso (N2O)) e ação local (minimizar efeitos colaterais sistêmicos (ex.: Salbutamol (broncodilatador)).
+Injeção
+Subcutânea: Aplicação do fármaco logo abaixo da pele, medicamentos que seria degradados na via oral, possuí rápida absorção (que depende da perfusão local, (ex.: insulina).
+Intramuscular: Aplicação do fármaco no músculo, de rápida absorção e ação prolongada. A Absorção depende da perfusão local. Preferível à via subcutânea quando maior volume de fármaco é necessário (ex.: penicilina).
+Intravenosa: Via mais rápida e confiável, o fármaco entra diretamente na circulação sistêmica, a velocidade depende diretamente da forma de administração (dose única ou infusão contínua).
+Intratecal: Aplicação do fármaco no espaço subaracnoide, esta via é específica para o sistema nervoso central: anestesia regional, analgesia e terapia antibiótica.
+
+
+== Vias de administração de um fármaco em animais ==
+Vias mais comuns para aplicação de fármacos em animais experimentais:
+
+Oral (gavagem)
+Oral (consumo voluntário)
+Subcutânea
+Intramuscular
+Intreperitoneal
+Intravenosa
+
+
+== Glossário ==
+Fármaco – Uma substância química de estrutura conhecida, que não seja um nutriente ou um ingrediente essencial da dieta, que, quando administrado a um organismo vivo, produz um efeito biológico. A substância só considerada fármaco quando administrada como tal e não ser liberada por mecanismos fisiológicos, ex: insulina e tiroxina. Um fármaco não cria funções fisiológicas, apenas as modifica.
+Medicamento – “Toda a substância ou composição com propriedades curativas ou preventivas das doenças ou dos seus sintomas, do Homem ou do animal, com vista a estabelecer um diagnóstico médico ou a restaurar, corrigir ou modificar as funções orgânicas.” (Dec.- lei 72/91 de 8 Fevereiro) ou "preparação química, que geralmente, mas não necessariamente, contém uma ou mais drogas, administrado com a intenção de produzir um efeito terapêutico.”
+Remédio:  todo e qualquer tipo de cuidado utilizado para curar ou aliviar doenças, sintomas, desconfortos e  mal-estar.
+Drogas: qualquer substância que modifica a função fisiológica com o sem intensão benéfica.
+Substância tóxica – Toda a substância capaz de causar danos, de tal ordem intensos, que a vida pode ser posta em risco – Morte ou sequelas persistentes. p.ex: cianeto, organofosforados.
+Formas farmacêuticas – preparação farmacêutica, com o princípio ativo com outras substâncias, excipientes e coadjuvantes entre outros. p.ex: comprimidos, cápsulas, elixires, óvulos, xaropes, supositórios.
+Excipiente – farmacologicamente inativo – p.ex: propilenoglicol, Silicato de magnésio hidratado, sorbitol, vaselina.
+Coadjuvante – permite absorção mais fácil ou facilita ação.
+Especialidade farmacêutica – medicamentos fabricados industrialmente e introduzidos no mercado com denominações e acondicionamentos próprios – Autorização de Introdução Mercado (AIM)
+Fórmulas magistrais – preparados na farmácia de manipulação por farmacêutico, destinado a um paciente específico.
+Farmacocinética clínica - é a ciência que estuda a quantidade de medicamento (dosagem), que o doente deve tomar de cada vez e o intervalo entre uma e outra dose.
+
+
+== Divisões da farmacologia ==
+Farmacologia Geral: estuda os conceitos básicos e comuns a todos os grupos de drogas.
+Farmacologia Especial: estuda as drogas em grupos que apresentam ações farmacológicas semelhantes. Ex.: farmacologia das drogas autonômicas (que atuam no SNC).
+Farmacotécnica: estuda o preparo, a purificação e a conservação,da preparação das drogas, medicamentos e fármacos nas suas diferentes formas farmacêuticas (compridos, cápsulas, supositórios, etc.), da sua conservação e análise, visando o melhor aproveitamento do seus efeitos no organismo;
+Farmacoterapia: união da farmacodinâmica e a farmacocinética para desenvolver uma terapia medicamentosa;
+Imunofarmacologia: estuda a ação dos fármacos sobre o sistema imune;
+Farmacognosia: diz respeito à origem, métodos de conservação, identificação e análise química dos fármacos de origem vegetal e animal;
+Tecnologia Farmacêutica: é o ramo da ciência aplicada que visa a obter preparações farmacêuticas dotadas de máxima atividade, doseadas com maior precisão e apresentação que lhes facilitem a conservação e a administração.
+Farmacodinâmica: trata das ações farmacológicas e dos mecanismos pelos quais os fármacos atuam (em resumo, ação da droga no organismo);
+Farmacocinética: diz respeito aos processos de absorção, distribuição, biotransformação (e interações) e excreção dos fármacos (em resumo, ação do organismo na droga);
+Farmacogenética: área em crescimento explosivo, que trata das questões resultantes da influência da constituição genética nas ações, na biotransformação e na excreção dos fármacos e, inversamente, das modificações que os fármacos podem produzir nos genes do organismo que os recebe.
+Cronofarmacologia: estudo dos fármacos em relação ao tempo. Sua aplicação se baseia nos resultados da cronobiologia
+Toxicologia: diz respeito às acções tóxicas não só dos fármacos usados como medicamentos, mas também de agentes químicos que podem ser causadores de intoxicações domésticas, ambientais ou industriais
+
+
+== Ver também ==
+Lista de fármacos
+Forma farmacêutica
+Botânica médica
+
+
+== Referências ==
+
+
+== Bibliografia ==
+Guimarães, Serafim; Moura, Daniel; da Silva, Patrício Soares; "Terapeutica Medicamentosa e suas Bases Farmacológicas, 5ª Edição"
+
+
+== Ligações externas ==
+Sociedade Brasileira de Farmacologia e Terapêutica Experimental

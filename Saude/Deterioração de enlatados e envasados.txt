@@ -1,0 +1,60 @@
+
+== Deterioração de enlatados e envasados ==
+A comida enlatada foi criada no século XIX para atender a uma necessidade militar básica: conservar alimentos para exércitos em campanha. O processo que evita que a comida estrague, preservando-a em recipientes fechados e esterilizados por aquecimento, começou a ser desenvolvido na França pelo cozinheiro Nicolas Appert, em 1795. Sua maior motivação foi a recompensa oferecida pelo governo francês a quem desenvolvesse um método que impedisse a deterioração do alimentos para consumo das tropas do país. Appert usou jarros de vidro tampados com rolhas e selados com cera, mantidos em água fervente para preservar, entre outras coisas, sopas, sucos, laticínios e doces. O resultado dessa experiência foi publicado num livro que chegou às mãos do comerciante inglês Peter Durand. Em 1810, Durand patenteou o uso de recipientes revestidos com estanho, a futura lata, além dos vasilhames de vidro empregados por Appert. Em 1815, os soldados franceses e britânicos já se alimentavam com enlatados.
+Em 1830, esses produtos deixaram de ser, na Europa, exclusividade militar, mas a procura por sopas, sardinhas, ervilhas e tomates vendidos no novo tipo de embalagem era fraca por causa do preço alto. Mesmo assim, a novidade chegou aos Estados Unidos, onde, em 1926, a companhia texana Hormel lançou um produto que faria muito sucesso: a presuntada em lata da famosa marca Spam (cujo nome – abreviação de spiced ham, “presunto picante” – curiosamente virou sinônimo de e-mail indesejado!). A partir da década de 30, os enlatados se tornaram populares em todo o planeta e hoje cerca de 200 bilhões de latas de comida são produzidas anualmente.Mesmo assim, pouco mais de 200 anos anos da sua primeira versão, os alimentos enlatados possuem problemas em relação a sua segurança, a deterioração microbiana dos alimentos continua sendo um problema em todo o mundo, apesar da diversidade de técnicas de conservação disponíveis e da busca contínua por melhorias nos processos de produção, estocagem e distribuição dos alimentos.
+
+
+==== Definição ====
+Alimentos enlatados e envasados são aqueles que foram submetidos a processamento de esterilização comercial por alta temperatura, podendo ainda combinar condições de baixo pH e conservantes. Sendo comercialmente estéreis, esses alimentos não deveriam sofrer deterioração de origem microbiana. Porém, por razões de deterioração incipiente (crescimento de uma alta densidade de micro-organismos pré-processamento) ou por falhas como vazamento na embalagem, resfriamento inadequado ou subprocessamento, a deterioração pode ocorrer.Os alimentos enlatados ou envasados normalmente são preservados pela aplicação de métodos físicos ou químicos, sendo o mais frequente a utilização de tratamentos térmicos, de intensidade variável, de acordo com as condições do produto.
+
+
+===== Os enlatados e envasados termicamente processados são classificados de acordo com seu pH em: =====
+-Alimentos de baixa acidez – pH acima 4,5
+-Alimentos ácidos – pH entre 4 e 4,5
+-Alimentos muito ácidos – pH inferior a 4
+
+
+==== Deterioração ====
+Alimentos enlatados ou envasados não deveriam sofrer deterioração microbiana, pois são submetidos a processamentos térmicos. No entanto, em algumas situações, ocorre a deterioração, as principais causas são:
+-deterioração de pré-processamento ou no início do processamento;
+-contaminação de alimento enlatado através de falhas na embalagem;
+-resfriamento inadequado;
+-subprocessamento;
+
+
+===== As principais bactérias responsáveis pela deterioração desses alimentos são =====
+
+
+====== Alimentos de baixa acidez ======
+B. stearothermophylus e B. coagulans são bactérias que fermentam carboidratos fazendo com que o sabor do alimento se torne ácido sem alterar a aparência; sua principal fonte de contaminação são os equipamentos usados para o branqueamento, açúcar, amido e o solo. C. thermosaccharolyticum é uma bactéria produtora de CO2 e H2 que causa o estufamento da lata tornando o alimento ácido e com aroma de queijo. Desulfotomaculum nigrificans é uma bactéria produtora de H2S que é absorvido pelo alimento causando escurecimento e cheiro de ovo podre. 
+
+
+====== Alimentos ácidos ======
+B. coagulans é uma bactéria responsável pela deterioração de produtos de tomates envasados ocorrendo principalmente alteração no aroma. C. pasteurianum é uma bactéria responsável pela deterioração de tomate, abacaxi e pera envasados que fermentam o produto deixando com odor forte, o que pode ocasionado o estouro da embalagem.
+
+
+====== Alimentos muito ácidos ======
+Byssochlamys fulva é um bolor causa a deterioração de frutas envasadas devido a hidrólise de pectina e o estufamento da embalagem pela produção de CO2. 
+
+
+==== Alterações de embalagem ====
+
+
+====== Estufamento da lata ======
+pode ser de origem química ou microbiana. Na microbiana ocorre devido a produção de CO2 + H2, enquanto que na química ocorre apenas a formação de H2. A análise da quantidade de gás formado irá determinar qual a natureza da alteração do alimento. 
+Para essa determinação, é necessário analisar a aparência da lata fechada que em condições normais apresenta extremidade plana ou levemente côncavas. Essas alterações podem ser classificadas em:
+1.      Flipper: lata com extremidades normais mas fica convexa quando a lateral da lata é pressionada ou a temperatura do produto é elevada.
+2.      Springer: lata com duas extremidades dilatadas mas que ficam côncavas quando pressionadas, Caso uma extremidade esteja convexa e é pressionada, a utra extremidade se distenderá.
+3.      Soft swell: lada com duas extremidades distendias mas que ainda podem ser pressionadas.
+4.      Hard swell: latas com duas extremidades distendidas mas não podem ser pressionadas devido a grande quantidade de gás.
+Não necessariamente essas alterações indicam deterioração microbiana, contudo alterações do tipo soft swell e hard swell normalmente são. Além disso, podem ser encontrados alterações como microfuros, corrosão, costuras laterais defeituosas ou pequenos pontos de depressão.
+
+
+==== Principal patologia causada pela deterioração ====
+O botulismo é uma enfermidade que resulta da ação de uma potente neurotoxina de origem protéica, produzida pelo Clostridium botulinum, bacilo gram positivo anaeróbio, produtor de esporos normalmente decorrente da ingestão de alimentos, em que a toxina foi previamente elaborada pela bactéria. É adquirida mais comumente, em nosso meio, pela ingestão de alimentos contaminados, tais como embutidos e conservas caseiras que não sofreram tratamento térmico adequado, ou foram armazenados em condições que permitiram a germinação dos esporos do Clostridium botulinum presentes no alimento e a multiplicação do microrganismo, tendo como consequência a produção da toxina botulínica. Inúmeros fatores extrínsecos e intrínsecos podem afetar o desenvolvimento do microrganismo nos alimentos: o Clostridium botulinum não é um bom competidor na presença de outros microrganismos; pH inferior a 4,5 impede sua multiplicação; atividade de água menor que 0,93 é limitante; concentrações de NaCl maiores que 8% impedem a produção da toxina.
+
+
+==== Recomendações ====
+Para assegurar uma adequada conservação de alimentos enlatados e envasados à temperatura ambiente devem ser observadas regras especificas: 
+
+Garantir a integridade das embalagens, os alimentos enlatados apresentam um baixo risco de deterioração de armazenamento/conservação se as embalagens se apresentarem opadas, amolgadas, ferrugentas ou de outra forma danificada.Utilizar estes armazéns para armazenamento exclusivo de produtos alimentares. É proibido o armazenamento de outros produtos não alimentares, como químicos de higienização.Evitar a ingestão destes alimentos que estiverem em latas estufadas, vidros embaçados, embalagens danificadas ou com alterações no cheiro e no aspecto.

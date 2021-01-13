@@ -1,0 +1,96 @@
+Operações de Fonte Especial (SSO) é o departamento da NSA responsável pelas operações que estabelecem parcerias com empresas para atender ao sistema de vigilância global Através destes acordos as empresas passam a contribuir com a coleta de dados que vāo ser armazenados e processados pela NSA.(em inglês Special Source Operations), sigla (SSO).
+
+
+== Papel do Operações de Fonte Especial (SSO) ==
+As parcerias corporativas, são apenas 1 das 3 formas como a NSA vem coletando dados da Internet:.
+
+
+=== Meios da coleta de dados ===
+A coleta de dados que serão processados e armazenados como parte do programa de vigilância global, pode ser feita através de:
+
+Cooperação com as empresas
+Cooperação com agências de inteligência no exterior
+Executando operações unilaterais para interceptar os dados enquanto passam pelos cabos da Internet
+
+
+==== Cooperação com as empresas ====
+As operações da NSA que envolvem parcerias com Empresas que contribuam para facilitar as interceptações de dados, como parte da execução dos seus programas de vigilância global se relacionam ao departamento da NSA Operações de Fonte Especial (SSO).Este é o departamento responsável pelas operações da NSA que estabelecem as parcerias com Empresas que contribuam para facilitar as interceptações de dados. que incluem, mas nāo se limitam, ao monitoramento de e-mails e telefonemas pela NSA.No caso do Brasil, há indicações de que tais operações foram executadas com parcerias formadas com empresas atuando no Brasil, conforme revelações de Snowden em 2013, e a possibilidade de que empresas no Brasil estariam sendo parte delas, é mostrada nas apresntações da NSA. Tais indicações resultaram na instauração de uma Comissão Parlamentar de Inquérito destinada a ouvir representantes de companhias telefônicas, como Telefônica GVT, Oi e TIM, e da Google Brasil, Facebook Brasil e Microsoft.
+A Comissão Parlamentar busca avaliar se houve participação de empresas em facilitar as interceptações da NSA para monitoramento de e-mails e telefonemas pelos Estados Unidos no Brasil, independentemente do fato das empresas negarem sua participação nos programas da NSA.De acordo com os documentos da NSA, em janeiro de 2013 apenas, a NSA tinha recolhido 2,3 bilhões de dados de usuários brasileiros.
+ Documentos sobre o um outro programa, o Fairview também fazem referência à uma empresa como sendo a Empresa que é "parceiro chave" da NSA nos programas de vigilância.Tal empresa não havia sido identificada na documentação Snowden. No entanto, a empresa considerada "parceiro chave" pela NSA, foi identificada em 23 de outubro de 2013 pelo The Washington Post como sendo a AT&T.
+
+
+==== Cooperação com agências de inteligência no exterior ====
+Neste caso, as parcerias são geralmente feitas através de acordos, como o caso do acordo dos chamados Cinco Olhos (Five Eyes em inglês). Fazem parte do tratado a Austrália, o Canadá, a Nova Zelândia, o Reino Unido e os Estados Unidos da América. Estes países cooperam entre si sob o comando da NSA e o fazem através de suas agências de inteligência.No caso das revelações de que o Canadá espionou no Brasil, isso foi feito através do CSEC, a agência canadense equivalente a NSA. CSEC é altamente secreto e assim como a NSA dispõe de recursos bilionários, e opera quase como não existente. Os documentos revelados por Snowden mostram como a agência canadense de inteligência, signatária do acordo com a NSA, foi a agência de inteligência que dirigiu seus recursos para a espionagem no Brasil. Os slides das apresentações indicam a participação destes parceiros nos programas de vigilância. Em muitos dos slides, na barra superior, pode ser vista a indicação dos países que dividem o programa com a NSA. A inscrição diz:TO (para): USA, AUS, CAN, GBR, NZL, que significa o compartilhamento é entre USA, Austrália (AUS), Canada (CAN), Grã Bretanha (GBR) e Nova Zelândia (NZL), exatamente os chamados Cinco Olhos. No caso em que existe a cooperação com agências de inteligência há o compartilhamento dos programas e das funções. Veja a indicação da participação dos cinco países nos slides da publicação do Fantástico da Globo.
+
+
+==== Executando operações unilaterais ====
+A coleta dos dados feita enquanto estes passam pelos cabos de fibra e infraestrutura da Internet, ficou conhecida como "Coleta Upstream, um termo usado em um dos slides do PRISM.Conforme mostra o slide, o PRISM e Coleta Upstream devem ser usados ao mesmo tempo. O slide diz:  "Você deve usar ambos". No caso, a NSA intercepta os dados diretamente, enquanto passam pelos cabos e infra estrutura da internet.
+No caso da Coleta Upstream, a NSA estaria provavelmente executando operações unilaterais para interceptar os dados enquanto passam pelos cabos da Internet.
+Slides de apresentação da NSA mostram que o Programa de Coleta Upstream e PRISM devem ser usados ao mesmo tempo. Os slides foram publicados pelo The Washington Post.
+
+
+== Revelações da Participação de empresas ==
+A existência de acordos com empresas foi revelada através de documentos fornecidos por Edward Snowden em 2013.As operações do departamento SSO, tiveram inicio em 2006, de acordo com os documentos. Naquela ocasião a NSA estava coletando o equivalente aos dados de uma Biblioteca do Congresso americano a cada 14.4 segundos.Um artigo publicado pelo jornal O Globo de 11 de junho de 2013, de coautoria do jornalista do Guardian Glenn Greenwald revelou que através do Fairview (Programa de Vigilância), a NSA teve acesso aos dados da Internet e de telefone dos cidadãos brasileiros, por meio de parcerias das empresas de telecomunicações brasileiras com empresas de telecomunicações americanas. O FAIRVIEW é um programa de vigilância em massa da NSA, que amplia a capacidade da coleta de dados de telefone, internet e e-mail, acessando os dados diretamente de computadores e telefones celulares dos cidadãos dos países estrangeiros.
+
+
+== Empresas Envolvidas ==
+Uma apresentação da NSA publicada em 8 de julho de 2013, mostra que o programa PRISM é executado com a participação das companhias listadas na apresentação, na qual a NSA afirma ainda que tem acesso direto aos servidores do Google, Facebook, Apple e outras gigantes da internet nos Estados Unidos.As empresas listadas na apresentação da NSA negaram seu envolvimento com a agência de inteligência americana.São elas:Microsoft, Google, Facebook, Yahoo!, Apple, YouTube, AOL, Paltalk e Skype.Um boicote às empresas colaboradoras da NSA é sugerido na mídia mas considerado impossivel. Tais revelações foram publicadas pelo jornal O Globo em 8 de julho de 2013.De acordo com documentos da NSA revelados por Edward Snowden, em um único dia, em 2012, a NSA coletou listas de contatos de e-mails  de:
+
+ 22.881 contas do Gmail [49]
+ 82.857 contas do Facebook [49]
+105.068 contas do Hotmail [49]
+444.743 contas do Yahoo! [49]
+
+Diariamente, a NSA coleta cerca de 500.000 listas de contatos em serviços de bate-papo ao vivo e de caixas de entrada de contas de Webmail como o Gmail, por exemplo. No seu conjunto, os dados permitem que a NSA crie perfis detalhados de vida de uma pessoa com base em suas relações pessoais, profissionais, religiosas e políticas.
+Em 2013, Edward Snowden declarou que:
+"A NSA estabeleceu parcerias com grandes empresas americanas, incluindo AT&T, Verizon, Microsoft e Google. Parcerias com empresas de telecomunicações nos países estrangeiros em seguida, permitem que as empresas dos EUA tenha acesso aos sistemas de telecomunicações desses países. Este acesso é então usado para direcionar o tráfego destes países para o repositórios da NSA nos Estados Unidos".Em 29 de Março de 2014, o Der Spiegel publicou documentos emitidos pela divisão da NSA Operações de Fonte Especial (SSO) que mostram que em 7 de março de 2013 o governo de Barack Obama autorizou a interceptação de comunicações em vários países, a saber:China, México, Japão, Venezuela, Yemen, Brasil, Sudão, Guatemala, Bósnia e Rússia.Em 13 de maio de 2014, no livro Sem lugar para se esconder, de Glenn Greenwald foram revelados os nomes das empresas chaves na parceria com a NSA no programa de vigilância e espionagem mundial feito pelo governo americano ao redor do mundo.
+Os documentos publicados mostram as companhias americanas que fizeram alianças com a NSA no programa de vigilância global e são parceiras diretas e chave na espionagem e vigilância mundial.
+Entre elas está a Verizon bem como a Qualcomm que fabrica e vende no mercado mundial equipamentos com backdoors para os malwares que facilitam a espionagem. Outras empresas reveladas como parceiras da NSA são:
+Cisco, Oracle, Intel, Qwest, EDS, AT&T, Verizon,Microsoft, IBM.
+No caso da Qualcomm, ela é uma das empresas principais no fornecimento de chipsets e outras tecnologias incluindo processadores para dispositivos móveis como por exemplo, telefones celulares, bem como de hardware e software distribuídos ao redor do mundo e em parceria direta com a NSA ,fabricando e vendendo no mercado mundial equipamentos com backdoors para os malwares que facilitam a espionagem da NSA; seus equipamentos tem papel fundamental no espionagem americana em vários países, incluindo mas não se limitando a: Brasil, Japão, Coreia do Sul, França, Alemanha.
+
+
+== Logo ==
+O Washington Post descreveu o símbolo oficial do programa como sendo algo "que deve ser uma parodia: uma águia controlando em suas garras  todos os cabos do mundo". A revista americana Slate publicou vários selos dos programas de vigilância e de Veículos aéreo não tripulados conhecidos como drones. A matéria intitulada: "Os designs mais arrepiantes do Governo americano para a vigilancia e drones .
+
+
+== Programas que envolvem SSO ==
+PRISM
+MUSCULAR - acessa Nuvem do Google e do Yahoo
+Upstream inclue:
+FARVIEW
+BLARNEY
+STORMBREW (Programa de Vigilância)
+OAKSTAR (programa de Vigilância)
+
+
+== Apresentação da NSA sobre Operações de Fonte Especial ==
+(slides de documentos revelados por Snowden)
+
+		
+		
+		
+
+
+== Ver Também ==
+Operações de acesso adaptado (TAO) NSA
+Revelações da Vigilância global (1970–2013)
+Revelações da Vigilância global (2013-Presente)
+Edward Snowden
+PRISM (programa de vigilância)
+NSA
+Vigilância de Computadores e Redes
+
+
+== Referências ==
+
+
+== Ligações externas ==
+Slides de apresentação da NSA mostram que o Programa de Coleta Upstream e PRISM devem ser usados ao mesmo tempo. Os slides foram publicados pelo The Washington Post.NSA slides explicam como é feita e coleta de dados e mostram que o Upstream deve sem usado com o PRISM. Ver slide publicado em 10 de julho de 2013 com as instruções) - The Washington Post
+«FAIRVIEW: Programa que amplia a capacidade de coleta de dados - Mapa mostra volume de rastreamento do governo americano Brasil é o país mais monitorado da América Latina». O Globo. 11 de junho de 2013. Consultado em 19 de março de 2014 
+«EUA espionaram milhões de e-mails e ligações de brasileiros. País aparece como alvo na vigilância de dados e é o mais monitorado na América Latina». O Globo. 6 de julho de 2013. Consultado em 23 de março de 2014 
+«Jornais destacam sistema de espionagem dos EUA no Brasil. The Guardian, Washington Post e El País foram alguns dos que comentaram denúncia feito pelo O GLOBO». O Globo. 7 de julho de 2013. Consultado em 23 de março de 2014 
+«Ex-embaixador defende maior regulação de tecnologia de rastreamento». O Globo. 7 de julho de 2013. Consultado em 23 de março de 2014 
+«Veja os documentos ultrassecretos que comprovam espionagem a Dilma». 2 de setembro de 2013. Consultado em 4 de setembro de 2013  Veja os documentos ultrassecretos que comprovam espionagem a Dilma. Arquivos foram obtidos com o ex-analista da NSA Edward Snowden
+«EUA espionaram milhões de e-mails e ligações de brasileiros. País aparece como alvo na vigilância de dados e é o mais monitorado na América Latina». O Globo. 6 de julho de 2013. Consultado em 23 de março de 2014 
+«James Bamford: 'A NSA hoje pode entrar na mente das pessoas'». O Globo. 13 de julho de 2013. Consultado em 19 de março de 2014

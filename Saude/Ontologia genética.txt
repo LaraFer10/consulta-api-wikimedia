@@ -1,0 +1,72 @@
+Ontologia genética (em inglês:  Gene Ontologic) é uma das principais bioinformática iniciativa de unificar a representação do gene e atributos de produtos génicos  em todas as espécies. Mais especificamente, o projeto visa: 1) manter e desenvolver o seu vocabulário controlado do gene e gene atributos do produto; 2) anotar genes e produtos de gene, e assimilar e disseminar a anotação de dados; e 3) fornecer ferramentas para o acesso fácil a todos os aspectos dos dados fornecidos pelo projeto, e para permitir uma  interpretação funcional de dados experimentais, utilizando a ontologia genética, por exemplo, através do enriquecimento da análise. A ontologia genética é parte de um esforço maior de classificação, a "Open Biomedical Ontologies "(OBO).Embora o nomenclatura de gene em si, visa manter e desenvolver o vocabulário controlado do gene e produtos de gene, a ontologia genética estende-se no esforço por utilizar linguagem de marcação para tornar os dados (não só dos genes e seus produtos, mas também de todos os seus atributos) legível por máquina, e fazer isso de uma forma que é unificado em todas as espécies (considerando que as convenções de nomenclatura  do gene varia em táxon biológicos).
+
+
+== Termos e ontologia ==
+De uma perspectiva prática, uma ontologia é uma representação de algo que conhecemos. "Ontologias" consistem em uma representação de coisas que são detectáveis ou diretamente observáveis, e as relações entre essas coisas. Não existe uma terminologia padrão universal em biologia e domínios relacionados, e os usos a termo podem ser específicos para uma espécie, área de pesquisa ou até mesmo um grupo de pesquisa específico. Isso dificulta a comunicação e o compartilhamento de dados.O projeto de ontologia genética fornece uma ontologia de definição de termos representando as propriedades do produto génico. A ontologia abrange três domínios:
+
+componente celular, as partes de uma célula ou de seus ambientes extracelulares;
+molecular função, as atividades elementares de um produto do gene ao nível molecular,tais como a ligação ou catálise;
+processo biológico, operações ou conjuntos de eventos moleculares com início e fim definidos, pertinentes ao funcionamento de unidades de vida integradas: células, tecidos, órgãos e organismos.Cada um termo de ontologia genética tem um nome de termo, o que pode ser uma palavra ou seqüência de palavras; um identificador alfanumérico único; uma definição com fontes citadas; e um espaço de nomes, indicando que o domínio ao qual ele pertence. Os termos também podem ter sinônimos, que são classificados como sendo exatamente equivalente ao prazo de nome, mais largo, mais estreito, ou relacionados; referências a conceitos equivalentes em outros bancos de dados; e comentários no termo de significado ou uso. A ontologia genética é estruturada como uma direcionado acíclico gráfico, e cada termo tem definido as relações para um ou mais termos no mesmo domínio, e, por vezes, para outros domínios. O vocabulário da ontologia genética é projetado para ser espécie-neutro, e inclui termos aplicáveis a procariotas e eucariotas, único e os organismos multicelulares.
+Ontologia genética não é estática, e adições, correções e alterações sugeridas, e solicitados, os membros da pesquisa e anotação das comunidades, bem como por aqueles diretamente envolvidos no projeto. Por exemplo, um anotador de maio de solicitação de um termo específico para representar uma via metabólica, ou uma seção da ontologia podem ser revistos, com a ajuda de especialistas da comunidade (e.g.). Sugeriu edições são analisados pelos editores de ontologia, e implementado, onde apropriado.
+O arquivo de ontologia genética está disponível gratuitamente a partir do website do projeto ontologia genética em um número de formatos, ou pode ser acessado on-line usando o GO navegador AmiGO. O Gene Ontology projeto também fornece para download mapeamentos de seus termos para outros sistemas de classificação.
+
+
+=== Exemplo de termo de ===
+: id: IR:0000016
+: nome: atividade de lactase
+: namespace: molecular_function
+: def: "Catálise da reação: lactose + H2O=D-glicose + D-galactose." [CE:3.2.1.108]
+: sinônimo: "a lactase-phlorizin hydrolase atividade" AMPLO [CE:3.2.1.108]
+: sinônimo: "lactose galactohydrolase atividade" EXATA [CE:3.2.1.108]
+: xref: CE:3.2.1.108
+: xref: MetaCyc:LACTASE-RXN
+: xref: Reactome:20536
+: é_um: IR:0004553 ! hydrolase atividade, hydrolyzing O-glycosyl compostos
+
+Fonte de dados:
+
+
+== Anotação ==
+O genoma de anotação é a prática de captura de dados sobre um produto do gene, e anotações de ontologia genética e usa termos do projeto para fazê-lo. Os membros do consórcio de ontologia genética apresentam a anotação de integração e disseminação de ontologia genética do site, onde eles podem ser baixados diretamente ou visualizados on-line utilizando o AmiGO. Além do gene de identificador de produto e relevantes termos ontologia genética, Anotações de ontologia genética tem os seguintes dados:
+A referência usada para fazer a anotação (por exemplo, um artigo de revista);
+Uma evidência de código que denota o tipo de evidências que a anotação é baseado;
+A data e o criador da anotação
+A evidência de que o código vem a partir de um vocabulário controlado de códigos, abrangendo tanto a anotação de métodos manual e automatizada. Por exemplo, Traceable Author Statement (TAS) significa um curador tem de ler a publicação de um artigo científico e os metadados para que a anotação tenha uma citação, para que o papel;  Inferred from Sequence Similarity (ISS) significa que um ser humano curador analisou a saída a partir de uma sequência de similaridade de pesquisa e verificou-se que é biologicamente significativa. As anotações de processos automatizados (por exemplo, remapeamento de anotações criadas usando outra anotação de vocabulário), recebem o código Inferred from Electronic Annotation (IEA). Em abril 1, 2010, mais de 98% de todos fazer anotações ontologia genética foram inferidos computacionalmente, não por curadores.
+Como estas anotações não são verificados por um ser humano, o Consórcio de ontologia genética considera-o menos confiável e inclui apenas um subconjunto de dados disponível on-line em AmiGO. Total de anotação de conjuntos de dados pode ser transferido a partir do website da ontologia genética. Para apoiar o desenvolvimento de anotação, o Consórcio fornece estudo de campos e mentores para novos grupos de desenvolvedores.
+Recentemente, muitos algoritmos de aprendizagem de máquina têm sido criados e implementados para prever anotações ontologias genéticas.
+
+
+=== Exemplo de anotação ===
+: Produto do Gene: Actina, o alfa de músculo cardíaco 1, a uniprotkb:P68032
+: Termo de ontologia genética: contração cardíaca ; IR:0060047 (processo biológico)
+: Prova código: Inferida a partir do Fenótipo Mutante (IMP)
+: Referência: PubMed
+: Atribuído por: a uniprotkb, junho 6, 2008
+
+Fonte de dados:
+
+
+== Ferramentas ==
+Há um grande número de ferramentas disponíveis on-line e para download que utilizam os dados fornecidos pelo projeto ontologia genética. A grande maioria destas provenientes de terceiros; o Consórcio desenvolve e suporta duas ferramentas, AmiGO e OBO-Editar.
+AmiGO é uma aplicação baseada na web que permite que os usuários para consultar, procurar e visualizar as ontologias e o produto do gene de anotação de dados. Ele também tem uma ferramenta BLAST, permitindo a análise de grandes conjuntos de dados, e uma interface para consulta do banco de dados da ontologia genética diretamente.AmiGO pode ser usado on-line no site da ontologia genética para acessar os dados fornecidos pelo Consórcio, ou pode ser baixado e instalado para uso local em qualquer banco de dados empregando o OG esquema de banco de dados (e.g.). Ele é livre, software de código aberto e está disponível como parte do go-dev distribuição de software.OBO-Editar é um open source, independente da plataforma editor de ontologias desenvolvido e mantido pelo Consórcio de ontologia genética. Ele é implementado em Java e utiliza um grafo orientado abordagem para exibir e editar ontologias. OBO-Edição inclui um abrangente de busca e interface de filtro, com a opção de processar os subconjuntos de termos para torná-los visualmente distintos; a interface do usuário também pode ser personalizado de acordo com as preferências do usuário. OBO-Edição tem também um italiano, que podem inferir links que não tenham sido explicitamente indicado, com base nas relações existentes e suas propriedades. Embora ele foi desenvolvido para ontologias biomédicas, OBO-Edição pode ser utilizada para visualizar, pesquisar e editar qualquer ontologia. Está disponível gratuitamente para "download".
+
+
+== Consórcio ==
+O Consórcio é o conjunto de bancos de dados biológicos e grupos de pesquisa envolvidos ativamente no projeto ontologia genética. Isso inclui um número de modelo de organismo e de bases de dados multi-espécies de proteína de bancos de dados, desenvolvimento de "software", grupos, e uma dedicada editoria.
+
+
+== História ==
+O projeto de ontologia genética foi construído originalmente em 1998 por um consórcio de pesquisadores que estudam o genoma de três organismos-modelo: Drosophila melanogaster (mosca da fruta), Mus musculus (camundongo) e Saccharomyces cerevisiae (levedura ou fermento de padeiro). Muitos outros Bancos de dados de Modelo de Organismo juntaram-se ao consortium ontologia genética, contribuindo não apenas a anotação de dados, mas também contribuindo para o desenvolvimento de ontologias e ferramentas para visualizar e aplicar os dados. Até agora, a maioria das principais bases de dados em plantas, animais e microorganismos fazem uma contribuição para este projeto. Desde janeiro de 2008, contém mais de 24,500 termos aplicáveis a uma ampla variedade de organismos biológicos. Existe um corpo significativo de literatura sobre o desenvolvimento e o uso de ontologia genética, e tornou-se uma ferramenta padrão em bioinformática arsenal. Seus objetivos têm três aspectos: a construção de ontologia genética, a atribuição de uma ontologia para o gene/produtos de gene e desenvolvimento de software e bancos de dados para os dois primeiros objetos.
+Diversas análises do ontologia genética usando formal, domínio independente de propriedades de classes (o metaproperties) também estão começando a aparecer. Por exemplo, uma análise ontológica do biológicos ontologias ver.
+
+
+== Referências ==
+
+
+== Ligações externas ==
+AmiGO - official web baseado no conjunto de ferramentas para pesquisar e navegar o Gene Ontology banco de dados
+Gene Ontology Consortium - site oficial
+PlantRegMap - GO anotação de 165 espécies de plantas e IR enriquecimento da Análise
+SimCT — ferramenta baseada na web para mostrar as relações entre objetos biológicos anotada para uma ontologia, na forma de um cluster de árvore.
+SerbGO — uma ferramenta para comparar as capacidades de diferentes programas para mostrar suas características comuns e suas diferenças e localizar ferramentas de, se for o caso, algum usuário específico-capacidades necessárias para análise.
+Domínio centrada no Gene Ontology — banco de dados de domínio-centric ontologias em funções, fenótipos, doenças e mais.

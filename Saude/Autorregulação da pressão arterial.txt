@@ -1,0 +1,57 @@
+A autorregulação da pressão arterial é a capacidade que o organismo humano possui de regular fisiologicamente os valores da pressão arterial. É na realidade uma designação genérica que engloba uma panóplia de mecanismos fisiológicos que se interligam na senda de estabilizar a pressão arterial em valores adequados à perfusão sanguínea dos tecidos. Os mecanismos da autorregulação conseguem responder a estímulos químicos e físicos que denotem uma alteração da pressão sanguínea ou das necessidades de perfusão.
+Os mecanismos que asseguram a autorregulação da pressão arterial pelo organismo podem ser, para efeitos práticos, divididos em dois grandes grupos: mecanismos locais e mecanismos sistémicos. Os mecanismos locais regulam a pressão arterial de um leito capilar em função das condicionantes específicas do local. Entre esses mecanismos encontram-se: o efeito de Bayliss, o efeito de Schretzenmayer, a modulação endotelial do tónus vascular e a regulação metabólica do tónus vascular. Os mecanismos sistémicos adequam os valores de pressão arterial em função de alterações de magnitude muito superior, capazes de alterar a capacidade de perfusão sanguínea de todo o organismo. Os mecanismos sistémicos de regulação da pressão arterial sub-categorizam-se em função das estruturas responsáveis pela sua acção em: mecanismos neurogénicos, mecanismos hormonais e mecanismos renais. Os mecanismos sistémicos são muitas vezes categorizados em função da duração dos seus efeitos: mecanismos a curto prazo (neurogénicos), mecanismos a médio prazo (hormonais) e mecanismos a longo prazo (renais).
+O interesse fisiopatológico destes mecanismos é imenso, pois a sua desregulação parece estar na base da Hipertensão arterial essencial, quadro patológico que corresponde a mais de 90% de todos os casos de hipertensão arterial. A hipertensão arterial é um dos principais factores de risco para patologia cardio-vascular. Consequentemente, estes mecanismos são também os alvos primordiais do fármacos anti-hipertensores.
+
+
+== Mecanismos locais ==
+
+
+=== Efeito de Bayliss ===
+
+Também denominado de autorregulação miogénica, nada mais é do que um arco reflexo cujo estímulo, ou aferência sensitiva, é o estiramento do músculo liso vascular. Um aumento da pressão arterial provoca maior distensão da parede do vaso, activando o reflexo motor conhecido como efeito de Bayliss (em honra de Sir William Bayliss. A resposta, ou eferência motora, do arco reflexo em questão traduz-se numa contracção do músculo liso. O efeito de Bayliss condiciona assim uma diminuição do raio do vaso em resposta a um aumento da pressão arterial, o que pela equação de Poiseuille-Hagen e segundo o Princípio de Bernoulli se traduz na manutenção dos níveis do fluxo e, consequentemente, da perfusão sanguínea.
+
+
+=== Efeito de Schretzenmayer ===
+
+Igualmente denominado de autorregulação dependente do fluxo, foi descrito como um reflexo dos vasos a alterações do fluxo sanguíneo, em que o aumento do fluxo se traduz numa dilatação do vaso sanguíneo. Não é, na realidade, um reflexo neuronal, mas um tipo especial de modulação exercida pelo endotelio vascular sobre o músculo liso do vaso. Aumentos do fluxo ou da viscosidade sanguínea ou diminuições do raio provocam um aumento das tensões de cisalhamento sobre o endotélio, estimulando a produção de NO e prostaciclina (através da cascata do ácido araquidónico). Estes dois compostos difundem-se até aos miócitos subjacentes e provocam diminuição do tónus do músculo liso vascular.
+
+
+=== Modulação endotelial do tónus vascular ===
+
+Os endotelócitos possuem receptores que lhes permitem responder a uma miríade de estímulos químicos e físicos da circulação sanguínea importantes para a regulação da pressão arterial. Entre eles destacam-se:
+
+variações nas tensões de cisalhamento (ver Efeito de Schretzenmayer)
+variações na tensão transmural
+acção de substancias ditas vasoactivas (angiotensina, bradicinina, etc.)
+acção de mediadores inflamatórios (IL-1, PAF-1, etc.)Estes estímulos provocam aumento ou diminuição da produção de mediadores endoteliais, entre os quais se encontram: os derivados da cascata do ácido araquidónico (prostaglandinas e tromboxanos), o óxido nítrico e as endotelinas. Estes mediadores difundem-se pela parede do vaso, atingindo os miócitos, onde vão ter a capacidade de aumentar ou diminuir o tónus do músculo liso, o que se traduz em vasoconstrição ou vasodilatação.
+
+
+=== Regulação metabólica do tónus vascular ===
+
+O nível de actividade metabólica de um tecido regula o volume de sangue que necessita de que se aporte a esse tecido. Um aumento da taxa metabólica implica necessariamente um maior consumo de nutrientes e oxigénio e uma maior produção de catabolitos que necessitam de ser excretados. Dá-se a este fenómeno o nome de Hiperemia funcional, em contraste com a Hiperemia reactiva, que ocorre após uma lesão de reperfusão.
+
+
+== Mecanismo sistémicos ==
+
+
+=== Mecanismos neurogénicos ===
+
+Os mecanismo neurogénicos são na realidade um conjunto de vias neuronais do sistema nervoso autónomo que interagem na regulação da pressão arterial. Os estímulos que activam ou inibem estas vias são as variações na pressão transmural dos vasos (detectadas a nível de barorreceptores do seio carotídeo, do arco aórtico e das grandes veias) e o estiramento do átrio direito do coração (detectado por receptores de estiramento nas paredes desta cavidade cardíaca). Através do sistema nervoso simpático (SNS), estes mecanismos controlam a resistência periférica total e o débito cardíaco (pela regulação do volume de retorno venoso e do inotropismo cardíaco). Através do sistema nervoso parassimpático, estes mecanismos modulam o cronotropismo cardíaco, afectando o débito cardíaco pela variação da frequência cardíaca.
+
+
+=== Mecanismos hormonais ===
+
+Dependem de um conjunto de hormonas que diferem das substâncias enunciadas na modulação endotelial da pressão arterial por terem alcance sistémico e uma acção mais duradoura (dita a médio prazo). Entre as hormonas de acção vasodilatadora encontramos: as cininas, os péptidos natriuréticos e o VIP. As hormonas de acção vasoconstritora são: catecolaminas, vasopressina, angiotensina II e androgénios.
+
+
+=== Mecanismos renais ===
+
+Os mecanismos adaptativos que existem a nível do rim que permitem o controlo da pressão arterial, são os únicos que permitem uma regulação a longo prazo. Actuam essencialmente pela modulação dos níveis de água e sódio que excretam, fazendo aumentar ou diminuir a volémia. Esta regulação depende essencialmente de um eixo hormonal conhecido como sistema renina-angiotensina-aldosterona.
+
+
+== Referências ==
+
+
+== Bibliografia ==
+CORDERO, M.; ESTELLER, A. Fundamentos de Fisiopatología. Madird, 1998, McGraw-Hill. ISBN 84-406-0214-5
+MCPHEE, S.;LINGAPPA, V.;GANONG, W.Pathophysiology od Disease, an introduction to clinical medicine. 2003, McGraw-Hill, 4ªedição. ISBN 0-07-121240-X.

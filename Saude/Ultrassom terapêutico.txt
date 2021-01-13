@@ -1,0 +1,23 @@
+Ultrassom terapêutico é a vibração sonora de frequência superior a 20 000 ciclos por segundo, não audível pelo homem. Sons abaixo dos 20 hertz são conhecidos como infrassom. O que normalmente estamos acostumados a ouvir são frequências de 30 a 4 000 hertz, que são sons de vozes e música. Na fisioterapia, se emprega o ultrassom em frequências de 0,5 a cinco mega-hertz.
+
+As ondas são uma série de compressões e rarefações mecânicas na direção do trajeto da onda, portanto são chamadas de ondas longitudinais. A passagem dessas ondas de compressão e rarefação são invisíveis, o que acontece é a "aproximação" e "separação" das moléculas, balanceando-as. A onda não transporta a matéria, faz com que a matéria “chacoalhe” vibrando. No ultrassom terapêutico, essa vibração faz com que as moléculas vibrem e, quanto maior o movimento molecular, maior o calor – já que temperatura é a agitação das moléculas. Assim como uma britadeira de quebrar asfalto, a energia transferida através das ondas ocorre por meio de colisões.
+A velocidade de transmissão dessas ondas dependem de por onde elas "viajam": por exemplo, a luz viaja mais rápido no ar do que na água e esta diferença pode ser facilmente vista na "antiga mágica" do canudo torto no copo d’água.
+
+
+== Produção do ultrassom terapêutico ==
+Para se produzir o ultrassom terapêutico, são usados transdutores piezoelétricos. Esses cristais, adequadamente cortados, mudam o formato sob influência de uma carga elétrica. Os cristais mais utilizados são os de quartzo, titanato de bário e titano-zirconato de chumbo (PZT). O cristal tem que ser cortado em dimensões apropriadas: o mais importante é a espessura, pois, quanto maior a vibração da espessura do cristal, maior a intensidade, a qual é medida em joules por segundo ao quadrado.
+
+
+== Transmissão de ondas ==
+
+
+=== Fronteiras entre os meios ===
+Como foi dito, o ultrassom transfere energia na forma de ondas. Essa energia depende da elasticidade e da densidade do meio, que, juntas, são conhecidas como impedância acústica, dita a facilidade que a onda tem em viajar nesse meio. Geólogos usam ultrassom em solo para determinar a densidade do mesmo, através da fórmula: impedância acústica = densidade x velocidade. Quando a onda chega numa nova fronteira, como no exemplo do "canudo mágico", ocorrem (ou não) mudanças: a velocidade muda devido à impedância, a frequência é a mesma, mas o comprimento de onda muda; parte da energia é desviada (como no exemplo acima) e formam-se ondas estacionárias.
+
+
+=== Absorção de ondas ===
+As colisões geram uma maior vibração nas moléculas, e isso acarreta um aumento na temperatura. Como a conversão de energia sonora em calor é decorrente do aumento do movimento molecular, segue-se que a quantidade convertida dependerá da natureza dessas moléculas e da frequência/comprimento de onda do ultrassom. Essa impedância de diferentes substâncias encontradas no nosso corpo fará com que seja limitada a penetração do som nessas matérias. Mesmo no ar, dependendo da distância que se esteja de um rádio, pode-se ou não ouvir o seu som, por exemplo. Essa diminuição ocorre de forma exponencial.
+
+
+=== Quanto penetra ===
+Segundo Wadsworth e Chanmungan, 1 mega-hertz penetra o equivalente a 5 centímetros, e 3 mega-hertz, a 3 centímetros. O estudo também mostra que, quanto maior a quantidade de proteína, maior é absorção do ultrassom, e que, quanto mais próximas estão as moléculas do meio, mais o ultrassom se propaga.

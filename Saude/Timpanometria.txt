@@ -1,0 +1,31 @@
+A timpanometria é um exame objetivo utilizado para avaliar a função da orelha média, ou seja, a mobilidade do sistema tímpano-ossicular (membrana timpânica e ossos de condução do som), criando variações da pressão do ar no canal auditivo (meato acústico externo). Auxilia no diagnóstico de alterações na orelha média e de perdas auditivas, tanto em adultos, quanto em crianças. Na avaliação da perda auditiva, a timpanometria permite uma distinção entre perda auditiva neurossensorial e condutiva. Além disso, pode ser útil no diagnóstico da otite média, demonstrando a presença de acúmulo de líquido na cavidade da orelha média por meio da curva timpanométrica.
+O exame não deve ser usado para avaliar a sensibilidade da audição, e seus resultados devem sempre ser vistos em conjunto com a avaliação da audiometria.
+
+
+== Procedimento ==
+Para que seja realizada a pesquisa da timpanometria, é necessário realizar previamente uma meatoscopia (exame da orelha com um otoscópio), para garantir que o meato acústico externo (MAE) não esteja com excesso de cerúmen, impedindo a passagem do som, e, consequentemente, a realização do exame. A Timpanometria é iniciada inserindo uma sonda no MAE. Uma vez obtida a vedação do MAE, ocorre uma modificação da pressão na orelha, associada a geração de um tom puro que mede as respostas da membrana timpânica ao som em diferentes pressões. Isso produz uma série de dados que medem variação da admitância, registrados no timpanograma.
+Um tom de sonda de 226 Hz é gerado pelo equipamento no MAE, onde o som atinge a membrana timpânica, causando vibração nos ossos de condução do som na orelha média. Parte desse som é refletido de volta e captado pelo microfone da sonda. A maioria dos problemas da orelha média resulta em enrijecimento do sistema tímpano-ossicular, o que faz com que uma maior quantidade de som seja refletido de volta.
+Enquanto 226 Hz é o tom de sonda mais comum para a realização da timpanometria, outros tons podem ser utilizados. Em crianças com menos de 6 meses de idade, é recomendado a utilização do tom de sonda de 1000 Hz, que tem demonstrado resultados mais precisos. Há ainda a timpanometria com tom de sonda multifrequencial, que utiliza a faixa de frequência entre 250 e 2000 Hz, e que auxilia na identificação de anormalidades ossiculares.A admitância é como a energia é transmitida através da orelha média. O instrumento mede o som refletido e o expressa como uma admitância ou compliância, registrando os dados em um gráfico conhecido como timpanograma.
+Normalmente, a pressão do ar no MAE é a mesma que a pressão ambiente. Além disso, em condições normais, a pressão do ar na orelha média é aproximadamente a mesma que a pressão ambiente, pois a Tuba Auditiva se abre periodicamente para ventilar a orelha média e equalizar a pressão. Em um indivíduo saudável, o som máximo é transmitido através da orelha média quando a pressão do ar ambiente no MAE é igual à pressão na orelha média.
+
+
+== Timpanograma ==
+
+		
+		
+Os timpanogramas são classificados de acordo com os parâmetros de admitância e pressão da orelha média em três tipos: A, B e C.
+Um timpanograma do tipo A mostra um pico de máxima admitância ao redor da pressão de ar de 0 daPa, com variação não excedendo a -100 daPa, com volume de orelha média entre 0,3 e 1,6 ml, de acordo com Jerger (1972). Este tipo de curva timpanométrica  é encontrada em indivíduos com função de orelha média normal, ou seja, há pressão normal na orelha média com mobilidade normal da membrana timpânica e da cadeia ossicular.
+Dentro do grupo do A, existem dois outros tipos de curva, a do tipo Ar e a do tipo Ad:
+O timpanograma do tipo Ar mostra baixa admitância no sistema tímpano-ossicular, ou seja, mesmo com pressão de ar dentro da normalidade, os valores do volume de orelha média estão abaixo de 0,3 ml, indicando rigidez neste sistema. Pode ser encontrado em indivíduos portadores de otosclerose.
+Já o timpanograma do tipo Ad mostra um sistema tímpano-ossicular muito móvel. Neste tipo, a pressão ainda encontra-se dentro da normalidade, mas os valores do volume de orelha média estão acima de 1,6 ml, indicando alta complacência (admitância). O timpanograma do tipo Ad pode indicar membrana timpânica muito flácida ou disjunção da cadeia ossicular, ou seja, desarticulação dos ossículos da orelha média.
+O timpanograma do tipo B não apresenta pico de máxima admitância em nenhuma pressão de ar, demonstrando uma curva achatada / horizontalizada. Este tipo de curva implica uma inviabilização da função timpânica, por este se apresentar perfurado. Deverá ser indicado para cirurgia.
+O timpanograma do tipo C mostra o pico de máxima admitância deslocado para pressões negativas, abaixo de -100 daPa. Geralmente esta pressão negativa no espaço da orelha média é resultante da função comprometida da Tuba Auditiva e de uma membrana timpânica retraída.
+A classificação dos dados timpanométricos não deve ser usada isoladamente como um diagnóstico. Somente medidas de admitância acústica estática, volume do meato acústico externo e largura/gradiente timpanométrico em comparação com dados normativos específicos de sexo, idade e raça podem ser usadas para diagnosticar com certa precisão a patologia da orelha média, juntamente com o uso de outros dados audiológicos (por exemplo, otoscopia, limiares auditivos de via aérea e limiares de via óssea, limiar de reconhecimento de fala e índice de reconhecimento de fala, etc.)
+
+
+== Referências ==
+
+
+== Lgações externas ==
+Medscape article by Kathleen C M Campbel
+Basic Multifrequency Tympanometry: The Physical Background

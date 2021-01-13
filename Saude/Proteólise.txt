@@ -1,0 +1,49 @@
+Proteólise (proteo-, proteína, -lise do grego lúsis, separação, dissolução) é o processo de degradação (digestão) de proteínas por enzimas, chamadas proteases, ou por digestão intramolecular. Existem diversas vias proteolíticas e dependendo de onde ocorrem, pode-se classificá-las em:
+
+Proteólise intracelular
+Degradação de proteínas pelo lisossomo (via proteolítica lisossomal)
+Degradação de proteínas dependente de ATP feita pelo proteassoma (via proteolítica da ubiquitina-proteassoma)
+Degradação dependente de cálcio por calpaínas
+Cascata das caspases
+Degradação de oligopeptídeos por peptidases
+Proteólises limitadas
+Proteólise extra-celular
+Degradação de proteínas secretadas na matriz extra-celular por peptidases
+Proteólise digestiva realizada no estômago ou no duodeno sobre os alimentosOs peptídeos e aminoácidos resultantes da proteólise podem ser reaproveitados na síntese protéica.
+A proteólise também ocorre na ativação ou liberação de algumas moléculas (proteólise limitada), muitas enzimas são formadas pela ação proteolítica sobre um precursor, chamado pró-enzima (ou zimogênio, quando é um precursor de proteases), ou mais genericamente, pró-proteínas.
+
+
+== Introdução ==
+As proteínas são longas seqüências de aminoácidos, sintetizadas pelos ribossomos a partir de instruções obtidas do RNA mensageiro, trazendo informações do DNA. Exercem as mais variadas e importantes funções na célula, catalisam praticamente todas as reações celulares, têm diversas funções estruturais, além de formarem complexos e organelas capazes de realizar funções complexas. As proteínas se encontram num estado dinâmico, sendo continuamente sintetizadas e degradadas, suas meias-vidas variam de alguns segundos a meses, e o controle dessa atividade e degradação é vital para a célula, e ocorre para regular sua concentração, reciclar aminoácidos e eliminar as que tiverem sido mal-formadas ou danificadas. Os meios pelos quais a célula pode se livrar de proteínas indesejadas são chamados de vias proteolíticas.
+Em 1942 Rudolph Schönheimer propôs que as proteínas animais se mantém num estado dinâmico de síntese e degradação, o que foi mal recebido, uma vez que isso exigiria enormes quantidades de energia para a re-síntese, e contrariava a idéia de que a célula era um sistema de estruturas estáveis energeticamente econômico. Isso mudou duas décadas depois, com a descoberta do lisossomo e da presença de enzimas proteolíticas dentro dele por de Duve e colaboradores. Nos anos 1960, foram identificadas proteases extralisossomais dependentes de cálcio (calpaínas), e finalmente, nos anos 1970 e 1980, identificou-se uma via extra-lisossomal dependente de ATP e do polipeptídeo ubiquitina, que tem se mostrando importante em diversos mecanismos regulatórios da célula como o ciclo celular, a transdução de sinais, a transcrição gênica, entre muitos outros, criando grande interesse pelas vias proteolíticas. Desde então foram descobertas outras formas como a proteólise limitada.
+
+
+== A via lisossomal ==
+
+A proteólise lisossomal foi a primeira via proteolítica identificada, e a ela é atribuída a degradação de materiais estranhos advindos do meio extra-celular (por meio da endocitose), a degradação de proteínas de membrana, a reciclagem de organelas e componentes celulares envelhecidos e a proteólise estimulada pelo jejum no fígado. Seu objetivo é cumprido através da digestão intracelular controlada de macromoléculas (como, por exemplo, proteínas, ácidos nucléicos, polissacarídeos, e lipídios), catalisada por cerca de 50 enzimas hidrolíticas, entre as quais se encontram proteases, nucleases, glicosidases, lipases, fosfolipases, fosfatases, e sulfatases ativas em pH ácido que é mantido por meio de bombas de H+ da membrana e às custas da hidrólise de ATP. A proteólise ocorre por através de processos seletivos e não seletivos; entre os não seletivos estão a macroautofagia (fusão de lisossomas com vacúolos originários do complexo de Golgi e retículo endoplasmático liso) que é ativada sobretudo no fígado em períodos iniciais de jejum e a microautofagia (invaginação da superfície lisossomal que leva à produção de vesículas cujo conteúdo proteico sofre degradação no interior do lisossoma) e que ocorre sob condições nutricionais normais.
+
+
+== A via da ubiquitina-proteassoma ==
+Artigo principal: Via da ubiquitina-proteassoma
+A via da ubiquitina-proteassoma é uma via proteolítica dependente de ATP, na qual as proteínas-alvo (proteínas danificadas ou mutantes, reguladores do ciclo celular e de crescimento, ativadores e inibidores de transcrição, receptores celulares, …) por meio da ação de três enzimas, dos tipos respectivamente chamados de E1, E2 e E3, acabam se ligando uma ou mais moléculas de ubiquitina, e o complexo é então reconhecido pelo proteassoma que libera as ubiquitinas e desenovela a proteína (com gasto de ATP) para então ser degradada no seu interior a oligopeptídeos.
+
+
+== Referências ==
+
+
+=== Artigos ===
+Wolf, D. H. "From lysosome to proteasome: the power of yeast in the dissection of proteínase function in cellular regulation and waste disposal". Cellular and Molecular Life Sciences, 61, 1601-1614 (2004). http://www.biochem.emory.edu/classes/ibs555/Outside%20Reading/lysome%20to%20proteasome.pdf[ligação inativa]
+Ciechanover, Aaron. "Intracellular protein degradation: from a vague idea thru the lysosome and the ubiquitin-proteasome system and onto human diseases and drug targetting". Nobel Lecture (2004). http://nobelprize.org/chemistry/laureates/2004/ciechanover-lecture.pdf
+Galban, Victor Diaz e Kettelhut, Isis do Carmo. "Mecanismos de Proteólise e seus Fundamentos", https://web.archive.org/web/20061028054312/http://www.rbi.fmrp.usp.br/proteol/proteol.htm (acessado em 4 de março de 2006).
+
+
+== Ver também ==
+protease
+lisossoma
+via lisossomal
+ubiquitina
+proteassoma
+via da ubiquitina-proteassoma
+calpaínas
+caspases
+proteólise limitada

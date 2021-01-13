@@ -1,0 +1,28 @@
+A eletrofisiologia consiste no estudo das propriedades elétricas em células e tecidos. Envolve medições de diferenças de potencial eléctrico numa vasta variedade de escalas desde simples proteínas de canais iónicos até órgãos completos, como por exemplo o coração. Na neurociência inclui medidas das atividades elétricas de neurônios, e particularmente da atividade do potencial de ação.Na condução de estimulo nervoso que ocorrem nas fibras neuro-musculares excitáveis. A transmissão de impulsos nervosos ocorre através de sinapses elétricas e químicas.
+A cardiologia engloba, como área de atuação, a eletrofisiologia, a qual consiste no diagnóstico e tratamento de arritmias através de cateteres introduzidos no sistema venoso do paciente, chegando até a câmaras cardíacas.Eletrofisiologia é a ciência e o ramo da fisiologia que mede o fluxo de íons em tecidos biológico e, em particular, as técnicas de medição desse fluxo.  Técnicas de Eletrofisiologia Clássica incluem a colocação de eletrodos em várias preparações de tecido biológico. Os principais tipos de eletrodos são:
+1-	Sólidos condutores simples, como discos e agulhas (singulares ou matrizes, à excepção da ponta)
+2-	traçados sobre placa de circuito, também isolados, à excepção da ponta
+3-	tubos ocos preenchidos com um eletrólito, como uma pipeta de vidro preenchida com uma solução de cloreto e outra solução com eletrólito. 
+As principais preparações incluem:
+1 – Organismos vivos
+2 – Tecido excisado 
+3 -  Células dissociadas de tecido excisado (vivo ou em cultura)
+4 -  Células ou tecidos produzidos artificialmente 
+5 – Híbridos dos casos acima descritos
+Se um eletrodo tiver um diâmetro suficientemente pequeno (micrômetros), então o investigador pode escolher inserir a ponta numa única célula. Uma configuração destas permite gravar a atividade eléctrica intracelular de uma só célula. Contudo, reduz a vida da célula e causa uma fuga do líquido intracelular.É também possível observar atividade intracelular usando uma pipeta de vidro (oca) especialmente preparada, contendo um eletrólito. Nesta técnica, a ponta microscópica da pipeta é prensada contra a membrana celular, à qual esta adere firmemente entre o vidro e os lípidos da membrana celular. O eletrólito dentro da pipeta pode ser conduzido em fluido contínuo com o citoplasma ao levar-se um pulso de pressão  ao eletrólito, com o objectivo de romper o pequeno caminho da membrana circundada pelo aro da pipeta (gravação de célula completa). Alternativamente, a continuidade iônica pode ser estabelecida ao perfurar o caminho permitindo aos agentes porosos exógenos dentro do electrólito inserirem-se no caminho da membrana (gravação de caminho perfurado). Finalmente, o caminho pode ser deixado intacto (gravação de caminho). O eletrofisiologista pode escolher não inserir numa célula única, deixando em alternativa ponta do eletrodo em continuidade com o espaço extracelular. Se a ponta for suficientemente pequena,esta configuração pode permitir a observação indireta e gravação do potencial de açãode uma célula única, o que é denominado gravação de unidade celular. Dependendo da preparação e posicionamento preciso, uma configuração extracelular pode registara atividade de várias células vizinhas simulataneamente, sendo por isso denominada gravação multi-celular.
+À medida que o tamanho do eletrodo aumenta, o poder de resolução decresce. Eléctrodos maiores são sensíveis apenas à atividade da rede neuronal de várias células, denominados campos de potencial locais. Eletrodos ainda maiores, como uma agulha não isolada e eletrodos de superfície usados por neurofisiologistas clínicos e cirurgiões são sensíveis apenas a certos tipos de acividade síncrona dentro das populações de milhões de células.
+Outras técnicas eletrofisiológicas clássicas incluem a gravação e amperometria de canal (iônico) singular.
+- Técnicas Eletrofisiológicas Ópticas
+As técnicas Eletrofisiológicas Ópticas foram criadas por cientistas e engenheiros para superar uma das maiores limitações das técnicas clássicas. As técnicas clássicas permitem a observação de atividade elétrica a aproximadamente num ponto único dentro de um volume de tecido. Essencialmente, as técnicas clássicas singularizam a distribuição do fenômeno. Interesse na distribuição espacial da atividade bioelétrica impeliu ao desenvolvimento de moléculas capazes de emitir luz, em resposta ao seu ambiente eléctrico e químico. Exemplos são as tintas sensíveis à voltagem e às proteínas fluorescentes. Após induzir um ou mais compostos no tecido via perfusão, injeção ou expressão genética, pode ser observada e gravada a distribuição eléctrica em uma ou duas dimensões.
+Muitas leituras eletrofisiológicas têm nomes específicos, como:
+- Audiologia : para o sistema auditivo
+- Eletrocardiografia: para o coração	
+- Eletroencefalografia: para o cérebro
+- Eletrocortigrafia: para o córtex cerebral
+- Eletromiografia: para os músculos
+- Eletrooculografia: para os olhos
+- Eletroretinografia : para a retina 
+- Eletroantenografia: para os receptores olfactórios de artrópodes.
+
+
+== Referências ==

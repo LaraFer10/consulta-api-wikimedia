@@ -1,0 +1,39 @@
+Uma metaloproteína é uma proteína que contém um ou mais iões metálicos na sua estrutura, seja diretamente ligados à cadeia polipeptídica, seja inseridos numa molécula não proteica covalentemente ligada à cadeia polipeptídica.
+Muitas metaloproteínas são enzimas (metaloenzimas), em particular oxidorredutases. Uma grande parte são proteínas de transferência electrónica, servindo como meio de transporte de eletrões para outras metaloenzimas. 
+O metal de transição mais encontrado em metaloproteínas é o ferro. Outros metais de transição de relevo incluem o zinco, o cobre e o molibdénio. Também se consideram metaloproteínas aquelas contendo os metais alcalino-terrosos magnésio e cálcio. 
+São encontradas metaloproteínas em todos os domínios da Vida. O funcionamento e a estrutura das metaloproteínas são estudados pela Química Bioinorgânica.
+
+
+== Características ==
+A maioria dos metais de transição podem ter diferentes estados de oxidação, diferentes potenciais de oxidação (facilidade de se oxidar ou reduzir) e apresentar ou não paramagnetismo. Conforme o meio em que se encontram, ou seja, o cofator enzimático ou cadeias laterais de aminoácidos a que se encontram ligados, ou a presença de mais metais, variam estas características, que conferem às metaloproteínas propriedades únicas. Além de técnicas bioquímicas clássicas aplicáveis a proteínas em geral, como cromatografia, eletroforese ou determinação da atividade enzimática, muitas metaloproteínas podem ser estudadas através de técnicas espectroscópicas como a espectrofotometria, a Espectroscopia de ressonância paramagnética electrónica, a ressonância magnética nuclear ou ainda a espectroscopia de Mössbauer.
+
+
+== Classificação das metaloproteínas ==
+Uma forma usual de classificar proteínas é quanto ao metal (ou metais) que contêm.
+
+
+=== Proteínas contendo ferro ===
+
+As proteínas contendo ferro constituem o grupo mais diversificado de metaloproteínas. Podem ser classificadas quanto à presença de um grupo hemo em proteínas hémicas e proteínas não-hémicas. O exemplo clássico de proteína hémica é a hemoglobina, responsável pelo transporte de oxigénio na corrente sanguínea. Também a catalase é uma metaloproteína, especificamente uma metaloenzima; a catalase hémica usa grupos hemo na reação que catalisa. Os citocromos formam um grupo numeroso de proteínas hémicas: existem diversos tipos de citocromos, sendo a maioria proteínas de transferência eletrónica. 
+As proteínas contendo ferro não hémico dividem-se em diversas famílias, podendo classificar-se por exemplo quanto à quantidade de íons ferro que contêm. Deste modo, podem ser mononucleares se tiverem um íon ferro (como acontece com algumas lipoxigenases), dinucleares se tiverem dois (como na proteína de transporte de oxigénio hemeritrina), existindo também proteínas polinucleares, com mais de dois íons ferro (como as ferredoxinas, proteínas de transporte eletrônico).
+Outra forma de classificar proteínas contendo ferro não hémico é quanto à existência de enxofre como ligando do íon ferro. As proteínas deste grupo são denominadas proteínas de ferro-enxofre. Neste inclui-se normalmente proteínas que contêm enxofre inorgânico (não proveniente de cadeias laterais de aminoácidos) que se encontra ligado aos íons ferro. Um exemplo deste tipo de proteínas encontra-se na enzima aconitase, que participa no ciclo dos ácidos tricarboxílicos: a regulação da atividade da enzima é feita através da adição de um ferro ao centro de ferro-enxofre, convertendo uma forma inativa (três ferros) numa forma ativa (quatro ferros).
+Existem também proteínas contendo centros mistos de ferro e outro metal. Um exemplo é a enzima hidrogenase de níquel-ferro, presente nalgumas bactérias: o centro ativo possui um íon níquel, além de um ferro.
+Na maioria dos casos, os íons ferro em proteínas encontram-se no estado de oxidação (II) ou (III), encontrando-se nalgumas situações excepcionalmente os estados de oxidação mais elevada (IV) e (V).
+
+
+=== Proteínas contendo cobre ===
+As metaloproteínas contendo cobre podem também ser divididas quanto ao tipo de centro que possuem. Na sua maioria, são proteínas com centros mononucleares, nas quais se incluem proteínas de transferência eletrônica como as da família da azurina, e enzimas como a superóxido dismutase.
+Encontram-se centros dinucleares de cobre em enzimas como a citocromo c oxidase, que participa na cadeia respiratória aeróbia. Esta enzima possui também um hemo em que um dos átomos ligados ao ferro forma uma ponte entre este e um íon de cobre.
+Nestes casos, o íon cobre encontra-se normalmente nos estados de oxidação (I) ou (II).
+
+
+=== Proteínas contendo níquel ===
+A primeira enzima a ser cristalizada foi a urease, uma enzima contendo níquel que hidrolisa a ureia a dióxido de carbono e amoníaco. Outra enzima contendo níquel é a hidrogenase de níquel-ferro, que catalisa a redução de H+ a hidrogênio molecular.
+
+
+=== Proteínas contendo molibdênio ou tungstênio ===
+Um pequeno grupo de proteínas possui o metal molibdênio ligado a uma molécula, denominada pterina, formando o cofator enzimático piranopterina. Num caso, em vez de molibdênio, encontra-se tungstênio. As proteínas contendo molibdênio dividem-se em diferentes classes dependendo de algumas diferenças na sua estrutura e reatividade. Uma das enzimas com molibdênio mais conhecidas é a xantina desidrogenase, que converte xantina a ácido úrico no metabolismo de degradação de purinas.
+
+
+== Ligações externas ==
+«Base de dados PROMISE sobre metaloproteínas» (em inglês)

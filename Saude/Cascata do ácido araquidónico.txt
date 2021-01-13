@@ -1,0 +1,69 @@
+A cascata do ácido araquidónico (português europeu) ou cascata do ácido araquidônico (português brasileiro) é uma via metabólica do organismo humano que usa o ácido araquidónico para a síntese de uma grande panóplia de mediadores lipídicos de importância incontornável na fisiologia e patologia humanas, globalmente denominados de eicosanóides e entre os quais se encontram: prostaglandinas, tromboxanos e leucotrienos. O ácido araquidónico é um composto lipídico que, para o Homem, não é estritamente um ácido graxo essencial, como por vezes é descrito, mas sim um derivado de um ácido graxo essencial: o ácido linoleico. A cascata do ácido araquidónico depende da oxidação deste composto lipídico e é divisível em duas vias principais: a dependente da ciclooxigenase (COX) e a dependente da lipo-oxigenase (LOX).
+A importância da cascata do ácido araquidónico radica no conjunto de funções desempenhadas pelos seus produtos, os eicosanóides, na bioquímica das células humanas. O seu papel mais famigerado será porventura o de via pro-inflamatória e de alvo terapêutico dos fármacos anti-inflamatórios não esteróides, como a aspirina. Não obstante, o papel dos eicosanóides estende-se além das propriedades pró-inflamatórias: são hormonas autócrinas e parácrinas em vários tecidos, têm um papel fulcral na hemorreologia, hemostasia e termorregulação e ainda na transmissão neuronal.
+Consequentemente, o controlo e modulação da cascata do ácido araquidónico e das acções dos eicosanóides, quer fisiologicamente, quer iatrogenicamente, pode prevenir ou tratar uma vasta miríade de patologias do organismo humano, de entre as quais podemos enunciar: hipertensão arterial, hipertensão pulmonar, hipertensão ocular e glaucoma, úlcera gástrica, disfunção eréctil, artrite reumatóide, asma, et cetera.
+
+
+== Ácido araquidónico: o substrato da via ==
+O substrato desta via metabólica é o ácido araquidónico (abreviado como AA ou 20:3 ω-6). O ácido araquidónico é um derivado do ácido linoleico que, no organismo humano, se encontra nos fosfolípidos, que são componentes estruturais da membrana celular. Cada fosfolípido é uma molécula complexa constituída por uma molécula de glicerol que interliga um grupo fosfato (polar) e dois ácidos gordos (apolares). O ácido araquidónico é então um dos ácidos gordos usados nas membranas celulares. A sua biodisponibilidade para reacções de bioquímica celular vai então depender de enzimas que sejam capazes de o desagregar da membrana celular, libertando-o como molécula livre no citoplasma.
+A enzima responsável pela libertação do ácido araquidónico das membranas celulares é a fosfolipase A2 (PLA2). Uma via alternativa é a clivagem do ácido araquidónico a partir do diacilglicerol (DGA) pela diacilglicerol lipase (note-se, todavia, que o DGA é, ele próprio, um produto da hidrólise de um fosfolípido de membrana o fosfatidilinositol bifosfato). Esta via alternativa está mais relacionada com a produção de endocanabinóides.
+
+
+== Controle da disponibilidade de Ácido Araquidónico ==
+A libertação de ácido araquidónico da membrana celular ocorre como resposta a estímulos que adveem da necessidade da acção metabólica das várias moléculas que são produtos da cascata do ácido araquidónico. Esses estímulos levam ao aumento da disponibilidade de ácido araquidónico de formas diferentes, activando diferentes isoformas da fosfolipase A2. A activação da sPLA2, por exemplo, está relacionada com estímulos pró-inflamatórios. Através da modulação de vias de sinalização intracelular, esses diversos estímulos serão também capazes de direccionar o ácido araquidónico para a produção selectiva dos eicosanóides cuja falta os despoletou.
+A acção catalítica da fosfolipase A2 depende da conjugação de dois factores essenciais: a sua fosforilação e as concentrações de cálcio intracelular. Assim, estímulos externos que promovam quer a libertação de cálcio do retículo endoplasmático, quer a fosforilação da fosfolipase A2 são potenciais activadores da cascata do Ácido araquidónico. De entre os que estimulam a fosforilação da PLA2 podemos apontar os que actuam pelas seguintes vias de sinalização:
+
+activadores dos receptores 5-HT2, essencialmente a serotonina.
+activadores do mGLUR1, essencialmente o glutamato.
+activadores do INF-αR, como o Interferão-α e o Interferão-β
+activadores do INF-γR, essencialmente o Interferão-γÉ de salientar, no entanto, que o ácido araquidónico desempenha outras funções além de percursor da via metabólica em questão e que ainda não se conhece a importância relativa destes activadores da PLA2 na promoção da cascata do ácido araquidónico e produção dos diferentes eicosanóides.
+
+
+== Via da Ciclo-oxigenase (COX) ==
+
+O ácido araquidónico pode ser oxidado pela enzima ciclo-oxigenase dando origem aos prostanóides, ou seja, às prostaglandinas e aos tromboxanos. Porém, nem todas as prostaglandinas e tromboxanos têm como percursor o ácido araquidónico, esse é apenas o caso dos eicosanóides da série 2 (identificáveis por um numeral 2 subscrito; por exemplo: PGG2). As prostaglandinas e tromboxanos da série 1 são derivadas do ácido eicosatrianóico (DGLA) e os da série 3 do ácido eicosapentaenóico (EPA). Contudo, a síntese de todos os prostanóides depende da COX, uma vez que a enzima actua sobre qualquer um dos percursores.Existem duas isoenzimas da COX: a COX-1 e a COX-2. A COX-1 é constitutiva da maioria dos tecidos humanos, mas com especial relevância para a mucosa gástrica, endotélio vascular, parênquima renal e plaquetas. Já a COX-2 é uma enzima de expressão induzível por mediadores pró-inflamatórios (como a IL-1, o PAF ou o LPS) em macrófagos e monócitos.
+
+
+=== As prostaglandinas precursoras: PGG2 e PGH2 ===
+A enzima chave no início desta via comummente denominada de ciclo-oxigenase (COX) é por vezes apelidada de prostaglandina H sintetase (PGHS) e tem uma acção bivalente que lhe permite mediar os dois primeiros passos da via. O seu componente ciclo-oxigenase permite a formação da Prostaglandina G2 (PGG2)a partir do ácido araquidónico. O componente de peroxidase da mesma enzima permite a subsequente conversão desta PGG2 a Prostaglandina H2 (PGH2). Esta reacção de peroxidação é dependente de glutationa.
+
+
+=== As prostaglandinas activas ===
+
+A partir da PGH2 podem ser produzidas 4 prostaglandinas activas da série 2: a Prostaglandina D2 (PGD2), a Prostaglandina E2 (PGE2), a Prostaglandina F2 (PGF2) e a Prostaglandina I2 (PGI2 ou prostaciclina). Existem várias enzimas responsáveis pela síntese destes mediadores que variam de tecido para tecido, conferindo especificidade à regulação da síntese destas prostaglandinas. Embora sejam mediadores potentes, ou talvez por isso mesmo, a meia-vida das prostaglandinas não atinge muitas vezes 1 minuto.As acções das prostaglandinas são diversificadas, tendo acções diferentes em diferentes tecidos-alvo e acções diferentes num mesmo tecido, mediadas por receptores diferentes. Entre as mais relevantes podemos enumerar:
+
+acção vasodilatadora sistémica (PGE2 e PGI2)
+acção vasodilatadora renal (PGE2 e PGD2)
+inibição da agregação plaquetária (PGI2)
+recrutamento de leucócitos na resposta inflamatória (PGE2 e PGF2)
+controlo do tónus muscular brônquico - broncodilatação ou brococonstrição - (PGI2, PGE2 e PGF2)
+controlo do tónus muscular do tracto gastro-intestinal (PGE2)
+controlo da secreção de HCl pela mucosa gástrica (PGE2)
+
+
+=== Os tromboxanos ===
+Os tromboxanos são compostos que resultam da substituição do anel ciclopentano encontrado nas prostaglandinas por um anel oxano. Esta classe de eicosanoides é derivada da PGH2 pela acção da Tromboxano A2 sintetase, uma enzima associada ao retículo endoplasmático, expressa essencialmente nos pulmões e plaquetas. O Tromboxano A2 (TXA2) é um potente vasoconstritor e agregador plaquetário, o que explica o seu potencial para a formação de trombos. À semelhança das prostaglandinas, o TXA2 tem uma meia-vida muito curta e é rapidamente convertido a Tromboxano B2 (TXB2), a sua forma inactiva. Existem outros tromboxanos derivados do TXA2, mas de menor relevância fisiológica.
+
+
+== Via da Lipo-oxigenase (LOX) ==
+A via da lipo-oxigenase (LOX) é a segunda via, que com a da COX, forma a cascata do ácido araquidónico. Os produtos desta segunda via são os ácidos monohidroperoxidoeicosateraenoicos (HPETEs), os ácidos  hidroxieicosatetraenoicos (HETEs) e os leucotrienos (LTs), que, à semelhança dos prostanóides, são mediadores lipícos. A principal acção estudada dos produtos desta via é a sua acção pró-inflamatória. Á semelhança do que ocorre na via da ciclo-oxigenase, além do ácido araquidónico, outros ácidos gordos poli-insaturados (DGLA e ECA) podem sofrer acção da LOX, mas crê-se que os eicosanóides sintetizados a partir destes têm uma acção menos potente.
+
+
+=== Formação dos HPETEs ===
+A segunda via da cascata do ácido araquidónico inicia-se com a oxidação do ácido araquidónico pela enzima lipo-oxigenase (LOX). A reacção consiste na adição de um grupo hidroperoxido à molécula de ácido araquidónico formando um ácido monohidroperoxidoeicosotetraenoico (HPETE). Existem 3 isoformas da lipo-oxigenase que actuam nas várias posições da cadeia do ácido araquidónico com ligações covalentes duplas: 5, 12 e 15; que se denominam respectivamente de 5-LOX, 12-LOX e 15-LOX. A padrão de expressão das isoformas depende do tipo de tecido em questão e das condições metabólicas a que esteja sujeito. Assim, o padrão de produção de HPETEs pode ser resumido da seguinte forma:
+
+5-HPETE: é o principal produto em basófilos, leucócitos polimorfonucleados, macrófagos, mastócitos e qualquer tecido envolvido numa resposta inflamatória;
+12-HPETE: é o principal produto em plaquetas, ilhéus pancreáticos, músculo liso vascular e células glomerulares;
+15-HPETE: é o principal produto em reticulócitos, eosinófilos, linfócitos T e epitélio respiratório.
+
+
+=== Formação dos Leucotrienos e HETEs ===
+Os HPETEs são percursores instáveis que rapidamente dão origem a novos compostos. A maioria dos HPETEs reduzem-se espontaneamente ou são reduzidos pela acção de uma peroxidase aos respectivos ácidos hidroxieicosatetraenoicos  ou HETEs (5-HETE, 12-HETE e 15-HETE). O principal papel dos HETEs identificado até à data é a regulação da resposta inflamatória: são quimiotáxicos, estimulam a adenil ciclase e medeiam a desgranulação dos leucócitos polimorfonucleados, por exemplo.Os leucotrienos são uma outra classe de eicosanóides derivados exclusivamente do 5-HPETE. À semelhança do que ocorre com a COX, a 5-LOX tem uma acção enzimática bivalente: além da componenete deoxigenase que permite a conversão de ácido araquidónico em 5-HPETE, possui actividade dehidrase que permite transformar este último em leucotrieno A4 (LTA4). Através da leucotrieno B4 sintetase, o LTA4 pode ser convertido a leucotrieno B4 (LTB4) ou, na presença de glutatião reduzido, a leucotrieno C4 (LTC4). Enzimas com acção de dipeptidase podem actuar sobre o LTC4, removendo glutamato e produzindo leucotrieno D4 (LTD4) e sobre este último, removendo glicina e produzindo leucotrieno E4 (LTE4).Os leucotrienos são em geral substâncias pró-inflamatórias. Estão associados à estimulação da acção dos leucócitos - complementando o papel dos HETEs -, à contracção do músculo liso - principalmente a nível brônquico e grastro-intestinal - e ao aumento da permeabilidade vascular - explicando o edema que acompanha uma resposta inflamatória. Desregulações das vias de acções dos leucotrienos têm sido associadas a patologias como a asma e alergia. Sabe-se também que a substância de reacção lenta da anafilaxis (SRS-A) libertada pelos mastócitos é na realidade uma amalgama de LTC4, LTD4 e LTE4.
+
+
+== Referências ==
+
+
+== Bibliografia ==
+BAYNES, John; DOMINICZAK, Marek. Medical Biochemistry. 2005, Elsevier Mosby, 2ª edição. ISBN 0723433410.
+BORON, Walter. Medical Physiology: A Cellular And Molecular Approaoch. 2003, Elsevier/Saunders. ISBN 1-4160-2328-3.
+DEVLIN, Thomas. Textbook of Biochemistry with clinical correlations. 2005, Wiley-Liss, 6ª edição. ISBN 13 978-0-471-67808-3

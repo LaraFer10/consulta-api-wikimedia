@@ -1,0 +1,29 @@
+RNAi (RNA interferente, ou RNA de interferência) é um mecanismo exercido por pequenas moléculas de RNA complementares a RNAs mensageiros, o qual inibe a expressão gênica na fase de tradução ou dificulta a transcrição de genes específicos. A ribointerferencia é um mecanismo de silenciamento pós-transcricional de genes específicos exercido por ribonucleoproteínas, que são proteínas associadas a pequenas moléculas de RNA que reconhecem RNA mensageiros complementares levando a degradação ou bloqueio do mesmo.
+
+
+== Função pós-transcricional ==
+O fenômeno de RNA interferente tem papel na regulação da expressão gênica a nível pós-transcricional em eucariotos mas também na defesa do património genético celular contra genes parasíticos – vírus e transposões. Dois tipos de pequenas moléculas de RNA podem estar envolvidas em mecanismos de RNA interferente, são elas: miRNA (microRNA) e  siRNA (do inglês, small interfering RNA). Esse processo de regulação é encontrado em grande parte dos organismos eucarióticos. Entre os organismos modelo, este fenomeno foi estudado no nematódeo Caenorhabditis elegans, em Drosophila, e em Arabidopsis.
+
+
+== miRNA e siRNA ==
+
+
+=== miRNA ===
+Os miRNAs são produtos da transcrição de genes presentes em muitos eucariotos, em geral indicados pelo símbolo mir. Esses transcrevem miRNAs precursores, com cerca de 22 nucleotídeos de comprimento, que possuem regiões internas autocomplementares capazes de se parear e formar estruturas do tipo hairpin ("grampo de cabelo"). Os miRNAs precursores passam pela atividade da enzima Drosha que reconhece a estrutura hairpin da molécula e a cliva, liberando a molécula para o citoplasma onde será clivada para formar miRNA.
+
+
+=== siRNA ===
+Os siRNAs são derivados de longas moléculas de RNA de fita dulpla de origem exógena (como aquelas provenientes de vírus). As fontes de RNA fita dupla na natureza geralmente são produto da polarização de RNA fita-simples a partir de RNA viral ou por elementos de transposição (transposons).
+
+
+== Mecanismo molecular de ação ==
+A molécula de RNA dupla fita presente no citoplasma, seja de origem exógena ou a partir de um transcrito de um gene mir, é incorporada no Complexo de Silenciamento Induzido por RNA ou RISC (sigla do inglês: RNA-induced silencing complex), pela TRBP (sigla do inglês: transactivating response RNA-binding protein) e a fita é então clivada pela ação da endonuclease Dicer. Após este processo, a fita mantida serve de guia para que o complexo RISC encontre fitas complementares de mRNA específicos, as quais serão alvo da ação de silenciamento gênico.
+Quando o pareamento entre a fita guia e o mRNA envolve diversas bases, gerando um pareamento efetivo, este mRNA será degradado pela ação catalítica de uma das subunidades de RISC: a enzima Argonauta. RNA associados ao RISC que resultam na clivagem do mRNA são identificados como sendo os siRNA. Quando o pareamento entre a fita guia e o mRNA alvo ocorre de maneira parcial, o RISC não promove a clivagem do mRNA, mas atua inibindo o processo de tradução deste. Este processo de pareamento imperfeito é mediado através de miRNAs. Nesta condição, o mRNA desestabilizado pode ser conduzido aos chamados corpos de processamento (corpos-P), estruturas citosólicas responsáveis pela degradação de mRNA.
+
+
+== Links externos ==
+Para visualizar e entender melhor o processo:
+Vídeo didático [1][2]
+
+
+== Referências ==

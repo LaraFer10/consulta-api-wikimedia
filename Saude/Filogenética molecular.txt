@@ -1,0 +1,31 @@
+A filogenética molecular ou filogenia molecular, é um ramo da filogenia que analisa as diferenças moleculares hereditárias, principalmente nas sequências de DNA, para obter informações sobre as relações evolutivas entre os organismos. O resultado duma análise de filogenia molecular expressa-se numa árvore filogenética. A filogenia molecular é um tópico da sistemática molecular, um termo de significado amplo que também inclui o uso de dados moleculares em taxonomia e biogeografia.
+
+
+== História da filogenética molecular ==
+
+As bases teóricas da sistemática molecular foram lançadas na década de 1960 através dos trabalhos de Emile Zuckerkandl, Emanuel Margoliash, Linus Pauling e Walter M. Fitch.Foram pioneiros na aplicações da sistemática molecular, Charles G. Sibley (aves), Herbert C. Dessauer (herpetologia) e Morris Goodman (primatas), seguidos por Allan C. Wilson, Robert K. Selander e John C. Avise (que estudou vários grupos). 
+O trabalho com recurso a electroforese de proteínas começou cerca de 1956. Apesar de os resultados não terem sido quantitativos e não mostraram melhorar as classificações morfológicas, providenciaram pistas de que as antigas e bem aceites classificações (como a das aves) necessitavam de revisões substanciais.
+No período de 1974-1986, a hibridação de DNA-DNA era a técnica dominante,
+
+
+== Leitura adicional ==
+Felsenstein, J. 2004. Inferring phylogenies. Sinauer Associates Incorporated. ISBN 0-87893-177-5.
+Hillis, D. M. & Moritz, C. 1996. Molecular systematics. 2nd ed. Sinauer Associates Incorporated. ISBN 0-87893-282-8.
+Page, R. D. M. & Holmes, E. C. 1998. Molecular evolution: a phylogenetic approach. Blackwell Science, Oxford. ISBN 0-86542-889-1.
+
+
+== Referências ==
+
+
+== Notas ==
+Este artigo foi inicialmente traduzido do artigo da Wikipédia em inglês, cujo título é «Molecular phylogenetics».
+
+
+== Ver também ==
+Evolução molecular
+Filogenética computacional
+PhyloCode
+
+
+== Ligações externas ==
+NCBI - Systematics and Molecular Phylogenetics

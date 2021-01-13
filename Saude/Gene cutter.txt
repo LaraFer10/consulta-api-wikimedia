@@ -1,0 +1,9 @@
+Em biogenética, Gene Cutter ou Gene Cutter BRCA1 é uma ferramenta de extração de alinhamento de sequências e proteínas de HIV-1, HIV-2, SIV,  semelhante ao sistema de CRISPR.
+
+
+== Aplicação ==
+Os cientistas usaram uma enzima que corta o DNA, chamada Cas9, para cortar o vírus, a fim de forçar o mecanismo de reparação da célula a soldar as pontas soltas do genoma de volta - resultando em uma célula livre de vírus.
+A ferramneta alinha as seqüências de nucleotídeos (se elas não estiverem alinhadas); grampeia codificando regiões a partir de um alinhamento de nucleotídeos; códon-alinha todas as regiões de codificação; e gera alinhamentos de nucleotídeo e proteínas das regiões de corte.  O processo poderia ser uma cura não só a SIDA, mas também para outras infecções latentes.
+
+
+== Referências ==

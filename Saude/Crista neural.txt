@@ -1,0 +1,57 @@
+Crista neural (NC) é uma população de células multipotentes descrita pela primeira vez por Wilhelm His em 1868. Essa contribui para a formação de ossos, cartilagem e tecido conectivo da face, neurônios e células da glia do sistema nervoso periférico, células de pigmentação da pele e, em algumas regiões do sistema cardio vascular, mesênquima e células de músculo liso e está presente apenas em embriões de vertebrados.Ela se origina da interação da placa neural com o tecido ectodérmico não neural durante a gastrulação . Durante a neurulação há o levantamento das pregas neurais e fechamento do tubo neural, nesse processo acontece a delaminação das células da crista neural, essas permanecem próximas a região dorsal do tubo neural.
+
+
+== Evolução ==
+As células da crista neural (NCC's) são uma sinapomorfia dos vertebrados e foram evolutivamente necessárias para a formação da cabeça dos vertebrados. Acredita-se que os precursores das NCC's na escala evolutiva podem ser observados em cefalocordados e tunicados através de homólogos não funcionais deste grupo celular. Nestes casos estão presentes muitos dos fatores gênicos que promovem as características das células da crista neural, porém devido a vias metabólicas  não integradas entre si, estes grupos celulares não possuem a mesma funcionalidade que as NCC's vistas em vertebrados.
+
+
+=== Formação da cabeça está ligado à existência da crista neural ===
+Através de experimentos funcionais, nos quais eram realizados explantes de crista neural de codorna em embriões de galinha, fora possível observar que muitas das estruturas que formam a cabeça são derivadas de células da crista neural, como parte do crânio e a mandíbula. Não somente as NCC's são capazes de formar diversas estruturas cefálicas , como estruturas cefálicas de provenientes de linhagens celulares diferentes dependem da sinalização proveniente das NCC's para sua correta formação. Um exemplo disso é que o desenvolvimento do cérebro  alterado caso seja retirada a crista neural cefálica. Estudos morfológicos apontam que esta interação da crista neural com o desenvolvimento do cérebro é mediada via FGF8.
+
+
+== Morfologia e expressão gênica de especificadores da crista neural ==
+
+Durante o processo de indução da crista neural, os padrões da sinalizações de BMP, WNT e FGF fazem com que sejam expressos diversos fatores de transcrição(tais como Pax3/7, Dlx5, Mxs1/2, Tfap2a) na região da borda da placa neural. Estes fatores de transcrição por sua vez ativam uma outra série de fatores de transcrição que irão especificar o destino das células da crista neural. Dentre estes fatores, os mais relevantes para a diferenciação das NCC's são os fatores de transcrição da famílias Snail, Fox e Sox.Para que a migração das células da crista neural ocorra da maneira correta é necessário que haja mudanças morfológicas nestes grupos celulares de forma a serem capazes de realizar a transição de epitélio para mesênquima (EMT). Dentre estas mudanças morfológicas estão a perda da adesão com células vizinhas, a capacidade de atravessar a lâmina basal e a expressão de certos fatores necessários para a migração eficiente tais como integrinas. A perda da adesão celular deve-se ocorre através da quebra das junções aderentes e das tight junctions. A migração correta deste grupo celular depende fortemente da expressão de Rho GTPases que regularão as vias migratórias das células.
+
+
+== Células da crista neural e o câncer ==
+Devido a ampla capacidade de migração das células da crista neural devido a certos fatores de transcrição, é de se esperar que a expressão errônea destes fatores em células não migratórias sejam capazes de interferir gravemente no indivíduo. No caso de tumores a expressão de fatores migratórios associados à migração da crista neural está associada à metástase desde tipo de tumor. É o caso do gene Slug, o qual é necessário para a perda da adesão celular da crista neural e portanto faz parte da modulação da transição epitelial para mesenquimal.  Quando observa-se que este mesmo gene está sendo expresso em células tumorais, a o grau de malignidade do tumor tende a ser maior, assim como este gene tem um papel crítico na patogênese de tumores mesequimais. Portanto o estudo deste grupo celular se mostra importante para a compreensão não somente do desenvolvimento embrionário, porém também para o entendimento da progressão de alguns tipos tumorais e a forma com a qual ocorre a sua metástase. 
+
+
+== Indução da crista neural ==
+A formação da crista neural é induzida pela interação de sinalizações vindas da placa neural e do tecido ectodérmico não neuronal. Essas sinalizações sozinhas não são capazes de induzir a formação da crista neural, isso acontece apenas quando essas acontecem todas juntas. Essas sinalizações levam há uma cascata de sinalização que como resultado mudam a expressão genica dessas células. Assim essas podem se diferenciar, delaminar, migrar e formar as estruturas derivadas da crista neural.
+
+
+=== Sinalização por Bmp ===
+A sinalização por Bmp ( bone morphogenetic proteins) ocorre devido a expressão diferenciada dessa proteína na placa neural e no tecido ectodérmico não neural gerando um gradiente de Bmp entre esses, ou seja, onde de forma a crista neural. Isso acontece pois o tecido ectodérmico não neural expressa Bmp e a placa neural não.
+
+
+=== Sinalização Wnt ===
+A sinalização Wnt esta associada a diferenciação e sobrevivência das células da crista neural, sem essa há má formação de estruturas derivadas da crista neural. Além disso, Wnt produzida dorsalmente pelo tubo neural esta envolvido com a expansão e migração das células da crista neural.
+
+
+=== Sinalização por Fgf ===
+Tem-se sugerido que o Fgf que faz a  sinalização da crista neural tem origem no mesoderma paraxial. A indução da crista neural é inibida quando é expresso um receptor de Fgf dominante negativo quando esses são combinados com o Fgf do mesoderma paraxial.
+
+
+== Tipos de crista neural ==
+As células da crista neural se diferenciam em diversas estruturas no embrião conforme sua localização no eixo antero-posterior do embrião. Elas podem ser divididas em quatro tipos: crista neural cranial, crista neural cardíaca, crista neural vagal e sacral e crista neural do tronco. A principal diferença entre as crista neural cranial e a truncal é que a crista cranial não apresenta a expressão de genes Hox enquanto na truncal o contrário ocorre. Esta característica é um dos fatores para as diferenças no processo de determinação e diferenciação deste tipo celular. Acredita-se que a ausência dos genes hox na crista neural cranial foi um dos fatores evolutivos para o surgimento das estruturas faciais nos vertebrados. 
+
+
+=== Crista neural cranial ===
+Essas células migram dorsolateralmente e formam o mesênquima craniofacial. Este por sua vez se diferencia em cartilagem, osso, neurônios craniais, glia e tecidos conecfivos da face. Essas células também entram na faringe e dão origem as células do timo, odontoblastos e ossos da orelha media e mandíbula.
+
+
+=== Crista neural cardíaca ===
+A crista neural cardíaca fica entre a crista neural cranial e a do tronco. As células dessa crista neural podem se desenvolver em melanócitos, neurônios, cartilagem e tecidos conectivos. Elas também produzem toda a parede tecidual musculoconectiva das grandes artérias e contribui para a formação do septo que separa a circulação pulmonar da aorta.
+
+
+=== Crista neural sacral e vagal ===
+As células dessa crista neural geram os gânglios parassimpáticos da barriga.
+
+
+=== Crista neural do tronco ===
+As células neurais do tronco podem tomar duas principais vias migratórias. A primeira é a transformação dessas células em melanócitos que migram dosolateralmente para a ectoderme e continuam até a linha mediana ventral da barriga. A segunda é a migração dessas células ventrolateralmente até a metade anterior de cada esclerótomo, essas células formam os gânglios da raiz dorsal que contem neurônios sensoriais. As células que continuam mais ventralmente formam  gânglios simpáticos, a medula adrenal e os agrupamentos de nervos que envolvem a aorta.
+
+
+== Referências ==

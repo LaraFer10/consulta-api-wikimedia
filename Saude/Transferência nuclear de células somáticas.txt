@@ -1,0 +1,28 @@
+Transferência nuclear de células somáticas (TNCS) é, nas áreas da genética e da biologia do desenvolvimento, uma técnica utilizada para a criação de clones por meio da introdução de um núcleo doador em um óvulo. Esse clones podem ser utilizados na pesquisa de células-tronco, na medicina regenerativa ou até mesmo com finalidades reprodutivas in vitro. A partir dos princípios da TNCS, foi desenvolvida a técnica de reprogramação celular. Diferentemente de outras técnicas de biologia celular relacionadas à alteração do estado de diferenciação de determinada linhagem, como a desdiferenciação celular e a transdiferenciação, a reprogramação só ocorre artificialmente.
+
+
+== Histórico ==
+A técnica foi primeiramente descrita na década de 1950 por Robert Briggs e Thomas King após experimentos com Rana pipiens, nos quais foram transplantados núcleos de células da blástula em células enucleadas. O resultado foi o desenvolvimento de embriões normais, o que despertou o interesse dos cientistas do período sobre quais seriam os mecanismos que causariam tal efeito. Um problema, no entanto, é que as células da blástula utilizadas para o transplante eram indiferenciadas e, com isso, tornavam-se necessários mais experimentos para comprovar que a reprogramação celular era, de fato, eficiente.
+Em 1962 foi publicado um trabalho de John Gurdon com estudos em Xenopus laevis que levou à resolução do caso. Foi realizado o transplante do núcleo de células epiteliais do trato gastrointestinal em células anucleadas e, como resultado, o desenvolvimento de embriões normais foi observado. Isso levou à comprovação experimental de que a reprogramação celular era viável e, além disso, de que núcleos de células diferenciadas retinham a totipotência, possibilitando a elucidação, mais tarde, de que os estados de diferenciação são determinados por alterações nos padrões de expressão gênica, não por mudanças na forma ou no tamanho dos cromossomos, como era sugerido na época.
+O impacto destes experimentos não foi tão grande no período de sua descoberta, considerando que o ocorrido poderia ser um fato isolado característico de anfíbios. No entanto, dele sucedeu a descoberta da viabilidade de clonagem em mamíferos após experimentos com ovelhas por Ian Wilmut, em 1997. Desses experimentos surgiu a ovelha Dolly.
+
+
+== Técnica ==
+O núcleo de uma célula somática é removido da célula doadora, e o restante da célula é descartado. Ao mesmo tempo, o núcleo do óvulo receptor também é removido. O núcleo da célula somática doadora é introduzido no óvulo e, então, o padrão de expressão do núcleo é reprogramado pela célula hospedeira. O óvulo sofre um estimulo elétrico e começa a se dividir. Depois de vários ciclos de divisão celular, estas células formam um blastocisto (um estágio inicial da embriogênese) e um embrião normal se desenvolverá.
+
+
+== Reprogramação celular ==
+A reprogramação celular é uma técnica atual quando comparada à transferência nuclear de células somáticas, considerando seu desenvolvimento em 2006. Shinya Yamanaka e seu grupo de pesquisa foram capazes de induzir fibroblastos a retornarem a seu estado de pluripotência, característico de determinadas células-tronco. Isso foi possível a partir da adição de quatro fatores de transcrição ao protocolo de cultura dos fibroblastos: Oct3/4, Sox2, c-Myc, e Klf4. Após esse processo, os fibroblastos foram reprogramados em células-tronco pluripotentes, mas, como não são caracteristicamente embrionárias, foram denominadas iPSCs, ou células-tronco pluripontentes induzidas. Desde então, foi descoberto que estes quatro fatores são suficientes para induzir a reprogramação, mas não são sempre necessários em conjunto; que podem ser aplicados para reprogramar diversos tipos de linhagens celulares além dos fibroblastos, como eritroblastos, a partir de determinadas alterações no protocolo basal; e que as células-tronco pluripotentes induzidas podem ser induzidas novamente à diferenciação, mas a linhagens tanto iguais às que a originaram quanto até mesmo a linhagens derivadas de folhetos embrionários diferentes, fato que expandiu sua aplicabilidade à área médica e terapêutica.
+
+
+== Ver também ==
+Clonagem
+Desdiferenciação
+Célula-tronco pluripotente induzida
+
+
+== Bibliografia ==
+Briggs, R. & King, T. J. Transplantation of living nuclei from blastula cells into enucleated frogs' eggs. Proc. Natl Acad. Sci. USA 38, 455–463 (1952)
+Gurdon, J. B. The developmental capacity of nuclei taken from intestinal epithelium cells of feeding tadpoles. J. Embryol. Exp. Morphol. 34, 93–112 (1962)
+Jopling, Chris. "Dedifferentiation, Transdifferentiation and Reprogramming: Three Routes to Regeneration." Nature Reviews Molecular Cell Biology 12.2 (2011): 79-89. Web. 24 Apr. 2017.
+Takahashi, Kazutoshi. "Induction of Pluripotent Stem Cells from Mouse Embryonic and Adult Fibroblast Cultures by Defined Factors." Cell 126.4 (2006): 663-76. Web. 24 Apr. 2017.

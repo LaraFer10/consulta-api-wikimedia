@@ -1,0 +1,38 @@
+A ocratoxina A (OTA) é uma micotoxina produzida por algumas espécies de fungos filamentosos pertencentes ao género Aspergillus e Penicillium e é, entre todas as ocratoxinas, a mais tóxica e a mais relevante. A sua importância deve-se às suas propriedades carcinogénicas, nefrotóxicas, teratogénicas, imunotóxicas e neurotóxicas. A ocratoxina A está associada à nefropatia em humanos e tem sido sugerida uma relação entre a exposição a esta toxina e a Nefropatia Endémica dos Balcãs, uma doença progressiva caracterizada por redução da função renal e frequentemente fatal.
+
+
+== Estrutura ==
+É constituída por uma dihidroisocumarina ligada pelo grupo 7-carboxilo a uma molécula de L-β-fenilalanina, através de uma ligação amida. O seu nome químico é (R)-N-((5-cloro-3,4-dihidro-8-hidroxi-3-metil-1-oxo-1H-2-benzopirano-7-il)carbonil)-L-fenilalanina.
+
+
+== Exposição humana ==
+Sendo os cereais a principal fonte de alimentação no mundo, não é de estranhar que estes sejam considerados a maior fonte de propagação de ocratoxina A. Estima-se que a contaminação dos cereais por uma ou mais micotoxinas se situe entre os 25 e 40%. Esta contaminação pode decorrer quer na plantação, quer durante o armazenamento.A principal via de exposição humana à ocratoxina A é a via directa, que ocorre através do consumo de alimentos contaminados como os cereais, mas também frutos secos, vinhos, café e outros. Por outro lado, pode também ocorrer por via indirecta, através do consumo de produtos animais contendo resíduos da micotoxina resultantes da sua alimentação com produtos contaminados. A transmissão pelo ar também pode ocorrer, embora muito raramente e em condições particulares.
+
+
+== Toxicocinética ==
+Existem poucos dados sobre a toxicocinética em seres humanos. Estudos em animais sugerem que o principal local de absorção da ocratoxina A é o duodeno e o jejuno. A absorção passiva é altamente favorecida pela alta afinidade de ligação às proteínas plasmáticas, sendo que 99% da ocratoxina A encontra-se ligada a proteínas séricas, principalmente à albumina. A OTA tem rápida absorção mas lenta eliminação. É excretada pelos túbulos renais recorrendo a proteínas orgânicas aniónicas, mas pode ser reabsorvida nos túbulos renais atrasando a sua eliminação e aumentando o risco de acumulação nos tecidos.A principal via metabólica da OTA é a hidrólise num composto não tóxico, OTα, formado pela quebra das ligações peptídicas, que ocorre principalmente a nível intestinal por acção enzimática da microflora local.
+
+
+== Manifestações de toxicidade ==
+A nefrotoxicidade é o efeito mais notório da OTA, manifesto em todos os mamíferos não ruminantes. Esta micotoxina está associada à nefropatia em humanos e tem sido sugerida uma relação entre a exposição a esta toxina e a Nefropatia Endémica dos Balcãs (BEN), uma doença progressiva caracterizada por redução da função renal e frequentemente fatal. A BEN manifesta-se como uma fibrose renal progressiva, não tratável e fatal, caracterizada por urémia, anemia, proteinúria, depósitos renais, redução do poder renal de concentração da urina, cefaleias, anorexia e fadiga. A presença da micotoxina é responsável por degeneração tubular, fibrose intersticial e pela diminuição da função renal, uma vez que afecta múltiplos sítios no nefrónio, sendo que uma exposição crónica induz danos dos túbulos proximais. Contudo, também é capaz de exercer outros efeitos nefastos, tais como hepatotóxicos, neurotóxicos, teratogénicos e imunotóxicos em diferentes espécies de animais.
+
+
+== Mecanismos de Toxicidade ==
+
+A semelhança estrutural com a fenilalanina (aminoácido) explica a sua acção na inibição da síntese proteica, possivelmente por inibição da elongação péptica e, consequentemente, prejudica indirectamente a actividade de diversas enzimas celulares. A inibição da enzima responsável pela formação do complexo fenilalanina-tRNA (fenilalanina-tRNA sintetase) provoca a interrupção da reacção de aminoacilação e, consequentemente, a síntese proteica cessa após a transcrição.Existem diversos estudos que sugerem o envolvimento de stress oxidativo na toxicidade da OTA. A OTA é responsável pela quelatação dos iões Fe3+ presentes no CP450, facilitando a sua redução na presença do sistema NADPH-citocromo P450 reductase. Desta forma, aumenta a produção de iões Fe2+ que, na presença de oxigénio, formam radicais livres. A produção de radicais de oxigénio está envolvida no dano de macromoléculas, incluindo peroxidação lipídica e lesão do DNA, a qual pode levar a posterior mutação e cancro.A OTA ainda tem sido associada a fenómenos de inibição da respiração mitocondrial, a alteração da homeostasia do cálcio e a formação de aductos de DNA.
+
+
+== Controle e Prevenção ==
+A ocratoxina A é estável e geralmente resistente ao calor e ao processamento, pelo que o controle de ocratoxina A baseia-se no controle do crescimento dos fungos produtores de toxinas. Algumas medidas específicas incluem a redução do teor de humidade do grão na pré-colheita e fases de colheita; manutenção das boas condições do solo e nutrição de plantas; prevenção de contaminações por fungos durante o plantio.Para os consumidores são aconselhados a seguir o conselho geral da dieta de uma alimentação saudável, consumindo uma grande variedade de cereais e ter uma dieta equilibrada e variada. Aconselha-se a procura de conhecimento das condições dos produtos alimentares antes da compra e não comprar ou consumir alimentos onde a presença de fungos seja visível.
+
+
+== Notas e referências ==
+
+
+== Ver também ==
+Micotoxina
+Ocratoxina
+
+
+== Ligações externas ==
+Informação mais detalhada sobre a Ocratoxina A

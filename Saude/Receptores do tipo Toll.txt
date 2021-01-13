@@ -1,0 +1,13 @@
+Os receptores do tipo Toll (TLR: toll-like receptors) são uma família de proteínas transmembrânicas de tipo I que formam uma parte do sistema imunológico inato. Nos vertebrados também possibilitam a adaptação do sistema imune. Descoberto inicialmente da mosca-da-fruta (Drosophila melanogaster), são os responsáveis do reconhecimento de várias vias de padrões de reconhecimento de patógenos (PAMPs pathogen-associated molecular patterns) expressados por um amplo espectro de agentes infecciosos. Monócitos, macrófagos e neutrófilos fagocitam patógenos microbianos e estimulam a resposta de citocinas dando como resultado o desenvolvimento da imunidade inata ou natural, a resposta inflamatória e medeiam a efetiva imunidade adaptativa. Sua função, em resumo, é o reconhecimento do patógeno e a estimulação da resposta imunológica contra agentes patológicos.
+Também tem sido encontrado em plantas, tendo uma origem evolutiva muito antiga; depois das defensinas, podem ser o componente do sistema imune mais antigo.
+Os distintos TLR exibem vários padrões de expressão. Muitos deles se crê que atuem como homodímeros, ainda que heterodímeros também existem. As proteínas TLR tem uma significativa homologia com o receptor IL-1 tipo I. Até hoje cerca de doze TLR foram sido encontrados em humanos e em camundongos. Estudos com vários TLRs demonstram que ativam a via de NF-kB, que regulam a expressão de citocinas, através de várias moléculas incluindo o MyD88, TIRAP/Mai e TRF. A ativação da via do NF-kB conduz a iniciação da resposta adaptativa imune pela produção de citocinas inflamatórias tais como a IL-1, IL-8, fator de necrose tumoral-alfa, IL-12, e a indução de moléculas de co-estimulação, tais como a CD80, CD86 e CD40.
+Diferentes antígenos são reconhecidos por diferentes TLRs:
+-TLR1: lipopeptídeos bacteriano
+-TLR2: peptídeoglicanos
+-TLR3: dsRNA (RNA dupla fita)
+-TLR4: lipopolissacarídeos; ácidos lipoteicóico
+-TLR5: flagelo bacteriano
+-TLR6: diacil-lipopeptídeos;  
+-TLR7: ssRNA (RNA simples fita, regiões ricas em uracila)
+-TLR8 ssRNA  (RNA simples fita, regiões ricas em guanina)
+-TLR9: CpG DNA

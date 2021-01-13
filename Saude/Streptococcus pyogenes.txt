@@ -1,0 +1,67 @@
+Streptococcus pyogenes é uma espécie de bactéria Gram-positiva com morfologia de coco, pertencente ao género Streptococcus, beta-hemolítico do grupo A de Lancefield. Ela causa uma variedade de doenças, desde uma faringite bacteriana comum até doenças mais graves como a escarlatina.
+
+
+== Biologia ==
+São cocos, com cerca de 0,5-1 micrómetros, que coram de roxo com a técnica Gram (positivos). Têm, portanto, paredes celulares grossas e uma membrana simples. Eles formam linhas ou pares em cultura, são anaeróbios facultativos e catalase-negativos. Em cultura de sangue, causam beta-hemólise.
+O S. pyogenes é imóvel e cresce otimamente a 37 °C. É inibido por altas concentrações de glicose.
+
+
+== Factores de virulência ==
+Cápsula, protege contra a fagocitose, pela presença do Ac. Hialurônico(também presente no tec. Conj. dos mamíferos, sendo antigenicamente indistinguível).
+Proteína M: são importantes na aderência da bactéria ao meio, inibem a fagocitose e degradam o factor C3b do sistema do complemento.
+Proteínas tipo M: ligam-se a alguns tipos de anticorpos impedindo-os de actuar.
+Estreptolisinas S e O destroem as membranas de eritrócitos e outras células, matando-as.
+Exotoxinas pirogénicas: são superantígenos e activam os linfócitos de forma não especifica, provocando uma resposta imunitária desapropriada, com febre, e até choque e insuficiência de órgãos.
+DNAses: destroem o DNA, um componente importante no pus, tornando-o mais líquido. Por esta razão o pus dos estreptococos costuma ser mais líquido, e o dos estafilococos, mais pastoso e granuloso.
+Proteína F: dá aderência ao meio, impedindo-a de ser arrastada facilmente.
+Hialuronidase: permitem degradar o meio extracelular, composto de ácido hialurónico e mais rápida invasão dos tecidos.
+Peptidase do C5a: destroem o componente do complemento C5a.
+Peptideoglicano: são tóxicos para as células.
+
+
+== Epidemiologia ==
+É frequente colonizarem assintomaticamente a laringe (fazem-no em 10-20% da população). Não infectam mais nenhum animal. Por vezes podem colonizar as tonsilas e soltar-se às vezes colónias de mau cheiro. A transmissão de pessoa a pessoa é por contacto directo ou via secreções (espirros, tosse).
+
+
+== Diagnóstico ==
+É com cultura de amostras retiradas do doente, e observação microscópica com técnica de Gram. A sorologia (análise de anticorpos) também é útil.
+Deve-se seguir a linha de raciocínio:
+Gram Positivo dispostos em cadeias ou pares esféricos ou ovóides;
+Catalase Negativo;
+Oxidase Negativo;
+Presença de Beta hemólise em cultura de ágar sangue;
+Por fim, antibiograma para identificação de sensibilidade a Bacitracina fechando o diagnóstico laboratorial.
+
+
+== Doenças causadas ==
+Faringite: A maioria dos casos é causada por vírus porém dos casos ocasionados por bactérias, 90% são devido às da espécie Streptococcus pyogenes. Após 2-4 dias de incubação, aparece subitamente febre, dores de garganta, mal-estar e dores de cabeça (cefaléia). É frequente a inflamação vermelha e edematosa da faringe ser visivel, observando através da boca.
+Escarlatina é uma complicação da faringite. Após 1-2 dias do aparecimento da faringite surgem eritemas (vermelhidão) no peito que se espalha mas não afecta a boca e as palmas das mãos. A língua é inicialmente amarela e depois vermelha-viva.
+Fasciite necrosante: mais conhecida coloquialmente como doença da "bactéria devoradora de carne" ("flesh eating bacteria"). Uma infecção profunda espalha-se a nível das fascias dos músculos esquelécticos. O tratamento não pode depender do antibiótico e é de emergência com cirurgia. A mortalidade ainda é de 50%.
+Celulite: infecção do tecido conjuntivo frouxo, profundamente ao tecido subcutâneo, com inflamação.
+Erisipelas: infecção da pele com bolhas, vermelhidão e calor (eritema).
+Impetigo ou pioderma: inflamação supurativa (com pus) com formação de pústulas, que se rompem deixando exposta a tela infradérmica e tornando a região suscetível a infecções secundárias.
+Síndrome de choque tóxico: devida à disseminação no sangue, com febre, mal-estar e outros sintomas inespecíficos seguidos de hipotensão, choque séptico e insuficiência de múltiplos órgãos. A taxa de mortalidade é alta (chegando a até 50%).Também causa Psoríase Gutata - um tipo raro de psoríase (2% dos casos).
+
+
+== Complicações de doença estreptocócica ==
+Febre reumática: é uma doença autoimune desencadeada em raros casos de infecção por S.pyogenes. Após resolução da doença infecciosa, há inflamação asséptica (sem micro-organismos) do coração (pancardite), articulações (artrite). Julga-se que a causa é a semelhança de alguns antígenos do S.pyogenes com moléculas presentes no coração e articulações. Após a resposta vigorosa contra a infecção pelo micro-organismo, o sistema imunitário ataca as próprias estruturas similares do individuo. Se forem usados antibióticos para resolver a situação inicial, não é necessária uma resposta imune tão vigorosa e o risco de a febre reumática surgir é quase nulo.
+Glomerulonefrite pós-estreptocócica: danos renais causados pelos complexos de antígenos do S.pyogenes com anticorpos. Há hipertensão arterial, hematúria (sangue na urina) e proteinúria (perda de proteínas do sangue na urina). Em adultos pode haver perda progressiva da função e insuficiência renal crônica, mas em crianças não é comum.
+
+
+== Tratamento ==
+São usadas penicilinas e derivados Beta lactâmicos.
+Resistente a Metoxazol.
+
+
+== Resistência a antimicrobianos ==
+A progressiva resistência a antimicrobianos é uma consequência da evolução via seleção natural. Recentemente foram descobertas cepas do Streptococcus pyogenes que são resistentes a macrolídeos. O mecanismo de resistência ainda não é muito bem esclarecido, embora suponha-se que possam ser causados pelos mecanismos clássicos de resistência: bombas de efluxo, mudanças estruturais nas Proteínas Ligadoras de Penicilina, alterações na permeabilidade da parede celular ou membrana.
+É importante que o uso de antimicrobianos seja feito dentro de uma terapêutica racional para evitar a proliferação de cepas resistentes aos medicamentos que os profissionais de saúde tem em mãos.
+
+
+== Notas e referências ==
+
+
+=== Notas ===
+
+
+=== Referências ===

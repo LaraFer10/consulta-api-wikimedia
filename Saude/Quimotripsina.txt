@@ -1,0 +1,10 @@
+A quimotripsina (MM = 25.191) é uma enzima digestiva, que cliva ligações peptíticas. É formada de 3 cadeias de polipeptídeos ligados entre si por ligações de dissulfeto. É uma protease que cliva ligações entre aminoácidos, desde que a extremidade C do peptídeo seja um aminoácido aromático, como o triptofano, a fenilalanina e a tirosina.
+Seu mecanismo de ação é a catálise ácido-base geral e covalente, onde ela forma um intermediário acil-enzima.
+
+
+== Sua síntese ==
+Seu precursor (zimogênio), o quimotripsinogênio, é sintetizado no pâncreas, e é uma enzima inativa. Quando sofre clivagem com a tripsina, ele é quebrado em duas partes, que ainda ficam ligados por uma ligação de dissulfeto. Quando o quimotripsinogênio quebrado perde dois peptídeos pequenos, numa etapa chamada de 'trans-proteólise, obtém-se a quimotripsina.
+
+
+== Sua ação catalítica ==
+Sua ação principal se deve a uma chamada tríade-catalítica. É uma rede de ligações de hidrogênio entre a Ser195, His57 e a Asp102. Quando um polipeptídeo se liga ao sítio ativo da quimiotripsina, ocorre uma alteração na conformação da tríade, que faz com que a ligação entre Asp102 e a His57 fique mais forte, permitindo que a His57 ganhe um pKa muito maior do que possuía antes da entrada do substrato (de ~7 a ~12). Isso permite a ela aumentar sua interação com o próton da Ser195, que faz com que o par de elétrons do oxigênio desta fique mais livre para atacar a carbonila do peptídeo. Este ataque move um par de elétrons da ligação C=O para o oxigênio, que fica estabilizado com ligações de hidrogênio de aminoácidos próximos (H da Ser195 e da Gly193). A próxima etapa é a eliminação do terminal amino da ligação peptídica, que rouba um H da His57, fazendo com que esta se afaste. A próxima etapa é a hidrólise da ligação entre Ser195 e a carboxila, favorecida pela reaproximação da His57: A carbonila ganha um grupo OH, e a His57 um H. Por fim, a ligação entre Ser195 e o carbono são clivadas, com a volta do par eletrônico do oxigênio da carbonila. Esta etapa libera o segundo resíduo, regenerando a enzima!

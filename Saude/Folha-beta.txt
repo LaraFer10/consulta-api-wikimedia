@@ -1,0 +1,16 @@
+Folha-beta é um padrão estrutural encontrado em várias proteínas, nas quais regiões vizinhas da cadeia polipeptídica associam-se por meio de ligações de hidrogênio resultando em uma estrutura achatada e rígida.
+A folha pregueada, ou configuração beta, é uma estrutura também mantida por pontes de hidrogênio entre as unidades peptídicas. Neste caso, entretanto, as ligações são estabelecidas entre cadeias polipeptídicas diferentes, distendidas e paralelas, ou entre segmentos distantes e distendidos de uma mesma cadeia. As pontes de hidrogênio são perpendiculares ao eixo das cadeias, e os grupos R dos aminoácidos projetam-se para cima e para baixo do plano da folha pregueada. Quando o número de cadeias associadas é grande, resulta uma estrutura flexível, mas não elástica.
+As estruturas em folha beta podem apresentar dois tipos de orientação: paralelas e anti-paralelas. 
+As folhas betas paralelas apresentam em sua estrutura cadeias polipeptídicas em sentidos iguais, ou seja, uma cadeia disposta no sentido C para N terminal estará interagindo através de ligações de hidrogênio com uma cadeia no mesmo sentido, C para N. Essas estruturas são menos estáveis em comparação com as folhas betas anti-paralelas. Isso ocorre devido a uma certa torção das ligações de hidrogênio que unem essas cadeias polipeptídicas.
+
+Já as folhas betas antiparalelas possuem cadeias polipeptídicas dispostas em orientações diferentes, ou seja, enquanto uma cadeia está no sentido C para N terminal, a cadeia complementar está no sentido N para C terminal. São estruturas mais estáveis e, portanto, ocorrem em maior frequência nas proteínas. Existem também folhas beta mistas (que possuem ambas orientações), porém são encontradas em baixa frequência.
+
+
+== Referências ==
+Anita Marzzoco, Bayardo Baptista Torres - Bioquímica Básica - Editora Guanabara
+VOET, Donald; VOET, Judith. Bioquímica. Porto Alegre: Artmed, 2013.
+
+
+== Ver também ==
+Barril beta
+Alfa-hélice

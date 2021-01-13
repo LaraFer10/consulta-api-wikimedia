@@ -1,0 +1,38 @@
+Ribonuclease P (EC 3.1.26.5, RNase P) é um tipo de ribonuclease que quebra o RNA. A RNase P é única em relação às outras RNases, pois é uma ribozima - um ácido ribonucleico que atua como catalisador da mesma maneira que uma enzima à base de proteína. Sua função é separar uma seqüência extra, ou precursora, de RNA nas moléculas de tRNA. Além disso, a RNase P é uma das duas ribozimas de rotatividade múltipla conhecidas na natureza (a outra é o ribossomo), cuja descoberta rendeu a Sidney Altman e Thomas Cech o Prêmio Nobel de Química em 1989: nos anos 70, Altman descobriu a existência de precursor O RNAt com sequências de flanqueamento e foi o primeiro a caracterizar a RNase P e sua atividade no processamento da sequência líder 5 'do RNAt precursor. Resultados recentes também revelam que a RNase P tem uma nova função. Foi demonstrado que a RNase P humana nuclear é necessária para a transcrição normal e eficiente de vários pequenos RNAs não codificantes, como os genes tRNA, 5S rRNA, SRP RNA e U6 snRNA, que são transcritos pela RNA polimerase III, uma das três principais polimerases de RNA nuclear em células humanas.
+
+
+== Em bactérias ==
+A RNase bacteriana P possui dois componentes: uma cadeia de RNA, chamada RNA M1, e uma cadeia de polipeptídeo, ou proteína, chamada proteína C5. In vivo, ambos os componentes são necessários para que a ribozima funcione adequadamente, mas in vitro, o RNA M1 pode atuar sozinho como um catalisador. O papel principal da proteína C5 é aumentar a afinidade de ligação ao substrato e a taxa catalítica da enzima M1 RNA, provavelmente aumentando a afinidade do íon metálico no local ativo. A estrutura cristalina de uma holoenzima bacteriana de RNase P com tRNA foi recentemente resolvida, mostrando como os grandes domínios helicoidais do ARN da RNase P, empilhados coaxialmente, se envolvem no reconhecimento seletivo da forma do alvo pré-tRNA. Essa estrutura cristalina confirma modelos anteriores de reconhecimento e catálise de substrato, identifica a localização do local ativo e mostra como o componente da proteína aumenta a funcionalidade da RNase P.
+
+
+=== RNase bacteriana P classe A e B ===
+A ribonuclease P (RNase P) é uma endoribonuclease onipresente, encontrada em arquéias, bactérias e eucariontes, além de cloroplastos e mitocôndrias. Sua atividade mais bem caracterizada é a geração de extremidades 5'maduras de tRNAs, clivando os elementos líderes 5'de tRNAs precursores. As RNase Ps celulares são ribonucleoproteínas (RNP). O RNA da RNase Ps bacteriana retém sua atividade catalítica na ausência da subunidade proteica, ou seja, é uma ribozima. Não foi demonstrado que o RNA isolado da RNase P eucariótica e archaeal retém sua função catalítica, mas ainda é essencial para a atividade catalítica da holoenzima. Embora as holoenzimas arcaicas e eucarióticas tenham um conteúdo proteico muito maior do que as eubacterianas, os núcleos de RNA das três linhagens são homólogos - hélices correspondentes a P1, P2, P3, P4 e P10 / 11 são comuns a toda RNase P celular RNAs. No entanto, há considerável variação de sequência, particularmente entre os RNAs eucarióticos.
+
+
+== Na archaea ==
+Na archaea, as ribonucleoproteínas da RNase P consistem em 4-5 subunidades proteicas associadas ao RNA. Como revelado por experimentos de reconstituição in vitro, essas subunidades de proteínas são dispensáveis individualmente para o processamento de tRNA que é essencialmente mediado pelo componente de RNA. As estruturas das subunidades proteicas da RNase P archaeal foram resolvidas por cristalografia de raios-X e RMN, revelando novos domínios proteicos e dobrando fundamental para a função.
+Usando genômica comparativa e métodos computacionais aprimorados, uma forma radicalmente minimizada do RNA da RNase P, apelidada de "Tipo T", foi encontrada em todos os genomas completos da família filogenética crenarchaeal Thermoproteaceae, incluindo espécies dos gêneros Pyrobaculum, Caldivirga e Vulcanisaeta. Todos mantêm um domínio catalítico convencional, mas não possuem um domínio de especificidade reconhecível. A atividade de processamento de 5 'tRNA do RNA sozinha foi confirmada experimentalmente. Os RNAs de Pyrobaculum e Caldivirga RNase P são a menor forma natural ainda descoberta que funciona como ribozimas de ação trans. A perda do domínio de especificidade nesses RNAs sugere uma potencial especificidade de substrato alterada.
+Recentemente, foi argumentado que o archaebacteriium Nanoarchaeum equitans não possui RNase P. Os estudos computacionais e experimentais falharam em encontrar evidências de sua existência. Nesse organismo, o promotor de tRNA está próximo ao gene de tRNA e acredita-se que a transcrição comece na primeira base do tRNA, removendo assim a necessidade de RNase P.
+
+
+== Em eucariotos ==
+Em eucariotos, como humanos e leveduras, a maioria das RNase P consiste em uma cadeia de RNA estruturalmente semelhante à encontrada em bactérias, além de nove a dez proteínas associadas (em oposição à única proteína bacteriana da RNase P, C5). Cinco dessas subunidades de proteínas exibem homologia com contrapartes archaeais. Essas subunidades proteicas da RNase P são compartilhadas com a RNase MRP, uma ribonucleoproteína catalítica envolvida no processamento de RNA ribossômico no nucléolo. Recentemente, a RNase P de eucariotos demonstrou ser uma ribozima. Consequentemente, as numerosas subunidades proteicas da RNase P eucária têm uma pequena contribuição para o processamento do RNAt per se, enquanto parecem ser essenciais para a função da RNase P e da RNase MRP em outros contextos biológicos, como a transcrição de genes e a célula. ciclo. Apesar das origens bacterianas das mitocôndrias e cloroplastos, os plastídeos de animais e plantas superiores não parecem conter uma RNase P. baseada em RNA. Foi demonstrado que a RNase P mitocondrial humana é uma proteína e não contém RNA. Também foi demonstrado que o cloroplasto de espinafre RNase P funciona sem uma subunidade de RNA.
+
+
+== Terapias usando RNase P ==
+A RNase P está agora sendo estudada como uma terapia potencial para doenças como o vírus herpes simplex, citomegalovírus, influenza e outras infecções respiratórias, HIV-1 e câncer causado pelo gene de fusão BCR-ABL. Sequências guia externas (EGSs) são formadas com complementaridade ao mRNA viral ou oncogênico e estruturas que imitam a alça T e a haste aceitadora do tRNA. Essas estruturas permitem que a RNase P reconheça o EGS e corte o mRNA alvo. As terapias com EGS demonstraram ser eficazes em cultura e em camundongos vivos.
+
+
+== Referências ==
+
+
+== Leitura adicional ==
+Palestra Nobel de Sidney Altman, Prêmio Nobel de Química 1989
+«Ribonuclease P: unity and diversity in a tRNA processing ribozyme». Annu Rev Biochem. 67. PMID 9759486. doi:10.1146/annurev.biochem.67.1.153 
+«The Ribonuclease P Database». Nucleic Acids Res. 27. PMC 148169. PMID 9847214. doi:10.1093/nar/27.1.314 
+
+
+== Ligações externas ==
+Banco de dados RNase P em ncsu.edu
+MeSH RNase+P
+EC 3.1.26.5

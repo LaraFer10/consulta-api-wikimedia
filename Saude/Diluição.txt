@@ -1,0 +1,34 @@
+Diluição é o ato físico-químico de tornar uma  solução menos concentrada em partículas de soluto através do aumento do solvente (número de vezes que a concentração da solução vai diminuir).
+O fator de diluição corresponde à relação entre o volume da solução, depois de diluída, e o volume da solução, antes de ser diluída.
+Para calcular os valores de uma diluição podemos usar a fórmula das VACA's em seguinte:
+VACA = VBCB 
+onde: CA= concentração da solução antes de ser diluída (por exemplo, da solução de estoque); CB = concentração da solução depois de ser diluída;VA = volume da solução antes de ser diluída;
+VB = volume da solução depois de ser diluída.
+O fator de diluição também pode ser calculado utilizando a seguinte fórmula:
+A=b/c
+onde "A" é o fator de diluição;
+"b"= volume do solvente
+"c"= volume do solvente mais o soluto (que não precisa ser, obrigatoriamente, sólido)
+.
+
+
+== Engenharia sanitária ==
+Na natureza a diluição é um fenômeno ambiental muito importante pois permite o lançamento adequado de poluentes gasosos ou líquidos, conduzidos através de chaminés ou de emissários, diminuindo o impacto da carga poluidora inicial. Estes tipos de lançamentos estão previstos, respectivamente, no Protocolo de Quioto e no Protocolo de Annapolis. Estes cálculos de diluição são efetuados na engenharia sanitária utilizando-se modelos matemáticos ou modelos físicos.
+
+
+== Ver também ==
+Concentração
+Emissário submarino
+Modelos físicos
+Engenharia Hidráulica
+
+
+== Bibliografia ==
+Rios, Jorge L. Paes - "Estudo de um Lançamento Subfluvial. Metodologia de Projeto e Aspectos Construtivos do Emissário de Manaus" - Congresso Interamericano de AIDIS - Panamá, 1982.
+Azevedo Netto et al. - Manual de Hidráulica - Editora Blucher - São Paulo, 2001.
+Gonçalves, Fernando B. e Souza, Amarílio P. -  Disposição Oceânica de Esgotos - ABES - Rio de Janeiro, 1997.
+
+
+== Ligações externas ==
+- Associação Brasileira de Engenharia Sanitária e Ambiental
+- Universidade da Água

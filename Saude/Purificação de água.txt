@@ -1,0 +1,57 @@
+A purificação da água ou potabilização é um processo que consiste no tratamento da água, a fim de remover os contaminantes que eventualmente contenha, tornando-a potável, isto é, própria para o consumo humano. Dependendo de sua fonte, uma grande variedade de técnicas poderá ser empregada para esse fim.
+Um dos nomes dados às unidades onde é feita a purificação de água é estação de tratamento de águas, um nome que também é aplicado às unidades de tratamento de água residuais.
+
+
+== Fontes da água potável ==
+A água para consumo público ou privado pode ser obtida de diversas fontes:
+
+Água subterrânea profunda: aquela que emerge de alguns poços localizados profundamente no subsolo. Esta terá sido filtrada naturalmente pelas camadas de solo e de rochas, sendo normalmente rica em carbonatos e em cálcio, magnésio, cloretos, além de pequenas quantidades de ferro ou de manganês, o que torna esta água especialmente agradável para beber e cozinhar. Se as dosagens dos elementos químicos forem excessivas para o consumo humano, elas podem requerer algum tipo de tratamento especial.
+Água de lagos e reservatórios elevados: localizados na superfície terrestre, em áreas elevadas, onde são restritas as possibilidades de contaminação, se forem devidamente protegidas.
+Águas de rios, canais e reservatórios de planície: na superfície terrestre, em áreas mais baixas, onde são maiores as possibilidades de poluição ou de contaminação. Nesses casos, o tratamento numa Estação de Tratamento de Água pode ficar mais complexo e caro.A água percorre as seguintes etapas, para chegar às casas: 
+
+captação (coleta)
+adução (transporte)
+tratamento
+armazenamento
+distribuiçãoO tratamento da água deve ser iniciado desde as nascentes, até as barragens, através da proteção aos mananciais, cuja poluição por detritos, impurezas, dejetos domésticos, agrícolas e industriais (ver: bacias hidrográficas), deve ser controlada o melhor possível, através de análises de rotina. O alerta é dado quando atingido um número superior a 1000 micro-organismos/centímetro cúbico. Nesse caso, a água deve ser desinfectada com um algicida, tipo sulfato de cobre ou hipoclorito de sódio, assim que chega à estação de tratamento.
+
+
+== Métodos de tratamento da água ==
+Métodos tradicionais:
+Separação/Filtração: embora não sejam suficientes para purificar completamente a água, é uma etapa preliminar necessária.
+Filtros de areia rápidos: o uso de filtros de areia de acção rápida, é o tipo mais comum de tratamento físico da água, para os casos de água de elevada turvação. Em casos em que o gosto e o odor possam vir a constituir um problema, o filtro de areia pode incluir uma camada adicional de carvão activado. Recorde-se que os filtros de areia ficam obstruídos após um período de uso e devem ser lavados.
+Desinfecção: a maior parte da desinfecção de águas no mundo é feita com gás cloro. Porém, outros processos tais como hipoclorito de sódio, dióxido de cloro, ozônio ou luz ultravioleta, também são utilizados em menor escala, dada a complexidade, alto custo e eficácia aquém das necessidades sanitárias do mundo atual. Antes de ser bombeada para os tanques de armazenamento e para o sistema de distribuição aos consumidores, equipamentos de cloração garantem a manutenção de uma quantidade de cloro residual, que continua exercendo a sua função de desinfectante até o destino final. A cloração de águas para consumo humano é considerada um dos maiores avanços da ciência nos últimos dois séculos, podendo ser comparada com a descoberta da penicilina ou mesmo a invenção do avião.
+Coagulação ou floculação: neste processo, as partículas sólidas se aglomeram em flocos para que sejam removidas mais facilmente. Este processo consiste na formação e precipitação de hidróxido de alumínio (AI(OH)3) que é insolúvel em água e "carrega" as impurezas para o fundo do tanque.
+Ozonização: Geralmente realizada após o Sistema de Zona de Raízes (SZR), a técnica consiste em expor a água ao ozônio durante uma certa quantidade de tempo, e isso pode contrbuir com a mineralização, desintoxicação, desinfecção, e principalmente com a redução da cor e turbidez da água. Primeiramente, o pH da água tem que ser elevado pela adição ou de uma base diretamente, ou de um sal básico conhecido como barrilha (carbonato de sódio):
+
+Base: NaOH(s) → Na+(aq) + OH-(aq)+ (5) = 78(N3)
+Sal básico: Na2CO3(s) → 2 Na+(aq) + (CO3)2-(aq)= 32+(Ho6)
+CO32-(aq) + H2O(l) → HCO3-(aq) + OH-(aq)= 67+CB8
+Após o ajuste do pH, adiciona-se o sulfato de alumínio, policloreto de alumínio (PAC) ou ainda sais de ferro III. No caso de ser adicionado o sulfato de alumínio, notamos que este irá se dissolver na água e depois precipitar na forma de hidróxido de alumínio.
+
+Dissolução:  Al2(SO4)3(s)  → 2 Al3+(aq) + 2 (SO4)3-(aq)
+Precipitação:   Al3+(aq) + 3 OH-(aq) → Al(OH)3(s)Os flocos formados vão sedimentando no fundo do tanque, "limpando" a água.
+Também é comum a adição de polieletrólitos (iônicos ou não iônicos) após a etapa de floculação por sulfato de alumínio, pois, a partir desta adição, os flocos se tornam ainda mais densos, facilitando a posterior decantação, e com isso aumentando a eficiência da retirada de partículas da água. A adição de polieletrólitos é notadamente importante em águas provenientes de mananciais pouco protegidos, que, por esta características, podem possuir muita matéria em suspensão, o que resulta em pouca eficiência de remoção quando utilizado apenas o sulfato de alumínio.
+
+
+== Outras técnicas de purificação da água ==
+Outros métodos para purificar a água, especialmente para fontes locais, são a destilação e a osmose, embora envolvam custos elevados e manutenção complexa.
+Para o uso doméstico, utilizam-se, desde a Antiguidade:
+
+Fervura: a água é aquecida até ao ponto de ebulição, mantendo-se a fervura por, pelo menos, cinco minutos, tempo suficiente para inactivar ou matar a maior parte dos micro-organismos que, nela, possam existir. Este tipo de tratamento não elimina o vírus da hepatite A, que só é destruído a mais de 120 graus Celsius.
+Filtração por carbono': utilizando-se carvão de lenha, um tipo de carbono com uma extensa área, que absorve diversos compostos, inclusive alguns tóxicos. Filtros domésticos podem, ainda, conter sais de prata.
+Destilação: o processo de destilação envolve ferver a água transformando-a em vapor. O vapor de água é conduzido a uma superfície de refrigeração onde retorna ao estado líquido em outro recipiente. Uma vez que as impurezas (solutos) não são vaporizados, permanecem no primeiro recipiente. Observe-se que mesmo a destilação não purifica completamente a água, embora a torne 99,9% pura.
+
+
+== Ver também ==
+
+Água potável
+Desinfecção solar da água
+Esgoto
+Engenharia sanitária
+Engenharia do ambiente
+Engenharia hidráulica
+Modelos físicos
+
+
+== Referências ==

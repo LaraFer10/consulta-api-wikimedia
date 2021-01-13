@@ -1,0 +1,24 @@
+Arrestina beta 1, também conhecida como ARRB1, é uma proteína que é codificada, em humanos, pelo gene ARRB1.
+
+
+== Função ==
+Os membros da família protepica das arrestinas/beta-arrestinas participam do processo de dessensibilização dos  receptores acoplados à proteína-G causando a redução específica da resposta celular a estímulos como hormônios, neurotransmissores ou sinais sensoriais. A arrestina beta 1 é uma proteína citosólica e age como um cofator na dessensibilização de receptores beta-adrenérgicos mediada pela  kinase do receptor beta adrenérgico (BARK). Além do sistema nervoso central, ela é expressa em níveis altos nos leucócitos sanguíneos periféricos, levando à hipótese de que o sistema BARK/beta-arrestina possui um papel de destaque na regualação mediada por receptor das funções imunes. Transcritos diferentes gerados por splicing alternativo codificando diferentes isoformas da arrestina beta 1 já foram descritos, mas suas funções continuam elusivas.
+
+
+== Interações ==
+A arrestina beta 1 interage com:
+
+Arf6,
+PTHLH,
+DVL2
+Mdm2,
+OPRD1,
+PSCD2, e
+RALGDS.
+
+
+== Referências ==
+
+
+== Leitura adicional ==
+PMID 25043026 (PubMed)

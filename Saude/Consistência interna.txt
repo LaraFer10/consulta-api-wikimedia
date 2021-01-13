@@ -1,0 +1,12 @@
+Em estatística e pesquisa, a consistência interna é uma forma de medida baseada na correlação entre diferentes itens no mesmo teste (ou entre as mesmas subescalas em um teste mais longo). Ela mede se os diversos itens que se propõe a medir o mesmo construto geral produzem resultados semelhantes. Por exemplo, se um respondente expressa concordar com as afirmações "Eu gosto de andar de bicicleta" e "Eu gostava de andar de bicicleta", e discorda da afirmação "Eu detesto bicicletas", isso indica boa consistência do teste.
+A consistência interna é geralmente medida através do Alfa de Cronbach, calculado ao se parear correlações entre os itens. A consistência interna varia entre zero e um. Geralmente é aceito que um α de 0.6 a 0.7 indica fiabilidade aceitável e acima de 0.8 indica boa fiabilidade. Alta fiabilidade (maior ou igual a 0.95) geralmente não é desejada, já que indica que os itens podem ser redundantes. Ao se desenhar um instrumento fiável, o objetivo é que resultados em itens semelhantes sejam relacionados (consistência interna), e que cada um contribua com informação inédita.
+
+
+== Veja também ==
+Alfa de Cronbach
+Consistência
+Fiabilidade (estatística)
+
+
+== Ligações externas ==
+http://www.wilderdom.com/personality/L3-2EssentialsGoodPsychologicalTest.html

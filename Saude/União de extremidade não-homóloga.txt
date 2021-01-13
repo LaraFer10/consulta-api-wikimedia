@@ -1,0 +1,4 @@
+Em Biologia Molecular, união de extremidade não-homóloga ou NHEJ (do inglês "Non-homologous end joining") é o principal mecanismo de reparação de quebras duplas, que ocorre comumente em mamíferos.  Neste mecanismo, as extremidades de uma molécula de DNA, apesar de terem perdido alguns nucleotídeos por degradação espontânea, são justapostas para recombinar. O mesmo complexo enzimático realiza o processo de ligação entre as duas extremidades. Desta forma, a seqüência original de DNA acaba sendo alterada e frequentemente este processo resulta em integração ilegítima de sequências introduzidas, portanto, constitui um risco de alterações genômicas imprevisíveis. NHEJ é referida como "não homóloga" porque as extremidades de quebra são ligadas diretamente sem a necessidade de um modelo homólogo, em contraste com o reparo dirigido por homologia, que requer uma sequência homóloga para guiar a reparação.
+
+
+== Referências ==

@@ -1,0 +1,76 @@
+O Projeto Genoma Humano (AO 1945: Projecto Genoma Humano) (PGH) consistiu num esforço internacional para o mapeamento do genoma humano e a identificação de todos os nucleotídeos que o compõem. Após iniciativa dos Institutos Nacionais da Saúde estadunidenses (NIH), centenas de laboratórios de todo o mundo se uniram à tarefa de sequenciar, um a um, os genes que codificam as proteínas do corpo humano e também aquelas sequências de DNA que não são genes. Laboratórios de países em desenvolvimento também participaram do empreendimento com o objetivo de formar mão-de-obra qualificada em genómica.
+O PGH foi criado com o objetivo de mapear o genoma humano, ou seja, sequenciar e determinar a sequência de bases nitrogenadas e de nucleotídeos em relação ao DNA da espécie humana como um tudo, desde os genes até o DNA lixo (não codificante). 
+
+
+== História ==
+O projeto foi fundado em 1990 e James D. Watson, na época chefe dos Institutos Nacionais de Saúde dos Estados Unidos, assumiu inicialmente a direção do projeto.
+Em 1990, o PGH tinha o envolvimento de mais de 5000 cientistas, de 250 diferentes laboratórios, que contavam com um orçamento, segundo diferentes fontes, que variou de US$ 3 bilhões a US$ 53 bilhões. O PGH contou com um financiamento de 3 milhões de dólares do Departamento de Energia dos Estados Unidos e do NIH estadunidense.
+O Projeto contou com o envolvimento de diversos laboratórios e centros de pesquisa ao redor do mundo, criando dessa forma o Consórcio Internacional de Sequenciamento do Genoma Humano. Este consórcio publicou um esboço inicial na revista científica Nature em fevereiro de 2001 com cobertura de cerca de 90 por cento do genoma.No dia 10 de julho de 1999 foi anunciado o primeiro rascunho do genoma humano. Como a precisão do resultado precisava ser máxima, muita análise e revisão foram feitas de modo que cada base no genoma fosse sequenciada num total de 10 a 12 vezes.
+Em 14 de abril de 2003, um comunicado de imprensa conjunto anunciou que o projeto foi concluído com sucesso, com a sequenciação (no Brasil, sequenciamento) de 99% do genoma humano com uma precisão de 99,99%.
+
+
+== Integrantes ==
+O PGH foi um consórcio internacional. Basicamente, 18 países iniciaram programas de pesquisas sobre o genoma humano. Os maiores programas desenvolvem-se na Alemanha, Austrália, Brasil, Canadá, República Popular da China, Coreia do Sul, Dinamarca, Estados Unidos, França, Israel, Itália, Japão, México, Países Baixos, Reino Unido, Rússia e Suécia.Alguns países em desenvolvimento, não incluídos na relação acima, participam através de estudos de técnicas de biologia molecular de aplicação à pesquisa genética e estudos de organismos que têm interesse particular para suas regiões geográficas.
+Informações sobre estes países e suas pesquisas de contribuição para o PGH podem ser obtidas através da "Human Genome Organization" (HUGO), que conta com cerca de 1000 membros de 50 países, para ajudar a coordenar a colaboração internacional ao projeto.
+
+
+== Objetivos ==
+Identificação de genes para doenças, para assim promover diagnósticos e tratamentos precoces. Assim, mediante o método da terapia gênica, por exemplo, cresce o potencial para o tratamento, e até mesmo para a cura, de determinadas doenças genéticas ou adquiridas como câncer, por meio do uso de genes normais para suplementar ou substituir os genes defeituosos.Identificação de genes para propensão a doenças, para descobrir os genes que aumentam o risco de alguém ter determinada doença. Um exemplo pertinente é a doença degenerativa esclerose lateral amiotrófica, que o físico Stephen Hawking possuía, na qual determinados genes, combinados com fatores ambientais levaram a doença a aparecer. Dessa forma, com o conhecimento dos genes e os distúrbios que eles propiciam, é possível evitar seu desenvolvimento.  
+
+
+== Diferentes abordagens: setor público e setor privado ==
+Em 1998, liderada pelo cientista Craig Venter, a Celera Genomics entra na corrida pelo genoma, prometendo sequenciar o genoma humano em menos tempo com um financiamento de apenas dois bilhões de dólares, um valor relativamente menor do que o proposto inicialmente pelo Projeto Genoma. O propósito da participação da empresa era fornecer o código decifrado por um determinado preço àqueles associados ao grupo, além de buscar a patente dos genes envolvidos nos principais distúrbios e doenças humanas. 
+Logo na primeira etapa, as duas frentes divergiram em suas escolhas, o consórcio escolheu repartir o DNA, aplicar o método Sanger, e cada pedaço foi sequenciado letra por letra, minimizando o risco de montagens erradas. A empresa Celera pulou a parte de mapeamento e o DNA foi cortado mais rapidamente e mais imprudentemente. O genoma foi cortado rapidamente e colado. Depois, os pedaços passaram pelo método Sanger.   O PGH, conduzido pelos órgãos do governo obteve dados de alta qualidade e precisão - inclusive para as porções do DNA que não contêm gene. Por esse setor foi usada a tecnologia de Whole Genome Sequencing.
+A iniciativa privada, formada pela empresa Celera Genomics e liderada por Craig Venter, juntou-se ao projeto em vista do potencial de lucro que as pesquisas poderiam trazer, especialmente para as indústrias farmacêuticas. A rapidez na obtenção de resultados, que podem ser transformados em patentes, tornou-se crucial para elas. Então optaram por um método mais objetivo: sequenciamento por Shotgun (whole genome “shotgun” sequencing), é uma abordagem mais rápida, evidentemente, embora menos precisa, já que pularam a parte de mapeamento do DNA.
+Em 2001 o consórcio internacional de de cientistas e a empresa Celera conseguiram juntos cerca de 90% do genoma humano, e a “corrida” genética terminou em empate, mas com a diferença que o consórcio entre os cientistas publicou online e de graça todo o trabalho feito, observando que o que foi feito em anos e com muito dinheiro, hoje é feito em muito menos tempo e com muito menos dinheiro. 
+No dia 4 de Setembro de 2003, o grupo de pesquisa do Instituto J. Craig Venter publicou a sequência completa do genoma do próprio pesquisador Craig Venter. A grande revolução nesse novo trabalho é a de que o genoma avaliado corresponde ao genoma diplóide, contendo a informação de cada par de cromossomo herdado de nossos pais, ao contrário da sequência determinada pelo Projeto Genoma que corresponde ao genoma haplóide. Como resultado, descobriu-se que a semelhança das sequências genéticas entre dois indivíduos é de 99,5% e não de 99,9% como se imaginava ao fim do Projeto Genoma Humano.
+O projeto genoma humano é muito importante para a saúde humana, pois, é a revolução da comunidade científica.
+
+
+== Como é feito o sequenciamento ==
+Um dos métodos mais comuns, de forma resumida e simplificada, é a quebra da cadeia de DNA em pedaços menores, sendo cada pedaço sequenciado individualmente, bem como multiplicado, com o uso de enzimas, em diversas cópias iguais de pedaços de genomas, com todas as mesmas sequências de bases nitrogenadas. Então, outra enzima é usada para identificar cada base nitrogenada e, assim, com o uso de máquinas é possível ler as sequências de DNA, sendo elas coladas por meio de programas de computador. 
+
+
+== Debate ético ==
+Um aspecto particular do PGH estadunidense é que ele procurou abordar também os aspectos éticos, legais e sociais envolvidos.
+Os responsáveis pelo projecto acreditavam que a descoberta da posição de cada gene, além de sua composição, seria valiosa para diagnóstico e a cura de muitas doenças, como cancro, obesidade, diabetes , doenças auto-imunes e hipertensão. Os críticos do projeto, no entanto, alertavam para o perigo do uso indevido das informações genéticas. Candidatos a emprego, por exemplo, poderiam ser recusados com base em testes capazes de revelar predisposição genética para certas doenças, como o alcoolismo.
+A empresa Celera fez o pedido da patente dos 6500 genes que mapeou. Esse pedido de patente gerou problemas de ordem ética, pois isso poderia inviabilizar a produção de medicamentos baseados nesse conhecimento, levando ao presidente dos Estados Unidos Bill Clinton declarar que o genoma humano não poderia ser patenteado.
+
+
+== Possíveis riscos existentes ==
+A discriminação genética é uma questão relevante no fornecimento de dados sobre o genoma humano, já que com tais informações as atitudes discriminatórias poderiam ir além do fenótipo do indivíduo, ferindo os direitos fundamentais do ser humano. Um exemplo muito utilizado para simplificar essa ideia é a que os planos privados de saúde poderiam utilizar dessas informações, caso não sejam protegidas devidamente, para visualizar as propensões que uma pessoa tem a doenças, negando sua participação no plano de saúde.   A eugenia, que é a eliminação de defeitos genéticos em uma população, poderia aumentar, sendo ela conhecida desde os tempos de Esparta, onde os bebês defeituosos eram jogados em um precipício, como também na Alemanha de Hitler, onde houve o extermínio nazista. 
+
+
+== Resultados ==
+
+
+=== Resultados imediatos ===
+Foram sequenciados todos os genes, em torno de 25.000 e constituindo pouco mais de 20% do material genético total humano. Por limitações tecnológicas, cerca de 1% do genoma não pode ser sequenciado por possuir muitas repetições de bases nitrogenadas (centrómeros e telómeros dos cromossomas, p. ex.). Também é importante ressaltar que a maior parte do genoma humano parece não ser codificante e existe provavelmente por razões estruturais e regulatórias.
+
+
+=== Resultados gerais ===
+Apesar dessas lacunas, a conclusão do genoma já está facilitando o desenvolvimento de fármacos muito mais potentes, a compreensão de diversas doenças genéticas humanas e facilitando a realização de novos projetos genoma.
+O PGH já completou a descoberta de mais de 1800 genes de doença, assim como facilita a identificação de outros genes associados a doenças. Além disso, pelo menos 350 produtos biotecnológicos resultantes dos conhecimentos gerados pelo PGH estariam passando por ensaios clínicos. As ferramentas desenvolvidas no PGH continuam servindo para caracterizar genomas de outros organismos importantes.
+
+
+== Conclusão ==
+O Projeto Genoma Humano foi concluído em 2013 e até hoje tem alguns resultados. Foram encontrados cerca de 25 mil genes, mas não se conhece profundamente nem a maioria deles. O PGH foi concluído, mas iniciou-se uma nova fase, o Projeto Proteoma, para a descoberta do conjunto de proteínas, objetivando identificar a função de cada gene, ou seja, a proteína codificada de cada gene. Ademais, também existe o Projeto Metaboloma, que visa identificar o papel metabólico das proteínas, as vias metabólicas que elas possuem. 
+
+
+== Ver também ==
+Histórico do estudo do DNA
+Projeto genoma
+
+
+== Bibliografia ==
+Goldim, JR & Matte, U. Projeto genoma humano [4]. Acessado em 7 de maio de 2019.
+Oliveira, F. Engenharia genética, o sétimo dia da criação. Editora Moderna, 1998, p. 56.
+
+
+== Referências ==
+
+
+== Ligações externas ==
+«Instituto Nacional de Pesquisa do Genoma Humano (NIH-EUA)» (em inglês) 
+«Zago, MA. Genoma humano e a era pós-genômica no Brasil.» 
+«Zats, M. As surpresas depois do projeto genoma humano. Veja.com.»

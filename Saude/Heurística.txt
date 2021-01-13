@@ -1,0 +1,64 @@
+Heurísticas são processos cognitivos empregados em decisões não racionais, sendo definidas como estratégias que ignoram parte da informação com o objetivo de tornar a escolha mais fácil e rápida. Heurísticas rápidas e frugais (fast and frugal heuristics) correspondem a um conjunto de heurísticas propostas por Gigerenzer e que empregam tempo, conhecimento e computação mínimos para fazer escolhas adaptativas em ambientes reais.Existem três passos cognitivos fundamentais na selecção de uma heurística:
+
+Procura – As decisões são tomadas entre alternativas e por esse motivo há uma necessidade de procura activa;
+Parar de procurar – A procura por alternativas tem que terminar devido as capacidades limitantes da mente humana;
+Decisão – Assim que as alternativas estiverem encontradas e a procura for cessada, um conjunto final de heurísticas são chamadas para que a decisão possa ser tomada.  
+
+
+== Etimologia ==
+Heurística provém do grego antigo εὑρίσκω, transl. heurísko, 'eu encontro', 'eu 'acho' (de εὑρίσκειν, transl. heurískein: 'encontrar', 'descobrir', 'inventar', 'obter'). Tem a mesma origem da exclamação heureca (em grego antigo, εὕρηκα, transl. hēúrēka: achei!'), atribuída ao matemático grego Arquimedes (287–212 a.C.).
+
+
+=== Uso gramatical ===
+A palavra heurística aparece em mais de uma categoria gramatical:
+
+como substantivo, identifica a arte ou a ciência do descobrimento.
+quando aparece como adjetivo, refere-se a coisas mais concretas, como estratégias heurísticas, regras heurísticas ou silogismos e conclusões heurísticas.
+
+
+== Aplicabilidade ==
+A capacidade heurística é uma característica humana que, do lado positivo, pode ser descrita como a arte de descobrir e inventar ou resolver problemas mediante a experiência (própria ou observada), somada à criatividade e ao pensamento lateral ou pensamento divergente. Como descrito acima, seja de forma deliberada ou não, heurísticas são procedimentos utilizados quando um problema a ser encarado é por demais complexo ou traz informações incompletas.
+Por ser inconsciente, é praticada sem que muitas vezes os indivíduos se deem conta do processo. No geral, pode ser considerada como um atalho aos processos mentais, sendo assim uma medida que preserva e conserva energia e os recursos mentais. A heurística pode funcionar efetivamente na maioria das circunstâncias em que é aplicada conscientemente.Do lado negativo, é um processo geralmente aplicado de forma automática, inconsciente e, portanto, sujeito a inúmeros vieses e padronização de erros. Um exemplo de atalho mental aplicado dessa forma é o julgamento de um indivíduo com base no estereótipo do grupo ao qual pertence, o que em geral resulta em erros sistemáticos.Por ser uma forma automática, é muito difícil, mesmo para profissionais experientes, monitorá-la e às vezes até evitá-la (inclusive quando estão conscientes dela), dada à naturalidade com que, quando somos confrontados com questões de resolução difícil, perguntas e respostas heurísticas mais fáceis vem à mente. Especialmente se associadas a outras heurísticas ao longo do tempo, como a do afeto.
+
+
+== Tipos de heurística ==
+Existem vários tipos de heurísticas conhecidas e catalogados, aplicadas em várias situações. Entre as principais estão:
+Heurística do reconhecimento: é uma das heurísticas mais simples pois tem por base a recaptação de memórias e o reconhecimento de alternativas. Assim que uma alternativa é reconhecida, a procura por alternativas para a decisão é tomada pela alternativa que se reconhece. Para a utilização desta heurística é necessário ser parcialmente ignorante (less-is-more effect), ou seja, a ausência parcial de reconhecimento é essencial para que se faça uma inferência acertada utilizando esta heurística. 
+Heurística take-the-best: take-the-best faz parte de um grupo de heurísticas denominadas heurísticas one-reason, onde uma única razão é suficiente para a tomada de decisão. Na take-the-best as alternativas têm diferentes pesos e são avaliadas passo a passo através da comparação entre várias pistas que são utilizadas para as diferenciar. Desta forma, a procura é feita aleatoriamente através de várias pistas; a procura para assim que for encontrada uma pista que possa ser utilizada para discriminar entre as duas alternativas; a pista que descrimina é utilizada para inferir acerca da decisão a tomar.  
+Heuristica tallying: tallying faz parte de um grupo de heurísticas denominadas heurísticas trade-off, onde as alternativas são avaliadas como tendo todas o mesmo peso na tomada de decisão. Na heurística tallying, todas as alternativas têm o mesmo peso e por isso a decisão baseia-se simplesmente em contar o número de pistas a favor de uma alternativa e a favor de outra alternativa. A alternativa com o maior numero de pistas é que é escolhida na tomada de decisão.  
+Heurística de julgamento: processos de julgamentos ou previsões parciais baseados em similaridade e enquadramento, muitas vezes sem se dar conta disso.
+Heurística de afeto: processo no qual as pessoas deixam que suas simpatias, antipatias e afinidades pessoais determinem suas crenças e ações.
+Heurística 3D ou de ilusão de óptica: processo automático de substituição quando, por exemplo, se interpreta um objeto bidimensional por um tridimensional.
+Heurística de disponibilidade: processo de julgar a frequência de dados segundo a facilidade com que similaridades vêm à mente, dada à limitada capacidade de manter concentração/atenção e empreender considerável esforço mental ao mesmo tempo.
+Heurística de avaliabilidade: processo no qual as tomadas de decisão são feitas e mudam conforme o quadro dado. Por exemplo, um julgamento ou tomada de decisão mediante avaliação conjunta dos elementos/fatores envolvidos tende a ser diferente de uma decisão tomada baseada numa avaliação isolada dos mesmos elementos.
+
+
+== Heurísticas de Pólya ==
+A popularização do conceito deve-se ao matemático húngaro George Pólya, explicado ao seu livro de 1945, A arte de resolver problemas. Estudando muitos testes matemáticos de sua juventude, quis saber como os matemáticos chegavam a estas conclusões. O livro contém a classe heurística da prescrição que tentou ensinar aos seus alunos de matemática. Quatro exemplos extraídos do livro ilustram o conceito:
+
+se não puder compreender um problema, monte um esquema;
+se não puder encontrar a solução, tente fazer um mecanismo inverso para tentar chegar à solução (engenharia reversa);
+se o problema for abstrato, tente propor o mesmo problema num exemplo concreto;
+tente abordar primeiro um problema de maneira mais geral, para depois adentrar no específico (conhecido como paradoxo do inventor).As técnicas heurísticas não asseguram as melhores soluções, mas somente soluções válidas, aproximadas; e não raro não é possível justificá-las de imediato em termos estritamente lógicos a validade do resultado.
+É útil neste respeito recordar a distinção entre três tipos de estratégias para a definição dos problemas:
+
+busca às cegas,
+estratagema heurístico; baseado na intuição real ou percebida (consciente ou inconsciente) e;
+busca racional; usando um sistema ou forma de raciocínio, explicável do ponto de vista lógico formal.As heurísticas de Pólya são procedimentos estratégicos deliberados, do tipo que utilizam conscientemente a intuição, sendo seus usuários em geral conscientes de suas limitações.
+
+
+== Heurísticas em ciência da computação ==
+
+Em ciência da computação, em especial otimização, inteligência computacional por exemplo, heurística representa algo sem precedentes. Infelizmente a maioria dos algoritmos desenvolvidos para resolver problemas gerados pela aplicação da matemática e física à realidade são ineficientes para casos de dimensão real. Heurísticas e meta-heurísticas têm sido a saída, ver por exemplo busca gulosa (greedy search) ou mesmo GRASP.
+
+
+== Ver também ==
+Heurística de Clarke e Wright
+
+
+== Referências ==
+
+
+== Bibliografia ==
+"Judgment under Uncertainty; Heuristic and biases" (em inglês) Daniel Kahneman, Paul Slovic & Amos Tversky - Cambridge University Press 1982 ISBN 0521284147
+HAL 9000, Computador Algorítmico Heuristicamente Programado, personagem do livro e filme "2001: A Space Odyssey".

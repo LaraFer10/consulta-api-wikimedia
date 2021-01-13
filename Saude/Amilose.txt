@@ -1,0 +1,25 @@
+Amilose é uma molécula formada por resíduos de glicose. Estes formam um polímero linear
+Constituído de 250 a 300 resíduos de D-glicopiranose, ligados por pontes glicosídicas α(1-4), que tendem a assumir  um arranjo helicoidal.
+Juntamente com a amilopectina é o polímero que forma o amido. Nas proporções de amilose 20-30% e amilopectina 70-80%.
+
+
+== Estrutura ==
+Amilose é composta por moléculas de glicose de ligação α(1→4). Os átomos de carbono são numerados a partir do carbono da função aldeído (C=O), portanto o carbono 1 da primeira molécula de glicose está ligado ao carbono 4 da molécula de glicose seguinte. A representação da cadeia de amilose está representada à direita. Uma cadeia de amilose contém cerca de 300 a 3000 subunidades de glicose (n), mas pode conter vários milhares. 
+Existem três formas possíveis que uma cadeia de amilose pode tomar; uma conformação desordenada e amorfa ou duas formas de hélice diferentes. Ela pode se ligar a si mesma em uma dupla hélice (forma A ou B), ou ela pode se ligar com outra molécula hidrofóbica, como iodo, algum ácido graxo ou composto aromático. Esta é conhecida como "forma V" e é assim que a amilopectina se liga a amilose para formar amido. Dentro deste grupo existem muitas variações, todas elas denotadas com "V" e um subscrito identificando o número de moléculas de glicose que cada volta tem. A forma mais comum é V6, que contém 6 unidades de glicose por volta, mas formas V7 e V8 podem existir também. Essas provém mais espaço para que uma molécula exógena possa se ligar.A estrutura α(1→4) promove a formação de uma estrutura em hélice, possibilitando que ligações de hidrogênio se formem entre os átomos de oxigênio ligados ao carbono 2 de uma molécula de glicose e o carbono 3 da próxima molécula.
+
+
+== Propriedades físicas ==
+Devido ao fato de as cadeias lineares longas da amilose se cristalizarem mais prontamente que as de amilopectina (que possui cadeias curtas e altamente ramificadas), amido com alto conteúdo de amilose é mais resistente à digestão. Ao contrário da amilopectina, amilose não é solúvel em água fria. Ela também pode reduzir a cristalinidade da amilopectina e a facilidade com que a água pode infiltrar no amido.* Quanto maior a concentração de amilose, menor o potencial de expansão e menor a força do gel para a mesma concentração de amido. Isso pode ser remediado parcialmente se o tamanho do grânulo for aumentado.Análises de difração de raio-X da fibra e técnicas de refinamento estrutural demonstraram a existência de polimorfos A-, B- e C- para a amilose. Cada uma destas corresponde às formas A-, B- e C- do amido. As formas A- e B- apresentam estruturas helicoidais e conteúdo de água distintos, enquanto a forma C- é uma mistura das formas A- e B-, resultando em uma estrutura com densidade de empacotamento intermediária.
+
+
+== Função ==
+Amilose é fundamental para o armazenamento de energia nas plantas. Ela é digerida com menos facilidade do que amilopectina; contudo, por ser mais linear que esta, ocupa menos espaço, sendo assim preferível para o armazenamento de amido nas plantas. Ela compõe cerca de 30% de todo amido encontrado em vegetais, embora a porcentagem específica varie de espécie para espécie. A enzima digestiva α-amilase é responsável pela quebra do amido em maltotriose e maltose, que podem ser utilizados como fonte de energia. 
+A amilose também é importante como um espessante, retentor de água, estabilizador de emulsificação e agente gelificante na indústria de alimentos. Cadeias helicoidais de amilose dispersas possuem interior hidrofóbico que pode se ligar a moléculas apolares como lipídeos e compostos aromáticos. Um problema possível, contudo, é que quando a amilose cristaliza ou se associa, ela pode perder estabilidade e liberar água no processo. Quando a concentração de amilose é aumentada, o gel fica menos aderente, mas sua firmeza aumenta. 
+Em laboratório, pode ser usada como marcador. Moléculas de iodo são aprisionadas na estrutura helicoidal da amilose, se ligando ao polímero do amido que absorve certas frequências de luz conhecidas. Esse é conhecido como o teste do iodo para amido. Se mistura amido com uma solução amarela de iodo; na presença de amilose, uma cor azul-preteada deverá ser observada. A intensidade da cor pode ser medida com um colorímetro, utilizando um filtro de luz vermelha para se determinar a concentração de amido presente na solução. Também é possível usar amido como um indicador de titulação envolvendo reações de redução de iodo.
+
+
+== Estudos recentes ==
+Variantes de arroz ricas em amilose têm índice glicêmico muito menor que o arroz comum, o que pode ser benéfico para diabéticos.
+
+
+== Referências ==

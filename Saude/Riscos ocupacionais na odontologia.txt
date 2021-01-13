@@ -1,0 +1,101 @@
+Riscos ocupacionais na odontologia são riscos que estão especificamente associados a um ambiente de atendimento odontológico. Os membros da equipe odontológica, incluindo dentistas, higienistas, auxiliares e radiologistas, devem garantir que os protocolos locais sejam seguidos para minimizar os riscos. 
+
+
+== Radiação ==
+
+A exposição à radiação pode resultar em danos categorizados como determinísticos ou estocásticos. Os efeitos determinísticos ocorrem acima de um certo limiar de radiação, por exemplo, queimaduras e cataratas. Os eventos estocásticos são ocorrências aleatórias após a exposição à radiação, pois não há uma dose limiar acima da qual ocorrerão, por exemplo, carcinogênese. Embora a radiação ocorra naturalmente no ambiente, a exposição adicional para fins médicos deve ser limitada a locais onde os benefícios superem os riscos tanto para a equipe quanto para os pacientes. 
+As diretrizes da Federação Mundial de Odontologia destacam que os operadores de equipamentos de radiografia dentária devem ser suficientemente treinados e qualificados. Ao operar o equipamento, o membro da equipe deve estar a pelo menos dois metros da fonte, afastado da viga principal e atrás de um escudo ou parede de proteção, sempre que possível.  O Conselho Nacional de Proteção Radiológica dos EUA, recomenda que o escudo seja instalado por um especialista e que o chumbo possa ser substituído por gesso, aço ou concreto, proporcionando a espessura adequada. Além disso, o contato visual deve ser considerado ao projetar para permitir o monitoramento constante do paciente. O teste regular do equipamento é necessário e varia de acordo com a legislação local, com uma pessoa jurídica designada ou o empregador responsável pela organização das verificações. Os equipamentos defeituosos podem levar ao aumento ou exposição acidental à radiação da equipe ou dos pacientes. 
+
+
+=== Reino Unido ===
+No Reino Unido, os Regulamentos de Radiação Ionizante e Radiação Ionizante (Exposição Médica) estipulam medidas para limitar o risco para a equipe e para os pacientes. O Executivo de Saúde e Segurança impõe tais regulamentações e, além disso, fornece um banco de dados de exposição à radiação para diferentes grupos de trabalhadores, conhecido como Índice Central de Informações sobre Dose, que permite a análise de tendências. Os dosímetros pessoais devem ser usados onde a exposição anual estimada à radiação exceder 1mSv, o que pode ser calculado considerando o tipo e o número de radiografias que serão realizadas pelo trabalhador. De acordo com a regulamentação, caso a exposição estimada exceder 6mSV, o trabalhador será classificado e exigirá exames médicos regulares. No entanto, como as doses das imagens dentárias são relativamente baixas,  se as doses estimadas excederem os valores normais, serão necessárias investigações para garantir que os princípios de justificação, otimização e limitação estejam sendo seguidos. 
+Embora as regulamentações locais variem de acordo com o país, as regulamentações especificam informações essenciais para uma pasta de proteção contra radiação dentro de cada prática odontológica, incluindo operadores de equipamentos de raio-x, áreas de controle designadas, planos de contingência, equipe qualificada, equipe de gestantes, políticas e procedimentos padrões. A comunicação regular com um especialista em física médica garante que as diretrizes sejam seguidas e compreendidas.
+
+
+== Substâncias perigosas ==
+O hipoclorito de sódio é um irrigante normalmente utilizado na terapia endodôntica para dissolver a matéria orgânica e matar micróbios, permitindo a remoção da fonte de infecção.  Relatos de caso  sugerem um risco para os profissionais de odontologia, visto que a exposição ao hipoclorito de sódio resultou em queimaduras químicas nos olhos. 
+O óxido nitroso é frequentemente usado na odontologia como um método de sedação consciente por inalação, utilizado principalmente em crianças.  Isso tem sido demonstrado em ambientes médicos  e odontológicos  como um método muito seguro de sedação para os pacientes. No entanto, evidências históricas sugerem um aumento no potencial de risco para o aborto espontâneo entre as profissionais de odontologia gestantes, sendo o risco cada vez maior associado ao tempo de contato do tratamento com sedação de óxido nitroso e, também a ausência de equipamento de limpeza para remover qualquer vazamento de gás.  A amálgama dental é um material de enchimento contendo mercúrio, usado para preencher cavidades uma vez que a cárie dentária foi removida. O uso de obturações dentárias contendo mercúrio deve ser gradualmente reduzido de acordo com a Convenção de Minamata, no entanto, seu uso permanece generalizado. Existem relações fracas entre mercúrio e aborto espontâneo, anomalias congênitas e fertilidade reduzida. 
+
+
+== Aerossol odontológico ==
+Um aerossol dental é um aerossol produzido a partir de instrumentos dentários como, por exemplo, escaladores ultrassônicos, peças de mão dentárias, seringas de três vias e outros instrumentos de alta velocidade. Estes aerossóis dentários também são bioaerossóis contaminados com bactérias, fungos e vírus da cavidade oral, pele e água utilizada nas unidades odontológicas. Os aerossóis dentários também possuem micropartículas das brocas, e partículas de sílica, que são um dos componentes dos materiais de preenchimento dentário como composto. Esses aerossóis estão suspensos no ar no ambiente clínico.  Esses aerossóis também podem representar riscos para o clínico, aos funcionários e pacientes. Dependendo do procedimento e do local, a composição do aerossol pode mudar de paciente para paciente. Além dos microrganismos, esses aerossóis podem se apoiar em partículas da saliva, sangue, secreções oronasais, fluidos gengivais e micro partículas do ranger dos dentes.  As partículas mais pesadas (> 50   µm) dos aerossóis ficam suspensas no ar por um período relativamente curto e se depositam rapidamente, mas as partículas mais leves tendem a permanecer suspensas por períodos mais longos, também são capazes de entrar e se depositar nos pulmões, quando são inaladas e possuem a capacidade de transmitir doenças.  A água utilizada nas unidades odontológicas pode estar contaminada com os aerossóis das peças dentárias, podendo levar à disseminação do ambiente para o ambiente odontológico, o que possivelmente leva à inalação pelo dentista, funcionários e pacientes.  As linhas de água da unidade odontológica (DUWLs) também podem estar contaminadas com outras bactérias, como a Mycobacterium spp. e a Pseudomonas aeruginosa . Os dentistas estão no topo dos grupos de trabalho com alto risco de exposição à doença pelo vírus Corona. O vírus que causou a pandemia de COVID-19 é chamado de coronavírus 2 da síndrome respiratória aguda grave (SARS-CoV-2) pelo Comitê Internacional de Taxonomia de Vírus (ICTV) em 11 de fevereiro de 2020. O coronavírus da síndrome respiratória aguda grave 2 permanece estável em aerossóis por várias horas. O vírus é viável por horas em aerossóis e por alguns dias em superfícies; portanto, a transmissão do SARS-CoV-2 é viável através de aerossóis e também mostra a transmissão de fomitos. Devido à proximidade dos profissionais de saúde bucal com os pacientes, os procedimentos odontológicos que envolvam produção de aerossol não são aconselháveis em pacientes que testaram positivo para COVID-19. A Associação Americana de Odontologia aconselhou os dentistas a adiarem todos os procedimentos eletivos. Também desenvolveu orientações específicas para dar seguimento aos atendimentos de serviços odontológicos durante a pandemia de coronavírus 2019-2020. [1] 
+
+
+== Distúrbios musculoesqueléticos ==
+Problemas musculoesqueléticos são predominantes entre os profissionais de odontologia. Os problemas podem começar desde cedo, já na faculdade de odontologia, como aconteceu numa no Reino Unido, onde 79% dos estudantes relataram dores no pescoço e/ou nas costas. Os problemas surgem da natureza do trabalho como: focar em procedimentos finos que exigem um campo visual próximo e uma postura sustentada por longos períodos de tempo. Verificou-se que os distúrbios musculoesqueléticos foram mais prevalentes entre os cirurgiões-dentistas do que em cirurgiões ou médicos, e 60% dos dentistas relataram sintomas em mais de um local. O trabalho repetitivo, a necessidade de manter as mãos firmes, e passar a maior parte do dia com uma postura desajeitada podem levar a dores musculoesqueléticas em vários locais. A parte inferior das costas é geralmente afetada, assim como a parte superior das costas, ombros e pescoço. Existem uma série de recomendações para dentistas que podem ajudar a reduzir o risco de desenvolver dor musculoesquelética. O uso de ampliação ou lupas e uma boa iluminação auxiliam a melhorar a postura, evitando a necessidade de esticar o pescoço e as costas para uma melhor visão. O uso de um assento de sela também ajuda a melhorar a postura, mantendo a coluna em sua curva natural em 'S'. Os pacientes devem estar posicionados a uma distância suficiente para permitir que os ombros estejam em uma posição relaxada, neutra e cotovelos a uma flexão de cerca de 90 graus ou menos. No entanto, de acordo com uma revisão da Cochrane publicada em 2018, não há evidências suficientes sobre os efeitos das intervenções ergonômicas na prevenção de distúrbios musculoesqueléticos entre os dentistas e outros profissionais que atuam na assistência odontológica.
+
+
+== Estresse ==
+Estudos recentes mostram que os dentistas apresentam maior risco de incidências relacionadas ao estresse, como suicídio, doenças cardiovasculares e problemas de saúde mental. 
+Algumas das possíveis razões incluem: confinamento no trabalho, trabalho com pacientes ansiosos, pressões de tempo, tratamentos complexos e traços de personalidade dentro dos próprios dentistas (a necessidade de perfeição, atenção aos detalhes, altas expectativas de si mesmo e dos outros).Entre os anos de 1991 e 2000, o Escritório Nacional de Estatísticas indicou que médicos, dentistas, enfermeiros, veterinários e trabalhadores agrícolas possuem a maior taxa de risco de suicídio em comparação com outras profissões.De acordo com um artigo divulgado no British Dental Journal, problemas relacionados ao estresse podem levar à aposentadoria prematura. As causas mais frequentes de aposentadoria precoce foram por: distúrbios musculoesqueléticos (29,5%), doenças cardiovasculares (21,15) e sintomas neuróticos (16,5%).
+
+
+== Ruído ==
+A perda auditiva é uma doença ocupacional causada devido a exposição excessiva a elevados níveis de ruído que destroem certas terminações nervosas, podendo causar lesões irreversíveis (dependendo da intensidade do ruído e do tempo de exposição).  Os dentistas são frequentemente expostos a diferentes ruídos produzidos e emitidos a partir de instrumentos dentários como: peças de mão, canetas de alta e baixa rotação, sugador, compressor, cuspideira, peça reta, fotopolimerizador, autoclave, ar condicionado, escaladores e equipamentos e máquinas utilizados nos ambientes odontológicas. Esses ruídos podem variar de 60 a 99 decibéis.  A exposição ao ruído de forte intensidade pode causar perda auditiva induzida por ruído (PAIR) nos profissionais odontólogos.A exposição aos níveis de ruído superiores a 85 decibéis por um período de 8 horas ou mais pode ser prejudicial à audição e pode estar associada a outras complicações de saúde. O ruído excessivo pode ter efeitos fisiológicos e psicológicos, também pode causar desconforto, estresse, dores de cabeça, nervosismo, alterações da pressão arterial, perda auditiva e irritabilidade exagerada. Assim o local deve se ergonomicamente confortável, visando evitar e controlar a propagação do som, que deve ser controlada para não prejudicar o profissional, a equipe e o paciente.Alguns procedimentos odontológicos são mais sujeitos a gerar altos níveis de ruído como nas áreas de próteses fixas e operadoras dentárias, sendo essas áreas de maior risco ocupacional. Os controles de nível de ruído precisam ser realizados nas diferentes áreas de trabalho do profissional odontológico, e manter uma distância de trabalho recomendada pela Organização Mundial da Saúde. Desse modo é possível identificar e ajustar os fatores que estão contribuindo para o ruído excessivo, assim reduzindo os riscos de aquisição de doenças ocupacionais.Os problemas auditivos são comuns entre os profissionais de odontologia, apesar de não serem considerados muitas vezes. Os odontologistas estão expostos ao ruído, e estudos constatam que na maioria deles mesmo estando expostos a níveis de intensidade sonora menores que 85 decibels, mas com tempo de exercício de profissão superior a cinco anos, apresentam perdas auditivas. Por conta disso, diferentes estudos têm analisado a relação entre a intensidade dos ruídos no ambiente odontológico, a carga horária, o tempo de atividade profissional e a perda auditiva nesses profissionais.
+
+
+== Ferimentos por objetos cortantes ==
+Devido à natureza de seu trabalho e aos instrumentos utilizados, tanto dentistas quanto enfermeiros odontológicos correm grande risco de ferimentos por objetos cortantes. Essa é uma ocorrência comum no campo odontológico, mas quase totalmente evitável se o profissional estiver com os equipamentos e realizar os procedimentos de proteção corretos. Uma lesão por objetos cortantes pode ser causada durante qualquer Procedimento Propenso à Exposição (EPP), onde as mãos enluvadas do profissional de saúde podem estar em contato com instrumentos cortantes, pontas de agulhas ou tecidos afiados (por exemplo, espículas de osso ou dentes). Isso pode estar dentro da cavidade corporal aberta do paciente, ferida ou espaço confinado, no qual as pontas dos dedos podem não estar completamente visíveis em todos os momentos. A maioria dos procedimentos odontológicos são de EPPs, exceto: 
+
+Exame usando apenas espelho bucal;
+Radiografias extra-orais;
+Exame visual e digital da cabeça e pescoço;
+Exame visual e digital da boca com ausência de dentes;
+Tirar impressões de pacientes com ausência de dentes;
+Construção e montagem de próteses totais.Nas lesões por objetos cortantes, existe um risco associado de transmissão de infecções, como vírus transmitidos pelo sangue, por exemplo, vírus da hepatite B (HBV), vírus da hepatite C (HPC) e vírus da imunodeficiência humana (HIV). Foi demonstrado que há um grande impacto emocional relacionado às lesões por objetos cortantes, mesmo que não tenha acontecido uma transmissão de infecção. Isso pode ser devido ao processo extenso após uma lesão por objetos cortantes, constrangimento ou medo de ser exposto a doenças infecciosas. O risco percentual estimado de transmissão desses vírus está descrito na tabela abaixo: 
+
+Outros agentes infecciosos que podem se espalhar por essa rota são: 
+
+Vírus: citomegalovírus (CMV), vírus de Epstein-Barr (EBV), parovírus;
+Bactérias: Treponema pallidum (sífilis), Yersinia, Parasitas, Plasmodium. 
+
+
+=== Legislação ===
+Os Regulamentos de Saúde e Segurança (instrumentos afiados em saúde) de 2013 foram publicados pelo Health and Safety Executive e é destinado à empregadores e funcionários da área de saúde. Os Regulamentos sobre objetos cortantes se baseiam na lei existente descrita na Diretiva do Conselho Europeu  2010/32/UE, que exige que os trabalhadores realizem avaliações de riscos de ferimentos por objetos cortantes e pratiquem medidas de controle adequadas. Os regulamentos baseiam-se em medidas de controle preventivo estabelecidas no Regulamento de Controle de Substâncias Perigosas para a Saúde (COSHH), com medidas adicionais: 
+
+Evite o uso desnecessário de objetos cortantes: utilize-os apenas conforme necessário;
+Use objetos cortantes mais seguros com mecanismos para evitar ou minimizar o risco de ferimentos, por exemplo, agulhas com blindagem protetora e evitar o re-revestimento das agulhas;
+Coloque recipientes e instruções para descarte seguros de objetos perfurocortantes médicos perto da área de trabalho: Instruções para os funcionários sobre o descarte seguro de objetos perfurocortantes também devem ser colocadas nessas áreas;
+Todos os funcionários devem ter acesso a informações sobre: sistemas operacionais seguros, riscos de ferimentos por objetos cortantes, deveres legais, prevenção, vacinação e suporte;
+Os funcionários devem ser treinados adequadamente para usar e descartar os objetos perfurocortantes com segurança;
+Dever do funcionário lesionado de notificar seu empregador sobre um acidente com objetos cortantes;
+O incidente deve ser registrado e investigado. Uma entrada em um livro de incidentes deve incluir:
+Quem foi ferido;
+Quando eles foram feridos;
+Tipo de procedimento realizado no momento;
+Gravidade da lesão;
+O empregador deve garantir que o funcionário lesionado seja tratado e acompanhado;
+Revisar os procedimentos regularmente.
+
+
+=== Prevenção ===
+As formas práticas de prevenir ferimentos por materiais cortantes incluem: 
+
+Nunca passando instrumentos do rosto de um paciente;
+Remoção de brocas das peças de mão quando não estiverem em uso e verificação de segurança antes da utilização;
+Mantendo a mesa de suporte arrumada;
+Manuseio de suturas apenas com agulhas de sutura;
+Usando agulhas com dispositivos de segurança.Existem vários dispositivos de prevenção de lesões por contato com agulhas disponíveis para uso em procedimentos odontológicos de rotina. Um exemplo é o barril de seringa, de uso único, que elimina o risco de embainhar uma agulha, pois existe um escudo de plástico que desliza para baixo para cobrir com segurança a ponta afiada. Um segundo "clique" trava a tampa neste lugar para evitar a descoberta acidental da agulha. 
+
+
+=== Gestão ===
+Responsabilizar e tornar seguro o instrumento responsável pela lesão;
+Incentive o sangramento livre da ferida na pele. Limpe com água e sabão, seguido de álcool a 70%. Se a área danificada for uma membrana mucosa, enxágue imediata e cuidadosamente com água ou solução salina;
+Relatar incidente à pessoa responsável por incidentes de risco ocupacional;
+Alguém não relacionado ao acidente deve realizar uma avaliação de risco;
+Se a fonte do sangue for conhecida, informe-os e solicite permissão para colher uma amostra de sangue para o teste de HCV e HIV. Se a permissão for recusada, deve-se assumir que eles são portadores;
+Coletar uma amostra de sangue de referência do profissional de saúde ferido o mais rápido possível após o incidente;
+Outras amostras de sangue devem ser coletadas após um, três e seis meses.Incidentes com maior risco de transmissão de vírus são aqueles associados a: 
+
+Feridas profundas;
+Sangue visível no instrumento;
+Agulhas ocas contendo sangue;
+Injeção intravenosa (IV) ou intramuscular (IM) de sangue contaminado;
+Sangue de um paciente com alto nível de vírus (por exemplo, pacientes não tratados ou em estágio terminal de AIDS).
+
+
+== Referências ==
+
+
+== Links externos ==
+American Dental Association, Informações sobre riscos relacionados ao trabalho

@@ -1,0 +1,27 @@
+A Transcrição reversa seguida de reação em cadeia da polimerase (RT-PCR), no inglês Reverse transcription polymerase chain reaction, é um método laboratorial usado desde 1983, que utiliza a enzima transcriptase reversa, para transformar o RNA do vírus em DNA complementar (cDNA). É usado principalmente para medir a quantidade de um RNA específico. Isto é conseguido através do monitoramento da reação de amplificação usando fluorescência, uma técnica chamada PCR quantitativo em tempo real. RT-PCR combinado e qPCR são rotineiramente usados ​​para análise da expressão gênica e quantificação do RNA viral em pesquisas e contextos clínicos.
+Embora tenha sido desenvolvido primariamente como uma metodologia para a análise da expressão gênica, este método é aplicado em diversas áreas da pesquisa e do diagnóstico, como detecção vírus diversos, além de estar em avaliação para uso da análise do perfil genético de tumores. Durante a pandemia de COVID-19, o RT-PCR é um dos métodos utilizados para detectar o coronavírus da síndrome respiratória aguda grave 2 (SARS-CoV-2).
+
+
+== Procedimento ==
+A partir do RNA, a enzima transcriptase reversa sintetiza uma cadeia de cDNA. A transcriptase reversa utiliza um pequeno trecho iniciador, feito de DNA fita simples(denominado primer) que se pareia ao RNA para começar o alongamento da fita de cDNA. Para isso, é interessante a escolha de um primer adequado, havendo três possibilidades mais utilizadas:
+
+Primer poli T, que se pareia com o trecho na extremidade 3' do RNA mensageiro, que nos eucariotos é uma cauda poli A
+Primers randômicos, que se pareiam aleatoriamente em qualquer trecho da sequência de RNAs mensageiros, ribossomais e transportadores
+Primers específicos para a sequência de interesseCada um dos tipos tem as suas vantagens e desvantagens, sendo influenciados principalmente pelo tipo de RNA de interesse e seu estado de conservação, visto que o RNA é uma molécula facilmente degradável.
+Após a síntese de cDNA a partir do RNA, pode-se usar uma enzima que degrade o RNA, usualmente a RNAse H, que degrada apenas RNA que esteja pareado com DNA.
+Ao cDNA aplica-se então a técnica de PCR.
+
+
+== Aplicações ==
+A técnica de RT-PCR é amplamente utilizada para verificar a expressão gênica, uma vez que analisa o RNA responsável pela síntese de proteínas. Se há uma proteína específica presente, é porque o gene da mesma está sendo expresso e originando mRNA para tal proteína.
+Atualmente, existem técnicas que permitem a análise de todo o RNA presente em uma dada célula em um dado momento(denominado transcriptoma). Tais técnicas, que são parte da transcriptômica, são muito importantes se for considerado que os tipos de RNAs mensageiros sendo expressos variam conforme o tipo de célula (células musculares produzem proteínas em quantidade e tipo diferente de células da pele), com a situação da célula (células em ambiente com pouco oxigênio expressam proteínas diferentes das de em ambiente com muito oxigênio) e a idade/fase da célula (células em período de multiplicação produzem proteínas diferentes das que apenas estão crescendo em tamanho).
+
+
+== Referências ==
+
+
+== Ligações externas ==
+RT-PCR protocols from Penn state University
+Database of validated PCR primer sets (website critique)
+Animation to illustrate RT-PCR procedure, from Cold Spring Harbor Laboratory
+The Reference in qPCR -- an Academic & Industrial Information Platform

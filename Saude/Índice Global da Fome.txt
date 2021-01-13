@@ -1,0 +1,135 @@
+O Índice Global da Fome  (GHI, pela sua sigla em inglês de Global Hunger Index) é uma ferramenta estatística multidimensional usada para descrever o estado da fome nos países. O GHI mede o progresso e retrocessos na luta global contra a fome. 
+É atualizado uma vez por ano.
+O índice foi adaptado e desenvolvido pelo International Food Policy Research Institute (IFPRI). Foi publicado pela primeira vez em 2006 em conjunto com Welthungerhilfe, uma Organização Não Governamental (ONG). Desde 2007, a ONG irlandesa Concern Worldwide juntou-se ao grupo de editores.O GHI de 2010 calcula-se para 122 países em via de desenvolvimento e economias em transição, dos quais 84 foram classificados. Todos os anos, o reporte sobre o GHI centra-se num tema: em 2010, o índice ressalta a desnutrição infantil entre as crianças menores de dois anos de idade. Estudos recentes mostram que a prevenção da má alimentação durante este período pode melhorar significativamente a saúde, a produtividade e o desempenho econômico ao longo da vida destas crianças.Além da edição anual do GHI, em 2008 foram publicados o Índice da Fome para os Estados da Índia e o Índice Subnacional da Fome para a Etiópia.
+
+
+== Cálculo e definição do GHI ==
+A fome tem muitas faces: aumento da propensão às doenças, deficiências no estado nutricional, perda de energia, incapacidade, morte por inanição ou por doenças infecciosas mortais, cujo curso é o resultado de uma saúde geral débil.
+O GHI é concebido para captar diversos aspetos da fome num só índice, apresentando assim uma rápida visão geral de um problema complexo. O índice leva em conta a situação de nutrição não somente populacional em geral, mas também de um grupo fisiologicamente vulnerável — as crianças — para o qual a falta de nutrientes cria um alto risco de crescimento físico ou cognitivo deficiente, e até de mortalidade. Adicionalmente, ao combinar indicadores medidos em forma independente, o índice reduz os efeitos dos erros aleatórios de medição.
+
+
+=== Indicadores ===
+O GHI combina três indicadores de igual ponderação:
+
+A proporção de subnutridos como percentagem populacional (o que reflete a porção populacional com insuficiente ingestão de energia na dieta),
+A frequência da insuficiência de peso nas crianças menores de cinco anos (o que indica a proporção de crianças que sofrem de perda de peso) e,
+A taxa de mortalidade das crianças menores de cinco anos (o que reflete em parte a fatal sinergia entre ingestão insuficiente de alimentos e ambientes insalubres).
+
+
+=== Cálculo do GHI ===
+O índice global da fome é calculado assim:
+
+  
+    
+      
+        G
+        H
+        I
+        =
+        
+          
+            
+              P
+              U
+              N
+              +
+              C
+              U
+              W
+              +
+              C
+              M
+            
+            3
+          
+        
+      
+    
+    {\displaystyle GHI={\frac {PUN+CUW+CM}{3}}}
+  
+onde
+
+  
+    
+      
+        P
+        U
+        N
+        :
+      
+    
+    {\displaystyle PUN:}
+   proporção populacional que está subnutrida (em percentagem)
+
+  
+    
+      
+        C
+        U
+        W
+        :
+      
+    
+    {\displaystyle CUW:}
+   frequência de insuficiência de peso em crianças menores de cinco anos (em percentagem)
+
+  
+    
+      
+        C
+        M
+        :
+      
+    
+    {\displaystyle CM:}
+   proporção de crianças que falecem antes dos cinco anos (em percentagem)
+O índice classifica os países numa escala de 100 pontos, sendo 0 a melhor pontuação (não há fome) e 100 a pior, embora na prática não ocorra nenhuma destas situações extremas. Quanto mais alto o índice, pior é a situação alimentar de um país. Os valores por baixo de 4,9 refletem pouca fome, os valores entre 5 e 9,9 refletem uma fome moderada, os valores entre 10 e 19,9 indicam um sério problema, os valores entre 20 e 29,9 são alarmantes e os de 30 ou mais são extremamente alarmantes.
+
+
+=== Fontes dos dados ===
+Os dados para o GHI de 2010 cobrem o período de 2003 a 2008 – os dados globais mais recentes disponíveis para os três componentes do GHI. Especificamente, os dados sobre a proporção de subnutridos são da Organização das Nações Unidas para a Agricultura e a Alimentação (FAO) e cobrem 2004 a 2006.  Os dados sobre desnutrição infantil são para o último ano do período 2003–2008 para o qual se conta com informação e se baseiam nos dados coletados pela Organização Mundial da Saúde (WHO), UNICEF and MEASURE DHS Os dados sobre mortalidade infantil são da UNICEF para 2008. O GHI de 2010 e o valor da base recalculada do GHI de 1990 não são diretamente comparáveis aos cálculos anteriores de valores do GHI.
+
+
+== Resultados para o GHI de 2010 ==
+
+
+=== Classificação ===
+O GHI de 2009 calcula-se para 122 países em via de desenvolvimento e economias em transição, dos quais 84 foram classificados e a sua segurança alimentar foi comparada com os níveis de 1990. Os outros 38 países tiveram um GHI inferior a 5 em 1990 e 2010, e por esta razão não foram incluídos na classificação.
+
+
+=== Tendências globais e regionais ===
+O reporte GHI para 2010 descreve o desenvolvimento do estado da fome desde 1990 em níveis globais, regionais e nacionais. O GHI global de 2010 mostra uma diminuição de quase uma quarta parte, ou seja, de 19,8 a 15,1. Contudo, o GHI mostra que o progresso mundial na redução da fome ficou estancado e continua sendo lento 29 países têm níveis de fome alarmantes (20-29.9) ou extremamente alarmantes (≥ 30). . O média global esconde diferenças dramáticas entre as regiões e os países. O GHI de 2010 baixou em cerca de 14% na África Subsaariana comparado com o GHI de 1990, cerca de 25% na Ásia Meridional e em mais de cerca de 33% no Próximo Oriente e em África do Norte. O progresso foi particularmente grande no Sudeste Asiático e na América Latina, na qual o GHI caiu em mais de 40%.
+Os maiores valores regionais do GHI correspondem à África Subsaariana e à Ásia Meridional com 22,9 e 22,7 respetivamente, mas as causas da inseguridade alimentar em ambas as regiões são diferentes. Na Ásia Meridional, o principal problema é a elevada frequência de insuficiência de peso nas crianças menores de cinco anos, a qual, pela sua vez, é resultado duma menor nutrição e dum baixo nível educacional das mulheres. Em contraste, na África Subsaariana o GHI é alto devido a uma elevada mortalidade infantil e uma alta proporção de pessoas que não podem satisfazer as suas necessidades de calorias. Isto ocorre devido à má governação, conflitos, instabilidade política e alta taxas de AIDS.
+
+
+=== Ganhadores e perdedores ===
+Entre 1990 e 2010 um grupo pequeno de países conseguiu reduzir os seus valores do GHI à metade ou mais. Ao redor da terceira parte dos países conseguiu um modesto progresso, reduzindo os seus valores do GHI entre 25% e 50%. Outro terço foi capaz de melhorar o seu GHI de 0 a 24,9 %. Em 29 países a situação da fome continua sendo grave ou alarmante. 
+
+O Gana foi o único país da África Subsaariana que reduziu o seu GHI em mais de 50%.
+No Oriente Próximo, o progresso aparentemente notável do Kuwait na redução da fome é devido primariamente ao seu nível raramente alto em 1990, quando o Iraque o invadiu.
+A Malásia - o segundo melhor país - melhorou a sua situação da fome através de uma enorme diminuição da proporção de crianças com insuficiência de peso.
+O caso da República Democrática do Congo é um caso especial entre os 9 países que mais aumentaram o seu GHI. Ali, o GHI piorou em mais de 65 % devido ao conflito de longa duração e a instabilidade política.
+
+
+=== Desnutrição infantil ===
+A desnutrição entre as crianças alcançou níveis terríveis. No mundo em desenvolvimento, perto de 195 milhões de crianças menores de cinco anos - aproximadamente uma de cada três crianças - são pequenas demais e subdesenvolvidas. Quase uma de cada quatro crianças menores de cinco anos - 129 milhões - tem peso insuficiente, e uma de cada 10 têm peso extremamente insuficiente. O problema da desnutrição infantil fica concentrado em poucos países e regiões com mais de 90% das crianças raquíticas que moram na África e na Ásia. 42% das crianças subnutridas do mundo moram na Índia.
+Os dados apresentados no relatório  mostram que a janela de oportunidade para melhorar o lapso nutricional se estende pelos 1000 dias entre a concepção e o segundo aniversário da criança (que é o período de -9 a +24 meses). As crianças que não recebem uma nutrição adequada durante este período aumentaram os riscos de experimentar danos permanentes, incluindo o desenvolvimento físico e cognitivo débil, má saúde, e até morte prematura. Em contraste, as consequências da desnutrição que ocorrem após 24 meses de vida de uma criança são em larga medida reversíveis.
+
+
+== Referências ==
+ 
+Este artigo foi inicialmente traduzido do artigo da Wikipédia em castelhano, cujo título é « Índice Global del Hambre».
+
+
+== Ver também ==
+Wiesmann, Doris (2004): An international nutrition index: concept and analyses of foode insecurity and undernutrition at country levels. Development Economics and Policy Series 39. Peter Lang Verlag.
+
+
+== Ligações externas ==
+(em inglês)Página web sobre Índice Global da Fome de 2010 do Instituto Internacional de Investigação sobre Políticas Alimentares (IFPRI)
+Página web sobre Índice Global da Fome de 2009 do Instituto Internacional de Investigación sobre Políticas Alimentarias (IFPRI)
+(em inglês)Welthungerhilfe
+(em inglês)Concern Worldwide
+(em inglês)Seminário do IFPRI: Global Hunger Index: Reducing Gender Inequality, Reducing Hunger, 19 de novembro de 2009
+What is hunger, UN World Food Program (WFP), acedido em 11 de dezembro de 2009
+UN Warns of "Silent Tsunami of Hunger" in Global Food Crisis. Vídeo porDemocracy Now! 14 de outubro de 2009.

@@ -1,0 +1,211 @@
+A circulação do sangue é o movimento do sangue originado pelo bombeamento do coração que o envia para as artérias. A função circulatória é, basicamente, uma função de transporte. O termo circulação refere-se ao movimento de um fluido ao longo de um circuito fechado.
+A circulação do sangue faz-se em dois circuitos separados anatomicamente e com funções diferentes:
+
+Circulação pulmonar ou Pequena circulação pela qual são realizadas  as trocas gasosas oxigênio e anidrido carbónico
+Circulação sistémica ou Grande circulação que permite levar os nutrientes e oxigénio aos tecidos e receber os produtos finais do metabolismo para serem excretados, assim como levar as hormonas aos seus órgãos alvo.
+
+
+== História ==
+
+
+== Circulação pulmonar ==
+
+Circulação Pulmonar ou Pequena circulação é a designação dada à parte da circulação sanguínea na qual o sangue é bombeado para os pulmões e volta, livre do dióxido de carbono (CO2) e rico em oxigénio (O2)  ao coração. Ao chegar à aurícula direita pelas veias cavas superior e inferior, o sangue passa da aurícula para o ventrículo direito. Quando este, por sua vez, se contrai, dá-se a ejeção ventricular direita para a artéria pulmonar que dividindo-se em direita e esquerda vai levar o sangue aos dois pulmões. As artérias pulmonares dividem-se e sub-dividem-se até se tornarem numa rede capilar nas paredes alveolares onde vão ter lugar as trocas gasosas com difusão do Dióxido de carbono ou Anidrido carbónico (CO2) dissolvido no plasma e captação do O2, que compõe 21% do ar, o qual se fixa nos glóbulos vermelhos, mais exatamente na hemoglobina contida nesses glóbulos. Para que essas trocas sejam possíveis as paredes alveolares estão revestidas por surfactante, uma molécula tensoativa ( complexa segregada continuamente pelos pneumócitos alveolares de tipo 2. Uma vez oxigenado, o sangue flui da vertente venosa capilar das paredes alveolares, para pequenas vénulas que juntam e formam veias cada vez de maior calibre até se tornarem as veias pulmonares que drenam na aurícula esquerda. Esta, ao contrair-se envia o sangue para o ventrículo esquerdo e a Circulação sistémica ou Grande circulação, começa.  Para além desta circulação que é funcional os pulmões têm uma circulação proveniente das artérias brônquicas que providencia a alimentação dos pulmões em nutrientes necessários.
+
+
+== Circulação sistémica ==
+
+Chegado ao ventrículo esquerdo o sangue arterializado é bombeado para a artéria aorta e seus ramos, atingindo todas as partes do corpo humano, ramificando-se em artérias de calibre cada vez menor até atingir a vertente arterial capilar e libertar o tão precioso oxigénio aos tecidos para que a respiração celular seja possível. Recolhe os produtos finais do metabolismo celular e volta, percorrendo o caminho inverso, ou seja: vertente venosa da rede capilar, vénulas, veias até atingir a veia cava inferior ou a veia cava superior, dependendo da região e drena de novo na aurícula direita. As veias contêm cerca de 70% do volume sanguíneo total, ao contrário das artérias que transportam só cerca de 15%.
+
+
+== Circulação capilar ==
+
+A circulação capilar faz parte da microcirculação. É a este nível circulatório que se dá a função major de toda a circulação: a troca de nutrientes entre o sangue e as células e a recolha das substâncias nocivas, produtos finais do metabolismo celular. Ao chegar às células as arteríolas transformam-se em metarteríolas adquirindo pequenos esfíncteres que se relaxam e contraem 5 a 10 vezes por minuto regulando o débito de sangue a este nível. Este débito depende das necessidades da célula em oxigénio. Por sua vez as metarteríolas transformam-se em capilares, perdendo a camada muscular e os esfíncteres. Os capilares têm assim uma parede muito fina, constituída só pela íntima (a camada interna vascular), com poros que deixam passar os iões e as moléculas hidrossolúveis para o tecido intersticial e posteriormente atravessam a membrana celular para o interior da célula. Isto facilita as trocas gasosas e de outros nutrientes, sem necessidade de mecanismos de transporte, permitindo uma difusão bi-direcional dependente de gradientes osmóticos como descrito na tão conhecida equação de Starling:
+
+  
+    
+      
+         
+        
+          J
+          
+            v
+          
+        
+        =
+        
+          K
+          
+            f
+          
+        
+        (
+        [
+        
+          P
+          
+            c
+          
+        
+        −
+        
+          P
+          
+            i
+          
+        
+        ]
+        −
+        R
+        [
+        
+          π
+          
+            c
+          
+        
+        −
+        
+          π
+          
+            i
+          
+        
+        ]
+        )
+      
+    
+    {\displaystyle \ J_{v}=K_{f}([P_{c}-P_{i}]-R[\pi _{c}-\pi _{i}])}
+  Onde:
+
+  
+    
+      
+        (
+        [
+        
+          P
+          
+            c
+          
+        
+        −
+        
+          P
+          
+            i
+          
+        
+        ]
+        −
+        R
+        [
+        
+          π
+          
+            c
+          
+        
+        −
+        
+          π
+          
+            i
+          
+        
+        ]
+        )
+      
+    
+    {\displaystyle ([P_{c}-P_{i}]-R[\pi _{c}-\pi _{i}])}
+   força de drenagem;
+
+  
+    
+      
+        
+          K
+          
+            f
+          
+        
+      
+    
+    {\displaystyle K_{f}}
+   é a constante de proporcionalidade;
+
+  
+    
+      
+        
+          J
+          
+            v
+          
+        
+      
+    
+    {\displaystyle J_{v}}
+   o movimento do fluido entre o capilar e o tecido intersticial.De acordo com esta equação, simplificada para o capilar sanguíneo, o movimento de um fluido, neste caso o sangue, depende assim de 5 variáveis:
+
+  
+    
+      
+         
+        
+          J
+          
+            v
+          
+        
+        =
+        
+          K
+          
+            f
+          
+        
+        (
+        [
+        
+          P
+          
+            c
+          
+        
+        −
+        
+          P
+          
+            i
+          
+        
+        ]
+        −
+        [
+        
+          π
+          
+            c
+          
+        
+        −
+        
+          π
+          
+            i
+          
+        
+        ]
+        )
+      
+    
+    {\displaystyle \ J_{v}=K_{f}([P_{c}-P_{i}]-[\pi _{c}-\pi _{i}])}
+  Pressão hidrostática capilar ( Pc )
+Pressão hidrostática intersticial ( Pi )
+Pressão oncótica capilar ( πz )
+Pressão oncótica intersticial ( πi )
+Coeficiente de filtração ( Kf )O coeficiente de reflexão ( R ) que exprime a impermeabilidade da parede às proteínas é, em condições normais, igual a 1. A parede capilar não deixa passar proteínas. Só será considerado em casos patológicos com aumento da permeabilidade às proteínas e R <1.
+
+
+== Referências ==

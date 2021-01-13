@@ -1,0 +1,35 @@
+O di-terc-butil metil fenol ou hidroxitolueno butilado (BHT, do inglês butylated hydroxytoluene) é um composto orgânico lipossolúvel e antioxidante usado como aditivo alimentar (com o código E321), conservante (também para cosméticos), remédios, combustível, borracha e taxidermia.
+É produzido a partir do cresol e do isobutileno. Seu uso foi patenteado e registrado no FDA em 1947 e 1954. O BHT reage com os radicais livres, retardando a oxidação e mantendo as características do material a proteger. Por exemplo, é adicionado a éteres para evitar a formação de peróxidos (possivelmente explosivos).
+Há casos de dificuldade de metabolização do BHT, e dúvidas a respeito de ser ou não cancerígeno. Foi banido seu uso alimentício no Japão em 1958, Romênia, Suécia e Austrália, e nos EUA é proibido para alimentos infantis, e o McDonald's alega ter deixado de usá-lo em 1986.
+
+
+== Produção ==
+BHT é preparado pela reação de p-cresol (4-metilfenol) com isobutileno (2-metilpropeno) catalisado por ácido sulfúrico:
+
+CH3(C6H4)OH5  +  2 CH2=C(CH3)2  →  ((CH3)3C)2CH3C6H2OHAlternativamente, BHT é produzido a partir do 2,6-di-tert-butilfenol por hidroximetilação ou aminometilação seguida por hidrogenólise.
+Um estudo descobriu que o fitoplâncton, incluindo as algas verdes, Botryococcus braunii, assim como três diferentes cianobactérias (Cylindrospermopsis raciborskii, Microcystis aeruginosa e Oscillatoria sp.) são capazes de produzir este composto. A confirmação foi feita via análise por cromatografia gasosa-espectrometria de massa.
+
+
+== Aplicações ==
+BHT é principalmente  usado como um aditivo de alimentos que explora as suas propriedades antioxidantes. É aprovado para uso na União Europeia sob E321 e nos EUA pela Food and Drug Administration via regulação: Por exemplo, a CFR 21 §137.350(a)(4) permite o uso de BHT até o limite de 0,0033% por peso em "arroz enriquecido", enquanto a CFR §381.147 9 (f)(1) permite até 0,01% em aves domésticas "por conteúdo de gordura".
+
+
+== Reações ==
+As espécies químicas se comportam como um análogo sintético da vitamina E, atuando principalmente como um agente de terminação que suprime a auto-oxidação, um processo em que compostos orgânicos (geralmente) insaturados são atacados pelo oxigênio atmosférico. BHT interrompe esta reação autocatalítica pela conversão de radicias peróxi a hidroperóxidos. Efetua esta função pela doação de um átomo de hidrogênio:
+
+RO2.  +  ArOH  →  ROOH  +  ArO.
+RO2.  +  ArO.  →  produtos não radicaisonde R é uma alquila ou arila, e onde ArOH é BHT ou antioxidantes fenólicos relacionados. Cada BHT consome dois radicais peróxi.
+
+
+== Referências ==
+
+
+== Ligações externas ==
+Why are BHA and BHT in foods? Are they safe?
+Bioassay of BHT, includes structure
+BUTYLATED HYDROXYTOLUENE (ICSC)
+Butylated Hydroxytoluene (BHT) Antioxidant
+
+
+== Ver também ==
+BHA

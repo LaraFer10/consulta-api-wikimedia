@@ -1,0 +1,52 @@
+O fator Rh (AO 1945: factor Rh) é um dos dois grupos de antígenos eritrocitários de maior importância clínica, estando envolvido nas reações transfusionais hemolíticas e na  Doença Hemolítica do Recém-Nascido (DHRN ou Eritroblastose fetal). Sua determinação, juntamente com a dos antígenos pertencentes ao sistema ABO, no procedimento laboratorial denominado Tipagem sanguínea (ABO e Rh) --- ou simplesmente tipagem sanguínea -- é obrigatória antes de qualquer transfusão sanguínea.
+
+
+== Histórico ==
+Levin e Stone (1939) relataram o caso de um feto natimorto gerado por uma mulher que posteriormente manifestou reação hemolítica transfusional ao receber sangue de seu marido (compatível quanto ao sistema ABO, o único então conhecido). Karl Landsteiner e Wiener (1940) descreveram um anticorpo produzido no soro de coelhos e cobaias, pela imunização com hemácias de Macacos rhesus, que era capaz de aglutinar as hemácias de 85% das amostras obtidas de um grupo de caucasoides americanos. Wiener e Peters (1940) aproximaram as duas observações, determinando tratar-se do mesmo antígeno. O anticorpo produzido no sangue da cobaia foi denominado de anti-Rh. Os indivíduos que apresentavam o fator Rh passaram a ser designados Rh+, o que geneticamente acreditava-se corresponder aos genótipos RR ou Rr. Os indivíduos que não apresentam o fator Rh foram designados Rh- e apresentavam o genótipo rr, sendo considerados geneticamente recessivos.
+
+
+== Genética e bioquímica ==
+Os antígenos do sistema Rh são de natureza glicoproteica, de grande variabilidade. Com o avançar das pesquisas, o sistema se revelou na prática bem mais complexo do que a tipificação simplesmente em Rh Positivo e Rh negativo. Hoje, conhecem-se mais de 40 antígenos diferentes pertencentes a este sistema. 
+A presença de vários fenômenos de expressão incompleta, fraca e/ou parcial dos antígenos, além da síndrome do Rh Null (caracterizada pela ausência total de antígenos do sistema Rh, associada a uma anemia hemolítica compensada e à presença de estomatócitos no sangue periférico) dificulta o estabelecimento de uma teoria única, capaz de explicar todos os fenômenos observados. Duas teorias são atualmente aceitas para explicar a fenomenologia do sistema Rh. A teoria de Fischer-Race (Race, 1944; Race et al, 1944) estabeleceu sua determinação pelos pares de alelos autossômicos D,_, C,c e E,e , resultando em um conjunto de variações genotípicas desde o CCDDEE até o cc _ _ ee , correspondendo cada variação genética a uma expressão antigênica diferente. (o antígeno correspondente ao alelo d do gene D, nunca foi encontrado é considerado inexistente). 
+Esta teoria nunca foi aceita unanimemente. Uma outra teoria, de Wiener, também aceita por alguns autores, propõe que cada um dos alelos determinaria a produção de um aglutinógeno, o qual seria um antígeno de efeitos múltiplos --- capaz de produzir diferentes anticorpos distintos, correspondentes a fatores de antígenos. Existiriam portanto os fatores Rh0, rh´, rh´´, hr´ e hr´´, correspondendo, respectivamente, aos antígenos D, C, E, c e e da teoria de Fisher-Rice. 
+A teoria de Fisher-Race é a mais utilizada na prática, embora tenha-se revelado que nenhuma das duas explica completamente todos os fenômenos observados no sistema Rh. Assim, foi realizada uma correspondência entre as duas teorias, na tentativa de se chegar a uma teoria consensual. Desta maneira, às oito combinações gênicas de Fischer - respectivamente cDe, CDe, cDE, CDE, cde, Cde, cdE e CdE - corresponderiam os alelos de Wiener: R0, R1, R2, Rz, r, r´,r´´, e ry. As combinações dos oito haplótipos de Fischer (ou dos alelos de Wiener) resultariam na formação dos diversos antígenos associados ao sistema Rh. 
+Do ponto de vista prático as duas teorias são equivalentes, sendo a teoria de Fischer-Race de mais fácil memorização. Entretanto nenhuma das duas teorias explica todas as mutações existentes, e outras variáveis antigênicas originalmente não previstas, como as variantes Cx, Cw e Ew (e os anticorpos correspondentes) já foram descobertas. Numerosos outros fenômenos muito raros, mas também bastante complexos, resultam em antígenos e aglutinógenos que ainda hoje desafiam a imuno-hematologia.
+
+
+=== Sistema Rh: Fenótipos e Genótipos ===
+
+
+== Determinação laboratorial dos antígenos do sistema Rh ==
+Não existem anticorpos naturais no sistema Rh, sendo os anticorpos presentes apenas nos indivíduos sensibilizados por inoculação prévia. A inoculação pode ocorrer por episódios de transfusão incompatível ou, na mulher, devido à introdução, no sangue materno da mãe Rh negativo, de hemácias provenientes de uma gravidez ou aborto de filho Rh Positivo. Este fato tem duas implicações importantes:
+
+Toda mulher Rh negativa grávida de um homem Rh Positivo deve tomar medidas especiais para evitar ser sensibilizada.
+Inexiste, na determinação laboratorial dos antígenos do sistema Rh, prova reversa análoga à praticada no caso do sistema ABO.A presença de antígenos fracos torna desaconselhável a determinação dos antígenos do sistema Rh em lâmina, pois nesta metodologia alguns dos antígenos mais fracos (que deveriam ser classificados como Rh positivos) podem ser incorretamente classificados como Rh negativos. No Brasil, a legislação estabelece como necessária a determinação do fator Rh em microplacas escavadas e/ou através da centrifugação em tubos de ensaio. Nessas metodologias, é obrigatória a investigação dos antígenos Rh fracos (antigamente designados como Du) por meio de incubação a 37°C e com acréscimo de Albumina bovina a 22%, e pela prova de Coombs. É também possível a determinação direta do D fraco pelo método de gel-centrifugação --- também admitido na legislação brasileira. Neste método, o Rh fraco é determinado diretamente através da intensidade de aglutinação, classificada em ausente ou --- se positiva --- em intensidades de (+) até (++++).
+Em todos os métodos, é recomendada para os pacientes Rh negativos a determinação dos antígenos C,c e E,e, a qual pode ser executada através do uso de soro poliespecífico "CDE". Isto classifica estes pacientes em Rh Negativo e Rh negativo, CDE Positivo.
+
+
+== Transfusões no sistema Rh ==
+Três situações descrevem os fenômenos encontrados na quase totalidade das situações clínicas:
+
+Os pacientes Rh negativo representam em torno de 15% dos receptores; estes pacientes devem receber sangue Rh negativo, e podem doar para qualquer tipo.
+Em circunstâncias especiais, é considerada aceitável a transfusão de sangue Rh negativo, CDE positivo a estes pacientes. Esta, contudo, deve ser evitada.
+Pacientes Rh negativo, CDE positivo perfazem menos de 1% dos indivíduos. Devem receber sangue Rh negativo, mas seu sangue ordinariamente é doado a receptores Rh positivo.
+Os pacientes Rh fraco (antigamente designados como Rh negativo, Du positivo) são equiparados aos pacientes Rh Positivo, considerando-se haver uma diferença apenas quantitativa (e não qualitativa) na expressão de seu antígeno. Juntos, perfazem o total de aproximadamente 85% dos indivíduos. Podem receber sangue de qualquer tipo, mas doam apenas aos pacientes Rh positivo ou fraco.
+
+
+== Doença Hemolítica do Recém Nascido e fator Rh ==
+
+Como já mencionado, mães portadoras do Rh negativo podem sofrer imunização contra antígenos do sistema Rh. Nesses casos, uma gravidez posterior com feto de Rh positivo pode resultar na entrada, no sangue do feto, de anticorpos anti-Rh. (ao contrário do sistema ABO, onde os anticorpos naturais de classe IgM não atravessam a barreira placentária, os anticorpos do sistema Rh são imunes, e portanto do tipo IgG --- de baixo peso molecular, e capazes de atravessar a placenta). No sangue do feto, estes anticorpos reagirão contra seus antígenos eritrocitários, resultando em destruição das hemácias fetais. Esta condição é conhecida como Doença Hemolítica do Recém-Nascido (DHRN) ou Eritroblastose fetal, e pode ser fatal ao feto.
+Previne-se esta imunização da mulher pela aplicação de Gama-globulina anti-D, que é composta de anticorpos anti-D produzidos em laboratório. Deverá ser aplicada sempre que for previsível uma inoculação no sangue materno de antígenos D --- vale dizer, a cada aborto ou gravidez. Isto porque estes anticorpos têm por finalidade bloquear os antígenos D recebidos pela mãe, antes que o seu sistema imunológico tenha a oportunidade de reagir contra eles, produzindo anticorpos próprios e memória imunológica contra estes. Uma vez que a mãe já esteja imunizada contra antígenos Rh, esta prevenção torna-se inócua.
+
+
+== Referências ==
+
+
+== Ver também ==
+Eritroblastose fetal América do Sul
+sanguíneo
+Hemoterapia
+Imuno-hematologia
+SangueAmerican Association fo Blood Banks (inglês)
+International Society of Blood Transfusion (inglês)
+Sociedade Brasileira de Hematologia e Hemoterapia

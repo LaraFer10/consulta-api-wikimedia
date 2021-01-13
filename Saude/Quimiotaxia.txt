@@ -1,0 +1,67 @@
+Quimiotaxia, quimiotactismo, é a locomoção orientada e unidirecional ao longo de um gradiente químico, causado pela diferença de concentração de determinadas substâncias denominadas quimiotratores ou agentes quimiotáticos, que podem ser liberadas por tecidos lesados, geradas por sistemas enzimáticos presentes no plasma, formadas durante reações imunes ou liberadas por microrganismos.Para a sua locomoção, é preciso que a célula reconheça e interaja com as substâncias, de forma com que diversos estudos indicam a presença de especificidade dos receptores para os quimiotratores. A reação dos elementos quimiotáticos aos receptores ocorre quando cerca de 20% destes está ocupada, sendo então caracterizada como rápida.
+Para determinar qual quimiotático que será liberado depende do dano tecidual e da invasão microbiana. O peptídeo chamado C5a, do é um quimiotático gerado pela ativação do sistema complemento e um peptídeo denominado fibrinopeptídeo B, derivado do peróxido de hidrogênio e fibrinogênio. Após 5 minutos do dano o de gradiente H2O2  é desencadeado pela lesão, imediatamente antes da movimentação dos primeiros neutrófilos para a ferida. Dentre os outros quimiotáticos, encontram-se as quimiocinas e os lipídios, como o leucotrieno B4. As bactérias invasoras liberam peptídeos com grupos metionina formilados, que são muito atrativos para os neutrófilos de alguns mamíferos. Assim, os neutrófilos migrantes recebem diversos sinais que os atraem aos sítios de invasão e dano tecidual. 
+Nem todos os animais apresentam neutrófilos igualmente responsivos. Em bovinos que apresentam um genótipo específico do receptor de quimiocina CXCR2, por exemplo, a migração dos neutrófilos é menor do que nos animais normais. Nos bovinos que apresentam esse genótipo, a expressão das cadeias de integrina CD18 e CD11b e, assim, a resistência à mastite, é menor. 
+
+
+== Agentes quimiotáticos ==
+Os agentes quimiotáticos são classificados como agentes endógenos (derivados de células ou do plasma) ou agentes exógenos (derivados de microrganismos).
+
+
+=== Agentes endógenos ===
+
+
+====== C5a e C5a desoxi arginina ======
+O C5a é uma anafilotoxina altamente quimiotáxica para neutrófilos, monócitos, eosinófilos e basófilos, sendo liberada pela ativação do sistema complemento ou por clivagem direta pela tripsina, proteases bacterianas ou enzimas de lisossomos de macrófagos e neutrófilos. O C5a é convertido para C5a desoxi arginina, que é quimiotrator na presença de coquemotoxina, um polipeptídio. Derivado do plasma.,
+
+
+====== Fibrinogênio ======
+Possui atividade quimiotática porem muito inferior à do C5a. Derivado do plasma.
+
+
+====== Leucotrieno B4 (LTB4) ======
+Induz a adesão de leucócitos ao endotélio venular. Derivado de células.,
+
+
+====== Fator agregador de plaquetas (PAF) ======
+Realiza função semelhante ao LTB4, além de induzir infiltração leucocitária na pele. Derivado de células como as do endotélio, neutrófilos, basófilos e monócitos.
+
+
+====== Elementos de lisossomos ======
+Tem como uma das funções na inflamação a quimiotaxia. Proteínas presentes em lisossomos de neutrófilos são quimiotáticos para monócitos. Derivados de células.
+
+
+====== Citocinas ======
+IL-1 é um fator quimiotático para neutrófilos. As responsáveis pela movimentação de leucócitos são chamadas de quimiocinas. Podem ser constitutivas (produzidas normalmente nos tecidos) ou induzidas (inflamatórias). As duas principais famílias são a das quimiocinas CC (resíduos de cisteína adjacentes) e as CXC (resíduos de cisteína separados por um aminoácido). Seus receptores são do tipo acoplado à proteína G. Derivadas de células.,
+
+
+====== Stem cell fator (Fator de células tronco) ======
+Agentes quimiotáticos derivados de células, principalmente para mastócitos.
+
+
+====== TGFb1( Fator de transformação do crescimento beta 1) ======
+Agentes quimiotáticos derivados de células, principalmente para mastócitos.
+
+
+=== Agentes exógenos ===
+
+
+====== Lecitinas ======
+Mescla de fosfolipídios, triglicerícedeos e glicolipídios.
+
+
+====== Oligopeptídeos simples ======
+Derivados de bactérias.
+
+
+====== Lipopolissacarídeos ======
+Provenientes da destruição de microorganismos são agentes quimiotáticos para neutrófilos e basófilos.
+
+
+== Referências ==
+== [[{{{1}}}]] ==
+ Caro editor, não retire referências do texto sem dar nenhuma explicação. Se as referências estão lá, elas estão por algum motivo. Se considera que elas devam ser retiradas, dê ao menos uma explicação. Por estarmos em uma comunidade colaborativa, mesmo que um usuário acredite estar com a razão, após sua edição ser revertida ele deve explicar seus motivos na discussão, para que outros usuários, ou clarifiquem seus mau entendidos, ou concordem com você e entendam que é melhor retirar a referência. A insistência na retirada de referências sem dar explicações, mesmo após aviso, pode não ser visto com bons olhos, mesmo com a política do projeto de assumir a boa fé.
+
+
+== Ligações externas ==
+http://www.moreirajr.com.br
+http://www.fcav.unesp.br

@@ -1,0 +1,17 @@
+Em medicina e estatística, o termo gold standard (literalmente, standard de ouro) ou exame de referência emprega-se para se referir ao melhor exame de diagnóstico disponível em condições razoáveis. Não tem que ser necessariamente o exame mais eficiente. Por exemplo, na medicina, uma autópsia pode ser o melhor exame para se ter um diagnóstico preciso. Neste caso, o exame de referência é menos precisa do que a autópsia.
+
+
+== Medicina ==
+"Padrão ouro" pode se referir aos critérios pelos quais as evidências científicas são avaliadas. Por exemplo, na pesquisa de ressuscitação , o teste "padrão ouro" de um medicamento ou procedimento é se leva ou não a um aumento no número de sobreviventes neurologicamente intactos que saem do hospital.  Outros tipos de pesquisa médica podem considerar uma redução significativa na mortalidade em 30 dias como o padrão-ouro.
+O Guia de Estilo da AMA prefere a frase Critério Padrão ao invés de "padrão ouro", e muitas revistas médicas agora exigem esse uso em suas instruções para colaboradores. Por exemplo, Arquivos de Medicina e Reabilitação biológica especifica esse uso.  Quando o critério é todo um procedimento de teste clínico, geralmente é chamado de definição de caso clínico .
+Um teste hipotético ideal "padrão ouro" tem uma sensibilidade de 100% em relação à presença da doença (identifica todos os indivíduos com um processo de doença bem definido; não apresenta resultados falso-negativos) e uma especificidade de 100% (não identifica falsamente alguém com uma condição que não a possui; não possui resultados falso-positivos). Na prática, às vezes não existem testes padrão-ouro verdadeiros. 
+À medida que novos métodos de diagnóstico se tornam disponíveis, o teste "padrão ouro" pode mudar com o tempo. Por exemplo, para o diagnóstico de dissecção aórtica , o teste padrão-ouro costumava ser o aortograma , que apresentava sensibilidade tão baixa quanto 83% e especificidade tão baixa quanto 87%. Desde os avanços da ressonância magnética , o angiograma de ressonância magnética (MRA) tornou-se o novo teste padrão ouro para dissecção da aorta, com sensibilidade de 95% e especificidade de 92%. Antes da ampla aceitação de qualquer novo teste, o teste anterior mantém seu status como "padrão ouro".
+
+
+== Teste de Calibração ==
+Como os testes podem estar incorretos (resultando em falso-negativo ou falso-positivo ), os resultados devem ser interpretados no contexto da história, nas descobertas físicas e em outros resultados do indivíduo que está sendo testado. É nesse contexto que a sensibilidade e a especificidade do teste "padrão ouro" são determinadas.
+Quando o padrão-ouro não é perfeito, sua sensibilidade e especificidade devem ser calibradas com base em testes mais precisos ou na definição da condição.  Essa calibração é especialmente importante quando um teste perfeito está disponível apenas por autópsia. É importante enfatizar que um teste deve atender a algum acordo interobservador, para evitar algum viés induzido pelo próprio estudo. 
+Erros de calibração podem levar a erros de diagnóstico . 
+
+
+== Referências ==

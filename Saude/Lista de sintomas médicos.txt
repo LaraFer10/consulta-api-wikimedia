@@ -1,0 +1,86 @@
+Este artigo tem como objetivo fazer uma listagem dos sintomas médicos:
+
+Gerais
+caquexia (R64)
+perda de apetite (R63.0)
+perda de peso (R63.4)
+ganho de peso (R63.5)
+boca seca (R68.2)
+Fadiga (R53)
+malaise
+astenia
+fraqueza muscular (M62.8)
+pyrexia (R50)
+icterícia (P58, P59, R17)
+dor
+dor abdominal (R10)
+dor no peito (R07)
+dispareunia (N94.1)
+vaginismo (N94.2)
+bruising (Sx0 (x=0 a 9))
+epistaxe (R04.0)
+tremor (R25.1)
+convulsões (R56)
+cãibra muscular (R25.2)
+paralisia
+tinnitus (H93.1)
+tontura / vertigem (R42)
+síncope (R55)
+incontinência fecal
+cataplexia (G47.4)
+hipotermia (T68)
+hipertermia (T670)Neurológicos/Psicológicos
+ansiedade
+ataxia
+catatonia (F20.2)
+disartria
+sonolência (R40.0)
+insônia (F51.0, G47.0)Ocular
+amaurosis fugax (G45.3) e amaurosis
+blurred vision
+visão dupla (H53.2)
+midríase/miose (H570)
+nistagmoGastrointestinal
+anorexia (R63.0)
+Inchaço (R14)
+Eructação (R14)
+blood in stool: melena (K92.1), hematochezia
+constipação (K59.0)
+diarreia (A09, K58, K59.1)
+disfagia (R13)
+dispepsia (K30)
+flatulência (R14)
+náusea (R11)
+pirose (R12)
+vômitos (R11)Cardiovascular
+dor do peito (R07)
+claudicação
+palpitação (R00.2)
+taquicardia (R00.0)
+bradicardia (R00.1)
+arritmia
+reticulocitose
+macrocitose (D75.8)Urológicos
+disúria (R30.0)
+poliúria (R35)
+hematúria (R31)
+frequência urinária (R35)
+incontinência urinária (R32)
+impotência (N48.4)Pulmonares
+hipoventilação
+hiperventilação
+bradipneia (R06.0)
+apneia
+tosse (R05)
+dispneia (R06.0)
+hemoptise (R04.2)
+pleurisia
+sputum production (R09.3)
+taquipnéia (R06.0)Tegumentar
+Brotoeja (R21)
+Prurido (L29)
+edema (R60)
+anasarca (R60.1)
+blister (T14.0)
+urticária (L50)
+parestesia (R20.2)

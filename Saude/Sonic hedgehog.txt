@@ -1,0 +1,41 @@
+Sonic hedgehog (SHH) é uma de três proteínas da família de sinalizadores chamada hedgehog, encontrada em mamíferos, sendo as outras desert hedgehog (DHH) e Indian hedgehog (IHH). SHH é o ligante mais bem estudado da via de sinalização hedgehog. Desempenha um papel importante na fina regulação da organogênese em vertebrados, como o crescimento dos dedos nos membros e a organização do cérebro. Sonic hedgehog é o exemplo de morfógeno mais bem estabelecido, como definido pelo modelo da bandeira da França de Lewis Wolpert — uma molécula que se difunde para formar um gradiente de concentração e que apresenta diferentes efeitos nas células do embrião em desenvolvimento de acordo com sua concentração. SHH continua importante em adultos, controlando a divisão celular de células-tronco adultas e tem sido associada ao desenvolvimento de alguns tipos de câncer. Sua ação pode ser inibida por uma molécula conhecida como Robotnikinina.
+
+
+== Descoberta ==
+O gene hedgehog (hh) foi primeiro identificado nos clássicos estudos de Eric Wieschaus e Christiane Nüsslein-Volhard em Heidelberg, publicados em 1978. Essas investigações renderam a eles o Prêmio Nobel de Fisiologia ou Medicina de 1995, junto do geneticista do desenvolvimento Edward B. Lewis, por identificar os genes que controlam o padrão de segmentação nos embriões de Drosophila melanogaster (mosca-de-frutas). O fenótipo mutante com perda de função do gene hh gera embriões cobertos de dentículos (pequenas projeções pontiagudas), lembrando um ouriço (em inglês, hedgehog).
+Pesquisas com o objetivo de encontrar um hedgehog equivalente em mamíferos revelaram três genes homólogos. Os dois primeiros a serem descobertos, desert hedgehog e Indian hedgehog, receberam o nome de espécies de ouriços, enquanto o sonic hedgehog ganhou o nome do personagem de videogame da Sega, Sonic the Hedgehog. Em peixes-zebra, os ortólogos dos três genes hh de mamíferos são: shh a, shh b (antigamente descrito como tiggywinkle hedgehog, o nome da personagem de livros infantis de Beatrix Potter, Mrs. Tiggy-Winkle) e indian hedgehog b (antigamente descrito como echidna hedgehog, devido ao aspecto espinhoso da équidna, embora também possa ser uma referência divertida a Knuckles the Echidna, um outro personagem da série de jogos eletrônicos Sonic the Hedgehog).[carece de fontes?]
+
+
+== Funções ==
+Sonic Hedgehog é um morfógeno presente em diversos mecanismos do desenvolvimento, como na formação do tubo neural, definição do eixo levo-dextro crescimento dos membros e desenvolvimento dos olho, pulmões, penas, escamas e dentes; e na remodulação do epitélio intestinal durante a metamorfose de Xenophus . Sua atuação ocorre formando gradientes de concentração distintos para induzir diferentes destinos celulares de acordo com a concentração presente. 
+
+
+=== Formação do tubo neural ===
+O tubo neural possui diferentes tipos de neurônios ao longo do eixo dorso-ventral. Na região dorsal encontra-se neurônios sensoriais, na região ventral ha neurônios motores e no meio residem interneurônios mantendo a comunicação entre as outras duas classes. Essa diferenciação ocorre através de sinalização provindas das regiões proximais do tubo neural. a região ventral é sinalizada pela notocorda, ao expressar SHH, e a região dorsal é induzida pela epiderme. Por ação parácrina, SHH induz as células próximas do tubo neural a virar a Placa basal, que também produzem SHH. A geração pontual de SHH, cria um gradiente ao longo do eixo dorso-ventral, a concentração é maior na região ventral e menor na região dorsal. Na região dorsal do tubo neural, também ha um gradiente de concentração de proteínas da família TGF-β (BMP4, BMP7, BMP5, activina), secretadas pela ectoderme dorsal. A ação desses fatores parácrinos sobre cada célula ao longo do eixo dorso-ventral será diferente devido ao tempo de exposição e a concentração que elas se encontram. As células mais próximas da placa basal, onde a concentração de SHH é maior, serão induzidas a produzir fatores de transcrição específicos (Nkx6.1 e Nkx2.2) tornando-se neurônios ventrais V3. logo acima, onde a concentração é levemente menor, as células presentes são induzidas a produzir outros fatores de transcrição (Nkx6.1 e Pax6), gerando neurônios motores. Ao longo do gradiente de concentração, no sentido ventro-dorsal, serão induzidos interneurônios V2, V1, V0, D2 e D1.
+
+
+=== Definição do eixo levo-dextro ===
+Em vertebrados, a distribuição dos órgãos dentro do corpo não é simétrica gerando lados distintos. Durante o desenvolvimento a sinalização para determinar o lado, é realizada por um grupo de proteínas, PiTx2 e Nodal. Em Gallus gallus domesticus, no lado direito SHH é inibida por BMP4, que por sua vez ativa FGF8 e, consequentemente Snail (cSnR). No lado direito, SHH ativa Cerberus (Caronte), inibindo a atividade inibitória de BMP. Portanto, Nodal, presente e agora expressa, ativa PiTx2. Em humanos, uma mutação que acarreta na eliminação da atividade de PiTx2 é conhecida como síndrome de Rieger.
+
+
+=== Formação dos dígitos nos membros ===
+Durante o desenvolvimento dos membros, A zona polarizadora (ZPA) expressa SHH. Por atividade autócrina e parácrina, células na região ventral-medial do membro se diferenciarão nos dígitos 5, 4 e 3, sendo o primeiro exposto por mais tempo a SHH e o ultimo por menos tempo. O dígito 2 recebe SHH somente por difusão e o dígito 1 é diferenciado independentemente de SHH.  
+
+
+=== Desenvolvimento de somitos ===
+Durante a diferenciação dos somitos, A notocorda expressa SHH, que por ação parácrina, induz a região ventro-medial do somito a tornar-se um esclerótomo. SHH promove a expressão de Pax1, necessária para a formação de cartilagens e vértebras.
+
+
+=== Desenvolvimento de escamas e penas ===
+Durante o desenvolvimento das escamas, SHH e BMP4 são expressadas simultaneamente, em polos opostos do placódio de escama. no entanto, a mudança do padrão de expressão dessas proteínas, localizado na região distal do apêndice, formará uma pena tubular. Posteriormente, modificações do padrão de expressão formando linhas ao longo do eixo proximal-distal, gerariam penas com barbas. Mudanças continuas do padrão de expressão acabariam gerando penas com uma raque, seu eixo central.
+
+
+=== Desenvolvimento dos olhos ===
+Durante o desenvolvimento dos olhos, a divisão do campo ocular central para formar dois olhos bilaterais simétricos é mediado por SHH, inibindo a ação de Pax6. Caso o gene de SHH sofra mutação ou há uma disfunção da proteína, o campo medial ocular não será divido, acarretando em uma condição conhecida como ciclopia.  Por outro lado, se ha uma super expressão de SHH, Pax6 é inibida demasiadamente acarretando na não formação dos olhos.
+
+
+== Referências ==
+
+
+== Ligações externas ==
+Artigo introdutório sobre SHH em Davidson College (em inglês)

@@ -1,0 +1,36 @@
+Os receptores GABAB (GABABR) são receptores metabotrópicos transmembranares, ativados pelo ácido gama-aminobutírico (GABA), ligados a uma proteína G em canais de potássio. Esses receptores são encontrados na região periférica e central do sistema nervoso autônomo.
+
+
+== Funções ==
+Os receptores GABAB podem estimular a abertura dos canais de K+, o que faz com que o neurônio ao equilíbrio do potencial de K+, hiperpolarizando o neurônio. Isto evita a abertura dos canais de sódio, evita que o potencial de ação dispare, impede a abertura dos canais de Ca2+ dependente de voltagem, e por isso impede a liberação de neurotransmissores. Assim os receptores GABAB são considerados receptores inibidores.
+Eles também podem reduzir a atividade da adenilato ciclase e diminuir a condutância de Ca2+ na célula.Os receptores GABAB estão envolvidos nas ações do etanol, GHB (ácido gama-hidróxibutírico) e possivelmente na dor. Pesquisas recentes sugerem que este receptor pode representar uma importante função no desenvolvimento.
+
+
+== Estrutura ==
+GABABRs são semelhantes na estrutura e da mesma família dos receptores metabotrópicos de glutamato. Existem dois subtipos do receptor, GABAB1 e GABAB2, e estes mostram-se juntos como heterodímeros nas membranas neuronais, ligando-se por sua porção intracelular carboxi-terminal.Especula-se que a ligação do GABA causa uma modificação da estrutura do receptor de um modo parecido do qual a planta dionéia pega as moscas.
+
+
+== Ligantes seletivos ==
+
+
+=== Agonistas ===
+GABA
+Baclofeno (é um análogo GABA, que age como um agonista seletivo dos receptores GABAB, e é usada como relaxante muscular. No entanto, pode agravar a crise de ausência e, por isso, não é utilizado na epilepsia)
+GHB
+Fenibut
+
+
+=== Antagonistas ===
+Saclofeno
+Faclofeno
+Feniletilamina
+SCH-50911
+
+
+== Ver também ==
+GABA
+Receptor GABAA
+Receptor GABAC
+
+
+== Referências ==

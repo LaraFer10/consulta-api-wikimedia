@@ -1,0 +1,55 @@
+A glicina (do grego glykos, "doce", nome devido ao seu sabor adocicado) é um dos aminoácidos codificados pelo código genético, sendo portanto um dos componentes das proteínas dos seres vivos. É codificado pelos codões GGU, GGC, GGA e GGG.
+Devido à sua simplicidade estrutural, este aminoácido tende a ser conservado evolucionariamente em proteínas como o citocromo c, a mioglobina e a hemoglobina. A glicina é o único aminoácido que não apresenta actividade óptica. A maioria das proteínas possui pequenas quantidades de glicina; o colagénio é uma excepção de nota, constituindo a glicina cerca de um terço da sua estrutura primária. A presença de glicina inibe a formação de alfa-hélices mas facilita a formação de folhas-beta na estrutura secundária de proteínas, por ser um aminoácido que apresenta um alto grau de flexibilidade quando integrado numa cadeia polipeptídica.Apesar de ser um aminoácido apolar, a sua cadeia lateral (um átomo de hidrogênio) é demasiado curta para participar em interações hidrofóbicas. No entanto, a glicina pode, em determinadas enzimas como a piruvato:formato liase, ser convertida a radical glicilo através da retirada desse átomo de hidrogênio, sendo este radical importante para a catálise enzimática, embora instável e destruído na presença de O2.
+
+
+== Biossíntese ==
+A glicina não é um aminoácido essencial na dieta humana, já que é sintetizado pelo organismo a partir do aminoácido serina numa reacção catalisada pela enzima serina hidroximetiltransferase:
+HO2CCH(NH2)CH2OH  +  H2-folato  →  HO2CCH2NH2  +  CH2-folato  +  H2O
+
+
+== Função fisiológica ==
+
+
+=== Como intermediário biossintético ===
+A glicina serve de precursor a diversas espécies químicas. O ácido aminolevulínico, precursor chave das porfirinas, é sintetizado in vivo a partir de glicina e succinil-coenzima A. A glicina fornece também o bloco C2N central a todas as purinas. Uma das vias de degradação do aminoácido treonina passa pela sua conversão a glicina, embora esta via metabólica seja relativamente pouco importante no metabolismo humano. É ainda precursor na via biossintética da fosfocreatina.
+A degradação da glicina segue três vias principais:
+
+Pode ser degradada a piruvato, seguindo a reacção inversa da sua biossíntese (ou seja, conversão a serina e então conversão desta a piruvato).
+Especialmente em animais, a glicina pode ser oxidada a CO2, NH4+ e um grupo metileno pela enzima glicina sintase.
+Pode ser oxidada e desaminada a glioxilato pela enzima D-aminoácido oxidase, sendo o glioxilato posteriormente reduzido a oxalato.
+
+
+=== Como neurotransmissor ===
+A glicina é um neurotransmissor inibitório no sistema nervoso central, especialmente a nível da medula espinal, tronco cerebral e retina. Quando receptores de glicina são activados, o ânion cloreto entra no neurônio através de receptores ionotrópicos, causando um potencial pós-sináptico inibitório. A estricnina actua como antagonista nos receptores ionotrópicos de glicina. A glicina é, junto com o glutamato, um co-agonista de receptores NMDA; esta ação facilita a actividade excitatória dos receptores glutaminérgicos, em contraste com a atividade inibitória da glicina.
+A dose letal de glicina administrada oralmente, em ratos, é de 7930 mg/kg, causando morte usualmente por hiperexcitabilidade.
+
+
+=== Como elemento estrutural ===
+Além de ser um aminoácido importante na formação de colagénio, é essencial na formação da camada de peptidoglicano na parede celular de bactérias Gram-positivas, ao formar um pentapéptido (pentaglicina) que ajuda na ligação entre resíduos de ácido N-acetilmurâmico. A pentaglicina está ausente nas bactérias Gram-negativas.
+A glutationa, tripéptido essencial na manutenção do equilíbrio redox intracelular, tem na sua constituição glicina.
+
+
+=== Na fotorrespiração ===
+As mitocôndrias de plantas apresentam uma via alternativa de respiração, a fotorrespiração, em que a glicina é convertida a serina através da seguinte reacção, catalisada pela enzima glicina descarboxilase:
+
+2 Gly +  NAD+ → Ser + CO2 + NH3 + NADH + H+,tornando-se esta a principal fonte de NADH mitocondrial para posterior produção de ATP. Esta reacção faz parte do grupo estrutural do RNA ciclo do glicolato.
+
+
+== Detectada num cometa ==
+A glicina foi descoberta na atmosfera do cometa Júpiter  67P/Churyumov-Gerasimenko, pela sonda europeia Rosetta.
+
+
+== Referências ==
+
+DAWSON, R.M.C.; ELLIOTT, D.C.; ELLIOTT, W.H.; JONES, K.M., Data for Biochemical Research, 3rd ed., pp. 1–31 (1986)
+
+
+== Bibliografia ==
+Nelson, David L; Cox, Michael M (2004). Lehninger Principles of Biochemistry 4 ed. [S.l.]: W.H.Freeman. ISBN 978-0-7167-4339-2  
+Wagner, A.F; Frey, M.; Neugebauer, F.A.; Schäfer, W.; Knappe, J (1992). The free radical in pyruvate formate-lyase is located on glycine-734. 89(3):996-1000. [S.l.]: Proc. Natl. Acad. Sci. U.S.A.  
+
+
+== Ligações externas ==
+«Glicina» (em inglês) 
+«Computational Chemistry Wiki» (em inglês) 
+«Sistema de clivagem da glicina» (em inglês)

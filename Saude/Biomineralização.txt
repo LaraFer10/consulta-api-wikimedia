@@ -1,0 +1,41 @@
+A biomineralização é o processo pelo qual organismos vivos produzem minerais, muitas vezes para endurecer ou tornar rígidos tecidos existentes. É um fenómeno amplamente distribuído; todos os seis reinos taxonómicos incluem membros capazes de formar minerais e mais de 60 minerais foram identificados em organismos. Entre os exemplos incluem-se silicatos em algas e diatomáceas, carbonatos em invertebrados, e fosfatos e carbonatos de cálcio em vertebrados. Estes minerais formam frequentemente caracteres estruturais como conchas e ossos. Os organismos produzem esqueletos mineralizados há 550 milhões de anos. Outros exemplos incluem depósitos de cobre, ferro e ouro relacionados com bactérias. Os minerais formados biologicamente têm muitas vezes usos especiais com sensores magnéticos em bactérias magnetotácticas (Fe3O4), aparatos sensores de gravidade (CaCO3, CaSO4, BaSO4) e na mobilização e armazenamento de ferro (Fe2O3•H2O na proteína ferritina).
+Em termos da distribuição taxonómica, os biominerais mais comuns são sais de fosfato e carbonato de cálcio usados juntamente com polímeros orgânicos como colagénio e quitina para fornecer suporte estrutural a ossos e conchas. As estruturas destes materiais biocompósitos são altamente controladas do nível nanométrico ao nível macroscópico, resultando em arquitecturas complexas que fornecem propriedades multifuncionais. Como este grau de controlo sobre o crescimento mineral é desejável em aplicações de engenharia dos materiais, existe um interesse significativo sobre a compreensão e clarificação dos mecanismo da biomineralização controlada biologicamente.
+
+
+== Introdução ==
+Os biominerais podem ser gerados de dois modos diferentes, que variam de acordo com o envolvimento biológico: (1) sem regulação específica, sendo o produto de reações entre o organismo e o ambiente. É comumente exercida por seres procariontes, como as bactérias; (2) com regulação, onde o mineral participa de funções fisiológicas ou estruturais. É realizada por organismos eucariontes, unicelulares ou multicelulares.
+
+
+== Biominerais ==
+
+
+=== Carbonato de cálcio ===
+O biomineral mais conhecido é a calcita, que forma a "parte dura" de muitos invertebrados comuns, tais como corais e moluscos. Carbonatos bacterianos são sedimentos de longa duração e localmente abundantes que registram o crescimento de bactérias e os fatores ambientais que promovem a precipitação de calcita/aragonita(CaCO3) e dolomita [CaMg(CO3)2] dentro, sobre ou ao redor de bactérias e a matéria orgânica que eles produzem.
+Estes sedimentos incluem precipitados biogênicos em coluna de água (whitings) que produzem depósitos de lama de carbonato em lagos e fundo do mar, e uma variedade de depósitos bentônicos in situ, principalmente estromatólitos.
+
+
+=== Produtos sedimentares ===
+
+
+==== "Clareamento" biogênico ====
+Pequenas cianobactérias (<2 μm de tamanho), conhecidas como picoplâncton, têm sido ligadas a precipitação de carbonato de cálcio em coluna de água. Estes "eventos de clareamento" (do inglês: whiting) podem ocorrer em lagos durante afloramentos sazonais e são responsáveis pela maior parte dos depósitos sedimentares de carbonato no local. Um local bem descrito é em Fayetteville Green Lake em Nova York, onde o crescimento ativo da cianobactéria unicelular Synechococcus sp. durante os meses de verão conduz à formação de calcita na camada extracelular S (Thompson et al., 1990). Os cristais de carbonato são sedimentados através da coluna de água individualmente ou como agregados fracamente estruturados juntamente com células orgânicas, e acumulam-se como camadas de lama de carbonato no leito do lago (Kelts e Hsu, 1978).
+
+
+==== Tufa ====
+Musgos aquáticos são geralmente abundantes e profundamente calcificados em regiões com tufa que canalizam o fluxo da água. A calcificação deste não está ligada diretamente ao processo de fotossíntese do musgo, mas associado com uma cobertura de cianobactérias e pequenas algas que cresce sobre ele. Tufas de musgos e cianobactérias podem criar barreiras que bloqueiam os rios, criando lagos com cascatas de água.
+
+
+=== Sílica ===
+
+
+== Biomineralização Óssea e Dentária ==
+Consiste na deposição de cristais de hidroxiapatita (Ca10(PO4)OH2), o fosfato de cálcio menos solúvel em pH neutro, nas matrizes extracelulares dos dentes e ossos.
+
+
+=== Mecanismos ===
+Primeiramente, os odontoblastos e osteoblastos liberam vesículas de matriz, que são estruturas arredondadas envolvidas por uma membrana semelhante a uma membrana plasmática. Em razão de sua estrutura, as vesículas se constituem um microcompartimento que torna possível a criação de um ambiente protetor para a precipitação de minerais. Logo, as vesículas tornam-se os primeiros locais onde os precipitados e os cristais de mineralização são depositados. Tais locais onde ocorrem as primeiras deposições são denominadas de sítio de nucleação.
+O processo que as vesículas induzem a mineralização ainda não é totalmente compreendido. É possível que os grupos ácidos dos fosfolipídios presentes nas membranas das vesículas e/ou glicosaminoglicanos, do seu interior, formem plexos com íons Cálcio, ocasionando , dessa forma, uma concentração maior de Cálcio nas vesículas e seus arredores. Quando tais vesículas estão calcificadas, o processo de mineralização progride para as fibrilas colágenas e para as regiões interfibrilares.
+Nas fibras colágenas, os espaços entre as moléculas de tropocolágenos são os locais onde são depositados os primeiros cristais minerais. Uma vez que esses cristais iniciais são adicionados, o processo de mineralização progride por nucleação secundária, como resultado do contato da solução de cálcio e fosfato com as partículas já formadas da fase sólida. Outras moléculas da matriz, como fosfoproteínas, fosforinas e sialoproteínas, além do colágeno, interagem formando plexos que facilitam a nucleação heterogênea dos cristais minerais. A deposição e formação dos cristais multiplicam até que ocorra a completa impregnação das fibras colágenas e o preenchimento de todas as regiões interfibrilares.
+
+
+== Referências ==

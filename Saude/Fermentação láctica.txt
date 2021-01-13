@@ -1,0 +1,55 @@
+Fermentação lática é o processo metabólico constituído por uma série de reações químicas no qual heterolática.
+Em seus músculos o ser humano também pode promover a fermentação da glicose, em uma situação de demanda de energia e carência de oxigénio. Este é um mecanismo de compensação, uma maneira de obter energia. O ácido lático gerado no processo se acumula nas fibras musculares, o que pode gerar certos desconfortos.
+
+
+== Microrganismos fermentadores ==
+O grupo das bactérias ácido-lácticas é composto por 12 gêneros de bactérias gram-positivas: Carnobacterium, Enterococcus, Lactococcus, Lactobacillus, Lactosphaera, Leuconostoc, Oenococcus, Pediococcus, Streptococcus, Tetragenococcus, Vagococcus e Weissella. Todos os membros desse grupo apresentam a mesma característica de produzir ácido láctico a partir de hexoses. Os Enterococcus e os Lactobacillus não pertencem mais ao gênero Streptococcus, o microrganismo deste último gênero mais importante em alimento é o S. thermophilus. O S. diacetilactis foi reclassificado como uma linhagem de Lactococcus subespécie lactis que utiliza citrato. Algas e fungos (leveduras e ficomicetos) são também capazes de sintetizar ácido láctico. Produção comparável à das bactérias homofermentativas é obtida pelo fungo Rhizopus oryzae em meio de glicose. Sua utilização é preferível à das bactérias homofermentativas, porque o tempo gasto na fermentação é menor e a separação do produto, mais simples.
+
+
+== Fases ==
+A fermentação láctica, tal como a alcoólica, realiza-se em duas fases: 
+
+
+=== 1º Fase Glicólise ===
+
+A glicólise ocorre em dois estágios. O primeiro trata-se de um estágio preparatório, em que a glicose é fosforilada e clivada para gerar 2 moléculas de triose fosfato. Este processo consome 2 ATP, como uma forma de investimento energético. No segundo estágio, 2 moléculas de triose fosfato são convertidas a piruvato, com a concomitante geração de 4 ATP. A glicólise, portanto, tem um rendimento de 2 ATP por molécula de glicose.
+A equação global final para a glicólise é:
+Glicose + 2NAD+ + 2ATP + 2Pi  →  2 Piruvato + 2 NADH + 2H+ + 2ATP + 2H2O
+
+
+=== 2º Fase: Fermentação láctica ===
+Após a glicólise, a redução do piruvato é catalisada pela enzima lactato-desidrogenase. O equilíbrio global dessa reação favorece fortemente a formação de lactato. Microrganismos fermentadores regeneram continuamente o NAD+ pela transferência dos elétrons do NADH para formar um produto final reduzido, como o são o lactato e o etanol.
+
+
+=== Reação de síntese do ácido lático na fermentação ===
+
+
+== Rendimento ==
+O rendimento em ATP da glicólise sob condições anaeróbicas (2 ATP por molécula de glicose, representando apenas 2% do potencial energético dos reagentes), como é o caso da fermentação, é muito menor que o obtido na oxidação completa da glicose até CO2 e H2O sob condições aeróbicas (34 ou 36 ATP por molécula de glicose, representando 40% do potencial energético dos reagentes). Portanto, para produzir a mesma quantidade de ATP, é necessário consumir perto de 18 vezes mais glicose em condições anaeróbicas do que nas condições aeróbicas.
+Em termos energéticos, a glicólise libera apenas uma pequena fração da energia total disponível na molécula da glicose. Quando a glicose é completamente oxidada a CO2 e H2O, a variação total de energia livre padrão é -2840 kJ/mol. A degradação da glicose na via glicolítica até duas moléculas de piruvato (∆G’0 = -146 kJ/mol) libera, portanto, apenas 5,2% da energia total que pode ser obtida da glicose pela oxidação completa [(146/2840)x100].
+
+
+== Equação Geral ==
+O processo geral da glicólise anaeróbica pode ser representado como:
+Glicose + 2ADP + 2 Pi → 2 lactato + 2 ATP + 2 H2O + 2 H+
+Com a redução de duas moléculas de piruvato a duas de lactato, são regeneradas duas moléculas de NAD+. O processo global é equilibrado e pode continuar indefinidamente: uma molécula de glicose é convertida em duas de lactato, com a geração de duas moléculas de ATP e, ainda, NAD+ e NADH são continuamente interconvertidos sem nenhum ganho ou perda global na quantidade de cada um deles.
+
+
+== Tipos de fermentação ==
+A classificação da fermentação láctica é feita com base nos produtos finais do metabolismo da glicose:
+
+Fermentação homoláctica: processo no qual o ácido láctico é o único produto da fermentação da glicose. As bactérias homolácticas podem extrair duas vezes mais energia de uma quantidade definida de glicose do que as heterolácticas. O comportamento homofermentativo é observado quando a glicose é metabolizada, mas não necessariamente quando as pentoses o são, já que algumas bactérias homolácticas produzem ácidos acético e láctico quando utilizam pentoses. O caráter homofermentativo de algumas linhagens pode ser mudado pela alteração das condições de crescimento, tais como concentração de glicose, pH e limitação de nutrientes. Todos os membros dos gêneros Pediococcus, Streptococcus, Lactococcus e Vagococcus são homofermentadores, assim como alguns Lactobacillus, e são muito importantes para a formação de acidez em laticínios.Fermentação heteroláctica: processo no qual ocorre produção da mesma quantidade de lactato, dióxido de carbono e etanol a partir de hexoses. As bactérias heterolácticas são mais importantes do que as homolácticas na produção de componentes de aroma e sabor, tais como o acetilaldeído e o diacetil. Os heterofermentadores são Leuconostoc, Oenococcus, Weissela, Carnobacterium, Lactosphaera e alguns Lactobacillus. O processo de formação de diacetil a partir de citrato na indústria de alimentos é fundamental para a formação de odor, p. exemplo na fabricação de manteiga.
+
+
+== Aplicação industrial da fermentação láctica ==
+Alguns alimentos podem se deteriorar pelo crescimento e ação de bactérias ácido-lácticas. No entanto, a importância deste grupo de microrganismos consiste em sua grande utilização na indústria alimentar. Muitos alimentos devem sua produção e suas características às atividades fermentativas dos microrganismos em questão. Queijos maturados, conservas, chucrute e linguiças fermentadas são alimentos que possuem uma vida de prateleira consideravelmente maior que a matéria-prima da qual eles foram feitos. Além de serem mais estáveis, todos os alimentos fermentados possuem aroma e sabor característicos que resultam direta ou indiretamente dos organismos fermentadores. Em alguns casos, o conteúdo de vitaminas dos alimentos cresce juntamente com o aumento da digestibilidade da sua matéria-prima. Nenhum outro grupo ou categoria de alimentos é tão importante ou tem sido tão relacionado ao bem estar nutricional em todo o mundo quanto os produtos fermentados.
+
+
+== Bibliografia ==
+JAY, JM. Microbiologia de alimentos. Porto Alegre: Artmed, 2005. 6ª ed. p. 132-137.
+FRANCO, BDGM; LANDGRAF, M. Microbiologia dos alimentos. São Paulo: Atheneu, 1996. p. 83-87.
+PELCZAR, MJ; CHAN, E.C.S.; KRIEG, N.R. Microbiologia: conceitos e aplicações. São Paulo: Makron Books, 1996. v.1, 2ª ed. p. 290-307.
+LEHNINGER, AL. Princípios de bioquímica. São Paulo: Sarvier, 2002. 3ª ed. p. 409-420.
+VOET, D. Bioquímica. Porto Alegre: Artmed, 2006. 3ª ed. p. 834-838.
+PRATTY, CW. Bioquímica essencial. Rio de Janeiro: Guanabara Kooga, 2006. 1ª ed. p. 293-307.
+Lovatto, adalberto

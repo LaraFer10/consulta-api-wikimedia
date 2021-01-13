@@ -1,0 +1,110 @@
+Genética médica ou genética clínica é a especialidade que lida com o diagnóstico, tratamento e controle dos distúrbios genéticos e hereditários. É uma área que enfoca não só o paciente mas também toda a família, principalmente por meio do aconselhamento genético.
+
+
+== Escopo ==
+A Genética Médica compreende diferentes áreas, incluindo o atendimento clínico, a realização de exames de diagnóstico laboratorial e a pesquisa de causas e padrões de herança de doenças genéticas. Exemplos de condições que integram o escopo da Genética Médica incluem os defeitos congênitos e dismorfologia, síndromes teratogênicas, erros inatos do metabolismo, displasias esqueléticas, câncer familial, síndromes neurogenéticas, síndromes hematogenéticas, genodermatoses, entre outras. Há sobreposições crescentes com outras especialidades médicas, uma vez que os avanços recentes da Genética têm revelado a etiologia de condições neurológicas, endócrinas, cardiovasculares, pulmonares, oftalmológicas, renais, psiquiátricas e dermatológicas.
+
+
+== História da Genética Médica ==
+
+
+=== Século XIX e primeira metade do século XX ===
+
+Os padrões de herança genética foram primeiramente descritos por Gregor Mendel em 1865 em seus experimentos com ervilhas. Esses conceitos foram aplicados às doenças humanas familiares em 1902, quando Archibald Garrod descreveu o padrão de herança autossômico recessivo para a alcaptonúria. O mesmo pesquisador é responsável pelo termo "erros inatos do metabolismo". As descobertas em relação à herança humana possibilitaram o surgimento das clínicas de aconselhamento genético nos Estados Unidos em 1941. Os atendimentos das primeiras clínicas incluíam temas similares aos contemporâneos como retardo mental, defeitos do tubo neural e doença  de Huntington, bem como temas atualmente raramente abordados em contextos clínicos, como cor da pele e dos olhos e gemelaridade.
+
+
+=== Segunda metade do século XX até os tempos atuais ===
+Um número importante de progressos na compreensão das bases moleculares da genética ocorreu a partir da segunda metade do século XX. Os cromossomos já haviam sido apontados como base da herança em 1903, mas a estrutura do DNA só seria descrita em 1953 por James Watson e Francis Crick. Em 1956, o número correto de cromossomos foi estabelecido e em 1959, foi identificada a associação entre a a síndrome de Down e a trissomia do 21 por Jérôme Lejeune. Um dos mais relevantes trabalhos para a Genética Médica foi a publicação da primeira edição do Mendelian Inheritance in Man (MIM), um catálogo que reuniu todos os genes e doenças genéticas conhecidos, em 1966 por Victor A. McKusick, considerado o pai da medicina genética. O MIM é atualmente disponibilizado de forma gratuita na internet com o nome de OMIM - Online Mendelian Inheritance in Man e é atualizado regularmente. Outros marcos importantes para a Genética Médica incluem a descoberta das endonucleases de restrição em 1970, permitindo a análise do DNA, bem como a publicação do esboço do genoma humano em 2000. Essas descobertas permitiram o diagnóstico de muitas doenças genéticas através da análise cromossômica e de testes moleculares.
+
+
+== Prática clínica atual ==
+As situações clínicas nas quais os pacientes são avaliados determinam o escopo das intervenções práticas, diagnósticas e terapêuticas. De um modo geral, os encontros entre pacientes e médicos geneticistas envolvem:
+Encaminhamentos para ambulatórios de Genética (pediátricos, adultos ou combinados) ou uma interconsulta intra-hospitalar, mais frequentemente para avaliação diagnóstica;
+Ambulatórios de genética especializados, com enfoque no manuseio de erros inatos do metabolismo, displasias esqueléticas ou doenças de depósito lisossômico;
+Encaminhamentos para aconselhamento em ambulatório de genética pré-natal para discutir riscos gestacionais (idade materna avançada, exposição a teratógenos, história familiar de doença genética, história de abortamento de repetição), resultados de testes (alterações ultrassonográficas, testes )de triagem materna alterados e/ou opções de diagnóstico pré-natal (tipicamente amniocentese ou biópsia de vilosidade coriônica);
+Ambulatório multidisciplinares que incluem um médico geneticista (genética do câncer, genética cardiovascular, distúrbios da diferenciação sexual, defeitos craniofaciais ou fendas labiais/palatinas, ambulatórios de surdez, ambulatórios de distrofias musculares/doenças neurodegenerativas).
+
+
+== Aconselhamento Genético ==
+O aconselhamento genético é o processo pelo qual se fornece informação e aconselhamento a pacientes ou familiares, sobre um distúrbio genético herdado que possa afetá-los ou a seus descendentes. O propósito do aconselhamento é auxiliar nas decisões sobre reprodução e outros assuntos relacionados à saúde, com base em informações sobre o distúrbio genético, seu tratamento e prognóstico, os padrões de herança e os testes diagnósticos disponíveis. O termo Aconselhamento Genético também é aplicado à consulta em Genética Médica de um modo geral, visando o diagnóstico, tratamento e prevenção de doenças genéticas.
+
+
+== Avaliação diagnóstica ==
+O diagnóstico em Genética Médica, assim como na Medicina em geral, firma-se principalmente nos pilares da propedêutica: anamnese e exame físico. Entretanto, para alguns casos tornam-se necessários exames complementares. Entre eles, destacam-se, na área específica da Genética, os estudos cromossômicos, metabólicos e moleculares.
+
+
+=== Estudos cromossômicos ===
+
+Estudos cromossômicos são usados na genética clínica para determinar a causa de atrasos de desenvolvimento, defeitos congênitos, características dismórficas e/ou autismo. A análise cromossômica é também realizada no pré-natal para determinar se um feto é afetado por aneuploidia ou outros rearranjos cromossômicos. Finalmente, as anomalias cromossômicas são frequentemente detectadas em amostras de câncer. Um grande número de diferentes métodos tem sido desenvolvido para análise de cromossomos:
+
+Análise de cromossomos usando o cariótipo envolve diferentes corantes para gerar bandas claras e escuras, permitindo a identificação de cada cromossomo em um microscópio;Cariótipo de instabilidade cromossômica envolve o uso de substâncias que induzem quebras cromossômicas, auxiliando no diagnóstico condições genéticas relacionadas ao reparo do DNA, como a ataxia telangiectasia.Hibridação in situ fluorescente (FISH) envolve o uso de sondas marcadas com fluorecência que se ligam a sequencias específicas de DNA, usadas para identificar aneuploidia, deleções genômicas ou duplicações, caracterizando translocações cromossômicas e determinando a origem de cromossomos em anel;Hibridação genômica comparativa em array (Array CGH) é uma técnica molecular nova que envolve a hibridização de uma amostra de DNA individual a uma lâmina de vidro ou chip de microarranjos contendo sondas moleculares que representam regiões únicas do genoma. Esse método é particularmente sensível para detecção de ganhos ou perdas cromossômicas ao longo do genoma, mas não detecta translocações balanceadas ou distingue o local da duplicação do material genético.
+
+
+=== Estudos metabólicos básicos ===
+Estudos bioquímicos são realizados para rastrear por alterações nos metabólitos em fluidos corporais, geralmente o sangue ou urina, mas também ocasionalmente o líquido cefalorraquidiano. Testes específicos de função enzimática (em leucócitos, fibroblastos da pele, fígado ou músculo) também são utilizados em determinadas circunstâncias:
+
+A dosagem quantitativa de aminoácidos é tipicamente realizada utilizando a reação de ninidrina, seguida de cromatografia líquida para medir a quantidade de aminoácidos na amostra (urina, plasma/soro ou líquor). A medida de aminoácidos no plasma ou soro é utilizada na avaliação de doenças do metabolismo de aminoácidos como transtornos do ciclo da ureia, doença da urina em xarope de bordo e fenilcetonúria. As medidas de aminoácidos na urina podem ser úteis no diagnóstico de cistinúria ou síndrome de Fanconi renal como pode ser visto na cistinose;A análise de ácidos orgânicos na urina pode ser realizada tanto por métodos qualitativos como quantitativos, mas em todo caso o teste é usado para detetar a excreção de ácidos orgânicos anormais. Esses compostos são normalmente produzidos durante o metabolismo corporal de aminoácidos e ácidos graxos de cadeia ímpar, mas acumulam-se em pacientes com certas doenças metabólicas;
+O perfil de acilcarnitinas deteta compostos como os ácidos orgânicos e ácidos graxos conjugados a carnitina. O teste é utilizado para deteção de doenças envolvendo o metabolismo de ácidos graxos.
+Piruvato e lactato são produtos do metabolismo normal, particularmente durante o metabolismo anaeróbico. Esses compostos normalmente se acumulam durante exercício ou isquemia, mas estão também elevados em pacientes com transtornos do metabolismo do piruvato ou doenças mitocondriais;
+Amônia é um produto final do metabolismo dos aminoácidos e é convertida no fígado em ureia por uma série de reações enzimáticas conhecidas como ciclo da ureia. Amônia aumentada pode então ser detetada em pacientes com transtornos do ciclo da ureia, bem como outras condições incluindo insuficiência hepática;
+Testes enzimáticos são realizados para uma grande quantidade de doenças metabólicas para confirmar o diagnóstico suspeitado pelos testes de triagem.
+
+
+=== Estudos moleculares ===
+O sequenciamento do DNA é utilizado para analisar diretamente a sequência de DNA genômico de um gene em particular. Em geral, apenas as partes do gene que codificam a proteína expressa (éxons) e pequenas quantidades das regiões não traduzidas e íntrons são analisados. Desta forma, embora os testes sejam altamente específicos e sensíveis, eles não rotineiramente identificam todas as mutações que podem causar a doença.
+A análise de metilação do DNA é utilizada para diagnosticar certas doenças genéticas que são causadas por mecanismos epigenéticos como o imprinting genômico e a dissomia uniparental.
+A análise de DNA pela técnica de Southern Blot é útil no diagnóstico de doenças causadas por repetições de trinucleotídeos. Outra técnica utilizada nesses casos é a Triplet repeat primed PCR (TP PCR).
+
+
+== Tratamento ==
+Cada célula do corpo contém informação hereditária (ADN) envolta em estruturas chamadas cromossomos. Uma vez que as síndromes genéticas tipicamente resultam de alterações nos cromossomos ou genes, não há tratamento disponível atualmente que possa corrigir as alterações genéticas. Assim, ainda não há "cura" para doenças genéticas. Entretanto, em alguns casos, particularmente nos erros inatos do metabolismo, o mecanismo da doença é bem entendido e oferece o potencial de manuseio dietético e medicamentoso para prevenir ou reduzir as complicações no longo prazo. Em outros casos, a terapia de infusão é usada para repor a enzima deficiente. As pesquisas atuais estão buscando ativamente o desenvolvimento de novas medicações para tratar doenças genéticas específicas.
+
+
+=== Manuseio dietético ===
+
+Restrição e suplementação dietética são medidas tomadas em diversas doenças metabólicas bem conhecidas, incluindo galactosemia, intolerância hereditária a Frutose, fenilcetonúria, doença da urina em xarope de bordo, acidúrias orgânicas e doenças do ciclo da ureia. Tais dietas restritivas podem ser difíceis de serem mantidas pelo paciente e sua família e requer acompanhamento com nutricionista com experiência em doenças metabólicas. A composição da dieta muda de acordo com as necessidades calóricas da criança em crescimento e atenção especial é necessária durante a gravidez se uma mulher é afetada por uma dessas doenças.
+
+
+=== Moléculas pequenas ===
+Reposição do produto enzimático ou outras substancias deficientes  A falta de um produto enzimático pode ser a principal causa dos sintomas apresentados em certas doenças metabólicas, que podem então ser controladas com a reposição desse produto. Exemplos incluem a reposição de levodopa nas distonias responsivas a levodopa  e administração de biotina na deficiência de biotinidase. Em algumas doenças relacionadas a proteínas transportadoras, a suplementação da substância deficiente também é efetiva no tratamento. Exemplos incluem a suplementação de vitamina E na ataxia com deficiência de vitamina E e de cobre na doença de Menkes.Terapia de redução do substrato  Em algumas doenças relacionadas a defeitos enzimáticos, como certas doenças de depósito lisossômico, os sintomas decorrem principalmente do acúmulo do substrato e a inibição de sua síntese é utilizada para fins terapêuticos. Exemplos incluem o uso do eliglustate na Doença de Gaucher e da genisteína nas mucopolissacaridoses.Cofatores e moléculas potencializadoras  Em algumas doenças metabólicas, a atividade enzimática residual pode ser acentuada com o uso de vitaminas ou cofatores relacionados ao funcionamento da enzima. Um exemplo é o uso de altas doses de piridoxina em alguns pacientes com homocistinúria para aumentar a atividade residual da enzima cistationa sintase. Além disso, em certas condições não relacionadas a um defeito enzimático, a função da proteína defeituosa pode ser potencializada por certas substancias, como no uso do  para potencializar a proteína CFTR em um subgrupo de pacientes com fibrose cística.Chaperonas farmacológicas  Alguns pacientes com doenças genéticas tem mutações de sentido trocado, que provocam uma alteração na conformação da proteína codificada, provocando sua degradação. Certos medicamentos atuam como chaperonas farmacológicas, estabilizando a proteína e aumentando a quantidade de proteína funcional. Exemplos incluem o uso do  na fibrose cística  e do  na doença de F.br .Read-through  Uma certa parcela dos pacientes com doenças genéticas possuem mutações sem sentido, que levam a um códon de parada prematuro e à degradação do RNA mensageiro. Certas moléculas pequenas que permitem a tradução do RNA mensageiro através desses códons (read-through). Em maio de 2014, um representante dessa classe de medicamentos, o atalureno, recebeu aprovação condicional pela Agência Europeia de Medicamentos (EMA) para o tratamento de pacientes com Distrofia muscular de Duchenne com mutações sem sentido.
+Outras moléculas pequenas farmacêuticas  Certas doenças genéticas envolvem proteínas que possuem um papel bem conhecido, possibilitando a atuação nas vias envolvidas na patogênese. Exemplos incluem o uso do pamidronato para reduzir a reabsorção óssea na osteogênese imperfeita, do tafamidis e diflunisal para estabilizar os tetrâmeros de transtirretina na polineuropatia amiloidótica familiar.
+
+
+=== Medicamentos biológicos e oligonucleotídios ===
+Reposição enzimática ou de outras proteínas  Certas doenças de depósito lisossômico são tratadas com infusão de uma enzima recombinante (produzida em laboratório) que pode reduzir o acúmulo de compostos em diversos tecidos. Exemplos incluem a doença de Gaucher, a doença de Fabry, as mucopolissacaridoses e a doença de Pompe. Em outros casos, o tratamento consiste na reposição de proteínas não enzimáticas, como a reposição de fatores de coagulação nas coagulopatias hereditárias  e de hormônio de crescimento na deficiência de hormônio de crescimento.Terapia gênica  A terapia gênica compreende o uso de genes com fins terapêuticos Estudos clínicos com a terapia gênica tiveram início no começo da década de 1990 e a tecnologia vem sendo aperfeiçoada desde então. Em novembro de 2012, o primeiro produto farmacológico para terapia gênica para uma doença monogênica, o alipogene tipavorvec, usado para o tratamento da deficiência de lipoproteína lipase, foi aprovado pela EMA. Por razões comerciais, o medicamento foi descontinuado em 2017, após ter sido utilizado comercialmente uma única vez. Atualmente, a terapia gênica é utilizada comercialmente para o tratamento da imunodeficiência severa combinada por deficiência de adenosina deaminase e para a atrofia muscular espinhal e há diversos outros produtos em fases finais de desenvolvimento.Terapia antisenso  Oligonucleotídios antisenso podem ser utilizados para inibir ou modificar a tradução do RNA mensageiro em certas condições genéticas. Exemplos incluem o uso do eteplirseno na distrofia muscular de Duchenne para "saltar" o éxon 51 do gene DMD, durante o processo de encadeamento do RNA mensageiro, resultando em uma proteína menor, porém funcional (exon skipping) e da nusinersena na atrofia muscular espinhal para aumentar a produção da proteína SMN de tamanho inteiro a partir do gene SMN2.RNA interferente  O RNA interferente (RNAi) compreende o uso de conjugados oligonucleotídicos modificados para silenciar o RNA mensageiro através do complexo de silenciamento induzido por RNA (RISC). Exemplos incluem o uso da patisirana, desenvolvida para o tratamento da polineuropatia amiloidótica familiar , e da givosirana, para as porfirias hepáticas agudas.
+
+
+=== Transplantes ===
+Uma parcela das doenças genéticas decorre da mutação de proteínas que são normalmente produzidas totalmente ou principalmente em órgãos específicos, que podem ser transplantados. Além disso, o transplante de medula óssea é usado para suplementar enzimas e outros produtos gênicos ausentes em determinadas doenças. Exemplos incluem o transplante hepático na polineuropatia amiloidótica familiar  e o transplante de medula óssea na Adrenoleucodistrofia ligada ao X e em certas doenças de depósito lisossômico.
+
+
+== Carreira em Genética Médica ==
+A Genética Médica, vista como sinônimo de Genética Clínica, é uma especialidade médica. Para a exercer, é necessário graduar-se em uma escola médica e especializar-se em Genética Médica. No Brasil, esse treinamento leva nove anos, incluindo seis anos de Medicina e três anos de Genética Médica. 
+O termo Medical Genetics é utilizado em sentido mais amplo nos Estados Unidos e outros países, incluindo não só a Genética Clínica (Clinical Genetics), como também a Genética Clínica Bioquímica (Clinical Biochemical Genetics), a Citogenética Clínica (Clinical Cytogenetics) e a Genética Clínica Molecular (Clinical Molecular Genetics). As demais áreas são campos de atuação comuns com outros profissionais de saúde.
+
+
+== Genética Médica no Brasil ==
+A primeira residência em Genética Médica no Brasil foi criada em 1977 no Hospital das Clínicas de Ribeirão Preto da Universidade de São Paulo. O reconhecimento como especialidade médica pelo Conselho Federal de Medicina ocorreu apenas seis anos depois, em 1983, através da resolução Nº 1.128/1983. Em 1986, foi fundada a Sociedade Brasileira de Genética Médica e Genômica - SBGM, a partir da iniciativa dos membros da Sociedade Brasileira de Genética. Em pesquisa da demografia médica em 2018, havia 305 médicos geneticistas, sendo a especialidade médica com menos integrantes.
+
+
+=== Matriz de competências dos programas de residência médica ===
+O conteúdo e enfoque dos programas de residência médica em genética médica no Brasil é planejado de modo a permitir que os residentes atinjam as competências determinadas na resolução nº 20, de 8 de abril de 2019. As competências necessárias ao término do treinamento incluem habilidades e atitudes relacionadas a investigação clínica, investigação laboratorial e manuseio de condições genéticas, bem como a comunicação e relacionamento com pacientes e familiares, além de aspectos relacionados à saúde coletiva e à gestão do conhecimento.
+
+
+=== Genética Médica no SUS ===
+Apesar de alguns serviços de saúde públicos oferecerem atendimento em Genética Médica, não há uma rede de atenção integrada e de acesso universal nessa área. Essa situação começou a ser solucionada em 2004, com a publicação da portaria Nº 2.380, que instituiu o grupo de trabalho de Genética Clínica, com a finalidade de elaborar a Política Nacional de Atenção à Saúde em Genética Clínica. Tal tarefa foi concluída em 2009, quando foi publicada a portaria Nº 81. Em 2012, entretanto, foi instituído um novo grupo de trabalho para formulação da Política de Atenção às Pessoas com Doenças Raras, com o objetivo de regulamentar a atenção não só aos pacientes com doenças genéticas mas também aos com outras doença raras. As diretrizes assistenciais e as normas para habilitação de hospitais e serviços para o atendimento foram publicadas em janeiro de 2014. Os primeiros serviços de referência em doenças raras foram credenciados em 2016 e há atualmente oito serviços habilitados no país.
+
+
+== Genética Médica em Portugal e na União Europeia ==
+Em Portugal, a genética médica foi primeiramente reconhecida como uma competência em 1983. Para o acesso à competência de Genética Médica, era necessário ter a especialidade de Pediatria, Medicina Interna, Neurologia ou Endocrinologia. Em 1998, foi aprovada em reunião do Conselho Nacional Executivo da Ordem dos Médicos a passagem de competência a especialidade e, em 2001, foi criada a área profissional de Genética Médica e publicado o respectivo programa de formação do internato complementar. Em 2011, havia 24 especialistas em genética médica em Portugal.Na união europeia, a genética médica foi oficialmente reconhecida como especialidade apenas em 2011.
+
+
+== Ligações externas ==
+«Sociedade Brasileira de Genética Médica e Genômica - SBGM» 
+«Lista de Médicos Especialistas em Genética Médica pela SBGM no Brasil, por estado» 
+«Sociedade Portuguesa de Genética Humana» 
+Colégio da Especialidade de Genética Médica (Portugal)
+«PubMed - Biblioteca de medicina e saúde» (em inglês) 
+
+
+== Referências ==

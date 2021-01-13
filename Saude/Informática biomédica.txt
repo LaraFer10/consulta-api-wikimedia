@@ -1,0 +1,19 @@
+Informática biomédica ou Informática em Saúde  é um conceito ainda bastante discutido nos dias de hoje.
+Muitas vezes é considerada uma subárea da medicina que abrange os conceitos da computação. Muitas vezes é considerada como uma subárea da computação que se especializou nas demandas das área da saúde e, há ainda uma corrente que caracteriza este conceito como uma nova área do conhecimento humano, independente das demais e com as suas próprias características.
+Seu conceito está relacionado com a aplicação da ciência da computação nas áreas de conhecimento voltadas às ciências da vida como medicina, biomedicina, química e biologia.
+Na América Latina, os primeiros profissionais obtiveram sua formação específica na área apenas em 2006, pela Universidade de São Paulo, no campus de Ribeirão Preto.
+Igualmente, profissionais em outras partes do mundo receberam este título pela primeira vez provavelmente nos primeiros anos do século XXI. Em 2013, a Universidade Federal de São Paulo forma a sua primeira turma de Tecnologia em Informática em Saúde, mostrando o crescimento gradativo da profissão no Brasil. A Universidade Federal do Paraná (UFPR) foi a segunda instituição brasileira a oferecer este curso de graduação, o que ocorreu em 2011. Em 2015 a Universidade Federal de Ciências da Saúde de Porto Alegre, no Rio Grande do Sul, também passou a oferecê-lo.
+Os profissionais com formação específica para atuação nessa área geralmente recebem formação sólida, relacionada aos conceitos da ciência da computação complementada por disciplinas que os instigam a buscar soluções para diversos problemas relacionados às áreas de sistemas de informação em saúde, epidemiologia, bioinformática e processamentos de imagens médicas.
+As ferramentas computacionais utilizadas para solução dos problemas nesta área são diversas e vão desde simples algoritmos de análise sequencial, passando por sistemas utilizados na pesquisa, ensino e extensão, com auxílio de técnicas de inteligência artificial, redes neurais artificiais, reconhecimento de padrões, predição e simulação até visualização 3D de processos biológicos, como enovelamento de proteínas, fases da reprodução celular ou mesmo planejamento cirúrgico e robótica.
+Como é uma área nova, em muitos países seu potencial ainda é pouco explorado e com atuação incipiente. Por isso, apesar do grande potencial aplicado, na maior parte das vezes o exercício dessa área ainda ocorre em institutos de ensino e pesquisa.
+
+
+== Ver também ==
+Bioinformática
+Biomedicina
+Engenharia biomédica
+Informática médica
+Curso de Informática Biomédica da Faculdade de Filosofia, Ciências e Letras de Ribeirão Preto
+
+
+== Referências ==

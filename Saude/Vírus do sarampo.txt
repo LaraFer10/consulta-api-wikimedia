@@ -1,0 +1,30 @@
+O vírus do sarampo é um vírus com invólucro de ARN de cadeia simples e polaridade negativa. Este vírus pertence à família Paramyxoviridae e ao género Morbillivirus. O vírus do sarampo é agente patogénico humano altamente contagioso responsável por mais 130,000 mortes por ano.
+
+
+== Patologia ==
+
+O vírus do sarampo, apesar de ser considerado principalmente um patogénico respiratório, causa uma doença sistémica. Para além de febre, tosse, coriza, fatiga, etc., o vírus provoca uma prolongada imunodepressão que pode permanecer durante vários meses.As primeiras células a serem infectadas são células do sistema imunitário que patrulham os alvéolos pulmonares, a saber, células dendríticas e macrófagos.  Após serem infectadas, estas células migram para os gânglios linfáticos próximos dos pulmões, onde outras células, como linfócitos T e B, são infectadas. Vírus libertados para o sangue pelas células previamente infectadas afectam outros órgãos, como o baço, a queratinócitos da pele, epitélio pulmonar e o sistema nervoso central.
+
+
+== Organização do genoma ==
+O genoma do vírus do sarampo é composto por uma única molécula de ARN, linear de cadeia simples e polaridade negativa. Contém cerca de 16,000 nucleótidos codifica oito proteínas: seis proteínas estruturais e duas não-estruturais.As proteínas estruturais são: N ou nucleoproteína; P ou fosfoproteína; M ou proteína da matrix; H ou hemaglutinina; F ou proteina de fusão e L ou ARN-polimerase dependente de ARN. As proteínas C e V (não-estruturais) são traduzidas alternavimente do gene de P.
+
+
+=== Regra de seis ===
+Como o vírus do sarampo faz parte da família Paramyxorividae, o seu genoma apresenta característica particular desta família denominada Regra de Seis. Esta característica prende-se com o facto de que o número total de nucleótidos nos genomas de várias estirpes de sarampo, e de outros paramyxovírus, é sempre um múltiplo de 6.  Durante a replicação do vírus, a nucleoproteína mantém-se assosciada à molécula de ARN, e presume-se que cada molécula de N associa-se a 6 nucleótidos de ARN. Desta forma, genomas que tenham um número diferente de um múltiplo de 6 têm uma replicação menos eficiente.
+
+
+== Estrutura do virião ==
+O vírus do sarampo é pleomórfico, isto é, não assume uma forma constante como os viriões do vírus da imunodeficiencia humana (que são esféricos), ou do vírus da gripe, que assumem formas filamentosas ou esféricas. Os viriões têm tamanho variável de 300nm até 1μm.  Em geral, o vírus é composto por invólucro lipídico que envolve a uma complexo riboproteíco no qual participam as proteins N, P, L e M e o genoma do vírus.  As proteínas de superfície, isto é, as proteínas que se apresentam no invólucro do vírus, são H e F. Estas duas proteínas existem em grande número à superfície do vírus cobrindo o invólucro - é por esta razão que estas duas proteínas são altamente imunogénicas. H existem numa conformação de dímero-de-dímeros, isto é, quatro moléculas de H, associam-se entre si de forma simétrica para formar um tetramero. F, no entanto, apresenta-se como um trímero, ou seja, é composto por três moléculas de F. No invólucro viral, H e F estão também associadas e interagem entre si, formando um comlexo de sete moléculas: 4 Hs e 3 Fs. No interior do virião, o ARN genómico está sempre associado à proteína N. Vários monómeros de N associam-se ao ARN e entre si formando uma longa hélice. Em certas regiões, existem complexos de P e L associadas a esta longa hélice. Envolvendo o complexo ribonucleoprotéico (ARN + N + P + L) está a proteína M numa hélice de sentido oposto.
+
+
+== Ciclo de vida ==
+
+
+=== Fixação e remoção do invólucro ===
+
+Existem três receptores celulares conhecidos responsáveis pela invasão do vírus do sarampo. O receptor CD150 (ou SLAM, em inglês, signalling lymphocyte activation molecule) está presente nas células T e B, células dendríticas e outras células do sistema imunitário . Outro receptor é uma molécula chamada de nectina-4, também conhecida como Poliovirus receptor-related protein 4, e está presente na membrana basal das células epiteliais.. Estes dois receptores celulares são usados por estirpes naturais do vírus e estirpes atenuadas que são usadas na formação da vacina. Um outro receptor é usado apenas pelas estirpes atenuadas, CD46.  
+Quando o vírus entre em contacto com uma célula susceptível, isto é, que apresenta um dos receptores descritos anteriormente, a proteína H interage com a superfície da membrana citoplasmática da célula e associa-se com um destes receptores. Essencialmente, a proteína H é constituída por quatro domínios: um domínio globular que interage com os receptores proteícos; um domínio de caule que interage com a proteína F; um domínio transmembranar e um domínio intravirião (ou citoplasmático).  Após a interação do domínio globular de H com um ou vários dos receptors, H sofre uma modificação conformacional que se manifesta na interacção entre o caule de H e a proteína F. Neste intante, a proteína F é activada, expondo um péptido altamente hidrofóbico que penetra a membrana citoplasmática. O resultado desta interação leva a que o invólucro viral e a membrana citoplasmática se fundam e o conteúdo do interior do virião é libertado para o citoplasma. 
+
+
+== Referências ==

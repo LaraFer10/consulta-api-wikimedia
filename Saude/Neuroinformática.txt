@@ -1,0 +1,22 @@
+Neuroinformática é um campo de pesquisa ligado com a organização de dados neurocientíficos através da aplicação de modelos computacionais e ferramentas analíticas. Essa área de pesquisa é importante para a análise e integração de dados experimentais cada vez mais volumosos e também muito sofisticados. Especialistas em neuroinformática, os "neuroinformáticos", fornecem ferramentas computacionais, modelos matemáticos e criam bancos de dados interoperáveis por médicos e pesquisadores. A neurociência é um campo heterogêneo (lida com múltiplos assuntos), consistindo de muitas e variadas sub-disciplinas, como a psicologia cognitiva, psicobiologia e a genética do comportamento. Para que possamos aprofundar ainda mais nossa compreensão sobre o cérebro, é necessário que todas as sub-disciplinas mencionadas sejam capazes de compartilhar os dados e descobertas de maneira eficiente. Os neuroinformáticos facilitam essa complexa tarefa.A neuroinformática se situa na intersecção da neurociência e ciência da informação. Outros campos, como a genômica, tem demonstrado a efetividade de bancos de dados distribuídos gratuitamente e a aplicação de modelos computacionais e teóricos para a resolução de problemas complexos. Em neuroinformática, tais facilidades permitem aos pesquisadores confirmarem a funcionalidade de seus modelos de maneira muito mais fácil. Além disso, a neuroinformática promove pesquisas colaborativas - um fato importante que simplifica os interesses da área em estudar a complexidade multinível do cérebro.
+Há três principais direções onde a neuroinformática tem sido aplicada:
+O desenvolvimento de bancos de dados e ferramentas para compartilhar e gerenciar os dados da neurociência em todos os níveis de análise;
+O desenvolvimento de ferramentas para analisar e modelar os dados da neurociência;
+O desenvolvimento de modelos computacionais do sistema nervoso e dos processos neurais.Atualmente, como grandes quantidades de dados, de natureza diversa, sobre o cérebro, têm sido coletados por muitos grupos de pesquisa, um problema foi levantado: como integrar os dados de milhares de publicações de forma a obter ferramentas eficientes para pesquisa adicional? Os dados biológicos e neurocientíficos são altamente complexos e interconectados, e a integração, por si mesma, representa um grande desafio para os pesquisadores.
+A combinação entre pesquisa em informática e pesquisa do cérebro resulta em benefício para ambas as ciências. Por um lado, a informática facilita o processamento e o manuseio de dados cerebrais, por fornecer novas tecnologias eletrônicas e de software para estruturação de bancos de dados, além de ajudar na comunicação e modelagem da pesquisa cerebral. Por outro, aprimora as descobertas no campo da neurociência e o resultará no desenvolvimento de novos métodos dentro da tecnologia da informação.
+
+
+== Referências ==
+
+
+== Leitura adicional ==
+Todos em inglês
+
+Daniel Gardner and Gordon M. Shepherd (2004). «Uma porta de entrada para o futuro da neuroinformática». Neuroinformatics. 2 (3): 271–274. PMID 15365191. doi:10.1385/NI:2:3:271 
+Giorgio A. Ascoli, Erik De Schutter and David N. Kennedy (2003). «Uma estrutura das ciências da informação para a neurociência». Neuroinformatics. 3 (1): 1–2. ISSN 1539-2791. PMID 15055390. doi:10.1385/NI:1:1:001 
+Society for neuroscience Annual Report. Navigating a changing landscape. FY2006
+Stephen H. Koslow, Michael F. Huerta, Neuroinformatics. An overview of the Human Brain Project
+F. Beltrame and Stephen H. Koslow (1999). «Neuroinformática como uma megaciência». IEEE Trans. Inf. Technol. Biomed. 3 (3): 239–240. doi:10.1109/4233.788587 
+Steven H. Koslow and Shankar Subramaniam (2005). Transformando o cérebro em um banco de dados: Dos dados ao conhecimento,  (Neuroinformática). [S.l.]: John Wiley & Sons. ISBN 0-471-30921-4 
+M. A. Arbib and J. S. Grethe, Computing the Brain, A Guide to Neuroinformatics. San Diego, CA, USA, 2001.
+KpivaraTransant

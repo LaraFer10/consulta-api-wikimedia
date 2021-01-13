@@ -1,0 +1,30 @@
+Glicogenólise é a degradação de glicogênio realizada através da retirada sucessiva de moléculas de glicose.
+
+
+== Etapas do processo ==
+
+
+=== Primeira parte ===
+
+A glicogênio fosforilase catalisa a reação em que uma ligação glicosídica, reunindo dois resíduos de glicose no glicogênio, sofre o ataque por fosfato inorgânico (Pi), removendo  o resíduo terminal não-redutor de glucose como glicose 1-fosfato.
+Na fosforólise, parte da energia da ligação glicosídica é preservada na forma de éster fosfórico  glicose 1-fosfato.
+A fosforilase age repetitivamente nas extremidades não-redutoras das ramificações do glicogênio, até que seja atingido num ponto distante quatro resíduos de uma ramificação. Aqui cessa a ação da fosforilase. A continuação da degradação pode ocorrer apenas depois da ação da α(1→6)glicosidase, que catalisa as duas reações sucessivas que removem as ramificações.
+
+
+=== Segunda parte ===
+A glicose 1-fosfato é convertida em glicose 6-fosfato pela ação da enzima fosfoglicomutase.
+
+
+=== Terceira parte ===
+
+A última etapa, catalisada pela enzima glicose 6-fosfatase, é a hidrólise da glicose 6-fosfato a glicose.Nota: A enzima glicose 6-fosfatase está presente principalmente no fígado, no entanto não existe no músculo, que apresenta como produto da glicogenólise a glicose 6-fosfato.
+
+
+== Ver também ==
+Glicólise
+Gliconeogênese
+Glicogênese
+Ciclo de Krebs
+Respiração
+Fermentação
+Cadeia Respiratória

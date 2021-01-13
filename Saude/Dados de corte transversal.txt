@@ -1,0 +1,6 @@
+Dados de corte transversal ou cross-section são uma amostra de dados usados em estatística ou econometria, sejam indivíduos, consumidores, empresas, cidades, etc., em um dado ponto no tempo.
+Apesar de alguns dados, em algumas situações, não corresponderem precisamente ao mesmo período de tempo, em uma análise de corte transversal tais diferenças de tempo, que não possuem grande significância, são ignoradas.
+Uma importante característica desta análise, é que o uso de uma amostragem aleatória da população subjacente não se faz apropriada. Por exemplo: Se estivéssemos interessados em descobrir algo como a quantidade de pessoas que declaram 100% de sua fortuna, de uma determinada amostragem aleatória de mil pessoas, as mais ricas poderiam optar por não revelar tal informação, fazendo com que com que tal amostra resultante não se caracterizasse em uma amostra aleatória.
+
+
+== Referências ==

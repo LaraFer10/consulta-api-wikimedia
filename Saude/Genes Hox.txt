@@ -1,0 +1,73 @@
+Os genes Hox são genes homeóticos. Foram encontrados em todos os filos de metazoários já estudados e, por isso, se diz que são genes conservados. Esses genes são essenciais para o desenvolvimento completo dos organismos, especialmente na definição do eixo ântero-posterior, mas em alguns grupos de animais eles também estimulam a formação de tipos celulares específicos e a formação de órgãos ou estruturas acessórias. 
+Os Hox expressam fatores de transcrição, e se organizam em clusters gênicos que também são conservados em todos os grupos animais já estudados. Dentro dos clusters, os Hox se organizam em uma ordem específica, associada ao local onde se expressam. Assim, os primeiros genes do cluster se expressam no local que será a extremidade anterior daquele embrião, e os últimos, na extremidade posterior. Essa disposição alinhada, com a expressão gênica sequencial, representa a característica denominada colinearidade espacial. 
+
+
+== Histórico ==
+A descoberta e registro de alterações no desenvolvimento que levavam a fenótipos diferentes atraia a atenção dos cientistas há tempos, e as moscas-da-banana (Drosophila melanogaster) eram um dos principais alvos de estudos. Já há registros, por Bateson em 1894, de experimentos da genética clássica que demonstravam que havia mutações homeóticas em drosófilas (ou seja, mutações nas quais um segmento apresentava a identidade de outro).
+Os genes Hox em drosófila também foram estudos por Bridges e Morgan, com resultados publicados a partir de 1923. Esses genes foram separados em dois clusters, denominados complexo Antennapedia (ANT-C) e complexo Bithorax (BX-C). Cerca de cinquenta anos depois, Lewis publicou um artigo no qual propõs que o complexo Bithorax era composto por pelo menos oito genes, que aparentavam codificar substâncias que controlavam o desenvolvimento das regiões torácica e abdominal.
+Ao longo dos anos 1980, com os avanços da biologia molecular, a expressão, regulação e estrutura dos genes puderam ser estudadas, até ser confirmado que a ordem dos genes no cluster é a mesma da expressão. Então, iniciaram-se estudos com outros animais. Um dos principais animais que passou a ser estudado em relação aos Hox foram os ratos, revelando que até os padrões de expressão e organização genômica eram similares aos de drosófilas. Essas similaridades foram sendo percebidas em diversos outros filos, revelando um alto grau de conservação dos Hox. Em 1995, um grupo de cientistas (composto por Edward B. Lewis, Christiane Nüsslein-Volhard e Eric F. Wieschaus) recebeu o Prêmio Nobel de Fisiologia ou Medicina, “por suas descobertas acerca do controle genético do desenvolvimento embrionário inicial”.
+
+
+== Função Bioquímica ==
+Os genes Hox geram determinadas proteínas. As 'proteínas Hox' são um subconjunto de fatores de transcrição no qual tais proteínas são capazes de se ligar a sequências nucleotídicas específicas no DNA chamadas "Enhancers" (Acentuassomo) através do qual elas ativam ou reprimem centenas de outros genes. A mesma proteína Hox pode atuar como um repressor em um gene e um ativador em outro. A capacidade das proteínas Hox de se ligarem ao DNA é conferida por uma parte da proteína denominada "homeodomain". O "homeodomain" é um domínio de ligação ao DNA com 60 - aminoácidos - longo (codificado pela sua correspondente sequência de DNA de 180 - pares de bases, o homeobox). Esta sequência de aminoácidos se dobra em algo como "hélice-volta-hélice" (Adendo: Homeobox) que é estabilizado por uma terceira hélice. A cadeia de consenso polipeptídeo é mostrada brevemente no link referencial:  As proteínas Hox geralmente agem em parceria com co-fatores, como as proteínas PBC e Meis, codificadas por tipos muito diferentes do gene homeobox. .
+
+
+== Expressão e regulação gênica ==
+Os genes Hox são conservados em filos com morfologias bastante distintas. Para isso ser possível, é necessário que seus mecanismos de regulação e de ação sejam diferentes, mas sempre refinados. São descritas diferenças de afinidades, das classes de proteína com que ocorrem as interações, interferências indiretas, auto-interferências dos Hox e mecanismos de epigenética (com destaque para micro-RNAs e RNAs não codificantes, que podem inibir, super-expressar e regular de maneiras bastante precisas alguns genes). Uma das interações entre Hox que merece destaque é a prevalência posterior: os genes mais posteriores são capazes de reprimir a expressão dos mais anteriores. 
+Em termos gerais, as diferenças morfológicas relacionadas aos genes Hox ocorrem, principalmente, por variações na expressão e na regulação gênica. Gellon and McGinnis sugerem quatro padrões que relacionam os Hox a essas diferenças:
+
+Diferenças na resposta dos genes-alvo: há “resistência” ou “resposta acelerada” aos genes ativados pelos fatores de transcrição produzidos pelos Hox.
+Diferenças nos padrões de transcrição na mesma região do corpo: na mesma região, há um controle para que a transcrição ocorra de maneiras diferentes, alterando a influência do transcrito do Hox.
+Diferenças nos padrões de transcrição em partes diferentes do corpo: regiões diferentes são reguladas para que a transcrição dos Hox seja diferente, por exemplo gerando o tórax e o abdômen de insetos.
+Diferenças no número de genes: aponta-se que aumento significativo do número de genes Hox ocorre em filos compostos por animais com maior complexidade morfológica.O controle dos genes homeóticos é muito importante pois, quando desregulados, apresentam potencial oncogenético. E os Hox não são exceção. Por exemplo, propõe-se que essas desregulações podem levar ao desenvolvimento de leucemia, pois os Hox são ativos nas células-tronco sanguíneas e sua super-expressão geraria maior produção de células do sangue. As atuais descobertas acerca desses genes podem ajudar a contar melhor a história da perda e ganho de caracteres morfológicos nos diversos grupos de animais atuais, mas também podem apresentar avanços notáveis na medicina, dado que a ação dos genes regulatórios Hox contêm informações para produzir proteínas capazes de ativar ou desativar vários genes, incluindo mecanismos de apoptose.
+
+
+== Genes Hox em Drosophila melanogaster ==
+Os oito genes Hox de Drosophila melanogaster se distribuem em dois clusters de genes Hox: o complexo Antennapedia (C-ANT) e o complexo Bithorax (C-BX). O conjunto desses dois clusters é denominado complexo homeótico (C-HOM) e serve de base para a maioria das comparações realizadas entre genes Hox de grupos animais diferentes. O C-ANT é composto por cinco genes, mais anteriores e medianos: labial (lab), proboscipedia (pb), deformed (Dfd), sex-combs reduced (Scr) e Antennapedia (Antp); o C-BX é composto pelos outros três genes, posteriores: Ultrabithorax (Ubx), abdominal-A (abd-A) e Abdominal-B (abd-B).
+Os genes recebem seus nomes com base no mutante que surge quando ele está ausente. Por exemplo, a ausência do gene Antennapedia gera moscas com pernas no lugar das antenas, então o gene recebeu o nome em latim cuja tradução livre é “pés nas antenas”. Em outros casos, o nome deriva do inglês, não do latim, como no Scr, que causa moscas com pentes sexuais reduzidos (literalmente sex-combs reduced). 
+
+
+== Genes Hox em outros invertebrados ==
+Os estudos dos genes Hox em invertebrados além da D. melanogaster revelam que alguns dos padrões observados eram diferentes, especialmente em relação aos clusters, que podem variar bastante de tamanho. De modo geral, no entanto, pode-se dizer que o número de genes Hox parece se relacionar com a complexidade morfológica dos grupos animais. Todos os invertebrados possuem um complexo de genes Hox, mas os animais mais basais, como esponjas, possuem dois genes, que podem não atuar no desenvolvimento da mesma forma; enquanto os mais derivados, como insetos e moluscos, apresentam diversos genes, chegando a aumento importante dos clusters em vertebrados (o que gera um padrão com maior número de genes).
+
+
+== Genes Hox em vertebrados ==
+Nos vertebrados, de maneira geral, há um mecanismo exclusivo de controle da expressão gênica: além da colinearidade espacial, os genes Hox estão silenciados nos estágios mais iniciais do desenvolvimento, sendo ativados em uma sequência de tempo, de acordo com sua posição no cluster (colinearidade temporal). Esse fato ocorre tanto na definição do eixo corpóreo quanto na formação dos membros superiores e inferiores. Em mamíferos, a expressão dos Hox pode ser detectada na gastrulação, em todos os folhetos embrionários.
+Outra característica exclusiva dos Hox de vertebrados é que eles apresentam duplicações dos clusters, mantendo as homologias com o C-HOM. Em mamíferos há diversos genes homeóticos, dentre os quais existe uma família de genes relacionados a Antp de drosófila, que são os Hox. Em ratos e humanos são descritos quatro clusters de genes Hox, que recebem os seguintes nomes: HoxA, HoxB, HoxC e HoxD. Cada um desses quatro grupos se encontra em um cromossomo diferente e possui de 8 a 11 genes. Essas duplicações permitem, partir da análise dos táxons modernos, possuidores de alta incidência de homologias em sua distribuição, o descobrimento do tempo necessário ao aparecimento de novos genes Hox e a como se dá a definição do momento da eventual tetraploidização em proximidade à origem dos vertebrados. 
+Os genes Hox de vertebrados determinam o eixo ântero-posterior do corpo, o que também inclui o tipo de vértebra a ser formada em cada região. Além disso, também são importantes para a morfogênese dos membros anteriores e posteriores, para o estabelecimento do trato digestivo, do reprodutivo e ainda participam ativamente da organização do rombencéfalo, uma parte do sistema nervoso.
+
+
+== Funcionalização genética ==
+
+
+=== Neofuncionalização gênica ===
+Quando cópias de um mesmo gene se especializam em diversas outras funções. Enquanto uma cópia continua realizando a função do gene ancestral, outra cópia exerce outra função completamente diferente.
+
+
+=== Subfuncionalização gênica ===
+Quando um gene ancestral fica sobrecarregado por exercer diversas funções ao mesmo tempo, as cópias surgem como uma alternativa plausível. Dessa forma, as cópias se especializam na realização de novas funções específicas, compartimentalizando suas efetividades.
+
+
+=== Redundância funcional ===
+Se uma das cópias sofre uma mutação deletéria, as outras cópias podem suprir a ausência da cópia deletada, trabalhando de forma cooperativa.
+
+
+=== Tolerância mutacional ===
+Devido à tolerância mutacional, as cópias agora podem conferir aos genes certa tolerância a mutações aleatórias, que são mudanças na sequência de DNA.
+
+
+== Projeções futuras ==
+Os genes Hox desempenham papéis críticos no desenvolvimento de estruturas como membros, pulmões, sistema nervoso e olhos. Como T. R. Lappin e colegas observaram em 2006, "a conservação evolucionária fornece um escopo ilimitado para a investigação experimental do controle funcional da rede de genes Hox, que fornece informações importantes sobre doenças humanas". No futuro, mais pesquisas poderão ser feitas na investigação dos papéis dos genes Hox na leucemia e no câncer. 
+
+
+== Ver também ==
+Biologia do desenvolvimento
+Biologia evolutiva do desenvolvimento
+Embriologia
+Morfogênese
+Homeobox
+Genes homeóticos
+Mutação
+
+
+== Referências ==

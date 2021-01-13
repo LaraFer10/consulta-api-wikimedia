@@ -1,0 +1,26 @@
+Segundos mensageiros intracelulares são moléculas de sinalização liberadas pela célula para provocar alterações fisiológicas tais como a proliferação, diferenciação, translocação de vesículas, produção de enzimas e a apoptose(morte celular programada). Ocorrem em resposta a ativação de receptores celular por hormônios, neurotransmissores ou fatores de crescimento, que podem assim ser considerados os primeiros mensageiros. 
+
+
+== Acoplamento a proteína G ==
+Mensageiros secundários são um dos componentes de iniciação de cascatas de transdução de sinal intracelulares. Quando um receptor celular é ativado por um ligante (por exemplo um hormônio) a proteína G muda sua conformação, separando sua sub-unidade alfa da sub-unidade beta-gama, e trocando GDP por GTP, e move-se através da membrana celular ativando segundos mensageiros. O segundo mensageiro usado depende do efetor ativado. Por exemplo: Quando a proteína G ativa a adenilato ciclase o segundo mensageiro será cAMP.
+
+
+== Exemplos ==
+As moléculas de segundo mensageiro mais comuns são:
+
+Adenosina monofosfato cíclico (cAMP),
+Guanosina Monofosfato cíclico (cGMP),
+Inositol trifosfato (IP3),
+Diacilglicerol (DAG),
+Íons de cálcio (Ca2+).
+
+
+== Tipos ==
+Os segundos mensageiros podem ser classificado em:
+
+Moléculas hidrofóbicas: moléculas insolúveis em água, tais como o diacilglicerol(DAG) e inositol trifosfato(IP3), que estão associados à membrana plasmática e ao espaço intermembrana onde eles podem alcançar e regular proteínas efetoras associadas à membrana
+Moléculas hidrofílicas: moléculas solúveis em água, como o cAMP, cGMP, IP3 e de Ca2+, que estão localizados dentro do citosol.
+Gases: óxido nítrico (NO), o monóxido de carbono (CO) e sulfeto de hidrogênio (H2S), moléculas que podem difundir através tanto do citosol e quanto das membranas celulares.
+
+
+== Referências ==

@@ -1,0 +1,43 @@
+Acetato de cobre (II), também referido como acetato cúprico, é o composto químico com a fórmula Cu2(OAc)4 aonde AcO- é acetato (CH3CO2-).  O derivado hidratado, o qual contém uma molécula de água para cada átomo de cobre, é disponível comercialmente.  Cu2(OAc)4 é um sólido cristalino verde escuro, enquanto o Cu2(OAc)4(H2O)2 é mais verde-azulado. Desde a antiguidade, acetatos de cobre de alguma forma tem sido usados como fungicidas e pigmentos verdes.  Hoje, Cu2(OAc)4 é usado como uma fonte de cobre (II) em síntese inorgânica e como um catalisador ou um agente oxidante e síntese orgânica. Acetato de cobre, como todos os compostos de cobre, emite um fulgor verde-azulado em chama.
+
+
+== História ==
+Acetato de cobre (II) é o componente primário do verdigris, a substância azul-esverdeada que forma-se sobre o cobre durante longas exposições a atmosfera. Ela foi historicamente preparada em vinhedos, já que o ácido acético é um subproduto da fermentação. Lâminas de cobre eram alternadamente mergulhadas com peles de uva fermentada e resíduos da produção de vinho e expostas ao ar. Isto deixava uma substância azul na parte externa das lâminas. Isto era então raspado e dissolvido em água. O sólido resultante era usado como um pigmento, ou combinado com o trióxido de arsênio para formar acetoarsenito de cobre, um poderoso inseticida e no fungicida chamado verde de Paris ou verde de Schweinfurt.
+
+
+== Usos em síntese química ==
+
+Os usos para o acetato de cobre (II) são mais amplos como um catalisador ou agente oxidante em síntese orgânica. Por exemplo, Cu2(OAc)4 é usado para acoplar dois alcinos terminais para fazer um 1,3-di-ino:
+Cu2(OAc)4  +  2 RC≡CH  →  2 CuOAc  +  RC≡C-C≡CR  +  2 HOAcA reação procede com a intermediação de acetiletos de cobre (I), os quais são oxidados pelo acetato de cobre (II), resultando o radical acetilida. Uma reação relacionada que envolve acetilidas de cobre é a síntese de inaminas, alcinos terminais com grupos amina usando Cu2(OAc)4.[2]
+
+
+== Estrutura ==
+
+O Cu2(OAc)4(H2O)2 adota a estrutura "lanterna chinesa" sendo também visto pelos tetra-acetatos relacionados Rh(II) e Cr(II).  Um átomo de oxigênio sobre cada acetato é ligado a um cobre a 1.97 Å (197 pm.  Completando a  esfera de coordenação estão duas moléculas de água ligantes, com distâncias Cu-O de 2.20 Å (220 pm). Os dois átomos de cobre pentacoordenados estão separados por somente 2.65 Å (265 pm), os quais estão próximos à separação Cu—Cu em cobre metálico. Os dois cobres centrais interagem resultando em diminuição do momento magnético mais próximo de 90 K, Cu2(OAc)4(H2O)2 é essencialmente diamagnético devido a cancelação dos dois spins opostos. Cu2(OAc)4(H2O)2 foi um passo crítico no desenvolvimento das modernas teorias para acoplamento antiferromagnetico.
+
+
+== Síntese ==
+O acetato de cobre (II) tem sido sintetizado por séculos pelo método descrito na seção histórica.  Este método, entretanto, leva a um acetato de cobre impuro. Em laboratório, uma forma muito mais pura pode ser sintetizada em um procedimento de três passos. A reação geral é a seguinte:[6]
+2 CuSO4.5H2O  +  4 NH3  +  4 CH3COOH  →  Cu2(OAc)4(H2O)2  +  2 [NH4]2[SO4] + 8 H2OA forma hidratada pode ser desidratada por aquecimento a 100 °C no vácuo:
+Cu2(OAc)4(H2O)2  →  Cu2(OAc)4  +  2 H2OAquecendo uma mistura de Cu2(OAc)4 anidro e  cobre metálico tem-se acetato cuproso incolor e volátil:
+2 Cu  +  Cu2(OAc)4  →  4 CuOAc
+
+
+== Ver também ==
+Acetato de ródio (II)
+Acetato de ferro (III)
+Porfirina
+Azol
+
+
+== Referências ==
+
+
+== Ligações externas ==
+Copper.org – Other Copper Compounds  5 Feb. 2006
+Infoplease.com -- Paris green 6 Feb. 2006
+Verdigris – History and Synthesis 6 Feb. 2006
+J.T. Baker MSDS – Cupric acetate
+National Pollutant Inventory - Copper and compounds fact sheet
+National Safety Council Chemical Backgrounder
+Sigma Aldrich Product Detail

@@ -1,0 +1,44 @@
+Um integrão é um conjunto de elementos genéticos (genes, sítios de integração, promotores) presente em genomas bacterianos, especialmente de gram-negativos, que servem como mecanismos genéticos para a aquisição, acumulação e expressão diferencial de novos genes, que permitem às bactérias adaptarem-se e evoluir rapidamente, e estão implicados, por exemplo, na aquisição de resistência a antibióticos. Estes genes adquiridos estão incrustados numa estrutura genética específica chamada cassete de genes (um termo que ultimamente tem sido substituído por cassete de integrão) que geralmente leva um ORF sem promotor com um sítio de recombinação (attC). As cassetes de integrão são incorporadas no sítio attI da plataforma integrão por reacções de recombinação específica de sítio mediadas por uma integrase.
+
+
+== Descoberta ==
+Os integrões foram inicialmente descobertos em plasmídios conjugativos pelo seu papel na resistência a antibióticos. Estes integrões móveis, como agora se denominam, podem portar uma variedade de cassetes que contêm genes que estão quase exclusivamente relacionados com a resistência a antibióticos. Estudos posteriores concluíram que os integrões são elementos cromossómicos, e que a sua mobilização para plasmídios era promovida por transposões e seleccionada pelo uso intensivo de antibióticos. Desconhece-se a função da maioria das cassetes encontradas em integrões cromossómicos.
+
+
+== Estrutura ==
+Um integrão é composto por:
+Um gene que codifica uma recombinase específica do sitio: intI, pertencente à família das integrases.
+Um sitio de recombinação proximal: attI, que é reconhecido pela integrase e no qual pode inserir-se uma cassete de gene.
+Um promotor: Pc, que dirige a transcrição de genes codificados em cassetes.
+
+
+=== Cassete de genes ===
+Adicionalmente, um integrão geralmente contém uma ou mais cassetes de genes que foram nelas incorporadas. As cassetes de genes podem codificar genes para a resistência a antibióticos, embora a maioria dos genes dos integrões não tenham sidos caracterizados. A sequência attC (também chamada 59-be) é uma repetição que flanqueia as cassetes e permite que as cassetes sejam integradas no sitio attI, cindidos e podem passar pela transferência horizontal de genes.
+
+
+== Localização ==
+Os integrões podem encontrar-se formando parte de elementos genéticos móveis como plasmídeos e transposões. Os integrões podem também ser encontrados no cromossoma bacteriano.
+
+
+== Terminologia ==
+O termo superintegrão foi utilizado por primeira vez em 1998 (mas sem defini-lo) para referir-se a um integrão com uma longa cassete no pequeno cromossoma de Vibrio cholerae. Desde então, o termo foi utilizado para referir-se a integrões de variados comprimentos de cassetes ou a integrões nos cromossomas bacterianos (versus, por exemplo, os de plasmídios). Hoje em dia, o uso de "superintegrão" é desaconselhado por o seu significado se ambíguo.
+
+
+== Ver também ==
+Operão
+Cistrão
+Regulão
+
+
+=== Bibliografía ===
+«Characterization of the Class 3 Integron and the Site-Specific Recombination System It Determines». Journal of Bacteriology. 184 (11): 3017–3026. 2002. doi:10.1128/jb.184.11.3017-3026.2002 
+NCBI Antimicrob Agents Chemother. 1998 Dec;42(12):3053-8. article Class 1 integron-borne multiple-antibiotic resistance carried by IncFI and IncL/M plasmids in Salmonella enterica serotype typhimurium
+Mazel, D. «Integrons: agents of bacterial evolution». Nature Reviews Microbiology. 4 (8): 608–620. doi:10.1038/nrmicro1462 
+
+
+=== Ligações externas ===
+IntegronFinder - Uma ferramenta para detectar integrões em genomas bacterianos
+INTEGRALL - The Integron Database
+
+
+== Referências ==

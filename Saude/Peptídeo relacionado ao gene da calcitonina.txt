@@ -1,0 +1,24 @@
+O peptídeo relacionado ao gene da calcitonina (CGRP, do inglês calcitonin gene related peptide) é um membro da família da calcitonina de peptídeos. Ele existe em humanos em duas formas, α-CGRP e β-CGRP.  O α-CGRP é um peptídeo de 37 aminoácidos e é formado a partir do splicing alternativo  do gene da calcitonina / CGRP localizado no cromossomo 11 .  O β-CGRP, menos estudado, difere do alfa por  três aminoácidos (em humanos) e é codificado em um gene diferente.
+
+
+== Função ==
+O CGRP pode ser produzido em neurônios periféricos ou centrais.  É um potente vasodilatador peptídico e pode atuar na transmissão da nocicepção (envio de sinais de dor ao cérebro).  Na medula espinhal, a função e a expressão do CGRP podem diferir dependendo de onde ele é sintetizado.  O CGRP produzido por neurônios motores no corno anterior da medula espinhal pode contribuir para a regeneração do tecido nervoso após a lesão.  Por outro lado, CGRP  derivado do gânglio da raiz dorsal no corno dorsal da medula espinhal e pode estar ligado à transmissão da dor.  No sistema vascular do trigêmeo, os corpos celulares no gânglio trigêmeo são a principal fonte de CGRP.  Acredita-se que o CGRP desempenhe um papel na homeostase cardiovascular e na nocicepção.
+
+
+== Receptores ==
+O CGRP medeia seus efeitos através de um receptor heteromérico composto por um receptor acoplado à proteína G denominado receptor do tipo receptor de calcitonina (CALCRL) e por uma proteína modificadora da atividade do receptor (RAMP1).  Os receptores CGRP são encontrados em todo o corpo, sugerindo que a proteína pode modular uma variedade de funções fisiológicas em todos os principais sistemas (por exemplo, respiratório, endócrino, gastrointestinal, imunológico e cardiovascular).  O loop extracelular número 2 é fundamental para a ativação induzida pelo ligante, com interações chave de R274 / Y278 / D280 / W283.
+
+
+== Regulação ==
+A regulação do gene do peptídeo relacionado ao gene da calcitonina (CGRP) é parcialmente controlada pela expressão da via de sinalização das proteínas quinases ativadas por mitógeno (MAPK) , por citocinas como TNFα  e por iNOS .Os agonistas do receptor 5HT1 , como o sumatriptano , aumentam o cálcio intracelular, levando a reduções na atividade do promotor do CGRP.
+
+
+== Pesquisa ==
+Níveis aumentados de CGRP foram relatados em pacientes com enxaqueca e desordem da articulação temporomandibular , bem como em uma variedade de outras doenças, como insuficiência cardíaca, hipertensão e sepse.Evidências pré-clínicas sugerem que, durante uma enxaqueca , neurônios sensoriais primários ativados (nociceptores meníngeos) no gânglio trigêmeo liberam o CGRP de suas terminações nervosas periféricas localizadas dentro das meninges .  Este CGRP, em seguida, liga-se e activa os receptores de CGRP localizados em torno dos vasos das meninges, causando vasodilatação, mastócitos desgranulação e plasma extravasamento .  Observações humanas implicaram ainda mais o papel do CGRP na fisiopatologia da enxaqueca.  A ativação de neurônios sensoriais primários no sistema vascular do trigêmeo em humanos pode causar a liberação de CGRP.  Durante alguns ataques de enxaqueca, concentrações aumentadas de CGRP podem ser encontradas tanto na saliva quanto no plasma retirado da veia jugular externa.  Além disso, a administração intravenosa de alfa-CGRP é capaz de induzir dores de cabeça em indivíduos suscetíveis à enxaqueca.
+
+
+== Medicamentos ==
+Novos medicamentos estão agora no mercado que criam anticorpos contra o CGRP e se ligam ao receptor deCGRP.  Eles são aprovados como medicação preventiva projetada e aprovada para enxaquecas.O primeiro anticorpo voltado ao CGRP aprovado pelo FDA é oErenumab , produzido pela farmacêutica Amgen e Novartis. liga-se ao receptor de CGRP.O segundo é chamado Fremanezumab, produzido pela empresa farmacêutica Teva e liga-se à proteína CGRP .O terceiro a ser aprovado pelo FDA é chamado Galcanezumab , produzido pela Eli Lilly and Compan e liga-se à proteína CGRP.
+
+
+== Referências ==

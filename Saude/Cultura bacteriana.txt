@@ -1,0 +1,29 @@
+O Cultivo de bactérias é a promoção dirigida e controlada do crescimento de colônias destes organismos para facilitar o seu estudo.
+
+
+== Necessidade da Cultura ==
+Na maior parte das vezes, o estudo da morfologia, arranjo e a interpretação das propriedades de coloração são insuficientes para a identificação do agente bacteriano. Recorre-se então à cultura, para se conseguir um elevado número de microorganismos, para estudar as características culturais da bactéria como a capacidade de crescer em meio selectivo e o aspecto das colônias. Através da cultura em meios sólidos, pode-se também quantificar a presença bacteriana no material analisado (importante para diferenciar infecção de colonização em determinadas situações), obter colônias para a realização de testes de identificação, bem como obter inóculo para suspensão (em solução salina)para a realização de antibiograma.
+
+
+== Meio de Cultura ==
+Assim, para a realização de uma cultura bacteriana, precisamos de um inóculo e de um meio de cultura. O meio de cultura é uma substância líquida ou gelificada, simples ou complexa, que permite a nutrição, o crescimento e a multiplicação dos microorganismos.
+Com efeito, o meio de cultura deve oferecer condições o mais próximas possível das condições naturais. As suas características fundamentais são:
+
+Composição: normalmente contêm 80% de água, 0.9% de cloreto de sódio e o restante depende do microorganismo em questão (embora tenha que existir uma fonte de energia e carbono - habitualmente um açúcar).
+Isotonia: a concentração de cloreto de sódio deve ser idêntica à fisiológica. As bactérias envolvidas nas patologias humanas geralmente não são halofílicas, apesar de o Staphylococcus aureus poder suportar elevadas concentrações salinas.
+pH: entre 6.8 e 7.8, ou seja, próximo da neutralidade. Mas de lembrar que outras bactérias podem ter outros pH óptimos, diferentes da neutralidade (ex. Helicobacter e Lactobacillus que são acidófilas. Já o Vibrio cholerae, agente causador da cólera,  apresenta um crescimento ótimo em pH entre 8 e 9,5).
+Potencial redox: depende do seu tipo de respiração. Podem ser anaeróbias estrictas (não possuem enzimas para degradar o peróxido de hidrogénio), anaeróbias moderadas, anaeróbias facultativas e aeróbias estrictas.
+Esterilidade: a esterilização do meio de cultura é efectuada após a sua preparação, para assim eliminar os microorganismos contaminantes. Conseguido geralmente por esterilização na autoclave.
+Acondicionamento: tentando, a todo o custo, evitar a contaminação (recipientes rolhados ou placas de Petri).
+Temperatura: a incubação deve ser feita à temperatura corporal.Os meios de cultura podem ser classificados segundo o seu estado físico, pela sua composição e a sua utilização.
+No que respeita ao seu estado físico, os meio podem ser líquidos, também designados por caldos, e a sua turvação é o indicador de crescimento bacteriano. Os meios gelificados (geloses) permitem o crescimento das células formando colónias. As geloses são obtidas a partir de um meio líquido ao qual é adicionado uma substância gelificante: inicialmente era a gelatina, mas como esta era usada pelos microorganismos, passou a ser usado o ágar-ágar (1.5%), que apenas promove a gelificação do meio. O ágar-ágar pode ainda ser usado em concentrações inferiores (0.5/0.7), em meios semi-gelificados (são utilizados para verificar a mobilidade das bactérias).
+Em relação à composição do meio, podem ser classificados como naturais, cuja composição é complexa e mal definida (ex. caldo de carne), sintéticos (substâncias químicas perfeitamente conhecida - normalmente é um pó ao qual se adiciona água) e semi-sintéticos aos quais se adiciona uma substância natural (ex. gelose de sangue).
+Finalmente, em relação à sua prática laboratorial, podemos considerar os meios de base, que contêm os nutrientes mínimos essenciais ao crescimento e multiplicação bacterianas, os meios enriquecidos, meios aos quais foram adicionados produtos biológicos (ex. sangue) e meios selectivos, quando há uma alteração de um ou mais factores físico-químicos ou se adicionam substâncias com uma acção antibacteriana, que vão actuar como selectora de algumas bactérias.
+
+
+== Isolamento bacteriano ==
+Trata-se da obtenção de culturas puras (apresenta só uma estirpe de bactérias) de bactérias a partir de culturas mistas (apresenta mais do que uma estirpe bacteriana). Pode ser efectuado por processos biológicos, usando meios de cultura selectivos, ou por processos mecânicos, sendo a técnica de esgotamento ou a técnica das diluições as mais utilizadas.
+
+A técnica de esgotamento é o método das estrias.É aplicada em gelose e consiste em isolar a estirpe desejada por arrastamento sucessivo do inóculo com a alça de platina, fazendo várias estrias na superfície do meio de cultura.
+
+Na técnica das diluições, vai-se diluindo sucessivamente o inóculo em água destilada estéril ou soro fisiológico.

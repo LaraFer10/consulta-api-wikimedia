@@ -1,0 +1,19 @@
+PAUP (Phylogenetic Analysis Using Parsimony) é um programa de filogenia computacional para inferir árvores evolutivas (filogenias), escrito por David L. Swofford. Originalmente, como o nome indica, PAUP implementava apenas o método da máxima parcimônia, mas a partir da versão 4.0 (quando o programa ficou conhecido como PAUP*) ele também passou a suportar os métodos de matriz de distâncias e de máxima verossimilhança. A versão 3.0 funciona em computadores Macintosh e suporta uma interface gráfica rica e amigável. Juntamente com o programa MacClade, com o qual compartilha o formato de dados NEXUS, PAUP é o programa preferido de muitos filogeneticistas.A versão 4.0 adicionou suporte para as plataformas Windows (interface gráfica e linha de comando) e Unix (linha de comando apenas). No entanto, a interface gráfica do usuário para a versão Macintosh requer o ambiente Classic, que já não é suportado pelo Mac OS X 10.5 e versões posteriores. Há uma versão de linha de comando do PAUP* para Macs baseados em Intel.
+
+
+== Ver também ==
+PHYLIP
+HYPHY
+MEGA, Molecular Evolutionary Genetics Analysis
+Clustal
+Filogenética computacional
+Árvore filogenética
+Filogenética
+
+
+== Ligações externas ==
+PAUP* 4.0
+Fundação de Pesquisas Científicas de Ribeirão Preto (PAUP no Brasil)
+
+
+== Referências ==

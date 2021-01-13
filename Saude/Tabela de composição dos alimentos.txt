@@ -1,0 +1,63 @@
+As tabelas de composição de alimentos são documentos com informações sobre a composição nutricional, como carboidratos, lipídeos, fibras, proteínas, minerais, vitaminas e outros compostos, de diversos alimentos. Estas informações são obtidas através de análises laboratoriais de pesquisas científicas e de empresas e são utilizadas metodologias específicas, que possuam validade científica, para análise da composição dos nutrientes. Geralmente estas informações são apresentadas em composição centesimal, que são as quantidades dos nutrientes a cada 100 gramas do alimento.   
+As informações sobre a composição dos alimentos são utilizadas principalmente por servidores da área de saúde, indústrias,Instituições governamentais de ensino e pesquisa, cientistas, nutricionistas, farmacêuticos, agrônomos, médicos, professores, profissionais de marketing e pelos consumidores, e as utilizam para diferentes finalidades como elaboração de programas na área de saúde pública, estudos epidemiológicos, nutrição clínica (elaboração e prescrição de dietas), determinação de políticas agropecuárias, desenvolvimento de novos produtos, rotulagem nutricional de alimentos e campanhas de publicidade. 
+A Tabela Brasileira de Composição de Alimentos (TBCA), da Faculdade de Ciências Farmacêuticas da Universidade de São Paulo (FCF/USP), online desde 1998, foi relançada, totalmente reformulada, em 2017. Atualmente é coordenada pela Rede Brasileira de Dados de Composição de Alimentos (Brasilfoods), Centro de Pesquisa em Alimentos (Food Research Center FoRC/Cepid/Fapesp) e Universidade de São Paulo (FCF/Departamento de Alimentos e Nutrição Experimental). A base de dados da TBCA centraliza dados de análises químicas realizadas na FCF/USP, além da compilação de dados analíticos. A reformulação da TBCA, baseada na compilação de dados de fontes nacionais, preferencialmente, e internacionais, quando necessário, tem o intuito de disponibilizar um perfil de componentes de mais de 1900 itens alimentares (TBCA, 2017). 
+O uso de TCA que não sejam provenientes do próprio país, deve ser feito com cautela, pois os resultados gerados podem não refletir a real ingestão de nutrientes do indivíduo ou da população estudada. Da mesma forma, o cálculo de planos alimentares, para coletividades sadias ou enfermas, baseados nessas TCA, apresenta mais chances de produzir informações que não correspondem à realidade, principalmente em relação a vitaminas e minerais.
+
+
+== História ==
+1780 - Lavosier- Processo de produção de energia dos alimentos; 
+1795 – Pearson – proporção de água, amido, material fibroso, cinza e outras substâncias;
+1850- Henneberger e Stohmann – método de Weende para ração animal:
+
+Umidade: secagem por aquecimento;
+Lipídeos (extração com éter);
+Proteína (N x 6,25 = 16%);
+Fibra Bruta (tratamento com ácido e base);
+Carboidratos (por diferença) 
+
+
+== Principais tabelas utilizadas no Brasil ==
+1951 – Tabela de composição química de alimentos (Guilherme Franco)
+1977– Tabelas de Composição Nutricional dos Alimentos Consumidos no Brasil ENDEF/IBGE (fibra bruta)
+1995 – Tabela de composição de alimentos da UFF (fibra detergente)
+1996/2016 – Virtual Nutri – FSP/USP
+1998/2017 (v 6.0) – TBCA-USP – FCF/USP
+2008/2009 - Tabelas de Composição Nutricional dos Alimentos Consumidos no Brasil(IBGE)
+2002/2016 (5 ed) – Tabela de Composição de Alimentos: suporte para decisão nutricional(FSP)
+2004/2011 (4 ed) – TACO – NEPA/UNICAMP
+
+
+== Variabilidade de dados ==
+Na análise de alimentos podem ocorrer erros ou variações nos dados, então deve-se definir critérios para minimizar a interferência no julgamento das informações. É necessário escolher devidamente o alimento a ser analisado e mostrar a metodologia empregada neste processo. As variações podem ser decorrentes de safra, variedade, solo, clima, formulação e preparação (cozido ou cru).
+Os dados de composição de alimentos não podem ser considerados absolutos, pois se referem a material biológico.
+
+
+== Formas para obtenção de dados ==
+Análise diretaIdeal;
+Custo elevado;
+Trabalhosa;
+Infraestrutura (equipamentos / pessoal);
+Padronização/validação da metodologia;2. CompilaçãoÉ necessário uma base teórica complexa com critérios pré-estabelecidos para avaliação da qualidade dos dados;
+
+
+== Compilação de dados X Coleta ==
+A compilação depende de avaliação prévia que considera diversos fatores:
+
+Plano de amostragem;
+Descrição do tratamento dado à amostra;
+Identificação e procedimento do método analítico adotado;
+Fatores de conversão;
+Controle de qualidade analítica;
+Identificação detalhada dos nutrientes e alimentos;
+
+
+== Cuidados a serem observados ==
+Informações básicas: metodologia, análise e padrões adotados;
+Identificação detalhada dos alimentos;
+Dados de fibra por método adequado;
+Dados de vitaminas e minerais por métodos atuais;
+Dados de umidade e cinzas;
+Reedições com atualização;
+
+
+== Referências ==

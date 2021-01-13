@@ -1,0 +1,12 @@
+Os motores moleculares são proteínas presentes em células vivas que convertem a energia química, derivada da hidrólise do trifosfato de adenosina ou ATP, em trabalho mecânico.
+De maneira geral, estas proteínas trabalham em ciclos em que os seus movimentos alternam uniões e separações com algum substrato. Quando uma proteína reage quimicamente com uma molécula de ATP, muda de forma. Estas alterações propagam-se ao longo da sua estrutura afetando, por um lado, a sua afinidade com o substrato e, por outro, a sua disposição geométrica. Se a proteína se vê impedida de deslocar-se por estar unida ao substrato, então se distorce gerando uma força. Esta força é armazenada como energia elástica, que provoca a proteína a capturar mudanças rápidas no potencial químico (picosegundos) durante o ciclo e que realize trabalho externo numa escala de tempo maior (milisegundos ou segundos).
+Do ponto de vista biológico, a importância dos motores moleculares, também conhecidos como proteínas motoras, radica em que intervêm numa ampla variedade de processos vitais, como são a contracção muscular, a mitose, a divisão celular e o transporte de organelos dentro das células, entre outros.
+
+
+== Ver também ==
+Proteína
+Proteína motora
+
+
+== Referências ==
+Howard, Jonathon (1989). Mechanics of Motor Proteins and the Cytoskeleton. .

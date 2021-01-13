@@ -1,0 +1,76 @@
+Doença de von Willebrand é uma doença hemorrágica, hereditária causada por uma diminuição ou uma disfunção da proteína chamada de fator de von Willebrand (FvW). Isto ocorre devido à mutação no cromossomo 12 e é caracterizada por deficiência qualitativa ou quantitativa do fator de von Willebrand. A diversidade de mutações leva ao aparecimento das mais variadas manifestações clínicas possibilitando a divisão dos pacientes em vários tipos e subtipos clínicos. A coagulopatia se manifesta basicamente através da disfunção plaquetária associada à diminuição dos níveis séricos do fator VIII coagulante.
+Existindo também casos raros de doença de von Willebrand adquirida. Foi descrita pela primeira vez em 1925 pelo médico finlandês Erik Adolf von Willebrand.
+A doença de von Willebrand é a doença hemorrágica mais comum e atinge cerca de 2% da população mundial [carece de fontes?] atingindo igualmente ambos os sexos, porém mulheres tem mais probabilidade de ter a doença diagnosticada pelas manifestações durante a menstruação.
+
+
+== Fator de von Willebrand ==
+O fator de von Willebrand é um multímero que circula no plasma sanguíneo em uma concentração aproximada de 10 mg/ml. Ele é sintetizado por células endoteliais e megacariócitos.
+Tem duas funções principais:
+
+Mediar a adesão das plaquetas ao subendotélio lesado: funciona como uma ponte entre receptores da plaqueta (glicoproteína Ib e glicoproteína IIb/IIIa) e o subendotélio lesado. Para que ocorra a adesão às plaquetas é necessario a presença de grandes multímeros do FvW.
+Manter os níveis plasmáticos do fator VIII (uma proteína procoagulante). O FvW liga-se a fator VIII retardando a sua degradação.
+
+
+== Sintomas ==
+Sangramentos de leve a moderado que variam com a intensidade da doença. Hematomas, sangramentos menstruais prolongados, sangramentos nasais, sangramentos excessivos após pequenos cortes, sangramentos após extração dentária ou outra cirurgia. Gengivorragia, equimoses facéis.
+
+
+== Classificação ==
+
+
+=== Tipo 1 ===
+É o tipo mais comum, entre 60-80% dos casos. É um defeito quantitativo onde a concetração do FvW fica entre 20-50% do valor normal. Causa sangramentos de leve a moderado.
+
+
+=== Tipo 2 ===
+É um defeito qualitativo e acomete entre 20-30% dos casos.
+Possui 4 subtipos:
+
+2A: subtipo mais comum. Neste caso o FvW tem dificuldade de unir-se às plaquetas e há diminuição da presença de grandes multímeros.
+2B: o FvW tem grande afinidade de união às plaquetas, por isso diminui a circulação livre do FvW.
+2M: não há ausência dos grandes multímeros porém eles não tem a mesma capacidade de ligação às plaquetas.
+2N: o FvW perde a capacidade de ligação com o Fator VIII.
+
+
+=== Tipo 3 ===
+É o tipo mais grave caracterizado pela deficiência total do FvW. O paciente tem sangramentos profundos
+
+
+=== Doença de von Willebrand Adquirida ===
+Esta relacionada a outras patologias como doenças linfóides, mieloma múltiplo, macroglobulinemia, doenças mieloproliferativas, alguns tumores, algumas doenças autoimunes entre outras.
+De um modo geral ela pode ser ocasionada por anticorpos anti-FvW ou não.
+Há também a Síndrome de Heyde, descrita em 1958 pelo autor de mesmo nome, que surge em decorrência da perda de múltímeros de alto peso molecular do fator de Von Willebrand, devido ao cisalhamento do sangue contra uma válvula aórtica com estenose importante. Essa síndrome está associada a angiodisplasia e hemorragia digestiva de repetição e geralmente é reversível após uma cirurgia de troca valvar.
+
+
+== Genética ==
+O gene do FvW está localizado no braço curto do cromossoma doze (12p13.2) e é composto por 52 exões abrangendo 178kb. O mRNA
+codifica um precursor com 2813 aminoácidos (aa) (prepro FvW) que consiste num péptido de sinal (SP) de 22 aa, um propéptido de 741 aa e uma subunidade madura de 2050 aa. Os tipos 1 e 2 apresentam herança autossómica dominante enquanto o tipo 3 é herdado como variante recessiva. Ocasionalmente, também o tipo 2 é recessivo.
+
+
+== Diagnóstico ==
+Deve-se levar em conta a presença dos sintomas, história familiar (já que a doença é de herança genética) e um estudo laboratorial. Seu diagnóstico laboratorial é difícil principalmente no que diz respeito a classificação.
+
+
+=== Testes auxiliares ===
+Alguns testes apresentam-se alterados na doença de von Willebrand assim como em outras patologias não sendo testes específicos para esta doença. Entre estes testes estão o TTPA (tempo de tromboplastina parcialmente ativado), tempo de sangramento, dosagem de fator VIII e contagem de plaquetas.
+O TTPA encontra-se prolongado nos casos de deficiência de FvW (em alguns casos devido a baixa de fator VIII) assim como tempo de sangramento. Como o FvW protege o fator VIII, sua falta ocasionará sua degradação e consequente diminuição. Porém a simples dosagem baixa de fator VIII não diagnostica a doença de von Willebrand já que o Fator VIII diminui nos casos de hemofilia A. A contagem de plaquetas geralmente apresenta-se normal a todos os tipos com exceção do tipo 2B que tem uma leve diminuição.
+
+
+=== Testes específicos ===
+A dosagem de antígeno de von Willebrand é feita por ensaio imunológico este teste apresenta boa resposta para os tipos 1 e 3, ja que nem sempre os casos do tipo 2 apresentam baixa na concentração de FvW.
+Agregação induzida pela ristocetina onde o plasma rico em plaquetas do paciente é colocado em contato com a ristocetina, o paciente normal apresenta agregação e quando há deficiência do FvW há falta de de agregação, sendo que o tipo 2 B tem aumento na sensibilidade de aglutinação mesmo em concetrações menores.
+
+
+== Tratamento ==
+Crioprecipitado
+DDAVP ou desmopressina: análogo da hormona vasopressina cuja função é aumentar o nível plasmático do FvW através da libertação dos depósitos endoteliais do mesmo.
+Fármaco antifibrinolítico: pode ser suficiente para permitir que um paciente possa fazer pequenas cirurgias dentárias.
+
+
+== Ligações externas ==
+emedicineArtigo em inglês
+«Fleury». Artigo em português 
+
+
+== Referências ==
+Rapaport, Samuel I.-Hematologia:introdução - 2 ed.- Editora Roca 1990

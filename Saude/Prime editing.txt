@@ -1,0 +1,30 @@
+Em Biologia Molecular, Prime editing ou sistema de edição principal (em português), é  um método de edição de genoma que grava diretamente novas informações genéticas em um site de DNA especificado usando uma endonuclease Cas9 prejudicada cataliticamente e fundida com uma transcriptase reversa projetada, programada com um RNA de guia de edição principal (pegRNA) que especifica o site de destino e codifica a edição desejada. Ele pode adicionar mais precisão e flexibilidade ao método de edição CRISPR. Ele medeia inserções, exclusões e todas as conversões possíveis de base para base. 
+Prime editing é mais complexo que a edição CRISPR. Ele pode excluir comprimentos longos de DNA causador de doença ou inserir DNA para reparar mutações perigosas, tudo sem desencadear as respostas caóticas (e possivelmente prejudiciais) do genoma introduzidas por outras formas de CRISPR. Requer três etapas separadas nas quais o DNA deve corresponder a partes do sistema de edição principal.Prime editing foi desenvolvido por David Liu, que também é o fundador da Beam Therapeutics no Broad Institute.
+
+
+== Processo de desenvolvimento ==
+Durante o desenvolvimento dessa tecnologia, várias modificações foram feitas nos componentes, a fim de aumentar seus efeitos.
+
+
+=== Sistema de edição principal 1 ===
+No primeiro sistema, uma transcriptase reversa do vírus da leucemia murina Moloney (M-MLV) de tipo selvagem foi fundida com o terminal C da nickase Cas9 H840A. Foram observadas eficiências de edição detectáveis.
+
+
+=== Sistema de edição principal 2 ===
+A fim de aumentar a afinidade DNA-RNA, processabilidade enzimática e termoestabilidade, cinco substituições de aminoácidos foram incorporadas na transcriptase reversa M-MLV. O mutante M-MLV RT foi então incorporado no sistema de edição principal 1 (PE1) para dar origem a (Cas9 (H840A) -M-MLV RT (D200N / L603W / T330P / T306K / W313F)). Melhoria da eficiência foi observada em relação ao PE1.
+
+
+=== Sistema de edição principal 3 ===
+Apesar de sua eficácia aumentada, a edição inserida pelo PE2 ainda pode ser removida devido ao reparo de incompatibilidade de DNA da fita editada. Para evitar esse problema durante a resolução heteroduplex de DNA, é introduzido um RNA guia único adicional (sgRNA). Este sgRNA foi projetado para corresponder à sequência editada introduzida pelo pegRNA, mas não ao alelo original. Ele direciona a porção Cas9 nickase da proteína de fusão para cortar o fio não editado em um local próximo, oposto ao nick original. Fazer o nick na vertente não editada faz com que o sistema de reparo natural da célula copie as informações na vertente editada na vertente complementar, instalando permanentemente a edição.
+
+
+== Vantagens ==
+Prime editing amplia o alcance da edição do genoma CRISPR, pois pode editar perto ou longe de sites PAM, tornando-o menos restrito à disponibilidade de PAM, como outros métodos.
+Os editores de base desenvolvidos até o momento só podem criar um subconjunto de alterações (C-> T, G-> A, A-> G e T-> C). A edição básica permite todas as 12 alterações possíveis de base para base.
+
+
+== Produção ==
+A Prime Medicine e a Beam Therapeutics compartilharão conhecimento na edição principal e nas tecnologias associadas, como entrega e fabricação. O relacionamento entre essas empresas foi desenvolvido para maximizar os interesses dos pacientes, para que o maior número possível de pacientes possa se beneficiar da edição básica ou da tecnologia de Prime editing.
+
+
+== Referências ==

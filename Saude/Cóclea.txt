@@ -1,0 +1,22 @@
+A cóclea (do grego kokhlia, que significa caracol) localiza-se no ouvido interno e é responsável pela função auditiva. É uma cavidade no labirinto ósseo em forma de espiral, e o seu componente central é o Órgão de Corti, considerado o órgão sensorial da audição.
+
+
+== Anatomia ==
+A cóclea é uma estrutura helicoidal com aproximadamente dois giros completos e mais 2/3 de um giro. Mede cerca de 3,5mm de altura e 7,5mm de diâmetro na sua base. É dividido, longitudinalmente, em três compartimentos (escalas vestibular, média e timpânica), preenchidos por líquido (endolinfa e perilinfa), por meio de membranas (reissner e  basilar). O compartimento central (membrana basilar) é onde se encontra o Órgão de Corti, estando ao longo do ducto coclear, sobre a lâmina basilar, sendo formado pela membrana tectória, pelas células de sustentação e células ciliadas, que são responsáveis pela sensação da audição, através dos movimentos do líquido circundante, destinadas à transformação das ondas sonoras em impulsos nervosos. A membrana tectória é uma cúpula gelatinosa situada acima das células ciliadas e fixada à lâmina espiral óssea, entrando em contato com os cílios das células ciliadas externas durante as vibrações da lâmina basilar.As células ciliadas, dependendo da sua localização na cóclea, são determinadas com diferentes frequências de som, devido ao grau de rigidez da membrana basilar. Esta rigidez depende da espessura e largura da membrana basilar, sendo mais rígida quando próxima da janela oval. Logo, as fibras curtas e rígidas (base) tendem a vibrar em frequências altas, enquanto as fibras longas e flexíveis (cúpula) tendem a vibrar em frequências baixas.
+
+
+== Funcionamento ==
+A cóclea é composta por, aproximadamente, 15.000 células ciliadas que vibram de acordo ao som, desde som agudo até som grave. É o lugar onde a energia mecânica do som é convertida em sinal elétrico que é transmitido ao cérebro. Além disso, é capaz de emitir sons ou ecos espontaneamente em cerca de 30% da população com audição normal.As células nervosas da cóclea estão organizadas numa sequência que vai da frequência mais grave para a mais aguda. As células localizadas na região basal enviam informações sonoras de frequência aguda para o cérebro enquanto as células da região apical enviam as de frequência grave. Nos seres humanos, a cóclea permite ouvir sons de 20 Hz a 20.000 Hz, aproximadamente, 10 oitavas, com um poder de discriminação de 3 Hz a 1000 Hz.
+As zonas mortas da cóclea são regiões onde as células ciliadas internas e/ou neurônios adjacentes não se encontram funcionais. Nessas regiões a informação gerada pela vibração da membrana basilar não é transmitida ao sistema nervoso central.O exame fisiológico que avalia a orelha interna é chamado de Emissões Otoacústicas (EOA), mas não tem como objetivo quantificar a perda auditiva.
+
+
+== Alterações ==
+A ossificação da cóclea é uma sequela que pode ser causada por: trauma de osso temporal, otosclerose, otites médias crônicas e meningite. O processo de ossificação, geralmente, inicia-se próximo à janela redonda e ascende para o ápice, sendo a rampa timpânica do giro basal a parte mais afetada.Indivíduos com perda auditiva sensorioneural podem apresentar diferentes tipos de falhas cocleares, decorrentes de lesão nas células ciliadas externas (CCE) e/ou nas células ciliadas internas (CCI), sendo que o tipo de lesão tem influência nas respostas do indivíduo frente aos estímulos sonoros.
+Limiares auditivos maiores que 75-80dB nas frequências graves e que 90dB nas frequências agudas indicam provável presença de zonas mortas da cóclea.
+
+
+== Biônica ==
+Em 2009, engenheiros do Instituto de Tecnologia de Massachusetts criaram um chip eletrônico que pode analisar rapidamente uma gama muito grande de frequências de rádio enquanto usa apenas uma fração da energia necessária para as tecnologias existentes; seu design imita especificamente a cóclea.
+
+
+== Referências ==

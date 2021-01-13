@@ -1,0 +1,21 @@
+A Imunoglobulina D (IgD) é um isotipo de anticorpo que corresponde a aproximadamente 1% das proteinas na membrana plasmática de linfócitos B imaturos, onde é normalmente coexpressado com outro anticorpo de superfície chamado IgM.  A IgD é secretada em quantidades muito pequenas, correspondendo a apenas 0,25% das proteínas no plasma. A  massa molecular relativa e a meia vida da IgD secretada são respectivamente 185 kDa e 2.8 dias, respectivamente. A IgD secretada é um anticorpo monomérico com duas cadeias pesadas da classe delta (δ) e duas cadeias leves.
+
+
+== Função ==
+A função da IgD é um quebra-cabeça da imunologia, intrigando pesquisadores desde sua descoberta em 1964. A IgD está presente em espécies desde os peixes cartilaginosos até os humanos (provavelmente com exceção de pássaros). Essa presença quase ubíqua com sistema imune adaptativo demonstra que IgD é tão antiga quanto a IgM e sugere que IgD deve possuir funções imunológicas importantes e conservadas.
+Em células B, a função da IgD é promover a ativação da célula. Sendo ativadas, tais células assumem logo uma posição importante na defesa do organismo. Durante a diferenciação das células B, IgM é o único isotipo expresso pelas células B imaturas. A IgD começa a ser expressa com a saída da célula B da medula óssea em direção aos tecidos linfóides periféricos. Quando uma célula B atinge sua forma madura, ela coexpressa IgM e IgD. Não sabe-se exatamente  se os anticorpos IgM e IgD são funcionalmente diferentes quando na superfície de células B. Camundongos knockout para Cδ  (camundongos alterados geneticamente para não expressar IgD) não possuem defeitos significativos em células B. IgD pode ter alguma participação em reações alérgicas.
+Recentemente, foi mostrado que IgD é capaz de ligar-se a basófilos e mastócitos, ativando essas células e estimulando a produção de fatores antimicrobianos que participam na defesa imune do sistema respiratório . Ele também estimula a liberação de fatores homeostáticos de célula B por mastócitos. Isso é consistente com a redução no número de células B periféricas, o nível reduzido de IgE no plasma e deficiências na resposta primaria de IgG1 em animais knockout para IgD
+
+
+== Método de coexpressão ==
+ No Locus de Cadeia Pesada humano, na região 3' do cassete V-D-J está presente uma série de genes C (de constante), cada um conferindo um isotipo de imunoglobulina. O gene Cμ (IgM)  é o mais próximo do cassete V-D-J, com o gene  Cδ aparecendo 3' a Cμ.
+O transcrito de mRNA primário conterá o cassete V-D-J transcrito  e os genes Cμ e Cδ, com introns entre eles.
+O splicing alternativo ocorre, levando à seleção de Cμ ou Cδ para o mRNA funcional (μ mRNA ou δ mRNA respectivamente). O splicing alternativo é possível devido à presença de dois sítios de poliadenilação, um aparecendo entre Cμ e Cδ, e outro 3' de Cδ. O mecanismo preciso de como o sítio de poliadenilação é escolhido permanece elusivo. 
+O mRNA funcional resultante possuirá as regiões  V-D-J e C contíguas e sua tradução irá gerar uma cadeia pesada μ ou uma cadeia pesada δ. As cadeias pesadas então acoplam-se a cadeias leves κ ou λ, para criar o anticorpo IgM ou IgD final 
+
+
+== Ligações externas ==
+MeSH Immunoglobulin+D
+
+
+== Referências ==

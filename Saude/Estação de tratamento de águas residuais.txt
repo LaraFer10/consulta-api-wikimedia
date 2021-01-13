@@ -1,0 +1,51 @@
+Estação de Tratamento de Águas Residuais (ETAR), que, no Brasil, designa-se oficialmente também por Estação de Tratamento de Esgoto (ETE), é uma infraestrutura que trata as águas residuais de origem doméstica e/ou industrial, comumente chamadas de esgotos sanitários, para, depois, serem escoadas para o mar ou rio com um nível de poluição aceitável através de um emissário, conforme a legislação vigente para o meio ambiente receptor.
+Numa ETAR, as águas residuais passam por vários processos de tratamento com o objetivo de separar ou diminuir a quantidade da matéria poluente da água.
+
+
+== Fases do tratamento ==
+
+
+=== Tratamento preliminar ===
+No primeiro conjunto de tratamentos, designado por pré-tratamento ou tratamento preliminar, o esgoto é sujeito aos processos de separação dos sólidos mais grosseiros, comoː a gradagem (no Brasil, chamado de gradeamento), que pode ser composta por grades grosseiras, grades finas e/ou peneiras rotativas; o desarenamento nas caixas de areia; e o desengorduramento nas chamadas caixas de gordura ou em pré-decantadores. Nesta fase, o esgoto é, desta forma, preparado para as fases de tratamento subsequentes, podendo ser sujeito a um pré-arejamento e a uma equalização tanto de caudais como de cargas poluentes ou resíduos.
+
+
+=== Tratamento primário ===
+Apesar de o esgoto apresentar um aspecto ligeiramente mais razoável após a fase de pré-tratamento, possui ainda praticamente inalteradas as suas características poluidoras. Segue-se, pois, o tratamento propriamente dito. A primeira fase de tratamento é designada por tratamento primário, onde a matéria poluente é separada da água por sedimentação nos sedimentadores primários. Este processo exclusivamente de ação física pode, em alguns casos, ser ajudado pela adição de agentes químicos que, através de uma coagulação/floculação, possibilitam a obtenção de flocos de matéria poluente de maiores dimensões e assim mais facilmente decantáveis.
+Após o tratamento primário, a matéria poluente que permanece na água é de reduzidas dimensões, normalmente constituída por coloides, não sendo, por isso, passível de ser removida por processos exclusivamente físico-químicos. A eficiência de um tratamento primário pode chegar a 60% ou mais dependendo do tipo de tratamento e da operação da ETAR.
+
+
+=== Tratamento secundário ===
+Segue-se, pois, o chamado processo de tratamento secundário, geralmente consistindo num processo biológico, do tipo lodo ativado ou do tipo filtro biológico, onde a matéria orgânica (poluente) é consumida por micro-organismos nos chamados reatores biológicos. Estes reatores são normalmente constituídos por tanques com grande quantidade de micro-organismos aeróbios, havendo, por isso, a necessidade de promover o seu arejamento. O esgoto saído do reator biológico contém uma grande quantidade de micro-organismos, sendo muito reduzida a matéria orgânica remanescente. A eficiência de um tratamento secundário pode chegar a 95% ou mais dependendo da operação da ETE. Os micro-organismos sofrem, posteriormente, um processo de sedimentação nos designados sedimentadores (decantadores) secundários.
+Finalizado o tratamento secundário, as águas residuais tratadas apresentam um reduzido nível de poluição por matéria orgânica, podendo, na maioria dos casos, ser despejadas no meio ambiente receptor.
+
+
+=== Tratamento terciário ===
+Normalmente, antes do lançamento final no corpo receptor, é necessário proceder à desinfecção das águas residuais tratadas para a remoção dos organismos patogênicos ou, em casos especiais, à remoção de determinados nutrientes, como o nitrogênio (azoto) e o fósforo, que podem potenciar, isoladamente e/ou em conjunto, a eutrofização das águas receptoras.
+
+
+==== Remoção de nutrientes ====
+Águas residuárias podem conter altos níveis de nutrientes como nitrogênio e fósforo. A emissão em excesso destes pode levar ao acúmulo de nutrientes, fenômeno chamado de eutrofização, que encoraja o crescimento excessivo (chamado bloom) de algas e cianobactérias (algas azuis). A maior parte destas algas acaba morrendo, porém a decomposição das mesmas por bactérias remove oxigênio da água e a maioria dos peixes morrem. Além disso, algumas espécies de algas produzem toxinas que contaminam as fontes de água potável (as chamadas cianotoxinas).
+Há diferentes processos para remoção de nitrogênio e fósforo:
+
+A Desnitrificação requer condições anóxicas (ausência de oxigênio) para que as comunidades biológicas apropriadas se formem. A desnitrificação é facilitada por um grande número de bactérias. Métodos de filtragem em areia, lagoa de polimento etc. podem reduzir a quantidade de nitrogênio. O sistema de lodo ativado, se bem projetado, também pode reduzir significante parte do nitrogênio.
+A Remoção de fósforo, que pode ser feita por precipitação química, geralmente com sais de ferro (exemploː cloreto férrico) ou alumínio (exemploː sulfato de alumínio). O lodo químico resultante é difícil de tratar e o uso dos produtos químicos torna-se caro. Apesar disso, a remoção química de fósforo requer equipamentos muito menores que os usados por remoção biológica.
+
+
+==== Desinfecção ====
+A desinfecção das águas residuais tratadas objetiva a remoção dos organismos patogênicos. O método de cloração também tem contribuído significativamente na redução de odores em estações de tratamento de esgoto. Revelou-se, entre os processos artificiais, o de menor custo e de elevado grau de eficiência em relação a outros processos como a ozonização, que é bastante dispendiosa, e a radiação ultravioleta, que não é aplicável a qualquer situação.
+
+
+== Ver também ==
+Água
+Água potável
+Purificação de água
+Esgoto
+Emissário
+Resíduos
+Estação de tratamento de água
+Estação móvel de tratamento de água
+
+
+== Ligações externas ==
+«Associação Brasileira de Engenharia Sanitária e Ambiental» 
+Blogue de Engenharia do Ambiente (em português)

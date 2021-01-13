@@ -1,0 +1,52 @@
+Um cromossoma inorgánico baseado em silício (em inglês Inorganic Chromosome based in Silicon (InChroSil)) é um circuito electrónico que emula o comportamento e a estrutura do DNA orgânico, isto é, com componentes electrónicos se reproduz com toda a exactidão a estrutura da dupla hélice do DNA, sendo as bases dos nucleótidos componentes electrónicos, e os enlaces químicos entre as bases, também são componentes electrónicos. Isto permite ter um DNA artificial construído com silício (circuito integrado ou semiconductor).
+
+
+== História ==
+Inchrosil foi inventado e patenteado em 2006 por 2 irmãos (Carlos e José Daniel Llopis Llopis) na habitação de um deles e com poucos recursos. O primeiro protótipo sozinho representava um par nucleótido e tinha umas dimensões de uma cuartilla de papel. Hoje em dia desenvolveu-se e melhorado o circuito e, com o mesmo espaço podem-se armazenar biliões de nucleótidos e com uma poupança de espaço de armazenamento do 88 por cem, com respeito aos sistemas de armazenamento genético actual.
+Na actualidade constroem-se os protótipos na sala branca de Microsystems Technology Laboratories (MTL) pertencente ao Instituto Tecnológico de Massachusetts (MIT) e com pessoal da companhia Threellop Nanotechnology Inc, sendo esta última a proprietária da propriedade industrial (patente).
+
+
+== Características de InChroSil ==
+Inchrosil armazena não só a fibra principal, senão a complementar, além de poder armazenar correntes de DNA incompletas, isto é, nucleótidos onde não possuam seu complementar. Com esta característica podem-se ter muitas combinações de uma mesma corrente de DNA e, realizar-se milhares de acoplamentos de fibras imcompletas necessárias para a computação com DNA.
+Na mesma posição que se armazena o nucleótido,InChroSil tem desenhado um sistema de qualidade do nucleótido. Este sistema ocupa a mesma posição que o nucleótido e permite mostrar a qualidade com que se tomou o nucleotido na secuenciación, com isto temos 4 níveis que variam em 25 por cem a cada um.
+Quando se desenho InChroSil se queria que fosse interoperable com os sistemas informáticos actuais, já que, hoje em dia, existem implementações com DNA orgânico, mas não podem operar com os sistemas convencionais, além de possuir um carácter perecível.
+Os irmãos llopis reproduziram mediante fibras Inchrosil o experimento do Prof. Leornard Adleman o qual demonstrou que com fibras de DNA orgânico se pode resolver o problema do caminho hamiltoniano com DNA (computação baseada em DNA). Desde 1994 realizaram-se vários desenvolvimentos com DNA orgânico para construir máquinas com DNA, mas com o inconveniente de que o material era perecível, é material orgânico, por esse motivo no 2006 e da mão dos irmãos Llopis se implementou uma versão com circuitos integrados, para que desta forma fora infinitamente reprogramable e com uma durabilidade da informação a mais de 40 anos.
+
+
+== Usos de InChroSil ==
+Inchrosil utiliza-se sobretudo para armazenamento em massa de sequências de DNA, sendo seus usos:
+
+Identificação genética pessoal, com o armazenamento da impressão genética. Sua invenção deve-se o doutor Alec Jeffreys na Universidade de Leicester em 1984.
+Estudos genéticos, sendo a ferramenta onde armazenar-se-ia sequências grandes, que poder-se-ia comparar e manipular digitalmente.
+Bancos genéticos, onde se armazenem quantidades grandes de informação genéticas.
+Classificação de espécies e animais.
+Ferramenta para estudos médicos (genéticos).
+
+
+== Cod-InChroSil (Codification InChroSil) ==
+Além de armazenar informação genética, InChroSil pode armazenar informação não genética, como imagens, arquivos de música ou texto. Isto se consegue traduzindo esta informação em fibras de DNA, para isso se utiliza um sistema de codificação patenteado que traduz esta informação heterogénea em DNA (nucleótidos).
+
+
+== Ver também ==
+Nanotecnologia
+Chip de DNA
+Computação baseada em DNA
+Sala branca
+Computação paralela
+Impressão genética
+
+
+== Referências ==
+
+
+== Bibliografía ==
+Rubin, Frank, "«A Search Procedure for Hamilton Paths and Circuits'». portal.acm.org ". Journal of the ACM, Volume 21, Issue 4. October 1974. ISSN 0004-5411
+M. R. Garey, D. S. Johnson, and L. Stockmeyer. «Some simplified NP-complete problems». portal.acm.org . Proceedings of the sixth annual ACM symposium on Theory of computing, p. 47-63. 1974.
+Michael R. Garey and David S. Johnson (1979). Computers and Intractability: A Guide to the Theory of NP-Completeness. [S.l.]: W.H. Freeman. ISBN 0-7167-1045-5  A1.3: GT37–39, pp. 199–200.
+
+
+== Ligações externas ==
+Patente (WO/2009/022024) ELECTRONIC SYSTEM FOR EMULATING THE CHAIN OF THE DNA STRUCTURE OF A CHROMOSOME
+Já é possível armazenar de forma em massa
+MTL
+sitio MIT

@@ -1,0 +1,35 @@
+O basiliximab (nome comercial Simulect) é um anticorpo monoclonal do tipo quimérico(humano-murino) que se liga à cadeia α (CD25) do receptor deIL-2 das células T.
+
+
+== Indicações ==
+É usado principalmente para a prevenção de rejeição de órgãos em transplantes, especialmente no transplante de rim e na profilaxia da doença do enxerto contra o hospedeiro(GvHD) no transplante alogênico de células-tronco hematopoiéticas.É comercializado pela Novartis Pharmaceuticals; sendo aprovado pela FDA desde 1998.De forma similiar ao daclizumab, o basiliximab reduz a severidade e a incidência de rejeiçãono translante de rim sem incrementar a chance de infecções oportunistas.
+
+
+== Mecanismo de ação ==
+O basiliximab, do isotipo IgG1, age no antígeno CD25, presente na superfície de linfócitos  T, envolvidos na rejeição a transplantes. O CD25 é um receptor que estimula a síntese de IL-2 e a proliferação dos linfócitos T. Em condições normais, o próprio IL2 se ligaria à subunidade p55 do receptor CD25, em um feedback positivo que estimula a proliferação.O basiliximab bloqueia a atividade da IL-2, comportando-se como um antagonista da mesma, reduzindo a velocidade e a capacidade de duplicação dos linfócitos.  Ciò determina clinicamente una riduzione del rischio di rigetto.
+
+
+== Notas ==
+
+
+== Bibliografia ==
+Frank Ashall (1999). Le grandi scoperte scientifiche. [S.l.]: Armando Editore. p. 245–. ISBN 978-88-7144-949-4 
+Abul K. Abbas; Andrew H. Lichtman; Shiv Pillai (2010). Immunologia cellulare e molecolare. [S.l.]: Elsevier srl. p. 79–. ISBN 978-88-214-3176-0 
+Abul K. Abbas; Andrew H. Lichtman (2006). Le basi dell'immunologia. [S.l.]: Elsevier srl. p. 70–. ISBN 978-88-85675-85-8 
+Humphrey P. Rang; M. Maureen Dale; James M. Ritter (2008). Farmacologia. [S.l.]: Elsevier srl. p. 778–. ISBN 978-88-214-3023-7 
+Enzo Fagiolo (2007). Immunoematologia. [S.l.]: Mediserve s.r.l. p. 16–. ISBN 978-88-8204-135-9 
+Paolo Larizza (2005). Trattato di medicina interna. [S.l.]: PICCIN. p. 909–. ISBN 978-88-299-1721-1 
+Angelo Sghirlanzoni (3 de abril de 2010). Terapia Delle Malattie Neurologiche. [S.l.]: Springer. p. 113–. ISBN 978-88-470-1119-9 
+Thomas C. King (2008). Patologia. [S.l.]: Elsevier srl. p. 156–. ISBN 978-88-214-3019-0 
+«WHO-Lista INN degli Anticorpi monoclonali» (PDF). whqlibdoc.who.int (em inglês) 
+Marie A. Simmons (2005). Monoclonal antibodies: new research (em inglês). [S.l.]: Nova Publishers. ISBN 978-1-59454-247-3 
+Zhiqiang An. Therapeutic Monoclonal Antibodies: From Bench to Clinic (em inglês). [S.l.]: John Wiley and Sons. ISBN 978-0-470-11791-0 
+James W. Goding (1996). Monoclonal antibodies: principles and practice : production and application of monoclonal antibodies in cell biology, biochemistry and immunology (em inglês). [S.l.]: Academic Press. ISBN 978-0-12-287023-1 
+Steve Shire (abril 2009). Current Trends in Monoclonal Antibody Development and Manufacturing (em inglês). [S.l.]: Springer. ISBN 978-0-387-76642-3 
+
+
+=== Basiliximab ===
+Gregory T. Everson; James F. Trotter (2009). Liver transplantation: challenging controversies and topics (em inglês). [S.l.]: Springer. p. 24–. ISBN 978-1-58829-793-8 
+Manzoor M. Khan (24 de outubro de 2008). Immunopharmacology (em inglês). [S.l.]: Springer. p. 113–. ISBN 978-0-387-77975-1 
+Derek S. Wheeler; Hector R. Wong; Thomas P. Shanley (1 de outubro de 2010). Pediatric Critical Care Medicine: Basic Science and Clinical Evidence (em inglês). [S.l.]: Springer. p. 1399–. ISBN 978-1-84628-463-2 
+Stefan Dübel (26 de março de 2007). Handbook of therapeutic antibodies: Approved therapeutics (em inglês). [S.l.]: Wiley-VCH. p. 1133–. ISBN 978-3-527-31453-9

@@ -1,0 +1,47 @@
+Caloria (símbolo: cal) é uma unidade de medida de energia que não pertence ao Sistema Internacional de Unidades.
+Historicamente, a definição de calorias era a quantidade de energia necessária para elevar em 1 grau celsius a temperatura de 1 g de água (o calor específico da água é, por definição, igual a 1).
+Com a evolução das técnicas de medida, verificou-se que o calor específico não era constante com a temperatura. Por isso buscou-se padronizá-lo para uma faixa estreita, e a caloria foi então redefinida como sendo o calor trocado quando a massa de um grama de água passa de 14,5 °C para 15,5 °C.
+Contudo, com a evolução mais uma vez da técnica, sobretudo do desenvolvimento da electricidade e da electrónica, viu-se ser mais conveniente definir o joule como unidade de energia, abolindo assim a necessidade de definir a caloria. Entretanto, o Escritório Internacional de Pesos e Medidas, organismo responsável pela convenção do metro e pelo Sistema Internacional de Unidades, resolveu colocar a caloria como sendo:
+
+1 caloria = 4,1868 J (exatamente)Essa definição está em vigor desde 1948. 
+Quando usamos caloria para nos referirmos ao valor energético dos alimentos, na verdade queremos dizer a quantidade de energia necessária para elevar a temperatura de 1 quilograma (equivalente a 1 litro) de água de 14,5 °C para 15,5 °C. O correto neste caso seria utilizar kcal (quilocaloria), porém o uso constante em nutrição fez com que se modificasse a medida. Assim, quando se diz que uma pessoa precisa de 2.500 Calorias por dia (às vezes a "caloria" usada pelos nutricionistas é chamada de Caloria (CAL), equivalendo à uma quilocaloria, ou 1 kcal), na verdade são 2.500.000 calorias (2.500 quilocalorias) por dia. Tendo em vista que apenas unidades de medidas que derivam de um nome próprio são grafadas com a inicial maiúscula , a notação "Cal", apesar de amplamente utilizada, está incorreta. 
+
+
+== História ==
+Sabia-se que o calor estava ligado a algo que fluía de um corpo de maior temperatura para um corpo de menor temperatura. Lavoisier de fato incluiu o calórico, suposto fluido do qual seria composto o calor, em sua tabela de elementos químicos (ainda não era, entretanto, uma tabela periódica)
+Pouco a pouco, entretanto, foi evoluindo o entendimento do que seria o calor. Em 1798, Benjamim Thompson, o Conde Rumford, supervisionando a perfuração de canhões do arsenal de Munique, notou que o calor era liberado mesmo quando as brocas tivessem ficado cegas, o que contrariava uma opinião então vigente, de que o calor liberado era consequência de um suposto menor calor específico das aparas de ferro em relação ao ferro maciço.
+Em 1799, Humphry Davy pôs por terra outra hipótese dos defensores do calórico, que dizia que o ar era a fonte desse calor. Atritando dois pedaços de gelo no vácuo, por um mecanismo automático, fê-los derreter.
+A noção de que o calor é uma forma de energia surgiu, em termos históricos, muito recentemente no desenvolvimento da Ciência. De fato, até hoje, no que tange o senso comum, se confunde temperatura e calor.
+Mais tarde, já no século XIX, Julius Robert Meyer começou a reparar na equivalência entre trabalho e calor, resultado que iria, entretanto, só ser plena e vitoriosamente confirmado por James Prescott Joule no seu grande artigo "Sobre o Equivalente Mecânico do Calor", lido perante a Royal Society em 1849.
+
+
+== Calorias nos alimentos ==
+A vida do ser humano depende de uma fonte de energia: as calorias contidas nos alimentos. Quando são ingeridas pelo organismo, elas são metabolizadas no seu interior, gerando a energia química que necessitamos para nossa sobrevivência.
+As calorias são encontradas em forma de energia em cada alimento; isso será utilizado pelo corpo para todas as funções, como digestão, respiração, prática de exercícios etc.
+Todos os alimentos possuem calorias, mas em diferentes quantidades. Os alimentos gordurosos (por exemplo, carnes gordas e lacticínios) são os que mais contêm calorias. Os carboidratos são os que possuem as calorias mais fáceis de serem absorvidas e metabolizadas, sendo fontes de energia muito boas.
+
+
+== Tabela de calorias de alguns alimentos ==
+
+
+== Gasto de quilocalorias em atividades ==
+
+
+== Cálculo de calorias em alimentos ==
+Os carboidratos e as proteínas possuem 4 kcal/g de energia.
+Os lipídios possuem 9 kcal/g.
+O álcool fornece 7 kcal/g.Para fazer o cálculo de quilocalorias (kcal) em alimentos basta multiplicar o peso/g de carboidratos e proteínas por 4, e o peso/g dos lipídios por 9.
+Exemplo: 
+Considerando que os valores de um alimento são:
+CHO=13,23g Proteínas=2,3g Lipídios=2,35g
+Então o cálculo de quilocalorias é:
+(13,23+2,3)*4=62,12
+2,35*9=21,15
+62,12 + 21,15 = 83,27
+Total= 83,27 kcal
+Apesar de existirem cálculos fixos para cada alimento, existem variações na quantidade de energia recebida por eles. A começar pelo próprio alimento: vegetais, dentro da mesma espécie, podem apresentar variações que alteram a energia disponível. Isso acontece porque a parede celular pode variar em mais ou menos espessa, o que altera a absorção do nutriente. Além disso, o tempo de cozimento também pode influenciar na disponibilidade energética.
+O organismo que está consumindo o nutriente também pode alterar a quantidade calórica. Isso significa que para duas pessoas que consumam um mesmo alimento, a quantidade de calorias absorvidas é diferente, pois cada organismo possui características únicas, e estas  dependem da ascendência de cada população. Russos, por exemplo, possuem intestinos maiores do que italianos, o que significa que os alimentos percorrem um caminho mais longo no corpo dos russos, resultando em mais calorias absorvidas. A quantidade e os tipos de enzimas que cada pessoa possui também variam.
+Amilase e lactase são enzimas importantes no processo digestório, e suas quantidades variam de pessoa para pessoa, resultando em maior ou menor absorção nutricional. A microbiota, ou seja, os microrganismos que habitam nosso corpo, são atuantes no sistema digestivo, como as bactérias. Além disso, certas populações possuem bactérias específicas para diferentes tipos de comida, resultado de anos de evolução alimentar em relação ao estilo de comer de diferentes civilizações humanas. A microbiota dos japoneses, por exemplo, possui espécies de micróbios com maior capacidade de quebrar algas. Isto significa que um japonês adquire mais calorias comendo algas do que um europeu ou um estadunidense.
+
+
+== Referências ==

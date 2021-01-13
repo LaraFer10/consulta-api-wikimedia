@@ -1,0 +1,55 @@
+Um sítio de ligação com o ribossomo, ou sítio de ligação ribossômica (abreviado na literatura em inglês como RBS, de ribossomal binding site), é uma sequência de nucleótidos a montante do códon de iniciação de um transcrito de ARNm que é responsável pelo recrutamento de um ribossoma durante o início da tradução da proteína. Principalmente, o RBS refere-se a sequências bacterianas, embora tenham sido descritos sítios internos de entrada de ribossomas (abreviados como IRES, do inglês internal ribosome entry site) em mRNAs de células eucariotas ou vírus que infectam eucariotas. O recrutamento de ribossomas em eucariotas é geralmente mediado pelo cap 5' presente em ARNm eucarióticos.
+
+
+== Procariotas ==
+O RBS em procariotas é uma região a montante do códon de iniciação. Esta região do ARNm tem o consenso 5'-AGGAGG-3', também chamado de sequência de Shine-Dalgarno (SD). A sequência complementar (CCUCCU), chamada de anti-Shine-Dalgarno (ASD) está contida na terminação 3’ da região 16S da menor subunidade ribossômica (30S). Ao encontrar a sequência de Shine-Dalgarno, a ASD dos ribossomos emparelha bases com ela, após o qual a tradução é iniciada.Variações da sequência 5'-AGGAGG-3' tem sido encontrado em Archaea como regiões 5′-GGTG-3′ altamente conservadas, 5 pares de bases a montante do sítio de início. Além disso, algumas regiões de iniciação bacteriana, tais como rpsA em E.coli tem lacunas de sequências SD completamente identificáveis.
+
+
+=== Efeito na taxa de iniciação da tradução ===
+Os ribossomos procarióticos iniciam a tradução do ARNm transcrito enquanto ADN está ainda sendo transcrito. Assim, a tradução e a transcrição são processos paralelos. ARNm bacteriano é usualmente policístrico (apresenta múltiplos cístrons, e contém múltiplos locais de ligação ao ribossoma. O início da tradução é o passo mais regulado da síntese protéica em procariontes.A taxa de tradução depende de dois fatores:
+
+a taxa na qual um ribossomo é recrutado para a RBS
+a taxa na qual um ribossomo recrutado é capaz de iniciar a tradução (i.e. a eficiência de iniciação da tradução)A sequência RBS afeta ambos os fatores.
+
+
+==== Fatores que afetam a taxa de recrutamento de ribossomos ====
+A proteína ribossômica S1 liga-se a sequências de adenina a montante da RBS. Aumentar a concentração de adenina a montante do RBS aumentará a taxa de recrutamento de ribossomos.
+
+
+==== Fatores que afetam a eficiência da iniciação da tradução ====
+O nível de complementaridade da sequência SD do ARNm ao ASD ribossômico afeta muito a eficiência da iniciação da tradução. Maior complementaridade resulta em maior eficiência de iniciação. É interessante se notar que isso só se sustenta até certo ponto - sabe-se que uma rica complementaridade paradoxalmente diminui a taxa de tradução, já que o ribossomo passa a ser limitado demais para prosseguir a jusante.A distância ótima entre o RBS e o códon de iniciação é variável -isso depende da porção da sequência SD codificado no RBS real e sua distância ao sítio de iniciação de uma sequência SD consenso. O espaçamento ótimo aumenta a taxa de iniciação da tradução uma vez que o ribossomo foi ligado tenha sido ligado. A composição de nucleotídeos na própria região do espaçador também afetou a taxa de iniciação da tradução em um estudo.
+
+
+=== Proteínas do choque térmico ===
+Estruturas secundárias formadas pela RBS pode afetar a eficiência da tradução de ARNm, geralmente inibindo a tradução. Estas estruturas secundárias são formadas pela ligação H dos pares de bases do ARNm e são sensíveis à temperatura. A uma temperatura acima da usual (~42 °C), a estrutura secundária RBS de proteínas do choque térmico torna-se desfeito, permitindo que os ribossomos se liguem e iniciem a tradução. Este mecanismo permite que uma célula responda rapidamente a um aumento na temperatura.
+
+
+== Eucariotas ==
+
+
+=== Cap 5' ===
+Recrutamento de ribossomos em eucariotas acontece quando fatores de iniciação eucariota elF4F e proteína de ligação a poli(A) (PABP, poly(A)-binding protein) reconhece o ARNm com a estrutura cap 5' e recruta o complexo 43S do ribossoma na localização.O início da tradução acontece após o recrutamento do ribossomo, no códon de iniciação (sublinhado) encontrado dentro do sequência de consenso de Kozak ACCAUGG. Dado que a sequência de Kozak em si não está envolvida no recrutamento do ribossoma, não é considerada um local de ligação ao ribossoma.
+
+
+=== Sítio interno de entrada do ribossoma (IRES) ===
+Os ribossomos eucarióticos são conhecidos por se ligarem a transcritos em um mecanismo diferente do que envolve o cap 5', em uma sequência chamada sítio interno de entrada do ribossoma. Este processo não depende do conjunto completo de fatores de iniciação da tradução (embora isso dependa do IRES  específico) e é comumente encontrado na tradução de ARNm viral.
+
+
+== Anotação genética ==
+A identificação de RBSs é usada para determinar o local de iniciação da tradução em uma sequência não anotada. Isso é chamado de previsão N-terminal. Isto é especialmente útil quando vários códons de início estão situados em torno do local de início potencial da sequência de codificação da proteína.Identificação de RBSs é particularmente difícil, porque eles tendem a ser altamente degenerados. Uma abordagem para identificar RBS em E.coli é usando redes neurais. Outra abordagem é usando o método de amostragem de Gibbs.
+
+
+== História ==
+A sequência Shine-Dalgarno, do RBS procariótico, foi descoberta por John Shine e Lynne Dalgarno em 1975.A sequência de consenso de Kozak foi primeiro identificada por Marilyn Kozak em 1984 enquanto ela estava no Departamento de Ciências Biológicas na Universidade de Pittsburgh.
+
+
+== Ver também ==
+Predição de genes
+Sítio de ligação ao ribossomo alfa do operon
+
+
+== Referências ==
+
+
+== Ligações externas ==
+Calculadora para sítios de ligação com ribossomos (RBS) - scienceblogs.com.br

@@ -1,0 +1,22 @@
+Uroporfirinogênio III descarboxilase (uroporfirinogênio descarboxilase, ou UROD) é uma enzima (EC 4.1.1.37) que em humanos é codificada pelo gene UROD .
+
+
+== Função ==
+Uroporfirinogênio III decarboxilase é uma enzima homodimérica (PDB 1URO) que catalisa a quinta etapa na biossíntese  de heme, a qual corresponde à eliminação de grupos carboxilo das quatro cadeias laterais acetato de uroporfirinogênio III resultando em coproporfirinogênio III:
+
+uroporfirinogênio III 
+  
+    
+      
+        ⇌
+      
+    
+    {\displaystyle \rightleftharpoons }
+   coproporfirinogênio III + 4 CO2
+
+
+== Significância clínica ==
+Sabe-se que as mutações e deficiências nessa enzima causam porfiria cutânea tarda e porfiria hepatoeritropoiética familiar.
+
+
+== Referências ==

@@ -1,0 +1,76 @@
+A matemática aplicada é uma área da matemática no qual se trata da aplicação do conhecimento matemático a outros domínios. Tais aplicações incluem cálculo numérico, matemática voltada a engenharia, programação linear, otimização,  modelagem contínua, biomatemática e bioinformática, teoria da informação, teoria dos jogos, probabilidade e estatística, matemática financeira,  criptografia, combinatória e até mesmo geometria finita até certo ponto, teoria de grafos como aplicada em análise de redes, e grande parte do que se chama ciência da computação.
+A matemática voltada à engenharia descreve processos físicos, e portanto, é muito similar à física teórica. Subdivisões importantes incluem: dinâmica dos fluidos, teoria acústica, equações de Maxwell que governam o eletromagnetismo, mecânica, etc.
+Historicamente, a matemática era mais importante para as ciências naturais e engenharia. No entanto, desde a Segunda Guerra Mundial, campos fora das ciências físicas geraram a criação de novas áreas de matemática, como teoria dos jogos e teoria da escolha social, e o conceito de redes neurais, que surgiram do estudo do cérebro em neurociência.
+
+
+== História ==
+Historicamente falando, a matemática aplicada era baseada principalmente pela análise aplicada, em especial, pelas equações diferenciais, teoria das aproximações e probabilidade aplicada. Essas áreas da matemática foram intimamente ligadas ao desenvolvimento da física newtoniana e, de fato, a distinção entre matemáticos e físicos não era clara até  meados do século XIX. Até o começo do século XX, matérias como mecânica clássica foram constantemente supervisionadas tanto por departamentos de física quanto por de matemática nas universidades americanas e, em relação à mecânica dos fluidos, ainda é mantida por departamentos de matemática aplicada, embora tenha uma conexão mais evidente com a física. Os departamentos de engenharia e ciências da computação também fazem uso da matemática aplicada.
+
+
+== Divisões ==
+Atualmente, o termo “matemática aplicada” é usado num sentido amplo, que inclui as áreas clássicas mencionadas acima, assim como as que estão se tornando cada vez mais importantes em suas aplicações. Até mesmo campos como a teoria dos números, dadas como parte da matemática pura, estão ganhando importância prática (neste caso, a criptografia).
+Muitos matemáticos distinguem o termo “matemática aplicada”, que é baseado em métodos matemáticos, de “aplicações da matemática”, que estaria mais relacionado com as ciências e engenharias. Um biólogo usando um modelo populacional e aplicando seu conhecimento matemático não estaria fazendo matemática aplicada, mas usando-o. Entretanto, biólogos matemáticos têm exposto problemas que estimulam o desenvolvimento da matemática pura. Matemáticos como Henri Poincaré e Vladimir Arnold negam a existência da “matemática aplicada” e defendem que só existe “aplicações da matemática”; similarmente, não-matemáticos misturam matemática aplicada com aplicações da matemática. O uso e o desenvolvimento da matemática para resolver problemas industriais é chamado de “matemática industrial”.
+O sucesso dos modernos métodos matemáticos e programas de computador possibilitaram a criação da matemática computacional, ciência computacional, e engenharia computacional, que usam computações de alta performance para a simulação de certos fenômenos e soluções para problemas nas ciências e engenharia. Essas áreas são frequentemente consideradas matérias interdisciplinares.
+
+
+== Utilidade ==
+Historicamente, a matemática é muito importante dentro das ciências naturais e engenharias. Contudo desde a Segunda Guerra, áreas fora das ciências físicas tem inspirado a criação de novas áreas dentro da matemática, como a teoria dos jogos e aspectos estatísticos das ciências sociais, que cresceram por sua importância estratégica e econômica. Outro exemplo são as redes neurais, que surgiram a partir do estudo do cérebro na neurociência.
+
+
+== Status em departamentos acadêmicos ==
+As instituições acadêmicas não são consistentes na forma em que agrupam e classificam os cursos, programas e títulos de matemática aplicada. Em algumas universidades, há somente um departamento de matemática, enquanto que em outras há uma divisão de departamentos entre pura e aplicada. Essa relação não é consensual. Algumas universidades do Reino Unido,
+por exemplo, detêm departamentos de matemática aplicada junto com física teórica. No Brasil, universidades tradicionais como a Universidade de São Paulo e a Universidade Federal do Rio de Janeiro detêm departamentos distintos entre matemática pura, aplicada, estatística, computação e métodos matemáticos.
+
+
+== Ciências matemáticas associadas ==
+A matemática aplicada está intimamente relacionada com outras ciências matemáticas.
+
+
+=== Computação científica ===
+A computação científica inclui a matemática aplicada (especialmente a análise numérica), a ciência da computação (especialmente a computação de alto desempenho), e a modelação matemática numa disciplina científica.
+
+
+=== Ciência da computação ===
+A ciência da computação baseia-se na lógica, álgebra, matemática discreta como a teoria dos gráficos e a teoria combinatória.
+
+
+=== Investigação operacional e ciência de gestão ===
+A investigação operacional e a ciência de gestão são frequentemente ensinadas em faculdades de engenharia, negócios, e políticas públicas.
+
+
+=== Estatísticas ===
+A matemática aplicada tem uma sobreposição substancial com a disciplina da estatística. Os teóricos da estatística estudam e melhoram os procedimentos estatísticos com a matemática, e a investigação estatística levanta frequentemente questões matemáticas. A teoria estatística baseia-se na teoria da probabilidade e da decisão, e faz uso extensivo da computação científica, análise e otimização; para a concepção de experiências, os estatísticos usam álgebra e concepção combinatória. Os matemáticos e estatísticos aplicados trabalham frequentemente num departamento de ciências matemáticas (particularmente em faculdades e pequenas universidades).
+
+
+=== Ciências atuariais ===
+A ciência atuarial aplica a probabilidade, a estatística e a teoria económica para avaliar o risco nos seguros, finanças e outras indústrias e profissões.
+
+
+=== Matemática econômica ===
+A economia matemática  é a aplicação de métodos matemáticos para representar teorias e analisar problemas econômicos. Os métodos aplicados referem-se geralmente a técnicas ou abordagens matemáticas não triviais. A economia matemática baseia-se em estatística, probabilidade, programação matemática (bem como outros métodos computacionais), pesquisa de operações, teoria dos jogos, e alguns métodos de análise matemática. A este respeito, assemelha-se (mas é diferente) da matemática financeira, outra parte da matemática aplicada.
+
+
+=== Matemática aplicável ===
+A matemática aplicável é uma subdisciplina da matemática aplicada, embora não haja consenso quanto a uma definição precisa. Por vezes o termo "matemática aplicável" é usado para distinguir entre a matemática aplicada tradicional que se desenvolveu juntamente com a física e as muitas áreas da matemática que são aplicáveis aos problemas do mundo real de hoje.
+Os matemáticos distinguem frequentemente entre "matemática aplicada", por um lado, e as "aplicações da matemática" ou "matemática aplicável" tanto dentro como fora da ciência e engenharia, por outro. Alguns matemáticos enfatizam o termo matemática aplicável para separar ou delinear as áreas tradicionalmente aplicadas de novas aplicações decorrentes de campos que anteriormente eram vistos como matemática pura. Por exemplo, deste ponto de vista, um ecologista ou geógrafo utilizando modelos populacionais e aplicando a matemática conhecida não estaria a fazer matemática aplicada, mas sim aplicável. Mesmo campos como a teoria dos números que fazem parte da matemática pura são agora importantes em aplicações (como a criptografia), embora não sejam geralmente considerados como fazendo parte do campo da matemática aplicada. Tais descrições podem levar a que a matemática aplicável seja vista como uma coleção de métodos matemáticos como a análise real, álgebra linear, modelação matemática, otimização, combinatória, probabilidade e estatística, que são úteis em áreas fora da matemática tradicional e não específicas da física matemática.
+Outros autores preferem descrever a matemática aplicável como uma união de "novas" aplicações matemáticas com os campos tradicionais da matemática aplicada. Com esta perspectiva, os termos matemática aplicada e matemática aplicável são assim intercambiáveis.
+
+
+=== Outras disciplinas ===
+A linha entre a matemática aplicada e áreas específicas de aplicação é frequentemente indefinida. Muitas universidades ensinam cursos de matemática e estatística fora dos respectivos departamentos, em departamentos e áreas que incluem negócios, engenharia, física, química, psicologia, biologia, informática, computação científica, e física matemática.
+
+
+== Referências ==
+
+
+== Ver também ==
+Física matemática
+Matemática computacional
+Matemática pura
+Modelagem computacional
+Modelagem matemática
+
+
+== Ligações externas ==
+A Society for Industrial and Applied Mathematics é uma sociedade profissional dedicada à promoção da interação entre a comunidade de matemática e as outras comunidades técnicas e científicas.
+O site da Sociedade Brasileira de Matemática Aplicada e Computacional possui publicações, artigos e divulgação de eventos relacionados à área.

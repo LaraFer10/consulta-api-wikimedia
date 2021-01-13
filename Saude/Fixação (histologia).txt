@@ -1,0 +1,54 @@
+Nos campos da histologia, patologia, e biologia celular, fixação é um processo químico pelo qual tecidos biológicos são preservados da decomposição ou alteração indesejada para fim de exame. Fixação elimina com qualquer reação bioquímica em andamento, e pode também aumentar a resistência mecânica ou a estabilidade dos tecidos tratados.
+
+
+== Propósito da fixação ==
+O propósito da fixação é preservar uma amostra de material biológico (tecidos ou células) o mais próximo ao seu estado natural como possível no processos de preparação do tecido para exame. Para atingir esta meta, diversas condições devem ser normalmente encontradas.
+Primeiro, um fixador usalmente atua desabilitando biomoléculas intrínsicas – particularmente enzimas proteolíticas; as quais de outra maneira digeririam ou danificariam a amostra.
+Segundo, um fixador irá tipicamente proteger uma amostra de dano extrínsico. Fixadores são tóxicos para a maioria dos microorganismos comuns (bactérias em particular) as quais podem existir em uma amostra de tecido ou que podem de outra maneira colonizar o tecido fixado. Adicionalmente, muitos fixadores irão quimicamente alterar o material fixado a tornar-se menos palatável (tanto indigerível como tóxico) a microorganismos oportunistas.
+Finalmente, fixadores frequentemente alteram as células ou os tecidos num nível molecular aumentam sua resistência mecânica ou estabilidade. Este aumento de resistência e rigidez podem ajudar a preservar a morfologia (forma e estrutura) de uma amostra quando é processada para análises posteriores.
+Mesmo a fixação a mais cuidadosa altera a amostra e introduz artefatos que podem interferir com a interpretação da ultraestrutura celular. Um exemplo proeminente é o "mesossoma" bacteriano, o qual era referido como uma organela em bactérias Gram-positivas na década de 1970, mas foi posteriormente mostrado por novas técnicas desenvolvidas para microscopia eletrônica ser simplesmente um artefato resultante do processos de fixação. Padronizaão da fixação e outros procedimentos de processamento de tecidos levam esta introdução de artefatos em consideração, por estabelecer quais procedimentos introduzem quais tipos de artefatos. Pesquisadores que conhecem quais tipos de artefatos esperar em cada tipo de tecido e técnica de processamento podem precisamente interpretar seções com artefatos, ou escolher técnicas que minimizam artefatos em áreas de interesse.
+
+
+== Processos de fixação ==
+A fixação é usualmente a primeira etapa em um processo multipasso de preparação de uma amostra de material biológico para a microscopia ou outras análises. Em muitas técnicas, tanto clássicas como recentemente desenvolvidas, especialmente em diagnóstico médico, um do objetivos principais da fixação é a coagulação o mais completa possível dos albuminóides celulares.Entretanto, a escolha de fixador e protocolo de fixação pode depender de passos de processamento adicionais e análise final que são planejadas. Por exemplo, a imuno-histoquímica utiliza anticorpos os quais ligam-se a um alvo protêico específico. Fixação prolongada pode quimicamente mascarar estes alvos e prevenir a ligação dos anticorpos. Nestes casos, um método de "fixação rápida" usando formalina fria por aproximadamente 24 horas é tipicamente usado.
+
+
+== Tipos de fixação ==
+
+
+=== Vaporização ===
+A amostra de tecido é colocada por cima do vapor do fixador, ou seja, o fixador é aquecido ao ponto de começar a libertar vapor e é nesse mesmo vapor que a amostra é fixada. É necessário ter cuidado com este tipo de fixação porque, por vezes, os vapores libertados são demasiado perigosos para a saúde (exemplo: vapor do Formaldeído). 
+
+
+=== Perfusão ===
+Fixação via fluxo sanguíneo. O fixador é injetado no coração com volume de injeção que combina com o fluxo de saída cardíaca. O fixador espalha-se através do corpo inteiro, e o tecido não morre até que esteja fixo. Isto tem a vantagem de preservar perfeitamente a morfologia, mas as desvantagens estão em que o ser vivos em questão morre e o custo é elevado (por causa do volume de fixador necessário para organismos maiores).
+
+
+=== Imersão ===
+A amostra de tecido é imersa em fixador de volume no mínimo de 2/3 maiores que volume do tecido a ser fixado. O fixador deve se difundir através do tecido de maneira a fixar, tanto o tamanho e a densidade do tecido, como também o tipo de fixador deve ser tomado em consideração. O uso de uma amostra maior tornará o processo mais demorado para o fixador alcançar o tecido mais profundo.
+
+
+== Tipos de fixador ==
+Para fixação de material biológico, são usadas as seguintes substâncias devidamente preparadas em provetas:
+ATENÇÃO: ALGUMAS DAS FÓRMULAS APRESENTADAS ABAIXO, NÃO ESTÃO PLENAMENTE CORRETAS, VISTO QUE ESTÁ SENDO ASSUMIDO QUE OS REAGENTES (FORMOL E ÁLCOOL) ESTÃO TODOS EM UMA CONCENTRAÇÃO A 100%, OU SEJA, PURA. E ISTO NÃO É UMA VERDADE, VISTO QUE, POR EXEMPLO, O FORMOL, NA MAIORIA DAS VEZES, É COMERCIALIZADO A UMA CONCENTRAÇÃO DE 40%. O MESMO CASO SERVE PARA O ÁLCOOL, QUE É COMERCIALIZADO A 70, 96 E 100%. DIANTE DO EXPOSTO, SOLICITO QUE EM CADA UM DOS EXEMPLOS APRESENTADOS SEJA EXPLICITADO A REAL CONCENTRAÇÃO DOS REAGENTES, PRINCIPALMENTE COM RELAÇÃO A SOLUÇÃO DE FORMOL A 4%.
+1 - Solução aquosa de Formol a 4% 
+Para preparar 100 ml de solução a 4% : utilizar 4 ml de formol para
+cada 96ml de água destilada ou água do corpo aquático onde foi g g p q
+realizada a coleta. Esta solução também pode ser denominada de
+solução neutra de formol a 4%.
+2 - Álcool a 70% 
+Para preparar 100 ml da solução a 70% : utilizar 70 ml de álcool
+para cada 30 ml de água destilada. 
+3 - Formol Glicerinado a 4% (para preparo de lâmina permanente)
+Para preparar 100 ml da solução a 4%: verte‐se no recipiente 20
+ml de glicerol (glicerina pura) e adicionam‐se 80 ml de solução
+aquosa de formol a 4%.
+
+
+== Referências ==
+
+
+== Ver também ==
+Coloração (biologia)
+Citopatologia
+Plastinação

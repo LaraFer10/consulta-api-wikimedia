@@ -1,0 +1,23 @@
+Um mapa genético  é um mapa de um cromossomo de uma espécie que utiliza o principio de ligação entre locos de genes qualitativos (QLTs – do inglês quantitative trait locus) de partes especificas dos cromossomos para obter informações a respeito da localização e distância entre genes e/ou marcadores genéticos. Essas informações podem ser usadas para diversas técnicas biotecnológicas, principalmente as de melhoria genética.
+Neste caso, não se sabe exatamente a posição de determinado gene ou mutação, em termos de pares de bases, mas sim a sua posição em determinada região de um cromossomo. As técnicas de mapeamento genético incluem experimentos de cruzamento em animais ou avaliação de história familiar em humanos, por meio de estudos de ligação genética (genetic linkage em inglês). No caso dos humanos, esta técnica é muito usada no auxílio da identificação de genes que predispõem a várias doenças.
+Características morfológicas de fácil observação de determinados indivíduos foram por muito tempo a única fonte de diferenciação dos mesmos. Esses marcadores de fenótipo, no entanto, ajudaram no desenvolvimento teórico da analise de ligação gênica e da criação dos primeiros mapas genéticos (que eram bem limitados no quesito informativo). Foi só com o surgimento dos marcadores de polimorfismo aplicados diretamente ao DNA e de marcadores isoenzimáticos, graças ao avanço tecnológico e na área de biologia molecular, que a forma de desenvolvimento desses mapas pode ser revolucionada e a quantidade de dados contidos neles teve um crescimento astronômico.
+
+
+=== Desenvolvimento de mapas gênicos ===
+O atual processo de desenvolvimento de mapas genéticos abrange quatro etapas iniciais para a obtenção dos dados necessários:
+
+A identificação dos marcadores genéticos de interesse e seleção de uma população apropriada para o tipo de marcador;
+Desenvolvimento de uma população segregante através do processo de recombinação em marcadores, a depender da distancia entre esses marcadores genéticos o processo denominado Teste de Três Pontos é utilizado, ele realiza permuta entre 3 (três) genes diferentes;
+Analise da herança dos marcadores genéticos na população segregada e cálculo da frequência recombinatória. A taxa de recombinação genica é inversamente proporcional à distância entre os genes.
+Estabelecimento da ordem dos marcadores e da distância entre eles. O material obtido após esse processo é então organizado em um mapa genético.
+
+
+== Referências ==
+FALEIRO, F. G.; ANDRADE, S. R. M. Biotecnologia: estado da arte e aplicações na agropecuária. Planaltina, DF : Embrapa Cerrados p. 81-82, 2011.
+
+CARNEIRO, M. S.; VIEIRA, M. L. C.. “Mapas genéticos em plantas”. Disponível em: https://www.scielo.br/scielo.php?pid=S0006-87052002000200002&script=sci_arttext
+
+ARAGUAIA, Mariana. "Mapas genéticos"; Brasil Escola. Disponível em: 
+https://brasilescola.uol.com.br/biologia/mapas-geneticos.htm. 
+
+Genética Geral - Ligação (Construção de um Mapa Genético e Teste de Três Pronto). Disponível em: https://wp.ufpel.edu.br/zootecnia/files/2011/03/Aula-11a-Trêspontos.pdf

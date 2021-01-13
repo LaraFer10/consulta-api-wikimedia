@@ -1,0 +1,78 @@
+Este artigo é sobre depuração plasmática, um conceito largamente aplicado no estudo de eliminação de substância do corpo, tanto exógenas  quanto endógenas.
+
+
+== Introdução ==
+Na fisiologia humana, a depuração plasmática (clearance em inglês), depuração plasmática renal ou depuração renal (quando se referindo à função dos rins), de uma substância é o inverso da constante de tempo que descreve sua taxa de remoção do sangue dividida por seu volume de distribuição (ou água corporal total). No caso da depuração renal, é uma relação que permite quantificar a quantidade de uma substância X excretada na urina, em relação à quantidade devolvida à circulação sistêmicaÉ o termo adotado na medicina para designar a capacidade de retirada, pelos rins, de alguma substância da corrente sanguínea.
+É expressa em termos do volume de fluxo sanguíneo arterial ou plasmático que contém a quantidade de substância retirada, por unidade de tempo. É medida em mililitros por minuto. Sua abreviatura é "C" (de Clearance), seguida de indicador da substância retirada, por exemplo, depuração de creatinina (Ccr)
+Em outras palavras, o clearence é a medida de quanto volume de água corpórea se torna completamente livre da substância em uma dada unidade de tempo. Por exemplo, um clearence de 12ml/min indica que a cada minuto 12 mililitros de água corpórea não mais contém nenhuma quantidade da substância em questão.
+Para outras substâncias que não são tão bem depuradas como a creatinina (substância endógena mais utilizada na clínica médica) ou inulina (substância exógena,utilizada em ensaios laboratoriais), pode-se usar o clearance fracional, que corresponde à razão entre o clearance da substância X e o clearance da creatinina ou inulina, considerados ideais (Cx/Ccr), dando um indicativo da porcentagem da substancia que é filtrada
+
+
+== O caso da leptina ==
+
+  
+    
+      
+        
+          
+            
+              d
+            
+            
+              
+                d
+              
+              t
+            
+          
+        
+        (
+        L
+        e
+        p
+        t
+        P
+        ∗
+        V
+        B
+        )
+        =
+        M
+        C
+        ∗
+        R
+        s
+        y
+        n
+        −
+        T
+        F
+        G
+        ∗
+        C
+        ∗
+        L
+        e
+        p
+        t
+        P
+        .
+      
+    
+    {\displaystyle {\frac {\mathrm {d} }{\mathrm {d} t}}(LeptP*VB)=MC*Rsyn-TFG*C*LeptP.}
+  Onde: LeptP - leptina no plasma sanguíneo; MC - massa corporal; RSyn - produção de leptina pelo tecido adipose; TFG - Taxa de filtração glomerular; e C - Depuração plasmática. O restante do modelo pode ser achado em. O importante é ver como o conceito de Depuração plasmática pode ser aplicado em situações de natureza variada. Tanto substâncias endógenas quanto exógenas podem ser modeladas com o conceito de depuração plasmática. A equação usada é conhecida como equação diferencial ordinária. A leptina é um hormônio produzido por tecido adiposo branco, possui como função principal de sinalizar abundância ou falta de energia no corpo, controlando metabolismo e apetite. Ver figura ao lado para entender a importância da depuração plasmática no caso da leptina e controle de peso.
+
+
+== Modelo de um compartimento ==
+Ver Farmacocinética
+Um dos modelos mais populares em farmacocinética é chamado de um compartimento, simplesmente se usa uma equações diferencial de primeira ordem, dose menos eliminação.  Ao lado segue o estudo da depuração plasmática em um desses modelos, ver para mais detalhes(, ). 
+
+
+== Ver também ==
+Farmacocinética;
+
+
+== Notas ==
+
+
+== Referências ==

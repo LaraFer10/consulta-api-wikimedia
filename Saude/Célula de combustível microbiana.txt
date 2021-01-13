@@ -1,0 +1,102 @@
+Célula de combustível microbiana (CCM) é um dispositivo bio-eletroquímico que converte energia química em energia elétrica pela ação de microrganismos. Existem vários tipos de CCM, no entanto, o mais comum é composto por uma câmara anódica e uma câmara catódica separadas fisicamente por uma membrana de troca de protões.Os microrganismos estão contidos na câmara anódica, onde ocorre a oxidação de um substrato orgânico levando à libertação de protões e eletrões. O termo substrato é usado para descrever compostos oxidados pelos microrganismos (glucose, sacarose ou águas residuais, por exemplo) resultando numa reação química de oxidação-redução. Na câmara catódica (onde ocorre a redução), são recebidos os eletrões (através de um circuito externo) e protões (através da membrana de troca de protões de modo a compensar o balanço de carga do sistema) resultantes da degradação do substrato.Em termos de construção, as CCMs podem ser de dois tipos, de câmara simples ou dupla. Nas de câmara simples, o cátodo e o ânodo estão numa única câmara, enquanto que nas de câmara dupla estão em câmaras separadas por uma membrana de troca de protões. As CCMs podem ser utilizados na produção de bioeletricidade, produção de hidrogénio, tratamento de águas residuais e biossensores.
+
+
+== Componentes de uma célula de combustível microbiana ==
+
+
+=== Câmara anódica ===
+Os microorganismos formam um biofilme na superfície do ânodo (funcionando este como aceitador final de eletrões). A atividade da célula depende da quantidade de bactérias que adere ao ânodo e, portanto, da sua área superficial. Esta câmara deve estar sob condições anaeróbicas, sendo que, na presença de oxigénio, as bactérias tendem a utilizar o oxigénio (que tem uma grande capacidade oxidante) como aceitador final de eletrões em vez de utilizarem o ânodo. A membrana de troca de protões é responsável pela manutenção das condições anaeróbicas na câmara anódica.A seleção dos materiais adequados para o elétrodo é crucial para o desempenho dos CCMs, quer em termos de adesão bacteriana, transferência de eletrões ou eficiência eletroquímica. Os materiais mais frequentemente utilizados nos elétrodos são materiais de carbono, sendo que estes têm de ser estáveis para as culturas microbianas, bons condutores elétricos e possuir uma grande área superficial (o que permite uma troca de eletrões mais eficiente).
+
+
+=== Câmara catódica ===
+No cátodo o oxigénio é reduzido com a produção de água sendo os materiais escolhidos de forma a oferecerem boas condições para a redução de oxigénio. Esta reação consiste na transferência de eletrões do cátodo para o oxigénio. O oxigénio reage com os electrões e os protões resultando na redução de oxigénio a água (Eq. 1).
+
+  
+    
+      
+        
+          O
+          
+            2
+          
+        
+        +
+        4
+        
+          H
+          
+            +
+          
+        
+        +
+        4
+        
+          e
+          
+            −
+          
+        
+        →
+        2
+        
+          H
+          
+            2
+          
+        
+        O
+      
+    
+    {\displaystyle O_{2}+4H^{+}+4e^{-}\rightarrow 2H_{2}O}
+  
+Eq. 1: Reação de redução de oxigénio a água
+A redução de oxigénio no cátodo pode ser melhorada com o uso de platina ou outros metais (como Mn2O3 ou Fe2O3). No entanto, como a platina é um metal caro e outros metais mais baratos, são suscetíveis a degradação na presença de oxigénio, a sua aplicabilidade tem uso limitado. A utilização de biocátodos poderá substituir a utilização de platina enquanto catalisador desta reação. De forma a acelerar a reação de redução no cátodo, poderá ser utilizado um catalisador, que pode ser um mediador exógeno, um catalisador químico ou ainda um biocatalizador.
+
+
+=== Mediadores em CCMs ===
+Mediadores são tipicamente produtos químicos exógenos, que são reduzidos do seu estado oxidado ao capturar os eletrões de dentro da membrana celular, libertando, assim, eletrões para o ânodo, oxidando novamente o mediador na câmara anódica. O ciclo é repetido, aumentando assim a potência.Quando a área de superfície do elétrodo não é suficiente para cobrir todas as bactérias em crescimento, os mediadores facilitam o transporte de eletrões. A seleção dos mediadores tem por base dois critérios, o seu potencial redox e a sua toxicidade (têm que se selecionar mediadores sem toxicidade ou baixa toxicidade para os microorganismos). Foi também relatado que em culturas mistas em CCMs sem mediadores geram energia usando os metabolitos celulares que funcionam com mediadores “naturais” ou a própria matéria orgânica presente nas águas residuais.
+
+
+=== Substratos usados nas CCMs ===
+Vários estudos reportam a utilização de diferentes águas residuais como substrato nos sistemas CCMs, incluindo águas residuais domésticas, águas residuais contendo corantes, águas residuais contendo hidrocarbonetos, águas residuais da indústria de laticínios, águas residuais de cervejarias e vinícolas, águas residuais de indústrias de moagem de arroz, águas residuais à base de melaço, efluentes do moinho de óleo de palma, águas residuais para processamento de alimentos, subprodutos animais e resíduos que contenham águas, águas residuais farmacêuticas, e águas residuais contendo metais. Foi relatado que as diferenças na densidade de energia estão diretamente relacionadas com a fonte da água residual, dependendo também da configuração das CCMs e da natureza dos poluentes presentes nos resíduos.
+
+
+=== Bactérias eletroquimicamente ativas ===
+Atualmente, os CCMs são, maioritariamente, dependentes do uso de bactérias capazes de libertar eletrões extracelularmente. Bactérias eletroquimicamente ativas, como Shewanella oneidensis e Geobacter sulfurreducens, foram originalmente isoladas como bactérias redutoras de metais, sendo capazes de realizar respiração na ausência de oxigénio, utilizando óxidos de metais insolúveis como aceitadores finais de eletrões. Esta transferência extracelular de eletrões é possível devido à existência de citocromos associados à membrana plasmática, que servem de condutores de eletrões entre as reações catabólicas intracelulares e os materiais condutores extracelulares (neste caso o ânodo). Alternativamente, a transferência de eletrões pode ser efetuada por um mediador adicionado ao CCM. O uso de bactérias eletroquimicamente ativas torna o uso de CCMs sem mediador possível.
+
+
+== Aplicações ==
+
+
+=== Tratamento de Águas Residuais ===
+Através da literatura é possível encontrar diversos estudos sobre várias configurações de CCMs e atribuir valores concretos de produção de energia e degradação de poluentes para diferentes tipos de substratos. Alguns exemplos serão explicados brevemente.
+
+
+==== Águas Residuais Urbanas ====
+Dada a complexa natureza das águas residuais, a remoção parcial ou total de poluentes é geralmente realizada utilizando culturas mistas ou consórcios microbianos. Numa investigação liderada por Luciana Peixoto, em 2013, uma CCM de duas câmaras para produção de bioeletricidade e tratamento de águas residuais foi testada com comunidades microbianas mistas e puras (Geobacter sulfurreducens). As densidades instantâneas de potência atingiram máximos de 710 W/m3 com cultura pura e 823 W/m3 com cultura mista, com uma remoção média de carbono das águas residuais de 83%.
+
+
+==== Águas Residuais de Indústrias Têxteis ====
+A descarga de águas com corantes têxteis constitui um risco ambiental, contendo uma mistura de diversos poluentes como corantes azo, ácidos, alcalinos, amido, peróxido de hidrogénio, tensioativos, metais e agentes dispersantes. Durante o processo de coloração têxtil, perde-se até 50% de corantes nas águas residuais. A descarga de efluentes contendo estas tintas causa sérios problemas ambientais devido à sua intensa cor, toxicidade, mutagenicidade e carcinogenicidade para os organismos vivos, levando a problemas estéticos e à obstrução da penetração da luz e transferência de oxigénio nos ecossistemas aquáticos. Numa investigação liderada por Yang Mu, em 2009, foi construído um sistema de CCM de câmara dupla para a degradação biótica do corante azo Acid Orange 7 na presença de acetato de sódio, pelo metabolismo do consórcio microbiano no compartimento anódico. Este estudo obteve descoloração de 92,2 ± 5,4 % com uma densidade de potência de 19,7 ± 0,9 A/m3.
+
+
+==== Águas Residuais de Matadouros ====
+Os matadouros produzem águas residuais, constituídas principalmente por carbono orgânico biodegradável, proteínas gordas, bem como microrganismos e vírus, que podem ser prejudiciais à saúde humana e animal. Devido à grande variedade de poluentes presentes neste tipo de águas residuais a utilização de uma só estirpe microbiana para a completa degradação dos poluentes tem uma viabilidade reduzida, sendo por isso necessário o uso de culturas mistas de várias estirpes. A digestão anaeróbia tem sido amplamente utilizada no tratamento de águas residuais de matadouros e considerada uma opção sustentável na gestão e remoção destes resíduos. No entanto, a utilização de CCMs com este fim pode constituir uma alternativa sustentável para a simultânea remoção de poluentes e recuperação de energia. Numa investigação liderada por Krishna P. Katuri, em 2011, um sistema CCM de duas câmaras foi usado para o tratamento das águas residuais de um matadouro. Este sistema alcançou uma densidade de potência máxima de 578 mW/m2, tendo o biofilme anódico sido dominado pela bactéria Geovibrio ferrireducens.
+
+
+=== Células de Combustível Microbianas utilizadas como Biossensores ===
+
+
+==== Funcionamento dos Biossensores ====
+Um biossensor é um aparelho capaz de detetar a presença ou mesmo a concentração de compostos biológicos, através de um componente capaz de reconhecer e criar um sinal, um transdutor de sinal e um aparelho de leitura deste sinal. No caso de biossensores microbianos, os microrganismos estão associados ao transdutor de sinal, e a quantidade de eletricidade produzida pelos CCMs está dependente do metabolismo dos microrganismos. Assim, qualquer perturbação deste metabolismo vai levar a alterações na corrente produzida. Estas perturbações podem ocorrer devido a variações da carga orgânica ou a presença de compostos tóxicos ou bioativos e podem ser quantificados através da variação de corrente elétrica.  Biossensores baseados em sistemas CCM podem ser utilizados para medir diferentes parâmetros, tais como, carência bioquímica de oxigénio (CBO), atividade microbiana, carga de microrganismos, presença de biofilmes corrosivos e substâncias apresentando citotoxicidade.
+
+
+==== Biossensores da CBO baseados em CCM ====
+A carência bioquímica de oxigénio (CBO) é definida como a quantidade de oxigénio necessária para a degradação de matérias orgânicas sob condições aeróbicas. A medição da CBO é um indicador do nível de poluição da água. Os seus resultados podem ser interpretados em termos de matéria orgânica presente na água ou da quantidade de oxigénio usada durante a oxidação da matéria orgânica.Biossensores de CBO baseados em CCM podem ser auto-alimentados, tornando-os ideais para aplicações no terreno. Assim, é possível evitar as limitações das baterias, tais como a necessidade de troca periódica destas e os custos associados a essa prática (no caso de biossensores mantidos em ambientes aquáticos) (Gong et al., 2011). Adicionalmente, o seu uso é adequado a regiões remotas sem acesso a fontes de energia. De modo geral, os biossensores da CBO têm curtos períodos de análise (até 315 minutos), baixa manutenção, uma grande amplitude de medições (0-200 mg/L) e configurações que podem permitir monitorização online (Jouanneau et al., 2013). No entanto, estes sistemas ainda têm desvantagens, sendo que existe um número limitado de espécies bacterianas que podem ser usadas assim como um número limitado de sustâncias orgânicas que podem ser monitorizadas.
+
+
+== Perspetivas futuras ==
+A pesquisa na área das CCMs encontra-se em clara expansão, no entanto, são necessários mais estudos para conseguir a sua completa implementação.As baixas densidades de potência precisam de ser melhoradas isolando novos microorganismos ou modificando os microrganismos existentes através da aplicação da tecnologia de DNA. É assim necessária mais investigação para conseguir transpor estes sistemas para a escala industrial e comercial.Vários fatores afetam a expansão das operações de tratamento de águas residuais baseadas em CCMs, tais  como os materiais dos elétrodos, a área de superfície e espaçamento dos elétrodos (que têm um papel muito importante e portanto, mais pesquisas são necessárias para ajudar otimizar a relação da área de superfície do cátodo para o ânodo), tipo de águas residuais, tempo de retenção hidráulica e configuração geral do sistema. Além disso, outro motivo que limita o aumento de escala destes sistemas, é o decréscimo do rendimento energético comparativamente ao obtido à escala laboratorial.Como os sistemas baseados em CCMs ainda não constituem, uma solução realista, pois não são suficientemente eficazes para operarem de forma independente, têm sido desenvolvidos sistemas co-integrados utilizando configurações e processos já existentes com o objetivo de aumentar a recuperação de energia; no entanto, a maioria desses estudos foi realizada em escala laboratorial e, portanto, a sua demonstração (“scale-up”) ainda não foi adequadamente otimizado.Em resumo, o aumento da eficiência dos CCMs é essencial para catapultar o interesse comercial destes enquanto produtos, sendo que, particularmente nos campos de produção de energia e hidrogénio, existem tecnologias capazes de produções substancialmente maiores, como células fotovoltaicas no caso da produção de electricidade e eletrólise para a produção de hidrogénio.
+
+
+== Referências ==

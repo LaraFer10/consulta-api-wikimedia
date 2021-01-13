@@ -1,0 +1,154 @@
+O carbono (símbolo químico: C) é o quarto elemento mais abundante no Universo, depois do hidrogênio (H), hélio (He) e oxigênio (O), e é o pilar da vida como a conhecemos.
+Existem basicamente duas formas de carbono, uma orgânica, presente nos organismos vivos e mortos, não decompostos, e outra inorgânica, presente nas rochas.
+Pela respiração, decomposição e combustão, o gás carbônico é lançado no ambiente. Pela fotossíntese é retirado.
+No planeta Terra o carbono circula através dos oceanos, da atmosfera, da terra e do seu interior, num grande ciclo biogeoquímico. Este ciclo pode ser dividido em dois tipos: o ciclo "lento" ou geológico, e o ciclo "rápido" ou biológico.
+
+
+== Ciclo geológico ==
+Este ciclo, que opera a uma escala de milhões de anos é integrado a própria estrutura do planeta e iniciou-se há cerca de 4,55 bilhões de anos, quando na formação do Sistema Solar e da Terra, tendo origem nos planetesimais (pequenos corpos que se formaram a partir da nebulosa solar) e nos meteoritos portadores de carbono que colidiram com a Terra. Nesse sentido, mais de 99% do carbono terrestre está contido na litosfera, sendo a maioria carbono inorgânico, armazenado em rochas sedimentares como as rochas calcárias. O carbono orgânico contido na litosfera está armazenado em depósitos de combustíveis fósseis.
+Numa escala geológica, existe um ciclo entre a crosta terrestre (litosfera), os oceanos (hidrosfera) e a atmosfera. O Dióxido de Carbono (CO2) da atmosfera, combinado com a água, forma o ácido carbônico, o qual reage lentamente com o cálcio e com o magnésio da crosta terrestre, formando carbonatos. Através dos processos de erosão (chuva), estes carbonatos são arrastados para os oceanos, onde se acumulam no seu leito em camadas, ou são assimilados por organismos marinhos que eventualmente, depois de morrerem, também se depositam no fundo do mar. Estes sedimentos vão-se acumulando ao longo de milhares de anos, formando rochas sedimentares como as rochas calcárias.
+O ciclo continua quando as rochas sedimentares do leito marinho são arrastadas para o manto da Terra, por um processo de subducção (processo pelo qual uma placa tectónica descende por baixo de outra). Desta forma, as rochas sedimentares são sujeitas a grandes pressões e temperaturas debaixo da superfície da Terra, fundindo parcialmente e reagindo com outros minerais, libertando CO2. O manto terrestre participa deste ciclo. O CO2 é devolvido a atmosfera através das erupções vulcânicas e outros tipos de atividades vulcânicas, completando-se assim o ciclo.
+Os balanços entre os diversos processos do ciclo do carbono geológico controlaram a concentração de CO2 presente na atmosfera ao longo de centenas de milhares de anos. Os mais antigos sedimentos geológicos, datados de épocas anteriores ao desenvolvimento da vida na Terra, apontam para concentrações de CO2 atmosférico 100 vezes superiores aos atuais, proporcionando um forte efeito de estufa. Por outro lado, medições dos núcleos de gelo retirados na Antártida e na Groenlândia, permitem estimar as concentrações do CO2 que, durante a última era glacial, eram cerca de metade das atuais (em 2005: 379,1 ppmv de CO2).
+Para o carbono orgânico, com origem na matéria orgânica incompletamente decomposta na ausência de oxigênio, a qual deu origem ao carvão, petróleo e gás natural, qualquer troca significativa entre os diversos depósitos efetua-se também a uma escala geológica. Isto foi correto até há cerca de 200 anos, com o início da Revolução Industrial e a exploração e utilização (combustão) em grande escala dos combustíveis fósseis, ações que passaram a libertar para a atmosfera o carbono destes reservatórios em forma de CO2.
+
+
+=== Ciclo orbital da Terra ===
+Mudanças periódicas na forma das órbitas da Terra ao redor do Sol foram as principais responsáveis por mudanças no ciclo do carbono e na atmosfera mundial durante e no meio da Extinção em Massa Triássico-Jurássica (cerca de 201 milhões de anos antes, quando aproximadamente 80% das espécies sempre desapareceu na Terra) e o evento anóxico oceânico toarciano (aproximadamente 183 milhões de anos atrás). Alterações periódicas na forma da órbita da Terra em torno do Sol afetam a quantidade de energia recebida pela Terra, que por sua vez afeta os processos climáticos e ambientais, bem como o ciclo do carbono, nas escalas local, regional e global.
+
+
+== Ciclo biológico ==
+O ciclo biológico do Carbono é relativamente rápido: estima-se que a renovação do carbono atmosférico ocorre a cada 20 anos.
+Na ausência da influência antropogênica (causada pelo homem), no ciclo biológico existem três reservatórios ou "stocks": terrestre (20.000 Gt), atmosfera (750 Gt), oceanos (40.000 Gt). Este ciclo desempenha um papel importante nos fluxos de carbono entre os diversos stocks, através dos processos da fotossíntese e da respiração.
+Através do processo da fotossíntese, as plantas absorvem a energia solar e CO2 da atmosfera, produzindo oxigênio e hidratos de carbono (açúcares como a glicose), que servem de base para o crescimento das plantas. Os animais e as plantas utilizam os hidratos de carbono pelo processo de respiração, utilizando a energia contida nos hidratos de carbono e emitindo CO2. Juntamente com a decomposição orgânica (forma de respiração das bactérias e fungos), a respiração devolve o carbono, biologicamente fixado nos stocks terrestres (nos tecidos da biota, na camada de solo e na turfa), para a atmosfera.
+As equações químicas que regem estes dois processos são:
+
+Fotossíntese6CO2 + 6H2O + energía (luz solar) → C6H12O6 + 6O2
+RespiraçãoC6H12O6 (matéria orgânica) + 6O2 → 6CO2 + 6 H2O + energia
+
+É possível verificar que a maior troca entre o stock terrestre e stock atmosférico resulta dos processos da fotossíntese e da respiração. Nos dias de Primavera e Verão as plantas absorvem a luz solar e o CO2 da atmosfera e, paralelamente, os animais, plantas e micróbios, através da respiração devolvem o CO2. Quando a temperatura ou umidade é muito baixa, por exemplo no Inverno ou em desertos, a fotossíntese e a respiração reduz-se ou cessa, assim como o fluxo de carbono entre a superfície terrestre e a atmosfera. Devido à declinação da Terra e à desigual distribuição de vegetação dos hemisférios, existe uma flutuação ao longo do ano a qual é visível nos diversos gráficos da variação da concentração anual do CO2, como por exemplo na curva de Keeling. Em 1958 o cientista Charles David Keeling (oceanógrafo do Scripps Institute of Oceanography),iniciou uma série de experiências no monte Mauna Loa, Havai, que lhe permitiram medir, com bastante precisão, a concentração de CO2 na atmosfera.
+Apesar do stock atmosférico de carbono ser o menor dos três (com cerca de 750 Gt de carbono), este stock determina a concentração de CO2 na atmosfera, cuja concentração pode influenciar o clima terrestre. Ainda mais, os fluxos anuais entre o stock atmosférico e os outros dois stocks (oceanos e terrestre) são cerca de um quarto da dimensão do stock atmosférico, o que representa uma grande sensibilidade às mudanças nos fluxos.
+Os oceanos representam o maior stock dos três, cinquenta vezes maior que o stock atmosférico. Existem transferências entre estes dois stocks através de processos químicos que estabelecem um equilíbrio entre as camadas superficiais dos oceanos e as concentrações no ar acima da superfície. A quantidade de CO2 que o oceano absorve depende da temperatura do mesmo e da concentração já presente. Temperaturas baixas da superfície do oceano potenciam uma maior absorção do CO2 atmosférico, enquanto temperaturas mais altas podem causar a emissão de CO2.
+Os fluxos, sem interferências antropogênicas, são aproximadamente equivalentes, variando lentamente, i.e., a uma escala geológica. As diferenças, do ciclo rápido, são também explicadas pelos processos de fotossíntese e respiração: a vida nos oceanos consome grandes quantidades de CO2, no entanto o ciclo entre a fotossíntese e a respiração desenvolve-se muito rapidamente. O fitoplâncton é consumido pelo zooplâncton em apenas alguns dias, e apenas pequenas quantidades de carbono são acumuladas no fundo do mar, quando as conchas do zooplâncton, compostas por carbonato de cálcio (CaCO3), se depositam no fundo, após a sua morte. Depois de um longo período de tempo, este efeito representa uma significativa remoção de carbono da atmosfera.
+Outro processo intermediário do ciclo biológico, o qual representa remoção de carbono da atmosfera, ocorre quando a fotossíntese excede a respiração e, lentamente, a matéria orgânica forma depósitos sedimentares que, na ausência de oxigênio e ao longo de milhões de anos, se transformam em combustíveis fósseis.
+Os incêndios (naturais) são um outro elemento do ciclo rápido que adicionam CO2 para a atmosfera ao consumir a biomassa e matéria orgânica e ao provocar a morte de plantas que acabam por se decompor e formar também CO2.
+
+
+== Influências humanas ==
+
+O armazenamento de carbono em depósitos fósseis supõe, na prática, uma diminuição dos níveis atmosféricos de dióxido de carbono. Estes depósitos estão estimados entre 4.000 e 10.000 Gt, e não figuram no ciclo rápido do carbono. No entanto as atividades antropogénicas (humanas), principalmente a queima de combustíveis fósseis e a desflorestação, têm vindo a incorporar fluxos de carbono novos no ciclo biológico provenientes destes depósitos, com significativa influência no ciclo global do carbono.
+Estas atividades transferem mais CO2 para a atmosfera do que aquela que é possível remover naturalmente através da sedimentação do carbono, causando assim um aumento das concentrações atmosféricas de CO2 num curto período (centenas de anos). Esta influência humana, iniciada principalmente há 200 anos, quando a concentração de CO2 atmosférico se situava nas 280 ppm (0,028% da composição global da atmosfera), provocou, um aumento significativo da concentração de CO2, tendo atualmente ultrapassado as 400 ppm (mais de 30% em apenas 200 anos).
+Estes valores situam a concentração presente como a mais elevada dos últimos 650.000 anos e talvez superior à registada há 20 milhões de anos.
+Nem todo o CO2 emitido antropogenicamente fica retido na atmosfera. A taxa anual de emissões antropogénicas durante a década de 1990 situou-se, em média, nos 6,3 Gt. No entanto, no mesmo período, a concentração de CO2 atmosférico aumentou, em média, 3,2 Gt por ano. Isto deve-se, em parte, ao aumento da difusão do CO2 nos oceanos, que passaram a absorver cerca de 1,7 Gt por ano dos 6,3 Gt emitidos. As restantes 1,4 Gt por ano estimam-se que estejam relacionadas com processos na superfície da terra. Esta última parcela tem duas componentes: a alteração da utilização dos solos, principalmente desflorestação, que reduz a taxa de absorção de CO2 dos solos e outra parcela, ainda em estudo, que pode ter diferentes origens, entre as quais o aumento da taxa de absorção das plantas correspondente a um aumento da concentração atmosférica de CO2. Outro cenário possível é o recrescimento das florestas no Hemisfério Norte (em especial da floresta Boreal), que sofreu desflorestação no século passado. No entanto para esta parcela ainda está por determinar concretamente, sendo necessária investigação científica para obter novos dados que expliquem melhor este fenómeno. Mesmo o ciclo global de carbono é composto por diversas variáveis, as quais continuam a ser estudadas de forma a poder obter mais precisão nos modelos que determinam as influências antropogénicas neste ciclo.
+
+Apesar das incertezas, pode ser obtida uma conclusão importante e quantificável: as actividades humanas influenciam o ciclo global do carbono. Ao retirar carbono armazenado nos depósitos de combustíveis fósseis a uma taxa muito superior à da absorção do carbono pelo ciclo, as actividades humanas estão a potenciar o aumento das concentrações de CO2 na atmosfera e, muito provavelmente, influenciar o sistema climático global.
+Segundo o Painel Intergovernamental para as Alterações Climáticas das Nações Unidas (IPCC), existem diversos cenários de aumento da temperatura do ar da superfície terrestre até 2090-2099, em relação a 1990-1999, apontando para um cenário baixo de 1,8 °C e um cenário alto de 4,0 °C.
+Uma outra conclusão significativa que pode ser retirada da análise do ciclo global do carbono é a do elevado potencial de algumas florestas para capturarem o carbono atmosférico, tanto no manto vegetal como na matéria orgânica do solo, o que aumenta a importância da manutenção de ecossistemas com grandes quantidades de biomassa e solos estáveis, com os objectivos de certas florestas se tornarem sumidouros de carbono a médio/longo prazo e outras não se tornarem "fontes" de carbono.
+As consequências da queima dos combustíveis fósseis como mudanças climáticas, efeito estufa e desertificação foram objecto de um convénio aprovado em Nova York em 9 de maio de 1992, e subscrito no Rio de Janeiro por diversos países em 11 de junho de 1992, durante a Conferência das Nações Unidas para o Meio Ambiente e o Desenvolvimento) e que culminou no Protocolo de Quioto.
+
+
+== Serviços ambientais associados ==
+
+
+== Captura do carbono ==
+
+
+=== Captura natural ===
+Um dos serviços mais importantes do ecossistema, relacionado com o ciclo do Carbono, é a captura do CO2 por diferentes elementos que compõe a Biosfera. O aumento das emissões antropogénicas de CO2 tem vindo a ser absorvidas pela atmosfera, pelos oceanos e pelas florestas e outras espécies vegetais. O aumento do CO2 na atmosfera traz como consequência o aumento do efeito de estufa, originando as alterações climáticas. Com o aumento do CO2 atmosférico, também aumenta a absorção dos oceanos tendo como consequência a acidificação dos oceanos, e eventuais efeitos nos ecossistemas marítimos (corais, peixes, etc.). A última parcela é absorvida pelas florestas (biomassa), as quais podem ser utilizadas como sumidouro de carbono (através da fotossíntese).
+Numa visão de Sustentabilidade Forte, através de estratégias de reflorestação seria possível diminuir as actuais concentrações de CO2 na atmosfera, que já ultrapassaram as 400 ppmv, até níveis pré-Revolução Industrial, i.e., perto das 280 ppmv . No entanto, mesmo maximizando a actividade de reflorestação nos próximos 50 anos, apenas seria possível reduzir cerca de 15-30 ppm (IPCC 2000). Desta forma a redução das concentrações de CO2 atmosférico devem ser complementadas também por um serviço de capital humano: sistemas de captura e armazenamento de CO2 (CCAC). Este tipo de serviços podem ser considerados como uma solução de sustentabilidade forte, quando estiverem a anular efeitos de emissões de CO2 de todos os sectores antropogénicos, menos da "mudança da uso dos solos",. Só no caso de estarem a substituir os efeitos causados pela redução do capital natural (desflorestação, incêndios, eliminação de prados, etc.), por acção humana é que poderá ser considerado como sustentabilidade fraca.
+
+
+=== Capital humano: sistemas de captura e armazenamento de CO2 (CAC) ===
+O CAC consiste na separação do CO2 emitido pelas indústrias, no seu transporte para o local de armazenamento e no seu sequestro a longo prazo.
+As centrais elétricas e outros processos industriais de grande escala são os principais candidatos para este sistema.
+Atualmente não existe uma solução tecnológica única para este tipo de sistemas, estando prevista uma carteira de opções tecnológicas que se adaptarão dependendo das situações.
+A tecnologia atual permitiria capturar entre 80-90% do CO2 produzido numa central eléctrica, mas tem como conseqüência um aumento da produção de CO2 devido à redução da eficiência (existe um aumento da energia necessária, entre 10 a 40%, para poder implementar o processo de CAC).
+O processo de CAC é constituído pelas seguintes fases:
+
+Captura
+Transporte
+Armazenamento (sequestro)
+
+
+=== Captura ===
+Existem três tecnologias principais de captura:
+
+
+== Transporte ==
+Para o transporte do CO2 capturado, entre o local de captura e o de armazenamento, apresenta-se actualmente uma tecnologia bastante desenvolvida e testada: os gasodutos. Em geral, o CO2 gasoso é comprimido a uma pressão superior aos 8 MPa, como o objectivo de evitar regimes de fluxo de duas fases e aumentar a densidade, reduzindo assim custos de transporte.
+Em alguns casos o CO2 também poderá ser transportado em forma líquida em navios ou camiões cisterna a baixas temperaturas e pressões mais altas.
+Ambos métodos já são usados para o transporte de CO2 em outras aplicações industriais.
+
+
+== Armazenamento (sequestro) ==
+Armazenamento geológicoO armazenamento geológico consiste na injecção, após captura do CO2, na sua forma condensada numa formação rochosa subterrânea. As principais opções são:
+
+Jazidas de petróleo e gás: as formações rochosas que retêm ou que já retiveram fluidos (como ao jazidas de petróleo e gás) são candidatos potenciais para o armazenamento. A injecção de CO2 nas formações geológicas profundas integra muitas das tecnologias desenvolvidas na indústria de prospecção de petróleo e gás, pelo que a tecnologia de injecção, simulação, controlo e vigilância do armazenamento existe e continua a ser aperfeiçoada.
+Formações salinas: à semelhança das jazidas de petróleo e gás é possível também injectar CO2 em jazidas salmoura.
+Camadas de carvão inexploradas: é possível a injecção em camadas de carvão que não venham a ser exploradas, dependendo sempre da sua permeabilidade. Estes mecanismos ainda estão em fase de demonstração.Armazenamento oceânicoO armazenamento oceânico pode ser realizado de duas formas:
+
+Através da injecção e dissolução do CO2 no oceano (a profundidade de mais de 1000 metros), através de gasodutos fixos ou de navios.
+A outra opção passa pela deposição do CO2 no fundo do oceano através de um gasoduto fixo ou de uma plataforma marítima (a mais de 3000 metros de profundidade), onde a água é mais densa e se espera que o CO2 forme um lago.O armazenamento oceânico e o seu impacto ecológico estão por analisar,  podendo existir problemas de acidificação dos oceanos, sendo uma das alternativas possíveis mas que levanta ainda muitas questões técnicas e de viabilidade ambiental.
+
+Carbonatação mineral e utilizações industriaisCarbonatação mineral: a reacção do CO2 com óxidos metálicos, que abundam em minerais silicatos (como o óxido de magnésio (MgO) ou óxido de cálcio (CaO)) ou de detritos industriais (como escoria e cinzas de aço inoxidável), produz através de reacções químicas carbonatos inorgânicos estáveis. A reacção natural é muito lenta é deverá ser melhorada através de tratamentos prévios dos minerais, que são altamente intensivos em energia. Esta tecnologia está em fase de investigação, mas em certas aplicações, como a dos detritos industriais, já se encontra em fase de demonstração.
+Utilizações industriais: esta opção consiste no consumo de CO2 de forma directa como matéria-prima para a produção de diversas substâncias químicas que contêm carbono. No entanto, devido a baixa taxa de retenção da maior parte dos produtos e a inexistência de dados que permitam concluir se o balanço final de muitas aplicações indústrias é negativo ou positivo, este mecanismo encontra-se em fase de estudo e prevê-se que a sua contribuição não seja muito elevada.
+
+
+== Custos do CAC ==
+Várias das tecnologias de CAC estão actualmente em fases desenvolvidamente e demonstração e mesmo algumas em investigação, pelo que os seus custos, ainda são relativamente altos, mas que, com a evolução tecnológica, com tendência a diminuir. Em quase todos os sistemas de CAC, os custos da captura (incluindo a compressão) representam a maior fatia dos custos (cerca de ¾).
+A seguir apresenta-se uma tabela com o custo de vários componentes do sistema CAC:
+
+Tabela 1. Custos das várias componentes dos sistemas CAC - Fonte: IPCC
+Numa central com um sistema CAC, a necessidade de aumento do consumo energético (cerca de 11-22% maior) implica um aumento da produção de CO2 e nos custos do kWh produzido na central. Comparando uma central convencional de gás natural de ciclo combinado com um sistema de captura e recuperação de petróleo os custos variam entre 19 e 63%.
+
+Tabela 2. Custos por kWh numa central com e sem sistemas CAC - Fonte: IPCC
+Os custos por tonelada de CO2 evitado variam substancialmente tanto com o tipo de instalação de produção como com o tipo de sistema CAC implementado, no entanto, tomando com referência uma central de ciclo combinado de gás natural estes situam-se entre os 40-90 $/t CO2 evitado, mas em alguns casos podem actualmente ultrapassar os 200 $/t CO2 evitado.
+
+Tabela 3. Custo da mitigação (US$/tCO2 evitado)
+
+
+== Capacidades de armazenamento ==
+As capacidades indicadas na tabela 4 estão são valores apenas teóricos, com um possível menor erro para as jazidas de petróleo, mas em geral ainda não existem estudos científicos suficientes para ter números mais reais, e as probabilidades e os níveis de confiança associados.
+
+Tabela 4. Estimativas teóricas de capacidade de armazenamento para vários depósitos
+
+Estes dados podem aumentar em 25% se for incluído as jazidas de petróleo ainda não descobertas.Em termos de potencial técnico, estima-se que a capacidade mínima de armazenamento geológico do CO2 ronde os 2000 Gt de CO2 (545 Gt de C). Outras opções de armazenamento como os oceanos, que podem representar vários milhares de Gt, poderão ser tidas em conta, caso as eventuais implicações ambientais sejam significativamente reduzidas, para o que hoje não existem dados suficientes que o demonstrem.
+Na maior parte dos cenários de estabilização das concentrações atmosféricas de GEE entre 450 e os 750 ppmv de CO2, o potencial económico do CAC (quantidade de reduções de GEE que alcançável de forma rentável em comparação com uma opção especifica e tendo em conta as circunstâncias actuais) ascenderia progressivamente dos 220 até aos 2200 Gt de CO2 (entre 60 e 600 Gt de C), o que significa uma contribuição dentre 15 e 55% do esforço mundial de mitigação acumulativa até 2100.
+Para que os sistemas CAC possa alcançar este potencial económico serão necessários alguns milhares de instalações equipadas com estes sistemas e cada um deles teria de capturar entre 1 a 5 Mt de CO2 por ano.
+
+
+== Consumo energético e impactos ambientais dos CAC ==
+A implementação deste tipo de soluções implica um aumento da produção de CO2. Isto é derivado da perda de eficiência da central devido ao aumento do consumo energético necessário para as fases de captação, transporte e armazenamento do CO2.
+Os valores de aumento de consumo de combustível por kWh produzido para instalações existentes que capturem cerca de 90% do CO2 produzido, variam entre os 11 e os 40% (conforme a tecnologia). No entanto estes valores são essencialmente para instalações já existentes. Para instalações de captura piloto, estima-se que a energia térmica adicional por cada tonelada de CO2 capturado ronde os 2 GJ. (representando uma redução na eficiência entre 15-25%) (Projecto CASTOR).
+
+Riscos ambientais e humanos na capturaAumento das emissões de alguns poluentes, como CO e NOx, que não são capturados no processo.
+Riscos eventuais para a saúde humana pela presença de CO2 em grandes concentrações, ou em estado sólido (baixas temperaturas: possíveis queimaduras em derrames acidentais).Riscos ambientais e humanos no transporteO transporte por gasoduto não apresenta problemas superiores aos já defrontados pelo transporte de gases como Gás Natural. Existe sempre um eventual risco de fuga ou rebentamento, mas sem o problema da inflamação.
+Para o transporte via terrestre ou marítima a situação é semelhante ao transporte de outro tipo de gases industriais, havendo sempre uma possibilidade relativamente pequena de risco de acidentes e eventuais derramamentos de CO2, cujas consequências estão por estudar, mas que podem eventualmente causar asfixia.Riscos ambientais e humanos no armazenamentoExistem duas categorias destes tipos de riscos:
+Riscos Mundiais: se houver uma fuga considerável num depósito de CO2 esta pode contribuir significativamente para as alterações climáticas.
+Riscos locais: fugas por falhas nos poços que podem afectarem os trabalhadores locais e as equipas de reparação das fugas, ou fugas por falhas geológicas não detectadas, criando eventual contaminação de aquíferos e acidificação dos solos.
+Para o caso do armazenamento oceânico, o risco apresenta-se bastante mais elevado, tendo em conta a falta de informação disponível quanto aos efeitos do aumento da concentração de CO2 (acidificação) nos ecossistemas marítimos.
+
+
+== Ver também ==
+Ciclo do nitrogênio
+Ciclo do fósforo
+Ciclo do oxigênio
+Ciclo da água
+Ciclo do cálcio
+Ciclo do carbono em Portugal
+
+
+== Referências ==
+
+
+== Ligações externas ==
+Floresta, Ciclo do Carbono e Alterações Climáticas (Naturlink)[ligação inativa]
+Mercado do Carbono (Naturlink)
+BOREASCarbon (Earthobservatory)
+CarbonCycle (Earthobservatory)
+Talkorigins
+WMO
+GRIDA(UNEP)
+NOOA
+Bioatividade
+IPCC
+Scripps Institute of Oceanography

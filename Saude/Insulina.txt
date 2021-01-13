@@ -1,0 +1,78 @@
+Insulina é uma hormona responsável pela redução da glicemia (taxa de glicose no sangue), ao promover a entrada de glicose nas células. Esta é também essencial no metabolismo de sacáridos (hidrato de carbono), na síntese de proteínas e no armazenamento de lípidos (gorduras).É produzida nas células beta das ilhotas de Langerhans, do pâncreas endócrino. Atua numa grande parte das células do organismo, como nas células presentes no fígado, em músculos e no tecido adiposo, contudo não atua em células específicas cujos transportadores membranares não são sensíveis à insulina, como é o caso das células nervosas.
+As membranas celulares não são permeáveis a glicose, com isso há uma obrigação de se ter proteínas transportadoras presentes na membrana plasmática, essas proteínas transportadoras são a GLUT1, GLUT7 que tem características distintas de funcionamento e distribuição tecidual.
+Quando a produção de insulina é deficiente, a glicose acumula-se no sangue e na urina, destruindo as células por falta de abastecimento: diabetes mellitus. Para doentes nessa condição, a insulina é providenciada através de injeções, ou bombas de insulina. Recentemente foi aprovado o uso de insulina inalada. Porém, ainda existem controvérsias acerca do uso do produto comercializado pela Pfizer. A agência de saúde britânica não recomenda o uso.A insulina é um polipéptido de estrutura química plenamente conhecida, e pode ser sintetizada a partir de diversos animais. Mais recentemente, surgiram os medicamentos análogos de insulina, que constituem moléculas que, não sendo insulina, possuem as mesmas características químicas e portanto reactivas, são moléculas "de insulina" modificadas em laboratório.
+O controlo da produção de insulina pelo corpo é um sistema muito complexo.
+
+
+== Descoberta e caracterização ==
+
+Em 1869, Paul Langerhans, um estudante de medicina em Berlim, estudava a estrutura do pâncreas através de um microscópio quando reparou em células, antes desconhecidas, espalhadas pelo tecido exócrino. A função da "pequena porção de células", mais tarde denominada como ilhotas de Langerhans, era desconhecida, mas Edouard Laguesse posteriormente sugeriu que tais células poderiam produzir algum tipo de secreção que participasse no processo de digestão.
+Em 1889, o médico germano-polaco Oscar Minkowski em colaboração com Joseph von Mehring removeu o pâncreas de um cão saudável para demonstrar o papel do órgão na digestão de alimentos. Vários dias após a remoção do pâncreas, o guarda do cão reparou que existiam muitas moscas a alimentarem-se da urina do animal. Verificou-se com o teste da urina do cão que havia açúcar nesta, o que demonstrou pela primeira vez a relação entre o pâncreas e a diabetes. Em 1901, outro passo importante foi alcançado por Eugene Opie, quando este estabeleceu claramente a ligação entre as ilhotas de Langerhans e a diabetes: "Diabetes mellitus... é causada pela destruição das ilhotas de Langerhans e ocorre apenas quando tais células são em parte ou totalmente destruídas".
+Durante as duas décadas seguintes foram feitas várias tentativas de isolamento da secreção das ilhotas como um tratamento potencial de diabetes. Em 1906, Georg Ludwig Zuelzer foi parcialmente feliz no tratamento de cães com extrato pancreático, mas teve que interromper o seu trabalho. Entre 1911 e 1912, E. L. Scott da Universidade de Chicago usou extratos pancreáticos aquosos e notou uma leve diminuição da glicosúria, mas não conseguiu convencer o director da instituição com os resultados, e a pesquisa teve de ser encerrada. Israel Kleiner demonstrou efeitos semelhantes na Rockfeller University em 1919, mas o seu trabalho foi interrompido pela Primeira Guerra Mundial. Nicolae_Paulescu, um professor de fisiologia da Escola Romena de Medicina, publicou um trabalho parecido em 1921 realizado na França e patenteado na Romênia, e discute-se desde então se Paulescu não tenha sido o verdadeiro descobridor da insulina.
+Entretanto, o comitê do Prêmio Nobel em 1923 deu crédito pela extração prática da insulina a uma equipa da Universidade de Toronto. Em outubro de 1920, Frederick Banting lia um dos artigos de Minkowski e concluiu que Minkowski estava a estudar as secreções digestivas originalmente, e por isso não se conseguia extrair a insulina com sucesso. Ele redigiu uma nota para si mesmo: "Ligar duto pancreático do cão. Manter cães vivos até que acinos se degenerem, sobrando ilhotas. Tentar isolar secreção interna delas e aliviar glicosúria".
+Ele viajou a Toronto para se encontrar com J. J. R. Macleod, que não se impressionou plenamente com a ideia. De qualquer forma, Macleod deixou à disposição de Banting um laboratório da universidade, e um assistente, Charles Best, e dez cães enquanto saía de férias no verão de 1921. O método de Banting e Best era amarrar uma ligadura ao redor do duto pancreático dos cães e, várias semanas depois, examinar que as células digestivas pancreáticas tinham morrido e sido absorvidas pelo sistema imunológico, deixando milhares de ilhotas. Isolava-se a proteína dessas ilhotas para produzir o que vinham chamando de isletina. Banting e Best mantiveram um cão pancreatectomizado vivo durante todo o verão.
+Macleod viu o valor da pesquisa no seu regresso da Europa, mas pediu uma contraprova para saber se o método realmente funcionava. Várias semanas depois ficou claro que o segundo ensaio tinha sido um sucesso, e assim Macleod ajudou na publicação dos resultados em novembro daquele ano. Porém, precisavam de seis semanas para extrair a isletina, o que tornava o ensaio dramaticamente demoroso. Banting sugeriu que tentassem usar pâncreas de feto de bezerro, que ainda não teria desenvolvido glândulas digestivas, e ficou alivado pelo sucesso da empreitada.
+Com a solução para a fonte de isletina, faltava agora purificar a proteína. Em dezembro de 1921, Macleod convidou o brilhante bioquímico James Collip para ajudar na tarefa, e num mês prepararam-se para um teste.
+Em 11 de janeiro de 1922, Leonard Thompson, um diabético de quatorze anos, recebeu a primeira injeção de insulina. Infelizmente, o extrato estava tão impuro que ele acabou sofrendo uma reação alérgica severa, e injeções adicionais foram canceladas. Durante os doze dias seguintes, Collip trabalhou dia e noite para melhorar o extrato, e uma segunda dose foi injetada no dia 23. Desta vez foi um sucesso, não apenas em não apresentar efeitos colaterais, mas também por eliminar completamente os sintomas de diabetes. Entretanto, Banting e Best não se davam bem com Collip, porque aparentemente viam nele um intruso, e então Collip abandonou-os.
+Durante a primavera de 1922, Best conseguiu melhorar as técnicas de preparo a ponto de poder extrair grandes quantidades de insulina, embora o extrato ainda permanecesse impuro. Contudo, receberam uma oferta de ajuda de Eli Lilly logo após as suas publicações em 1921, e aceitaram-na em abril. Em novembro, Lilly conseguiu a façanha de produzir grandes quantidades de insulina bastante pura. Depois disso, a insulina foi lançada no mercado.Por esta descoberta marcante, Macleod e Banting foram premiados com o Prêmio Nobel em Fisiologia em 1923. Banting, aparentemente insultado porque Best não fora mencionado, dividiu seu prêmio com ele, e Macleod imediatamente dividiu o seu com Collip. A patente da insulina foi vendida à Universidade de Toronto por um dólar.
+A sequência exata de aminoácidos contida na molécula de insulina, a chamada estrutura primária, foi determinada pelo biólogo britânico Frederick Sanger. Foi a primeira vez que a estrutura de uma proteína fora completamente determinada. Por isso, ele recebeu o Prêmio Nobel de Química em 1958. Em 1967, após décadas de trabalho, Dorothy Crowfoot Hodgkin determinou a conformação espacial da molécula mediante estudos de difração de raios X. Ela também recebeu um Prêmio Nobel.
+
+
+== Estrutura e produção ==
+A insulina é sintetizada nos humanos e em outros mamíferos dentro das células-beta das ilhotas de Langerhans, no pâncreas. Um a três milhões de ilhotas de Langerhans formam a parte endócrina do pâncreas, que é principalmente uma glândula exócrina. A parte endócrina totaliza apenas 2% da massa total do órgão. Dentro das ilhotas de Langerhans, as células-beta constituem 60-80% do todo.
+
+A insulina é sintetizada a partir da molécula precursora proinsulina pela ação de enzimas proteolíticas conhecidas como prohormônio convertases (PC1 e PC2). A insulina ativa tem 51 aminoácidos e é um polipeptídeo. A insulina bovina difere da humana em três resíduos de aminoácidos enquanto que a suína, em um resíduo. A insulina de peixes também é muito próxima à humana. Em humanos, a insulina tem um peso molecular de 5808. Ela é formada por duas cadeias de polipeptídeos ligadas por duas pontes dissulfídicas (veja a figura), com uma ligação dissulfídica adicional na cadeia A (não mostrada). A cadeia A consiste de 21, e a cadeia B, de 30 aminoácidos. A insulina é produzida como uma molécula de prohormônio - proinsulina - que é mais tarde transformada, por ação proteolítica, em hormônio ativo.
+A parte restante da molécula de proinsulina é chamada de peptídeo C. Este polipeptídeo é liberado no sangue em quantidades iguais à da insulina. Como insulinas exógenas não contêm peptídeo C, o nível em plasma desse peptídeo é um bom indicador de produção endógena de insulina. Recentemente, descobriu-se que esse peptídeo C também possui atividade biológica, que está aparentemente restrita a um efeito na camada muscular das artérias.
+
+
+=== Produção de análogos de insulina ===
+
+Pacientes com diabetes mellitus tipo 1 dependem de Insulinoterapia, ou seja da administração de insulina exógena (geralmente por via subcutânea),  para a sua sobrevivência, pois a hormona não é produzida por seu organismo. Também certos pacientes com diabetes tipo 2 podem eventualmente necessitar de insulina se outras medicações não conseguirem controlar os níveis de glicose no sangue de forma adequada.Inicialmente a insulina utilizada por diabéticos era extraída do pâncreas de bois e porcos, por ser parecida com a humana, mas esta insulina podia acarretar problemas, como reações alérgicas, ou não ser eficaz em alguns pacientes. Atualmente a insulina é produzida através da técnica de ADN recombinante, primeiro produto da moderna biotecnologia a ser comercializado mundialmente. A técnica surgiu no Brasil em 1990, em dois projetos vinculados a empresa Biobrás. Um projeto desenvolvido por Marcos Luís Mares Guia  e bioquímicos da UFMG e outro chefiado pelo Dr. Josef Ernst Thiemann e pesquisadores da Universidade de Brasília. A técnica consiste em introduzir na bactéria Escherichia coli, comum na flora intestinal humana, o gene da pró-insulina humana, para que ela passe a produzir o hormônio, um processo que dura 30 dias, um terço do tempo do método tradicional. Em 2001 somente quatro empresas no mundo, incluindo a Biobrás, tinham tecnologia de produção industrial da insulina recombinante. A Biobrás patenteou nos Estados Unidos em 2000 o processo desenvolvido em parceria com os pesquisadores da Universidade de Brasília e o Dr. J. E. Thiemann  e em 2002 foi comprada pela dinamarquesa Novo Nordisk. Comprada a Biobrás, a Novo Nordisk elevou rapidamente seus preços de fornecimento ao Ministério da Saúde combinando a importação e produção local, até acabarem fechando a produção dos cristais de insulina no Brasil para aqui fazer só envazamento.Em 2013 o governo federal anunciou que o Brasil vai retomar a produção de insulina por meio do Laboratório Biomanguinhos, da Fundação Oswaldo Cruz, parte de um acordo firmado entre o governo e o laboratório ucraniano Indar, um dos três produtores remanescentes de insulina no mundo, que vai transferir a tecnologia para a produção nacional do medicamento.Após o acordo de intenções com a Ucrânia, a Novo Nordisk, embora alegasse que a insulina ucraniana não tinha qualidade, fez proposta de compra do Indar ao governo. Um mês após a assinatura do contrato, em uma nova licitação governamental para aquisição de insulina, os preços da insulina oferecidos pelas empresas concorrentes baixaram quase à metade.
+
+
+== Ação em nível celular e metabólico ==
+
+
+=== Ações no metabolismo dos carboidratos ===
+Aumento da permeabilidade celular à glicose, exceto nas células nervosas. Esse efeito é marcante nas células musculares, as quais são pouco permeáveis à glicose em condições de repouso, utilizando principalmente ácidos graxos para produção de energia.
+Aumento da síntese de glicogênio: a insulina induz à armazenagem de glicose nas células, principalmente do fígado e dos músculos, na forma de glicogênio (glicogênese). Já a diminuição dos níveis de insulina ocasiona a conversão do glicogênio de volta a glicose pelas células do fígado e a excreção da substância no sangue (glicogenólise).
+Inibição da fosforilase hepática, enzima responsável pela quebra do glicogênio em glicose (glicogenólise).
+Aumento da captura de glicose pelas células hepáticas. Isso se dá através do aumento da atividade da enzima glicoquinase, responsável pela fosforilação inicial da glicose, processo que não permite a saída da molécula da célula.
+Aumento da atividade da enzima glicogênio sintetase, responsável pela polimerização de moléculas de glicose em glicogênio.
+O excesso de glicose, que não pode ser convertido em glicogênio no fígado, é encaminhado para a conversão a ácidos graxos sob ação da insulina.
+Redução da gliconeogênese no fígado pela diminuição da quantidade e atividade das enzimas hepáticas necessárias a esse processo. A falta de insulina induz à produção de glicose no fígado e em outros locais do corpo.
+
+
+=== As ações da insulina no metabolismo humano como um todo incluem ===
+Controle da quantidade de certas substâncias que entram nas células, principalmente glicose nos tecidos muscular e adiposo (que são aproximadamente 2/3 das células do organismo).
+A insulina, mais precisamente,
+Aumento da replicação de DNA e de síntese de proteínas via o controle de fornecimento de aminoácidos;
+Modificação da atividade de inúmeras enzimas (controle alostérico)As ações nas células incluem:
+
+Aumento da síntese de ácidos graxos: a insulina induz à transformação de glicose em triglicerídeos pela células adiposas; a falta de insulina reverte o processo.
+Aumento da esterificação de ácidos graxos: estimula o tecido adiposo a compor triglicerídeos a partir de ésteres de ácidos graxos; a falta de insulina reverte o processo.
+Redução da proteólise: estimula a diminuição da degradação proteica; a falta de insulina aumenta a proteinólise.
+Redução da lipólise: estimula a diminuição da conversão de suprimento de lipídeos contido nas células adiposas em ácidos graxos sanguíneos; a falta de insulina reverte o processo.
+Aumento do consumo de aminoácidos: induz células a absorver aminoácidos circulantes; a falta de insulina inibe a absorção;
+Aumento do consumo de potássio: induz células a absorver potássio plasmático; a falta de insulina inibe a absorção;
+Tônus dos músculos arteriais: induz a musculatura das paredes arteriais ao relaxamento, o que aumenta o fluxo sanguíneo especialmente em microartérias; a falta de insulina reduz o fluxo por permitir a contração desses músculos. Existem dois tipos de liberação a liberação aguda e a liberação sob secreção.
+
+
+== Ação sobre o nível de glicemia ==
+
+
+== Ver também ==
+Glucagon
+Hipoglicemia
+Resistência à insulina
+Diabetes
+Lista de hormônios humanos
+
+
+== Referências ==
+
+
+== Ligações externas ==
+
+«Sociedade Brasileira de Diabetes» 
+Deutsche Welle - 1921: Descoberta da insulina

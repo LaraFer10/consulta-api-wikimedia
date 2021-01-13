@@ -1,0 +1,54 @@
+Este artigo é sobre genética quantitativa, de forma mais específica, redes genéticas.
+
+
+== Introdução ==
+Redes Funcionais (, ) (do inglês, Network motif ) são Redes Complexas [ComplexNet Summer School, ] encontradas em nosso genoma, na verdade na busca de comunicação neste, forma encontrada pela natureza para melhor usar os recursos disponíveis.
+Redes complexas, são consideradas Sistemas Complexos, para sistemas complexos ver por exemplo []. Sistemas complexos são sistemas que apresentam comportamentos difíceis de serem explicados somente se usando "a soma das partes", estudos conhecidos como reducionismo, como muitos comentam, "a soma das partes não explica o todo". Sistema complexo é diferente de sistema complicado. Um exemplo de um sistema complexo, mas não complicado, seria dois genes, no qual um controla o outro, é possível se mostrar usando cálculo numérico, como por exemplo o método de Euler, que oscilações aparecem da interação, mesmo sem se usar funções periódicas como cossenos. Este tipo de comportamento, como destaca [] , deixou muitos surpresos.
+Redes funcionais são estudadas em Biologia Sistêmica (Systems Biology)[,). Segundo referencias, estas redes foram selecionadas através de processos evolutivos. Posto desta forma, estas redes são "recorrentes", ou seja, elas se repetem mesmo em sistemas distantes geneticamente. Talvez o mais interessante destas redes é que essas estão oferecendo a oportunidade de ligar de forma concreta as promessas de uso de matemática em biologia e medicina, ver por exemplo. De forma adicional, para estudos relacionados em biologia matemática (mathematical biology), ver por exemplo.Ao lado segue um esquema de um quebra-cabeça, como um quebra-cabeça, redes funcionais são acopladas em sistemas maiores, chamadas de redes de transcrição, ou mais recentemente, Redes de Regulação Genética (RRG). Uma segunda forma de ver a idea é pensar em acordes para violão: para quem toca, sabe-se que os acordos soam diferentemente se tocados separadamente, ou mesmo em ordem diferente . Na nossa metáfora, as redes funcionais são os acordes, os genes as notas, e as redes genéticas a sinfonia.
+
+
+== Genes ==
+
+Infelizmente, uma definição precisa de gene baseada em existência física  não é possível. Um gene em específico pode ser encontrado em diferente regiões do DNA, o mesmo um "gene dentro do outro", "superposição". De forma simples, genes são divididos em regiões ativas (éxons), regiões mortas (íntrons), e regiões de controle (promotores). Outras regiões existem como enhancer, mas geralmente ignoradas em modelagens para efeito de simplicidade. Algo que tem sido bastante estudado é a correlação entre fenótipo e genótipo, como estudar consequências de expressões irregulares, ver por exemplo.
+
+Na figura ao lado, tem-se uma decomposição das etapas do processo de expressão genética. De forma bastante simplificada, devido à complexidade geralmente encontrada em modelos reais, duas etapas precedem a produção de proteína em seres vivos, com exceção de certos vírus: transcrição e  tradução.
+No processo de transcrição o código é lido das tiras de DNA, mRNA são produzidos. Então os mRNAs são usados para produzir proteínas. Devido ao fato de que produzir proteínas é mais demorado do que ler o DNA, em modelos matemáticos se considera mRNA como estático (em termos matemáticos, derivada igual a zero).
+
+
+== Expressão genética ==
+
+Um dos assuntos mais estudados em redes funcionais é o conceito de expressão genética. Cada rede funcional em teoria representa um compromisso entre expressão otimizada e funcional. De acordo com a regra da demanda de Savageau (Savageau Demand Rule), ver por exemplo [Savageau Rule, ], genes são regulados de acordo com demanda do ambiente. De acordo com, cada rede funcional é o resultado de seleção natural.
+
+
+== Alguns tipos de redes funcionais ==
+Como comenta, cada rede de transcrição pode ser vista como um tipo de ovo, nos quais somente a coloração difere. Exemplos de redes de transcrição incluem redes de transcrição sensorial (Sensory transcription Networks, STN) e redes de transcrição de desenvolvimento (Development Transcription Networks, DTN).
+Redes STN estão evolvidas em processos "baratos", processos que não penalizam de forma significativa o sistema biológico em caso de erros, para o sistema biológico, erros são aceitável, como recebimento de sinais externos. No caso de redes DTN, erros são "caros", culminando até mesmo na morte do organismo, como diferenciação celular.
+Exemplo de rede funcional para STN incluem autoregulação negativa (processo no qual um gene inibi a produção da sua própria proteína, este é um sistema de controle de retorno, feedback), e para DTN é autoregulação positiva (processo no qual um gene enforça a produção da sua própria proteína, este é um sistema de controle de retorno, feedback).
+Redes funcionais é uma forma de criar estabilidade no sistema biológico tanto do ponto de vista de evolução quanto funcionamento.
+
+
+== Ver também ==
+Biologia sistêmica
+Biomedicina sistêmica
+Biologia matemática
+Gene
+Expressão genética
+Controle genético
+Biologia molecular
+Ciências da vida
+Bioinformática
+
+
+== Referências ==
+
+
+== Notas ==
+
+
+== Ligações externas ==
+How To Understand Complex Biological Functions
+M. Vijayalakshmi. Feed Forward Loops in Biological Systems. Last Access: July/2014.
+Uri Alon, Network motifs: theory and  experimental approaches. Last Access: July/2014.
+Luay Nakhleh. Bioinformatics: Network Analysis Network Motifs. Last Access: July/2014.
+Artigos. Último Acesso: Julho/2014.
+Systems Biology and Machine Learning

@@ -1,0 +1,147 @@
+Os cianetos (do grego κυανός (kyanós) = "de cor azul-esverdeada" + sufixo), são compostos químicos que contêm o grupo ciano -C≡N, com uma ligação tríplice entre o átomo de carbono e o de nitrogênio. São classificados como cianetos iônicos, ou cianetos covalentes conforme o modo como se ligam ao resto da molécula.
+
+
+== Cianetos Iônicos ==
+Os cianetos iônicos têm como característica o grupamento C≡N–, ou Aníon cianeto, associado a metais como o sódio ou o potássio. Foram no passado denominados cianuretos, nome que persiste na tradição literária e no uso popular. São sais derivados do Cianeto de hidrogênio, (HCN) também chamado ácido cianídrico ou ácido prússico. Tanto os sais como o ácido são conhecidos por serem altamente letais, causando uma morte quase imediata. Entretanto, ao contrário de outros venenos, doses sub-letais não se acumulam no organismo....
+
+
+== Cianetos covalentes ==
+São compostos em que o grupamento -C≡N é ligado covalentemente a átomos de carbono em moléculas orgânicas. São também denominados nitrilas. São exemplos a acetonitrila, (cianeto de metila) e a fenilacetonitrila (cianeto de benzila). São isômeros dos isocianetos ou isonitrilas que contêm o grupamento -N≡C. Nenhum destes compostos exibe o tipo de toxicidade característica dos cianetos iônicos, pois o grupamento é firmemente preso ao restante da molécula.+*
+
+
+== Aspecto ==
+O cianeto de hidrogênio é gás incolor com típico odor amargo, lembrando amêndoas. Não é seguro utilizar o olfato para identificá-lo. Os cianetos de sódio e de potássio são pós brancos. Um pigmento azul-profundo, chamado azul da Prússia, usado em impressões, consiste de ferrocianeto (daí o nome cianeto, do grego kyanos, uma tonalidade do azul) férrico. O azul da prússia liberta cianeto de hidrogênio, sob a ação de ácidos.
+
+
+== Mecanismo de ação ==
+O cianeto tem uma elevada afinidade por metais, formando complexos com cations metálicos em locais catalíticos de várias enzimas importantes e inibindo as suas funções, como é o caso do metabolismo do glicogênio e dos lípideos.
+Mas a toxicidade do cianeto é devida principalmente à ligação ao ferro no estado férrico (Fe (III) ou Fe3+) da enzima citocromo oxidase mitocondrial (citocromo a-a3) da cadeia transportadora de elétrons. O citocromo a-a3 media a transferência de elétrons para o oxigênio molecular, o último passo da fosforilação oxidativa.
+Ao bloquear esta enzima, a célula é incapaz de utilizar o oxigênio e usa um metabolismo anaeróbio reduzindo o piruvato a ácido láctico (fermentação láctica), o que resulta em anóxia tecidular e no rápido desenvolvimento de acidose láctica. Há também uma alteração no metabolismo da célula uma vez que há uma depleção na produção de ATP.
+Como o oxigênio não é utilizado ao nível das células, há uma maior tensão periférica de oxigénio uma vez que não há dissociação da oxiemoglobina, por essa razão um indivíduo com intoxicação por cianeto fica rosado. O efeito causado pelo cianeto é denominado hipóxia histotóxica. O efeito causado pela depleção de ATP afecta todas as células mas o cérebro e o coração são os mais susceptíveis, pelo que após uma intoxicação por cianeto podem ocorrer arritmias cardíacas e outras alterações que resultam em circulação deficiente e em anóxia isquêmica.
+A morte pode ser resultante do dano das células que controlam a respiração ao nível do sistema nervoso central, uma vez que estas são muito sensíveis à hipóxia, provocando incapacidade em respirar.
+O cianeto é considerado uma neurotoxina específica e está frequentemente associado a elevados níveis de cálcio celular e à inibição de antioxidantes, o que conduz à formação de espécies reactivas de oxigênio(ROS) e consequente peroxidação lipídica.
+O mecanismo de aumento do cálcio celular envolve a libertação do glutamato armazenado o que origina activação dos canais de cálcio sensíveis à voltagem, activação de receptores do N-metil-D-aspartato (NMDA) e mobilização de reservas de cálcio intracelulares. Pensa-se que o aumento do cálcio activa a protease que converte a xantina desidrogenase em xantina oxidase que na presença de oxigênio catalisa a formação de radicais livres que iniciam a peroxidação lipídica. A peroxidação lipídica vai provocar disfunção mitocondrial e consequente libertação do citocromo C que desencadeia mecanismos de morte celular. Se as células forem as do sistema nervoso pode-se falar em morte neuronal e neurodegeneração.
+
+
+== Sintomas ==
+Os sintomas e sinais estão directamente relacionados com a dose de cianeto, a via de exposição e o tipo de composto.
+Os sais de cianeto são cáusticos e pode ocorrer sensação de queimação na língua e inflamação da mucosa gástrica após a ingestão. Em casos de inalação pode ocorrer irritação nasal.
+Os cianetos podem cheirar a amêndoas amargas, o que pode ser uma pista, mas caso não se detecte o odor de uma substância, não significa que não tenha cianetos, porque de 40 a 60% da população não consegue detectar o odor, sendo esta anosmia determinada geneticamente.
+Os sintomas propriamente ditos começam poucos minutos após a ingestão de sais de cianeto. A exposição aguda afecta o sistema nervoso central inicialmente estimulando-o e depois deprimindo-o e os sintomas são dependentes da concentração administrada. Concentrações baixas de cianetos podem produzir sintomas e sinais não específicos como: dor de cabeça, agitação, náuseas, desmaios, vómitos, Diarreia, confusão e incontinência. Exposição a concentrações mais elevadas pode provocar hipertensão seguida de hipotensão, taquicardia seguida de bradicardia, dispneia, descoordenação de movimentos, convulsões, cianose, coma e disfunção cardíaca ou respiratória que pode ser fatal. Estes sintomas são na sua maioria resultado da hipóxia tecidular que se instala após a intoxicação por cianeto.
+A ingestão crónica de pequenas doses pode ocorrer por ingestão de plantas ricas em glicosídeos cianogénicos, como por exemplo a mandioca mal processada, muitas vezes associada a uma dieta com poucas proteínas e por isso deficiente em enxofre, que ajuda a destoxificar o veneno. Nestes casos, o resultado pode ser uma neuropatia denominada atáxica tropical, uma vez que estas situações são mais comuns nos trópicos, onde a mandioca é uma das plantas mais utilizadas na alimentação. A neuropatia atáxica tropical é uma doença do sistema nervoso que torna a pessoa instável e descoordenada.
+O envenenamento grave por cianeto, especialmente durante períodos de fome, está associado com o konzo, uma paralisia irreversível e debilitante e em alguns casos com a morte. Em certas áreas a incidência de neuropatia atáxica tropical e konzo pode chegar aos 3%.
+Os cianetos causam também insuficiência da produção de hormonas da tiróide porque quando há ingestão de cianeto ocorre destoxificação por conversão do cianeto em tiocianatoque é uma substância que inibe a captação de iodo pela glândula tiroide, impedindo-a de produzir T3 e T4 e provocando o seu aumento (bócio).
+A ambilopia associada ao tabaco e a neuropatia periférica associada à amigdalina são outras condições provocadas pela intoxicação crónica por cianetos.
+
+
+== Uso Agrícola ==
+Muitas substâncias venenosas são usadas no combate de pragas em porões de navios e em grandes silos onde são armazenados grãos. Geralmente o tratamento não pode ser feito com inseticida líquido nem com o processo de nebulização. No lugar desses são usados compostos paradiclorofenol e cianetos, elementos altamente tóxicos, enquanto na embalagem são inofensivos e apresentam-se em estado sólido.
+A partir da abertura do lacre do fabricante, inicia o processo da volatilização, que por motivo de segurança é liberado algum tempo depois. Para que uma pastilha entre no estado gasoso à temperatura ambiente, seriam necessárias 3 horas, tempo suficiente para injetá-las 20 m. No interior dos silos, como o gás é mais pesado do que o ar, é preciso aguardar algum tempo para abertura dos silos, geralmente em torno de 24 horas após a aplicação.
+
+
+== Embalagem ==
+Essas pastilhas (enquanto na embalagem do fabricante) encontram-se protegidas do ar externo e acondicionadas no vácuo. A embalagem é um tubo de alumínio cilíndrico e possui paredes em alumínio anodizado (resistente à oxidação pelo tempo) e sua tampa de náilon possui alguns obstáculos para evitar que qualquer indivíduo retire o lacre de segurança.
+Para uso em porões de navio que transportam grãos a granel é necessário enterrar até o fundo, três grandes tubos destes 6x3=18 m. por m² e, depois de aberto um tubo "deve-se usar todas as pastilhas, para então abrir-se outro tubo". Esta operação envolve muito risco e pode ser letal ao operador.
+
+
+== Usos industriais ==
+Cianetos são usados na revelação fotográfica e na produção de plásticos, acrilato e colas instantâneas (cianoacrilato). O cianeto de ouro é usado para a douração de certos metais, a frio (sem a necessidade de processo de eletrólise).
+O cianureto é encontrado na natureza em diversas plantas, como nas sementes lenhosas de algumas frutas, e em uma variedade da mandioca, vulgarmente chamada de mandioca-brava: uma planta sul-americana altamente tóxica quando in natura, mas sua raiz é muito consumida e apreciada na forma de farinha torrada, quando perde suas toxinas.
+
+
+== Cianeto como veneno ==
+Supostamente o cianureto foi muito utilizado em suicídios na Segunda Guerra Mundial, por espiões de ambos os lados do conflito que, ao se verem cercados por forças inimigas, optavam por dar fim a vida para não serem capturados. A ingestão de uma dose de 0,5 a 1 mg seria suficiente para matar instantaneamente um adulto.
+Nos campos de extermínio alemães da Segunda Guerra Mundial, foi usado um gás tóxico a base de cianureto, conhecido como Zyklon B ("Ciclone B") nas câmaras de gás. Criado originalmente como um pesticida para a eliminação de piolhos e pulgas, o Zyklon B acabou sendo usado para o extermínio de seres humanos.
+Acredita-se que o próprio Adolf Hitler possa ter se suicidado com uma dose de Zyklon B ("Ciclone B"), no fim da guerra, mas a verdade sobre seu suicídio nunca foi totalmente esclarecida. O Chefe da Luftwaffe, Hermann Göring, se suicidou na prisão, no dia anterior ao qual ele seria executado, a capsula com o cianureto foi levada para a prisão, mas desconhece como foi feito. Alguns desses compostos eram armazenados em anéis com algo em cima para cobrir. Descobriram anéis de ouro com pedras preciosas em, que ao empurrar a pedra para baixo abriam um local que provavelmente eram onde esses compostos eram armazenados.
+Nos Estados Unidos, cápsulas concentradas de cianureto foram a forma de aplicação da pena capital. Na câmara de gás que funcionava na prisão de San Quentin, Estado da Califórnia, as cápsulas eram derramadas em um balde contendo ácido, liberando os vapores mortais. Como a aspiração dos vapores provocava uma morte dolorosa e relativamente lenta, este método de execução caiu em desuso. Uma descrição bastante contundente da câmara de gás de San Quentin é encontrada nos livros escritos na prisão por Caryl Chessman, um prisioneiro condenado à morte em 1948 e executado em 1960.
+E mais recentemente, a maioria das vítimas fatais do Incêndio na boate Kiss em Santa Maria se intoxicaram devido à liberação de cianeto, em virtude da queima da espuma de isolamento acústico do local.
+
+
+== Suicídio de personalidades históricas ==
+Sais de cianeto são eventualmente usados para um suicídio instantâneo. Ao entrar em contato com os sucos digestivos, íons CN- são liberados, paralisando o sistema nervoso e respiratório do indivíduo.
+Entre as personalidades históricas que se suicidaram com cianeto, estão:
+
+Adolf Hitler (há especulações que tenha usado o cianeto, mas se matou com um tiro no crânio)
+Eva Braun (esposa de Hitler)
+Erwin Rommel
+Alan Turing
+Gavrillo Princip (no entanto, o cianeto tinha passado da validade, logo, provocou-lhe apenas náuseas e vômitos)
+Joseph Goebbels
+Hermann Göring
+Heinrich Himmler
+Odilo Globocnik
+Grigori Rasputin (usado na tentativa de matá-lo)
+Ramón Sampedro
+Horacio Quiroga
+Suicídio coletivo em Jonestown, na Guiana, incitado pelo pregador Jim Jones, em 1978 (a substância utilizada foi uma poção a base de cianeto)
+Walter Benjamin
+Leonard Lake (Assassino em massa)
+
+
+== Arma química ==
+Cianetos foram estocados em arsenais de armas químicas, tanto na União Soviética quanto nos Estados Unidos, nas décadas de 1950 e 1960. Durante a Guerra Fria, a União Soviética planejou o uso de cianeto de hidrogênio como uma arma de blitzkrieg (guerra-relâmpago) para eliminar a resistência das linhas inimigas, contando que o gás se dissiparia, permitindo posterior acesso às áreas capturadas. Contudo, o cianeto não é considerado eficaz para uso militar, visto que é mais leve que o ar e é necessária uma elevada dosagem para incapacitar ou matar.
+
+
+== Referências na ficção ==
+
+
+=== Literatura ===
+Um dos romances policiais de Agatha Christie tem o título "Sparkling Cyanide" ("Cianureto Borbulhante/Com Gás"), publicado no Brasil com o título "Um Brinde de Cianureto". É muito comum nos romances dela o uso deste veneno, como suicídio ou assassinato, o mais famoso é no Caso dos Dez Negrinhos, onde parecia suicídio, pois um jovem forte e bonito tomava de uma só vez uma dose de bebida previamente envenenada pelo assassino, sem os outros perceberem, de forma que inicialmente foi atribuído a o personagem o suicídio, com cianeto na bebida.
+O escritor Evertom Freitag sempre teve um carinho particular pelo cianureto.
+No livro "A marca de uma lágrima" de Pedro Bandeira, a trama é sobre um envenenamento por um bombom com cianureto.Na verdade o veneno é a linamarina. O que é linamarina: Substância tóxica da mandioca, que em presença do suco gástrico libera ácido cianídrico (HCN), por isto a referencia.
+No Livro "O vencedor está só" de Paulo Coelho.
+No livro "O Escaravelho do Diabo", de Lucia Machado de Almeida, uns dos personagens é assassinado com cianeto de potássio.
+No conto de Stephen King, "O Leiteiro", o primeiro assassinato se dá graças ao gás armazenado em uma garrafa de leite.
+
+
+=== Música ===
+Também é citado na letra de "Black Chandelier" da banda escocesa Biffy Clyro.
+"Cyanide Assassin" é o título de uma música da banda de Death Metal norte-americana Cannibal Corpse.
+Na música nacional Macaé, de Clarice Falcão, cianureto é citado como forma de suicídio.
+Na música "O Casamento dos Pequenos Burgueses" da peça de teatro Ópera do Malandro, de Chico Buarque, é citada a palavra "cianureto" pela personagem Teresinha.
+A banda norte-americana Metallica compôs uma música chamada Cyanide (Cianureto) em seu álbum Death Magnetic. Ela fala sobre suicídio e cianureto.
+Na música "To the end" dos My Chemical Romance, "cianureto" também é citado:"(So say goodbye) to the vows you take / (And say goodbye) to the life you make / (And say goodbye) to the heart you break / And all the cyanide you drank"
+Em português: "(Então diz adeus) aos votos que fizeste / (E diz adeus) à vida que criaste / (E diz adeus) ao coração que quebraste / E a todo o cianureto que bebeste"A banda de metal melódico Kamelot refere-se ao cianeto em sua música "Falling Like The Fahrenheit": [...]"My cyanide in Paradise that someone's always you", ou em português "meu cianeto no Paraíso, que alguém é sempre você".
+"Cyanide" é o título de uma música do grupo sueco Deathstars.
+A banda de groove metal Machine Head cita o cianeto na música "Davidian": [...]"Cyanide blood burns down the skyline. Hatred is purity. The bullet connects at last. Let freedom ring with a shotgun blast" (O sangue de cianeto incendeia o horizonte; o ódio é a pureza. A bala une-se finalmente. Deixe o anel de liberdade com uma rajada de espingarda)
+É referido na música "Cyanide Sweet Tooth Suicide" da banda Shinedown.
+É representado Na musica do Facção central "Bala Perdida"
+Também está em uma das músicas da banda HIM chamada Cyanide Sun
+É citado em uma música da banda australiana AC/DC chamada "Dirty Deeds Done Dirt Cheap, do álbum homônimo de 1976."
+A Banda Sueca de metal alternativo/djent Meshuggah, possui uma música chamada " New Millenniun Cyanide Christ" do seu álbum "Chaosphere"
+"Cyanide" também é o título de uma música da banda punk Bad Religion que esta no álbum The Dissent Man.
+"Out of line" musica da banda Sueca Crashdïet Hard Rock Sleaze/ Glam metal fundada por Dave Lepard que cita o cianureto em "ooh I love the taste of cyanide, ooh how I love to feel it burn inside" em português BR: "Ooh Eu amo o gosto do cianureto, ooh como eu amo senti-lo queimar por dentro".
+Aparece no título de Instruments of Cyanide, música de Will Ryan feita com base no jogo eletrônico Bendy and the Ink Machine. É também citada no refrão "[...] Just for the sake, fetch me the tools so i create this instrument of Cyanide" ([...] Então pelo amor, me dê as ferramentas para que eu crie este instrumento de cianeto).
+
+
+=== Banda Desenhada ===
+No universo dos quadrinhos de KISS Psycho Circus, desenhado por Todd McFarlane, Fortunado L'Etoile utiliza-se de uma taça de vinho contaminada com cianureto para assassinar Reynard, o homem que assediava e maltratava sua amada Penelope.
+Também no universo dos quadrinhos, mais especificadamente em V de Vingança, o protagonista, V, usa cianureto para assassinar suas vítimas. Umas dessas vítimas, um bispo, é obrigado a comer uma hóstia envenenada com o composto químico.
+A DC comics, possui um personagem chamado diretor Bones, também conhecido como Tanatos, ex-membro do grupo Helix e atual diretor do Departamento de Operações Extranormais, que possui um toque venenoso de cianureto, além de ter um aspecto cadavérico, pois sua pele e músculos são invisíveis, sendo possível enxergar seus ossos.
+
+
+=== Televisão ===
+No episódio 11 da 2ª temporada de Cold Case (Arquivo Morto), a vítima é assassinada com cianureto.
+No episódio 5 da 4ª temporada de CSI Miami, uma sócia de agência de moda é morta por intoxição a cianeto em plena sala de interrogatório, fruto de armação da própria amiga, que veio depois a ser assassinada com um tiro no peito, pela própria envenenada.
+Em vários episódios da série Havaí 5-0 (1968), o cianeto é usado para o suicídio de agentes secretos. Na primeira temporada, ao menos duas vezes o cianeto aparece. No filme-piloto, o personagem principal, Steve McGarrett, supostamente ia usar uma cápsula para se matar, e em "Face of The Dragon", um agente chinês pretendia tirar sua própria vida usando outra cápsula, mas a polícia o para a tempo.
+Na novela "Ribeirão do Tempo" (Record, 2010/2011), o presidente do Brasil (Paulo Gorgulho) é morto por cachaça com cianureto.
+Na série Arrow (série), no episódio 13 "Canaries" da 3ª temporada, Chase tenta matar tea com cianeto misturado no vinho.
+Na série Smallville, no episódio 13 "Beacon" da 10ª temporada, Tess tenta matar Lex (clone), aplicando uma injeção nele (mas falha).
+
+
+== Ver também ==
+Cianogênio (CA)
+Cianeto de hidrogênio (AC)
+Cloreto de cianogênio (CK)
+Brometo de cianogênio (BA)
+Cianoformato de metila (Zyklon A)
+Cianoformato de etila
+Lactonitrilo
+Tabun (GA)
+Tiotabun (GAA)
+Dietiltabun (GAA)
+Cianeto de metilsulfonila (MSC)
+Cianeto de carbonila (CC)
+
+
+== Referências ==

@@ -1,0 +1,128 @@
+Herança ligada ao sexo é a designação da herança genética relacionada a genes presentes na parte não-homóloga dos cromossomos sexuais, ou seja, no caso da espécie humana, os genes presentes no cromossomo X não tem correspondentes no cromossomo Y. A herança ligada ao sexo responde por diversas enfermidades encontradas em humanos, como o daltonismo e hemofilia.  É, também, a expressão fenotípica de um alelo relacionado ao cromossomo sexual do indivíduo. Nos cromossomos autossomos dos sexos, a herança genética de seus pais possuem a mesma probabilidade de existência (como visto no Principio de Fisher), resumido por Ronald Fisher, mas dado que os seres humanos têm muito mais genes no cromossomo x que no cromossomo y, existem mais rasgos ligados ao x do que ao y.
+Os cromossomos sexuais se juntam  na meiose. Como os cromossomos X e Y ou Z e W têm formas e tamanhos diferentes, seu emparelhamento na meiose é parcial. Podem-se distinguir, assim, duas regiões nesses cromossomos, em função do emparelhamento nas células masculinas.
+
+região homóloga, cromossomo X e o cromossomo Y , se emparelham ;região não-homóloga, onde não há emparelhamento entre o cromossomo X e o cromossomo Y.Os genes que se encontram na região não-homóloga do cromossomo X apresentam um tipo de herança que chamamos  de herança ligada ao sexo ou herança ligada ao X.
+Nesse caso, como os machos têm apenas um cromossomo X, não há alelos dos genes localizados na região não-homóloga desse cromossomo, sendo, por isso, chamados hemizigóticos. Já as fêmeas podem ser homozigóticas ou heterozigóticas, pois apresentam dois cromossomos X que se emparelham completamente.
+Genes recessivos localizados nessa região não-homóloga do cromossomo X expressam-se fenotipicamente com maior frequência nos machos,pois basta o alelo estar presente para seu efeito se manifestar. Nas fêmeas, esses alelos recessivos só se manifestam em dose dupla (homozigose recessiva).
+Os genes localizados na região não-homóloga do cromossomo Y são chamados de genes holândricos (holo = todos; andrico = masculino) e condicionam um tipo de herança restrita ao sexo ou herança ligada ao Y, que só ocorrem nos machos. nesse caso, também se fala em indivíduos hemizigóticos.
+
+
+== Histórico ==
+A herança ligada ao sexo também pode ser identificada em diversas outras espécies e foi percebida inicialmente a partir das observações de Thomas Hunt Morgan, em 1909, estudando a mosca-da-fruta, Drosophila melanogaster. Morgan observou a cor dos olhos neste inseto e descobriu frequências diferentes para machos e fêmeas que evidenciaram a presença de uma herança ligada aos cromossomos sexuaisEvidências de ligação ao sexo também foram observadas por L. Doncaster e G. H. Raynor, ao estudarem cruzamentos entre mariposas magpie (asas escuras x asas claras) dentro das condições mendelianas. Eles notaram os seguintes cruzamentos recíprocos:
+Fêmeas asas claras X Machos asas escuras =
+Toda a prole com asas escuras.
+Fêmeas asas escuras X Macho de asas claras =
+Toda a prole feminina com asas claras/ Toda prole masculina com asas escuras.
+Associando tais frequências fenotípica a herança sexual. William Bateson desenvolveu o mesmo estudo, porém com galinhas.
+
+
+== Outros mecanismos de herança relacionados ao sexo ==
+Existem variações fenotípicas relacionadas com o sexo envolvendo genes que podem estar localizados em quaisquer do autossomos, ocorrendo, assim, nos dois sexos. Esses genes podem expressar-se de modo diferente em cada sexo, em função principalmente dos hormônios sexuais.
+
+
+=== Herança influenciada pelo sexo ===
+A herança autossômica influenciada pelo sexo diz respeito a características determinadas por genes autossômicos, cuja expressão é afetada pelo sexo do indivíduo. Dentro desta classificação encontra-se a modalidade "Dominância influenciada pelo sexo", em que a dominância de um gene varia de acordo com o sexo do portador. Um exemplo é a calvície na espécie humana. Essa característica é determinada por um Alelo C', localizado em um autossomo, sendo dominante nos homens e recessivo nas mulheres. Assim, devido a diferenças hormonais, o mesmo genótipo heterozigótico manifesta-se de forma diferente em cada sexo.
+
+A calvície é, portanto, uma característica influenciada pelo sexo. Devemos lembrar, porém, que a calvície também pode ter outras causas, sem interferência genética, como doenças, radiações e problemas com a glândula tireoide.
+Outras modalidades de herança autossômica ligada ao sexo são a "Penetrância influenciada pelo sexo" e a "Expressividade influenciada pelo sexo".
+
+
+=== Herança com efeito limitado ao sexo ===
+Esses casos envolvem genes que ocorrem nos dois sexos, mas só se manisfestam em um deles. O efeito desses genes está, portanto, limitado ao sexo do indivíduo. Um exemplo é a manifestação dos caracteres sexuais secundários no homem e na mulher.
+A masculinização está ligada ao cromossomo Y. Um gene que tem um papel muito importante nesse fato é o tdf, também chamado de sry, que codifica o fator determinante de testículos. O gene tdf  identificado está localizado na região não-homóloga do cromossomo Y.
+A hipertricose auricular, que corresponde ao crescimento excessivo de pelos na orelha, é um exemplos de gene autossômico dominante com efeito limitado ao sexo. Esses genes estão presentes tanto em homens como em mulheres, mas só se manifestam nos homens, ou seja, a hipertricose deve-se a uma herança ligada ao Y
+É interessante notar que até algum tempo atrás a hipertricose auricular era interpretada como um tipo de herança ligada ao cromossomo Y. Hoje se sabe que muitas das características que eram atribuídas a genes localizados na região não-homóloga do Y em relação ao X, ou seja, genes restritos ao sexo (ou ao Y), são na verdade condicionadas por genes autossômicos com efeito limitado ao sexo.
+
+
+== Herança ligada ao cromossomo X ==
+
+
+=== Dominante ===
+O gene responsável do fenótipo se localiza no cromossomo X, e somente uma cópia do alelo é suficiente para desencadeá-lo. Pode ser herdado do pai ou da mãe. Os homens só podem herdar um cromossomo X. A consequência para isto é que as mulheres têm mais probabilidade de herdar um alelo ligado ao cromossomo X do qual o fenótipo se faça visível.
+Quando a mãe é a portadora do alelo em UM de seus dois cromossomos X, ela mesma apresentará a desordem genética, ademais:
+
+50% de suas filhas terão a desordem;
+50% de seus filhos terão a desordem;Quando a mãe é portadora do alelo em seus DOIS cromossomos X, acontecerá que:
+
+100% de suas filhas terão a desordem;
+100% dos seus filhos terão a desordem;Quando só o pai é o portador do alelo no cromossomo X, ele mesmo apresentará a desordem genética, ademais:
+
+100% de suas filhas terão a desordem;
+0% de seus filhos terão a desordem;Quando os dois pais são portadores, SENDO QUE A MÃE É HETEROZIGOTA PARA O CARÁTER:
+
+100% de suas filhas terão a desordem;
+50% de seus filhos terão a desordem;Quando os DOIS pais são portadores, SENDO QUE A MÃE É HOMOZIGOTO PARA O CARÁTER:
+
+100% de suas filhas terão a desordem;
+100% de seus filhos terão a desordem;Em algumas síndromes, como a Síndrome de Aicardi, o cromossomo X afetado é letal, de modo que sobrevivem somente as mulheres.
+Lista de Síndromes dominantes ligadas ao cromossomo X:
+
+Síndrome de Rett
+Síndrome de Alport
+Síndrome de Bloch-Sulzberger
+Síndrome Giuffrè-Tsukahara
+Síndrome de Goltz
+Síndrome João-Gonçalves
+Síndrome Aicardi
+Protoporfirina ligada ao cromossomo X
+
+
+=== Recessiva ===
+O gene responsável do fenótipo se localiza no cromossomo X, precisa-se homozigose do alelo das mulheres para poder expressar o fenótipo, enquanto que nos homens precisa-se apenas tê-lo (dado que são necessariamente homozigotos para o cromossomo X). Pode ser herdado do pai ou da mãe. Os homens só podem herdar um cromossomo X. A consequência disto é que as mulheres possuem mais probabilidade de herdar um alelo ligado ao cromossomo X, mas que não desencadeiem o fenótipo.
+Quando somente a mãe é a portadora do alelo no cromossomo X, ela mesma NÃO APRESENTARÁ a desordem genética e ademais:
+
+50% de suas filhas serão portadoras;
+50% de seus filhos terão a desordem;Quando o pai é o portador do alelo no cromossomo X, ele mesmo APRESENTARÁ a desordem e ademais:
+
+100% de suas filhas serão portadores;
+0% de seus filhos terão a desordem;Quando os dois pais são portadores:
+
+50% de suas filhas terão a desordem e 50% serão portadoras;
+50% de seus filhos terão a desordem;Quando a mãe é homozigoto para o alelo e o pai não é portador:
+
+100% de suas filhas serão portadoras;
+100% de seus filhos terão a desordem;Quando a mãe é homozigoto, assim como o pai:
+
+100% de sua descendência terá a desordem;Lista das Síndromes ou anomalias recessivas mais comuns ligadas ao cromossomo X:
+
+Daltonismo
+Hemofilia A
+Hemofilia B
+Distrofia muscular de Duchenne
+Distrofia muscular de Becker
+Ictioses ligada ao cromossomo X
+Agamaglobulinemia ligada ao cromossomo x.
+
+
+== Síndromes relacionadas ao cromossomo X ==
+
+
+=== Síndrome de Klinefelter ===
+A síndrome de Klinefelter ocorre nos homens quando umas ou várias cópias extra do cromossoma de X estam presente. A circunstância é caracterizada pela revelação sexual anormal, com mau funcionamento dos testículos e dos níveis reduzidos da testosterona. Enquanto os homens crescem acima, tendem a ser mais altos do que a média mas a ter reduzido a força de músculo. A capacidade de aprendizagem pode ser danificada e pode igualmente haver alguma revelação atrasada de habilidades de motor. Os homens com a circunstância podem igualmente ser inférteis.
+
+
+=== Tripla X ou "Super Fêmea" ===
+A síndrome de down igualmente chamada X, esta circunstância é causada pela presença de uma cópia extra do cromossoma de X nas fêmeas, significando que cada um de suas pilhas tem 47 cromossomas. As fêmeas com síndrome de down X são em risco da língua atrasada, motor-coordenação e as habilidades do processamento cognitivo e o Q.I. médio entre estes grupos são 90. A falha ovariana prematura é razoavelmente comum nas mulheres com síndrome de down X mas a maioria têm a fertilidade normal.
+
+
+=== Síndrome de Turner ===
+Esta circunstância afecta fêmeas e elevara de uns desaparecidos ou de um cromossoma de X anormalmente estruturado. As mulheres com a circunstância são da estatura curto e infértil. Na maioria dos casos, as mulheres têm somente uma cópia do gene (referido como monosomy) mas em alguns casos o segundo cromossoma de X estam presente mas são arranjadas anormalmente ou parcialmente faltando.
+
+
+== Bibliografia ==
+SUZUKI, D.T., GRIFFITHS, A.J.F., MILLER, J.H. & LEWONTIN, R.C. (2002). Introdução à Genética. Ed. Guanabara Koogan.
+Lopes, Sônia. Bio: volume único/ Sônia Lopes.- 2. ed.- São Paulo : Saraiva, 2008.
+Morgan, Thomas Hunt 1919. The physical basis of heredity. Philadelphia: J.B. Lippincott Company.
+Algumas partes diretamente traduzidas do artigo de "Herança ligada ao sexo", pertencente à Wikipedia.
+https://www.news-medical.net/health/Diseases-Linked-to-X-Chromosome-(Portuguese).aspx
+http://www.broadinstitute.org/~sfs/nrg_Xchrom.pdf
+http://www.nature.com/nature/supplements/collections/humangenome/chromosomes/x.html
+http://www.ncbi.nlm.nih.gov/mapview/
+http://www.nhmrc.gov.au/_files_nhmrc/file/your_health/egenetics/practioners/gems/sections/07_chromosomal_conditions.pdf
+
+
+== Referências ==
+
+
+== Ligações externas ==
+«SO Biologia»

@@ -1,0 +1,18 @@
+Isomerases são ENZIMAS que realizam reações de interconversão entre isômeros óticos ou geométricos - Epimerases.
+
+
+== Nomenclatura ==
+A determinação do nome das enzimas é normatizada por um comitê especializado , o Nomenclature Committee of the International Union of Biochemistry and Molecular Biology (NC-IUBMB).
+
+
+=== Classes de isomerases ===
+EC5.1 - Racemases e epimerases
+EC5.2 - Isomerases cis-trans
+EC5.3 - Oxirredutases intramoleculares
+EC5.4 - Transferases intramoleculares
+EC5.5 - Liases intramoleculares
+EC5.99 - Outras isomerases
+
+
+== Ligações externas ==
+«Enzimas do grupo EC.5» (em inglês)

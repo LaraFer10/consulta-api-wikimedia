@@ -1,0 +1,21 @@
+Técnicas biofísicas são métodos usados para obter-se informação sobre sistemas biológicos no um nível atômico ou molecular. Elas sobrepõe-se com métodos de outros campos da ciência.
+As principais técnicas biofísicas são:
+
+Dicroísmo circular, um método de detecçao de grupos quirais em moléculas, especialmente para determinar a estrutura secundária das proteínas.
+Química computacional, o uso de métodos numéricos para obter-se a estrutura e equilíbrio dinâmico em sistemas biológicos.
+Interferometria de polarização dual, uma técnica analítica usada para medir-se a conformação e atividade em tempo real de uma larga variedade de biomoléculas e suas interações.
+Microscópio eletrônico, para obter imagens de alta resolução de estruturas subcelulares
+Espectroscopia de fluorescência, a qual pode ser usada para detectar rearranjos estruturais, assim como interações de biomoléculas.
+Espectroscopia de força analisa as propriedades mecânicas de moléculas individuais ou arranjos macromoleculares usando pequenos cantilevers flexíveis, focados com luz laser, ou campos magnéticos.
+Eletroforese em gel,  aqual é usada para determinar a massa, a carga e as interações de moléculas biológicas.
+Calorimetria de titulação isotérmica (ITC, do inglês Isothermal Titration Calorimetry) a qual mede os efeitos do calor relacionado às interações.
+Espectrometria de massa é uma técnica que fornece a massa molecular com grande precisão.
+Microscopia, por exemplo usando instrumentos com laser para escaneamento e transmissão.
+Pinça óptica e pinça magnética permite a manipulaçao de moléculas isoladas, fornecendo informações sobre ADN (DNA) e sua interação com proteínas e motores moleculares, tais como helicase e ARN-polimerase.
+Ressonância magnética nuclear de proteínas, fornecendo informação sobre a estrutura exata de moléculas biológicas, assim como sua dinâmica.
+Espectroscopia de molécula isolada (single molecule spectroscopy) é um termo geral aplicado à uma classe de técnicas que são sensíveis o suficiente para detectar moléculas isoladas e frequentemente incorpora detecção fluorescente.
+Espalhamento de raios X baixo ângulo (SAXS, small angle X-ray scattering) é uma técnica que fornece uma aproximação de baixa resolução da estrutura molecular.
+Espectrofotometria, a medição da transmissão de luz através de diferentes soluções ou substâncias a diferentes comprimentos de onda de luz. A colorimetria é um exemplo disto.
+Ultracentrifugação, a qual fornece informação sobre a forma e massa de moléculas
+várias técnicas de cromatografia, as quais são usadas para a purificação e análise de moléculas biológicas.
+Cristalografia de raios X, outro método para obter-se acesso à estrutura exata de moléculas com resolução atômica.Ver também: biofísica

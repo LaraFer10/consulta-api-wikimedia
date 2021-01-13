@@ -1,0 +1,27 @@
+Quando se refere à transcrição de DNA, a cadeia de codificação ou cadeia codogênica é a cadeia de DNA cuja sequência de bases corresponde à sequência de bases do transcrito de RNA produzido (embora com timina substituída por uracila). É esta cadeia que contém códons, enquanto a cadeia não-codificante contém anticódons. Durante a transcrição, a RNA Pol II liga-se à cadeia não codificante, lê os anticódons e transcreve a sua sequência para sintetizar o transcrito de RNA com bases complementares.
+Por convenção, a cadeia de codificação é a cadeia usada para exibir uma sequência de DNA. É apresentado na direção 5' a 3'.
+
+
+== Termos alternativos para cadeias ==
+Onde quer que exista um gene numa molécula de DN|, uma cadeia é a cadeia codificante (ou cadeia de sentido) e a outra é a cadeia não codificante (também denominada cadeia antisentido, cadeia anticódica, cadeia modelo ou cadeia transcrita).
+
+
+== Cadeias na bolha de transcrição ==
+Durante transcrição, RNA polimerase desenrola uma pequena seção da dupla hélice de DNA perto do início do gene (o sítio de início da transcrição). Esta seção desenrolada é conhecida como bolha de transcrição. A RNA polimerase, e com ela a bolha de transcrição, viaja ao longo da cadeia não codificadora na direção oposta, direção 3' a 5', bem como polimeriza uma vertente recém-sintetizada em 5' a 3' ou direção a jusante. A dupla hélice de DNA é re-espiralada RNA polimerase na parte traseira da bolha de transcrição. Assim como dois zíperes adjacentes funcionam, quando puxados juntos, eles descompactam e recompactam, à medida que prosseguem em uma direção específica. Vários fatores podem causar a quebra da cadeia dupla de DNA; então, reordenar genes ou causar morte celular.
+
+
+== Híbrido RNA-DNA ==
+Onde a hélice é desenrolada, a cadeia de codificação consiste em bases não emparelhadas, enquanto a cadeia modelo consiste em um composto de RNA: DNA, seguido por um número de bases desemparelhadas na parte traseira. Este híbrido consiste nos mais recentemente adicionados nucleotídeo do transcrito de RNA, emparelhado complementarmente com a cadeia modelo. O número de pares de bases no híbrido está sob investigação, mas foi sugerido que o híbrido seja formado a partir dos últimos 10 nucleotídeos adicionados.
+
+
+== Referências ==
+
+
+== Bibliografia ==
+Griffiths, A.J.F.;  et al. (2005). Introduction to Genetic Analysis 8th ed. [S.l.]: W.H. Freeman. ISBN 0-7167-4939-4 
+Lewin, B. (2000). Genes VII. New York: Oxford University Press. ISBN 0-19-879277-8 
+
+
+== Ver também ==
+Cadeia de sentido
+Sentido (biologia molecular)

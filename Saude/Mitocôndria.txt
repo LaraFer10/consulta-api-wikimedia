@@ -1,0 +1,86 @@
+A mitocôndria (do Grego μίτος ou mitos (fio/linha) + χονδρίοv ou "chondrion" (grânulo).) é uma das organelas celulares mais importantes, também sendo extremamente relevante para a respiração celular. É abastecida pela célula que a hospeda por substâncias orgânicas como a glicose, as quais processa e converte em energia sob a forma de ATP, que devolve para a célula hospedeira, sendo energia química que pode ser usada em reações bioquímicas que necessitem de dispêndio de energia. A mitocôndria está presente em grande quantidade nas células: do sistema nervoso (na extremidade dos axônios), do coração e do sistema muscular, uma vez que estas apresentam uma necessidade maior de energia.
+
+A mitocôndria está presente na maioria dos eucariontes, exceto num grupo de protistas chamado Archezoa, apesar da análise genômica destes organismos indicar que podem ter perdido as mitocôndrias ao longo da evolução. A principal evidência disto é o fato de alguns genes codificadores de proteínas mitocondriais terem sido encontrados no genoma nuclear destes protistas (Bui & Bradley, 1996). Foi descrita por Altmann, em 1894 (que as denominou "bioblastos"), sugerindo a sua relação com a oxidação celular. O seu número varia entre as células, sendo proporcional à atividade metabólica de cada uma, indo de quinhentas a mil ou até dez mil dessas estruturas por célula.
+Esta apresenta duas membranas lipoprotéicas, uma externa lisa e outra interna que se dobra formando vilosidades, chamadas cristas. A região limitada pela membrana interna é conhecida como matriz mitocondrial, onde existem proteínas, ribossomos e DNA mitocondrial, de forma circular, que contém 37 genes codificadores de 13 proteínas, de 2 rRNAs e 22 tRNAs. Estes são necessários no processo de produção de ATP, ou seja, necessários para que a respiração celular ocorra.
+
+A mitocôndria forma uma extensa rede, denominada rede mitocondrial. Essa rede é constituída por subunidades mitocondriais que podem se fundir ou se dividir de acordo com as necessidades fisiológicas.  A organela tem sido associada, nos últimos anos, ao processo de morte celular denominado apoptose. Diversas proteínas mitocondriais encontram-se diretamente ligadas à apoptose, como as proteínas BCL-2, AIF e o Citocromo C, por exemplo.
+
+
+== Função ==
+As mitocôndrias são organelas que agem como um sistema digestivo que absorve nutrientes, os decompõe e cria moléculas ricas em energia para a célula.  A sua função é vital para a célula, sem a qual há morte celular. O DNA mitocondrial não tem se modificado muito desde o seu princípio, além do descartar de DNA inutilizado, apesar do seu elevado índice de mutações (10 vezes maior que o DNA nuclear). O que acontece é que este DNA está apenas sujeito a modificações por mutação, dado não haver maneira do mesmo sofrer recombinação como acontece quando o DNA do espermatozoide entra no núcleo do óvulo, dando-se a recombinação quando metade do DNA de cada parente se junta, formando o ovo, ou zigoto. Como o que entra na célula sexual feminina vindo do pai é apenas o seu DNA nuclear, as mitocôndrias masculinas ficam de fora, logo não se dá recombinação do seu DNA. O resultado é recebermos o DNA mitocondrial da mãe, levando a poucas modificações deste ao longo dos tempos. Os antropólogos aproveitam estas propriedades para examinar, através do DNA mitocondrial, as relações de parentesco entre os grandes grupos de seres vivos. Esta situação mostra-nos o elevado poder da recombinação genética, visto que o DNA nuclear, sempre atrasado em relação ao mitocondrial que sofre 10 vezes mais mutações, ganha um enorme impulso de modificação na recombinação com outros DNAs.
+A mitocôndria é responsável por muitos processos catabólicos fundamentais para a obtenção de energia para a célula, como a β-oxidação de ácidos graxos, o Ciclo de Krebs e a Cadeia respiratória. Elas atuam como alarmes moleculares quando as células são expostas ao estresse ou a substâncias químicas que podem danificar o DNA, como a quimioterapia. Estudo sugere que as mitocôndrias se tornam a primeira linha de defesa na detecção do estresse no DNA.
+
+
+== Estrutura e composição ==
+
+A mitocôndria contém as membranas exteriores e interiores compostas de bicamadas de fosfolípidos e proteínas. As duas membranas, no entanto, têm propriedades distintas. Devido a esta organização de dupla membrana, existem cinco compartimentos distintos dentro da mitocôndria. São eles:
+
+Membrana mitocondrial externa,
+Espaço intermembranar (o espaço entre as membranas exteriores e interiores),
+A membrana mitocondrial interna,
+O espaço de cristas (formado por invaginações da membrana interna), e
+A matriz (espaço dentro da membrana interna).
+
+
+=== Membrana externa ===
+A membrana externa mitocondrial, o que envolve a organela toda, tem uma proporção de proteína e de fosfolípidos semelhante ao da membrana plasmática eucariótica (cerca de 1:1 em peso). Ela contém um grande número de proteínas integrais chamadas porinas. Estas porinas formam canais que permitem que as moléculas de 5000 Daltons ou menos em peso molecular livremente se difundam de um lado da membrana para o outro. Proteínas maiores podem entrar na mitocôndria se uma sequência de sinalização em seu N-terminal se ligue a uma grande multisubunidade de proteína chamada Translocase da membrana externa, que então ativamente as move através da membrana. A ruptura da membrana externa permite que as proteínas no espaço intermembranar vazem para o citosol, conduzindo à morte celular certa.
+
+
+=== Espaço intermembranoso ===
+O espaço intermembranoso é o espaço entre a membrana externa e da membrana interna. Como a membrana exterior é livremente permeável a moléculas pequenas, as concentrações de moléculas pequenas, tais como íons e açúcares no espaço intermembranar são as mesmas que o citosol. No entanto, as proteínas grandes devem ter uma sequência específica de sinalização para serem transportadas através da membrana externa, de modo que a composição de proteínas deste espaço é diferente da composição de proteínas do citosol. Uma proteína que está localizada no espaço intermembranar desta maneira é o citocromo c.
+
+
+=== Membrana interna ===
+A membrana interna contém mais proteínas, não tem poros e é muito selectiva; Contém muitos complexos enzimáticos e sistemas de transporte transmembranar, que estão envolvidos na translocação de moléculas. Esta membrana forma invaginações ou pregas designadas cristas mitocondriais, que aumentam consideravelmente a superfície para o afixar dessas enzimas. Na maioria dos eucariotos, as cristas formam tabiques aplanados perpendiculares ao eixo da mitocôndria, mas alguns protistas apresentam uma forma tubular ou discoidal. Na composição da membrana interna existe grande abundância de proteínas (80%), que são, aliás, exclusivas deste orgânulo, nomeadamente:
+
+A cadeia de transporte de electrões, composta por quatro complexos enzimáticos fixos e dois transportadores de electrões móveis:
+Complexo I ou NADH desidrogenase que contém flavina mononucleótido (FMN).
+Complexo II ou succinato desidrogenase. Os complexos I e II cedem electrões à coenzima Q ou ubiquinona.
+Complexo III ou citocromo bc1 que cede electrões ao citocromo c.
+Complexo IV ou citocromo c oxidase que cede electrões ao O2 para produzir duas moléculas de água.
+Um complexo enzimático, o canal de H+ ATP sintetase que cataliza a síntese de ATP (fosforilação oxidativa).
+Proteínas transportadoras que permitem a passagem de iões e outras moléculas através da membrana, como ácidos gordos, ácido pirúvico, ADP, ATP, O2 e água. Podem destacar-se os seguintes transportadores mitocondriais:
+Nucleótido de adenina translocase. Encarrega-se de transportar para a matriz mitocondrial o ADP citosólico formado durante as reacções que consomem energia e, paralelamente transloca para o citosol o ATP acabado de sintetizar durante a fosforilação oxidativa.
+Fosfato translocase. Transloca fosfato citosólico juntamente com o protão para a matriz; o fosfato é essencial para fosforizar o ADP durante a fosforização oxidativa.
+
+
+== Origem ==
+
+As mitocôndrias têm muitas características em comum com procariontes. Como resultado, se crê que elas originalmente derivem de procariotas endossimbióticas.
+A presença de material genético na mitocôndria, ainda por cima DNA circular (típico das bactérias), fez emergir teorias sobre sua origem. A estrutura circular também é encontrada em procariotas, e a semelhança é estendida pelo facto do ADN mitocondrial ser organizado com um código genético variante semelhante ao de proteobacterias. Isto sugere que seu ancestral, a chamado proto-mitocôndria, era um membro das proteobacterias. Em particular, a proto-mitocôndria era provavelmente estreitamente relacionada com a rickettsia. No entanto, a relação exacta do antepassado da mitocôndria para as alfa-proteobactérias e se a mitocôndria foi formada ao mesmo tempo ou após o núcleo, permanece uma questão controversa.Hoje em dia a maioria da comunidade científica acredita na teoria da endossimbiose. Esta afirma que a mitocôndria é descendente de uma bactéria. Há milhões de anos formaram-se as primeiras células que sobreviviam em poças de lamas vulcânicas fervilhantes atestadas de enxofre que servia para estas células produzirem energia. Após a formação dos primeiros oceanos, apareceram as primeiras células fotossintéticas. Estas tinham a capacidade de usar a luz solar para fabricar energia, com libertação de oxigénio. Passados muitos anos, os índices de oxigénio na atmosfera começaram a aumentar e os de enxofre a diminuir. Nessa altura, os organismos não toleravam nada bem o oxigénio sendo tóxico para os mesmos, já que antes os índices de oxigénio eram residuais. Portanto, quem tinha melhor capacidade de sobrevivência eram os seres que aprenderam a viver com o oxigénio, ou porque aprenderam a usá-lo como fonte de energia, ou porque através de fagocitose ganharam uma relação simbiótica com seres que já tinham essa capacidade, fornecendo protecção e nutrientes em troca. Os seres celulares antepassados da mitocôndria evoluíram primeiro, em relação ao aumento de percentagem de oxigénio no ar, que os seres unicelulares mais complexos, como por exemplo, os nossos antepassados, portanto estes fagocitaram os outros e ambos ganharam uma relação simbiótica que foi evoluindo, e sendo cada vez mais próxima, tornando-se cada vez mais tolerantes um com o outro. Agora não há razão para dizer que a mitocôndria é um ser vivo independente, mas sim parte de um, pois a relação simbiótica levou-a a descartar-se do DNA que a possibilitava de viver por si só, tornando-se num organelo de alto rendimento, dado só ter ficado como o DNA que codifica oligonucleótidos: house-keeping e que participam no processo de produção de ATP. A prova evidente de que a mitocôndria é descendente de bactérias é: o seu próprio DNA ser muito parecido com o das bactérias de hoje em dia: é circular e não tem intrões; a mitocôndria não tem núcleo organizado; a mitocôndria tem uma camada dupla de lipídeos, resultante da eventual fagocitose.
+
+
+== Ciclo de Krebs ==
+
+O ciclo de Krebs, ácido cítrico ou tricarboxílico, corresponde a uma série de reacções químicas que ocorrem na vida da célula e no seu metabolismo. Descoberto por Sir Hans Adolf Krebs (1900-1981).
+O ciclo é executado na mitocôndria dos eucariontes e no citoplasma dos procariontes. Trata-se de uma parte do metabolismo dos organismos aeróbicos (utilizando oxigênio da respiração celular); organismos anaeróbicos utilizam outro mecanismo, como a glicólise = outro processo de fermentação independente do oxigênio.
+O ciclo de Krebs é uma rota anfibólica, catabólica e anabólica , com a finalidade de oxidar a acetil-CoA (acetil coenzima A), que se obtém da degradação de carboidratos, ácidos graxos e aminoácidos a duas moléculas de CO2.
+
+Este ciclo inicia-se quando o piruvato que é sintetizado durante a glicólise é transformado em acetil CoA (coenzima A) por acção da enzima piruvato desidrogenase. Este composto vai reagir com o oxaloacetato que é um produto do ciclo anterior formando-se citrato. O citrato vai dar origem a um composto de cinco carbonos, o alfa-cetoglutarato, com libertação de NADH, e de CO2. O alfa-cetoglutarato vai dar origem a outros compostos de quatro carbonos com formação de GTP, FADH2, NADH e oxaloacetato. Após o ciclo de Krebs ocorre outro processo denominado fosforilação.
+O ciclo de Krebs tem 8 etapas:
+
+Formação do citrato
+Formação do isocitrato via cis-aconitato
+Oxidação do isocitrato a a-cetoglurato e CO2
+Oxidação do a-cetoglurato a succinil-CoA e CO2
+Conversão do succinil-CoA em succinato
+Oxidação do succinato a fumarato
+Hidratação do fumarato produz malato
+Oxidação do malato a oxalatoA cada volta do ciclo de Krebs são produzidos três moléculas de NADH, uma de FADH2, uma de nucleosídeo trifosfato (ATP ou GTP).
+
+
+== β-oxidação de ácidos graxos ==
+É adicionada a coenzima A (coA) aos ácidos graxos de cadeia longa, e esses ácidos graxos, chamados CoA graxos, são identificados pelo complexo proteico carnitina e assim migram para dentro da mitocôndria. Na mitocôndria, os ácidos graxos unem-se com as enzimas metabólicas, gerando assim o complexo acetil-coA.
+O piruvato, então, une-se ao complexo acetil-coA, formando-se, assim, o ácido pirúvico, que é extremamente perigoso para a célula. A sua presença em grandes quantidades pode ser mutagénico, portanto, carcinogénico (ou seja, pode provocar cancro, hanseníase, e algumas doenças respiratórias).
+
+
+== Ver também ==
+Anticorpo antimitocôndria
+
+
+== Referências ==
+
+
+== Ligações externas ==
+Biologia Celular - Mitocôndrias[ligação inativa]
+O corpo Humano - Mitocôndrias

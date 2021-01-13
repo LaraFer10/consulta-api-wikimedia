@@ -1,0 +1,25 @@
+Base nitrogenada (português brasileiro) ou base azotada (português europeu) é um composto heterocíclico contendo um heteroátomo de nitrogênio.
+As bases desse tipo são classificadas em cinco:
+
+Purinas (Adenina e Guanina), possuem duplo anel de átomos de carbono e derivam da purina.
+Pirimidinas (Citosina, Timina e Uracilo), possuem anel simples.As bases nitrogenadas se ligam covalentemente com uma pentose (um açúcar) e com um grupo fosfato. No caso das pirimidinas é o N-1; e N-9 das purinas essa ligação com a pentose é feita por uma ligação N-b-glicosídica ao carbono 1 da pentose, e o fosfato é esterificado no carbono 5. 
+Essas estruturas se organizam em pares, formando assim o DNA, caso a pentose seja a desoxirribose. As bases organizam-se aos pares (sempre Adenina-Timina, citosina-Guanina). No caso do RNA, o açúcar com que as bases se ligarão será a ribose e no lugar da Timina entrará o Uracilo (A=U e C=G).
+
+
+== Propriedades Químicas ==
+As bases nitrogenadas são compostos fracamente básicas e por isso são chamados de base. O deslocamento dos elétrons entre os átomos no anel confere а maioria das ligações caráter parcial de ligação dupla, o que, por sua vez, confere as pirimidinas e as purinas aromaticidade. Essa característica confere as bases nitrogenadas algumas formas tautoméricas, dependendo do pH do meio.
+
+Outras propriedades das bases são:
+
+Apresentam comportamento hidrofóbico próximo ao pH neutro da célula;
+Em meio ácido e alcalino as bases ficam carregadas;
+A sua solubilidade aumenta em meio ácido ou alcalino;
+As interações que ocorrem entre as bases na estrutura de ADN é via pontes de hidrogênio.
+
+
+== Emparelhamento das bases nitrogenadas ==
+
+Encontrando-se o ADN em dupla hélice, as bases, se estáveis, emparelham-se com as respectivas bases complementares: Adenina (A) com Timina (T), Citosina (C) com Guanina (G). No ADN só aparecem as bases ATCG, onde (A) pareia com (T) através de duas ligações de hidrogênio (A=T) e (G) pareia com (C) através de três ligações hidrogênio (C≡G): regra de Chargaff. A base Uracila (U) só aparece no RNA, substituindo a Timina e ligando-se com a Adenina.
+
+
+== Referências ==

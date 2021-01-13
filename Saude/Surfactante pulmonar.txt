@@ -1,0 +1,40 @@
+Durante o desenvolvimento fetal, por volta da 20ª-22ª semana de idade gestacional (IG) inicia-se a diferenciação entre as células pulmonares (pneumócitos) do tipo I e II.  Os pneumócitos do tipo II são responsáveis pela produção do surfactante pulmonar (dipalmitoilfosfatidilcolina), é uma mistura lipoproteica com propriedades tensoativas que resultam na redução da tensão superficial na interface entre o líquido presente na cavidade alveolar e o ar, evitando o colabamento das zonas terminais respiratórias. Na 20ª semana de IG inicia-se a produção do surfactante pelos pneumócitos do tipo II, porém esse surfactante é produzido em pequeno volume e em baixa qualidade para garantir uma menor resistência pulmonar em caso de um nascimento prematuro extremo. Estudos demonstram que em torno da 35ª semana de idade gestacional ocorre o pico da produção e qualidade do surfactante pulmonar resultando em um melhor prognóstico quanto a efetividade respiratória para a vida extra uterina. A produção do surfactante depende tanto da maturidade relativa dos pulmões quanto da adequada perfusão fetal, por isso fatores maternos que comprometem o fluxo sanguíneo podem levar a produção inadequada de surfactante. A Síndrome da Membrana Hialina (SMH) é a doença que acomete os recém-nascidos em resultado a uma produção inadequada de surfactante. A prematuridade é o principal fator, porém fatores maternos como diabetes gestacional, pré-eclâmpsia e alterações na placenta, também podem levar à síndrome por consequência do comprometimento na qualidade ou fluxo sanguíneo fetal. A diminuição do surfactante pulmonar aumenta a força da tensão superficial alveolar. Isto faz com que os alvéolos se tornem instáveis e colapsem, acarretando atelectasias e aumento do trabalho respiratório. Ao mesmo tempo, o aumento da tensão superficial atrai líquido dos capilares pulmonares para o interior dos alvéolos. Esses fatores comprometem o intercâmbio alvéolo-capilar resultando em hipoxemia e acidose. A acidose e hipoxemia aumentam a resistência vascular pulmonar que pode comprometer ainda mais a produção de surfactante. Muitos neonatos ainda morrem ou apresentam efeitos crônicos da SMH.
+
+
+== Função ==
+Aumentar a complacência pulmonar e consequentemente diminuir o esforço respiratório.
+Evitar atelectasia (colapso do parênquima pulmonar) no fim da expiração.
+Facilitar o recrutamento do parênquima colapsado.
+
+
+=== Deixando os alvéolos secos ===
+A tensão superficial também gera uma pressão negativa que pode sugar mais líquido dos capilares para a cavidade alveolar. Reduzindo a tensão superficial o surfactante pulmonar limita o potencial desta difusão.
+
+
+== Composição ==
+~40% dipalmitoil fosfatidilcolina (DPPC) (dipalmitoylphosphatidylcoline em inglês);
+∼40% outros fosfolipídios (PC);
+~5% proteínas (SP-A, B, C e D);
+Colesterol (lipídeos neutros);
+Traços de outras substâncias.
+
+
+=== DPPC ===
+O DPPC é um bom surfactante e se compacta melhor que outros fosfolipídios porque a parte apolar é reta e não toda dobrada, mas é muito lento para se espalhar, o que torna sua adsorção lenta. Isto ocorre principalmente porque a temperatura de transição entre a fase gel para cristal líquido do DPPC puro é de 41°C, que é maior que a temperatura do corpo humano.
+
+
+=== Proteínas SP ===
+As proteínas SP (“surfactant-associated protein”) reduzem a temperatura crítica de transição de fase do DPPC para menor que 37°C , melhoram a adsorção e a velocidade de espalhamento na interface ar-líquido . A pressão de compressão da interface provoca uma mudança de fase nas moléculas de surfactante para líquido-gel e até mesmo para gel-sólido. A rápida velocidade de adsorção é imprescindível para manter a integridade da região de troca de gases do pulmão.
+Cada preteina SP possui funções distintas e que atuam sinergeticamente para manter uma interface rica em DPPC durante a expansão e retração do pulmão. Mudanças na composição da mistura surfactante alteram as condições de pressão e temperatura para as mudanças de fase e também a forma do empacotamento (geometria do cristal) dos fosfolipídeos (VELDHUIZEN et al., 1998). Somente na fase líquida que o surfactante consegue se espalhar livremente na superfície, formando uma monocamada na interface. Mesmo assim, foi observado que se a área do pulmão aumentar de forma brusca, os cristais boiando na superfície do líquido se quebram de uma forma parecida como a ruptura de uma geleira. Durante esse período transitório, parte dos cristais se separam formando “icebergs”, que flutuam em cima de uma superfície líquida sem surfactante. As proteínas SP atraem seletivamente mais o DPPC para a interface do que os outros fosfolipídios e o colesterol, que não possuem propriedades surfactantes tão boas quanto o DPPC. Elas também seguram o DPPC na interface, impedindo que ele seja expremido para fora quando a suprfície diminui (POSSMAYER et al., 2001), o que também reduz a compressibilidade da interface .
+
+
+== Magnitude da tensão superficial no pulmão ==
+O surfactante pulmonar consegue reduzir bastante a tensão superficial entre a água e o ar. Porém seu efeito depende de sua concentração na interface. A concentração de saturação na interface depende somente da temperatura e da composição da mistura. Como durante a ventilação a superfície do pulmão sofre variações, a concentração se surfactante na interface não costuma ficar no nível de saturação. Na inspiração a superfície aumenta e abre espaço para novas moléculas de surfactante serem recrutadas para a interface. Na expiração a superfície diminui e a camada de surfactante é expremida. Quando a interface é expremida, as moléculas surfactantes ficam mais próximas umas das outras diminuindo ainda mais a tensão superficial.
+As moléculas SP contribuem para aumentar a cinética de adsorção se surfactante na interface, quando a concentração de surfactante nela é inferior à concentração de saturação. Elas também fazem ligações fracas com as moléculas de surfactante na interface e prendem o surfactante por mais tempo na interface quando ela é comprimida. Por isso, durante a ventilação a tensão superficial é inferior à tensão em equilíbrio. A tensão também aumenta e diminui junto o volume de ar nos pulmões, o que os protege de atelectasia a baixos volumes e de danos no tecido a altos níveis de volume(SCHÜRCH et al., 1992; VELDHUIZEN et al., 1998; SCHÜRCH et al., 2001).
+
+
+== História ==
+Na década de 1920 von Neergaard compreendeu claramente a propriedade do surfactante em reduzir a tensão superficial e aumentar assim a complacência pulmonar, mas a significância de sua descoberta não foi entendida pela comunidade científica e médica daquela época. Von Neergard também percebeu a importância de se ter baixa tensão superficial em pulmões recém nascidos. Então no meio da década de 1950 Clements e Pattle redescobriram a importância do surfactante e da baixa tensão superficial nos pulmões. No final desta mesma década descobriu-se que a insuficiência de surfactante causava a síndrome da angústia respiratória do recém-nascido (SARRN) (VELDHUIZEN et al., 1998).
+
+
+== Referências ==

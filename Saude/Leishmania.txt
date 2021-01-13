@@ -1,0 +1,85 @@
+Leishmania é um gênero de protozoários da família Trypanosomatidae, que inclui os parasitas causadores das leishmanioses. O gênero é dimórfico, possuindo duas formas principais, a forma amastigota é intracelular e encontrada no hospedeiro vertebrado e a promastigota é a forma flagelada presente no vetor. O ciclo de vida é heteroxênico, com um hospedeiro invertebrado e outro vertebrado. As diferentes espécies são transmitidas através de flebótomos do gênero Phlebotomus, no Velho Mundo, ou do gênero Lutzomyia no Novo Mundo. Seus hospedeiros primários são mamíferos e répteis, afetando principalmente, dependendo da espécie, edentados, híraces, roedores, canídeos e humanos.
+
+
+== Morfologia ==
+
+O gênero compreende parasitas dimórficos que apresentam dois estágios morfológicos principais: o amastigota intracelular, no sistema fagocítico mononuclear do hospedeiro vertebrado, e o promastigota flagelado, no trato intestinal do inseto vetor e em meios de cultura.A forma amastigota possui formato esférico a ovoide e o tamanho varia de acordo com a espécie, ficando entre 1,5 - 3 por 3 - 5,5 micrômetros. Possui um núcleo esférico localizado em um dos lados, um cinetoplasto em forma de bastão, geralmente próximo ao núcleo, e um flagelo interno rudimentar. A forma promastigota é alongada, com aspecto fusiforme ou piriforme, com um flagelo livre na região anterior. O tamanho é variável, mesmo dentro de uma mesma espécie, e depende do estadio da forma promastigota (procíclico ou metacíclico), medindo entre 16 - 40 por 1,5 - 3 micrômetros. O núcleo esférico geralmente se encontra na região central da célula, mas pode variar de posição. O cinetoplasto afina na região anterior.A morfologia dentro do gênero é bastante conservada, havendo apenas variações no tamanho das formas amastigotas em algumas.
+
+
+== Biologia ==
+O ciclo de vida do parasita é heteroxênico, necessitando de dois tipos de hospedeiro, um inseto e outro vertebrado. A Leishmania é transmitida para o vertebrado através da picada da fêmea de um inseto  da subfamília Phlebotominae (Diptera:Psychodidae), que é hematófaga. Durante o repasto sanguíneo de uma fêmea de flebotomíneo infectada em um hospedeiro vertebrado, as promastigotas metacíclicas são regurgitados e o dano causado pelo aparelho bucal do vetor recruta células de defesa para o local da picada, dando início à fagocitose dos parasitos.O inseto injeta sangue com a forma infecciosa, os promastigotas, no vertebrado. Os promastigotas são fagocitadas principalmente por macrófagos, onde são internalizadas em um vacúolo parasitóforo e se diferenciam em amastigotas. Estas se multiplicam por divisão binária simples aumentando o número de parasitos no interior do macrófago, que pela quantidade de amastigotas e pela destruição citoplasmática produzida, rompe-se liberando os parasitas no meio intercelular ou corrente sanguínea, fazendo com que outras células sejam infectadas. O inseto se contamina ao ingerir sangue com células parasitadas por amastigotas. 
+No intestino do vetor, os parasitas são liberados e se transformam em promastigotas. Essas formas se multiplicam por mitose no intestino médio ou posterior, dependendo da espécie da Leishmania, atravessam a membrana peritrófica (que rodeia a refeição sanguínea), fixam-se na parede do intestino do vetor e, eventualmente, migram para a válvula estomodeal do vetor, onde formam um tampão que degrada a válvula e impede a ingestão. O inseto, ao realizar outra refeição, é obrigado a ejetar os promastigotas para a pele, de modo a conseguir ingerir sangue, completando, assim, o ciclo.
+
+
+== Taxonomia ==
+O gênero foi descrito em 1903 por Ronald Ross com o nome de Leishmania, homenageando o patologista escocês William Boog Leishman. Ross também renomeou a espécie Piroplasma donovani, descrita por Alphonse Laveran e Félix Mesnil no mesmo ano, para Leishmania donovani, fazendo dela a espécie-tipo para o gênero. Leishman ao observar as formas amastigotas do parasita considerou-o relacionado com os tripanossomos. Ross discordou da hipótese e relacionou o agente a Sporozoa, já Laveran achava que se tratava de um Piroplasma. Somente quando Leonard Rogers conseguiu cultivar o parasita em meio de cultura é que descobriu-se a forma flagelada da Leishmania, comprovando as ideias iniciais de Leishman.O gênero Leishmania (Ross, 1903) pertence ao Filo Euglenozoa, Classe Kinetoplastea (Honigberg, 1963 emenda Vickerman,1976), Subclasse Metakinetoplastina (Vickerman, 1976), Ordem Trypanosomatida (Kent, 1880), Família Trypanosomatidae (Doflein, 1901) e Subfamília Leishmaniinae (Maslov e Lukes, 2012 emenda Espinosa, 2016).A taxonomia de Leishmania inicialmente era baseada em parâmetros extrínsecos como distribuição geográfica, vetores, trofismo, propriedades antigênicas, sintomatologia em humanos e desenvolvimento no vetor e em meios de cultura. Entretanto, esses critérios se mostraram frequentemente inadequados. Com o avanço das técnicas moleculares, características bioquímicas, genéticas e imunológicas passaram a ser consideradas para a identificação das espécies e estabelecimento das relações filogenéticas, porém as definições de espécies e subespécies, assim como seus agrupamentos em complexos, está sempre em constante revisão.
+Aproximadamente 53 espécies já foram descritas para o gênero Leishmania (desconsiderando as sinonímias), dessas, 31 são capazes de parasitar mamíferos e cerca de 20 já foram incriminados como patógenos humanos.O gênero está dividido em quatro subgêneros, Leishmania, Viannia, Mundinia e Sauroleishmania. Sauroleishmania é considerado por alguns pesquisadores como um gênero distinto, entretanto, análises moleculares confirmam a sua manutenção como um subgênero dentro de Leishmania. Os subgêneros foram inicialmente propostos em 1982 por Saf'janova que classificou as espécies dividindo-as em dois subgêneros baseando-se em características biológicas, Leishmania para os parasitas de mamíferos e Sauroleishmania para os de répteis.Em 1987, Lainson e Shaw propuseram a classificação de Leishmania em subgêneros de acordo com o local de desenvolvimento dos parasitos no trato digestivo do flebotomíneo. As espécies que colonizavam as porções do intestino médio anteriores ao piloro são consideradas suprapilárias, e pertencem ao subgênero Leishmania. As espécies que estabelecem uma infecção inicial na região posterior do trato digestivo, na região pilórica e na porção abdominal do intestino médio são ditas peripilárias, e pertencem ao subgênero Viannia. Parasitos com desenvolvimento do tipo hipopilárico são restritos ao intestino posterior e compõe o subgênero Sauroleishmania.Posteriormente, Copulillo et al. (2000) propuseram a divisão do gênero Leishmania em dois grupos, Euleishmania e Paraleishmania. O grupo Euleishmania engloba os subgêneros Leishmania, Viannia, Sauroleishmania e o complexo Leishmania enriettii, enquanto o grupo Paraleishmania é composto por L. hertigi, L. deanei, L. herreri, L. equatorensis e L. colombiensis, juntamente com o gênero Endotrypanum. Esse gênero é considerado grupo irmão de Leishmania, entretanto sua posição taxonômica ainda é pouco compreendida. As linhagens descritas foram isoladas de preguiças e possuem ciclo de vida com desenvolvimento intraeritrocítico com formas epimastigotas ou tripomastigotas, porém análises moleculares indicam que L. hertigi, L. deanei, L. herreri possuem uma maior proximidade genética com Endotrypanum do que com as espécies patogênicas de Leishmania. Dos membros do grupo Paraleishmania, apenas L. colombiensis foi confirmada como patogênica para humanos, causando tanto a forma cutânea, quanto a visceral da leishmaniose. As demais espécies têm como hospedeiros preguiças ou porcos-espinhos. Paraleishmania é um grupo polifilético e sua história evolutiva ainda não está bem resolvida. Das 53 espécies de Leishmania, 29 ocorrem no Velho Mundo, 20 no Novo Mundo, três em ambos. As espécies do subgenero  Mundinia ocorre na Velho Mundo, Novo Mundo e Austrália. O subgênero Viannia é restrito ao Neotrópico, possui nove espécies que causam as formas cutânea e mucocutânea da doença. O subgênero Leishmania contém treze espécies e ocorre tanto no Novo Mundo, quanto no Velho Mundo. Possui espécies causadoras das formas visceral, cutânea, cutânea difusa, mucocutânea e dérmica pós calazar. O subgênero Sauroleishmania possui 21 espécies de parasitos exclusivos de lagartos e exclusivos do Velho Mundo.No Brasil, 8 espécies já foram identificadas, sendo 6 do subgênero Viannia e duas do subgênero Leishmania. A Leishmaniose Tegumentar Americana (LTA) é causada principalmente por L. (V) braziliensis, L. (V) guyanensis e L. (L) amazonensis. Já a Leishmaniose visceral é causada por L. (L) infantum. Previamente chamada de L. chagasi, a linhagem presente no Novo Mundo foi identificada como pertencente a mesma espécie presente na Europa, tendo sido trazida para a América durante a colonização, cerca de 500 anos atrás, provavelmente através de cães e ratos infectados. Sendo assim, L. chagasi foi sinonimizada com L. infantum, permanecendo o nome mais antigo.Classificação simplificada do gênero Leishmania:
+Seção EuleishmaniaSubgênero Leishmania Ross, 1903 sensu Saf'janova, 1982
+Complexo Leishmania donovani
+Leishmaniose donovani (Laveran & Mesnil, 1903)
+Leishmania infantum Nicolle, 1908 (inclui chagasi Cunha & Chagas, 1937)
+Leishmania archibaldi Castellani & Chalmers, 1919 (disputada)
+Complexo Leishmania tropica
+Leishmania tropica (Wright, 1903)
+Leishmania aethiopica Bray, Ashford & Bray, 1973
+Leishmania killicki Rioux, Lamotte & Pratlong, 1986
+Complexo Leishmania major
+Leishmania major Yakimoff & Schokhor, 1914
+Leishmania gerbilli Wang, Qu & Guan, 1964
+Leishmania arabica Peters, Elbihari & Evans, 1986
+Leishmania turanica Strelkova, Peters & Evans, 1986
+Complexo Leishmania mexicana
+Leishmania mexicana Biagi, 1953 (inclui pifanoi Medina & Romero, 1959)
+Leishmania amazonensis Lainson & Shaw, 1972 (inclui garnhami Scorza et al., 1979)
+Leishmania aristidesi Lainson & Shaw, 1979
+Leishmania venezuelensis Bonfante-Garrido, 1980
+Leishmania forattinii Yoshida, Cuba, Pacheco, Cupolillo, Tavares, Machado, Homen & Grimaldi, 1993
+Leishmania waltoni Shaw, Pratlong & Dedet 2015
+Subgênero Mundinia Shaw, Camargo & Teixeira 2016
+Leishmania enriettii Muniz & Medina, 1948
+Leishmania martiniquensis Desbois, Pratlong, Quist and Dedet,2014
+Leishmania macropodum Barratt, Kaufer, Peters, Craig, Lawrence, Roberts, Lee, McAuliffe, Stark, Ellis, 2017
+Leishmania orientalis Jariyapan, Daroontum, Jaiwong, Chanmol,.Intakhan, Sor-Suwan, Siriyasatien, Somboon, Bates, Bates, 2018
+Subgênero Viannia Lainson & Shaw, 1987
+Complexo Leishmania braziliensis
+Leishmania braziliensis Vianna, 1911
+Leishmania peruviana Velez, 1913
+Complexo Leishmania guyanensis
+Leishmania guyanensis Floch, 1954
+Leishmania panamensis Lainson & Shaw, 1972
+Leishmania shawi Lainson, Braga & de Souza, 1989
+Leishmania naiffi Lainson & Shaw, 1989
+Leishmania lainsoni Silveira, Shaw, Braga & Ishikawa, 1987
+Leishmania lindenbergi Silveira, Ishikawa & de Souza, 2002
+Leishmania utingensis Braga, Lainson, Ishikawa et al., 2003
+Subgênero Sauroleishmania Ranque, 1973 sensu Saf'janova, 1982
+Leishmania tarentolae Wenyon, 1921
+Leishmania gymmnodactyli Khodukin & Sofiev, 1940
+Leishmania adleri Heisch, 1958
+Leishmania hoogstraali McMillan, 1965
+Leishmania guliki Ovezmukhammedov & Saf'janova, 1987
+Leishmania zuckermani Paperna, Boulard, Hering-Hagenbeck & Landau, 2001
+Leishmania platycephala Telford, 2009
+Seção ParaleishmaniaPorcisia hertigi (Herrer, 1971)
+Porcisia deanei (Lainson & Shaw, 1977)
+Endotrypanum schaudinni Mesnil and Brimont, 1908
+Endotrypanum monterogeii Shaw, 1969
+Endotrypanum herreri (Zeledon, Ponce & Murillo, 1979)
+Endotrypanum colombiensis (Kreutzer, Corredor, Grimaldi, Grogl, Rowton, Young, Morales, McMahon-Pratt, Guzman & Tesh, 1991)
+Endotrypanum equatorensis (Grimaldi, Kreutzer, Hashiguchi, Gomez, Mimory & Tesh, 1992)
+
+
+== Patologia ==
+As espécies do gênero determinam doenças do sistema fagocítico mononuclear causando as patologias denominadas como leishmanioses. Em vista das doenças apresentarem características clínicas e epidemiológicas diversas em cada área geográfica foram consideradas entidades distintas, sendo agrupadas em cinco grupos: leishmaniose cutânea, leishmaniose mucocutânea, leishmaniose cutânea difusa, leishmaniose visceral e leishmaniose dérmica pós-calazar.
+
+
+== Bancos de dados sobre Leishmania ==
+[1]LeishDB - O leishDB é um banco de dados de anotações dos organismos do gênero Leishmania.
+
+
+== Referências ==
+
+Pararasitologia Médica; Markell, John, Krotoski; 8º edição; Guanabara Koogan; 2003.
+
+
+== Ligações externas ==

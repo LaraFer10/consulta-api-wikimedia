@@ -1,0 +1,66 @@
+A genisteína é um fitoestrogênio da formula C15H10O5 que pertence à categoria das isoflavonas. A genisteína foi isolada pela primeira vez em 1899 a partir da vassoura-de-tintureiro, Genista tinctoria; daí, o nome químico derivado do genérico. O composto do núcleo foi estabelecido em 1926, quando se verificou ser idêntico prunetol. Foi sintetizado quimicamente em 1928.
+
+
+== Ocorrências naturais ==
+Isoflavonas como a genisteína e daidzeína são encontrados em uma série de plantas, incluindo tremoço, fava, soja, kudzu e psoralea ,sendo a principal fonte de alimento,também nas plantas fitoterapicas, Flemingia vestita  Macrophylla e café. Também pode ser encontrada na Maackia amurensis e culturas celulares.
+
+
+== Extracção e purificação ==
+A maioria das isoflavonas nas plantas estão presentes numa forma glicosilada. As formas não glicosiladas agliconas pode ser obtidas através de diversos meios, tais como o tratamento com o enzima glicosidase-β, o tratamento de feijões de soja, seguido por extracção com solvente ácido, ou por meios químicos como a synthesia. O tratamento com ácido é um método rigoroso como ácidos inorgânicos concentrados são utilizados. Tanto o tratamento enzimático quanto a síntese química são dispendiosos. Um processo mais econômico que consiste de fermentação para a in situ, é a produção de β-glicosidase para isolar genisteína que foi investigado recentemente.
+
+
+== Efeitos biológicos ==
+Além de funcionar como antioxidante e anti-helmínticos , muitas isoflavonas têm sido mostradas para interagir com animais e humanos nos receptores de estrogênios, causando efeitos no corpo semelhantes às causadas pelo hormônio estrogênio natural. As isoflavonas também produzem efeitos não-hormonais.
+
+
+=== Funções biomoleculares ===
+A genisteína influencia várias funções bioquímicas em células vivas:
+
+agonista total de ERβ (EC50 = 7,62 nM) e, em muito menor extensão (~ 20 vezes), agonista total ou agonista parcial de ERα
+agonista do receptor de estrogênio acoplado à proteína G (afinidade de 133 nM)
+ativação de receptores ativados por proliferadores de peroxissoma (PPARs)
+inibição de várias tirosina quinases
+inibição da topoisomerase
+inibição de AAAD
+antioxidação direta com alguns recursos proxidativos
+ativação da resposta antioxidante Nrf2
+estimulação da autofagia
+inibição do transportador de hexose de mamífero GLUT1 contração de vários tipos de músculos lisos modulação do canal CFTR, potencializando sua abertura em baixa concentração e inibindo-o em doses maiores.
+inibição da metilação da citosina inibição da DNA metiltransferase
+inibição do receptor de glicina
+inibição do receptor nicotínico de acetilcolina
+
+
+=== Ativação de PPARs ===
+As isoflavonas genisteína e daidzeína ligam-se e transativam todas as três isoformas PPAR, α, δ e γ. Por exemplo, o ensaio de ligação do PPARγ ligado à membrana mostrou que a genisteína pode interagir diretamente com o domínio de ligação do ligante PPARγ e tem um Ki mensurável de 5,7 mM. Ensaios de repórter do gene mostraram que a genisteína em concentrações entre 1 e 100 uM ativou PPARs de uma forma dependente da dose em células progenitoras mesenquimais KS483, células MCF-7 de câncer de mama, células T47D e células MDA-MD-231, células RAW 264.7 semelhantes a macrófagos murinos , células endoteliais e em células Hela. Vários estudos mostraram que ambos os ERs e PPARs influenciam um ao outro e, portanto, induzem efeitos diferenciais de uma forma dependente da dose. Os efeitos biológicos finais da genisteína são determinados pelo equilíbrio entre essas ações pleiotróficas.
+
+
+=== Inibidor da tirosina quinase ===
+A principal atividade conhecida de genisteína é inibidor da tirosina quinase , a maioria de receptor do fator de crescimento epidérmico (EGFR). Tirosina quinases são menos difundido do que o seu ser / thr homólogos, mas implicado em quase todo o crescimento celular e cascatas de sinais de proliferação.
+
+
+=== Redox-ativo—Não apenas antioxidante ===
+A genisteína pode atuar como antioxidante direto, semelhante a muitas outras isoflavonas e, portanto, pode aliviar os efeitos danosos dos radicais livres nos tecidos.A mesma molécula de genisteína, semelhante a muitas outras isoflavonas, por geração de radicais livres envenena a topoisomerase II, uma enzima importante para manter a estabilidade do DNA.As células humanas ativam o fator Nrf2 de desintoxicação benéfico em resposta ao insulto da genisteína. Esta via pode ser responsável pelas propriedades de manutenção da saúde observadas de pequenas doses de genisteína.
+
+
+=== Anti-helmíntico ===
+O extrato de casca de tubérculo de raiz da planta leguminosa Felmingia vestita é o anti-helmíntico tradicional das tribos Khasi da Índia. Durante a investigação de sua atividade anti-helmíntica, descobriu-se que a genisteína é a principal isoflavona responsável pela propriedade de desparasitação. A genisteína foi subsequentemente demonstrada ser altamente eficaz contra parasitas intestinais, como o cestódeo de aves Raillietina echinobothrida, o trematódeo de porco Fasciolopsis buski, e o verme de fígado de ovelha Fasciola hepatica.Ele exerce sua atividade anti-helmíntica inibindo as enzimas da glicólise e glicogenólise, e perturbando a homeostase do Ca2+ e a atividade do NO nos parasitas. Também foi investigado em tênias humanas, como Echinococcus multilocularis e E. granulosus metacestodes, que a genisteína e seus derivados, Rm6423 e Rm6426, são cestocidas potentes.
+
+
+=== Receptor de estrógeno ===
+Devido à sua estrutura similar a 17-β-estradiol (estrogênio), a genisteína pode competir com ela e se ligar aos receptores de estrogênio. No entanto, a genisteína demonstra maior afinidade ao receptor de estrogênio β do que ao receptor de estrogénio α.Dados de pesquisas in vitro e in vivo confirmam que a genisteína pode aumentar a taxa de crescimento de alguns cânceres de mama que expressam RE. Foi descoberto que a genisteína aumenta a taxa de proliferação de câncer de mama dependente de estrogênio quando não co-tratada com um antagonista de estrogênio. Ela também diminuiu a eficiência do tamoxifeno e do letrozol - medicamentos comumente usados ​​na terapia do câncer de mama.  Descobriu-se que a genisteína inibe a resposta imunológica às células cancerosas, permitindo sua sobrevivência.
+
+
+=== Efeitos no sexo masculino ===
+As isoflavonas podem atuar como fitoestrógeno em mamíferos, podendo causar efeitos estrogênicos e/ou antiestrogênicos. Estudos in vitro têm demonstrado que a genisteína induzir apoptose das células testiculares em certos níveis, elevando preocupações sobre os efeitos que poderia ter sobre a fertilidade masculina; entretanto, um estudo descobriu que as isoflavonas não tiveram "nenhum efeito observável nas medições endócrinas, volume testicular ou parâmetros de sêmen durante o período de estudo" em homens saudáveis ​​que receberam suplementos de isoflavona diariamente durante um período de 2 meses.
+
+
+=== Potencial cancerígeno e tóxico ===
+A genisteína foi, entre outros flavonóides, considerada um forte inibidor da topoisomerase, de forma semelhante a algumas drogas quimioterápicas anticâncer. etoposídeo e doxorrubicina. Em altas doses, ele foi fortemente tóxico para células normais. Esse efeito pode ser responsável pelo potencial anticarcinogênico e carcinogênico da substância. Descobriu-se que ele deteriora o DNA de células-tronco do sangue em cultura, o que pode causar leucemia. Suspeita-se que a genisteína entre outros flavonóides aumenta o risco de leucemia infantil quando consumida durante a gravidez.
+
+
+=== Tratamento da Síndrome de Sanfilippo ===
+A genisteína diminui a acumulação patológica de glicosaminoglicanos na síndrome de Sanfilippo. in vitro os estudos clínicos e experiências com animais sugerem que os sintomas da doença podem ser atenuadas por dose adequada de genisteína. A genisteína foi encontrada também possuem propriedades tóxicas em relação a células do cérebro. Entre muitas vias estimuladas por genisteína, autofagia pode explicar a eficácia observada da substância como autofagia é significativamente prejudicada na doença.
+
+
+== Referências ==

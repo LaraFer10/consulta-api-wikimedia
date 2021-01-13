@@ -1,0 +1,231 @@
+O modelo Hindmarsh–Rose é um modelo de atividade neuronal que tem como objetivo estudar o comportamento de rajada de disparos do potencial de membrana observado em experimentos feitos com um único neurônio. A variável relevante é o potencial de membrana, x(t), que é escrito em unidades adimensionais. Há mais duas variáveis, y(t) e z(t), que leva em conta o transporte de íons através da membrana por meio de canais de íons. O transporte de íons de sódio e potássio é feito por canais iônicos rápidos e a sua taxa é medida por y(t), que é chamada de variável de spiking. O transporte de outros íons é feito através de canais lentos, e é representado por z(t), que é chamado de variável de rajada. Então, o modelo Hindmarsh–Rose tem a forma matemática de um sistema de três equações diferenciais ordinárias não-lineares nas variáveis dinâmicas adimensionais x(t), y(t) e z(t), que podem ser escritas como:
+
+  
+    
+      
+        
+          
+            
+              
+                
+                  
+                    
+                      d
+                      x
+                    
+                    
+                      d
+                      t
+                    
+                  
+                
+              
+              
+                
+                =
+                y
+                +
+                ϕ
+                (
+                x
+                )
+                −
+                z
+                +
+                I
+                ,
+              
+            
+            
+              
+                
+                  
+                    
+                      d
+                      y
+                    
+                    
+                      d
+                      t
+                    
+                  
+                
+              
+              
+                
+                =
+                ψ
+                (
+                x
+                )
+                −
+                y
+                ,
+              
+            
+            
+              
+                
+                  
+                    
+                      d
+                      z
+                    
+                    
+                      d
+                      t
+                    
+                  
+                
+              
+              
+                
+                =
+                r
+                [
+                s
+                (
+                x
+                −
+                
+                  x
+                  
+                    R
+                  
+                
+                )
+                −
+                z
+                ]
+                ,
+              
+            
+          
+        
+      
+    
+    {\displaystyle {\begin{aligned}{\frac {dx}{dt}}&=y+\phi (x)-z+I,\\{\frac {dy}{dt}}&=\psi (x)-y,\\{\frac {dz}{dt}}&=r[s(x-x_{R})-z],\end{aligned}}}
+  onde
+
+  
+    
+      
+        
+          
+            
+              
+                ϕ
+                (
+                x
+                )
+              
+              
+                
+                =
+                −
+                a
+                
+                  x
+                  
+                    3
+                  
+                
+                +
+                b
+                
+                  x
+                  
+                    2
+                  
+                
+                ,
+              
+            
+            
+              
+                ψ
+                (
+                x
+                )
+              
+              
+                
+                =
+                c
+                −
+                d
+                
+                  x
+                  
+                    2
+                  
+                
+                .
+              
+            
+          
+        
+      
+    
+    {\displaystyle {\begin{aligned}\phi (x)&=-ax^{3}+bx^{2},\\\psi (x)&=c-dx^{2}.\end{aligned}}}
+  O modelo tem oito parâmetros: a, b, c, d, r, s, xR e I. É comum fixar alguns deles e deixar que os outros sejam parâmetros de controle, normalmente, o parâmetro I, o que significa que a corrente que entra no neurônio é tomada como um parâmetro de controle. Outros parâmetros de controle utilizados frequentemente são a, b, c, d ou r, os quatro primeiros modelando o trabalho dos canais de íons rápidos e o último, os canais de íons lentos, respectivamente. Com freqüência, os parâmetros mantidos fixos são s = 4 e xR = -8/5. Quando a, b, c, d são fixos, os valores apresentados são a = 1, b = 3, c = 1 e d = 5. O parâmetro r é algo da ordem de 10-3, e I gira entre -10 e 10.
+A terceira equação de estado:
+
+  
+    
+      
+        
+          
+            
+              
+                
+                  
+                    
+                      d
+                      z
+                    
+                    
+                      d
+                      t
+                    
+                  
+                
+              
+              
+                
+                =
+                r
+                [
+                s
+                (
+                x
+                −
+                
+                  x
+                  
+                    R
+                  
+                
+                )
+                −
+                z
+                ]
+                ,
+              
+            
+          
+        
+      
+    
+    {\displaystyle {\begin{aligned}{\frac {dz}{dt}}&=r[s(x-x_{R})-z],\\\end{aligned}}}
+  permite uma grande variedade de comportamentos dinâmicos do potencial de membrana, descritos pela variável x, incluindo um comportamento imprevisível, que é conhecido como dinâmica caótica. Isso torna o modelo Hindmarsh–Rose relativamente simples e fornece uma boa descrição qualitativa dos muitos padrões diferentes que são observados empiricamente.
+
+
+== Veja também ==
+Modelos de disparos neuronais
+Modelo de Hodgkin–Huxley
+Neurociência computacional
+Onda cerebral
+
+
+== Referências ==

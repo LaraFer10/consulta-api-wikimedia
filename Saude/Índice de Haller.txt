@@ -1,0 +1,34 @@
+O índice de Haller, criado em 1987 pelo Dr. Haller, Dr. Kramer e Dr. Lietman, é uma relação matemática que existe em uma seção do tórax humano observada com uma tomografia computadorizada. Um índice normal de Haller deve ser de cerca de 2,5. As deformidades da parede torácica, como a pectus excavatum, podem fazer com que o esterno se inverta, aumentando assim o índice, que pode chegar a 3,25 ou mesmo a 5,5ref>Swoveland, Barbara (2001). «Haller ranges». AORN Journal </ref>. É definida como a relação entre o diâmetro transversal (a distância horizontal do interior da caixa torácica) e o diâmetro ântero-posterior (a menor distância entre as vértebras e o esterno).
+
+
+== Definição matemática ==
+O índice de Haller pode ser descrito pela seguinte equação:
+
+  
+    
+      
+         
+        H
+        I
+        =
+        
+          
+            Δ 1
+            Δ 2
+          
+        
+      
+    
+    {\displaystyle \ HI={\frac {\text{Δ 1}}{\text{Δ 2}}}}
+  Onde:
+
+ 'HI'  é o índice de Haller
+ Δ 1  é a distância da caixa torácica interna (no nível de deformidade máxima ou no terço inferior do esterno)
+ Δ 2  é a distância entre o entalhe esternal e as vértebras.
+
+
+== Recomendação ==
+Estudos mais recentes mostram que as radiografias simples de tórax são tão eficazes quanto as tomografias computadorizadas para o cálculo do índice de Haller e recomendam a substituição de tomografia computadorizada por radiografia torácica para reduzir a exposição à radiação em todas as deformidades ordinárias.
+
+
+== Referências ==

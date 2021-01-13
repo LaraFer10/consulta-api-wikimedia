@@ -1,0 +1,62 @@
+Biotransformação, transformação metabólica ou bioconversão é o processo em que substâncias como fármacos, nutrientes, dejetos e toxinas dentro de um organismo, passam por reações químicas, geralmente mediadas por enzimas, que o convertem em um composto diferente do originalmente administrado.
+
+
+== Fármacos e toxinas ==
+Os fármacos (remédios) e toxinas mais lipossolúveis necessitam ser transformados em hidrossolúveis antes da excreção. A biotransformação se processa principalmente no fígado e consiste em carregar eletricamente o fármaco (Polarização) para que, ao passar pelos túbulos renais, não seja reabsorvido.Esse processo geralmente inativa o fármaco, pois, além de modificar pontos fundamentais de sua estrutura, diminui a possibilidade de que chegue aos tecidos com seus receptores. A biotransformação é nesse caso uma fase da excreção. Algumas vezes, entretanto, originam-se metabólitos ativos ou até mais ativos que o fármaco administrado, então denominado pró-fármaco.Quando esse processo resulta em drogas ou toxinas menos ativos e menos tóxicos é também chamado de desintoxicação, porém algumas vezes o produto se torna mais tóxico e ativo e o processo é chamado de bioativação. Um exemplo é a metabolização de cloreto de vinilo em cloreto de vinilo epóxido, que interage com RNA e DNA e causa câncer de fígado.
+
+
+== Reações ==
+Os mecanismos de biotransformação envolvem uma série de reações químicas dependentes das enzimas hepáticas. Um fármaco pode sofrer uma ou mais transformações até que se produza um derivado com real possibilidade de excreção. Nessa segunda circunstância, a primeira reação é preparatória, produzindo um composto intermediário que ainda deverá sofrer nova reação, gerando-se ao final um metabólitos ativos ou inativos.
+
+
+=== Fase I ===
+Neste tipo de reações, um grupo polar pequeno ou é introduzido ou exposto de modo que a molécula do fármaco torna-se mais solúvel em água e menos ativo para poder ser excretado. Inclui:
+
+Oxidação
+Redução
+Reações hidrolíticas
+Acetilação
+Metilação
+DessulfurizaçãoA maioria dos metabolitos são gerados por um sistema de enzima de hidroxilação conhecido como citocromo P450.
+Após a fase I podem originar metabólitos ativos ou inativos.
+
+
+=== Fase II ===
+Estas reações envolvem a ligação covalente de uma molécula endógena polar para formar compostos solúveis em água, tais como:
+
+Conjugação com ácido glucurônico (mais comum)
+Conjugação com sulfato(importante)
+Conjugação com glutationa
+Conjugação com aminoácidosApós a fase II, a grande maioria dos fármacos está inativada.
+Isto também é conhecida como uma reação de conjugação. Os compostos finais têm um peso molecular maior.
+As conjugações se fazem usualmente com ácidos glicorônico e sulfúrico e podem ocorrer sem reações de fase I. A velocidade das acetilações depende de um traço herdado que se denomina fenótipo acetilador.
+
+
+== Capacidade de biotransformação ==
+A capacidade de biotransformação pode ser alterada em algumas situações fisiológicas de período:
+
+Neonatal
+Gestação
+VelhiceOu patologias como:
+
+Cirrose
+Hepatite
+Tumores
+Insuficiência cardíaca
+Desnutrição
+Alcoolismo
+
+
+== Interação farmacológica ==
+Alguns fármacos podem influenciar a biotransformação (própria e de outros fármacos lipossolúveis), diminuindo-a (inibidores metabólicos) ou aumentando-a (estimuladores metabólicos). No segundo caso haverá maior permanência do fármaco ativo, com eventual aumento de toxidade, principalmente durante administração crônica.
+Com a indução enzimática, acelera-se a biotransformação, acarretando redução em intensidade e duração da resposta farmacológica.
+A duração do efeito terapêutico pode exceder a meia-vida de fármacos que gera metabólitos ativos. No caso de pró-fármacos, precursores sem atividade farmacológica ou que atingem o plasma em quantidades muitos pequenas, os metabólitos ativos são os responsáveis pela atividade farmacológica.
+O fígado ainda é capaz de excretar ativamente fármacos por meio da bílis para o lúmen intestinal, onde podem ser reabsorvidos pelo circuito êntero-hepático ou excretados pelas fezes. A reintrodução de composto ativo na circulação sistêmica pode prolongar os efeitos farmacológicos. Por essa via se excretam fármacos de alto peso molecular, os muito polares e aqueles que são ativamente englobados em micelas de sais biliares, colesterol e fosfolipídios.
+O fígado é o principal órgão metabolizador através de suas enzimas do grupo (P450).
+
+
+== Bibliografia ==
+Farmacologia clínica para Dentistas; Lenita Wannmacher, Maria Beatriz Cardoso Ferreira; Guanabara Koogan; 2º edição; 1999.
+
+
+== Referências ==

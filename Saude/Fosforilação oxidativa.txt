@@ -1,0 +1,700 @@
+A fosforilação oxidativa é uma via metabólica que utiliza energia libertada pela oxidação de nutrientes de forma a produzir trifosfato de adenosina (ATP). O processo refere-se à fosforilação do ADP em ATP, utilizando para isso a energia libertada nas reacções de oxidação-redução.
+Durante a fosforilação oxidativa, existe transferência de electrões de doadores electrónicos (moléculas redutoras) a aceitadores electrónicos (moléculas oxidantes), tais como o dioxigénio, numa reação de oxido-redução. As transferências de eletrões constituem estas reações de oxido-redução, que se processam com libertação de energia, biologicamente aproveitável para a biossíntese de ATP. Em eucariontes, tais reações redox são feitas por cinco complexos principais de proteínas mitocondriais, enquanto que em procariontes, diferentes proteínas localizam-se na membrana interna da célula, dependendo o tipo de enzima utilizado dos aceitadores e doadores electrónicos. Ao conjunto de complexos proteicos envolvidos nestas reações chama-se cadeia de transporte electrónico.
+A energia derivada do transporte de electrões é convertida numa força motriz protónica e é principalmente utilizada para bombear protões para o exterior da matriz mitocondrial. Este processo é denominado quimiosmose e origina energia potencial sob a forma de um gradiente de pH (ou seja, uma concentração diferente de protões dentro e fora da mitocôndria) e de potencial elétrico através da membrana. A energia é utilizada ao permitir-se o fluxo de protões a favor do gradiente de concentração através da enzima ATP sintase.
+Embora a fosforilação oxidativa seja uma parte vital do metabolismo, produz espécies reactivas de oxigénio tais como o superóxido e o peróxido de hidrogénio, que induzem a propagação de radicais livres, danificando componentes celulares (por exemplo, oxidando proteínas e lípidos de membrana) e contribuindo para processos de envelhecimento celular e patologias. Existem também diversos venenos e medicamentos que têm como alvo as enzimas desta via metabólica, inibindo a sua atividade.
+
+
+== História ==
+O campo de estudo da fosforilação oxidativa iniciou-se em 1906, com a divulgação por Arthur Harden de um papel vital do fosfato na fermentação celular, embora fossem conhecidos apenas então fosfatos de açúcares. A ligação entre a oxidação de açúcares e a síntese de ATP foi firmemente estabelecida no início da década de 1940 do século XX por Herman Kalckar, confirmando-se o papel central do ATP na transferência de energia proposto por Fritz Albert Lipmann em 1941. Mais tarde, em 1949, Morris Friedkin e Albert L. Lehninger provaram que a coenzima NADH ligava vias metabólicas tais como o ciclo do ácido cítrico e a síntese de ATP. Durante as duas décadas seguintes permaneceu incógnito o mecanismo de produção do ATP, tendo havido a procura de um elusivo "intermediário de alta energia" que ligaria a oxidação às reacções de fosforilação. Este problema foi resolvido por Peter D. Mitchell com a publicação da teoria quimiosmótica em 1961. A proposta foi inicialmente controversa, mas foi lentamente aceite e Mitchell recebeu um prémio Nobel pelos seus estudos em 1978. A investigação que se seguiu neste campo concentrou-se na purificação e caracterização das enzimas desta via, havendo contribuições importantes por David Ezra Green nos complexos da cadeia de transporte electrónico e Efraim Racker na ATP sintase.Importantes passos em direcção à descoberta do mecanismo da ATP sintase foram dados por Paul D. Boyer com a sua proposta do mecanismo "ligação-modificação" em 1973 e de catálise envolvendo rotação em 1982. O trabalho mais recente no campo da fosforilação oxidativa inclui estudos estruturais das enzimas desta via por John E. Walker tendo Walker e Boyer recebido um prémio Nobel em 1997.
+
+
+== A transferência de energia pela quimiosmose ==
+Embora as diversas formas de vida na Terra utilizem uma larga gama de nutrientes diferentes, quase todas usam a fosforilação oxidativa para produção de ATP, a molécula que fornece energia metabólica. Esta via é tão universal provavelmente por ser uma forma altamente eficiente de armazenar energia, comparando com processos alternativos de fermentação como a glicólise.
+A fosforilação oxidativa funciona utilizando reacções químicas exergónicas para dar energia a reacções endergónicas; os dois tipos de reacção dizem-se, neste caso, acoplados, ou seja, um não ocorre sem o outro. O fluxo de electrões através da cadeia de transporte electrónico, desde doadores electrónicos como o NADH a aceitadores de electrões como o oxigénio, é um processo exergónico, ou seja, liberta energia, enquanto que a síntese da ATP é endergónica e requer portanto energia. A variação de energia livre associada à transferência de electrões através de um dos três complexos corresponde a uma força motriz protónica capaz de fazer a síntese de ATP. Para cada NADH que se oxida, ou seja, para cada par de electrões transportado pelos complexos I, III e IV, há a síntese de três ATP.
+Tanto a cadeia de transporte electrónico como a ATP sintase se localizam numa membrana. A energia é transferida da cadeia de transporte electrónico para a ATP sintase pelo movimento de protões através da membrana, num processo denominado quimiosmose. Como a membrana interna da mitocôndria é impermeável a protões, estes só podem voltar à matriz e desfazer o gradiente através de sítios específicos da membrana interna. O transporte de protões através desta é feita pelos complexos I, III e IV. A ATP sintase utiliza a energia para sintetizar ATP a partir da fosforilação de difosfato de adenosina (ADP). Parte da enzima sofre uma rotação à medida que os protões passam por ela.
+Na prática, este processo é semelhante a um simples circuito eléctrico, existindo uma corrente de protões do lado negativo (N) da membrana para o lado positivo (P) provocada pela acção de enzimas da cadeia de transporte electrónico que bombeiam esses protões. Estas enzimas actuam como uma pilha, à medida que produzem trabalho circulando corrente através do circuito. O movimento de protões cria um gradiente electroquímico através da membrana, muitas vezes designada como força motriz protónica. Este gradiente tem duas componentes: uma diferença na concentração de protões (gradiente de pH) e uma diferença no potencial eléctrico, tendo o lado N uma carga negativa. A energia é armazenada principalmente sob a forma de uma diferença de potenciais eléctricos nas mitocôndrias e sob a forma de gradiente de pH nos cloroplastos.A ATP sintase liberta esta energia armazenada ao completar o circuito e permitir o fluxo de protões ao longo do potencial electroquímico, de volta ao lado N da membrana. Esta enzima actua como um motor eléctrico, ao usar a força motriz protónica para fornecer energia à rotação de parte da sua estrutura e acoplar este movimento à síntese de ATP.
+A quantidade de energia libertada pela fosforilação oxidativa é alta, comparando-se com a quantidade de energia produzida pela fermentação anaeróbia. A glicólise produz apenas duas moléculas de ATP, enquanto que a fosforilação oxidativa  produz, a partir de dez moléculas de NADH e duas de succinato, 26 moléculas de ATP, comparando-se a conversão de uma molécula de glicose a dióxido de carbono e água. Este rendimento de ATP é o valor máximo teórico; na prática, alguns protões passam também através da membrana, baixando o rendimento de produção de ATP.
+
+
+== Moléculas de transferência de protões e electrões ==
+
+A cadeia de transporte eletrónico transporta protões e electrões, mediando a passagem de electrões de doadores reduzidos a aceitadores electrónicos e transportando protões através da membrana. Estes processos tanto usam moléculas solúveis como grupos ligados a proteínas. Nas mitocôndrias, os electrões são transferidos dentro do espaço intermembranar pela proteína de transporte electrónico citocromo c, que, por ser hidrossolúvel, pode circular no espaço intermembranar. O citocromo c transporta apenas electrões, através da oxirredução de um ião de ferro localizado num grupo hemo pertencente à estrutura da proteína. Também se encontra citocromo c nalgumas bactérias, localizando-se no espaço periplasmático.Na membrana mitocondrial interna, a coenzima Q10 (Q), um transportador electrónico lipossolúvel, transporta não só electrões mas também protões, usando um ciclo redox. Esta pequena molécula de benzoquinona é muito hidrofóbica, podendo por isso difundir-se facilmente pela membrana. Quando Q aceita dois electrões e dois protões, passa à forma totalmente reduzida ubiquinol (QH2); quando QH2 liberta dois protões e dois elecrões, volta ao estado ubiquinona (Q). Como resultado, se duas enzimas estão dispostas de modo que Q seja reduzido de um lado da membrana e QH2 seja oxidado no outro lado, a ubiquinona acoplará estas reacções e transportará protões através da membrana. Algumas cadeias de transporte electrónico bacterianas usam quinonas diferentes, tais como a menaquinona (ou vitamina K), além da ubiquinona.Dentro de proteínas, os electrões são transferidos entre cofactores flavínicos, centros de ferro-enxofre e citocromos. Existem diversos tipos de centros ferro-enxofre. O tipo mais simples que se encontra na cadeia de transporte electrónico é formado por dois átomos de ferro ligados entre si e por dois átomos de enxofre inorgânico (ou seja, não pertencente a cadeias laterais de aminoácidos), designando-se este tipo de centros [2Fe-2S]. O segundo tipo de centro ferro-enxofre é o [4Fe-4S], sendo similar a um cubo constituído por quatro iões de ferro e quatro de enxofre. Nos centros de ferro-enxofre, cada ião de ferro encontra-se coordenado também a um aminoácido, normalmente através do átomo de enxofre de uma cisteína. Os cofactores contendo metais sofrem reacções redox sem ligar ou libertar protões, pelo que servem apenas para transportar electrões na cadeia de transporte electrónico. Os electrões conseguem viajar distâncias relativamente grandes dentro das proteínas ao efectuar "saltos" entre as cadeias dos cofactores. Tal ocorre devido ao efeito de tunneling quântico, que é rápido através de distâncias inferiores a 14 Å.
+
+
+== Cadeias de transporte electrónico em eucariontes ==
+Diversos processos bioquímicos catabólicos, tais como a glicólise, o ciclo dos ácidos tricarboxílicos e a beta-oxidação, produzem a coenzima NADH. Esta coenzima contém electrões que possuem um alto potencial de transferência (correspondente a um potencial de eléctrodo muito negativo), ou seja, ao acontecer a oxidação do NADH, é libertada grande quantidade de energia. No entanto, a célula não liberta esta energia de uma só vez, pois tal reacção poderia ser incontrolável. Os electrões são então removidos do NADH e transferidos para o dioxigénio através de uma série de passos catalisados por diferentes enzimas, em que cada passo liberta uma pequena quantidade de energia. Este conjunto de enzimas, designados complexos I, II, III e IV, constitui a cadeia de transporte electrónico e encontra-se na membrana interna da mitocôndria. O succinato é também oxidado pela cadeia de transporte electrónico, mas entra na via metabólica num ponto diferente.
+Em eucariontes, as enzimas neste sistema de transporte electrónico utilizam a energia libertada na oxidação do NADH para bombear protões através da membrana interna da mitocôndria. Esta acção causa a acumulação de protões no espaço intermembranar, originando um gradiente electroquímico através da membrana. A energia armazenada sob este potencial é então utilizada pela ATP sintase para produzir ATP. A fosforilação oxidativa mitocondrial é a mais bem compreendida; existem mitocôndrias em quase todos os eucariontes, exceptuando-se alguns protozoários anaeróbios como Trichomonas vaginalis, que reduzem os protões a hidrogénio molecular num organelo denominado hidrogenossoma, uma mitocôndria residual.
+
+
+=== NADH-coenzima Q oxidoredutase (complexo I) ===
+
+A NADH-coenzima Q oxidorredutase, também conhecida como NADH desidrogenase ou complexo I, é a primeira proteína na cadeia de transporte electrónico. O complexo I é uma enzima de grandes dimensões; o complexo I de mamíferos possui 46 subunidades e uma massa molecular de cerca de mil quilodaltons. É conhecida apenas a estrutura detalhada do complexo de uma bactéria; na maioria dos organismos, o complexo aparenta ter a forma de uma bota com uma esfera projectando-se da membrana em direcção à matriz mitocondrial. Os genes que codificam as proteínas que fazem parte deste complexo encontram-se tanto no DNA nuclear como no genoma mitocondrial, tal como acontece com diversas outras enzimas presentes na mitocôndria.
+A reacção catalisada por esta enzima é a redução da coenzima Q10 (ou ubiquinona, representado por Q na equação abaixo) por dois electrões provindos do NADH. A coenzima Q10 é uma quinona lipossolúvel da membrana mitocondrial.
+  
+  
+    
+      
+        
+          
+            
+              NADH + Q + 5H
+            
+          
+          
+            m
+            a
+            t
+            r
+            i
+            z
+          
+          
+            +
+          
+        
+        →
+        
+          
+            
+              NAD
+            
+          
+          
+            +
+          
+        
+        +
+        
+          
+            
+              QH
+            
+          
+          
+            2
+          
+        
+        +
+        
+          
+            
+              4H
+            
+          
+          
+            c
+            i
+            t
+            o
+            s
+            o
+            l
+          
+          
+            +
+          
+        
+      
+    
+    {\displaystyle {\mbox{NADH + Q + 5H}}_{matriz}^{+}\rightarrow {\mbox{NAD}}^{+}+{\mbox{QH}}_{2}+{\mbox{4H}}_{citosol}^{+}}
+  
+O início da reação, e de toda a cadeia electrónica, consiste na ligação de uma molécula de NADH ao complexo I e a doação de dois electrões. Os electrões entram no complexo I através de um grupo prostético ligado ao complexo, o mononucleótido de flavina (FMN). A adição de electrões ao FMN converte este à sua forma reduzida, FMNH2. Os electrões são então transferidos através de diversos centros de ferro-enxofre, o segundo tipo de grupo prostético encontrado no complexo. Existem centros [2Fe-2S] e [4Fe-4S] no complexo I.
+À medida que os electrões passam através deste complexo, quatro protões são bombeados da matriz mitocondrial para o espaço intermembranar. Não é bem conhecido o mecanismo exacto de como esta passagem ocorre, mas aparenta haver mudanças conformacionais no complexo I que provocam a ligação de protões ao lado N da membrana e os movimentam para o lado P. Por fim, os electrões são transferidos da cadeia de centros ferro-enxofre para uma molécula de ubiquinona na membrana. A redução da ubiquinona contribui também para a geração de um gradiente de protões, por haver retirada de dois protões da matriz na sua redução a ubiquinol (QH2).Este processo se tornou importante, pois, seres heterotróficos necessitam deste ciclo(terceira fase do processo de transformação química da glicose).
+
+
+=== Succinato-Q oxidorredutase (complexo II) ===
+A succinato-Q oxidorredutase, também conhecida como complexo II, é um segundo ponto de entrada na cadeia de transporte electrónico. Tem a característica de ser a única enzima que participa tanto no ciclo dos ácidos tricarboxílicos como na cadeia de transporte electrónico. O complexo II consiste de quatro subunidades proteicas e um cofactor dinucleótido de flavina-adenina (FAD), centros de ferro-enxofre e um grupo hemo que não participa na transferência de electrões para a coenzima Q mas aparenta ser necessário para diminuir a produção de espécies reactivas de oxigénio. Oxida o succinato a fumarato e reduz a ubiquinona. Como esta reacção liberta menos energia que a oxidação do NADH, o complexo II não transporta protões através da membrana e não contribui para o gradiente de protões.
+  
+  
+    
+      
+        
+          
+            Succinato
+          
+        
+        +
+        
+          
+            Q
+          
+        
+        →
+        
+          
+            Fumarato
+          
+        
+        +
+        
+          
+            
+              QH
+            
+          
+          
+            2
+          
+        
+        
+      
+    
+    {\displaystyle {\mbox{Succinato}}+{\mbox{Q}}\rightarrow {\mbox{Fumarato}}+{\mbox{QH}}_{2}\,}
+  
+Nalguns eucariontes, tais como o verme parasita Ascaris suum, existe uma enzima similar ao complexo II, a fumarato redutase (menaquiol:fumarato oxidorredutase, ou QFR) que opera de forma reversa, oxidando ubiquinol e reduzindo fumarato. Este processo permite ao parasita sobreviver no ambiente anaeróbio do intestino grosso, realizando fosforilação oxidativa anaeróbia usando fumarato como aceitador final de electrões. Outra função pouco convencional do complexo II é encontrada no parasita que causa a malária Plasmodium falciparum, em que a acção reversa do complexo II é importante na regeneração de ubiquinol, utilizado pelo parasita num tipo raro de biossíntese de pirimidina.
+
+
+=== Flavoproteína de transporte de electrões-Q oxidorredutase ===
+A flavoproteína de transporte de electrões-ubiquinona oxidorredutase (ETF-Q oxidorredutase), também conhecida como  flavoproteína de transporte de electrões desidrogenase, é um terceiro ponto de entrada na cadeia de transporte electrónico. É uma enzima que aceita electrões da flavoproteína transportadora de electrões na matriz mitocondrial e os utiliza para reduzir a ubiquinona. Esta enzima contém uma flavina e um centro [4Fe-4S] mas, ao contrário de outros complexos respiratórios, liga-se à superfície da membrana e não atravessa a bicamada lipídica.  
+  
+    
+      
+        
+          
+            
+              ETF
+            
+          
+          
+            r
+            e
+            d
+          
+        
+        +
+        
+          
+            Q
+          
+        
+        →
+        
+          
+            
+              ETF
+            
+          
+          
+            o
+            x
+          
+        
+        +
+        
+          
+            
+              QH
+            
+          
+          
+            2
+          
+        
+        
+      
+    
+    {\displaystyle {\mbox{ETF}}_{red}+{\mbox{Q}}\rightarrow {\mbox{ETF}}_{ox}+{\mbox{QH}}_{2}\,}
+  
+Em mamíferos, esta via metabólica é relevante na beta-oxidação de ácidos gordos e no catabolismo de aminoácidos e colina, ao aceitar electrões de diversas acetil-CoA desidrogenases. Em plantas, a ETF-Q oxidorredutase é também importante nas respostas metabólicas que permitem a sobevivência durante longos períodos de escuridão.
+
+
+=== Q-citocromo c oxidorredutase (complexo III) ===
+A Q-citocromo c oxidorredutase é também conhecida simplesmente como citocromo c redutase, complexo citocromo bc1, ou simplesmente complexo III. Em mamíferos, esta enzima é um dímero, em que cada subunidade é ela própria um complexo de 11 proteínas, um centro [2Fe-2S] e três citocromos (um citocromo c1 e dois citocromos b. Um citocromo é um tipo de proteína de transferência electrónica que contém pelo menos um grupo hemo. Os iões de ferro dos grupos hémicos do complexo III alternam entre o estado ferroso (reduzido, Fe2+) e férrico (oxidado, Fe3+), à medida que os electrões são transferidos através da proteína.
+O complexo III catalisa a oxidação de uma molécula de ubiquinol e a redução de duas moléculas de citocromo c, que consegue transportar apenas um electrão (ao contrário da coenzima Q, que pode transportar dois)
+  
+  
+    
+      
+        
+          
+            
+              QH
+            
+          
+          
+            2
+          
+        
+        +
+        
+          
+            
+              2Cyt c
+            
+          
+          
+            o
+            x
+          
+        
+        +
+        
+          
+            
+              2H
+            
+          
+          
+            m
+            a
+            t
+            r
+            i
+            z
+          
+          
+            +
+          
+        
+        →
+        
+          
+            Q
+          
+        
+        +
+        
+          
+            
+              2Cyt c
+            
+          
+          
+            r
+            e
+            d
+          
+        
+        +
+        
+          
+            
+              4H
+            
+          
+          
+            c
+            i
+            t
+            o
+            s
+            o
+            l
+          
+          
+            +
+          
+        
+        
+      
+    
+    {\displaystyle {\mbox{QH}}_{2}+{\mbox{2Cyt c}}_{ox}+{\mbox{2H}}_{matriz}^{+}\rightarrow {\mbox{Q}}+{\mbox{2Cyt c}}_{red}+{\mbox{4H}}_{citosol}^{+}\,}
+  
+Como apenas um dos electrões pode ser transferido em cada passo do doador QH2 para um citocromo aceitador, o mecanismo de reacção do complexo III é mais elaborado que aqueles de outros complexos respiratórios e ocorre em dois passos colectivamente designados "ciclo Q". No primeiro passo, a enzima liga três substratos: primeiro o QH2, que sofre oxidação, passando um electrão para o segundo substrato, o citocromo c, e dois protões para o espaço intermembranar. O terceiro substrato é Q, que aceita o segundo electrão de QH2, reduzindo-se ao radical Q.- (ubisemiquinona). Os primeiros dois substratos são libertados, enquanto que o intermediário ubisemiquinona permanece ligado. No segundo passo, liga-se uma segunda molécula de QH2, passando novamente um electrão a outro citocromo c. O segundo electrão é transferido para a ubisemiquinona, reduzindo-a a QH2 ao mesmo tempo que são captados dois protões da matriz mitocondrial. QH2 é então libertado da enzima.À medida que a coenzima Q é reduzida a ubiquinol no lado interno da membrana e oxidada a ubiquinona no outro lado, existe uma transferência líquida de protões através da membrana, que contribui para o gradiente de protões. Este mecanismo é relativamente complexo mas assegura um aumento da eficiência da transferência de protões: se apenas uma molécula de QH2 fosse utilizada para reduzir directamente dois citocromos, a eficiência seria a metade, havendo apenas a transferência de um protão por citocromo reduzido.
+
+
+=== Citocromo c oxidase (complexo IV) ===
+A citocromo c oxidase, também conhecda como complexo IV, é o último complexo proteico da cadeia de transporte de electrões. Em mamíferos, a enzima tem uma estrutura bastante complexa, contendo 13 subunidades, dois grupos hémicos e diversos outros cofactores metálicos (três iões de cobre, um de magnésio e um de zinco). Esta enzima catalisa a reacção final da cadeia de transporte electrónico, oxidando o citocromo c e transferindo electrões para o oxigénio, ao mesmo tempo que bombeia protões através da membrana. O aceitador final de electrões oxigénio é reduzido a água neste processo. Tanto a passagem de protões através da membrana como o consumo de protões na matriz mitocondrial contribuem para o gradiente protónico.
+  
+  
+    
+      
+        
+          
+            
+              4Cyt c
+            
+          
+          
+            r
+            e
+            d
+          
+        
+        +
+        
+          
+            
+              O
+            
+          
+          
+            2
+          
+        
+        +
+        
+          
+            
+              8H
+            
+          
+          
+            m
+            a
+            t
+            r
+            i
+            z
+          
+          
+            +
+          
+        
+        →
+        
+          
+            
+              4Cyt c
+            
+          
+          
+            o
+            x
+          
+        
+        +
+        
+          
+            
+              2H
+            
+          
+          
+            2
+          
+        
+        
+          
+            O
+          
+        
+        +
+        
+          
+            
+              4H
+            
+          
+          
+            c
+            i
+            t
+            o
+            s
+            o
+            l
+          
+          
+            +
+          
+        
+        
+      
+    
+    {\displaystyle {\mbox{4Cyt c}}_{red}+{\mbox{O}}_{2}+{\mbox{8H}}_{matriz}^{+}\rightarrow {\mbox{4Cyt c}}_{ox}+{\mbox{2H}}_{2}{\mbox{O}}+{\mbox{4H}}_{citosol}^{+}\,}
+  
+
+
+=== Redutases e oxidases alternativas ===
+Muitos organismos eucarióticos possuem cadeias respiratórias diferentes das de mamíferos, que são as mais bem estudadas (e acima descritas). Por exemplo, em plantas, existem NADH oxidases que oxidam o NADH no citoplasma, não na matriz mitocondrial, e passam os electrões para uma reserva de ubiquinona. Estas enzimas não transportam proões, pelo que reduzem a ubiquinona sem alterar o gradiente electroquímico através da membrana interna.Outro exemplo de um sistema diferente é a "oxidase alternativa", encontrada em plantas, alguns fungos, protistas e possivelmente noutros animais. Esta enzima transfere electrões directamente do ubiquinol para o oxigénio.As vias de transporte electrónico em que participam estas oxidases alternativas rendem menos ATP que a cadeia completa. Não se encontram totalmente esclarecidas as vantagens em possuir cadeias mais curtas; no entanto, estas oxidases alternativas são produzidas em resposta a situações de stress, como frio, produção de espécies reactivas de oxigénio e infecção, assim como outros factores que inibam a cadeia de transporte completa. Vias alternativas podem melhorar a resistência dos organismos a danos causados pelo stress oxidativo.
+
+
+=== Organização de complexos ===
+O modelo original da organização dos complexos da cadeia respiratória descrevia a sua difusão livre e independente na membrana mitocondrial. No entanto, alguns dados mais recentes sugerem que os complexos possam formar estruturas de ordem superior, designadas "supercomplexos" ou "respirassomas". Neste modelo, os diversos complexos existem como conjuntos organizados de enzimas que interactuam. Tais associações poderão permitir a canalização de substratos ("channeling") entre os diferentes complexos da cadeia, optimizando a velocidade e eficiência da transferência de electrões. Em mamíferos, alguns dos componentes poderão existir em maior quantidade que outros, com razões entre complexos I/II/III/IV e ATP sintase de aproximadamente 1:1:3:7:4. No entanto, este modelo não é totalmente aceite, pois existem dados que aparentam não se ajustar ao modelo.
+
+
+== Cadeias de transporte electrónico de procariontes ==
+Em contraste com a similaridade geral que existe na estrutura e função das cadeias respiratórias em eucariontes, as enzimas de transferência electrónica em bactérias e arqueas são muito diversificadas; utilizam também diversos outros compostos químicos como substratos, permitindo a sua adaptação a diferentes condições ambientais. Tal como acontece nos eucariontes, a cadeia de transporte electrónico em procariontes utiliza a energia libertada da oxidação de um substrato para bombear iões através de uma membrana e gerar um gradiente electroquímico. Em bactérias, a fosforilação oxidativa em Escherichia coli é a mais bem compreendida; em contraste, os sistemas em arqueas são ainda pouco compreendidos. Em E. coli, a fosforilação oxidativa utiliza uma grande variedade de agentes redutores e oxidantes, listados abaixo. O potencial de meia onda de um composto dá uma medida da quantidade de energia libertada quando esse composto é oxidado ou reduzido, tendo agentes redutores potenciais negativos e agentes oxidantes potenciais positivos.
+
+Como mostrado acima, a E. coli pode multiplicar-se na presença de agentes redutores como o formato, o hidrogénio ou o lactato como doadores de electrões e o nitrato, DMSO ou oxigénio como aceitadores. Quanto maior é a diferença entre o potencial de um composto oxidante e de um redutor, mais energia é libertada quando eles reagem. Dentro deste conjunto de compostos, o par succinato/fumarato é particular, pois o seu potencial de meia onda é quase zero. Tal significa que o succinato pode ser oxidado a fumarato se houver um oxidante forte presente (como o oxigénio) ou o fumarato pode ser reduzido a succinato na presença de um agente redutor forte (como o formato). Estas reacções alternativas são catalisadas pela succinato desidrogenase e pela fumarato redutase, respectivamente.Alguns procariontes utilizam pares redox que possuem diferenças muito pequenas no seu potencial de meia onda. Por exemplo, bactérias nitrificantes, como as pertencentes ao género Nitrobacter, oxidam nitrito a nitrato, doando elecrões ao oxigénio. A pequena quantidade de energia libertada nesta reacção é suficiente para bombear protões e produzir ATP, mas insuficiente para produzir NADH ou NADPH directamente em anabolismo. Este problema é contornado usando uma nitrito oxidorredutase que produz força motriz protónica suficiente para fazer funcionar a cadeia de transporte electrónico no sentido inverso, forçando o complexo I a produzir NADH.Os procariontes controlam o uso destes doadores e aceitadores de electrões variando o tipo de enzimas produzido, em resposta a condições ambientais. Esta flexibilidade deve-se à possibilidade de diferentes oxidases e redutases utilizarem a mesma reserva de ubiquinona. Tal permite diversas combinações funcionais de enzimas, enzimas essas ligadas pelo intermediário comum ubiquinol. Estas cadeias respiratórias têm portanto uma natureza modular, com sistemas de enzimas fáceis de permutar.
+Além da existência desta diversidade metabólica, os procariontes têm também várias isozimas (diferentes enzimas que catalisam a mesma reacção). Por exemplo, existe em E. coli dois tipos diferentes de ubiquinol oxidase usando oxigénio como aceitador electrónico. Sob condições totalmente aeróbias, a célula utiliza uma oxidase com baixa afinidade para com o oxigénio que consegue transportar dois protões por cada electrão. No entanto, se os níveis de oxigénio decrescem, o metabolismo muda para a utilização de uma oxidase que transfere apenas um protão por electrão, mas que tem alta afinidade para com o oxigénio.
+
+
+== ATP sintase ==
+
+A ATP sintase, também designada complexo V, é a enzima final na via da fosforilação oxidativa. Esta enzima encontra-se presente em todas os organismos vivos e funciona de forma idêntica em procariontes e eucariontes.  A enzima utiliza a energia armazenada num gradiente de protões existente através da membrana para realizar a síntese de ATP a partir de ADP e fosfato inorgânico (Pi). Existem estimativas de serem necessários entre três e quatro protões para sintetizar um ATP, havendo alguns estudos que apontam para uma variação nestes números, dependendo das condições.  
+  
+    
+      
+        
+          
+            ADP
+          
+        
+        +
+        
+          
+            
+              P
+            
+          
+          
+            i
+          
+        
+        +
+        
+          
+            
+              4H
+            
+          
+          
+            c
+            i
+            t
+            o
+            s
+            o
+            l
+          
+          
+            +
+          
+        
+        ⇌
+        
+          
+            ATP
+          
+        
+        +
+        
+          
+            
+              H
+            
+          
+          
+            2
+          
+        
+        
+          
+            O
+          
+        
+        +
+        
+          
+            
+              4H
+            
+          
+          
+            m
+            a
+            t
+            r
+            i
+            z
+          
+          
+            +
+          
+        
+      
+    
+    {\displaystyle {\mbox{ADP}}+{\mbox{P}}_{i}+{\mbox{4H}}_{citosol}^{+}\rightleftharpoons {\mbox{ATP}}+{\mbox{H}}_{2}{\mbox{O}}+{\mbox{4H}}_{matriz}^{+}}
+  
+Esta reacção de fosforilação é um equilíbrio químico, que pode ser deslocado alterando-se a força motriz protónica. Se não existe uma força motriz, a reacção da ATP sintase prossegue da direita para a esquerda, havendo a hidrólise de ATP e o bombeamento de protões para fora da matriz, através da membrana. No entanto, quando a força motriz é alta, a reacção procede da esquerda para a direita, permitindo o fluxo de protões no sentido do gradiente de concentração (da maior concentração para a menor) e produzindo ATP a partir de ADP.A ATP sintase é um complexo proteico de grandes dimensões, em forma de cogumelo. A enzima em mamíferos contém 16 subunidades e uma massa de aproximadamente 600 quilodalton. A parte da enzima embebida na membrana é designada FO e contém um anel de subunidades "c" e o canal de protões. O eixo e a "cabeça" em forma de bola é designada F1, sendo o local onde ocorre a síntese de ATP. O complexo em forma de bola na extremidade de F1 contém seis proteínas de dois tipos distintos (três subunidades α e três subunidades β); o eixo consiste numa proteína (subunidade γ), cuja extremidade penetra na zona das subunidades α e β. Tanto a subunidade α como a β conseguem ligar nucleótidos, mas apenas a subunidade β catalisa a reacção de síntese do ATP. Uma outra subunidade actua como um braço lateral, estendendo-se ao longo de F1, penetrando a membrana e ligando as subunidades α e β à base da enzima.
+À medida que os protões atravessam a membrana através do canal na base da ATP sintase, FO entra em movimento de rotação. Esta rotação poderá ser causada por mudanças no estado de ionização de aminoácidos no anel de subunidades "c", o que poderá causar interacções electrostáticas que propulsionam o anel. Este anel em rotação, por sua vez, força a rotação do eixo central (subunidade γ) dentro das subunidades α e β; estas não entram em rotação por se encontrarem fixas pelo braço lateral, que actua como um estator. É o movimento da subunidade γ que providencia a energia necessária para os centros activos das subunidades β sofrerem alterações que permitam a produção e libertação de ATP.Esta reacção de síntese de ATP é designada em Inglês como binding change mechanism (algo como "mecanismo de ligação-modificação") e consiste na modificação cíclica do centro activo de cada subunidade β em três estados. No estado "aberto", o ADP e o fosfato entram no centro activo. A proteína muda de conformação capturando as moléculas e liga-as de forma fraca (estado de ligação fraca). A enzima muda então novamente de conformação e força o encontro entre estas moléculas (estado "fechado"), em que o centro activo liga a recém-produzida molécula de ATP com alta afinidade. O centro activo volta então ao estado "aberto", permitindo a libertação da molécula de ATP e podendo voltar a ligar ADP e fosfato.
+Nalgumas bactérias e arqueas, é o movimento de iões sódio, não de protões, através da membrana que potencia a síntese de ATP. Arqueas como as pertencentes ao género Methanococcus contêm também a A1Ao sintase, uma forma da enzima que contém proteínas com muito pouca semelhança a nível da estrutura primária (sequência de aminoácidos) com subunidades de outras ATP sintases bacterianas e eucarióticas. É possível que, nalgumas espécies, esta forma da enzima seja uma ATP sintase especializada no transporte de sódio, embora tal não seja obrigatoriamente verdadeiro em todos os casos.
+
+
+== Espécies reactivas de oxigénio ==
+O dioxigénio (oxigénio molecular) é um aceitador terminal de electrões ideal, por ser um agente oxidante forte. A redução do dioxigénio pode originar intermediários potencialmente danosos. Embora a transferência de quatro protões e quatro electrões reduza o dioxigénio a água, uma espécie química inócua, a transferência de um ou dois electrões produz o anião radical superóxido e o peróxido de hidrogénio.
+
+  
+    
+      
+        
+          
+            
+              
+                
+              
+              
+                
+                  
+                    e
+                    
+                      −
+                    
+                  
+                
+              
+              
+                
+              
+              
+                
+                  
+                    e
+                    
+                      −
+                    
+                  
+                
+              
+            
+            
+              
+                
+                  
+                    
+                      
+                        O
+                      
+                    
+                    
+                      2
+                    
+                  
+                
+              
+              
+                ⟶
+              
+              
+                
+                  
+                    
+                      O
+                    
+                  
+                  
+                    2
+                  
+                  
+                    
+                      ∙
+                      _
+                    
+                  
+                
+              
+              
+                ⟶
+              
+              
+                
+                  
+                    
+                      O
+                    
+                  
+                  
+                    2
+                  
+                  
+                    2
+                    −
+                  
+                
+              
+            
+            
+              
+                
+              
+              
+                
+              
+              
+                
+                  
+                    Super
+                  
+                
+                
+                  
+                    
+                      
+                        o
+                      
+                      ´
+                    
+                  
+                
+                
+                  
+                    xido
+                  
+                
+              
+              
+                
+              
+              
+                
+                  
+                    Per
+                  
+                
+                
+                  
+                    
+                      
+                        o
+                      
+                      ´
+                    
+                  
+                
+                
+                  
+                    xido
+                  
+                
+              
+            
+            
+              
+                
+              
+              
+                
+              
+            
+          
+        
+      
+    
+    {\displaystyle {\begin{matrix}\quad &{e^{-}}&\quad &{e^{-}}\\{{\mbox{O}}_{2}}&\longrightarrow &{\mbox{O}}_{2}^{\underline {\bullet }}&\longrightarrow &{\mbox{O}}_{2}^{2-}\\\quad &\quad &{\mbox{Super}}{\acute {\mbox{o}}}{\mbox{xido}}&\quad &{\mbox{Per}}{\acute {\mbox{o}}}{\mbox{xido}}\\\quad &\quad \end{matrix}}}
+  
+Estas espécies reactivas de oxigénio e os seus produtos de reacção, tais como o radical hidroxilo, são muito danosos para as células, pois oxidam proteínas e lípidos membranares e causam mutações no DNA. Estes danos celulares podem contribuir para determinadas patologias e pensa-se que estejam envolvidos no processo de envelhecimento.O complexo da citocromo c oxidase é muito eficiente na redução de dioxigénio a água e produz muito poucos intermediários parcialmente reduzidos. No entanto, são produzidas pequenas quantidades de superóxido e peróxido na cadeia de transporte de electrões. É de particular importância a redução da coenzima Q10 no complexo III, quando existe a formação da ubisemiquinona, um radical livre muito reactivo e instável que pode por vezes "escoar" alguns electrões directamente para o oxigénio, produzindo superóxido.Para diminuir os efeitos das espécies reactivas de oxigénio, as células possuem diversos sistemas antioxidantes, como a presença das vitaminas C e E e enzimas como a superóxido dismutase, a catalase e peroxidases, que capturam e desintoxicam as espécies reactivas e limitam os danos por elas causados.
+
+
+== Inibidores ==
+Existem diversos compostos químicos que inibem a fosforilação oxidativa. Embora normalmente qualquer um desses compostos iniba apenas uma enzima da cadeia de transporte electrónico, a inibição de apenas um dos passos é suficiente para parar toda a cadeia. Por exemplo, a presença de oligomicina inibe a ATP sintase, impedindo a passagem de protons para dentro da mitocôndria. Tal resulta na inoperância das bombas de protons, já que o gradiente de concentração protónica se torna demasiado forte para ser superado. O NADH deixa então de ser oxidado, o que para o funcionamento do ciclo dos ácidos tricarboxílicos, pois a concentração de NAD+ cai para níveis inferiores aos necessários para o funcionamento das enzimas desse ciclo.
+
+Nem todos os inibidores da fosforilação oxidativa são toxinas. No tecido adiposo castanho existem canais protónicos regulados designados proteínas de desacoplamento que conseguem fazer o desacoplamento da respiração e síntese de ATP. Este é um tipo de respiração rápida que produz calor e é de particular importância como forma de manter a temperatura corporal em animais em hibernação, embora tais proteínas possam também ter uma função mais geral nas respostas ao stress celular.
+
+
+== Referências ==
+
+
+== Bibliografia recomendada ==
+IntrodutóriaNelson DL; Cox MM (2004). Lehninger Principles of Biochemistry 4th ed. [S.l.]: W. H. Freeman. ISBN 0-716-74339-6  
+Schneider ED; Sagan D (2006). Into the Cool: Energy Flow, Thermodynamics and Life 1st ed. [S.l.]: University of Chicago Press. ISBN 0-226-73937-6  AvançadaNicholls DG; Ferguson SJ (2002). Bioenergetics 3 1st ed. [S.l.]: Academic Press. ISBN 0-125-18121-3  
+Haynie D (2001). Biological Thermodynamics 1st ed. [S.l.]: Cambridge University Press. ISBN 0-521-79549-4 
+Rajan SS (2003). Introduction to Bioenergetics 1st ed. [S.l.]: Anmol. ISBN 8-126-11364-2 
+Wikstrom M (Ed) (2005). Biophysical and Structural Aspects of Bioenergetics 1st ed. [S.l.]: Royal Society of Chemistry. ISBN 0-854-04346-2 
+
+
+== Ligações externas ==
+Gerais«Diagramas animados ilustrando a fosforilação oxidativa» (em inglês) : Wiley and Co, Concepts in Biochemistry
+«Fosforilação oxidativa» (em inglês) : Metabolic Pathways of Biochemistry, a referência online sobre metabolismo para estudantes e professores na Universidade George Washington
+«ATP sintase – o motor rotatório da célula» (em inglês) : breve introdução, incluindo vídeos de microfotografias da enzima em rotação, no Tokyo Institute of Technology
+«Lições online de biofísica» (em inglês) : Antony Crofts, Universidade de Illinois em Urbana-ChampaignSobre as estruturas«Animações da ATP sintase» (em inglês)  Hongyun Wang e George Oster, Universidade da Califórnia em Berkeley
+Molécula do mês PDB:
+«ATP sintase» (em inglês) 
+«Citocromo c» (em inglês) 
+«Citocromo c oxidase» (em inglês) 
+Modelos moleculares interactivos na Universidade Fernando Pessoa:
+«NADH desidrogenase» 
+«Succinato desidrogenase» 
+«Coenzima Q - citocromo c redutase» 
+«Citocromo c oxidase»

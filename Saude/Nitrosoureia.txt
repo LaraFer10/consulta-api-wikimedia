@@ -1,0 +1,23 @@
+Nitrosoureia é uma classe de compostos que incluem um grupo nitroso (R-NO) e uma ureia (CH4N2O).
+Possuem atividade antitumoral e podem cruzar a barreira hematoencefálica. Podem ser usados para tratar Câncer do cérebro como um glioblastoma.
+
+
+== Mecanismo de ação ==
+Os nitrosoureias inativam covalentemente a tioredoxina-redutase, glutationa-redutase e a Ribonucleotídeo redutase por alquilação seus tiolatos no sítios ativos. A inibição destes sistemas de transferência de elétrons pelas nitrosoureias gera um efeito citostático. O cálcio intracelular protege a tioredoxina-redutase da desactivação pelas nitrosoureias. Tioredoxina reduzida ou glutationa reduzida podem deslocar as nitrosoureias do sítio ativo revertendo o efeito inibitório.
+
+
+== Indicação ==
+Normalmente, as células não proliferantes reparam danos no ADN rapidamente. Células que se proliferam rápido, como tumores, são muito menos eficientes na reparação. Quanto maior a dose, mais danos ao DNA e, por conseguinte, maior a probabilidade de morte celular. Assim, os agentes alquilantes podem ser usados para tratar:
+
+Carmustina (BCNU): Tanto em Linfoma de Hodgkin e linfoma não-Hodgkin, tumores cerebrais, mieloma múltiplo, melanoma;
+Lomustina (CCNU): Tanto em Linfoma de Hodgkin e linfoma não-Hodgkin, tumores cerebrais, mieloma múltiplo, melanoma e câncer pulmonar de células pequenas;
+Semustina: Principalmente Câncer do cérebro, câncer de estômago e câncer de cólon. Também serve para Linfoma de Hodgkin e linfoma não-Hodgkin, tumores cerebrais, mieloma múltiplo, melanoma e câncer pulmonar de células pequenas;
+Estreptozotocina: Insulinoma, linfomas e tumor carcinoide
+Clorozotozina: Raramente usado.
+
+
+== Toxidade ==
+Podem causar fibrose pulmonar, fibrose hepática e insuficiência renal. Irritam o trato gastrointestinal, causam rubor e podem suprimir a atividade da medula óssea vários dias depois.
+
+
+== Referências ==

@@ -1,0 +1,13 @@
+Em enzimologia, a 4-oxoprolina redutase (EC 1.1.1.104) é uma enzima que catalisa a reacção química:
+
+4-hidroxi-L-prolina + NAD+ 
+  
+    
+      
+        ⇌
+      
+    
+    {\displaystyle \rightleftharpoons }
+   4-oxoprolina + NADH + H+Os dois substratos desta enzima são a 4-hidroxi-L-prolina e a NAD+, enquanto que os seus três produtos são a 4-oxoprolina, a NADH, e H+.
+Esta enzima pertence à família das oxidorredutases, especificamente aquelas que actuam nos grupos CH-OH de doadores, com NAD+ ou NADP+ como aceitadores.
+O nome sistemático da enzima é 4-hidroxi-L-prolina:NAD+ oxidorredutase. Esta enzima é também chamada hidroxi-L-prolina oxidase. Participa no metabolismo da arginina e da prolina.

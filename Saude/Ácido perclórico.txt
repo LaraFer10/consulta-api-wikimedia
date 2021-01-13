@@ -1,0 +1,69 @@
+Ácido perclórico, HClO4, é um oxiácido do cloro e é um líquido oleoso incolor miscível em água de odor pungente. É o oxiácido do cloro no estado de oxidação + 7.
+Em concentração superior a 72% tende facilmente a explodir: é por este motivo que dificilmente é obtível puro e é portanto comercializado na forma de solução aquosa concentrada no máximo a 70%. Nestas condições o ácido perclórico está presente como monohidrato:
+
+HClO4 • H2O → [H3O]+ + [ClO4]−A concentrações maiores que 70% tem-se lentamente a formação de anidrido perclórico Cl2O7, em seguida ao que se pode verificar o perigo de explosão pela reação:
+
+3 HClO4 → [H3O]+ + [ClO4]− + Cl2O7Com água forma um azeótropo que ebule a 203°C no qual está presente a uma concentração de 28,4%. Nesta forma o ácido é estável indefinidamente e é disponível comercialmente.
+Suas soluções são higroscópicas, ou seja, uma vez não perfeitamente isoladas do contato com o ar, as soluções se diluirão por absorver água do ar.
+É um ácido forte comparável em força ao ácido sulfúrico ou ácido nítrico. É um superácido mas não o mais forte ácido de Brønsted-Lowry (o qual é o ácido fluoroantimônico, HFSbF5). Seu pKa é −10.
+
+
+== Preparação laboratorial ==
+O ácido diluido pode ser preparado por destilação de uma solução de perclorato em ácido sulfúrico concentrado.
+
+NaClO4 + H2SO4 → NaHSO4 + HClO4Em um método similar, perclorato de bário reage com ácido sulfúrico diluido para precipitar sulfato de bário, deixando somente ácido perclórico em solução.
+
+Ba(ClO4)2 + H2SO4 → BaSO4 (prec.) + 2HClO4
+
+
+== Produção industrial ==
+Pode ser produzido também por misturar ácido nítrico com perclorato de amônio. A reação dá óxido nitroso e ácido perclórico devido a uma reação envolvendo o íon amônio.
+É sintetizado, assim como consequentemente os percloratos, por oxidação eletroquímica dos íons clorato em um ambiente ácido por adição de ácido sulfúrico às suas células.
+Sua fórmula pode ser deduzida, e igualmente pode ser produzido, também, pelo seguinte processo direto, a partir de gases e vapor d'água:
+
+1.- Formação do óxido ácido:
+1.a.- Formulação: Cl2+O2 → Cl+7 O-2
+1.b.- Mudança de valências ou estado de oxidação:
+Cl2+O2 → Cl+72 O-27
+como o oxigênio fica com valor impar devem ser igualados os valores de ambos lados:
+2 Cl2 + 7 O2 → 2 Cl+72O-27
+1.c.- Resultado: Cl2O7
+2.- Formação do ácido:
+2.a.- Formulação: Cl2O7 + H2O →
+2.b.- Formação do ácido: Cl2O7 + H2O → H2Cl2O8.
+como a atomicidade é múltipla de 2 (neste caso), se divide por dois, obtendo este resultado:
+HClO4
+
+
+== Aplicações ==
+Os sais do ácido perclórico são oxidantes poderosos que frequentemente são usados em composições explosivas, incluindo propelentes de foguetes, tal como o perclorato de amônio. Percloratos tendem a ser menos reativos que suas contra-partes, os cloratos, os  quais tem sido menos usados em pirotecnia, devido a razões de segurança.
+Percloratos são venenosos para plantas, e por isso, são usados como herbicidas, preferencialmente aos cloratos.
+É utilizado em análise de cinzas, produzidas a partir de materiais combustíveis, pelo seu alto poder oxidanteÉ empregado também na análise de óxidos de ferro em fluoritaEm química analítica, em titulações em solventes não aquosos, especialmente em solução em ácido acético o ácido perclórico é usado em titulação de aminas. Na adição o ácido perclórico é convertido com ácido acético concentrado, produzindo ácido acético protonado, um íon onium:
+
+HClO4 ⇌ H+ + ClO4-
+CH3COOH + H+ ⇌ CH3COOH2+ (íon onium)Uma solução 0.100 molar em ácido acético glacial é usada como um reagente analítico. Titulação de base fraca é feita facilmente se o meio usual, a água, é substituida por ácido acético glacial. O ácido acético glacial é muito uma base muito mais fraca que a água, então a base que está sendo titulada comporta-se como mais forte. Em contra partida, a força do ácido é reduzida. Isto mostra a diferença de forças entre ácidos fortes.
+Exemplo deste tipo de titulação são as dosagens do anfepramona, do femproporex, do diazepam, do bromazepam, do aciclovir, do etiladrianol, da cisaprida, entre outras substâncias.
+
+
+=== Método de preparo de solução de ácido perclórico 0,1N ===
+Para um balão volumétrico de 1000 mL transferir quantitativamente 8,5 mL de ácido perclórico P.A. 70% e adicionar, sob agitação constante, 300 mL de ácido acético glacial. Adicionar 20 mL de anidrido acético e completar o volume com ácido acético glacial. Transferir para frasco escuro (vidro âmbar) e deixar em repouso por pelo menos 24 horas.
+Padronizar a solução de ácido perclórico assim obtida com biftalato de potássio igualmente dissolvido em ácido acético glacial, usando o violeta cristal como indicador.
+
+
+=== Aplicações em análises clínicas ===
+É utilizado em precipitação seletiva de mucoproteínas conjuntamente com ácido fosfotúngstico e dosadas com o reagente de Folin-Ciocalteau através do seu conteúdo em tirosina em solução 750 mmol/L.
+
+
+== Segurança ==
+Ácido perclórico anidro e monohidratado podem explodir, e lentamente se decompõem a temperatura normal. De acordo com "Handbook of Laboratory Safety" da CRC, o ácido perclórico é extremamente perigoso.
+A solução concentrada de ácido perclórico libera vapores muito corrosivos, tanto para a pele e olhos e deve ser manuseado com extremo cuidado, sempre realizada com o uso de óculos de proteção e luvas de borracha, de preferência em capela. Ele pode causar ignição ou explodir em contato com roupas ou madeira.
+No trabalho com soluções de 70% ou mais requer uma proteção de face, avental e procedimentos de manipulação especiais identificados.Existe uma incompatibilidade entre cerâmicas anti-ácidas, empregadas na construção de capelas laboratoriais e o ácido perclórico, assim como com o ácido fluorídrico.
+
+
+== Referências ==
+
+
+== Ligações externas ==
+Ácido Perclórico - Dados Gerais e de segurança - www.faenquil.br[ligação inativa]
+Substâncias incompatíveis em www.qca.ibilce.unesp.br
+International Chemical Safety Card 1006 (em inglês)

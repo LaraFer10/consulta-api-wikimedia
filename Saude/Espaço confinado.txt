@@ -1,0 +1,34 @@
+Espaço confinado, de maneira geral, é qualquer área não projetada para ocupação humana contínua e que possua meios limitados de entrada e saída. A ventilação existente é insuficiente para remover contaminantes perigosos e/ou tem deficiência ou enriquecimento de oxigênio que possam existir ou se desenvolverem neste local.
+Conforme a Norma Regulamentadora-33 (NR-33) — criada em 2006 pela Portaria 202, através da ABNT e assinada pelo então ministro do trabalho, Luiz Marinho — espaço confinado é qualquer área ou ambiente não projetado para ocupação humana contínua, que possua meios limitados de entrada e saída cuja ventilação existente é insuficiente para remover contaminantes ou onde possa existir a deficiência ou enriquecimento de oxigênio.
+
+
+== Riscos relacionados ==
+Os riscos atmosféricos dividem-se em: atmosfera tóxica inflamável; deficiente de O2; rica em O2.
+Os trabalhos em áreas confinadas são uma das maiores causas de acidentes graves em funcionários; seja por ocorrência de explosão, por incêndio ou asfixia. Estes acidentes em muitos casos têm consequências fatais. Pesquisas realizadas pela OSHA (Ocupational Safety and Health Administration), Agência Europeia para a Segurança e Saúde no Trabalho, revela que 90% dos acidentes são causados por falta de oxigênio, ou seja por riscos atmosféricos.
+A fim de minimizar e, se possível, eliminar tais acidentes, o trabalho em áreas confinadas foi normatizado através da NBR-14787 que, entre outras providências, exige a adequada ventilação dos espaços confinados. A exaustão e/ou insuflamento dos ambientes confinados tem como objetivo principal reduzir a concentração de substâncias tóxicas e/ou perigosas presentes na atmosfera do ambiente confinado, seja antes do início dos trabalhos seja no decorrer destes. Vale salientar que a ventilação é mais eficiente do que a exaustão. Neste segundo caso deve-se aplicar na fonte geradora, por exemplo em um serviço com solda. Enquanto isso a ventilação fará a retirada de um todo no espaço, para este caso chamamos de sistemas combinados.
+
+
+== Outras definições ==
+Outras definições de espaço confinado, porém a título de conhecimento, por não constar da nossa norma em vigência, segue abaixo:
+a) seja grande o suficiente e configurado de forma que o empregado possa entrar e executar um trabalho;
+b) possua meios limitados ou restritos para entrada ou saída (por exemplo, tanques atmosféricos, vasos de pressão, torres de processo, reatores, silos, caixas de passagem, tanques de carga e lastro, fornos, entre outros);
+c) não seja projetado para a permanência contínua de pessoas.
+d) contém, conteve, ou tem o potencial armazenado para desencadear um risco, entre eles, o mais grave, é o risco atmosférico.
+
+
+== Critérios gerais ==
+Todos os espaços confinados devem ser considerados inseguros para entrada, até que sejam providos de condições mínimas de segurança e saúde. Nesses espaços só é permitida a entrada após emissão de uma permissão para trabalho por escrito. Deve ser previsto treinamento para os trabalhadores quanto aos riscos a que estão submetidos, a forma de preveni-los e o procedimento a ser adotado em situação de risco, conforme norma ABNT/NBR- 14787. O Ministério do Trabalho e Emprego possui norma regulamentadora específica para espaços confinados, a NR-33. Deve existir sinalização (placa de advertência) com informação clara e permanente, proibindo a entrada de pessoas não autorizadas no interior do espaço confinado. Quando os trabalhos estiverem paralisados, além da sinalização de advertência, devem ser previstos dispositivos para impedimento da entrada no espaço confinado. Os trabalhos devem não só começar de maneira segura, mas devem, sobretudo, permanecer de maneira segura, e para isso torna-se primordial uma boa APR (análise preliminar de riscos), que dará subsídio para a emissão da PET (permissão de entrada e trabalho) em espaços confinados. Com a evolução da tecnologia, e o desenvolvimento da segurança do trabalho, hoje podemos contar com um poderoso gerenciador de espaços confinados, que busca atender todos os requisitos da NR-33, chamado SIEC, Sistema Integrado de Espaços Confinados, que centralizará todos os espaços confinados de uma unidade industrial, organizando as análises preliminares de riscos, e acima de tudo auxiliando o processo de gestão do responsável técnico da unidade, pois o SIEC gerencia os treinamentos obrigatórios, data de vencimento dos treinamentos de 16 horas e 40 horas, vencimento de ASO (atestado de saúde ocupacional), sendo assim, podemos nos sentir mais seguros e organizados em relação a sistemas de gestão, indo ao encontro dos conceitos de OHSAS 18001 e ISO 14001.Além da NBR-14.787, mencionada acima também trata de assunto de espaço confinado a NBR-14606 — Postos de Serviço — Entrada em Espaço Confinado, que a muitos anos havia algo superior, algo denominado confinado.
+
+
+== Exemplo de espaços confinados ==
+Esses são alguns:
+
+tanques de várias espécies como taques de água, tanque de combustível;
+vagões de locomotivas;
+galerias de rede de esgoto;
+silos, cones e moinhos indústriais;
+chaminés industriais verticais e fornos industriais;
+bases de torres de energia eólica, etc.
+
+
+== Referências ==

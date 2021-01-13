@@ -1,0 +1,52 @@
+
+== História ==
+Li e Fraumeni, em 1969, a partir de 648 casos de crianças com rabdomiossarcomas, identificaram cinco famílias onde, pelo menos um parente apresentou sarcoma. Estudos subsequentes com essas famílias indicaram que existia um risco maior de apresentarem câncer. O termo “Síndrome de Li Fraumeni” foi primeiramente utilizado por Pearson, e agora é o termo mais utilizado para essa síndrome herdável e dominante.
+
+
+== O que é? ==
+A síndrome de Li Fraumeni é o nome dado à uma série de tipos de câncer, que possuem correlação genética, ou seja, são herdáveis, e não são causados exclusivamente por conta do ambiente. O padrão de herança é autossômico e dominante, ou seja, não há diferenças entre a herança entre homens e mulheres, e basta o indivíduo herdar um alelo que este está predisposto a manifestar os sintomas da doença.
+
+
+== Classificação ==
+Os tipos de câncer que já foram associados e podem ser incluídos sob o nome de síndrome de Li Fraumeni são sarcomas, leucemias, carcinomas de mama pré-menopausa, tumores cerebrais e adrenocorticais, assim como câncer de osso e de tecidos moles, além de outros, como câncer de pulmão, carcinoma pancreático e melanoma.A síndrome de Li Fraumeni, dado seu amplo espectro de doenças, pode ainda ser subdividida em grupos, de acordo com o grau de avanço da doença. Há o grupo conhecido como Síndrome de Li Fraumeni Clássico, que é normalmente definido quando indivíduos com menos de 45 anos apresentam sarcomas e ainda apresentam parentes, de primeiro ou segundo grau, com qualquer câncer antes de 45 anos, ou com sarcoma, em qualquer idade. Há também a  Síndrome de Li Fraumeni-Like, que inclui pessoas que apresentam câncer na infância ou apresentam sarcomas, tumores cerebrais ou adrenocorticais antes dos 45 anos, em conjunto com outro parente, de primeiro ou segundo grau, com um tumor típico de Li-Fraumeni em qualquer idade. Adicionalmente, um outro parente deve ter apresentado qualquer câncer antes dos 60 anos. Há, porém, uma outra definição em relação à Síndrome de Li-Fraumeni Like, sendo esta mais abrangente, que em dois parentes de primeiro ou segundo grau, surgimento de dois tumores típicos da Li-Fraumeni, em qualquer idade.Aproximadamente 70% dos casos de Li-Fraumeni Clássico e 40% dos casos de Li-Fraumeni Like contém mutações no gene que codifica a proteína p53.
+
+
+== O gene TP53 ==
+O gene TP53 (do inglês, tumor protein 53) codifica para uma proteína conhecida como P53 (do inglês protein 53), e está localizado no cromossomo 17 (localização Chr17:7,661,779-7,687,550), e codifica para uma proteína que atua como fator de transcrição, participando em vários processos, dentre eles, o de sobrevivência celular. Foram encontradas mutações neste gene em diferentes tipos de tumores, incluindo os tumores associados à síndrome de Li Fraumeni.
+Em tumores associados especificamente à síndrome de Li Fraumeni, mutações no gene TP53 foram localizados, inicialmente, no éxon 7, uma região altamente conservada. As mutações encontradas foram do tipo missense, ou seja, mutações que alteram o aminoácido que irá participar da estrutura proteica. Porém, em outras famílias, também foram identificadas mutações ao longo de todo o gene. Mais de 50 famílias que apresentaram casos de síndrome de Li Fraumeni foram encontradas mutações neste gene. Em um estudo com 15 famílias, feito por Frebourg e colegas, onde essas famílias foram classificadas como Síndrome de Li-Fraumeni Clássico, foram identificadas mutações nos éxons 2 a 11.Porém, nem todos os casos em que a p53 está mutada irá, necessariamente, manifestar a doença. Aproximadamente 93% de mulheres e 68% de homens com menos de 50 anos e que apresentam alguma mutação na p53, manifestaram a doença.
+Contudo, estudos subsequentes revelaram que em algumas famílias o gene da p53 não está mutado. Ou seja, apesar de estar fortemente correlacionado com a síndrome, o gene da p53 não precisa estar necessariamente mutado para a manifestação dos sintomas.
+
+
+== Animais Modelo no Estudo sobre Síndrome de Li-Fraumeni ==
+Camundongos transgênicos para p53, utilizados em estudos na década de 1980, apresentaram múltiplos tumores, inclusive tumores típicos da síndrome, o que levou a uma primeira associação deste gene com a síndrome.Os camundongos transgênicos carregavam muitas cópias de p53 mutadas. 
+Em 1992, Donehower e colegas, a partir de camundongos nocautes para p53, onde parte do intron 4 e do éxon 5 foram substituídos por um gene neo, verificaram que, apesar dos animais se apresentaram viáveis, em seis meses estes desenvolviam uma grande variedade de tumores, sendo linfomas e sarcomas os tipos predominantes.
+Harvey e colaboradores utilizando camundongos heterozigotos para p53, viu que apenas 50% dos camundongos desenvolveram tumores, e somente após de 18 meses. Harvey imaginou que esta situação seria mais próxima à de famílias que apresentam a síndrome de Li-Fraumeni. Os tumores que apareceram nesses camundongos foram, majoritariamente, sarcomas e linfomas, como no caso anterior. Nos camundongos estudados por este grupo, em 55% apresentaram perda da heterozigosidade, onde o alelo selvagem adquiriu mutações e perdeu sua função.
+De forma geral, camundongos transgênicos, com p53 deficiente, são um bom modelo para o estudo da síndrome de Li-Fraumeni. Porém, como é de esperar, não é um modelo perfeito, pois os tumores desenvolvidos por estes animais não cobrem todo o espectro da síndrome visto em humanos.
+
+
+== Relação Genótipo e Fenótipo ==
+As alterações que ocorrem a nível celular são típicas de uma célula cancerosa, como perda da capacidade de iniciar apoptose (devido à perda de função da p53, em casos onde este gene está mutado), perda do controle do ciclo celular e proliferação desenfreada, gerando, desta forma, os tumores. 
+Em indivíduos com mutações em p53, existe uma correlação entre o genótipo (a sequência de DNA) e fenótipo (a manifestação do gene e sua interação com o ambiente). Por exemplo, tumores cerebrais foram relacionados à mutações do tipo missense (ou seja, alterações na sequência de DNA que alteram a sequência proteica), na região de ligação do DNA na proteína. Em carcinomas da glândula adrenal, por outro lado, foram associados com mutações do tipo missense na região oposta ao de contato de DNA. Por fim, mutações que resultam em perda de função ou ausência da proteína estão relacionadas com um desenvolvimento precoce de tumores cerebrais.
+
+
+== Casos no Brasil ==
+No Brasil há uma variante de p53 única, descrita somente neste país. Essa mutação ocorre no códon 337, no éxon 10, sendo esta uma região que participa da tetramerização da p53 (essa proteína atua conjuntamente com outras três do mesmo tipo, ou seja, são 4 proteínas p53 que se unem e atuam juntas, como um tetrâmero). A mutação leva a uma mudança de arginina para histidina no local citado. A mutação é descrita com o nome de R337H. Essa mutação está associada com tumores adrenocorticais, em crianças, que são relativamente comuns no Sul e no Sudeste desse país.A disfunção do tetrâmero causada por essa mutação depende muito do ambiente no qual ele atua. Caso o pH do ambiente esteja nos níveis fisiológicos (ou seja, por volta de 7,5), não ocorre alteração em relação à p53 selvagem (proteína normal). Porém, com a queda de pH, as subunidades não conseguem se juntar, e, portanto, não formam o tetrâmero funcional. 
+
+
+== Referências ==
+
+Li FP and Fraumeni JF (1969a) Rhabdomyosarcoma in children; epidemiologic study and identification of a cancer family syndrome. J Natl Cancer Inst 43: 1365-1373. https://doi.org/10.1093/jnci/43.6.1365
+Pearson ADJ, Craft AW, Ratcliffe JM, Birch JM, Morris Jones PH and Roberts DF (1982) Two families with the Li-Fraumeni cancer family syndrome. JMed Genet 19: 362-365
+Varley, Jenny M., D. G. Evans, and Jillian M. Birch. "Li-Fraumeni syndrome--a molecular and clinical review." British journal of cancer 76.1 (1997): 1.
+Li FP, Fraumeni JF, Mulvihill JJ, Blattner WA, Dreyfus MG, Tucker MA and Miller RW (1988) A cancer family syndrome in twenty-four kindreds. Cancer Res 48: 5358-5362
+Birch JM, Hartley AL, Tricker KJ, Prosser J, Condie A, Kelsey AM, Harris M, Morris Jones PH, Binchy A, Crowther D, Craft AW, Eden OB, Evans DGR, Thompson E, Mann JR, Martin J, Mitchell ELD and Santibanez-Koref MF (1994a) Prevalence and diversity of constitutional mutations in the p53 gene among 21 Li-Fraumeni families. Cancer Res 54: 1298-1304
+Eeles RA (1995) Germline mutations in the TP53 gene. Canlcer Surn 25: 101-123
+Bachinski, L. L., Olufemi, S.-E., Zhou, X., Wu, C.-C., Yip, L., Shete, S., Lozano, G., Amos, C. I., Strong, L. C., Krahe, R. Genetic mapping of a third Li-Fraumeni syndrome predisposition locus to human chromosome 1q23.Cancer Res. 65: 427-431, 2005
+Srivastava S. Zou Z, Pirollo K. Blattner W and Chang EH (1990) Germ-line transmission of a mutated p53 gene in a cancer-prone family with Li-Fraumeni syndrome. Natuire 348: 747-749
+Frebourg T, Barbier N, Yan YV Garber JE, Dreyfus M, Fraumeni J, Li FP and Friend SH (1995) Germ-line p53 mutations in 15 families with Li-Fraumeni syndrome. Am J Hum Genet 56: 608-615
+Malkin D, Li FP, Strong LC, Fraumeni JFJ, Nelson CE, Kim DH, Kassel J, Gryka MA, Bischoff FZ, Tainsky MA and Friend SH (1990) Germ line p53 mutations in a familial syndrome of breast cancer, sarcomas, and other neoplasms. Science 250: 1233-1238
+Donehower LA, Harvey M, Slagle BL, McArthur MJ, Montgomery CA, Butel JS and Bradley A (1992) Mice deficient for p53 are developmentally normal but susceptible to spontaneous tumours. Nature 356: 215-221
+Harvey M, McArthur MJ, Montgomery Jr CA, Butel JS, Bradley A and Donehower LA (1993) Spontaneous and carcinogen-induced tumorigenesis in p53-deficient mice. Nature Geniet 5: 225-229
+Olivier, M. Goldgar, D. E., Sodha, N., Ohgaki, H., Kleihues, P., Hainaut, P., Eeles, R. A. Li-Fraumeni and related syndromes: correlation between tumor type, family structure, and TP53 genotype. Cancer Res. 63: 6643-6650, 2003.
+Custódio, Gislaine, et al. "Impact of neonatal screening and surveillance for the TP53 R337H mutation on early detection of childhood adrenocortical tumors." Journal of Clinical Oncology 31.20 (2013): 2619-2626.
+Ries LAG, Smith MA, Gurney JG, et al: Cancer Incidence and Survival Among Children and Adolescents:United States SEER Program 1975-1995.

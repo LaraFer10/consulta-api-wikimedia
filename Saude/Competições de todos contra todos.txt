@@ -1,0 +1,116 @@
+Em competições esportivas, sistema de todos contra todos (ou "de liga") designa todo tipo de torneio em que cada um dos competidores enfrenta todos os demais. Ao final, aquele que obtiver mais pontos é o campeão.
+No Brasil, este sistema é também conhecido como "sistema de pontos corridos", pelo fato de a contagem de pontos ser única do início ao final do campeonato (ao contrário de sistemas eliminatórios ou mistos, em que a contagem recomeça a cada nova fase do torneio).
+Uma competição de todos contra todos pode ser disputada em turno único, em dois turnos (turno e returno), em múltiplos turnos ou ainda em turnos independentes.
+
+
+== Turno único ==
+Cada competidor enfrenta todos os demais apenas uma vez. É um sistema simples, mas com uma imperfeição básica: a definição do mando de campo de cada partida passa a ter uma importância decisiva. Mesmo que se parta do princípio de que todos os competidores devem disputar o mesmo número de jogos em casa e fora (o que só pode ser garantido quando o número total de competidores é ímpar), permanece o problema da qualidade relativa de cada adversário a enfrentar: se um dos competidores considerados mais "fortes" enfrentar seus principais adversários em seu próprio campo, tende a ter uma vantagem muito grande em relação aos outros.
+Apesar disso, é um sistema muito utilizado em alguns campeonatos, principalmente quando o número de competidores é muito grande e o número de datas disponíveis é reduzido.
+
+
+=== Rodadas e número de jogos ===
+Sendo no número de competidores, cada um deles deve disputar n-1 partidas em um turno completo. Se não for par, um sistema ideal de marcação de jogos deveria prever que todos os competidores joguem em todas as rodadas (o que nem sempre é possível devido a problemas de viagens, coincidência de jogos na mesma cidade, 
+
+paralelos com outros torneios, etc), e o número total de rodadas será igual a n-1. Ao contrário, sendo n um número ímpar, o número mínimo de rodadas será igual a n, e sempre haverá um competidor "descansando" a cada rodada.
+A fórmula para o número total de jogos é:
+j = n * (n-1) / 2
+
+
+=== Algoritmo para marcação de jogos ===
+Assinala-se a cada competidor uma letra: A, B, C, D, etc. No exemplo abaixo, foram utilizadas as letras de A a L, representando 12 competidores.
+Dispõem-se as letras correspondentes em duas linhas, no sentido do relógio: a primeira linha da esquerda para a direita, a segunda da direita para a esquerda. Os jogos da primeira rodada são definidos pelo empareamento vertical: A enfrenta L, B enfrenta K, etc.  A     B     C     D     E     F
+  L     K     J     I     H     G
+
+Para a segunda rodada, mantém-se o competidor A fixo e giram-se os demais competidores no sentido do relógio: A enfrenta K, L enfrenta J, etc.  A     L     B     C     D     E
+  K     J     I     H     G     F
+
+O mesmo procedimento para a terceira rodada: A enfrenta J, K enfrenta I, etc.  A     K     L     B     C     D
+  J     I     H     G     F     E
+
+Repete-se o procedimento até a última rodada (no caso, a décima-primeira), antes que a tabela volte à posição original:  A     C     D     E     F     G
+  B     L     K     J     I     H
+
+Para determinar mandos de campo de forma paritária, algumas inversões devem ser operadas nas colunas DEPOIS de feitos os empareamentos de todas as rodadas:basta inverter SEMPRE a ordem dos competidores das colunas pares; e inverter a ordem da primeira coluna apenas nas rodadas pares.
+
+Desta forma, na primeira rodada, A receberia L em casa, K receberia B, etc.  A     K     C     I     E     G
+  L     B     J     D     H     F
+      (inv)       (inv)       (inv)
+
+Na segunda rodada, K recebe A, J recebe L, etc.  K     J     B     H     D     F
+  A     L     I     C     G     E
+(inv) (inv)       (inv)       (inv)
+
+Quando o número de competidores é par (como no exemplo acima), o número de jogos de cada competidor é ímpar; logo, não é possível que, num turno completo, cada competidor tenha o mesmo número de jogos em casa e fora. Este algoritmo garante que os competidores com letras "ímpares" (A, C, E…) tenham um jogo a mais em casa (no exemplo, 6 jogos em casa e 5 fora); enquanto que os competidores "pares" (B, D, F…) tenham um jogo a mais fora (no caso, 5 em casa e 6 fora).
+Se o número de competidores for ímpar, cria-se um "competidor falso", designado pela letra A; o competidor que, pelo empareamento de cada rodada, deveria enfrentar A é considerado "fora da rodada", ou "descansando". De resto, mantêm-se os mesmos procedimentos, inclusive no que se refere à paridade dos mandos de campo.
+
+
+== Turno e returno ==
+Cada competidor enfrenta todos os demais duas vezes, alternando o mandos de campo. É considerado o sistema ideal para campeonatos de ligas ou federações, especialmente para esportes que admitem empate, como o futebol, futsal, xadrez e damas, e por isso conhecido como sistema de campeonato ("championship system").
+Como o número de datas é grande, é preciso limitar o número de competidores, sendo necessária a criação de divisões inferiores (segunda divisão, terceira divisão, etc, às vezes também chamadas de Série B, Série C, etc.) e de um sistema anual de acesso e descenso (também conhecido como promoção e rebaixamento).
+
+
+=== Rodadas e número de jogos ===
+Sendo n o número de competidores, o número de jogos de cada competidor é 2n-2. O número mínimo de rodadas é 2n-2 (se n for par) ou 2n (se n for ímpar).
+O número total de jogos é:
+j = n * (n-1)
+
+
+=== Marcação de jogos ===
+Para marcação de jogos, utiliza-se duas vezes o mesmo algoritmo do sistema de turno único, apenas invertendo o mando de campo no returno.
+A ordem de marcação dos jogos pode ser simétrica, invertida, assimétrica ou dirigida:
+
+Marcação simétrica é quando o segundo turno repete a mesma ordem de jogos do primeiro, apenas invertendo os mandos de campo. É o método que tem sido adotado na maioria dos campeonatos.
+Marcação invertida é quando a primeira rodada do returno é a repetição (com mando de campo invertido) da última rodada do turno; a segunda rodada do returno repete a penúltima do turno; e assim sucessivamente, até que a última rodada do returno repete a primeira do turno. Método que tem sido adotado nas fases de grupos da Libertadores da América.
+Marcação assimétrica é aquela em que a ordem de jogos do segundo turno não tem qualquer relação com os do primeiro turno.
+Marcação dirigida é aquela em que a tabela é refeita a cada rodada, preservando-se o enfrentamento entre os primeiros colocados para as últimas rodadas. É um método que exige muito espírito colaborativo entre os competidores e a entidade que organiza o torneio, e só pode ser aplicado quando as distâncias entre as sedes são pequenas, facilitando o deslocamento dos clubes. Foi adotada, por exemplo, em algumas edições dos anos 1960 do Campeonato Carioca de Futebol.
+
+
+=== Turno e returno no futebol mundial ===
+O sistema de turno e returno é utilizado nos Campeonatos Nacionais de Futebol da Escócia (desde 1881), da Inglaterra (desde 1889), da Alemanha (desde 1903), da Espanha (desde 1928), da Itália (desde 1929), da França (desde 1933), de Portugal (desde 1935), da Holanda (desde 1956), etc.
+
+
+=== O sistema no futebol brasileiro ===
+O campeonato paulista, o mais antigo do país, foi disputado em turno e returno de 1902 a 1972. O mesmo com o Campeonato Carioca, de 1906 a 1965 (com a exceção de três anos em que o sistema também foi de pontos corridos, mas em 3 turnos). Outros campeonatos estaduais importantes, como o Gaúcho e o Mineiro também utilizaram o "sistema de campeonato" durante décadas.
+No entanto, quando se começou a organizar um certame nacional de futebol, primeiramente como Robertão (1967) e, a partir de 1971, o chamado "sistema de pontos corridos" não era considerado adequado. Argumentos a favor dessa tese seriam as dimensões continentais do Brasil, a necessidade de viagens muito longas e freqüentes, o número elevado de grandes clubes com grandes torcidas em diferentes cidades do país e finalmente uma suposta "cultura da torcida brasileira", que preferiria torneios decididos em uma única partida. Certamente havia também o interesse político da Ditadura Militar, que usava o futebol como moeda de troca em seu relacionamento com os estados, e com isso foi inchando o campeonato com uma quantidade de clubes absolutamente incompatível com um sistema de "todos contra todos". E, num determinado momento, também o corporativismo dos grandes clubes, que não admitiam submeter-se às mesmas regras de promoção e rebaixamento que os demais.
+Recentemente, especulou-se que as grandes redes de televisão prefeririam trabalhar com campeonatos eliminatórios, gerando grandes eventos com enorme audiência ao final de cada temporada. Mas a argumentação não procede, já que os campeonatos europeus, todos eles disputados em sistema de turno e returno, há décadas geram enormes lucros para as emissoras de tevê, e isso durante o ano inteiro.
+Finalmente, em 2003, depois de 32 campeonatos e 32 fórmulas diferentes, um  acordo entre a CBF e o Clube dos 13 determinou a adoção do sistema de todos contra todos em dois turnos para o Campeonato Brasileiro, com acesso e descenso regulamentados conforme as recomendações da Fifa.
+
+
+== Turnos Múltiplos ==
+Sistema utilizado em algumas ligas pequenas, quando há poucos competidores e muitas datas. Em geral, o número de turnos é par, a fim de garantir paridade nos mandos de campo de cada equipe em cada enfrentamento.
+Os primeiros campeonatos de futebol profissional do Uruguai (1932 a 1934), por exemplo, foram disputados por 10 equipes em 3 turnos. O Campeonato Carioca de Futebol também foi disputado em 3 turnos nos anos de 1939, 1940 e 1942.
+
+
+== Turnos independentes ==
+Trata-se de uma variação do sistema de turno e returno, na qual os pontos são computados separadamente em cada turno. As duas formas mais comuns dessa variação são o sistema de "apertura e clausura" e a "Fórmula Fraga".
+
+
+=== Apertura e Clausura ===
+A partir dos anos 1990, alguns países latino-americanos passaram a disputar seus Campeonatos Nacionais de Futebol em sistema de todos contra todos, dois turnos, com inversão de mando de campo e contagem de pontos corridos, sem "fase final", exatamente como no modelo europeu, porém com a proclamação de um campeão ao final do primeiro turno e com a contagem de pontos recomeçando do zero para o segundo turno, que terá outro campeão. Ou seja, apesar da aparência de um campeonato de turno e returno, trata-se de dois torneios separados na mesma temporada, por isso chamados de "apertura" (abertura) e "clausura" (fechamento).
+A Argentina adotou o sistema de "apertura e clausura" em 1991, depois de 60 anos de campeonatos em dois turnos. O Uruguai, em 1994, depois de 61 anos de turno e returno. México (a partir de 1996), Chile (1997) e Colômbia (2002) também adotaram a disputa de dois certames de futebol por temporada, igualmente com as denominações "apertura" e "clausura", mas seus campeonatos são disputados em sistema de grupos.
+
+
+=== Fórmula Fraga ===
+Fórmula Fraga é a denominação brasileira para certames disputados em dois turnos, com contagem de pontos independentes, mas em que há apenas um campeão, que é o vencedor da disputa final entre os vencedores de cada turno. O nome se deve a José Esteves Fraga Júnior, que foi conselheiro do Vasco e secretário da Federação Metropolitana de Desportos do Rio de Janeiro, e defendeu este sistema de disputa para os campeonatos estaduais no Brasil a partir de 1936.Na "Fórmula Fraga" verdadeira (classificada aqui como uma variante do sistema de todos contra todos), se um mesmo competidor vencer os dois turnos ele será automaticamente proclamado campeão, sem a necessidade de qualquer disputa extra. Alguns torneios, no entanto, mesmo no caso de um "duplo vencedor", forçam a disputa de uma final contra o segundo colocado; nesse caso, trata-se de outro tipo de torneio, que deve ser classificado dentro do sistema de grupos
+O Campeonato Paranaense de Futebol utilizou a Fórmula Fraga em várias edições, a partir de 1937. O Campeonato Paulista utilizou este sistema em 1973, 1974, 1982 e 1996. Na América do Sul, os campeonatos nacionais do Peru (desde 1997) e do Paraguai (desde 2004) são disputados no sistema aqui denominado "Fórmula Fraga", mas que naqueles países é conhecido como "Apertura e Clausura".
+
+
+== Sistema Suíço ==
+
+Criado pelo suíço Julius Muller no final do século XIX, é hoje o sistema de disputa mais utilizado nos torneios oficiais de xadrez, squash e Damas. Esse sistema tem a vantagem de permitir um grande número de participantes com um número pequeno e pré-determinado de rodadas sem a necessidade de eliminar participantes. Segue a mesma forma de contagem de pontos do sistema "todos contra todos", porém com as seguintes regras:
+
+Número pré-determinado de rodadas.
+Dois participantes não se enfrentam mais que uma vez.
+Na rodada 1: o emparceiramento dos confrontos é feito através do rating, caso os competidores não possuam rating o emparceiramento é feito por sorteio.
+Nas demais rodadas: participantes com pontuações iguais são emparceirados.
+Caso não seja possível emparceirar participantes com o mesmo número de pontos o confronto será com o concorrente com pontuação mais próxima possível.Nos torneios oficiais de xadrez da CBX e da maioria das Federações adota-se como ferramenta obrigatória dos árbitros de xadrez o software "Swiss Perfect 98" que organiza automaticamente torneios no sistema suíço, isso a fim de evitar erros na organização feita de forma manual.
+
+
+== Bibliografia ==
+DAIUTO, Moacir: "Organização de Competições Desportivas", editora Hemus, São Paulo, 1972.
+RAMOS, Jayr Jordão: "Organização de Campeonatos e Torneios", editora CND/MEC, Brasília, 1973.
+CAPINASSU, José Maurício: "Competições esportivas: organizações e esquemas", Editora Ibrasa, São Paulo, 1986.
+BYL, John: "Organizing Successful Tournaments", Human Kinetics Inc, Champaign/IL, 1990.
+
+
+== Referências ==

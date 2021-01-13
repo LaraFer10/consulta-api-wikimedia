@@ -1,0 +1,12 @@
+Sinapomorfia (do grego sýnapsis - ação de juntar + morphě - forma) é um estado de caractere derivado, ou uma novidade evolutiva (apomorfia), que surge ao longo da evolução nos grupos, mantendo-se em diversos grupos taxonômicos distintos e permitindo a sua identificação, diferenciação e classificação taxonômica.
+
+
+== Conceituação técnica ==
+Sinapomorfia, para a Biologia, são caracteres homólogos apomórficos compartilhados por dois ou mais táxons. É a situação que se observa quando dois táxons apresentam o mesmo caractere, e este representa uma forma derivada apomórfica frente a outra ancestral plesiomórfica. Analogamente, chama-se simplesiomorfia a um caractere homólogo compartilhado por um ou mais táxons, quando este é plesiomórfico (estado de caractere ancestral). Apenas as sinapomorfias constituem argumentos válidos em favor da monofilia do grupo de táxons que as compartilha. As sinapomorfias se constituem, assim, no fundamento para a classificação filogenética (baseada no parentesco) dos seres vivos. Graças a elas se definem os grupos holofiléticos  (chamados de monofiléticos, segundo Willi Hennig).
+Os caracteres com que se descrevem os grupos parafiléticos, definidos pela exclusão de um grupo holofilético de outro maior, são as simplesiomorfias. O termo, introduzido por Hennig, está no centro da metodologia da análise filogenética. Assim sendo, as sinapomorfias são a base para a formação dos grupos monofiléticos formados com um embasamento evolutivo. Quando os grupos não são unidos por sinapomorfias, como no caso dos peixes, que abrangem vários clados separados e não unidos por apomorfias, chamamos esses grupo de não monofiléticos (não respeitando a relação de parentesco evolutiva e não sendo um grupo filogenético com embasamento evolutivo), podendo ser chamado de parafilético ou polifilético.
+
+
+== Bibliografia ==
+Holmes, Edward C.; Page, Roderick D. M. (14 de julho de 2009). Molecular Evolution: A Phylogenetic Approach. [S.l.]: John Wiley & Sons. ISBN 978-1-4443-1336-9 
+Concise Encyclopedia Biology. Tubingen, DEU: Walter de Gruyter. 1996 
+Briggs, Derek; Eisen, Jonathan; Goldstein, David; Patel, Nipam; Barton, Nicholas (2007). «Phylogenetic Reconstruction». Evolution. [S.l.]: Cold Spring Harbor Laboratory Press

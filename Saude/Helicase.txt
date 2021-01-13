@@ -1,0 +1,6 @@
+A helicase ou DNA helicase é uma enzima que promove a abertura da hélice de DNA, separando-o em duas fitas simples para que possa sofrer replicação. A helicase quebra as ligações de hidrogénio entre as bases azotadas (purinas ou pirimidinas) de ambas as cadeias de DNA, fazendo com que estas se separem. Esta enzima move-se ao longo da cadeia dupla de DNA utilizando energia da hidrólise de ATP para separar as duas cadeias da molécula.
+
+Ao funcionarem durante o processo de replicação do DNA, as helicases recebem "ajuda" da enzima DNA-girase (ou topoisomerase), que desenrola a cadeia, diminuindo a tensão à medida que as helicases avançam, facilitando assim o seu trabalho. Depois de aberta, a dupla cadeia de DNA não se volta a ligar devido à acção das proteínas ligadoras de fita simples (proteínas SSB), que mantêm a cadeia aberta, impedindo o anelamento da dupla fita de DNA, para poder ser replicada.
+
+
+== Referências ==

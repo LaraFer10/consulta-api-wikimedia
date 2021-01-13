@@ -1,0 +1,22 @@
+A via da lectina é um tipo de reação em cascata no sistema complemento, com estrutura semelhante à via clássica do complemento, a qual, após ativação, envolve ação de C4 e C2 para produzir proteínas ativas do complemento à jusante na cascata. Em contraste com a via clássica, a via da lectina não reconhece um anticorpo ligado ao alvo, mas sim começa com a ligação de lectinas ligadoras de manose ou ficolinas a certos açúcares.
+Nessa via, a lectina ligadora de manose (MBL) se liga a manose, glicose  ou outros açúcares com os grupos 3- e 4-OH  localizados no plano equatorial nas posições terminais de carboidratos ou glicoproteínas encontradas em microorganismos. Entre os alvos da MBL encontram-se,  por exemplo, bactérias como  Salmonella, Listeria e Neisseria , fungos patogênicos como Candida albicans e Cryptococcus neoformans e até alguns vírus como  HIV-1 e o Vírus sincicial respiratório (RSV).
+A lectina ligadora de manose (MBL,também conhecida como proteína ligadora de manose) é uma  proteína que pertence à família das colectinas que é produzida no fígado e é capaz de iniciar a cascata do complemento ligando-se a superfícies patógenos.
+
+
+== MBL ==
+A MBL forma oligômeros a partir de trímeros de subunidades ( complexos de 6 a 18 polipeptídeos, qa partir da organização anterior diméricas ou hexamérica, respectivamente). Multímeros de MBL complexam com ( MASP1 (Mannose-binding lectin-Associated Serine Protease, serina protease associada a MBL), MASP2 e MASP3, que são zimógenos de proteases . As MASPs são deveras semelhantes às moléculas C1r e C1s da via clássica do complemento e possivelmente possuem um ancestral evolutivo comum. Quando as cabeças reconhecedoras de carboidrato da MBL se ligam aos resíduos alvo em patógenos,  MASP-1 w MASP-2 são ativadas para clivar os componentes do complemento C4 e C2 em C4a, C4b, C2a, e C2b. Adicionalmente, duas proteínas associadas a MBL (MAps) são encotradas no complexo coM mbl, uma de 19 kDa (MAp19) e outra de 44 kDa (Map44). MASP-1, MASP-3 e MAp44  são produtos de splicing alternativo do gene MASP-1, enquanto MASP-2 e MAp19 são produtos de splicing alternativo do gene MASP-2. Foi sugerido que MAp44 possa agir como um inibidor competitivo da ativação da via da lectina deslocando a MASP-2 da MBL, prevenindo então clivagem de C4 e C2 
+
+
+== C3 convertase ==
+C4b e C2a combinam-se na superfície de patógenos formando a C3-convertase (C4b e C2a),  enquanto C4a e C2b atuam como quimiotáticos. A  C3 convertas é, em termos clássicos, C4b2a.
+
+
+== Significado clínico ==
+Foi-se encontrado que pessoas deficientes em MBL experienciam um aumento substancial em infecções durante os primeios anos da infância.
+
+
+== Referências ==
+
+
+== Ligações externas ==
+http://pathmicro.med.sc.edu/ghaffar/complement.htm

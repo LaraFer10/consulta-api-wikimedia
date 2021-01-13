@@ -1,0 +1,32 @@
+
+== D04A Antipririginosos, incluindo anti-histamínicos, anestésicos ==
+
+
+=== D04AA Anti-histamínicos para uso tópico ===
+D04AA01 Thonzylamine
+D04AA02 Mepyramine
+D04AA03 Thenalidine
+D04AA04 Tripelennamine
+D04AA09 Chloropyramine
+D04AA10 Promethazine
+D04AA12 Tolpropamine
+D04AA13 Dimetindene
+D04AA14 Clemastine
+D04AA15 Bamipine
+D04AA22 Isothipendyl
+D04AA32 Diphenhydramine
+D04AA33 Diphenhydramine methylbromide
+D04AA34 Chlorphenoxamine
+
+
+=== D04AB Anestésicos para uso tópico ===
+D04AB01 Lidocaína
+D04AB02 Cinchocaína
+D04AB03 Oxibuprocaína
+D04AB04 Benzocaína
+D04AB05 Quinisocaína
+D04AB06 Tetracaína
+D04AB07 Pramocaína
+
+
+=== D04AX Outros antipririginosos ===

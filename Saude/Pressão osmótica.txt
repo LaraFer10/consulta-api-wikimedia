@@ -1,0 +1,77 @@
+Se quisermos interromper a osmose, basta exercer sobre o sistema formado por duas soluções ou uma solução e um solvente, separados por uma membrana semipermeável, uma pressão no sentido inverso ao da osmose no mínimo com a mesma intensidade daquela que o solvente faz para atravessar a membrana semipermeável.
+A essa pressão, capaz de impedir o fenômeno da osmose, damos o nome de pressão osmótica
+Ou seja, é definida como o equivalente à pressão necessária, aplicada sobre um recipiente contendo solvente puro de modo a impedir a osmose.
+
+
+== A pressão osmótica de uma solução ==
+Osmose natural: a saída do meio menos concentrado para o meio mais concentrado.
+Osmose reversa: a saída do meio mais concentrado para o meio menos concentrado.  
+  
+    
+      
+        π
+        =
+        N
+        ⋅
+        R
+        ⋅
+        T
+        ⋅
+        i
+      
+    
+    {\displaystyle \pi =N\cdot R\cdot T\cdot i}
+  .Sendo:
+
+  
+    
+      
+        π
+      
+    
+    {\displaystyle \pi }
+   = pressão osmótica da solução
+
+  
+    
+      
+        N
+      
+    
+    {\displaystyle N}
+   = concentração do soluto em solução expressa em mol/L (molaridade)
+
+  
+    
+      
+        R
+      
+    
+    {\displaystyle R}
+   = constante universal dos gases perfeitos, cujo valores são 0,082 atm.L.K-1.mol-1 ou 62,3 mmHg.L.K-1.mol-1 ou 8,31 J/mol.K
+
+  
+    
+      
+        T
+      
+    
+    {\displaystyle T}
+   = temperatura em Kelvin
+
+  
+    
+      
+        i
+      
+    
+    {\displaystyle i}
+   = fator de correção de Van't Hoff
+
+
+== Características Coligativas ==
+A equação mostra que a pressão de ebulição, a uma dada temperatura e pressão, é uma propriedade coligativa, pois depende somente do número de partículas do soluto por unidade de volume da solução.
+Observação:
+
+Solutos moleculares como a glicose e sacarose, de mesma concentração em mol/L, apresentam a mesma pressão osmótica.
+Solutos iônicos como NaCl ou CaCl2, embora tenham a mesma concentração em mol/L, apresentam pressão osmótica diferentes, devido números de partículas produzidas. Como o NaCl se dissolve em água, gerando íons Na+ e Cl-, 1 mol/L de NaCl produz na verdade 2 mol/L de partículas. No cálculo da Pressão Osmótica, o fator de Van't Hoff (i) adquire então valor 2. No caso do CaCl2, como temos 3 mol/L de partículas (Ca+ e 2Cl-), temos i = 3.

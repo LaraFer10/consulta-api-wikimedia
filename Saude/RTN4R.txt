@@ -1,0 +1,29 @@
+RTN4R (reticulon 4 receptor) também conhecido como nogo-66 receptor (NgR) é uma proteína que ocorre nos seres humanos e é codificada pelo gene RTN4R. Este gene codifica o receptor para reticulon 4, para glicoproteína da mielina do oligodendrócito e para a glicoproteína associada à mielina. Este receptor faz a mediação da inibição do crescimento axonal e pode desempenhar um papel na regulação da regeneração e plasticidade axonal no sistema nervoso central no adulto.
+
+
+== Função ==
+O Receptor Nogo-66 (NgR) é um receptor de ligação de alta afinidade para uma região de Nogo, uma proteína associada à mielina que inibe o crescimento de axônios. NgR foi identificado usando uma estratégia de clonagem de expressão.
+NgR está relacionado com a plasticidade e regeneração neuronal. Sua importância relativa na mediação da inibição da mielina in vivo está atualmente sob intensa investigação, uma vez que essa proteína pode ser um bom alvo para o tratamento de várias condições neurológicas, como lesão medular e acidente vascular cerebral.
+
+
+== Via Nogo: rho quinase ==
+Embora toda a via não seja totalmente compreendida, a relação entre o NgR e o crescimento neuronal foi descoberta. NgR é uma proteína de membrana que, quando ligada ao inibidor de crescimento de neurites (Nogo), inibe o crescimento celular através da ativação da rho quinase.
+
+
+== Ativação NgR de p75 ==
+Era sabido que NgR, Nogo e outro receptor de membrana chamado p75 estavam envolvidos na inibição do crescimento de neurites. Por meio de uma variedade de procedimentos experimentais, Wang et al. foram capazes de identificar a relação bioquímica entre NgR e p75. Primeiro, foi observado que quando o p75 foi eliminado em camundongos, a inibição do crescimento não foi mais observada. A conclusão dos ensaios de ligação e co-imunoprecipitações revelou que p75 e NgR não se ligaram um ao outro através da membrana celular. A mutação de p75 ou NgR, no entanto, resultou em proteína truncada que ajudaria a revelar as interações de ligação. Quando os domínios extracelulares dos receptores foram removidos, nenhuma inibição de crescimento foi observada. Isso sugeriria que os receptores interagem extracelularmente. Além disso, foi reafirmado que Nogo e a glicoproteína associada à mielina (MAG) se ligam a NgR e não a p75. O receptor p75 carece de um domínio de ligação para qualquer uma dessas proteínas.
+
+
+== Ativação da proteína rho ==
+O trabalho de Kaplan e Miller mostra que existe uma interação entre os receptores p75 / NgR e o inibidor de dissociação Rho GDP (Rho-GDI). Kaplan e Miller mostram que quando Nogo está ligado a NgR, Rho-GDI está associado a p75. Quando o Rho-GDI é desenhado para p75, ele não está mais vinculado ao Rho-GDP. Isso permite que o GTP seja trocado pelo GDP, ativando a proteína Rho. Rho-GTP, uma Rho GTPase, então ativa ROCK, que fosforila outras proteínas que inibem o crescimento de neurites. Quando Nogo não está vinculado a NgR, p75 não é ativado e Rho-GDI permanece vinculado a Rho-GDP. A proteína Rho permanece ligada ao PIB e permanece inativa. ROCK, portanto, não se torna ativado e não pode alterar os padrões de transcrição para inibir o crescimento neuronal.
+
+
+== Inibição Terapêutica ==
+É razoável que a inibição do mecanismo acima possa ajudar na recuperação daqueles que sofrem de lesões na medula espinhal. Uma dessas terapias está atualmente em testes clínicos. A droga, chamada Cethrin, é produzida por um grupo chamado Alseres. A cetrina é um inibidor da ROCK e, portanto, atua na via acima para prevenir a ativação da ROCK para que o crescimento de neurites possa ocorrer. [8] [9] Cethrin é aplicado como uma pasta no local da lesão durante a cirurgia de descompressão.
+
+
+== Regulação da plasticidade do córtex visual ==
+O receptor Nogo-66 (NgR) limita a plasticidade do córtex visual orientada pela experiência. Em camundongos mutantes, o NgR não funcional resultou no aumento da plasticidade do córtex visual após o período crítico na idade adulta, de modo que a plasticidade adulta nos camundongos mutantes se assemelhava à plasticidade visual normal em cérebros de camundongos jovens. Essa função do NgR é de interesse particular para o estudo de distúrbios visuais que podem resultar de entrada desequilibrada durante o período crítico, como ambliopia. 
+
+
+== Referências ==

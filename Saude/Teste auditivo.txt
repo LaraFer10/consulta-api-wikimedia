@@ -1,0 +1,34 @@
+Um teste de audição fornece uma avaliação da sensibilidade do sentido da audição de uma pessoa e é mais frequentemente realizado por um audiologista usando um audiômetro.  Um audiômetro é usado para determinar a sensibilidade auditiva de uma pessoa em diferentes frequências.  Existem outros testes auditivos, como por exemplo, o teste de Weber e o teste de Rinne.
+
+
+== Exame das orelhas ==
+Antes do teste de audição, propriamente dito, as orelhas do cliente são geralmente examinadas com um otoscópio para avaliar a presença de cera, a integridade do tímpano, a presença de infecção de orelha (orelha externa ou média). Além disso, é levantado o histórico do cliente, verificando queixas auditivas e intercorrências na saúde. As razões mais comuns para o desenvolvimento de perdas auditivas podem estar relacionadas a: alterações genéticas, envelhecimento, exposição à ruído ocupacional ou no lazer, infecções, complicações no parto, trauma acústico ou mecânico e certos medicamentos que são tóxicos ao sistema auditivo.
+
+
+== Audiometria tonal ==
+O tipo de teste auditivo padrão e mais comum é a audiometria tonal liminar, que mede os limiares auditivos por condução aérea e óssea para cada orelha em um conjunto de 8 frequências padrão (de 250 Hz a 8000 Hz).  O teste é realizado em uma cabina acústica usando um par de fones de ouvido conectados a um audiômetro externo.  O resultado do teste é um audiograma que representa a sensibilidade auditiva de uma pessoa nas frequências testadas.  Existe também uma versão que avalia frequências mais altas (de 9000 Hz até 20000 Hz), o que pode ser empregado em circunstâncias especiais.
+
+
+== Weber e Rinne ==
+Uma avaliação auditiva completa envolve vários outros testes.   Para determinar que tipo de perda auditiva está presente, um teste auditivo por condução óssea (acumetria) pode ser administrado.  Neste teste (Rinne), um diapasão vibrando é colocado atrás da orelha, na mastóide.  Quando o paciente não consegue mais sentir/ouvir a vibração, o diapasão é mantido na frente da orelha; o paciente deve, mais uma vez, ouvir o som produzido pelo diapasão. Se o paciente não puder ouvir este som, sugere-se a presença de perda auditiva condutiva nessa orelha.  Além disso, o diapasão pode ser colocado na testa (Weber).  É então perguntado ao paciente se o som está localizado no centro da cabeça ou se é mais intenso em qualquer uma das orelhas. Em um paciente com audição normal, o tom é ouvido centralmente. Se houver perda auditiva condutiva, é provável que seja mais intenso na orelha afetada; se houver perda auditiva neurossensorial, será menos intenso na orelha afetada.  Estes testes ajudam o audiologista a determinar se a perda auditiva é condutiva (causada por problemas na orelha externa ou média) ou neurossensorial (causada por problemas na cóclea, o órgão sensorial da audição, ou neural - causada por um problema no nervo auditivo). 
+
+
+== Hearing in Noise (HINT) ==
+O teste Hearing in Noise (HINT) consiste em verificar o desempenho de uma pessoa no reconhecimento de fala em silêncio e no ruído.  Este teste simula situações auditivas similares as do cotidiano e está disponível em várias línguas, inclusive na língua portuguesa falada no Brasil. Neste teste, é solicitado ao paciente repetir as sentenças, tanto em um ambiente silencioso quanto com ruído competitivo.  O HINT avalia a função auditiva para sentenças no silêncio e em três condições de ruído: a) ruído à frente (fala e ruído à frente a 0° azimute); b) ruído à direita (fala na frente e ruído a 90° para a direita), e c) ruído à esquerda (fala à frente e ruído a 90° para a esquerda). O teste HINT contém 12 listas de 20 sentenças cada, totalizando 240 sentenças representativas da fala cotidiana, curtas, fonemicamente balanceadas, de fácil compreensão e com o mesmo grau de dificuldade.  Desta forma, o teste mede a relação sinal / ruído para as diferentes condições, o que corresponde a quão intensas as frases precisam ser apresentadas acima do ruído, para que o paciente possa repeti-las corretamente em 50% das vezes. 
+
+
+== Words-in-Noise Test (Teste de palavras no ruído) ==
+O teste Words-in-Noise (WIN) usa palavras monossílabas apresentadas em sete diferentes relações sinal / ruído com ruído mascarante - tipicamente ruído de espectro de fala.   O teste WIN resultará em uma pontuação para a habilidade de inteligibilidade de fala na presença de ruído de fundo. Este teste pode fornecer uma medida mais funcional da audição, em situação mais próxima do cotidiano.  
+
+
+== Teste de rima modificado ==
+O Modified Rhyme Test (MRT) é definido na American National Standard (ANSI S3.2) - Methods for Measuring the Intelligibility of Speech Over Communication Systems.   O método consiste em 50 conjuntos de seis palavras monossílabas que diferem na consoante inicial ou final (por exemplo, not, tot, got, pot, hot, lot or ray, raze, rate, rave, rake, race).  As seis palavras que rimam são apresentadas ao ouvinte para selecionar o que elas acreditam ser a resposta correta.  O MRT tem sido amplamente utilizado pela Força Aérea dos EUA para testar o desempenho de diferentes sistemas de comunicação, que geralmente incluem um componente de interferência de ruído.  Se uma condição atinge uma pontuação de 80% de respostas corretas ou melhor, então esse é frequentemente um nível de desempenho aceitável. 
+
+
+== Outros testes ==
+O fonoaudiólogo também pode realizar testes de fala à viva voz ou gravados, nos quais o paciente repete as palavras que ouviu. Os testes mais utilizados são o Limiar de Recepção de Fala e o Índice Percentual de Reconhecimento de fala.
+Além disso, um teste chamado timpanometria é geralmente feito.  Neste teste, uma pequena sonda é colocada na orelha e é apresentada uma pressão variada do ar no canal auditivo.  Este teste diz ao fonoaudiólogo como o tímpano e outras estruturas da orelha média estão funcionando.  O volume do canal auditivo indica se uma perfuração no tímpano (membrana timpânica) pode estar presente.  A pressão na orelha média indica se existe algum líquido no espaço da orelha média (também chamada de "otite média").  As medidas de complacência indicam quão bem o tímpano e os ossículos (os três ossos da orelha média) estão se movimentando.
+Outro teste que pode ser realizado, após a timpanometria, é a avaliação do reflexo acústico .  Neste teste, uma sonda é colocada na orelha e um tom intenso é produzido.  O teste mede a contração reflexa do músculo estapédio , que é importante para proteger a orelha de ruídos intensos.  Este teste pode ser usado para fornecer informações sobre os nervos vestíbulococlear e facial, indicando se uma lesão pode estar presente.
+
+
+== Referências ==

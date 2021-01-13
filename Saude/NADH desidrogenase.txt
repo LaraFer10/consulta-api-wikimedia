@@ -1,0 +1,63 @@
+Nome aceito: NADH: ubiquinona redutase ( tradutor H + )
+Reação: NADH + ubiquinona + 6 H + [lado 1] = NAD + + ubiquinol + 7 H + [lado 2]
+Outro nome (s): ubiquinona redutase (ambígua); desidrogenase tipo 1; complexo desidrogenase  1; coenzima Q redutase (ambígua); complexo I (cadeia transportadora de elétrons); complexo I (transporte de elétrons mitocondriais); complexo I (NADH: Q1 oxidoredutase); di-hidronicotinamida adenina dinucleotídeo-coenzima Q redutase (ambígua); DPNH-coenzima Q redutase (ambígua); DPNH-ubiquinona redutase (ambígua); complexo de transporte de elétrons mitocondrial 1; complexo de transporte de elétrons mitocondrial I; Coenzima NADH Q 1redutase; NADH-coenzima Q oxidoredutase (ambígua); NADH-coenzima Q redutase (ambígua); NADH-CoQ oxidoredutase (ambígua); NADH-CoQ redutase (ambígua); NADH-ubiquinona redutase (ambígua); NADH-ubiquinona oxidoredutase (ambígua); NADH-ubiquinona-1 redutase; nicotinamida adenina reduzida dinucleotídeo-coenzima Q redutase (ambígua); NADH: complexo ubiquinona oxidoredutase; NADH-Q6 oxidoredutase (ambígua); complexo de transferência de elétrons I; NADH 2 desidrogenase (ubiquinona)
+
+Nome sistemático: NADH: ubiquinona oxidoredutase
+EC 7.1.1.2
+
+
+== Reação ==
+Flavoproteína e oxidorredutase que apresenta átomos de ferro e enxofre e catalisa a oxidação de NADH a NAD. Em eucariotos esta enzima pode ser encontrada como componente do complexo I transportador mitocondrial de elétrons. Em condições experimentais, a enzima pode usar o GRUPO CITOCROMO C como cofator redutor. Anteriormente classificada como EC 1.6.2.1. 
+A NADH desidrogenase é a primeira enzima da cadeia transportadora de elétrons mitocondrial, catalisando a oxidação do NADH e a redução da coenzima Q segundo a reação:
+
+NADH + ubiquinona + 6 H + [lado 1] = NAD + + ubiquinol + 7 H + [lado 2]Neste processo, o complexo transloca protons através da membrana interna, ajudando na criação de um gradiente eletroquímico utilizado na produção de ATP. Não é conhecido o mecanismo catalítico em detalhe, assim como o número preciso de electrões translocado.
+
+A cadeia de transporte de elétrons apresenta dois pontos de entrada para os elétrons provenientes de diferentes substratos em direção ao oxigênio: os complexos I e II. A NADH desidrogenase, responsável pela oxidação do NADH, tem como grupo prostético a flavina mononucleotídeo (FMN), que, como o FAD, é um derivado da riboflavina e, ao receber 2 H+ e 2 e-, reduz-se a FMNH2. Os substratos que são oxidados por desidrogenases que utilizam NAD+ tem seus elétrons transferidos do NADH para o FMN, por ação da NADH desidrogenase, componente do complexo I. Exemplos destes substratos são gliceraldeído 3-fosfato, piruvato, isocitrato, malato e ß-hidroxiacil-CoA.
+As proteínas ferro-enxofre presentes nos complexos I, II e III contêm átomos de enxofre inorgânico e de ferro não hêmico associados à cadeia polipeptídica por ligação a resíduos de cisteína (Figura 5). As proteínas ferro-enxofre são transportadoras de elétrons apenas, não recebendo prótons. Os elétrons são recebidos pelos átomos de ferro, que oscilam entre as formas Fe+2 e Fe+3, segundo estejam reduzidos ou oxidados. O número e a localização das proteínas ferro-enxofre que participam do transporte de elétrons ainda não são conhecidos com precisão.
+FMN e CoQ, podem adotar 3 estados de oxidação. Embora NADH pode participar em um transferência de 2 elétrons, ambas FMN e CoQ são capazes de receber e doar um ou dois elétrons, pois sua formas semiquinonas são estáveis (Figura 6).
+A coenzima Q ou ubiquinona é uma quinona com uma longa cadeia isoprênica lateral. Existem várias formas de CoQ, que diferem pelo número dessas unidades isoprênicas. As características hidrofóbicas da CoQ permitem sua mobilidade na fase lipídica da membrana, ao contrário dos outros componentes da cadeia de transporte de elétrons, que têm posições fixas. A coenzima Q, ao reduzir-se, recebe 2 H+ e 2 e- , passando então à forma CoQH2.
+
+
+== Estrutura e composição ==
+Localização subcelular: Membrana mitocondrial interna 
+NADH desidrogenase mitocondrial é um dos maiores complexos respiratórios: em mamíferos, a enzima possui 42 cadeias polipeptídicas. Destas, sete são codificadas pelo genoma mitocondrial. De particular relevância para a actividade biológica da enzima é a presença de um grupo prostético flavínico e oito centros de ferro-enxofre.
+A estrutura é em forma de "L", possuindo um longo domínio membranar (com cerca de sessenta hélices transmembranares) e um domínio periférico hidrofílico, que inclui a atividade de redução de NAD. A estrutura do complexo eucariótico não se encontra bem caracterizada, mas é conhecida a estrutura do domínio hidrofílico de uma bactéria (Thermus thermophilus).
+
+
+== Inibição ==
+O inibidor mais bem conhecido do complexo I é a rotenona (utilizada como pesticida). Liga-se provavelmente ao local de ligação da ubiquinona. A piericidina A é um inibidor mais potente, sendo um homólogo estrutural da ubiquinona.
+
+
+== Patologias ==
+
+
+==== Deficiência do complexo mitocondrial I, tipo nuclear 7 (MC1DN7) ====
+A doença é causada por mutações que afetam o gene.
+Descrição da doença: Uma forma de deficiência do complexo mitocondrial I, a assinatura bioquímica mais comum de distúrbios mitocondriais, um grupo de condições altamente heterogêneas caracterizadas por fosforilação oxidativa defeituosa, que afeta coletivamente 1 em 5-10000 nascidos vivos. Os distúrbios clínicos têm gravidade variável, variando de doença neonatal letal a distúrbios neurodegenerativos de início no adulto. Os fenótipos incluem macrocefalia com leucodistrofia progressiva, encefalopatia inespecífica, cardiomiopatia, miopatia, doença hepática, síndrome de Leigh, neuropatia óptica hereditária de Leber e algumas formas de doença de Parkinson. O padrão de transmissão do MC1DN7 é consistente com a herança autossômica recessiva.
+Informações relacionadas no OMIM
+
+
+==== Palavras-chave ====
+Doença mitocondrial primária
+
+
+== Ver também ==
+Fosforilação oxidativa
+Flavoproteína
+
+
+== Referências ==
+1. Hatefi, Y., Ragan, CI e Galante, YM As enzimas e os complexos enzimáticos do sistema de fosforilação oxidativa mitocondrial. In: Martonosi, A. (Ed.), The Enzymes of Biological Membranes , 2a edn, vol. 4, Plenum Press, Nova Iorque, 1985, pp. 1-70.
+2. Herter, SM, Kortluke, CM e Drews, G. Complexo I de Rhodobacter capsulatus e seu papel no transporte reverso de elétrons. Arco. Microbiol. 169 (1998) 98-105. [PMID: 9446680 ]
+3. Hunte, C., Zickermann, V. e Brandt, U. Módulos funcionais e base estrutural do acoplamento conformacional no complexo mitocondrial I. Science 329 (2010) 448-451. [PMID: 20595580 ]
+4. Efremov, RG, Baradaran, R. e Sazanov, LA A arquitetura do complexo respiratório I. Nature 465 (2010) 441-445. [PMID: 20505720 ]
+5. Wikstrom, M. e Hummer, G. Estequiometria da translocação de prótons pelo complexo respiratório I e suas implicações mecanicistas. Proc. Natl. Acad. Sci. USA 109 (2012) 4431-4436. [PMID: 22392981 ]
+
+
+== Ligações externas ==
+Links para outros bancos de dados: BRENDA, EXPASY, KEGG, Metacyc, IUBMB. 
+
+«Modelo molecular interactivo da NADH desidrogenase» (em inglês). (Requer o plugin MDL Chime) 
+«Página sobre o complexo I» (em inglês). do The Scripps Research Institute 
+«Complexo I» (em inglês). no MeSH 
+«NADH desidrogenase» (em inglês). no MeSH

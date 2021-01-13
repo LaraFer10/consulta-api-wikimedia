@@ -1,0 +1,27 @@
+A piruvato desidrogenase é o primeiro componente do complexo enzimático piruvato desidrogenase. EC 1.2.4.1.
+
+
+== Função ==
+E1 executa a primeira de duas reacções no complexo. Elas são:
+
+descarboxilação do substrato 1, o piruvato.
+acetilação redutiva do substrato 2, ácido lipóico. O ácido lipóico está ligado de maneira covalente à dihidrolipoil transacetilase (E2), que é o segundo componente catalítico do complexo.
+
+
+== Regulação ==
+Fosforilação de E1 pela piruvato desidrogenase quinase inativa E1 e subsequentemente todo o complexo.
+Esta ação é revertida pela alta relação Insulina/Glucagon, que têm como consequência o aumento da transcrição da piruvato desidrogenase fosfatase, e repressão do gene da piruvato desidrogenase quinase. Tal mecanismo resulta em alta produção de Acetil-CoA.
+
+
+== Genes ==
+E1 é uma proteína multimérica:
+
+As E1 de mamíferos, incluindo a E1 humana, são tetraméricas, compostas de duas subunidades α e duas subunidades β.
+algumas E1 bacterianas, incluindo a E1 de Escherichia coli, são compostas por duas subunidades similares, cada uma delas com uma massa molecular tão grande quanto a soma das subunidades α e β.
+
+
+== Outras formas ==
+Em bactérias, existe uma forma de piruvato desidrogenase, também denominada piruvato oxidase (EC 1.2.2.2). Esta enzima liga a oxidação do piruvato em acetato e dióxido de carbono à redução de ferrocitrocromo. Em E. coli esta enzima é codificada pelo gene pox B e a proteína possui um cofactor flavínico. A enzima aumenta a eficiência do crescimento de E. coli sob condições aeróbica.
+
+
+== Referências ==

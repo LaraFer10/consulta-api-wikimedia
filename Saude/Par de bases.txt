@@ -1,0 +1,131 @@
+Em genética e biologia molecular um par de bases consiste em dois nucleotídeos opostos e complementares nas cadeias de ADN e ARN que estão conectadas por ligações de hidrogênio (frequentemente chamadas pb ou do inglês base pair, bp).
+Na canônica paridade de bases Watson-Crick, adenina (A) forma um par de base com timina (T), como a guanina (G) faz par com a citosina (C) no DNA. No ARN, a timina é substituída pelo uracilo (U), conectando-se este com a adenosina. A paridade de base não nos moldes Watson-Crick com alternados padrões de ligações de hidrogênio também ocorre, especialmente no RNA; tais padrões comuns são os pares de bases Hoogsteen.
+Paridade é também o mecanismo pelo qual códons sobre moléculas de RNA mensageiro são reconhecidas por anticódons sobre RNA transferência durante a translação de proteína. Algumas enzimas de ligação DNA ou RNA podem reconhecer padrões de paridade de bases específicas que identificam regiões de genes de regulação particular.
+O tamanho de um gene individual ou um genoma inteiro de um organismo é frequentemente medido nos pares de bases. O DNA é normalmente de cadeia dupla. Desde que, o número total de pares de bases é igual ao número de nucleotídeos numa das cadeias (com a exceção de regiões de cadeia única não codificada de telômeros). O genoma humano haplóide (23 cromossomas) é estimado como tendo aproximadamente o comprimento de 3 bilhões de pares de bases e contendo de 20 a 25 mil genes distintos.Uma quilobase (em algumas obras kilobase) é uma unidade de medida em biologia molecular significando 1 000 pares de bases de DNA ou RNA.
+
+
+== Exemplos ==
+As seguintes sequências de DNA ilustram padrões de cadeias duplas de pares. Por convenção, a cadeia de cima é escrita da extremidade 5' à extremidade 3'; então a cadeia de baixo é escrita da 3' a 5'.
+
+Um sequência de DNA de bases em paridade:
+  
+    
+      
+        A
+        T
+        C
+        G
+        A
+        T
+      
+    
+    {\displaystyle ATCGAT}
+  
+
+  
+    
+      
+        T
+        A
+        G
+        C
+        T
+        A
+      
+    
+    {\displaystyle TAGCTA}
+  A correspondente sequência de RNA de bases em paridade, na qual uracilo é substituído por timina:
+  
+    
+      
+        A
+        T
+        C
+        G
+        A
+        T
+      
+    
+    {\displaystyle ATCGAT}
+  
+
+  
+    
+      
+        U
+        A
+        G
+        C
+        U
+        A
+      
+    
+    {\displaystyle UAGCUA}
+  
+
+
+== Medidas de comprimento ==
+As seguintes abreviações são comumente usadas para descrever o comprimento das moléculas de DNA/RNA:
+
+  
+    
+      
+        b
+        p
+        =
+      
+    
+    {\displaystyle bp=}
+   par de bases (da inglês base pair) — um bp corresponde a aproximadamente 3,4 Å de comprimento ao longo da cadeia
+
+  
+    
+      
+        
+          k
+          b
+        
+        (
+        
+          =
+           
+          k
+          b
+          p
+        
+        )
+        =
+      
+    
+    {\displaystyle {kb}({=~kbp})=}
+   kilo (quilo) pares de bases = 1 000 bp
+
+  
+    
+      
+        M
+        b
+        =
+      
+    
+    {\displaystyle Mb=}
+   mega pares de bases = 1 000 000 bp
+
+  
+    
+      
+        G
+        b
+        =
+      
+    
+    {\displaystyle Gb=}
+   giga pares de bases = 1 000 000 000 bpNo caso de cadeias isoladas de DNA/RNA nós falamos sobre nucleotídeos, abreviados nt (ou knt, Mnt, Gnt), proporcionais aos pares de bases, como eles não estão em pares.
+Para distinção entre unidade de armazenamento de dados em computação e bases kbp, Mbp, Gbp, etc., devem ser usados para desambiguação.
+O centimorgan é frequentemente usado por implicar comprimento ao longo de um cromossomo, mas o número de pares de bases ao qual corresponde varia grandemente. No genoma humano é equivalente a aproximadamente 1 milhão de pares de bases.
+
+
+== Referências ==
+
+
+== Notas ==

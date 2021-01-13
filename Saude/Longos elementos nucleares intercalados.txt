@@ -1,0 +1,7 @@
+Longos elementos nucleares intercalados ou sequências LINE (do inglês Long Interdpersed Repeated Sequences) são um grupo de não-LTR retrotransposões, isto é, sequencias repetitivas intercalares, que têm origem viral, presente no genoma de muitos eucariotas .
+Existem 900000 locais LINE no genoma humano. Estes podem ser L1, L2 ou L3. No entanto, no genoma contemporâneo, apenas os L1 são móveis. 
+A fim de serem incorporados no genoma, é necessário uma transcriptase reversa e uma endonuclease, sendo que ambas são expressas pela sequência na Open Reading Frame 2 (ORF2).
+Muitos dos LINE não são móveis, visto que foram truncados na extremidade 5, não se formando RNA intermediário.
+
+
+== Referências ==

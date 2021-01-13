@@ -1,0 +1,33 @@
+Um minigene é um fragmento genético mínimo que inclui um exão e as regiões de controle necessárias para que o gene se expresse da mesma maneira que um fragmento de gene do tipo selvagem. Este é um minigene em seu sentido mais básico. Minigenes mais complexos podem ser construídos contendo vários éxãos e íntrãos. Os minigenes fornecem uma ferramenta valiosa para os pesquisadores que avaliam os padrões de splicing, tanto as experiências bioquimicamente avaliadas in vivo quanto as in vitro. Especificamente, os minigenes são usados como vetores repórter de splicing (também chamados de vetores de captura de éxãos) e atuam como uma sonda para determinar quais fatores são importantes nos resultados do splicing. Eles podem ser construídos para testar a maneira como os elementos cis-reguladores (efeitos de RNA) e os elementos transreguladores (proteínas associadas/fatores de splicing) afetam a expressão gênica.
+
+
+== História ==
+Os minigenes foram primeiro descritos como a montagem somática dos segmentos de DNA e consistiam em regiões de DNA conhecidas por codificarem a proteína e as regiões de flanqueamento necessárias para expressar a proteína. O termo foi usado pela primeira vez em um artigo em 1977 para descrever a clonagem de dois minígenos que foram projetados para expressar um peptídeo.O splicing de RNA foi descoberto no final da década de 1970 através do estudo de adenovírus que invadem mamíferos e se replicam dentro deles. Os pesquisadores identificaram moléculas de RNA que continham sequências de partes não contíguas do genoma do vírus. Essa descoberta levou à conclusão de que existiam mecanismos reguladores que afetavam o RNA maduro e os genes que ele expressa. O uso de minigenes como um vetor de relatório de emenda para explorar os efeitos da regulação do splicing de RNA seguiu naturalmente e continua sendo o principal uso de minigenes até o momento.
+
+
+== Tipos ==
+Para fornecer um bom modelo de minigene, o fragmento do gene deve ter todos os elementos necessários para garantir que ele exiba os mesmos padrões de splicing alternativos que o gene do tipo selvagem, ou seja, o comprimento do fragmento deve incluir todos os elementos a montante e a jusante sequências que podem afetar sua emenda. Portanto, a maioria dos projetos de minigene começa com uma análise in silico completa dos requisitos do experimento antes que qualquer trabalho de laboratório "úmido" seja realizado. Com o advento da bioinformática e o amplo uso de computadores, existem vários bons programas para a identificação de regiões de controle de ação cis que afetam os resultados de splicing de um gene e programas avançados podem até considerar resultados de splicing em vários tecidos. tipos. As diferenças nos minigenes geralmente são refletidas no tamanho final do fragmento, que, por sua vez, é um reflexo da complexidade do próprio minigene. O número de elementos de DNA estranhos (éxãos e íntrãos) inseridos nos éxãos e íntrãos constitutivos de um dado fragmento varia de acordo com o tipo de experimento e as informações procuradas. Uma experiência típica pode envolver minigenes do tipo selvagem que se espera expressem genes normalmente em uma comparação realizada contra variações alélicas geneticamente modificadas que substituem o gene do tipo selvagem e foram clonadas nas mesmas sequências de flanqueamento do fragmento original. Esses tipos de experimentos ajudam a determinar o efeito de várias mutações na junção pré-mRNA.
+
+
+== Ver também ==
+ADN recombinante
+Splicing
+Exão
+Intrão
+Transfecção
+
+
+== Referências ==
+
+
+== Bibliografia ==
+"Alternative pre-mRNA Splicing: Theory e Protocols", por Stefan Stamm, Chris Smith e Reinhard Lührmann ISBN 978-3527326068
+"Molecular Diagnostics, Second edition", por Ed. por George P. Patrinos e Whilhelm Ansorge ISBN 0123745373
+"DNA Vaccines" editado por Hildegun Ertl ISBN 1461349257
+"Alternative Splicing and Disease (Progress in Molecular and Subcellular Biology)" por Philippe Jeanteur ISBN 3540344489
+
+
+== Ligações externas ==
+Página de Stefan Stamm na Universidade de Kentucky. Boa visão geral da pesquisa em minigene.
+Laboratório de Christopher Burge no site do MIT. Um bom site para análise teórica de emenda.
+Navegador do genoma UCSC. Grande banco de dados para recuperar informações sobre genes.

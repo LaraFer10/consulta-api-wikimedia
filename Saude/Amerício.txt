@@ -1,0 +1,683 @@
+O amerício (nome dado em homenagem ao Continente Americano) é um elemento químico radioativo e transurânico com símbolo Am e número atômico 95. É um elemento actínio, localizado na tabela periódica abaixo do elemento európio, um lantanídio, e portanto por analogia, foi nomeado a partir de outro continente, a América.Amerício foi primeiramente produzido em 1944 pelo grupo de Glenn T. Seaborg na Universidade da Califórnia, Berkeley. Embora ele seja o terceiro elemento da série transurânica, ele foi o quarto a ser descoberto, depois do elemento cúrio que possui maior número atômico. A descoberta foi mantida em segredo e só foi liberada para o público em novembro de 1945. A maioria do amerício é produzida bombardeando urânio ou plutônio com nêutrons em reatores nucleares
+. Uma tonelada de combustível nuclear gasto contêm cerca de 100 gramas de amerício. Ele é muito utilizado em câmaras de ionização de detectores de fumaça comerciais, assim como em fontes de nêutrons e medidores industriais. Várias aplicações não usuais, como bateria nuclear ou combustível para naves espaciais com propulsão nuclear, têm sido propostas para o isótopo 242mAm,, mas eles são prejudicados pela escassez desse isômero nuclear e o alto preço do mesmo.
+Amerício é um metal radioativo relativamente maleável com aparência prateada. Seus isótopos mais comuns são 241Am e 243Am. Em componentes químicos, eles usualmente assumem o estado de oxidação +3, especialmente em soluções. Várias outros estados de oxidação são conhecidos, que variam de +2 a +7 e podem ser identificados pelo seu característico espectro de absorvição óptica. A grade da estrutura do cristal de amerício sólido e seus componentes contêm intrínsecos defeitos, que são induzidos pela auto-irradiação com partículas alfa e acumulam-se com o tempo, isto resulta no desvio da propriedade de alguns materiais.
+
+
+== História ==
+
+Embora o amerício tenha sido provavelmente produzido em experimentos nucleares anteriores, ele foi primeiramente sintetizado, isolado e identificado no final do outono de 1944, na universidade da Califórnia, Berkeley, por Glenn T. Seaborg, Leon O. Morgan, Ralph A. James, e Albert Ghiorso. Eles usaram um ciclotron de 60 polegadas na universidade da Califórnia, Berkeley.
+ O elemento foi quimicamente identificado no Metallurgical Laboratory (Laboratório Metalúrgico), agora Argonne National Laboratory), parte da Universidade de Chicago. Seguindo o netúnio, plutônio e cúrio, o amerício foi o quarto elemento transurânico a ser descoberto. Na época, a tabela periódica foi reestruturada por Seaborg para a sua configuração atual, colocando os actinídeos logo abaixo dos lantanídeos. Isso levou o amerício a ocupar a posiação abaixo do európio. E portanto, ele foi nomeado em analogia ao európio, com o nome de um continente, América: "O nome amerício (a partir das Américas) e o símbolo Am foram sugeridos para o elemento com base na sua posição, análoga a do európio, Eu, da sério dos lantanídeos."O novo elemento foi isolado de seus óxidos em um processo complexo de várias fases. Primeiramente, uma solução de nitrato de plutônio-239 (239PuNO3) foi revestida em uma folha de platina com cerca de 0.5 cm2 de área, a solução foi evaporada e os resíduos foram convertidos em dióxido de plutônio (PuO2) por recozimento. Depois da irradiação ciclotron, o revestimento foi dissolvido em ácido nítrico, e então precipitado como hidróxido usando solução de amônia concentrada. O resíduo foi dissolvido em ácido perclórico. Separação posterior foi realizada por permuta iônica, rendendo um certo isótopo de cúrio. A separação de amerício e cúrio era tão meticulosa que os elementos foram inicialmente chamados pelo grupo de Berkeley como pandemonium (do grego : todos os demônios ou inferno) e delirium ( do latim: loucura, delírio).]Experimentos iniciais renderem quatro isótopos de amerício:241Am, 242Am, 239Am e 238Am. Amerício-241 foi diretamente obtido do plutônio pela absorção de um nêutron. Ele decai pela emissão de uma partícula alfa para o 237Np; a meia-vida desse decaimento foi primeiramente determinada em 510 ± 20 anos, mas então corrigida para 432,2 anos.
+
+  
+    
+      
+        
+          
+            
+            
+               
+              94
+            
+            
+              239
+            
+          
+          P
+          u
+           
+          
+            
+              →
+              
+                (
+                n
+                ,
+                γ
+                )
+              
+            
+          
+          
+             
+            
+               
+              94
+            
+            
+              240
+            
+          
+          P
+          u
+           
+          
+            
+              →
+              
+                (
+                n
+                ,
+                γ
+                )
+              
+            
+          
+          
+             
+            
+               
+              94
+            
+            
+              241
+            
+          
+          P
+          u
+           
+          
+            
+              →
+              
+                
+                  14.35
+                   
+                  y
+                  r
+                
+              
+              
+                
+                  β
+                  
+                    −
+                  
+                
+              
+            
+          
+          
+             
+            
+               
+              95
+            
+            
+              241
+            
+          
+          A
+          m
+           
+          
+            (
+            
+               
+              
+                
+                  →
+                  
+                    
+                      432.2
+                       
+                      y
+                      r
+                    
+                  
+                  
+                    α
+                  
+                
+              
+              
+                 
+                
+                   
+                  93
+                
+                
+                  237
+                
+              
+              N
+              p
+            
+            )
+          
+        
+      
+    
+    {\displaystyle \mathrm {^{239}_{\ 94}Pu\ {\xrightarrow {(n,\gamma )}}\ _{\ 94}^{240}Pu\ {\xrightarrow {(n,\gamma )}}\ _{\ 94}^{241}Pu\ {\xrightarrow[{14.35\ yr}]{\beta ^{-}}}\ _{\ 95}^{241}Am\ \left(\ {\xrightarrow[{432.2\ yr}]{\alpha }}\ _{\ 93}^{237}Np\right)} }
+   Os tempos são meia-vidasA descoberta do amerício e do cúrio em 1944 foram muito relacionadas com o Projeto Manhattan, os resultados eram confidenciais e foram desclassificados somente em 1945. Seaborg vazou a síntese dos elementos 95 e 96 numa rádio estado-unidense para crianças Quiz Kids cinco dias antes da apresentação oficial no encontro da Sociedade Química Americana em 11 de novembro de 1945, quando um dos ouvintes se algum novo elemento transurânico foi descoberto ao lado do netúnio e do plutônio durante a Guerra.
+Após a descoberta dos isótopos do amerício 241Am e 242Am, a sua produção e componentes foram patenteados tendo somente Seaborg como o inventor. As amostras iniciais de amerício foram mesuradas em algumas microgramas, e eles eram dificilmente visíveis e identificáveis apenas pela a sua radioatividade. As primeiras amostras substanciais de amerício metálico pesando 40-200 microgramas não foram preparadas até 1951 pela redução de amerício (III) fluoreto com bário metálico em um alto vácuo à 1100 °C.
+
+
+== Ocorrência ==
+
+Os isótopos com maiores meia-vidas e mais comuns do amerício, 241Am e 243Am, tem meia-vidas de 432,2 e 7 370 anos respectivamente. No entanto, qualquer nuclídeo primordial de amerício (amerício que estava presente na Terra durante a sua formação) deve ter decaído agora.
+O amerício existente é concentrado em áreas usadas para testes nucleares atmosféricos conduzidos entre 1945 e 1980, assim como em locais de incidentes nucleares como no Desastre Chernobyl. por exemplo, a análise de detritos no local de teste da primeira bomba de hidrogênio dos Estados Unidos, Ivy Mike, (1 de novembro de 1952, Atol Enewetak|), revelaram altas concentrações de vários actinídeos incluindo amerício, devido ao segredo militar, o resultado só foi publicado em 1956. Trinitita, o resíduo vítreo deixado no chão do deserto perto de Alamogordo, Novo México, depois do teste nuclear com a arma nuclear Trinity baseada em plutônio, em 16 de julho de 1945, contêm traços de amerício-241. Elevados níveis de amerício também foram detectados em local de queda de um B-52, em greenland, em 1968, que carregava quatro bombas de hidrogênio.Em outras regiões, a média de radiatividade na superfície do solo devido ao amerício residual é apenas cerca de 0.01 picocuries/g (0.37 mBq/g). Componentes atmosféricos de amerício são pobremente solúveis em solventes comuns e aderem principalmente à partículas do solo. A analise do solo revelou uma concentração cerca de 1 900 vezes maior entre partículas de solo arenoso que na água presente em poros do solo, e uma razão ainda maior em solos argilosos.Amerício é produzido principalmente artificialmente em pequenas quantidades, para propósitos de pesquisa. Uma tonelada de combustível nuclear gasto, contem cerca de 100 gramas de vários isótopos de amerício, principalmente241Am e 243Am. A sua prolongada radioatividade é indesejável para a disposição, e por isso o amerício, junto com outros actinídeos de longa vida, devem ser neutralizados. O procedimento associado pode envolver várias etapas, onde amerício é primeiramente separado e então convertido por bombardeamento de nêutrons em reatores especiais para nuclídeos de pequena vida. Esse procedimento é muito conhecido como transmutação nuclear, mas ele ainda está sendo desenvolvido para o amerício.Alguns poucos átomos de amerício podem ser produzidos por reações de captura de nêutron e decaimento beta em depósitos altamente concentrados de urânio.
+
+
+== Síntese e extração ==
+
+
+=== Nucleossíntese dos isótopos ===
+
+O amerício tem sido produzido em pequenas quantidades em reatores nucleares por décadas, e quilogramas de seus isótopos 241Am e 243Am tem sido acumulados. Não obstante, desde que ele foi oferecido pela primeira vez para a venda em 1962, o seu preço, de cerca de US$ 1 500 por grama de 241Am, matem-se inalterado devido ao processo muito complexo de separação. O isótopo mais pesado, 243Am é produzido em quantidades muito menores, e por isso é mais difícil de se separar, resultando em um alto custo da ordem de 100 000-160 000 US$/g.Amerício não é sintetizado diretamente do urânio, o material de reator mais comum, mas do isótopo Pu-239. O amerício é produzido seguindo os seguintes processos nucleares:
+
+  
+    
+      
+        
+          
+            
+            
+               
+              92
+            
+            
+              238
+            
+          
+          U
+           
+          
+            
+              →
+              
+                (
+                n
+                ,
+                γ
+                )
+              
+            
+          
+          
+             
+            
+               
+              92
+            
+            
+              239
+            
+          
+          U
+           
+          
+            
+              →
+              
+                
+                  23.5
+                   
+                  m
+                  i
+                  n
+                
+              
+              
+                
+                  β
+                  
+                    −
+                  
+                
+              
+            
+          
+          
+             
+            
+               
+              93
+            
+            
+              239
+            
+          
+          N
+          p
+           
+          
+            
+              →
+              
+                
+                  2.3565
+                   
+                  d
+                
+              
+              
+                
+                  β
+                  
+                    −
+                  
+                
+              
+            
+          
+          
+             
+            
+               
+              94
+            
+            
+              239
+            
+          
+          P
+          u
+        
+      
+    
+    {\displaystyle \mathrm {^{238}_{\ 92}U\ {\xrightarrow {(n,\gamma )}}\ _{\ 92}^{239}U\ {\xrightarrow[{23.5\ min}]{\beta ^{-}}}\ _{\ 93}^{239}Np\ {\xrightarrow[{2.3565\ d}]{\beta ^{-}}}\ _{\ 94}^{239}Pu} }
+  A captura de dois nêutrons por 239Pu (]a tão chamada reação(n,γ) ), seguido por um decaimento β, resulta em 241Am:
+
+  
+    
+      
+        
+          
+            
+            
+               
+              94
+            
+            
+              239
+            
+          
+          P
+          u
+           
+          
+            
+              →
+              
+                2
+                (
+                n
+                ,
+                γ
+                )
+              
+            
+          
+          
+             
+            
+               
+              94
+            
+            
+              241
+            
+          
+          P
+          u
+           
+          
+            
+              →
+              
+                
+                  14.35
+                   
+                  y
+                  r
+                
+              
+              
+                
+                  β
+                  
+                    −
+                  
+                
+              
+            
+          
+          
+             
+            
+               
+              95
+            
+            
+              241
+            
+          
+          A
+          m
+        
+      
+    
+    {\displaystyle \mathrm {^{239}_{\ 94}Pu\ {\xrightarrow {2(n,\gamma )}}\ _{\ 94}^{241}Pu\ {\xrightarrow[{14.35\ yr}]{\beta ^{-}}}\ _{\ 95}^{241}Am} }
+  O plutônio presente e combustível nuclear gasto contem cerca de 12% de 241Pu. Porque ele espontaneamente converte-se no 241Am, 241Pu pode ser extraído e usado para futuramente gerar 241Am. Contudo, o processo é lento: metade da quantidade de 241Pu decai para 241Am em cerca de 15 anos, e a quantidade de 241Am atinge o máximo depois de 70 anos.O 241Am obtido pode ser usado para gerar isótopos pesados de amerício por captura neutrônica posterior em um reator nucelar. Em um Reator de Água Leve, 79% de 241Am converte-se para 242Am e 10% para o seu isômero nuclear242mAm:
+79%:   
+  
+    
+      
+        
+          
+            
+            
+               
+              95
+            
+            
+              241
+            
+          
+          A
+          m
+           
+          
+            
+              →
+              
+                (
+                n
+                ,
+                γ
+                )
+              
+            
+          
+          
+             
+            
+               
+              95
+            
+            
+              242
+            
+          
+          A
+          m
+        
+      
+    
+    {\displaystyle \mathrm {^{241}_{\ 95}Am\ {\xrightarrow {(n,\gamma )}}\ _{\ 95}^{242}Am} }
+  10%:   
+  
+    
+      
+        
+          
+            
+            
+               
+              95
+            
+            
+              241
+            
+          
+          A
+          m
+           
+          
+            
+              →
+              
+                (
+                n
+                ,
+                γ
+                )
+              
+            
+          
+          
+             
+            
+               
+               
+               
+              95
+            
+            
+              242
+              m
+            
+          
+          A
+          m
+        
+      
+    
+    {\displaystyle \mathrm {^{241}_{\ 95}Am\ {\xrightarrow {(n,\gamma )}}\ _{\ \ \ 95}^{242m}Am} }
+  Amerício-242 tem uma meia-vida de apenas 16 horas, que faz de sua posterior conversão para o 243Am, extremamente ineficiente. O próximo isótopo é produzido em um processo onde 239Pu captura quatro nêutrons em um alto fluxo de nêutrons:
+
+  
+    
+      
+        
+          
+            
+            
+               
+              94
+            
+            
+              239
+            
+          
+          P
+          u
+           
+          
+            
+              →
+              
+                4
+                (
+                n
+                ,
+                γ
+                )
+              
+            
+          
+          
+             
+            
+               
+              94
+            
+            
+              243
+            
+          
+          P
+          u
+           
+          
+            
+              →
+              
+                
+                  4.956
+                   
+                  h
+                
+              
+              
+                
+                  β
+                  
+                    −
+                  
+                
+              
+            
+          
+          
+             
+            
+               
+              95
+            
+            
+              243
+            
+          
+          A
+          m
+        
+      
+    
+    {\displaystyle \mathrm {^{239}_{\ 94}Pu\ {\xrightarrow {4(n,\gamma )}}\ _{\ 94}^{243}Pu\ {\xrightarrow[{4.956\ h}]{\beta ^{-}}}\ _{\ 95}^{243}Am} }
+  
+
+
+=== Geração de metal ===
+A maioria das rotinas de síntese rendem uma mistura de isótopos de actinídeos em formas de óxidos , dos quais isótopos de amerício precisam ser separados. Em um típico procedimento, o combustível nucelar gasto (exemplo: combustível MOX) é dissolvido em ácido nítrico, e o volume de urânio e plutônio é removido usando uma extração do tipo PUREX (Plutônio-URânio-EXtração) com fosfato de tributilo em um hidrocarboneto. Os lantanídeos e actinídeos restantes são então separados do resíduo aquoso por uma extração baseada em diamida, dando, após a remoção, uma mistura de actinídeos e lantanídeos trivalentes. Componentes de amerício são então extraídos selecionadamente usando cromografia multi etapa e técnicas de centrifugação com um reagente apropriado. Uma grande quantidade de trabalho tem sido dados extração solvente de amerício. Por exemplo, um projeto recente da União Europeia codinomeado "EUROPART" estudou triazina e outros componentes como agentes de extração potenciais.Complexo de BTBP tem sido recentemente proposto como um reagente, pois é seletivo com o amerício ( e cúrio). A separação de amerício do altamente similar cúrio, pode ser atingida tratando uma suspensão de seus hidróxidos em bicarbonato de sódio aquoso com ozônio, em elevadas temperaturas. Ambos, o AM e Cm, estão principalmente no estado de valência, ao passo que o cúrio continua sem mudar, o amerício oxida-se para complexos do solúvel Am(IV) que podem ser lavados do cúrio.Amerício metálico é obtido por redução de seus componentes. Amerício (III) fluoreto foi primeiramente usado para esse propósito. A reação foi conduzida usando bário elementar como agente redutor em um ambiente livre de água e oxigênio dentro de um aparato de tântalo e tungstênio.]
+
+  
+    
+      
+        
+          2
+           
+          A
+          m
+          
+            F
+            
+              3
+            
+          
+           
+          +
+           
+          3
+           
+          B
+          a
+           
+          ⟶
+           
+          2
+           
+          A
+          m
+           
+          +
+           
+          3
+           
+          B
+          a
+          
+            F
+            
+              2
+            
+          
+        
+      
+    
+    {\displaystyle \mathrm {2\ AmF_{3}\ +\ 3\ Ba\ \longrightarrow \ 2\ Am\ +\ 3\ BaF_{2}} }
+  Uma alternativa é a redução de dióxido de amerício por lantânio metálico ou tório:
+
+  
+    
+      
+        
+          3
+           
+          A
+          m
+          
+            O
+            
+              2
+            
+          
+           
+          +
+           
+          4
+           
+          L
+          a
+           
+          ⟶
+           
+          3
+           
+          A
+          m
+           
+          +
+           
+          2
+           
+          L
+          
+            a
+            
+              2
+            
+          
+          
+            O
+            
+              3
+            
+          
+        
+      
+    
+    {\displaystyle \mathrm {3\ AmO_{2}\ +\ 4\ La\ \longrightarrow \ 3\ Am\ +\ 2\ La_{2}O_{3}} }
+  
+
+
+== Propriedades físicas ==
+
+Na tabela periódica, amerício é localizado à direita do plutônio, e a esquerda do cúrio, e abaixo do lantanídeo európio, com o qual compartilha muitas similaridades nas propriedades químicas e físicas. Amerício é um elemento altamente radioativo. Quando preparado, ele tem um lustre metálico de cor prateada-branca, mas então torna-se embaçado em contato com o ar. Com uma densidade de 12 g/cm3, amerício tem é menos denso que cúrio(13.52 g/cm3) e plutônio(19.8 g/cm3); Mas tem uma densidade maior que a do európio (5.264 g/cm3), principalmente devido à sua maior massa atômica. O amerício é relativamente macio e facilmente deformável,e tem uma significantemente baixa módulo de volume antes dele:Th, Pa, U, Np e Pu. o seu ponto de ebulição é de 1173 °C significativamente maior que o do plutônio (639 °C) e európio (826 °C), mas menor que o do cúrio (1340 °C).A condições ambientes, amerício está presente no sua forma alfa mais estável que tem uma estrutura de cristal hexagonal e grupo espacial P63/mmc com parâmetros de rede 'a = 346.8 pm e c = 1124 pm, e quatro átomos por unidade célula. O cristal consiste de um pacote hexagonal com a sequencia de camada ABAC e portanto é isotípico com o alfa-lantânio e alfa-cúrio. A estrutura de cristal do amerício mundo com a pressão e a temperatura. Quando comprimido a temperatura ambiente para 5GPa, Am alfa transforma-se para a modificação beta, que tem um cubo de face centrada (fcc), grupo espacial FmPredefinição:Overlinem e rede constante 'a = 489 pm. Essa estrutura FCC é equivalente mais perto da sequencia ABC.A compressão para 23GPa, amerício transforma-se para uma estrutura ortorrômbica γ-Am similar à a forma α-urânio. Não existem transições posteriores observadas quando eleva-se para 52 GPa, exceto para uma aparência de um fase monoclínica a pressões entre 10 e 15 GPa.
+Não existe consistência no status dessa fase na literatura, que também as vezes listas as fases α, β e γ como I, II e III. A transição β-γ é acompanhado por uma diminuição de 6% do volume do cristal. Embora a teoria também preveja uma mudança significativa de volume na transição α-β, ela não foi observada experimentalmente. A pressão da transição α-β diminui com o aumento da temperatura, e a 1075 °C converte-se para uma estrutura de cubo de corpo centrado. O diagrama de pressão-temperatura do amerício é portanto bastante similar aqueles do lantânio, praseodímio e neodímio.
+
+
+== Isótopos ==
+18 radioisótopos de amerício têm sido identificados, sendo os mais estáveis Am-243 com meia-vida de 7370 anos e Am-241 com meia-vida de 432.2 anos. Todos os demais isótopos radioactivos apresentam meias-vidas inferiores a 51 horas, e a maioria destes com meias-vidas abaixo de 100 minutos. Este elemento possui 8 meta estados, sendo o mais estável Am-242m (t½ 141 anos).
+As massas atômicas do amerício variam de 231.046 u (Am-231) até 249.078 u (Am-249).
+
+
+== Características principais ==
+O metal amerício recém-obtido tem o aspecto branco-prateado brilhante (mais prateado do que o plutónio ou neptúnio) , perdendo o brilho lentamente em presença do ar seco, na temperatura ambiente. A emissão alfa do Am-241 é aproximadamente três vezes maior que a do rádio. O Am-241 também apresenta uma intensa emissão de raios gama.
+
+
+== Aplicações ==
+
+Este elemento pode ser produzido em quantidades quilograma , na maior parte o isótopo Am-241, por ser mais fácil de obter amostras relativamente puras. O amerício é usado em alguns detectores de fumaça contendo minúsculas quantidades de Am-241 como fonte de radiação ionizante, na forma de dióxido de amerício. O Am-241 tem sido usado, também, como uma fonte portátil de raios gama para uso em radiografia. O elemento foi empregado também para calibrar a espessura de vidros, permitindo a obtenção de vidros bastante planos. O Am-242 é um emissor de neutrões usado em radiografia de neutrões. Entretanto, este isótopo é extremamente caro para ser produzido em quantidades usáveis.
+
+
+== Precauções ==
+É altamente radioativo devido a grande emissão de radiações alfa e gama. Por isso, deve ser manuseado com cuidado.
+
+
+== Literatura ==
+A Guide to the Elements - Revised Edition, Albert Stwertka, (Oxford University Press; 1998) ISBN 0-19-508083-1
+
+
+== Notas ==
+
+
+== Referências ==
+
+
+== Ligações externas ==
+Los Alamos National Laboratory - Americium
+It's Elemental - Americium
+WebElements.com - Americium ( também usado como referência )
+EnvironmentalChemistry.com - Americium ( também usado como referência )
+«Amerício - vídeos e imagens»

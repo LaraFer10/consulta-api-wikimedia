@@ -1,0 +1,11 @@
+Em biologia molecular o domínio PLAT é um domínio proteico que se encontra em diversas proteínas associadas a lípidos ou de membrana.  O acrónimo PLAT advém da Policistina-1, Lipoxigenase, Alfa-Toxina e também se denomina domínio LH2 (Homologia de Lipoxigenase). O conhecimento que se tem da estrutura da lipase pancreática indica que este domínio une-se à procolipase Pfam PF01114, que é uma mediadora na associação a membranas.
+Este domínio encontra-se em varias proteínas associadas a lípidos. Forma uma sanduíche-beta composta por duas folhas β cada uma formada por quatro fibras β.
+
+
+== Proteínas humanas que contenham este domínio ==
+ALOX12;    ALOX12B;   ALOX12P2; ALOX15;    ALOX15B;   ALOX5;     ALOXE3;    LIPC;
+LIPG;      LOXHD1;    LPL;       PKD1;      PKD1L1;    PKD1L2;    PKD1L3;    PKDREJ;
+PNLIP;     PNLIPRP1; PNLIPRP2; PNLIPRP3; RAB6IP1;
+
+
+== Referências ==

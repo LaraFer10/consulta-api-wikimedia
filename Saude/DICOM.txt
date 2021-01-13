@@ -1,0 +1,117 @@
+DICOM, abreviação de Digital Imaging and Communications in Medicine (ou comunicação de imagens digitais em medicina), é um conjunto de normas para tratamento, armazenamento e transmissão de informação médica (imagens médicas) num formato eletrônico, estruturando um protocolo. 
+Foi criado com a finalidade de padronizar a formatação das imagens diagnósticas como tomografias, ressonâncias magnéticas, radiografias, ultrassonografias etc. O padrão DICOM é uma série de regras que permite que imagens médicas e informações associadas sejam trocadas entre equipamentos de diagnóstico geradores de imagens, computadores e hospitais. 
+O padrão estabelece uma linguagem comum entre os equipamentos de marcas diferentes, que geralmente não são compatíveis, e entre equipamentos de imagem e computadores, estejam estes em hospitais, clínicas ou laboratórios.
+
+
+== Serviços DICOM ==
+É um engano comum as pessoas pensarem em DICOM como um formato de arquivo, apenas. No entanto, o arquivo é apenas um dos SERVIÇOS padronizados pelo documento. Os serviços são (trecho traduzido da página correspondente em inglês):
+
+
+=== Store (Armazenamento) ===
+DICOM Store é usado para enviar imagens ou outras informações, como relatórios, informações do paciente, para um sistema de PACS.
+
+
+=== Storage Commitment (Confirmação de Armazenamento) ===
+DICOM storage commitment é o serviço usado para confirmar que uma imagem foi armazenada permanentemente (como em um sistema de servidores redundantes ou um meio qualquer de backup). É como um protocolo de segurança que avisa ao usuário quando ele pode, com segurança, deletar os arquivos em sua estação de trabalho local.
+
+
+=== Query/Retrieve (Busca/Recuperação) ===
+Permite a uma estação de trabalho localizar listas de imagens, por exemplo, e recuperá-las a partir do PACS em que estão armazenadas.
+
+
+=== Modality Worklist (Lista de Tarefas) ===
+Habilita um equipamento de imageamento médico (chamado, no padrão, de modality) a obter detalhes de pacientes e exames agendados eletronicamente, evitando a necessidade de digitar estas informações várias vezes e os erros que esta repetida intervenção humana pode causar.
+
+
+=== Modality Performed Procedure Step (Procedimento Realizado por Equipamento) ===
+Um serviço complementar ao worklist, habilita um equipamento a enviar relatórios sobre um exame realizado, incluindo dados de aquisição das imagens, horários de início e fim e duração do exame, assim como doses de contrastes, por exemplo. Ajuda a fornecer ao departamento de radiologia um controle mais preciso sobre o uso dos equipamentos. Também conhecido como MPPS, este serviço permite melhor compatibilidade com o sistema de armazenamento, já que, junto com os objetos, envia uma lista de objetos (informações) que estão sendo enviados.
+
+
+=== Printing (Impressão) ===
+Usado para enviar imagens para uma impressora de DICOM, normalmente para imprimir um filme de raios-X. Há um padrão de calibração para ajudar a manter a consistência entre os vários equipamentos de visualização, incluindo a impressão de cópias físicas.
+
+
+=== Off-line Media (DICOM Files) ===
+Este serviço é definido na parte 10 do padrão. Ele descreve como armazenar informações e imagens médicas em uma mídia removível qualquer. Com exceção do conjunto de dados contendo, por exemplo, uma imagem e demografia, é obrigatória a inclusão da "File Meta Information". DICOM restringe os nomes de arquivos a 8 caracteres (muitas pessoas usam, erradamente, 8.3, mas isto é incorreto. Nenhuma informação deve ser extraída destes nomes (PS10:6.2.3.2). Esta é uma fonte de problemas comum em mídias criadas por desenvolvedores que não lêem as especificações com atenção. Este é um requerimento histórico, para manter compatibilidade com sistemas legados. O padrão também exige a presença de um índice de mídia, o "DICOMDIR file", que fornece um índice de todos os arquivos DICOM presentes na mídia (um CD, por exemplo). O DICOMDIR fornece muito mais informação do que qualquer nome de arquivo poderia, por isso não há necessidade de nomes com forte significado.
+DICOM files tipicamente têm a extensão .dcm.
+
+
+== Modalidades Dicom ==
+Exemplos de Modalidades Suportadas:
+
+AS = Angioscopy
+BI = Biomagnetic Imaging
+CD = Color Flow Doppler
+CF = Cinefluorography (retired)
+CP = Colposcopy
+CR = Computed Radiography
+CS = Cystoscopy
+CT = Computed Tomography
+DD = Duplex Doppler
+DF = Digital Fluoroscopy (retired)
+DG = Diaphanography
+DM = Digital Microscopy
+DS = Digital Subtraction Angiography
+DR = Digital Radiography
+EC = Echocardiography
+ES = Endoscopy
+FA = Fluorescein Angiography
+FS = Fundoscopy
+HC = Hard Copy
+LP = Laparoscopy
+LS = Laser Surface Scan
+MA = Magnetic resonance angiography
+MG = Mammography
+MR = Magnetic Resonance
+MS = Magnetic Resonance Spectroscopy
+NM = Nuclear Medicine
+OT = Other
+PT = Positron Emission Tomography (PET)
+RF = Radio Fluoroscopy
+RG = Radiographic Imaging (conventional film screen)
+RTDOSE = Radiotherapy Dose
+RTIMAGE = Radiotherapy Image
+RTPLAN = Radiotherapy Plan
+RTSTRUCT = Radiotherapy Structure Set
+ST = Single-photon Emission Computed Tomography
+TG = Thermography
+US = Ultrasound
+VF = Videofluorography (retired)
+XA = X-Ray Angiography
+XC = eXternal Camera
+ECG = Electrocardiograms
+BMD = Bone Mineral Densitometry
+BDUS = Ultrasound Bone Densitometry
+
+
+== Media Storage Application Entity ==
+
+
+== Patient Management Application Entity ==
+
+
+== Print Management Application Entity ==
+
+
+== Query/Retrieve Application Entity ==
+
+
+== Queue Management Application Entity ==
+
+
+== Results Management Application Entity ==
+
+
+== Storage Service Application Entity ==
+
+
+== Storage Commitment Application Entity ==
+
+
+== Study Content Notification Application Entity ==
+
+
+== Study Management Application Entity ==
+
+
+== Verification Application Entity ==

@@ -1,0 +1,93 @@
+Neurônio motor (português brasileiro) ou neurónio motor (português europeu) é um neurônio cujo corpo celular está localizado no córtex motor, no tronco cerebral ou na medula espinhal e cujo axônio (fibra) se projeta para a medula espinhal ou para fora da medula espinhal para controlar direta ou indiretamente os órgãos efetores, principalmente músculos e glândulas. Existem dois tipos de neurônios motores: os neurônios motores superiores e os neurônios motores inferiores. Os axônios dos neurônios motores superiores fazem sinapse com interneurônios na medula espinhal e ocasionalmente diretamente nos neurônios motores inferiores. Os axônios dos neurônios motores inferiores são fibras nervosas eferentes que transportam sinais da medula espinhal para os efetores. Os tipos de neurônios motores inferiores são os neurônios motores alfa, os neurônios motores beta e os neurônios motores gama.
+O termo "neurônio motor" é geralmente restrito aos neurônios motores inferiores, que compõem os nervos eferentes que inervam diretamente os músculos.
+Um único neurônio motor pode inervar muitas fibras musculares e uma fibra muscular pode sofrer muitos potenciais de ação no tempo necessário para uma única contração muscular. Como resultado, se um potencial de ação chega antes que a contração de uma fibra termine, as contrações podem se sobrepor, seja por soma ou por uma contração tetânica. Em suma, o músculo é estimulado repetidamente de tal forma que potenciais de ação adicionais provenientes do sistema nervoso somático chegam antes do final da contração. Os espasmos se sobrepõem uns aos outros, levando a uma força maior que a de uma única contração. Uma contração tetânica é causada por uma estimulação constante e de frequência muito alta - os potenciais de ação vêm em uma velocidade tão rápida que os espasmos individuais são indistinguíveis, e a tensão aumenta suavemente, atingindo, por fim, um platô.
+
+
+== Anatomia e fisiologia ==
+
+
+=== Neurônios motores superiores ===
+Os motoneurônios superiores se originam no córtex motor localizado no giro pré-central. As células que compõem o córtex motor primário são as células de Betz, que são um tipo de célula piramidal. Os axônios dessas células descem do córtex para formar o trato corticoespinhal.
+
+
+=== Neurônios motores inferiores ===
+Os neurônios motores inferiores são aqueles que se originam na medula espinhal e inervam direta ou indiretamente os alvos efetores. O alvo desses neurônios varia, mas no sistema nervoso somático o alvo será algum tipo de fibra muscular. Existem três categorias principais de neurônios motores inferiores, que podem ser subdivididas em subcategorias.De acordo com seus alvos, os neurônios motores são classificados em três categorias amplas:
+
+Neurônios motores somáticos
+Neurônios motores viscerais especiais
+Neurônios motores viscerais gerais
+
+
+==== Neurônios motores somáticos ====
+Os neurônios motores somáticos se originam no sistema nervoso central (SNC), e projetam seus axônios para os músculos esqueléticos (como os músculos dos membros, músculos abdominais e intercostais), que estão envolvidos na locomoção. Além da contração voluntária do músculo esquelético, os neurônios motores alfa também contribuem para o tônus muscular, a força contínua gerada pelo músculo não contraído para se opor ao alongamento. Quando um músculo é alongado, os neurônios sensoriais dentro do fuso muscular detectam o grau de estiramento e enviam um sinal para o SNC. O SNC ativa os neurônios motores alfa na medula espinhal, o que faz com que as fibras musculares extrafusais contraiam e, portanto, resistam a um alongamento adicional. Este processo também é chamado de reflexo de estiramento.
+Os três tipos desses neurônios são os neurônios eferentes alfa, os neurônios eferentes beta e os neurônios eferentes gama. Eles são chamados de eferente para indicar o fluxo de informação do sistema nervoso central (SNC) para a periferia.
+
+
+===== Neurônios motores alfa =====
+Inervam fibras musculares extrafusais, que são o principal componente gerador de força de um músculo. Seus corpos celulares estão no chifre ventral da medula espinhal e às vezes são chamados de células do corno ventral. Um único neurônio motor pode fazer sinapses com 150 fibras musculares, em média. O neurônio motor e todas as fibras musculares às quais ele se conecta constitui uma unidade motora. As unidades motoras são divididas em 3 categorias: 
+Unidades motoras lentas (S) estimulam as  fibras musculares, que se contraem muito lentamente e fornecem pequenas quantidades de energia, mas são muito resistentes à fadiga, por isso são usadas para sustentar a contração muscular, como manter o corpo ereto. Elas ganham energia através de meios oxidativos e, portanto, exigem oxigênio. São também são chamadas de fibras vermelhas.
+Unidades motoras rápidas e fatigantes (FF) estimulam grupos musculares maiores, que aplicam grande quantidades de força, mas que fadigam muito rapidamente. Elas são usadas para tarefas que exigem grandes explosões breves de energia, como saltar ou correr. Elas ganham energia através de meios glicolíticos e, portanto, não necessitam de oxigênio. São chamadas de fibras brancas.
+Unidades motoras rápidas e resistentes à fadiga (FR) estimulam grupos musculares de tamanho moderado que não reagem tão rapidamente quanto as unidades motoras do FF, mas podem ser sustentados por muito mais tempo (como está implícito no nome) e fornecer mais força do que unidades motoras S. Usam meios oxidativos e glicolíticos para ganhar energia.
+
+
+===== Neurônios motores beta =====
+Inervam as fibras musculares intrafusais dos fusos musculares, com colaterais para as fibras extrafusais. Existem dois tipos de neurônios motores beta: contração lenta - que inervam as fibras extrafusais; contração rápida - que inervam fibras intrafusais.
+
+
+===== Neurônios motores gama =====
+Inervam as fibras musculares intrafusais encontradas no fuso muscular. Eles regulam a sensibilidade do fuso ao alongamento muscular. Com a ativação dos neurônios gama, as fibras musculares intrafusais se contraem, de forma que apenas um pequeno trecho é necessário para ativar os neurônios sensoriais do fuso e o reflexo de estiramento. Existem dois tipos de neurônios motores gama: dinâmicos - se concentram nas fibras Bag1 e aumentam a sensibilidade dinâmica; estático - se concentram nas fibras Bag2 e aumentam a sensibilidade ao alongamento.
+
+
+===== Fatores regulatórios dos neurônios motores inferiores =====
+Princípio do tamanho - se relaciona com o tamanho do soma do neurônio motor. O tamanho do soma restringe os neurônios maiores a receber um sinal excitatório maior a fim de estimular as fibras musculares que ele inerva. Ao reduzir o recrutamento desnecessário de fibras musculares, o corpo é capaz de otimizar o consumo de energia.
+Corrente Interna Persistente (PIC, na sigla em inglês) - uma recente pesquisa em estudos com animais mostrou que o fluxo constante de íons, como cálcio e sódio, através de canais no soma e dendritos, influencia a entrada sináptica. Uma maneira alternativa de pensar nisso é que o neurônio pós-sináptico está sendo preparado antes de receber um impulso.
+Potêncial pós-hiperpolarização (AHP, na sigla em inglês) - hiperpolarização após um potencial de ação. Foi identificada uma tendência que mostra neurônios motores lentos tendo AHPs mais intensas por um período mais longo. Uma maneira de lembrar isso é que para as fibras musculares lentas, seus neurônios motores correspondentes disparam em um ritmo mais lento.
+
+
+===== Junção neuromuscular =====
+A interface entre um neurônio motor e uma fibra muscular é uma sinapse especializada chamada junção neuromuscular. Após a estimulação adequada, o neurônio motor libera  neurotransmissores de acetilcolina (Ach) dos terminais axônicos das vesículas sinápticas que se ligam à membrana plasmática. As moléculas de acetilcolina se ligam aos receptores pós-sinápticos encontrados dentro da placa motora. Uma vez que dois receptores de acetilcolina foram ligados, um canal iônico é aberto e íons de sódio são permitidos fluir para dentro da célula. O influxo de sódio na célula causa despolarização e desencadeia um potencial de ação muscular. Os túbulos T do sarcolema são então estimulados para induzir liberação de íons cálcio do retículo sarcoplasmático. É essa liberação química que faz com que a fibra muscular alvo se contraia.
+Em invertebrados, dependendo do neurotransmissor liberado e do tipo de receptor que se liga, a resposta na fibra muscular pode ser excitatória ou inibitória.
+Para os vertebrados, no entanto, a resposta de uma fibra muscular a um neurotransmissor só pode ser excitatória, em outras palavras, contrátil. O relaxamento muscular e a inibição da contração muscular nos vertebrados são obtidos apenas pela inibição do próprio neurônio motor. A inervação muscular pode eventualmente desempenhar um papel na maturação da atividade motora. É assim que os relaxantes musculares atuam nos neurônios motores que inervam os músculos (diminuindo sua atividade eletrofisiológica) ou nas junções neuromusculares colinérgicas, e não nos próprios músculos.
+
+
+==== Neurônios motores viscerais especiais ====
+Estes também são conhecidos como neurônios motores branquiais, que estão envolvidos na expressão facial, mastigação, fonação e deglutição. Os nervos cranianos associados são os nervos oculomotor, abducente, troclear e hipoglosso.
+
+
+==== Neurônios motores viscerais gerais ====
+Esses neurônios motores inervam indiretamente o músculo cardíaco e a musculatura lisa das vísceras (os músculos das artérias): fazem sinapse com neurônios localizados nos gânglios do sistema nervoso autônomo (simpático e parassimpático), localizados no sistema nervoso periférico (SNP). Eles mesmos inervam diretamente os músculos viscerais (e também algumas células glandulares).
+Em consequência:
+
+o comando motor dos músculos esqueléticos e branquiais é monossináptico (envolvendo apenas um neurônio motor, respectivamente, somático e branquial, que faz sinapses diretas no músculo).
+o comando dos músculos viscerais é dissináptico (envolvendo dois neurônios: o neurônio motor visceral geral localizado no SNC, que faz sinapse com um neurônio ganglionar, localizado no SNP, que faz sinapses no músculo).Todos os neurônios motores dos vertebrados são colinérgicos, isto é, liberam o neurotransmissor acetilcolina. Os neurônios ganglionares parassimpáticos também são colinérgicos, enquanto a maioria dos neurônios ganglionares simpáticos são noradrenérgicos, isto é, liberam o neurotransmissor noradrenalina (ver tabela).
+
+
+== Tratos da substância branca ==
+Os tratos da substância branca são feixes de axônios e servem como meios para propagar impulsos nervosos em larga escala. Estes são encontrados na medula espinhal e têm a aparência branca dos axônios circundados por mielina. Enquanto esses tratos existem para ambos os nervos eferentes e aferentes, os nervos eferentes carregam sinais pela medula espinhal em direção ao alvo efetor. Esses setores também servem como o lugar de origem dos neurônios motores inferiores. Existem sete grandes tratos motores da substância branca que podem ser encontrados na medula espinhal e estão listados abaixo:
+Trato corticospinal lateral
+Trato rubrospinal
+Trato reticulospinal lateral
+Trato vestibulospinal
+Trato reticulospinal medial
+Trato tectospinal
+Trato corticospinal anterior
+
+
+== Desenvolvimento ==
+Os neurônios motores começam a se desenvolver precocemente no desenvolvimento embrionário e a função motora continua a se desenvolver bem na infância. No tubo neural, as células são especificas para o eixo rostral-caudal ou eixo dorsal-ventral. Os axônios dos neurônios motores começam a aparecer na quarta semana de desenvolvimento a partir da região ventral do eixo ventral-dorsal (placa basal). Este homeodomínio é conhecido como o domínio progenitor neural motor (pMN). Os genes dos fatores de transcrição incluem os fatores Pax6, OLIG2, Nkx6.1 e Nkx6.2, que são regulados pelo sonic hedgehog (Shh). O gene OLIG2 é o mais importante devido ao seu papel na promoção da expressão de Ngn2, um gene que causa a saída do ciclo celular, além de promover fatores adicionais de transcrição associados ao desenvolvimento do neurônio motor.Outras especificações de neurônios motores ocorrem quando o ácido retinóico, o fator de crescimento de fibroblastos, o Wnts e o TGFb estão integrados nos vários fatores de transcrição Hox. Existem 13 fatores de transcrição Hox e, juntamente com os sinais, determinam se um neurônio motor será de caráter mais rostral ou caudal. Na coluna vertebral, Hox 4-11 classifica os neurônios motores em uma das cinco colunas do motor. Essas colunas são explicadas mais detalhadamente na tabela abaixo.
+
+
+== Neurônios motores na medicina regenerativa ==
+Neurônios motores inferiores humanos podem ser gerados in vitro a partir de células-tronco embrionárias e induzem células-tronco pluripotentes.
+
+
+== Veja também ==
+Unidade motora
+Nervo motor
+Músculo
+Fuso muscular
+Célula Betz
+Mononeuropatia
+
+
+== Referências ==

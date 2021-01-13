@@ -1,0 +1,29 @@
+
+== Histórico ==
+
+Interleucina 12 é uma citocina secretada pelos linfócitos B, neutrófilos, células dendríticas e macrófagos após a ativação por células apresentadoras de antígenos (APC). Sua principal função é aumentar a secreção e atividade do interferon-gama pelas células NK (natural killers) e pelos linfócitos T auxiliares (CD4) tipo 1, aumentando respostas citotóxicas, um passo crítico na defesa contra vírus e neoplasias.  Desempenha papel crítico em doenças relacionadas com a imunidade.
+Interleucina - 12 é o principal mediador da resposta imune natural inicial a microorganismos intracelulares e é o indutor essencial da imunidade mediada por células, ja resposta imune adquirida. Produzida por macrófagos ativados, células dendríticas e células B. Estimula a produção de IFN-γ, induz a diferenciação de Th para tornar-se Th1, potencia as funções citotóxicas de LTc e NK. Redução da produção de IgE pela supressão da síntese de IL4
+Mutações na IL-12 produzem variantes que induzem a infecção por micobactérias (tuberculose) e maior susceptibilidade a infecções por Salmonella enteriditis. Tem sido relatada em infecções bacterianas e virais (por exemplo, Mycobacterium tuberculosis e HIV), icterícia obstrutiva, e choque séptico.
+
+
+== Estrutura ==
+IL-12 é composta por um feixe de quatro hélices alfa, é uma citocina heterodimérica, codificada por dois genes separados, IL-12A (p35) e de IL-12B (p40). P35, um membro da superfamília de IL-6, é segregada em resposta a interferon-gama e agonistas de TLR3, 4 ou 7. No entanto, a expressão de p35 tem sido demonstrada ser inibida por citoquinas Th2 e expressa em níveis muito mais baixos do que p40. A expressão de p40 é regulada de forma independente de p35. Além disso, a p40 é um homodímero ou monómero. O homodímero p40 pode ligar-se ao receptor de IL-12 e atuar como um antagonista para IL-12 p70.
+O receptor para essa citocina é composta por duas subunidades, IL-12R beta 1 e IL-12R beta 2, o último dos quais é o componente de sinalização do receptor.
+
+
+== Função ==
+A IL-12 está envolvida na diferenciação de células T virgens em células Th1. É conhecida como um fator estimulador de células T, e que pode estimular o crescimento e função das células T. Ele estimula a produção de interferão-gama  e fator de necrose tumoral-alfa a partir de células T e células assassinas naturais, e reduz de IL-4 supressão mediada por IFN-γ. As células T que produzem IL-12 tem um co-receptor, CD30, que está associada com a atividade de IL-12.
+A IL-12 desempenha um papel importante na ação das células assassinas naturais e linfócitos T. IL-12 potencializa a  atividade citotóxica das células NK e linfócitos T citotóxicos CD8 +. Também parece haver uma ligação entre a IL-2 e a transdução do sinal da IL-12 nas células NK. A IL-2 estimula a expressão de dois receptores de IL-12, IL-12R e IL-β1-12R-β2, mantendo a expressão de uma proteína crítica envolvido na sinalização de IL-12 nas células NK. resposta funcional melhorada é demonstrada pela produção de IFN-γ e morte de células alvo.
+IL-12 também tem atividade anti-angiogénica, o que significa que podem bloquear a formação de novos vasos sanguíneos. Ele faz isso, aumentando a produção de interferão gama, o que por sua vez aumenta a produção de uma proteína indutível quimiocina chamado-10 (IP-10 ou CXCL10). IP-10, em seguida, ira mediar este efeito anti-angiogénico. Existe uma ligação que pode ser útil no tratamento entre a IL-12 e a psoríase doenças e doença inflamatória do intestino.
+
+
+== Papel da IL-12 em doenças ==
+A IL-12 tem mostrado desempenhar um papel crítico na patogénese de uma variedade de doenças relacionadas com a imunidade. Aberrante de IL-12 de expressão tem sido relatada em infecções bacterianas e virais (por exemplo, Mycobacterium tuberculosis e HIV), icterícia obstrutiva, e choque séptico. Além disso, a IL-12 tem sido associada a doenças auto-imunes e inflamatórios, tais como rejeição de aloenxertos, osteoartrite, artrite reumatóide, spondylarthropathy seronegativos, e aterosclerose. Além das doenças inflamatórias mediadas-imunes, produção aumentada de IL-12 os níveis de plasma são também detectados em doentes com perturbações neurológicas tais como esclerose múltipla.
+
+
+== Referências ==
+3. http://www.ebioscience.com/knowledge-center/antigen/il-12.htm
+4. http://onlinelibrary.wiley.com/doi/10.1002/eji.1830260606/full
+5. http://www.fcav.unesp.br/Home/citocinas.pdf
+
+6. www.labimuno.org.br/.../CITOCINAS%20DA%20IMUNIDADE

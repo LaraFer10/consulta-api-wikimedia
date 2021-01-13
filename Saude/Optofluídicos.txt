@@ -1,0 +1,8 @@
+Optofluídicos é uma área de pesquisa e tecnologia que combina as vantagens da microfluídica e da óptica. As aplicações da tecnologia incluem monitores, biossensores, dispositivos de laboratório no chip, lentes e ferramentas de imagem molecular e energia. Basicamente, optofluídicos é o uso da luz para controlar o fluxo de fluidos, particularmente na escala de micrômetros.
+
+
+== Aplicações ==
+A maioria das aplicações optofluídicas envolve o uso de fluidos de vários índices de refração para criar lentes. A principal vantagem dessa abordagem é a reconfigurabilidade dinâmica da lente. Além disso, o fluxo microfluídico permite a fácil integração dessa tecnologia em microscópios, alcançando resoluções que eram inatingíveis anteriormente. No campo da microfluídica, o foco da luz em um dispositivo microfluídico é importante para aplicações de lab-on-a-chip que requerem caracterização óptica. A iluminação e a reflexão eficientes da luz do microcanal são cruciais no desempenho do dispositivo.Os recursos em termos de controle fluídico, mistura, miniaturização e ajuste de propriedades ópticas proporcionados por micro, nano e eletro-fluídicos fornecem uma plataforma ideal sobre a qual construir dispositivos opto-fluídicos versáteis.
+
+
+== Referências ==

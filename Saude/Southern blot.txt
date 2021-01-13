@@ -1,0 +1,28 @@
+O Southern blot é um método da biologia molecular que serve para verificar se uma determinada sequência de ADN está ou não presente em uma amostra de ADN analisada. Isso é feito por meio do realce do resultado de uma eletroforese em gel de agarose, conforme será descrito mais adiante. O método foi batizado com o nome de seu inventor, o biólogo britânico Edwin Southern, e isso fez com que outros métodos de blot fossem batizados com trocadilhos ao nome de Southern, por exemplo, Western blot e Northern blot.
+
+
+== Método geral ==
+
+
+=== Desnaturação ===
+O gel onde foi feita a eletroforese de ADN é tratado com uma solução alcalina (tipicamente contendo hidróxido de sódio) para promover a desnaturação da dupla fita do DNA, separando-a em simples fitas. A desnaturação é necessária porque o ADN nas etapas seguintes irá aderir à membrana e irá parear com a sonda.
+
+
+=== Transferência do ADN para uma membrana ===
+Uma membrana de nitrocelulose (ou, alternativamente, nylon) é posta sobre o gel. Uma pressão é aplicada uniformemente sobre o gel (tanto usando-se sucção, ou pondo-se sobre a membrana uma pilha de toalhas de papel com um peso em cima). Isso faz com que o ADN passe do gel para a membrana, onde ele se adere.
+A membrana é então aquecida (no caso da nitrocelulose) ou exposta a radiação ultravioleta (no caso do nylon) para permanentemente ligar o ADN à membrana.
+
+
+=== Tratamento com a sonda ===
+A membrana é agora tratada com uma sonda hibridizadora - que é uma molécula de DNA isolada cuja sequência é conhecida e é idêntica, ou então complementar, àquela sequência a qual se quer determinar a presença ou não na amostra (como as duas fitas da dupla hélice do DNA são complementares uma a outra, tanto faz escolher uma sonda que seja idêntica ou complementar à sequência procurada). A sonda de ADN é marcada de tal forma que permita ser detectada a sua presença, essa marcação é normalmente feita incorporando-se a ela átomos radioativos ou ligando-se a ela corantes fluorescentes ou cromogênicos (substâncias incolores que produzem cor ao interagirem com um determinado meio). Em alguns casos, a sonda hibridizadora pode ser feita de ARN, em vez de ADN.
+Essa sonda irá parear com qualquer sequência de ADN complementar a ela. Portanto se a sequência procurada não estiver presente na amostra não haverá o pareamento.
+Então o excesso de sonda é lavado da membrana, e toda a sonda não hibridizada (não pareada) será removida. Depois disso, a presença ou não da sonda na membrana (e as posições onde ela está presente) é revelada por uma auto-radiografia em um filme de raio-x, ou pelo aparecimento de uma cor caso a marcação cromogênica tenha sido usada.
+
+
+== Resultados ==
+As manchas no Southern Blot abaixo mostram onde a sonda se hibridizou com a amostra. E conhecendo-se os pontos onde a amostra de ADN foi clivada, é possível então dizer em quais trechos a sequência procurada está ou não presente.
+
+
+== Ligações externas ==
+Preparo de membranas para hibridação
+Animação ilustrando o Southern Blot

@@ -1,0 +1,41 @@
+O termo ecotoxicologia foi criado por René Truhaut em 1969, que o definiu como sendo "o ramo da toxicologia preocupado com o estudo de efeitos tóxicos causados por poluentes naturais ou sintéticos, sobre quaisquer constituintes dos ecossistemas: animais (incluindo seres humanos), vegetais ou microrganismos, em um contexto integral". A ecotoxicologia - um dos sub-ramos da biologia  e ramo da ecologia - estuda os efeitos e as influências de agentes tóxicos sobre diversos níveis de organização biológica: celular, individual, populacional, da comunidade e do ecossistema, compreendendo três áreas fundamentais de estudo:
+
+Estudo das emissões e ingresso dos poluentes no ambiente, assim como sua distribuição e destino;Estudos qualitativos e quantitativos dos efeitos tóxicos dos poluentes no ecossistemas e no homem;Estudo do ingresso e destino dos poluentes na biosfera, enfatizando a contaminação das cadeias alimentares
+
+
+== Toxicidade de compostos ==
+A toxicidade de um composto químico depende de diversos fatores. Dentre eles a suscetibilidade do organismo, da sua exposição, das suas características químicas e principalmente dos fatores ambientais. A suscetibilidade está ligada ao aparato metabólico de cada espécie, bem como seu comportamento, sua alimentação, seu modo de vida, suas fases de desenvolvimento, etc. As exposições podem ser classificadas como agudas ou crônicas.
+As exposições agudas fazem com que os organismos entrem em contato com o composto químico, sendo em um evento único ou também em eventos múltiplos que podem acontecer em um pequeno período de tempo. O que é agudo pode ser entendido como uma resposta imediata, porém, em experimentos teste para descobrir toxicidade de compostos, é possível retardar os efeitos, imitando os resultados por uma exposição crônica.
+As exposições crônicas por sua vez, os organismos ficam expostos em um período de tempo a baixas concentrações do agente tóxico que é liberado continuamente ou com
+alguma periodicidade num longo período.Em relação aos agrotóxicos, existe o inseticida organoclorado, o DDT, ele foi banido em vários países, por revelar através de testes ecotoxicológicos que os resíduos clorados persistiam ao longo de toda cadeia alimentar, o que poderia contaminar até mesmo o leite materno. E mais tarde no Brasil, em meados de 1990, foram banidas toda e qualquer solução que utilizasse a base de cloro. E agora todos os produtos com pesticidas no Brasil são obrigados a  apresentar a  cor correspondente à classe de sua toxicidade em seus rótulos, até porque agrotóxicos são produtos de composição e características químicas específicas. Elas podem produzir intoxicações com várias características diferentes e por vezes desconhecidas. 
+
+
+== Marco da ecotoxicologia ==
+A publicação do livro Primavera Silenciosa, de Rachel Carson em 1962 catalisou a separação da ecotoxicologia da toxicologia clássica. O elemento revolucionário introduzido por Rachel Carson foi a extrapolação dos efeitos sobre um único organismo para todo um ecossistema.  Este estudo sistêmico é diferente da natureza antropocêntrica da toxicologia clássica, e, portanto, a ecotoxicologia é uma disciplina bem mais ampla, porque incorpora aspectos de ecologia, toxicologia, fisiologia, biologia molecular, química analítica e outras ainda para estudar os efeitos de xenobióticos em um ecossistema. A finalidade desta abordagem é ser capaz de predizer os efeitos dos poluentes, de tal forma que se um incidente ocorrer, será possível definir ações eficientes e efetivas para remediar os efeitos deletérios causados pelos poluentes. Em ecossistemas que já estão impactados pela poluição, estudos ecotoxicológicos podem informar qual é o melhor modo de ação para que o ecossistema seja capaz de recuperar seus serviços e funções. 
+
+
+== Testes ecotoxicológicos ==
+Testes ecotoxicológicos, também chamados de bioensaios, são realizados com intuito de detectar toxicidade de efluentes, úteis para conhecer o grau ou o efeito biológico que novos produtos químicos (por exemplo produtos farmacêuticos), que vem sendo cada dia mais lançados no meio ambiente, podem causar nos indivíduos, comunidades e populações, evitando crises epidemiológicas e afins. É realizado pelo método de comparação entre uma substância "genérica" já conhecida e a nova substância desconhecida, tentando identificar os efeitos que as mesmas causam quando inseridas no meio de cultura de células vivas. Mesmo porque, na atualidade, substâncias químicas desconhecidas são produzidos de forma intencional ou como subprodutos de determinadas atividades produtivas e necessitam de análise.
+Dividem-se em agudos e crônicos.
+
+Agudos são "estudos experimentais feitos com organismos-teste que determinam se um efeito adverso observado ocorre em um curto período de tempo (em geral até 14 dias) após administração de uma única dose da substância testada ou após múltiplas dosagem administradas em até 24 horas"
+Crônicos são "os organismos-teste são observados durante uma grande parte do seu tempo de vida, quando acontece a exposição ao agente-teste; os efeitos crônicos persistem por um longo período de tempo, e podem ser evidentes imediatamente após a exposição ou não"
+
+
+==== Exemplos de bioensaios ====
+Bioensaio com peixe paulistinha (Danio rerio):O peixe paulistinha (Danio rerio), atinge de 3 a 5 cm quando adulto, é de origem indiana e possui um ciclo de vida rápido, que se completa em 3 meses. Em laboratório é de fácil manutenção e produz uma quantidade de ovos translúcidos considerável, portanto de fácil observação sob lupa. A fêmea carrega os óvulos não fertilizados no abdômen e os deposita no fundo logo após o amanhecer. O macho por sua vez libera os espermas que fertilizam os óvulos, dando início ao desenvolvimento embrionário.Quando se deseja a produção dos ovos, os peixes são estimulados na tarde do dia anterior, com a colocação de plantas artificiais. Os pesquisadores que manuseiam precisam colocar uma bandeja no fundo do aquário coberta por uma tela de tamanho suficiente para deixar que os ovos passem e os peixes fiquem já que essa espécie de peixe pode comer os próprio ovos. As fêmeas depositam os ovos no inicio do dia, ou com a luz se acendendo. Os machos liberam os espermas na água, e os ovos são fecundados, permanecendo no fundo.
+
+Bioensaio de efluentes brutos e tratados gerados por uma fábrica de medicamentos veterinários:Efluentes de indústrias farmacêuticas veterinárias são gerados principalmente durante a lavagem dos equipamentos usados para produção dos fármacos. O objetivo do trabalho realizado por estudantes do mestrado em ciências da natureza da Universidade Federal de Alfenas - MG, foi avaliar a toxicidade tanto aguda para Daphnia similis e quanto crônica para Ceriodaphnia dubia, dos efluentes brutos e tratados gerados por uma determinada indústria farmacêutica veterinária. O sistema de tratamento de efluentes usado é composto por uma etapa de tratamento químico onde ocorre a coagulação e sedimentação forçada, seguida do tratamento biológico aeróbico (processo de lodos ativados).
+
+
+== Ecotoxicologia no Brasil ==
+A CONAMA é a principal ferramenta legal do Brasil que dá resolução ao controle de efluentes lançados na água. Além de estabelecer as diretrizes para o  enquadramento  dos  corpos  de  água  superficiais, estabelece também as condições e padrões de lançamento de efluentes nestes corpos hídricos. Essa resolução define os bioensaios como testes realizados para determinar o  efeito deletério de agentes físicos ou químicos para diversos organismos aquáticos, com intuito também de avaliar o potencial de risco à saúde humana. Existe ainda, no Brasil, uma série de organizações que recomendam a utilização de diversos procedimentos em diferentes espécies animais para comprovação mais segura dos ensaios ecotoxicológicos. Dentre elas a Associação Brasileira de Normas Técnicas (ABNT). A ABNT elabora as normas para os bioensaios, padronizando o tipo de procedimento que deve ser realizado, visando adaptar esses testes às necessidades do país. 
+No Brasil, a Sociedade Científica na Área de Ecotoxicologia é a Sociedade Brasileira de Ecotoxicologia 
+
+
+== Referências ==
+
+
+== Ver também ==
+Primavera Silenciosa - en:Silent Spring (em inglês)
+Bioensaio Luminotox

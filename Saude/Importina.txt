@@ -1,0 +1,14 @@
+A importina é um tipo de proteína que movimenta outras moléculas de proteínas para dentro do núcleo celular, por ligação a uma sequência de reconhecimento específica denominada sinal de localização nuclear. As importinas são classificadas como carioferinas.As importinas possuem duas subunidades, importina alfa e importina beta. Destas, a importina alfa liga-se ao sinal de localização nuclear da proteína a ser importada, enquanto que a importina beta ajuda na ancoragem de importina-proteína ao complexo de poro nuclear. O trimero [sinal - importina alfa - impotina beta] dissocia-se após ligação de Ran GTP dentro do núcleo.
+
+
+== Genes ==
+Importina: IPO4, IPO7, IPO8, IPO9, IPO11, IPO13
+Carioferina-α: KPNA1, KPNA2, KPNA3, KPNA4, KPNA5, KPNA6
+Carioferina-β: KPNB1
+
+
+== Referências ==
+
+
+== Ligações externas ==
+MeSH Importins

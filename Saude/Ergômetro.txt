@@ -1,0 +1,3 @@
+Ergômetro é um equipamento utilizado em avaliação Física. É grande valia o seu uso, pois simulam em consultório um esforço físico  (Exercício)para avaliação da resposta dada pelo coração do paciente ao esforço.Podem ser Esteiras ergométricas ou Cicloergômetros.
+São usados em exames cardíacos, como Teste de esforço, Ergoespirometria e Espirometria e também na Medicina Nuclear.
+Podem ser controlados através de softwares específicos (via conexão Interface serial) ou então, através de painél próprio de comando.

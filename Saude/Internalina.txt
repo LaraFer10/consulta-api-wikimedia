@@ -1,0 +1,10 @@
+As internalinas são proteínas da superfície celular que se encontram na bactéria Listeria monocytogenes. As principais formas que se conhecem são: InlA, InlB, InlH e InlK. A bactéria utiliza-as para invadir células de mamíferos por meio das proteínas transmembranares caderinas (no caso de InlA) e os receptores Met (no caso de InlB). O papel exacto destas proteínas e a sua capacidade invasiva in vivo ainda não é totalmente compreendido. Em células em cultivo, InlA é necessária para facilitar a entrada de Listeria nas células epiteliais humanas, enquanto que a InlB é necessária para a internalização de Listeria em vários outros tipos de células, como os hepatócitos, fibroblastos e células epitelióides. As internalinas são essencialmente factores de virulência expostos na superfície bacteriana, cujo papel vai desde o reconhecimento de receptores celulares para ajudar à entrada do patógeno e escapar da autofagia.
+A Listeria monocytogenes pressupõe uma ameaça para as mulheres grávidas devido à sua capacidade de cruzar a barreira placentária sanguínea por meio da união à vez das InIA e InIB às células do hóspede. As investigações mostraram que só a união combinada destes dois factores de virulência permite que a bactéria cruze esta barreira. O mesmo não ocorre nos ratos e porquinhos-da-índia, cujas células só têm afinidade por InIB em ratos e por InIA nos porquinhos-das-índias.
+
+
+== Ver também ==
+Caderina
+Pascale Cossart
+
+
+== Referências ==

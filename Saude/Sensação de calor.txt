@@ -1,0 +1,41 @@
+Sensação de calor refere-se às maneiras como o ser humano sente a temperatura ambiente elevada.
+Entender a forma como o corpo humano perde calor é de fundamental importância para entender a sensação de calor.
+
+
+== Formas de perda do calor do corpo humano ==
+Há três formas do corpo humano perder calor: por irradiação (ondas infravermelhas), por condução (pelo contato com substâncias mais frias, como o ar) e por evaporação (suor). Mas a perda de calor por irradiação e condução só é possível para o corpo humano quando a temperatura do ar está menor do que a temperatura da pele, que é metabolicamente regulada para em torno 33 °C . Portanto, acima de 33 °C de temperatura ambiente, a evaporação do suor é a única forma de perda de calor capaz de garantir a regulação em 33 °C da temperatura da pele que, por sua vez, permite a regulação da temperatura interna do corpo de cerca de 36 °C.
+
+
+== A evaporação do suor ==
+A transpiração do suor é o principal mecanismo de perda de calor do corpo humano, sendo este o mecanismo primordial de regulação da temperatura do corpo quando a temperatura ambiente está maior do que a da pele (acima de 33 °C).
+Caso a evaporação do suor seja impedida ou dificultada, quanto mais a temperatura ambiente se aproxima de 33 °C, maior o desconforto térmico. Se a temperatura ambiente supera 33º e a evaporação do suor for dificultada, não apenas o desconforto térmico se torna cada vez mais extremo como também pode levar à morte por hipertermia.
+A evaporação do suor permite o resfriamento evaporativo do corpo, possibilitando que a superfície do corpo (e daí a temperatura interna) possa alcançar temperaturas menores do que a ambiente, dissipando o calor gerado pelo próprio metabolismo corporal e a garantindo manutenção da temperatura corporal interna em torno de 36 °C.
+Veremos adiante os principais fatores que promovem ou dificultam a evaporação do suor, isto é, uma maior ou menor sensação de calor.
+
+
+=== Papel primordial da ventilação e da umidade relativa do ar na taxa de evaporação do suor ===
+Quanto maior a taxa de evaporação do suor, mais o corpo é resfriado. Dois fatores determinam a taxa de evaporação do suor: a umidade relativa do ar e a ventilação:
+a) Umidade relativa do ar: Quanto menor a umidade relativa do ar, maior a taxa evaporativa do suor. Se a umidade relativa se aproximar de 100%, isto significa que a capacidade do ar de conter mais vapor do que já contém tende a ser nula, reduzindo ao mínimo a taxa de evaporação do suor e levando ao máximo o desconforto término no caso de a temperatura ambiente se aproximar ou superar a do corpo humano. Felizmente, na maioria dos climas da terra, a umidade relativa se aproxima de 100% apenas durante precipitações (chuva), fenômeno atmosférico que, por si mesmo, reduz significativamente a temperatura ambiente. Em geral, quanto maior a temperatura ambiente, menor é a umidade relativa do ar (inclusive em climas tropicais úmidos), visto que, quanto maior a temperatura, mais o ar se expande, aumentando sua capacidade de conter vapor (inversamente, quanto menor a temperatura, mais o ar se contrai, reduzindo sua capacidade de conter vapor).
+b) ventilação: quanto maior a velocidade do ar que passa sobre a superfície do corpo humano, maior a taxa de evaporação do suor. Deve-se observar que a ventilação por si mesma não reduz a temperatura ambiente, ela apenas aumenta a taxa de evaporação do suor, isto é, promove o resfriamento evaporativo do corpo humano. Ademais, a ventilação dissipa a umidade que se acumularia no interior da construção, melhorando o conforto térmico.
+
+
+=== Eficácia do resfriamento mediante a evaporação do suor ===
+Pode-se verificar em nosso corpo a enorme eficácia do resfriamento evaporativo quando, num dia quente, permanecendo molhado após um banho, secamos nosso corpo em frente a um ventilador. Por exemplo, no dia 4 de fevereiro de 2010, no Rio de Janeiro, a temperatura do ar alcançou 40 °C, a máxima do ano, por volta de 4 horas da tarde (http://www.wunderground.com/history/airport/SBAF/2010/2/4/DailyHistory.html), mas a umidade relativa do ar estava em 27%, e a pressão atmosférica estava em 1009 hPa; consequentemente, a temperatura de bulbo úmido era de apenas 24,2 °C, sendo esta a temperatura alcançada por uma superfície molhada exposta ao ar, como por exemplo, a pele molhada, naquele dia mais quente do ano. Para calcular a temperatura de bulbo úmido (wet bulb temperature) a partir da temperatura do ar e da humidade relativa, há na internet calculadoras, como esta: [1].
+
+
+== Conclusão ==
+Além da temperatura, a umidade relativa do ar e a ventilação são os fatores determinantes da sensação de calor.
+
+
+== Referências ==
+
+
+== Ver também ==
+Índice de calor
+Índice de resfriamento
+Resfriamento passivo (arquitetura)
+
+
+== Ligações externas ==
+Calculadora de temperatura de bulbo úmido (a partir da humidade relativa, temperatura e pressão), que é a temperatura alcançada por um superfície molhada mediante o resfriamento evaporativo.
+Calculadora do índice de calor (sensação térmica baseada nas variáveis temperatura e umidade).

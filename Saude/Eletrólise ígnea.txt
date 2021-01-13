@@ -1,0 +1,653 @@
+Eletrólise ígnea é uma reação química de eletrólise, isto é, a separação de elementos químicos de um composto, feita com o eletrólito fundido, não ocorrendo sobre a solução do eletrólito. O termo ígnea vem do latim igneu, significando ardente. Na eletrólise ígnea utilizam-se eletrodos inertes que possuam elevado ponto de fusão, comumente de platina ou grafita.
+O processo da eletrólise ígnea é utilizado para obter metais alcalinos, alcalino terrosos e alumínio, pois seus cátions não perdem a carga no estado líquido.
+
+
+== Eletrólise do cloreto de sódio fundido ==
+O cloreto de sódio funde a 808°C e torna-se condutor de corrente elétrica.
+Passando-se uma corrente elétrica contínua por este líquido, geralmente a 808°C, produz-se a eletrólise deste sal.
+Neste processo são produzidos o gás cloro (altamente tóxico) e o sódio metálico em forma líquida nesta temperatura.
+O cloro pode ser recolhido em solução de soda cáustica para produção do hipoclorito de sódio, e o sódio metálico deve ser muito cuidadosamente manipulado pois reage violentamente com água causando explosões, produzindo hidróxido de sódio e gás hidrogênio.
+A reação se processa com as seguintes reações:
+
+  
+    
+      
+        
+          
+            NaCl
+          
+          ⟶
+          
+            
+              Na
+              
+                +
+              
+            
+          
+          +
+          
+            
+              Cl
+              
+                −
+              
+            
+          
+        
+      
+    
+    {\displaystyle {\ce {{NaCl}->{Na^{+}}+{Cl^{-}}}}}
+  Os íons Cl1- se dirigem para o ânodo (pólo positivo), perdem seus elétrons e são transformados em gás cloro, Cl2:
+
+  
+    
+      
+        
+          2
+          
+          
+            
+              Cl
+              
+                −
+              
+            
+          
+          ⟶
+          
+            
+              Cl
+              
+                2
+              
+              
+                
+              
+            
+          
+          +
+          2
+          
+          
+            
+              e
+              
+                −
+              
+            
+          
+        
+      
+    
+    {\displaystyle {\ce {2{Cl^{-}}->{Cl2}+2{e^{-}}}}}
+   (reação de oxidação)Os íons Na1+ se dirigem para o cátodo (pólo negativo), recebem um elétron e são transformados em sódio metálico (Na0). 
+Assim, equilibrando as cargas, por multiplicação da equação de oxidação.
+
+  
+    
+      
+        
+          2
+          
+          
+            
+              Na
+              
+                +
+              
+            
+          
+          +
+          2
+          
+          
+            
+              e
+              
+                −
+              
+            
+          
+          ⟶
+          2
+          
+          
+            
+              Na
+              
+                0
+              
+            
+          
+        
+      
+    
+    {\displaystyle {\ce {2{Na^{+}}+2{e^{-}}->2{Na^{0}}}}}
+   (reação de redução)A equação global desta eletrólise é dada pela soma das reações de dissociação do sal e das reações que ocorrem nos eletrodos.
+
+  
+    
+      
+        
+          2
+          
+          
+            NaCl
+          
+          ⟶
+          2
+          
+          
+            
+              Na
+              
+                +
+              
+            
+          
+          +
+          2
+          
+          
+            
+              Cl
+              
+                −
+              
+            
+          
+        
+      
+    
+    {\displaystyle {\ce {2{NaCl}->2{Na^{+}}+2{Cl^{-}}}}}
+  
+  
+    
+      
+        
+          2
+          
+          
+            
+              Cl
+              
+                −
+              
+            
+          
+          ⟶
+          
+            
+              Cl
+              
+                2
+              
+              
+                
+              
+            
+          
+          +
+          2
+          
+          
+            
+              e
+              
+                −
+              
+            
+          
+        
+      
+    
+    {\displaystyle {\ce {2{Cl^{-}}->{Cl2}+2{e^{-}}}}}
+   (reação de oxidação)
+  
+    
+      
+        
+          2
+          
+          
+            
+              Na
+              
+                +
+              
+            
+          
+          +
+          2
+          
+          
+            
+              e
+              
+                −
+              
+            
+          
+          ⟶
+          2
+          
+          
+            
+              Na
+              
+                0
+              
+            
+          
+        
+      
+    
+    {\displaystyle {\ce {2{Na^{+}}+2{e^{-}}->2{Na^{0}}}}}
+   (reação de redução)Tendo-se, finalmente, a reação global:
+
+  
+    
+      
+        
+          2
+          
+          
+            NaCl
+          
+          ⟶
+          
+            
+              Cl
+              
+                2
+              
+              
+                
+              
+            
+          
+          +
+          2
+          
+          
+            
+              Na
+              
+                0
+              
+            
+          
+        
+      
+    
+    {\displaystyle {\ce {2{NaCl}->{Cl2}+2{Na^{0}}}}}
+  
+
+
+== Eletrólise da bauxita fundida ==
+Obtém-se alumínio a partir da bauxita (Al2O3). Em condições normais a bauxita tem ponto de fusão de 2072 °C. Com o acréscimo de criolita (Na3AlF6) como fundente, a temperatura de fusão desta mistura cai para 1000 °C.
+A alumina se dissocia:
+
+  
+    
+      
+        
+          
+            
+              Al
+              
+                2
+              
+              
+                
+              
+            
+            
+              O
+              
+                3
+              
+              
+                
+              
+            
+          
+          ⟶
+          2
+          
+          
+            
+              Al
+              
+                3
+                +
+              
+            
+          
+          +
+          3
+          
+          
+            
+              O
+              
+                2
+                
+                
+                  −
+                
+              
+            
+          
+        
+      
+    
+    {\displaystyle {\ce {{Al2O3}->2{Al^{3}+}+3{O^{2-}}}}}
+  No eletrodo negativo ocorre a seguinte reação:
+
+  
+    
+      
+        
+          4
+          
+          
+            
+              Al
+              
+                3
+                +
+              
+            
+          
+          +
+          12
+          
+          
+            
+              e
+              
+                −
+              
+            
+          
+          ⟶
+          4
+          
+          
+            
+              Al
+              
+                0
+              
+            
+          
+        
+      
+    
+    {\displaystyle {\ce {4{Al^{3}+}+12{e^{-}}->4{Al^{0}}}}}
+  Enquanto no eletrodo positivo:
+
+  
+    
+      
+        
+          6
+          
+          
+            
+              O
+              
+                2
+                
+                
+                  −
+                
+              
+            
+          
+          ⟶
+          6
+          
+          
+            
+              O
+              
+                2
+              
+              
+                
+              
+            
+          
+          +
+          12
+          
+          
+            
+              e
+              
+                −
+              
+            
+          
+        
+      
+    
+    {\displaystyle {\ce {6{O^{2-}}->6{O2}+12{e^{-}}}}}
+  A equação glogal apresenta-se como:
+
+  
+    
+      
+        
+          2
+          
+          
+            
+              Al
+              
+                2
+              
+              
+                
+              
+            
+            
+              O
+              
+                3
+              
+              
+                
+              
+            
+          
+          ⟶
+          4
+          
+          
+            
+              Al
+              
+                3
+                
+                +
+              
+            
+          
+          +
+          6
+          
+          
+            
+              O
+              
+                2
+                
+                
+                  −
+                
+              
+            
+          
+        
+      
+    
+    {\displaystyle {\ce {2{Al2O3}->4{Al^{3+}}+6{O^{2-}}}}}
+  
+  
+    
+      
+        
+          4
+          
+          
+            
+              Al
+              
+                3
+                
+                +
+              
+            
+          
+          +
+          12
+          
+          
+            
+              e
+              
+                −
+              
+            
+          
+          ⟶
+          4
+          
+          
+            
+              Al
+              
+                0
+              
+            
+          
+        
+      
+    
+    {\displaystyle {\ce {4{Al^{3+}}+12{e^{-}}->4{Al^{0}}}}}
+  
+  
+    
+      
+        
+          6
+          
+          
+            
+              O
+              
+                2
+                
+                
+                  −
+                
+              
+            
+          
+          ⟶
+          3
+          
+          
+            
+              O
+              
+                2
+              
+              
+                
+              
+            
+          
+          +
+          12
+          
+          
+            
+              e
+              
+                −
+              
+            
+          
+        
+      
+    
+    {\displaystyle {\ce {6{O^{2-}}->3{O2}+12{e^{-}}}}}
+  
+  
+    
+      
+        
+          2
+          
+          
+            
+              Al
+              
+                2
+              
+              
+                
+              
+            
+            
+              O
+              
+                3
+              
+              
+                
+              
+            
+          
+          ⟶
+          4
+          
+          
+            
+              Al
+              
+                0
+              
+            
+          
+          +
+          3
+          
+          
+            
+              O
+              
+                2
+              
+              
+                
+              
+            
+          
+        
+      
+    
+    {\displaystyle {\ce {2{Al2O3}->4{Al^{0}}+3{O2}}}}
+  O oxigênio gasoso formado na oxidação reage com o carbono do eletrodo de grafita produzindo CO2.
+
+
+== Outras aplicações ==
+Existem métodos para a preparação de cloreto de manganês e manganês a partir da eletrólise ígnea de cloreto de manganês.A eletrólise ígnea de óxidos é pensada como sendo uma solução para a obtenção tanto de metais quanto de oxigênio na exploração de outros corpos celestes, como no ambiente lunar.
+
+
+== Referências ==

@@ -1,0 +1,24 @@
+O inflamassoma é um complexo protéico oligomérico implicado no sistema imunitário inato. · .Ele é constituído por diversas proteínas : la caspase 1, PYCARD (ou ASC, ver abaixo), NALP (um tipo de receptor do tipo NOD) e, em alguns casos, a caspasemente5 (também conhecida como caspase 11 ou ICH-3). Ele é expressado nas células da linhagem granulocíticas.
+O inflamassoma é formado após o reconhecimento de diversos sinais inflamatórios (LPS, cristais de ácido úrico e diversos compostos virais e bacterianos) por proteínas da família dos NPLR. A composição exata do inflamassoma depende da vias de ativação utilizadas em cada caso. Por exemplo, o RNA de duplas fita desencadeia a formação de um inflamassoma diferente da desencadeada por cristais de ácido úrico, por exemplo. O inflamassoma favorece a maturação das citocinas inflamatórias interleucina-1β e interleucina 18, por clivagem através da  caspase 1.
+O inflamassoma é responsável pela ativação de processos inflamatórios e pode induzir o processo de pyroptose, uma morte celular programada diferente da apoptose.
+
+
+== Mecanismos fisiopatológicos ==
+Durante uma infecção, uma das primeiras formas de defesas instituídas pelo sistema imune consiste em um grupo de receptores que reconhecem padrões moleculares de patógenos (PAMPs). Esses receptores podem se situar na membrana plasmática, como alguns receptores do tipo Toll (TLR), e os rececptores do tipo lectina C (CLR) ; eles podem também se encontrar no citoplasma, como os receptores to tipo NOD (NLR)  e os RIG-like helicase receptors (RLR).
+Em 2002, Martinon  demonstrou que um subconjunto de NLR chamado NLRP1 era capaz de se organizar e se oligomerizar em uma estrututra ativadora da cascata da caspase 1, conduzindo assim à produção de citocinas pró-inflamatórias (notavelmentet IL-1β e IL-18). Essa estrutura oligomérica foi denomidada "inflamassoma". Desde então, outros inflamassomas foram descobertos, incluindo dois formados também a partir de  NLR (NLRP3 e NLRC4).
+Mais recentemente, Hornung identificou um inflamassoma da família PYHIN (pirina e proteína contendo um domínio HIN) chamado AIM2 (a partir de absent in melanoma 2) que se forma a partir da detecção de DNA dupla fita (dsDNA) estranho ao citoplasma e ativa NF-kB, que possui um papel crucial nas infecções bacterianas e virais.
+
+
+== Cascata inflamatória ==
+Assim como o apoptossoma ativa a cascata apoptótica, o inflamassoma ativa a cascata inflamatória. Uma vez ativo, o inflamassoma se liga à pró-caspase1 ( precursora da caspase 1) através de seu domínio CARD ( domínio de recrutamento da caspase) ou via proteína adaptadora de CARD ( ASC) que se liga a ele durante a formação do inflamassoma. Em sua forma completa, o inflamassoma se liga a diversas moléculas de pró-caspase 1 e induz a clivagem automática nas subunidades p20 e p10. A caspase 1 na forma ativa se constitui por dois heterodímeros, cada um com uma subunidade p20 e uma p10. Uma vez ativa, ela desencadeia:
+
+a clivagem de pró-IL-1β em IL-1β;
+a clivagem de pró-IL-18 em IL-18, induzindo secreção de IFN-γ e ativação de linfócitos NK;
+clivagem e inativação l’IL-33;
+fragmentação do DNA e formação de poros celulares;
+inibição das enzimas glicolíticass;
+biossíntese de lipídeos;
+secreção de mediadores reparadores de tecido como a pró-IL-1α.
+
+
+== Notas e referências ==

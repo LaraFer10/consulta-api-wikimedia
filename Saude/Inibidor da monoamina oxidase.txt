@@ -1,0 +1,41 @@
+Os inibidores da monoamina oxidase (IMAO) são uma classe de fármacos que actuam bloqueando a acção da enzima monoamina oxidase, sendo utilizados no tratamento da depressão.
+
+
+== Farmacologia ==
+Os fármacos inibidores da MAO inibem a enzima monoamina oxidase (MAO), responsável por degradar monoaminas como a noradrenalina, tiramina, dopamina e serotonina, aumentando assim a concentração no corpo e no cérebro dessas substâncias, condicionando maior excitação dos neurônios que possuem receptores para esses mediadores.
+Existem dois tipos de IMAOS: os reversíveis e os irreversíveis.
+Os IMAOS reversíveis (exemplo: Moclobemida) são em geral mais bem tolerados e causam poucas interações alimentares; porém, são normalmente menos eficazes. Os IMAOs irreversíveis e não-seletivos (exemplo: Tranilcipromina) bloqueiam a ação dos dois subtipos da enzima (MAO-A e MAO-B). Essa característica confere-lhes uma longa duração de ação, mas está relacionada com os seus efeitos adversos, uma vez que a inibição não-seletiva (e irreversível) leva à acumulação e consequente toxicidade de vários dos subtratos da MAO, sobretudo a Tiramina. Por esse motivo, é muitas vezes necessária a instituição de uma dieta alimentar específica para reduzir o consumo de substratos da enzima, como a tiramina. No entanto, os IMAO irreversíveis são muito mais eficazes.
+Com base em observações clínicas, o aumento da quantidade de mediadores na fenda sináptica está relacionado com a melhoria de sintomas depressivos, embora o mecanismo subjacente não seja perfeitamente claro. A resposta parece residir nas alterações no número e na afinidade dos receptores, devido ao aumento da concentração de mediadores, o que explica a demora (mais de uma semana) entre o início da ação terapêutica e a manifestação dos efeitos.
+
+
+== Indicações ==
+A principal indicação para o uso de IMAOs é a depressão maior ou sintomas depressivos que não respondam ao tratamento convencional com outros antidepressivos. Outras indicações importantes são: transtorno de pânico e fobia social.
+
+
+=== Alimentos ===
+Existem alguns alimentos que interagem com os inibidores da MAO (somente do tipo irreversível). Não se deve associar alimentos fermentados como vinho e queijos envelhecidos com um inibidor irreversível da MAO, pois eles contem grande quantidade de tiramina. A tiramina também é degradada pela MAO, por tanto ao inibir a enzima a tiramina vai aumentar e causar Hipertensão arterial.
+
+
+== Efeitos Colaterais ==
+Os IMAOs não são em regra bem tolerados, possuindo alguns efeitos colaterais importantes. São também relativamente frequentes. Estes incluem:
+
+Sedação
+Confusão
+Perda da coordenação motora precisa
+Tremores
+Excitação
+Convulsões
+Ganho de peso
+Hipotensão postural: costuma ser o efeito mais grave e perigoso, podendo levar a quedas da própria altura e lesões
+Boca seca
+Obstipação
+Retenção urinária (em menor grau que tricíclicos)
+
+
+== Interacções ==
+A ingestão de produtos com elevadas concentrações de tiramina constituem uma das interações dos IMAO , pois a monoamina oxidase também é responsável por metabolizar a tiramina presente nesses alimentos, devido a ação das IMAOs a tiramina acumula-se. Sendo a tiramina precursora das monaminas (como a serotonina e noradrenalina), ocorre assim maior formação desses compostos que se concentram e intensificam os efeitos das vias serotoninérgica e noradrenérgica, levando a hipertensão aguda e cefaleia latejante grave, podendo causar hemorragia intracraniana.
+Os alimentos que devem ser evitados são: queijos envelhecidos (em geral queijos frescos, como queijo-de-minas e ricota não causam problemas), vinhos, chope, pão de queijo, casca de banana, embutidos (salame, presunto, linguiça, mortadela,patê), panetone e alimentos fermentados em geral, que possuem grandes concentrações de tiramina.
+Alguns remédios também devem ser evitados, como descongestionantes e antigripais. Eles são ainda mais perigosos que os alimentos proibidos.
+
+
+== Referências ==

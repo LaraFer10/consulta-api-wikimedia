@@ -1,0 +1,49 @@
+Os Antiarrítmicos da classe I são o grupo de fármacos que bloqueiam os canais de sódio (Na+) nas membranas dos miócitos (células musculares cardíacas).
+
+
+== Farmacologia ==
+Os antiarrítmicos de classe I funcionam pelo bloqueio (são antagonistas) selectivo dos canais de sódio, os quais são proteínas de membrana presentes em grande número em cada célula muscular cardíaca.
+Este bloqueio inibe a iniciação do potencial de acção que inicia a contracção da célula com cada batimento. Em doses moderadas a inibição não é total, e o efeito consiste numa diminuição das despolarizações, desaparecendo principalmente as mais débeis, e portanto das contracções da célula.
+Os fármacos deste grupo tendem a inibir os canais que foram abertos recentemente, mas inibem pouco aqueles que estão fechados há mais tempo. Logo, eles impedem batimentos muito próximos como ocorrem nas arritmias, mas não impedem os batimentos espaçados normais do coração. O batimento do coração torna-se mais lento e regular.
+Existem três sub-classes: Ib de dissociação rápida do antagonista; Ic com dissociação lenta, e Ia com dissociação intermédia
+
+
+== Efeitos ==
+Todas as subclasses tendem a diminuir os batimentos ectópicos (anormais) sem afectar demasiado os batimentos normais. O coração bate mais lentamente e regularmente.
+
+
+=== Subclasse Ia ===
+Esta subclasse tem os piores efeitos secundários. Estes consistem em interferências com o sistema parassimpático (sistema autónomo nervoso): *Boca seca
+
+Obstipação
+Retenção urinária
+
+
+=== Subclasse Ib ===
+Efeitos Adversos possíveis:
+
+Confusão mental
+Convulsões
+
+
+=== Subclasse Ic ===
+Supressão eficaz de batimentos ectópicos de origem ventricular. A droga protótipo dessa classe é a propafenona (Ritmonorm, Tuntá).
+
+
+== Usos clínicos ==
+Fármacos Ia: controlo de arritmias de origem ventricular; prevenção de fibrilação auricular por disfunção nervosa (do nervo vago).
+Fármacos Ib: controlo de taquicardia ventricular (batimentos acelerados); prevenção de arritmias pós-enfarte do miocárdio.
+Fármacos Ic: controlo de fibrilhação auricular e distúrbios do sistema de condução cardíaco.
+
+
+== Fármacos mais importantes ==
+Flecainida (Ic)
+Propafenona (Ic)
+Quinidina (Ia)
+Procainamida (Ia)
+Disopiramido (Ia)
+Lidocaína (Ib)
+
+
+== Ver também ==
+Antiarrítmico

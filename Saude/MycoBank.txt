@@ -1,0 +1,13 @@
+MycoBank é um banco de dados on-line, que documenta novos nomes e combinações micológicos, às vezes trazendo descrições e ilustrações das espécies. É administrado pelo centro de biodiversidade de fungos Centraalbureau voor Schimmelcultures, na cidade de Utrecht, nos Países Baixos.A cada novo nome proposto, depois de ser analisado por especialistas de nomenclatura e se estiver em conformidade com o ICBN (Código Internacional de Nomenclatura Botânica), é atribuído um número único MycoBank antes que o novo nome foi validamente publicado. Esse número, em seguida, podem ser citado pelo autor da nomeação na publicação, onde o novo nome está sendo introduzido. Só então, este número exclusivo torna-se público no banco de dados.
+Ao fazer isso, este sistema pode ajudar a resolver o problema de saber qual nomes foram validamente publicados e em que ano.
+O MycoBank está ligado a outros bancos de dados micológicos importantes, tais como Index Fungorum, Life Science Identifiers, Global Biodiversity Information Facility, dentre outros bancos de dados.
+
+
+== Referências ==
+
+Pedro W. Crous, Walter Gams, Joost A. Stalpers, Vincent Robert and Gerrit Stegehuis (2004). «MycoBank: an online initiative to launch mycology into the 21st century» (PDF). Studies in Mycology. 50: 19–22. Consultado em 7 de dezembro de 2013. Arquivado do original (PDF) em 21 de julho de 2013  !CS1 manut: Nomes múltiplos: lista de autores (link)
+Crous PW, Gams W, Stalpers JA, Cannon PF, Kirk PM, David JC, Triebel D (2004). «An online database of names and descriptions as an alternative to registration». Mycological Research. 108 (11): 1236–1238. doi:10.1017/S0953756204221554  !CS1 manut: Nomes múltiplos: lista de autores (link)
+
+
+== Ligações externas ==
+MycoBank

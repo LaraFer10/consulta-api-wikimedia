@@ -1,0 +1,32 @@
+Linfócitos T ou células T são células do sistema imunológico e também um grupo de glóbulos brancos (leucócitos) responsáveis pela defesa do organismo contra agentes desconhecidos (antígenos). Seu papel principal é como imunidade específica e imunidade celular, induzindo a Apoptose(autodestruição) de células invadidas por vírus, bactérias intracelulares, danificadas ou cancerígenas. Se diferenciam de acordo com sua função em: citotóxicas (CD8), auxiliares (CD4), natural killer (NKT), memória(CD45), reguladoras (FOXP3) ou gama-delta (γδ). Amadurecem no timo, por isso se chamam linfócitos T.
+
+
+== Desenvolvimento ==
+São originados a partir de linfoblastos na medula óssea, mesma célula que dá origem aos linfócitos B e linfócitos NK, e passam pela maturação no timo. Nesse órgão, os linfócitos T adquirem os receptores de membrana específicos CD4 ou CD8, além de um TCR, dos quais a maioria possuem cadeias αβ (95%) e alguns poucos cadeia γδ. Para serem ativados precisam por células apresentadoras de antígeno e por interleucinas para atuar.O TCR (do inglês T cell receptor, ou seja receptor de células T), receptor específico dessas células, é formado a partir do processo de recombinação somática e é diferente em cada célula T. Dessa forma, a população dessas células é capaz de reconhecer uma variedade enorme de antígenos, capacitando os indivíduos para se defender das mais diversas ameaças. O TCR é intimamente ligado a diversas proteínas, notavelmente o complexo CD3, importante para a ativação dessas células e as proteínas  CD4 e CD8, responsáveis pelo reconhecimento da cadeia constante de MHC classe II e I, respectivamente, tendo papel na transdução desse sinal.Após a maturação no timo, os linfócitos são enviados para a circulação. A expressão de L-selectina, uma selectina,  e de receptores de quimiocinas como CCR7, nos linfócitos virgens (ou seja, ainda não ativados com antígeno), permite o reconhecimento de adressinas expressas pelas células dos vasos sanguíneos em linfonodos (células das HEV). Essa ligação promove a migração da célula T para o parênquima do órgão, onde, na região paracortical, o contato com células apresentadoras de antígeno, permite que se inicie uma resposta imune a partir do reconhecimento de um antígeno.Há vários grupos de linfócitos T, destacando-se entre eles os Linfócitos T Auxiliares CD4+ (Helper) e Citotóxicos CD8. Dentre esses grupos, ainda há diversos subgrupos responsáveis por processos como memória imunológica e regulação do sistema imune. O segundo subgrupo, conhecido como “Tregs” expressa ou fator de transcrição FoxP3 ou FoxA1 e são essenciais para a proteção do indivíduo contra doenças auto imunes como lupus e esclerose múltipla.
+
+
+== Linfócito T auxiliar ==
+O linfócito T auxiliar, CD4+, tem a função de coordenar a função de defesa imunológica contra vírus, bactérias e fungos, principalmente através da produção e liberação de citocinas e interleucinas. São capazes de estimular a resposta imune humoral através de ligação direta com linfócitos B, ativados através da expressão de MHC de classe II carregado com antígeno, que interagem com o TCR.
+
+
+== Linfócito T citotóxico ==
+O linfócito T citotóxico, CD8+, tem como função principal a eliminação de células infectadas por parasitas intracelulares, nominalmente os vírus. Dentro dessas células, a produção de proteínas não pertencentes ao indivíduo são em parte processadas pelo proteassoma, produzindo peptídeos exógenos, que, após envio ao Retículo Endoplasmático Rugoso com auxílio da proteína TAP, são expostos na parte de fora da célula. Ao reconhecer um antígeno como não próprio, o linfócito citotóxico libera grânulos contendo perforinas e granzimas  que causam dano direto às células adjacentes, além de fatores como o ligante de Fas e TNFα que induzem apoptose na célula alvo, prevenindo o espalhamento da infecção.Em 2016 pesquisadores da Holanda e da Noruega usaram células T do sistema imunológico de um doador saudável e constataram o ataque  ao câncer de um paciente, o experimento deu resultados e as células T foram capazes de reconhecer as células anômalas(cancerígenas).
+
+
+== Células T de memória ==
+Células T de memória são derivadas de outros linfócitos T que aprenderam a responder a um invasor específico, por exemplo uma espécie de bactéria, ou um tipo de fungo ou mesmo a um alérgeno e foram bem sucedidos em eliminar-los. Passam a viver por muitos anos, e podem ser re-ativados para uma resposta mais rápida a um invasor similar ao que combateu no passado. Por exemplo, um linfócito que foi ativado para combater sarampo (por contato direto ou por vacina) pode seguir combatendo novas invasões pelo vírus do sarampo garantindo imunidade vitalícia a esse indivíduo.
+
+
+== Células T reguladoras ==
+As células T reguladoras (Treg) são uma subpopulação de células T com desenvolvimento e função distintas, que expressam o fator de transcrição forkhead box P3 (FOXP3) e são indispensáveis para a manutenção da tolerância imunitária ao próprio e da homeostasia. Disfunções nestas células podem levar a problemas graves como doenças auto-imunes fatais, imunopatologias e alergias.
+As células T reguladoras FOXP3+ podem suprimir a ativação, proliferação e as funções efetoras (ex. produção de citocinas) de uma vasta gama de células imunitárias, tais como células CD4+ e CD8+, células natural killer (NK), células B e células apresentadoras de antigénios (APCs).
+As células Treg FOXP3+ podem também suprimir respostas imunes anti-tumorais e favorecer assim a progressão do tumor.
+As células Treg podem ainda servir como uma ligação entre a imunidade e o metabolismo, ou seja, a função imune é influenciada pela forma metabólica através da modulação das Treg em três níveis de regulação: estado nutricional do hospedeiro; micróbios comensais e metabolismo celular das próprias células Treg. 
+
+
+== Células T receptoras ==
+Uma equipe de cientistas da Universidade de Cardiff, no País de Gales, encontrou uma célula-T (ou linfócito T) com um novo tipo de "receptor" que identifica e ataca células cancerosas, ignorando as saudáveis. Estas células e seu receptor podem encontrar e destruir uma gama de células cancerosas no pulmão, na pele, no sangue, no cólon, na mama, nos ossos, na próstata, no ovário, no rim e na coluna cervical. Em janeiro de 2020, os achados, apesar de divulgados na publicação científica Nature Immunology, ainda não haviam sido testados em pacientes, mas segundo os cientistas, tinham um "enorme potencial". 
+Nota: os estudos estão em seu estágio inicial
+
+
+== Referências ==

@@ -1,0 +1,80 @@
+Floema é o tecido vivo em plantas vasculares encarregado de levar os compostos orgânicos solúveis produzidos durante a fotossíntese e conhecidos como fotossintatos (ou comumente chamados em conjunto de seiva elaborada), em particular a sacarose de açúcar, para partes da planta quando necessário. Esse processo de transporte (pelo caule até a raiz e órgãos de reserva) é chamado de translocação. Nas árvores, o floema é a camada mais interna da casca, daí o nome, derivado da palavra grega φλοιός (phloios) que significa "casca". O termo foi introduzido por Carl Nägeli em 1858.O floema é um dos dois tipos de tecido de transporte nas plantas vasculares, sendo o outro o xilema (que transporta a seiva bruta).
+Os produtos transportados pelo floema são substâncias inorgânicas e orgânicas, como água, lipídios e carboidratos, são transportados desde os órgãos da planta com capacidade fotossintética (ou produtores), como folhas maduras, até outros que funcionam como consumidores dessas substâncias, para a formação de novos órgãos ou para reserva, nomeadamente, os meristemas, as células do interior do caule, da raiz, das flores, dos frutos e dos órgãos de reserva - que podem estar dispersos dentro do caule e da raiz, mas que podem estar especializados, como os tubérculos e rizomas.
+
+
+== Ocorrência ==
+O floema está presente praticamente em toda fase da vida da planta, tanto estrutura primária, na qual a planta ainda está em sua forma jovem, quanto em estrutura secundária na qual os órgãos adquirem uma certa resistência. Ocorre em todas as partes da planta: caule, raiz, folha, partes florais etc.
+Normalmente, durante o crescimento primário (em altura), o floema e o xilema se alternam - isto acontece devido à desorganização dos órgãos das plantas. Já durante o crescimento secundário (espessura), o floema fica mais externamente e o xilema mais internamente. Em alguns casos de famílias de dicotiledôneas, como Apocynaceae, Asteraceae, Curcubitaceae, apresentam um floema adicional interno ao xilema, chamado de floema incluso, interno ou intraxilemático, devido ao crescimento em excesso de algum órgão em espessura. Em órgãos como folhas, a posição do floema é dorsal.
+Em plantas com crescimento secundário, o floema é parte do córtex ou "casca primária" e o termo floema deriva da palavra grega para "casca".
+
+
+== Células do floema ==
+O floema é formado por células alongadas, cilíndricas, provenientes de células do procâmbio quando estão em crescimento primário, ou pelo câmbio vascular que forma o floema secundário da sua porção externa.
+O floema é constituído por quatro tipos celulares básicos:
+
+
+=== Elementos de Tubo Crivado ===
+Os elementos de tubo crivado são células vivas (quase sem organelos), mais curtas, colocadas topo a topo, formando os tubos crivosos. As suas paredes celulares transversais denominam-se placas crivosas que fazem as conexões entre as células e através das aberturas chamadas crivos estabelecem a ligação entre o citoplasma de células adjacentes.'
+Cada crivo é revestido de calose (polímero de glicose), que no inverno pode obstruir completamente o vaso, dissolvendo-se depois na primavera. Quando ocorrem infecções ou o vaso é parasitado, também pode ser obstruído com calose.
+
+
+=== Células Crivadas ===
+São células alongadas, que apresentam as paredes com áreas crivadas, com poros.
+
+
+=== Células de Companhia ===
+Células de companhia ou células companheiras são células parenquimáticas especializadas, que contém todos os componentes que existem nas células vivas, inclusive o núcleo, são as células mais intimamente ligadas ao elemento do tubo crivado. O Elemento do tubo crivado e suas células companheiras estão relacionados no desenvolvimento, são derivados da mesma célula mãe e têm várias conexões citoplasmáticas entre si. Devido as muitas conexões, a possível função das células companheiras é a de liberar substâncias para o elemento do tubo crivado, e, quando o núcleo deste estiver ausente, incluir moléculas de informação, proteínas e ATP. Quando um elemento crivado morre, morrem também suas células companheiras, o que é uma demonstração dessa interdependência.
+
+
+=== Células do Parênquima Liberino ===
+As células do parênquima, exercem funções de reserva de diferentes funções como amido, taninos e cristais.
+
+
+=== Fibras liberinas e Esclereídes ===
+As fibras liberinas (ou liberianas) são células mortas e abundantes no floema e exercem funções de suporte, podendo atuar também como células parenquimáticas, armazenando substâncias em suas células.
+As esclereídes também são células comuns no floema podendo estar associadas as fibra ou isoladas.
+
+
+== Mecanismos envolvidos no transporte de floema ==
+No floema, os produtos fotoassimilados são transportados em todas as direções (ao contrário do que ocorre no xilema), e a esta movimentação em todos os sentidos chama-se translocação floêmica, que ocorre a uma velocidade que varia entre 50 a 100 cm/h. Embora o movimento da seiva floêmica seja menos conhecido que o da xilêmica, a hipótese do fluxo de massa é a mais aceita relativamente ao transporte floêmico.
+
+
+=== Hipótese do fluxo de massa ===
+Ou hipótese de fluxo sob pressão, proposta por Ernst Münch (1926).
+Esta hipótese baseia-se na existência de um gradiente de concentração de sacarose entre os órgãos produtores e os órgãos consumidores ou de armazenamento.
+
+A união da glicose mais a frutose forma a sacarose no mesofilo, antes de chegar ao floema;
+Por transporte ativo a sacarose passa para as células companhia (que produzem energia) e destas para os tubos crivosos (através das conexões plasmáticas);
+À medida que aumenta a concentração de sacarose no floema, aumenta também a pressão osmótica, em relação aos tecidos circundantes (xilema e parênquima);
+A água entra por osmose nos tubos crivosos, aumentando a pressão de turgescência;
+A pressão de turgescência empurra a seiva através das placas crivosas, movendo-se a seiva das zonas de maior pressão para as zonas de menor pressão;
+Conforme as necessidades da planta, a sacarose vai passando para os locais de consumo e reserva (pensa-se que por transporte ativo);
+Nos tubos crivosos o meio fica hipotônico (a pressão osmótica decresce), pelo que a água tende a sair por osmose;
+Nos órgãos de consumo e reserva a sacarose é degrada em glicose (e usada na respiração celular ou como componente de outros compostos), ou polimeriza-se em amido (ficando em reserva).Limitações do Modelo
+Não explica a translocação – movimento floémico bidireccional;
+Os modelos físicos indicam que a pressão provocada pelo fluxo de massa não é suficiente para empurrar a seiva através das placas crivosas, estando certamente outros mecanismos, até agora desconhecidos, envolvidos neste processo.
+
+
+== Ver também ==
+Seiva elaborada
+Xilema
+
+
+== Referências ==
+
+
+== Bibliografia ==
+Campbell, Neil A. e Jane B. Reece (sem data) Biology, 6ª ed., Benjamin Cummings.
+Salisbury,Frank; Ross, Cleon (1992). Plant Physiology Fourth ed. Belmont: Wasworth, Inc. pp. 161–188. ISBN 0-534-15162-0  !CS1 manut: Nomes múltiplos: lista de autores (link)
+Meyer, B.;  et al. (1973). Introdução à Fisiologia Vegetal 2ª ed. Lisboa: Fundação Calouste Gulbenkian. pp. 435–444  !CS1 manut: Uso explícito de et al. (link)
+Peter, Raven H., Evert, Ray F., Eichhorn, Susan E. ; Biologia Vegetal, 6a. ed., Guanabara Koogan, Rio de Janeiro, 2001.
+APPEZZATO-DA-GLÓRIA, Beatriz; CARMELLO-GUERREIRO, Sandra Maria. Anatomia vegetal. 2. ed. rev. atu. Viçosa: UFV, 2006.
+
+
+== Ligações externas ==
+
+Biomania - tecidos vegetais
+Univ.California, Berkeley - morfologia das plantas vasculares
+Constituição do floema
+Calose no floema
+Transporte nas plantas- inglês

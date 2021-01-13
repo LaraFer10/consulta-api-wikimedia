@@ -1,0 +1,29 @@
+As peroxidases (EC 1.11.1) são um grupo de enzimas oxirredutases que oxidam substratos orgânicos, tendo o peróxido de hidrogénio como molécula aceitadora de elétrons. A reação é denominada peroxidação, sendo descrita pela equação:
+Xreduzida + H2O2 (peroxidase + cofator)-----> Xoxidada + H2O
+Nesta equação, X é a molécula que sofre peroxidação (substrato).
+
+
+== Classificação estrutural ==
+Estruturalmente, as peroxidases podem ser divididas em quatro classes:
+
+peroxidases bacterianas;
+peroxidases de origem animal;
+peroxidases fúngicas;
+peroxidases de plantas.As peroxidases podem também ser divididas quanto à presença de um grupo heme, ou seja, podem ser classificadas como hemicas ou não-hemicas. As peroxidases hemicas catalisam a peroxidação de substratos usando o íon de ferro presente no grupo heme. As peroxidases não-hemicas, também conhecidas como peroxirredoxinas (EC 1.11.1.15), usam cisteínas com actividade redox no seu centro activo.
+
+
+== Actividade biológica ==
+As peroxidases têm um papel importante na desintoxicação celular ao eliminar o peróxido de hidrogênio, que é uma espécie reactiva de oxigénio. Os substratos das peroxidases são de natureza bastante diversa, incluindo-se proteínas como o citocromo c, péptidos como a glutationa, pequenas moléculas como o NADPH e ácidos gordos. A catalase, enzima que catalisa a dismutação do peróxido de hidrogênio, também é uma peroxidase.
+A glutationa peroxidase (EC 1.11.1.9) oxida a glutationa; esta molécula, um tripéptido na forma reduzida, dimeriza quando oxidada, através da formação de ligações dissulfureto entre dois péptidos. 
+As peroxidases de ácidos graxos são encontradas em plantas superiores e catalisam a peroxidação de ácidos graxos de cadeia longa.
+
+
+== Mecanismo reacional ==
+
+
+=== Em peroxidases hemicas ===
+As peroxidases hemicas possuem um grupo heme, em que o íon de ferro se encontra no estado de oxidação Fe(III) entre ciclos catalíticos. Uma molécula de peróxido oxida este íon, formando a espécie ferrilo, Fe(IV)=O (um átomo de oxigênio ligado por uma ligação dupla ao íon Fe4+). O ferrilo é uma espécie química com alta capacidade oxidante, reduzindo-se quando oxida o substrato orgânico da peroxidase. No fim do ciclo catalítico, o ferro volta ao estado de oxidação Fe3+.
+
+
+=== Em peroxidases não hemicas ===
+Uma cisteína existente no centro ativo das peroxirredoxinas é oxidada por uma molécula de peróxido de hidrogénio a ’’S’’-hidroxicisteína, um ácido sulfénico. Esta cisteína forma então uma ligação dissulfureto com a cadeia lateral de outra cisteína da peroxirredoxina. Esta ligação química constitui uma forma oxidada das cisteínas e a sua redução química é feita por um substrato orgânico.

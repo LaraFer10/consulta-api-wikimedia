@@ -1,0 +1,1282 @@
+Retroalimentação ou realimentação também denominada por feedback, cujo significado técnico é "retorno da informação ou do processo". É o efeito retroativo ou informação que o emissor obtém da reação do receptor à sua mensagem, e que serve para avaliar os resultados da transmissão, ou até mesmo dar uma resposta. O termo costuma ser utilizado nas ciências como Física, Química, Biologia, Engenharia,  Economia e Psicologia.
+É também o nome dado ao procedimento através do qual parte do sinal de saída de um sistema (ou circuito) é transferida para a entrada deste mesmo sistema. Quando a retroalimentação diminui o nível da saída, fala-se de retroalimentação negativa, e quando a retroalimentação amplifica o nível da saída fala-se de retroalimentação positiva. A retroalimentação pode também ter um efeito variável (às vezes positivo, às vezes negativo) de acordo com as condições, tempo de transmissão e inércia do sistema.
+
+
+== Aplicação ==
+Entende-se por realimentação um processo em que uma informação sobre o passado influencia no mesmo fenômeno no presente e ou poderá influenciar no futuro, permitindo ajustes que mantenham um sistema funcionando corretamente.
+
+
+=== Bioquímica ===
+Nas células, há enzimas que utilizam o mecanismo de realimentação para regular seu comportamento, as chamadas enzimas alostéricas. No ciclo metabólico destas enzimas, o próprio produto das reações é utilizado como regulador para definir se a enzima deve aumentar ou diminuir sua velocidade de catálise.
+Por exemplo, se a concentração do produto final estiver elevada, ele (o produto) agirá como uma "realimentação negativa", fazendo com que a enzima diminua sua velocidade de atuação, já que o produto haveria alcançado sua taxa de produção limite. Por outro lado, se a concentração final do produto estiver baixa, ele agirá como uma "realimentação positiva", aumentando a velocidade de reação da enzima para catalisar mais reações.
+
+
+=== Medicina ===
+
+O mecanismo de realimentação (retroalimentação) é a maneira pela qual o corpo regula algumas de suas características necessárias para seu funcionamento ótimo. Algumas dessas características são as concentrações de substâncias no sangue, como oxigênio, glicose, cálcio, sódio e potássio, assim como o número de células brancas e vermelhas. Resposta cardíaca, pressão sanguínea, diâmetro da pupila e taxa de respiração são outros exemplos de mecanismos que funcionam a partir da retroalimentação.Assim como em outras áreas, a retroalimentação pode ser positiva ou negativa. 
+Na retroalimentação negativa, uma variável do sistema muda para estabilizar outra variável. Por exemplo, o corpo responde a uma alta taxa de CO2 no sangue causada por um aumento do metabolismo (através da prática de exercícios físicos, por exemplo) aumentando a taxa de respiração. Dessa forma, CO2 é retirado do corpo mais rapidamente, o que leva a uma diminuição da taxa de CO2 no sangue.
+Sistemas de retroalimentação negativa podem gerar oscilações nas suas variáveis. Essas oscilações podem ser observadas em sistemas fisiológicos de diferentes escalas temporais, desde o ritmo da atividade cardíaca, variações da taxa respiratória, da pressão sanguínea e da temperatura corporal diárias, até o ciclo menstrual mensal e hibernação e reprodução anuais. Como exemplo, o processo de regulação do nível de glicose no sangue é mostrado na figura ao lado.
+Também é possível observar sistemas de retroalimentação positiva em sistemas fisiológicos. Um exemplo comum é o disparo do potencial de ação dos neurônios: uma despolarização do axônio leva a uma maior permeabilidade a sódio através da membrana celular que, por sua vez, aumenta a despolarização, reiniciando o ciclo.
+
+
+==== Representação matemática ====
+
+
+===== Ganho de uma "caixa" =====
+Para modelar matematicamente um sistema de retroalimentação, é preciso introduzir o conceito de ganho de uma "caixa". Primeiramente, uma caixa é um processo que relaciona variáveis de entrada (inputs) e de saída (outputs). Dessa forma, o ganho de uma caixa é a razão entre a mudança da variável de saída em relação a de entrada. Por exemplo, se a variável de saída é 
+  
+    
+      
+        x
+      
+    
+    {\displaystyle x}
+   e a de entrada é 
+  
+    
+      
+        y
+      
+    
+    {\displaystyle y}
+  , o ganho dessa caixa é dado por:
+
+  
+    
+      
+        G
+        =
+        
+          
+            
+              Δ
+              x
+            
+            
+              Δ
+              y
+            
+          
+        
+      
+    
+    {\displaystyle G={\frac {\Delta x}{\Delta y}}}
+  
+
+
+===== Regulação de uma variável e o ganho em malha aberta (OLG, do inglês Open-Loop Gain) =====
+Na figura ao lado, o ganho da primeira e segunda caixa são:
+
+  
+    
+      
+        
+          G
+          
+            1
+          
+        
+        =
+        
+          
+            (
+            
+              
+                
+                  Δ
+                  x
+                
+                
+                  Δ
+                  y
+                
+              
+            
+            )
+          
+          
+            g
+          
+        
+        =
+        
+          
+            (
+            
+              
+                
+                  ∂
+                  x
+                
+                
+                  ∂
+                  y
+                
+              
+            
+            )
+          
+          
+            g
+          
+        
+        =
+        
+          
+            
+              ∂
+              g
+            
+            
+              ∂
+              y
+            
+          
+        
+      
+    
+    {\displaystyle G_{1}=\left({\frac {\Delta x}{\Delta y}}\right)_{g}=\left({\frac {\partial x}{\partial y}}\right)_{g}={\frac {\partial g}{\partial y}}}
+  
+
+  
+    
+      
+        
+          G
+          
+            2
+          
+        
+        =
+        
+          
+            (
+            
+              
+                
+                  Δ
+                  y
+                
+                
+                  Δ
+                  x
+                
+              
+            
+            )
+          
+          
+            f
+          
+        
+        =
+        
+          
+            (
+            
+              
+                
+                  ∂
+                  y
+                
+                
+                  ∂
+                  x
+                
+              
+            
+            )
+          
+          
+            f
+          
+        
+        =
+        
+          
+            
+              ∂
+              f
+            
+            
+              ∂
+              x
+            
+          
+        
+      
+    
+    {\displaystyle G_{2}=\left({\frac {\Delta y}{\Delta x}}\right)_{f}=\left({\frac {\partial y}{\partial x}}\right)_{f}={\frac {\partial f}{\partial x}}}
+  
+O índice indica a que caixa se refere o ganho. O produto 
+  
+    
+      
+        
+          G
+          
+            1
+          
+        
+        
+          G
+          
+            2
+          
+        
+        ≡
+        O
+        L
+        G
+      
+    
+    {\displaystyle G_{1}G_{2}\equiv OLG}
+   é chamado ganho em malha aberta (open-loop gain).
+Agora, pode-se calcular o quanto a retroalimentação reduz a mudança em 
+  
+    
+      
+        x
+      
+    
+    {\displaystyle x}
+   comparado ao caso sem retroalimentação (ou seja, a variável 
+  
+    
+      
+        y
+      
+    
+    {\displaystyle y}
+   como entrada da caixa 
+  
+    
+      
+        g
+      
+    
+    {\displaystyle g}
+   mantida fixa). Para a caixa 
+  
+    
+      
+        g
+      
+    
+    {\displaystyle g}
+  , onde 
+  
+    
+      
+        x
+        =
+        g
+        (
+        y
+        ,
+        p
+        )
+      
+    
+    {\displaystyle x=g(y,p)}
+  , pode-se escrever:
+
+  
+    
+      
+        Δ
+        x
+        =
+        
+          
+            (
+            
+              
+                
+                  ∂
+                  x
+                
+                
+                  ∂
+                  p
+                
+              
+            
+            )
+          
+          
+            y
+          
+        
+        Δ
+        p
+        +
+        
+          
+            (
+            
+              
+                
+                  ∂
+                  x
+                
+                
+                  ∂
+                  y
+                
+              
+            
+            )
+          
+          
+            p
+          
+        
+        Δ
+        y
+      
+    
+    {\displaystyle \Delta x=\left({\frac {\partial x}{\partial p}}\right)_{y}\Delta p+\left({\frac {\partial x}{\partial y}}\right)_{p}\Delta y}
+  
+
+  
+    
+      
+        Δ
+        x
+        =
+        
+          
+            (
+            
+              
+                
+                  ∂
+                  x
+                
+                
+                  ∂
+                  p
+                
+              
+            
+            )
+          
+          
+            y
+          
+        
+        Δ
+        p
+        +
+        
+          G
+          
+            1
+          
+        
+        Δ
+        y
+      
+    
+    {\displaystyle \Delta x=\left({\frac {\partial x}{\partial p}}\right)_{y}\Delta p+G_{1}\Delta y}
+                     (ӿӿ)
+
+Sem retroalimentaçãoQuando não há retroalimentação, 
+  
+    
+      
+        Δ
+        y
+        =
+        0
+      
+    
+    {\displaystyle \Delta y=0}
+   e, então:
+
+  
+    
+      
+        Δ
+        
+          x
+          
+            0
+          
+        
+        =
+        
+          (
+          
+            
+              
+                ∂
+                x
+              
+              
+                ∂
+                p
+              
+            
+          
+          )
+        
+        Δ
+        p
+      
+    
+    {\displaystyle \Delta x_{0}=\left({\frac {\partial x}{\partial p}}\right)\Delta p}
+     (mudança em 
+  
+    
+      
+        x
+      
+    
+    {\displaystyle x}
+   sem retroalimentação)
+onde 
+  
+    
+      
+        Δ
+        
+          x
+          
+            0
+          
+        
+      
+    
+    {\displaystyle \Delta x_{0}}
+   é a mudança em 
+  
+    
+      
+        x
+      
+    
+    {\displaystyle x}
+   sem retroalimentação.
+
+Com retroalimentaçãoQuando há retroalimentação, 
+  
+    
+      
+        Δ
+        y
+      
+    
+    {\displaystyle \Delta y}
+   precisa ser incluído. Podemos calcular 
+  
+    
+      
+        Δ
+        y
+      
+    
+    {\displaystyle \Delta y}
+   a partir da segunda caixa:
+
+  
+    
+      
+        
+          
+            Δ
+            y
+          
+        
+        =
+        
+          (
+          
+            
+              
+                ∂
+                f
+              
+              
+                ∂
+                x
+              
+            
+          
+          )
+        
+        Δ
+        x
+        =
+        
+          G
+          
+            2
+          
+        
+        Δ
+        x
+      
+    
+    {\displaystyle {\displaystyle \Delta y}=\left({\frac {\partial f}{\partial x}}\right)\Delta x=G_{2}\Delta x}
+  
+Substituindo na equação (ӿӿ), obtém-se:
+
+  
+    
+      
+        Δ
+        x
+        =
+        Δ
+        
+          x
+          
+            0
+          
+        
+        +
+        
+          G
+          
+            1
+          
+        
+        (
+        
+          G
+          
+            2
+          
+        
+        Δ
+        x
+        )
+      
+    
+    {\displaystyle \Delta x=\Delta x_{0}+G_{1}(G_{2}\Delta x)}
+  
+Portanto, a relação entre a mudança de uma variável sem retroalimentação 
+  
+    
+      
+        (
+        Δ
+        
+          x
+          
+            0
+          
+        
+        )
+      
+    
+    {\displaystyle (\Delta x_{0})}
+   e com retroalimentação 
+  
+    
+      
+        (
+        Δ
+        x
+        )
+      
+    
+    {\displaystyle (\Delta x)}
+   é dada por:
+
+  
+    
+      
+        Δ
+        x
+        =
+        
+          
+            
+              Δ
+              
+                x
+                
+                  0
+                
+              
+            
+            
+              1
+              −
+              O
+              L
+              G
+            
+          
+        
+      
+    
+    {\displaystyle \Delta x={\Delta x_{0} \over 1-OLG}}
+  
+Nesta equação, o termo OLG (do inglês open-loop gain) refere-se à multiplicação entre os ganhos de ambas as caixas. Se o OLG é negativo, a realimentação também é negativa. Da mesma forma, quando OLG é positivo, a realimentação também o é. 
+Como exemplo, pode-se citar a relação entre a taxa de respiração e a pressão parcial de CO2 nos alvéolos (ou simplesmente a concentração de CO2 no sangue). Sendo 
+  
+    
+      
+        Δ
+        
+          x
+          
+            0
+          
+        
+      
+    
+    {\displaystyle \Delta x_{0}}
+   a variação da pressão parcial de CO2 sem retroalimentação e 
+  
+    
+      
+        Δ
+        x
+      
+    
+    {\displaystyle \Delta x}
+   com retroalimentação, têm-se 
+  
+    
+      
+        Δ
+        
+          x
+          
+            0
+          
+        
+      
+    
+    {\displaystyle \Delta x_{0}}
+   = 1,5, enquanto 
+  
+    
+      
+        Δ
+        x
+      
+    
+    {\displaystyle \Delta x}
+   = 0,23 (esses valores são ilustrativos e referem-se a uma situação descrita na referência). Ou seja, a variação da pressão de CO2 é bem menor quando o mecanismo de retroalimentação é inserido.
+
+
+===== Aproximação ao equilíbrio =====
+Até agora, os processos foram descritos em situações de equilíbrio. Na primeira caixa existem duas entradas: 
+  
+    
+      
+        p
+      
+    
+    {\displaystyle p}
+   e 
+  
+    
+      
+        y
+      
+    
+    {\displaystyle y}
+  . Assim, conforme 
+  
+    
+      
+        p
+      
+    
+    {\displaystyle p}
+   varia, há uma perturbação no sistema de retroalimentação.
+Um exemplo para se descrever como esses sistemas desenvolvem-se no tempo, é quando um determinado indivíduo encontra-se parado para 
+  
+    
+      
+        t
+        ≤
+        0
+      
+    
+    {\displaystyle t\leq 0}
+   e começa a movimentar-se (exercitar-se) em 
+  
+    
+      
+        t
+        =
+        0
+      
+    
+    {\displaystyle t=0}
+  . Neste caso, considere-se o parâmetro 
+  
+    
+      
+        p
+      
+    
+    {\displaystyle p}
+   como o consumo de oxigênio, 
+  
+    
+      
+        x
+      
+    
+    {\displaystyle x}
+   como a pressão parcial de gás carbônico nos alvéolos pulmonares (ou, para facilitar o entendimento, a concentração de gás carbônico no sangue) e 
+  
+    
+      
+        y
+      
+    
+    {\displaystyle y}
+   como a taxa de respiração desse indivíduo.
+Supondo que, para um tempo 
+  
+    
+      
+        t
+        ≤
+        0
+      
+    
+    {\displaystyle t\leq 0}
+  , tem-se 
+  
+    
+      
+        p
+        =
+        
+          p
+          
+            0
+          
+        
+      
+    
+    {\displaystyle p=p_{0}}
+  , 
+  
+    
+      
+        x
+        =
+        
+          x
+          
+            0
+          
+        
+      
+    
+    {\displaystyle x=x_{0}}
+   e 
+  
+    
+      
+        y
+        =
+        
+          y
+          
+            0
+          
+        
+      
+    
+    {\displaystyle y=y_{0}}
+   e analisando o que acontece para 
+  
+    
+      
+        t
+        >
+        0
+      
+    
+    {\displaystyle t>0}
+  , quando o indivíduo começa a se exercitar, obtêm-se em ambos os casos (sem e com retroalimentação):
+
+Sem retroalimentação 
+  
+    
+      
+        (
+        Δ
+        y
+        =
+        0
+        )
+      
+    
+    {\displaystyle (\Delta y=0)}
+  Quando o indivíduo começa a se exercitar, suas células consomem mais oxigênio (para realizar a tarefa) e, consequentemente, liberam mais gás carbônico, aumentando sua concentração no sangue. Isso pode ser escrito matematicamente como: 
+  
+    
+      
+        p
+        =
+        
+          p
+          
+            0
+          
+        
+        +
+        Δ
+        p
+      
+    
+    {\displaystyle p=p_{0}+\Delta p}
+   e 
+  
+    
+      
+        x
+        =
+        
+          x
+          
+            0
+          
+        
+        +
+        Δ
+        x
+      
+    
+    {\displaystyle x=x_{0}+\Delta x}
+  . No caso de não haver retroalimentação, o valor de 
+  
+    
+      
+        y
+      
+    
+    {\displaystyle y}
+   permanece constante 
+  
+    
+      
+        (
+        y
+        =
+        
+          y
+          
+            0
+          
+        
+        )
+      
+    
+    {\displaystyle (y=y_{0})}
+  . Nesse caso, a variação da concentração de gás carbônico 
+  
+    
+      
+        (
+        Δ
+        x
+        )
+      
+    
+    {\displaystyle (\Delta x)}
+   reage à variação do consumo de oxigênio 
+  
+    
+      
+        (
+        Δ
+        p
+        )
+      
+    
+    {\displaystyle (\Delta p)}
+   da seguinte forma:
+
+  
+    
+      
+        Δ
+        x
+        =
+        a
+        Δ
+        p
+        
+          (
+          
+            1
+            −
+            e
+            x
+            p
+            
+              (
+              
+                −
+                
+                  
+                    t
+                    
+                      τ
+                      
+                        0
+                      
+                    
+                  
+                
+              
+              )
+            
+          
+          )
+        
+      
+    
+    {\displaystyle \Delta x=a\Delta p\left(1-exp\left(-{\frac {t}{\tau _{0}}}\right)\right)}
+  
+onde 
+  
+    
+      
+        a
+      
+    
+    {\displaystyle a}
+   é uma constante e 
+  
+    
+      
+        
+          τ
+          
+            0
+          
+        
+      
+    
+    {\displaystyle \tau _{0}}
+   é a constante de tempo sem retroalimentação.
+Portanto, a variação da concentração de gás carbônico 
+  
+    
+      
+        (
+        Δ
+        x
+        )
+      
+    
+    {\displaystyle (\Delta x)}
+   reage a uma variação no consumo de oxigênio 
+  
+    
+      
+        (
+        Δ
+        p
+        )
+      
+    
+    {\displaystyle (\Delta p)}
+   de maneira exponencial e estabiliza-se em determinado valor 
+  
+    
+      
+        (
+        
+          x
+          
+            0
+          
+        
+        +
+        a
+        Δ
+        p
+        )
+      
+    
+    {\displaystyle (x_{0}+a\Delta p)}
+   após um período determinado pela constante de tempo 
+  
+    
+      
+        
+          τ
+          
+            0
+          
+        
+      
+    
+    {\displaystyle \tau _{0}}
+  .
+
+Com retroalimentação 
+  
+    
+      
+        (
+        Δ
+        y
+        ≠
+        0
+        )
+      
+    
+    {\displaystyle (\Delta y\neq 0)}
+  Quando há retroalimentação, o valor de 
+  
+    
+      
+        y
+      
+    
+    {\displaystyle y}
+   varia e, como 
+  
+    
+      
+        y
+      
+    
+    {\displaystyle y}
+   também é uma entrada da primeira caixa, esta variação influencia no comportamento de 
+  
+    
+      
+        Δ
+        x
+      
+    
+    {\displaystyle \Delta x}
+  . Assumindo 
+  
+    
+      
+        y
+        =
+        
+          y
+          
+            0
+          
+        
+        +
+        Δ
+        y
+      
+    
+    {\displaystyle y=y_{0}+\Delta y}
+  , têm-se:
+
+  
+    
+      
+        Δ
+        x
+        =
+        
+          
+            
+              a
+              Δ
+              p
+            
+            
+              1
+              −
+              O
+              L
+              G
+            
+          
+        
+        
+          (
+          
+            1
+            −
+            e
+            x
+            p
+            
+              (
+              
+                −
+                
+                  
+                    t
+                    τ
+                  
+                
+              
+              )
+            
+          
+          )
+        
+      
+    
+    {\displaystyle \Delta x={\frac {a\Delta p}{1-OLG}}\left(1-exp\left(-{\frac {t}{\tau }}\right)\right)}
+  
+onde 
+  
+    
+      
+        τ
+        =
+        
+          
+            
+              τ
+              
+                0
+              
+            
+            
+              1
+              −
+              O
+              L
+              G
+            
+          
+        
+      
+    
+    {\displaystyle \tau ={\frac {\tau _{0}}{1-OLG}}}
+   é a constante de tempo com retroalimentação.
+Essa solução tem o mesmo comportamento da solução anterior (sem retroalimentação). Porém, tanto a mudança total na variável 
+  
+    
+      
+        x
+      
+    
+    {\displaystyle x}
+   como a constante de tempo 
+  
+    
+      
+        τ
+      
+    
+    {\displaystyle \tau }
+   são reduzidas a um fator 
+  
+    
+      
+        
+          
+            1
+            
+              1
+              −
+              O
+              L
+              G
+            
+          
+        
+      
+    
+    {\displaystyle {\frac {1}{1-OLG}}}
+  . Isso faz com que a variação da concentração de gás carbônico 
+  
+    
+      
+        (
+        Δ
+        x
+        )
+      
+    
+    {\displaystyle (\Delta x)}
+   reaja à variação no consumo de oxigênio 
+  
+    
+      
+        (
+        Δ
+        p
+        )
+      
+    
+    {\displaystyle (\Delta p)}
+   de maneira mais branda, tanto em amplitude como na constante de tempo, ou seja, tanto a variação é menor como também é mais lenta.
+
+
+=== Psicologia ===
+Na visão da psicologia,  a realimentação ou "devolutiva" é um processo que auxilia na mudança do comportamento, podendo  ser usado nas comunicações do dia-a-dia a fim de minimizar a possibilidade de conflitos de relacionamento e para crescimento de ambas pessoas envolvidas na comunicação.
+
+
+=== Engenharia ===
+Nas áreas de Engenharia o termo está relacionado a alimentação de um determinado sistema, a transferência de um sinal de saída para a entrada do mesmo sistema ou circuito, resultando no aumento do nível de saída ou diminuição (feedback positivo ou negativo). Norbert Wiener, no livro Cybernetics: or the Control and Communication in the Animal and the Machine, explica a utilidade da retroalimentação para criar mecanismos auto-regulados. Quando desejamos certo padrão de movimento geral do mecanismo (ou sistema), utilizamos a diferença entre o movimento realizado de fato e o padrão de movimento desejado como um novo input para o sistema. Este novo input (entrada de informação) é a retroalimentação, e deve mover certa(s) parte(s) do sistema de tal maneira que o movimento geral realizado se aproxime mais do movimento desejado. Para isso, o mecanismo poderá mesclar realimentações positivas e negativas.Um exemplo prático é em sistemas eletromecânicos, como robôs industriais, em que a retroalimentação é o sinal enviado ao sistema gerenciador de comando, por sensores de posição, de proximidade, de contato, etc existentes nos elementos móveis do robô, possibilitando a aquisição do diferencial entre a posição real do elemento e o comando enviado. Este diferencial é continuamente aferido pelo sistema gerenciador, para obter a precisão nas operações.
+
+
+=== Administração ===
+
+Atualmente o termo vem sendo utilizado também nas teorias de Administração de Empresas, geralmente interligada à um parecer sobre algo ou alguém na realização de um trabalho com intuito de avaliar o seu desempenho, é uma ação que permite observar pontos positivos e negativos do trabalho realizado e objetiva a melhoria do mesmo.
+A realimentação na administração é um processo de alimentação que ocorre através de informações críticas para o ajuste de desempenho e performance de uma pessoa, esta informação crítica por sua vez é crucial para o aperfeiçoamento da performance e, resultado de uma análise baseada no senso crítico e não no senso comum. Desta forma, a realimentação é um retorno que "alimenta" (validando ou invalidando) um dado comportamento ou realização com base em parâmetros claros, objetivos e verificáveis. Deste modo realimentações levantam questões acerca de: desempenho, conduta e resultados obtidos através de ações realizadas, e seu objetivo fundamental é ajudar as pessoas a melhorarem seu desempenho e performance a partir de informações, dados, críticas e orientações que permitam reposicionar suas ações em um maior nível de eficiência, eficácia, efetividade e excelência de acordo com o contexto. A realimentação possui caráter educativo, e não punitivo, quando isto ocorre ele perde sua finalidade e seu conceito.
+
+
+==== Papel do funcionário ====
+A realimentação é uma ferramenta utilizada pelos gestores cujo objetivo é aprimorar o crescimento profissional e melhorar o desempenho de seus funcionários no trabalho. Isso deve ser feito por meio de críticas construtivas sobre sua postura, comportamento e o desempenho profissional. A harmonia entre a relação de hierarquia na organização na prática da realimentação é fundamental para que haja comprometimento de ambas as partes e respeito para ouvir e ser ouvido, desse modo, torna-se evidente a valorização e reconhecimento do funcionário para a organização.
+O uso da realimentação se dá pela aquisição de valores de quem o recebe, e instiga sentimentos como autoconfiança, valorização, crescimento profissional, fortalecimento da relação e contribuição para o crescimento de outras pessoas. Neste caso, vemos este receptor como um funcionário, que recebe uma informação que deve ser retroalimentada afim de se ter uma melhoria de desempenho e performance. A realimentação pode ser considerado como um processo emocional, uma vez que, quem o recebe passa por processos emotivos, que  são quatro: rejeição, raiva, racionalização e aceitação.
+Isso depende do gestor encontrar uma maneira de melhor trabalhar a emoção dos empregados, auxiliando a tomarem decisões importantes que contribuam para o todo da organização. Cabe ao receptor a escolha de aceitar ou recusar a realimentação, porém o gestor deve saber trabalhar a reação de seu funcionário buscando sempre uma resposta positiva para que os objetivos organizacionais sejam alcançados.
+
+
+==== Papel do gestor ====
+A medida que as economias se desenvolvem os desafios organizacionais do dia a dia se tornam cada vez maiores, e cabe ao gestor buscar alternativas de superá-los, utilizando e aprimorando técnicas de gestão de pessoas. Dentre as técnicas existentes, a realimentação vem sendo uma alternativa cada vez mais aplicada na vivência no ambiente de trabalho, sempre visando o aperfeiçoamento das melhores práticas e regulando o que está em desacordo com os objetivos e metas traçadas.
+Neste sentido é papel do gestor acompanhar cada caso, diferenciando abordagens, levando em consideração o que deve ser trado em reuniões periódicas, com realimentação para sua equipe e o que deve ser tratado individualmente, respeitando a integridade de cada funcionário. Abordagens em reuniões devem ser claras e objetivas, procurando soluções para os problemas em pauta, verificando a compreensão de todos, se as decisões para melhoria foram realmente absorvidas e entendidas, e agendando prazos para novas reuniões, desenvolvendo um processo de acompanhamento evolutivo entre metas traçadas e resultados alcançados. Esta é uma das melhores alternativas para o fortalecimento das relações entre os membros do seu grupo de trabalho e uma forma de potencializar seus resultados.
+Para uma realimentação em equipe,  é importante ressaltar pontos que podem fazer a diferença, tais como: Evidenciar pontos positivos ao começar e ao terminar a reunião; sempre reforçar para quem está recebendo a realimentação em seus pontos positivos; evitar expor pontos negativos; enaltecer com a realimentação o desenvolvimento específico. Proporcionando que cada um tenha a intenção de desempenhar o seu melhor, cabendo ao gestor ajudar para que isto aconteça.
+É muito importante que o gestor não faço abordagens pessoais em público, para uma realimentação individual deve-se haver um cuidado maior, uma preparação para uma conversa franca e profissional, analisar previamente fatos, dados, provas, qual o objetivo a alcançar, qual o nível de entendimento do funcionário sobre as questões que serão levantadas e a melhor escolha de palavras para que a mensagem não seja entendida de forma negativa, e sim um ponto de melhoria e otimização de desempenho. Programar um horário com o funcionário e um local reservado faz toda a diferença para garantir um bom resultado neste tipo de feedback.
+Utilizando o feedback em favor dos objetivos organizacionais o gestor frente a necessidade de mudanças de processos, melhoria de resultados, reformulação de comportamentos e otimização do potencial dos funcionários deve conduzir esta retroalimentação de informações formais e informais de forma profissional, avaliando pontos positivos e negativos existentes no ambiente, sejam momentâneos ou não, buscando alavancagem de resultados, melhoria de habilidades, definindo comportamentos e proporcionando melhoria contínua dos indivíduos.
+
+
+==== Sugestões de melhoria nos processos de feedback ====
+Dentro das organizações, o feedback é um processo que não pode ter carga emocional, portanto, graças a sua postura crítica não pode transformar a ação em desentendimentos ou ressentimentos por parte de quem o está recebendo. Em muitos casos, por não ser bem compreendido, acaba trazendo o resultado oposto daquele em que se pretendia, devido à falta de interpretação do receptor ou até mesmo devido a alguns problemas na forma como o responsável aplicou o feedback, com isso, deve-se treinar muito bem o aplicador destes feedbacks a fim de que não se tenha problemas referentes à comunicação e este deve ser imparcial na situação, para que não se tenha prejuízos no futuro e não acabe-se alcançando o resultado inverso com a ação.
+Outra questão importante é que quando se der ou receber um feedback, a atenção deve estar mais voltada à parte descritiva do caso, do que para a parte avaliativa. É preciso ter muita atenção naquilo que está sendo comunicado e ter sempre em mente de que o propósito do feedback é uma reorientação para auxiliar o receptor a alcançar o sucesso.
+
+
+==== Etapas ====
+Em linhas gerais, para uma boa aplicação e resultado, o processo de retroalimentação deve ser bem estruturado, considerando a cultura organizacional, o perfil do colaborador e o que se deseja alcançar.
+O processo de retroalimentação deve ser descritivo e específico, onde o gestor deve ir direto ao ponto em questão, tendo o papel de orientador e buscando através deste procedimento corrigir as falhas que o funcionário possui.
+Para chegar a esse fim o processo deve ser bem estruturado, seguindo algumas etapas essenciais:
+Preparação: neste momento o gestor deve analisar bem a situação que gerou a necessidade do processo de retroalimentação, e após esse primeiro passo, deverá enumerar os pontos positivos e negativos do colaborador e do acontecimento, estruturando o que falar para este de forma que o processo seja ameno para ambas as partes.
+Escolha do ambiente: o ambiente para o processo de retro alimentação deve ser um local calmo, longe dos colegas de trabalho e onde possa ser feito sem interrupções, lembrando ainda que deve ser um ambiente que não traduza para o funcionário a sensação de coação e medo.
+Definição de regras: é um procedimento chave, pois é ele que permitirá que a retroalimentação ocorra de forma produtiva. Deve se elaborar regras como o silêncio de uma pessoa enquanto a outra fala, definir quem ira começar falando, sendo que geralmente esse papel é desempenhado pelo gestor, entre outras coisas.
+O início da conversa: o início do diálogo de ser usado para ressaltar os pontos positivos de quem receberá as orientações da retroalimentação. Isso faz com que a pessoa se sinta mais a vontade e menos resistente ao que vai ouvir.
+Cuidado com o tom: ele é uma das peças fundamentais para que a orientação seja bem recebida. Busque um tom ameno e que demonstre respeito e profissionalismo. Nesse momento deve se tomar cuidado para não usar palavras que ofendam.
+Momento de ouvir: após falar o que deseja, o gestor deve dar um espaço para o colaborador se manifestar e explicar o motivo das suas ações. É nesse ponto que o gestor pode captar o ponto de vista do funcionário e usar isso para orientá-lo, assim que for sua vez de falar novamente. O gestor deve também após expor o problema fazer perguntas, de maneira a sondar o colaborador.
+Finalização: nesse momento é importante ressaltar tudo o que foi dito, frisando o que deve ser melhorado e as qualidades que o funcionário tem para conseguir.Partindo desses preceitos e etapas o processo de retroalimentação aumenta as chances de ser bem sucedido, proporcionando o resultado desejado.
+
+
+== Tipos ==
+Existem quatro tipos de retroalimentação. No qual, podem ser:
+
+Feedback positivo: é o mais importante para uma organização e tem como objetivo acentuar um comportamento que é desejado, para que o mesmo se repita. Mesmo quando alguém possui um comportamento ou realiza uma função que agrada a empresa é recomendável que receba o feedback para que não se sinta desvalorizada.
+Feedback corretivo: esse feedback tem como propósito modificar o comportamento. Quando é necessária uma mudança no comportamento, pois a pessoas não possui uma conduta adequado para a organização, usa-se um feedback corretivo, mas os gestores deve tomar um devido cuidado para não tornar um feedback ofensivo.
+Feedback insignificante: não é muito recomendado pois sua finalidade é insignificante, fraco e vago. No qual, a pessoa que recebe o feedback não entende há importância dele e pode causar uma certa confusão. Assim, chegar há não alcançar nenhum resultado.
+Feedback ofensivo: o menos aconselhado porque pode gera conflitos entre a organização e o funcionário e não resolve nenhum tipo de problema. Esse tipo de feedback faz com que as pessoas não aprendam com os seus erros e se sintam desmotivados a continuar, pois não sabem em qual lugar está errando.
+
+
+== Veja também ==
+
+Recursão
+Ressonância
+Cibernética
+
+
+== Referências ==

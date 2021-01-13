@@ -1,0 +1,36 @@
+Oxirredutases, óxido-redutases ou oxidorredutases são enzimas que catalisam  reações de oxidação-redução.
+
+
+== Nomenclatura ==
+A determinação do nome das enzimas é normatizada por um comitê especializado, o Nomenclature Committee of the International Union of Biochemistry and Molecular Biology (NC-IUBMB).
+
+
+== Classificação ==
+As oxidorredutases são classificadas como EC 1 no sistema de classificação de enzimas (número EC). As oxidorredutases podem ser classificadas em 22 subclasses:
+
+EC 1.1 inclui oxidorredutases que atuam no grupo CH-OH de doadores
+EC 1.2 inclui oxidorredutases que atuam no grupo aldeído ou oxo dos doadores
+EC 1.3 inclui oxidorredutases que atuam no grupo CH-CH dos doadores
+EC 1.4 inclui oxidorredutases que atuam no grupo CH-NH2 dos doadores
+EC 1.5 inclui oxidorredutases que atuam no grupo CH-NH dos doadores
+EC 1.6 inclui oxidorredutases que atuam no NADH ou NADPH
+EC 1.7 inclui oxidorredutases que atuam noutros compostos nitrogenados como doadores
+EC 1.8 inclui oxidorredutases que atuam em grupos sulfurados dos doadores
+EC 1.9 inclui oxidorredutases que atuam no grupo heme dos doadores
+EC 1.10 inclui oxidorredutases que atuam em difenóis e compostos similares como doadores
+EC 1.11 inclui oxidorredutases que atuam no peróxido como aceitador (peroxidases)
+EC 1.12 inclui oxidorredutases que atuam no hidrogénio como doador
+EC 1.13 inclui oxidorredutases que atuam em doadores únicos com incorporação de oxigênio molecular (oxigenases)
+EC 1.14 inclui oxidorredutases que atuam em doadores pareados com incorporação de oxigênio molecular
+EC 1.15 inclui oxidorredutases que atuam em radicais superóxido como aceitadores
+EC 1.16 inclui oxidorredutases que oxidam ións metálicos
+EC 1.17 inclui oxidorredutases que atuam on CH or CH2 groups
+EC 1.18 inclui oxidorredutases que atuam em proteínas ferro-sulfuradas como doadores
+EC 1.19 inclui oxidorredutases que atuam em flavodoxina reduzida como doador
+EC 1.20 inclui oxidorredutases que atuam em fósforo ou arsênico nos doadores
+EC 1.21 inclui oxidorredutases que atuam em X-H e Y-H para formar uma ligação X-Y
+EC 1.97 inclui outras oxirredutases
+
+
+== Ligações externas ==
+«Enzimas do grupo EC.1» (em inglês)

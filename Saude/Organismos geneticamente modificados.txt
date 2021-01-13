@@ -1,0 +1,83 @@
+OGM é a sigla de Organismos Geneticamente Modificados, organismos manipulados geneticamente de modo a favorecer características desejadas, como a cor, tamanho, etc. Os OGMs possuem alteração em trechos do genoma realizadas através da tecnologia do RNA/DNA recombinante ou engenharia genética.
+Na maior parte das vezes, quando se fala em Organismos Geneticamente Modificados, trata-se de organismos transgênicos. Mas OGMs e transgênicos não são sinônimos: todos os transgênicos são organismos geneticamente modificados, mas nem todos os OGM são transgênicos.
+Um transgênico é um organismo que possui uma sequência de DNA (ou parte do DNA) de outro organismo, que pode até ser de uma espécie diferente. Já um OGM é um organismo que foi modificado geneticamente mas não recebeu nenhuma região de outro organismo. Por exemplo, uma bactéria pode ser modificada para expressar um gene por mais vezes. Isso não quer dizer que ela seja uma bactéria transgênica, mas apenas um OGM, já que não foi necessário inserir material externo.
+Somente ao inserirmos material genético (DNA/RNA) exógeno em um organismo é que ele passa a ser transgênico.
+A ideia de misturar espécies de organismos é atribuída ao químico Paul Berg.
+
+
+== Legislação brasileira ==
+
+OGM é, segundo o artigo 3º, inciso V, da Lei Federal brasileira nº 11.105, de 24 de março de 2005, OGM é o organismo cujo material genético (DNA/RNA) tenha sido modificado por qualquer técnica de engenharia genética. A lei exclui da categoria de OGM (pelo §1º do mesmo artigo) o organismo "resultante de técnicas que impliquem a introdução direta, num organismo, de material hereditário, desde que não envolvam a utilização de moléculas de DNA/RNA recombinante ou OGM, tais como: fecundação in vitro, conjugação, transdução, transformação, indução poliplóide e qualquer outro processo natural.
+
+
+== Controvérsia ==
+Há muita controvérsia relativamente aos OGM, uma vez que os seus efeitos no Homem, nos animais e na terra ainda não são conhecidos a longo prazo. Assim, poderão resultar irreversivelmente na poluição genética da Vida, sem contar com o facto de os alimentos do mundo inteiro se encontrarem nas mãos de algumas multinacionais. A perda da soberania alimentar das populações seria, então, outro dos graves problemas decorrentes da proliferação dos OGM.
+Os defensores dos transgênicos argumentam que os transgênicos são usados com o objetivo de aumentar a produtividade e reduzir o uso de agrotóxicos. No entanto, o uso de transgênico tem provocado o aumento do uso de glifosato. Segundo o agrônomo Luiz Carlos Balcewicz, especialista da Diretoria de Conservação de Biodiversidade do Ibama, "os transgênicos não reduziram o uso de herbicidas. No Rio Grande do Sul, houve um aumento de 9 mil para 20,3 mil toneladas entre 2000 e 2004. Ou seja, uma variação quatro vezes maior que a elevação na área plantada". O aumento teria sido provocado pelo maior uso de herbicidas à base de glifosato, um princípio ativo recomendado para a soja transgênica Roundup Ready, produzida pela multinacional Monsanto.Um estudo feito na Universidade de Kansas concluiu que a soja transgênica produz 10% menos do que os alimentos convencionais, e a própria Monsanto admitiu que "a soja não tinha sido projetada para aumentar os rendimentos". Estudos comprovam que os alimentos OGM podem gerar insuficiência hepática e renal.
+
+
+== Técnicas ==
+A engenharia genética permite manipular diretamente genes de determinados organismos, possibilitando isolar e transferir genes responsáveis pela produção de certas substâncias, para outros seres vivos que não produzem os seres funcionais nesses seres.
+
+
+=== DNA Recombinante ===
+A técnica de DNA recombinante permite juntar na mesma molécula de DNA genes provenientes de organismos diferentes, ou seja, possibilita retirar genes de uma espécie e introduzir num microrganismo, que posteriormente se vai multiplicar e assim produzir inúmeras copias desse gene e consequentemente o produto desse gene. É possível, por exemplo, introduzir um gene humano, numa bactéria, para que elas produzam uma determinada proteína humana.
+O processo é simples e baseia-se em dois tipos de enzimas, as enzimas de restrição e a enzima DNA ligase. Utiliza-se uma enzima de restrição, que tem a capacidade de selecionar zonas especificas do DNA e cortar a sequencia nucleotídica nesses locais específicos, para obter o gene de interesse de uma espécie. Esse gene de interesse é posteriormente colocado num vector, ou seja, uma molécula capaz de transportar um fragmento de DNA de um organismo para outro, como são exemplos, o DNA dos vírus e os Plasmídeos (fragmentos de DNA de forma circular existentes nas bactérias). Para que o fragmento de DNA seja incorporado no vector, é necessário que a mesma enzima de restrição que atua sobre o DNA atue sobre o vector, de modo a criar uma sequencia nucleotídica complementar. Finalmente, através da enzima DNA ligase, os dois segmentos de DNA são ligados, produzindo uma nova molécula estável – o DNA recombinante. Com a nova molécula de DNA recombinante formada, o vector é introduzido num organismo receptor, que vai passar a possuir aquele gene de interesse e a proteína formada por esse gene.
+
+
+=== DNA complementar ===
+A técnica do DNA complementar tem como objectivo facilitar a produção de proteínas de seres eucariontes em microrganismos. Os microrganismos não têm mecanismos de maturação do RNA, portanto quando se introduzem genes de eucariontes nestes organismos, estes vão fazer a sua transcrição de forma interrupta, ou seja, vão ler tanto os intrões (zonas não codificantes de proteínas) como exões (zonas codificantes de proteínas) originando uma proteína diferente da pretendida.
+O DNA complementar baseia-se então em produzir uma molécula de DNA constituída apenas por exoes de modo a que quando for transcrita pelo microrganismo pretendido, origine a proteína pretendida.
+Este processo é possível devido á ação da enzima transcriptase reversa, que permite produzir DNA a partir de uma molécula de mRNA, e da enzima DNA polimerase, que permite fazer uma cadeia complementar de uma cadeia de DNA. Utiliza-se então a transcriptase reversa para fazer uma cópia de uma cadeia de mRNA maturado e originar uma cadeia de DNA composta apenas por exões.
+Posteriormente usa-se a DNA polimerase para formar um cadeia complementar dessa cadeia de DNA, originando uma molécula estável. Com isto, ao ser introduzida num microrganismo, vai produzir uma proteína de interesse.
+
+
+=== RCP (Reação em Cadeia Polimerase) ===
+A técnica de reação em cadeia da polimerase (PCR) veio possibilitar novas estratégias de analises de genes no âmbito da tecnologia do DNA recombinante. De um modo geral, a técnica PCR pode ser considerada como um meio de clonagem e baseia-se na ampliação do DNA, replicando-o. O processo resume-se em três fases.
+A fase de desnaturação, onde o DNA é exposto a elevadas temperaturas, na ordem dos 95º, originado a separação das duas cadeias.
+De seguida vem a fase Hibridização, onde as temperaturas descem até aos 55º e são colocados os primers (iniciadores). Isto são fragmentos de DNA que são ligados (hibridizados) no inicio de cada sequencia alvo, nas cadeias originadas na primeira fase por complementação de bases, para na terceira fase a enzima utilizada reconhecer uma cadeia dupla.
+Numa terceira fase é utilizada a DNA polimerase que identifica a zona onde se localiza o primer e reconhece essa zona como dupla cadeia, e assim pode atuar, replicando o resto da cadeia de DNA, ou seja, fazendo a elongação dos primers.
+
+
+=== Bombardeamento de partículas ===
+Segundo o método de bombardeamento, micropartículas de um metal (tungstênio ou ouro) são revestidas por fragmentos de DNA contendo os genes selecionados. Através de um aparelho ("canhão de genes"), as partículas são aceleradas a altas velocidades e bombardeiam o tecido vegetal que vai sofrer a transformação. As partículas penetram nas células e libertam os fragmentos de DNA. As células da planta assimilam os genes e alguns passam a integrar o genoma.
+
+
+== Aplicações da Tecnologia dos OGMs ==
+
+
+=== Terapia Genética ===
+Uma das aplicações mais importantes dos organismos geneticamente modificados, é a terapia genica, ou Gene terapia, que se baseia na introdução de genes nas células e tecidos de indivíduos que possuam uma doença causada pela deficiência desse gene, técnica comum em tratamento de doenças hereditárias. Embora seja uma terapia em estado primitivo, tem revelado bons resultados.
+Existem vários tipos de vírus, que são seres dependentes, ou seja, precisam de outro ser para executarem o seu ciclo de reprodução, introduzindo o seu material genético dentro das células do ser hospedeiro. Sinteticamente, os vírus lançam o seu DNA para dentro das células hospedeiras, que por sua vez vai beneficiar dos mecanismos de transcrição e tradução dessas células hospedeiras para produzir mais copias do seu DNA, e por consequência do vírus, infectando assim célula após célula.
+Facilmente se percebeu, que um vírus seriam um bom meio de levar genes ao interior das células humanas, e assim surgiu a terapia genica utilizando os vírus como vectores. Para isso utiliza-se a técnica do DNA recombinante, retirando o vírus que causa a doença viral, e introduz-se o gene de interesse a levar as células humanas.
+Com isto é possível introduzir um gene de interesse nas células somáticas (já que de momento é ilegal aplicar a terapia genica a células germinativas) para corrigir uma doença provocada pela ausência ou defeito desse gene, possibilitando deste modo a produção da substancia correspondente a esse gene, e tratar o distúrbio provado pela ausência dessa substancia.
+Como todos os Organismos geneticamente modificados surgem sempre umas possíveis desvantagens. Neste caso, da terapia genética, os distúrbios provocados por mutações em apenas um gene têm grandes possibilidades de se verificar eficiência na terapia genética, mas infelizmente, aqueles que são mais frequentes (como doença cardíaca, Alzheimer e diabetes) são causados pela combinação de vários genes, fator que se revela altamente problemático usando a terapia genética.
+O maior problema que surge do uso da terapia genética é, certamente, o facto de poder ativar oncogenes, ou seja, se o gene é introduzido num local errado do genoma, como por exemplo no lugar de um proto-oncogene ou de um gene supressor de tumores, poderia induzir a um tumor.
+De qualquer forma, as expectativas atuais indicam que a terapia genética não se limitará apenas a substituir ou corrigir defeitos nos genes, surgindo assim possibilidades terapêuticas que estão a ser desenvolvidas para permitir a libertação de proteínas que controlem níveis hormonais ou estimulem o sistema imunitário. Com isto, a terapia genética é a esperança de tratamento para um grande numero de doenças até hoje consideradas incuráveis.
+Vacinas
+O plano de vacinação a que estamos sujeitos baseia-se no princípio de funcionamento do sistema imunitário. Quando somos infectados por um agente patogênico este memoriza a infecção causada, para que numa segunda infecção possa responder de uma forma mais rápida, mais intensa e mais prolongada ao antígeno, não deixando assim este se voltar a propagar. O objectivo das vacinas é introduzir no nosso organismo o agente patogênico a que queremos ter imunidade, para que numa possível infecção o nosso sistema imunitário já conheça esse agente patogênico e efetue uma resposta rápida, eliminando-o.
+Para isso usa-se a mesma técnica usada na terapia genética, a do DNA recombinante, para modificar o ADN desse agente patogênico, retirando o gene prejudicial, e introduzindo-o no nosso organismo sem esse gene, com isto, este agente patogênico vai chegar ao nosso sistema inativo (ou morto), mas ativando a memoria do sistema para uma possível infecção patogênica.
+Com isto, o nosso sistema imunitário vai identificar o organismo estranho (apesar de inativo) e desenvolver anticorpos para esse organismo, para, numa possível infecção por parte deste, criarmos uma resposta rapina e eficaz na eliminação do agente patogênico.
+Este método não é eficaz em todo o tipo de doenças, principalmente causada por vírus, porque possuem uma taxa de mutação muito elevada, como o HIV. Ao ocorrer um mutação é como se surgisse um novo ser, e assim sendo, para o nosso sistema imunitário, é outro agente patogênico.
+De qualquer forma, as vacinas são vistas como o avanço médico de maior sucesso na história da saúde pública e sem elas, muitas doenças, que no passado matavam milhares de pessoas, continuariam a matar milhares de pessoas anualmente.
+
+
+=== Produção de Proteínas ===
+A tecnologia do DNA recombinante permite hoje em dia criar proteínas a partir de bactérias. O melhor exemplo é o da insulina. Os diabéticos precisam de insulina para manterem os seus níveis de açúcar no sangue em equilíbrio, insulina essa que há uns anos atrás era extraída do pâncreas de porcos para poder fornecer a população diabética. Essa tinha várias desvantagens, como a óbvia necessidade de se ter de matar um elevadíssimo número de porcos para obter uma quantidade significativa de insulina, juntando o facto de esta ainda poder originar alergias no receptor.O primeiro organismo geneticamente modificado foi uma bactéria chamada Eschericia coli. Esta foi modificada de modo a integrar o gene humano responsável pela produção de insulina. Posto isto, a bactéria passaria a produzir a insulina humana em doses industriais, uma vez que o processo de reprodução das bactérias é muito reduzido. Assim, passaríamos a dispor das quantidades de insulina suficientes para satisfazer a população mundial sem ter de sacrificar milhares de porcos para esse efeito.
+Para isto é introduzido o gene da insulina humano numa bactéria pela tecnologia do DNA recombinante e assim esta bactéria passa a produzir esse hormônio como se estivesse a “trabalhar para nós”.
+
+
+== Produtos Comercializados ==
+
+
+== Ver também ==
+
+
+== Referências ==
+
+
+== Notas ==
+
+
+== Ligações externas ==
+
+«Genetically Modified Organisms» (em inglês). . Informações detalhadas sobre transgênicos e testes de transgênicos.

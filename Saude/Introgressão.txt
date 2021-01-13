@@ -1,0 +1,31 @@
+Introgressão, também conhecida como "hibridação introgressiva", em genética, é o movimento de um gene (fluxo de genes) de uma espécie para o acervo genético de uma outra através de repetidos retrocruzamentos entre um híbrido e sua original geração progenitora .
+A introgressão é um termo relativo onde alelos de um locus são introgredidos em relação a alelos de outro loci. Ou seja, para que a definição seja aplicável, uma fração do pool genético de cada táxon deve permanecer constante a ponto de ser possível o reconhecer a existência de dois pools gênicos distintos . 
+Além disso, a introgressão é influenciada por uma série de fatores ecológicos que controlam o grau de contato entre as espécies. Esses fatores bióticos ou abióticos direcionam a seleção a favor ou contra genótipos híbridos e podem levar a padrões complexos de mistura genética. 
+A introgressão diferencial, um fenômeno documentado em muitas zonas híbridas, refere-se à observação de que alelos em alguns locais introgressam mais que em outros. Em teoria, alelos globalmente vantajosos tenderão a introgressar facilmente (introgressão adaptativa) e alelos neutros introgressam em extensões variadas, mas uma ligação a genes que contribuem para a adaptação local ou isolamento reprodutivo inibirá seu movimento. Já os alelos em locais sujeitos a seleção direcional divergente ou em locais que determinam fenótipos de especiação apresentam uma menor taxa de introgressão. Assim, padrões de introgressão diferencial através de zonas híbridas potencialmente permitem a identificação de genes ou regiões genômicas importantes para a adaptação e especiação locais .
+
+DefiniçãoIntrogressão (ou hibridação introgressiva) descreve a incorporação de alelos de uma espécie ao acervo genético de outra espécie divergente através de repetidos retrocruzamentos entre um híbrido e sua original geração progenitora .
+
+Fonte de VariaçãoExistem três fontes primárias para a variação genética: (1) variantes já presentes na população, (2) novas mutações e (3) introgressão. Em comparação às outras fontes de variação genética, alelos introgredidos tem como vantagem o fato de que eles provavelmente tenham sido pré-testados por seleção em um doador geralmente intimamente relacionado e, portanto, seria menos provável que tenham efeitos deletérios quando comparados com mutações aleatórias  . 
+Porém, a capacidade de introgressar é dependente do grau de divergência, pois a introgressão entre espécies mais divergentes é geralmente impedida por barreiras reprodutivas pré e pós-zigóticas.
+
+Introgressão AdaptativaEmbora processos estocásticos possam predominar durante hibridação introgressiva na natureza, a introgressão pode ocasionalmente introduzir variantes adaptativas que irão aumentar em frequência na população receptora, ao que se cunhou o termo de introgressão adaptativa. Logo, a introgressão adaptativa é apontada como uma importante fonte de variação disponível para a evolução, ampliando o pool de variação genética disponível para adaptação   . 
+Diversos trabalhos têm descrito a seleção positiva de alelos introgredidos. Por exemplo, um estudo com Arabidopsis arenosa mostrou que algumas (mas não todas) das regiões que mostram sinais de adaptação a solos serpentinos são introgressadas de Arabidopsis lyrata .
+É provável que a introgressão adaptativa seja muito mais comum do que se reconheceu anteriormente e tem como vantagem o fato de que pode fornecer variantes genéticas que já foram testadas por seleção natural e precisamente na área geográfica em que elas já estão bem adaptadas . 
+
+Linhagem de IntrogressãoUma linhagem de introgressão  é uma espécie de que contém material genético artificialmente derivado de uma população selvagem por meio de retrocruzamentos repetidos. As linhagens de introgressão permitem o estudo de locus de característica quantitativa, mas também a criação de novas variedades através da introdução de características exóticas .
+Como exemplo, a fim de aumentar a diversidade genética do tomate cultivado e identificar diferenças nos fatores genéticos entre variedades cultivadas e selvagens, um conjunto de linhagens de introgressão foi produzido cruzando o tomate cultivado S. lycopersicum da cultivar M82 com o parente selvagem Solanum pennellii LA716. Nessas linhagens, características fenotípicas interessantes foram encontrados incluindo várias características úteis para o crescimento de plantas e a qualidade de frutos .
+
+ExemplosO impacto de variantes únicas introgressadas no genoma pode ser considerável, geralmente causando múltiplas alterações dentro de um gene e às vezes afetando vários loci de codificação de genes. Exemplos envolvem a transferência de adaptações complexas inteiras por meio de cassetes de múltiplas mutações vinculadas, como aquelas em loci que controlam os padrões de cores das asas para mimetismo e reconhecimento de parceiros nas borboletas Heliconius.
+Além disso, há evidências de cruzamentos entre humanos arcaicos e modernos durante o Paleolítico Médio e o Paleolítico Superior inicial assim como fortes evidências da introgressão dos genes neandertais e denisovanos em partes do pool genético humano moderno . A introgressão adaptativa a partir dos neandertais foi direcionada a genes envolvidos com filamentos de queratina, metabolismo do açúcar, contração muscular, distribuição de gordura corporal, meiose de oócitos, além do tamanho e funcionamento do cérebro. Existem sinais de seleção positiva, como resultado da adaptação a diversos habitats, em genes envolvidos com variações na pigmentação da pele e na morfologia do cabelo. Já a partir da hibridação com denisovanos sugere-se a introgresão de  HLA-B * 73 humanos modernos no oeste da Ásia devido ao padrão de distribuição e divergência do HLA-B * 73 de outros alelos do sistema antígeno leucocitário humano . 
+
+
+== Ver também ==
+Retrocruzamento
+Transgênica
+Genoma
+Hibridação
+Hibridação de DNA-DNA
+Translocação cromossômica
+
+
+== Referências ==

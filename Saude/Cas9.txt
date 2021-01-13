@@ -1,0 +1,12 @@
+Cas9 (CRISPR associated protein 9) é um ARN guiado a um ADN de uma enzima endonucleática associada com o CRISPR do sistema de adaptação imunitária em Streptococcus pyogenes, ou outras bactérias. Em 2016, uma pesquisa metagenômica de micróbios amostrados em um sítio de drenagem de ácido em Colorado, levou à descoberta de programas adicionaisCRISPR/Cas de classe 2, o primeiro Cas9 identificado em arqueas e duas pequenas enzimas Cas em bactérias.
+Uma versão modificada do sistema CRISPR-Cas9 foi desenvolvida para recrutar domínios heterólogos  que podem regular a expressão do gene endôgeno ou rotular específico locus genômico em células vivas.  Cas9 está se tornando uma ferramenta importante no campo de edição genoma e ganhou força nos últimos anos, porque se pode clivar praticamente qualquer sequência complementar para guiar o ARN.
+
+
+== Cas9 nuclease ==
+Cas9 nuclease é a enzima ativa para o sistema CRISPR tipo II. A expressão ativa da endonuclease Cas9 é um requisito crítico para a edição eficiente de genes.A nuclease Cas9 tem dois domínios de endonuclease funcionais: RuvC e HNH. Cas9 sofre uma segunda alteração conformacional em relação à ligação alvo que posiciona os domínios nucleados para clivar as cadeias opostas do ADN alvo. O resultado final da clivagem de ADN mediada por Cas9 é uma ruptura de cadeia dupla dentro do ADN alvo
+
+
+== Notas ==
+
+
+== Referências ==

@@ -1,0 +1,21 @@
+Um biossensor baseado em transistor de efeito de campo, também conhecido como transistor de biosensor de efeito de campo (Bio-FET), biosensor de efeito de campo (FEB), ou biossensor MOSFET, é um transistor de efeito campo (baseado na estrutura MOSFET) que é bloqueado por alterações no potencial de superfície induzido pela ligação de moléculas. Quando moléculas carregadas, como biomoléculas, se ligam à porta FET, que geralmente é um material dielétrico, elas podem alterar a distribuição de carga do material semicondutor subjacente, resultando em uma alteração na condutância do canal FET.
+
+
+== Mecanismo de operação ==
+Os  biossensores MOSFET acoplam um dispositivo transistor com uma camada bio-sensível que pode detectar especificamente biomoléculas, como ácidos nucléicos e proteínas.
+
+
+== Fabricação de Bio-FET ==
+A fabricação do sistema Bio-FET consiste em várias etapas, como a seguir:
+
+Localizando um substrato adequado para servir como um local FET e formando um FET no substrato,
+Expondo um local ativo do FET a partir do substrato,
+Fornecendo uma camada de filme sensor no local ativo do FET,
+Fornecendo um receptor na camada de filme sensor para ser usado na detecção de íons,
+Removendo uma camada de semicondutor e afinando uma camada dielétrica,
+Gravando a porção restante da camada dielétrica para expor um local ativo do FET,
+Removendo o fotorresistente e depositando uma camada de filme sensor seguida pela formação de um padrão fotorresistente no filme sensor,
+Gravando a parte desprotegida da camada de filme sensor e removendo a fotorrese.
+
+
+== Referências ==

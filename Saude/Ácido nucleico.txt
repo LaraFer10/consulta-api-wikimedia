@@ -1,0 +1,45 @@
+Os ácidos nucleicos são moléculas gigantes (macromoléculas), formadas por unidades monoméricas menores conhecidas como nucleótidos. Cada nucleótideo, por sua vez, é formado por três partes:
+
+um açúcar do grupo das pentoses (monossacarídeos com cinco átomos de carbono);
+um radical “fosfato”, derivado da molécula do ácido ortofosfórico (H3PO4);
+uma base orgânica nitrogenada.Ocorrem em todas as células vivas e são responsáveis pelo armazenamento e transmissão da informação genética, por sua tradução, que é expressa pela síntese precisa das proteínas.
+Os ácidos nucleicos são as biomoléculas mais importantes do controle celular, pois contêm a informação genética.
+Existem dois tipos de ácidos nucleicos: ácido desoxirribonucleico - DNA e ácido ribonucleico - RNA.
+Utilizando técnicas apropriadas, foi possível isolar os ácidos nucleicos e identificar os seus constituintes.
+Nos ácidos nucleicos podem identificar-se três constituintes fundamentais:
+
+Ácido fosfórico - confere aos ácidos nucleicos as suas características ácidas. Faz as ligações entre nucleotídeos de uma mesma cadeia. Está presente no DNA e no RNA.
+Pentoses - como o próprio nome descreve, é um açúcar formado por cinco carbonos. Ocorrem dois tipos: a desoxirribose e a ribose.
+Base nitrogenada - há cinco bases azotadas diferentes, divididas em dois grupos:Bases de anel duplo (purinas) - adenina (A) e guanina (G);
+Bases de anel simples (pirimidinas) - timina (T), citosina (C) e uracilo (U).
+
+
+== DNA ==
+O DNA é a molécula que armazena informações genéticas. É formado por três tipos de nucleotídeos e quatro tipos de bases nitrogenadas (adenina, timina, guanina e citosina) que irão formar moléculas de DNA distintas conforme a sequência e a quantidade desses nucleotídeos. No DNA contém informações gênicas que coordenam o desenvolvimento e funcionamento dos seres vivos e alguns vírus, as características hereditárias são passadas por meio dessa molécula, que tem o principal papel de armazenar as informações.Para o DNA possuir o formato de dupla hélice, os nucleotídeos formam pares de bases nitrogenadas e se unem através de pontes de hidrogênio, atrações frágeis que se formam apenas quando um hidrogênio está ligado a um átomo eletronegativo e se aproxima de outro átomo negativo, porém existem regras para essa formação em pares, a adenina só poderá se parear com a timina e vice-versa, já a guanina se pairará com a citosina e vice-versa. Portanto a quantidade de adenina no DNA é a mesma da timina e a quantidade de guanina será a mesma da citosina, sendo esta lógica denominada de relação Chargaff. As bases nitrogenadas possuem classificação em bases purinas (adenina e guanina) e bases pirimidinas (timina e citosina).A duplicação do DNA é necessária devido à divisão celular, sendo denominada duplicação semiconservativa, pois ao ocorrer a separação das fitas de DNA pela enzima helicase, cada uma das fitas irá servir de molde para a construção de uma nova fita de DNA, o que faz a nova fita conservar uma parte do DNA antigo, portanto as duas novas moléculas de DNA terá em sua conformação uma parte do DNA antigo.
+
+
+== Desnaturação do DNA ==
+Em extremos de pH ou quando aquecidos, o DNA nativo sofre desenrolamento reversível e separação(fusão) das fitas. Isso ocorre devido ao fato de os pares de bases G≡C serem mais estáveis que os pares A=T, pois possuem ponto de fusão maior. Fitas simples de DNAs desnaturados de duas espécies podem formar um dúplex híbrido e o grau de hibridização depende da extensão da homologia de sequência. A hibridização é fundamental para importantes técnicas usadas para estudar e isolar genes específicos e RNAs.
+
+
+== RNA ==
+O RNA está envolvido no processo de fabricação de proteína. É formado por nucleotídeos compostos de um fosfato, uma ribose e uma base nitrogenada, que podem ser uracila, adenina, guanina ou citosina. Possui formato de uma fita hélice e se diferencia em RNA mensageiro, RNA transportador e RNA ribossomal em procariotos, porém em eucariotos há a presença de todos os contidos nos procariotos, com adição de dois RNAs, o snRNA e o  micro RNA.
+
+
+== História ==
+Em 1869, Friedrich Miescher, trabalhando em Tübingen, sul da Alemanha, iniciou experiências que, aparentemente, eram de pouca importância. Seu trabalho consistia no exame de células do pus humano. O pesquisador retirava o material para estudo a partir de curativos utilizados em secreções purulentas.
+Durante suas observações, verificou que todas as células vivas, inclusive as de pus, continham um glóbulo central mais escuro que o restante, denominado núcleo celular. Já se sabia que nas células do pus o núcleo representava uma grande parte do organismo celular. Miescher acabou por concluir que daquele material poderia obter, quase que na sua totalidade um grande número de núcleos celulares isolados.
+O processo utilizado pelo pesquisador era fazer o produto retirado das células ser assimilado por uma enzima digestiva chamada de pepsina. Em seguida, através de centrifugações e outros processos de separação e filtragem observou o aparecimento de uma substância química até então desconhecida e rica em fósforo. Inicialmente esta substância foi chamada de nucleína. Ao submetê-la à verificação do PH, descobriu que esta substância era bastante ácida. Em função desta descoberta, Miescher mudou o nome do produto para “Ácido Nucleico”.
+
+
+== Ver também ==
+ADN
+Código genético
+Genética
+Teste de ácido nucleico (NAT)
+
+
+== Referências ==
+
+
+== Ligações externas ==

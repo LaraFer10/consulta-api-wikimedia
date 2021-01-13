@@ -1,0 +1,71 @@
+Fatores de Necrose Tumoral Alfa (sigla em inglês: TNF-α) refere-se a um grupo de citocinas capaz de provocar a morte de células (apoptose) tumorais e que possuem uma vasta gama de ações pró-inflamatórias. O TNF-α  é secretado principalmente por macrófagos. Seu mau funcionamento pode causar inflamações dolorosas em doenças auto-imunes e auto inflamatórias  , choque séptico e permitir o aparecimento de tumores. 
+
+
+== História ==
+O TNF-α, também chamado de fator de necrose tumoral, foi descoberto por CARSWELL et aI., em 1975, e assim denominado por causar a necrose de alguns tumores. Originalmente o TNF-α foi detectado em amostras de camundongos que haviam sido inoculados com o Bacillus calmette guerin (BCG) e Propionibacterium acnes, subsequentemente tratados com LPS (lipopolissacarídeos).
+Sua toxidade direta foi reconhecida inicialmente por BEUTLER et aI., em 1985, que redescobriram o TNF-α como uma substância idêntica à caquexina, um mediador sérico implicado nas síndromes consumptivas, presente nas doenças parasitárias e nas neoplasias. Hoje o TNF-α é reconhecido como um importante mediador da atividade letal das endotoxinas.
+
+
+== Tipos ==
+TNF-α (fator de necrose tumoral): É produzido principalmente pelos macrófagos. Além de inibir e matar células tumorais, pode estimular a resposta inflamatória e outras citocinas que causam febre e combatem infecções. Incluem-se no grupo das citocinas que são glicoproteínas, não imunoglobulinas, liberadas por células vivas do hospedeiro e que agem não enzimaticamente, regulando diversas funções celulares.
+TNF-β (linfotoxina): São citocinas produzidas por linfócitos T citotóxicos com a função de romper células tumorais. Difere-se do TNF-α por sua cadeia estrutural polipeptídica e também por seus efeitos.
+
+
+== Gene ==
+O gene do TNF-α está localizado no cromossomo 6p21.3, tem comprimento de aproximadamente 3 kb e contém quatro éxons que produzem proteína transmembrana tipo II com 212 aminoácidos e disposta em homotrímeros estáveis.
+
+
+== Mecanismo de Ação ==
+A produção do TNF-α é feita principalmente pelos macrófagos. Entretanto, outras células podem produzi-lo, como os linfócitos T, mastócitos, células natural killers (NK), células endoteliais, células de Langerhans, astrócitos, células do músculo liso e células de Kupffer fetal humana. Vários estímulos, como as endotoxinas, partículas virais, fungos e porção C5a do complemento, LPS (lipopolissacarídeos) são capazes de provocar a produção de TNF-α pelos macrófagos.
+O principal estímulo para a sua produção é a presença de lipopolissacarídeos (LPS) que compõem a membrana das bactérias gram negativas. Após ser produzido e liberado, o TNF-α irá ligar-se a receptores específicos denominados de receptores de TNF (rTNF) I e II. Após ligar-se a seus receptores o TNF-α vai estimular a transcrição e a produção da enzima Ik B quinase, a qual irá produzir o fator nuclear kB (NF-kB). O NF-kb, quando ativado, irá agir no  núcleo da célula, induzindo a produção de diversas proteínas envolvidas nas respostas inflamatória e imunológica responsáveis pelas principais ações biológicas do TNF-α.
+Os receptores de TNF (principalmente o rTNF-II) podem, ainda, desencadear o gatilho para a apoptose. Entretanto, o mecanismo que determinará qual efeito será dominante ainda não está totalmente esclarecido. Desta forma, o principal efeito fisiológico do TNF-α é promover a resposta imune e a inflamatória por meio do recrutamento de neutrófilos e monócitos para o local da infecção, além de ativá-los. 
+Após a indução pelo LPS (lipopolissacarídeo), o TNF-α é rapidamente sintetizado, ocorrendo elevação do nível plasmático após 20 minutos, com pico entre 60 min e 90 min, não sendo mais detectável após 4 horas. A meia-vida é curta, de 6 a 9 minutos, e a produção de TNF-α em resposta ao estimulo com LPS parece ser limitada. 
+O TNF-α, quando liberado em baixas concentrações, age nas células endoteliais promovendo vasodilatação e estimulando-as quimiocinas, que tem ação quimiotáxica em relação aos leucócitos, promovendo, desta forma, um processo inflamatório local que possibilita o combate a quadros infecciosos. No hipotálamo ele age como pirógeno endógeno induzindo febre, enquanto que no fígado vai estimular a produção das proteínas da fase aguda do processo inflamatório e de fibrinogênio.
+
+
+== Patologias ==
+A liberação de TNF-α resulta no aparecimento de vários efeitos, como febre, leucocitose, hipotensão arterial, maior necessidade de drogas vasoativas e alterações da barreira endotelial ocasionada pela degradação de neutrófilos, resultando no aumento de liquido intersticial levando a alterações da coagulação e comprometimento principalmente da função cardíaca e pulmonar.
+O TNF-α pode ocasionar, também, uma série de complicações, como diversos tipos de artropatias e artrites, ou ainda, ter efeitos negativos relacionados à menor contratilidade do miocárdio, redução da perfusão tissular, relaxamento da musculatura vascular, diminuição da pressão sanguínea e aumento do risco de coagulação intravascular disseminada.
+Além de seu conhecido efeito termogênico, concentrações elevadas desta citocina podem estar relacionadas com a elevação nas concentrações plasmáticas de insulina, anormalidades no metabolismo dos hormônios esteróides, hormônio do crescimento, disfunção do ventrículo esquerdo e intolerância ao exercício.
+Além disso, estudos relatam que o TNF-α reage com várias células do sistema imune, influenciando na produção e secreção de outras citocinas, sendo citotóxico para as células β pancreáticas, tendo por isso papel na patogênese do diabetes mellitus tipo 1.
+Estes fatores devem-se, principalmente, à produção em excessivas quantidades de TNF-α e, consequentemente, maior liberação, em excesso, de toda a cascata inflamatória, processo este que acarreta todo um ciclo em cascata extremamente citotóxico.
+
+
+=== Obesidade ===
+O TNF-α está também envolvido na associação da hipertensão e dislipidemia com a obesidade e resistência à insulina. Estimula a lipólise e inibe a lipase lipoprotéica, aumentando os ácidos graxos livres no plasma e causando resistência a insulina. No tecido adiposo ele inibe a produção de adiponectina e estimula a produção de IL-6, o que também contribui para esta resistência. Estudos demonstram que pacientes obesos apresentam níveis de TNF-α maiores quando comparados ao grupo controle, o que sugere que a obesidade está associada com um aumento dos níveis plasmáticos dessa citocina.
+
+
+=== Problemas Cardiovasculares ===
+Seus níveis estariam associados a eventos recorrentes coronarianos em pacientes após infarto agudo do miocárdio (IAM) por depressão direta da contratilidade e pela indução de apoptose do miócito.  O efeito do TNF-α sobre a função cardíaca é dependente da quantidade e duração na expressão gênica desta citocina. Este aumento, quando agudo, pode ter um efeito adaptativo no coração para diferentes formas de estresse, sendo que, quando crônico, pode exercer um efeito oposto, comprometendo os processos adaptativos e produzindo descompensação cardíaca, o que sugere um papel dual desta citocina. Concentrações elevadas de TNF-α têm sido encontradas em alguns pacientes com ICC (insuficiência cardíaca crônica), particularmente associadas a uma maior severidade dos aspectos clínicos. O TNF- α pode ser o principal causador de uma série de distúrbios metabólicos presentes em indivíduos com insuficiência cardíaca, tais como: elevada taxa metabólica, diminuição do fluxo de sangue para tecidos periféricos, alteração no metabolismo das proteínas e dos lipídeos.
+
+
+=== Colesteatoma ===
+O TNF-α está presente no colesteatoma, promovendo a reabsorção óssea por diferentes vias. Ele vai agir na diferenciação e na maturação dos osteoclastos (via direta) e, também, expondo a matriz óssea (via indireta). Entretanto, o TNF-α não é o único fator envolvido na reabsorção óssea, agindo conjuntamente com a interleucina 1 e o RANKL. Além disto, os níveis locais do TNF-α estão relacionados com o grau de erosão óssea presente na doença. Na erosão óssea, ele irá agir diretamente na diferenciação e maturação dos osteoclastos, ou indiretamente expondo a matriz óssea. Agindo em conjunto a interleucina1 (IL-1) e o RANKL (ligandinas para ativação de receptores de NF-κB), que também são abundantes nos locais com processo inflamatório associado à erosão óssea.
+
+
+=== Complicações Respiratórias ===
+Há dados que indicam que o TNF-α pode também aumentar a expressão de moléculas de adesão, facilitando a migração de células inflamatórias para as vias aéreas e ativar mecanismos pró-fibróticos na camada subepitelial da mucosa brônquica. Esses dados sugerem que o TNF-α desempenha papel no início da inflamação das vias aéreas asmáticas e na hiper-reatividade brônquica.
+
+
+== Receptores do Fator de Necrose Tumoral (rTNF) ==
+A superfamília dos receptores fatores de necrose tumoral (tumor necrosisfactor receptor, rTNF) inclui diversos receptores, entre eles o rTNFR-1, Fas/CD95, TRAIL. Os membros da família do rTNF têm por principal característica um domínio extracelular rico em cisteína. A inativação funcional dos rTNF com domínios de morte pode participar dos processos de tumorigênese, através da via extrínseca da apoptose, ou como elemento regulador do sistema imune. O receptor e ligante CD95 desempenham um papel importante na apoptose durante a morte de células T maduras no final da resposta imune, morte de células infectadas por vírus. Foi observada uma correlação entre os níveis séricos de Fas/CD-95 solúvel e a incidência de linfomas. A explicação para este achado é de que o Fas/CD-95 solúvel compete com o ligante natural inibindo a apoptose. Também foi demonstrado que mutações que afetam a funcionalidade do Fas/CD-95 estão associadas a um efeito protetor da tumorigênese.
+Os fragmentos dos domínios extracelulares de ambos os receptores de TNF-α (tipo I e II) podem ser liberados da membrana celular e detectados em sua forma solúvel (sTNFRI e sTNFRII), na urina e no plasma. Essas proteínas solúveis atuam como reguladores de sua atividade biológica. Em concentrações fisiológicas, os sTNFR atuam como um “reservatório de liberação lenta”, aumentando, dessa forma, a meia vida desta citocina. Quando presente em concentrações elevadas, como em indivíduos com insuficiência cardíaca severa (classe III e IV), os sTNFR podem inibir o aumento patológico da atividade do TNF-α, atuando, dessa forma, como uma antimolécula de TNF-α. 
+Seus receptores estão distribuídos em muitas células como hepáticas, renais, epiteliais e no trato gastrintestinal. Eles variam de 200 a 5000 moléculas/célula, e são responsáveis pela rápida eliminação desta molécula da corrente sanguínea.
+
+
+== Inibidores ==
+Atualmente, existem no mercado três agentes bloqueadores da ação do TNF-α: etanercepte, infliximabe e adalimumabe. O etanercepte é um análogo do receptor do fator de necrose tumoral e consiste em dois receptores solúveis de TNF-α combinados à porção Fc da imunoglobulina G (IgG) humana de modo que se liga ao TNF-α e impede sua interação com as células. Desta forma, o etanercepte não age diretamente no TNF-α, mas, sim, bloqueia sua ação. Já o infliximabe é um anticorpo monoclonal quimérico dirigido contra o fator de necrose tumoral que se liga ao TNF-α solúvel e ao TNF-α ligado à membrana celular, enquanto que o adalimumabe oferece a vantagem de ser um anticorpo monoclonal totalmente humanizado dirigido contra o TNF-α. 
+Os efeitos adversos observados com o uso de agentes anti-TNF-αincluem complicações alérgicas durante ou após a infusão, infecções e eventos auto-imunes. A frequência destes efeitos parece ser baixa em adultos de modo que a terapia com infliximabe e etanercepte parece ser segura. Existem, porém, relatos esporádicos de efeitos colaterais graves e ainda não está definido o que pode resultar da inibição do TNF-α por longos períodos de tempo. Dentre as complicações auto-imunes foram descritas síndromes desmielinizantes do sistema nervoso central (SNC) e diabete tipo I em crianças usando etanercepte. Em adultos, casos de lúpus eritematoso sistêmico foram relatados após uso de inibidores de TNF-α.
+
+
+== Métodos de Análise ==
+Inicialmente, as mensurações do TNF-α nos fluidos orgânicos foram realizadas através de ensaios de citotoxicidade, pela sua atividade lítica sobre linhagens de células de fibrosarcoma de camundongos (Células L929).
+Posteriormente, com as limitações deste procedimento, a citocina passou a ser dosada através da marcação com elementos radioativos do anticorpo especifico anti- TNF-α (radioimunoensaio).
+Atualmente, vem sendo utilizado amplamente, pela sua sensibilidade e facilidade de execução, o imunoensaio com enzima ligada ou ELISA, através da ligação de enzimas ao anticorpo anti-TNF alfa.
+
+
+== Ligações externas ==
+MeSH Tumor+Necrosis+Factors
+
+
+== Referências ==

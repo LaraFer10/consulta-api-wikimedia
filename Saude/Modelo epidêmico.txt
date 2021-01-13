@@ -1,0 +1,2937 @@
+Um modelo de epidemia é uma forma simplificada de descrever a transmissão de doenças transmissíveis através de indivíduos.
+
+
+== Introdução ==
+O surto e propagação da doença têm sido questionados e estudados durante muitos anos. A capacidade de fazer previsões sobre doenças poderia permitir aos cientistas avaliar os planos de vacinação ou isolamento e poderem ter um efeito significativo sobre a taxa de mortalidade de uma epidemia particular. A modelagem de doenças infecciosas é uma ferramenta que tem sido utilizada para estudar os mecanismos pelos quais as doenças se espalham, para prever o curso futuro de um surto e avaliar estratégias para controlar uma epidemia (Daley e Gani, 2005).
+O primeiro cientista que tentou sistematicamente para quantificar as causas de morte foi John Graunt, no seu livro Natural and Political Observations made upon the Bills of Mortality, em 1662. Os projetos de lei que ele estudou estavam listados em números e causas de mortes publicadas semanalmente. A análise das causas de morte de Graunt é considerado o início da "teoria de riscos competitivos", que de acordo com Daley e Gani é " uma teoria que está agora bem estabelecida entre epidemiologistas modernos" .
+O primeiro relato de modelagem matemática de propagação da doença foi realizado em 1766 por Daniel Bernoulli. Treinado como médico, Bernoulli criou um modelo matemático para defender a prática de inoculação contra a varíola (Hethcote, 2000). Os cálculos deste modelo mostraram que a inoculação universal contra a varíola poderia aumentar a expectativa de vida de 26 anos e 7 meses para 29 anos e 9 meses (de Bernoulli & Blower, 2004).
+O trabalho de Daniel Bernoulli, é claro, precedido à compreensão moderna da teoria dos germes, e não foi até à pesquisa de Ronald Ross na propagação da malária, que a epidemiologia teórica moderna começou. Isso foi logo seguido pelo aclamado trabalho de AG McKendrick e WO Kermack, cujo papel “Uma Contribuição para a Teoria Matemática da Epidemias” foi publicado em 1927. Um modelo simples determinista (compartimental) foi formulado neste trabalho. O modelo foi bem sucedido em predizer o comportamento dos surtos muito semelhante ao observado em muitas epidemias gravadas (Brauer & Castillo - Chavez, 2001).
+
+
+== Tipos de modelos epidêmicos ==
+
+
+=== Estocástico ===
+"Estocástica" significa ser ou ter uma variável aleatória. Um modelo estocástico é uma ferramenta para estimar as distribuições de probabilidade de resultados potenciais, permitindo a variação aleatória em uma ou mais entradas ao longo do tempo. Modelos estocásticos dependem das variações casuais do risco de exposição, à doença e outras dinâmicas da doença. Eles são usados quando essas flutuações são importantes, como em populações pequenas (Trottier & Philippe, 2001).
+
+
+=== Determinística ===
+Ao lidar com grandes populações, como é o caso da tuberculose, modelos matemáticos determinísticos ou compartimentados são utilizados. No modelo determinista, os indivíduos da população são atribuídos a diferentes subgrupos ou compartimentos, cada um representando uma etapa específica da epidemia. Letras como M, S, E, I e R são muitas vezes utilizadas para representar diferentes estágios.
+As taxas de transição de uma classe para outra são matematicamente expressas como derivativos, portanto, o modelo é formulado usando equações diferenciais. Embora a construção de tais modelos, se deva supor que o tamanho da população num compartimento é diferenciável em relação ao tempo e que o processo de epidemia é determinista. Em outras palavras, as alterações na população de um compartimento podem ser calculadas utilizando apenas o histórico usado para desenvolver o modelo (Brauer & Castillo - Chavez, 2001).
+Outra abordagem é através da análise discreta em uma rede (como uma grelha quadrada bidimensional), onde a atualização é feita através de atualizações assíncronas de um único site (Kinetic Monte Carlo) ou atualização síncrona (Cellular Automata). A abordagem treliça permite heterogeneidades e clusterings a serem tidos em conta. Sistemas de treliça são geralmente estudados através da simulação em computador, e são discutidos na página da Wikipedia os modelos de Epidemia em treliças.
+
+
+== Terminologia ==
+A seguir, um resumo da notação usada neste e próximas seções:
+
+  
+    
+      
+        M
+      
+    
+    {\displaystyle M}
+  :  Crianças passivamente imunes
+
+  
+    
+      
+        S
+      
+    
+    {\displaystyle S}
+  :  Suscetíveis
+
+  
+    
+      
+        E
+      
+    
+    {\displaystyle E}
+  :  Indivíduos expostos no período de latência
+
+  
+    
+      
+        I
+      
+    
+    {\displaystyle I}
+  :  Infecciosos
+
+  
+    
+      
+        R
+      
+    
+    {\displaystyle R}
+  :  Removido com imunidade
+
+  
+    
+      
+        β
+      
+    
+    {\displaystyle \beta }
+  :  Taxa de Contacto
+
+  
+    
+      
+        μ
+      
+    
+    {\displaystyle \mu }
+  :  Taxa média de morte
+
+  
+    
+      
+        B
+      
+    
+    {\displaystyle B}
+  :  Taxa média de nascimento
+
+  
+    
+      
+        1
+        
+          /
+        
+        ϵ
+      
+    
+    {\displaystyle 1/\epsilon }
+  :  Período de latência médio
+
+  
+    
+      
+        1
+        
+          /
+        
+        γ
+      
+    
+    {\displaystyle 1/\gamma }
+  :  Período infeccioso médio
+
+  
+    
+      
+        
+          R
+          
+            0
+          
+        
+      
+    
+    {\displaystyle R_{0}}
+  :  Número básico de reprodução
+
+  
+    
+      
+        N
+      
+    
+    {\displaystyle N}
+  :  População total
+
+  
+    
+      
+        f
+      
+    
+    {\displaystyle f}
+  :  Perda média da taxa de imunidade de indivíduos recuperados
+
+  
+    
+      
+        δ
+      
+    
+    {\displaystyle \delta }
+  :  Prazo médio de imunidade temporária
+
+  
+    
+      
+        L
+      
+    
+    {\displaystyle L}
+  : Expectativa média de vida da população
+
+  
+    
+      
+        A
+      
+    
+    {\displaystyle A}
+  : Idade média em que a doença pode ser contraída em uma população
+
+
+== Pressupostos ==
+Os modelos são tão úteis quanto os pressupostos que tomam por base. Se um modelo faz previsões que não estão de acordo com os resultados observados, porém os cálculos matemáticos estão corretos, os pressupostos iniciais devem ser alterados para que o modelo torne-se útil.
+Distribuição etária retangular e estacionária , isto é , todas as pessoas da população vivem até a idade representado por L e depois morrem. E para cada idade acima de L, existe o mesmo número de pessoas na população. Esse estado é muitas vezes representado por países que apresentam uma baixo número de mortalidade infantil e a maioria da população vive até a expectativa de vida (L).
+Mistura homogênea da população, isto é, indivíduos da população que estão sob vigilância , fazem contato aleatoriamente entre eles mas quase não se misturam com subgrupos menores.  Porém essa suposição é raramente vista em estruturas sociais, por exemplo, a maioria das pessoas em São Paulo fazem contato com outros paulista dentro de São Paulo e em seguida, podem se misturar com outras comunidades fora de seu grupo. Ou seja, a mistura homogênea  é tratada dessa forma para manter um padrão e ser usada em modelos matemáticos.
+
+
+== Estado estacionário endêmico ==
+Pode ser dito que uma doença infecciosa se torna endêmica quando , em média, cada pessoa infectada está infectando exatamente uma outra pessoa.
+Um número maior que 1 irá fazer com que o número de pessoas infectadas cresça exponencialmente, e dessa forma, haverá uma epidemia. E qualquer número menor que 1, a doença será eliminada.
+O número básico de reprodução (
+  
+    
+      
+        
+          R
+          
+            0
+          
+        
+      
+    
+    {\displaystyle R_{0}}
+  ) de uma doença, assumindo que todos da população são suscetíveis, multiplicado pela  proporção da população que está realmente suscetível (S), deve ser um (lembrando que aquelas que não são suscetíveis , não devem constar nos cálculos, uma vez que eles não podem contrair a doença). Temos então uma relação que irá representar que uma doença está em estado endêmico, quanto maior o numero básico de reprodução , menor deve ser a proporção da população suscetível , e vice-versa.
+Assuma a distribuição etária retangular estacionaria e deixe as idades de infecção com a mesma distribuição para cada ano de nascimento.
+Tomando como base a idade média de infecção descrita em (A), por exemplo, teremos que, indivíduos com idade menor que A são suscetíveis a doença, e indivíduos com idade maior que (A) são imunes. Então, a população suscetível é dado por:
+
+  
+    
+      
+        S
+        =
+        
+          
+            A
+            L
+          
+        
+      
+    
+    {\displaystyle S={\frac {A}{L}}}
+  .
+Essa definição de estado endêmico pode ser reformulada, de forma que:
+
+  
+    
+      
+        S
+        =
+        
+          
+            1
+            
+              R
+              
+                0
+              
+            
+          
+        
+      
+    
+    {\displaystyle S={\frac {1}{R_{0}}}}
+   , então
+
+  
+    
+      
+        
+          
+            1
+            
+              R
+              
+                0
+              
+            
+          
+        
+        =
+        
+          
+            A
+            L
+          
+        
+        ⇒
+        
+          R
+          
+            0
+          
+        
+        =
+        
+          
+            L
+            A
+          
+        
+      
+    
+    {\displaystyle {\frac {1}{R_{0}}}={\frac {A}{L}}\Rightarrow R_{0}={\frac {L}{A}}}
+  
+
+Dessa forma, usando dados facilmente disponíveis, é possível estimar o parâmetro 
+  
+    
+      
+        
+          R
+          
+            0
+          
+        
+      
+    
+    {\displaystyle R_{0}}
+   de maneira simples.
+Para uma população com distribuição etária exponencial, temos:
+
+  
+    
+      
+        
+          R
+          
+            0
+          
+        
+        =
+        1
+        +
+        
+          
+            L
+            A
+          
+        
+      
+    
+    {\displaystyle R_{0}=1+{\frac {L}{A}}}
+  
+Isso permite que, o numero básico de reprodução (
+  
+    
+      
+        
+          R
+          
+            0
+          
+        
+      
+    
+    {\displaystyle R_{0}}
+  ) seja usado em cada tipo de distribuição de população, dado A e L .
+
+
+== Dinâmica de doenças infecciosas ==
+Os modelos matemáticos precisam integrar o crescente volume de dados gerados pelas interações entre hospedeiro-patógeno. 
+Muitos estudos teóricos relacionados com a dinâmica de populações , estrutura e evolução de doenças em plantas e animais, incluindo humanos, estão atentos a esse problema.
+Isso permite que, o numero básico de reprodução (
+  
+    
+      
+        
+          R
+          
+            0
+          
+        
+      
+    
+    {\displaystyle R_{0}}
+  ) seja usado em cada tipo de distribuição de população, dado A e L .
+Alguns tópicos podem ser relevante para o estudo:
+• Transmissão e controle de infecções
+• Epidemiologia
+• Imuno-epidemiologia
+• Virulência
+• Estrutura de estirpe e interações
+• Mudança antigênica
+
+
+== Modelos de vacinação em massa ==
+Caso a proporção da população que é imune exceder o nível da imunidade de grupo para a doença em questão, então, ela já não pode se manter na população. Dessa forma, se o nível de imunidade de grupo pode ser ultrapassado por meio de vacinação , a doença pode ser eliminada. Um exemplo disso é a erradicação da varíola, assim como foi semelhante à erradicação da pólio.
+O nível de imunidade de grupo é denotado por q . Sabendo que, para um estado estável :
+
+  
+    
+      
+        
+          R
+          
+            0
+          
+        
+        .
+        S
+        =
+        1
+      
+    
+    {\displaystyle R_{0}.S=1}
+  
+S será (1–q) , desde que, q seja a proporção da população que é imune e (q+S) deve ser igual a um (uma vez que nesse modelo simplificado, ou todos são suscetíveis ou todos são imunes).
+Então temos,
+
+  
+    
+      
+        
+          R
+          
+            0
+          
+        
+        .
+        (
+        1
+        −
+        q
+        )
+        =
+        1
+        ,
+      
+    
+    {\displaystyle R_{0}.(1-q)=1,}
+  
+
+  
+    
+      
+        1
+        −
+        q
+        =
+        
+          
+            1
+            
+              R
+              
+                0
+              
+            
+          
+        
+        ,
+      
+    
+    {\displaystyle 1-q={\frac {1}{R_{0}}},}
+   
+
+  
+    
+      
+        q
+        =
+        1
+        −
+        
+          
+            1
+            
+              R
+              
+                0
+              
+            
+          
+        
+      
+    
+    {\displaystyle q=1-{\frac {1}{R_{0}}}}
+  .
+Lembre-se que esse é o nível limite. Caso a proporção de indivíduos imunes exceder esse nível, devido a um programa de vacinação, a doença vai morrer.
+O limite critico de imunidade, denotado por 
+  
+    
+      
+        
+          q
+          
+            c
+          
+        
+      
+    
+    {\displaystyle q_{c}}
+   , diz respeito  a proporção mínima da população que deve ser vacinado no nascimento(ou perto do nascimento) para que a doença seja eliminada nessa população.
+
+  
+    
+      
+        
+          q
+          
+            c
+          
+        
+        =
+        1
+        −
+        
+          
+            1
+            
+              R
+              
+                0
+              
+            
+          
+        
+      
+    
+    {\displaystyle q_{c}=1-{\frac {1}{R_{0}}}}
+  .
+
+
+=== Quando a vacinação em massa não pode exceder a imunidade de grupo ===
+Existem casos  em que o programa de vacinação pode falhar em exceder 
+  
+    
+      
+        
+          q
+          
+            c
+          
+        
+      
+    
+    {\displaystyle q_{c}}
+  , por exemplo, se a vacina utilizada não for suficientemente eficaz na população ou caso a cobertura não seja alcançada(devido a resistência popular por exemplo). No entanto, o programa pode mexer com o equilibro da doença, porem sem elimina-la e causando , muitas vezes, imprevistos.
+Suponha que uma porção da população q (sendo 
+  
+    
+      
+        q
+        <
+        
+          q
+          
+            c
+          
+        
+      
+    
+    {\displaystyle q<q_{c}}
+  ) seja imunizada no nascimento, contra a infecção com 
+  
+    
+      
+        
+          R
+          
+            0
+          
+        
+        >
+        1
+      
+    
+    {\displaystyle R_{0}>1}
+   . O programa de vacinação muda 
+  
+    
+      
+        
+          R
+          
+            0
+          
+        
+      
+    
+    {\displaystyle R_{0}}
+   para 
+  
+    
+      
+        
+          R
+          
+            q
+          
+        
+      
+    
+    {\displaystyle R_{q}}
+   , onde
+
+  
+    
+      
+        
+          R
+          
+            q
+          
+        
+        =
+        
+          R
+          
+            0
+          
+        
+        (
+        1
+        −
+        q
+        )
+      
+    
+    {\displaystyle R_{q}=R_{0}(1-q)}
+  
+Essa alteração ocorre de forma que,agora existem menos suscetíveis na população que podem ser infectados.
+Sendo 
+  
+    
+      
+        
+          R
+          
+            q
+          
+        
+      
+    
+    {\displaystyle R_{q}}
+   , o 
+  
+    
+      
+        
+          R
+          
+            0
+          
+        
+      
+    
+    {\displaystyle R_{0}}
+   menos aqueles que normalmente seriam infectados, porem não podem ser, uma vez que estão imunes.
+Como conseqüência desse baixo numero básico de reprodução, a idade média de infecção A também ira mudar para um novo valor 
+  
+    
+      
+        
+          A
+          
+            q
+          
+        
+      
+    
+    {\displaystyle A_{q}}
+  , sendo aqueles que não foram vacinados.
+Lembre-se da relação 
+  
+    
+      
+        
+          R
+          
+            0
+          
+        
+      
+    
+    {\displaystyle R_{0}}
+  , A e L . Assumindo que a expectativa de vida manteve-se, temos que:
+
+  
+    
+      
+        
+          R
+          
+            q
+          
+        
+        =
+        
+          
+            L
+            
+              A
+              
+                q
+              
+            
+          
+        
+      
+    
+    {\displaystyle R_{q}={\frac {L}{A_{q}}}}
+  ,
+
+  
+    
+      
+        
+          A
+          
+            q
+          
+        
+        =
+        
+          
+            L
+            
+              R
+              
+                q
+              
+            
+          
+        
+        =
+        
+          
+            L
+            
+              
+                R
+                
+                  0
+                
+              
+              (
+              1
+              −
+              q
+              )
+            
+          
+        
+      
+    
+    {\displaystyle A_{q}={\frac {L}{R_{q}}}={\frac {L}{R_{0}(1-q)}}}
+  ,
+Porém, 
+  
+    
+      
+        
+          R
+          
+            0
+          
+        
+        =
+        
+          
+            L
+            A
+          
+        
+      
+    
+    {\displaystyle R_{0}={\frac {L}{A}}}
+   , portanto
+
+  
+    
+      
+        
+          A
+          
+            q
+          
+        
+        =
+        
+          
+            L
+            
+              
+                (
+                
+                  
+                    L
+                    A
+                  
+                
+                )
+              
+              (
+              1
+              −
+              q
+              )
+            
+          
+        
+        =
+        
+          
+            
+              A
+              L
+            
+            
+              L
+              (
+              1
+              −
+              q
+              )
+            
+          
+        
+        =
+        
+          
+            A
+            
+              1
+              −
+              q
+            
+          
+        
+      
+    
+    {\displaystyle A_{q}={\frac {L}{\left({\frac {L}{A}}\right)(1-q)}}={\frac {AL}{L(1-q)}}={\frac {A}{1-q}}}
+  
+Dessa forma, o programa de vacinação irá aumentar a idade média em que a doença pode ser contraída em uma população(A). Dessa forma, também podemos deduzir que, indivíduos não vacinados experimentam agora, uma força reduzida da infecção, devido a presença do grupo vacinado.
+Em casos de doenças que são mais severas em pessoas mais velhas, é importante considerar esse efeito durante a vacinação. Ou seja, um programa de vacinação contra alguma doença que não exceda 
+  
+    
+      
+        
+          q
+          
+            c
+          
+        
+      
+    
+    {\displaystyle q_{c}}
+   , pode causar, por exemplo, mais mortes e complicação do que já havia antes do programa entrar em vigor, pois os indivíduos contrairão a doença anos mais tarde.
+
+
+=== Quando a vacinação em massa excede a imunidade de grupo ===
+Caso o programa de vacinação fizer com que a proporção de indivíduos imunes em uma população exceda o limite crítico durante um período significativo de tempo, a transmissão de doenças infecciosas na população irá parar.
+Diferente de erradicação, isto é chamado de eliminação da infecção. Pode-se chegar a eliminação da infecção mantendo a cobertura de vacinação, de forma que, a proporção de indivíduos imunes se encontre acima do limite crítico de imunização.
+Considera-se erradicação quando ocorre uma redução dos organismos infecciosos do mundo inteiro para zero. Até agora, isso ocorreu apenas com a varíola e peste bovina. Com a eliminação em todas as regiões do mundo, é possível chegar a erradicação.
+
+
+== Modelos determinísticos compartimentados ==
+
+
+=== O Modelo SIR ===
+Em 1927, W. O. Kermack e A. G. McKendrick criaram um modelo em que se considera uma população fixa com apenas três compartimentos: sensíveis, S(t); infectado, I(t), e removido, R(t). Os compartimentos utilizados para este modelo consistem em três classes:
+
+S(t) é usado para representar o número de indivíduos não infectados com a doença no momento t, ou aqueles suscetíveis à doença.
+I(t) representa o número de indivíduos que tenham sido infectadas com a doença e que são capazes de transmitir a doença aos da categoria susceptível.
+R(t) é o compartimento utilizado para aqueles indivíduos que foram infectados e, de seguida, removidos a partir da doença, quer devido à imunização ou devido à morte. Os que estão nesta categoria não são capazes de ser infectados novamente ou para transmitir a infecção a outras pessoas.O fluxo do presente modelo pode ser considerado da seguinte forma: 
+
+  
+    
+      
+        
+          
+            
+              S
+            
+          
+          →
+          
+            
+              I
+            
+          
+          →
+          
+            
+              R
+            
+          
+        
+      
+    
+    {\displaystyle \color {red}{\mathcal {S}}\rightarrow {\mathcal {I}}\rightarrow {\mathcal {R}}}
+  Usando uma população fixa, 
+  
+    
+      
+        N
+        =
+        S
+        (
+        t
+        )
+        +
+        I
+        (
+        t
+        )
+        +
+        R
+        (
+        t
+        )
+      
+    
+    {\displaystyle N=S(t)+I(t)+R(t)}
+  , Kermack e McKendrick derivadas das seguintes equações:
+
+  
+    
+      
+        
+          
+            
+              d
+              S
+            
+            
+              d
+              t
+            
+          
+        
+        =
+        −
+        β
+        S
+        I
+      
+    
+    {\displaystyle {\frac {dS}{dt}}=-\beta SI}
+  
+  
+    
+      
+        
+          
+            
+              d
+              I
+            
+            
+              d
+              t
+            
+          
+        
+        =
+        β
+        S
+        I
+        −
+        γ
+        I
+      
+    
+    {\displaystyle {\frac {dI}{dt}}=\beta SI-\gamma I}
+  
+  
+    
+      
+        
+          
+            
+              d
+              R
+            
+            
+              d
+              t
+            
+          
+        
+        =
+        γ
+        I
+      
+    
+    {\displaystyle {\frac {dR}{dt}}=\gamma I}
+  Várias hipóteses foram feitas na formulação destas equações: em primeiro lugar, um indivíduo na população deve ser considerado como tendo uma probabilidade igual a todos os outros indivíduos de contrair a doença, com uma taxa de β, que é considerada a velocidade de contacto ou infecção da doença. Portanto, um indivíduo infetado entra em contacto e é capaz de transmitir a doença a outros βN por unidade de tempo e a fracção de contactos por uma pessoa infectada com um susceptíveis é S/N. O número de novas infeções na unidade de tempo por infecciosa é, então, βN(S/N), dando a taxa de novas infeções (ou aqueles que deixam a categoria suscetível) como βN(S/N)I= βSI (Brauer e Castillo- Chavez, 2001). Para a segunda e terceira equações, considerar a população deixando a classe suscetíveis como sendo igual ao número de entrar na classe infectado. No entanto, um número igual à fração (γ , que representa a taxa de recuperação média/morte, ou 1/γ o período infeccioso médio) de infecciosos estão a deixar esta classe por unidade de tempo para entrar na classe removida. Estes processos que ocorrem simultaneamente são referidos como a Lei da Ação de Massa, uma ideia amplamente aceite de que a taxa de contacto entre dois grupos numa população é proporcional ao tamanho de cada um dos grupos envolvidos (Daley e Gani, 2005). Finalmente, admite-se que a taxa de infeção e de recuperação é muito mais rápida do que a escala de tempo de nascimentos e mortes e, portanto, estes factores são ignorados neste modelo.
+
+
+=== O Modelo SIR com nascimentos e morte ===
+Usando o processo do sarampo, por exemplo, existe uma chegada de novos indivíduos suscetíveis na população. Para este tipo de situação nascimentos e mortes devem ser incluídas no modelo. As seguintes equações diferenciais representam este modelo, assumindo uma taxa de mortalidade μ e taxa de natalidade igual à taxa de mortalidade:
+
+  
+    
+      
+        
+          
+            
+              d
+              S
+            
+            
+              d
+              t
+            
+          
+        
+        =
+        −
+        β
+        S
+        I
+        +
+        μ
+        (
+        N
+        −
+        S
+        )
+      
+    
+    {\displaystyle {\frac {dS}{dt}}=-\beta SI+\mu (N-S)}
+  
+  
+    
+      
+        
+          
+            
+              d
+              I
+            
+            
+              d
+              t
+            
+          
+        
+        =
+        β
+        S
+        I
+        −
+        γ
+        I
+        −
+        μ
+        I
+      
+    
+    {\displaystyle {\frac {dI}{dt}}=\beta SI-\gamma I-\mu I}
+  
+  
+    
+      
+        
+          
+            
+              d
+              R
+            
+            
+              d
+              t
+            
+          
+        
+        =
+        γ
+        I
+        −
+        μ
+        R
+      
+    
+    {\displaystyle {\frac {dR}{dt}}=\gamma I-\mu R}
+  
+
+
+=== O Modelo SIS com nascimentos e mortes ===
+O modelo SIS pode ser facilmente deduzido a partir do modelo SIR, basta considerar que os indivíduos se recuperam sem imunidade à doença, isto é, os indivíduos são suscetíveis de imediato, uma vez que se recuperaram. 
+
+  
+    
+      
+        
+          
+            
+              S
+            
+          
+          →
+          
+            
+              I
+            
+          
+          →
+          
+            
+              S
+            
+          
+        
+      
+    
+    {\displaystyle \color {red}{\mathcal {S}}\rightarrow {\mathcal {I}}\rightarrow {\mathcal {S}}}
+  
+Removendo a equação que representa a população recuperada a partir do modelo da SIR e adicionando os removidos da população infetada na população suscetível, dá as seguintes equações diferenciais:
+
+  
+    
+      
+        
+          
+            
+              d
+              S
+            
+            
+              d
+              t
+            
+          
+        
+        =
+        −
+        β
+        S
+        I
+        +
+        μ
+        (
+        N
+        −
+        S
+        )
+        +
+        γ
+        I
+      
+    
+    {\displaystyle {\frac {dS}{dt}}=-\beta SI+\mu (N-S)+\gamma I}
+  
+  
+    
+      
+        
+          
+            
+              d
+              I
+            
+            
+              d
+              t
+            
+          
+        
+        =
+        β
+        S
+        I
+        −
+        γ
+        I
+        −
+        μ
+        I
+      
+    
+    {\displaystyle {\frac {dI}{dt}}=\beta SI-\gamma I-\mu I}
+  
+
+
+=== O Modelo SIRS ===
+Este modelo é simplesmente uma extensão do modelo SIR, como veremos a partir da sua construção.
+
+  
+    
+      
+        
+          
+            
+              S
+            
+          
+          
+            →
+            
+              
+                
+                  I
+                
+              
+              
+                →
+                
+                  
+                    
+                      R
+                    
+                  
+                  
+                    →
+                    
+                      
+                        
+                          S
+                        
+                      
+                    
+                  
+                
+              
+            
+          
+        
+      
+    
+    {\displaystyle \color {red}{\mathcal {S}}\color {red}\rightarrow \color {red}{\mathcal {I}}\color {red}\rightarrow \color {red}{\mathcal {R}}\color {red}\rightarrow \color {red}{\mathcal {S}}}
+  
+A única diferença é que ele permite que os membros da classe de recuperado para a classe livre de infecção tornar a reunir a classe suscetível.
+
+  
+    
+      
+        
+          
+            
+              d
+              S
+            
+            
+              d
+              t
+            
+          
+        
+        =
+        −
+        β
+        S
+        I
+        +
+        μ
+        (
+        N
+        −
+        S
+        )
+        +
+        f
+        R
+      
+    
+    {\displaystyle {\frac {dS}{dt}}=-\beta SI+\mu (N-S)+fR}
+  
+  
+    
+      
+        
+          
+            
+              d
+              I
+            
+            
+              d
+              t
+            
+          
+        
+        =
+        β
+        S
+        I
+        −
+        γ
+        I
+        −
+        μ
+        I
+      
+    
+    {\displaystyle {\frac {dI}{dt}}=\beta SI-\gamma I-\mu I}
+  
+  
+    
+      
+        
+          
+            
+              d
+              R
+            
+            
+              d
+              t
+            
+          
+        
+        =
+        γ
+        I
+        −
+        μ
+        R
+        −
+        f
+        R
+      
+    
+    {\displaystyle {\frac {dR}{dt}}=\gamma I-\mu R-fR}
+  
+
+
+== Modelos com mais compartimentos ==
+
+
+=== O Modelo SEIS ===
+O modelo SEIS leva em consideração o período da doença exposta ou latente, dando um compartimento adicional, E(t).
+
+  
+    
+      
+        
+          
+            
+              S
+            
+          
+          
+            →
+            
+              
+                
+                  E
+                
+              
+              
+                →
+                
+                  
+                    
+                      I
+                    
+                  
+                  
+                    →
+                    
+                      
+                        
+                          S
+                        
+                      
+                    
+                  
+                
+              
+            
+          
+        
+      
+    
+    {\displaystyle \color {red}{\mathcal {S}}\color {red}\rightarrow \color {red}{\mathcal {E}}\color {red}\rightarrow \color {red}{\mathcal {I}}\color {red}\rightarrow \color {red}{\mathcal {S}}}
+  
+Neste modelo uma infeção não deixa qualquer imunidade, assim, os indivíduos que se recuperarem voltam a ser suscetíveis de novo, movendo-se de volta para o compartimento de S(t). As seguintes equações diferenciais descrevem este modelo:
+
+  
+    
+      
+        
+          
+            
+              
+                d
+                S
+              
+              
+                d
+                T
+              
+            
+          
+        
+        =
+        B
+        −
+        β
+        S
+        I
+        −
+        μ
+        S
+        +
+        γ
+        I
+      
+    
+    {\displaystyle {\tfrac {dS}{dT}}=B-\beta SI-\mu S+\gamma I}
+  
+  
+    
+      
+        
+          
+            
+              
+                d
+                E
+              
+              
+                d
+                T
+              
+            
+          
+        
+        =
+        β
+        S
+        I
+        −
+        (
+        ϵ
+        +
+        μ
+        )
+        E
+      
+    
+    {\displaystyle {\tfrac {dE}{dT}}=\beta SI-(\epsilon +\mu )E}
+  
+  
+    
+      
+        
+          
+            
+              
+                d
+                I
+              
+              
+                d
+                T
+              
+            
+          
+        
+        =
+        ε
+        E
+        −
+        (
+        γ
+        +
+        μ
+        )
+        I
+      
+    
+    {\displaystyle {\tfrac {dI}{dT}}=\varepsilon E-(\gamma +\mu )I}
+  
+
+
+=== O Modelo SEIR ===
+O modelo SIR discutido acima tem em conta apenas as doenças que causam num indivíduo a capacidade de infetar outras pessoas imediatamente após a sua infeção. Muitas doenças têm o que é chamado de uma fase latente ou exposta, durante o qual é dito ao indivíduo estar infetado mas não infecioso.
+
+  
+    
+      
+        
+          
+            
+              S
+            
+          
+          
+            →
+            
+              
+                
+                  E
+                
+              
+              
+                →
+                
+                  
+                    
+                      I
+                    
+                  
+                  
+                    →
+                    
+                      
+                        
+                          R
+                        
+                      
+                    
+                  
+                
+              
+            
+          
+        
+      
+    
+    {\displaystyle \color {red}{\mathcal {S}}\color {red}\rightarrow \color {red}{\mathcal {E}}\color {red}\rightarrow \color {red}{\mathcal {I}}\color {red}\rightarrow \color {red}{\mathcal {R}}}
+  
+Neste modelo, a população anfitriã (N) é dividida em quatro compartimentos: suscetíveis, expostos, infeciosas e recuperados, com o número de indivíduos num compartimento, ou as suas densidades denotados, respectivamente, por by S(t), E(t), I(t), R(t), that is N = S(t) + E(t) + I(t) + R(t)
+
+  
+    
+      
+        
+          
+            
+              
+                d
+                S
+              
+              
+                d
+                T
+              
+            
+          
+        
+        =
+        B
+        −
+        β
+        S
+        I
+        −
+        μ
+        S
+      
+    
+    {\displaystyle {\tfrac {dS}{dT}}=B-\beta SI-\mu S}
+  
+  
+    
+      
+        
+          
+            
+              
+                d
+                E
+              
+              
+                d
+                T
+              
+            
+          
+        
+        =
+        β
+        S
+        I
+        −
+        (
+        ε
+        +
+        μ
+        )
+        E
+      
+    
+    {\displaystyle {\tfrac {dE}{dT}}=\beta SI-(\varepsilon +\mu )E}
+  
+  
+    
+      
+        
+          
+            
+              
+                d
+                I
+              
+              
+                d
+                T
+              
+            
+          
+        
+        =
+        ε
+        E
+        −
+        (
+        γ
+        +
+        μ
+        )
+        I
+      
+    
+    {\displaystyle {\tfrac {dI}{dT}}=\varepsilon E-(\gamma +\mu )I}
+  
+  
+    
+      
+        
+          
+            
+              
+                d
+                R
+              
+              
+                d
+                T
+              
+            
+          
+        
+        =
+        γ
+        I
+        −
+        μ
+        R
+      
+    
+    {\displaystyle {\tfrac {dR}{dT}}=\gamma I-\mu R}
+  
+
+
+=== O Modelo MSIR ===
+Existem várias doenças que um indivíduo nasce com uma imunidade passiva de sua mãe.
+
+  
+    
+      
+        
+          
+            
+              M
+            
+          
+        
+      
+    
+    {\displaystyle \color {red}{\mathcal {M}}}
+   
+  
+    
+      
+        
+          →
+          
+            
+              
+                S
+              
+            
+            
+              →
+              
+                
+                  
+                    I
+                  
+                
+                
+                  →
+                  
+                    
+                      
+                        R
+                      
+                    
+                  
+                
+              
+            
+          
+        
+      
+    
+    {\displaystyle \color {red}\rightarrow \color {red}{\mathcal {S}}\color {red}\rightarrow \color {red}{\mathcal {I}}\color {red}\rightarrow \color {red}{\mathcal {R}}}
+  
+Para indicar esta matemática, um compartimento adicional é adicionado, H(t), o que resulta nas seguintes equações diferenciais:
+
+  
+    
+      
+        
+          
+            
+              
+                d
+                M
+              
+              
+                d
+                T
+              
+            
+          
+        
+        =
+        B
+        −
+        δ
+        M
+        S
+        −
+        μ
+        M
+      
+    
+    {\displaystyle {\tfrac {dM}{dT}}=B-\delta MS-\mu M}
+  
+  
+    
+      
+        
+          
+            
+              
+                d
+                S
+              
+              
+                d
+                T
+              
+            
+          
+        
+        =
+        δ
+        M
+        S
+        −
+        β
+        S
+        I
+        −
+        μ
+        S
+      
+    
+    {\displaystyle {\tfrac {dS}{dT}}=\delta MS-\beta SI-\mu S}
+  
+  
+    
+      
+        
+          
+            
+              
+                d
+                I
+              
+              
+                d
+                T
+              
+            
+          
+        
+        =
+        β
+        S
+        I
+        −
+        γ
+        I
+        −
+        μ
+        I
+      
+    
+    {\displaystyle {\tfrac {dI}{dT}}=\beta SI-\gamma I-\mu I}
+  
+  
+    
+      
+        
+          
+            
+              
+                d
+                R
+              
+              
+                d
+                T
+              
+            
+          
+        
+        =
+        γ
+        I
+        −
+        μ
+        R
+      
+    
+    {\displaystyle {\tfrac {dR}{dT}}=\gamma I-\mu R}
+  
+
+
+=== O Modelo MSEIR ===
+Para o caso de uma doença, com os factores de imunidade passiva, e um período de latência temos o modelo MSEIR.
+
+  
+    
+      
+        
+          
+            
+              M
+            
+          
+          
+            →
+          
+        
+      
+    
+    {\displaystyle \color {red}{\mathcal {M}}\color {red}\rightarrow }
+  
+  
+    
+      
+        
+          
+            
+              S
+            
+          
+        
+      
+    
+    {\displaystyle \color {red}{\mathcal {S}}}
+   
+  
+    
+      
+        
+          →
+          
+            
+              
+                E
+              
+            
+            
+              →
+              
+                
+                  
+                    I
+                  
+                
+                
+                  →
+                  
+                    
+                      
+                        R
+                      
+                    
+                  
+                
+              
+            
+          
+        
+      
+    
+    {\displaystyle \color {red}\rightarrow \color {red}{\mathcal {E}}\color {red}\rightarrow \color {red}{\mathcal {I}}\color {red}\rightarrow \color {red}{\mathcal {R}}}
+  
+
+  
+    
+      
+        
+          
+            
+              
+                d
+                M
+              
+              
+                d
+                T
+              
+            
+          
+        
+        =
+        B
+        −
+        δ
+        M
+        S
+        −
+        μ
+        M
+      
+    
+    {\displaystyle {\tfrac {dM}{dT}}=B-\delta MS-\mu M}
+  
+  
+    
+      
+        
+          
+            
+              
+                d
+                S
+              
+              
+                d
+                T
+              
+            
+          
+        
+        =
+        δ
+        M
+        S
+        −
+        β
+        S
+        I
+        −
+        μ
+        S
+      
+    
+    {\displaystyle {\tfrac {dS}{dT}}=\delta MS-\beta SI-\mu S}
+  
+  
+    
+      
+        
+          
+            
+              
+                d
+                E
+              
+              
+                d
+                T
+              
+            
+          
+        
+        =
+        β
+        S
+        I
+        −
+        (
+        ε
+        +
+        μ
+        )
+        E
+      
+    
+    {\displaystyle {\tfrac {dE}{dT}}=\beta SI-(\varepsilon +\mu )E}
+  
+  
+    
+      
+        
+          
+            
+              
+                d
+                I
+              
+              
+                d
+                T
+              
+            
+          
+        
+        =
+        ε
+        E
+        −
+        (
+        γ
+        +
+        μ
+        )
+        I
+      
+    
+    {\displaystyle {\tfrac {dI}{dT}}=\varepsilon E-(\gamma +\mu )I}
+  
+  
+    
+      
+        
+          
+            
+              
+                d
+                R
+              
+              
+                d
+                T
+              
+            
+          
+        
+        =
+        γ
+        I
+        −
+        μ
+        R
+      
+    
+    {\displaystyle {\tfrac {dR}{dT}}=\gamma I-\mu R}
+  
+
+
+=== O Modelo MSEIRS ===
+Um modelo MSEIRS é semelhante ao MSEIR, mas a imunidade na classe R seria temporária, de modo que os indivíduos poderão recuperar a sua susceptibilidade quando a imunidade temporária terminar.
+
+  
+    
+      
+        
+          
+            
+              M
+            
+          
+          →
+          
+            
+              S
+            
+          
+          →
+          
+            
+              E
+            
+          
+          →
+          
+            
+              I
+            
+          
+          →
+          
+            
+              R
+            
+          
+          →
+          
+            
+              S
+            
+          
+        
+      
+    
+    {\displaystyle \color {red}{\mathcal {M}}\rightarrow {\mathcal {S}}\rightarrow {\mathcal {E}}\rightarrow {\mathcal {I}}\rightarrow {\mathcal {R}}\rightarrow {\mathcal {S}}}
+  
+
+
+== Número de Reprodução ==
+Há uma quantidade limite que determina se uma epidemia ocorre ou a doença simplesmente morre. Esta quantidade é denominado o número de reprodução de base, indicado por R0, que pode estar definido como o número de infeções secundárias causadas por um único infecioso introduzido numa população composta inteiramente de indivíduos susceptíveis (S(0)≈N) ao longo da infeção deste único infecioso. Este indivíduo infecioso faz com que os contactos βN por unidade de tempo produzir novas infeções com um período infecioso médio de 1/γ. Portanto, o número básico de reprodução é R0 = (βN)/γ
+Este valor quantifica o potencial de transmissão de uma doença. Se o número básico de reprodução desce abaixo de um (R0 < 1), ou seja, o infecioso não pode passar a infeção durante o período infecioso, a infeção morre. Se (R0 > 1) há uma epidemia na população. Nos casos em que (R0 = 1), a doença torna-se endémica, ou seja, a doença permanece na população a uma taxa consistente, como um indivíduo infetado transmite a doença para alguém suscetível (Trottier & Philippe, 2001). 
+Em casos de doenças com diferentes períodos de latência, o número básico de reprodução pode estar calculado através da soma do número de reprodução para cada tempo de transição para a doença. Um exemplo disto é a tuberculose. Blower et al. (1995), calculado a partir de um modelo simples de TB no número abaixo da reprodução:
+
+R0 = R0FAST + R0SLOWNo seu modelo, assume-se que os indivíduos infetados podem desenvolver TB ativa por qualquer progressão direta (a doença desenvolve-se imediatamente após a infeção) considerado acima da tuberculose FAST ou reativação endógena (a doença desenvolve-se anos depois da infecção) considerado acima da tuberculose como SLOW.
+
+
+=== O número de reprodução e a dinâmica do modelo SIR ===
+O número de reprodução 
+  
+    
+      
+        
+          R
+          
+            0
+          
+        
+        =
+        
+          
+            β
+            γ
+          
+        
+        
+          S
+          
+            0
+          
+        
+      
+    
+    {\displaystyle R_{0}={\frac {\beta }{\gamma }}S_{0}}
+   tem uma interpretação clara no Modelo SIR, pois caracteriza a curva 
+  
+    
+      
+        I
+        (
+        t
+        )
+      
+    
+    {\displaystyle I(t)}
+  . Como o sistema de equações é autônomo, podemos obter:
+
+  
+    
+      
+        
+          
+            {
+            
+              
+                
+                  
+                    
+                      
+                        d
+                        I
+                      
+                      
+                        d
+                        S
+                      
+                    
+                  
+                  =
+                  
+                    
+                      
+                        
+                          d
+                          I
+                        
+                        
+                          d
+                          t
+                        
+                      
+                      
+                        
+                          d
+                          S
+                        
+                        
+                          d
+                          t
+                        
+                      
+                    
+                  
+                  =
+                  
+                    
+                      γ
+                      
+                        β
+                        S
+                      
+                    
+                  
+                  −
+                  1
+                
+              
+              
+                
+                  I
+                  (
+                  
+                    S
+                    
+                      0
+                    
+                  
+                  )
+                  =
+                  
+                    I
+                    
+                      0
+                    
+                  
+                
+              
+            
+            
+          
+        
+        ⇒
+        I
+        (
+        S
+        )
+        =
+        
+          
+            γ
+            β
+          
+        
+        ln
+        ⁡
+        
+          S
+        
+        −
+        S
+        +
+        
+          I
+          
+            0
+          
+        
+        +
+        
+          S
+          
+            0
+          
+        
+        −
+        
+          
+            γ
+            β
+          
+        
+        ln
+        ⁡
+        
+          
+            S
+            
+              0
+            
+          
+        
+      
+    
+    {\displaystyle {\begin{cases}{\frac {dI}{dS}}={\frac {\frac {dI}{dt}}{\frac {dS}{dt}}}={\frac {\gamma }{\beta S}}-1\\I(S_{0})=I_{0}\end{cases}}\Rightarrow I(S)={\frac {\gamma }{\beta }}\ln {S}-S+I_{0}+S_{0}-{\frac {\gamma }{\beta }}\ln {S_{0}}}
+  
+
+Note que a curva 
+  
+    
+      
+        I
+        (
+        S
+        )
+      
+    
+    {\displaystyle I(S)}
+   tem derivada positiva para 
+  
+    
+      
+        S
+        <
+        
+          
+            γ
+            β
+          
+        
+      
+    
+    {\displaystyle S<{\frac {\gamma }{\beta }}}
+  , negativa para  
+  
+    
+      
+        S
+        >
+        
+          
+            γ
+            β
+          
+        
+      
+    
+    {\displaystyle S>{\frac {\gamma }{\beta }}}
+   e nula quando 
+  
+    
+      
+        S
+        =
+        
+          
+            γ
+            β
+          
+        
+      
+    
+    {\displaystyle S={\frac {\gamma }{\beta }}}
+  . Como conforme a epidemia avança estamos percorrendo o eixo 
+  
+    
+      
+        S
+      
+    
+    {\displaystyle S}
+   no sentido negativo, temos então que quando a condição inicial está à direita da reta 
+  
+    
+      
+        S
+        =
+        
+          
+            γ
+            β
+          
+        
+      
+    
+    {\displaystyle S={\frac {\gamma }{\beta }}}
+   (ou equivalentemente 
+  
+    
+      
+        
+          R
+          
+            0
+          
+        
+        >
+        1
+      
+    
+    {\displaystyle R_{0}>1}
+  ) a epidemia irá aumentar seu número de infectados até atingir a reta 
+  
+    
+      
+        S
+        =
+        
+          
+            γ
+            β
+          
+        
+      
+    
+    {\displaystyle S={\frac {\gamma }{\beta }}}
+   e depois decrescer. Já quando a condição inicial é tal que 
+  
+    
+      
+        
+          R
+          
+            0
+          
+        
+        ≤
+        1
+      
+    
+    {\displaystyle R_{0}\leq 1}
+   o número de infectados apenas decai.
+Vale ressaltar também que toda a análise é feita usando apenas a razão 
+  
+    
+      
+        
+          
+            γ
+            β
+          
+        
+      
+    
+    {\displaystyle {\frac {\gamma }{\beta }}}
+  . Ao variar os parâmetros 
+  
+    
+      
+        β
+        ,
+        γ
+      
+    
+    {\displaystyle \beta ,\gamma }
+   mantendo a razão constante obtemos o mesmo diagrama de fases, mas mudamos a velocidade com que a curva é percorrida. Formalmente temos: seja 
+  
+    
+      
+        α
+        >
+        0
+      
+    
+    {\displaystyle \alpha >0}
+  , se 
+  
+    
+      
+        (
+        
+          S
+          
+            α
+          
+        
+        (
+        t
+        )
+        ,
+        
+          I
+          
+            α
+          
+        
+        (
+        t
+        )
+        ,
+        
+          R
+          
+            α
+          
+        
+        (
+        t
+        )
+        )
+      
+    
+    {\displaystyle (S_{\alpha }(t),I_{\alpha }(t),R_{\alpha }(t))}
+   é solução do modelo SIR com valores iniciais 
+  
+    
+      
+        
+          S
+          
+            α
+          
+        
+        (
+        0
+        )
+        =
+        
+          S
+          
+            0
+          
+        
+        ,
+        
+          I
+          
+            α
+          
+        
+        (
+        0
+        )
+        =
+        
+          I
+          
+            0
+          
+        
+        ,
+        
+          R
+          
+            α
+          
+        
+        (
+        0
+        )
+        =
+        
+          R
+          
+            0
+          
+        
+      
+    
+    {\displaystyle S_{\alpha }(0)=S_{0},I_{\alpha }(0)=I_{0},R_{\alpha }(0)=R_{0}}
+   e parâmetros 
+  
+    
+      
+        β
+        =
+        α
+        
+          β
+          
+            0
+          
+        
+        ,
+        γ
+        =
+        α
+        
+          γ
+          
+            0
+          
+        
+      
+    
+    {\displaystyle \beta =\alpha \beta _{0},\gamma =\alpha \gamma _{0}}
+   vale que 
+  
+    
+      
+        (
+        
+          S
+          
+            α
+          
+        
+        (
+        t
+        )
+        ,
+        
+          I
+          
+            α
+          
+        
+        (
+        t
+        )
+        ,
+        
+          R
+          
+            α
+          
+        
+        (
+        t
+        )
+        )
+        =
+        (
+        
+          S
+          
+            1
+          
+        
+        (
+        α
+        t
+        )
+        ,
+        
+          I
+          
+            1
+          
+        
+        (
+        α
+        t
+        )
+        ,
+        
+          R
+          
+            1
+          
+        
+        (
+        α
+        t
+        )
+        )
+      
+    
+    {\displaystyle (S_{\alpha }(t),I_{\alpha }(t),R_{\alpha }(t))=(S_{1}(\alpha t),I_{1}(\alpha t),R_{1}(\alpha t))}
+  . Para demonstrar basta observar que as condições iniciais são trivialmente satisfeitas e que 
+  
+    
+      
+        
+          
+            
+              d
+              
+                S
+                
+                  1
+                
+              
+              (
+              α
+              t
+              )
+            
+            
+              d
+              t
+            
+          
+        
+        =
+        −
+        α
+        
+          β
+          
+            0
+          
+        
+        
+          S
+          
+            1
+          
+        
+        (
+        α
+        t
+        )
+        
+          I
+          
+            1
+          
+        
+        (
+        α
+        t
+        )
+        =
+        −
+        β
+        
+          S
+          
+            α
+          
+        
+        (
+        t
+        )
+        
+          I
+          
+            α
+          
+        
+        (
+        t
+        )
+        =
+        
+          
+            
+              d
+              
+                S
+                
+                  α
+                
+              
+              (
+              t
+              )
+            
+            
+              d
+              t
+            
+          
+        
+      
+    
+    {\displaystyle {\frac {dS_{1}(\alpha t)}{dt}}=-\alpha \beta _{0}S_{1}(\alpha t)I_{1}(\alpha t)=-\beta S_{\alpha }(t)I_{\alpha }(t)={\frac {dS_{\alpha }(t)}{dt}}}
+  , 
+  
+    
+      
+        
+          
+            
+              d
+              
+                I
+                
+                  1
+                
+              
+              (
+              α
+              t
+              )
+            
+            
+              d
+              t
+            
+          
+        
+        =
+        α
+        
+          β
+          
+            0
+          
+        
+        
+          S
+          
+            1
+          
+        
+        (
+        α
+        t
+        )
+        
+          I
+          
+            1
+          
+        
+        (
+        α
+        t
+        )
+        −
+        α
+        γ
+        
+          I
+          
+            1
+          
+        
+        (
+        α
+        t
+        )
+        =
+        β
+        
+          S
+          
+            α
+          
+        
+        (
+        t
+        )
+        
+          I
+          
+            α
+          
+        
+        (
+        t
+        )
+        −
+        γ
+        
+          I
+          
+            α
+          
+        
+        (
+        t
+        )
+        =
+        
+          
+            
+              d
+              
+                I
+                
+                  α
+                
+              
+              (
+              t
+              )
+            
+            
+              d
+              t
+            
+          
+        
+      
+    
+    {\displaystyle {\frac {dI_{1}(\alpha t)}{dt}}=\alpha \beta _{0}S_{1}(\alpha t)I_{1}(\alpha t)-\alpha \gamma I_{1}(\alpha t)=\beta S_{\alpha }(t)I_{\alpha }(t)-\gamma I_{\alpha }(t)={\frac {dI_{\alpha }(t)}{dt}}}
+   e 
+  
+    
+      
+        
+          
+            
+              d
+              
+                R
+                
+                  1
+                
+              
+              (
+              α
+              t
+              )
+            
+            
+              d
+              t
+            
+          
+        
+        =
+        α
+        γ
+        
+          I
+          
+            1
+          
+        
+        (
+        α
+        t
+        )
+        =
+        γ
+        
+          I
+          
+            α
+          
+        
+        (
+        t
+        )
+        =
+        
+          
+            
+              d
+              
+                R
+                
+                  α
+                
+              
+              (
+              t
+              )
+            
+            
+              d
+              t
+            
+          
+        
+      
+    
+    {\displaystyle {\frac {dR_{1}(\alpha t)}{dt}}=\alpha \gamma I_{1}(\alpha t)=\gamma I_{\alpha }(t)={\frac {dR_{\alpha }(t)}{dt}}}
+  .
+
+
+== Outras considerações de entre os modelos epidêmicos compartimentados ==
+
+
+=== Transmissão vertical ===
+No caso de algumas doenças, como AIDS e hepatite B, é possível que a descendência de pais infetados para nascer infetado. Esta transmissão da doença por parte da mãe é chamada de transmissão vertical. O influxo de novos membros na categoria infetado pode ser considerado dentro do modelo, incluindo uma fração dos membros recém-nascidos no compartimento infetado (Brauer & Castillo-Chavez, 2001).
+
+
+=== Transmissão vetorial ===
+Doenças transmitida de humano para humano indiretamente, isto é, a malária espalhou-se por meio de mosquitos, são transmitidos através de um vetor. Nestes casos, as transferências de infeção humana e um modelo de epidemia como o inseto deve incluir ambas as espécies, geralmente exigindo muito mais do que os compartimentos de um modelo para a transmissão direta. Para mais informações sobre este tipo de modelo de referência pode consulta a Dinâmica Populacional de Doenças Infecciosas: Teoria e Aplicações, por RM Anderson (Brauer & Castillo-Chavez, 2001).
+
+
+== Outros ==
+Outras ocorrências (tiradas de Modelos Matemáticos em Biologia de População e Epidemiologia por Fred Brauer e Carlos Castillo-Chávez), que podem ter de ser considerados na modelagem de uma epidemia incluem coisas como os seguintes:
+
+mistura não homogénea
+populações com estrutura etária
+infetividade variável
+as distribuições que são espacialmente não-uniforme
+doenças causadas por macroparasitas
+imunidade adquirida através da vacinação
+
+
+== Referências ==
+• Hamer, W. (1928). Epidemiology Old and New. London: Kegan Paul
+• CANAL, C. W.; VAZ, C. S. L., Vacinas v´ıricas - Setor de Virologia UFSM. Dispon´ıvel em: http://setordevirologiaufsm.files. wordpress.com/2012/10/livro-virologia-capc3adtulo-12.pdf. Acessado em: 14 de Janeiro de 2014.
+• ALLMAN, E. S.; RHODES, J. A., Mathematical Models in Biology an Introduction, Cambridge University Press, 2003.

@@ -1,0 +1,40 @@
+Plasmídeos ou plasmídios são moléculas circulares duplas de DNA capazes de se reproduzir independentemente do DNA cromossômico. Ocorrem geralmente em bactérias e por vezes também em organismos eucarióticos unicelulares (ex: o anel de 2-micra em Saccharomyces cerevisiae) e células de eucariotas superiores. O seu tamanho varia entre poucos milhares a mais de cem mil pares de bases. Existem entre uma, para grandes plasmídeos, até várias dezenas de cópias de um mesmo plasmídeo numa única célula. A replicação do DNA plasmídico é feita pela mesma maquinaria celular que realiza a replicação do DNA cromossómico, à mesma velocidade ou a uma velocidade superior (o que provoca um número elevado de cópias do plasmídeo na célula). Os plasmídeos replicam-se de forma independente do DNA cromossômico mas a sua replicação dá-se a cada divisão celular de forma a conservar pelo menos uma cópia em cada célula-filha.
+
+
+== Resistência aos antibióticos ==
+
+Os plasmídeos contém geralmente um ou dois marcadores seleccionáveis que conferem uma vantagem selectiva à bactéria que os abriga, por exemplo, a capacidade de construir uma resistência a antibióticos. A resistência advém da presença de pelo menos um gene que codifique uma enzima capaz de neutralizar um determinado antibiótico. A existência de plasmídeos com diversos genes de resistência a diferentes antibióticos é um problema no tratamento de doenças bacterianas: com a utilização generalizada de antibióticos, os plasmídeos evoluiram de forma a conferir multirresistências aos seus hospedeiros bacterianos, tornando essas doenças de difícil tratamento. Muitos destes plasmídeos contêm adicionalmente "genes de transferência", que codificam proteínas capazes de formar pili através dos quais as bactérias transferem plasmídeos entre si, contribuindo para a proliferação de estirpes multirresistentes.
+Todos os plasmídeos contém pelo menos uma sequência de DNA que serve como uma "origem de replicação" ou ori (um ponto inicial para a replicação de DNA), e que permite ao DNA do plasmídeo replicar-se independentemente do DNA cromossómico. A ori é uma sequência específica de cinquenta a cem pares de bases e a sua presença é obrigatória para que ocorra a replicação do plasmídeo.
+
+
+== Epissomas ==
+
+Os epissomas são plasmídeos que se conseguem integrar no DNA cromossómico do hospedeiro. Por esta razão, podem permanecer intactos durante muito tempo, ser duplicados em cada divisão celular do hospedeiro, e transformar-se numa parte básica da sua constituição genética.
+
+
+== Tipos de plasmídeos ==
+Existem dois grupos básicos de plasmídeos: os conjugativos e os não-conjugativos.
+
+Plasmídeos conjugativos: contém um operon denominado tra que contém genes envolvidos na transferência do plasmídeo para uma outra célula, por meio da conjugação.
+Plasmídeos não-conjugativos: são incapazes de iniciar a conjugação e, por esse motivo, não há movimento independente para outra bactéria, mas podem ser transferidos com plasmídeos conjugativos durante a conjugação.
+Numa única célula podem coexistir vários tipos diferentes de plasmídeos. A Escherichia coli, por exemplo, tem até sete. Dois plasmídeos podem ser incompatíveis, e a sua interacção resulta na destruição de um deles. Os plasmídeos podem, portanto, ser colocados em "grupos de incompatibilidade", que dependem da sua capacidade de coexistir numa única célula.
+Uma forma óbvia de classificar os plasmídeos é pela função que desempenham. Existem cinco classes principais:
+
+Plasmídeos de fertilidade (F), que contém apenas tra-genes. A sua única função é a iniciação da conjugação bacteriana.
+Plasmídeos de resistência (R), que contém genes que os tornam resistentes a antibióticos ou venenos.
+Col-plasmídeos, que contém genes que codificam (determinam a produção de) colicinas, proteínas que podem matar outras bactérias (toxinas bacterianas).
+Plasmídeos degradativos, que permitem a digestão de substâncias pouco habituais, como o toluol ou o ácido salicílico.
+Plasmídeos de virulência, que transformam a bactéria num agente patogénico. Por exemplo o plasmídeo Ti, da bactéria Agrobacterium tumefaciens, que é usado atualmente na genética para a produção de plantas transgênicas.Os plasmídeos que existem em cópia única em cada bactéria correm o risco de, depois da divisão celular, desaparecer numa das bactérias filhas. Para se assegurarem de que a célula tem "interesse" em manter uma cópia do plasmídeo em cada uma das células filhas, alguns plasmídeos incluem um "sistema viciante": produzem tanto um veneno de longa vida como um seu antídoto de vida curta. A célula que mantiver uma cópia do plasmídeo irá sobreviver, ao passo que a célula que não o possuir morrerá em breve por falta do antídoto.
+
+
+== Aplicações dos plasmídeos ==
+Os plasmídeos são ferramentas importantes nos laboratórios de genética e bioquímica, onde são usados rotineiramente para multiplicar genes específicos. Há muitos plasmídeos com esse fim disponíveis no mercado. Inicialmente, o gene a ser replicado é inserido num plasmídeo. Este plasmídeo deverá conter, além do gene inserido, um ou mais genes capazes de conferir resistência antibiótica à bactéria que servir de hospedeiro. Os plasmídeos são então inseridos em bactérias por um processo chamado "transformação", e estas são depois incubadas em meio de cultura suplementado com antibiótico(s) específico(s). As bactérias que contiverem então uma ou mais cópias do plasmídeo expressam (fazem proteínas a partir de) o gene que confere resistência aos antibióticos. Tipicamente, a célula produz uma proteína que destrói os antibióticos que, de outra forma, matariam a célula. Os antibióticos matam ou inibem a divisão das células que não receberam plasmídeo, porque não possuem os genes de resistência aos antibióticos. O resultado é que só as bactérias com a resistência aos antibióticos sobrevivem, e estas são as mesmas que contém o gene a ser replicado. Desta forma, os antibióticos actuam como filtros que seleccionam apenas as bactérias modificadas. Estas bactérias podem ser posteriormente cultivadas em grandes quantidades, recolhidas e destruídas para isolar o plasmídeo de interesse.
+Outro uso importante dos plasmídeos é na produção de grandes quantidades de proteínas. Neste caso, cultivam-se as bactérias que contêm um plasmídeo que inclui o gene que codifica a proteína pretendida. Da mesma forma que uma bactéria produz proteínas que lhe conferem resistência aos antibióticos, também pode ser induzida a produzir grandes quantidades de proteínas a partir do gene que nelas foi introduzido. Esta é uma maneira de baixo custo e simples de produzir um gene ou a proteína que ele codifica - por exemplo, a insulina - ou até mesmo antibióticos.
+
+
+== Ver também ==
+Cromossoma artificial bacteriano
+Engenharia genética
+
+
+== Referências ==

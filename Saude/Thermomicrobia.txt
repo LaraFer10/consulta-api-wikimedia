@@ -1,0 +1,87 @@
+As bactérias Thermomicrobias pertencem  ao grupo de organismo termófilos. A maioria de coloração esverdeada, não possuem enxofre em sua composição e não são consideradas sulfurosas.Alguns cientistas acreditam que Thermomicrobia não seja um filo bacteriano verdadeiro, mas sim uma divisão das Chloroflexis, por terem determinadas semelhanças. Como seu nome indica, é um organismo termófilo, além disso, muitas delas dentro da classificação são consideradas hiper-termófilicas, ou seja, a temperatura que favorece seu crescimento fica em torno de 70 - 75 °C. A classe Thermomicrobia subdivide-se em duas ordens com nomes publicados validamente: em Thermomicrobiales (Garrity e Holt 2001) e/ou  Sphaerobacterales (Stackebrandt, Rainey e Ward-Rainey 1997). Uma análise acerca das espécies  Thermomicrobium roseum e  Sphaerobacter thermophilus permite maiores descrição do filo, como :
+
+Grande parte dessas bactérias são consideradas Gram-negativas, possuem gastes pleomórficas, não são moveis e não formam esporos, logo não são consideradas esporulantes. Além disso, não possuem diaminoácidos (atuam na síntese de aminoácido de ácidos nucleicos específicos);  são aeróbicas obrigatórias e quimiorganotrófíca[carece de fontes?].Como bactérias termofílicas, os membros desta classe são normalmente encontrados em ambientes distantes da atividade humana. No entanto, eles têm características como crescimento melhorado de antibióticos e atividade oxidante de CO, tornando-os tópicos interessantes de pesquisa (por exemplo, para aplicação em biotecnologia) [carece de fontes?].
+
+
+== HISTÓRIA ==
+No ano de 1973, uma cepa de bactérias termófilas foi isolada no Parque Nacional de Yellowstone, que mais tarde recebe a denominação de Thermomicrobium roseum e a partir disso passa a se integrar como uma nova espécie do gênero Thermomicrobium, e que nessa mesma época esta categorizado sob a família Achromobacteraceae que se tornou distinto em 2001. No ano de 2004, quando realiza-se uma analise de afiliações genéticas, por fim a termomicrobia sofre uma nova reclassificação como uma classe pertencente ao filo Chloroflexi. Além disso, outras bactérias foram sido incorporadas com o passar dos anos à classe, como: a  Sphaerobacter thermophilus e a Thermobaculum terrenum que tem até o presente momento sua classificação contestada, mesmo sendo uma linhagem das  T.roseum que foram encontradas no Parque Nacional de Yellowstone[carece de fontes?]. Para além dessas citadas anteriormente, atualmente novas bactérias foram acrescentadas ao grupo:
+
+- Nitrolancetus hollandica : Bactéria termorresistente e oxidante de nitrito, descoberta em 2012 em um biorreator e proposta como espécie em 2014.
+- Thermomicrobium carboxidum e Thermorudis peleae: Ambas foram descobertas em 2014 e encontradas em biofilmes geotérmicos aquecidos na cratera Kilauea Iki, localizada em um vulcão do Hawai, ampas possuem formato bastonete e não são formadora de esporos. Com a segunda bactéria, um novo gênero foi proposto, o Thermorudis.
+- Thermorudis pharmacophila: Descoberta em 2015, uma bactéria encontrada isolada no solo geotérmico de Waltike (Nova Zelândia), e que através de analises filogenéticas coloca-a dentro da classe Thermomicrobia[carece de fontes?].
+*As análises filogenéticas baseavam no rRNA 16s.
+
+
+== TAXONOMIA ==
+
+⠀
+Classe: THERMOMICROBIA.
+
+Inclui-se - Ordem:  Thermomicrobiales.-> Família: Thermomicrobiaceae
+----> Gênero: Thermomicrobium.
+--- ----> Espécie: Thermomicrobium roseum.
+--- ----> Espécie: Thermomicrobium carboxidum.
+Inclui-se - Ordem:  Sphaerobacterales.
+->Família: Sphaerobacteraceae.
+----> Gênero: Sphaerobacter.
+--- ----> Espécie: Sphaerobacter thermophilus.----> Gênero: Nitrolancea
+--- ---->Espécie: Nitrolancea hollandica.
+Além deles, outros gêneros  também pertencem a classe, como:
+----> Gênero: Thermobaculum--- ----> Espécie: Thermobaculum terrenum.
+----> Gênero: Thermorudis--- ----> Espécie: Thermorudis peleae.--- ----> Espécie: Thermorudis pharmacophila.
+
+
+== CARACTERÍSTICAS BIOLÓGICAS ==
+
+
+===== AMBIENTE VIVO =====
+Os membros da classe Thermomicrobia se distribuem por todo habitat, tanto aquático quanto terrestre. As características comuns de seus habitats incluem temperatura variando de cerca de 70 - 75 °C e um pH em torno de 6,0 - 8,0.
+
+Thermomicrobium roseum: encontrada em fontes termais geoterminacamente aquecidas.
+Thermorudis pharmacophila e Thermobaculum terrenum: em solos aquecidos.
+Thermomicrobium carboxidum e Thermorudis peleae : em sedimentos aquecidos.
+Sphaerobacter thermophilus: em lodo de esgoto que passou por tratamento termofílico.
+
+
+==== METABOLISMO ====
+Os associados a essa classe possuem um variação básica no seu metabolismo. Algumas realizam a atividade nitrificante utilizando NO2  como fonte de energia, como é o caso da Nitrolancetus hollandica e de grande maioria do filo Chloroflexi. Já a Thermomicrobium spp. e Sphaerobacter thermophilus realizam a oxidação de CO. Em contrapartida, outras características são compartilhadas, por exemplo: a incapacidade de utilizar alguns monossacarídeos comuns (frutose e glicose) como fonte de carbono.
+
+
+==== RESISTÊNCIA A ANTIBIÓTICOS ====
+Eles exibem certa resistência contra o Metronidazol e/ou Trimetoprima que são medicamentos importantes para humanos. Alguma das bactérias podem manifestar resistência contra os dois tipos de antibióticos, outros somente um. 
+- Curiosamente, Thermomicrobium roseum e Thermorudis pharmacophila têm um crescimento aumentado tanto no metronidazol quanto no trimetoprima, uma característica rara até mesmo dentro de bactérias resistentes a antibióticos. 
+
+
+==== ESTRUTURA DE ENVELOPE CELULAR ====
+Mesmo que a maioria seja considerada Gram-negativa, os pertencentes desse grupo possuem uma grande diversidade de Coloração de Gram. O envelope das bactérias gram-negativa, como é o caso da Thermomicrobium roseum em que não possui quantidade significativa de peptidoglicano, sendo fundamental por ser rico em proteína, além disso apresentam uma membrana diol composta por cadeia longa de lipídios à base de glicerol; A composição lipídica de alta proteína e diol é responsável pela resistência ao calor dessas bactérias.
+
+
+== DSM 5159 - Thermomicrobium roseum ==
+
+
+===== Ecologia =====
+É uma das espécies mais conhecidas do grupo Thermomicrobia, foi isolada de uma fonte termal siliciosa alcalina localizada no Parque Nacional de Yellowstone. Não é um organismo disperso e seu ciclo de vida ainda está sendo estudado. Ainda não está claro qual pode ser seu impacto no meio ambiente porque foi encontrado em apenas uma área muito específica. Está se mostrando útil para ajudar a entender outros organismos na sempre ramificada Árvore da Vida, servindo como um novo organismo.
+
+
+===== Estrutura do Genoma =====
+O genoma completo tem cerca de 3 Mb, com o cromossomo sendo apenas 2 Mb e o megaplasmídeo pouco abaixo de 1 Mb, as células são pleomórficas e possuem um formato de bastonete dispostas em toda a bactéria em simples ou em pares. O genoma de T. roseum consiste em dois cromossomos circulares com alto conteúdo de bases nitrogenadas G (guanina) e C (citosina), em 64,3% do genoma.
+
+
+==== Estrutura celular, metabolismo e ciclo de vida ====
+As células da bactérias não são móveis, são Gram-negativas, além de serem extremamente termofílicas com temperaturas ótimas de 70-75 °C; apresenta pH ótimo variando de 8,2 a 8,5; Também é classificada como um quimioheterotrófico aeróbio, e tem uma parede celular incomum que não contém quase todos os peptidoglicanos; mas é composta de muitas outras proteínas, incluindo carotenóides, que dão às células  coloração. Além disso, também utilizam CO como sua principal fonte de elétrons e, por ser aeróbico, oxidam CO aerobicamente, algo diferente de qualquer outra bactéria termofílica gram-negativa. Há evidências de que, se o CO estiver presente, haverá um grande aumento no crescimento de T. roseum e eventual oxidação do CO para produzir CO2.
+
+
+== Thermomicrobium carboxidum  e Thermorudis peleae  (cepas KI3 T e KI4 T ) ==
+Essas duas bactérias são oxidantes de monóxido de carbono e foram encontradas de forma isolada de biofilme aquecido geotermicamente. São bactérias termofílicas Gram positivas formadoras de bastonetes, não formadoras de esporos encontras mais especificamente no tumulo na cratera do vulcão Kilauea ( Hawai, EUA).-  A cepa KI3 T cresceu em uma faixa de temperatura de 50-70 °C (sem crescimento a 80 °C) e uma faixa de pH de 6,0 a 9,0, com crescimento ótimo a 70 °C e pH 7,0.
+-  A cepa KI4 T cresceu a temperaturas de 55-70 °C e uma faixa de pH de 5,8 a 8,0, com crescimento ótimo a 65 °C e pH de 6,7 a 7,1. A análise da sequência do gene 16S rRNA determinou que as cepas pertencem à classe Thermomicrobia , e que as cepas
+- KI3 T e KI4 T estão mais relacionadas ao Thermomicrobium roseum DSM 5159 T (96,5 e 91,1% de similaridade, respectivamente).
+Uma semelhança da sequência do gene 16S rRNA entre a estirpe KI3 T e a estirpe KI4 T foi de 91,4%. Características fenotípicas e análises filogenéticas sustentaram a afiliação da linhagem KI3 T ao gênero Thermomicrobium , enquanto resultados de ensaios quimiotaxonômicos, fisiológicos e bioquímicos diferenciaram as linhagens KI3 T e KI4 T de Thermomicrobium roseum . Estirpe KI3 T é, assim, considerado como sendo a estirpe do tipo de uma nova espécie, para os quais o nome Thermomicrobium carboxidum  é proposto. Adicionalmente, a caracterização e posição filogenética da linhagem KI4 T mostrou que representa uma nova espécie de um novo gênero, para o qual o nome Thermorudis peleae  é proposto.
+
+
+== APRIMORANDO O CONHECIMENTO ==
+
+VÍDEO: Sobre as bactérias termófilas e hipertermófilas: https://www.youtube.com/watch?v=fk7wPu7Wkho
+NOTÍCIA: Bactéria torna fonte termal nos EUA em atração, VEJA: https://f5.folha.uol.com.br/estranho/947922-bacteria-torna-fonte-termal-nos-eua-em-atracao-veja-foto.shtml
+
+
+== Referências ==

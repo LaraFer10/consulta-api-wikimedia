@@ -1,0 +1,15 @@
+A proteína que interage com Msx2 é uma proteína que, em humanos, é codificada pelo gene SPEN. Este gene codifica um repressor de transcrição induzível por hormônio. A repressão da transcrição por esse produto gênico pode ocorrer por meio de interações com outros repressores, pelo recrutamento de proteínas envolvidas na desacetilação de histonas ou pelo seqüestro de ativadores da transcrição. O produto deste gene contém um domínio terminal carboxi que permite a ligação a outras proteínas corepressoras.
+
+
+== Interações ==
+Demonstrou-se que o SPEN interage com o HDAC1, SRA1 e co-repressor do receptor nuclear 2.
+
+
+== Mecanismos moleculares de inativação do cromossomo X ==
+Sabe-se que uma molécula chamada Xist (transcrição específica X-inativa) inicia o processo. Xist é um RNA longo não codificante - um tipo de molécula criada usando o DNA da célula como modelo, mas que não contém instruções para produzir uma proteína. Xist reveste o cromossomo a partir do qual é expresso e induz o silenciamento.A proteína SPEN desempenha um papel crucial no processo de inativação do cromossomo X, onde embriões de mamíferos fêmeas silenciam a expressão gênica em um de seus dois cromossomos X.  Xist mobiliza e liga SPEN, que se acumula ao longo do cromossomo X. O SPEN interage com as regiões reguladoras dos genes ativos. Assim que ocorre o silenciamento genético, o SPEN é desativado. Os genes permanecem inativos pelo resto da vida útil da célula. Um domínio específico do SPEN chamado SPOC desempenha o papel principal no silenciamento de genes. Ele reprime a transcrição do DNA para o RNA e interage com várias proteínas envolvidas na síntese do RNA, bem como na remodelação e modificação da cromatina.
+
+
+== Referências ==
+
+
+== Leitura adicional ==

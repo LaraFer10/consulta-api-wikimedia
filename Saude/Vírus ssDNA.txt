@@ -1,0 +1,22 @@
+Vírus ssDNA (do inglês, single - stranded DNA viruses) são vírus que possuem material genético constituído por DNA fita simples. No Sistema de Classificação de Baltimore, tais vírus pertencem ao grupo II, que compreende 7 famílias virais.
+
+
+== Características gerais ==
+Ao contrário do que é observado entre os vírus do grupo I (dsDNA), muitos dos quais apresentam os maiores genomas virais conhecidos, no grupo II são encontrados muitos dos vírus que têm os menores genomas já relatados. O genoma dos vírus ssDNA tem tamanho variando entre 1,8 Kb e 9 Kb, sendo a maioria com topologia circular (exceto Parvoviridade, que contém genoma linear). A presença de genomas segmentados só é observada em membros das famílias Nanoviridae (6-8 segmentos) e Geminiviridae (1-2 segmentos). Todas as famílias apresentam vírions não-envelopados, e a maior parte delas tem capsídeo com simetria icosaédrica (com exceção da família Inoviridade). No grupo II estão incluídos vírus que infectam vertebrados (incluindo humanos), invertebrados, plantas e bactérias. A replicação dos vírus ssDNA ocorre no núcleo (exceto para aqueles que infectam bactérias). Durante a cópia do material genético, a fita simples de DNA é utilizada para a produção de fita complementar, que serve de molde para a posterior síntese do genoma da progênie viral.
+
+
+== Classificação taxonômica dos vírus ssDNA ==
+Abaixo estão listadas as famílias que compõem o grupo II:
+
+
+=== Famílias sem ordem atribuída ===
+Anelloviridae
+Circoviridae
+Geminiviridae
+Inoviridae
+Microviridae
+Nanoviridae
+Parvoviridae
+
+
+== Referências ==

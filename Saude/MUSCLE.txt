@@ -1,0 +1,22 @@
+MUSCLE é frequentemente utilizado como um substituto para o Clustal, uma vez que normalmente (mas não sempre) dá melhor alinhamentos de seqüência e, além disso, o MUSCLE é significativamente mais rápido do que o Clustal, especialmente para alinhamentos maiores (Edgar 2004).
+MUSCLE está integrado a ferramenta de bioinformática UGENE como um plugin.
+
+
+== Ver também ==
+Clustal
+PHYLIP
+MEGA, Molecular Evolutionary Genetics Analysis
+PAUP
+T-Coffee
+MAFFT
+Filogenética computacional
+Árvore filogenética
+Filogenética
+
+
+== Ligações externas ==
+Sítio web oficial
+Servidor web MUSCLE
+
+
+== Referências ==

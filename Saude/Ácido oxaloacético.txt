@@ -1,0 +1,5 @@
+O ácido oxaloacético é um composto orgânico cristalino cuja fórmula química é HO2CC(O)CH2CO2H. É um ácido dicarboxílico de quatro carbonos e sua base conjugada é chamada de oxaloacetato.
+O oxaloacetato é um composto intermediário no ciclo de Krebs e na gliconeogênese. É formado pela oxidação do L-malato, catalisado pela enzima malato desidrogenase e reage com o acetil-CoA para formar citrato, catalisado, por sua vez, pela citrato sintase.
+O oxaloacetato também se forma no mesofilo de plantas pela condensação do CO2 com o fosfoenol piruvato, catalisado pela oxaloacetato descarboxilase. Pode ainda originar-se do piruvato via reação anaplerótica.
+A forma de enol do ácido oxaloacético é particularmente estável, em razão de os dois isômeros possuírem diferentes pontos de fusão (152 °C cis, 184 °C trans). Sua constante de acidez (pKa) é de 13,02. A enzima fumarase A da E. coli catalisa a conversão da forma cetona para a forma enol do oxaloacetato.
+O ácido oxaloacético é instável em solução, decompondo-se em ácido pirúvico através da descarboxilação, num período que pode durar horas (temperatura ambiente) ou dias (0 °C).

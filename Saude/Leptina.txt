@@ -1,0 +1,74 @@
+A leptina é um hormônio peptídico com um peso molecular de 16 kDa, que apresenta uma estrutura terciária semelhante a alguns membros da família das citocinas. É produzida principalmente pelos adipócitos ou células gordurosas, sendo que sua concentração varia de acordo com a quantidade de tecido adiposo. Na obesidade, ocorre uma diminuição da sensibilidade à leptina (semelhante à resistência à insulina no diabetes tipo 2), resultando na incapacidade de detectar saciedade apesar dos altos estoques de energia e altos níveis de leptina. Os animais que não produzem leptina tornam-se extremamente obesos (p. 298 Bear, Connors, Paradiso - Neurociências). Além de seu conhecido efeito sobre o controle do apetite, evidências atuais demonstram que a leptina está envolvida no controle da massa corporal, reprodução, angiogênese, imunidade, cicatrização e função cardiovascular.
+
+
+== História ==
+O nome leptina vem do grego leptos, magro. A primeira indicação de sua existência se deu em estudos sobre obesidade feitos em camundongos.
+A leptina foi descoberta oficialmente mais tarde, em dezembro de 1994 no laboratório do cientista Jeffrey Friedman da Universidade Rockefeller em Nova Iorque, por meio de uma técnica denominada positional cloning .
+
+
+== Composição ==
+A leptina é uma proteína composta por 167 aminoácidos . Tem um peso molecular de aproximadamente 16kDa e possui uma estrutura terciária com um conjunto de quatro hélices. Possui uma estrutura semelhante às citocinas, do tipo interleucina 2 (IL-2).
+
+
+== Produção ==
+O tecido adiposo branco é responsável pela maior parte da leptina produzida pelo organismo. Outros órgãos produzem leptina em menor quantidade: epitélio gástrico (estômago), trofoblasto placentário (placenta), tecido adiposo marrom (11-13), músculo esquelético e glândula mamária  . Seu pico de liberação ocorre durante a noite e às primeiras horas da manhã, e sua meia-vida plasmática é de 30 minutos . Os mecanismos bioquímicos e moleculares relacionados à síntese e à secreção deste peptídeo não estão, no entanto, completamente definidos .
+No ser humano, o gene da leptina localiza-se no cromossomo 7q31, sendo produzida essencialmente pelo adiposo branco e preto .
+
+
+== Fatores que afetam a concentração plasmática de leptina ==
+A expressão da leptina é controlada por diversas substâncias, como a insulina, os glicocorticóides e as citocinas pró-inflamatórias. A concentração plasmática de leptina está parcialmente relacionada ao tamanho da massa de tecido adiposo presente no corpo.
+Situações de estresse impostas ao corpo são fatores que, entre outros, diminuem a produção de leptina (diminuição da expressão do gene da leptina e eventual queda nas concentrações plasmáticas da proteína (17, 18)):
+
+Jejum prolongado
+Exercício físico moderado ou intenso
+Exposição ao frio
+FumoSão fatores que aumentam a produção de leptina (estimulam a transcrição do gene e a produção de leptina (19-21)) :
+
+Alimentação após jejum
+Glicocorticóides
+Insulina
+Estados infecciosos e endotoxinas (elevam a concentração plasmática de leptina)
+Sexo: mulheres possuem maior concentração plasmática de leptina que os homens
+
+
+== Ação ==
+A leptina age a partir da ativação de dois receptores específicos presentes nos órgãos alvos:
+
+O ObRb, de cadeia longa (maior quantidade de aminoácidos), com maior expressão no hipotálamo.
+Os receptores de cadeia curta (menor quantidade de aminoácidos), ObRa, encontrados em outros órgãos como o pâncreas, e mais especificamente nas células 
+  
+    
+      
+        α
+      
+    
+    {\displaystyle \alpha }
+   e 
+  
+    
+      
+        δ
+      
+    
+    {\displaystyle \delta }
+   das ilhotas de Langerhans.
+
+
+== Função ==
+A leptina é responsável pelo controle da ingestão alimentar. Entretanto, além desta função mais relevante e mais estudada, alguns estudos a relacionam à regulação de outros mecanismos biológicos, como reprodução, resposta imune e inflamatória, hematopoiese, angiogénese e formação óssea.
+
+
+=== Leptina no controle da ingestão alimentar ===
+
+A leptina é responsável pelo controle da ingestão alimentar. A ação da leptina no sistema nervoso central (hipotálamo), em mamíferos, reduz a ingestão alimentar, aumenta o gasto energético e regula a função neuroendócrina e o metabolismo da glicose e de gorduras . Em outras palavras, a leptina reduz o apetite ao informar o cérebro que os estoques de energia em forma de gordura estão adequados através da inibição da formação de neuropeptídeos relacionados ao apetite. Do lado oposto, baixos níveis de leptina induzem hiperfagia .
+Na tentativa de demonstrar esses resultados mencionados matematicamente, teoria de controle foi aplicada . Basicamente, leptina foi usada como o sinal de controle, e foi simulado duas hipótese classicamente aplicadas para explicar controle de peso: teoria do ponto fixo e teoria do ponto de acomodação. Como pode ser visto do artigo e referências, como , resultados interessantes foram encontrados. Como destacado ,, apesar do sucesso do modelo matemático, existe muito ainda por fazer.
+
+
+=== Leptina na reprodução ===
+Os estudos em humanos demonstram existir relações importantes entre as concentrações de leptina plasmática e o processo de puberdade feminino: o aumento de leptina sanguínea apresentou correlação inversamente proporcional à idade de primeira menstuação (menarca). Além disso, baixas concentrações de leptina plasmática (comuns em mulheres atletas) estão diretamente ligadas à desregulação do sistema reprodutor. 
+
+
+== Referências ==
+
+
+== Notas ==

@@ -1,0 +1,82 @@
+O computador de DNA é uma variante do computador que utiliza o DNA e a biologia molecular ao invés das tecnologias tradicionais baseadas em silício.
+
+
+== Fundo histórico ==
+
+
+=== Início ===
+A ideia de criar um computador de DNA surgiu da necessidade de resolver problemas combinatórios com mais eficiência. A primeira implementação de tal sistema foi descrito no artigo da Revista Science “Computação Molecular de Soluções para Problemas Combinatórios”, de Leonard Adleman, da University of Southern California, em Novembro de 1994. O artigo tratava da resolução do problema do caminho hamiltoniano através de computação por DNA.
+
+
+=== História recente ===
+Pesquisadores da Universidade de Rochester desenvolveram em 2020, um computador usando 32 fitas de DNA para armazenar e processar informações. Foi demonstrado que esse computador de DNA através do desenvolvimento de um circuito lógico de raiz quadrada de 10 bits. Esse sistema de biocomputação de DNA de alta capacidade pode calcular a raiz quadrada de números até 900.
+
+
+== O problema do caminho hamiltoniano ==
+O problema do caminho hamiltoniano trata de um diagrama de pontos no qual o objetivo é encontrar um caminho do início (A) até o final (G) passando por todos os demais pontos apenas uma vez. Este problema, apesar de visualmente simples (ABCDEFG), é difícil para um computador tradicional. O motivo é a forma como o computador analisa as opções, checando uma a uma as possibilidades. O computador de DNA pode traçar todos os caminhos ao mesmo tempo, economizando uma quantidade enorme de passos.
+
+
+=== A solução do problema ===
+O seguinte algoritmo resolve o problema do caminho Hamiltoniano: 
+
+Faça caminhos aleatórios;
+Selecione caminhos que comecem em A e terminem em G;
+Se n é o número de pontos então o caminho solução deve passar por n pontos (n, no nosso caso, é 7);
+Selecione caminhos que passem por todos os pontos em apenas uma vez.
+Obtemos a solução.A chave para resolver o problema foi o uso de DNA para representar os cinco passos do algoritmo.
+
+
+== Silício x DNA ==
+Moléculas de DNA são ideais para a elaboração de um computador molecular. São eficientes e muito compactas. Para efeitos de comparação, uma fita de DNA contém todas as informações para que uma célula se mantenha viva e, no entanto, a fita constitui apenas 0,3% do volume do núcleo da célula. O DNA acumula 100 trilhões de vezes a informação armazenada nos mais sofisticados sistemas de computação atual[carece de fontes?]. Num computador de DNA, um número estratosférico de moléculas (algo em torno de 10 elevado a 10) podem trabalhar simultaneamente para efetuar um cálculo.
+Os computadores de silício tradicionais são muito mais rápidos mas calculam sempre um número por vez, além de gerar um gasto energético considerável. O computador de DNA, por outro lado, embora lento, pode realizar cálculos com simultaneidade de bilhões de moléculas, além de serem muito mais eficientes do ponto de vista energético.
+
+
+=== Do 0 e 1 ao ATGC ===
+Uma importante similaridade entre computadores de silício e os de DNA é que tanto um quanto outro se baseia em informação. No caso dos computadores atuais, existe uma codificação binária baseada em séries de uns e zeros. O DNA é formado por quatro nucleotídeos: Adenina, Timina, Citosina, Guanina, também numa série organizada. A informação, portanto, pode ser manipulada de forma semelhante no DNA à forma como trabalhamos nos computadores atuais, aplicando a mesma lógica da máquina de Turing.
+
+
+=== A máquina de Turing ===
+Uma máquina de Turing recebe códigos em sequência binária, 0101110011, e executa quatro operações distintas para processar uma resposta: Transformar 1 em 0, 0 em 1, mover para frente ou mover para trás na sequência de informações. Todo computador digital, por mais rápido que seja ou por mais complexo que se organize, não pode computar qualquer coisa que uma máquina de Turing não possa.
+Da mesma forma, a molécula de DNA é composta por uma série ordenada de nucleotídeos. É possível, portanto, converter os códigos binários em códigos de DNA. Poderíamos estabelecer, por exemplo, que 
+  
+    
+      
+        A
+        T
+        A
+        C
+        G
+        =
+        1
+      
+    
+    {\displaystyle ATACG=1}
+   e 
+  
+    
+      
+        T
+        A
+        C
+        C
+        G
+        =
+        0
+      
+    
+    {\displaystyle TACCG=0}
+  . E então, através de processos químicos, usando enzimas de restrição e reações em cadeia polimerase para produzir sequências de DNA, é possível reproduzir todas as operações de uma máquina de Turing. Desenvolvida a tecnologia, estima-se que meio quilo de moléculas de DNA (suspensas em  mil litros de liquido, que ocuparia cerca de um metro cúbico) poderia armazenar mais memória que todos os computadores já fabricados.
+Teria cem trilhões de vezes a capacidade do cérebro humano. Além disso, meros 28 gramas de DNA poderiam ser cem mil vezes mais rápidos que o supercomputador mais rápido dos Estados Unidos.
+
+
+== Aplicação biológica ==
+Um computador de DNA poderá um dia ser capaz de identificar e tratar doenças como o câncer. O professor Ehud Shapiro e pesquisadores do Instituto Weizmann, de Israel, criaram o menor computador biomolecular há alguns anos. Agora, conseguiram programá-lo para analisar, identificar e tratar câncer de próstata e uma forma de câncer de pulmão.
+"Nós pegamos nosso computador molecular inicial e acrescentamos um módulo de entrada e saída. Com isso o computador pode diagnosticar uma doença e, em resposta, produzir drogas para combater o problema em tubo de ensaio", disse Shapiro[carece de fontes?].
+O computador é tão minúsculo que um trilhão deles ocupam o espaço de uma gota d'água. O software é feito em moléculas de DNA, que guardam e processam informações codificadas sobre organismos vivos. "Nosso trabalho representa a primeira prova do conceito e a primeira demonstração de uma aplicação real para este tipo de computador", comentou Shapiro.
+
+
+== Referências ==
+
+
+== Ver também ==
+Computação paralela

@@ -1,0 +1,18 @@
+Perforina é uma proteína efetora citotóxica formadora de poros, expressa especificamente em células T citotóxicas.Tais proteínas são armazenadas na sua forma ativa em em grânulos citotóxicos e só é liberada a exercer sua função após o reconhecimento do antígeno na superfície de uma célula-alvo. Suas moléculas se agrupam na superfície na membrana plasmática da célula alvo, formando um canal que possibilita a transferência de enzimas proteolíticas situadas em células de defesa. Em humanos é codificada pelo gene PRF1 (pore forming protein). Está presente em tipos de células T, como os linfócitos T citotóxicos (LTC) e em células NK.
+
+
+== Função ==
+Os linfócitos T citotóxicos liberam moléculas de perforina por meio de exocitose ao entrar em contato direto com a célula-alvo, envolvendo interação específica desses linfócitos ao complexo peptídeo antigênico/ MHC na célula-alvo. Essas moléculas formam poros na membrana plasmática das células infectadas por um vírus, ou em células bacterianas, causando sua lise (destruição).
+Estudo publicado na revista científica Nature revelou que a perforina possibilita a entrada de enzimas proteases pró-apoptóticas conhecidas como granzimas em células cancerígenas ou que foram infectadas por algum vírus, o que causa sua morte.[1]
+As altas concentrações de Ca2+ nos fluidos extracelulares libera os grânulos citotóxicos, que é a forma ativa das perforinas, facilitando a localização dessas proteínas efetoras em canais transmembrana na membrana plasmática da célula-alvo. Os canais permitem que as enzimas proteolíticas entrem para o citosol da célula-alvo. Uma destas enzimas, a granzima B, cliva a proteína Bid para produzir a forma truncada tBid, a qual libera o citocromo c da mitocôndria, iniciando a cascata de caspases e levando à apoptose. As vesículas secretoras também contêm serina-proteases que, aparentemente, penetram o citosol da célula-alvo através dos canais de perforina.
+
+
+==== Grânulos Citotóxicos ====
+          Os grânulos citotóxicos são lisossomas modificados produzidos pelos linfócitos T e são os principais responsáveis pela ação dessas células de defesa. Neles são contidas pelo menos três tipos de proteínas: perforinas, granzimas e granulisinas. Acredita-se que haja uma formação de complexos multiméricos entre perforinas e granzimas, por ação do proteoglicano serglicina. Estima-se que esses complexos nas células-alvo se associam e entram na membrana de maneira similar ao mecanismo dos vírus, de forma que as perforinas ajam como translocadores de granzimas. Uma vez que as granzimas chegam ao citoplasma, eles atuam na cascata apoptótica ativando a caspase-3, que por sua vez desencadeia mecanismos proteolíticos os quais levam a célula à morte.
+
+
+== Notas e referências ==
+
+
+== Ligações externas ==
+The structural basis for membrane binding and pore formation by lymphocyte perforin

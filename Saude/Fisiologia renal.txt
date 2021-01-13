@@ -1,0 +1,832 @@
+Fisiologia renal é o estudo da fisiologia dos rins. A unidade funcional do rim é o néfron. O sangue da arteríola aferente entra no glomérulo, onde parte é filtrado e parte sai do glomérulo pela arteríola eferente. O ultrafiltrado glomerular passa pelos túbulos do néfron, onde ocorre seu processamento através de reabsorção e secreção. Ao sair do Ducto coletor pelas papilas renais, entrando na pelve renal, o fluido já pode ser chamado de urina, já que as demais vias urinárias não processam o fluido. Este artigo foca na visão geral da fisiologia renal humana.
+
+
+== Filtração ==
+A formação da urina tem inicio no glomérulo, onde 20% do plasma que entra no rim, através da artéria renal, são filtrados devido à pressão hidrostática do sangue nos capilares glomerulares. Os 80% de plasma restante, que não foram filtrados, circulam ao longo dos capilares glomerulares, atingindo a arteríola eferente, se dirigindo para a circulação capilar peritubular.
+O filtrado é um fluido de composição semelhante à do plasma, porém com poucas proteínas e macromoléculas, uma vez que o tamanho dessas substâncias dificulta sua filtração através da parede do glomérulo renal. Portanto, diz-se que por uma barreira de filtração glomerular normal não passa nenhuma molécula com peso molecular acima de 60 kiloDaltons, condição que pode ser alterada por doenças glomerulares (como a síndrome nefrítica e a síndrome nefrótica).
+
+
+== Processamento tubular ==
+
+Após sua formação, o filtrado glomerular caminha pelos túbulos renais e sua composição e volume são então modificados pelos mecanismos de reabsorção tubular (processo de transporte de uma substancia do interior tubular para o sangue que envolve o túbulo) e secreção tubular (processo no sentido inverso da reabsorção tubular) existentes ao longo do néfron.
+Portanto, o processo de depuração renal, além de se dar pela filtração glomerular, pode também ser feito por meio da secreção tubular, uma vez que o sangue que passou pelos glomérulos e não foi filtrado atravessa uma segunda rede capilar, peritubular. Por outro lado, graças à reabsorção tubular, muitas substâncias depois de filtradas voltam ao sangue que percorre os capilares peritubulares, entrando na circulação sistêmica pela veia renal que sai do órgão.
+A reabsorção e a secreção dos vários solutos através do epitélio renal são feitas por mecanismos específicos, passivos ou ativos, localizados nas membranas da célula tubular. Todos os sistemas de transporte são interdependentes.
+Como exemplo, um importante mecanismo como a reabsorção tubular do sódio, que utiliza grande fração do suprimento energético total do rim, exerce significativa influencia no gradiente eletroquímico através do epitélio tubular, o qual passa a afetar o transporte dos demais solutos pela parede tubular. Adicionalmente a reabsorção do sódio e do cloreto, os mais abundantes solutos existentes no filtrado glomerular, estabelece gradientes osmóticos através do epitélio tubular que permitem a reabsorção passiva de água. Esta passa do interstício para a circulação peritubular por meio de um balanço entre as pressões oncótica (exercida pelas proteínas plasmáticas) e hidrostática existentes no interior dos capilares peritubulares. A reabsorção de água aumenta a concentração dos solutos no liquido remanescente no lúmen tubular; portanto, a reabsorção de água modifica o gradiente químico responsável pelo transporte passivo de determinados solutos através do epitélio, como no caso da ureia. Além disso, o gradiente eletroquímico de sódio pode prover energia necessária para o transporte de outras substancias, como glicose e aminoácidos. Em vista disso, a inibição ou a estimulação da reabsorção de sódio, por certos hormônios ou drogas, causa alterações no transporte dos demais solutos.
+Ao longo do néfron, uma série de forças atua no sentido de modificar a concentração das substancias presentes no filtrado glomerular, variando a quantidade de solutos que são excretados na urina final. A reabsorção de água tende a aumentar a concentração de todos os solutos do fluido tubular, havendo alguns cuja concentração intratubular varia apenas em função desse processo, não sendo reabsorvidos nem secretados. Nesse caso a quantidade de soluto filtrado é igual à excretada na urina final. Entretanto, a maioria dos constituintes naturais do filtrado é reabsorvida ao longo do túbulo e volta ao sangue, sendo sua quantidade filtrada maior que a excretada; porém, sua concentração na urina final pode ser maior ou menor que a no filtrado glomerular, dependendo da quantidade de água que for reabsorvida nos túbulos.
+
+
+== Composição da urina ==
+
+A composição da urina difere da do fluido extracelular em vários aspectos. Em um individuo normal, embora a composição e o volume do fluido extracelular se mantenham dentro de estreitos limites, a quantidade de solutos e água da urina é bastante variável e depende da ingestão dessas substancias. Um indivíduo normal excreta mais sódio na urina quando sua dieta é mais elevada em sal do que quando esta é baixa; porém em ambas as situações o equilíbrio entre ingestão e excreção de sódio é mantido. Similarmente, o volume urinário é maior em condições de sobrecarga de água que de restrição a mesma. Essas relações indicam que não existem valores normais absolutos para a excreção urinaria de água e solutos, havendo uma gama de variações que reflete a ingestão diária.
+
+
+== Funções renais gerais ==
+A participação do rim na manutenção do meio interno do organismo se dá por meio dos seguintes processos:
+
+Regulação do volume extracelular (através do balanço de Sódio)Regulação da osmolaridade (através do balanço de água livre)Controle do balanço eletrolíticoRegulação do equilíbrio ácido-baseConservação de nutrientesExcreção de resíduos metabólicos e de substâncias estranhasRegulação da hemodinâmica renal e sistêmicaParticipação na produção dos glóbulos vermelhos (produção de Eritropoetina pela medula renal, induzida por baixa pO2)Participação na regulação do metabolismo ósseo de cálcio e fosforo (além do processamento renal, rim produz Vitamina D)
+
+
+== Classificação de substâncias pelo processamento renal ==
+1. Substâncias filtradas, não secretadas e não reabsorvidas (quantidade filtrada = quantidade excretada):
+
+Inulina
+Creatinina (Obs: creatinina é um pouco secretada)2. Substâncias filtradas, não secretadas e reabsorvidas parcialmente (quantidade filtrada < quantidade excretada)
+
+Ureia
+Sódio3. Substâncias filtradas, parcialmente reabsorvidas, parcialmente secretadas
+
+Potássio4. Substâncias filtradas, reabsorvidas totalmente e não secretadas (Clearance renal = zero):
+
+Glicose (em pessoas com níveis de glicose abaixo de 180 mg/dL)
+Aminoácidos5. Substâncias filtradas, não reabsorvidas e secretadas totalmente (maior clearance possível)
+
+Para amino-hipurato (PAH)Obs: a lista contém apenas exemplos, não todas as móleculas ou os íons de cada uma das categorias citadas
+
+
+== Clearance Renal ==
+
+O Clearance de uma substância A pode ser entendido como o "quanto de plasma (virtualmente) ficou livre da substância A em determinado tempo". Sua unidade de medida é, portanto, volume/tempo, sendo que é comum expressá-lo como mL/min ou L/dia
+
+  
+    
+      
+        C
+        l
+        =
+        
+          
+            M
+            
+              [
+              A
+              
+                ]
+                
+                  p
+                  l
+                  a
+                  s
+                  m
+                  a
+                
+              
+            
+          
+        
+      
+    
+    {\displaystyle Cl={\frac {M}{[A]_{plasma}}}}
+  
+
+ Cl  = Clearance (volume/tempo)
+ M  = Massa removida em determinado tempo (massa/tempo)
+ [A]plasma = Concentração de A no plasma (massa/volume)Podemos expressar a massa removida da seguinte maneira:
+
+  
+    
+      
+        M
+        =
+        
+          F
+          
+            u
+          
+        
+        ⋅
+        [
+        A
+        
+          ]
+          
+            u
+            r
+            i
+            n
+            a
+          
+        
+      
+    
+    {\displaystyle M=F_{u}\cdot [A]_{urina}}
+  
+
+ M  = Massa removida em determinado tempo (massa/tempo)
+ Fu  = Fluxo urinário (volume/tempo)
+ [A]urina = Concentração na A na urina (massa/volume)Dessa forma, a fórmula do clearance pode ser reescrita como sendo:
+
+  
+    
+      
+        C
+        
+          l
+          
+            A
+          
+        
+        =
+        
+          
+            
+              
+                F
+                
+                  u
+                
+              
+              ⋅
+              [
+              A
+              
+                ]
+                
+                  u
+                  r
+                  i
+                  n
+                  a
+                
+              
+            
+            
+              [
+              A
+              
+                ]
+                
+                  p
+                  l
+                  a
+                  s
+                  m
+                  a
+                
+              
+            
+          
+        
+      
+    
+    {\displaystyle Cl_{A}={\frac {F_{u}\cdot [A]_{urina}}{[A]_{plasma}}}}
+  
+
+ ClA  = Clearance renal de A (volume/tempo)
+ [A]plasma = Concentração de A no plasma (massa/volume)
+ Fu  = Fluxo urinário (volume/tempo)
+ [A]urina = Concentração de A na urina (massa/volume)
+
+
+=== Considerações sobre o uso de creatinina para o cálculo da RFG ===
+
+Como a creatinina é um pouco secretada (como veremos posteriormente, FEcreatinina ≅ 1,05), o valor de RFG calculado será um pouco maior que o normal. A defasagem entre o valor real de RFG e o valor de RFG obtido pelo uso de creatinina no cálculo aumenta a medida em que o valor real de RFG é menor. Assim, o uso de creatinina no cálculo pode superestimar o valor de RFG em pacientes com Insuficiência Renal, o que pode ter consequências para seu tratamento. Por sorte, o método colorimétrico de obtenção da concentração plasmática de creatinina geralmente também superestima o valor real dessa concentração. Portanto, em geral esses dois efeitos se cancelam.
+
+A ingestão aumentada de carne ou doenças que cursam com destruição de tecido muscular podem alterar os valores plasmáticos de creatinina no paciente, já que a creatinina é um metabólito da fosfocreatinina.
+
+
+== Cálculo do Fluxo Plasmático Renal: o caso especial do Clearance do PAH ==
+Como mencionado anteriormente, o PAH é uma substância filtrada, não reabsorvida e totalmente secretada, de modo que a massa de PAH que chega aos rins é a mesma massa que é excretada na urina. Matematicamente, tem-se:
+
+  
+    
+      
+        M
+        a
+        s
+        s
+        a
+         
+        d
+        e
+         
+        P
+        A
+        H
+         
+        q
+        u
+        e
+         
+        c
+        h
+        e
+        g
+        a
+         
+        a
+        o
+        s
+         
+        r
+        i
+        n
+        s
+        =
+        M
+        a
+        s
+        s
+        a
+         
+        d
+        e
+         
+        P
+        A
+        H
+         
+        e
+        x
+        c
+        r
+        e
+        t
+        a
+        d
+        a
+         
+        n
+        a
+         
+        u
+        r
+        i
+        n
+        a
+      
+    
+    {\displaystyle Massa\ de\ PAH\ que\ chega\ aos\ rins=Massa\ de\ PAH\ excretada\ na\ urina}
+  
+
+  
+    
+      
+        F
+        P
+        R
+        ⋅
+        [
+        P
+        A
+        H
+        
+          ]
+          
+            p
+            l
+            a
+            s
+            m
+            a
+          
+        
+        =
+        
+          F
+          
+            u
+          
+        
+        ⋅
+        [
+        P
+        A
+        H
+        
+          ]
+          
+            u
+            r
+            i
+            n
+            a
+          
+        
+      
+    
+    {\displaystyle FPR\cdot [PAH]_{plasma}=F_{u}\cdot [PAH]_{urina}}
+  
+
+  
+    
+      
+        F
+        P
+        R
+        =
+        
+          
+            
+              
+                F
+                
+                  u
+                
+              
+              ⋅
+              [
+              P
+              A
+              H
+              
+                ]
+                
+                  u
+                  r
+                  i
+                  n
+                  a
+                
+              
+            
+            
+              [
+              P
+              A
+              H
+              
+                ]
+                
+                  p
+                  l
+                  a
+                  s
+                  m
+                  a
+                
+              
+            
+          
+        
+      
+    
+    {\displaystyle FPR={\frac {F_{u}\cdot [PAH]_{urina}}{[PAH]_{plasma}}}}
+  
+∴ 
+  
+    
+      
+        F
+        P
+        R
+        =
+        C
+        
+          l
+          
+            P
+            A
+            H
+          
+        
+      
+    
+    {\displaystyle FPR=Cl_{PAH}}
+  
+
+ FPR  = Fluxo plasmático renal (volume/tempo)
+ [PAH]plasma = Concentração de PAH no plasma (massa/volume)
+ [PAH]urina = Concentração de PAH na urina(massa/volume)
+ Fu = Fluxo urinário (volume/tempo)
+ ClPAH = Clearance renal de PAH (volume/tempo)Portanto, utiliza-se PAH em pesquisa básica para determinar o Fluxo Plasmático Renal em animais de laboratório.
+
+
+== Cálculo do Ritmo de Filtração Glomerular: o caso especial da inulina ==
+De modo semelhante ao que foi feito anteriormente para o cálculo do FPR, o Ritmo de Filtração Glomerular (RFG) pode ser calculado a partir do clearance de uma substância exógena. No caso, utiliza-se a inulina, uma substância filtrada que não sofre qualquer tipo de processamento tubular. Desse modo, a massa de inulina filtrada é igual à massa de inulina excretada na urina. Utilizando equações análogas àquelas mostradas na seção anterior, é possível concluir que:
+
+  
+    
+      
+        R
+        F
+        G
+        =
+        C
+        
+          l
+          
+            i
+            n
+            u
+            l
+            i
+            n
+            a
+          
+        
+      
+    
+    {\displaystyle RFG=Cl_{inulina}}
+  
+
+ RFG = Ritmo de filtração glomerular (volume/tempo)
+ Clinulina = Clearance renal de inulina (volume/tempo)Considera-se que o valor normal para o RFG é de 120 mL/min. 
+É importante destacar que a inulina não tem relevância na prática clínica, mas sim em pesquisa básica. Na clínica, utiliza-se o Clearance de creatinina para determinar o RFG aproximado. O valor não será tão preciso como no caso da inulina, pois a creatinina é um pouco secretada nos túbulos.
+
+
+== Cálculo da Fração de Excreção ==
+A Fração de Excreção de uma substância A pode ser definida matematicamente como:
+
+  
+    
+      
+        F
+        
+          E
+          
+            A
+          
+        
+        =
+        
+          
+            
+              M
+              
+                A
+                 
+                e
+                x
+                c
+                r
+                e
+                t
+                a
+                d
+                a
+              
+            
+            
+              M
+              
+                A
+                 
+                f
+                i
+                l
+                t
+                r
+                a
+                d
+                a
+              
+            
+          
+        
+      
+    
+    {\displaystyle FE_{A}={\frac {M_{A\ excretada}}{M_{A\ filtrada}}}}
+   
+
+ FEA = Fração de excreção de A (adimensional)
+ MA excretada = Massa de A excretada (massa)
+ MA filtrada' = Massa de A filtrada (massa)O valor da massa filtrada não pode ser determinado diretamente. Contudo, ainda é possível determinar a Fração de excreção de A a partir da manipulação matemática da fórmula acima:
+
+  
+    
+      
+        F
+        
+          E
+          
+            A
+          
+        
+        =
+        
+          
+            
+              M
+              
+                A
+                 
+                e
+                x
+                c
+                r
+                e
+                t
+                a
+                d
+                a
+              
+            
+            
+              M
+              
+                A
+                 
+                f
+                i
+                l
+                t
+                r
+                a
+                d
+                a
+              
+            
+          
+        
+      
+    
+    {\displaystyle FE_{A}={\frac {M_{A\ excretada}}{M_{A\ filtrada}}}}
+   
+
+ FEA = Fração de excreção de A (adimensional)
+ MA excretada = Massa de A excretada (massa)
+ MA filtrada' = Massa de A filtrada (massa)
+  
+    
+      
+        F
+        
+          E
+          
+            A
+          
+        
+        =
+        
+          
+            
+              
+                F
+                
+                  u
+                
+              
+              ⋅
+              [
+              A
+              
+                ]
+                
+                  u
+                  r
+                  i
+                  n
+                  a
+                
+              
+            
+            
+              [
+              A
+              
+                ]
+                
+                  p
+                  l
+                  a
+                  s
+                  m
+                  a
+                
+              
+              ⋅
+              R
+              F
+              G
+            
+          
+        
+      
+    
+    {\displaystyle FE_{A}={\frac {F_{u}\cdot [A]_{urina}}{[A]_{plasma}\cdot RFG}}}
+   
+
+ FEA = Fração de excreção de A (adimensional)
+ Fu = Fluxo urinário (volume/tempo)
+ [A]plasma = Concentração de A no plasma (massa/volume)
+ [A]urina = Concentração de A na urina (massa/volume)
+ RFG = Ritmo de filtração glomerular (volume/tempo)Como determinamos anteriormente, 
+  
+    
+      
+        C
+        
+          l
+          
+            A
+          
+        
+        =
+        
+          
+            
+              
+                F
+                
+                  u
+                
+              
+              ⋅
+              [
+              A
+              
+                ]
+                
+                  u
+                  r
+                  i
+                  n
+                  a
+                
+              
+            
+            
+              [
+              A
+              
+                ]
+                
+                  p
+                  l
+                  a
+                  s
+                  m
+                  a
+                
+              
+            
+          
+        
+      
+    
+    {\displaystyle Cl_{A}={\frac {F_{u}\cdot [A]_{urina}}{[A]_{plasma}}}}
+  . Ainda, 
+  
+    
+      
+        R
+        F
+        G
+        =
+        C
+        
+          l
+          
+            i
+            n
+            u
+            l
+            i
+            n
+            a
+          
+        
+      
+    
+    {\displaystyle RFG=Cl_{inulina}}
+  . Logo:
+
+  
+    
+      
+        F
+        
+          E
+          
+            A
+          
+        
+        =
+        
+          
+            
+              C
+              
+                l
+                
+                  A
+                
+              
+            
+            
+              C
+              
+                l
+                
+                  i
+                  n
+                  u
+                  l
+                  i
+                  n
+                  a
+                
+              
+            
+          
+        
+      
+    
+    {\displaystyle FE_{A}={\frac {Cl_{A}}{Cl_{inulina}}}}
+  
+
+ FEA = Fração de excreção de A (adimensional)
+ ClA = Clearance renal de A (volume/tempo)
+ Clinulina = Clearance renal de inulina (volume/tempo)Ou então
+
+  
+    
+      
+        F
+        
+          E
+          
+            A
+          
+        
+        =
+        
+          
+            
+              [
+              A
+              
+                ]
+                
+                  u
+                  r
+                  i
+                  n
+                  a
+                
+              
+              
+                /
+              
+              [
+              A
+              
+                ]
+                
+                  p
+                  l
+                  a
+                  s
+                  m
+                  a
+                
+              
+            
+            
+              [
+              i
+              n
+              u
+              l
+              i
+              n
+              a
+              
+                ]
+                
+                  u
+                  r
+                  i
+                  n
+                  a
+                
+              
+              
+                /
+              
+              [
+              i
+              n
+              u
+              l
+              i
+              n
+              a
+              
+                ]
+                
+                  p
+                  l
+                  a
+                  s
+                  m
+                  a
+                
+              
+            
+          
+        
+      
+    
+    {\displaystyle FE_{A}={\frac {[A]_{urina}/[A]_{plasma}}{[inulina]_{urina}/[inulina]_{plasma}}}}
+  
+
+ FEA = Fração de excreção de A (adimensional)
+ [A]plasma = Concentração de A no plasma (massa/volume)
+ [A]urina = Concentração de A na urina (massa/volume)
+ [inulina]plasma = Concentração de inulina no plasma (massa/volume)
+ [inulina]urina = Concentração de inulina na urina (massa/volume)
+Se FEA > 1, o efeito final do processamento tubular sobre A é de secreção (não significa necessariamente que não há reabsorção; se houver, a secreção é maior).
+Se FEA < 1, o efeito final do processamento tubular sobre A é de reabsorção (não significa necessariamente que não há secreção; se houver, a rebasorção é maior).
+Se FEA = 1, o efeito final do processamento tubular sobre A é nulo (em teoria, pode ser que haja reabsorção e secreção em níveis idênticos; contudo, a conclusão mais provável é que não há processamento tubular sobre A nesse caso). 
+Pode-se obter resultados aproximados com a utilização da creatinina no lugar da inulina. Porém, não será preciso pois a creatinina é levemente secretada. Podemos provar isso ao obtermos o valor de FEcreatinina, que é aproximadamente 1,05.

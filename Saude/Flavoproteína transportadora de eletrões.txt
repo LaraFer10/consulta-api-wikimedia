@@ -1,0 +1,15 @@
+Flavoproteínas transportadoras de electrões (ETF, em inglês) servem como aceitadores de electrões específicos para as hidrogenases primárias, transferindo electrões para sistemas respiratórios terminais tal como a flavoproteína transportadora de electrões desidrogenase. Podem ser funcionalmente classificadas em ETFs constitutivas, principalmente envolvidas na oxidação de ácidos gordos (grupo I), e ETFs produzidas por alguns procariontes em condições de crescimento específicas, recebendo electrões apenas da oxidação de substratos específicos (grupo II).As ETFs são proteínas heterodiméricas compostas por uma subunidade alfa e uma subunidade beta, e contém um cofactor FAD e AMP. ETF consiste em três domínios: domínios I e II são formados pelas porções N- e C-terminais da subunidade alfa, respectivamente, enquanto que o domínio III é formado pela subunidade beta. Os domínios I e III partilham um quase idêntica dobra alfa-beta-alfa, enquanto o domínio II forma uma sanduíche alfa-beta-alfa similar à da flavodoxina bacteriana. FAD é ligado numa fenda entre os domínios II e III, enquanto o domínio III liga uma molécula de AMP. Interacções entre o domínio I e III estabilizam a proteína, formando uma concavidade onde o domínio II reside.
+
+
+== Ver também ==
+Fosforilação oxidativa
+Cadeia respiratória
+Metabolismo microbiano
+Metabolismo
+
+
+== Referências ==
+
+
+== Ligações externas ==
+(em inglês) Pfam database - Electron-transferring flavoprotein.  http://pfam.sanger.ac.uk/family?entry=PF00766[ligação inativa]

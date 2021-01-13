@@ -1,0 +1,41 @@
+Anticorpos monoclonais ou mAb (do inglês Monoclonal antibodies) são anticorpos produzidos por um único clone de um único linfócito B parental, que é clonado e imortalizado, produzindo sempre os mesmos  anticorpos,  em resposta a um agente patogénico. Esses anticorpos apresentam-se iguais entre si em estrutura, propriedades físico-químicas e biológicas, especificidade e afinidade, ligando-se por isso ao mesmo epítopo no antigénio. Esses mAbs podem ser gerados em laboratório para reconhecer e se ligar a qualquer antígeno de interesse. O procedimento foi descrito pela primeira vez em 1975, em artigo publicado na revista Nature, por César Milstein e Georges Köhler, que, por esse feito, dividiram o Prêmio Nobel de Medicina 1984 com o dinamarquês Niels Kaj Jerne.A existência de anticorpos diferentes para um mesmo agente patogénico torna a resposta pouco eficiente, sendo os anticorpos monoclonais os mais eficientes. Devido a isto, na pesquisa de diagnósticos e terapêuticas eficazes contra certas patologias, utilizam-se preferencialmente anticorpos monoclonais. 
+Os anticorpos monoclonais (ou imunoglobulinas monoclonais) podem estar presentes no soro sanguíneo e na  urina de pessoas afetadas por doenças tais como o mieloma múltiplo (MM), um tipo de câncer que afeta o sistema imune (neoplasia em plasmócitos, células diferenciadas a partir de linfócitos B). Porém, esses anticorpos não são passíveis de serem isolados a partir de um soro policlonal; logo, há necessidade de se produzirem anticorpos monoclonais.
+
+
+== Produção de anticorpos monoclonais ==
+Os anticorpos monoclonais são produzidos em laboratório a partir de linfócitos B gerados por camundongos, cujos sistemas imunológicos foram estimulados pelos antígenos de interesse.  Todavia, por sua origem animal, esses anticorpos, se usados de forma continuada em humanos, estimulavam uma reação imunológica - uma resposta de anticorpos humanos contra aqueles de origem murina, denominada resposta HAMA (Human "Anti-mouse Antibody). Por essa razão, o uso dos mAbs ficou limitado, durante cerca de vinte anos, à produção de kits para diagnósticos ou à pesquisa científica.Mais recentemente, as modernas técnicas de engenharia genética permitiram que esses anticorpos fossem adaptados ao organismo humano, quando os genes responsáveis pela produção dessas proteínas foram modificados de forma a eliminar a reação imunológica do organismo humano, sendo então gerados os chamados anticorpos monoclonais humanizados. Desta forma, sem alterar a afinidade do anticorpo com o respectivo antígeno, tornou-se possível empregar os anticorpos monoclonais de maneira continuada, em procedimentos terapêuticos.Na área de oncologia, uma nova geração de medicamentos está baseada na capacidade dos mAbs em reconhecer antígenos específicos de tumores e induzir uma resposta imune contra as células cancerosas. Além disso, os mAbs podem ser modificados para atuarem como portadores de radioisótopos ou toxinas contra células cancerosas.
+
+
+=== Técnica do hibridoma ===
+Antes da descoberta da técnica do hibridoma, eram produzidos apenas anticorpos policlonais, o que requeria um grande número de animais imunizados e não imortalizava as células produtoras de anticorpos. A técnica do hibridoma contribuiu para a redução do número de animais utilizados. Além disso,  a técnica oferece outras vantagens:
+
+Alta especificidade;
+Alta afinidade;
+Determinação de um só epítopo de um antigénio
+Alta homogeneidade;
+Ausência de anticorpos não específicos;
+Maior facilidade de caracterização;
+Reduzida variabilidade entre os lotes;No entanto, existem também  desvantagens no uso dessa técnica:
+
+Alto custo;
+Reconhecimento de um só epítopo de um antigénio. Esse epítopo pode estar destruído (por ex: pela fixação) mesmo que exista a molécula total do antigénio;
+Se o soro não foi produzido contra um epítopo específico do antigénio que se quer detectar e se existirem outros antigénios com esse epítopo, a imensa vantagem da alta especificidade será inútil;
+
+
+==== Isolamento dos hibridomas utilizando um meio de seleção HAT ====
+Depois que os hibridomas são fundidos, com a ajuda do polietilenoglicol (PEG), é preciso desenvolver um método de seleção capaz de separar as células fusionadas híbridas das células não fusionadas. Nesta segunda fase do protocolo, os hibridomas são isolados das células de mieloma da mistura de fusão por drogas. Este passo é necessário, pois células de mieloma frequentemente dividem-se mais rapidamente que células do hibridoma que logo seriam excluídas do meio de cultura por competição. Estes mielomas expressam a enzima hipoxantina fosforribosiltransferase (HPRT), que catalisa um passo da via de hipoxantina a purina, uma via biossintética alternativa para síntese e replicação de DNA . De acordo com este fato, cultiva-se a mistura de fusão em um meio HAT (hipoxantina, aminopterina e timidina). A aminopterina bloqueia a principal via de síntese de purinas e pirimidinas; assim, células de mieloma, que já não expressam a enzima HPRT, num meio HAT, não podem se multiplicar. As células do hibridoma se dividem normalmente, uma vez que apresentam atividade da HPRT herdada do linfócito B esplênico parental, podendo assim, usar a hipoxantina como substrato para síntese de DNA. Os linfócitos B não crescem em cultura, e somente as células de hibridoma persistem quando cultivadas continuamente em um meio de seleção HAT. Finalmente a mistura de hibridomas purificada é selecionada para identificação e isolamento de clones que secretam um anticorpo que interage com o antígeno desejado. Isto geralmente é feito a partir da diluição da suspensão dos hibridomas, obtendo-se então os clones que secretam determinado anticorpo monoclonal por técnicas imunoquímicas.
+
+
+== Anticorpos Monoclonais Antineoplásicos ==
+
+
+=== Drogas ===
+-Alentuzumab (Linfomas e leucemias)
+-Bevacizumab  (Colon, pulmão, ovários, mama, rim, gliomas de alto grau)
+-Trastuzumab (Mama)
+-Cetuximab (Colon, Pulmão)
+-Rituximab (Linfoma CD20+)
+-Panitumumab (Mama)
+
+
+== Referências ==

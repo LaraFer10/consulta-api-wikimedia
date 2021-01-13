@@ -1,0 +1,95 @@
+A imunização é definida como a aquisição de proteção imunológica contra uma doença infecciosa. Prática que tem como objetivo aumentar a resistência de um indivíduo contra infecções. É administrada por meio de vacina, imunoglobulina ou por soro de anticorpos. As vacinas são usadas para induzir a imunidade ativa; sua administração resulta numa resposta biológica e na produção de anticorpos específicos. Assim, a imunidade é induzida contra futuras infecções pelo mesmo micro-organismo. A imunidade ativa dura muitos anos; a passiva é induzida pela administração de anticorpos contra uma infecção particular. Os anticorpos colhidos dos humanos são chamados imunoglobulina e os dos animais, soros. A imunidade passiva dura apenas algumas semanas. 
+
+
+== Imunização ativa vs. passiva ==
+A imunização ativa ocorre quando o próprio sistema imune do indivíduo, ao entrar em contato com uma substância estranha ao organismo, responde produzindo anticorpos e células imunes (linfócitos T). Esse tipo de imunidade geralmente dura por vários anos, às vezes, por toda uma vida. Os dois meios de se adquirir imunidade ativa são contraindo uma doença infecciosa e a vacinação.
+A imunização passiva é obtida pela transferência ao indivíduo de anticorpos produzidos por um animal ou outro ser humano. Esse tipo de imunidade produz uma rápida e eficiente proteção, que, contudo, é temporária, durando em média poucas semanas ou meses. A imunidade passiva natural é o tipo mais comum de imunidade passiva, sendo caracterizada pela passagem de anticorpos da mãe para o feto através da placenta e também pelo leite. Essa transferência de anticorpos ocorre nos últimos 2 meses de gestação, de modo a conferir uma boa imunidade à criança durante seu primeiro ano de vida. A imunidade passiva artificial pode ser adquirida sob três formas principais: a imunoglobulina humana combinada, a imunoglobulina humana hiperimune e o soro heterólogo. A transfusão de sangue é uma outra forma de se adquirir imunidade passiva, já que, virtualmente, todos os tipos de produtos sanguíneos (i.e. sangue total, plasma, concentrado de hemácias, concentrado de plaquetas, etc) contêm anticorpos.
+
+
+== Classificação das vacinas ==
+1- Vacinas vivas atenuadas
+Compostas de microrganismos vivos atenuados em laboratório, que devem ser capazes de multiplicarem-se no organismo hospedeiro para que possa ocorrer a estimulação de uma resposta imune. Essa resposta imune ao micro-organismo atenuado é idêntica a produzida pela infecção natural, pois o sistema imune é incapaz de diferenciar entre uma infecção pelo micro-organismo vacinal e o microrganismo selvagem. A multiplicação do micro-organismo vacinal não costuma ser capaz de causar doença. 
+Exemplos de vacinas vivas atenuadas: Sarampo, caxumba, rubéola, pólio-Sabin, febre amarela, varicela, BCG.
+2- Vacinas inativadas
+Compostas de microrganismos inativados, o que significa que estes não mais se encontram vivos, logo incapazes de multiplicarem-se. A resposta imune à vacina inativada é principalmente humoral (proteínas plasmáticas,as imunoglobulinas, sintetizadas por linfótos diferenciados em plasmócitos), com pouca ou nenhuma imunidade celular. 
+Exemplos de vacinas inativadas: DPT,hepatite A, hepatite B, raiva, pólio-Salk, pneumococo, meningococo, influenza, haemophilus do tipo-b, febre tifoide, cólera.
+
+
+== Número de doses de uma vacina ==
+As vacinas vivas atenuadas geralmente produzem imunidade prolongada com uma única dose; exceção à vacina oral da poliomielite.As vacinas inativadas requerem múltiplas doses para produzir imunidade e, eventualmente, necessitam de uma dose de reforço para a manutenção da imunidade.
+
+
+== Intervalo entre doses de uma mesma vacina ==
+Não existe um intervalo máximo entre as doses de uma mesma vacina. 
+Assim sendo, apesar de cada vacina possuir seu próprio intervalo de tempo recomendável entre as doses, no caso desse intervalo ter sido ultrapassado, não existe a indicação de se reiniciar nova vacinação e deve-se administrar as doses subsequentes da vacina. 
+Por outro lado, a não obediência do intervalo mínimo permitido entre as doses pode implicar em redução da eficácia da vacina.
+
+
+== Aplicação simultânea e não simultânea de diferentes vacinas ==
+Não existe contraindicação à administração simultânea de quaisquer  vacinas. A única exceção a essa regra fica por conta da administração simultânea das vacinas da febre amarela e cólera, que devem ser separadas por um período mínimo de 3 semanas.
+A administração não-simultânea de diferentes vacinas deve seguir os seguintes intervalos entre elas:
+
+Duas vacinas vivas atenuadas —  esperar  4 semanas
+Febre amarela e  cólera — esperar 3 semanas
+Todas as outras — sem restriçõesObservação: A vacina oral da poliomielite não precisa ser separada por 4 semanas de outra vacina viva atenuada.
+
+
+== Interferência da presença de anticorpos na resposta à vacinação ==
+A multiplicação dos microrganismos nas vacinas vivas atenuadas é necessária para que ocorra a resposta imune. A presença de anticorpos circulantes pode resultar numa inibição dessa multiplicação e, consequentemente, numa imunização ineficiente.
+A administração de vacinas vivas atenuadas x anticorpos :
+
+Se a vacina foi administrada antes — esperar 2 semanas antes de administrar o anticorpo
+Se o anticorpo foi administrado antes — esperar > 3 meses antes de administrar a vacinaObservação: a vacina oral da poliomielite não é afetada por anticorpos, possivelmente porque o vírus pólio multiplica-se no trato GI.
+
+
+== Reações adversas das vacinas ==
+As reações locais são as mais freqüentes e incluem dor, edema e eritema no sítio de injeção. Essas reações geralmente são leves e auto-limitadas, no entanto, em raras ocasiões, podem se tornar graves (reações de Arthus).
+As reações sistêmicas incluem febre, mal-estar, rash cutâneo, mialgias, cefaléia e anorexia. Esses sintomas usualmente ocorrem 1-2 semanas após a administração de vacinas vivas atenuadas e são considerados como uma “doença” leve provocada pela multiplicação do microrganismo da vacina.
+As reações alérgicas são as mais graves, inclusive colocando a vida da criança em risco, porém, felizmente, são muito raras.
+
+
+== Contraindicações à vacinação ==
+1- Contraindicações gerais à vacinação:
+
+Alergia grave a uma dose prévia da vacina
+Alergia grave a um dos componentes da vacina
+Doença aguda moderada à graveObservação: As vacinas contra influenza (gripe) e febre amarela não são recomendadas a indivíduos alérgicos à proteína do ovo de galinha. Por não conter proteínas do ovo, a vacina contra o sarampo, caxumba e rubéola (SCR) pode ser seguramente aplicada em pessoas com alergia ao ovo.
+2- Contraindicações às vacinas vivas atenuadas: 
+
+Gravidez
+Imunossupressão
+Transfusão recente de produtos sanguíneos3- Contraindicações à vacinação BCG: 
+
+Todas relativas às vacinas vivas atenuadas
+Criança com peso < 2 Kg (impossibilidade técnica da aplicação ID)4- Contraindicações à vacinação DPT (devido ao componente pertussis):
+
+Encefalopatia nos 7 dias pós-vacinação
+Convulsões nas 72 horas pós-vacinação
+Choro persistente e inconsolável, com 3 horas ou mais de duração5- Falsas contraindicações à vacinação:
+
+Doença aguda leve (infecções de vias aéreas superiores, resfriados, diarreia, doenças de pele)
+Desnutrição: deve ser considerada indicação e não contraindicação às vacinas do calendário básico, visto que doenças como coqueluche e sarampo têm muito maior gravidade nos desnutridos e que estas crianças apresentam boa resposta a essas vacinas
+Doença neurológica estável (p.ex. síndrome convulsiva controlada)
+Antecedente familiar de convulsão
+Uso de corticoides em doses não imunossupressoras
+Alergia a produtos que não compõe a vacina; alergia não-anafilática a componente da vacina
+Aleitamento materno
+Contactante domiciliar de grávida
+Prematuridade
+Uso de antibióticos
+Necessidade de fazer PPD
+Exposição recente a doenças infecciosa
+Antecedentes de alergia a penicilina: nenhuma das vacinas atualmente em uso contém penicilina
+História de morte súbita
+
+
+== Vacinação e infecção pelo HIV ==
+Não se deve aplicar vacinas vivas em indivíduos imunossuprimidas pelo HIV (ou por qualquer outra etiologia) devido possibilidade aumentada da ocorrência de multiplicação descontrolada dos microrganismos vacinais e reações adversas graves. 
+Observação: a vacinação oral da poliomielite está contraindicada às crianças que possuem um contactante domiciliar imunossuprimido, pois existe o risco da criança expelir o vírus vacinal no ambiente e, com isso, o indivíduo imunossuprimido desenvolver poliomielite paralítica.
+As vacinas do sarampo e varicela, apesar de serem vacinas vivas atenuadas, estão indicadas às crianças HIV positivas assintomáticas ou levemente imunossuprimidas, em virtude destas duas doenças representarem infecções graves em pacientes HIV positivos.
+
+
+== Indicações de imunização passiva ==
+Imunoglobulina humana combinada: Possui indicação na profilaxia pós-exposição da hepatite A e sarampo.
+Imunoglobulina humana hiperimune: Profilaxia pós-exposição da hepatite B, tétano e varicela.
+Soro heterólogo: Tratamento da difteria, profilaxia da raiva e tétano.

@@ -1,0 +1,58 @@
+São as arritmias cardíacas com origem nos átrios, sem relação com o nó sinusal.
+
+
+== Ritmo atrial ectópico ==
+Ocorre quando a origem da arritmia é atrial e em localização diversa da  anatômica do nó sinusal. Identificam-se ondas p de morfologia constante, diferente da morfologia do nó sinusal, com intervalo PR fixo.
+
+
+== Batimento de escape atrial ==
+É um batimento que ocorre quando o nó sinusal está com sua atividade suprimida, temporariamente. Tem origem em foco atrial diverso do nó sinusal e surge após um tempo maior que o período PP de base.
+
+
+== Extra-sístole atrial ==
+É um batimento que ocorre precocemente à próxima despolarização atrial. Tem origem em foco atrial diverso do nó sinusal e surge após um tempo menor que o período PP de base.
+
+
+== Extra-sístole atrial não conduzida ==
+Ocorre um batimento precoce, de origem atrial, gerando uma onda P, mas sem ser conduzido aos ventrículos. Isto ocorre por uma refratariedade do nó átrio-ventricular e/ou sistema His Purkinje ao batimento atrial, quer de maneira fisiologica (precocidade da extrassístole) ou patológica (doença no sistema).
+
+
+== Taquicardia atrial multifocal ==
+Nesta condição, ocorre variação do foco de origem do batimento atrial. Isto é identificado por morfologias diferentes nas ondas p. São necessárias ao menos três morfologias diferentes na mesma derivação eletrocardiográfica. Os intervalos PP e PR são variáveis, com consequente irregularidade aleatória de batimentos cardíacos. A freqüência atrial é maior ou igual a 100 (cem) por minuto.
+
+
+== Ritmo atrial multifocal ==
+É a denominação da arritmia com todas as características da Taquicardia atrial multifocal, mas com freqüência atrial menor do que 100 batimentos por minuto.
+
+
+== Taquicardia atrial focal sustentada ==
+É a arritmia cardíaca na qual a origem do estímulo elétrico está em um dos átrios, em local diverso do nó sinusal, com freqüência atrial maior do que 100 (cem) batimentos por minuto e com duração mínima de 30 segundos. Caso a freqüência fosse até 100 batimentos, tratar-se-ia de Ritmo Atrial Ectópico, conforme acima. Sua característica eletrocardiográfica é a presença de ondas P de morfologia constante, diferente da do ritmo sinusal, com Intervalo PR constante.
+
+
+== Taquicardia atrial focal não sustentada ==
+Tem as mesmas carcaterísticas que a a Taquicardia atrial focal sustentada, excetuando-se a duração da arritmia, que deve ser menor do que 30 segundos.
+
+
+== Fibrilação atrial ==
+Vide artigo específicoÉ uma arritmia cardíaca originada nos átrio, onde a atividade elétrica é desorganizada. As frentes de onda se distribuem de maneira aleatória, conforme a velocidade de condução e o período refratário das várias porções dos átrios. A linha de base pode ser isoelétrica (sem variação) ou ter irregularidaes, que finas, quer grosseiras. Estas irregularidades são chamadas de ondas "f", podendo ter freqüência de até 700 por minutos.
+
+
+== Flutter atrial ==
+Vide artigo específicoÉ uma arritmia originada no átrio, por mecanismo de macroreentrada, mas com contrações rápidas e regulares desta câmara cardíaca. Tem duas apresentações principais, o Flutter comum e o Flutter incomum.
+
+
+== Flutter atrial comum ==
+Também chamado de típico ou tipo I. O circuito de macroreentrada se dá nas paredes do átrio direito. O circuito pode apresentar duas direções de ativação.
+
+Sentido anti-horário: Neste caso a frente de onda segue em direção inferior pelas parede anterior e lateral do átrio. O circuito se completa com a ascensão da frente de onda através das paredes posterior e septal. A freqüência atrial se situa entre 240 e 340 batimentos por minuto, mas comumente há bloqueio 2:1 ou 3:1 em relação a condução átrio ventricular. (2 ou 3 ondas "F" para cada QRS)
+Padrão eletrocardiográfico: Ondas "F", entre os complexos QRS, com "aspectos de serrote". Negativas em DII, DIII e aVF. Baixa voltagem em DI e aVL. Em geral positivas em V1.
+Sentido horário ou reverso: Nesta situação a frente de onda segue em sentido oposto, ou seja, direção inferior pelas parede posterior e septal do átrio, completando o circuito pela subida da frente pelas paredes anterior e lateral.
+Padrão eletrocardiográfico: Ondas "F alargadas e positivas nas derivações inferiores, em geral negativa em V1.
+
+
+== Flutter atrial incomum ==
+Também chamado de atípico ou tipo II, é uma situação intermediária entre a Fibrilação Atrial, de atividade elétrica plenamente aleatória, e o Flutter típico, regular, não tendo todos os critérios diagnósticos deste. Pode evoluir para um destes dois ritmos. A freqüência de atividade atrial está entre 350 e 450 spm.
+
+
+== Bibliografia ==
+Sociedade Brasileira de Cardiologia, Diretriz de interpretação de eletrocardiograma de repouso, Arq Bras Cardiol volume 80, (suplemento II), 2003 Versão eletrônica

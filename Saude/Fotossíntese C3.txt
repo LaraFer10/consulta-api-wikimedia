@@ -1,0 +1,15 @@
+A fixação do carbono C3 é uma via metabólica para a fixação do carbono na fotossíntese utilizada pela maioria das plantas, na qual o CO2 atmosférico entra directamente no ciclo de Calvin. É um dos três métodos de fixação do carbono na fotossíntese, juntamente com a fixação C4 e a CAM. Este processo converte o dióxido de carbono e a ribulose 1,5-bisfosfato (RuBP, um açúcar de 5 carbonos já existente na planta) em duas moléculas de 3-fosfoglicerato, que dirigem os carbonos procedentes do CO2. O 3-fosfoglicerato é um composto de 3 carbonos, de onde vem a denominação C3. O processo realiza-se segundo a seguinte reacção:
+
+CO2 + RuBP → (2) 3-fosfoglicerato
+Esta reacção ocorre em todas as plantas como primeiro passo do ciclo de Calvin–Benson. Não obstante, as plantas que não são C3 têm uma fixação do carbono prévia independente do ciclo de Calvin e uma segunda fixação posterior igual à C3. Nas plantas C4, o dióxido de carbono que se utiliza no ciclo de Calvin deriva do malato, sendo que este não é recebido directamente do ar; o malato é formado em reacções prévias nas quais, estas sim, recebem o CO2 a partir do ar.
+As plantas que apresentam somente fixação C3 (plantas C3) tendem a prosperar em áreas onde a intensidade solar é moderada, as temperaturas não são muito altas, as concentrações de dióxido de carbono rondam os 200 ppm ou mais, e a água no solo é abundante. As plantas C3 tiveram origem durante o Paleozóico e Mesozóico, e são anteriores às plantas C4, que são uma derivação sua. As plantas C3 ainda representam aproximadamente 95% da biomassa de plantas da Terra. As plantas C3 perdem 97% da água que absorvem pelas raízes por causa da transpiração. Exemplos de plantas C3 agrícolas são o arroz e a cevada.
+As plantas C3 têm dificuldade em crescer em regiões muito quentes porque nessas condições a enzima RuBisCO, normalmente encarregada pela carboxilação a partir do CO2, incorpora mais oxigénio à ribulose 1,5-bisfosfato à medida que a temperatura aumenta. Isto origina o fenómeno da fotorrespiração (também chamado ciclo do carbono fotossintético oxidativo ou fotossíntese C2), que provoca um desperdício de energia na planta, e pode limitar o seu crescimento. As plantas CAM e C4 possuem adaptações que lhes permitem sobreviver em áreas quentes e secas, competindo eficazmente com as plantas C3.
+A marcação isotópica das plantas C3 demonstra um alto nível de depleção do 13C comparativamente com as plantas C4. As plantas C3 carecem da bainha vascular de células que rodeia os vasos condutores das plantas C4.
+
+
+== Ver também ==
+Fotossíntese C4
+Metabolismo ácido das crassuláceas
+
+
+== Referências ==

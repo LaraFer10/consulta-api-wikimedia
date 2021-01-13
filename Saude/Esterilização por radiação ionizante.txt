@@ -1,0 +1,24 @@
+Esse tipo de esterilização é o ideal para materiais termossensíveis, uma vez que esse método não resulta no aumento da temperatura. Outros benefícios de seu uso inclui sua baixa reatividade química e o fato de ser mais facilmente controlável, uma vez que apresenta menor número de parâmetros a serem considerados.
+
+
+== Breve histórico ==
+Pode-se dizer que a história da radiação começou com a descoberta dos raios-X em 1895, por Wilhelm Conrad Röntgen. Já no ano seguinte, Antoine Henri Becquerel também deixa sua contribuição, quando da descoberta da emissão de radiação por urânio. Essa descoberta inspirou então as pesquisas de Marie Curie, que juntamente com seu marido, Pierre Curie, descobriu um novo elemento químico de alta radioatividade, o rádio, em 1898. A palavra radioatividade foi usada pela primeira vez em um artigo publicado pelo casal, também em 1898.O uso da radiação ionizante para esterilização surgiu no final da década de 1950, inicialmente por meio da irradiação por feixe de elétrons. Logo após começou a surgir a aplicação de raios gama, tendo como fonte cobalto 60. Atualmente, já utilizam-se também conversores de raio-x de alta energia.
+
+
+== Definições ==
+Radiação ionizante é aquela que possui energia suficiente para deslocar elétrons de determinado material, de forma a alterar sua carga elétrica, acarretando na formação de íons. Essa propriedade é interessante no campo de esterilização, pois os compostos gerados são altamente reativos e, quando em contato com material biológico, podem ocasionar diversas lesões intracelulares, sobretudo relacionadas à molécula de DNA ou RNA, o que, por sua vez, acaba destruindo qualquer capacidade de reprodução.De acordo com a ANVISA, há dois tipos de radiação ionizante em uso atualmente, a que utiliza radiação gama e a radiação por feixe de elétrons.
+
+
+=== Radiação gama ===
+Se trata de uma radiação eletromagnética de alta energia e alta frequência e, portanto, de alto poder de penetração, propriedade que lhe confere grande eficiência na esterilização. Tem como principais fontes os radioisótopos de cobalto (cobalto 60) e césio (césio 137). Uma vez que o uso césio 137 é mais limitado, é mais comum a aplicação de cobalto 60.
+
+
+=== Radiação por feixe de elétrons ===
+Corresponde a um tipo particulado de radiação e, com isso, apresenta menor grau de penetração quando comparado à radiação gama. Devido a esse motivo, para o uso em esterilização, os elétrons são energizados por meio de um acelerador de elétrons industrial, resultando em elétrons de alta energia e maior grau de penetração, de modo a garantir sua eficácia na esterilização. O investimento nesses aceleradores é alto, o que vem levando ao surgimento de equipamentos cada vez mais robustos e versáteis, de forma a aumentar a sua aplicação.
+
+
+== Procedimento ==
+Na esterilização por radiação ionizante, a dose absorvida de referência é de 25 kGy, a qual poderá ser alterada de acordo com a necessidade de cada processo, seja para um valor superior ou inferior a esse. No entanto, o nível de letalidade da dose escolhida deve ser adequado e reprodutível, de forma a corresponder às especificações, levando em conta o nível de esterilidade de 10-6, além de garantir que a radiação não leve ao comprometimento do material a ser esterilizado. Dito isso, fica evidente a importância do controle da dose de radiação absorvida para o processo de esterilização, normalmente realizado por meio de dosímetros específicos. Para fins de seleção de dose e validação do processo, a resistência da carga microbiana do produto frente à radiação deve ser avaliada.
+
+
+== Referências ==

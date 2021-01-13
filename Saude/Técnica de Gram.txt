@@ -1,0 +1,58 @@
+A técnica de Gram, mundialmente conhecida como coloração de Gram, é um método de coloração de bactérias desenvolvido pelo médico dinamarquês Hans Christian Joachim Gram (1853-1938), em 1884, o qual permite diferenciar bactérias com diferentes estruturas de parede celular a partir das colorações que estas adquirem após tratamento com agentes químicos específicos. O método que consiste em tratar sucessivamente um esfregaço bacteriano, fixado pelo calor, com os reagentes cristal violeta, lugol, etanol-acetona e fucsina básica. As bactérias que adquirem a coloração azul violeta são chamadas de gram-positivas e aquelas que adquirem a coloração vermelho são chamadas de gram-negativas.
+O método da coloração de Gram é baseado na capacidade das paredes celulares de bactérias gram-positivas de reterem o corante cristal violeta no citoplasma durante um tratamento com etanol-acetona enquanto que as paredes celulares de bactérias gram-negativas não o fazem.
+A coloração de Gram é um dos mais importantes métodos de coloração utilizados em laboratórios de microbiologia e de análises clínicas, sendo quase sempre o primeiro passo para a caracterização de amostras de bactérias. A técnica tem importância clínica uma vez que muitas das bactérias associadas a infecções são prontamente observadas e caracterizadas como gram-positivas ou gram-negativas em esfregaços de pus ou de fluidos orgânicos. Essa informação permite ao clínico monitorar a infecção até que dados de cultura estejam disponíveis. É possível a análise de vários esfregaços por lâmina, o que facilita a comparação de espécimes clínicos. As lâminas podem ser montadas de forma permanente e preservadas como documentação. O método consiste no tratamento de uma amostra de uma cultura bacteriana crescida em meio sólido ou líquido, com um corante primário, o cristal violeta, seguido de tratamento com um fixador, o lugol. Tanto bactérias gram-positivas quanto gram-negativas absorvem de maneira idêntica o corante primário e o fixador, adquirindo uma coloração violeta devido à formação de um complexo cristal violeta-iodo, insolúvel, em seus citoplasmas. Segue-se um tratamento com um solvente orgânico, o etanol-acetona (1:1 v:v). O solvente dissolve a porção lipídica das membranas externas das bactérias gram-negativas e o complexo cristal violeta-iodo é removido, descorando as células. Por outro lado, o solvente desidrata as espessas paredes celulares das bactérias gram-positivas e provoca a contração dos poros do peptidoglicano, tornando-as impermeáveis ao complexo; o corante primário é retido e as células permanecem coradas. A etapa da descoloração é crítica, pois a exposição prolongada ao solvente provoca a remoção do cristal violeta dos dois tipos de bactérias, podendo produzir resultados falsos. A retenção ou não do corante primário é, portanto, dependente das propriedades físicas e químicas das paredes celulares bacterianas tais como espessura, densidade, porosidade e integridade.
+Em seguida, a amostra é tratada com um corante secundário, a fucsina básica. Ao microscópio, as células gram-positivas aparecerão coradas em violeta escuro e as gram-negativas em vermelho ou rosa escuro. Células de bactérias gram-positivas, células velhas, mortas ou com envelopes danificados por agentes físicos ou químicos, tendem a perder o cristal violeta e uma mesma amostra bacteriana pode exibir parte ou todas as células coradas como gram-negativas. Portanto, o uso de material fresco é importante. Por outro lado, resultados do tipo "falso gram-positivo" só são obtidos se o tratamento com etanol-acetona for omitido.
+
+
+== Procedimento ==
+Confeccionar o esfregaço;
+Corar com cristal de violeta por 60 segundos;
+Lavar com esguicho de água destilada;
+Cobrir com Iodo de Gram ou Lugol por 60 segundos;
+Lavar com esguicho de água destilada;
+Descorar com álcool a 95%, ou acetona, 10-20 segundos;
+Lavar com esguicho de água destilada;
+Corar com fucsina por 20 segundos
+Lavar com água destilada, secar e observar ao microscópio.Resultados: Gram (+) coram de roxo, gram (-) cor de rosa
+
+As características estruturais da parede bacteriana estão na base da técnica de Gram que funciona da seguinte forma.
+O primeiro corante (cristal-de-metila) penetra na bactéria assim como o mordente (Soluto de Lugol). Intracelularmente forma-se um complexo corante-iodo, insolúvel em água, que vai corar o protoplasma e a parede celular. A camada de peptidoglicano é maior em bactérias gram positivas, as gram negativas, por sua vez possuem pouco peptidoglicano e são coradas pelo vermelho de safranina.
+A lavagem com álcool 99,5º GL dissolve o complexo corante-iodo, e a se a parede celular for permeável a este, arrasta-o para fora da célula. As bactérias capazes de preservar a coloração roxa do 1º corante, o violeta de Genciana, designam-se por Gram positivas. As bactérias que, após a lavagem com álcool-acetona, são incapazes de reter o violeta de Genciana, designam-se por Gram negativas, corando pela fucsina diluída que se fixa apenas nas bactérias gram-negativas. Resumindo, as bactérias Gram positivas coram de roxo e as Gram negativas coram de vermelho. Esta técnica de coloração permite então a distinção entre bactérias com parede celular mais ou menos rica em peptidoglicanos. De referir que embora uma bactéria Gram negativa nunca possa corar positivamente pelo Gram, uma bactéria estruturalmente Gram positiva pode corar negativamente se a sua parede de peptidoglicano for destruída ou danificada (ex. envelhecimento celular ou acção de lisozimas).
+
+
+== Preparação para a coloração ==
+Na observação microscópica pós coloração o material a observar deve ser previamente fixado, o que facilita a observação de bactérias, uma vez que têm reduzidas dimensões, fraco contraste e algumas refringência e mobilidade.
+A fixação é a coagulação do protoplasma bacteriano com o mínimo de deformação e sua colagem à lâmina. Como exemplos de agentes fixadores temos o calor, o formol e o éter.
+A coloração recorre do uso de corantes e permite aumentar o contraste e evidenciar a estrutura bacteriana. Estes são compostos orgânicos, com um ou mais anéis benzênicos que se encontram ligados a dois grupos funcionais, o cromóforo que é responsável pela cor do corante e o auxócromo que se dissocia ionicamente em solução dotando o corante de capacidade para reagir com os tecidos, células e estruturas celulares. Podemos diferenciar dois tipos de corantes: os corantes ácidos (são negativos, formando sais com cátions) e os corantes básicos (são positivos, formando sais com ânions). Como as bactérias possuem carga eléctrica negativa, existe afinidade entre os corantes básicos e as estruturas celulares da bactéria, permitindo que esta fique corada. Para reforçar a ação do corante, aumentando a força de ligação deste, as estruturas celulares utilizam-se de mordentes como o ácido tânico, o ácido crômico, o ácido fênico, o iodo (Soluto de Lugol), o calor e os álcalis. Os solutos corantes são compostos de várias substâncias, sendo geralmente hidro-alcoólicos-fenicados porque, além da substância corante, possuem água para permitir a dissociação iônica do corante; álcool para conservar e ácido fênico, que atua como mordente e como bacteriostático, evitando a contaminação das soluções corantes. Após a aplicação do corante, aplica-se um diferenciador, que serve para retirar o excesso de corante (acetona, ácido sulfúrico, álcool 95º). Os diferenciadores têm a capacidade de descorar certas bactérias já previamente coradas e são usados em colorações policromáticas.
+A preparação de colorações policromáticas segue um protocolo constante. Assim, sobre um esfregaço (células fixadas pelo calor), aplica-se:
+
+O primeiro corante
+O mordente
+O diferenciador
+Água (vai parar a diferenciação)
+Segundo corante (vai ser contrastante)
+
+
+== Alguns microorganismos gram-positivos ==
+Staphylococcus aureus
+Lactobacillus spp.
+Streptococcus pyogenes
+Streptococcus pneumoniae
+Enterococcus faecalis
+
+
+== Alguns dos microorganismos gram-negativos ==
+Pseudomonas aeruginosa
+Haemophilus influenzae
+Escherichia coli
+Helicobacter pylori
+Treponema pallidum
+
+
+== Ver também ==
+Técnica de Ziehl-Neelsen
+Bactéria gram-positiva
+Bactéria gram-negativa
+
+
+== Referências ==

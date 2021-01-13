@@ -1,0 +1,57 @@
+As quinolonas e fluoroquinolonas são grupos relacionados de antibióticos, derivados do ácido nalidíxico, usados no tratamento das infecções bacterianas. Os fármacos da classe podem desencadear uma vasta onda de efeitos colaterais debilitantes e portanto não devem ser usadas como primeira linha de tratamento. A ciprofloxacina ("cipro") ficou célebre devido às encomendas gigantes pelo governo dos EUA após o surto de terrorismo biológico em 2001 e 2002, em que antrax de alta virulência foi enviado em pó dentro de correspondência endereçada a políticos e figuras públicas.
+As fluoroquinolonas apresentam um átomo de flúor não observado nas quinolonas. Ambas formam o grupo de antibióticos mais tóxico atualmente em uso com mais de 40% dos usuários sofrendo de efeitos colaterais. Mais de metade dos fármacos encontradas dentro desta classe já foram removidas do uso clínico devido a reações adversas que podem causar dano permanente. Processos em massa estão sendo litigados devido a esta classe causar rompimento de tendões espontâneo e a FDA passou a apresentar os fármacos em Black Box, uma espécie de tarja preta desde 2008.
+
+
+== Indicações ==
+São efectivos contra Gram-negativos e positivos. Usada contra bacilos entéricos Gram-negativos (família Enterobacteriaceae). Também em casos de infecção por Neisseria, Haemophilus, Campylobacter e Pseudomonas.
+
+Carbúnculo (Antrax): devido a Bacillus anthracis;
+Gonorreia;
+Infecções do trato urinário mais graves;
+Infecções respiratórias com Pseudomonas aeruginosa;
+Otite externa por Pseudomonas aeruginosa;
+Osteomielite por bacilo Gram-negativo;
+Prostatite bacteriana;
+Cervicite (infecção do colo do útero) por bactérias.As quinolonas costumam ser bem toleradas, no entanto, seu alto custo, a não cobertura de anaeróbios e estreptococos e o aumento da resistência microbiana limitam o seu uso clínico. Na prática, são utilizadas apenas quando não houver resposta ao primeiro esquema antimicrobiano.
+
+
+== Mecanismo de acção ==
+São inibidores da enzima bacteriana DNA topoisomerase II (girase de DNA) e da DNA topoisomerase IV. Para muitas bactérias Gram-positivo (S. aureus), a DNA topoisomerase IV é a principal inibida pelas quinolonas. Em contraste, para muitas bactérias Gram-negativo (E. coli), o principal alvo das quinolonas é a DNA-girase.
+
+
+== Efeitos adversos ==
+Efeitos adversos sérios podem ocorrer:
+
+Náuseas, diarreia;
+Reações alérgicas cutâneas;
+Raramente confusão, tonturas, quando associado a teofilina e anti-inflamatórios não-hormonais;
+Artralgia e tendinite, que pode persistir com a interrupção do tratamento; rupturas de tendões, descolamento de retina e outros problemas causados por alterações de colágeno. Estudos populacionais mostram a gravidade destes efeitos adversos .
+As quinolonas não devem ser usadas em crianças que ainda não completaram o crescimento pois induz fechamento das placas epifisárias (cartilagens de crescimento).
+indivíduos acima de 60 anos, do sexo feminino, ativos, que realizam atividades físicas estão sob risco de lesões tendinosas e de ligamentos, durante o uso de Quinolonas; há relatos de que isto ocorra em poucos dias após o início de seu uso. 
+
+
+== Interações ==
+Há numerosas interacções. Os antiácidos, como o hidróxido de alumínio ou magnésio interferem com a absorção. São metabolizados pelas enzimas P450, sendo a sua concentração afectada por outros fármacos que afectem esse sistema.
+O uso com glucocorticóides pode levar a danos nos tendões.
+Em asmáticos tratados com teofilina, pode haver aumento da sua toxicidade (devido à inibição do sistema de enzimas P450).
+
+
+== Membros do grupo ==
+Ciprofloxacina: usada no tratamento do Antrax.
+Levofloxacina
+Ofloxacina
+Norfloxacina
+Acrosoxacina
+Perfloxacina
+Cinoxacina: usada em infecções urinárias (ITUs)
+Ácido nalidixico: usada em infecções urinárias (ITUs)
+Besifloxacino: usado no tratamento de conjuntivite
+Enrofloxacina
+Moxifloxacino
+
+
+== Referências ==
+3. Daneman N, Lu H, Redelmeier DA. Fluoroquinolones and collagen associated severe adverse events: a longitudinalcohort study. BMJ Open 2015;5:e010077. doi:10.1136/bmjopen-2015- 010077.
+4. Trevor Lewis, MSc, MCSP*; Jill Cook, PhD†. Fluoroquinolones and Tendinopathy: A Guide forAthletes and Sports Clinicians and a Systematic Review of the Literature. Journal of Athletic Training. 2014;49(3):422–427.
+
+5.  Mahyar Etminan, PharmD, MSc (epi);  Farzin Forooghian, MD, MSc, FRCSC; James M. Brophy, MD, PhD, FRCPC; Steven T. Bird, PharmD;  David Maberley, MD, MSc, FRCSC. Oral Fluoroquinolones and the Riskof Retinal Detachment. JAMA. 2012;307(13):1414-1419.

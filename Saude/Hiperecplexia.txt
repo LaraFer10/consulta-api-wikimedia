@@ -1,0 +1,52 @@
+Hiperecplexia ("espasmo exagerado") é um distúrbio neurológico caracterizado classicamente por reações de sobressaltos resultantes de estímulos táteis ou acústicos e hipertonia. A hipertonia pode ser atenuada durante o sono e menos proeminente após um ano de idade. A hiperecplexia clássica é causada por mutações genéticas em vários genes diferentes, os quais desempenham um papel importante na neurotransmissão da glicina. A glicina é usada pelo sistema nervoso central como um neurotransmissor inibitório. A hiperecplexia é geralmente classificada como uma doença genética. mas alguns distúrbios podem imitar o sobressalto exagerado da hiperecplexia.
+
+
+== Sinais e sintomas ==
+Os três principais sinais de hiperecplexia são: rigidez generalizada, reação demasiada de sobressalto no nascimento e mioclonia noturna. Os indivíduos afetados permanecem totalmente conscientes durante os episódios de rigidez, que consistem em fechamento forçado dos olhos e extensão das extremidades, seguidos por um período de rigidez generalizada e queda descontrolada às vezes. Inicialmente, a doença foi classificada nas formas "maior" e "menor", sendo a forma menor caracterizada por um reflexo sobressalente excessivo, mas sem rigidez. Existe apenas evidência genética para a existência da forma principal.Outros sinais e sintomas de hiperecplexia podem incluir apneia neonatal episódica, movimento excessivo durante o sono e reflexo de retração da cabeça. A ligação a alguns casos de morte súbita infantil continua controversa.
+
+
+== Genética ==
+A hiperecplexia é causada por uma variedade de genes, codificando proteínas pré e pós-sinápticas. Os sintomas exibidos, bem como as formas de herança, variam de acordo com o gene afetado.
+
+
+=== GLRA1 ===
+O primeiro gene ligado conclusivamente à hiperecplexia foi o GLRA1. O gene GLRA1 codifica a subunidade alfa-1 do receptor de glicina, que, juntamente com a subunidade beta do receptor de glicina, forma receptores sinápticos de glicina. Os receptores inibidores da glicina são canais de cloreto dependentes de ligantes que facilitam respostas rápidas no tronco cerebral e na medula espinhal. Os receptores homoméricos de glicina compostos exclusivamente por subunidades alfa-1 exibem eletrofisiologia normal do canal iônico, mas não são sequestrados na junção sináptica. Assim, supõe-se que os receptores nativos de glicina sejam heterômeros das subunidades alfa-1 e beta, na proporção 3:2 ou 2:3.Dentro desses heterômeros, acredita-se que as subunidades alfa-1 se ligam à glicina e sofrem uma alteração conformacional, induzindo uma alteração conformacional no pentâmero, fazendo com que o canal iônico se abra. Embora autossômica dominante, herança tenha sido inicialmente relatada, há pelo menos o mesmo número de casos descritos com herança autossômica recessiva. Até o momento, a regra geral é que mutações que causam proteínas estruturalmente normais que não podem se ligar à glicina ou não podem sofrer adequadamente uma mudança conformacional necessária resultarão em uma forma dominante da doença, enquanto mutações que resultam em subunidades truncadas ou malformadas que não podem ser integradas uma proteína receptora resultará em uma forma recessiva.
+
+
+=== GLRB ===
+O gene GLRB codifica a subunidade beta do receptor de glicina. Os receptores homoméricos de glicina compostos por subunidades beta não abrem em resposta à estimulação da glicina, no entanto, a subunidade beta é essencial para a localização adequada do receptor por meio de suas interações com a gefirina, o que resulta no agrupamento de receptores na fenda sináptica. Como tal, os defeitos no gene GLRB mostram herança autossômica recessiva.
+
+
+=== SLC6A5 ===
+O gene SLC6A5 codifica o transportador GlyT2, um transportador neuronal de recaptação de glicina pré-sináptica. Em comparação com o transportador GlyT1, encontrado principalmente nas células da glia, o GlyT2 ajuda a manter uma alta concentração de glicina no terminal axónico dos neurônios glicinérgicos. Mutações do gene SLC6A5 foram associadas à hiperecplexia de maneira autossômica recessiva. A hipótese de que os defeitos neste gene afetem a incorporação do transportador na membrana celular ou a sua afinidade pelas moléculas que transporta: íons sódio, íons cloreto e glicina. Qualquer uma dessas ações reduziria drasticamente a capacidade da célula pré-sináptica de produzir as altas concentrações vesiculares de glicina necessárias para a neurotransmissão adequada da glicina.
+GPHN e ARHGEF9 são frequentemente incluídos em listas de causas genéticas de hiperecplexia — mas, na verdade, produzem um fenótipo muito mais complexo, muito distinto da hiperecplexia clássica. Como tal, eles não são mais considerados genes causadores.
+
+
+=== GPHN ===
+A gefirina, uma proteína de membrana integral que se acredita coordenar os receptores de glicina, é codificada pelo gene GPHN. Uma mutação heterozigótica nesse gene foi identificada em um caso esporádico de hiperecplexia, embora os dados experimentais sejam inconclusivos sobre se a mutação é patogênica. A nefirina é essencial para o agrupamento de receptores de glicina nas junções sinápticas através de sua ação de ligar a subunidade beta do receptor de glicina e as estruturas internas dos microtúbulos celulares. A gefirina também auxilia no agrupamento de receptores GABA nas sintases e na síntese do cofator de molibdênio. Devido à sua natureza multifuncional, não se presume que seja uma fonte genética comum de hiperecplexia.
+
+
+=== ARHGEF9 ===
+Foi demonstrado que um defeito no gene que codifica a colibistina (ARHGEF9) causa hiperecplexia em conjunto com a epilepsia. Como o gene ARHGEF9 está no cromossomo X, esse gene exibe herança recessiva ligada ao X. A proteína colibistina é responsável pelo direcionamento adequado da gefirina, que é crucial para a localização adequada dos receptores de glicina e GABA. Deficiências na função da colibistina resultariam em uma falta artificial de glicina e receptores GABA na fenda sináptica.
+
+
+== Diagnóstico ==
+Existem três condições usadas para diagnosticar se um bebê tem hiperecplexia hereditária: se o corpo da criança fica rígido por completo logo que nasce, se reage a ruídos e outros estímulos e se a reação a estímulos é seguida por uma rigidez geral onde a criança é incapaz de fazer movimentos voluntários. Uma combinação de eletroencefalograma e eletromiograma pode ajudar a diagnosticar essa condição em pacientes que não apresentaram sintomas quando crianças. o eletroencefalograma não mostrará atividade anormal além de um pico na vigília ou alerta, enquanto o eletromiograma mostrará respostas musculares rápidas e hiper-reflexia. Caso contrário, o teste genético é o único diagnóstico definitivo. A ressonância magnética e a tomografia computadorizada serão normais, a menos que existam outras condições.
+
+
+== Tratamento ==
+O tratamento mais comumente eficaz é o clonazepam, que leva ao aumento da eficácia de outro neurotransmissor inibitório, o GABA. Há relatos anedóticos do uso de Levetiracetam na hiperecplexia genética e adquirida. Durante ataques de hipertonia e apneia, os membros e a cabeça podem ser flexionados em direção ao tronco para dissipar os sintomas. Isso é chamado de manobra de Vigevano, em homenagem ao médico que a inventou.
+
+
+== História ==
+O distúrbio foi descrito pela primeira vez em 1958 por Kirstein e Silfverskiold. Em 1962, Kok e Bruyn relataram uma síndrome hereditária não identificada, inicialmente iniciada como hipertonia em bebês. Mais tarde, descobriu-se que a análise genética dentro desse grande pedigree holandês carregava uma mutação no gene GLRA1, que foi o primeiro gene implicado na hiperecplexia.
+
+
+== Notas ==
+
+
+== Referências ==
+
+
+== Ligações externas ==
+Entrada GeneReview/NIH/UW

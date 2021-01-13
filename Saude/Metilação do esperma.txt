@@ -1,0 +1,51 @@
+Metilação do esperma, assim como o nome sugere, é o processo de metilação que ocorre nas células reprodutivas masculinas. Tal processo ocorre normalmente nos indivíduos, podendo sofrer alterações relacionadas com a idade, bem como outros fatores ambientais.
+O perfil de metilação do DNA espermático é importante pois, além de ser um dos fatores que controla a expressão de genes imprintados que são cruciais para o desenvolvimento do embrião, ainda possui papel relevante quanto ao crescimento fetal, bem como comportamento pós-natal.
+A ocorrência de anomalias epigenéticas no esperma podem ser transmitidos para a prole e podem influenciar, de forma a aumentar, a susceptibilidade a certas doenças. 
+
+
+== Processo de metilação ==
+A metilação é um processo epigenético, caracterizado pela adição de grupos metil ao DNA e fazendo, desse modo, com que haja uma modificação no processo de transcrição do material genético. Essa modificação, no entanto, não altera a sequência de bases do DNA.
+A metilação do DNA age, em geral, de modo à reprimir a transcrição do DNA, quando localizada em um promotor gênico.
+Uma metilação correta do DNA espermático permite com que haja uma compactação normal do mesmo. Isso ajuda a proteger o material genético de danos, quer sejam físicos, como quebra ou perda de partes do DNA, ou químicos, através da inibição da digestão enzimática do mesmo, assim como a manutenção de sua estrutura conformacional. 
+Contudo, podem ocorrer danos ao DNA espermático (como dano oxidativo) que, por sua vez, podem levar a uma metilação incorreta ou até mesmo inibição desta. 
+O nível de metilação global do DNA está associado com a concentração do mesmo, além de estar associado com a motilidade. 
+Células que se dividem com uma frequência mais elevada tipicamente tem mais mudanças de metilação associadas com a idade do que células que se dividem com menor frequência.
+
+
+== Alterações ==
+Foram realizados diversos estudos para analisar se há alterações marcantes no processo de metilação espermático e quais seriam os eventos causadores dessas alterações. Constatou-se, por exemplo, que erros na metilação do esperma são mais frequentes em homens com parâmetros seminais anormais (como oligozoospermia) do que em homens normozoospérmicos.
+Entre os achados, aquelas que se destacam são as alterações relacionadas com a idade e as alterações relacionadas com fatores ambientais.
+
+
+=== Associadas à idade ===
+Foi realizado um estudo com doadores de esperma com amostras temporalmente distintas em um intervalo de 9-20 anos. Entre os doadores se encontravam homens normozoospérmicos e homens oligozoospérmicos. Foi encontrada correlação positiva entre metilação espermática e parâmetros convencionais do esperma (concentração e motilidade). Contudo, não foi observada relação entre metilação e vitalidade, ou mesmo morfologia.Os parâmetros de concentração, motilidade e viabilidade, bem como os índices de fragmentação do DNA e desnaturação do esperma foram identificados como sendo significativamente menores nos indivíduos oligozoospérmicos com o aumento da idade quando comparados aos indivíduos normozoospérmicos.
+Há, em media, uma alteração na metilação por ano de 0.281%. Ao se levar em conta toda o possível período reprodutivo de um indivíduo, chega-se à uma estimativa de 10-12% de alteração, o que é considerável.
+
+
+=== Associadas à fatores ambientais ===
+Sabe-se que fatores ambientais, como exposição à fome e agentes cancerígenos também causam impacto sobre a metilação do DNA espermático.
+
+
+==== Fome ====
+A exposição à fome constante, mesmo que intercalada por breves momentos de nutrição, causa um grande impacto sobre a metilação. 
+Foi demonstrado, em camundongos, que a prole de animais mal-nutridos tendia a desenvolver doenças como diabetes e obesidade com uma maior frequência. Isso pode ser observado em humanos, através de estudos epidemiológicos, aonde se pôde constatar que indivíduos cujos pais passaram por condições de fome, como no começo do século 19, também apresentaram tais doenças de maneira mais expressiva.
+
+
+==== Tabagismo e drogas ====
+Assim como no caso da fome, o uso de drogas, como o cigarro e álcool, pode impactar a metilação do DNA espermático. Essa alteração, novamente, se mostra a partir da constatação de uma maior incidência de doenças na prole.
+
+
+== Consequências ==
+Assim como dito no tópico acima, a ocorrência incorreta, ou mesmo inibição do processo de metilação espermática pode ter como resultado alterações nos parâmetros do esperma. Isso, por sua vez, refletir-se-á em uma possível queda na fertilidade, além do aumento da incidência de doenças associadas. 
+Doenças essas como diabetes, obesidade, leucemia e algumas formas de câncer. Pode haver também uma maior incidência de doenças associadas à repetição trinucleotídica, como distrofia miotônica e doença de Huntington. Além disso, pode estar também associada a desordens neuropsiquiátricas como esquizofrenia, transtorno de bipolaridade e autismo, entre outras. 
+
+
+== Métodos de análise ==
+Para se analisar o perfil de metilação pode-se utilizar diversas técnicas. A metodologia mais utilizada para análise de regiões metiladas requer o uso de bissulfito de sódio, que leva a conversão das citosinas não metiladas em uracilas﻿. Posteriormente, faz-se uma identificação das citosinas metiladas e não metiladas nos sítios CpG através do uso de PCR Metilação-Específica ou por sequenciamento. Pode-se ainda utilizar outras técnicas, como ELISA.
+
+
+== Implicações sobre a reprodução humana assistida ==
+Alterações nos padrões de metilação no esperma de homens inférteis pode ser a causa do aumento dos riscos para doenças imprintadas; nascimento prematuro; pouco peso ao nascer; anomalias congenitais; mortalidade perinatal e outras complicações relacionadas com a gravidez. Além disso, tais alterações podem levar também à infertilidade.Estudos clínicos reportaram um aumento da incidência de doenças de imprintings em crianças geradas a partir de reprodução humana assistida quando comparada com crianças concebidas naturalmente. Atualmente, visa-se eleger a metilação do DNA espermático como um candidato a biomarcador para infertilidade.
+
+
+== Referências ==

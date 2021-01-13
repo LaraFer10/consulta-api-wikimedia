@@ -1,0 +1,24 @@
+Predefinição:Influenza A (H1N1) Blog
+
+Hemaglutinina (HA) é uma glicoproteína, que tem como principal função ligar o vírus ao receptor da célula hospedeira.
+
+
+== Ocorrências ==
+Está presente no vírus influenza, suas variações podem gerar novas infecções podendo ocasionar epidemias graves ou simples gripes.Como por exemplo, a variação H5 presente na gripe aviária para (H5N1).
+
+
+== Mecanismo de ataque ==
+A hemaglutinina (HA) é uma glicoproteína que se situa na camada mais externa do vírus, o envelope. Ela reconhece um açúcar da nossa membrana celular, o ácido siálico, e é a responsável pelo reconhecimento e ligação do vírus a nossas células do sistema respiratório.
+Seu nome vem desta capacidade de reconhecer e se ligar à células e aglutinar hemácias (os glóbulos vermelhos do sangue), um dos primeiros testes desenvolvidos para diagnosticar o vírus. Sua numeração é dada com base na variação dos aminoácidos e são conhecidos mais de 15 tipos de HA, sendo H1, H2 e H3 as mais comuns em vírus que infectam humanos.
+Ela reconhece nosso ácido siálico e se liga a ele. Com isso, o vírus é endocitado pela célula, ou seja, envolvido pela membrana e levado dentro de uma vesícula. A célula tenta digerir o conteúdo da vesícula diminuindo o pH dentro da vesícula, mas isso induz uma mudança no formato da hemaglutinina, expondo a região em vermelho que possui muita afinidade pela membrana da vesícula, com isso, a hemaglutinina se torce e aproxima a membrana do envelope do vírus, fundindo ambas e liberando o vírus da vesícula.
+
+
+== Mecanismo ==
+A Hemaglutinina se liga ácido siálico do monossacarídeo que está presente na superfície das células alvo. Isso faz com que as partículas virais transpassem a superfície da célula. A membrana celular então engole o vírus e parte da membrana que envolve ele aperta para formar um novo compartimento ligado à membrana dentro da célula chamada de um endossomo, que contêm vírus engolidos. Então a célula tenta fazer a digestão do conteúdo do endossomo acidificando o seu interior e o transformando em um lisossomo. Entretanto, quanto mais cedo o pH dentro do endossomo diminui para próximo de 6, a estrutura original da molécula de Hemaglutinina se torna instável, causando nela uma abertura parcial, e libertando uma porção bastante hidrofóbica da cadeia desse peptídeo que estava previamente escondida dentro da proteína. Essa assim chamada “fusão peptídica” atua como uma gancho de agarramento molecular pela inserção dela mesma na membrana do endossomo e a trancando. Então, quando o resto da molécula de Hemaglutinina desdobrar em uma nova estrutura (que é mais estável com um pH mais baixo), ela “retrai o gancho de agarramento” e puxa a membrana endossomal até próximo às partículas do vírus pertencentes à membrana, fazendo com que as duas se fundam. Uma vez que isso aconteceu, o conteúdo dos vírus, incluindo seu RNA, estão livres para derramar no citoplasma da célula.
+
+
+== Estrutura ==
+Hemaglutinina é uma glicoproteína de membrana homotrimérica integral. Ela é como um cilindro, e é aproximadamente 13,5 nanômeros de comprimento. Os três monômeros idênticos que constituem a Hemaglutinina são construídos dentro da α-hélice central; três cabeças esféricas que contêm ácido siálico ligando as posições.  Monômeros de hemaglutinina são sintetizados como precursores que são glicolizados e divididos dentro de dois pequenos polipeptídios: A H1 e H2 subunidades. Cada monômero de hemaglutinina consiste de uma longa cadeia helicoidal ancorada na membrana pela H2 e coberto pelo grande glóbulo de H1.
+
+
+== Fontes ==

@@ -1,0 +1,162 @@
+A matriz BLOSUM (BLOcks of Amino Acid SUbstitution Matrix) é uma matriz de substituição usada para o  alinhamento de sequências de proteínas. Matrizes BLOSUM são usadas para pontuar alinhamentos entre sequências de proteínas divergentes.  Elas são baseadas em alinhamentos locais. As matrizes BLOSUM foram introduzidas pela primeira vez em um artigo de Henikoff e Henikoff. Elas examinam o banco de dados BLOCKS buscando regiões muito conservadas de famílias de proteínas (que não têm lacunas no alinhamento de sequências) e depois contam a freqüência relativa de aminoácidos e as suas probabilidades de substituição. Então, elas calculam a pontuação do logaritmo das razões de chance para cada uma das 210 possíveis substituições dos 20 aminoácidos-padrão. Todas as matrizes BLOSUM são baseadas em alinhamentos observados; não são extrapoladas a partir de comparações de proteínas intimamente relacionadas como as Matrizes PAM.
+Vários conjuntos de matrizes BLOSUM existem usando bases de dados de alinhamento diferentes, batizadas com números. As matrizes BLOSUM com números elevados são projetadas para comparar seqüências intimamente relacionadas, enquanto que aquelas com baixos números são projetadas para comparar seqüências distantemente relacionadas. Por exemplo, a BLOSUM80 é usada para alinhamentos menos divergentes, e a BLOSUM45 é usada para alinhamentos mais divergentes. As matrizes foram criadas pela fusão (clustering) de todas as seqüências que eram mais semelhantes do que uma determinada percentagem em uma única seqüência e depois comparando somente estas seqüências (aquelas que foram mais divergentes do que o valor percentual determinado); reduzindo assim a contribuição de seqüências estreitamente relacionadas. O percentual utilizado foi acrescentada ao nome, formando BLOSUM80, por exemplo, quando sequencias mais de 80% idênticas foram agrupadas.
+Escores dentro de uma BLOSUM são pontuações  do logaritmo das razões de chance que medem, em um alinhamento, o logaritmo para a razão entre a probabilidade de dois aminoácidos aparecendo com um sentido biológico e a probabilidade dos mesmos aminoácidos aparecendo por acaso. As matrizes  são baseadas no mínimo percentual de identidade das sequência de proteínas alinhadas usado para o cálculo delas. A cada identidade ou substituição possível é atribuída uma pontuação com base nas suas  frequências observadas no alinhamento das proteínas relacionadas. Um escore positivo é dado para as substituições mais prováveis, enquanto uma pontuação negativa é dada para  as substituições menos prováveis.
+Para calcular  uma matriz BLOSUM, a seguinte equação é utilizada:
+
+  
+    
+      
+        
+          S
+          
+            i
+            j
+          
+        
+        =
+        
+          (
+          
+            
+              1
+              λ
+            
+          
+          )
+        
+        log
+        ⁡
+        
+          
+            (
+            
+              
+                
+                  p
+                  
+                    i
+                    j
+                  
+                
+                
+                  
+                    q
+                    
+                      i
+                    
+                  
+                  ∗
+                  
+                    q
+                    
+                      j
+                    
+                  
+                
+              
+            
+            )
+          
+        
+      
+    
+    {\displaystyle S_{ij}=\left({\frac {1}{\lambda }}\right)\log {\left({\frac {p_{ij}}{q_{i}*q_{j}}}\right)}}
+  Aqui, 
+  
+    
+      
+        
+          p
+          
+            i
+            j
+          
+        
+      
+    
+    {\displaystyle p_{ij}}
+   é a probabilidade de dois aminoácidos 
+  
+    
+      
+        i
+      
+    
+    {\displaystyle i}
+   e 
+  
+    
+      
+        j
+      
+    
+    {\displaystyle j}
+   estarem substituindo uns aos outros em uma seqüência homóloga, e 
+  
+    
+      
+        
+          q
+          
+            i
+          
+        
+      
+    
+    {\displaystyle q_{i}}
+   e 
+  
+    
+      
+        
+          q
+          
+            j
+          
+        
+      
+    
+    {\displaystyle q_{j}}
+   são as probabilidades de fundo de encontrar os aminoácidos 
+  
+    
+      
+        i
+      
+    
+    {\displaystyle i}
+   e 
+  
+    
+      
+        j
+      
+    
+    {\displaystyle j}
+   em qualquer  seqüência de proteína de forma aleatória. O fator 
+  
+    
+      
+        λ
+      
+    
+    {\displaystyle \lambda }
+   é um fator de escala, definido de tal forma que a matriz contenha ​​valores inteiros facilmente computáveis.
+Um artigo na Nature Biotechnology revelou que o BLOSUM62, usado por tantos anos como um padrão, não é exatamente preciso de acordo com o algoritmo descrito por Henikoff e Henikoff. Surpreendentemente, o mal calculado BLOSUM62 melhora o desempenho da pesquisa.
+
+
+== Ver também ==
+Alinhamento de sequências
+Point accepted mutation
+Filogenética computacional
+
+
+== Ligações externas ==
+Página sobre BLOSUM
+Sean R. Eddy (2004). «Where did the BLOSUM62 alignment score matrix come from?». Nature Biotechnology. 22 (8). p. 1035. PMID 15286655. doi:10.1038/nbt0804-1035 
+Servidor WWW BLOCKS
+Sistemas de escores para o BLAST na NCBI
+Aqruivos de dados de BLOSUM no servidor FTP do NCBI.
+
+
+== Referências ==

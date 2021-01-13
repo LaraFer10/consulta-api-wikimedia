@@ -1,0 +1,30 @@
+A interleucina6 (IL-6) foi inicialmente descrita como interferon-2 pelo fator estimulador de hepatócito, fator de diferenciação de células B e fator de crescimento de hibridoma/plasmocitoma, sendo o nome IL-6 adquirido na década de 80. Tem ação na hematopoiese levando ao crescimento de células-mãe primitivas hematopoiéticas e Está relacionada ao aumento da maturação e proliferação megacariocítica.
+
+
+== Produção ==
+É produzida por muitos tipos celulares, sendo suas principais fontes os monócitos, macrófagos, células endoteliais e os fibroblastos, e pode ser estimulada pela interleucina1 (IL-1) e TNFα através de dois sistemas de segundo - mensageiro: proteínase-C e AMP cíclico (1,2). A IL-6 é produzida em baixos níveis, mas há um aumento na sua expressão na presença de inflamação ou trauma.
+
+
+== Estrutura ==
+Estrutura proteica: A IL-6 é uma glicoproteína, composta por 212 aminoácidos, com massa molecular entre20-30kDa.
+
+
+== Função ==
+A interleucina-6 (IL-6) é uma citocina com atuação tanto na resposta imune inata como na adaptativa. É um importante marcador inflamatório, e está envolvida em uma série de atividades imunológicas, em especial a síntese de substâncias de fase aguda pelo fígado (1, 2). Também é um importante mediador da febre e da resposta de fase aguda. É capaz de atravessar a barreira hematoencefálica e iniciar a síntese de PGE  nohipotálamo, alterando assim valor nominal da temperatura do corpo. No músculo e tecido adiposo, a IL-6 estimula a mobilização de energia que leva ao aumento da temperatura corporal. Pode ser secretada por macrófagos em resposta a moléculas específicas microbianas, referidos como padrões moleculares (PAMPs). Estes PAMPsligam-se a um importante grupo de moléculas de detecção do sistema imunológico inato , chamado de receptores de reconhecimento padrão (PRRs), incluindo os receptores Toll-like ( TLRs ). Estes estão presentes na superfície da célula e os compartimentos intracelulares induzem cascatas de sinalização intracelular que dão origem à produção de citocionas inflamatórias.
+
+
+== IL- 6 relacionada a doenças ==
+A IL-6 ocupa posição central nos processos inflamatórios subjacentes de doenças inflamatórias crônicas. Várias linhagens de células tumorais estão associadas à produção espontânea desta citocina, como no caso de mielomas, leucemias, mixomas, astrocitomas, glioblastomas, osteossarcomas e carcinomas. Observam-se níveis circulantes de IL-6 em casos de trauma cirúrgico, sepse, queimaduras, rejeição de transplantes, em pacientes com câncer e doenças crônicas, como lúpus e artrite reumatoide.
+
+
+== Tratamento ==
+A IL-6 tem ação antineoplásica para células tumorais mieloides e de carcinomas ovariano, mamário e renal, sugerindo um provável papel na terapia do câncer.
+
+
+== Receptores ==
+A IL-6 é uma das citocinas que utiliza gp130, também conhecida como IL-6 transdutor de sinal (IL6ST), nos seus complexos de sinalização. A IL-6 interage com o seu receptor, aciona as proteínas gp130 e IL-6R para formar um complexo, ativando assim o receptor. Estes complexos reúnem regiões intracelulares da gp130 para iniciar uma cascata de transdução de sinal através de certos fatores de transcrição, Januskinase (JAK) e transdutores de sinal e ativadores de transcrição (STAT).  Além do receptor ligado à membrana, uma forma solúvel de IL-6R (sIL-6R) foi purificado a partir de soro e urina humanos. Muitas células neuronais não respondem à estimulação por IL-6 por si só, mas a diferenciação e sobrevivência de células neuronais pode ser mediada através da ação de sIL-6R. A / IL-6 complexo de sIL-6R que pode estimular o crescimento de neurites e promover a sobrevivência de neurónios e, por conseguinte, pode ser importante na regeneração do nervo através de remielinização.
+
+
+== Referências ==
+
+GARCIA, J. B. S.; ISSY, A. M.; SAKATA, R. K. Citocinas e anestesia. Revista Brasileira de Anestesiologia. São Paulo, v. 52, p. 86 – 100, 2002.GOMES, M. A. M.; NETO, N. C. M.; BISPO, I. G. A. Interleucina-6, Moléculas de Adesão Intercelular-1 e Microalbuminúria na Avaliação da Lesão Endotelial: Revisão de Literatura. Revista Sociedade de cardiologia do Estado de Rio de janeiro.  Rio de janeiro, v. 22, p. 398 – 403, 2009.ZUO, H. P. et al. Hipometilação do Promotor de Interleucina-6 Associada com Risco de Doença Arterial Coronariana. Arquivos Brasileiros de Cardiologia. São Paulo, v. 107, 2016.CHAHADE, W. H. Areação inflamatória autoimune e possibilidade de seu controle. Revista Brasileira de Medicina. v. 10, p. 84 - 87, 2008.

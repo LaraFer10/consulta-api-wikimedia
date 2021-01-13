@@ -1,0 +1,16 @@
+A ARN-polimerase I,também denominada de Pol I, é uma enzima presente nos organismos eucariontes superiores que transcreve apenas o rRNA ou RNA ribossomal (mas não o rRNA 5S, que é sintetizado pela RNA polimerase III), um tipo de RNA responsável por mais de 50% do RNA total sintetizado em uma célula. A Pol I é composta por 12 subunidades proteicas (polipéptidos). a Pol I executa 80% de toda a transcrição que ocorre na célula. Todas as 12 subunidades têm contrapartes idênticas ou relacionadas na ARN-polimerase II e ARN-polimerase III.
+O processo de transcrição pela Pol I tem relativa pouca regulação (o rRNA para os ribossomas é sempre necessário em grandes quantidades). Consequentemente, a transcrição pela Pol I é um processo comparativamente simples, com poucos passos que requerem regulação. A Pol I transcreve o grande transcrito que codifica as subunidades de RNA 18S, 5.8S e 28S dos ribossomas de eucariotas. Os trancritos são clivados por snoRNAs. O rRNA 5S é transcrito pela Pol III. Devido à simplicidade da trasncrição pela Pol I, é a mais rápida das polimerases actuantes.
+No processo de transcrição (por qualquer polimerase) existem três passos principais:
+
+Iniciação: a construção do complexo de RNA polimerase no promotor do gene, com ajuda de factores de transcrição.
+Elongação: a actual transcrição da maioria do gene em um correspondente sequência de RNA
+Terminação: a cessação da transcrição de RNA e a desagregação do complexo da RNA polimerase.
+
+
+== Ver também ==
+ARN-polimerase II
+ARN-polimerase III
+ARN-polimerase IV
+
+
+== Referências ==

@@ -1,0 +1,17 @@
+Recombinação é a troca aleatória de material genético durante a meiose.A grande contribuição da meiose para a variabilidade genética é a recombinação, ou seja, combinar de modo diferente os genes herdados dos pais do indivíduo. Isto ocorre de duas maneiras diferentes durante a primeira divisão da meiose (meiose I): o crossing-over entre as cromátides não-irmãs e a separação aleatória dos cromossomos homólogos.
+O primeiro processo é o crossing-over, que é o sobrecruzamento das cromátides  não-irmãs de dois cromossomos homólogos. Este fenômeno ocorre na(prófase I, mais precisamente no paquíteno),e determina o intercâmbio de segmentos cromossómicos com certos blocos de genes. As ligações entre os cromossomos são chamadas (quiasmas), e cada par de cromossomos homólogos geralmente faz dezenas de trocas de pedaços em uma meiose. Assim, genes dos cromossomos paterno e materno são misturados, formando um "cromossomo híbrido".
+O segundo processo é a separação aleatória dos cromossomas homólogos durante a Anáfase I. Assim, para cada par de cromossomos homólogos "híbridos" formados, qual será direcionado para qual célula filha é um evento aleatório.
+Deste modo, ao final da meiose, as células-filhas possuirão uma combinação genética diferente da célula-mãe. Cada gameta (espermatozóide ou óvulo) contém cromossomos vindos do pai e da mãe do indivíduo, e ainda cada cromossomo possui partes do pai e da mãe.
+
+
+== Consequências da recombinação ==
+Em organismos assexuados, genes são herdados juntos, ou ligados, já que eles não podem se misturar com genes de outros organismos durante a reprodução. Por outro lado, a prole de organismos sexuados contém uma mistura aleatória dos cromossomos de seus pais, que é produzida a partir da segregação cromossômica. No processo relacionado de recombinação gênica, organismos sexuados podem trocar DNA entre cromossomos homólogos. Esses processos de embaralhamento podem permitir que mesmo alelos próximos numa cadeia de DNA segreguem independentemente. No entanto, como ocorre cerca de um evento de recombinação para cada milhão de pares de bases (em humanos), genes próximos num cromossomo geralmente não são separados, e tendem a ser herdados juntos. Essa tendência é medida encontrando-se com qual frequência dois alelos ocorrem juntos, medida chamada de desequilíbrio de ligação. Um conjunto de alelos que geralmente é herdado em grupo é chamado de haplótipo, e essa co-herança pode indicar que o locus está sob seleção positiva.
+
+
+== Ver também ==
+Seleção natural
+Recombinação bacteriana
+Recombinação V(D)J
+
+
+== Referências ==

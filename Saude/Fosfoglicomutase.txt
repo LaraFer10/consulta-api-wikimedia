@@ -1,0 +1,25 @@
+A Fosfoglicomutase (número EC: 5.4.2.2) é uma enzima que faz a transferência de um grupo fosforil, num monómero de glucose, da posição 1' para a posição 6' e vice versa. Ou seja, facilita a interconversão de glucose-1-fosfato e glucose-6-fosfato. Já foi mostrado em leveduras que lítio é um inibidor da ação dessa enzima. 
+
+
+== Função na glicogenólise ==
+A glicogênio fosforilase quebra o glicogênio em monômeros de glicose-1-fosfato. Este monômero, não pode ser prontamente utilizado em vias energéticas. Para isso, é convertido em seu isômero Glicose-6-fosfato pela fosfoglicomutase. A fosfoglicomutase fosforila o carbono da posição 6' e desfosforila o da posição 1'. A glicose-6-fosfato, pode agora ser utilizado na glicólise, via das pentoses-fosfato e também para a síntese de Trealose, dependendo das necessidades energéticas da célula.
+
+
+== Função na glicogênese ==
+A proteína fosfoglicomutase também pode favorecer a síntese de glicogênio quando os níveis de glicose sanguíneos estão altos. Nesse caso, glicose-6-fosfato (originado da fosforilação da glicose pela Hexoquinase ou Glicoquinase) é convertida para glicose-1-fosfato. 
+Glicose-1-Fosfato reage com UTP e origina UDP-glicose, numa reação catalisada pela enzima UDP-glicose-pirofosforilase. A junção de monômeros de UDP-glicose pela glicogênio sintase, formarão o glicogênio.
+
+
+== Genes ==
+PGM1, PGM2, PGM3, PGM5
+
+
+== Ver também ==
+mutase
+
+
+== Ligações externas ==
+MeSH Phosphoglucomutase
+
+
+== Referências ==

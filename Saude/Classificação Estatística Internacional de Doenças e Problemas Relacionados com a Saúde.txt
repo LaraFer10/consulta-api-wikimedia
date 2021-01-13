@@ -1,0 +1,69 @@
+A Classificação Estatística Internacional de Doenças e Problemas Relacionados com a Saúde (CID; em inglês: International Statistical Classification of Diseases and Related Health Problems, ICD) determina a classificação e codificação das doenças e uma ampla variedade de sinais, sintomas, achados anormais, denúncias, circunstâncias sociais e causas externas de danos e/ou doença. Fornece códigos relativos à classificação de doenças e de uma grande variedade de sinais, sintomas, aspectos anormais, queixas, circunstâncias sociais e causas externas para ferimentos ou doenças. A cada estado de saúde é atribuída uma categoria única à qual corresponde um código, que contém até 6 caracteres. Tais categorias podem incluir um conjunto de doenças semelhantes.
+A CID é publicada pela Organização Mundial de Saúde (OMS) e é usada globalmente para estatísticas de morbilidade e de mortalidade, sistemas de reembolso e de decisões automáticas de suporte em medicina. O sistema foi desenhado para permitir e promover a comparação internacional da colecção, processamento, classificação e apresentação do tipo de estatísticas supracitado. CID é uma classificação base da Família Internacional de Classificações da OMS (WHO-FIC).
+A CID é revista periodicamente e encontra-se na sua décima edição (CID-10). Está prevista a substituição da CID-10 pela décima primeira edição (CID-11). A CID-11 foi lançada em 18 de junho de 2018, tendo sido apresentada para adoção dos Estados Membros em maio de 2019 (durante a Assembleia Mundial da Saúde) deve entrar em vigor em 1º de janeiro de 2022. A versão anterior, a CID-10, foi desenvolvida em 1993 para registar as estatísticas de mortalidade. Atualizações anuais (menores) e trienais (maiores) são publicadas pela OMS.
+
+
+== História ==
+A CID foi publicada pela Organização Mundial da Saúde (OMS). Ocupa-se a nível internacional para fins estatísticos relacionados com morbilidade e mortalidade, os sistemas de reintegro e suportes de decisão automática em medicina. Este sistema está desenhado para promover a comparação internacional da coleta, processamento, classificação e apresentação destas estatísticas. A CID é a classificação central da WHO Family of International Classifications (WHO-FIC) (em espanhol, a Família de Classificações Internacionais da OMS).A lista CID-10 tem sua origem na «Lista de causas de morte», cuja primeira edição realizou-a o Instituto Internacional de Estatística em 1893. A OMS fez-se cargo da mesma em 1948, na sexta edição, a primeira em incluir também causas de morbilidade. À data, a lista em vigor é a décima, e a OMS segue trabalhando nela.
+A CID-10 desenvolveu-se em 1992 e seu propósito foi rastrear estatísticas de mortalidade. A OMS publica atualizações menores anuais e atualizações maiores a cada três anos. Em 18 de junho de 2018, foi lançada pela OMS a CID-11, com aproximadamente 55 mil códigos únicos para lesões, doenças e causas de morte, que entrará em vigor em 1 de janeiro de 2022.Posteriormente, alguns países têm criado suas próprias extensões do código CID-10. Por exemplo, Austrália apresentou a sua primeira edição, a CIE-10-AM em 1998; Canadá publicou a sua versão no ano 2000, a CIE-10-CA Alemanha também tem a sua própria extensão, a «CID-10-GM».
+Nos E.U.A acrescentou-se o anexo com o sistema de classificação de procedimentos ou ICD-10-PCS.Apesar de que já utilizam o manual de procedimentos, Estados Unidos e Porto Rico se estão a preparar para a implementação do Sistema de Classificação de Doenças para começar em outubro de 2015.
+
+
+== Edições ==
+
+
+=== Codificação na CID-9 ===
+001-139: Doenças infecciosas e parasitárias
+140-239: Neoplasias
+240-279: Doenças endócrinas, nutricionais e metabólicas e doenças imunológicas
+280-289: Doenças do sangue e de seus órgãos formadores
+290-319: Doenças mentais
+320-359: Doenças do sistema nervoso
+360-389: Doenças dos órgãos sensoriais
+390-459: Doenças do sistema circulatório
+460-519: Doenças do sistema respiratório
+520-579: Doenças do sistema digestivo
+580-629: Doenças do sistema geniturinário
+630-676: Complicações da gravidez, nascimento e puerpério
+680-709: Doenças da pele e tecido subcutâneo
+710-739: Doenças do sistema musculoesquelético e dos tecidos conectivos
+740-759: Anomalias congénitas
+760-779: Condições originadas no período perinatal
+780-799: Sintomas, sinais e condições definidoras de doenças
+800-999: Lesões e envenenamentos
+E e V: Causas externas de lesões e classificação suplementar
+
+
+=== Codificação na CID-10 ===
+Cada doença pode ser dada a uma categoria e receber um código de até seis caracteres de longitude (em formato de X00.000). Cada uma das tais categorias pode incluir um grupo de doenças similares. A CID-10 segue uma hierarquia de Capítulos, que contém Grupos, que contém Categorias, que por sua vez contém Subcategorias que representam o nível de maior detalhamento.
+Apêndices:
+
+A. Morfologia das neoplasias
+B. Classificação de fármacos por seu Número de Lista do Serviço de Formulários de Hospitais Norte-americanos e seu equivalente CIE-9-CM.
+C. Classificação de Acidentes Industriais
+D. Lista de categorias de três dígitos.00000
+
+
+=== CID-11 ===
+CID-11 é o acrónimo da décima primeira versão da CID e foi lançada dia 18 de junho de 2018, para entrar em vigor a partir de 2022.
+
+
+== Ver também ==
+Classificação Internacional de Assistência Primária (CIAP-2)
+Classificação Internacional de Doenças para Oncologia (CID-O)
+Manual diagnóstico e estatístico dos transtornos mentais (DSM-5)
+Classificação Internacional de Cefaleias
+
+
+== Referências ==
+
+
+== Ligações externas ==
+Sítio oficial (em inglês)
+Site para consulta rápida por cid ou nome de doença
+CID-10 no sítio eletrônico do DATASUS
+Portal de Codificação e dos GDH da ACSS
+«ICD-9-CM homepage» (em inglês) 
+Excel spreadsheets with ICD-10-AM to ICD-9-CM-A and vice versa
+«Página de preparação da CID-11» (em inglês) 
+«Relação de Grupos e Capítulos da CID-10»

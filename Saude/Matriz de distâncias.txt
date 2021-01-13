@@ -1,0 +1,40 @@
+Na matemática, ciência da computação e na teoria dos grafos, uma matriz de distâncias é uma matriz (array bidimensional) contendo as distâncias, tomadas em pares, de um conjunto de pontos. Esta matriz terá um tamanho de N×N onde N é o número de pontos, nós ou vértices (muitas vezes em um grafo).
+
+
+== Comparação com matrizes relacionadas ==
+
+
+=== Comparação com matrizes de adjacência ===
+Matrizes de distância estão relacionadas com matrizes de adjacência, com as diferenças que (a)  que a última apenas fornece as informações de que vértices estão ligados mas não diz nada sobre os custos ou distâncias entre os vértices e (b)  uma entrada de uma matriz de distância é menor, se dois elementos estão mais próximos, ao passo que vértices "próximos" (conectados) produzem entradas maiores em uma matriz de adjacência.
+
+
+=== Comparação com a matriz de distância euclidiana ===
+Ao contrário de uma matriz de distância euclidiana, a matriz não precisa ser simétrica -- isto é, os valores xi,j não necessariamente são iguais aos valores xj,i. Da mesma forma, os valores da matriz não estão restritos a reais não-negativos (como seriam na matriz de distância euclidiana) mas podem ter valores negativos, zeros ou números imaginários dependendo da métrica de custo utilizada e do uso específico. Embora seja frequentemente o caso, matrizes de distância não se restringem a ser oca - ou seja, eles podem ter entradas não zeradas na diagonal principal.
+
+
+== Exemplos e usos ==
+
+
+=== Exemplo 1: Distância em um grafo ===
+Por exemplo, suponha devam ser analisadas as distâncias entre os átomos do 3-Etilhexano,
+
+A matriz de distâncias seria:
+
+
+=== Exemplo 2: Distância entre pixeis ===
+Por exemplo, suponha que esses dados devam ser analisados, onde a distância euclidiana em pixeis seja a métrica de distância.
+
+A matriz de distâncias seria:
+
+Estes dados podem ser visualizados em forma gráfica como um mapa de calor. Nesta imagem, preto denota uma distância de 0 e branco é a distância máxima.
+
+Em bioinformática, matrizes de distâncias são usadas para representar estruturas de proteínas de uma forma independente de coordenadas, bem como as distâncias entre duas seqüências de pares no espaço de seqüências.Eles são usados em alinhamentos estruturais e seqüenciais, e para a determinação de estruturas de proteínas a partir de RMN ou cristalografia de raios X.
+Às vezes é mais conveniente expressar dados como em uma matriz de similaridade.
+
+
+== Ver também ==
+Clustering
+Visão computacional
+
+
+== Referências ==

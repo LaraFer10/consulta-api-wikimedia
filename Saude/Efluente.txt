@@ -1,0 +1,44 @@
+Efluente (do latim effluens) é o resíduo proveniente das atividades humanas, como processos industriais e rede de esgoto, que são lançados no meio ambiente, na forma de líquidos ou de gases.Os efluentes ao serem despejados no meio ambiente causam a alteração de qualidade nos corpos receptores e consequentemente a sua poluição (degradação). Ao longo da história da humanidade, o desenvolvimento urbano e industrial prevaleceu em torno dos rios devido a disponibilidade de água para abastecimento e a possibilidade de utilizar o rio como auxílio no descarte dos efluentes. Logo, a poluição hídrica devido a má gestão dos efluentes é algo recorrente.Na indústria química, há dois tipos de efluentes líquidos classificados de forma diferente: os gerados na planta e os usados como utilidades para a indústria. O primeiro refere-se aos efluentes gerados durante processos como reações, separações ou reciclos. Enquanto os efluentes usados como utilidades refere-se as águas de lavagem, resfriamento etc.
+
+
+== Características ==
+
+As principais características para avaliar os efluentes líquidos são:
+sólidos totais - matéria que permanece após a evaporação à 103 a 105°C. Podem ser classificados como sólidos em suspensão e sólidos filtráveis, sendo o tratamento diferente para cada situação.
+sólidos sedimentáveis - volume de sólidos presente no efluente que se sedimenta após um período de tempo de repouso do líquido.
+temperatura - parâmetro muito importante para ser controlado devido ao seu impacto na vida aquática que pode gerar danos às espécies animais e redução de oxigênio disponível devido a maior solubilidade do gás em temperaturas menores.
+cor e turbidez - as alterações podem restringir a penetração dos raios solares nos meios aquáticos, causando distúrbios à fauna e à flora.
+pH ou potencial hidrogeniônico - fornece informações a respeito da acidez (ou da alcalinidade) de um efluente. Como os organismos aquáticos estão geralmente acostumados com pH neutros (próximos de 7), alterações muito bruscas  podem acarretar na mortandade de seres vivos.
+demanda bioquímica de oxigênio (DBO) - a quantidade de oxigênio necessária para oxidar a matéria orgânica por meio de bactérias. O teste realizado mede a quantidade de matéria orgânica presente na água (efluente) que é biodegradável, ou seja, que pode ser degradada através de microorganismos.
+demanda química de oxigênio (DQO) - a quantidade de oxigênio necessária para oxidar a matéria orgânica por meio de um agente químico.
+
+
+== Tratamentos ==
+Há inúmeros métodos de tratamento de efluentes que necessitam ser aplicados antes de ser lançado nos rios a fim de evitar poluição ambiental. Existem padrões de qualidade da água fixados em normas e regulamentos federais, estaduais e municipais que devem ser seguidos. Para o tratamento de efluentes líquidos estão envolvidos processos físicos, químicos e biológicos. Processos físicos -  Processos de remoção das substâncias fisicamente separáveis dos líquidos, as quais não estão dissolvidas. 
+Processos químicos -  Utilização de produtos químicos. Por exemplo, remoção de sólidos por sedimentação utilizando um produto de precipitação química para aumentar a eficiência. 
+Processos biológicos - Transformação de componentes complexos em componentes simples.
+
+
+=== Graus de tratamento ===
+O grau de tratamento de efluentes depende de dois fatores:
+A qualidade do efluente antes de ser lançado no corpo receptor.
+A legislação ambiental em vigor que regula os padrões de qualidade do efluente para seu lançamento.Os efluentes tem diferentes origens portanto devem ser considerados diversos métodos para seu tratamento. Pode ser dividido em três processos:
+
+Tratamento primário -  remoção de sólidos em suspensão e material graxo.
+Tratamento secundário - remoção do material orgânico solúvel de natureza biodegradável, é um processo natural conduzido por agentes microbianos.
+Tratamento terciário - remoção de material diluído que não foi removido nas etapas anteriores.
+
+
+== Legislação ==
+
+
+=== Brasil ===
+Legislação do BrasilA Resolução CONAMA no. 430/2011 estabelece limites para lançamento de efluentes e a Portaria no. 518/2004 do Ministério da Saúde estabelece procedimentos e responsabilidades do controle e vigilância da qualidade da água para consumo humano.
+
+
+== Referências ==
+
+
+== Ligações externas ==
+Resolução CONAMA no. 430/2011
+Portaria do Ministério da Saúde n.º 518/2004

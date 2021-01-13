@@ -1,0 +1,30 @@
+Em bioquímica, dois biopolímeros apresentam antiparalelismo ou são antiparalelos se discorrem paralelamente um em relação ao outro mas em direcções opostas. Um exemplo são as duas cadeias complementárias que formam a dupla hélice do ADN, que discorrem em sentidos opostos (por onde começa uma acaba a outra).
+
+
+== Ácidos nucleicos ==
+
+As moléculas de ácidos nucleicos têm uma extremidade 5', por onde se considera que começa a cadeia, com um grupo fosfato, e uma extremidade 3' com um grupo hidroxilo, por onde acaba. Se numa extremidade dum ADN bicatenário está a extremidade 5' duma das cadeias, ali está a extremidade 3' da outra cadeia, uma vez que são antiparalelas.
+Quando se realiza a transcrição genética é copiada uma molécula de ARN complementária na direcção antiparalela a partir do ADN molde ou antissentido; neste caso a ARN polimerase sintetiza o novo ARN na direcção 5'→3', movendo-se sobre o ADN de 3' para 5'.
+Durante a replicação do ADN a ADN polimerase replica o ADN também de forma antiparalela de modo semelhante ao da transcrição. A estrutura antiparalela é importante na replicação do ADN, uma vez que o ADN polimerase sempre sintetiza em direcção 5'→3', pelo que as duas fibras novas sintetizam-se em sentido contrário, e uma sintetiza-se de forma continua e rápida (a fibra líder) e a outra de forma lenta e descontínua formando fragmentos de Okazaki (a fibra retardada).
+
+
+== Polipéptidos ==
+As cadeias polipeptídicas têm uma extremidade C-terminal com um grupo carboxilo (COOH), que é por onde se considera que começam, e uma extremidade N-terminal com um grupo amino (NH2), que é por onde se considera que rematam. Duas cadeias polipeptídicas são antiparalelas se se encontram dispostas de modo a que onde uma tem a extremidade C-terminal a outra tem o N-terminal. Se as duas têm a extremidade C-terminal no mesmo lado, então são paralelas. Isto é importante na estrutura secundária em folha-beta.
+
+
+=== Folha-beta ===
+
+Muitas proteínas podem adoptar uma disposição em folha-beta antiparalela como parte da estrutura secundária duma só cadeia polipeptídica, ou como a estrutura adoptada por várias cadeias polipeptídicas colocadas em paralelo, como ocorre nas beta-queratinas. Nas folhas-beta, secções duma mesma cadeia polipeptídica podem discorrer paralelas umas ao lado das outras, formando entre elas pontes de hidrogénio entre os átomos de oxigénio duma e os de hidrogénio (ligados a nitrogénio) situados na frente envolvidos nas ligações peptídicas entre os aminoácidos. As ligações são semelhantes quando se trata de folhas-beta antiparalelas entre cadeias polipeptídicas distintas filamentosas posicionadas paralelamente, nas quais qando o cabo duma começa numa extremidade C-terminal a outra nesse ponto acaba numa extremidade N-terminal; as sucessivas cadeias que se unam assim vão alternando as suas extremidades antiparalelamente. Nem todas as folhas-beta são antiparalelas; existem também folhas-beta paralelas em que todas as cadeias começam na mesma extremidade por um C-terminal, e acabam todas na outra extremidade num N-terminal.
+
+
+=== Complexos proteicos ===
+Noutras associações de proteínas e complexos proteicos pode dar-se antiparalelismo quando as proteínas discorrem paralelamente mas em direcções opostas.
+
+
+== Ver também ==
+Complementaridade (biologia molecular)
+Direcionalidade (biologia molecular)
+Sentido (biologia molecular)
+
+
+== Referências ==

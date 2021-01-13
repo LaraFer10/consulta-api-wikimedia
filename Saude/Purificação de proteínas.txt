@@ -1,0 +1,21 @@
+A purificação de proteínas é um processo pelo qual obtém-se uma proteína de interesse a partir de uma amostra biológica, como um tecido. É uma técnica bastante utilizada na ciência para o estudo das propriedades de uma determinada proteína, bem como suas possíveis interações e sua importância para os sistemas biológicos.
+
+
+== Processamento ==
+Inicialmente, as proteínas precisam estar em solução para que possam ser isoladas. No caso do sangue, as proteínas do soro já se encontram suspensas em solução, eliminando essa primeira etapa. No entanto, para isolar proteínas de um tecido específico, é necessário primeiramente fazer a digestão do tecido – liberando assim as células que o constituem –, e, em seguida, rompendo essas células para que a proteína de interesse seja liberada para a solução. Neste ponto existe uma outra checagem a ser feita: a proteína de interesse é citosólica ou está presente dentro de alguma organela ou inserida em alguma membrana? No primeiro caso, a lise das células é suficiente para que a proteína seja solubilizada. Pode-se usar a lise osmótica, colocando as células em contato com uma solução hipotônica, que tende a entrar no meio intracelular por osmose e romper a membrana plasmática, liberando o conteúdo citoplasmático na solução. No caso de a proteína encontrar-se em compartimentos celulares ou membranas, é comum adicionar-se uma etapa a mais no processo: a separação dos componentes subcelulares em frações de densidade, através de centrifugação por gradiente (por exemplo, gradiente de sacarose). A partir do recolhimento da fração de interesse, é necessário solubilizar as membranas com soluções contendo detergentes ou solventes orgânicos (com certo cuidado para não desnaturar as proteínas em questão, se a estrutura intacta for importante para a análise).
+
+
+== Condições a serem controladas ==
+É importante que durante o processo de solubilização das proteínas, já a partir da lise celular, tenha-se o cuidado de inibir as proteases, enzimas que degradam proteínas (catalisam a clivagem hidrolítica das ligações peptídicas). Se a proteína de interesse for alvo de fosforilação, também é importante inibir as fosfatases (enzimas que catalisam a hidrólise do grupo fosfato). Outro ponto importante é trabalhar na temperatura e pH em que a proteína de interesse é estável: muitas proteínas são facilmente desnaturadas em altas temperaturas, por exemplo.
+
+
+== Análise da quantidade da proteína ==
+Após a purificação, é essencial que se avalie a quantidade da proteína isolada. No caso de enzimas, é comum relacionar a quantidade por meio de ensaios colorimétricos que detectam a formação de seus produtos. Para uma proteína com função de receptor, também é possível a conjugação de seu ligante a um radioisótopo. O complexo ligante radioativo-receptor pode ser então concentrado por filtragem da solução aquosa que o contém e posterior detecção. Hormônios podem ser detectados por sua ação biológica em células ou tecidos. Este tipo de ensaio costuma demorar mais, uma vez que depende de respostas de sistemas vivos. 
+Ensaios imunoquímicos são, em geral, uma forma rápida de detectar quantidades pequenas de proteína. Nesses casos, são utilizados anticorpos que reconhecem especificamente partes (epítopos) da proteína em questão. Na técnica chamada de imunoprecipitação, a detecção ou isolamento de proteínas pode ser feita rapidamente pela precipitação dos anticorpos que as reconhecem. Além disso, nos radioimunoensaios, as proteínas são detectadas pela sua capacidade de competir pelo anticorpo com moléculas marcadas radioativamente (quanto maior a detecção de radioatividade, menor a quantidade da proteína que se ligou ao anticorpo). Os imunoensaios enzimáticos (ELISA e EIA) não utilizam radioatividade e são técnicas muito difundidas e bastante sensíveis; também são baseadas no princípio de ligação da proteína ao seu anticorpo específico, correlacionando a absorbância com a concentração da proteína presente na amostra.
+
+
+== Técnicas para o isolamento de proteínas ==
+As propriedades físico-químicas das proteínas são amplamente exploradas para sua separação. Dentre elas estão a separação por solubilidade, carga iônica, polaridade, tamanho molecular e especificidade de ligação . As técnicas que abordam cada uma dessas propriedades estão resumidas na tabela abaixo:
+
+
+== Referências ==

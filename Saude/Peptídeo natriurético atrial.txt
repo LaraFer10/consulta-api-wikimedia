@@ -1,0 +1,75 @@
+O peptídeo natriurético atrial (do inglês atrial natriuretic peptide) é um peptídeo secretado por células musculares cardíacas atriais. Seu papel é normalizar a volemia sanguínea e a pressão arterial quando a musculatura cardíaca for excessivamente distendida. 
+
+
+== Descoberta ==
+O pesquisador cardiovascular argentino-canadense Dr. Adolfo. J. de Bold e colaboradores foram os responsáveis por comprovar a existência de um hormônio de natureza proteica e desencadeador de natriurese e diurese, no interior dos grânulos específicos atriais, o Fator Natriurético Atrial (ANF), em 1981. Por meio de grânulos encontrados em células musculares cardíacas atriais (principalmente no átrio direito) que continham este peptídeo. Esta descoberta deu ao coração a importância endócrina, além daquela de simples bomba propulsora de sangue. 
+Usando como requisito para a sua comprovação, foi de fundamental contribuição, estudos realizados em 1956 por Henry e Pearce que comprovavam a ação fisiológica à distância do coração pelo aumento do fluxo urinário (intensa diurese) em cães após inflarem um balão de borracha no átrio esquerdo desses animais. Dois anos depois, o peptídeo já estava purificado e sequenciado. Mais tarde, foram descobertos outros peptídeos natriuréticos: o BNP, produzido pelas paredes dos ventrículos e descoberto inicialmente no cérebro; e o CNP, encontrado no sistema nervoso, mas produzido por células endoteliais.
+O PNA parece agir de maneira efetiva no controle dos níveis de aldosterona, bem como promovendo diurese, natriurese, vasodilatação e aumentando o debito cardíaco. O PNA e em potencial um grande agente terapêutico no tratamento da insuficiência cardíaca congestiva, hipertensão essencial, cirrose hepática e colapso renal traumático, tudo isso sem os efeitos colaterais das doenças atualmente utilizadas.
+
+
+== Estrutura ==
+Em 1984, os pesquisadores Kangawa e Matsuo, motivados pela identificação do PNA, isolaram e determinaram a sua estrutura de 28 aminoácidos com um anel de 17 aminoácidos no meio da molécula. O anel é formado por uma ligação dissulfeto entre dois resíduos de cisteína nas posições 7 e 23.
+
+
+== Síntese in vivo ==
+O gene decodificador do ANP está localizado no cromossomo 1 em humanos. O hormônio nasce com 151 aminoácidos, sendo chamado de pré-pró-ANP. Após a retirada de 25 aminoácidos de sua seqüência sinal, a cadeia passa a se chamar pró-ANP, que será levada ao complexo de Golgi. Antes de ser exocitada, o pró-ANP é novamente clivado, provavelmente por proteínas de membrana, em uma cadeia funcional de ANP, com 28 aminoácidos, e um fragmento aminoterminal de 98 aminoácidos, o NT-pró-ANP. Esse hormônio, em fetos e neonatais, é produzido em grande parte pelos ventrículos, sendo essa atividade diminuída gradativamente após o nascimento, e os átrios assumindo este papel.
+O sinal para a liberação do ANP é a distensão das paredes dos átrios. Elevado débito cardíaco, estímulos simpáticos e fatores metabólicos influenciam sua liberação. Suspeita-se que a hipóxia também a influencie. O hormônio endotelina-1, um vasoconstritor que age nos músculos lisos das artérias, estimula a liberação de ANP agindo diretamente no coração ou por estimular um aumento de volume circulante dentro do órgão. Angiotensina, catecolaminas, acetilcolina, arginina, vasopressina, prostaglandinas, glicocorticóides e hormônios tireoidianos inibem a liberação de ANP.
+
+
+== Modo de ação ==
+Para desempenhar sua função, o hormônio tem que se ligar a receptores específicos de membrana. Foram encontrados três desses receptores: ANPA, ANPB e ANPC. Os tipos A e B possuem atividade de guanilato ciclase e estão ligados ao funcionamento normal dos peptídeos. O ANP e o BNP se ligam ao primeiro receptor, enquanto o CNP se liga ao segundo. O tipo C está relacionado à degradação dos três peptídeos natriuréticos, para que a concentração deles seja diminuída na corrente sanguínea em uma situação em que eles não sejam mais necessários. Os principais alvos do ANP são os músculos lisos dos vasos sanguíneos e os rins. Nos vasos, ele distende a musculatura lisa, aumenta a permeabilidade de capilares e consequentemente permitem a saída de água e sódio dos vasos. Além disso, o hormônio também inibe a função de vários outros hormônios, como aldosterona, angiotensina II, endotelina, renina e vasopressina. Nos rins, ele inibe a absorção de sódio nos ductos coletores dos néfrons, inibe a ação da aldosterona e neutraliza o sistema renina-angiotensina-aldosterona. Conseqüentemente ocorrerá maior excreção de sódio. A água acompanha o sódio, por causa da osmose.
+A semi-vida do ANP é de 2 a 5 minutos e sua taxa de degradação é cerca de 14 a 25 mL/min/Kg. O peptídeo é reconhecido pelo receptor ANPC e internalizado nas células. Já no citoplasma, o endossomo é fundido a lisossomos que contêm, principalmente, a enzima endopeptidase neutra 24.11. Essa enzima está presente nos glomérulos, músculos lisos dos rins, membranas dos túbulos contorcidos proximais, tecido vascular e músculos lisos dos vasos. Estudos mostram que a inibição da endopeptidase neutra 24.11 potencializa a ação do ANP. Inibidores dessa enzima juntamente com inibidores de angiotensina se mostram mais eficazes no tratamento de hipertensão do que puramente os neutralizadores do segundo hormônio.
+O ANP e o NT-pró-ANP são liberados equimolarmente na corrente sanguínea. Entretanto, a taxa de degradação deste é bem menor do que daquele. Por isso, foram encontrados em pacientes com insuficiência cardíaca ou renal cerca de 4 vezes mais NT-pró-ANP do que ANP. Suspeita-se de que alguns casos de insuficiência cardíaca com malfuncionamento dos ventrículos apresentam poucos sintomas graças ao grande volume de NT-pró-ANP circulante. Tentativas de se descobrir a função desse peptídeo N-terminal falharam graças à falta de receptores específicos. Todavia, ele pode ser importante para se medir a concentração de ANP no sangue.   	
+Pode-se usar também o ANP (e também o BNP) como marcadores, seja na prevenção de doenças ou no diagnóstico diferencial delas. O uso desses peptídeos no diagnóstico de dispnéia provocada por insuficiência cardiaca provou ser mais eficiente do que os métodos tradicionais. Além disso, o uso de análogos desse hormônio, junto a inibidores de endopeptidases, aumenta o intervalo entre sessões de hemodiálise entre pacientes com insuficiência renal aguda que apresentam oligúria.
+
+
+== Receptores ==
+
+
+=== Receptor-A do peptídeo natriurético (NPR-A) ===
+É o principal receptor do peptídeo natriurético atrial (ANP) e do peptídeo natriurético do tipo B (BNP).
+
+Características estruturais: Seu domínio extracelular contém três ligações dissulfeto intramoleculares e cinco locais de glicosilação ligados a N;
+Localização: O gene NPR-A humano está localizado no cromossomo 1q21–22 e consiste em 22 exons e 21 introns em 16 quilobases. O gene NPR-A murino, Npr1 , está localizado no cromossomo 3;
+Expressão: NPR-A e / ou seu mRNA é expresso no rim, pulmão, tecido adiposo, adrenal, cérebro, coração, testículo e tecido do músculo liso vascular.
+
+
+=== Receptor-B do peptídeo natriurético (NPR-B) ===
+É o principal receptor do peptídeo natriurético do tipo C (CNP).
+
+Características estruturais: Exibe topologia, glicosilação e padrões de ligação dissulfeto intramoleculares semelhantes aos do NPR-A. NPR-B liga peptídeos natriuréticos com uma preferência seletiva de CNP de ANP ⩾ BNP;
+Localização: O gene NPR-B humano está localizado no cromossomo 9p12–21 e a versão murina, Npr2 , está localizada no cromossomo 4;
+Expressão: O NPR-B e / ou seu mRNA é expresso no osso, cérebro, fibroblastos, coração, rim, fígado, pulmão, útero e tecido do músculo liso vascular.
+
+
+=== Receptor-C do peptídeo natriurético (NPR-C) ou Receptor de Depuração ===
+Características estruturais: Consiste em um grande domínio de ligação ao ligante extracelular, mas apenas 37 aminoácidos intracelulares. Ao contrário de NPR-A e NPR-B, ele contém uma ou duas ligações dissulfeto intermoleculares justamembrana. Portanto, é um dímero ligado por dissulfeto;
+Ligações: Ele contém três locais conhecidos de glicosilação extracelular ligada a N e se liga a peptídeos natriuréticos com uma estequiometria de duas moléculas de receptor a uma molécula de ligante. Sua preferência de seletividade de ligante é: ANP> CNP> BNP. Comparado com NPR-A e NPR-B, NPR-C tem uma especificidade muito menos rigorosa para variantes estruturais de ANP e se ligará com alta afinidade a análogos de ANP com anel deletado;
+Localização: O gene humano NPR-C está localizado no cromossomo 5p13-14 e contém 8 exons e 7 introns abrangendo mais de 65 kilobases. Npr3, a versão murina do gene NPR-C, está localizado no cromossomo 15;
+Expressão: É praticamente o mais expresso e constitui quase todos os sítios de ligação ANP em células endoteliais. NPR-C e / ou seu mRNA é expresso em adrenal, cérebro, coração, rim, mesentério e tecido do músculo liso vascular.
+
+
+== Efeito Fisiológico ==
+
+
+=== Sistema Cardiovascula ===
+A redução na pré-carga cardíaca através do extravasamento de fluxo dos compartimentos intra para os extracelulares é responsável, em parte, pela redução da pressão sanguínea que depende do PNA, o que influencia na permeabilidade do endotélio vascular;
+Esse extravasamento porém, não é o único mecanismo para a redução da pré-carga. O PNA promove vasodilatação e natriurese que reduz o volume de fluído extravascular, causando alterações diretamente nos rins e na supressão do eixo renina-angiotensina-aldos;
+O PNA também reduz o tônus simpático dos vasos periféricos. Provavelmente devido ao bloqueio dos barorreceptores, pela supressão da liberação das catecolaminas das terminações nervosas autonômicas e, principalmente, pela supressão do fluxo simpático do sistema nervoso central. O PNA reduz o limiar de ativação dos aferentes vagais, portanto suprime o reflexo taquicárdico e a vasoconstricção que acompanha a redução da pré-carga, assegurando a manutenção da pressão arterial média baixa.
+
+
+=== Efeitos Renais ===
+Causa natriurese, diurese e aumento no fluxo sanguíneo nos rins;
+O PNA estimula a dilatação das arteríolas renais aferentes e aconstrição das eferentes, provocando um aumento de pressão nos capilares glomerulares, o que também promove o aumento da filtração glomerular;
+O peptídeo também aumenta o acúmulo de cGMP nas células mesangiais, promovendo relaxamento e, portanto, aumentando a área de superfície efetiva para filtração;
+Pequenas infusões venosas de PNA ou de  PNB são capazes de aumentar minimamente suas concentrações plasmáticas resultando em diurese e natriurese independentes de modificações da pressão sanguínea. Essas infusões reduzem a renina plasmática e as concentrações de aldosterona e inibem a secreção de aldosterona estimulada pela angiotensina II.
+
+
+=== Efeitos sobre o Sistema Nervoso Central ===
+Apesar dos peptídeos natriuréticos A e B não cruzarem a barreira hematoencefálica, eles alcançam regiões no sistema nervoso central sem cruzar barreira, tais como o órgão sub-fornical, a eminência média hipotalâmica e a área postrema;
+Alguns hormônios são capazes de estimular a liberação dos PNA em culturas de neurônios hipotalâmicos, reforçando a ação exercidas pelos peptídeos natriuréticos ao nível periférico;
+Além disso, o PNA inibe a secreção de vasopressina e, em alguns estudos, de corticotrofina através da ação no cérebro e na pituitária. Cada um desses efeitos implica na coordenação das ações centrais e periféricas no controle da homeostase líquida e de eletrólitos.
+
+
+== PNA e Eclâmpsia ==
+Embora a grande variação nas medidas para os valores séricos do PNA em gestantes com hipertensão e normais, trabalhos com o objetivo de mostrar a relação entre a elevação desse hormônio e pacientes com hipertensão induzida pela gravidez conseguiram indicar o aumento de PNA nas várias formas de hipertensão induzida pela gravidez. Mesmo que não se tenham as causas para este aumento nos distúrbios hipertensivos no período gestacional.

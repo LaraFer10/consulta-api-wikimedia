@@ -1,0 +1,51 @@
+Aneuplóide é a célula que teve o seu material genético alterado, sendo portador de um número cromossômico diferente do normal da espécie. Podendo ter uma diminuição ou aumento do número de pares de cromossomos, porém não de todos. A maioria dos afetados apresentam trissomia (três cromossomos ao invés de dois cromossomos), ou, menos comum, monossomia (apenas um cromossomo ao invés de dois cromossomos).
+
+
+== Causas ==
+O fator cromossômico mais usual é a não-disjunção meiótica, um erro na separação de um par cromossômico durante a divisão meiótica. Podendo ocorrer tanto na meiose I quanto na meiose II.
+Quando acontece na Meiose I, os gametas apresentam um representante de ambos os membros do par de cromossomos ou não possuem todo um cromossomo.
+Quando acontece na Meiose II, os gametas anormais contém duas cópias de um cromossomo parental (e nenhuma cópia do outro) ou não possuem um cromossomo.
+
+
+== As mais comuns aneuploidias ==
+
+
+=== Monossomia ===
+Monossomia (2n-1) é a presença de apenas um cromossomo de um par homólogo.
+'Monossomia Humana'
+Cariótipo fica, por exemplo, 45,XY,-22. Deve-se especificar qual autossomo está faltando.
+
+
+=== Dissomia ===
+Dissomia (2n) é a presença de um par de cromossomos homólogos. É a condição normal de organismos diplóides. Para organismo triplóide ou acima, a dissomia é uma aneuploidia.
+
+
+=== Trissomia ===
+Trissomia (2n+1) é a presença de três ao invés de dois cromossomos homólogos.
+
+
+==== Trissomia Humana ====
+Síndrome de Down - trissomia no par 21.
+Síndrome de Patau - trissomia no par 13.
+Síndrome de Edwards - trissomia no par 18
+
+
+=== Tetrassomia e Pentassomia ===
+Tetrassomia (2n+2) e Pentassomia (2n+3) são a presença de quatro ou cinco copias de um cromossomo. Ainda que muito raro, existem casos humanos de cariótipos XXXX (síndrome XXXX), XXYY, XXXY, XYYY, XXXXX, XXXXY, XXXYY, XYYYY XXYYY ou até YYYYY.
+
+
+== Ver também ==
+Síndrome de Down - 47, XX ou XY +21
+Síndrome de Patau - 47, XX ou XY +13
+Síndrome de Edwards - 47, XX ou XY +18
+Síndrome de Turner - 45, X
+Síndrome de Klinefelter - 47, XXY
+Síndrome do triplo X - 47, XXX; 48, XXXY
+Síndrome de XYY - 47, XYY
+Síndrome de XYYY - 48, XYYY
+
+
+== Ligações externas ==
+Virtual
+PDAMed
+Aneuploidy Testing

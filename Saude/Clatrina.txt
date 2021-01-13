@@ -1,0 +1,40 @@
+A clatrina é uma proteína que desempenha um importante papel no processo de formação de vesículas membranares no interior das células eucariontes, as quais são responsáveis pelo transporte de material proveniente da membrana plasmática, entre os compartimentos endossomais e da face trans do aparato de Golgi. Ela se organiza em uma estrutura denominada “trisquélion”, a qual possui três pernas, cada uma com uma cadeia polipeptídica pesada (de ~91 kDa) e uma leve (de ~23-27 kDa). Os trisquélions de clatrina formam uma rede poliédrica de hexágonos e pentágonos, semelhantes a um cesto, revestindo a vesícula à medida que ela se forma. Além de ajudar na biogênese de vesículas, a clatrina parece estar envolvida também no processo de endereçamento destas vesículas, quando associada a proteínas de endereçamento, tais como a Rab.
+A endocitose e a exocitose de vesículas têm grande importância para a fisiologia celular, pois permitem a comunicação celular, a transferência de nutrientes, a adição e remoção de proteínas de superfície celular (como receptores, canais iônicos e transportadores) para controle de vias metabólicas, entre outras inúmeras funções. Além disso, alguns vírus e bactérias patogênicos conseguem entrar nas suas células-alvo, utilizando a maquinaria endocítica dependente de clatrina, com a produção de moléculas de superfície que imitam os receptores celulares do hospedeiro, assim induzindo cascatas de sinalização intracelular do hospedeiro.
+
+
+== Estrutura ==
+
+Cada subunidade de clatrina corresponde a três cadeias polipeptídicas grandes e três pequenas. Essas cadeias se ligam em trímeros denominados trisquélion, que por sua vez unem-se em arranjos poliédricos convexos, em forma de cesto. As três cadeias pesadas provêm o esqueleto estrutural da clatrina, enquanto as academias leves têm a função de regular a formação e a desmontagem da estrutura da clatrina. Existem  duas formas de cadeia leve, designadas "a" e "b". As cadeias pesadas principais estão presentes em todas as células, ao passo que as secundárias são expressas nos músculos. 
+A cadeia pesada é geralmente descrita como uma perna, com subdomínios, representados pelo pé (o domínio N-terminal), seguido pelo tornozelo, perna distal, joelho, perna proximal e domínios de trimerização. O domínio N-terminal consiste em uma estrutura heptalaminada de β-hélice. Os outros domínios formam uma super-hélice de alfa hélices curtas. Isso foi originalmente determinado a partir da estrutura do domínio da porção proximal da perna que é composta de um módulo estrutural menor referido como motivo da repetição da cadeia pesada da clatrina. As cadeias leves ligam-se primariamente à porção proximal da perna da cadeia pesada com alguma interação próxima ao domínio de trimerização. A β-hélice do "pé" da clatrina contém múltiplos sítios de ligação para interação com outras proteínas. Quando os trisquélions se juntam em solução, eles podem interagir com flexibilidade suficiente para formar um anel com 6 lados (hexágonos) que formam uma rede plana, ou anéis com 5 lados (pentágonos) que são necessários para formação de uma rede curva. Quando muitos trisquélions se conectam, eles podem formar uma estrutura semelhante a uma bola de basquete. Outra conformação comum é a de icosaedro truncado. Para envolver uma vesícula, no mínimo 12 pentágonos devem estar presentes na rede.
+Em uma célula, um trisquélion de clatrina no citoplasma liga-se a uma proteína adaptadora que tem membrana unida, ligando um de seus três pés à membrana de cada vez. A clatrina não pode se ligar à membrana ou à carga diretamente e utiliza proteínas adaptadores para isso. Esse trisquélion vai se ligar a outro conjunto de trisquélions ligados à membrana para formar uma rede arredondada de hexágonos e pentágonos, remanescente dos painéis em uma bola de futebol, que puxa a membrana promovendo o brotamento. Ao construir diferentes combinações de anéis de 5 e 6 lados, vesículas de diferentes tamanhos podem se formar. A menor gaiola de clatrina geralmente imaginada, chamada de mini-casaco, tem 12 pentágonos e apenas 2 hexágonos. Gaiolas ainda menores com nenhum hexágono provavelmente não se formam a partir da proteína nativa, pois os pés dos trisquélions são muito volumosos.
+
+
+== Identificação ==
+Ela pode ser observada por meio da microscopia eletrônica de transmissão, sendo possível ver os trisquélions de clatrina sombreados por platina, ou por meio da microscopia eletrônica de varredura, sendo possível ver as vesículas revestidas por clatrina.
+Elas são encontradas em praticamente todas as células eucariontes, porém, em maior quantidade no cérebro, onde participam da formação de vesículas pré-sinápticas contendo neurotransmissores.
+
+
+== Formação das vesículas ==
+
+No processo de formação de vesículas revestidas por clatrina, ocorre a ligação de moléculas de clatrina a proteínas adaptadoras que se encontram na membrana plasmática, endossomal ou da rede trans do aparato de Golgi. Essas proteínas adaptadoras, ao ligarem o revestimento de clatrina à membrana, aprisionam receptores de carga, proteínas transmembrana que capturam para dentro das vesículas moléculas-carga solúveis, estas que, junto a proteínas que interagem com elas, compõem o conteúdo da vesícula a ser transportado. O recrutamento das clatrinas, devido às forças geradas pela interação lateral do complexo adaptador-clatrina, achata a região da membrana, formando um broto de tamanho uniforme. Com o crescimento desse broto, dinamina e proteínas associadas formam um anel ao redor do pescoço do broto, aproximando e fundindo as membranas. Após a formação da vesícula, ocorre a perda do revestimento, revelando os domínios transmembrana dos receptores de carga.
+
+
+== Endocitose Mediada por Clatrina x Endocitose Mediada por Cavéola ==
+Em contraste a vesículas revestidas por clatrina, as vesículas revestidas por cavéolas não são responsáveis pela construção de um complexo proteico citosólico, acredita-se que a endocitose ocorra em virtude das propriedades apolares da camada lipídica da membrana, portanto, não apresentam revestimento por adaptina em contraste com as vesículas revestidas por clatrina. Além disso, a endocitose mediada por clatrina tende a ser extremamente rápida e altamente seletiva enquanto a endocitose mediada por cavéola é, normalmente, mais lenta e que, por isso, acaba sendo menos seletiva e tende a endocitar moléculas indesejáveis ou desnecessárias para a célula naquele momento (menos efetiva na captação). Outra diferença diz respeito ao destino do endossomo (caveossomo, no caso das cavéolas). A endocitose mediada por clatrina segue a via clássica (endossoma primário - endossoma secundário - lisossomo), a endocitose mediada por cavéola não segue essa via clássica, sendo o caveossomo endereçado diretamente para o retículo endoplasmático e aparato de Golgi.
+
+
+== Função ==
+As proteínas adaptadoras (AP) ligam proteínas-carga e lipídeos à clatrina, bem como proteínas acessórias que regulam a montagem e a desmontagem do revestimento. Na classe dos mamíferos ocorrem diversos tipos de complexos de proteína adaptadora, que desempenham diversas funções celulares:AP1: transporte de hidrolases lisossomais entre a rede trans do aparato de Golgi e os endossomos
+AP2: endocitose, associando-se à membrana plasmática
+AP3: transporte de proteínas para lisossomos e outras organelas associadas
+
+
+== Ver também ==
+impulso nervoso
+transporte de vesículas
+adaptina
+COPII
+Exómero
+
+
+== Referências ==

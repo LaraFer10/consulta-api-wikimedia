@@ -1,0 +1,19 @@
+Esterol 14-demetilase é uma enzima que catalisa a reação química: obtusifoliol + 3 O2 + 3 NADPH + 3 H+ 
+  
+    
+      
+        ⇌
+      
+    
+    {\displaystyle \rightleftharpoons }
+   4alpha-methyl-5alpha-ergosta-8,14,24(28)-trien-3beta-ol + formiato + 3 NADP+ + 4 H2O.
+Os quatro substratos desta enzima são o obtusifoliol, O2, NADPH, e H+, e os quatro produtos são 4alpha-methyl-5alpha-ergosta-8,14,24(28)-trien-3beta-ol, formiato, NADP+, e H2O.
+Esta enzima pertence a família das oxidoredutases e participa na biossíntese dos esteroides.
+
+
+== Referências ==
+
+Bak S, Kahn RA, Olsen CE, Halkier BA (1997). «Cloning and expression in Escherichia coli of the obtusifoliol 14 alpha-demethylase of Sorghum bicolor (L.) Moench, a cytochrome P450 orthologous to the sterol 14 alpha-demethylases (CYP51) from fungi and mammals». Plant. J. 11 (2): 191–201. PMID 9076987. doi:10.1046/j.1365-313X.1997.11020191.x  !CS1 manut: Nomes múltiplos: lista de autores (link)
+Aoyama Y, Yoshida Y (1991). «Different substrate specificities of lanosterol 14a-demethylase (P-45014DM) of Saccharomyces cerevisiae and rat liver for 24-methylene-24,25-dihydrolanosterol and 24,25-dihydrolanosterol». Biochem. Biophys. Res. Commun. 178 (3): 1064–71. PMID 1872829. doi:10.1016/0006-291X(91)91000-3 
+Aoyama Y, Yoshida Y (1992). «The 4 beta-methyl group of substrate does not affect the activity of lanosterol 14 alpha-demethylase (P-450(14)DM) of yeast: difference between the substrate recognition by yeast and plant sterol 14 alpha-demethylases». Biochem. Biophys. Res. Commun. 183 (3): 1266–72. PMID 1567403. doi:10.1016/S0006-291X(05)80327-4 
+DHR (1972). «The removal of the 32-carbon atom as formic acid in cholesterol biosynthesis». J. Chem. Soc. Chem. Commun.: 383–385

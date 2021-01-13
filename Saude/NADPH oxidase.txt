@@ -1,0 +1,55 @@
+A NADPH oxidase  é um complexo enzimático ligado à membrana que  é voltado para  o espaço extracelular. Ele pode ser encontrado em membranas plasmáticas assim como em fagossomas usados por neutrófilos para engolfar microorganismos. As suas isoformas são denominadas NOX1, NOX2, NOX3, NOX4, NOX5, DOUX1 e DOUX2.
+
+
+== Subunidades ==
+Ela é constituída por 6 subunidadesː
+
+1 Rho guanosina trifosfatase (GTPase), normalmente Rac1 ou Rac2 (Rac significa substrato C3 da toxina botulínica associado a  Rho ( do inglês,  Rho-related C3 botulinum toxin substrate )
+5 unidades "phox" (Phox vem de oxidase fagocítica (do inglês, phagocytic oxidase) .)
+gp91-PHOX (contém heme)(Nox2)
+p22phox
+p40phox
+p47phox
+p67phox
+
+
+== Função ==
+Em circunstâncias normais, o complexo é latente em neutrófilos e é ativado, montando-se na membrana durante a explosão respiratória(" respiratory burst ").
+A NADPH oxidase gera superóxido através da transferência de elétrons do NADPH intracelular através da membrana, acoplando-os a oxigênio molecular, formando o ânion superóxido, um radical livre reativo. O superóxido pode ser produzido em fagossomas,  que pode conter bactérias e fungos ingeridos, ou ele pode ser produzido fora da célula. Em um fagossoma, o superóxido pode formar espontaneamente peróxido de hidrogênio, que irá passar por subsequentes reações gerando diversas espécies reativas de oxigênio (ROS).
+O superóxido provoca a morte de microorganismos por mecanismos ainda não totalmente compreendidos, mas possivelmente envolve a inativação de enzimas metabólicas fundamentais, iniciar  a peroxidação de lipídeos e liberar ferro capaz de promover reações redox, o que permite a formação de oxidantes indiscriminados, como o radical hidroxila . Presume-se que o superóxido tem efeito direto, pois a virulência de diversas bactérias é dramaticamente diminuída quando seus genes de superóxido dismutase (SOD) são deletados. Contudo, subprodutos do superóxido também podem ter efeito, sendo exemplos deles o peróxido de hidrogênio e o ácido hipocloroso, o agente reativo  em algumas formulações de água sanitária.
+
+
+== Papel na patologia ==
+Funcionamento anômalo da NADPH oxidase está entre as causas de aterosclerose e o uso de inibidores pode contribuir para reversão. A aterosclerose é causada pelo acúmulo de macrófagos contendo colesterol na parede de artérias (túnica íntima), em um processo que utiliza enzimas de adesão ativadas por espécies reativas de oxigênio(ROS), produzidas por NADPH oxidase. Esse processo é contrabalançado por inibidores de NADPH oxidase e antioxidantes. Um desequilíbrio em favor das espécies reativas de  oxigênio favorece a formação da aterosclerose. Estudos in vitro mostraram que os inibidores apocinina e difenileno-iodônio, assim como os antioxidantes N-acetil-cisteína e resveratrol, despolimerizaram a actina, quebraram adesões e permitiram a migração dessas células para fora da íntima.Mutações em subunidades da NADPH oxidase causam diversas Doenças Crônicas Granulomatosas (CGD), comoː
+
+doença granulomatosa crônica (CGD) ligada ao X
+CGD autossômica recessiva citocromo b negativa 
+CGD autossômica recessiva citocromo b positiva tipo I
+CGD autossômica recessiva citocromo b positiva tipo II.Nessas doenças, as células possuem capacidade baixa de fagocitose e ocorrem infecções bacterianas persistentes. Áreas de células infectadas são comuns, formando granulomas. Uma doença semelhante, chamada síndrome de imunodeficiência de neutrófilos é ligado à RAC2, também parte do complexo.
+Um estudo sugere um papel para NADPH oxidase na redução da expressão neuronal de parvalbumina e GAD67 induzida por cetamina. Uma perda semelhante é observada na esquizofrenia e os resultados apontam a NADPH oxidase como uma possível peça na patofisiologia da doença. O nitro azul de tetrazólio é usado em teste diagnóstico para CGD, detectando defeitos na NADPH oxidase. Com essas falhas, os fagócitos não conseguem matar eficiente os patógenos, levando bactérias a prosperar até dentro do fagócito. Quanto mais azul o resultado, maior a capacidade da célula de produzir ROS e combater o patógeno.
+
+
+== Reação química ==
+NADPH + 2O2  ↔ NADP+ + 2O2− + H+
+
+
+== Inibição ==
+A NADPH oxidase pode ser inibida por apocina e DPI (difenileno-iodônio). A apocinina evita a montagem das subunidades de NADPH oxidase. A inibição de NADPH oxidase com apocinina pode trazer benefícios no tratamento de influenza, devido à diminuição da inflamação induzida por influenza no pulmão de camundongos in vivo.
+
+
+== Veja também ==
+NOX1
+NOX2
+NOX3
+NOX4
+NOX5
+DOUX1
+DOUX2
+
+
+== Referências ==
+
+
+== Ligações externas ==
+MeSH NADPH+Oxidase
+EC 1.6.3.1

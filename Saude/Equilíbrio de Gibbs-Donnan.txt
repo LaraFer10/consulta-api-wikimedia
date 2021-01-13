@@ -1,0 +1,799 @@
+O equilíbrio de Gibbs-Donnan é o equilíbrio que se produz entre os íons que podem atravessar a membrana e os que não são capazes de fazer. As composições no equilíbrio vêem-se determinadas tanto pelas concentrações dos íons como por suas cargas.
+
+
+== Fundamentação ==
+Quando partículas de grande tamanho são carregadas eletricamente, como as proteínas, que não se difundem através de uma membrana semipermeável, estão presentes num compartimento fluido como o vascular, atraem os íons carregados positivamente e repelem os íons carregados negativamente (de acordo com a figura). Como consequência disso, se estabelece um gradiente elétrico e sendo esse outro um gradiente de concentração dos íons, estes dois últimos iguais e de sinal oposto. No equilíbrio, os produtos das concentrações iônicas da cada lado da membrana são iguais. Em consequência, a concentração de partículas é desigual a ambos os lados da membrana e se estabelece um gradiente osmótico em direção ao compartimento que contém as proteínas. Esta pressão osmótica no equilíbrio de Gibbs-Donnan é de 6-7 mm de Hg. O efeito de Donnan sobre a distribuição dos íons difusíveis é importante no organismo por causa da presença nas células e no plasma.
+
+
+== Equilíbrio de Membrana de Donnan ==
+O equilíbrio de membrana de Donnan baseia-se em que no lado da membrana há que "aplicar" uma solução, por exemplo, cloreto de sódio e ao outro lado da membrana um eletrólito carregado negativamente, os íons que são de sinal contrário passam através da membrana, e os íons de cloreto e de sódio passam sem nenhuma dificuldade pela membrana, os íons das partículas aniônicas não passam tendo um equilíbrio ao longo da membrana, como existe um equilíbrio, os volumes na solução a ambos lados da membrana são idênticos, a atividade de sal  ou concentração do cloreto de sódio é a mesma, portanto, obedece ao princípio de tendências de fuga:
+
+  
+    
+      
+        
+          
+            [
+            N
+            
+              a
+              
+                +
+              
+            
+            
+              ]
+              
+                e
+                x
+                t
+              
+            
+            [
+            C
+            
+              l
+              
+                −
+              
+            
+            
+              ]
+              
+                e
+                x
+                t
+              
+            
+            =
+            [
+            N
+            
+              a
+              
+                +
+              
+            
+            
+              ]
+              
+                i
+                n
+                t
+              
+            
+            [
+            C
+            
+              l
+              
+                −
+              
+            
+            
+              ]
+              
+                i
+                n
+                t
+              
+            
+          
+        
+      
+    
+    {\displaystyle {\rm {[Na^{+}]_{ext}[Cl^{-}]_{ext}=[Na^{+}]_{int}[Cl^{-}]_{int}}}}
+  
+No entanto, não é a única condição que se cumpre, deve cumprir a condição de eletro neutralidade, esta condição nos diz que:
+A concentração de íons carregados positivamente 
+  
+    
+      
+        
+          
+            [
+            N
+            
+              a
+              
+                +
+              
+            
+            
+              ]
+              
+                e
+                x
+                t
+              
+            
+          
+        
+      
+    
+    {\displaystyle {\rm {[Na^{+}]_{ext}}}}
+   nas soluções, em ambos os lados da membrana tem que ser equilibrado com a concentração dos íons carregados negativamente 
+  
+    
+      
+        
+          
+            [
+            C
+            
+              l
+              
+                −
+              
+            
+            
+              ]
+              
+                e
+                x
+                t
+              
+            
+          
+        
+      
+    
+    {\displaystyle {\rm {[Cl^{-}]_{ext}}}}
+  , como aparece a seguir
+No exterior da membrana 
+  
+    
+      
+        
+          
+            [
+            N
+            
+              a
+              
+                +
+              
+            
+            
+              ]
+              
+                e
+                x
+                t
+              
+            
+            =
+            [
+            C
+            
+              l
+              
+                −
+              
+            
+            
+              ]
+              
+                e
+                x
+                t
+              
+            
+          
+        
+      
+    
+    {\displaystyle {\rm {[Na^{+}]_{ext}=[Cl^{-}]_{ext}}}}
+  
+No interior da membrana 
+  
+    
+      
+        
+          
+            [
+            N
+            
+              a
+              
+                +
+              
+            
+            
+              ]
+              
+                i
+                n
+                t
+              
+            
+            =
+            [
+            
+              R
+              
+                −
+              
+            
+            
+              ]
+              
+                i
+                n
+                t
+              
+            
+            +
+            [
+            C
+            
+              l
+              
+                −
+              
+            
+            
+              ]
+              
+                i
+                n
+                t
+              
+            
+          
+        
+      
+    
+    {\displaystyle {\rm {[Na^{+}]_{int}=[R^{-}]_{int}+[Cl^{-}]_{int}}}}
+  
+Sendo R os íons dos eletrólitos"
+Estas equações ao inseri-las no primeiro nos dão como resultado:
+
+  
+    
+      
+        
+          
+            
+              
+                
+                  [
+                  C
+                  
+                    l
+                    
+                      −
+                    
+                  
+                  
+                    ]
+                    
+                      e
+                      x
+                      t
+                    
+                  
+                
+                
+                  [
+                  C
+                  
+                    l
+                    
+                      −
+                    
+                  
+                  
+                    ]
+                    
+                      i
+                      n
+                      t
+                    
+                  
+                
+              
+            
+            =
+            
+              
+                1
+                +
+                
+                  
+                    
+                      [
+                      
+                        R
+                        
+                          −
+                        
+                      
+                      
+                        ]
+                        
+                          i
+                          n
+                          t
+                        
+                      
+                    
+                    
+                      [
+                      C
+                      
+                        l
+                        
+                          −
+                        
+                      
+                      
+                        ]
+                        
+                          i
+                          n
+                          t
+                        
+                      
+                    
+                  
+                
+              
+            
+          
+        
+      
+    
+    {\displaystyle {\rm {{\frac {[Cl^{-}]_{ext}}{[Cl^{-}]_{int}}}={\sqrt {1+{\frac {[R^{-}]_{int}}{[Cl^{-}]_{int}}}}}}}}
+  
+A relação entre as concentrações do ânion difusível fora e dentro da membrana semipermeável depende da concentração do polieletrólito que é carregado negativamente no interior do saco semipermeável, tentando carregar íons com carga semelhante à da água para o exterior da membrana. Quando 
+  
+    
+      
+        
+          
+            [
+            
+              R
+              
+                −
+              
+            
+            
+              ]
+              
+                i
+                n
+                t
+              
+            
+          
+        
+      
+    
+    {\displaystyle {\rm {[R^{-}]_{int}}}}
+   é grande comparado a 
+  
+    
+      
+        
+          
+            [
+            C
+            
+              l
+              
+                −
+              
+            
+            
+              ]
+              
+                i
+                n
+                t
+              
+            
+          
+        
+      
+    
+    {\displaystyle {\rm {[Cl^{-}]_{int}}}}
+   A razão é, aproximadamente, igual a:
+
+  
+    
+      
+        
+          
+            
+              [
+              
+                R
+                
+                  −
+                
+              
+              
+                ]
+                
+                  i
+                  n
+                  t
+                
+              
+            
+          
+        
+      
+    
+    {\displaystyle {\rm {\sqrt {[R^{-}]_{int}}}}}
+  
+Se, pelo contrário, 
+  
+    
+      
+        
+          
+            [
+            C
+            
+              l
+              
+                −
+              
+            
+            
+              ]
+              
+                i
+                n
+                t
+              
+            
+          
+        
+      
+    
+    {\displaystyle {\rm {[Cl^{-}]_{int}}}}
+  é bem grande em relação a 
+  
+    
+      
+        
+          
+            [
+            
+              R
+              
+                −
+              
+            
+            
+              ]
+              
+                i
+                n
+                t
+              
+            
+          
+        
+      
+    
+    {\displaystyle {\rm {[R^{-}]_{int}}}}
+   a razão da equação se torna quase igual à da unidade, e então a concentração do sal é praticamente a mesma em ambos os lados da membrana.
+
+
+== Distribuição da membrana ==
+Agora se a distribuição de cargas na membrana é diferente se produz um potencial na referida membrana (potencial de Donnan) que para estar em equilíbrio requer:
+
+  
+    
+      
+        
+          j
+          
+            i
+          
+        
+        =
+        0
+      
+    
+    {\displaystyle j_{i}=0}
+  
+onde o referido índice nos indica que o potencial deve ser uma propriedade intensiva do sistema dependente da concentração e do potencial elétrico gerado pelas cargas.
+
+  
+    
+      
+        
+          
+            j
+            
+              i
+            
+          
+        
+        =
+        −
+        
+          
+            μ
+            
+              i
+            
+          
+          
+            
+              K
+              
+                b
+              
+            
+          
+          
+            T
+          
+        
+        
+          
+            
+              d
+              
+                c
+                
+                  i
+                
+              
+            
+            
+              d
+              x
+            
+          
+        
+        +
+        
+          
+            Z
+            
+              i
+            
+          
+          
+            e
+          
+          
+            
+              c
+              
+                i
+              
+            
+          
+        
+        
+          
+            
+              d
+              V
+            
+            
+              d
+              x
+            
+          
+        
+      
+    
+    {\displaystyle {j_{i}}=-{\mu _{i}{K_{b}}{T}}{\frac {dc_{i}}{dx}}+{Z_{i}{e}{c_{i}}}{\frac {dV}{dx}}}
+  
+Dado que o primeiro coeficiente é diferente de zero, o que faz com que a solução seja contínua em todo o plano, então limpar a derivada direcional do potencial elétrico e integrando a equação acima nos resulta:
+
+  
+    
+      
+        
+          Δ
+        
+        
+          V
+        
+        =
+        −
+        
+          
+            
+              
+                K
+                
+                  b
+                
+              
+              
+                T
+              
+            
+            
+              
+                Z
+                
+                  i
+                
+              
+              
+                e
+              
+            
+          
+        
+        
+          ln
+          ⁡
+          
+            
+              
+                
+                  C
+                  
+                    i
+                  
+                
+                
+                  2
+                
+              
+              
+                
+                  C
+                  
+                    i
+                  
+                
+                
+                  1
+                
+              
+            
+          
+        
+      
+    
+    {\displaystyle {\Delta }{V}=-{\frac {K_{b}{T}}{Z_{i}{e}}}{\ln {\frac {C_{i}{2}}{C_{i}{1}}}}}
+  
+e integrando a equação acima, obtém-se:
+
+  
+    
+      
+        
+          Δ
+        
+        
+          V
+        
+        =
+        
+          
+            
+              
+                
+                  V
+                  
+                    2
+                  
+                
+              
+              
+                e
+                q
+                u
+                i
+                l
+                i
+                b
+                r
+                i
+                o
+              
+            
+            −
+            
+              
+                V
+                
+                  1
+                
+              
+            
+          
+          
+            e
+            q
+            u
+            i
+            l
+            i
+            b
+            r
+            i
+            o
+          
+        
+      
+    
+    {\displaystyle {\Delta }{V}={{V_{2}}_{equilibrio}-{V_{1}}}_{equilibrio}}
+  
+
+
+== Implicação do equilíbrio de Gibbs-Donnan ==
+O que implica que a concentração de cargas dentro e fora da membrana deve possuir uma estabilidade associada quanto à concentração dos íons em ambos lados, mas se a membrana semipermeável fosse considerada como um agente catalisador, produziria um gradiente de concentração na membrana e, no entanto, o equilíbrio seria estabelecido da seguinte forma:
+
+  
+    
+      
+        
+          
+            
+              
+                C
+                
+                  +
+                
+              
+              
+                2
+              
+            
+            
+              
+                C
+                
+                  +
+                
+              
+              
+                1
+              
+            
+          
+        
+        =
+        
+          
+            
+              
+                C
+                
+                  −
+                
+              
+              
+                1
+              
+            
+            
+              
+                C
+                
+                  −
+                
+              
+              
+                2
+              
+            
+          
+        
+      
+    
+    {\displaystyle {\frac {C_{+}{2}}{C_{+}{1}}}={\frac {C_{-}{1}}{C_{-}{2}}}}
+  
+
+
+== Bibliografia ==
+Philip, Nelson (2005). Física Biológica, energía, información y vida. [S.l.]: Reverté S.A. ISBN 84-291-1837-3 
+Vázquez, J (1992). Biofisica. [S.l.]: Eypasa, Madrid 
+Nossal, R.; Lecar, H. (1991). Molecular And Cell Biophysics. [S.l.]: Addison-Wesley. Redwood Cyty, CA  !CS1 manut: Nomes múltiplos: lista de autores (link)

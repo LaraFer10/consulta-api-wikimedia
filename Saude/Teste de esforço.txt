@@ -1,0 +1,47 @@
+Teste Ergométrico, Teste Cicloergométrico, Prova de esforço ou Teste sob estresse físico é um exame complementar de diagnóstico em Medicina, realizado por profissional médico cardiologista habilitado, que consiste em submeter o indivíduo a uma determinada modalidade de esforço físico graduado e monitorado com eletrocardiograma, objetivando aumentar sua demanda metabólica global e em especial a demanda metabólica do coração, podendo assim avaliar, entre outras variáveis, a aptidão cardio-respiratória global do indivíduo e a presença de isquemia no músculo cardíaco.
+
+
+=== Indicações ===
+Avaliar:
+
+Aptidão cardio-respiratória.
+Presença de isquemia miocárdica.
+Prognóstico da doença arterial coronária.
+Arritmias desenvolvidas ao esforço.
+Classe funcional (classificação da New York Heart Association - NYHA).
+
+
+=== Contraindicações e Limitações ===
+Bloqueio completo ramo esquerdo (BCRE) e outras alterações da repolarização ventricular (limitação da análise do traçado eletrocardiográfico);
+Arritmia ventricular complexa (possibilidade de intensificação da arritmia);
+Estenose aórtica de grau importante (síncope ao esforço);
+Insuficiência cardíaca descompensada (agravamento do quadro clínico);
+Hipertensão arterial estágio III no momento do exame (ocorrência de pico hipertensivo);
+Doença ortopédica ou neurológica que limite a deambulação (incapacidade de atingir a frequência cardíaca submáxima);
+Certos medicamentos, como clorpromazina, haloperidol ou toxicidade medicamentosa (principalmente antidepressivos e antipsicóticos);
+Feocromocitoma;
+Riscos elevados de síncope e lipotimia
+
+
+=== Metodologia ===
+O esforço pode ser realizado geralmente através de esteira ou bicicleta.
+O indivíduo é monitorado através de um eletrocardiograma de 12 derivações em repouso e durante o esforço, além das medidas de pressão arterial.
+A frequência cardíaca (FC) teórica máxima a ser atingida durante o esforço é calculada pela subtração de 220 pela idade, por exemplo, uma pessoa com 40 anos tem uma FC máxima de 180 batimentos por minutos (bpm).
+A FC submáxima é obtida calculando-se 85% do valor da FC máxima, e o indivíduo deve atingi-la para tornar o exame eficaz para a análise de isquemia do miocárdio.
+Existem uma série de protocolos para executar o esforço físico, sendo mais utilizado o protocolo de ellestad e Bruce.
+A variável mais importante para analisar a presença de isquemia miocárdica é o segmento ST do eletrocardiograma. Um infradesnivelamento retificado ou descendente do segmento ST de -0,05 mv a -0,15 mv(masculino e feminino) ou mais ( a partir do ponto J-Y) é sugestivo de isquemia miocárdica, tornando(sugerindo) o Teste Ergométrico positivo. Quando o segmento ST apresenta um infradesnivelamento de no máximo -0,5 mv com ascensão rápida, a interpretação é sugestiva de um Teste Ergométrico negativo para isquemia do miocárdio. Caso ocorra um supra desnivel de ST,achado não muito frequente, durante o esforço e/ou pós-esforço, este será  de alta especificidade para o diagnóstico sugestivo de isquemia miocárdica.
+Ref: Panza JA,Quyumi AA, Diodati JG, Callahan TS et al. J Am CollCardiol 1991; 17:657-663; Tubau JF, Chaitman BR, Bourassa MG, Waters DD. Circulation 1980; 61:44-52; Sheffield D, Kirby DS, Biles P, Sheps DS.Am J Car qual ele ta animandodiol 1999; 83:106-108; Sox HC, Littenberg B, Garber AM. Ann Inter Med 1989; 110:456-469; Shaw LJ, Peterson ED, SHAW LK, et al. Circulation 1998; 98:1622-1630; Gibbons RJ,Hodge DO, Bernan DS et al. Circulation 1999; 100:2140-2145.
+
+
+=== Acurácia ===
+Podem ocorrer a presença de resultados falsos positivos e falsos negativos no Teste Ergométrico, diminuindo portanto sua acurácia.
+Os falsos positivos ocorrem principalmente em mulheres de meia idade e em indivíduos com alteração do segmento ST em repouso (BCRE ou hipertrofia miocárdica).
+Os falsos negativos ocorrem geralmente em obstruções de apenas uma artéria coronária, sobretudo a artéria circunflexa e/ ou descendente anterior com lesão, ainda,  no estado inicial. O importante, é obter a acurácia,  juntamente com outros exames complementares ( cintilografia, angiotomografia, etc.); somente assim, as probabilidades,  de se detectar uma eventual e real coronariopatia, aumentam.
+
+
+=== Segurança ===
+O Teste Ergométrico é um exame não-invasivo e que apresenta baixíssimos índices de complicações na população geral.
+
+
+== Ver também ==
+Ergômetro

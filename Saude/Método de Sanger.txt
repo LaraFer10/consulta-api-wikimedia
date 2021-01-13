@@ -1,0 +1,33 @@
+O método de Sanger é um procedimento tradicional de sequenciamento de DNA, foi desenvolvido pelo bioquímico britânico Frederick Sanger e colaboradores na década de 70. Sanger descobriu que se conseguisse interromper a replicação de um mesmo DNA em pontos diferentes ele poderia juntar essas fitas menores e formar a sequência completa do DNA. O método consiste na adição de nucleotídeos modificados, chamados didesoxiribonucleotídeos (ddNTP’s), que não possuem o grupo OH livre do carbono 3’ da pentose, e impedem o crescimento de um fragmento de DNA em replicação pela DNA polimerase após sua adição. Quando os ddNTP’s tentam se ligar com a fita de DNA, com a ausência do OH, o próximo nucleotídeo não tem onde se ligar e a replicação para, assim, é possível obter fitas do mesmo DNA com número de resíduos diferentes. Esse método tem sido largamente utilizado por centros de pesquisa ao redor do mundo.
+
+Esse método envolve produção de muitas cópias de uma região alvo de DNA. Os ingredientes são similares àqueles usados para replicação de DNA em um organismo, ou para a reação em cadeia da polimerase (PCR), os quais fazem cópias de DNA in vitro. Incluem:
+•	Uma enzima polimerase;
+•	Um primer;
+•	Os quatro nucleotídeos do DNA;
+•	O DNA molde a ser sequenciado.
+•	Versões Dideoxi, ou terminadores de cadeia, para os quatro nucleotídeos (ddATP, ddTTP, ddCTP, ddGTP), cada uma marcada com um corante de uma cor diferente.
+
+Dideoxinucleotídeos são similares aos nucleotídeos comuns, mas com uma diferença: falta um grupo hidroxila na posição 3’ do carbono do anel de sacarose. Uma vez que o dideoxinucleotídeo é adicionado à cadeia, não há hidroxila disponível e nenhum outro nucleotídeo pode ser adicionado. A cadeia termina com o dideoxinucleotídeo, o qual é marcado com uma cor particular de corante dependendo da base (A, T, C ou G) que carrega.
+
+Pelo método de Sanger, uma fita simples de DNA a ser sequenciada é combinada em um tubo com primer, DNA polimerase e nucleotídeos. Os quatro dideoxinucleotídeos marcados com corantes na extremidade 5’ são adicionados também, mas em concentração menores do que as do nucleotídeos comuns. A mistura de reação é primeiro aquecida para desnaturação do DNA molde, então resfriadas para que os primers possam se ligar ao molde de fita simples. Quando o primer se liga, a temperatura é aumentada de novo, permitindo que a DNA polimerase sintetize um novo DNA a partir do primer. A DNA polimerase continuará a adicionar nucleotídeos à cadeia até que aconteça a adição de um dideoxinucleotídeo ao invés de um normal. Uma vez que um dideoxinucleotídeo não tem oxidrila ou hidroxila na extremidade 3’, não é possível haver extensão a partir do nucleotídeo adicionado, parando a reação. Esse processo é repetido em um número de ciclos, e quando o ciclo se completa, é garantido que um dideoxinucleotídeo terá se incorporado em todas as posições do DNA alvo em pelo menos uma reação, ou seja, o tubo irá conter fragmentos de diferentes comprimentos, terminando em cada uma das posições de nucleotídeos no DNA. As extremidades dos fragmentos serão rotuladas com corantes que indicam o nucleotídeo final.
+Depois que a reação é executada, os fragmentos são levados através de um longo e fino tubo sob uma matriz de gel em um processo chamado de eletroforese capilar em gel, onde pequenos fragmentos movem-se rapidamente através dos poros de gel, enquanto longos fragmentos movem-se mais devagar. Assim que cada fragmento cruza a ‘‘linha de chegada’’ no final tubo, ele é iluminado por um laser, permitindo que o corante anexado seja detectado.
+O menor fragmento (que termina com apenas um nucleotídeo depois do primer) atravessa a linha de chegada primeiro, seguido do próximo menor fragmento (terminado com dois nucleotídeos depois do primer) e assim por diante. Assim sendo, a partir das cores doa corantes registrados uma após a outra no detector, a sequência do pedaço original de DNA pode ser construída com  nucleotídeo por vez. Os dados registrados pelo detector consistem em uma série de picos em intensidade de fluorescência. A sequência de DNA é lida a partir dos picos no cromatograma.
+
+O método Sanger promove sequências de alta qualidade para trechos relativamente longos (por volta de 900 pares de bases). É especificamente usado para sequenciar peças individuais de DNA, como plasmídeos bacterianos ou DNA copiado em PCR. Entretanto, o método Sanger de sequenciamento é caro e ineficiente para projetos de larga escala, como o sequenciamento de um genoma inteiro ou metagenoma. Para tarefas como essa, novas técnicas de sequenciamento de larga escala são mais rápidas e menos caras.
+
+
+== Bibliografia ==
+Darnell, J., Lodish, H., Baltimore, D.. Molecular Cell Biology. Second Edition. Scientific American Books. Distributed by W. H. Freeman and Company, New York. p. 213. 1990.
+
+
+== Referências ==
+
+Sequenciamento de DNA e suas aplicações por Prof. Dr. Júlio César Borges. Disponível em:https://edisciplinas.usp.br/pluginfile.php/2346804/mod_resource/content/1/Sequenciamento%20de%20DNA%20e%20Aplica%C3%A7%C3%B5es.pdf
+Sequenciamento de DNA, disponível em:
+https://pt.khanacademy.org/science/biology/biotech-dna-technology/dna-sequencing-pcr-electrophoresis/a/dna-sequencing
+Modificação derivada de "DNA structure and sequencing," by OpenStax College, Biology
+Lewis, T. (2013, April 14). Human genome project marks 10th anniversary. In LiveScience. Disponível em http://www.livescience.com/28708-human-genome-project-anniversary.html.
+National Human Genome Research Institute. (2016, January 15). DNA sequencing costs. In Large-scale genome sequencing and analysis centers (LSAC). Disponível em https://www.genome.gov/sequencingcosts/.
+Obenrader, S. (2003). The Sanger method. In Sarah Obenrader: Molecular biology. Disponível em: http://www.bio.davidson.edu/Courses/Molbio/MolStudents/spring2003/Obenrader/sanger_method_page.htm.
+Reece, J. B., Urry, L. A., Cain, M. L., Wasserman, S. A., Minorsky, P. V., and Jackson, R. B. (2011). Dideoxy chain termination method for sequencing DNA. In Campbell biology (10th ed., p. 410). San Francisco, CA: Pearson.
+Thermo Fisher Scientific. (2016). Sanger sequencing method. Em Sanger sequencing. Disponível em https://www.thermofisher.com/us/en/home/life-science/sequencing/sanger-sequencing/sanger_sequencing_method.html.

@@ -1,0 +1,17 @@
+Vírus dsDNA-RT (do inglês, Double - stranded DNA reverse-transcribing viruses) são vírus que possuem genoma constituído por DNA fita dupla e que replicam o seu material genético gerando moléculas de RNA fita simples senso positivo ((+)ssRNA) intermediárias, por meio da ação da enzima transcriptase reversa. No Sistema de Classificação de Baltimore, tais vírus pertencem ao grupo VII, que compreende 2 famílias virais.
+
+
+== Características gerais ==
+Os vírus dsDNA-RT possuem genomas circulares pequenos, com tamanho variando entre 3 e 8,3 Kb, capaz de codificar cerca de 7 ou 8 proteínas. O DNA viral é parcialmente dupla fita, pois em alguns locais do genoma são encontradas pequenas regiões de DNA fita simples, formando lacunas devido a ausência das respectivas regiões complementares. Estas falhas são preenchidas assim que o material genético viral ganha o ambiente intracelular, gerando dsDNA circulares fechados covalentemente. Os vírus da família Hepadnaviridae possuem partículas virais esféricas que medem de 42 a 47 ηm de diâmetro, com capsídeos icosaédricos e envelopados. Já os vírus de Caulimoviridae são não-envelopados, com simetria icosaédrica (45 a 50 ηm de diâmetro) ou baciliforme (30×60 a 900 ηm). A replicação viral ocorre parte no citosol e parte no núcleo. Ao contrário dos vírus ssRNA-RT, que executam a transcrição reversa assim que entram na célula, nos vírus dsDNA-RT este processo ocorre durante a maturação das partículas virais, posteriormente a complementação das falhas na dupla fita e da transcrição do DNA em RNA no núcleo celular. Diferentemente dos vírus do grupo VI, os vírus do grupo VII não apresentam regiões LTR e não são capazes de integrar o material genético viral no genoma das células hospedeiras. Hepadnaviridae é composta por vírus que infectam vertebrados (incluindo humanos) e Caulimoviridae reune vírus que infectam exclusivamente plantas.
+
+
+== Classificação taxonômica dos vírus dsDNA-RT ==
+Abaixo estão listadas as famílias que compõem o grupo VII:
+
+
+=== Famílias sem ordem atribuída ===
+Hepadnaviridae
+Caulimoviridae
+
+
+== Referências ==

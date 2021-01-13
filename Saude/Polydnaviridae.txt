@@ -1,0 +1,25 @@
+Polydnaviridae (do latim: poly → vários + DNA → DNA + viridae → relativo à família) é uma família de vírus que infetam vespas parasitoides das famílias Ichneumonidae e Braconidae. Os polydnavírus levam esta denominação em função do genoma de DNA dupla fita segmentado que eles possuem, uma característica incomum entre Vírus dsDNA.
+
+
+== Genoma ==
+Estes vírus apresentam material genético constituído por DNA fita dupla (dsDNA), e integram o grupo I do sistema de classificação de Baltimore. O genoma viral é circular, superenovelado e dividido em 10 ou mais segmentos, cada um medindo de 2 a 31 Kb. O genoma completo tem tamanho que varia de 150 a 250 Kb, e codifica entre 20 e 30 ORFs.
+
+
+== Morfologia ==
+Os polydnavírus possuem partículas virais com morfologia complexa. Cada um dos gêneros possui um vírion característico. Membros do gênero Bracovirus possuem partículas virais com nucleocapsídeos cilíndricos, que apresentam diâmetro de 40 ηm e comprimento variando de 30 a 150 ηm. Estas estruturas são empacotadas individualmente ou em grupos por uma bicamada lipídica (envelope). Já os Ichnovirus apresentam vírions com nucleocapsídeos maiores, medindo 85 × 330 ηm, com estrutura em forma de elipsoide alongada. Cada nucleocapsídeo de Ichnovirus é envolto por duas unidades de membrana lipídica, formando dois envelopes virais, um interno e outro externo.
+
+
+== Ciclo de replicação viral ==
+Atualmente sabe-se que todos os insetos hospedeiros de polydnavírus possuem o genoma viral integrado ao seu próprio genoma, sob a forma de provírus. Por consequência, estes vírus são transmitidos da linhagem parental para os descendentes, seja através dos ovos ou por meio das células germinativas. A forma proviral dos polydnavírus é passivamente replicada quando os cromossomos do hospedeiro são duplicados ao longo dos ciclos mitóticos de todas as células. No entanto, as partículas virais dos membros de ambos os gêneros de Polydnaviridae se replicam apenas no cálix do epitélio ovariano de vespas, em regiões localizadas entre os ovariolos e o oviduto. A replicação viral inicia-se no tecido reprodutivo, durante o desenvolvimento das pupas de fêmeas. A replicação se dá no núcleo das células, onde o DNA viral é sintetizado e os nucleocapsídeos são montados. As partículas virais são liberadas no lúmen do oviduto por lise celular (Bracovirus) ou por brotamento através da membrana plasmática (Ichnovirus). Não há registros de patologias causadas por estes vírus em vespas.
+
+
+== Relações ecológicas ==
+Por serem himenópteros parasitóides, as vespas hospedeiras dos polydnavírus põem os ovos no interior de larvas de Lepidoptera, onde os imaturos das vespas se desenvolvem. No ato da ovoposição, juntamente com os ovos, são injetadas partículas virais presentes no fluido do cálix infetado. Os vírus não se replicam nos tecidos dos lepidópteros, porém, são capazes de entrar nas células de vários tecidos das lagartas. No interior das células, os nucleocapsídeos são desmontados no poro nuclear (Bracovirus) ou no interior do núcleo (Ichnovirus), onde permanecem ao longo do curso do parasitismo da himenóptero. Durante este período, alguns genes virais específicos são expressos. O produtos destes genes têm a função suprimir a resposta imune do inseto parasitado contra a larva da vespa.
+
+
+== Ligações externas ==
+«International Committee on Taxonomy of Viruses - ICTV» (em inglês) 
+«ViralZone - SIB Swiss Institute of Bioinformatics» (em inglês) 
+
+
+== Referências ==

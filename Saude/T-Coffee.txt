@@ -1,0 +1,48 @@
+T-Coffee (Tree-based Consistency Objective Function For alignment Evaluation) é um software de alinhamento múltiplo de sequências que usa uma abordagem progressiva. Ele gera uma biblioteca de alinhamentos em pares para guiar o alinhamento múltiplo de seqüências. Ele também pode combinar alinhamentos múltiplos de seqüências obtidos anteriormente e nas versões mais recentes pode usar informações estruturais a partir de arquivos do PDB (3D Coffee). Possui recursos avançados para avaliar a qualidade dos alinhamentos e alguma capacidade de identificar a ocorrência de motivos (Mocca). Ele produz alinhamentos no formato ALN (Clustal) por default, mas pode produzir alinhamentos nos formatosPIR, MSF e FASTA. Os formatos de entrada mais comuns são suportados ( FASTA,  PIR).
+
+
+== Comparações com outros software de alinhamento ==
+Enquanto a saída padrão está em um formato similar ao Clustal, ela é suficientemente diferente da saída do ClustalW/X o que faz com que muitos programas com suporte ao formato de Clustal não possam lê-la; felizmente o ClustalX pode importar saídas do T-Coffe de modo que a simples solução para esse problema geralmente é importar saídas do T-Coffe para o ClustalX e então re-exportar. Outra possibilidade é solicitar o formato de saída estrita do ClustalW com a opção "-output=clustalw_aln"
+Uma especificidade importante do T-Coffee é a sua capacidade de combinar diferentes métodos e tipos de dados diferentes. Em sua última versão, T-Coffee pode ser usado para combinar seqüências de proteínas e estruturas, seqüências de ARN e estruturas. Ele também pode executar e combinar a saída das seqüências e pacotes de alinhamento da estrutura mais comuns. Para obter uma lista completa, veja: tclinkdb.txt
+T-Coffee vem junto com um utilitário sofisticado de reformatação de seqüências chamado seq_reformat. Uma extensa documentação está disponível a partir de t_coffee_technical.htm juntamente com um tutorial t_coffee_tutorial.htm.
+
+
+== Variações ==
+
+
+=== M-Coffee ===
+M-Coffee é um modo especial do T-Coffee que torna possível combinar a saída dos pacotes mais comuns de alinhamento múltiplo de seqüência (MUSCLE, ClustalW, MAFFT, probcons, etc). Os alinhamentos resultantes são ligeiramente melhores do que o individual, mas o mais importante é que o programa indica as regiões onde o alinhamento de vários pacotes concordam. Regiões de elevada concordância são geralmente bem alinhadas.
+
+
+=== Expresso e 3D-Coffee ===
+Estes são modos especiais do T-Coffee tornando possível combinar seqüências e estruturas em um alinhamento. Os alinhamentos baseados em estruturas podem ser realizados utilizando os alinhadores estruturais mais comuns, tais como TMalign, Mustang, e sap.
+
+
+=== R-Coffee ===
+R-Coffee é um modo especial do T-Coffee tornando possível alinhar seqüências de ARN ao usar informações de estrutura secundária.
+
+
+== Referências ==
+
+
+== Ver também ==
+Clustal
+PHYLIP
+MEGA, Molecular Evolutionary Genetics Analysis
+PAUP
+MUSCLE
+MAFFT
+Filogenética computacional
+Árvore filogenética
+Filogenética
+
+
+== Referências ==
+
+
+== Ligações externas ==
+T-Coffee Página oficial
+Servidor T-Coffee Aligner
+página de download T-Coffee
+documentação técnica
+Tutorial

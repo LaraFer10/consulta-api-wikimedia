@@ -1,0 +1,65 @@
+A zidovudina ou AZT (azidotimidina) é um fármaco utilizado como antirretroviral, inibidor da transcriptase reversa (inversa). Indicado para o tratamento da AIDS e contágio por Pneumocystis jirovecii.
+Foi uma das primeiras drogas aprovadas para o tratamento da AIDS (no Brasil) ou SIDA (em Portugal).
+Atualmente é usado no tratamento de infecções por VIH, em associação com outros medicamentos antirretrovirais, sendo neste último país um medicamento de uso exclusivo hospitalar.
+Sua fórmula química é: C10H13N5O4
+
+
+== Histórico ==
+A zidovudina foi a primeira droga aprovada para o tratamento da infecção do VIH/SIDA. Jerome Horwitz do Barbara Ann Karmanos Cancer Institute e Wayne State University School of Medicine sintetizou o AZT em 1964, usando uma bolsa Federal do US National Institutes of Health (NIH). O AZT foi originalmente pensado como uma droga anticancro, mas foi arquivada quando se conclui que não era suficientemente efectiva contra tumores em ratos.Em 1974 W. Ostertag do Instituto Max Planck na Alemanha obteve indícios que o AZT era activo numa cultura de retrovirus de ratos. Em 1984, pouco após a confirmação de que o HIV era a causa da SIDA/AIDS, os cientistas na Burroughs Wellcome Co. (BW) começaram a pesquisar novos compostos para tratar a doença. Burroughs Wellcome já tinha experiência nas doenças virais, liderada por cientistas que incluíam Gertrude Elion, David Barry, Phil Furman, Marty St. Clair, Janet Rideout, Sandi Lehman entre outros. O seu esforço de investigação focou-se na enzima viral Transcriptase reversa. A Transcriptase reversa é uma enzima que os retrovírus, incluindo o VIH, utilizam para se replicarem. Os cientistas na BW começaram por identificar e sintetizar compostos e desenvolver um teste de despistagem para actividade contra retrovírus nos ratos. Um composto com o código BW A509U foi testado e demonstrou uma potente actividade contra os vírus destes roedores.
+Na mesma altura, Samuel Broder, Hiroaki Mitsuya, e Robert Yarchoan do National Cancer Institute (NCI) dos Estados Unidos da América tinham começado também os seu próprio programa independente para desenvolverem uma terapia para a SIDA/AIDS. Os cientistas na BW não estava a trabalhar directamente no VIH, e como tal os dois grupos decidiram trabalhar em conjunto. Em Fevereiro de 1985, os cientistas da NCI demonstraram que o BW A509U tinham uma actividade potente contra o VIH no tubo de ensairo, e alguns meses mais tarde, começaram a fase 1 inicial de ensaios clínicos do AZT na NCI, em colaboração com cientistas da Burroughs Wellcome e da Duke University.  Este ensaio demonstrou que a droga podia ser administrada com segurança a pacientes com VIH e que podia aumentar as contagens de CD4 em doentes com VIH incluindo os com SIDA/AIDS.
+Um teste aleatório com controlo por placebo do AZT foi subsequentemente realizado pela Burroughs-Wellcome, no qual foi demonstrado que o AZT podia prolongar a vida de pacientes com SIDA/AIDS. Burroughs Wellcome Co. pediu a patente do AZT em 1985. A Food and Drug Administration (FDA) aprovou a droga (através do então recentemente criado FDA accelerated approval system) para uso contra VIH, SIDA/AIDS, e AIDS Related Complex (ARC, um dermo médico que deixou de ser usado para doenças pré-SIDA/AIDS) em 20 de Março de 1987. O tempo entre a primeira demonstração que o AZT era activo contra o VIH no laboratório e a sua aprovação foi de apenas 25 meses, que é um dos mais curtos períodos de desenvolvimento de uma droga na história recente.
+O AZT foi subsequentemente aprovado como tratamento preventivo em 1990. Foi inicialmente administrado em doses muito maiores que as actuais, tipicamente 400 mg a cada quatro horas (mesmo durante a noite). No entanto, a falta de alternativas na altura para tratar a SIDA/AIDS afectou o rácio risco/benefício, com a garantida toxicidade da infecção HIV ultrapassando o risco de toxicidade da droga. Um dos efeitos secundários do AZT é anemia, uma queixa frequente nos ensaios clínicos.
+Os regimes de tratamento actuais envolvem doses menores (e.g., 300 mg) de AZT tomados duas vezes ao dia, e quase sempre como parte da highly active antiretroviral therapy (HAART). O AZT é combinado com outras drogras para evitar a mutação do HIV em formas resistentes ao AZTA estrutura cristalina do AZT foi referenciada por Alan Howie (Universidade de Aberdeen) em 1988. No estado sólido o AZT forma uma rede de ligações de hidrogénio.
+
+
+== Mecanismo de ação ==
+É fosforilizada no interior da célula para monofosfato de zidovudina através da timidinocinase celular;  o monofosfato se converte em difosfato pela ação da dimitilatocinase celular e logo se converte em trifosfato através de outras enzimas celulares.
+O trifosfato de zidovudina compete como substrato com o trifosfato de timidina natural para se incorporar às cadeias do DNA viral, que se formam pela ação da transcriptase inversa do retrovírus (DNA polimerase dependente de RNA).
+Uma vez incorporado, o trifosfato de zidovudina interrompe prematuramente o crescimento da cadeia de DNA, já que o grupo 3'-azida impede novas uniões fosfodiéster-5'-3' e, portanto, inibe a divisão do vírus. A afinidade da zidovudina com a transcriptase inversa do retrovírus é maior que com a-DNA-polimerase humana e permite a inibição seletiva da replicação viral sem bloquear a replicação celular.
+O ácido acetilsalicílico (aspirina) interage com a zidovudina ficando mais difícil de ser eliminada e mais tóxica então deve ser evitado.
+
+
+== Efeitos colaterais ==
+Os efeitos colaterais mais comuns (>1%) foram:
+
+Anemia
+Astenia (fraqueza)
+Cansaço
+Confusão mental
+Constipações
+Diarreia
+Dor de cabeça
+Estomatite (feridas na boca)
+Granulopenia (diminuição dos leucócitos)
+Mal estar
+Manchas na pele
+Náusea
+Perda de apetite
+Tosse
+Ulcerações
+Vômito
+
+
+== Nomes comerciais ==
+Azotine - Argentina
+Novo-AZT - Canadá
+Produvir - Brasil
+Retrovir - África do Sul, Alemanha, Argentina, Áustria, Austrália, Bélgica, Brasil, Chile, Dinamarca, Espanha, Estados Unidos da América, Finlândia, França, Grécia,Hong Kong, Índia, Irlanda, Israel, Itália, Malásia, México, Noruega, Nova Zelândia, Países Baixos, Portugal, Reino Unido, Singapura, Suécia, Suíça, Tailândia
+Revirax - Brasil
+Virozid - Brasil
+Zidovir - Brasil, Índia
+Zidovusan - Brasil
+
+
+== Crítica ==
+O filme vencedor de 3 Oscars baseado em fatos reais Clube de Compras Dallas (Dallas Buyers Club, 2013) faz uma dura crítica sobre a toxidade do medicamento AZT, a forma em que a dosagem foi medicada, a distribuição do medicamento e a indústria farmacêutica do AZT nos primeiros pacientes de AIDS na década de 80.
+
+
+== Bibliografia ==
+Duesberg PH, Inventing the AIDS Virus, Regnery  Press, Washington DC, 1996 pp309–59
+Maggiore, Christine, E SE TUDO O QUE VOCÊ OUVIU SOBRE A AIDS ESTIVER ERRADO?, Paulus Editora, 2003, pp33–35
+Frenkel L et col, T-cell subset changes in HIV-infected children treated with zidovudine (AZT). Int Conf AIDS. 1990 Jun 20-23; 6: 200 (abstract no. F.B.490). University of California, Los Angeles, CA, USA [1][ligação inativa]
+MA Fischl, The efficacy of azidothymidine (AZT) in the treatment of patients with AIDS and AIDS-related complex. A double-blind, placebo-controlled trial, The New English Journal of Medicine, July 23, 1987
+
+
+== Referências ==

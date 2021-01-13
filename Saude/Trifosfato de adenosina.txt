@@ -1,0 +1,33 @@
+Trifosfato de adenosina, adenosina trifosfato ou simplesmente ATP, é um nucleotídeo responsável pelo armazenamento de energia em suas ligações químicas. É constituída por adenosina, um nucleosídeo, associado a três radicais fosfato conectados em cadeia. A energia é armazenada nas ligações entre os fosfatos.
+A molécula atua como uma moeda celular, ou seja, é uma forma conveniente da transformação da energia. A molécula ATP armazena energia proveniente da respiração celular e da fotossíntese, para consumo imediato. Seu aproveitamento é feito associando a remoção de seu grupo fosfato terminal aos processos que requerem energia. Desta forma, a energia química armazenada no ATP pode ser utilizada em processos químicos (biossíntese), mecânicos (contração muscular), elétricos (condução de estímulo nervoso), osmóticos (transporte ativo através de membranas), luminosos (bioluminescência) e etc. Sua energia não pode ser estocada, seu uso é imediato, energia pode ser estocada na forma de carboidratos e lipídios.
+As principais formas de produção do ATP são a fosforilação oxidativa e a fotofosforilação. Um radical fosfato inorgânico (Pi) é adicionado a uma molécula de ADP (adenosina difosfato), utilizando energia proveniente da decomposição da glicose (na fosforilação oxidativa) ou da luz (na fotofosforilação).
+Existem enzimas especializadas no rompimento desta mesma ligação, liberando fosfato e energia, usada nos processos celulares, gerando novamente moléculas de ADP. Em certas ocasiões, o ATP é degradado até sua forma mais simples, o AMP (adenosina monofosfato), liberando três fosfatos e uma quantidade maior de energia.
+Estima-se que o corpo humano adulto produza o próprio peso em ATP a cada 24 horas, porém consumindo outros tantos no mesmo período. Se a energia gerada na queima da glicose não fosse armazenada em moléculas de ATP, provavelmente as células seriam rapidamente destruídas pelo calor gerado.
+
+
+== Liberação de energia ==
+Deve-se levar em conta que a quebra do ATP não é simplesmente um rompimento de ligações químicas. Sabe-se que a destruição de ligações químicas é um processo endotérmico, e isso seria uma contradição. Na verdade, a transformação da ATP em ADP + P é uma hidrólise, ou seja, a água é um dos reagentes desse processo. A formação de ligações covalentes no final da transformação libera mais energia do que a absorção na quebra das ligações presentes entre os átomos das moléculas de ATP e água. Dessa forma, a reação global acaba se tornando exotérmica.
+Outros fatores contribuem para que esse composto orgânico libere energia ao ser quebrado. Os produtos ADP e P possuem maior entropia do que o reagente ATP, ou seja, os produtos possuem maior grau de desorganização do que o reagente. Além disso, o fosfato inorgânico apresenta o fenômeno da ressonância (eletróns das ligações π em movimento dentro do próprio composto). Há também, dentro da molécula, átomos de oxigênio com excesso de carga negativa e que estão muito próximos uns dos outros. Isso gera repulsão eletrostática entre essas cargas, e a decomposição do ATP diminui essa repulsão, pelo afastamento dessas cargas. Por fim, a hidratação dos compostos ADP e P libera considerável quantidade de energia. Tudo isso faz com que o sistema composto por ADP e P seja mais estável do que o composto por ATP. Essa estabilidade se dá pelo fato de que ocorre, durante a reação de decomposição do ATP, diminuição da energia livre desse sistema, em outras palavras, liberação de energia.
+Assim, processos metabólicos como A + B → C que necessitem de grande quantidade de energia para acontecer ou não são espontâneos, ocorrem espontaneamente na presença de ATP, processo representado por A + B + ATP + H2O → C + ADP + P, o que garante o funcionamento de organismos vivos.
+
+
+== Processos implicados na formação de ATP ==
+Fotossíntese — captação de Energia Luminosa que é transformada em Energia Química => seres Foto-AutotróficosQuimiossíntese — obtêm energia oxidando a matéria inorgânica --> seres Quimio-Autotróficos.
+
+
+== Processos implicados no uso de ATP ==
+Respiração Celular ou Respiração Aeróbia — decomposição de nutrientes na presença de oxigénio (O2) a fim de obter ATP => Todos os Seres Vivos AeróbiosFermentação (Respiração Anaeróbia) — decomposição de nutrientes na ausência de oxigénio (O2) a fim de obter ATP => seres anaeróbios.
+
+
+== Ver também ==
+ATP sintase
+Reação química
+
+
+== Referências ==
+
+
+== Ligações externas ==
+CliffNotes - Adenosina tri-fosfato (ATP)
+Estudo sobre a Adenosina tri-fosfato
+Estudos da KEGG sobre a Adenosina tri-fosfato

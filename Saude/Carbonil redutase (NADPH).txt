@@ -1,0 +1,11 @@
+Em enzimologia, uma carbonil redutase (NADPH) (Número EC 1.1.1.184) é uma enzima que catalisa a reação química:
+
+R-CHOH-R' + NADP+ 
+  
+    
+      
+        ⇌
+      
+    
+    {\displaystyle \rightleftharpoons }
+   R-CO-R' + NADPH + H+

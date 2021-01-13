@@ -1,0 +1,27 @@
+O teste de Weber ou prova de Weber é um teste clínico rápido para avaliar a audição. Pode detectar perda auditiva condutiva unilateral e perda auditiva neurossensorial unilateral. O teste recebe o nome em homenagem a Ernst Heinrich Weber (1795 – 1878).
+
+
+== Realização ==
+No teste de Weber um diapasão (de 256, 512 ou 1.024 Hz) é batido e o tronco do bastão é colocado no topo do crânio do paciente - em igual distância das orelhas do paciente, no meio de sua testa, ou acima do lábio superior sobre o dente. O paciente então questionado a dizer em qual orelha o som é escutado com mais intensidade.
+
+
+== Detecção de perda auditiva condutiva ==
+Um paciente com perda auditiva condutiva unilateral deve ouvir o diapasão com mais intensidade no lado da orelha afetada. Isto acontece porque o problema de condução mascara o barulho do ambiente da sala, ao passo que a orelha interna que funciona bem recebe o som através dos ossos do crânio, gerando a percepção do som se torna mais intenso do que o da orelha não-afetada.
+
+
+== Detecção de perda auditiva neurossensorial ==
+Um paciente com uma perda auditiva neurossensorial unilateral escutaria o som mais intensamente na orelha não-afetada, porque a orelha afetada é menos efetiva em absorver o som mesmo que ele seja transmitido diretamente por condução para o ouvido interno.
+
+
+== Limitações ==
+O teste de Weber é útil para indivíduos que possuam a audição diferente entre os dois ouvidos. Ele não pode confirmar uma audição normal porque não mede a sensibilidade ao som de uma maneira quantitativa. Os defeitos de audição que afetam ambas as orelhas igualmente, como na prebicusia, por exemplo, irão produzir um resultado aparentemente normal.
+
+
+=== Teste de Rinne adicional ===
+Um teste de Rinne adicional pode fazer um exame mais completo. Na tabela, CA significa condução aérea e CO condução óssea.
+
+
+== Ver também ==
+Teste de Rinne
+Audiometria
+Audiograma

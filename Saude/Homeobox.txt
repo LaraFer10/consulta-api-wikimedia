@@ -1,0 +1,24 @@
+Os homeobox são um segmento de genes homeóticos (reguladores): genes reguladores do desenvolvimento embrionário de animais, fungos e plantas. A atuação destes genes se dá por ativação ou inibição de outros genes que por sua vez produzem proteínas que vão se ligar e influenciar a atividade de outros genes, sucessivamente em um efeito cascata. Este segmento é compartilhado por muitas classes de genes homeóticos. Genes que têm um homeobox são chamados de genes homeobox e formam a família de genes homeopau.
+Um homeobox mede cerca de 180 pares de bases; ele codifica um domínio de 60 aminoácidos que fará parte das proteínas (o "homeodomínio") que pode ligar o ADN. Genes homeobox codificam fatores de transcrição que tipicamente ativam outros genes numa reação em cadeia, por exemplo, todos os necessário para desenvolver uma perna. O homeodomínio liga o ADN numa maneira específica. De qualquer modo, a especifidade de um único homeodomínio protéico não é geralmente suficiente para reconhecer apenas seus genes desejados como alvo. A maior parte do tempo, as proteínas do homeodomínio agem na região promotora dos genes alvos como complexos com outros fatores de transcrição, muitas vezes outras proteínas de homeodomínio. Tais complexos têm uma especificidade de alvo muito maior que uma única proteína de homeodomínio.
+Um certo subgrupo de genes homeobox são os genes Hox, que são encontrados em um complexo especial de genes, o complexo Hox (também chamado de "cluster" Hox). Genes Hox funcionam criando o padrão do eixo corporal. Dessa forma, ao fornecer a identidade de certas regiões do corpo, os genes Hox determinam onde as pernas e outros segmentos do corpo crescerão e se desenvolverão em um feto ou em uma larva.
+Mutações em qualquer um desses genes pode levar ao crescimento de partes do corpo adicionais, geralmente não funcionais em invertebrados, por exemplo, o complexo aristapaedia nas moscas Drosophila, que resulta em uma perna crescendo da cabeça no lugar de uma antena deve-se ao defeito em um único gene (essa mutação é também conhecida como Antennapedia). Mutação nos genes Hox de vertebrados geralmente resulta em aborto espontâneo.
+Os genes homeobox foram encontrados pela primeira vez na mosca da fruta Drosophila melanogaster e subseqüentemente tem sido identificado em várias outras espécies, desde insetos até répteis e mamíferos. Genes homeobox têm sido encontrados em plantas e fungos, por exemplo em leveduras unicelulares. Isso sugere que essa família de genes evoluiu bem cedo e que os mecanismos básicos de morfogênese são os mesmos para muitos organismos.
+Mutações nos genes homeobox podem produzir mudanças fenotípicas facilmente visíveis, pois podem estar ligados a regulação de hormônio do crescimento. Dois exemplos de mutações em homeobox nas já mencionadas moscas das frutas são pernas onde deveriam ter antenas, e um segundo par de asas. Duplicações de genes homeobox podem produzir novos segmentos corporais, e essas duplicações provavelmente foram importantes na evolução de animais segmentados.
+Em uma analogia despretenciosa com computação, pode-se pensar em um gene homeobox como uma chamada para uma sub-rotina. Isso ativa a produção de todo um subsistema, cujo código para ele precisa já estar presente em algum outro lugar no ADN.
+
+
+== Ver também ==
+Biologia evolutiva do desenvolvimento
+
+
+== Referências ==
+Lodish et al.  Molecular Cell Biology, 5th edition, 2003. New York: W.H. Freeman and Company  ISBN 0-7167-4366-3
+Lopes, Sônia. BIO. Saraiva, 2010 ISBN 978-85-02-09434-5
+
+
+== Ligações externas ==
+Em inglês
+The Homeobox Page, por Thomas R. Bürglin.
+The Homeodomain Resource. National Human Genome Research Institute. National Institutes of Health.
+HomeoDB: a database of homeobox genes diversity.   Por Zhong YF, Butts T, Holland PWH.
+Jacobson, Brad, "Homeobox Genes and the Homeobox".  Embryo Project Encyclopedia (2010-10-11). ISSN: 1940-5030

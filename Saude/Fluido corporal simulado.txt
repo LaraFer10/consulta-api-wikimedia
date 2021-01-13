@@ -1,0 +1,16 @@
+O fluido corporal simulado (SBF) ou plasma humano sintético é uma solução com concentração iónica semelhante ao do plasma sanguíneo humano, mantida sob as mesmas condições fisiológocas de pH e temperatura. O SBF foi introduzido pela primeira vez por Kokubo et al. , com o objectivo de avaliar as alterações e reacções deste numa superfície de vidro cerâmico bioactivo.
+
+
+== Aplicações ==
+
+
+=== Na modificação da superfície dos implantes metálicos ===
+Para um material artificial ligar-se ao osso vivo, é de extrema importância a formação da camada de apatita sobre a superfície de um implante. O SBF pode ser usado como um método de teste in vitro para estudar a formação de camada de apatita na superfície dos implantes, a fim de prever a sua bioactividade in vivo dos ossos. O consumo de iões cálcio e fosfato, presentes na solução de SBF, resulta no crescimento espontâneo de osso como núcleos de apatita na superfície de biomateriais em vitro. Consequentemente, a formação de apatita na superfície dos biomateriais, embebida em solução de SBF, é considerado um desenvolvimento bem sucedido de novos materiais bioactivos.
+A técnica do uso de SBF na modificação da superfície dos implantes metálicos é geralmente um processo que consome muito tempo, pois a obtenção de camadas uniformes de apatita sobre os substratos pode durar pelo menos 7 dias, sendo necessária renovação diária da solução de SBF. Uma outra abordagem para reduzir o tempo de revestimento é alterando a concentração dos iões cálcio e fosfato na solução SBF. O aumento da concentração de iões cálcio e fosfato na solução de SBF acelera o processo de revestimento, e, ao mesmo tempo, elimina a necessidade de reposição/renovação periódica da solução SBF.
+
+
+=== Terapia genética ===
+Já foi realizada uma tentativa para investigar a aplicação do SBF na Terapia genética. Nesse estudo, as  nanopartículas de fosfato de cálcio, necessárias para a entrada de DNA de plasmídeo (pDNA)  no núcleo das células, foram sintetizadas a partir de uma solução de SBF e misturado com pDNA. O estudo in vitro mostrou maior eficiência na inserção de genes para os complexos fosfato de cálcio/DNA obtidas a partir da solução de SBF, em comparação com os complexos preparados em água pura (como controlo).
+
+
+== Referências ==

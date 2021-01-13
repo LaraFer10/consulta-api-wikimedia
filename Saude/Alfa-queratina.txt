@@ -1,0 +1,27 @@
+
+== Conceito ==
+A queratina é uma proteínas pertencente a subfamília dos filamentos intermediários, tipicamente encontrada nos epitélios de vertebrados. Ela pertence a um grupo de proteínas insolúveis e é descrita como a proteína estrutural mais abundante em células epiteliais sendo, junto com o colágeno, o biopolímero mais importantes observado em animais. 
+É o principal componente da rígida camada externa da epiderme, constituindo mais de 85% das proteínas celulares, além de apêndices relacionados, como cabelos, chifres, unhas e penas.
+A queratina forma materiais com alto teor de cisteína,o que a distingue de outras proteínas. Esses materiais são tipicamente duráveis, resistentes e não reativos ao ambiente natural, de modo que presume-se que forneçam suporte mecânico e diversas funções de proteção na adaptação de vertebrados ao ambiente externo.
+
+
+=== Alfa-queratina ===
+Baseado no método de difração por raio X, as queratinas podem ser classificadas dentro de padrões alfa, padrões beta e padrões amorfos.
+As macromoléculas básicas que formam as queratinas são cadeias polipeptídicas. Essas cadeias podem apresentar-se em forma de (α-queratina) ou ligações lado a lado em folha plissada (β-queratina). 
+Os padrões alfa são observados nos mamíferos, que possuem mais de 50 genes de queratina expressos de forma tecido-específica, e cujos produtos são classificados como pertencentes a famílias de polipeptídeos relativamente ácidos (Tipo I) e relativamente básicos (Tipo II).
+
+
+== Estrutura proteica ==
+No nível molecular, o padrão de difração por raios X da α-queratina assemelha-se àquele esperado para uma hélice α (daí o nome α-queratina). Contudo, a α-queratina exibe um espaçamento de 5,1 A°, em vez de 5,4 A° correspondente ao passo (distância que a hélice se eleva, por volta, ao longo de seu eixo) de uma hélice α. Essa observação, juntamente com uma série de evidências químicas e físicas, sugere que os polipeptídeos da α-queratina formam pares de hélices α altamente associados, em que cada par é composto por uma cadeia de queratina Tipo I e uma Tipo II, torcidas paralelamente formando uma espiral voltada à esquerda. Como consequência, a distância de repetição normal de 5,4 A° de cada hélice α no par sofre uma inclinação com respeito ao eixo formado pela sua conformação, gerando o espaçamento observado de 5,1 A°. Esse conjunto é denominado estrutura espiral enrolada, pois o eixo de cada hélice α segue um caminho helicoidal.
+A conformação espiral enrolada da α-queratina é uma consequência da sua estrutura primária: o segmento central de cerca de 310 resíduos de cada cadeia polipeptídica possui uma pseudorrepetição heptamérica (de 7 resíduos), a-b-c-d-e-f-g, com resíduos apolares predominantemente nas posições a e d. Uma vez que a hélice α possui 3,6 resíduos por volta, os resíduos a e d da α-queratina alinham-se ao longo de um lado da hélice α, formando uma faixa hidrofóbica que possibilita a sua associação longitudinal com a faixa semelhante de outra hélice α. De fato, a pouca diferença entre os 3,6 resíduos por volta de uma hélice α normal e os ~3,5 resíduos repetitivos da faixa hidrofóbica da α-queratina é responsável pelo enrolamento da espiral enrolada. A inclinação resultante de 18° de uma hélice α com relação a outra permite que os sulcos helicoidais formados pelas cadeias laterais se entrelacem, maximizando assim as interações favoráveis. 
+A organização estrutural superior da α-queratina é pouco compreendida. As regiões N- e C-terminais de cada polipeptídeo provavelmente têm uma conformação flexível e facilitam a organização das espirais enroladas em protofilamentos de ~ 30 A° de largura. Acredita-se que esses protofilamentos sejam constituídos por duas fileiras não coincidentes (as associações cabeça-com-cauda de uma fileira se dão na meia-altura das espirais da outra fileira) e antiparalelas de espirais enroladas alinhadas cabeça-com-cauda. Presume-se que dois protofilamentos formem uma protofibrila de ~50 A° de largura, quatro das quais, por sua vez, enrolam-se uma em torno da outra, formando uma microfibrila.
+
+
+== Propriedades ==
+A α-queratina é rica em resíduos de cisteína, que, por meio de ligações dissulfeto, interligam as cadeias polipeptídicas adjacentes. Isso explica duas de suas propriedades biológicas mais importantes, a insolubilidade e a resistência ao estiramento.
+As α-queratinas são classificadas como "duras" ou "moles", dependendo da quantidade alta ou baixa de enxofre que possuem.As queratinas duras, como aquelas presentes no cabelo, nos chifres e nas unhas, são menos flexíveis que as queratinas moles, que são encontradas na pele ou nas calosidades, pois as ligações dissulfeto resistem a quaisquer forças que possam deformá-las.
+
+O cabelo tratado pela aplicação de um agente oxidante que estabeleça novamente as ligações dissulfeto na conformação "encaracolada" pode formar "cachos permanentes". A elasticidade do cabelo é uma propriedade da espiral enrolada ao retomar a sua configuração inicial depois de ter sido desenrolada e esticada. Entretanto, quando algumas ligações dissulfeto são rompidas, uma fibra de α-queratina pode ser estendida até mais de duas vezes o seu comprimento original pela aplicação de calor úmido. Nesse processo, como a análise por raios X indica, a estrutura de hélice α se estende à medida que suas ligações de hidrogênio se rearranjam para formar uma folha β-pregueada.
+
+
+== Referências ==

@@ -1,0 +1,43 @@
+Para a detecção do COVID-19 e do coronavírus da Síndrome Respiratória Aguda Grave 2, é possível realizar testes com base na reação em cadeia de polimerase (PCR), teste de ácido nucleico e pelo ensaio de imunoabsorção enzimática (ELISA) para a detecção de anticorpos específicos.
+
+
+== Métodos ==
+
+
+=== PCR ===
+Um dos primeiros testes de PCR foi desenvolvido no hospital universitário de Charité, em Berlim, no mês de janeiro de 2020, utilizando reação em cadeia da polimerase em tempo real (RT-PCR) e formou a base de 250 000 kits que a Organização Mundial da Saúde passou a distribuir.Uma empresa sul-coreana chamada de Kogenebiotech desenvolveu um kit de detecção de SARS-CoV-2 com base na PCR chamado PowerCheck Coronavirus, em 28 de janeiro de 2020. Ele procura o gene "E", que é compartilhado por todos os coronavírus´beta e o gene RdRp específico para o SARS-CoV-2. Outras empresas no país, como Solgent e Seegene, também desenvolveram suas versões de kits de detecção chamados de DiaPlexQ e Allplex 2019-nCov Assay, respectivamente, em fevereiro de 2020.Na China, a BGI foi uma das primeiras empresas a receber a aprovação de uso emergencial da Administração Nacional de Produtos Médicos para a organização de um kit de detecção de SARS-CoV-2 baseado na PCR.Nos Estados Unidos, o Centro de Controle e Prevenção de Doenças (CDC) passou a distribuir o Painel de Diagnóstico por RT-PCR do Novo Coronavírus (2019-nCoV) para laboratórios de saúde pública por meio do Recurso Internacional de Reagentes. Um dos três testes genéticos em versões mais antigas dos kits projetou resultados inconclusivos e um congestionamento em Atlanta; os testes, que utilizavam dois componentes, foram considerados fiáveis em 28 de fevereiro de 2020, permitindo que os laboratórios estaduais e locais finalizassem as análises de forma rápida. Seguidamente, o teste foi aprovado pela Food and Drug Administration sob uma autorização de uso de emergência.Os laboratórios comerciais dos Estados Unidos também começaram a realizar os testes. Em 5 de março de 2020, a LabCorp anunciou a disponibilidade nacional de testes de COVID-19 com base na RT-PCR. A Quest Diagnostics disponibilizou, similarmente, o teste nacional de COVID-19 em 9 de março de 2020. Nenhuma limitação de quantidade de realização dos testes foi estipulada; a coleta e o processamento das amostras devem ser realizadas de acordo com os requisitos dos Centros de Controle de Doenças e Prevenção.Em 12 de março de 2020, a Mayo Clinic relatou ter desenvolvido um teste para detectar a infecção por COVID-19.Em 13 de março de 2020, a Hoffmann–La Roche recebeu a aprovação da FDA para a criação de um teste que poderia ser realizado dentro de 3,5 horas, permitindo que uma máquina fizesse aproximadamente 4 128 testes em um período de 24 horas.
+
+
+=== Imunoensaio ===
+Em 28 de fevereiro de 2020, outra empresa sul-coreana denominada PCL apresentou uma solicitação ao Ministério de Segurança de Alimentos e Medicamentos da Coreia do Sul para habilitar o uso de seu kit de detecção baseado na RT-PCR. A empresa alega que o material, baseado em anticorpos, pode fazer um diagnóstico em até 10 minutos.Em 8 de março de 2020, a Academia Sinica de Taiwan anunciou que o primeiro anticorpo monoclonal do mundo, que se liga especificamente à proteína nucleocapsídeo (proteína N) do novo coronavírus, foi gerado e testado com sucesso em apenas 19 dias. Se o kit de teste imunológico rápido puder ser desenvolvido e fabricado com sucesso com base nesse anticorpo, ele será de grande utilidade para a detecção do SARS-CoV-2 dentro de 15 a 20 minutos, exatamente como um teste rápido de influenza.
+
+
+=== Ácido nucleico ===
+O teste Expify Respiratory, pertencente ao IDbyDNA, é um teste de análise de ácido nucleico Metanogenômico que pode identificar mais de 900 patógenos respiratórios, incluindo a cepa do vírus SARS-CoV-2. A análise real dos dados leva menos de uma hora; o tempo de resposta desde o recebimento da amostra até o resultado do teste é de 36 horas. Em contrapartida, o teste é mais caro que a reação em cadeia da polimerase da transcriptase reversa em tempo real.
+
+
+=== Detecção de anticorpos ===
+É possível, também, pesquisar anticorpos produzidos em resposta à infecção. Os testes de anticorpos usam uma amostra de soro sanguíneo e podem fornecer um resultado positivo, mesmo que a pessoa se recupere e o vírus não esteja mais alocado. O primeiro teste de anticorpos foi demonstrado por uma equipe do Instituto de Virologia de Wuhan, em 17 de fevereiro de 2020.Em 25 de fevereiro, uma equipe da uke–NUS Medical School, de Singapura, anunciou outro teste de anticorpos para COVID-19, que pode fornecer um resultado dentro de dias.
+
+
+=== Tomografia computadorizada do tórax ===
+Às vezes, tomografias computadorizadas (TC) do tórax podem ajudar a identificar e caracterizar o estado patológico pulmonar e produzir achados inespecíficos com a infecção por COVID-19. Um estudo descobriu que a sensibilidade da tomografia computadorizada para infecção por COVID-19 era de 98%, em comparação com a sensibilidade da RT-PCR de 71%. No entanto, o teste foi realizado em Wuhan, na China, e, por isso, pode não ser generalizado. Grande parte dos achados consistia na presença de opacificação em vidro fosco na região subpleural e pavimentação em mosaico. Esses achados são inespecíficos, pois também são encontrados em outros tipos de pneumonia. Nenhum estudo avaliou, ainda, a precisão e o valor discriminatório das tomografias para distinguir o COVID de outras pneumonias virais.
+
+		
+
+
+== Coleta de amostras ==
+Utilizando a reação em cadeia de polimerase com transcriptase reversa em tempo real (rRT-PCR), o teste pode ser feito com base em amostras respiratórias obtidas por vários métodos, incluindo o esfregaço nasofaríngeo ou a saliva. Geralmente, os resultados estão disponíveis dentro de algumas horas a 2 dias.
+Hong Kong estabeleceu um esquema no qual os pacientes suspeitos podem permanecer em suas residências. Para isso, o departamento de emergência oferecerá um tubo de amostra para o paciente no qual ele cuspirá e enviará de volta para a análise. O Serviço Nacional de Saúde do Reino Unido anunciou que começará a testar casos suspeitos em casa, o que elimina o risco de um paciente infectar outras pessoas se for a um hospital. No teste rápido de COVID-19 para casos suspeitos, o profissional de saúde coleta amostras usando as precauções apropriadas para o exame.
+
+
+== Produção e volume de testes ==
+Na China, a BGI foi uma das primeiras empresas autorizadas pela Administração Nacional de Produtos Médicos da China para criar um kit de detecção do novo coronavírus, com base na PCR. Para aumentar a capacidade de testagem, Wang Jian, fundador da BGI, supervisionou a construção em 5 dias de um laboratório que testa 10 000 amostras diárias em Wuhan.A China anunciou que estava realizando 1,7 milhão de testes baseados em ácidos nucleicos e 35 000 kits de testes de anticorpos por dia, em 25 fevereiro de 2020.  Em 4 de março de 2020, a BGI montou 12 laboratórios em todo o território chinês, que completaram um total de 360 000 amostras de teste, com capacidade para 50 000 análises diárias. Fora da China, o material recebeu a certificação europeia CE-IVD, que lhe concedeu a permissão de estar disponível comercialmente em mercados que conhecem a atribuição fornecida.
+
+
+== Referências ==
+
+
+== Ver também ==
+Virologia
+ WP:Aviso médico

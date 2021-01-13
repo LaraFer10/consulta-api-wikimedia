@@ -1,0 +1,15 @@
+B.1.1.7, também conhecida como VUI – 202012/01, é uma variante do SARS-CoV-2, o vírus gerador da COVID-19. A variante foi detectada pela primeira vez no Reino Unido em outubro de 2020 a partir de uma amostra tirada no mês anterior, e rapidamente começou a se espalhar em meados de dezembro. Está correlacionado com um aumento significativo na taxa de infecção por COVID-19 na Inglaterra.
+
+
+== Genética ==
+Mutações da SARS-CoV-2 são comuns: mais de quatro mil mutações foram detectadas apenas na glicoproteína spike. O foco nas mutações decorre de uma forma comum para rastrear a propagação do vírus. Além de mostrar, por exemplo, que o SARS-CoV-2 chegou ao Reino Unido após mais de mil incidentes separados, também mostra que uma variante com a mutação G614 substituiu completamente o D614 anterior.A variante B.1.1.7 é definida por dezessete mutações, incluindo várias na glicoproteína spike: deleção 69-70, deleção 144, N501Y, A570D, D614G, P681H, T716I, S982A, D1118H. Uma das mutações mais importantes parece ser a N501Y—uma mudança de asparagina (N) para tirosina (Y) na posição de aminoácido 501. Isso se deve à sua posição dentro do domínio de ligação ao receptor da glicoproteína spike (RBD), que se liga ao ACE2 humano e murino. Mutações no RBD podem tornar o vírus mais infeccioso.
+
+
+== Descoberta ==
+O B.1.1.7 foi detectado em outubro de 2020 pelo Consórcio COVID-19 Genomics UK (COG-UK) a partir de uma amostra retirada em setembro do mesmo ano.
+
+
+== Notas ==
+
+
+== Referências ==

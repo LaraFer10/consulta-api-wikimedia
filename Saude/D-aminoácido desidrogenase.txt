@@ -1,0 +1,16 @@
+A D-aminoácido desidrogenase (EC 1.4.99.1) é uma enzima bacteriana que catalisa a oxidação de D-aminoácidos nos correspondentes oxiácidos. Contém flavina e ferro não-hemo como cofactores. A enzima possui uma larga especificidade e pode agir na maioria dos D-aminoácidos.D-aminoácido + H2O + aceitador ⇐> a 2-oxiácido + NH3 + aceitador reduzido
+Esta reacção é distinta da reacção de oxidação catalisada pela D-aminoácido oxidase que utiliza o oxigénio como substrato secundário. A desidrogenase pode utilizar muitos compostos diferentes como aceitadore sde electrões, com o substrato fisiológico sendo a coenzima Q.
+
+
+== Ver também ==
+Fosforilação oxidativa
+Cadeia respiratória
+Metabolismo microbiano
+
+
+== Referências ==
+
+
+== Ligações externas ==
+Entrada BRENDA - EC 1.4.99.1
+Entrada ENZYME - EC 1.4.99.1

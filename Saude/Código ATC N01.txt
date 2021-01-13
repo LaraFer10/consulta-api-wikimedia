@@ -1,0 +1,110 @@
+O Código ATC N01 (Anestésicos) é um subgrupo terapêutico da classificação ATC (Anatomical Therapeutic Chemical Classification System), um sistema de códigos alfanuméricos desenvolvido pela Organização Mundial da Saúde (OMS) para classificar medicamentos e outros produtos médicos. O subgrupo N01 faz parte do grupo anatômico N (sistema nervoso).Os códigos para uso veterinário (códigos ATCvet) podem ser criados colocando a letra Q antes do código ATC para uso humano: por exemplo, QN01. Os códigos ATCvet sem os códigos ATC humanos correspondentes são citados com a letra Q inicial nessa lista.
+
+
+== N01A Anestésicos, geral ==
+
+
+=== N01AA Éteres ===
+N01AA01 Éter dietílico
+N01AA02 Éter vinílico
+
+
+=== N01AB Hidrocarbonetos halogenados ===
+N01AB01 Halotano
+N01AB02 Clorofórmio
+N01AB04 Enflurano
+N01AB05 Tricloroetileno
+N01AB06 Isoflurano
+N01AB07 desflurano
+N01AB08 Sevoflurano
+
+
+=== N01AF Barbitúricos, simples ===
+N01AF01 Metoexital
+N01AF02 Hexobarbital
+N01AF03 Tiopental
+QN01AF90 Tiamilal
+
+
+=== N01AG Barbitúricos em combinação com outras drogas ===
+N01AG01 Narcobarbital
+
+
+=== N01AH Anestésicos opioides ===
+N01AH01 Fentanil
+N01AH02 Alfentanil
+N01AH03 Sufentanila
+N01AH04 Fenoperidina
+N01AH05 Anileridina
+N01AH06 Remifentanil
+N01AH51 Fentanil, associações
+
+
+=== N01AX Outros anestésicos gerais ===
+N01AX03 Cetamina
+N01AX04 Propanidido
+N01AX05 Alfaxalona
+N01AX07 Etomidato
+N01AX10 Propofol
+N01AX11 Oxibato de sódio
+N01AX13 Óxido nitroso
+N01AX14 Escetamina
+N01AX15 Xenon
+N01AX63 Óxido nitroso, associações
+QN01AX91 Azaperona
+QN01AX92 Benzocaína
+QN01AX93 Mesilato de tricaína
+QN01AX94 Isoeugenol
+QN01AX99 Outros anestésicos gerais, associações
+
+
+== N01B Anestésicos, local ==
+
+
+=== N01BA Ésteres do ácido aminobenzoico ===
+N01BA01 Metabutetamina
+N01BA02 Procaína
+N01BA03 Tetracaína
+N01BA04 Cloroprocaína
+N01BA05 Benzocaína
+N01BA52 Procaína, associações
+N01BA53 Tetracaína, associações
+
+
+=== N01BB Amidas ===
+N01BB01 Bupivacaína
+N01BB02 Lidocaína
+N01BB03 Mepivacaína
+N01BB04 Prilocaína
+N01BB05 Butanilicaína
+N01BB06 Cinchocaína
+N01BB07 Etidocaína
+N01BB08 Articaína
+N01BB09 Ropivacaína
+N01BB10 Levobupivacaína
+N01BB20 Combinações
+N01BB51 Bupivacaína, associações
+N01BB52 Lidocaína, associações
+N01BB53 Mepivacaína, associações
+N01BB54 Prilocaína, associações
+N01BB57 Etidocaína, associações
+N01BB58 Articaína, associações
+
+
+=== N01BC Ésteres do ácido benzóico ===
+N01BC01 Cocaína
+
+
+=== N01BX Outros anestésicos locais ===
+N01BX01 Cloreto de etila
+N01BX02 Diclonina
+N01BX03 Fenol
+N01BX04 Capsaicina
+
+
+== Ver também ==
+Classificação ATC
+Código ATC N: Sistema Nervoso
+
+
+== Referências ==

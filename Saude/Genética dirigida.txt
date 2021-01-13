@@ -1,0 +1,16 @@
+Uma genética dirigida é  uma tecnologia de engenharia genética que propaga um conjunto específico de genes em uma população. Ela é um mecanismo de auto-propagação pelo qual uma variante genética desejada pode se espalhar por uma população mais rapidamente do que a herança mendeliana tradicional. Esse mecanismo pode ser tão eficaz que os alelos podem se espalhar, mesmo que conferam uma característica desvantajosa, como esterilidade, a um organismo. Assim, as unidades gênicas apresentam novas soluções em potencial para uma variedade de questões que a população global enfrenta, incluindo erradicar ou alterar vetores de doenças (como mosquitos), controlar espécies invasoras de plantas, insetos ou mamíferos e combater a resistência a pesticidas.Elementos sintéticos de genética dirigida baseados em componentes CRISPR derivados de bactérias foram desenvolvidos em organismos diplóides, incluindo leveduras, insetos e mamíferos.
+
+
+== Mecanismo ==
+Nas espécies que se reproduzem sexualmente, a maioria dos genes está presente em duas cópias (que podem ser iguais ou diferentes alelos), qualquer um dos quais tem 50% de chance de passar para um descendente. Ao influenciar a herança de determinados genes alterados, os genes sintéticos podem espalhar alterações através de uma população.
+
+
+=== Mecanismos moleculares ===
+No nível molecular, uma unidade de gene da endonuclease funciona cortando um cromossomo em um local específico que não codifica a unidade, induzindo a célula a reparar o dano, copiando a sequência da unidade no cromossomo danificado. A célula possui duas cópias da sequência da unidade. O método deriva de técnicas de edição de genoma e baseia-se no fato de que as quebras de fita dupla são mais freqüentemente reparadas por recombinação homóloga (na presença de um modelo), em vez de união final não homóloga.
+
+
+=== Espalhando na população ===
+Como nunca pode mais que dobrar em frequência a cada geração, um impulso genético introduzido em um único indivíduo normalmente requer dezenas de gerações para afetar uma fração substancial de uma população. Como alternativa, liberar organismos contendo unidades em número suficiente pode afetar o restante dentro de algumas gerações; por exemplo, ao introduzi-lo em cada milésimo indivíduo, leva apenas 12 a 15 gerações para estar presente em todos os indivíduos.Se um impulso genético se tornará fixo em uma população e a que velocidade depende de seu efeito na aptidão dos indivíduos, na taxa de conversão de alelos e na estrutura da população. Em uma população bem mista e com freqüências realistas de conversão de alelos (≈90%), a genética da população prediz que as unidades gênicas são fixadas para um coeficiente de seleção menor que 0,3; em outras palavras, os drives de genes podem ser usados para espalhar modificações, desde que o sucesso reprodutivo não seja reduzido em mais de 30%. Isso contrasta com os genes normais, que só podem se espalhar por grandes populações se aumentarem a aptidão.
+
+
+== Referências ==

@@ -1,0 +1,12 @@
+A classificação ATCC (Anatomical Therapeutic Chemical Code) é um classificações amplamente utilizada internacionalmente para classificar as moléculas (substâncias) com acção terapêutica. Esta classificação é a adoptada pela OMS (Organização Mundial de Saúde). Consiste em classificar os fármacos em diferentes grupos e sub-grupos (níveis), de acordo com o órgão ou sistema sobre o qual actuam e segundo as suas propriedades químicas, farmacológicas e terapêuticas, podendo os sub-grupos chegar até ao quinto nível. 
+Inicialmente as substâncias eram classificadas de acordo com a classificação AC (classificação anatômica), mas essa classificação mostrou-se insuficiente, sendo por isso, alterada para a classificação ATC que possui mais sub-grupos.
+
+O grupo principal é representado por uma letra e corresponde ao grupo anatómico
+O primeiro sub-grupo é representado por dois números e corresponde ao grupo terapêutico
+O segundo sub-grupo é representado por uma letra e corresponde ao grupo farmacológico
+O terceiro sub-grupo é representado por uma letra e corresponde ao grupo químico
+O quarto sub-grupo é representado por dois números e corresponde à substância químicaOs grupos principais da classificação ATC são:
+
+
+== Ligações externas ==
+WHO Collaborating Centre for Drug Statistics Methodology

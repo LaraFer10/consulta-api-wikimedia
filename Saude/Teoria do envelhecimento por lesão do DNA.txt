@@ -1,0 +1,20 @@
+A senescência ou envelhecimento é um processo natural e integrado ao desenvolvimento ontogenético de quase todos os organismos, especialmente dos multicelulares de maior complexidade. Neste caso, há um paulatino comprometimento funcional diferenciado dos órgãos e tecidos. A senescência diz respeito a um processo complexo, provavelmente motivado por vários fatores que atuam em distintos níveis de organização biológica.
+A teoria do envelhecimento por lesão do DNA diz respeito ao nível molecular e celular e busca elucidar alguns dos fatores responsáveis pela produção do fenótipo tipicamente associado ao envelhecimento. Sua premissa é a de que as células no transcurso temporal e de repetidos ciclos mitóticos passam a acumular lesões no DNA. Tais lesões, embora muitas vezes redundem em mutações, não podem ser confundidas com estas, pois compreendem danos em escala maior, tipicamente relacionado à mudança conformacional de longas sequências de DNA. Tais mudanças, durante o processo de transcrição e tradução, podem ser responsáveis por mutações ou silenciamentos genéticos.
+
+
+== Fontes lesionadoras do DNA ==
+As fontes lesionadoras do DNA podem ser intrínsecas: ERO (espécies reativas de oxigênio) ou outras reações químicas espontâneas ou extrínsecas: compostos químicos mutagênicos e radiações. Os danos mais comuns ao material genético são a desaminação, despurinização e o rompimento simultâneo de ambas as cadeias de DNA.
+
+
+== Mecanismos inatos de reparo para as lesões do DNA ==
+Nosso organismo, no entanto, possui mecanismos inatos de reparo para essas e outras lesões, tais como os complexos enzimáticos REB (reparadores de excisão de base), REN (reparadores de excisão de nucleotídeo) e JFNH (reparadores para junção final de cadeias de DNA não homólogas). Corrobora a teoria do envelhecimento por lesão de DNA o fato de que muitas das síndromes do envelhecimento precoce estão associadas à debilitação de um ou mais desses mecanismos inatos de reparo.
+
+
+== Consequências do acúmulo de lesões do DNA ==
+O acumulo de lesões no material genético pode provocar a interrupção do ciclo celular ou desregulação da expressão gênica, que podem levar à disfunção ou morte celular (apoptose) prematuramente. Ao nível tecidual, pode comprometer a renovação de linhages de células tronco e quebra da homeostase. Tal conjunto de alterações conspira para a produção do fenótipo tipicamente associado ao envelhecimento.
+
+
+== Referências ==
+
+B. Alberts et al. Molecular biology of the cell (6th ed.). Garlland, 2014.
+Freitas, A. A; J. P. de Magalhães. Review and appraisal of the DNA damage theory of ageing. Mutation Research 728 (2011) 12–22.

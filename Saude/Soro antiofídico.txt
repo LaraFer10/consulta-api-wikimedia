@@ -1,0 +1,46 @@
+Soro antiofídico é um medicamento composto por anticorpos usado para tratar picadas de serpentes peçonhentas. É um produto biológico, obtido a partir do plasma hiperimunizados de animais, como cavalos ou ovelhas. Para tal, os animais são inoculados com múltiplas doses de venenos, a fim de criar uma ampla resposta imunológica que produz anticorpos neutralizantes contra vários componentes (toxinas). Está na lista de medicamentos essenciais da OMS.A administração de soros caracteriza uma imunização passiva, constituindo-se em tratamento antiveneno; portanto, não produz imunidade permanente e, no caso de outro acidente com veneno da mesma espécie de animal peçonhento, é necessário repetir o tratamento antiveneno.
+
+
+== História ==
+A descoberta da soroterapia por Emil von Behring e Shibasaburo Kitasato em 1890 influenciou diretamente a busca de outros processos semelhantes, incluindo a descoberta do soro antiofídico.
+O início da terapia antiofídica é geralmente creditado ao médico francês Albert Calmette, em 1895, enquanto trabalhava no Instituto Pasteur da Indochina (que na época era colônia francesa). Calmette desenvolveu um soro para tratar picadas de Naja naja. Na mesma época, Césaire Auguste Phisalix e Gabriel Bertrand também trabalharam em pesquisas sobre envenenamento ofídico, produzindo soro antiofídico no Museu de História Natural de Paris.A descoberta serviu de base para os estudos do médico sanitarista Vital Brazil, pioneiro na produção dos soros específicos contra venenos de animais peçonhentos e reconhecido mundialmente por suas descobertas. Tanto Calmette como Phisalix e Bertrand acreditavam que o soro proposto seria eficiente para qualquer tipo de envenenamento por serpentes. Todavia, em 1898, Vital Brazil demonstrou que a especificidade dos soros antiofídicos estava relacionada ao gênero das serpentes, o que foi um marco para as futuras pesquisas na área. Em 1901, Vital Brazil, como diretor do recém-fundado Instituto Butantan em São Paulo, desenvolveu os primeiros antivenenos monovalentes e polivalentes para os gêneros Crotalus e Bothrops, iniciando a produção e ampla distribuição de soros antiofídicos no Brasil.
+
+
+== Produção ==
+Na primeira etapa do processo de produção de soros são necessárias as serpentes, para a obtenção dos venenos, que serão usados para a hiperimunização de animais doadores, principalmente equinos e ovinos. A hiperimunização pode ser feita com o veneno de espécies de um único gênero, dando origem a um soro monovalente, ou a mistura de venenos de espécies de gêneros diferentes, resultando em soros polivalentes.O animal doador é então inoculado com doses não letais do(s) veneno(s), a fim de se produzir uma resposta de anticorpos neutralizantes. Em seguida, em determinados intervalos, o sangue do animal doador é coletado. Geralmente, o plasma de vários animais é combinado para produzir o plasma acabado, que posteriormente que será purificado para a obtenção do soro.
+
+
+== Regulação ==
+No Brasil, os soros antipeçonhentos são produzidos pelo Instituto Butantan (São Paulo), Fundação Ezequiel Dias (Minas Gerais) e Instituto Vital Brazil (Rio de Janeiro). Toda a produção é comprada pelo Ministério da Saúde, que distribui para todo o país por meio das Secretarias de Estado de Saúde.No Brasil, os soros hiperimunes são regulamentados pela Anvisa.Atualmente, muitos poucos países produzem venenos de cobra de qualidade adequada para a fabricação de antídotos, e muitos fabricantes contam com fontes comerciais comuns que nem sempre refletem adequadamente as variações geográficas dos venenos de algumas espécies amplamente distribuídas. Além disso, os países onde as picadas de cobra são um grande problema geralmente carecem de capacidade regulatória para controlar os antídotos e avaliar sua qualidade e adequação.
+
+
+== Classificação ==
+
+
+=== Monovalente vs. polivalente ===
+Um antiofídico pode ser classificado por quais antígenos (venenos) foram usados no processo de produção. Se a imunização for feita utilizando o veneno de espécies de um único gênero, soro é monovalente; o se for realizada por uma mistura de venenos de espécies de dois gêneros diferentes, o soro é polivalente.
+
+
+=== Tipo de anticorpo ===
+Os antiofídicos podem ser compostos de moléculas íntegras de imunoglobulina ou por fragmentos de imunoglobulinas. A imunoglobulina íntegra é geralmente a imunoglobulina G (IgG), enquanto os fragmentos  são derivados da digestão da IgG em Fab (ligação monomérica) ou F(ab')2 (ligação dimérica).
+Os fragmentos de imunoglobulinas são obtidos a partir da digestão por enzimas proteolíticas, como a papaína. Na produção de soros, a papaína converte a IgG íntegra em fragmento Fab (fragmento de ligação ao antígeno) e Fc (fragmento cristalizável, que forma cristais quando armazenado em locais frios). Um anticorpo também pode ser digerido pela pepsina para produzir dois fragmentos: um fragmento F(ab')2 e um fragmento de proteína pFc'.
+
+
+== Propriedades de neutralização cruzada ==
+Os antiofídicos também podem apresentar alguma neutralização cruzada contra uma variedade de venenos de serpentes que não são utilizados durante o processo de imunização, principalmente serpentes da mesma família ou gênero. Entretanto, em determinadas situações, a neutralização cruzada é baixa ou até mesmo inexistente.
+
+
+== Ver também ==
+Serpentes
+Instituto Butantan
+Vital Brasil
+
+
+== Referências ==
+
+
+== Ligações externas ==
+Manual de Diagnóstico e Tratamento de Acidentes por Animais Peçonhentos Manual de Diagnóstico e Tratamento de Acidente
+Manual de Normas e Procedimentos para Vacinação
+Soros e vacinas do Butantan
+«Snake Antivenom Immunoglobulins» (em inglês). Organização Mundial de Saúde. Consultado em 14 de janeiro de 2015

@@ -1,0 +1,40 @@
+Endósporo é uma estrutura dormente, dura, e não reprodutiva produzida por um número pequeno de bactérias do grupo Firmicutes. A função primária da maioria dos endósporos é garantir a sobrevivência da bactéria por períodos de estresse ambiental. Eles são portanto resistentes a radiação ultravioleta e gama, seca, lisozima, temperatura, fome, e desinfetantes químicos. Endósporos são comumente encontrados no solo e na água, onde sobrevivem por longos períodos. Algumas bactérias produzem exósporos ou cistos, em vez de endósporos.
+
+
+== Estrutura ==
+Diferente dos eucariotos, que geralmentes produzem esporos para fins reprodutivos, bactérias produzem um único endósporo internamente. O esporo é envolvido externamente por um revestimento delgado conhecido como exospório, que por sua vez recobre a capa do esporo . A capa do esporo possui características bioquímicas que respondem pela resistência do endósporo a várias moléculas tóxicas e agentes físicos  e também pode conter enzimas envolvidas na germinação. O córtex está localizado internamente à capa do esporo e é formado por camadas de peptidoglicano. Abaixo do córtex há o núcleo do esporo, formado por estruturas celulares normais como parede celular, citoplasma, DNA e ribosomos, mas é metabolicamente inativo. 
+Até 15% do peso seco do endósporo consiste em dipicolinato de cálcio dentro do núcleo do esporo, que assim estabilizaria o DNA. O ácido dipicolínico seria responsável pela resistência do esporo ao calor e o cálcio auxiliaria na resistência ao calor e agentes oxidantes. Entretanto, foram isolados mutantes resistentes ao calor que carecem de ácido dipicolínico, sugerindo a ação de outros mecanismos na contribuição da resistência ao calor .
+
+
+== Posição ==
+A posição do endósporo difere entre espécies bacterianas e é útil na identificação. Os tipos principais de localização do endósporo na célula são: terminal, subterminal e central. Endósporos terminais são vistos nos pólos das células, enquanto endósporos centrais estão mais ou menos no meio. Endósporos subterminais são aqueles entre esses dois extremos, geralmente vistos longe o suficiente dos pólos, mas próximos o suficiente do centro de forma a não serem considerados terminais nem centrais. Endósporos laterais são vistos ocasionalmente.
+Exemplos de bactérias que têm endósporos terminais incluem Clostridium tetani, o patógeno causador do tétano. Bactérias possuidoras de endósporo centralmente posicionado incluem Bacillus cereus e aquelas possuidoras de endósporo subterminal incluem Bacillus subtilis. Às vezes, o endósporo pode ser tão grande que a célula pode estar esticada em torno do endósporo, isso é típico de Clostridium tetani.
+Visualizar endósporos no microscópio ótico pode ser difícil devido à impermeabilidade da parede do mesmo a corantes e marcadores. Enquanto o restante de uma célula bacteriana pode ser corado, o endósporo permanece incolor. Para resolver isto, é utilizada uma técnica de coloração especial chamada coloração de Moeller, que permite ao endósporo corar-se em vermelho, enquanto o restante da célula fica azul. Outra técnica de coloração para endósporos é a coloração de Schaffer-Fulton, que cora endósporos em verde e corpos bacterianos em vermelho.
+
+
+== Importância ==
+Sendo um modelo simplificado de diferenciação celular, os detalhes moleculares da formação do endósporo foram extensivamente estudados, especialmente no organismo modelo Bacillus subtilis. Esses estudos contribuiram muito para o entendimento da regulação da expressão gênica, dos fatores de transcrição e das subunidades tipo fator sigma da RNA polimerase.
+Endósporos da bactéria Bacillus anthracis foram usados nos ataques com carbúnculo nos Estados Unidos da América em 2001. O pó encontrado em cartas postais contaminadas era composto de endósporos extracelulares de antraz. A inalação, ingestão ou contaminação cutânea por esses endósporos, que foram chamados pelo termo tecnicamente incorreto "esporos", levou a várias mortes.
+
+
+== Bactérias formadoras de endósporos ==
+Exemplos de gêneros bacterianos formadores de endósporo:
+
+Bacillus
+Clostridium
+Desulfotomaculum
+Sporolactobacillus
+Sporosarcina
+Thermoactinomyces
+
+
+== Referências ==
+
+
+== Ligações externas ==
+
+(em inglês)
+
+Animação da formação do esporo bacteriano
+Formação do esporo microbiano
+Estrutura do endósporo

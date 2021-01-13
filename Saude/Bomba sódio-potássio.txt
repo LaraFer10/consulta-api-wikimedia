@@ -1,0 +1,44 @@
+A bomba sódio potássio ou Na+/ K+ ATPase é uma  proteína transmembrana cuja atividade  enzimática utiliza a energia proveniente da  degradação do ATP em ADP e fosfato inorgânico para transportar   íons de potássio e sódio contra os respectivos  gradientes de concentração. A bomba tem um papel importante na manutenção do potencial de repouso das células nervosas,  musculares e  cardíacas. Ela  permite a troca de íons de sódio (Na+), oriundos do meio intracelular, por íons de potássio (K+), oriundos do meio extracelular, numa relação precisa (3 Na+/2 K+). A bomba é responsável pelo restabelecimento do equilíbrio inicial após um  potencial de ação.
+A digoxina e a  ouabaína  ou estrofantina g,  além da digitalina e da palitoxina bloqueiam a bomba.
+A bomba sódio-potássio é, por vezes, designada como bomba de sódio pois ela foi  inicialmente caracterizada como responsável pelo transporte ativo de sódio.
+
+Para manter seu potencial elétrico, a célula  precisa de uma baixa concentração de íons de sódio e de uma elevada concentração de íons de potássio no seu interior. Fora das células existe uma alta concentração de sódio e uma baixa concentração de potássio, pois existe difusão destes componentes através de canais iônicos existentes na membrana celular. Para manter as concentrações ideais dos dois íons, a bomba de sódio bombeia sódio para fora da célula e potássio para dentro dela. Esse transporte é realizado contra os gradientes de concentração desses dois íons, o que ocorre graças à energia liberada pela quebra da molécula de ATP.
+
+
+== O mecanismo ==
+A bomba, ligada ao ATP, liga-se a 3 íons de Na+ intracelulares.
+O ATP é hidrolisado, levando à fosforilação da bomba e à libertação de ADP.
+Essa fosforilação leva a uma mudança conformacional da bomba, expondo os íons de Na+ ao exterior da membrana. A forma fosforilada da bomba, por ter uma afinidade baixa aos íons de sódio, liberta-os para o exterior da célula.
+À bomba ligam-se 2 íons de K+ extracelulares, levando à desfosforilação da bomba.
+O ATP liga-se e a bomba reorienta-se para libertar os íons de potássio para o interior da célula: a bomba está pronta para um novo ciclo.O bombeamento funciona, mas não é equitativo: para cada três íons sódio bombeados (pelo ATP) para o líquido extracelular, apenas dois íons potássio são bombeados (pelo ADP) para o líquido intracelular.
+
+
+== Fisiologia ==
+Como a membrana celular é muito menos permeável ao sódio do que ao potássio, desenvolve-se um potencial eléctrico positivo através da membrana (tendo como referência o interior celular ).
+O gradiente de concentração e eléctrico estabelecido pela bomba de sódio  suporta não só o potencial eléctrico de repouso da célula mas também os potenciais de ação em células nervosas e musculares. A exportação de sódio da célula proporciona a força motriz para que certos transportadores façam o importe de glicose, aminoácidos e outros nutrientes importantes para a célula. A translocação de sódio de um lado do epitélio para o outro cria um gradiente osmótico que suporta a absorção de água.
+
+
+== Farmacologia ==
+As bombas de sódio encontradas na membrana das células do coração são um importante alvo de drogas (digoxina e ouabaina) usadas para promover a performance cardíaca através do aumento da força de contracção. A contracção de qualquer músculo está dependente de uma concentração intercelular de cálcio 100-10000 vezes maior que a encontrada em repouso. O relaxamento do músculo está dependente da actuação de uma enzima que faça a reposição da concentração de cálcio. Essa enzima (faz a translocação Na-Ca) aproveita o gradiente de Na gerado pela bomba de sódio para remover o cálcio do espaço intercelular, levando assim a contracções mais fortes do músculo.
+
+
+== Eutanásia e pena de morte ==
+Uma das formas nas quais se procede usualmente a eutanásia de animais com patologias incuráveis - a exemplo de cães domésticos com câncer terminal ou leishmaniose - é mediante a administração, após uma profunda anestesia geral - que geralmente já incumbe-se de parar o sistema respiratório - de elevadas quantidade de cloreto de potássio adequadamente diluído na corrente sanguínea do animal (via intravenosa). Além do comprometimento direto do equilíbrio sódio potássio nas diversas variedades de células, a elevação súbita dos níveis de potássio exteriores à células do sistema neurológico - mostrando-se particularmente sensível o sistema responsável pelos batimentos cardíacos - reduz consideravelmente o potencial de ação externo necessário à sensibilização do sistema nervoso. Ruídos espúrios passam então a ativar o sistema, que colapsa mediante tamanha quantidade de informação. O coração é levado a batimentos descoordenados, fibrilação, e por fim, para.
+A anestesia geral profunda deve ser inquestionavelmente bem administrada antes da aplicação do cloreto de potássio uma vez que todo o sistema nervoso é com esta droga levado, se não ao a um estado de hipersensibilidade, certamente a um estado de sensibilidade mais aguçada; o que inclui, certamente, o sistema responsável pelas sensações dolorosas.
+O processo a base de cloreto de potássio é também frequentemente empregado na execução de condenados à pena capital em países que impetram tal penalidade.
+
+
+== Descoberta ==
+A bomba de sódio foi descoberta por Jens Christian Skou,  em 1957. A descoberta foi objeto de artigo  publicado  na Biochimica et Biophysica Acta (vol. 23, pp. 394–401), intitulado The Influence of some Cations on an Adenosine Triphosphatase from Peripheral Nerves. Na altura, Skou era professor assistente no Departamento de Fisiologia Universidade de Aarhus, Dinamarca .
+Em 1997, pela descoberta da bomba de sódio, Jens Christian Skou recebeu o Prémio Nobel da Química juntamente com Paul D. Boyer e John E. Walker.
+
+
+== Ver também ==
+Transporte activo
+
+
+== Ligações externas ==
+« Three distinct and sequential steps in the release of sodium ions by the Na+/K+-ATPase », Nature, n° 403, pp. 898-901, 2000. PubMed
+
+
+== Notas ==

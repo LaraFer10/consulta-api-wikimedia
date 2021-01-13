@@ -1,0 +1,4 @@
+O número básico de reprodução (R0, pronunciado "R Zero") é um termo matemático usado em epidemiologia para indicar quão contagiosa é uma doença infecciosa. O valor indica o número de outras pessoas que uma pessoa infetada irá contagiar, assumindo que as outras pessoas não estão ainda infetadas e que não foram vacinadas. Por exemplo, um número básico de reprodução de 5 significa que cada pessoa infetada irá contagiar outras cinco.
+
+
+== Referências ==

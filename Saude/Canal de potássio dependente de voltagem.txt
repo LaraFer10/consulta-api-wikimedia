@@ -1,0 +1,68 @@
+Os canais de potássio dependentes de voltagem são canais transmembranares específicos para potássio e sensíveis a mudanças de voltagem que ocorrem no potencial de membrana da célula. Durante potenciais de acção, eles desempenham um papel crucial em restabelecer a célula despolarizada para o estado de repouso.
+
+
+== Classificação ==
+
+
+=== Subunidades alfa ===
+As subunidades alfa formam o poro de condutância. Com base em homologia de sequências dos núcleos transmembranares hidrofóbicos, as subunidades alfa dos canais de potássio dependentes de voltagem são agrupados em 12 classes. São catalogados como Kvα1-12.A seguir apresenta-se uma lista das 40 subunidades do canal de potássio dependente de voltagem humanos, agrupados em primeiro lugar pela função e depois de acordo com o esquema de classificação de homologias de sequências Kv:
+
+
+==== Rectificador lento ====
+Inactivador lento ou não-inactivador
+
+Kvα1.x - relacionado a Shaker: Kv1.1 (KCNA1), Kv1.2 (KCNA2), Kv1.3 (KCNA3), Kv1.5 (KCNA5), Kv1.6 (KCNA6), Kv1.7 (KCNA7), Kv1.8 (KCNA10)
+Kvα2.x - relacionado a Shab: Kv2.1 (KCNB1), Kv2.2 (KCNB2)
+Kvα3.x - relacionado a Shaw: Kv3.1 (KCNC1), Kv3.2 (KCNC2)
+Kvα7.x: Kv7.1 (KCNQ1) - KvLQT1, Kv7.2 (KCNQ2), Kv7.3 (KCNQ3), Kv7.4 (KCNQ4), Kv7.5 (KCNQ5)
+Kvα10.x: Kv10.1 (KCNH1)
+
+
+==== Canal de potássio do tipo A ====
+Inactivador rápido
+
+Kvα1.x - relacionado a Shaker: Kv1.4 (KCNA4)
+Kvα3.x - relacionado a Shaw: Kv3.3 (KCNC3), Kv3.4 (KCNC4)
+Kvα4.x - relacionado a Shal: Kv4.1 (KCND1), Kv4.2 (KCND2), Kv4.3 (KCND3)
+
+
+==== Rectificadores em direcção ao exterior ====
+Kvα10.x: Kv10.2 (KCNH5)
+
+
+==== Rectificadores em direcção ao interior ====
+Passa a corrente mais facilmente em direcção ao interior (para a célula a partir de fora)
+
+Kvα11.x - Canais de potássio ether-a-go-go: Kv11.1 (KCNH2) - hERG, Kv11.2 (KCNH6), Kv11.3 (KCNH7)
+
+
+==== Activadores lentos ====
+Kvα12.x: Kv12.1 (KCNH8), Kv12.2 (KCNH3), Kv12.3 (KCNH4)
+
+
+==== Modificadores/silenciadores ====
+Não formam canais funcionais como homotetrâmeros mas ao invés heterotetramerizam com membros da família Kvα2 para formar canais condutivos.
+
+Kvα5.x: Kv5.1 (KCNF1)
+Kvα6.x: Kv6.1 (KCNG1), Kv6.2 (KCNG2), Kv6.3 (KCNG3), Kv6.4 (KCNG4)
+Kvα8.x: Kv8.1 (KCNV1), Kv8.2 (KCNV2)
+Kvα9.x: Kv9.1 (KCNS1), Kv9.2 (KCNS2), Kv9.3 (KCNS3)
+
+
+=== Subunidades beta ===
+As subunidades beta são proteínas auxiliadoras que se associam com as subunidades alfa, por vezes em estequiometria α4β4. Estas subunidades não conduzem currente só por si, modulando a actividade dos canais Kv.
+Kvβ1 (KCNAB1)
+Kvβ2 (KCNAB2)
+Kvβ3 (KCNAB3)
+minK (KCNE1)
+MiRP1 (KCNE2)
+MiRP2 (KCNE3)
+MiRP3 (KCNE4)
+KCNE1-like (KCNE1L)
+KCNIP1 (KCNIP1)
+KCNIP2 (KCNIP2)
+KCNIP3 (KCNIP3)
+KCNIP4 (KCNIP4)
+
+
+== Referências ==

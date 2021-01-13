@@ -1,0 +1,26 @@
+A rubredoxina é uma pequena metaloproteína com função de transferência electrónica, presente em diversos microorganismos. Contém um centro de ferro não-hémico ligado a quatro resíduos de cisteína por cadeia polipeptídica. É por isso muitas vezes considerada como a mais simples proteína de ferro-enxofre, apesar de não possuir enxofre lábil (isto é, enxofre ligado ao centro metálico sem pertencer à cadeia polipeptídica, sob a forma de iões sulfureto).A rubredoxina foi descoberta pela primeira vez em 1965, na bactéria Clostridium pasteurianum.
+
+
+== Características estruturais ==
+As rubredoxinas são pequenas proteínas monoméricas, com massa molecular entre os 5000 a 6000 Da, contendo um ião de ferro por proteína. O ião de ferro encontra-se ligado covalentemente à cadeia polipeptídica através dos enxofres da cadeia lateral de quatro resíduos de cisteína, assumindo uma geometria molecular aproximadamente tetraédrica. Estes resíduos de cisteína apresentam espaçamentos bem definidos entre si, usualmente num motivo de sequência Cys-X-X-Cys [...] Cys-X-X-Cys, em que X representa aminoácidos não estritamente conservados entre espécies; os dois motivos Cys-X-X-Cys encontram-se separados por um número variável de aminoácidos. As rubredoxinas são proteínas solúveis, isto é, não possuem domínios proteicos de ligação a membranas.
+No estado férrico (oxidado), a rubredoxina apresenta uma intensa cor vermelha, exibindo um característico espectro na região UV-visível.
+
+
+== Função ==
+Muitas das rubredoxinas bioquimicamente caracterizadas até ao presente são provenientes de bactérias redutoras de sulfato. Estas bactérias necessitam de transportadores de electrões com potenciais de redução entre os -400 e -200 mV (versus eléctrodo padrão de hidrogénio) para a redução dissimilatória de sulfato; no entanto, as rubredoxinas têm normalmente potenciais mais elevados, por volta dos 0 mV, o que preclude o seu envolvimento directo neste tipo de metabolismo. Entretanto, foram descobertos outros sistemas em que a rubredoxina pode actuar como dadora de electrões. O primeiro a ser descoberto foi o papel como dadora de electrões à enzima rubredoxina-oxigénio oxidorredutase, ao descobrir-se que a bactéria supostamente anaeróbia Desulfovibrio gigas pode na realidade utilizar dioxigénio como aceitador final de electrões acoplado à oxidação de NADH.
+ Outro sistema consiste na desintoxicação do superóxido em microorganismos anaeróbios e microaerofílicos, actuando a rubredoxina como dadora de electrões para a enzima superóxido redutase.
+
+
+== Proteínas contendo domínios tipo rubredoxina ==
+Algumas proteínas possuem domínios proteicos com enrolamento semelhante à estrutura tridimensional da rubredoxina, incluindo a presença do centro de ferro. Um exemplo é a rubreritrina, cuja função não se encontra totalmente estabelecida mas se encontra relacionada com a desintoxicação de espécies reactivas de oxigénio. Outra proteína, semelhante à rubreritrina, é a redutase do óxido nítrico de Escherichia coli.
+
+
+== A rubredoxina como modelo estrutural e funcional ==
+Devido à seu pequeno tamanho e facilidade de expressão, as rubredoxinas são utilizadas como modelos para compreender determinadas características estruturais e funcionais de metaloproteínas. A modificação de aminoácidos perto do centro de ferro ajuda a compreender o papel da proteína nas propriedades de transferência electrónica. Por ser capaz de mudar o seu estado de oxidação apenas entre os estados ferro(II) e ferro(III), é uma proteína simples de estudar por espectroscopia de Mössbauer e espectroscopia de ressonância paramagnética electrónica (EPR).
+
+
+== Ver também ==
+Química bioinorgânica
+
+
+== Referências ==

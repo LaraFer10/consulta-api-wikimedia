@@ -1,0 +1,63 @@
+As perdas auditivas são classificadas de acordo com o grau de severidade, ao tipo e a configuração audiométrica e lateralidade. Quanto ao tipo de deficiência auditiva, esta se relaciona com a localização das estruturas afetadas no sistema auditivo. E, desta maneira, compara os limiares de via aérea (VA) e de via óssea (VO) de cada orelha, separadamente. 
+
+
+== CONCEITO ==
+Na Perda auditiva condutiva, as ondas sonoras não alcançam a orelha interna de forma adequada, seja por problemas na orelha externa (meato acústico) ou na orelha média (membrana do tímpano, cadeia ossicular, janelas redonda ou oval, ou mesmo a tuba auditiva), acarretando numa redução da acuidade auditiva, e assim, caracterizando-se por um problema na condução do som.  Neste tipo de perda auditiva, o limiar de VO (Via óssea) deve estar dentro de seu limite de normalidade (até 15 dB) e o limiar de VA (Via aérea) acima de seu limite de normalidade (20 ou 25 dB), sendo indicativo de que o problema se encontra na orelha média e/ou externa. 
+
+
+== CARACTERÍSTICAS AUDIOLÓGICAS ==
+Por meio do audiograma podemos constatar o tipo da perda comparando a via área com a via óssea. Este exame permite detectar se a via área está alterada (rebaixada) e a via óssea está normal, caso apresente alguma alteração, podemos dizer que há  uma perda auditiva é condutiva. No caso de  alteração na via área e na via óssea e elas se sobrepõem, ou há pouca diferença entre elas, a perda auditiva é neurossensorial . No caso da alteração na via aérea e na via óssea e há uma  diferença entre elas (não se sobrepõe), a perda auditiva é mista.
+
+
+=== Audiometria Tonal e Logoaudiometria ===
+Gap aéreo-ósseo maior ou igual à 15 dBNA;
+Limiares de via óssea menores ou iguais à 15dBNA;
+LRF (Limiar de Reconhecimento de Fala): valor igual ou até 10 dB maior que a média tritonal obtida pelo indivíduo;
+IRF (Índice de Reconhecimento de Fala): porcentagem de acertos entre 92 e 100%;Grau de perda que pode variar de leve a moderadamente severo.  
+
+
+=== Imitanciometria ===
+Curva timpanométrica: varia conforme a alteração apresentada na orelha média.
+- Tipo As: caracterizada por um pico de máxima admitância à baixa pressão, mas com amplitude reduzida. Curva presente em condições de aumento de rigidez do sistema.
+- Tipo C: curva caracterizada por pico de máxima admitância deslocado para pressão negativa, compatível com disfunção da tuba auditiva
+- Tipo B: curva plana caracterizada por ausência de pico de máxima admitância; encontrada em casos de presença de líquido no espaço da orelha média
+- Tipo Ad: curva aberta, presente em condições de diminuição de rigidez do sistema. Segundo vários autores, é compatível com disjunção de cadeia ossicular
+- Tipo D: curva com duplo pico de máxima admitância.
+Reflexos acústicos ausentes: Em perdas unilaterais, o reflexo ipsilateral da orelha afetada estará ausente e o reflexo contralateral da orelha não afetada também, ambas por problema de eferência. Já em perdas bilaterais, todos os reflexos estarão ausentes, pelo mesmo problema.
+
+
+=== Emissões Otoacústicas Evocadas - EOE ===
+Por estímulo transiente: Estará ausente pois para que haja registro de emissão otoacústica, a onda sonora deve alcançar as células ciliadas externas e retornar parcialmente, sendo, portanto,  necessariamente obrigatória a passagem pela orelha externa e média. Entretanto, caso estas se encontrem com problemas, as emissões passarão com dificuldade e chegarão à cóclea com pouca energia para serem interpretadas pelas CCE, do mesmo modo que o retorno até a orelha externa para ser captado pela sonda encontrará impedimentos e por isso, há ausência de resposta.
+Por Produto de Distorção: dois tons puros são apresentados simultaneamente, ocorrendo a distorção da resposta da cóclea, pois o órgão não consegue processar tão bem quando chegam dois tons puros se comparado a quando chega apenas um, devido à inabilidade da membrana basilar de responder excitações simultâneas e isto, se relaciona com a organização tonotopia da cóclea. Em perdas condutivas, poderá está ausente ou com respostas aumentadas, já que o caminho percorrido pelo som encontrará obstáculos a nível de orelha média, dificultando sua condução até a cóclea e, consequentemente, seu retorno. 
+
+
+=== Potencial Evocado Auditivo de Tronco Encefálico - PEATE ===
+Encontra-se latências absolutas das ondas I, III e V aumentadas devido à dificuldade a nível de OE e/ou OM para que a onda sonora seja amplificada, causando um atraso simétrico nas três principais ondas registradas neste exame;  as latências dos intervalos interpicos I-III, III-V, I-V apresentam valores normais visto que nas estações da via auditiva central em que estas ondas são registradas não há alterações e sim na parte periférica do sistema auditivo; o limiar eletrofisiológico pode estar moderadamente elevado já que o local aonde há amplificação da onda sonora não está completamente funcionante.
+
+
+== CAUSAS ==
+As causas comuns de perda auditiva condutiva incluem:
+
+malformações de orelha externa e média: ocorre por alteração do desenvolvimento embrionário do 1º sulco branquial;Otites;
+disfunção tubária: Refere-se à impermeabilidade temporária ou persistente da tuba auditiva, podendo colabar e apresentar sintomas como plenitude auricular, sensação de ouvido tampado, autofonia, dor;
+otosclerose;
+rolha de cerúmen;
+tumores;
+corpos estranhos;
+
+
+== SINTOMAS ==
+Os principais sintomas de perda auditiva são:
+
+Intensidade da voz mais fraca;
+Zumbido;
+respostas inconsistentes;
+
+
+== TRATAMENTO ==
+Pode ser tratada de diferentes formas, dependendo das circunstâncias.Quando há ausência ou deformação de estruturas do ouvido, não é possível ser corrigido.
+
+Em casos de infecção, os antibióticos ou medicamentos antifúngicos são uma opção.
+
+
+== Referências ==

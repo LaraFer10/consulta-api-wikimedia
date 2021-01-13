@@ -1,0 +1,54 @@
+As tirosina cinases ou tirosina quinases (abreviadamente, PTKs, do inglês protein tyrosine kinases) são proteínas responsáveis pela fosforilação de substratos protéicos, como por exemplo, enzimas. O papel das PTKs na transdução de sinais é central, pois elas atuam como um ponto de apoio na rede de moléculas sinalizadoras independentes, cuja função é a regulação da expressão gênica. As PTKs estão relacionadas a diversos processos fundamentais, como a proliferação, diferenciação, mobilidade e sobrevivência ou morte celular.
+As PTKs podem ser divididas em duas famílias: as proteínas cinases receptoras (RTKs, do inglês receptor tirosin kynases), como por exemplo o receptor de insulina e os diversos receptores do fator de crescimento (GFRs, do inglês growth factor receptors) e proteínas cinases não-receptoras (NRTKs, do inglês non-receptor tirosin kynases), como as proteínas Src, Jak, Abl, Fak, Fps, Csk, Syk e Btk.
+
+
+== Reação ==
+A subunidade catalítica de uma PTKs apresenta a capacidade de transferir o grupamento fosfato proveniente de trifosfatos de nucleotídeos (como o ATP), para um ou mais resíduos de aminoácidos de uma proteína, o que promove alterações conformacionais na proteína alvo, alterando sua função. .
+
+
+== Função ==
+As PTKs catalisam a fosforilação de resíduos de tirosina nas proteínas. A fosforilação de resíduos de tirosina, por sua vez provoca uma alteração na função das proteínas. A fosforilação de resíduos de tirosina controla uma ampla gama de propriedades de proteínas tais como a atividade enzimática, a localização subcelular, e interação entre moléculas . Além disso, para as PTKs funcionarem, muitas cascatas de transdução de sinal são transmitidas da membrana celular para o citoplasma e muitas vezes para o núcleo, onde a expressão do gene podem ser modificadas. As mutações geradas podem tornar as PTKs constitutivamente ativas.
+As PTKs agem em uma grande variedade de processos, vias e ações, e são responsáveis por eventos chave no organismo. A atividade delas, no núcleo das células, envolve o controle do ciclo celular e das propriedades dos fatores de transcrição. Deste modo, a atividade dessa enzima está envolvida na indução da mitose numa célula; proteínas do citoplasma e núcleo são fosforiladas, durante este processo. Sendo assim, o crescimento celular e da reprodução pode depender de sua ação, até certo ponto. A função de PTKs tem sido observada na matriz nuclear, não relacionada a cromatina, mas ao envelope nuclear e a uma "teia fibrosa", que serve para estabilizar fisicamente o DNA .
+A proteína Lyn, o primeiro tipo de quinase descoberto na matriz nuclear faz parte da família Src de PTKs, que podem estar contidas no núcleo de diferenciação. A contribuição da proteína Lyn para o total da atividade de PTK, no interior da matriz nuclear, ainda é desconhecida, porque Lyn foi extraída parcialmente. Outra função possível e provável da proteína tirosina quinase é, no caso de insuficiência circulatória e disfunção de órgãos causados por endotoxina em ratos, em que os efeitos dos inibidores estão envolvidos com a proteína em questão . 
+
+
+== Inibidores de tirosina quinase ==
+Fatores de crescimento são produzidos por diversas células e têm a capacidade de estimular o crescimento celular, eles exercem seus efeitos pela ligação com receptores de membrana. Cada fator de crescimento se liga a um receptor específico por complementaridade estrutural e, ao se ligar, leva a reações químicas no interior celular com auxílio de uma PTK, culminando com a ativação da expressão gênica que ativa, por sua vez, a proliferação celular ou a angiogênese. Sendo assim, a inibição da PTK impede que ocorra a transmissão de sinal entre o fator de crescimento, seu receptor, o interior celular e o DNA, fazendo com que não ocorra a ativação da proliferação celular e da angiogênese. Estes inibidores (Imatinibe, Gefitinibe e Erlotinibe têm sido utilizados para o tratamento do câncer de rim, pulmão, cabeça e pescoço, de sarcomas e neoplasias hematológicas 
+
+
+== Regulação ==
+Alguns dos processos de regulação das PTKs são realizados pelo domínio quinase, pois o estado de fosforilação controla a atividade quinase diretamente.Além disso, o estado de fosforilação das tirosinas do receptor influencia a ligação de substratos e outras moléculas adaptadoras, estando também ligado à ação reguladora de proteínas fosfatases. Finalmente, outra forma de regulação da atividade das RTKs nas células é a diminuição do número de receptores, que acontece após ligação do ligante ao RTK, acelerando a endocitose dos complexos formados.
+
+
+== Estrutura ==
+Além das inúmeras características estruturais de reconhecimento das PTKs, um importante sítio é o local de ligação do ATP, no qual acredita-se estarem associados três resíduos com a função do terceiro grupo fosfato (ou grupo gama-fosfato) de uma molécula de ATP ligado à enzima, e um possível sítio catalítico da enzima, que é um aminoácido. Também é muito comum entre as PTKs duas sequências peptídicas.
+
+
+== Famílias ==
+As PTKs podem ser divididas em duas famílias, as tirosina quinases não receptoras citoplasmáticas (NRTKs, do inglês non-receptor tirosin kynases) e as tirosina quinases receptoras (RTKs, do inglês receptor tirosin kynases), proteínas com domínios transmembranares que são ativadas por um ligante extracelular.
+
+
+=== Tirosina quinases não receptoras ===
+As proteínas pertencentes a família das NRTKs estão presentes no citosol e apresentam, além de um domínio quinase, varios domínios sinalizadores adicionais, como domínio de homologia a src 2 (SH2), domínio de homologia a src 3 (SH3) e domínio de homologia a pleckstrina (PH, do inglês plackstrin homology domain). A ativação das RNTKs envolve reações heterólogas proteína-proteína, que permitem a trans-fosforilação .
+A primeira RNTK descoberta foi a proteína Src  e hoje em dia são conhecidos 32 tipos de RNTKs expressas em células humanas, aguns exemplos são: Jak, Abl, Fak, Fps, Csk, Syk e Btk 
+
+
+=== Tirosina quinases receptoras ===
+As RTKs têm um papel importante como reguladores-chave de processos celulares normais A primeira estrutura cristalográfica de RTKs a ser determinada foi a da cinase receptora de insulina (IRK, do inglês insulin receptor kinase), uma glicoproteína transmembranar. Ao contrário de outras RTKs, o receptor de insulina é um dímero na forma inativa. O receptor consiste de duas subunidades β transmembrânicas e duas subunidades α extracelulares. A ligação da insulina a uma ou duas subunidades α induz uma mudança conformacional no domínio intracelular do receptor. O receptor sofre autofosforilação, aumentando sua atividade e, uma vez ativado, o receptor fosforila outras proteínas.
+Outro exemplo de RTK é o receptor do hormônio do crescimento, cuja forma ativa é composta por um dímero. Os domínios intracelulares da tirosina quinase sofrem autofosforilação quando o receptor é ativado e se liga às proteínas celulares que ativam a cascata quinase. Na espécie humana há receptores para o hormônios de crescimento: epidérmico (EGFR, do inglês epidermal growth factor receptor), de fibroblastos (FGFR, do inglês fibroblast growth factor receptor), derivado das plaquetas (PDGFR, do inglês plateled-derived growth factor receptor) e receptor do fator de crescimento do endotélio vascular (VEGFR, do inglês vascular endothelial growth factor receptor) 
+
+
+== Significado clínico ==
+PTKs chave se encontram alteradas em tumores, o que faz com que a fosforilação seja mantida, levando a uma ativação permanente dos sinais de transdução. Tais alterações podem ser causadas devido à amplificação gênica destas proteínas, causando a superexpressão das RTKs ou à existência de um estado permanentemente ativado, o que causa a sinalização constitutiva, levando ao crescimento celular exacerbado e ao câncer.
+
+
+=== Tumores estromais gastrointestinais ===
+O proto-oncogene  c-KIT encontra-se mutado em alguns tumores estromais gastrointestinais. A proteína c-KIT expressa a PTK, desta forma, a mutação oncogênica leva à fosforilação de vários substratos proteicos pela c-KTI, ativando-se assim o sinal de transdução em cascata que regula a proliferação celular e a apoptose, assim como a quimiotaxia e a adesão celular, levando à formação tumoral.
+
+
+== Referências ==
+
+
+== Ligações externas ==
+MeSH Tyrosine+kinase
+The Tyrosine Kinase group

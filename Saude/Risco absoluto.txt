@@ -1,0 +1,79 @@
+O risco absoluto  ou incidência de um agravo ou doença é a incidência do agravo ou doença.
+De acordo com Rouquayrol (1988), a incidência, em Epidemiologia, traduz a ideia de intensidade com que acontece determinado fenômeno mórbido em uma população, sendo esta intensidade relacionada à unidade de intervalo de tempo (dia, semana, mês ou ano).
+Em termos operacionais, utiliza-se o coeficiente de incidência, o qual pode ser matematicamente expresso da seguinte maneira:
+
+  
+    
+      
+        I
+        =
+        
+          
+            
+              N
+              c
+            
+            
+              N
+              p
+            
+          
+        
+        ×
+        10
+        n
+      
+    
+    {\textstyle I={\frac {Nc}{Np}}\times 10n}
+  
+
+onde 
+  
+    
+      
+        I
+      
+    
+    {\displaystyle I}
+   é o coeficiente de incidência, 
+  
+    
+      
+        N
+        c
+      
+    
+    {\displaystyle Nc}
+   é o número de casos novos de uma doença/agravo ocorrente em uma determinada população em certo período de tempo, 
+  
+    
+      
+        N
+        p
+      
+    
+    {\displaystyle Np}
+   é o úmero de indivíduos na população expostos ao risco de adquirir a doença/agravo no referido período e 
+  
+    
+      
+        10
+        n
+      
+    
+    {\displaystyle 10n}
+   é um número relativo de indivíduos para efeitos de comparação o qual comumente é considerado 
+  
+    
+      
+        10
+        n
+        =
+        100.000
+      
+    
+    {\displaystyle 10n=100.000}
+  , assim o valor encontrado irá se referir ao risco absoluto cada 100.000 indivíduos por exemplo. (adaptado)
+
+
+== Referências ==

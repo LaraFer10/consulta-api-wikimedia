@@ -1,0 +1,16 @@
+Uma junção de Holliday é uma junção móvel entre quatro cadeias de ADN. A estrutura foi nomeada em referência a Robin Holliday, que a propôs em 1964 para descrever um tipo particular de troca de informação genética em leveduras conhecida como recombinação homóloga.
+Porque estas junções são entre sequências homólogas elas podem deslizar acima e abaixo do ADN. Em bactérias, este deslizamento é facilitado pelo complexo RuvABC ou proteína RecG, motores moleculares que usam a energia da hidrólise do ATP para mover a junção. A junção deve depois ser resolvida e restaurar os duplexes lineares. Isto pode ser feito para restaurar a configuração parental ou para estabelecer uma configuração de sobrecruzamento. A resolução pode ocorrer de uma maneira vertical ou horizontal durante a recombinação homóloga.
+
+
+== Ver também ==
+Recombinação genética
+
+
+== Referências ==
+
+
+== Ligações externas ==
+MeSH Holliday+junctions
+«Conformational Change of Holliday Junction» 
+«Holliday Structure in tetrahedral form» 
+«Analysis of branch migration activities of proteins using synthetic DNA substrates (a protocol)»

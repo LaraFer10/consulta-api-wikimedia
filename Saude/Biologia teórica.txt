@@ -1,0 +1,44 @@
+Biologia Teórica, designação quase-unânime empregada para assinalar áreas como Biologia Matemática ou Biomatemática, é um círculo de indagação interdisciplinar de estudo e investigação focada na modelação dos processos biológicos valendo-se de técnicas matemáticas  (das ciências exatas para ser mais justo). O termo originou-se muito provavelmente nos anos 1900 como forma de buscar novos modos de estudar os desafios trazidos pelo crescimento da biologia e ciências médicas, ciências da vida de forma genérica, como campos de pesquisa. O termo biologia em si surgiu no fim do século XIX como forma de estudar a Vida sem responder a questão chave: "o que é a vida?".Como destacou Sidney Brenner , em tradução livre, "Eu penso que nos próximos vinte cinco anos teremos de ensinar biólogos uma nova língua, como se chama, ainda não sei". Atualmente essa nova língua se chama matemática e computação, geralmente designados como in silico, ou "biologia seca". Erwin Schrodinger previu essa problemática bem antes do que hoje se chama biologia teórica. 
+A disciplina tem um extenso campo de aplicações teóricas e práticas na investigação biológica, devido à grande diversidade de conhecimentos específicos que em geral estão envolvidos nestes estudos, a investigação em biologia teórica é em geral feita em colaboração entre matemáticos, físicos, biólogos, químicos e fisiólogos, entre outros cientistas.
+
+Como destaca Merks, tradução livre,  "No seu livro Making sense of life, E.F. Keller surpreendentemente descreve a divisão cultural entre biologistas usando experimentos contra aqueles que usam matemática e métodos computacionais." No seu trabalho, E F Keller explica como a biologia matemática surgiu, desafios passados e atuais.
+
+
+== Biomatemática como campo central para pesquisa e ensino ==
+Interdisciplinaridade é algo central nos tempos atuais, por exemplo, devido às limitações cada vez mais claras de "mono-abordagens". Exemplos: Sampaio e Silva abordam na importância da transdisciplinaridade , Pires na importância da biologia em engenharias 
+
+
+== Ver também ==
+Biologia sistêmica
+Biologia sintética
+Redes funcionais
+Bioengenharia
+Engenharia biomédica
+Engenharia biológica
+In vivo
+In vitro
+In silico
+
+
+== Referências ==
+
+
+== Referências adicionais ==
+S.H. Strogatz, Nonlinear dynamics and Chaos: Applications to Physics, Biology, Chemistry, and Engineering. Perseus., 2001, ISBN 0-7382-0453-6
+N.G. van Kampen, Stochastic Processes in Physics and Chemistry, North Holland., 3rd ed. 2001, ISBN 0-444-89349-0
+P.G. Drazin, Nonlinear systems. C.U.P., 1992. ISBN 0-521-40668-4
+L. Edelstein-Keshet, Mathematical Models in Biology. SIAM, 2004. ISBN 0-07-554950-6
+G. Forgacs and S. A. Newman, Biological Physics of the Developing Embryo. C.U.P., 2005. ISBN 0-521-78337-2
+A. Goldbeter, Biochemical oscillations and cellular rhythms. C.U.P., 1996. ISBN 0-521-59946-6
+F. Hoppensteadt, Mathematical theories of populations: demographics, genetics and epidemics. SIAM, Philadelphia, 1975 (reprinted 1993). ISBN 0-89871-017-0
+D.W. Jordan and P. Smith, Nonlinear ordinary differential equations, 2nd ed. O.U.P., 1987. ISBN 0-19-856562-3
+J.D. Murray, Mathematical Biology. Springer-Verlag, 3rd ed. in 2 vols.: Mathematical Biology: I. An Introduction, 2002  ISBN 0-387-95223-3; Mathematical Biology: II. Spatial Models and Biomedical Applications, 2003  ISBN 0-387-95228-4.
+E. Renshaw, Modelling biological populations in space and time. C.U.P., 1991. ISBN 0-521-44855-7
+S.I. Rubinow, Introduction to mathematical biology. John Wiley, 1975. ISBN 0-471-74446-8
+L.A. Segel, Modeling dynamic phenomena in molecular and cellular biology. C.U.P., 1984. ISBN 0-521-27477-X
+L. Preziosi, Cancer Modelling and Simulation. Chapman Hall/CRC Press, 2003. ISBN 1-58488-361-8
+
+
+== Ligações externas ==
+Introducción a la Biomatemática
+Biomatemática - Padrão de Turing, Sequência de Fibonacci e Girassóis.

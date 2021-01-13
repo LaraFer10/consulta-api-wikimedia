@@ -1,0 +1,43 @@
+Este artigo é sobre redes de transcrição genética, do inglês Transcription Networks. Um nome alternativo, que seria mais natural devido ao escopo da metodologia, seria redes de regulação genética (Gene Regulatory Networks ,GRN).
+
+
+== Introdução ==
+O código genético (genoma), basicamente, pode ser estudado de duas formas distintas: estática ou dinâmica.Quando se estuda o código genético de forma estática (escala de tempo em década, milênios...), ou seja, o tempo com que os processos mudam (acontece) comparados com o tempo com que humanos, ou mesmo qualquer forma de vida documentada até agora, vivem é insignificante, sendo assim, mudanças são desprezíveis, posto desta forma, poder-se-ia, o que é realmente adotado, considerar o processo "parado", em matemática chamado de processos estáticos.
+Um exemplo de um processo que poderia ser considerado estático seria mutações permanentes; note que mutações ocorrem a todo momento em processos como splicing, mas estas não permanecem, ver por exemplo. Estes processos são bem estudados com a biologia molecular, ou seja, a sequência de amino ácidos é o alvo principal dos estudos, não como estes interagem. Interação é o motivo da segunda forma de abordar o problema, o que dá lugar para redes de transcrição, nas palavras de, redes de transcrição são sistemas dinâmicos, especialmente por evolver eventos em varias escalas. Nas sentenças do mesmo (, tradução livre: redes de transcrição são desenhas com separação de tempo bastante notável. O sinal de entrada geralmente modificar fatores de transcrição em fração de sub-segundos; a aglomeração do fator de transcrição ativo a sua parte do DNA destinado geralmente alcança equilíbrio em segundos; transcrição e tradução do gene alvo ocorre em minutos, a  acumulação do produto, proteínas, leva minutos ou mesmo horas. Em adição a redes de transcrição, células contém varias outras redes de interação, como redes de transdução de sinal criada por interação entre proteínas, estas redes geralmente operam muito mais rápido do que redes de transcrição.
+
+Uma segunda forma de estudar o genoma é usando sistemas dinâmicos (equações diferenciais) e redes complexas. Neste caso se preocupa com escalas de tempo percepetíveis para humanos, como segundos.
+Na verdade, o motivo real para o uso de redes de transcrição está no fato de que somente o número de genes no genoma humano, em torno de 25.000, não é suficiente para explicar a diversidade humana comparado com espécies "inferiores", a diferença entre os códigos genéticos, em termos de número de genes e bases, não muda muito, mas com o conceito de redes, combinatória, isso se torna realmente relevante, um pequeno aumento com ajuda de redes faz a diferença. Ver  para discussões nesta direção. Como destaca, mutações ocorrem de forma mais frequente em redes de transcrição, conexões entre genes, do que em genes em se.
+Em  estas redes são discutidas. Dado o corrente interesse nestas redes, referências são significativas em número, especialmente geradas para simulações in silico, a nova tendência, ver por exemplo biologia sistêmica ou mesmo biologia computacional.
+
+
+== Componentes das Redes de Transcrição ==
+
+Redes de transcrição podem ser decompostas em duas partes : informação e interação. Ver figura ao lado.
+Informação está "gravada" nos genes, e já foi de certa forma bem entendido pela biologia molecular ou mesmo bioinformática, ou seja, "os pedaços do quebra cabeça".
+A segunda parte, algo que a biologia sistêmica tem se destacado devido a trabalhos recentes, surge da interação, dinâmica. Seria como se um carro ligado e deslicado funcionasse de forma diversa. Um conjunto de genes separados e conectados funcionam de forma diversa, o que tem justificado o estudo de redes complexas. Estas propriedades que surgem da interação são chamadas de propriedades emergentes.
+
+
+== Modularização ==
+
+Algo que tem ocorrido com frequência em biologia é a descoberta de estruturas recorrentes, que aparecem de forma repetitiva, como estruturas secundárias em protéinas. Ou seja, sistemas grandes são "quebrados" em partes pequenas, partes que sozinhas são sem função, mas em grupo formam sistemas complexos. No caso da redes de transcrição, estas são chamadas de redes funcionais.
+Um exemplo de uma rede funcional importante seria a chamada rede de alimentação direta, traduzido do inglês Feed-forward Network Motif. Estas redes aperecem em AND or OR gate. No caso do AND gate, o gene de saída, ver redes funcionais, "exigi" que os dois "mestres", genes que o controla, alcancem um valor, chamado de threshold, ou degrau. Ao passo que no caso do OR gate, somente um é necessário para ativar. Por mais simples que seja de explicar, do ponto de vista de função, estas redes diferem.
+Por mais inútil que pareça estas redes, cada uma oferece algo único. Por exemplo, a rede de alimentação direta, com AND gate, "atrasa" o início do funcionamento da rede como um todo, ou seja, pode funcionar como um filtro contra sinais "fracos", ruídos. Algumas geram 'pulsos', outras "reação em cadeia", ou mesmo os famosos FIFO (First In First Out) e FILO (First In Last Out).
+
+
+== Links ==
+Transcription Networks, last access July 2014Summer School Bio2Fluid 2012 last access July 2014Summer School Bio2Fluid 2012 last access July 2014Systems Biology and Machine Learning
+
+
+== Ver Também ==
+Genes
+Redes funcionais
+Biologia sistêmica
+Regulação genética
+Tradução (genética)
+Expressão genética
+
+
+== Notas ==
+
+
+== Referências ==

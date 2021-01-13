@@ -1,0 +1,121 @@
+Os anti-inflamatórios não esteroides (abreviadamente, AINEs ou NSAIDs, do inglês Non-steroidal anti-inflammatory drugs) são um grupo variado de fármacos que têm em comum a capacidade de controlar a inflamação, de analgesia (reduzir a dor), e de combater a febre. O termo foi criado em 1960 por Michael W. Whitehouse. Apesar de em sua maioria serem constituídos por ácidos orgânicos, sua estrutura química não é relacionada. Caracterizam-se por inibir a atividade de subtipos da ciclo-oxigenase, impedindo assim a síntese de eicosanoides pela via metabólica da cascata do ácido araquidónico.
+Fazem parte deste grupo medicamentos muito conhecidos, em parte por alguns já estarem disponíveis há muito tempo, por serem de venda livre (MNSRM), e pelo vasto número de situações em que são usados. Alguns nomes sonantes incluem o ácido acetilsalicílico, ibuprofeno e naproxeno.
+O paracetamol, embora possua um mecanismo de ação semelhante e tenha efeito antipirético e analgésico, é praticamente desprovido de efeito anti-inflamatório.
+
+
+== Classificação química ==
+Existem diversos modos de classificar os AINE, por potência inibidora de COX-2 sobre COX-1, concentração para atingir efeitos clínicos, etc. Abaixo, estão classificados de acordo com sua estrutura química:
+
+
+== Mecanismo ação ==
+
+Os AINEs são inibidores específicos da enzima ciclooxigenase (COX). A COX possui duas formas ligeiramente diferentes, designadas COX-1 e COX-2. Estas são importantíssimas na cascata do ácido araquidónico, pois transformam o ácido araquidônico, uma substância formada a partir de lípidos presentes na membrana celular pela acção da fosfolípase A2, em dois tipos de compostos, as prostaglandinas e os tromboxanos. O papel destes mediadores na inflamação e na dor, assim como em vários outros processos fisiológicos (como na coagulação), é amplamente aceite.
+No início da década de 1990, a descoberta dos dois subtipos de COX criou expectativas quanto à criação de novos fármacos que mantivessem as propriedades dos AINEs existentes e permitissem diminuir a incidência de efeitos colaterais. A diferente distribuição dos subtipos de COX levou a que fosse colocada a hipótese de que a COX-1 seria "constitutiva", ou seja, estaria sempre presente no corpo e era responsável por funções fisiológicas importantes, e que a COX-2 seria "induzida", surgindo na resposta inflamatória. Desta forma, os efeitos colaterais dos AINEs dever-se-iam à inibição da COX-1.
+Com o aparecimento de fármacos que inibem especificamente a COX-2, designados por coxibs (o primeiro fármaco deste grupo foi o celecoxib), foi possível constatar uma quase completa redução dos efeitos colaterais a nível gastrointestinal. Contudo, alguns estudos vieram colocar em causa o fundamento desta abordagem, ao demonstrar que a COX-2 também desempenhava um papel fisiológico (protector) importante tanto no estômago como no rim.
+A inibição destas enzimas pelos AINE na redução da febre ou efeito antipirético é causada pela inibição da formação de prostaglandina E2 pela COX-1. Esta prostaglandina é um mediador importante para a ativação do centro nervoso (no hipotálamo), regulador da temperatura corporal. Altos níveis de prostaglandina E2 em estados inflamatórios (como infecções) elevam a temperatura.
+O efeito analgésico é devido à inibição da produção local de prostaglandinas aquando da inflamação. Estas prostaglandinas, se forem produzidas, vão sensibilizar as terminações nervosas locais da dor, que será iniciada por outros mediadores inflamatórios como a bradicinina.
+Os efeitos anti-inflamatórios também estão largamente dependentes da inibição da produção de prostanoides, já que estes mediadores são importantes em quase todos os fenómenos associados à inflamação, como vasodilatação, dor e atração de mais leucócitos ao local.
+
+
+== Efeitos desejados ==
+Os AINEs têm três efeitos benéficos principais:
+
+diminuem a resposta inflamatória;
+reduzem a dor de causa inflamatória e
+baixam a febre.Alguns AINEs, como os salicilatos, também tem efeito antiagregante plaquetar, útil para prevenir tromboses.
+Algumas pesquisas revelam possíveis efeitos preventivos em relação à doença de Alzheimer, em particular o Ibuprofeno reduziu a ocorrência da doença em 40% em pessoas que tomaram Ibuprofeno por mais de 5 anos [2].
+
+
+== Efeitos adversos ==
+A maioria é devida à inibição da COX-1. No estômago as prostaglandinas levam à produção de muco que protege as células da mucosa dos efeitos corrosivos do ácido gástrico.
+
+Dispepsia
+Diarreia ou constipação
+Em administração prolongada, risco de úlcera gástrica e hemorragia gastrointestinal
+Náuseas e vómitos
+Alergias como urticária na pele, eritemas e até raros casos de choque anafilático
+Insuficiência renal reversível com a cessação da medicação
+Nefropatia associada ao uso de analgésicos e anti-inflamatórios: por vezes irreversível,  decorre do uso contínuo de aspirina, paracetamol,  indometacina, ibuprofeno, diclofenaco. O consumo crônico (por mais de três anos) de NSAIDs  pode levar a formas irreversíveis de nefrotoxicidade.
+Síndrome de Reye: emergência rara causada principalmente pela aspirina em crianças.
+Overdose de aspirina causa salicismo com acidose metabólica.
+
+
+=== Inibidores seletivos da COX-2 ===
+Ocasionalmente causam trombos e enfarte do miocárdio ou AVC em pacientes vulneráveis. Portanto são contra-indicados em pacientes com risco elevado de doenças cardiovasculares.
+
+
+=== Uso na gravidez ===
+Tratamento com AINEs em gestantes têm sido associados, à vasoconstrição do ducto arterioso fetal, hipertensão arterial pulmonar, síndrome de hipertensão pulmonar persistente no recém-nascido e inibição da agregação plaquetária (anormalidades na hemostasia).
+O único AINE seguro (categoria B) no terceiro trimestre e lactância é o paracetamol.
+
+
+=== Danos renais ===
+
+
+==== Com a inibição da COX-1 ====
+As prostaglandinas são importantes moduladores fisiológicos do tônus vascular e equilíbrio hídrico nos rins (modulação da hemodinâmica glomerular, reabsorção tubular de sódio e água e regulação da secreção de renina).
+Ocorrendo a queda do volume sanguíneo, o sistema renina-angiotensina-aldosterona renal é ativado, o que contribui para vasoconstrição sistêmica com aumento na reabsorção de sódio e água na tentativa de manter a PA em níveis satisfatórios. Por outro lado, a angiotensina provoca síntese de prostaglandinas renais vasodilatadoras, que são sintetizadas mediante COX-1 (presente no endotélio, glomérulo e ductos coletores renais). Na presença de AINES, e consequente inibição de prostaglandinas, este mecanismo protetor falha, podendo dar isquemia e com isso irreversíveis danos renais.
+
+
+==== Com a inibição da COX-2 ====
+A medula renal é o local da maior síntese de prostaglandinas e apresenta importante expressão de COX-1 e também COX-2. Há produção de prostaciclina renal, derivada da COX-2, possivelmente na vasculatura renal, contribuindo para o balanço de sódio, apresentando importante papel na homeostase hidroeletrolítica. Novos relatos apontam para possível ação da COX-2 na filtração glomerular.
+PGs medulares intersticiais podem modular reabsorção de soluto e água também através de efeitos diretos na absorção de sódio no ramo ascendente da alça de Henle e ducto coletor. A perda do efeito inibitório tônico da PGE2 (derivada da COX-2) na reabsorção de sódio em tais segmentos pode contribuir para a retenção deste íon e consequente falha a terapêuticas anti-hipertensivas.
+Retardo na cicatrização de úlceras gástricas com os ICox-2:
+Diante de úlceras gástricas pré-existentes, observou-se maior expressão de COX-2 nas células epiteliais do estômago, induzindo a formação de prostaglandinas, dentre elas a PGE2, que contribuem para a cicatrização destas lesões.
+
+
+== Usos clínicos ==
+São usados como analgésicos e anti-inflamatórios:
+Dores de cabeça
+Dores nas costas
+Dores de dente
+Dores abdominais
+Dores pós-cirúrgicas
+Dor menstrual (Dismenorreia primária)
+Menstruação prolongada (menorragia)
+Câimbras/Contraturas
+Tendinite, bursite e/ou sinovite
+Artrite reumatoide
+Osteoartrite
+Gota
+Qualquer outra condição inflamatória dolorosa.São usados como antipiréticos em caso de febre alta maior que 40 °C. Qualquer indivíduo com febre acima de 40 °C deve consultar o médico imediatamente. As prostaglandinas são conhecidas por mediarem o desenvolvimento da febre.
+
+
+== Classificação por atividade ==
+Os inibidores não seletivos são mais antigos e testados, mas o inibidores seletivos da COX-2 tem menos efeitos adversos gastrointestinais (observados após comercialização com auxílio da farmacovigilância).
+
+
+=== Inibidores não seletivos da COX-2 ===
+Inibem ambas COX-1 e COX-2:
+
+Aspirina: ou ácido acetilsalicílico. Tem outras qualidades especificas e não partilhadas com outros membros do grupo.
+Ibuprofeno
+Naproxeno
+Paracetamol (nos EUA conhecido por Acetaminophen): pouca atividade anti-inflamatória mas alto poder analgésico.[carece de fontes?]
+Diclofenaco
+Indometacina e Piroxicam: mais fortemente anti-inflamatórios* Observação: Pacientes que fazem uso de antidepressivos possuem maior propensão a terem um aumento no tempo de sangramento e deve-se tomar cuidado com o uso concomitante de AINES não seletivos, assim como também anticoagulantes pelo mesmo motivo. As plaquetas armazenam cerca de 90% da serotonina circulante e com o uso dos inibidores seletivos da recaptação de serotonina e outros é de se esperar que esta concentração plaquetária de serotonina se torne menor (menos disponível às plaquetas). Como a serotonina possui atividade na agregação plaquetária, se esta estiver em menor concentração agora disponível às plaquetas e mais disponível às sinapses nervosas, o vaso lesado terá maior tempo para conter o extravasamento de sangue em caso de ruptura.
+
+
+=== Inibidores preferenciais da COX-2 ===
+Existe uma outra classe de AINES denominada "preferenciais" para COX-2, enquadrando-se o nimesulida e meloxicam. Estes exibiram in vitro maior seletividade que in vivo para a referida enzima e não devem ser confundidos com os "seletivos".
+
+
+=== Inibidores seletivos da COX-2 ===
+Também conhecidos como COXIBs (Inibidores da COX 2B) são úteis pela baixa possibilidade de irritação de mucosa gástrica, uma vez que não inibe substancialmente a COX-1 que originará a prostaglandina E2, responsável pela proteção da mucosa gástrica, como ocorre nos não seletivos. No entanto também pode retardar a cicatrização das úlceras estomacais.
+Alguns inibidores da COX-2 foram recentemente retirados do mercado voluntariamente devido a mortes por trombose e enfarte do miocárdio ou AVC.Exemplos de medicamentos AINES seletivos para a COX-2:
+
+Celecoxibe: nome comercial Celebra
+Lumiracoxib: nome comercial Prexige, Novartis, retirado do mercado em 2008
+Arcoxia: nome comercial: Etoricoxib Merck-Sharp
+Rofecoxib:retirado do mercado em 2004, nome comercial Vioxx.Com a descoberta da COX-4 e COX-5, e as possíveis diferenciações entre COX-1a e COX-1b, entre COX-2a, COX-2b e COX-2c, e ainda COX-3 com seus sub-tipos alfa e beta, não há como citar os reais efeitos de tais fármacos, já que tais enzimas foram negligenciadas nas pesquisas, o que quer dizer que nenhum dos fármacos é seguro.
+
+
+== Histórico ==
+
+As propriedades no alívio da febre, inflamação e dores proporcionadas pela casca do salgueiro são conhecidas há vários anos. Edmund Stone, um reverendo da Inglaterra, escreveu para um presidente da Royal Society ainda no século XVIII sobre as propriedades de cura do salgueiro no combate à febre. Este reverendo sugeriu que como a planta gostava de nascer em locais de umidade, teria como característica reduzir o calor do corpo.
+O salgueiro tem como princípio ativo a salicina, que é muito amarga. Este glicosídeo foi isolado por Leroux em 1829. Numa reação de hidrólise, produz glicose e álcool salicílico que pode ser transformado pelo organismo ou via síntese química em ácido acetilsalicílico.
+Em 1875 o salicilato de sódio foi utilizado pela primeira vez para tratar febre reumática e para reduzir a febre. Assim, Hoffman da Bayer aproveitou uma técnica deixada por Gehardt em 1853, para produzir o salicilato de sódio. Com o sucesso do anti-inflamatório,  Heinrich Dreser colocou o produto na medicina com o nome de ácido acetilsalicílico. Depois foram surgindo drogas sintéticas e outros compostos mais seletivos de inibição da COX-2.
+Desde o isolamento do ácido salicílico em 1828, os AINE tornaram-se uma parte importante do tratamento da febre e da dor. Uma parte da sua popularidade deve-se a não causarem dependência ou depressão respiratória, ao contrário dos opioides. Ainda assim, não são desprovidos de efeitos secundários, sendo os mais comuns a nível gastrintestinal.
+
+
+== Referências ==

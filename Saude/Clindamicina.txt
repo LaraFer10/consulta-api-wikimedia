@@ -1,0 +1,88 @@
+Clindamicina é um antibiótico usado para o tratamento de uma série de infecções bacterianas, incluindo infecções ósseas ou articulares, doença inflamatória pélvica, faringite estreptocócica, pneumonia, otite média e endocardite. Pode também ser usada no tratamento do acne e de alguns casos de Staphylococcus aureus resistente à meticilina (MRSA). Em associação com quinina, pode ser usada no tratamento de malária. Está disponível para administração por via oral, por injecção intravenosa e em pomada para aplicação na pele ou na vagina.Os efeitos adversos mais comuns incluem náuseas, diarreia, erupção cutânea e dor no local da injecção. A clindamicina aumenta em cerca de quatro vezes o risco de contrair colite pseudomembranosa em ambiente hospitalar, pelo que só é recomendada quando outros antibióticos não são adequados. Aparenta ser geralmente segura na gravidez. Pertence à classe das lincosamidas e atua no organismo bloqueando a produção de proteínas pelas bactérias.
+A clindamicina foi produzida pela primeira vez em 1966 a partir da lincomicina. Faz parte da Lista de Medicamentos Essenciais da Organização Mundial de Saúde e está disponível como medicamento genérico. Em 2017 foi o 137º medicamento mais receitado nos Estados Unidos, com mais de quatro milhões de receitas.
+
+
+== Usos médicos ==
+A clindamicina é usada principalmente para tratar infecções anaeróbias causadas por bactérias anaeróbias susceptíveis, incluindo infecções dentárias, e infecções do trato respiratório, da pele, dos tecidos moles e peritonite. Em pessoas com hipersensibilidade às penicilinas, a clindamicina também pode ser usada para tratar infecções causadas por bactérias aeróbias susceptíveis. Também é usada para tratar infecções ósseas e articulares, principalmente as causadas por staphylococcus aureus. A aplicação tópica de fosfato de clindamicina pode ser usada para tratar acne leve a moderada.
+
+
+=== Acne ===
+
+No tratamento da acne, a longo prazo o uso combinado de clindamicina tópica e peróxido de benzoílo apresenta resultados semelhantes ao uso combinado de ácido salicílico e peróxido de benzoílo. No entanto, a clindamicina tópica associada a peróxido de benzoílo é mais eficaz do que apenas clindamicina tópica.
+
+
+=== Bactérias susceptíveis ===
+A clindamicina é mais eficaz contra infecções que envolvam os seguintes tipos de organismos:
+
+Cocos aeróbicos gram-positivos, incluindo alguns membros dos géneros Staphylococcus e Streptococcus (por exemplo pneumococo ), mas não enterococos.
+Bactérias anaeróbias gram-negativas em forma de bastonete, incluindo alguns Bacteroides, Fusobacterium e Prevotella.A maioria das bactérias aeróbias gram-negativas (como Pseudomonas, Legionella, Haemophilus influenzae e Moraxella) são resistentes à clindamicina, assim como as bactérias anaeróbias facultativas Enterobacteriaceae. Uma excepção notável é a Capnocytophaga canimorsus, para a qual a clindamicina é o fármaco de eleição.A seguinte lista representa os dados de susceptibilidade de concentração inibitória mínima para alguns patogénicos clinicamente significativos:
+Staphylococcus aureus: 0,016 μg/ml → 256 μg/ml
+Streptococcus pneumoniae: 0,002 μg/ml → 256 μg/ml
+Streptococcus pyogenes: <0,015 μg/ml → 64 μg/ml
+
+
+=== Teste D ===
+
+Ao testar uma cultura bacteriana gram-positiva quanto à sensibilidade à clindamicina, é comum realizar um "teste D" para determinar se há uma subpopulação de bactérias resistente a macrolídos presentes. Esse teste é necessário porque algumas bactérias expressam um fenótipo conhecido como MLSB, no qual os testes de sensibilidade indicam que as bactérias são susceptíveis à clindamicina, mas in vitro o patogénico apresenta resistência induzível.Para realizar um teste D, uma placa de ágar é inoculada com a bactéria em questão e dois discos impregnados com substâncias (um com eritromicina, um com clindamicina) são colocados entre 15 a 20 mm de distância na placa. Se a área de inibição ao redor do disco de clindamicina tiver a forma de "D", o resultado do teste é positivo e a clindamicina não deve ser usada devido à possibilidade de patogénicos resistentes e, por sua vez, falha da terapia. Se a área de inibição ao redor do disco de clindamicina for circular, o resultado do teste é negativo e a clindamicina pode ser usada.
+
+
+=== Malária ===
+Administrada com cloroquina ou quinina, a clindamicina é eficaz e bem tolerada no tratamento da malária por Plasmodium falciparum; a última combinação é particularmente útil para crianças e é o tratamento de escolha para mulheres grávidas que estão infectadas em áreas onde a resistência à cloroquina é comum. A clindamicina não deve ser usada como antimalárico por si só, embora pareça ser muito eficaz como tal, devido à sua acção lenta. Foi relatado que derivados isolados de Plasmodium falciparum da Amazónia peruana são resistentes à clindamicina, conforme evidenciado por testes de sensibilidade a drogas in vitro.
+
+
+=== Outros ===
+A clindamicina pode ser útil em infecções de pele e tecidos moles causadas por Staphylococcus aureus resistente à meticilina (MRSA). Muitas cepas de MRSA ainda são susceptíveis à clindamicina; entretanto, nos Estados Unidos, espalhando-se da costa oeste para o leste, o MRSA tem-se tornando cada vez mais resistente. Embora tenha sido usado em infecções intra-abdominais, esse uso geralmente não é recomendado devido à resistência.A clindamicina é usada em casos de suspeita de síndrome do choque tóxico, frequentemente em combinação com um agente bactericida como a vancomicina. A justificativa para essa abordagem é uma suposta sinergia entre a vancomicina, que causa a morte da bactéria por quebra da parede celular, e a clindamicina, que é um poderoso inibidor da síntese de toxinas. Os estudos in vitro e in vivo mostraram que a clindamicina reduz a produção de exotoxinas pelos estafilococos; também pode induzir alterações na estrutura da superfície das bactérias que as tornam mais sensíveis ao ataque do sistema imunológico (opsonização e fagocitose).Foi comprovado que a clindamicina diminui o risco de partos prematuros em mulheres com diagnóstico de vaginose bacteriana durante o início da gravidez para cerca de um terço do risco de mulheres não tratadas. A combinação de clindamicina e quinina é o tratamento padrão para babesiose grave. A clindamicina também pode ser usada para tratar a toxoplasmose e, em combinação com a primaquina, é eficaz no tratamento da pneumonia por Pneumocystis jirovecii leve a moderada. A clindamicina, aplicada na pele ou por via oral, também pode ser usada na hidrosadenite supurativa.
+
+
+== Efeitos secundários ==
+Reacções adversas comuns a medicamentos associadas à terapia sistémica com clindamicina – encontrado em mais de 1% das pessoas – incluem: diarreia, colite, náuseas, vómitos, dor abdominal ou cólicas e/ou erupção cutânea. Doses altas (intravenosas e orais) podem causar disgeusia. Reacções adversas comuns a medicamentos associadas a formulações tópicas – encontradas em mais de 10% das pessoas – incluem: secura, queimaduras, prurido, escamação ou descamação da pele, eritema e oleosidade. Os efeitos colaterais adicionais incluem dermatite de contacto. Efeitos colaterais comuns – encontrados em mais de 10% das pessoas – em aplicações vaginais incluem infecção fúngica. Raramente – em menos de 0,1% das pessoas – a terapia com clindamicina foi associada a anafilaxia, discrasias sanguíneas, poliartrite, icterícia, níveis elevados de enzimas hepáticas, disfunção renal, paragem cardíaca e/ou hepatotoxicidade.
+
+
+=== Clostridioides difficile ===
+A colite é uma condição potencialmente letal frequentemente associada à clindamicina, mas que também ocorre com outros antibióticos. O crescimento excessivo de clostridioides difficile, que é inerentemente resistente à clindamicina, resulta na produção de uma toxina que causa uma série de efeitos secundários, desde diarreia até colite e megacólon tóxico.
+
+
+=== Gravidez e amamentação ===
+O uso de clindamicina durante a gravidez é geralmente considerado seguro.A clindamicina é classificada como compatível com a amamentação pela Academia Americana de Pediatria, no entanto, a OMS categoriza-a como "evitar, se possível". É classificado como "L2" provavelmente compatível com a amamentação, segundo Medicamentos e Leite Materno. Uma revisão de 2009 concluiu que era provavelmente seguro em mães que amamentam, mas encontrou uma complicação (hematoquezia) num bebé amamentado que pode ser atribuída à clindamicina. LactMed lista efeitos gastrointestinais potencialmente negativos em bebés cujas mães o tomam durante a amamentação, mas não viu isso como justificativa para interromper a amamentação.
+
+
+== Interacções ==
+A clindamicina pode prolongar os efeitos de drogas bloqueadoras neuromusculares, como a succinilcolina e o vecurónio. A sua semelhança com o mecanismo de acção dos macrolídos e do cloranfenicol significa que não devem ser administrados simultaneamente, pois isso causa incompatibilidade e uma possível resistência cruzada in vitro.
+
+
+== Química ==
+
+A clindamicina é um derivado semissintético da lincomicina, um antibiótico natural produzido pela actinobacteria streptomyces lincolnensis. É obtido por 7 (S) - cloro - substituição do grupo 7 (R) - hidroxila da lincomicina. A síntese da clindamicina foi anunciada pela primeira vez por BJ Magerlein, RD Birkenmeyer e F Kagan na quinta Conferência Interciência sobre Agentes Antimicrobianos e Quimioterapia (ICAAC) em 1966. Está no mercado desde 1968.A clindamicina é branca ou amarela. É muito solúvel em água. O fosfato de clindamicina usado topicamente é um pró-fármaco fosfato-éster da clindamicina.
+
+
+== Mecanismo de ação ==
+
+A clindamicina tem um efeito principalmente bacteriostático. Em concentrações mais altas, pode ser bactericida. É um inibidor da síntese de proteína bacteriana por inibir a translocação ribossomal, de uma forma semelhante aos macrolídos. Ela faz isso ligando-se ao rRNA 50S da grande subunidade do ribossoma bacteriano, sobrepondo-se aos locais de ligação da 2-oxazolidona, pleuromutilina e antibióticos macrolídos, entre outros. A ligação é reversível. A clindamicina é mais eficaz do que a lincomicina.As estruturas cristalinas de raios-X da clindamicina ligada aos ribossomos (ou subunidades ribossómicas) derivadas de escherichia coli, deinococcus radiodurans e Haloarcura marismortui foram determinadas; a estrutura do antibiótico, intimamente relacionada, da lincomicina ligada à subunidade ribossómica 50S de staphylococcus aureus também foi relatada.
+
+
+== Mercado ==
+
+
+=== Custo ===
+A clindamicina está disponível como medicamento genérico e não é muito cara. O custo bruto no mundo em desenvolvimento é de cerca de 0,06 a 0,12 dólares por comprimido. Nos Estados Unidos, custa cerca de 2,70 dólares por dose.
+
+
+=== Formulários disponíveis ===
+As preparações de clindamicina que são administradas por via oral incluem cápsulas (contendo cloridrato de clindamicina) e suspensões orais (contendo cloridrato de palmitato de clindamicina). A suspensão oral não é recomendada para administração de clindamicina em crianças, devido ao seu sabor e odor extremamente desagradáveis. A clindamicina é formulada num creme vaginal e como supositórios vaginais para o tratamento da vaginose bacteriana. Também está disponível para administração tópica na forma de gel, loção e espuma (cada um contendo fosfato de clindamicina) e uma solução em etanol (contendo cloridrato de clindamicina) e é usado principalmente como um tratamento prescrito para acne.Vários tratamentos combinados de acne contendo clindamicina também são comercializados, como formulações de produto-único de clindamicina com peróxido de benzoílo - vendido como BenzaClin (Sanofi-Aventis), Duac (uma forma de gel feita pela Stiefel) e Acanya, entre outros nomes comerciais - e, nos Estados Unidos, uma combinação de clindamicina e tretinoína, vendida como Ziana. Na Índia, supositórios vaginais contendo clindamicina em combinação com clotrimazol são fabricados pela Olive Health Care e vendidos como Clinsup-V. No Egito, um creme vaginal contendo clindamicina é vendido com o nome Vagiclind, sendo indicado para vaginose.A clindamicina está disponível como medicamento genérico, tanto para uso sistémico (oral e intravenoso) quanto tópico. A excepção é o supositório vaginal, que não está disponível como genérico nos EUA. A clindamicina é comercializada como genérica e sob nomes comerciais, incluindo Cleocin HCl, Cleocin Pediatric, Cleocin Phosphate, Cleocin Phosphate ADD-Vantage, Clindesse e ClindaMax Vaginal.
+
+
+== Uso veterinário ==
+Os usos veterinários da clindamicina são bastante semelhantes às suas indicações em humanos e incluem o tratamento de osteomielite, infecções de pele e toxoplasmose, para as quais é o medicamento de eleição em cães e gatos. O seu uso pode ser feito por via oral e topicamente. Uma desvantagem é que a resistência bacteriana pode desenvolver-se rapidamente. Também podem ocorrer distúrbios gastrointestinais. A toxoplasmose raramente causa sintomas na maioria dos gatos adultos, ocorrendo mais frequentemente em filhotes ou em gatos com imunocomprometidos.
+
+
+== Notas ==
+Este artigo foi parcialmente traduzido do artigo da Wikipedia em inglês, cujo título é «Clindamycin».
+
+
+== Referências ==
+
+
+== Ligações externas ==
+
+«Clindamycin». Drug Information Portal. U.S. National Library of Medicine 
+«Clindamycin hydrochloride». Drug Information Portal. U.S. National Library of Medicine

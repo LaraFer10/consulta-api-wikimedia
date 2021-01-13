@@ -1,0 +1,32 @@
+A corrente FES (Estimulação Elétrica Funcional) é uma corrente alternada de baixa frequência, tipo excito motor que provoca contrações musculares utilizada em terapias específicas por profissionais da fisioterapia e estética através de eletrodos sobre a pele do paciente.
+
+
+== Princípio do aparelho ==
+A FES é uma das correntes que fazem parte do grupo conhecido como estimulação elétrica neuromuscular (EENM) - corrente russa, FES, corrente Aussie, que usam as correntes elétricas para provocar contrações musculares através dos eletrodos. E o termo FES é usado na literatura e na prática clínica quando se quer produzir movimento funcional. A corrente gera pulsos elétricos, bifásicos, não polarizados, que variam geralmente na frequência, na configuração do pulso, simetria ou assimetria e nas modulações e possui alta resistência do tecido e uma baixa profundidade de penetração devido a sua baixa frequência. Há controvérsias em relação ao que seria definido como baixa, media e alta frequência.
+
+
+== Parâmetros bioelétricos ==
+Usa-se alguns parâmetros básicos para regular o seu uso de forma satisfatória, à saber:
+Frequência - É o número de pulsos por segundo, expressos em Hertz (Hz);
+Trem de Pulso ou Intensidade - É a sequência de estímulos que se constitui na escolha da saída de corrente (quantidade de fluxo de elétrons) em miliamperes;
+Duração (largura) de pulso - Tempo em que a corrente permanece na pele do paciente;
+Rise (Rampa de Subida de Pulso - Regula a velocidade de contração;
+Decay (Rampa de Descida do Pulso) - O tempo de descida regula a velocidade com que a contração diminui, ou seja, o tempo desde a contração máxima até o relaxamento muscular
+
+
+== Efeitos clínicos ==
+Com a chamada prática baseada em evidências, houve um aumento no número de pesquisas com relação a FES  e as diversas patologia que acometem o ser humano. É conhecido os benefícios da corrente na melhora da marcha de pacientes hemipareticos, assim como de pacientes neurológicos em geral (paralisia facial ou paralisia de Bell, Paralisia cerebral, Doença de Parkinson).Tem contra indicações para pacientes com marca passo, doenças vasculares periféricas, tecido neoplástico, seio carotídeo e nervo frênico, gestantes, pacientes com baixo entendimento e neuropatias periféricas.
+
+
+== Referências ==
+
+
+== Ver também ==
+A estimulação elétrica funcional (FES) e a plasticidade do sistema nervoso central: revisão histórica.
+
+
+== Bibliografia ==
+BISSCHOP, Guy de; BISSCHOP, Éric de; COMMANDRÉ, Francisque. Eletrofisioterapia. São Paulo: Santos Ed., 2001. 194p.
+KITCHEN, Sheila; BAZIN, Sarah. Eletroterapia: prática baseada em evidências. São Paulo: Manole, 2003. 348p.
+LOW, John; REED, Ann. Eletroterapia explicada: princípios e prática. São Paulo: Manole, 2001.
+ABREU, Tatiana; DUARTE, Patricia; EDUARDA, Paulo; KIKUTI, Cleber. Estimulação Nervosa Elétrica Transcutânea - TENS. Disponível em <wgate.com.br>. Acesso em 19 de março de 2009.

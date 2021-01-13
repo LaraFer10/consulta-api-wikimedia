@@ -1,0 +1,117 @@
+A osmose é o movimento de água através de uma membrana semipermeável ocasionado por diferenças na pressão osmótica; é um fator importante na vida das células. As membranas plasmáticas são mais permeáveis à água que a maioria das outras moléculas pequenas, íons e macromoléculas, por que os canais proteicos (aquaporinas) na membrana seletivamente permitem a passagem de água.Soluções com osmolaridade igual à do citosol de uma célula são ditas isotônicas em relação àquela célula. Circundada por uma solução isotônica,uma célula nunca ganha ou perde água. Em soluções hipertônicas (com maior osmolaridade que o citosol),a célula encolhe assim que a água se transfere para fora. Em soluções hipotônicas (com menos osmolaridade que o citosol),a célula incha assim que a água entra. Nos seus ambientes naturais,as células geralmente contêm maior concentração de biomoléculas e íons que nas suas vizinhanças,logo a pressão osmótica tende a enviar a água para dentro das células. Se não estiver de alguma forma contrabalançada,essa invasão de água,para dentro das células pode distender a membrana plasmática e causar o rompimento da célula (osmólise).Este tipo de transporte não apresenta gastos de energia por parte da célula, por isso é considerado um tipo de transporte passivo. Esse processo está relacionado com a pressão de vapor dos líquidos envolvidos que é regulada pela quantidade de soluto no solvente. Assim, a osmose pode ajudar a controlar o gradiente de concentração de sais nas células.
+A osmose não é influenciada pela natureza do soluto, mas pelo número de partículas. Quando duas soluções contêm a mesma quantidade de partículas por unidade de volume, mesmo que não sejam do mesmo tipo, exercem a mesma pressão osmótica e são isotônicas. Caso sejam separadas por uma membrana, haverá fluxo de água nos dois sentidos de modo proporcional.
+Quando se comparam soluções de concentrações diferentes, a que possui mais soluto e, portanto, maior pressão osmótica é chamada hipertônica, e a de menor concentração de soluto e menor pressão osmótica é hipotônica. Separadas por uma membrana, há maior fluxo de água da solução hipotônica para a hipertônica, até que as duas soluções se tornem isotônicas.
+A osmose pode provocar alterações de volume celular. Uma hemácia humana é isotônica em relação a uma solução de cloreto de sódio a 0,9% (“solução fisiológica”). Caso seja colocada em um meio com maior concentração, perde água e murcha. Se estiver em um meio mais diluído (hipotônico), absorve água por osmose e aumenta de volume, podendo romper (hemólise).
+
+
+== Energia na osmose. ==
+Energia
+A osmose ocorre de um local onde o solvente tem um alto potencial químico para um local com solvente de baixo potencial químico. O potencial químico aumenta com a temperatura e com a pressão, diminuindo com a concentração do soluto.
+Os conteúdos celulares também estão sob Pressão de Parede, que aumenta a energia livre da célula.
+O potencial químico φ do solvente (ou potencial de água da célula) nos mostra a direção da difusão. A osmose sempre acontecerá no seguinte sentido:
+φ A -> φ B
+->
+Osmose
+φ assume sempre um valor negativo, sendo o valor zero para a água pura, e é o resultado da interação da Pressão de Parede (Pw) com o Potencial Osmótico (π), logo:
+φ = π + Pw
+O potencial osmótico está relacionado com a energia livre da célula.
+
+
+== Osmose em Metazoários ==
+Em animais, apesar da célula não possuir uma membrana plasmática dita "perfeita" em termos de permeabilidade (devido ao facto de nela passar, não só água mas também outras substâncias como íons de sódio e potássio) é possível a ocorrência de osmose por transporte passivo. Uma pequena quantidade de água (meio hipotónico), no entanto, pode resultar na ruptura da célula: o exemplo clássico para esse acontecimento é a ruptura das hemácias, conhecida como hemólise.Em oposto, no momento em que há uma grande saída de água (meio hipertónico), a célula enruga-se.
+
+
+== Osmose nas células vegetais ==
+Em vegetais, apesar de grande similaridade com animais, a osmose tem suas particularidades. Primeiramente por não haver ruptura da célula devido à resistência que a parede celular proporciona e também pela presença do vacúolo que suporta certa quantidade de água. Quando uma célula vegetal está em meio hipotônico, absorve água. Ao contrário da célula animal, ela não se rompe, pois é revestida pela parede celular ou membrana celulósica, que é totalmente permeável, mas tem elasticidade limitada, restringindo o aumento do volume da célula. Assim, a entrada de água na célula não depende apenas da diferença de pressão osmótica entre o meio extracelular e o meio intracelular (principalmente a pressão osmótica do suco vacuolar, líquido presente no interior do vacúolo da célula vegetal). Depende, também, da pressão contrária exercida pela parede celular. Essa pressão é conhecida por pressão de turgescência, ou resistência da membrana celulósica à entrada de água na célula.
+Turgidez - Mergulhada em um meio hipotônico, a célula tende a absorver mais do que ceder água. Com isso a célula se "enche" por alcançar volume máximo (mas não se rompe, criando a impressão de "balão") de conteúdo.
+Plasmólise - ocorre quando a célula é inserida em meio hipertônico. Neste a célula vegetal cede mais água que recebe, levando-a a um estado de aparência "seca". Isso se deve ao fato de o vacúolo retrair-se, diminui de tamanho e acaba por arrastar o conteúdo do citoplasma (e por consequência o conteúdo do hialoplasma) e a membrana plasmática. Na região de absorção de água na planta, ou seja, na raiz, o valor de ψ é mais alto que nas folhas, o que promove a movimentação de água no xilema, do solo até as folhas para que ela faça a fotossíntese apesar das condições nas plantas estarem sempre em equilíbrio, ela está sempre absorvendo e perdendo água.
+
+
+=== Relações matemáticas hídricas na célula vegetal. ===
+Existem dois fatores que determinam a quantidade de água na célula. São eles:
+
+fator osmótico - fator que permite entrada de água na célula;
+pressão hidrostática - fator que faz com que a água tenda a sair, por pressionar a membrana celulósica.Como a quantidade de água existente na célula depende diretamente da resultante desses dois fatores, convencionou-se utilizar a seguinte equação para mostrar a entrada de água na célula vegetal:
+
+  
+    
+      
+        S
+        c
+        =
+        S
+        i
+        +
+        M
+      
+    
+    {\displaystyle Sc=Si+M}
+  
+Onde:
+
+Sc = Capacidade da célula de ganhar água.
+Si = Capacidade osmótica do vacúolo sugar água.
+M = Tendência da água de sair da célula devido pressão hidroestática.Por vezes, utiliza-se a seguinte fórmula:
+
+  
+    
+      
+        D
+        .
+        P
+        .
+        D
+        .
+        =
+        P
+        .
+        O
+        .
+        −
+        P
+        .
+        T
+        .
+      
+    
+    {\displaystyle D.P.D.=P.O.-P.T.}
+  
+Onde:
+
+D.P.D. = Déficit de Pressão de Difusão.
+P.O. = Pressão Osmótica.
+P.T. = Pressão de Turgor (estado de célula túrgida).Quando está em meio isotônico, a parede celular não oferece resistência à entrada de água, pois não está sendo distendida (PT = zero). Mas, como as concentrações de partículas dentro e fora da célula são iguais, a diferença de pressão de difusão é nula a célula está flácida. A força de entrada (PO) de água é igual à força de saída (PT) de água da célula.
+Como DPD = PO – PT DPD = zero.Quando o meio é hipotônico, há diferença de pressão   osmótica  entre  os   meios   intra   e   extra- celular. À medida que a célula absorve água, distende a membrana celulósica, que passa a oferecer resistência à entrada de água. Ao mesmo tempo, a entrada de água na célula dilui o suco vacuolar, cuja pressão osmótica diminui. Em certo instante, a pressão de turgescência(PT) se iguala à pressão osmótica(PO), tornando a entrada e a saída de água proporcionais.
+PO = PT, portanto
+DPD = PO – PT DPD =zero
+A célula está túrgida.
+
+
+== Osmose nas células animais ==
+Foi verificado que no interior das hemácias existe uma solução de NaCl (cloreto de sódio), cuja concentração constante é de 0,9%. Quando as hemácias são colocadas num tubo de ensaio contendo uma solução de NaCl, de concentração 0,4% (portanto hipotônica), verifica-se que as hemácias incham devido à entrada de água e acabam arrebentando, sofrendo hemólise. Isso acontece porque as hemácias não possuem uma parede celular para suportar uma pressão interna maior. Quando colocadas em uma solução de NaCl a 1,5% (portanto hipertônica), elas perdem água, murcham e ficam enrugadas.Essa análise permite deduzir que no plasma sanguíneo existe uma solução, cuja concentração deve ser 0,9% (portanto isotônica), para manter intactas as hemácias.
+É importante lembrar que a permeabilidade seletiva da membrana plasmática, auxilia na regulação da concentração interna da célula. Assim o controle de substâncias: íons e moléculas em translocação de um meio para outro, não ocorre aleatoriamente. Normalmente a seletividade da membrana garante proteção ao metabolismo celular.
+
+
+== Osmose e morte celular ==
+Muitos mecanismos estão envolvidos na prevenção dessa catástrofe. Em bactérias e plantas,a membrana plasmática é envolvida por uma parede de célula não expansível com rigidez e força suficientes para resistir à pressão osmótica e prevenir a osmólise. Alguns protistas de água doce que vivem em meio altamente hipotônico têm uma organela (vacúolo contrátil) que bombeia a água para fora da célula. Em animais multicelulares,o plasma sanguíneo e os fluidos intersticiais (o fluido extracelular dos tecidos) são mantidos em osmolaridade semelhante à do citosol. A alta concentração de albumina e outras proteínas no plasma sanguíneo contribuem para sua osmolaridade. As células também bombeiam ativamente para fora Na+ (cátion positivo) e outros íons para o fluido intersticial para que permaneça o equilíbrio osmótico com o meio circundante. Como o efeito dos solutos na osmolaridade depende do número de partículas dissolvidas,e não de sua massa,as macromoléculas tem efeito menor na osmolaridade de uma solução que teria uma massa equivalente dos seus componentes monométricos.
+
+
+== Tipos de osmose ==
+Exosmose - o fluxo de água é feito do interior para o exterior;
+Endosmose - o fluxo de água é feito do exterior para o interior. Endosmose é o movimento resultante das forças de capilaridade no suporte. Ocorre quando o suporte é colocado em contato com o tampão. A solução é aspirada pelas extremidades do suporte e no centro deste haverá o equilíbrio. Após ligar o aparelho, a endosmose aumenta devido à evaporação do solvente e é, portanto, mais intensa nas extremidades do suporte.
+Eletrosmose - é o movimento de corrente líquida derivada do fato de serem os suportes eletronegativos em relação à água e, esta se torna eletropositiva em relação aos suportes. Quando se aplica o campo elétrico, o suporte sendo fixo e a água móvel, haverá uma migração para o polo negativo. A eletrosmose é constante em toda extensão da fita e unidirecional.Solução isotônica* :A quantidade de soluto é igual dentro e fora da célula.
+A célula não ganha nem perde água,ou seja,sua forma fica inalterada.
+
+Solução hipertônica* :A quantidade de soluto é maior fora da célula.
+A célula perde água e sofre crenação (murcha),isso quando se tratar de uma célula animal. No caso de uma célula vegetal ela irá sofrer plasmólise.
+
+Solução hipotônica* :A quantidade de soluto é maior dentro da célula.
+A célula ganha água e sofre lise (estoura) se a mesma se tratar de uma célula animal,isso não ocorrerá no caso de uma célula vegetal por conta de sua parede celular.
+
+
+== Referências ==
+
+
+== Ver também ==
+Difusão
+Pressão osmótica

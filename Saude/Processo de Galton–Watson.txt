@@ -1,0 +1,380 @@
+O processo de Galton-Watson é um processo estocástico de ramificação que surge da investigação estatística de Francis Galton sobre a extinção de sobrenomes. O processo modela os sobrenomes como patrilineares (passados do pai para os filhos), enquanto os descendentes podem ser tanto do sexo masculino, quanto do feminino, sendo que os sobrenomes se extinguem quando a linhagem do sobrenome morre (detentores do sobrenome morrem sem descendentes do sexo masculino). Esta é uma descrição precisa da transmissão do cromossomo Y em genética, o que torna este modelo útil para compreender os haplogrupos do cromossomo Y humano e também para entender outros processos descritos abaixo, mas sua aplicação à extinção real de sobrenomes é falha. Na prática, os sobrenomes podem mudar por muitas outras razões e a extinção da linhagem é apenas um fator, como discutido nos exemplos abaixo. O processo de Galton-Watson tem, portanto, aplicabilidade limitada na compreensão de distribuições reais de sobrenomes.
+
+Havia uma preocupação entre os vitorianos de que sobrenomes aristocráticos se extinguissem. Galton originalmente colocou a questão sobre a probabilidade de tal evento em uma edição de 1873 de The Educational Times e o reverendo Henry William Watson respondeu com uma solução. Juntos, escreveram um artigo em 1874 com o nome "On the probability of the extinction of families" ("Sobre a probabilidade de extinção das famílias", em português) no Journal of the Anthropological Institute of Great Britain and Ireland (hoje Journal of the Royal Anthropological Institute). Galton e Watson parecem ter derivado seu processo independentemente do trabalho anterior de Irénée-Jules Bienaymé.
+
+
+== Conceitos ==
+Assuma que os sobrenomes são passados a todos os filhos do sexo masculino por seu pai. Suponha que o número de filhos de um homem seja uma variável aleatória distribuída no conjunto 
+  
+    
+      
+        {
+        0
+        ,
+        1
+        ,
+        2
+        ,
+        3
+        ,
+        .
+        .
+        .
+        }
+      
+    
+    {\displaystyle \{0,1,2,3,...\}}
+  . Em seguida, suponha que os números de filhos de diferentes homens sejam variáveis aleatórias independentes, todas com a mesma distribuição.
+Então, a conclusão matemática substancial mais simples é que, se o número médio de filhos de um homem for 1 ou menos, então seu sobrenome quase certamente desaparecerá, e se for maior que 1, então, há uma probabilidade maior do que zero de que ele sobreviverá para qualquer número dado de gerações.
+Aplicações modernas incluem as probabilidades de sobrevivência para um novo gene mutante, a iniciação de uma reação nuclear em cadeia, a dinâmica de uma epidemia nas suas primeiras gerações de propagação e as chances de extinção de uma pequena população de organismos. Também é usado para explicar, com um propósito talvez mais próximo do interesse original de Galton, por que apenas alguns dos homens do passado remoto da humanidade têm agora descendentes do sexo masculino sobreviventes, o que está refletido em um número ainda menor de haplogrupos do cromossomo Y humano distintivos.
+Um corolário das altas probabilidades de extinção é que, se uma linhagem sobreviveu, é provável que tenha experimentado, puramente ao acaso, um taxa de crescimento incomumente alta em suas gerações iniciais quando comparada com o resto da população.
+
+
+== Definição matemática ==
+Um processo de Galton-Watson é um processo estocástico 
+  
+    
+      
+        {
+        
+          X
+          
+            n
+          
+        
+        }
+      
+    
+    {\displaystyle \{X_{n}\}}
+   que evolui de acordo com a fórmula de recorrência 
+  
+    
+      
+        
+          X
+          
+            0
+          
+        
+        =
+        1
+      
+    
+    {\displaystyle X_{0}=1}
+   e
+
+  
+    
+      
+        
+          X
+          
+            n
+            +
+            1
+          
+        
+        =
+        
+          ∑
+          
+            j
+            =
+            1
+          
+          
+            
+              X
+              
+                n
+              
+            
+          
+        
+        
+          ξ
+          
+            j
+          
+          
+            (
+            n
+            )
+          
+        
+      
+    
+    {\displaystyle X_{n+1}=\sum _{j=1}^{X_{n}}\xi _{j}^{(n)}}
+  em que 
+  
+    
+      
+        {
+        
+          ξ
+          
+            j
+          
+          
+            (
+            n
+            )
+          
+        
+        :
+        n
+        ,
+        j
+        ∈
+        
+          N
+        
+        }
+      
+    
+    {\displaystyle \{\xi _{j}^{(n)}:n,j\in \mathbb {N} \}}
+   é um conjunto de variáveis aleatórias independentes, identicamente distribuídas e de números naturais.
+Em analogia com os sobrenomes, 
+  
+    
+      
+        
+          X
+          
+            n
+          
+        
+      
+    
+    {\displaystyle X_{n}}
+   pode ser pensada como o número de descendentes (ao longo da linhagem masculina) na 
+  
+    
+      
+        n
+      
+    
+    {\displaystyle n}
+  -ésima geração e 
+  
+    
+      
+        
+          ξ
+          
+            j
+          
+          
+            (
+            n
+            )
+          
+        
+      
+    
+    {\displaystyle \xi _{j}^{(n)}}
+   pode ser pensada como o número de filhos (do sexo masculino) do 
+  
+    
+      
+        j
+      
+    
+    {\displaystyle j}
+  -ésimo destes descendentes. A relação de recorrência afirma que o número de descendentes na 
+  
+    
+      
+        n
+        +
+        1
+      
+    
+    {\displaystyle n+1}
+  -ésima geração é a soma, sobre todos os descendentes da 
+  
+    
+      
+        n
+      
+    
+    {\displaystyle n}
+  -ésima geração, do número de filhos daquele descendente.
+A probabilidade de extinção (isto é, a probabilidade de extinção final) é dada por
+
+  
+    
+      
+        
+          lim
+          
+            n
+            →
+            ∞
+          
+        
+        Pr
+        (
+        
+          X
+          
+            n
+          
+        
+        =
+        0
+        )
+        .
+        
+      
+    
+    {\displaystyle \lim _{n\to \infty }\Pr(X_{n}=0).\,}
+  Isto é claramente igual a zero se cada membro da população tiver exatamente um descendente. Excluindo este caso (geralmente chamado de caso trivial), existe um condição simples necessária e suficiente, que é dada na próxima seção.
+
+
+== Critério de extinção para o processo de Galton-Watson ==
+No caso não trivial, a probabilidade de extinção final é igual a um se 
+  
+    
+      
+        E
+        {
+        
+          ξ
+          
+            1
+          
+        
+        }
+        ≤
+        1
+      
+    
+    {\displaystyle E\{\xi _{1}\}\leq 1}
+   e estritamente menor que um se 
+  
+    
+      
+        E
+        {
+        
+          ξ
+          
+            1
+          
+        
+        }
+        >
+        1
+      
+    
+    {\displaystyle E\{\xi _{1}\}>1}
+  .
+O processo pode ser tratado analiticamente pelo uso do método das funções geradoras de probabilidade.
+Se o número de filhos 
+  
+    
+      
+        
+          ξ
+          
+            j
+          
+        
+      
+    
+    {\displaystyle \xi _{j}}
+   em cada nó segue uma distribuição de Poisson com parâmetro 
+  
+    
+      
+        λ
+      
+    
+    {\displaystyle \lambda }
+  , uma recorrência particularmente simples pode ser encontrada para a probabilidade de extinção total 
+  
+    
+      
+        
+          x
+          
+            n
+          
+        
+      
+    
+    {\displaystyle x_{n}}
+   para um processo que começa com um único indivíduo no tempo 
+  
+    
+      
+        n
+        =
+        0
+      
+    
+    {\displaystyle n=0}
+  :
+
+  
+    
+      
+        
+          x
+          
+            n
+            +
+            1
+          
+        
+        =
+        
+          e
+          
+            λ
+            (
+            
+              x
+              
+                n
+              
+            
+            −
+            1
+            )
+          
+        
+        ,
+        
+      
+    
+    {\displaystyle x_{n+1}=e^{\lambda (x_{n}-1)},\,}
+  dadas as curvas acima.
+
+
+== Processo bissexual de Galton–Watson ==
+No processo clássico de Galton-Watson descrito acima, apenas homens são considerados, efetivamente modelando a reprodução como assexual. Um modelo que segue mais aproximadamente a reprodução sexual real é o chamado "processo bissexual de Galton–Watson", em que apenas casais reproduzem ("bissexual" se refere neste contexto ao número de sexos envolvidos, não à orientação sexual). Neste processo, cada criança pode ser do sexo masculino ou feminino, independentemente umas das outras, com uma probabilidade especificada. Uma "função de cópula" determina quantos casais se formarão na próxima geração. Assim como antes, as reproduções de diferentes casais são consideradas independentes umas das outras. Agora, o análogo do caso trivial corresponde ao caso em que cada homem e cada mulher se reproduzem em exatamente um casal, tendo um descendente do sexo masculino e outro do sexo feminino e a função de cópula assume o valor do mínimo do número de pessoas do sexo masculino e pessoas do sexo feminino (que são os mesmos da geração seguinte em diante).
+Já que a reprodução total durante uma geração depende agora fortemente da função de cópula, não há em geral uma condição simples necessária e suficiente para a extinção final como ocorre no caso do processo clássico de Galton-Watson. Entretanto, excluindo o caso não trivial, o conceito de média de reprodução média permite chegar a uma condição geral suficiente para a extinção final.
+
+
+=== Critério de extinção ===
+Se, no caso não trivial, a média de reprodução média por casal permanecer limitada ao longo de todas as gerações e não superar 1 para uma população suficientemente grande, então, a probabilidade de extinção final é sempre 1.
+
+
+== Exemplos ==
+Citar exemplos históricos do processo de Galton-Watson é complicado devido ao fato de que a história dos sobrenomes frequentemente se desvia do modelo teórico. Notavelmente, novos sobrenomes podem ser criados, sobrenomes existentes podem ser mudados ao longo da vida de uma pessoa e pessoas têm historicamente assumido sobrenomes de pessoas que não eram seus familiares, particularmente no interior da nobreza. Assim, um pequeno número de sobrenomes no presente não é por si só uma evidência de que sobrenomes se extinguiram ao longo do tempo ou desapareceram devido à extinção de linhagens – isto requer que tenha havido mais sobrenomes no passado, que eles tenham desaparecido devido à extinção da linhagem e que a mudança de sobrenome não tenha acontecido por outras razões, como no caso do vassalo que assume o sobrenome do seu senhor.
+Nomes chineses são um exemplo bem estudado de extinção de sobrenomes: há atualmente apenas 3.100 sobrenomes em uso na China, comparado aos quase 12.000 registrados no passado, sendo que 22% dos chineses tem como sobrenome Li, Wang ou Zhang (um número próximo de 300 milhões de pessoas) e os 200 sobrenomes mais comuns são usados por 96% da população. Sobrenomes foram alterados e se extinguiram por várias razões como adoção de sobrenomes de governantes por seus súditos, simplificações ortográficas, tabus contra caracteres no sobrenome de um imperador, entre outros. Ainda que o desaparecimento de linhagens de sobrenomes possa ser um fator na extinção de sobrenomes, não é de qualquer forma a única razão, nem um fator significante. De fato, o fator mais significante no que se refere à frequência de sobrenomes é o fato de que integrantes de outros grupos étnicos passam a se identificar como han e adotam nomes han. Além disso, ainda que novos nomes tenham surgido por diversas razões, um número maior de nomes antigos desapareceu.Em contraste, algumas nações passaram a usar sobrenomes apenas recentemente. Isto significa tanto que há muito não experimentam a extinção de sobrenomes, como que os sobrenomes foram adotados quando a nação já tinha uma população relativamente grande, comparada às populações menores de tempos passados. Além disso, estes sobrenomes foram frequentemente escolhidos de forma criativa e diferem muito entre si. Exemplos incluem:
+
+Nomes japoneses, que em geral datam da restauração Meiji no final do século XIX (quando a população já era superior a 30 milhões de habitantes), contam com mais de 100 mil sobrenomes, muito distintos entre si. Além disso, o governo impede que integrantes de um casal formal usem o mesmo sobrenome.
+Muitos nomes holandeses passaram a incluir um sobrenome apenas a partir das Guerras Napoleônicas no começo do século XIX e há mais de 68 mil sobrenomes holandeses.
+Nomes tailandeses passaram a incluir um sobrenome apenas a partir de 1920 e apenas uma família pode usar um sobrenome, logo, há um grande número de sobrenomes tailandeses. Além disso, tailandeses mudam seus sobrenomes com alguma freqüência, o que dificulta a análise.Por outro lado, alguns exemplos de alta concentração de sobrenome não se devem primariamente ao processo de Galton-Watson:
+
+Nomes vietnamitas contam com cerca de 100 sobrenomes e 60% da população usam um dos três sobrenomes mais comuns. Estima-se que o sobrenome Nguyễn seja usado por 40% da população vietnamita e 90% dos habitantes do país usam um dos 15 sobrenomes mais comuns. Entretanto, como a história do sobrenome Nguyễn deixa claro, isto se deve em grande parte à imposição de sobrenomes e à adoção por razões não ligadas à relação genética.
+
+
+== Ver também ==
+Implexo
+
+
+== Referências ==

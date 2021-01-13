@@ -1,0 +1,10 @@
+A glicoproteína-P (gpP) é uma proteína expressa na superfície celular.
+Codificada pelo gene MDR1, possui peso molecular de 170 KDa e está relacionada com a resistência a múltiplas drogas (MDR) utilizadas para o tratamento de alguns tipos de tumores.
+A gpP funciona como uma bomba de efluxo ATP-dependente, ou seja, promove ativamente a saída da substância (no caso, o agente quimioterápico antineoplásico) do interior da célula.
+A glicoproteína P é uma proteína transportadora transmembrana para vários fármacos, sendo responsável pelo transporte de várias moléculas, incluindo fármacos, através da membrana celular.  
+Figado: Transportar fármacos para a bile visando a sua eliminação.
+Rins: Bombear fármacos para a urina visando sua excreção
+Placenta: Transportar fármacos de volta para o sangue materno, reduzindo  a exposição do feto aos fármacos. 
+Intestino: Transportar fármacos para o lúmen intestinal e reduzir a absorção.
+
+Capilares do cérebro: Bombear os fármacos de volta ao sangue, limitando seu acesso ao cérebro.

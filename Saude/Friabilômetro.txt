@@ -1,0 +1,6 @@
+Friabilômetro é um aparelho utilizado em laboratórios farmacêuticos para medir o grau de friabilidade dos comprimidos.
+O teste de friabilidade permite avaliar a resistência dos comprimidos a agentes externos como o atrito. O objetivo é garantir que eles se mantenham íntegros durante os processos industriais, como acondicionamento, revestimento, envelopamento, emblistagem e transporte. Os comprimidos são pesados, submetidos à ação do aparelho e em seguida, depois de retirados todos os resíduos de pó, pesados novamente. O percentual de peso perdido corresponde à friabilidade do comprimido.
+O friabilômetro contém um cilindro, onde são colocados os comprimidos a serem testados, que gira em torno de seu eixo a 25 rotações por minuto. A cada volta, um dos comprimidos é lançado para fora e cai em queda livre.
+
+
+== Referências ==

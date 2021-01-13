@@ -1,0 +1,68 @@
+Eosina define um conjunto de compostos químicos que são corantes utilizados para análises histológicas em microscópio óptico. Existem atualmente dois compostos muito próximos tratados pelo nome de eosina, a eosina Y sendo o derivado tetrabromado da fluoresceína, e a eosina B, o derivado dibromo dinitro da fluoresceína. O mais usado é a eosina Y. 
+
+
+== Eosina Y ==
+
+A Eosina Y (também conhecida como Eosina Y ws, Eosina Amarelada - de onde seu nome, oriundo do inglês yellowish, Vermelho Ácido 87, C.I. 45380, Bromoeosina, Ácido Bromofluorescêico, Vermelho D&C No. 22) é um corante vermelho rosado com leve tom amarelado com fluorescência róseo-alaranjada quando em solução alcóolica ou aquosa, bordô escuro quando sólido, resultante da ação do bromo sobre a fluoresceína. É posteriormente levado a sua apresentação comercial mais comum, que é na forma de sal de sódio. Nesta apresentação, quimicamente, seu nome sistemático é 2-(2,4,5,7-tetrabromo-6-óxido-3-oxo-3H-xanteno-9-il)benzoato de dissódio.
+
+Possui fórmula química C20H6O5Br4Na2 e massa molecular 691.9 u. Possui uma solubilidade de 40% em água e 2% em etanol. Possui um ponto de fusão de 295°C.É listada como um carcinógeno classe 3 pela IARC.
+Métodos de produção de eosina por síntese eletroquímica a partir da fluoresceína em diferentes meios, como o bicarbonato de sódio, o acetato de sódio e a amônia tem sido objetos de pesquisa.
+
+
+=== Usos ===
+É usado em conjunto com outros corantes (tal como o alaranjado G - Orange G , o verde luz amarelado e a fucsina ácida) na coloração de citoplasma, colágeno e fibras musculares para exame sob o microscópio.É um corante ácido que confere cor vermelha em tais colorações. Na célula, sua estrutura aniônica (-) liga-se a estruturas acidófilas ou eosinófilas corando o citoplasma e outras estruturas que têm afinidade com a porção básica (proteínas citoplasmáticas, hemoglobina, mitocôndrias, alguns grânulos de armazenagem e secreção) - estruturas catiogênicas (+).
+É utilizado em formulações de soluções de uso tópico, até cirúrgico, como antisséptico e desinfetante, tanto em soluções aquosas como alcoólicas (70% em água) em concentrações em torno de 2% da eosina dissódica.
+A Eosina Y é um traçador utilizado em estudos de águas subterrâneas para a determinação dos caminhos de migração da água e identificar a distribuição de poluentes ambientais. Para sua detecção nesta aplicação, aplicam-se métodos como a espectrofluorimetria, cromatografia líquida de alta pressão de fluorescência e cromatografia líquida capilar, que são técnicas bastante sensíveis para a detecção deste corante.Proteínas podem ser coradas usando-se eosina Y em gel de poliacrilamida. A formação de complexos químicos da eosina Y com proteínas em condições ácidas, com forte coloração rosa, permite a determinação de proteínas com absorvância máxima no comprimento de onda de 535-545nm. Pode ser usada para uma rápida coloração reversível de polipeptídeos em pH baixo, em gel de poliacrilamida contendo ureia, para a detecção de proteínas por eletroforese.Tem sido testada para a coloração de nematoide in vivo.Óxido de grafeno quimicamente reduzido pode ser funcionalizado por eosina Y para a produção de hidrogênio a partir da água. Fotobranqueamento de eosina Y e eritrosina podem ser conduzidos por hexacianoferrato (II) de potássio (ferrocianeto de potássio).
+
+
+== Eosina B ==
+
+O outro composto chamado Eosina é a Eosina B (Eosina Azulada, Vermelho Ácido 91, C.I. 45400, Safrosina, Eosina Escarlate, ou Vermelho Imperial); ela tem um tom azulado muito leve. 
+Possui fórmula química C20H8Br2N2O9 e massa molecular 580.09352 u.
+Os dois corantes são intercambiáveis, e o uso de um ou outro é matéria, pelo menos no que tange ao tingimento industrial, de preferência e tradição.
+
+
+== Soluções para uso em histologia ==
+
+
+=== Eosina Y aquosa a 5% ===
+Fórrmula:
+
+5 g Eosina Y
+100 mL água destiladaDissolver os cristais de Eosina Y em água com aquecimento suave. Esfriar e filtar. Alguns cristais de timol podem ser acrescentados para prevenir a formação de grumos.
+
+
+=== Eosina Y Solução Alcoólica Estoque ===
+Fórmula:
+
+1 g Eosina Y
+20 mililitro H2O destilada
+Completar a 100 mL com álcool a 95% (ou 96 °GL)Dissolve-se a eosina Y na água com aquecimento suave. Esfriar e acrescentar o álcool.
+Para uso, uma parte da "solução estoque" é normalmente diluída com três partes de álcool a 80% em água. A adição de 0,5 mL de ácido acético glacial (HOAc) para cada 100 mL de solução corante irá normalmente dar uma coloração vermelha mais profunda ao tecido.
+Esta formulação é usada no método de coloração hematoxilina-eosina de Carazzi.
+
+
+=== Solução de eosina Y para histotécnica de dentes humanos ===
+Solução estoque de eosina aquosa a 1%.:
+
+Eosina Y 2 gramas
+Água destilada 200 ml
+
+
+== Referências ==
+
+Kabeer Fatima, Sofia Nosheen, Humera and Munazza Azhar; SYNTHESIS AND APPLICATION OF EOSIN;  Pakistan Journal of Agriculture Sciences, 2009.
+
+
+== Ligações externas ==
+Eosin Y no StainsFile (em inglês)
+Eosin B no StainsFile (em inglês)
+Eosin Y Colorant for Manufacturing Eosin Stains - www.abbeycolor.com (em inglês)
+
+
+== Ver também ==
+Eosinófilo
+Eritrosina
+Hematoxilina
+Merbromina
+Coloração de Romanowsky

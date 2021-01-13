@@ -1,0 +1,27 @@
+Um bromodomínio é uma domínio proteico de aproximadamente 110 aminoácidos que reconhecem resíduos de lisina monoacetilados, como os presentes nas caudas N-terminais de histonas. A afinidade dos domínios é maior por sítios com múltiplas acetilações próximas. Esse reconhecimento é frequentemente um pré-requisito para a associação detonas a outras proteínas, o que está fortemente envolvido ao remodelamento da cromatina. O domínio em si adota um dobramento do tipo " todo-α", um feixe de quatro alfa-hélices, cada uma separada por regiões conectoras de diferentes tamanhos, formando bolsões ("pockets") hidrofóbicos capazes de reconhecer lisina acetiladas.
+
+
+== Descoberta & etimologia ==
+O bromodomínio foi identificado como um motivo estrutural por John W. Tamkun e colegas estudando o gene Brahma/brm,de Drosophila, e mostrando similiaridade de sequência a proteínas envolvidas na ativação transcricional. O nome "bromodomínio"  é derivado da relação do domíno com o gene Brahma e não possui relação com o elemento químico bromo.
+
+
+== Exemplos ==
+Um exemplo conhecido de família de bromodomínos é a família BET ("Bromodomain and ExtraTerminal"). BRD2, BRD3, BRD4 e BRDT fazem parte dos membros dessa família. Proteínas como ASH1L também contém bromodomínios. A disfunção de proteínas do grupo BRD é relacionada a doenças como o carcinoma de célula escamosa, além de outras formas de câncer.Histona acetiltransferases, incluindo EP300 e PCAF, possuem não só domínios acetil-transferase como, também, bromodomínios.
+
+
+== Inibição farmacológica ==
+Os membros da família BET são considerados potenciais alvos terapêuticos para tratamento de câncer. Tais inibidores de BET já demonstraram efeito terapêutico em uma variedade de modelos pré-clínicos de câncer e estão passando por testes clínicos nos Estados UnidosJá foram desenvolvidos também inibidores de bromodomínios não-BET, como as proteínas BRD7 and BRD9 .
+
+
+== See also ==
+Cromodomínio
+inibidor de BET
+BRD2
+BRD3
+BRD4
+BRD7
+BRD9
+BRDT
+
+
+== Referências ==

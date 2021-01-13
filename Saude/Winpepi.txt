@@ -1,0 +1,11 @@
+WinPepi é um pacote de software gratuito de programas estatísticos para epidemiologistas, composto por sete programas com mais de 120 módulos. WinPepi não é um compêndio completo de rotinas estatísticas para epidemiologistas, mas fornece uma ampla gama de procedimentos, incluindo aqueles mais comumente utilizados e muitos que não são fáceis de encontrar em outro lugar. Cada programa tem um manual totalmente referenciado.
+WinPepi teve suas origens em 1983, em um livro de programas para calculadoras de mão,. Em 1993, este foi desenvolvido em um conjunto de programas de computador baseados em DOS por Paul M. Gahlinger com o auxílio de um dos autores originais de programas de calculadora, Prof. JH Abramson  que veio a ser chamado de Pepi (um acrônimo para "Programs for EPIdemiologists") e evoluiu, após sua quarta versão em 2001, para o WinPepi (Pepi-for-Windows).  Novas versões expandidas são emitidas em intervalos freqüentes.
+Os programas são notáveis ​​por sua facilidade de uso. Um portal de links para programas e manuais. Menus, botões na tela instruções, telas de ajuda, dicas pop-up, e armadilhas de erro embutidos também são fornecidos. Os programas também podem ser operados a partir de uma unidade flash USB.
+O WinPepi não fornece recursos de gerenciamento de dados. Com algumas exceções, exige a entrada (no teclado ou colando a partir de uma planilha ou arquivo de texto) de dados que já foram contadas ou resumidos.
+
+
+== Referências ==
+
+
+== Ligações externas ==
+«WINPEPI (PEPI-for-Windows)»

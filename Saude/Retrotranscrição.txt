@@ -1,0 +1,3 @@
+Retrotranscrição ou transcrição reversa é a formação de um DNA a partir de um RNA.
+É efetuado pelos retrovírus, e não é um processo seguro, pois muitas vezes cria DNAs de sequências diferentes, ocasionando a variabilidade genética viral, que pode ser boa ou ruim ao vírus.
+Eclipse: O vírus, através da enzima transcriptase reversa, sintetiza DNA a partir de seu RNA, e liga esse DNA ao DNA da célula hospedeira, pois em caso comum, é o DNA que sintetiza o RNA, por exemplo no nosso corpo.

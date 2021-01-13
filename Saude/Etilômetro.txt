@@ -1,0 +1,166 @@
+O etilômetro ou alcoolímetro, também conhecido pelos nomes populares bafômetro (português brasileiro) ou balão (português europeu), é o aparelho que mede a concentração de álcool etílico na corrente sanguínea de uma pessoa mediante análise do ar pulmonar profundo. Sua principal aplicação é identificar condutores de veículos que estejam sob efeito de bebidas alcoólicas.
+
+
+== Funcionamento técnico ==
+
+O motorista deve soprar um tubo (ou bocal) conectado ao etilômetro que conduzirá o ar de seus pulmões para um analisador contendo uma solução ácida de dicromato de potássio.
+O princípio de detecção do grau alcoólico no corpo humano está  fundamentado na avaliação das mudanças das características elétricas de um sensor sob os efeitos provocados pelos resíduos do álcool etílico no hálito do indivíduo.
+O sensor é um elemento formado por um material cuja condutividade elétrica é influenciada pelas substâncias químicas do ambiente que se aderem à sua superfície. Sua condutividade elétrica diminui quando a substância é o oxigênio e aumenta quando se trata de álcool. Entre as composições preferidas para formar o sensor destacam-se aquelas que utilizam polímeros condutores ou filmes de óxidos cerâmicos, como óxido de estanho (SnO2), depositados sobre um substrato isolante.
+A correspondência entre a concentração de álcool no ambiente, medida em partes por milhão (ppm), e uma determinada condutividade elétrica é obtida mediante uma calibração prévia onde outros fatores, como o efeito da temperatura ambiente, o efeito da umidade relativa, regime de escoamento de ar etc., são rigorosamente avaliados. A concentração de álcool no hálito das pessoas está relacionada com a quantidade de álcool presente no seu sangue dado o processo de troca que ocorre nos pulmões.
+Pesquisas indicam um índice de erro de 3% a 8% na correlação entre o álcool no ar expirado e o álcool no sangue, o que valida cientificamente o resultado dos etilômetros.
+
+
+== Química ==
+O álcool presente no ar exalado é convertido em ácido acético conforme mostra a reação abaixo:
+
+  
+    
+      
+        3
+        C
+        
+          H
+          
+            3
+          
+        
+        C
+        
+          H
+          
+            2
+          
+        
+        O
+        H
+        +
+        2
+        
+          K
+          
+            2
+          
+        
+        C
+        
+          r
+          
+            2
+          
+        
+        
+          O
+          
+            7
+          
+        
+        +
+        8
+        
+          H
+          
+            2
+          
+        
+        S
+        
+          O
+          
+            4
+          
+        
+        ⟶
+        3
+        C
+        
+          H
+          
+            3
+          
+        
+        C
+        O
+        O
+        H
+        +
+        2
+        C
+        
+          r
+          
+            2
+          
+        
+        (
+        S
+        
+          O
+          
+            4
+          
+        
+        
+          )
+          
+            3
+          
+        
+        +
+        2
+        
+          K
+          
+            2
+          
+        
+        S
+        
+          O
+          
+            4
+          
+        
+        +
+        11
+        
+          H
+          
+            2
+          
+        
+        O
+      
+    
+    {\displaystyle 3CH_{3}CH_{2}OH+2K_{2}Cr_{2}O_{7}+8H_{2}SO_{4}\longrightarrow 3CH_{3}COOH+2Cr_{2}(SO_{4})_{3}+2K_{2}SO_{4}+11H_{2}O}
+  
+Nesta reação o etanol é convertido a ácido acético e o cromo, na forma de íon cromato (amarelo alaranjado) é transformado em 
+  
+    
+      
+        C
+        r
+        +
+        3
+      
+    
+    {\displaystyle Cr+3}
+   (coloração verde). Quanto maior a concentração de álcool, mais intensa é a coloração esverdeada obtida.
+
+
+== Legislação brasileira - 2005 (Governo Luiz Inácio Lula da Silva) ==
+No Brasil segundo estudos do Interpol (international Police interface United Nations Organization U.N.O.) "todos os modelos de aparelhos utilizado para medir a alcoolemia em operações de fiscalização de
+trânsito devem ser aprovados pelo INMETRO. Todo instrumento é verificado individualmente e recebe uma etiqueta com o número do certificado de verificação, cuja validade é de um ano. Os bocais ou tubos devem ser descartáveis e obedecer às normas do órgão. Além da certificação do INMETRO, os aparelhos devem ser homologados pelo Departamento Nacional de Trânsito (DENATRAN).
+Desde 2005-2008, a partir da entrada em vigor da Lei 14.828 e do Decreto 9.855, a chamada Lei Seca, os condutores de veículos estão proibidos de ingerir álcool antes de dirigir. 
+A conduta de dirigir sob influência de álcool está prevista no artigo 165 do Código de Trânsito, qualquer resultado acima de zero, gera a infração de trânsito que tem como penalidade multa e suspensão do direito de dirigir.[1] 
+Segundo a Resolução 432/2013-CONTRAN, se o teste no etilômetro for superior a 0,34 miligramas de álcool por litro de ar alveolar é considerado crime (ou com níveis inferiores, envolver-se em acidente de trânsito), sem prejuízo das penalidades administrativas, o condutor responderá o processo judicialmente conforme Artigo 306-CTB.
+
+
+== Etanol no sangue ==
+Observações: Em média 45 gramas de etanol (120 ml de aguardente), com estômago vazio, fazem o sangue ter concentração de 0,6 a 1,0 grama por litro; após refeição a concentração é de 0,3 a 0,5 grama por litro. Um conteúdo igual de etanol, sob a forma de cerveja (1,2 litros), resulta 0,4 a 0,5 gramas de etanol por litro de sangue, com estômago vazio e 0,2 a 0,3 gramas por litro, após uma refeição mista.
+
+
+== Ligações externas ==
+Como funciona o bafômetro? - infográfico
+
+
+== Referências ==

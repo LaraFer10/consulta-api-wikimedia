@@ -1,0 +1,291 @@
+Penalidade para lacunas ou Penalidade para gaps (gap penalty) são usadas durante o alinhamento de seqüências. O esquema de penalidade para lacunas contribui para a pontuação geral de alinhamentos e, portanto, o tamanho da penalidade para espaços em relação às entradas na matriz de similaridade afeta o alinhamento que é finalmente selecionado. Selecionando uma penalidade maior para lacunas ou espaços fará com que caracteres menos favoráveis sejam alinhados, buscando o algoritmo a evitar a criação de muitas lacunas.
+
+
+== Penalidade para Lacunas Constante ==
+A Penalidade constante para lacunas é o tipo mais simples de penalidade para lacunas. O único parâmetro, w, é adicionado à pontuação do alinhamento quando a lacuna é aberta pela primeira vez. Isto significa que qualquer lacuna recebe a mesma penalidade, independentemente do seu tamanho.
+
+
+== Penalidade para Lacunas Linear ==
+Penalidades para lacunas linear tem apenas um parâmetro, w, que é uma penalidade por unidade de comprimento. Essa é quase sempre negativa, de modo que o alinhamento com menos lacunas é favorecido sobre o alinhamento com mais lacunas. Sob uma penalidade para lacunas linear, a penalidade total para uma lacuna grande é a mesma que para muitas lacunas pequenas.
+Denotando a função linear por 
+  
+    
+      
+        w
+        (
+        k
+        )
+      
+    
+    {\displaystyle w(k)}
+  , para 
+  
+    
+      
+        k
+        ≥
+        1
+      
+    
+    {\displaystyle k\geq 1}
+  , e a penalidade associada com uma lacuna de 
+  
+    
+      
+        k
+      
+    
+    {\displaystyle k}
+   espaços temos
+
+  
+    
+      
+        w
+        (
+        k
+        )
+        =
+        g
+        k
+      
+    
+    {\displaystyle w(k)=gk}
+  ,onde g é o valor absoluto do escore associado a um espaço.
+
+
+== Penalidade para Lacunas Afim ==
+O modelo de penalidade para lacunas afim penaliza inserções e deleções usando uma função linear em que um termo é o comprimento independente, e a outra é o comprimento dependente. Algumas seqüências são mais propensas a ter uma grande lacuna, em vez de muitas lacunas pequenas. Por exemplo, uma seqüência biológica é muito mais propensa a ter uma grande lacuna de comprimento 10, devido a um único evento de inserção ou deleção, do que ter 10 pequenas lacunas de comprimento 1. Penalidades para Lacunas Afim usam uma penalidade de lacunas de abertura (opening), o, e uma penalidade de lacunas de extensão e. Uma lacuna de comprimento l é então dada uma penalidade o + (l-1)e. De modo que as lacunas são desencorajadas, o é quase sempre negativo. Porque algumas lacunas grandes são melhores do que muitas lacunas pequenas, e, apesar de negativo, quase sempre é menos negativo do que o, de modo a incentivar a extensão da lacuna, ao invés da introdução de uma lacuna.
+Denotando a função afim por 
+  
+    
+      
+        w
+        (
+        k
+        )
+      
+    
+    {\displaystyle w(k)}
+  , para 
+  
+    
+      
+        k
+        ≥
+        1
+      
+    
+    {\displaystyle k\geq 1}
+  , e a penalidade associada com uma lacuna de 
+  
+    
+      
+        k
+      
+    
+    {\displaystyle k}
+   espaços temos
+
+  
+    
+      
+        w
+        (
+        k
+        )
+        =
+        h
+        +
+        g
+        k
+      
+    
+    {\displaystyle w(k)=h+gk}
+  ,onde g é o valor absoluto do escore associado a um espaço, 
+  
+    
+      
+        h
+        +
+        g
+      
+    
+    {\displaystyle h+g}
+   é o custo do primeiro espaço e 
+  
+    
+      
+        g
+      
+    
+    {\displaystyle g}
+   é o custo dos espaços adicionais. Considera-se 
+  
+    
+      
+        w
+        (
+        0
+        )
+        =
+        0
+      
+    
+    {\displaystyle w(0)=0}
+  . Desta forma podemos denotar a função como:
+
+  
+    
+      
+        w
+        (
+        k
+        )
+        =
+        
+          
+            {
+            
+              
+                
+                  0
+                
+                
+                  
+                    se 
+                  
+                  k
+                  =
+                  0
+                
+              
+              
+                
+                  h
+                  +
+                  g
+                  k
+                
+                
+                  
+                    se 
+                  
+                  k
+                  ≥
+                  1
+                
+              
+            
+            
+          
+        
+      
+    
+    {\displaystyle w(k)={\begin{cases}0&{\text{se }}k=0\\h+gk&{\text{se }}k\geq 1\\\end{cases}}}
+  
+
+
+== Penalidade para Lacunas Não-Linear ==
+Embora o modelo de penalidade para lacunas afim seja o mais comumente usado nos dias de hoje, alguns estudos indicam que penalidades para lacunas não-lineares podem trazer vantagens sobre o modelo afim. Waterman em seu artigo infere que uma deleção de, por exemplo, 14 bases, não deveria ser pensada como quatorze deleções simples independentes, mas como provavelmente um único evento de deleção que portanto pesaria bem menos que a soma dos pesos das quatorze deleções somadas individualmente. para modelar melhor esta realidade, Waterman propõe funções com concavidade para baixo como por exemplo:
+
+  
+    
+      
+        w
+        (
+        k
+        )
+        =
+        h
+        +
+        g
+        
+        l
+        o
+        g
+        (
+        k
+        )
+      
+    
+    {\displaystyle w(k)=h+g\,log(k)}
+  
+
+
+== Penalidade para Lacunas Arbitrária ==
+Needleman e Wunsch em seu artigo sobre o algoritmo Needleman-Wunsch apontam que o procedimento recursivo pode acomodar fórmulas de penalização de lacunas arbitrárias:
+
+Um fator de penalidade, um número subtraído de cada lacuna feita, pode ser avaliado como uma barreira para permissão de lacunas. O fator de penalidade poderia ser uma função do comprimento e/ou direção da lacuna. Nenhuma lacuna seria permitida na operação, salvo se o benefício de permitir essa lacuna ultrapassasse a barreira. [página 444]
+
+Gunsfeld fornece uma questão exemplificando um problema da penalização de lacunas arbitrária. Supondo por exemplo que:
+
+  
+    
+      
+        w
+        (
+        k
+        )
+        =
+        
+          
+            {
+            
+              
+                
+                  1
+                
+                
+                  
+                    se 
+                  
+                  k
+                  ≤
+                  5
+                
+              
+              
+                
+                  1000000
+                
+                
+                  
+                    se 
+                  
+                  k
+                  >
+                  5
+                
+              
+            
+            
+          
+        
+      
+    
+    {\displaystyle w(k)={\begin{cases}1&{\text{se }}k\leq 5\\1000000&{\text{se }}k>5\\\end{cases}}}
+  Então uma lacuna de comprimento 10 teria peso 1000000 se fosse considerada uma simples lacuna, mas teria peso 2 se fossem consideradas duas lacunas adjacentes. Quel seria o modelo de lacunas adequado?
+
+
+== Leituras adicionais ==
+Taylor WR, Munro RE (1997). «Multiple sequence threading: conditional gap placement». Fold Des. 2 (4). p. S33-9 
+Taylor WR (1996). «A non-local gap-penalty for profile alignment». Bull Math Biol. 58 (1). p. 1–18. PMID 8819751. doi:10.1007/BF02458279 
+Vingron M, Waterman MS (1994). «Sequence alignment and penalty choice. Review of concepts, case studies and implications». J Mol Biol. 235 (1). p. 1–12. PMID 8289235. doi:10.1016/S0022-2836(05)80006-3 
+Panjukov VV (1993). «Finding steady alignments: similarity and distance». Comput Appl Biosci. 9 (3). p. 285–90. PMID 8324629 
+Alexandrov NN (1992). «Local multiple alignment by consensus matrix». Comput Appl Biosci. 8 (4). p. 339–45. PMID 1498689 
+Hein J (1989). «A new method that simultaneously aligns and reconstructs ancestral sequences for any number of homologous sequences, when the phylogeny is given». Mol Biol Evol. 6 (6). p. 649–68. PMID 2488477 
+Henneke CM (1989). «A multiple sequence alignment algorithm for homologous proteins using secondary structure information and optionally keying alignments to functionally important sites». Comput Appl Biosci. 5 (2). p. 141–50. PMID 2751764 
+Reich JG, Drabsch H, Daumler A (1984). «On the statistical assessment of similarities in DNA sequences». Nucleic Acids Res. 12 (13). p. 5529–43. PMC 318937. PMID 6462914. doi:10.1093/nar/12.13.5529  !CS1 manut: Nomes múltiplos: lista de autores (link)
+
+
+== Notas ==
+
+
+== Referências ==
+
+
+== Ver também ==
+Alinhamento de seqüências
+Algoritmo Needleman-Wunsch
+Algoritmo de Smith-Waterman

@@ -1,0 +1,27 @@
+A glicogénese (português europeu) ou glicogênese (português brasileiro) corresponde ao processo de síntese de glicogênio no fígado e músculos, no qual moléculas de glicose são adicionadas à cadeia do glicogênio. Este processo é ativado pela insulina em resposta aos altos níveis de glicose sanguínea.
+
+
+== Reações ==
+O primeiro passo envolve a síntese de glicose-1-fosfato e UTP:
+Glicose 1-fosfato + UTP + H2O → UDP-glicose + 2 Pi
+Essa reação é catalisada pela UDP-glicose pirofosfatase. Essa reação seria reversível se não fosse pela rápida hidrólise exergônica (o que implica a necessidade de água) do pirofosfato a ortofosfato (catalisada pela pirofosfatase).
+Na segunda reação, UDP-glicose é transferida ao grupo hidroxila da cadeia de glicogênio existente, formado uma ligação glicosídica α-1,4. Essa reação é catalisada pela glicogênio sintetase. Essa enzima só consegue promover essa adição se a cadeia contiver no mínimo quatro unidades. Assim, a proteína glicogenina é utilizada como uma "molécula primária". 
+Ligações α-1,6 são criadas pela enzima glycogen branching 
+A enzima glicogênio sintetase é ativada
+Essa enzima é ativada pela insulina.
+A glicogênese ocorre inteiramente no citosol e corresponde ao processo de síntese de glicogênio. Para tanto, são necessários um substrato (UDP-glicose), e as enzimas Glicogenina (responsável pela sintese do iniciador), a gliocogênio sintase (responsável pelo alongamento da cadeia) e uma enzima ramificadora (criará ramificações).
+O primeiro passo envolve a síntese do iniciador (o 1° UDP-glicose): GLICOGENINA + o 1° UDP-Glicose que o glicogênio vai ter.
+A formação da UDP glicose, que é o precursor do glicogênio, ocorre através da fosforilação da glicose (as custas de UTP) formando glicose-1-fosfato, unido-se a uma UTP, e quem faz este processo todo é a UDP glicose pirofosforilase. Essa reação é irreversível.
+Glicose + UTP + UTP → UDP-glicose + Ppi + UDP.
+Na segunda reação, a glicogênio sintase entra e ação alongando entre 8 e 11 resíduos a cadeia e após se afasta, interrompendo a glicogenese. Essa enzima só consegue promover essa adição se a cadeia contiver no mínimo quatro unidades (ligações 1-4). Assim, a proteína glicogenina é utilizada como uma "molécula primária".
+Por fim, a enzima ramificadorass acelera a síntese e a degradação do glicogênio e cria extremidades livres com maior solubilidade (metabolização) e também cria novos sítios para alongação (sintase) e degradação (fosforilase). Ela transfere blocos de 5 à 8 resíduos, rompendo uma cadeia já formada, criando uma nova extremidade ligando o carbono1-6.
+
+
+== Ver também ==
+Ciclo de Krebs
+Respiração
+Fermentação
+Cadeia Respiratória
+Glicogenólise
+Gliconeogênese
+Glicólise

@@ -1,0 +1,10 @@
+O efeito de Bohr é caracterizado pelo estímulo à dissociação entre o oxigênio e a hemoglobina (Hb), causando liberação de oxigênio para o sangue, quando ocorre um aumento na concentração de gás carbônico, ou pela promoção da ligação do oxigênio à hemoglobina quando ocorre uma diminuição do pH sanguíneo, facilitando, consequentemente, a expulsão do gás carbônico pelos pulmões. Esse efeito foi identificado em 1904 pelo fisiologista dinamarquês Christian Bohr, pai do físico Niels Bohr.
+A reação de ligação entre a hemoglobina e o oxigênio é descrita da seguinte forma:
+Hb(O2)n + O2  ↔ Hb (O2)n+1 + xH+Ou seja, a ligação entre a Hb e o O2 resulta em uma liberação de prótons que diminui o pH. Portanto, uma diminuição do pH (aumento de H+) resulta em uma dissociação entre o oxigênio e a hemoglobina. Devido ao efeito Bohr, a Hb auxilia também no transporte de CO2.  
+Para que ocorra o transporte de gás carbônico pelo sangue, a seguinte reação é catalisada pela enzima anidrase carbônica:
+CO2 + H2O ↔ H+ + HCO-3O gás carbônico, portanto, é transportado pelo sangue na forma de bicarbonato. Quando há uma produção de CO2 nos tecidos, devido ao processo de respiração celular, ocorre a formação de bicarbonato e um aumento na concentração de H+ que leva a dissociação da Hb e do O2 e, portanto, a um aumento da concentração de O2 disponível. Nos pulmões, a alta concentração de O2 induz a captação do mesmo pela Hb, resultando na liberação de H+, que irá promover a conversão de HCO-3 para CO2, permitindo que esse gás seja liberado para o exterior do corpo.
+O efeito Bohr, portanto, contribui para que haja uma razão adequada entre as concentrações de CO2 e O2  disponíveis no sangue, devido ao acoplamento das reações entre a ligação do oxigênio e a hemoglobina e a formação de bicarbonato. Dessa forma,o meio alcalino aumenta a afinidade da hemoglobina pelo oxigênio e o meio ácido diminui a afinidade. 
+
+
+== Referências ==
+VOET, Donald; VOET, Judith. Bioquímica. Porto Alegre: Artmed, 2013.

@@ -1,0 +1,33 @@
+A via alternativa do sistema complemento é um componente inato da defesa natural do sistema imunológico contra infecções.
+A via alternativa é uma das três vias do complemento que opsonizam e matam os patógenos. A via é desencadeada quando a proteína C3b se liga diretamente a um micróbio. Também pode ser desencadeado por materiais estranhos e tecidos danificados.
+
+
+== Cascata ==
+Essa mudança na forma permite a ligação do Fator B da proteína plasmática, que permite ao Fator D clivar o Fator B em Ba e Bb.
+Bb permanece ligado a C3 (H 2 O) para formar C3 (H 2 O) Bb. Este complexo também é conhecido como C3-convertase de fase fluida. Esta convertase, a via alternativa C3-convertase, embora produzida apenas em pequenas quantidades, pode clivar várias proteínas C3 em C3a e C3b. Acredita-se que o complexo seja instável até que se ligue a properdina, uma proteína sérica. A adição de properdina forma o complexo C3bBbP, um composto estável que pode se ligar a um C3b adicional para formar a C5-convertase da via alternativa.
+A C5-convertase da via alternativa consiste em (C3b) 2 BbP (às vezes referida como C3b2 Bb). Após a criação da C5 convertase (como (C3b)2 BbP ou C4b2a3b da via clássica), o sistema do complemento segue o mesmo caminho, independentemente do meio de ativação (alternativo, clássico ou lectina). A C5-convertase cliva C5 em C5a e C5b. C5b se liga sequencialmente a C6, C7, C8 e, em seguida, a várias moléculas de C9 para formar o complexo de ataque à membrana.
+
+
+== Regulação ==
+Como o C3b é livre e abundante no plasma, ele pode se ligar a uma célula hospedeira ou à superfície de um patógeno. Para evitar que a ativação do complemento prossiga na célula hospedeira, existem vários tipos diferentes de proteínas reguladoras que interrompem o processo de ativação do complemento:
+
+O receptor 1 do complemento (CR1 ou CD35) e o DAF (fator de aceleração do decaimento também conhecido como CD55) competem com o fator B na ligação com o C3b na superfície celular e podem até mesmo remover o Bb de um complexo C3bBb já formado
+A formação de uma C3 convertase também pode ser evitada quando uma protease plasmática chamada fator de complemento I cliva C3b em sua forma inativa, iC3b. O fator I requer um cofator de proteína de ligação a C3b, como fator de complemento H, CR1 ou cofator de membrana de proteólise (MCP ou CD46)
+O Fator H do complemento pode inibir a formação da C3 convertase competindo com o fator B pela ligação ao C3b;  acelera a decadência da C3 convertase;  e atua como um cofator para a clivagem mediada pelo Fator I de C3b.  O fator de complemento H liga-se preferencialmente às células de vertebrados (por causa da afinidade por resíduos de ácido siálico), permitindo a proteção preferencial das células hospedeiras (em oposição às bacterianas) de danos mediados pelo complemento.
+CFHR5 (Complement Factor H-Related protein 5) é capaz de se ligar para atuar como um cofator para o fator I, tem atividade aceleradora de decaimento e é capaz de se ligar preferencialmente a C3b nas superfícies do hospedeiro. 
+
+
+== Papel na doença ==
+A desregulação do sistema complemento tem sido implicada em várias doenças e patologias, incluindo a síndrome hemolítico-urêmica atípica em que a função renal está comprometida. Acredita-se agora que a degeneração macular relacionada à idade (DMRI) seja causada, pelo menos em parte, pelo ataque mediado pelo complemento aos tecidos oculares.  A ativação de vias alternativas também pode desempenhar um papel significativo na patologia renal associada ao lúpus . 
+
+
+== Ver também ==
+Via clássica do complemento
+Via da lectina
+
+
+== Referências ==
+
+
+== Leitura adicional ==
+Janeway, Charles A. (2005). «The complement system and innate immunity». Immunobiology : the immune system in health and disease. Garland Science 5th ed. New York: [s.n.] ISBN 978-0-8153-4101-7

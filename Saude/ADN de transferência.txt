@@ -1,0 +1,7 @@
+O ADN de transferência ou ADN-T, é o ADN contido em um vetor plasmidial que possui o potencial de induzir câncer em plantas.
+O ADN-T contém genes que codificam para diversos hormônios vegetais, como auxina e citocinina. Bactérias como Agrobacterium tumefaciens e Agrobacterium rhizogenes que contém o plasmídeo, inserem o ADN de transferência no genoma vegetal, muitas vezes induzindo câncer. Para isso, é necessário que o plasmídeo contenha o gene de virulência.
+O plasmídeo com o ADN-T possui a região esquerda (left border) e a região direita (right border). O ADN-T começa a ser transcrito na left border e acaba na região right border, e possui um tamanho de aproximadamente 20 000 pares de bases.
+O tumor é formado para gerar um maior aporte de nutrientes para a bactéria invasora. Entretanto, a capacidade que Agrobacterium tumefaciens possui para a transferência de genes incluídos entre a left border e right border - o que chamamos de ADN-T - é usada como técnica de transformação de plantas em Biotecnologia, engenharia genética e melhoramento gênico. A técnica de transformação de plantas por meio de A. tumefaciens possibilitou a inserção de genes isolados de qualquer organismo no genoma das plantas criando maior variabilidade genética. 
+
+
+== Referências ==

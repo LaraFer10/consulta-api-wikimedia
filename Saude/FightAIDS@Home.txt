@@ -1,0 +1,9 @@
+FightAIDS@Home ("Luta contra a Aids em casa") é um projeto [de computação distribuída] para computadores domésticos conectados à Internet, gerenciado no Olson Laboratory no Scripps Development Institute. O projeto ajuda a usar técnicas de simulação biomédica para encontrar maneiras de curar ou impedir a proliferação de AIDS e do vírus HIV.
+Ele foi originalmente implementado usando uma infraestrutura de software de computação distribuída fornecida pela Entropía, Inc., mas em maio de 2003 o projeto deixou de ser associado à Entropy.
+O FightAIDS @ Home se juntou ao projeto World Community Grid em 15 de novembro de 2005. Enquanto hospedado pelo 'World Community Grid', o poder da computação se expandiu. Assim, os laboratórios da Olson estão pedindo que seus membros emigram para a Rede da Comunidade Mundial a partir de agora.
+Cada pessoa pode doar tempo livre a partir do seu computador pessoal para acelerar o progresso do projeto e encontrar novas curas e vacinas contra o HIV. Para participar dos projetos, é necessário instalar um programa baixado da página World Community Grid www. O programa é totalmente seguro e seu impacto no sistema em que está instalado é mínimo (o processo de investigação é executado com prioridade mínima e é interrompido por qualquer ação do usuário, retornando ao seu controle toda a potência do computador).
+
+
+== Ligações externas ==
+FightAIDS@Home
+World Community Grid

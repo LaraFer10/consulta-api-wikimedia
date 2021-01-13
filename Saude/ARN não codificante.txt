@@ -1,0 +1,17 @@
+Um RNA não-codificante (ncRNA, em inglês) é qualquer molécula de RNA que não é traduzida em proteína. O termo pequeno ARN (small RNA, sRNA) é ainda usado para bactéria. No entanto, alguns ncRNA são muito grandes. Sinónimo de uso menos frequente são npcRNA (non-protein-coding RNA), nmRNA (non-messenger RNA), snmRNA (small non-messenger RNA), fRNA (functional RNA). As sequências de ADN a partir das quais o ARN não-codificante é transcrito como produto final é muitas vezes denominado gene de ARN ou gene de ARN não-codificado.
+Genes de ARN não-codificados incluem ARN de transferência e ARN ribossomal, pequenos ARNs como snoRNAs, microARNs, siRNAs e piRNAs e em último lugar longos ncRNAs que incluem exemplos como Xist, Evf, Air, CTN e PINK. O número de ncRNAs codificados dentro do genoma é desconhecido, no entanto, recentes estudos sugerem a existência de mais de 30.000 longos cnRNAs e pelo menos os mesmos pequenos ARNs reguladores dentro somente do genoma do rato. Desde que a maioria dos recém identificados ncRNAs não foram ainda validados pela sua função, é possível que a maioria deles sejam não significantes.
+Uma das maiores descobertas do 2007 ENCODE Pilot Project foi que "quase o genoma inteiro pode ser representado em tanscritos primários que extensivamente se sobrepõem e incluem muitas regiões não-codificantes de proteínas"
+
+
+== Ver também ==
+Ribozima
+Rfam
+
+
+== Referências ==
+
+
+== Ligações eternas ==
+«Comprehensive database of mammalian ncRNAs» 
+«The Rfam Database». A curated list of hundreds of families of related ncRNAs. Each family includes a multiple alignment of known members, and predicted homologs in a large genome database. The definition of "family" is a pragmatic one, the goal being to lead to high-quality annotations. Thus, some families are quite broad (e.g. all tRNAs are in one family, as of 2004), while some families are quite narrow (e.g. there are many microRNA families, one for each type). 
+«ncRNA database». NONCODE is a brand-new database of all kinds of noncoding RNAs (except tRNAs and rRNAs).

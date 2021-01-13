@@ -1,0 +1,30 @@
+A coenzima Q-citocromo c redutase, também denominada complexo de citocromo bc1 ou complexo III, é o terceiro complexo na cadeia respiratória (EC 1.10.2.2), tendo um papel fundamental na geração bioquímica de ATP (fosforilação oxidativa). O complexo III é uma lipoproteína transmembranar com múltiplas subunidades, codificada pelos genomas mitocondrial (citocromo b) e nuclear (todas as outras subunidades). 
+
+
+== Cadeia transportadora de elétrons ==
+A cadeia transportadora de elétrons (CTE), também denominada cadeia respiratória, é formada por quatro complexos proteicos presentes a membrana mitocondrial interna. Os complexo I e complexo II são responsáveis pela oxidação do NADH e do FADH2, respectivamente, transferindo os elétrons resultantes para o ubiquinol. Essa molécula é responsável por carrear esses elétrons para o complexo III. O complexo III envia os elétrons através do espaço intermembrana para o citocromo c, responsável pela transferência dos mesmos para o complexo IV. O complexo IV utiliza esses elétrons para a redução do oxigênio à água na matriz mitocondrial .
+
+
+== Estrutura e mecanismo de ação ==
+A coenzima Q-citocromo c redutase pertence à família das oxidorredutases, especificamente aquelas que utilizam difenóis e substancias relacionada como doador e um citocromo como aceptor. Essa enzima participa da fosforilação oxidativa, possuindo quatro cofatores: citocromo c1, citocromo b-562, citocromo c-566 e ferredoxina. Esse complexo proteico catalisa a redução do citocromo c através da oxidação da coenzima Q por dois elétrons, também chamada de ubiquinona. Esse processo ocorre de forma concomitante ao envio de quatro prótons da matriz mitocondrial para o espaço intermembrana .
+O complexo III tem uma estrutura dimérica com cada monômero contendo até 11 subunidades . As duas subunidades do citocromo b estão no interior do complexo, tendo exposição mínima ao espaço intermembrana e matriz mitocondrial. As subunidades do citocromo c1 estão posicionadas no todo do citocromo b e suas superfícies externas estão expostas ao espaço intermembranar. Essas moléculas são mantidas no lugar por caudas helicoidais que se estendem profundamente no complexo proteico na membrana mitocondrial. A ferredoxina é uma proteína ferro-enxofre com três domínios diferentes e que interage quimicamente com as subunidades do citocromo que estão localizadas na unidade monomérica adjacente. Os citocromos b e c1 possuem o heme como grupo prostético da proteína . 
+O mecanismo de ação do complexo III envolve o ciclo da ubiquinona (ciclo “Q”). Esse ciclo envolve a transferência de dois elétrons dos complexos I e II para a ubiquinona, resultando na redução da ubiquinona em ubiquinol (QH2). A oxidação subsequente do ubquinol pelo complexo III requer a doação dos dois elétrons para o citocromo c, ocorrendo a transferência de apenas um elétron por vez. A primeira transferência de elétrons no complexo III é para a ferredoxina. Esse elétron é então transferido para o citocromo c1 e subsequentemente para o citocromo c. Essa primeira transferência de um elétron do ubiquinol resulta na molécula instável semiubiquinona (Q•-), que pode doar seu elétron instável para o oxigênio e gerar espécies reativas de oxigênio (EROs). Esse cenário não é o que ocorre na maioria dos casos. Normalmente o elétron não pareado da semiubiquinona é transferido para os dois grupos heme do citocromo b. Essas duas moléculas (heme bL e heme bH) tem afinidades eletrônicas diferentes devido à sua localização em diferentes ambientes polipeptídicos. O heme bL está localizado mais próximo do espaço intermembranar e tem uma afinidade mais baixa pelos elétrons do que o heme bH, localizado mais próximo da matriz mitocondrial. A semiubiquinona transfere seu elétron para o heme bL gerando a ubiqinona. O heme BL, por sua vez, transfere o elétron para o heme bH, que subsequentemente irá restaurar a semiubiquinona, após a transferência do elétron para a ubiquinona. Esse processo é cíclico até a transferência desse elétron para a ferridoxina e para o citocromo c1 Chandel NS. Mitochondrial complex III: an essential component of universal oxygen sensing machinery? Respir Physiol Neurobiol. 2010 Dec 31;174(3):175-81. doi: 10.1016/j.resp.2010.08.004. Epub 2010 Aug 11. Review. PubMed PMID: 20708106; PubMed Central PMCID: PMC2991558.
+
+
+== Referências ==
+
+
+== Ver também ==
+Respiração celular
+Centro de reacção fotossintético
+Complexo 3
+
+
+== Ligações externas ==
+cytochrome bc1 complex site (Edward A. Berry) em lbl.gov
+cytochrome bc1 complex site (Antony R. Crofts) em uiuc.edu
+PROMISE Database: cytochrome bc1 complex em scripps.edu
+Interactive Molecular Model of Complex III (Requer MDL Chime)
+UMich Orientation of Proteins in Membranes families/superfamily-3(Posições calculadas para o complexo bc1 e relacionados em membranas)
+
+MeSH Coenzyme+Q-Cytochrome-c+Reductase

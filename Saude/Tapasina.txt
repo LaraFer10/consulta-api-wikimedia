@@ -1,0 +1,19 @@
+A  glicoproteína associada a TAP, também conhecida como tapasina ou TAPBP é uma proteína que é codificada em humanos pelo gene TAPBP.
+
+
+== Função ==
+Esse gene codifica uma  glicoproteína transmembranar que medeia a interação entre moléculas de MHC classe I e o transportador associado ao processamento de antígeno (TAP), que é necessário para o transporte de peptídeos antigênicos através da membrana do  retículo endoplasmático. Essa interação otimiza o carregamento de peptídeos na molécula de MHC classe I. Até 4 complexos de MHC classe I e tapasina podem se unir a uma única molécula de TAP.  A tapasina contém um motivo de lisina duplo (KKKAE) no C-terminal capaz de manter proteínas de membrana no retículo endoplasmático. Em seres humanos, o gene para a tapasina se encontra no complexo de histocompatibilidade principal no cromossomo 6. Splicing alternativo gera 3 variantes transcripcionais codificando diferentes isoformas.A tapasina é um componente do complexo carregador de peptídeos e pode ser encontrado associados à moléculas do MHC de classe I após a cadeia pesada deste se associa com a  microglobulina  Beta2. O complexo é constituído por TAP, tapasina, calreticulina e ERp57. Após a ligação do MHC classe I com um peptídeo com afinidade suficiente, a interação entre tapasina e o MHC classe I é desfeita.
+
+
+== Interações ==
+Tapasina interage com:
+
+HLA-A, (MHC de classe I)
+TAP1
+
+
+== Veja também ==
+Transporter associated with antigen processing ("TAP")
+
+
+== Referências ==

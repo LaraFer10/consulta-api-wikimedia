@@ -1,0 +1,8 @@
+Marcação isotópica estável por aminoácidos em cultivo celular (abreviada na literatura em inglês como SILAC, de Stable Isotope Labeling by/with Amino acids in Cell culture) é uma técnica baseada em espectrometria de massa que detecta diferenças na abundância de proteínas entre amostras usando marcação isotópica não radioativa. É um método popular para proteômica quantitativa.
+
+
+== Procedimento ==
+Duas populações de células são cultivadas em cultura de células. Uma das populações de células é alimentada com meio de cultura contendo aminoácidos normais. Em contraste, a segunda população é alimentada com meio de cultura contendo aminoácidos marcados com isótopos pesados ​​estáveis ​​(não radioativos). Por exemplo, o meio pode conter arginina marcada com seis átomos de carbono-13 (13C) em vez do carbono-12 normal (12C). Quando as células estão crescendo neste meio, elas incorporam a arginina pesada em todas as suas proteínas. Posteriormente, todos os peptídeos contendo uma única arginina são 6 Da mais pesados ​​do que suas contrapartes normais. Alternativamente, pode ser usada uma marcação uniforme com 13C ou 15N. O truque é que as proteínas de ambas as populações celulares podem ser combinadas e analisadas em conjunto por espectrometria de massa. Pares de peptídeos quimicamente idênticos de diferentes composições de isótopos estáveis ​​podem ser diferenciados em um espectrômetro de massa devido à sua diferença de massa. A razão de intensidades de pico no espectro de massa para esses pares de peptídeos reflete a razão de abundância para as duas proteínas.
+
+
+== Referências ==

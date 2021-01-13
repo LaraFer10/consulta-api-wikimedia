@@ -1,0 +1,32 @@
+A proteína verde fluorescente, mais conhecida por GFP (abreviatura do inglês green fluorescent protein), é uma proteína produzida pelo cnidário Aequorea victoria que emite fluorescência na zona verde do espectro visível. O gene que codifica esta proteína foi já isolado e é actualmente usado na produção de proteínas de fusão, constituídas por um gene de interesse fundido com o da GFP, de modo a monitorizar, por exemplo, a localização dessa proteína in vivo. Deste modo, a GFP funciona como um gene repórter mantendo as informações.
+
+
+== História ==
+Osamu Shimomura, no início da década de 1960, foi a primeira pessoa a isolar a GFP a partir de Aequorea victoria e identificar que parte desta proteína era responsável pela sua fluorescência. Juntamente com Frank Johnson, na Universidade de Washington, este investigador isolou uma proteína bioluminescente cálcio-dependente, que denominou aequorina, nome derivado do cnidário com que trabalhavam. Esta proteína emitia fluorescência na zona azul do espectro. Durante o procedimento, uma outra proteína foi identificada, que emitia fluorescência esverdeada, quando iluminada por luz ultravioleta, sendo-lhe por isso atribuído o nome de proteína verde fluorescente.
+Durante os anos seguintes verificou-se que, para emitir fluorescência, o cnidário liberta iões de cálcio, que são responsáveis pela emissão azul da aequorina. A GFP, por sua vez, absorve a luz libertada por esta última, de modo a produzir a sua luz verde característica. 
+No entanto, O potencial da GFP como gene repórter só foi reconhecido em 1987 por Douglas Prasher. O facto de as proteínas serem extremamente pequenas e não poderem ser vistas quer à vista desarmada, quer pela utilização da maioria dos microscópios, era algo que dificultava a investigação a nível celular. Prasher pensou então na possibilidade de ligar uma proteína em estudo à GFP, de modo a a poder acompanhar no organismo, como se se tratasse de lhe atarrachar uma lâmpada. Este investigador conseguiu então localizar o gene da GFP em Aequorea victoria e expressá-la numa bactéria.
+Apesar destes ensaios, o verdadeiro potencial da GFP como uma sonda molecular não foi aproveitado durante alguns anos, até que as proteínas de fusão começaram a ser utilizadas para monitorizar a expressão de genes em diversos organismos.
+Recentemente, outras proteínas fluorescentes foram já identificadas, como por exemplo a proteína fluorescente amarela (abreviatura do inglês: YFP) e vermelha (RFP), entre outras. Para além disso, estas proteínas originais foram também modificadas, de modo a melhorar o seu desempenho em sistemas vivos. Um dos resultados deste tipo de engenharia é a proteína verde fluorescente melhorada, em inglês enhanced green florescent protein ou EGPF.
+
+
+== Estrutura e espectro de emissão ==
+
+A estrutura da proteína verde fluorescente foi determinada em 1996, sendo constituída por 238 aminoácidos, que formam onze cadeias-beta, cujo conjunto forma um cilindro, no centro do qual corre uma alfa-hélice. O cromóforo propriamente dito (a parte da molécula responsável pela cor) situa-se também no centro do cilindro. Diferentes cores podem ser obtidas por alterações neste cromóforo, como por exemplo formação de ligações duplas num dos seus anéis.
+A GFP selvagem (original do cnidário) possui dois picos de excitação, um menor a 475nm e um maior a 395nm. O seu pico de emissão é a 509nm, localizado na zona verde do espectro visível, como já foi referido.
+
+
+== Utilização ==
+As proteínas fluorescentes, entre as quais a GFP, são muito versáteis e têm sido utilizadas em diversos campos da biologia, como microbiologia, engenharia genética e fisiologia, por exemplo. Este tipo de sonda é ubíquo, e como tal, é extremamente útil para estudo de expressão génica em culturas de células ou de tecidos, assim como em sistemas vivos (animais, plantas, bactérias...). 
+A GFP tem sido utilizada com sucesso para monitorizar por exemplo a expressão transiente (ou temporária) de transgenes, substituindo outros genes repórter como a beta-glucoronidase ou a selecção com base em antibióticos. Devido ao facto de a actividade da GFP poder ser monitorizada in vivo, a expressão dos genes em estudo pode ser acompanhada ao longo do tempo e desenvolvimento do organismo em causa. Por exemplo, as proteínas fluorescentes são comummente utilizadas para determinar a localização e dinâmica de proteínas, organitos e outros compartimentos celulares, assim como para avaliar a capacidade de expressão de diversos promotores. 
+Uma enorme variedade de técnicas está hoje disponível para a construção de proteínas de fusão com base em proteínas fluorescentes e para aumentar a sua expressão em animais e plantas. Os veículos de eleição para a introdução deste tipo de genes nos organismos são plasmídeos bacterianos, vectores virais, biolística, entre outros. O gene de fusão pode então ser integrado nos cromossomas do organismo em estudo. No entanto, em estudos de expressão transiente, o ADN introduzido não integra necessariamente o genoma do hospedeiro, sendo expresso somente durante um curto período de tempo. Esta expressão, quer seja temporária ou permanente, do gene de interesse em fusão com GFP, ou outro tipo de proteína fluorescente, pode ser facilmente monitorizada pela observação da emissão da fluorescência, utilizando um conjunto de filtros compatível com a proteína em causa. 
+
+Engenharia genética
+Biologia molecular
+
+
+== Ligações externas ==
+
+Site sobre estrutura molecular da GFP e do seu cromóforo
+Site de microscopia sobre vários tipos de proteínas florescentes
+Site com variadas informações sobre a GFP, assim como fotos da sua utilização
+Artigo sobre utilização da GFP em plantas - Stewart C. N. 2001. The utility of green fluorescent protein in transgenic plants. Plant Cell Reports 20 (5): 376-382

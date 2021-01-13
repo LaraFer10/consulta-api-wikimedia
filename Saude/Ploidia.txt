@@ -1,0 +1,34 @@
+Ploidia é o número de conjuntos completos de cromossomas presentes numa célula e, em consequência, o número de alelos possíveis para o conjunto de genes autossómicos e pseudo-autossómicos nela existentes. Células somáticas, tecidos e organismos indivíduais podem ser descritos de acordo com o seu nível de ploidia, ou seja do número de conjuntos de cromossomas homólogos presentes, como monoploide ou haploide (1 conjunto), diploide (2 conjuntos), triploide (3 conjuntos), tetraploide (4 conjuntos), pentaploide (5 conjuntos), e assim por diante. O termo genérico poliploide é frequentemente utilizado para descrever situações em que estejam presentes três ou mais conjuntos de cromossomas.
+
+
+== Etimologia ==
+O termo ploidia é uma derivação regressiva de haploidia e diploidia. "Ploide" é uma combinação dos termos do grego clássico -πλόος (-plóos, "-vez", "repetição") e -ειδής (-eidḗs), de εἶδος (eîdos, "forma, semelhança"). O principal significado do termo grego ᾰ̔πλόος (haplóos) é "único", de ἁ- (ha-, “um, o mesmo”). διπλόος (diplóos) significa "duplex" ou "duas vezes". Diploide, portanto, significa "formato duplo" (comparável à lógica que leva a utilização de "humanoide" para designar "formato humano").
+O botânico Eduard Strasburger cunhou os termos haploide e diploide em 1905. Alguns autores sugerem que Strasburger baseou os termos no conceito de id (ou plasma germinal) de August Weismann, daí haplo-id e diplo-id. Estes termos foram inicialmente introduzidos da língua alemã para a inglesa pela tradução feita por William Henry Lang em 1908 do manual publicado em 1906 por Strasburger e colegas, e depois adoptado internacionalmente a partir dessa tradução.
+
+
+== Descrição ==
+A esmagadora maioria dos organismos que apresentam reprodução sexual são constituídos por células somáticas cujo nível de ploidia é diplóide ou superior, embora esse nível possa variar amplamente entre diferentes organismos, entre diferentes tecidos dentro do mesmo organismo e entre diferentes estágios do ciclo de vida do organismo.
+Metade de todos os géneros de plantas conhecidos contém espécies poliploides, sendo que cerca de dois terços de todas as gramíneas são poliploides. Muitos animais são uniformemente diploides, embora a poliploidia seja comum em invertebrados, répteis e anfíbios. Em algumas espécies, a ploidia varia entre os indivíduos da mesma espécie (como no caso dos insetos sociais). Em outras espécies, alguns tecidos e sistemas de órgãos inteiros podem ser poliploides, apesar de o resto do corpo ser diploide (como no fígado dos mamíferos).
+Para muitos organismos, especialmente plantas e fungos, as mudanças no nível de ploidia entre as gerações são os principais responsáveis pela especiação. Em mamíferos e aves, as alterações da ploidia são tipicamente fatais. Há, no entanto, evidências da ocorrência de poliploidia em organismos agora considerados diploides, sugerindo que a poliploidia contribuiu para a diversificação evolutiva em plantas e animais por meio de iterações sucessivas de poliploidização e rediploidização.Cada espécie apresenta na generalidade das suas células somáticas um número característico de cromossomas, número que também de forma característa para a espécie se repete um determinado número de vezes. Usando como exemplo os humanos, estes são organismos diploides, carregando nas suas células somáticas dois conjuntos completos de cromossomas: um conjunto de 23 cromossomas oriundo do pai e um conjunto de 23 cromossomas oriundos da mãe. Os dois conjuntos combinados fornecem um total de 46 cromossomas. 
+O número total de cromossomas individuais homólogos (contando todos os conjuntos completos) de cada espécie é designado por número cromossómico. O número de cromossomas que forma um único conjunto completo de cromossomas é designado por número monoploide (em geral representado por x). O número haplóide (em geral representado por n)identifica o número total de cromossomas encontrados num  gâmeta (nos humanos um espermatozoide ou um óvulo produzida por meiose em preparação para a reprodução sexual).
+Em condições normais, o número haplóide é exatamente a metade do número total de cromossomos presentes nas células somáticas do organismo. Para organismos diplóides, o número monoplóide e o número haplóide são iguais: nos humanos, ambos são iguais a 23. Quando uma célula germinativa humana sofre meiose, o conjunto diplóide de 46 cromossomas é dividido a meio para formar gâmetas haploides. Após a fusão de um gâmeta masculino e de um feminino (cada um contendo um conjunto de 23 cromossomos) durante a fertilização, o zigoto resultante apresenta novamente o complemento total de 46 cromossomos: dois conjuntos de 23 cromossomos cada.
+Todos os organismo com reprodução sexual apresentam fases haplóides e diplóides. Através da duração dessas fases é possível caracterizar o tipo de ciclo celular da espécie: haplonte (se a maior parte da vida do organismo é passada como haplóide), diplonte (se a maior parte da vida do organismo é passado como diplóide) ou haplodiplonte (se a vida do organismo é dividida fases haplonte e diplonte).
+
+
+== Notas ==
+
+
+== Referências ==
+
+
+== Bibliografia ==
+Griffiths, A. J. et al. 2000. An introduction to genetic analysis, 7th ed. W. H. Freeman, New York ISBN 0-7167-3520-2
+
+
+== Ligações externas ==
+Animal genome size database
+Plant genome size database
+Fungal genome size database
+Protist genome-scale database of Ensembl Genomes
+Supporting Data Set, with information on ploidy level and number of chromosomes of several protists)
+Chromosome number and ploidy mutations YouTube tutorial video

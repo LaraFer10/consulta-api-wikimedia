@@ -1,0 +1,8 @@
+A edição de RNA para C específico para troca de U  (RESCUE) é uma plataforma CRISPR que teve como alvo bases de citosina em transcritos de RNA e usou uma enzima programável para converter citosina indesejada em uridina, o que direcionou uma mudança nas instruções de RNA. RESCUE dobra o número de mutações patogênicas direcionáveis pela edição de RNA e permite a modulação de resíduos relevantes para a sinalização de fosfo.
+
+
+== Desenvolvimento ==
+Os pesquisadores desenvolveram a abordagem programável de edição de RNA de A para I ao fundir o CRISPR-Cas13  com alvo de RNA inativado cataliticamente com o domínio adenina deaminase de ADAR2. A equipe usou um Cas13 desativado para orientar o RESCUE em bases de citosina alvo em transcritos de RNA e usou uma enzima programável para converter citosina indesejada em uridina, o que direcionou uma mudança nas instruções de RNA. Em RESCUE, eles relatam um editor de RNA de C para U pela evolução direta de ADAR2 em uma citidina desaminase.
+
+
+== Referências ==

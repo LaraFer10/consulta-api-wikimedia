@@ -1,0 +1,68 @@
+Cruzipaína (E.C. Number 3.4.22.51), também conhecida como GP57/51 , é a cisteína protease mais abundante de T. cruzi. 
+Vários estudos apontam a cruzipaína como essencial à sobrevivência do parasito, além de ser um dos antígenos imuno-dominantes na fase crônica da Doença de Chagas .
+
+
+== Família ==
+A Cruzipaína é membro da superfamília papaína, mas diferente de outras enzimas deste tipo, apresenta uma extensão C-terminal atípica contendo 130 aminoácidos altamente glicosilados, com função desconhecida e não requeridos para a atividade proteolítica . Apesar de seu papel desconhecido, o domínio C-terminal representa a porção mais imunogênica da cruzipaína em indivíduos naturalmente infectados .
+Esta enzima pertence a uma família de genes polimórficos, cuja expressão é regulada diferencialmente entre as variadas formas do parasito. Os genes que codificam para cruzipaína estão dispostos em tandem, localizados em 2 a 4 cromossomos distintos nas diferentes cepas de T. cruzi .
+
+
+== Síntese e Expressão ==
+A cruzipaína é uma glicoproteína sintetizada na forma de zimogênio, que é ativado pela clivagem do pró-domínio N-terminal para gerar a protease madura. A enzima madura apresenta uma região catalítica com alta similaridade à catepsina L, sendo caracterizada como uma endopeptidase com especificidade semelhante a da catepsina L .
+A expressão simultânea dos diferentes genes leva a produção de uma mistura complexa de isoformas. As isoformas reunidas no grupo denominado cruzipaína 1 diferem entre si essencialmente no domínio C-terminal, em sua seqüência de aminoácidos e em seu padrão de N-glicosilação. Outra forma da enzima, que difere mais acentuadamente, principalmente na sua região catalítica foi denominada cruzipaína 2 .
+A cruzipaína é expressa por diferentes cepas de T. cruzi e em todos os seus estágios de desenvolvimento. Nas epimastigotas, a cruzipaína encontra-se primordialmente em organelas denominadas reservossomos. É nesta forma que a proteína apresenta sua maior abundância. Nas amastigotas, sua localização é dada majoritariamente na superfície celular, enquanto que nas tripomastigotas situa-se nos lisossomos e na bolsa flagelar . 
+
+
+== Estrutura Tridimensional ==
+A cruzipaína foi inicialmente descrita por Itow e Camargo (1977) , porém sua completa purificação foi feita por Bontempi e colaboradores (1984)  a partir de epimastigotas cultivadas em meio livre de células (cultura axênica), através de um procedimento seqüencial de fracionamento utilizando técnicas cromatográficas.
+Em 1995, McGrath e colaboradores  resolveram pela primeira vez a estrutura tridimensional da cruzaína (forma recombinante da cruzipaína, truncada na extremidade C-terminal ) complexada com o inibidor peptídico irreversível Z-Phe-Ala-fluorometil cetona, através da técnica de cristalografia por difração de raios-X.
+A estrutura cristalográfica revelou que a cruzaína é composta por uma cadeia polipeptídica de 215 resíduos de aminoácidos, estruturada em dois domínios: um predominantemente formado por alfa-hélices e o outro constituído por interações do tipo folhas beta antiparalelas. A tríade catalítica da cruzaína é composta pelos resíduos CYS25, HIS159 e ASN175. Tanto a tríade catalítica, como o sítio global de ligação ao substrato, são encontrados em uma fenda entre os dois domínios .
+
+
+== Ensaios Enzimáticos ==
+Os ensaios experimentais com a cruzipaína ocorrem a partir do isolamento e purificação da enzima (ou pelo uso de formas recombinantes purificadas), que em seguida pode ser colocada em contato com substratos fluorogênicos em diferentes diluições, em meio contendo pH ácido (valores de pH ótimo entre 3-5) e temperaturas que variam de 28 a 37°C.  A hidrólise dos substratos pode ser monitorada com o uso de um fluorímetro, em geral, através da medição da emissão de fluorescência no comprimento de onda de 420 nm, logo após a excitação a 320 nm .
+
+
+== Especificidade aos Substratos ==
+A cruzipaína possui forte atividade endopeptidásica, agindo sobre substratos como azocaseína, albumina de soro bovino, hemoglobina e algumas proteínas solúveis de T. cruzi .
+A cruzipaína interage com seus substratos através dos subsítios (S4 - S4’) presentes na região do sítio ativo, onde cada um deles apresenta especificidade variada a diferentes resíduos de aminoácidos .
+A especificidade do subsítio S2 desta enzima permite a ligação produtiva tanto de resíduos de arginina como de fenilalanina (27). Vários estudos com substratos sintéticos indicam que a especificidade da cruzipaína é maior com Pro em P2'e confirmam a exigência de um resíduo hidrofóbico em P2 (embora um resíduo carregado positivamente também possa ser aceito nesta posição) e uma clara preferência por Arg (ou benzil-Cys) em P1. Por outro lado, a enzima é capaz de aceitar uma ampla gama de resíduos de aminoácidos em P1' .
+A especificidade ao substrato da cruzipaína parece ser intermediária às das catepsinas L e B, visto que a enzima é capaz de acomodar tanto um resíduo hidrofóbico como um carregado positivamente em P2 .
+A forma recombinante cruzaína demonstrou ter atividade carboxidipeptidase muito semelhante a da catepsina B . A especificidade da cruzipaína 2 tem sido menos estudada, e difere daquela da cruzipaína, quando se utiliza cininogênio como substrato , e para a hidrólise de vários substratos sintéticos . A cruzaína e a cruzipaína 2 diferem substancialmente na especificidade para os subsítios S2, S1’ e S2’ .
+
+
+== Função Biológica e Importância Farmacológica ==
+Vários estudos mostram que a cruzipaína desempenha papel essencial em diferentes processos do ciclo biológico do T. cruzi, tais como crescimento, diferenciação e sobrevivência no organismo hospedeiro. Além disso, a cruzipaína é de extrema importância na modulação da resposta imune frente à infecção , destacando-se assim como potencial alvo para produção de drogas e vacinas . 
+
+
+== Inibidores ==
+Uma série de estudos mostra que os inibidores de cisteíno proteases são capazes de interferir drasticamente em diversas etapas do ciclo biológico de T. cruzi . A classe das cisteíno proteases possui diferentes tipos de inibidores, podendo eles ser endógenos, produzidos pelas células hospedeiras ou sintéticos.
+
+
+== Inibidores endógenos ==
+
+
+=== Chagasina ===
+Nos últimos anos, diversos estudos descreveram a presença de atividade inibitória das cisteíno proteases em extratos de parasitos, como Leishmania e T. cruzi . Em 2001, Monteiro e colaboradores isolaram e caracterizaram o inibidor chagasina como um inibidor reversível com alta afinidade para cisteíno proteinases da classe das papaínas .
+A chagasina é codificada por um único gene, expresso em diferentes níveis entres as diferentes formas de T. cruzi, dando origem a uma proteína de 12 KDa . A falta de similaridade de seqüência com qualquer outro grupo conhecido de inibidores de cisteíno proteases sugere que a chagasina represente uma nova classe de inibidores de cisteíno peptidases .
+
+
+=== Pró-peptídeo ===
+Alguns estudos sugerem que o domínio pró, localizado na região N-terminal da enzima inativa, também atue como um potente inibidor da forma madura das cisteíno proteases . 
+
+
+== Inibidores produzidos pelas células hospedeiras ==
+As cisteíno proteases são reguladas por inibidores naturais reversíveis produzidos por diversas células de mamíferos. Estes inibidores pertencem à superfamília cistatina de proteínas homólogas, que pode ser divida em três famílias distintas: família das estefinas, família das cistatinas e família dos cininogênios.
+A família das estefinas é composta por proteínas de cadeia única que não possuem pontes dissulfeto e carboidratos. As estefinas são estáveis em pH neutro e em faixas de pH alcalino, assim como ao calor. São potentes inibidores competitivos reversíveis das cisteíno proteases . 
+A principal característica dos inibidores da família cistatina é a presença de duas pontes dissulfeto localizadas na porção C-terminal. Essas proteínas ocorrem em relativamente altas concentrações em muitos fluidos biológicos, como no sêmen humano e no fluido cérebro-espinhal e em concentrações mais baixas em outros fluidos, como o plasma, a saliva e a urina . 
+Os cininogênios são conhecidos como as proteínas precursoras das cininas vasoativas e como participantes da cascata de coagulação sanguínea. Além disso, seu papel na inflamação e na inibição das cisteíno proteases do tipo-papaína demonstram sua notória natureza multifuncional . Os cininogênios são conhecidos como os principais inibidores fisiológicos dascisteíno proteases, devido a sua alta afinidade por essas enzimas e as suas elevadas concentrações plasmáticas .
+
+
+== Inibidores Sintéticos ==
+A elucidação da estrutura cristalográfica do domínio catalítico da cruzaína permitiu o desenho racional de moléculas sintéticas, capazes de agirem sobre as cisteíno proteases como inibidoresde alta eficácia e baixa toxicidade .  
+Nos últimos anos, vários inibidores peptídicos irreversíveis de cisteíno proteases foram desenvolvidos, incluindo peptidil-halometilcetonas, peptidil-diazometilcetonas, peptidil-epóxidosepeptidil-vinilsulfonas .
+Em 1998, Engel e colaboradores  mostraram que o uso dos inibidores sintéticos pseudopeptídicos derivados de fluorometilcetona ou vinilsulfona foi capaz de combater a infecção por T. cruzi em um modelo experimental murino. O tratamento dos animais conseguiu salvá-los do efeito letal da infecção experimental de fase aguda e também zerar a parasitemia nos animais cronicamente infectados, sem causar toxicidade às células hospedeiras.
+Uma série de moléculas não-peptídicas também tem sido alvo de estudos. Apesar dos inibidores peptídicos apresentarem alta eficácia e baixa toxicidade, os inibidores não-peptídicos são capazes de apresentar maior biodisponibilidade oral. A natureza não peptídica desses inibidores em associação com seu baixo custo de síntese, fazem destes compostos novos candidatos para o desenvolvimento de uma efetiva terapia tripanocida . 
+
+
+== Referências ==

@@ -1,0 +1,35 @@
+A eletroforese em gel é uma técnica de separação de moléculas que envolve a migração de partículas em um determinado gel durante a aplicação de uma diferença de potencial. As moléculas são separadas de acordo com o seu tamanho, pois as de menor massa irão migrar mais rapidamente que as de maior massa. Em alguns casos, o formato da moléculas também influi, pois algumas terão maior facilidade para migrar pelo gel.
+A eletroforese normalmente é utilizada para separar proteínas e moléculas de DNA e RNA.
+
+
+== Funcionalidade ==
+Cada molécula de proteína se liga a um grande número de moléculas do detergente dodecil sulfato de sódio (SDS) carregado negativamente, que supera a carga intrínseca da proteína e faz com que ela migre em direção ao elétrodo positivo, quando uma tensão é aplicada. As proteínas do mesmo tamanho tendem a migrar através do gel com velocidades similares, pois sua estrutura nativa será completamente desdobrada pelo SDS, de maneira a que elas se liguem a uma mesma quantidade de SDS tendo, portanto, a mesma quantidade de cargas negativas. As proteínas maiores, com mais carga, são submetidas a forças elétricas maiores e também a um retardamento maior. Livres em solução, os dois efeitos seriam anulados, mas nas malhas do gel poliacrilamida, que age como uma peneira molecular, as proteínas maiores são retardadas muito mais do que as menores. Como resultado, uma mistura complexa de proteínas é fracionada em uma série de diferentes bandas de proteínas arranjadas de acordo com sua massa molecular. As proteínas majoritárias são facilmente detetadas corando-se as proteínas do gel com um corante como o azul Coomassie, e mesmo as proteínas menos abundantes são visualizadas em géis tratados com coloração de prata ou ouro (com o qual pequenas quantidades, como 10 ng de proteína, podem ser detetadas em uma banda).
+
+
+== Tipos de eletroforese ==
+
+
+=== Eletroforese em gel de agarose ===
+Nesse caso, a agarose é utilizada como gel para a eletroforese. A agarose é um polissacarídeo e forma uma rede que prende as moléculas durante a migração. Dependendo da concentração de agarose, há uma diferença no gradiente de separação, isto é, quanto maior a concentração de agarose, menor o tamanho dos poros e maior a dificuldade da migração dos fragmentos de DNA e de RNA, aumentando o tempo de migração.
+Para preparar um gel de agarose, faz-se a mistura entre o pó de agarose e a solução tampão TBE ou TAE. Após a solidificação do gel, coloca-se brometo de etídio, que fará o DNA e o RNA "brilhar" quando exposto ao UV. A menores temperaturas o gel ganha consistência. Um detalhe fundamental é a colocação do pente no gel durante o endurecimento. O pente cria poços que serão utilizados para a colocação das amostras de DNA e RNA.
+Podemos ver este processo como uma corrida. Cada um é colocado numa pista e na presença de uma corrente elétrica vai deixando o seu rastro. São estes rastros que vamos comparar.
+
+
+=== Eletroforese em gel de poliacrilamida (PAGE, de polyacrylamide gel electrophoresis) ===
+O gel de poliacrilamida também pode ser utilizado para separação de moléculas na eletroforese.  A poliacrilamida é feita pela polimerização de dois polímeros: acrilamida e bisacrilamida. O gel geralmente é montado na vertical, assim várias amostras podem ser analisadas nos poços que são montados durante o preparo do gel. O tampão que é utilizado é o mesmo no gel e na cuba de eletroforese e tem pH de aproximadamente 9 para proteínas, assim as macromoléculas ficam com suas cargas negativas e migram em direção ao anôdo. A acrilamida é uma molécula linear, enquanto a bisacrilamida tem forma de "T". Misturando essas duas moléculas, ocorre a formação de uma "rede". Diferentes relações entre as concentrações dessa moléculas permitem a criação de diferentes tamanhos de poros dessa "rede".Para preparar um gel de poliacrilamida, devem-se misturar as duas substâncias formadoras nas concentrações desejadas, colocá-las em um suporte de vidro, e adicionar TEMED e persulfato de amônio, que atuam como catalisadores da polimerização induzida por radicais livres resultantes da decomposição química do persulfato de amômio, enquanto o TEMED estabiliza esses radicais livres gerados.
+
+
+=== Eletroforese desnaturante ===
+Normalmente feita em gel de agarose, inclui um agente desnaturante (normalmente ureia), o que ajuda a tornar a separação melhor entre moléculas que apresentam diferenciação em suas estruturas secundárias.
+
+
+=== Eletrofrese capilar ===
+Funciona como a eletroforese normal, porém o gel e a amostra estão dentro de um capilar e a amostra é detetada automaticamente. Este processo é atualmente utilizado em sequenciadores de DNA.
+
+
+== Ver também ==
+Eletroforese bidimensional
+Reação em cadeia da polimerase (PCR)
+
+
+== Referências ==

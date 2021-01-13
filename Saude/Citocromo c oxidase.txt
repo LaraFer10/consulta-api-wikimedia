@@ -1,0 +1,18 @@
+A enzima citocromo c oxidase ou complexo IV é um complexo proteico transmembranar que pode ser encontrado em bactérias e nas mitocôndrias, presente na cadeia transportadora de elétrons. A cadeia transportadora de elétrons é formada por quatro complexos, sendo o complexo IV o último. Nesse complexo a citocromo c oxidase catalisa a oxidação de 4 moléculas de citocromo c reduzidas e a redução de elétrons de uma molécula de O2.
+
+
+== Função ==
+É a última proteína da cadeia transportadora de elétrons. Recebe um elétron de cada uma das moléculas de citocromo c e transfere-os para uma molécula de oxigénio, convertendo assim o oxigênio molecular em duas moléculas de água. Neste processo, dá-se a translocação de quatro prótons, que ajudam à formação de um potencial quimiosmótico que é usado pela ATP sintase para a formação de ATP.
+Fora dos dois primeiros complexos, os elétrons de NADH e FADH2, percorrem exatamente a mesma rota. Tanto o complexo I quanto o complexo II passam seus elétrons para um pequeno e ágil transportador de elétrons chamado ubiquinona (Q), que é reduzido para formar QH​2, e atravessa a membrana entregando os elétrons ao complexo III. Conforme os elétrons percorrem o complexo III, mais íons H+ íons são bombeados através da membrana, e os elétrons são finalmente entregues a outro transportador, chamado citocromo C (cit C). O cit C carrega os elétrons até o complexo IV, onde um último grupo de íons H+ é bombeado através da membrana. O complexo IV passa os elétrons para o O2 que se divide em dois átomos de oxigênio que aceitam prótons da matriz, formando água. São necessários quatro elétrons para reduzir cada molécula de O2​, e duas moléculas de água são formadas no processo.
+
+
+== Reacção ==
+A reação, sumarizada, é a seguinte:
+
+4 Fe2+-citocromo c + 8 H+dentro + O2 → 4 Fe3+-citocromo c + 2 H2O + 4 H+fora
+O complexo IV (citocromo c oxidase) recebe elétrons do citocromo c e transfere-os para a molécula de oxigênio, reduzindo-a a H2O. Para efectuar essa transferência, o complexo IV possui dois hemos e três átomos de Cu (distribuídos por um centro binuclear denominado CuA e um centro CuB acoplado a um dos hemos). citocromo c transfere o seu elétron para o centro  CuA . Este elétron segue então para o  hemo a, e deste para o  hemo aa3, que se encontra acoplado ao CuB. Em conjunto, este hemo e o CuB podem armazenar os quatro elétrons necessários para a redução do O2 a água. Os prótons necessários provêm da matriz. Tal como no complexo I e no complexo III, esta transferência eletrônica resulta portanto na diminuição da concentração de H+ na matriz relativamente ao espaço intermembranar.
+
+
+== Ligações externas ==
+Thermodynamic and choreographic constraints for energy transduction by cytochrome c oxidase
+Bibliography on structural studies of Class III cytochromes c

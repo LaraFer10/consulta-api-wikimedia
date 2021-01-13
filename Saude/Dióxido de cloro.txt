@@ -1,0 +1,29 @@
+Dióxido de cloro é um composto químico com a fórmula ClO2. Este gás verde-amarelado cristaliza como cristais laranjas a −59 °C. Como um dos vários óxidos de cloro, é um potente e usual agente oxidante usado em tratamento de água e alvejamentos diversos.
+
+
+== Usos ==
+Dióxido de cloro é usado primariamente (>95%) para branqueamento de polpa de madeira, onde 95 % da produção mundial é utilizada, mas é também usado no alvejamento de farinha e para a desinfecção de água e outros, aplicação na qual uma muito menor quantidade de dióxido de cloro é usada.
+
+
+== Produção ==
+Em laboratório, o ClO2 é preparado por oxidação de clorito de sódio:
+2NaClO2  +  Cl2  →  2ClO2  +  2 NaClEm escala industrial é produzido com alta eficiência por redução do clorato de sódio em um ácido forte com um agente redutor disponível tais como o ácido clorídrico e dióxido de enxofre. A reação do clorato de sódio com o ácido clorídrico ocorre em um reator via os seguintes passos:
+
+HClO3 + HCl  → HClO2  + HOCl
+HClO3  + HClO2 →  2ClO2  +  Cl2 + 2H2O
+HOCl + HCl   →   Cl2  +  H2ODesde 1999 uma crescente proporção do dióxido de cloro fabricado globalmente para tratamento de água e outras menores aplicações tem sido feitas usando o método com clorato, peróxido de hidrogênio e ácido sulfúrico, o qual pode produzir um produto de cloro livre em alta eficiência.
+Tradicionalmente, o dióxido de cloro para aplicações em desinfecção tem sido feito por um dos três métodos usando o método com clorito de sódio ou clorito de sódio-hipoclorito de sódio:
+Método clorito
+
+2NaClO2 + 2HCl + NaOCl → 2ClO2 + 3NaCl + H2OMétodo clorito-hipoclorito
+
+5NaClO2 + 4HCl → 5NaCl + 4ClO2Todos os três processos químicos envolvendo clorito de sódio podem produzir dióxido de cloro com alta conversão de clorito, porém o método clorito-HCl sofre da necessidade de 25% mais clorito para produzir a quantidade equivalente de dióxido de cloro.
+Geradores catalítico de dióxido de cloro produzem rendimentos extremamente altos de conversão (>98.5%). Nestes sistemas, a solução é passada através de uma coluna de troca iônica. O processo de troca iônica rende ácido cloroso, o qual é então passado através de uma coluna de catalisador propiciando a conversando a dióxido de cloro. A vantagem deste sistema é que baixas concentrações de dióxido de cloro podem ser produzidas diretamente ao ponto de aplicação.
+Dióxido de cloro também pode ser produzido por eletrólise de uma solução de clorito:
+
+2NaClO2 + 2H2O   →   2ClO2 + 2NaOH + H2Dióxido de cloro em gás de alta pureza (7.7% em ar ou nitrogênio) pode ser produzido pelo método Gás-Sólido, no qual reage-se gás cloro diluído com clorito de sódio sólido.
+
+2NaClO2 + Cl2   →   2ClO2 + 2NaClEstes processos e algumas leves variações têm sido estudadas e revistos.
+
+
+== Referências ==

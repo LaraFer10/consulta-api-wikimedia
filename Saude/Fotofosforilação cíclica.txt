@@ -1,0 +1,32 @@
+A Fotofosforilação cíclica é uma reação que ocorre na fase clara da fotossíntese e necessita diretamente da energia luminosa. Ocorre nos tilacóides dos cloroplastos.
+
+
+== Processo Simplificado ==
+O processo pode ser entendido de forma simplificada quando ocorre a excitação dos cloroplastos pela luz, e liberam elétons(e-) onde são "capturados" pela Adenosina-difosfato ou ADP, que se liga a um Pi(fosfato inorgânico) gerando Adenosina-trifosfato ou ATP.
+
+               e- + Pi + ADP → ATP
+
+
+== O Processo Geral ==
+Primeiramente a luz solar incide na folha da planta, onde há presença de cloroplastos e do pigmento clorofila. Excitada, a clorofila libera elétrons. O aceptor eletrófilo Nicotinamida-adenina-dinucleotídeo-fosfato conhecido como NADP+ captura esses elétrons livres. Após essa ligação o NADP+ perde a valência tornando-se NADP.
+
+          NADP+ + e-  → NADP
+
+A energia liberada na quebra do NADP é utilizada na ligação do ADP ao Pi.
+
+           NADP → NADP+ + e- + energia
+
+           energia + ADP + Pi → ATP
+
+O elétron novamente livre retorna a molécula de clorofila após ter sido usado na produção de ATP, por isso denomina-se essa fase como cíclica, pelo eventual retorno e reutilização dos eletróns.
+
+
+== Referências ==
+
+Arnaldo, José Favaretto & Mercadante, Clarinda - Biologia Moderna, 1999, pág. 100
+Paulino, Wilson Roberto - Biologia Atual, 1989, pág. 122
+
+
+== Ver também ==
+Fotofosforilação acíclica
+Fotossíntese

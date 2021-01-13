@@ -1,0 +1,31 @@
+A concentração do fármaco que induz metade do efeito máximo (EC50) refere-se à concentração na qual uma droga, anticorpo ou toxina induz uma resposta na metade entre a taxa inicial e a máxima após um tempo especificado de exposição. É usada normalmente como medida da potência de uma droga
+O EC50  de uma curva de dose-resposta graduada representa a concentração do composto para qual 50% do efeito é observado. 
+O EC50  de uma curva de dose-reposta quantal representa a concentração para qual 50% da população exibe uma resposta, após uma duração de exposição especificada.
+Ele é também relacionado com o IC50, que é uma media da inibiçãode um composto (50% de inibição). Para ensaios de ligação competitiva e ensaios de agonistas funcionais, o IC50 é a medição sumária mais comum da curva de dose-reposta. Para ensaios de agonista/estimulador a medição sumária mais comum é o  EC50.Uma pequena mudança na concentração den ligante tipicamente resulta em mudanças rápicas em sistemas biológicos, seguindo uma função sigmoidal .O ponto de inflexão no qual o aumento na resposta com aumento na concentração de ligante começa a diminuir é o EC50, que pode ser determinado matematicamente como uma derivação dada linha de correlação. Enquanto contar com um gráfico para estimativas é mais conveniente, esse método típico rende resultados menos acurados e menos precisos.
+
+
+== Equação ==
+Muitas equações diferentes podem ser usadas para derivar um EC50. Uma função possível é:
+onde Y é o valor observado, Bottomé o menor valor observado, Top é o maior valor observado, e o coeficiente de Hill fornece o maior valor absoluto do declive da curna.
+
+
+== Limitações ==
+Os efeitos de um estressor ou droga dependem, de forma geral, do tempo de exposição. Sendo assim, o EC50 ( e estatísticas semelhantes) ocorrerão em função do tempo de exposição. O formato exato dessa função do tempo vai depender do estressante, do mecanismo de ação, do organismo exposto, etc. Essa dependência temporal dificulta a comparação de potência ou toxicidade entre compostos e entre diferentes organismos.
+
+
+== Veja também ==
+Medição de concentração de poluentes
+Relação dose-resposta
+Fator de segurança certeiro
+IC50 (50% da concentração inibitória máxima)
+LD50 (Dose letal mediana)
+Índice terapêutico
+
+
+== Referências ==
+
+
+== Ligações externas ==
+Online IC50 Calculator (em inglês)
+Determination of IC50 values (em inglês)
+Neubig et al. International Union of Pharmacology Committee on Receptor Nomenclature and Drug Classification. XXXVIII. Update on terms and symbols in quantitative pharmacology. Pharmacol Rev. 2003 Dec;55(4):597-606. (em inglês)

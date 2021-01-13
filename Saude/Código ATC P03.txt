@@ -1,0 +1,66 @@
+O Código ATC P03 (Ectoparasitocidas, incluindo escabicidas, insecticidas e repelentes) é um subgrupo terapêutico da classificação ATC (Anatomical Therapeutic Chemical Classification System), um sistema de códigos alfanuméricos desenvolvido pela Organização Mundial da Saúde (OMS) para classificar medicamentos e outros produtos médicos. O subgrupo P03 faz parte do grupo anatômico P (antiparasitários, insecticidas e repelentes).
+
+
+== P03A Ectoparasiticidas, incluindo escabicidas ==
+
+
+=== P03AA Produtos contendo enxofre ===
+P03AA01 Dixantógeno
+P03AA02 Polissulfeto de potássio
+P03AA03 Mesulfeno
+P03AA04 Disulfiram
+P03AA05 Thiram
+P03AA54 Disulfiram, associações
+
+
+=== P03AB Produtos contendo cloro ===
+P03AB01 Clofenotano
+P03AB02 Lindano
+P03AB51 Clofenotano, associações
+
+
+=== P03AC Piretrinas, incluindo compostos sintéticos ===
+P03AC01 Piretro
+P03AC02 Bioaletrina
+P03AC03 Fenotrina
+P03AC04 Permetrina
+P03AC51 Piretro, associações
+P03AC52 Bioaletrina, associações
+P03AC53 Fenotrina, associações
+P03AC54 Permetrina, associações
+
+
+=== P03AX Outros ectoparasiticidas, incluindo escabicidas ===
+P03AX01 Benzoato de benzila
+P03AX02 Oleinato de cobre
+P03AX03 Malation
+P03AX04 Quassia
+P03AX05 Dimeticona
+P03AX06 Álcool benzílico
+
+
+== P03B Inseticidas e repelentes ==
+
+
+=== P03BA Piretrinas ===
+P03BA01 Ciflutrina
+P03BA02 Cipermetrina
+P03BA03 Decametrina
+P03BA04 Tetrametrina
+
+
+=== P03BX Outros inseticidas e repelentes ===
+P03BX01 Dietiltoluamida
+P03BX02 Dimetilftalato
+P03BX03 Dibutilftalato
+P03BX04 Dibutilsuccinato
+P03BX05 Dimetilcarbato
+P03BX06 Etoexadiol
+
+
+== Ver também ==
+Classificação ATC
+Código ATC P: Produtos antiparasitários, insecticidas e repelentes
+
+
+== Referências ==

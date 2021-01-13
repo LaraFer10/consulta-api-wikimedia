@@ -1,0 +1,70 @@
+Tiossulfato de sódio, é frequente a grafia de tal sal como tiosulfato, também chamado erradamente de hipossulfito de sódio (ver nota abaixo), que na forma anidra tem fórmula Na2S2O3, tem aspecto sólido cristalino, de cor branca e é utilizado na indústria fotográfica (daí seu arcaico nome de "hipo dos fotógrafos") na formulação de banhos fixadores. Também é utilizado em curtumes, nos processos de curtidura ao cromo.
+Ele também pode ser usado para remoção rápida de cloro da água a ser usada em aquários.
+Nota: O verdadeiro hipossulfito de sódio é o composto químico de fórmula Na2S3O4, que é o sal sódico do ácido hipossulfuroso (H2S3O4), mas comercialmente, para o produto de grau de pureza dito técnico, amplamente utilizado na indústria, a nomenclatura antiga sobreviveu.
+
+
+== Produção industrial e síntese laboratorial ==
+Numa escala industrial, o tiossulfato de sódio é produzido principalmente a partir de efluentes líquidos da fabricação do sulfeto de sódio ou corantes ao enxofre.Sínteses de pequena escala podem ser feitas por fervura de soluções de sulfeto de sódio ou sulfito de sódio com enxofre.
+
+Na2SO3 + S → Na2S2O3A fervura das soluções de sulfeto de sódio com enxofre levam também a produção do polissulfeto de sódio, NaSn, utilizado na redução de alguns organonitrados à aminas.
+Assim, o ânion S2O32− representa uma forma solúvel em água do elemento enxofre.
+
+
+== Principais reações e aplicações ==
+O ânion tiossulfato caracteristicamente reage com ácidos diluídos produzindo enxofre, dióxido de enxofre e água:
+S2O32−(aq) + 2H+(aq) → S(s) + SO2(g) + H2O(l)Esta reação tem sido empregada para produzir enxofre coloidal. Quando a protonação é conduzida a baixas temperaturas, H2S2O3 (ácido tiossulfúrico) pode ser obtido. Ele é um ácido forte de pKa = 0.6, 1.7.
+
+
+=== Iodimetria ===
+Em química analítica, o mais importante uso advém do fato que o ânion tiossulfato reage estequiometricamente com o iodo, reduzindo-o a iodeto como ele é oxidado a tetrationato:
+
+2 S2O32−(aq) + I2(aq) → S4O62−(aq) + 2 I−(aq)
+
+
+=== Processamento fotográfico ===
+O átomo terminal de enxofre em S2O32− liga-se a "metais macios" com alta afinidade. Então dissolve haletos de prata, e.g. AgBr, o qual é um componente de emulsões fotográficas:
+
+2 S2O32−  +  AgBr  →  [Ag(S2O3)2]−)  +  Br-Nesta aplicação em processamento fotográfico, descoberto por John Herschel e usado tanto em processamento de película fotográfica quanto papel, o tiossulfato de sódio é conhecido como um fixador fotográfico.
+
+
+=== Extração de ouro ===
+Tiossulfato de sódio é um componente de um lixiviante alternativo ao cianeto para  extração de ouro. Ele forma um complexo forte com íons ouro (I), [Au(S2O3)2]3−. A vantagem desta abordagem é que o tiossulfato é essencialmente não tóxico e que certos tipos de minerais são refratários à cianetação de ouro (e.g. carbonácios ou minérios do tipo Carlin) podendo ser lixiviados por tiossulfato. Alguns problemas com este processo alternativo incluem o alto consumo de tiossulfato, e a ausência de uma técnica de recuperação adequada, já que [Au(S2O3)2]3− não adsorve a carvão ativado, a qual é a técnica padrão usada na cianetação de ouro para separar o complexo de ouro da lama de minério.
+
+
+=== Química analítica ===
+Tiossulfato de sódio é também usado em química analítica. Podem quando aquecido com uma amostra contendo cátion alumínio, produzir uma precipitação branca:
+
+2 Al3+ + 3 S2O32− + 3 H2O → 3 SO2 + 3 S + 2 Al(OH)3
+
+
+== Medicina ==
+É usado como um antídoto ao envenenamento por cianeto. Tiossulfato atua como um doador de enxofre par a conversão de cianeto em tiocianato (o qual pode ser excretado com segurança na urina), catalisado pela enzima rodonase.
+É também usado como tratamento de calcifilaxia em pacientes de hemodiálise com estágio final de doença renal.
+É usado no controle de extravasamentos de urina durante quimioterapia. O tiossulfato de sódio previne a alquilação e destruição de tecidos por prover um substrato para os agentes de alquilação que tenham invadido os tecidos subcutâneos. A dose pode ser 2mL de 0.17M (uma solução de 4mL de tiossulfato de sódio a 10% e 6mL de água esterilizada por injeção). Pode ser instilado por via subcutânea em locais múltiplos, utilizando uma agulha de calibre pequeno. Há dados limitados sobre este método, com algumas recomendações.
+Em banhos para os pés para a profilaxia de dermatofitose e como um agente antimicótico tópico para a pitiríase versicolor.
+na medição do volume de fluidos extracelulares e da taxa de filtração glomerular renal.
+
+
+== Outros usos ==
+Tiossulfato de sódio é também usado:
+
+Como um componente em aquecedores de mão e outros produtos químicos de almofadas de aquecimento que produzem calor, por cristalização exotérmica de uma solução super-resfriada.
+Em alvejamento (branqueamento)
+Em testes de pH de substâncias de branqueamento. O indicador universal e quaisquer outros indicadores de pH líquidos são destruídos por alvejantes, tornando-os inúteis para testar o pH. Se primeiro adiciona-se tiossulfato de sódio em tais soluções, ele irá neutralizar os efeitos de remoção da cor do alvejante e permitirá que teste-se o pH das soluções de branqueamento com indicadores líquidos. A reação relevante é semelhante à reação com o iodo: tiossulfato reduz o hipoclorito (ingrediente ativo em alvejante) e ao fazê-lo torna-se oxidado a sulfato. A reação completa é:4 NaClO  +  Na2S2O3  +  2 NaOH  →  4 NaCl  +  2 Na2SO4  +  H2OPara a decloração da água da torneira para aquários ou tratamento de efluentes de tratamentos de águas residuais antes do lançamento em rios. A reação de redução é análoga à reação de redução de iodo. O tratamento de água da torneira requer entre 0,1 gramas e 0,3 gramas de tiossulfato de sódio pentaidratado (cristalino) para cada 10 litros de água.
+Para baixar os níveis de cloro em piscinas e spas de excessiva cloração.
+Para remover manchas de iodo, e.g. após a explosão de triiodeto de nitrogênio.
+Similarmente, tiossulfato de sódio reage com bromo para tornar produtos inofensivos. As soluções de tiossulfato de sódio são geralmente usadas como uma precaução em laboratórios de química quando se trabalha com bromo.
+Em avaliações bacteriológicas de águas.
+No curtimento de couro.
+Para demonstrar o conceito de taxa de reação no ensino de química. O íon tiossulfato pode decompor-se em íon sulfito e uma suspensão coloidal de enxofre, a qual é opaca. A equação para esta reação catalisada por ácido é a seguinte:S2O32−(aq) → SO32−(aq) + S(s)Para demonstrar o conceito de super-resfriamento em aulas de Física. Fundindo tiossulfato é muito fácil resfriá-lo em excesso à temperatura ambiente e quando a cristalização é forçada, a temperatura salt bruscamente para 48,3 °C podendo ser experimentada pelo tato.
+Como parte de receitas de pátina para ligas de cobre.
+Frequentemente utilizado em preparações farmacêuticas como um surfactante aniónico para ajudar na dispersão.
+Também pode ser utilizado como um soluto muito interessante em experiências sobre supersaturação.
+Como um aditivo para o sal de cozinha, em alternativa à dextrose, para estabilizar o iodeto de potássio, como no de sal iodado em pequenos pacotes industrializado para consumo em restaurantes.
+
+
+== Referências ==
+
+
+== Ligações externas ==
+Dados Gerais e de Segurança sobre Tiossulfato de sódio em www.qca.ibilce.unesp.br

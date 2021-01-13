@@ -1,0 +1,31 @@
+Lin-28 homóloga A é uma proteína que, em humanos, é codificado pelo gene LIN28.
+LIN28 codifica uma proteína de ligação de RNA que liga e aumenta a tradução do IGF-2 (insulin-like growth fator 2) do mRNA. Lin28 liga com o let-7 pré-microRNA e bloqueia a produção do let-7 microRNA maduro nas células-tronco embrionárias de rato. No embrião pluripotente de células de carcinoma, LIN28 está localizada nos ribossomos, P-bodies e stress granules.
+
+
+== Função ==
+
+
+=== Expressão de células-tronco ===
+LIN28 é utilizado para regular a auto-renovação das células-tronco. Em Caenorhabditis elegans, há apenas um gene Lin28 que se expressa e em vertebrados, existem dois homólogos presentes, Lin28a e Lin28b. No nematóide, o LIN28 homólogo é um gene heterocrônico que determina o aparecimento dos primeiros estágios larvares de eventos do desenvolvimento em C. elegans, regulando-se a auto-renovação  de células-tronco na pele (chamado de células de costura) e vulva (chamado de VPCs) durante o desenvolvimento do nematóide. Em ratos, LIN28 é altamente expresso nas células-tronco embrionárias e, durante o início da embriogênese.LIN28 é altamente expressa em células-tronco embrionárias humanas e pode aumentar a eficiência da formação de células-tronco pluripotentes induzidas (iPS) a partir fibroblastos humano.
+
+
+=== Puberdade ===
+A super expressão de LIN28 em ratos pode causar gigantismo e um atraso do início da puberdade , consistente com os estudos genéticos associados a humanos , sugerindo que os polimorfismos humanos estão associadas à altura e tempo de puberdade. As mutações no LIN28B estão associados com puberdade precoce.LIN28 pode regular a homeostase da glicose em mamíferos através do aumento de insulina-PI3K-mTOR a sinalização e a sensibilidade à insulina, promovendo, assim, a resistência ao alto teor de gordura, dieta induzida pela obesidade e diabetes tipo 2. Super expressão de LIN28 tem sido visto para regular a glicólise aeróbica para facilitar a proliferação do câncer
+
+
+=== A regeneração de tecidos ===
+Os ratos geneticamente modificados para produzir LIN28 durante seu tempo de vida apresentaram melhor crescimento do pelo e regeneração de tecidos saudáveis em perfurações adicionado em fases posteriores da vida.  Os ratos puderam regenerar membros, mas não tecidos do coração. Drogas apropriadas replicam a regeneração em camundongos inalterados, usando os mesmos caminhos metabólicos. As drogas aumentaram as taxas metabólicas dos ratos, evidentemente fazendo com que o corpo se cure a taxas mais elevadas. Os efeitos da ativação do Lin28a fica mais fraca com a idade.
+
+
+== Estrutura ==
+A estrutura cristalográfica do complexo  Lin28/let-7 revelam que dois domínios de Lin28 reconhecem dois tipos de região de RNA. Os domínios são suficientes para a inibição de let-7 in vivo.
+
+
+== Aplicações ==
+LIN28 é um marcador de indiferenciação embrionárias de células-tronco humana e tem sido utilizado para aumentar a eficiência da formação de células iPS a partir de fibroblastos humanos.
+
+
+== Referências ==
+
+
+== Leitura complementar ==

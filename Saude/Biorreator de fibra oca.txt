@@ -1,0 +1,20 @@
+Um biorreator de fibra oca (HFB) é um sistema tridimensional de cultura de células com perfusão contínua de alta densidade que oferece um ambiente semelhante ao in vivo através da  utilização de fibras porosas que mimetizam os capilares sanguíneos. Seu mecanismo consiste em um feixe de tubos porosos semipermeáveis (fibras ocas) dispostos paralelamente, contidos em um cilindro externo. Entre as fibras e o cilindro fica o espaço extracapilar (EEC), onde usualmente ficam retidas as células. No interior das fibras, no chamado espaço intracapilar, ocorre o escoamento do meio de cultura, no qual os nutrientes ali contidos podem se difundir através dos poros das fibras até o EEC. Ademais, os dejetos metabólicos gerados pelas células podem retornar ao interior das fibras e seguir juntamente com o fluxo do meio.A cultura de células animais à base de fibra oca foi desenvolvida pela primeira vez por Richard Knazek no National Institutes of Health (NIH) em 1972 porém esse tipo de biorreator só atingiu seu pico de popularidade entre os anos 1970 a 1980, quando foram empregados na fabricação de anticorpos monoclonais.
+
+
+== Características ==
+Esse tipo de biorreator apresenta propriedades muito interessantes, principalmente devido ao fato de que as células estão ligadas a um suporte poroso. A geometria do HFB oferece muitos benefícios, incluindo excelentes propriedades de transferência de massa, devido ao pequeno diâmetro das fibras (cerca de 200 mícrons) que gera uma razão imensamente alta entre área de superfície de troca de massa e volume do biorreator, compactação, redução de apoptose celular, densidades celulares produtivas semelhantes ao tecido in vivo, altas taxas de troca de gases, nutrientes e metabólitos primários e secundários, baixas taxas de cisalhamento e estresse mecânico. Além disso,  as culturas neste sistema têm a capacidade de manter a viabilidade celular e o metabolismo produtivo de uma maneira pós-confluente por longos períodos de tempo (meses ou mais), e dependendo da porosidade da fibra, os produtos desejados podem ser retidos em concentrações significativamente maiores do que em reatores convencionais.
+
+
+== Aplicações ==
+Biorreatores de fibra oca são meios eficazes para ensaios in vitro e adequados para a manutenção de diversos tipos de células dependentes de ancoragem, tendo sido amplamente utilizados em cultivos de células animais, vegetais, leveduras e reações enzimáticas e para a geração de uma grande variedade de produtos, como anticorpos monoclonais e proteínas recombinantes.
+
+
+== Parâmetros operacionais ==
+O projeto e a otimização dos parâmetros operacionais nos HFBs são cruciais para que o ambiente de reação possa corresponder o mais próximo possível ao ambiente físico, químico e biológico ideal para cada tipo de célula. Alguns parâmetros a serem considerados envolvem as condições de cultura, como temperatura, tipo de célula, nutrientes, produtos residuais e concentrações de metabólitos, bem como parâmetros de otimização de transporte de massa e oxigênio, o que muitas vezes envolvem a geometria do HFB (por exemplo, o diâmetro das fibras, o espaçamento interfibras, o raio e o comprimento do biorreator). Além disso, deve-se considerar os parâmetros das membranas porosas das fibras ocas, que incluem a porosidade, o tamanho dos poros, a permeabilidade, entre outras propriedades físico-químicas da membrana e os parâmetros de fluxo, como por exemplo, o regime de fluxo (estável ou pulsátil), a taxa de perfusão e as propriedades do fluido.
+
+
+== Ver também ==
+Reator biológico
+
+
+== Referências ==

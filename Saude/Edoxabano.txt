@@ -1,0 +1,96 @@
+
+== Edoxabano ==
+Edoxabano (nome comercial Lixiana®) é um fármaco anticoagulante oral que atua como inibidor direto do fator Xa da cascata da coagulação. Foi desenvolvido pela Daiichi Sankyo e aprovado em julho de 2011 no Japão para prevenção do tromboembolismo venoso (TEV) após cirurgia ortopédica dos membros inferiores. Foi aprovado em janeiro de 2015 pela Food and Drug Administration (FDA) para a prevenção de acidente vascular cerebral (AVC) e embolismo sistémico (ES) nos doentes com fibrilhação auricular. Foi aprovado em julho de 2015 pela Agência Europeia do Medicamento (EMA), com as mesmas indicações. Não está aprovado pela FDA ou EMA para utilização na cirurgia ortopédica.
+O Edoxabano pertence a uma classe terapêutica de anticoagulantes orais diretos (DOACs) que surgiram nos anos 2000: em 2008 o Dabigatrano (inibidor do fator IIa, Pradaxa®), em 2008 o Rivaroxabano (inibidor do fator Xa, Xarelto®) e em 2011 o Apixabano (inibidor do fator Xa, Eliquis®). Os estudos científicos efetuados para avaliar os perfis de eficácia e segurança destes fármacos comparam os mesmos em relação a doentes-controlo medicados com Varfarina. Em contraste com os antivitaminicos K (AVK), nenhum destes fármacos exige a medição de parâmetros da coagulação para controlo dos níveis de hipocoagulação.
+A terapêutica anticoagulante aumenta o risco de hemorragia. Os doentes a tomar este tipo de medicamento deverão ser acompanhados por um médico.
+
+
+=== Evidência Científica ===
+O estudo ENGAGE AF-TIMI 48 procurou avaliar o perfil de eficácia e segurança do Edoxabano em relação à Varfarina em doentes com fibrilhação auricular não-valvular e risco aumentado de ocorrência de AVC (CHADS2 ≥ 2) . O Edoxabano revelou-se não inferior à Varfarina em eficácia, com redução de 21% do risco relativo de AVC e ES. O Edoxabano revelou-se superior à Varfarina em segurança, com redução de 20% do risco relativo de hemorragia major (de acordo com os critérios do ISTH).
+O estudo HOKUSAI-VTE procurou avaliar o perfil de eficácia e segurança do Edoxabano em relação à Varfarina em doentes com ocorrência prévia comprovada de TEV. Na prevenção de trombose venosa profunda (TVP) e ES (embolismo sistémico) o Edoxabano revelou-se não inferior à Varfarina em eficácia, com redução de 11% (HR, 0.89; 95% IC, 0.70 - 1.13; P<0.001) do risco relativo de TVP ou ES. O Edoxabano revelou-se superior à Varfarina em segurança, com redução de 19% (HR, 0.81; 95% IC, 0.71 - 0.94; P = 0.004) do risco relativo de hemorragia clinicamente relevante comprovada. 
+Os estudos científicos efetuados com Edoxabano permitiram aprovar um esquema de redução de dose para metade (redução de 60mg para 30mg) quando os doentes apresentam critérios muito específicos que condicionam uma maior exposição plasmática ao fármaco, mantendo-se o perfil de eficácia e segurança. Será necessário verificar-se pelo menos um dos seguintes critérios:
+
+Insuficiência renal moderada ou grave (ClCr 15-50 mL/min)
+Peso ≤ 60kg
+Toma simultânea de ciclosporina, cetoconazole, eritromicina ou dronedaronaOs estudos científicos efetuados com Edoxabano permitiram aprovar um guia de transição seguro entre AVK e Edoxabano, ou vice-versa:
+
+AVK para Edoxabano – quando INR > 2,0, parar AVK e iniciar Edoxabano
+Edoxabano para AVK – reduzir a dose de Edoxabano para metade e simultaneamente começar a toma de AVK e medição do INR, quando INR ≥ 2,0 deverá interromper-se a toma de Edoxabano e manter o AVK
+Edoxabano para outro DOAC – começar novo DOAC 24h após a última toma de EdoxabanoA administração de concentrado do complexo de protrombina fator 4 (PCC) a 50 UI/kg demonstrou revertes os efeitos do Edoxabano 30 minutos após o final da perfusão.
+
+
+=== Indicações Terapêuticas ===
+Em Portugal, o Edoxabano (Lixiana®) está indicado para a prevenção de AVC e ES nos doentes com fibrilação auricular não-valvular.
+As orientações da European Society of Cardiology (ESC) de 2016 em relação à medicação de doentes com fibrilhação auricular e risco aumentado de ocorrência de AVC ou ES indicam os DOACs como primeira linha de tratamento. Em alguns casos específicos, as orientações indicam que outro curso terapêutico deve ser tomado. A seleção da terapêutica mais indicada para o doente exige o estudo clínico por parte de um profissional de saúde credenciado para exercer medicina, estando relacionada primordialmente com as características específicas do doente (que condicionarão a seleção do fármaco) e depois com as características farmacológicas das moléculas.
+As orientações do American College of Chest Physicians (CHEST) de 2016 em relação à medicação de doentes que sofreram TEV e têm risco aumentado de recorrência de evento indicam os DOACs como primeira linha de tratamento. Em alguns casos específicos, as orientações indicam que outro curso terapêutico deve ser tomado. A seleção da terapêutica mais indicada para o doente exige o estudo clínico por parte de um profissional de saúde credenciado para exercer medicina, estando relacionada primordialmente com as características específicas do doente (que condicionarão a seleção do fármaco) e depois com as características farmacológicas das moléculas.
+
+
+=== Posologia ===
+O Edoxabano (Lixiana®) é um fármaco de toma única diária que não necessita de medição dos parâmetros de coagulação. A ingestão de alimentos não influencia a atuação do fármaco. A idade não influencia a seleção do regime de dose. Os doentes com indicação para terapêutica anticoagulante oral em que não haja contraindicação para a toma de um DOAC nem indicação para redução de dose deverão tomar a dose de 60mg por dia. Os doentes com indicação para terapêutica anticoagulante oral em que não haja contraindicação para a toma de um DOAC mas que cumpram um dos seguintes critérios deverão tomar a dose reduzida de 30mg por dia: insuficiência renal moderada ou grave (ClCr 15-50 mL/min), peso ≤ 60kg, toma simultânea de ciclosporina, cetoconazole, eritromicina ou dronedarona. A dose de 15mg só deverá ser administrada nos doentes que tenham critério para redução de dose e estejam a efetuar a transição entre a terapêutica com Edoxabano para uma terapêutica com AVK (de acordo com as indicações específicas para alteração da terapêutica).
+
+
+=== Contraindicações ===
+Na Europa, a terapêutica com Edoxabano (Lixiana®) está contraindicada nos doentes que apresentem:
+
+Prótese valvular cardíaca mecânica;
+Estenose mitral reumática moderada ou grave;
+Hipersensibilidade ao edoxabano;
+Hemorragia ativa clinicamente significativa;
+Lesão ou afeção com risco significativo de hemorragia major (descritas no Resumo das Característica do Medicamento, RCM);
+Doença hepática associada a coagulopatia e a um risco clinicamente relevante de hemorragia, tratamento concomitante com quaisquer outros anticoagulantes exceto em circunstâncias de mudança de terapêutica de/para Edoxabano ou quando a heparina não-fracionada (HNF) é administrada em doses necessárias para manter um cateter venoso ou arterial aberto;
+Hipertensão grave não controlada.
+
+
+=== Efeitos Adversos ===
+Frequentes
+               Anemia
+               Hemorragia do trato GI superior
+               Hemorragia do trato GI inferior
+               Hemorragia bucal/da faringe
+               Náuseas
+               Bilirrubinémia aumentada
+               Gama-glutamiltransferase aumentada
+               Hemorragia cutânea dos tecidos moles
+               Erupção cutânea
+               Prurido
+               Hematúria macroscópica/hemorragia uretral
+               Hemorragia vaginal
+               Hemorragia no local de punção
+               Alterações da sprovas de função hepática
+Pouco Frequentes
+               Hipersensibilidade
+               Hemorragia intracraniana
+               Hemorragia conjuntival/hemorragia da esclera
+               Hemorragia intraocular
+               Fosfatase alcalina do sangue aumentada
+               Transaminases aumentadas
+               Aspartato aminotransferase aumentada
+               Urticária
+               Hemorragia no local cirúrgico
+Raros
+               Reação anafilática
+               Edema alérgico
+               Hemorragia subaracnoideia
+               Hemorragia pericárdica
+               Hemorragia retroperitoneal
+               Hemorragia intramuscular (sem síndrome compartimental)
+               Hemorragia intra-articular
+               Hemorragia subdural
+Hemorragia devido ao procedimento
+
+
+=== Mecanismo de Ação ===
+O Edoxabano inibe o fator Xa, consequentemente inibindo a atividade da protrombinase e a agregação plaquetária induzida pela trombina. A inibição do fator Xa na cascata da coagulação reduz a ativação de trombina e formação de trombos.
+
+
+==== Fator Xa ====
+O fator Xa (FXa) é um fator da coagulação essencial  responsável pela iniciação da via comum da cascata da coagulação. Ele proporciona a ativação da protrombina em trombina, que então converterá o fibrinogénio solúvel em fibrina insolúvel e ativará as plaquetas. A estabilização da agregação plaquetária pela rede de fibrina leva à formação do coágulo.
+
+
+=== Fármacos Relacionados ===
+Há vários anticoagulantes que inibem a atividade do FXa. A heparina não-fracionada (UFH), heparina de baixo peso molecular (LMWH) e fondaparinux inibem a atividade do FXa indiretamente através da ligação à antitrombina (AT III) em circulação. Estes fármacos são de administração parentérica.
+A varfarina e acenocumarol são antagonistas da vitamina K (AVK) de administração oral que reduzem a síntese hepática de alguns fatores da coagulação, incluindo o FXa.
+Nos anos mais recentes uma outra classe de fármacos começou a ser desenvolvida e comercializada. Aqui incluem-se o rivaroxabano, apixabano, betrixabano, LY517717, darexabano (YM150) e edoxabano (DU.176b).
+
+
+=== Referências ===

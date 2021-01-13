@@ -1,0 +1,29 @@
+Os recetores (português europeu) ou receptores (português brasileiro) muscarínicos (AO 1990: receptores muscarínicos) são recetores metabotrópicos acoplados a proteínas G, presentes no corpo humano e animal. São estimulados pela acetilcolina, desencadeando uma cascata intracelular que é responsável pelas respostas ditas "muscarínicas".
+Devem o seu nome à muscarina, um fármaco presente no cogumelo Amanita muscaria que activa selectivamente estes recetores. O seu antagonista clássico é a atropina, produzido, por exemplo, pela planta Atropa belladonna.
+
+
+== Subtipos de recetores muscarínicos ==
+Estão descritos pelo menos 5 tipos de recetores, de M1 a M5. A acção que exercem depende da sua localização, assim como do tipo de proteína G a que estão acoplados:
+
+
+=== M1, M3 e M5 ===
+
+Recetores acoplados à proteína Gq/11. A sua activação promove a actividade da fosfolipase C (PLC), causando em regra aumento da função do órgão a que estão acoplados. São importantes dois mecanismos, tipificados nos seguintes exemplos:
+
+Na célula muscular lisa - A ativação da proteína Gq induz aumento da atividade da PLC, que degrada fosfolípidos da membrana aumentando a concentração citoplasmática de trifosfato de inositol (IP3) e diacilglicerol (DAG). O IP3 por sua vez leva à libertação para o citoplasma do cálcio (Ca2+) sequestrado no interior da célula, induzindo a contração (interação actina/miosina). O DAG tem, entre outros efeitos, um papel na fase tardia (tônica) da resposta.Na célula endotelial - O aparente paradoxo colocado pela vasodilatação mediada por agonistas muscarínicos, contrária à esperada vasoconstrição por acção na musculatura da parede vascular, pode ser explicada pela acção das células endoteliais. A ativação da proteína Gq induz aumento da concentração citosólica de Ca2+, pelo mesmo mecanismo descrito acima. Na célula endotelial, que não possuiu um mecanismo contráctil, o papel do Ca2+ passa ao invés por se ligar à calmodulina, ativando a sintetase do óxido nítrico (NO). Este gás difunde-se facilmente para a musculatura vascular, onde vai induzir uma ativação da guanilciclase e consequente aumento da concentração intracelular de GMPc, um potente relaxador da musculatura lisa.
+
+
+=== M2 e M4 ===
+Estes recetores estão acoplados a uma proteína Gi/0 ("inibitória"), que actua inibindo a adenilciclase. Relembrando o papel dos nucleotídeos cíclicos no músculo, o AMPc e o GMPc são relaxantes, com a excepção do AMPc no coração, onde seu o efeito é estimulante. Tipificando o mecanismo:
+
+No músculo cardíaco - a activação da proteína Gi propicia três efeitos, que têm como consequência uma "diminuição" da actividade cardíaca:Diminuição da concentração de AMPc;
+Diminuição da concentração de Ca2+, por diminuição da actividade dos canais de Ca2+ dependentes da voltagem.
+Aumento da concentração de K+, via canais dependentes de recetores;
+
+
+== Ver também ==
+Recetor nicotínico
+Sistema nervoso parassimpático
+
+
+== Notas e referências ==

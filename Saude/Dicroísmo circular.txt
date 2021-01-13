@@ -1,0 +1,374 @@
+Dicroísmo circular (CD, do inglês circular dichroism) é uma forma de espectroscopia que faz uso da absorção diferenciada da luz polarizada no sentido horário ou no sentido anti-horário. Este fenômeno é rotineiramente utilizado no estudo da estrutura secundária de proteínas.
+
+
+== O fenômeno ==
+
+A luz linearmente polarizada é composta de duas componentes circularmente polarizadas de mesma intensidade. Em cada uma dessas componentes, o vetor eletromagnético roda na direção de propagação. Observando-se o perpendicularmente a variação no vetor elétrico com o tempo, percebe-se que a ponta deste vetor segue uma hélice, rodando no sentido horário para a luz polarizada circularmente para a direita e anti-horário para a esquerda.
+A absorção de luz não polarizada é descrita pela absorbância, 
+  
+    
+      
+        A
+      
+    
+    {\displaystyle A}
+  , definida como
+  
+    
+      
+        A
+        =
+        log
+        ⁡
+        
+          
+            
+              I
+              
+                0
+              
+            
+            I
+          
+        
+      
+    
+    {\displaystyle A=\log {\frac {I_{0}}{I}}}
+  
+onde 
+  
+    
+      
+        
+          I
+          
+            0
+          
+        
+      
+    
+    {\displaystyle I_{0}}
+   é a intensidade da luz incidente e 
+  
+    
+      
+        I
+      
+    
+    {\displaystyle I}
+   a intensidade após a luz percorrer uma distancia 
+  
+    
+      
+        l
+      
+    
+    {\displaystyle l}
+   no meio. Segundo a Lei de Beer-Lambert, temos a seguinte relação:
+
+  
+    
+      
+        A
+        =
+        ϵ
+        c
+        l
+      
+    
+    {\displaystyle A=\epsilon cl}
+  
+onde 
+  
+    
+      
+        c
+      
+    
+    {\displaystyle c}
+   é a concentração da espécie que absorve a luz e 
+  
+    
+      
+        ϵ
+      
+    
+    {\displaystyle \epsilon }
+   é o coeficiente de extinção molar.
+Da mesma forma podemos definir um coeficiente de extinção molar para a luz circularmente polarizada para a direita e para a esquerda, respectivamente, 
+  
+    
+      
+        
+          ϵ
+          
+            r
+          
+        
+      
+    
+    {\displaystyle \epsilon _{r}}
+   e 
+  
+    
+      
+        
+          
+            ϵ
+          
+          
+            l
+          
+        
+      
+    
+    {\displaystyle {\epsilon }_{l}}
+  . O dicroísmo circular molar, 
+  
+    
+      
+        
+          Δ
+        
+        
+          ϵ
+        
+      
+    
+    {\displaystyle {\Delta }{\epsilon }}
+  ,
+
+  
+    
+      
+        
+          Δ
+        
+        
+          ϵ
+        
+        =
+        
+          
+            ϵ
+          
+          
+            l
+          
+        
+        −
+        
+          
+            ϵ
+          
+          
+            r
+          
+        
+        =
+        
+          
+            
+              
+                A
+                
+                  l
+                
+              
+              −
+              
+                A
+                
+                  l
+                
+              
+            
+            
+              c
+              l
+            
+          
+        
+      
+    
+    {\displaystyle {\Delta }{\epsilon }={\epsilon }_{l}-{\epsilon }_{r}={\frac {A_{l}-A_{l}}{cl}}}
+  
+é definido como a diferença entre os coeficientes de extinção entre os dois tipos de luz polarizada (o coeficiente de extinção molar para a luz não-polarizada é simplesmente a média aritmética entre 
+  
+    
+      
+        
+          
+            ϵ
+          
+          
+            l
+          
+        
+      
+    
+    {\displaystyle {\epsilon }_{l}}
+   e 
+  
+    
+      
+        
+          
+            ϵ
+          
+          
+            r
+          
+        
+      
+    
+    {\displaystyle {\epsilon }_{r}}
+  .
+Todos os instrumentos comerciais de CD medem 
+  
+    
+      
+        
+          Δ
+        
+        A
+        =
+        
+          A
+          
+            l
+          
+        
+        −
+        
+          A
+          
+            r
+          
+        
+      
+    
+    {\displaystyle {\Delta }A=A_{l}-A_{r}}
+  . Por razões históricas, entretanto, os aparelhos de CD são calibrados para elipticidade, 
+  
+    
+      
+        
+          θ
+        
+        =
+        32
+        
+          ,
+        
+        98
+        
+          Δ
+        
+        A
+      
+    
+    {\displaystyle {\theta }=32{,}98{\Delta }A}
+  
+onde 
+  
+    
+      
+        θ
+      
+    
+    {\displaystyle \theta }
+   é dado em graus. Para eliminar os efeitos do caminho óptico e da concentração defini-se a elipticidade molar, 
+  
+    
+      
+        
+          
+            θ
+          
+          
+            m
+          
+        
+      
+    
+    {\displaystyle {\theta }_{m}}
+  ,
+
+  
+    
+      
+        
+          
+            θ
+          
+          
+            m
+          
+        
+        =
+        100
+        
+          
+            θ
+            
+              l
+              c
+            
+          
+        
+        =
+        3298
+        
+          Δ
+        
+        
+          ϵ
+        
+      
+    
+    {\displaystyle {\theta }_{m}=100{\frac {\theta }{lc}}=3298{\Delta }{\epsilon }}
+  
+A elipticidade molar é dada em 
+  
+    
+      
+        
+          
+            graus
+          
+        
+        ⋅
+        
+          
+            
+              
+                
+                  cm
+                
+              
+              
+                2
+              
+            
+            
+              dmol
+            
+          
+        
+      
+    
+    {\displaystyle {\mbox{graus}}\cdot {\frac {{\mbox{cm}}^{2}}{\mbox{dmol}}}}
+  .
+
+
+== Referências ==
+
+
+== Ver também ==
+
+
+== Bibliografia ==
+Carolina Fortes Rigos; Pietro Ciancaglini, Padronização da técnica de dicroísmo circular para o estudo da estrutura da Na, K-ATPse : binômio estrutura-função.; Ribeirão Preto, 2003., OCLC 55923283
+Woody, R.W., Circular dichroism, Meth. Enzymol. (1995), VOL. 246, 34-71.  PubMed (em inglês)
+Física: tendências e perspectivas , Editora Livraria da Fisica, 2005 ISBN 8-588-32548-9

@@ -1,0 +1,35 @@
+Um açúcar redutor é qualquer açúcar que, em solução básica, apresenta um grupo carbonílico livre aldeído (derivado de uma aldose).Sua capacidade de redução se dá pela presença de um grupo aldeído ou cetona livre. Todo monossacarídeo, alguns dissacarídeos e oligossacarídeos. As cetonas precisam entrar em equilíbrio dinâmico e se tornarem aldeídos antes de poderem atuar como açucares redutores. Os açucares mais comuns que consumimos, galactose, glicose e frutose são açucares redutores.
+Dissacarídeos são formados por dois monossacarídeos e podem ser classificados como redutores ou não redutores, os não redutores, como a sacarose, tem ligações glicosídicas entre seus carbonos anoméricos e portanto não podem se converter para sua forma aberta com o grupo aldeído; ficando presos na sua forma cíclica. Dissacarídeos redutores como a lactose e a maltose tem apenas um de seus carbonos anoméricos envolvidos na ligação glicosídica, podendo se converter para sua forma aberta com o grupo aldeído.
+Açucares redutores reagem com aminoácidos na reação de Maillard, que ocorre principalmente ao cozinhar uma comida em altas temperaturas, conferindo sabor. Os níveis de açucares redutores também são importantes para identificar a qualidade de produtos como vinhos, sucos e cana-de-açúcar.
+Disto segue que o açúcar atua como um agente redutor, por exemplo na reação de Maillard e reação de Benedict.
+Os principais açúcares redutores são glicose, maltose e lactose. A sacarose, sendo formada por glicose e frutose, pode tornar-se um açúcar redutor se sofrer ação enzimática ou hidrólise ácida, formando assim monossacarídeos.
+
+
+== Exemplos ==
+Todo monossacarídeo é um açúcar redutor pois todo monossacarídeo possui um grupo aldeído (se este for aldose) ou pode ser tautomerizado em solução para formar um grupo aldeído (se este for cetose). Exemplos são a galactose, glicose, gliceraldeído, frutose, ribose e xilose.
+ Muitos dissacarídeos, como a celobiose, a lactose e a maltose também possuem uma forma redutora, já que uma de suas duas unidades possui uma forma de cadeia aberta com um grupo aldeído. Porém, a sacarose e a trealose, em que os carbonos anômeros das duas unidades estão ligados, não são dissacarídeos redutores, já que nenhum dos anéis é capaz de se abrir. 
+ Em polímeros de glicose, como o amido ou seus derivados, a macromolécula inicia com um açúcar redutor, um aldeído livre. Quanto mais amido hidrolisado, mais açúcar redutor. Este percentual é chamado de dextrose equivalente (DE). 
+ Glicogênio é um polimero muito ramificado que atua como a principal forma de acúmulo de carboidratos em animais. É um açúcar redutor com apenas uma ponta redutora, independente do tamanho da molécula. Todas as ramificações terminam em um resíduo de açúcar não-redutor. Quando este glicogênio é quebrado para fins energéticos no metabolismo, glicoses são retiradas da ponta não-redutora uma a uma por ação de enzimas.
+
+
+=== Detecção ===
+Vários testes qualitativos são usados para detectar a presença de um açúcar redutor. Dois destes testes utilizam soluções de cobre: Reagente de Benedict (Cobre2+ em solução aquosa de citrato de sódio) e Solução de Fehling (Cobre2+ em solução aquosa de tartarato de sódio). Os açucares redutores reduzem os íons de cobre destas soluções, precipitando óxido de cobre +1. 
+ Açucares redutores também podem ser detectados com a adição do Reativo de Tollens (Ag+ em amônia aquosa), precipitando prata metálica, que é visível como um espelho prateado quando o teste é feito em um tubo de vidro transparente.
+  Ácido 3 5-dinitrosalicílico é outro reagente, que permite detecção quantitativa. Reage com o açúcar formando ácido 3-amino-5-nitrosalicílico, que pode ser medido com espectrofotometria, determinando assim, a quantidade de açúcar redutor presente.
+ Açúcares com ligações acetal não são redutores, já que não possuem cadeia com aldeído livre. Mas, com a utilização de ácido clorídrico diluído, podem ser hidrolisados e passaram a reagir como ácidos redutores.
+
+
+=== Importância na medicina ===
+A solução de Fehling durante muitos anos foi usada no diagnóstico de diabetes tipo I, onde a baixa produção de insulina eleva perigosamente os níveis de glicose no sangue, e diabetes tipo II, onde o indivíduo não responde à insulina. Medindo a quantidade de agente oxidante reduzida pela glicose no teste com a solução de Fehling, é possível determinar a concentração de glicose no sangue e na urina.
+
+
+=== Importância na engenharia de alimentos⁠⁠⁠⁠ ===
+Reação de Maillard:
+ Os grupos carbonila dos açúcares redutores reagem com grupos amino dos aminoácidos na reação de Maillard, uma série de reações complexas que ocorrem quando cozinhamos. Os produtos dessas reações são diversos, podendo ser tanto benéficos para a saúde quanto tóxicos. Contudo, na maior parte dos casos, o efeito dessas reações é a perda do valor nutricional do alimento. Um exemplo de produto tóxico é a acrilamida, uma neurotoxina, possivelmente cancerígena que é formada a partir da aspargina livre e açucares redutores quando cozinhamos alimentos ricos em amido em temperaturas elevadas (acima de 120 °C).
+Qualidade do alimento:
+ Os níveis de açúcares redutores nos vinhos, sucos e cana de açúcar são indicativos da qualidade desses produtos e o monitoramente destes níveis mostram efeitos positivos na qualidade de mercado. O método Lane-Enyon é tradicional para este monitoramento. Consiste em titular os açúcares redutores com cobre na solução de Fehling. Todavia, este método é muito sensível a impurezas, caro e impreciso.
+
+
+== Referências ==
+
+BORGES, M.T.M.R.; Parazzi, C.; PIEDADE, S.M.D.S. Avaliação de métodos químicos de determinação de açúcares redutores em xaropes

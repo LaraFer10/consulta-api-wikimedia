@@ -1,0 +1,44 @@
+A coloração de Romanowsky é uma técnica de coloração protótipo que foi a precursora de vários métodos distintos mas similares, incluindo a coloração de Giemsa, a coloração de Jenner, a de Wright, a de Field e a de Leishman, que são usadas para diferenciar as células em amostras patológicas. Foi nomeado em homenagem ao médico russo Dmitri Leonidovich Romanowsky (1861-1921), que a inventou em 1891.É uma técnica de coloração que encontra aplicação no diagnóstico em linfonodos.
+
+
+== Exame microscópico de esfregaços de sangue corados ==
+
+Paul Ehrlich tinha usado misturas de corantes ácidos e básicos para esta finalidade em 1879, por exemplo: fucsina (corante ácido) e azul de metileno (corante básico). Em 1891, Romanowsky desenvolveu técnicas utilizando uma mistura de eosina Y e azul de metileno modificado que produziu um matiz surpreendente não atribuível a qualquer componente de coloração: uma bela sombra característica de roxo. Na solução envelhecida (após dias do preparo do corante), o azul de metileno se oxida em gradações diferentes, originando os azures de metileno. Os requisito para a ocorrência do efeito de Romanowsky-Giemsa são:
+
+Um corante catiônico: o melhor corante é Azure B e, embora Azure A dê a cor roxa nuclear, o azul citoplasmático é inferior. Nenhum outro corante catiónico, tal como o azul de metileno é adequado.
+Um corante aniônico: Mais comumente a eosina Y é usada.Uma vez que as soluções aquosas de corante são instáveis, o metanol foi introduzido como um solvente, e William Boog Leishman  e James Homer Wright  defenderam seu uso como um fixador antes da coloração. Gustav Giemsa melhorou esta técnica, padronizando as soluções corantes e adicionando glicerol para aumentar a estabilidade.A desmetilação de azul de metileno em solução aquosa, utilizando calor e alcalino produz uma mistura de Azure A, Azure B, violeta de metileno, e azul de metileno. Eosina Y é então adicionada para produzir um corante de "ponto morto". O precipitado é então dissolvido numa mistura de metanol e glicerol, para formar uma solução de reserva; esta é diluída com água ou um tampão aquoso para formar uma solução 'de trabalho' que é utilizada na coloração de espécimes de patologia. A solução 'trabalho' é estável durante 3 horas.Procedimentos de captura imunocromatográficos (testes rápidos de diagnóstico, tais como os testes de detecção de antígeno da malária) são opções de diagnóstico não-microscópicas para o laboratório que podem não ter experiência microscopia apropriado disponível.
+
+
+== Colorações características obtidas ==
+Diferentes componentes celulares e as colorações características obtidas com corante de Romanowsky:
+
+
+== Método de coloração dos espécimes ==
+Etapa de fixação: a preparação a ser corada deverá ser previamente fixada, sendo o fixador rotineiramente mais usado em hematologia, o metanol, que deve ser aplicado sobre a lâmina um período de tempo de 1 a 3 minutos.
+Aplicação do corante: a solução de corante, preparada em solução alcoólica, é aplicado em gotas sobre a lâmina, pelo mesmo período de tempo em que foi realizada a fixação.
+Coloração propriamente dita: adicionando-se água tamponada (chamada no meio de "água de coloração"), a pH 7, ou água destilada, recentemente fervida, sobre o corante, o que ioniza os sais contidos na solução.
+Lavagem do espécime: após a coloração, as lâminas são lavadas sob jato de água corrente e em seguida procede-se a uma secagem ao ar.Uma formulação de água tamporada ("água de coloração"), com pH regulado a 7,0 é:
+
+Fosfato diácido de potássio (fosfato monopotássico, KH2PO4) 1 grama
+Fosfato monoácido de sódio (fosfato dissódico, Na2HPO4) 3 gramas
+Água destilada 1000 mL.
+
+
+== Comportamentos em determinadas aplicações ==
+É observado que a heparina frequentemente provoca alterações de nuances de coloração quando da aplicação da solução corante de Romanowsky, promovendo a formação de halos róseos em volta dos leucócitos somando causar aglutinação de heterófilos, tendo como consequência um aumento do espalhamento da população destas células, quando comparados com a homogeineidade das mesmas se em meio contendo citrato.Pode ser usado assim como o corante panótico rápido, em citologia de células presentes no escarro.A coloração de Romanowsky encontra aplicação no diagnóstico citopatológico de lesões da tiróide, e mastócitos em mastocitomas de mamíferos como cães, por exemplo.É utilizado na citologia de células-tronco de medula óssea, e no hemograma de mamíferos como equinos, assim como eritograma e leucograma de aves como a ema.Permite a contagem de leucócitos em répteis, como quelônios, assim como em peixes.Visando a caracterização e contagem dos leucócitos, por processamento de imagens, a partir de alterações, desenvolve-se corantes de fase única que coram diferenciadamente os leucócitos em meio líquido.Os corantes de Romanowsky, mesmo sendo amplamente empregados na rotina laboratorial para a coloração de extensões sanguíneas (esfregaços), evidenciam os reticulócitos apenas através de leve basofilia, não permitindo a sua quantificação de forma precisa.
+
+
+== Ver também ==
+Testes de detecção de antigenos de malaria
+Coloração
+
+
+== Referências ==
+
+
+== Ligações externas ==
+Diagnosis and Treatment of Malaria CDC website on malaria diagnosis and treatment
+Field stain Staining methods for the identification of malaria parasites
+Laboratory Diagnosis of Malaria This Royal Perth Hospital (Australia) website provides an excellent overview of malaria diagnostics
+UK malaria advisory, diagnostic and reference service for malaria The Malaria Reference Laboratory of the Public Health Laboratory Service in the UK
+Chenzinsky and Romanowsky(Russian)(English) On the 120th Anniversary of the Discovery of the Romanowsky Effect

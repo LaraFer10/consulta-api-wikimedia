@@ -1,0 +1,8 @@
+O IBDmix é um método probabilístico para identificar sequências de homininas introgressadas, que não utilizam uma população de referência moderna. O método IBDmix é baseado na identidade por linhagem.O IBDmix calcula as probabilidades de que um local variante em um indivíduo moderno seja e não seja compartilhado com um genoma arcaico de referência, enquanto contabiliza erros de genotipagem nas sequências humanas arcaicas e modernas de referência. O método usa um algoritmo de programação dinâmica para somar pontuações LOD de site único e maximizar essa pontuação para identificar segmentos introgressados. Entretanto,  IBDmix não pode ser usado em genomas individuais ou em amostras pequenas.
+
+
+== Cálculo de genes neandertais para migração humana da África ==
+Joshua Akey, geneticista da Universidade de Princeton, aproveitando o fato de que parentes compartilham extensões do DNA correspondente, descobriu que os europeus tinham, em média, 51 milhões de pares de bases que correspondiam ao DNA neandertal e os asiáticos do leste, 55 milhões e concluiu que um grupo de humanos modernos se expandiu para fora da África talvez 200.000 anos atrás e cruzou com os neandertais. Esses humanos modernos então desapareceram. O estudo foi calculado usando o método IBDmix.
+
+
+== Referências ==

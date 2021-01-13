@@ -1,0 +1,21 @@
+Predefinição:Fusão de Destilação por arraste a vapor
+A destilação a vapor ou destilação por arraste de vapor é uma destilação que usa vapor de água em substâncias imiscíveis, em geral compostos orgânicos, tendo como vantagem o fato da mistura a ser destilada entrar em ebulição abaixo de 100°C.
+
+
+=== Principio ===
+Misturas imiscíveis não se comportam como soluções, mantendo suas pressões de vapor constantes, como se estivessem puros no sistema. Assim, seguindo a lei de Dalton, onde a pressão total de vapor do sistema é a soma das pressões de vapor de cada substância pura, elas evaporam a temperaturas menores do que se estivessem sozinhas, pois a pressão de vapor da mistura será sempre mais alta que a de seus constituintes puros. Por isso, uma mistura de um composto de alto ponto de ebulição e água poderá ser destilada à temperatura menor que 100°C a 760 mmHg. Observe que o ponto de ebulição de uma mistura de dois componentes imiscíveis difere assim daquele observado para líquidos miscíveis.
+
+
+=== Usos ===
+O uso deste processo permite, como observado, diminuir o ponto de ebulição  da mistura, podendo evitar a decomposição térmica desta (o que também pode ser obtido com uma destilação sob pressão reduzida). A deslocação do ar pelo vapor também protege as substâncias da oxidação. Pode-se ainda realiza-la a pressao reduzida, aplicável a compostos de baixas tensões de vapor como ácidos gordos de elevado peso molecular, ou a misturas em que um dos componentes esteja em concentração baixa. É aplicavel ainda a álcoois gordos, óleos, frações de petróleo e ceras e nos seguintes casos:
+
+Para separar ou purificar substâncias contaminadas com impurezas resinosas;
+Para retirar solventes com elevado ponto de ebulição, quando em solução existe uma substância não volátil;
+Para separar substâncias pouco miscíveis em água cuja pressão de vapor seja próxima à da água a 100 °C, o que é muito importante para as substâncias que se decompõem nestas temperaturas.
+
+
+== Extração de óleos essenciais ==
+Na preparação de essências vegetais por destilação a vapor, água é aquecida num recipiente e o vapor resultante desse processo é bombeado sob pressão para um outro recipiente, onde se encontra o material vegetal. O calor do vapor faz com que as paredes celulares se abram. Dessa forma, o óleo que está entre as células evapora junto com a água e vai para o tubo de arrefecimento. Os óleos essenciais não se misturam. Ficam sobre a água por serem mais leves. Portanto, podem ser facilmente separados, muitas vezes utilizando o processo de relargagem.
+
+
+== Referências ==

@@ -1,0 +1,66 @@
+O neurónio (português europeu) ou neurônio (português brasileiro) é a célula do sistema nervoso responsável pela condução do impulso nervoso. Há cerca de 86 bilhões  (até 20 de fevereiro de 2009 se especulava que havia 100 bilhões) de neurônios no sistema nervoso humano. O neurônio consiste em várias partes: soma, dendritos e axônio. A membrana que separa seu meio interno do externo é denominado de membrana neuronal, a qual é sustentada por um intrincado esqueleto interno — chamado de citoesqueleto.
+O neurônio pode ser considerado a unidade básica da estrutura do cérebro e do sistema nervoso. A membrana exterior de um neurônio toma a forma de vários ramos extensos chamados dendritos, que recebem informação de outros neurônios, e de uma estrutura a que se chama um axônio que envia informação a outros neurônios. O espaço entre o dendrito de um neurônio e o terminal axonal de outro é o que se chama uma fenda sináptica: os sinais são transportados através das sinapses por uma variedade de substâncias químicas chamadas neurotransmissores. O córtex cerebral é um tecido fino composto essencialmente por uma rede de neurônios densamente interligados tal que nenhum neurônio está a mais do que algumas sinapses de distância de qualquer outro neurônio.
+Os neurônios recebem continuamente impulsos nas sinapses de seus dendritos vindos de milhares de outras células. Os impulsos geram ondas de corrente elétrica (excitatória ou inibitória, cada uma num sentido diferente) através do corpo da célula até a uma zona chamada a zona de disparo, no começo do axônio. É aí que as correntes atravessam a membrana celular para o espaço extracelular e que a diferença de voltagem que se forma na membrana determina se o neurônio dispara ou não.
+
+Os neurônios caracterizam-se pelos processos que conduzem impulsos nervosos para o corpo e do corpo para a célula nervosa. Os impulsos nervosos são reações físico-químicas que se verificam nas superfícies dos neurônios e seus processos. A cromatina nuclear é escassa, enquanto que o nucléolo é muito proeminente.  A substância cromidial no citoplasma é chamada de substância de Nissl. À microscopia eletrônica mostra-se disposta em tubos estreitos recobertos de finos grânulos. Estudos histoquímicos e outros demostraram-na constituída de nucleoproteínas. Estas nucleoproteínas diminuem durante a atividade celular intensa e durante a cromatólise que se segue à secção de axônios.
+
+
+== O funcionamento do neurônio ==
+
+O neurônio é uma célula altamente especializada na transmissão de informações, na forma de impulsos nervosos. Os impulsos nervosos são fenômenos eletroquímicos que utilizam certas propriedades e substâncias da membrana plasmática, que permitem que seja criado e transmitido um impulso elétrico.
+Um neurônio em repouso é uma célula que possui uma diferença de voltagem entre o seu citoplasma e o líquido extracelular. Esta diferença de voltagem é criada graças ao acúmulo seletivo de íons potássio (K+) e sódio (Na+), que ocorre pela ação de bombas que criam uma diferença de concentração. Esta diferença de concentração é controlada por canais de K+ e de Na+, gerando uma tensão negativa (de -58mV no interior de neurônios humanos), que pode variar entre espécies.
+Este estado de equilíbrio (ou estado de polarização do neurônio) dura até o momento em que um potencial de ação abre os canais de K+ e de Na+, alterando a concentração destes íons. Esta modificação gera um potencial positivo dentro do neurônio, chegando aos +40mV ou mais (dependendo do organismo estudado). Este desequilíbrio gera um efeito cascata, que é o potencial de ação. Usualmente o potencial de ação inicia no começo no axônio (zona de disparo) e se propaga até as vesículas sinápticas, gerando a descarga de neurotransmissores.
+Após ter ocorrido o potencial de ação, imediatamente os canais de K+ e de Na+ começam a restabelecer o equilíbrio anterior, com uma tensão negativa no interior do neurônio e positiva fora dele. O neurônio precisa, então, de um brevíssimo tempo para reconstituir seu estado pré-descarga, e durante este tempo ele não consegue efetuar outro potencial de ação. Este período de latência chama-se período refratário. Logo em seguida, o neurônio adquire sua capacidade para efetuar outro potencial de ação, estabelecendo um ciclo.
+
+
+== Tipos de neurônios ==
+
+
+=== Receptores ou sensitivos (aferentes) ===
+São os neurônios que reagem a estímulos exteriores e que despertam a reação a esses estímulos, se necessário. A sua constituição é um pouco diferente dos outros dois tipos de neurônios. De um lado do axônio tem os sensores que captam os estímulos. Do outro lado possui os dendritos. O corpo celular localiza-se perto do axônio, estando ligado a este por uma ramificação do axônio, assumindo um pouco o aspecto de um balão.
+
+
+=== Associativos ou Conectores ou Interneurônios ===
+O grupo de neurónios mais numeroso. Como o nome indica, estes neurônios transmitem o sinal desde os neurónios sensitivos ao sistema nervoso central. Liga também neurônios motores entre si.
+Neste tipo de neurónios o axônio é bastante reduzido, estando o corpo celular e os dendritos ligados diretamente à arborização terminal, onde se localizam os telodendritos.
+
+
+=== Motores ou efetuadores (eferentes) ===
+Este tipo de neurônio tem a função de transmitir o sinal desde o sistema nervoso central ao órgão efetor (que se move), para que este realize a ação que foi ordenada pelo encéfalo ou pela medula espinhal. Este é o neurônio que tem o aspecto mais familiar, que nós estamos habituados a ver nas gravuras.
+
+
+== Sinapse ==
+Sinapses nervosas são os pontos onde as extremidades de neurônios vizinhos se encontram e o estímulo passa de um neurônio para o seguinte por meio de mediadores químicos, os neurotransmissores. A sinapse é considerada uma estrutura formada por: membrana pré-sináptica, fenda sináptica e membrana pós-sináptica. As sinapses ocorrem no “contato” das terminações nervosas chamadas axônios, usualmente com os dendritos de outro neurônio, mas pode haver contato com o corpo celular e mesmo com outros axônios (menos comum). O contato físico em sinapses químicas não existe realmente, pois há um espaço entre elas, denominado de fenda sináptica, onde ocorre a ação dos neurotransmissores. Dos axônios, são liberadas substâncias(neurotransmissores), que atravessam a fenda e estimulam os receptores pós-sinápticos. 
+A literatura aponta a existência de dois tipos de sinapses neuronais: as sinapses químicas e as sinapses elétricas. Ambos os tipos de sinapses transmitem o potencial de ação para outros neurônios, diferindo apenas no mecanismo de comunicação (químico ou elétrico).
+
+
+== Tipos de sinapses ==
+
+
+=== Químicas ===
+
+As sinapses químicas consistem na maioria das sinapses presentes no sistema nervoso. Ela consiste numa fenda presente entre o axônio do neurônio que está transmitindo a informação (neurônio pré-sináptico) e o neurônio que receberá uma descarga de neurotransmissores, o receptor (neurônio pós-sináptico).Quando o impulso nervoso atinge as extremidades do axónio, libertam-se para a fenda sináptica os neurotransmissores, que se ligam a receptores da membrana da célula seguinte, desencadeando o impulso nervoso, que, assim, continua a sua propagação.
+A chegada do impulso nervoso até o botão sináptico, que é a parte do neurônio pré-sináptico que irá liberar os neurotransmissores, provocará uma reação de liberação de vesículas sinápticas, carregadas com neurotransmissores. Estas substâncias passarão pela fenda sináptica atingindo sítios receptores dos dendritos dos neurônios pós-sinápticos, o que provavelmente irá gerar um potencial de ação provocando um impulso nervoso, que passará pelo corpo celular e prosseguirá até o axônio.
+
+
+=== Elétricas ===
+
+Alguns neurônios comunicam-se através de sinapses menos comuns, que são as sinapses elétricas, que são junções muito estreitas entre dois neurônios. Estas junções comunicantes são constituídas por proteínas chamadas de conéxons, que permite uma continuidade entre as células e dispensa, em grande medida, o uso de neurotransmissores. Este tipo de sinapse reduz muito o tempo de transmissão do impulso elétrico entre os neurônios, sendo a ideal para comportamentos que exigem rapidez de resposta. Organismos como lagostins, que necessitam fugir com velocidade de predadores, possuem sinapses elétricas em vários circuitos.Outros sistemas que se beneficiam com a sincronização de neurônios também utilizam este tipo de sinapse, como por exemplo neurônios do tronco encefálico, que controlam o ritmo da respiração e em populações de neurônios secretores de hormônios. Esta sincronização facilita a descarga hormonal na corrente sanguínea. Estas junções também chamadas de abertas estão em abundância no músculo cardíaco (discos intercalares) e músculo liso (corpos densos).
+
+
+== Atos voluntários e involuntários ==
+Todas as ações que nós executamos são ordenadas pelo sistema nervoso central.
+A maioria desses atos são devidamente planejados e feitos conscientemente, como, por exemplo, beber por um copo, escrever, ler, jogar, etc.
+Contudo existem outros atos que simplesmente não são planejados antes de serem feitos. Por exemplo, se alguém agitar a mão de encontro à nossa cara, a reação instantânea é fechar os olhos. Se tocarmos em alguma coisa muito quente, o instinto é tirar a mão de imediato.Temos também para ser mais explicitos, o bater do nosso coração é um acto completamente automático.
+Esses são os chamados atos involuntários.
+
+Os atos voluntários, planeados e executados, são comandados pelo cérebro (Sistema Nervoso Periférico Somático).
+Os atos involuntários, que não são pensados antes de serem executados (instintos), são comandados pela medula espinal(Sistema Nervoso Periférico Autônomo).
+
+
+== Referências ==
+
+
+== Ligações externas ==
+Zona do Estudante
+A unidade básica do Sistema Nervoso: o neurónio[ligação inativa]

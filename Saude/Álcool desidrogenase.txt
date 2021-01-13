@@ -1,0 +1,32 @@
+As álcool desidrogenases (ADH) são um conjunto de enzimas que fazem parte do metabolismo do álcool em diferentes organismos. Pode ser classificada como oxirredutase que tem como aceptor a nicotinamida adenina dinucleotídeo (NAD) e sua principal função é, no citosol das células hepáticas, oxidar o etanol a acetaldeído que será oxidado a acetato posteriormente pela enzima acetaldeído desidrogenase (ALDH).
+
+
+== Evolução ==
+Acredita-se que a capacidade de produzir etanol a partir de açúcar (que é a base de como as bebidas alcoólicas são feitas) tenha evoluído inicialmente em leveduras. Embora esse recurso não seja adaptável do ponto de vista energético, ao produzir álcool em concentrações tão altas, de modo que sejam tóxicos para outros organismos, as células de levedura poderiam efetivamente eliminar sua competição. Como a fruta apodrecida pode conter mais de 4% de etanol, os animais que comem a fruta precisam de um sistema para metabolizar o etanol exógeno. Pensa-se que isto explica a conservação do etanol ativado por ADH em outras espécies além da levedura, embora se saiba agora que o ADH-3 também desempenha um papel importante na sinalização do óxido nítrico.
+
+
+== Mecanismos de ação em humanos ==
+Após a ingestão do álcool, as moléculas de etanol são absorvidas lentamente pelo estômago e mais rapidamente pelo intestino. 95% do álcool é metabolizado no fígado e uma pequena parcela é eliminado na respiração. A oxidação do etanol se dá em duas fases: na primeira, o álcool sofre a reação da enzima álcool desidrogenase citosólica e se transforma em acetaldeído.
+Na segunda fase, o acetaldeído é transformado em acetato pela enzima acetaldeído desidrogenase mitocondrial e forma acetato.
+O acetato sofre ação da enzima acil-CoA sintase e é formado então acetil-CoA. Nesse processo, também se forma NADH. 
+Por esse motivo, o consumo exagerado de álcool desequilibra a proporção NADH/NAD+, fazendo com que haja mais NADH no citosol das células hepáticas (onde há mais NAD+), o que interfere na conversão de piruvato em lactato e desvia glicose para síntese de lactato.
+
+
+== Etapas de ação da enzima ==
+1 - Ligação da coenzima NAD +
+2 - Ligação do substrato alcoólico por coordenação ao zinco
+3 - Desprotonação de His-51
+4 - Desprotonação de ribose nicotinamida
+5 - Desprotonação de Thr-48
+6 - Desprotonação do álcool
+7 - Transferência de hidreto do íon alcóxido para NAD +, levando a NADH e um aldeído ou cetona ligado a zinco
+8 - Liberação do aldeído do produto.
+
+
+== Tipos existentes ==
+De cadeia longa contendo Zinco:  Enzimas diméricas ou tetraméricas que ligam-se a dois átomos de zinco por unidade. Apenas um dos átomos de zinco é essencial para a atividade catalítica. Ambos estão relacionados a resíduos de cisteína ou histidina (aquele com função catalítica a 2 cisteínas e 1 histidina, uma região conservada responsável pela caracterização destas enzimas). Podem estar presentes em bactérias, mamíferos, plantas e fungos.  Exemplos: Xilitol desidrogenase; Sorbitol desidrogenase; Treonina 3-desidrogenase; Cinamil álcool desidrogenase.
+Ametalo-álcool desidrogenases de cadeia curta:  Maioria são oxidoredutases NAD- ou NADPH-dependentes. Esta família também costuma ser chamada de "inseto-tipo", já que o primeiro membro desta enzima a ser caracterizado foi extraído da mosca Drosophila. A maioria das enzimas possuem de 250 a 300 resíduos de aminoácidos. Exemplos: Álcool desidrogenase de insetos como a Drosophila; Acetoína desidrogenase de Klebsiella terrigena; D-betahidroxibutirato desidrogenase de mamíferos.  Possui regiões mais conservadas, que inclui dois resíduos perfeitamente conservados - um de tirosina e um de lisina. O resíduo de tirosina participa no mecanismo catalítico.
+Contendo Ferro:  Já foram encontradas em leveduras, assim como em Zymomonas mobilis. Estão intimamente ligadas a um grande número de outras enzimas, entre elas: butanol desidrogenases NAD- e NADPH-dependentes de Clostridium acetobutylicum, uma enzima com atividade sobre butanol e etanol; propanediol oxiredutase de Escherichia coli.  O reconhecimento de enzimas deste grupo é baseado em duas regiões altamente conservadas.
+
+
+== Referências ==

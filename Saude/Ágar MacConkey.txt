@@ -1,0 +1,18 @@
+Ágar MacConkey é um meio de cultura destinado ao crescimento de bactérias Gram negativas e indicar a fermentação de lactose. Colônias bacterianas que fermentam lactose tornam o meio rosa choque e as bactérias que não são fermentadoras de lactose tornam o meio amarelo claro. Portanto é considerado um meio seletivo e diferencial (seletivo para gram negativos e diferencial para fermentadores de lactose)
+
+
+== Lac+ ==
+As bactérias fermentadoras de lactose(999 Klebsiela, Enterobacter), utilizam a lactose disponível no meio e produzem ácido como produto final. Este ácido diminui o pH do meio para valores inferiores a 6.8, resultando na observação de colónias rosa choque/vermelhas.
+
+
+== Lac- ==
+As bactérias que não fermentam a lactose (Salmonella, Pseudomas e Shigella) não consegue utilizar a lactose, e utilizam a peptona. Isto forma amónia, que eleva o pH do ágar, levando à formação de colónias brancas/sem cor)
+
+
+== Conteúdo ==
+O meio contém ácido biliar que inibe o crescimento da maioria das bactérias Gram positivas (exceto Enterococcus e algumas espécies de Staphylococcus), cristal violeta (inibidor para algumas bactérias Gram positivas) e vermelho neutro (cora bactérias fermentadores de lactose), lactose e peptídio.
+Outro ágar selectivo para isolamento de bactérias Gram negativas é o Levine, meio extremamente interessante para o isolamento de E. coli, a qual fica com suas colónias douradas neste meio.
+
+
+== Ver também ==
+Alfred Theodore MacConkey

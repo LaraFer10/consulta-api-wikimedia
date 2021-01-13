@@ -1,0 +1,63 @@
+Genômica (português brasileiro) ou genómica (português europeu) é um ramo da genética que estuda o genoma completo de um organismo. Essa ciência pode se dedicar a determinar a seqüência completa do DNA de organismos ou apenas o mapeamento de uma escala genética menor.
+
+
+== Ciências ômicas ==
+
+Como o nome indica, a genômica; junto com transcriptômica, proteômica, metabolômica, etc; faz parte de um conjunto de ciências denominado "ômicas".
+Tal termo deriva do sufixo "oma", que significa "conjunto de", e pode ser entendido como estudo do conjunto inteiro, em grande escala.
+Então, entendemos transcriptômica como o estudo do transcriptoma, do conjunto inteiro de mRNAs; proteômica como o estudo do proteoma, o conjunto completo de proteínas resultantes da expressão gênica e metabolômica como o estudo das alterações na expressão de metabólitos, pequenas moléculas orgânicas oriundas do metabolismo de certa molécula ou substância. Todos eles estão lligados pela rota "ômica", como pode ser visto pela imagem anexada.
+
+
+== Análise de genomas ==
+Com muita importância para este ramo da genética, existe o projeto genoma, que propõe o sequenciamento completo de genomas e envolve principalmente o sequenciamento do DNA dos organismos em questão, a montagem do modelo da sequência e a anotação.
+
+
+=== Sequenciamento ===
+
+Nessa fase, é feito um sequenciamento cerca de 10 ou 12 vezes maior que o tamanho do genoma do indivíduo em questão. Atualmente, o sequenciamento de genomas é feito principalmente por Sequenciamento Shotgun ou Pirosequenciamento.
+
+
+=== Montagem ===
+A montagem (mais referida como assembly) se refere ao alinhamento e fusão de fragmentos de DNA para reconstruir a sequência original, geralmente utilizando softwares apropriados que combinam as sequências obtidas pelo sequenciamento (tal inferência é possível já que vários exemplares do genoma são fragmentados em pedaços de maneiras diferentes antes do sequenciamento). Isso é necessário uma vez que o sequenciamento não consegue ler o genoma inteiro de forma contínua, lendo fragmentando de 20 a 1 000 bases.
+
+
+=== Anotação ===
+Nessa etapa é feita a extração de informações biológicas da sequência final obtida. Ela consiste em 3 principais etapas:
+
+Identificação de porções que não codificam proteínas;
+Identificação dos elementos do genoma (Predição de genes);
+Associação entre informações biológicas e tais elementos.Ferramentas de anotação automática tentam realizar essas etapas In silico, enquanto a anotação manual (curadoria) envolve especialistas e verificação experimental. Idealmente ambas as abordagens são feitas em conjunto, uma complementando a outra.
+Tradicionalmente, o nível básico de anotação utiliza BLAST para encontrar semelhantes nas bases de dados e então a anotação é feita com base neles.
+
+Este artigo foi inicialmente traduzido do artigo da Wikipédia em inglês, cujo título é «Genomics».
+
+
+== Metagenômica ==
+
+Enquanto a genômica se preocupa com o sequenciamento de genomas individuais, a metagenômica busca o sequenciamento do conjunto de genomas de um ambiente (o prefixo "meta" carrega a ideia de transcendência, ir além), tendo como objeto de estudo as amostras ambientais. Seu principal objetivo é entender as comunidades microbianas e seu papel ecológico.
+
+
+== Aplicações ==
+
+
+=== Na medicina ===
+A maior agilidade na obtenção de dados genômicos possibilitou uma maior eficiência no conhecimento do papel de certos genes em impedir ou contribuir com certas doenças. Dessa forma, ela auxilia no desenvolvimento de vacinas e fármacos, exemplo disso foi o desenvolvimento de drogas antimaláricas.
+
+
+=== Na biotecnologia ===
+Principalmente no campo de biologia sintética, temos como exemplo o uso do genoma do Mycoplasma genitalium na síntese do Mycoplasma laboratorium.
+
+
+=== Nas ciências sociais ===
+Utilizada por conservacionistas para estudar os fatores chave envolvidos na conservação de uma espécie.
+
+
+== Ver também ==
+Genética clássica
+Genética molecular
+Genética populacional
+Genómica estrutural
+Genómica funcional
+
+
+== Referências ==

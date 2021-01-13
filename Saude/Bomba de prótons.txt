@@ -1,0 +1,13 @@
+Uma bomba de prótons, ou bomba H+-ATPase, é uma proteína integral de membrana, que funciona a partir da hidrólise de ATP em ADP e fosfato. Efectua o transporte activo de protões através da membrana de uma célula, mitocôndrio ou outro compartimento subcelular, contra o gradiente de concentração.
+Suas funções são:
+
+Manter a composição iônica intracelular.
+Importar solutos contra o gradiente de concentração.
+Balancear a pressão osmótica nos dois lados da membrana celular.
+Mantêm o potencial de membrana celular.Na respiração celular, a bomba retira protões da matriz mitocondrial e liberta-os no espaço intermembranar mitocondrial (entre as duas membranas do organelo). Os protões criam assim uma diferença ou gradiente tanto de pH como de carga eléctrica, criando um potencial electroquímico que atua como uma bateria ou reservatório de energia da célula. Ao funcionar contra gradiente, consome energia em forma de ATP; no entanto, pode também funcionar como uma ATP sintase, sintetizando ATP a partir de ADP e fosfato, quando permite a passagem de protões a favor do gradiente de concentração.
+Por vezes o fluxo de protões ocorre do interior da célula para a matriz intercelular. Tal ocorre nas células epiteliais do revestimento do estômago, o que explica o ambiente extremamente ácido no interior do estômago.
+As bombas H+-ATPase também ocorrem em procariontes, localizando-se na membrana plasmática, onde bombeiam H+ do citoplasma para o exterior da célula.
+
+
+== Bibliografia ==
+NELSON, David L., COX, Michael M., Lehninger Principles of Biochemistry, 4ª edição, W. H. Freeman, 2005, ISBN 978-0716743392

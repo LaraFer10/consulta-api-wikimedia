@@ -1,0 +1,161 @@
+Endogamia ou consanguinidade é o método de acasalamento que consiste na união entre indivíduos aparentados, geneticamente semelhantes. A consanguinidade ocorre naturalmente de forma a garantir a propagação da espécie. Quando ocorre  naturalmente por espécies hermafroditas, a autógamia e quando ocorre em especies dióicas, a partenogênese (agamia). Quando os progenitores de um ser vivo que se reproduz sexuadamente possuem um ou mais ancestrais comuns, isto é, são parentes, diz-se que eles são consanguíneos ou endogâmicos. O resultado desse acasalamento é o aumento da homozigose, o que acaba resultando em perda de vigor, assim como na perda da variância, à medida que aumenta o parentesco. Em contrapartida, pode ser usada para melhoramento genético, visando a selecionar determinado caractere desejável, quando em sua máxima expressão (F=1).
+A endogamia pode ocorrer de forma natural (em plantas autógamas, por exemplo), não intencional (como no caso de populações pequenas, nas quais o acasalamento entre indivíduos aparentados é o único viável), ou pode ser induzida intencionalmente (como na formação de raças de animais ou de linhagens endogâmicas de plantas). Uma das suas causas é a fragmentação de habitat, que leva ao isolamento de populações e consequente redução do número de indivíduos. Isso aumenta a probabilidade de cruzamento entre indivíduos com alto grau de parentesco. 
+
+
+=== Coeficiente de endogamia ===
+O coeficiente de endogamia (F) é uma ferramenta bioestatística usada para medir a probabilidade de um indivíduo nascer com dois alelos idênticos caso pertença a uma população onde exista o hábito de reprodução por consanguinidade. Em outras palavras, mede o percentual provável de genes em homozigose que o indivíduo consanguíneo tem a mais quando comparado com outro não consanguíneo da mesma população.  
+
+
+=== Funcionamento e efeitos genéticos ===
+
+Para entender os efeitos da endogamia sobre os organismos, é necessário resgatar alguns conceitos biológicos, como a heterozigose, a homozigose e a maneira como ambas atuam sobre os indivíduos de uma determinada espécie.
+A heterozigose é uma condição genética caracterizada pela existência de dois alelos distintos para o mesmo gene (cada um deles em partes correspondentes entre si de cromossomos homólogos), provenientes da geração parental (mãe e pai). Isso significa que, quando houver a combinação dos materiais genéticos, os alelos materno e paterno equivalentes irão se unir, formando um genótipo. O efeito dessa condição é a variabilidade genética ocasionada pela disseminação desses genes distintos entre os indivíduos da espécie, o que, em termos evolutivos, é bastante favorável, pois aumenta as chances de sobrevivência do grupo e sua perpetuação no ambiente.
+Na homozigose, por outro lado, os alelos correspondentes entre si são idênticos, formando um genótipo sem variação (quando comparado ao parental), o que, do ponto de vista evolutivo, é desfavorável para a espécie a longo prazo. Às vezes, o gene formado é constituído de dois alelos recessivos que expressam alguma característica que impede a sobrevivência e perpetuação da espécie, como no caso de uma baixa resistência a certos tipos de doença existentes no meio ou até mesmo a esterilidade. Futuramente, o resultado final seria a sua extinção completa. É importante lembrar que os mecanismos de seleção natural descritos por Darwin levam em conta as características do indivíduo que melhor se adéqua às condições do meio; o mais adaptado sobrevive e, sendo fértil, é capaz de transmitir seus genes às próximas gerações. A endogamia atua essencialmente em cima disso, alterando a constituição genética dos integrantes do grupo, o que predispõe a diminuição da variabilidade genética e proporciona um caso generalizado de indivíduos homozigotos. A consequência está exatamente no fato de existir apenas um genótipo disponível se perpetuando pelo grupo. Nesse contexto, se os alelos são deletérios, ou seja, expressam características físicas ou fisiológicas que inabilitam a espécie em termos de sobrevivência, surge a depressão endogâmica.  
+
+
+=== Depressão Endogâmica ===
+Depressão endogâmica é um quadro caracterizado pela diminuição no sucesso reprodutivo das espécies que praticam a endogamia, já que essa não é a forma mais vantajosa de garantir uma prole evolutivamente apta.
+Ao longo das gerações, o próprio processo de seleção natural fez com que os organismos encontrassem maneiras que excluíssem os alelos deletérios das linhagens, pois esses não expressam características benéficas aos indivíduos. Ao entrarem em um panorama reprodutivo baseado na endogamia, esses indivíduos estão aumentando as chances de os alelos deletérios, que são recessivos, passarem a predominar na população ou meta-população, o que inviabiliza a espécie em curto, médio ou longo prazo. Esse quadro pode ser qualificado pela diminuição de indivíduos sobreviventes ao parto, e às condições de vida no meio, que levam em conta competição intra e interespecífica, resistência imunológica e vários outros fatores.
+A depressão endogâmica tende a se agravar conforme a endogamia persiste, o que aumenta o risco de extinção completa de uma espécie ou simplesmente a coloca em via de se extinguir, como pode ser observado em espécies como a do peixe-boi marinho.
+
+
+== Endogamia industrial ==
+Mesmo não sendo uma metodologia recomendada do ponto de vista biológico, a endogamia é um recurso amplamente utilizado nos setores agrários para aprimoramento genético, levando em consideração, é claro, o que o mercado procura. Quando uma característica é comercialmente valiosa, ela é fixada através do acasalamento endogâmico, que é monitorado por profissionais qualificados e auxiliado por ferramentas de seleção. O resultado desejado é recorrentemente alcançado, mas ainda assim pode acarretar disfunções não somente para a indústria, mas também para a espécie cultivada.
+Atualmente, a endogamia vem ganhando destaque na mídia especializada em pecuária bovina, preocupando muitos criadores e chamando a atenção de pesquisadores e selecionadores nos programas de melhoramento atuais.
+Cruzamentos consanguíneos foram utilizados, a princípio, como técnica para a formação de raças puras no século XVIII, através de ferramentas genéticas que resultaram na formação de linhagens homozigotas. Tais linhagens obtiveram grande sucesso na época, porém, fazia-se necessária a utilização de uma forte pressão de seleção contra animais indesejáveis e defeituosos.
+A endogamia, no contexto industrial, pode ocorrer quando criadores utilizam certos animais que imprimam suas características raciais em seus filhos com grande êxito ou quando as opções de acasalamentos são reduzidas, fazendo com que os produtores acabem cruzando indivíduos aparentados para a produção da próxima geração.
+O uso de biotecnologias reprodutivas, como a inseminação artificial, a transferência de embrião e a fertilização in vitro, também tem levado a uma maior endogamia, pois permite um número muito maior de descendentes por touro (e por vaca, no caso da transferência de embrião e da fertilização in vitro). Entretanto, vale ressaltar que, por mais produtiva que seja uma fêmea, o impacto desta não se compara àquele proporcionado por um grande macho reprodutor utilizado em inseminação artificial.
+Quanto ao aspecto genético, as técnicas de melhoramento buscam fundamentalmente dois objetivos: alteração nas frequências dos genes — que pode se dar pela seleção, migração e mutação — e alteração nas frequências dos genótipos, que ocorre, principalmente, pelo sistema de endogamia.
+Considerando que cada animal recebe 50% de seus genes de cada um de seus progenitores, quanto mais aparentados eles forem, maiores serão as chances de a prole possuir dois genes idênticos presentes em um determinado locus. A prática da endogamia é usual entre criadores de raças puras que desejam assegurar uma uniformidade racial e a fixação de caracteres desejáveis a certas linhagens de animais.
+
+
+=== Principais efeitos ===
+A endogamia tem, como principais efeitos:
+
+Diminuição da variabilidade dos genes, levando à produção de animais mais similares entre si;
+O aumento da homozigose, podendo levar à depressão endogâmica (em bovinos de corte, foi observada grande por depressão endogâmica para características produtivas e reprodutivas);
+Aumento da homozigose, tendo por consequência o aumento da produtividade tanto entre raças como nas linhagens de uma mesma raça;
+Anomalias genéticas, como agnatia, catarata congênita, hipoplasia do ovário ou testículo, hérnia umbilical, entre outras.
+
+
+=== Exemplos de consequências da homozigose em genes recessivos de animais domésticos ===
+
+
+==== Cães ====
+Fenótipo: 
+
+Distrofia muscular: os animais afetados apresentam um andar anormalmente rígido, tendo os membros posteriores movimento similar ao dos coelhos, abdução das patas e adução dos joelhos e jarretes. O enfraquecimento muscular e a fraqueza ocorrem progressivamente.
+
+
+==== Gatos ====
+Fenótipo: 
+
+Síndrome de Chediak-Higashi: albinismo oculocutâneo parcial; aumento da suscetibilidade a infecções, bem como tendência a sangramentos. Os indivíduos afetados têm plaquetas defeituosas; grânulos aumentados (em leucócitos polimorfonucleares e monócitos) e aumento de grãos de melanina nos pelos.
+
+
+==== Suínos ====
+Fenótipo:
+
+Ausência de extremidades: os leitões nascem vivos, porém sem os membros anteriores e posteriores;
+Fissura palatina: os filhotes não conseguem mamar;
+Hemofilia: defeito na coagulação sanguínea;
+Hidrocefalia: os leitões nascem mortos, ou morrem poucos dias após o parto;
+Paralisia: afeta apenas os membros posteriores. Os filhotes se arrastam com a ajuda dos membros anteriores, morrendo em poucos dias.
+
+
+==== Ovinos ====
+Fenótipo: 
+
+Contratura muscular: no nascimento, os membros se apresentam fixos, rígidos, em posições anormais e com movimento articular mínimo.
+
+
+==== Bovinos ====
+Fenótipo: 
+
+Agnatia: ausência de mandíbula;
+Amputação: os membros anteriores terminam no úmero e os posteriores podem existir até os joelhos. Os afetados apresentam ainda palato fendido e hidrocefalia, morrendo dentro de poucos dias;
+Prognatismo: crânio largo, órbitas oculares grandes, testa larga, bem como ossos nasais largos e chatos. Visão prejudicada à luz do dia;
+Hérnia cerebral: remanesce uma abertura (causada pela falha na ossificação dos frontais) por onde o tecido cerebral sofre protrusão. Os bezerros são natimortos, ou morrem após o parto;
+Catarata congênita: o cristalino é opaco. A córnea, com o passar do tempo, aumenta e e sofre distorção;
+Molares fundidos: os pré-molares estão fundidos com a mandíbula, que é reduzida no comprimento e na largura, resultando na aparência de “boca de papagaio”.
+
+
+==== Equinos ====
+Fenótipo:
+
+Ausência de membros anteriores;
+Atresia do intestino (ocorre no cólon, no caso): fechamento do cólon ascendente.
+
+
+=== Como controlar a endogamia ===
+O controle da endogamia pode se dar em 4 diferentes fases de um programa de melhoramento, sendo elas:
+
+Avaliação genética;
+Seleção dos animais;
+Definição dos acasalamentos;
+Seleção de acasalamentos.Em qualquer uma das estratégias adotadas, a ideia básica é manter a endogamia sob controle sem reduzir o ganho genético, numa visão a curto e/ou longo prazo.
+As principais limitações para que isso ocorra são: informação de parentesco perdida ou desconhecida, erro na informação de parentesco e a tendência a focar o controle somente na próxima geração. Além de afetar a regulação da endogamia, a informação de parentesco incorreta ou desconhecida acarreta em redução do progresso genético que se poderia alcançar.
+
+
+== Endogamia em Plantas ==
+
+Pelo fato de a endogamia normalmente acompanhar perda de fertilidade e de vigor do indivíduo, no caso das plantas, ela acarreta redução considerável da viabilidade daquelas que são alógamas (que fazem preferencialmente polinização cruzada). Esses efeitos não se aplicam às plantas autógamas (que se reproduzem principalmente por autofecundação).
+Espécies alógamas desenvolveram mecanismos para evitar endocruzamentos e autofecundações, sendo que a reprodução ocorre preferencialmente via cruzamentos aleatórios. Os efeitos da endogamia nessas populações são, principalmente, a manifestação da carga genética (devido ao aumento da frequência de genes deletérios) e a diminuição do número de indivíduos heterozigotos. Isso pode prejudicar a adaptação genotípica e a produtividade da planta.
+
+Autofecundações induzidas, seguidas do cruzamento entre as linhagens resultantes (para solucionar a depressão endogâmica gerada), são utilizadas no melhoramento genético de plantas alógamas. Ocorre, então, o chamado vigor híbrido, fenômeno em que os indivíduos resultantes dos cruzamentos possuem maior vitalidade ou maior produção que a média de seus progenitores.
+O cultivo de híbridos requer uso de tecnologia e de sementes híbridas. Sendo assim, costuma ser praticado por médios e grandes produtores. O milho e o eucalipto são espécies alógamas cuja produção de híbridos tem sido largamente utilizadas para fins comerciais.
+Plantas autógamas, devido a autofecundações sucessivas, apresentam formação natural de linhagens puras, com constituição genética muito parecida com a da planta mãe (grau mais intenso de endogamia). Devido a essa pureza, os agricultores não precisam adquirir sementes para o plantio, podendo utilizar as próprias sementes colhidas.
+Plantas com o sistema reprodutivo misto, como algodão e melancia, toleram a depressão por endogamia. Os métodos de melhoramento são geralmente os mesmos usados nas plantas autógamas e, como resultado, se obtêm plantas melhoradas nas quais existem intercruzamentos, endocruzamentos e autofecundações em taxas constantes.
+Com isso, a endogamia vem sido utilizada como uma técnica para melhoramento genético de plantas por meio da geração de híbridos, sendo importante na obtenção de indivíduos mais vigorosos e mais produtivos.
+
+
+== Endogamia em Humanos ==
+
+Pouco menos de 10% das sociedades do mundo são organizados em demos, ou comunidades de aldeias que tendem a ser endógamas. O sistema de endogamia mais famoso do mundo é a organização de castas da Índia, que conta com cerca de duas mil castas e subcastas entre as quais o casamento costumava ser formalmente proibido (sob o pretexto de que o contato com castas inferiores poluiria ritualmente os membros das castas superiores).
+Outro exemplo histórico clássico de endogamia é o da Casa de Habsburgo, da Áustria. Com uma série de casamentos estratégicos, essa casa expandiu seu poder a muitos outros reinos da Europa e, como diversas outras famílias reais, não desejava que suas posses fossem diluídas em outros núcleos da nobreza.
+
+Para isso, promoveu casamentos entre parentes, e à medida que as gerações passavam, seus atributos físicos e psicológicos começaram a mudar, levando ao surgimento de fisionomias disformes (como prognatismo mandibular), bem como de retardo nas habilidades motoras e cognitivas, fraqueza muscular, recorrência de vômito, doenças mentais, diarreia, edemas e impotência. O alto índice de mortalidade infantil e dificuldade de gerar descendentes culminaram na decadência da dinastia.Exemplos de integrantes da Casa Habsburgo, com prognatismo mandibular característico evidente
+		
+		
+		
+Um terceiro exemplo é o do naturalista britânico Charles Darwin. Conhecido por propor a Teoria da Evolução, foi casado com sua prima de primeiro grau, Emma Wedgwood Darwin. Tiveram dez filhos, dos quais três faleceram ainda pequenos e três eram estéreis. Darwin mantinha registros detalhados a respeito da saúde de sua família, e associou o problema dos filhos a observações feitas por ele sobre plantas que haviam cruzado entre si.
+
+
+== Doenças ==
+Algumas doenças relacionadas à consanguinidade em humanos:
+
+Infertilidade;
+Nanismo;
+Hemofilia;
+Palato fissurado;
+Albinismo;
+Membros fusionados;
+Fenilcetonúria;
+Anemia falciforme.
+
+
+== Ver também ==
+Heterose
+Raça pura (animais)
+Cruzamento industrial
+Híbrido
+
+
+== Bibliografia ==
+ALVAREZ, G; CEBALLOS, F. C.; QUINTEIRO, C. (2009) The Role of Inbreeding in the Extinction of a European Royal Dynasty. Disponível em <https://doi.org/10.1371/journal.pone.0005174>;
+CAVALHEIRO, R. Endogamia: possíveis conseqüências e formas de controle em programas de melhoramento de bovinos de corte. Anais. II Gempec – Workshop em Genética e Melhoramento na Pecuária de Corte, 2004;
+CARVALHEIRO, R.; Pimentel, E. C. G., Cardoso, V.; Queiroz, S. A.; Fries, L. A. Genetic effects on preweaning weight gain of Nelore-Hereford calves according to different models and estimation methods. J. Anim. Sci. 84:2925-2933. 2006;
+DICKERSON, G.E. Experimental evalution of selection theory in poutry. In: Genetics today, Int. Congress of Genetics, 11. 9/1963;
+FARIA, F.J.C. et al. Intervalo de gerações e tamanho efetivo da população na raça Nelore. Anais da 38ª Reunião Anual da Sociedade Brasileira de Zootecnia, 2001;
+FERREIRA, Ricardo Alexandre. Antropologia Cultural: um itinerário para futuros professores de História / Ricardo Alexandre Ferreira. – – Guarapuava : Ed. Unicentro, 2009;
+FILHO, W. Koury. Mitos e realidade sobre consangüinidade ou endogamia. Revista ABCZ, ano 2, n10, 2002;
+MAIA, M. C. C.; ASSIS, G. M. L.; ROCHA, M. de M. “O fênomeno da endogomia em plantas”, acessado às 18h25 do dia 4 de Julho de 2017 no endereço eletrônico <http://www.infoteca.cnptia.embrapa.br/handle/doc/70645>;
+SHIMBO, M.V., et al. Efeito da endogamia sobre características de desempenho de bovinos da raça Nelore. In SIMPÓSIO PECUÁRIA 2000 – PERSPECTIVAS PARA O III MILÊNIO, 1., Pirassununga, 2000. Anais. Pirassununga : FZEA-USP, 2000;
+Texto sobre “Endogamia amplia risco de extinção”, acessado às 12h52 do dia 1 de Julho de 2017 no endereço eletrônico (http://revistapesquisa.fapesp.br/2003/01/01/endogamia-amplia-risco-de-extincao/);
+Texto sobre “Depressão Endogâmica”, acessado às 16h do dia 2 de Julho de 2017 no endereço eletrônico (http://www.ib.usp.br/evosite/relevance/IIIA1Inbreeding.shtml);
+Texto sobre “Endogamia: efeitos prós e contras que devem ser bem trabalhos”, acessado às 16h07 do dia 2 de Julho de 2017 no endereço eletrônico (https://www.scotconsultoria.com.br/imprimir/noticias/21298);
+Texto sobre “Endogamia: acasalamentos preferenciais” acessado às 16h30 do dia 4 de Julho de 2017 no endereço eletrônico (ftp://ftp.ufv.br/dbg/Bio642/Bio240/Karla/apostilas/Endogamia.pdf);
+"Texto sobre endogamia para Melhoramento Genético Animal", acessado às 22h do dia 3 de julho de 2017 no endereço eletrônico <https://www.portaleducacao.com.br/conteudo/artigos/veterinaria/endogamia-para-melhoramento-genetico-animal/49122>;
+
+
+== Referências ==

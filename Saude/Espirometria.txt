@@ -1,0 +1,52 @@
+Espirometria é um exame do pulmão, também conhecido como Prova de Função Pulmonar, Prova Ventilatória ou Exame do sopro. A espirometria permite o registro de vários volumes e dos fluxos de ar. A palavra espirometria vem do latim spirare = respirar + metrum = medida. O termo foi criado em 1789 quando cientistas investigavam uma forma de aferir o volume de oxigênio utilizado na respiração. Em linhas gerais, a espirometria mede a velocidade e a quantidade de ar que um indivíduo é capaz de colocar para dentro e para fora dos pulmões.
+Trata-se de um exame não invasivo e indolor, porém em raras situações de potencial risco para o paciente devido às manobras forçadas ou quando a situação do paciente possa comprometer o resultado do exame.
+O exame é realizado respirando-se pela boca através de um tubo conectado a um aparelho chamado espirômetro que é capaz de registrar o volume e a velocidade do ar respirado.
+A interpretação deste exame exige conhecimento de fisiologia e da mecânica respiratória humana e de doenças relacionadas ao pulmão. Mediante avaliação, a Sociedade Brasileira de Pneumologia e Tisiologia certifica médicos pneumologistas a laudar os exames.
+Pacientes com asma, DPOC, bronquite, bronquiectasia, enfisema, fibrose cística, sarcoidose ou fibrose pulmonar devem fazer espirometria periodicamente (de 3 em 3 meses, ou de 6 em 6 meses). O seu exame de espirometria serve para avaliar o efeito do tratamento médico em sua doença.
+
+
+== Tipos de Espirometria ==
+A calorimetria pode ser medida por vários mecanismos distintos, sendo eles:
+
+Espirometria de Circuito Fechado;Consiste num aparelho de circuito fechado onde o indivíduo ira inspirar e expirar o ar presente dentro do aparelho, este através de mecanismos presentes dentro da máquina calcula a diferença da concentração de oxigênio dentro do aparelho, medindo assim a taxa de consumo de oxigênio do paciente.
+
+Espirometria  de Circuito Aberto;O indivíduo inspira o ar atmosférico e expira o ar dos pulmões em um aparelho que irá estimar a taxa de consumo de oxigênio a partir da proporção dos gases atmosféricos que é de aproximadamente 20,93% de O2 e 0,03% de Dióxido de Carbono (CO2). 
+
+Espirometria Portátil;Aparelho de Espirometria de Circuito Aberto que qualquer pessoa pode possuir, não necessitando de um profissional para realiza-lo, porém menos confiável que as demais técnicas.
+
+Técnica com Bolsa;Outro meio de se calcular a taxa de consumo de O2 por uma Espirometria de Circuito Aberto, esta porém é preciso um profissional capacitado para coletar os dados do exame. Consiste no indivíduo montar uma bicicleta ergométrica estacionária com um tubo conectado a uma bolsa de plástico ou lona (geralmente são utilizados balões meteorológicos para a coleta), fazendo com que o ar expirado pelo indivíduo vá de encontro à bolsa de ar no final do tubo. O profissional responsável pelo exame leva uma alíquota do ar expirado para ser analisado, verificando a composição do ar, em especial a concentração dos gases O2 e CO2.
+
+
+== Parâmetros ==
+Os parâmetros de avaliação mais comuns na espirometria são a capacidade Vital (CV), capacidade vital forçada (CVF), volume expiratório forçado (VEF) em intervalos cronometrados de 0,5, 1 (FEV1), 2 e 3 segundos, fluxo expiratório forçado 25-75% (FEF25-75) e ventilação voluntária máxima (VVM).
+Capacidade vital forçada (CVF)
+é o volume máximo de ar exalado com esforço máximo a partir do ponto de máxima inspiração.Volume expiratório forçado em 1 segundo (FEV1)
+é o volume de ar exalado no primeiro segundo a partir do ponto de máxima inspiração. Os valores médios dependem do sexo e da idade da pessoa. Valores entre 80 e 120% da média são considerados normais.VEF1/CVF
+razão entre volume expiratório forçado em 1 segundo (cronometrado) e capacidade vital forçada. Em adultos saudáveis, o valor deve ser de aproximadamente 70–85%, diminuindo com a idade. Em doenças obstrutivas, como a asma, DPOC, bronquite crónica ou enfisema, o valor de VEF1 diminui devido ao aumento da resistência ao fluxo expiratório.Fluxo expiratório forçado (FEF)
+é o fluxo ou velocidade do ar que é exalado dos pulmões durante o ponto intermédio de uma expiração forçada.Pico de fluxo expiratório (PFE)
+(ou débito expiratório máximo instantâneo) é o débito máximo de ar conseguido durante uma expiração forçada máxima
+
+
+== Passo a passo do exame ==
+Um profissional orienta o paciente sobre as etapas que  devem ser feitas durante o teste. Mas em linhas gerais, funciona da seguinte maneira:
+
+Sentado, o paciente deverá respirar através de um bucal conectado ao espirômetro. Como não se pode desperdiçar o ar que o paciente está respirando, uma presilha de borracha tapará o nariz enquanto o paciente respira pela boca.O técnico pode pedir:Respirar tranquilamente por algum tempo.
+Encher o peito completamente.
+Assoprar com o máximo de força e rapidez possível, até que o técnico peça para você repetir o processo.
+O paciente deverá repetir o assopro pelo menos 3 vezes.
+Provavelmente também será necessário assoprar lentamente algumas vezes.
+Após a finalização desta primeira parte, o técnico pode pedir que o paciente use um “spray” broncodilatador e o teste será repetido novamente após 15-20 minutos.Em algum momento é necessário que o paciente esteja psicologicamente preparado para assoprar, pois em caso de efectua-lo despreparado pode ate causar desmaio ao mesmo caso não torne a inspirar o ar.
+
+
+== Espirometria na medição da Calorimetria ==
+A Espirometria também é um exame utilizado para calcular a calorimetria de um atleta, seja ele amador ou profissional, pois o exame nos proporciona obter a taxa de consumo de O2 do organismo. "Os estudos com calorímetro do tipo bomba mostram a liberação de aproximadamente 4,82 kcal de energia quando uma combinação de dieta mista de carboidrato, lipídeo e proteína é queimada com 1L de oxigênio." (MCardle,2016) Assim, calcula-se que aproximadamente 5 kcal/L de O2 é o valor arredondado para se calcular a calorimetria de indivíduos pré ou pós uma sessão de exercício. Portanto os exames de espirometria podem ser utilizados para o calculo de calorimetria de maneira indireta em quaisquer tipos de atletas. "A calorimetria indireta proporciona resultados comparáveis aos da mensuração direta com o calorímetro humano"(MCardle,2016).
+
+
+== Ligações externas ==
+Sociedade Paulista de Pneumologia e Tisiologia - O que é espirometria: principais indicações
+Associação Brasileira de Portadores de DPOC
+Espirometria em Portugal - Perguntas frequentes
+
+
+== Referências ==
+http://itarget.com.br/newclients/pulmonar.org.br/2010/?op=paginas&tipo=pagina&secao=8&pagina=103MCARDLE, William D.; KATCH, Frank I.; KATCH, Victor L. Fisiologia do Exercício: nutrição, energia e desempenho humano. Ed. 8. Rio de Janeiro: GEN, 2016.

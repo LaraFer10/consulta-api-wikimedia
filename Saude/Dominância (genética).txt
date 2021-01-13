@@ -1,0 +1,67 @@
+Dominância, de acordo com as leis da genética descobertas por Gregor Mendel, se refere à propriedade de alguns alelos, chamados de alelos dominantes, e, por convenção, representados por letras maiúsculas, como A, se manifestarem no fenótipo mesmo na presença de outros alelos, chamados de alelos recessivos e representados por letras minúsculas, como a.Ainda de acordo com Mendel, um indivíduo pode ser, em relação às características genéticas, classificado como homozigoto ou heterozigoto.[carece de fontes?] Um indivíduo homozigoto tem, para esta característica, dois alelos iguais, como AA ou aa, enquanto o heterozigoto tem alelos diferentes, no caso Aa (na biologia, a letra maiúscula vem primeiro). O fenótipo é a combinação do genótipo com elementos ambientais, sendo que, nos casos onde existe um alelo dominante (no caso, A), o indivíduo heterozigoto terá o mesmo fenótipo do indivíduo homozigoto com o alelo dominante.
+
+
+== O modelo de Mendel ==
+
+Gregor Mendel fez experimentos com plantas, e, por várias gerações, cruzou cada planta com ela mesma, de forma a obter indivíduos que fossem geneticamente mais puros. Ao cruzar plantas com flores púrpuras com plantas com flores brancas, o resultado, nesta primeira geração, foram apenas plantas de flores púrpuras. Porém, ao cruzar duas plantas da primeira geração, ele observou que a segunda geração se compunha, em 75% dos casos, de plantas de flor púrpura, e em 25% dos casos, em plantas de flor branca.O modelo elaborado para explicar estes dados foi que cada indivíduo possui dois fragmentos de informação para codificar cada característica (ou seja, são diploides). Após várias gerações de auto-cruzamento, estas duas informações são iguais. Durante a formação do gameta, este recebe apenas um dos dois elementos da informação, sendo chamados de haploides. Ao combinar dois gametas, um gameta paterno e outro materno, é recomposto o indivíduo diploide. Quando os dois pedaços de informação são iguais, o indivíduo é chamado de homozigoto, e quando são diferentes, de heterozigoto.A experiência das plantas, então, pode ser esquematizada abaixo. A geração inicial é formada apenas de indivíduos homozigotos, respectivamente AA para as plantas de flor púrpura, e a para as plantas de flor branca. Na primeira geração (chamada F1), como todos gametas de um lado são A e todos gametas do outro lado são a, todos indivíduos são Aa. Na segunda geração (F2), o pai pode fornecer a informação A ou a informação a, com igual probabilidade, e a mãe pode fornecer, igualmente, A ou a, com igual probabilidade, assim, esta geração é formada por 25% de indivíduos AA, 50% de Aa e 25% de aa. Como a informação da flor púrpura é dominante sobre a informação da cor branca, na geração F1 todas plantas tem flor púrpura, e na geração F2 3/4 das plantas tem flor púrpura.Esquema baseado no livro:
+
+
+=== Tipos de dominância ===
+Domínio completo
+Em domínio completo, o efeito de um alelo em um genótipo heterozigoto mascara completamente o efeito do outro. Diz-se que o alelo que mascara o outro é dominante para o último, e o alelo que é mascarado é recessivo para o primeiro. A dominância completa, portanto, significa que o fenótipo do heterozigoto é indistinguível do do homozigoto dominante.
+Um exemplo clássico de dominância é a herança da forma da semente (forma da ervilha) nas ervilhas. As ervilhas podem ser redondas (associadas ao alelo R) ou enrugadas (associadas ao alelo r). Nesse caso, são possíveis três combinações de alelos (genótipos): RR e rr são homozigotos e Rr é heterozigoto. Os indivíduos RR têm ervilhas redondas e os indivíduos rr têm ervilhas enrugadas. Nos indivíduos Rr, o alelo R mascara a presença do alelo r; portanto, esses indivíduos também têm ervilhas redondas. Assim, o alelo R é completamente dominante no alelo r, e o alelo r é recessivo no alelo R.
+Dominância incompleta
+A dominância incompleta (também denominada dominância parcial, semi-dominância ou herança intermediária) ocorre quando o fenótipo do genótipo heterozigoto é distinto e muitas vezes intermediário para os fenótipos dos genótipos homozigotos. Por exemplo, a cor da flor snapdragon é homozigótica para vermelho ou branco. Quando a flor homozigótica vermelha é emparelhada com a flor homozigótica branca, o resultado produz uma flor snapdragon rosa. O snapdragon rosa é o resultado de um domínio incompleto. Um tipo semelhante de dominância incompleta é encontrado na planta das quatro horas, em que a cor rosa é produzida quando pais de flores brancas e vermelhas são criados de forma verdadeira. Na genética quantitativa, onde os fenótipos são medidos e tratados numericamente, se o fenótipo de um heterozigoto estiver exatamente entre (numericamente) o dos dois homozigotos, diz-se que o fenótipo não exibe dominância, ou seja, a dominância existe apenas quando a medida do fenótipo do heterozigoto está mais próxima para um homozigoto que o outro.
+Co-domínio
+A co-dominância ocorre quando as contribuições de ambos os alelos são visíveis no fenótipo.
+Por exemplo, no sistema de grupos sanguíneos ABO, as modificações químicas de uma glicoproteína (o antígeno H) nas superfícies das células sanguíneas são controladas por três alelos, dois dos quais são co-dominantes entre si (IA, IB) e dominantes sobre o recessivo i no local ABO. Os alelos IA e IB produzem diferentes modificações. A enzima codificada por IA adiciona uma N-acetilgalactosamina ao antígeno H ligado à membrana. A enzima IB adiciona uma galactose. O alelo i não produz modificações. Assim, os alelos IA e IB são dominantes para i (os indivíduos IAIA e IAi possuem sangue tipo A, e os indivíduos IBIB e IBi possuem sangue tipo B, mas os indivíduos IAIB têm modificações nas células sanguíneas e, portanto, têm sangue tipo AB, portanto os alelos IA e IB são considerados co-dominantes).
+Outro exemplo ocorre no local do componente beta-globina da hemoglobina, onde os três fenótipos moleculares de HbA / HbA, HbA / HbS e HbS / HbS são todos distinguíveis por eletroforese de proteínas. (A condição médica produzida pelo genótipo heterozigoto é chamada de característica das células falciformes e é uma condição mais leve, distinguível da anemia falciforme, assim os alelos mostram dominância incompleta em relação à anemia, veja acima). Para a maioria dos loci de genes no nível molecular, ambos os alelos são expressos de forma dominante, porque ambos são transcritos no RNA.
+A co-dominância, onde os produtos alélicos coexistem no fenótipo, é diferente da dominância incompleta, onde a interação quantitativa dos produtos dos alelos produz um fenótipo intermediário. Por exemplo, em co-domínio, uma flor homozigótica vermelha e uma flor homozigótica branca produzirão descendentes com manchas vermelhas e brancas. Quando as plantas da geração F1 são autopolinizadas, a proporção fenotípica e genotípica da geração F2 será 1: 2: 1 (Vermelho: Manchado: Branco). Essas proporções são as mesmas para o domínio incompleto. Mais uma vez, observe que essa terminologia clássica é inadequada - na realidade, não se deve dizer que tais casos exibam dominância.
+Resolvendo equívocos comuns
+Embora muitas vezes seja conveniente falar sobre um alelo recessivo ou uma característica dominante, a dominância não é inerente a um alelo ou a seu fenótipo. A dominância é uma relação entre dois alelos de um gene e seus fenótipos associados. Um alelo "dominante" é dominante em um alelo específico do mesmo gene que pode ser inferido a partir do contexto, mas pode ser recessivo para um terceiro alelo e codominante para um quarto. Da mesma forma, uma característica "recessiva" é uma característica associada a um alelo recessivo específico implícito no contexto, mas essa mesma característica pode ocorrer em um contexto diferente, devido a algum outro gene e alelo dominante.
+A dominância não tem relação com a natureza do próprio fenótipo, isto é, se é considerado "normal" ou "anormal", "padrão" ou "fora do padrão", "saudável" ou "doente", "mais forte" ou "mais fraco", "ou mais ou menos extremo. Um alelo dominante ou recessivo pode ser responsável por qualquer um desses tipos de características.
+A dominância não determina se um alelo é deletério, neutro ou vantajoso. Entretanto, a seleção deve operar indiretamente nos genes através dos fenótipos, e a dominância afeta a exposição dos alelos nos fenótipos e, portanto, a taxa de alteração nas frequências alélicas sob seleção. Alelos recessivos deletérios podem persistir em uma população em baixas frequências, com a maioria das cópias realizadas em heterozigotos, sem nenhum custo para esses indivíduos. Esses raros recessivos são a base de muitos distúrbios genéticos hereditários.
+O domínio também não está relacionado à distribuição de alelos na população. Alelos dominantes e recessivos podem ser extremamente comuns ou extremamente raros.
+
+
+=== Gene recessivo ===
+Gene recessivo é um gene cuja característica não aparece expressa, no estado heterozigótico. Um gene recessivo só produz a sua característica quando o seu alelo está presente nos dois pares de cromossomas homólogos (arranjo homozigoto), e só se manifesta na ausência de seu gene contrário " dominante." Geralmente genes recessivos, estão ligados a cores, mas podem caracterizar também síndromes, doenças, causadas por genes recessivos anormais como é o caso do daltonismo.
+
+
+==== Doenças Autossômicas Recessivas ====
+Os genes estão presentes nos autossomas e os indivíduos afetados tem duas cópias do gene mutante. Exemplos:
+
+Fibrose Cística
+ Cirrose Hepática
+Hemocromatose
+Albinismo
+
+
+==== Doenças Ligadas aos Cromossomas Sexuais ====
+Hemofilia (Gene recessivo localizado no cromossomo X)
+Daltonismo (Gene recessivo localizado no cromossomo X)Quando o gene responsável está localizado na parte do cromossoma Y que não tem correspondência no cromossoma X a característica só se manifesta nos homens.
+
+
+==== Características recessivas ====
+Cabelo louro
+Cabelo liso
+Olhos azuis
+Cabelo ruivo
+Olhos verdes
+Canhoto
+Tipo Sanguíneo Negativo
+Miopia
+Cílios grandesA simbologia mais utilizada para representar genes adota a letra maiúscula para indicar que é dominante; a mesma letra minuscula para recessivo.
+
+
+== Notas e referências ==
+
+
+=== Notas ===
+
+
+=== Referências ===
+
+
+== Ligações externas ==
+«Conceitos básicos em genética». no Brasil Escola

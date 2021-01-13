@@ -1,0 +1,19 @@
+Um radiofármaco é uma substância química que possui algum elemento radioativo associado (radioisótopo), que é reconhecido pelo organismo como similar a alguma substância que será processada por algum órgão ou tecido. Trata-se de fontes radioativas não seladas, que são introduzidas no corpo do paciente por ingestão, inalação ou injeção.  Estas substâncias são ditas "marcadas" pelos radioisótopos. Os radiofármacos são utilizados pela modalidade médica conhecida como medicina nuclear, tanto para diagnósticos como para tratamentos.
+
+
+== História ==
+
+O uso de substâncias "marcadas" com radioisótopos tem sido de grande importância na biologia desde a descoberta da radioatividade, permitindo avanços nas ciências básicas que fundamentam a medicina. Porém, o uso efetivo dos radiofármacos na medicina clínica só foi possível após três grandes avanços que ocorreram na metade do século XX: a disponibilidade de reatores nucleares que permitiram a produção de radioisótopos, o que ocorreu após a Segunda Grande Guerra; o desenvolvimento da câmera de cintilação (câmera gama) por Hal Anger no final dos anos de 1950; e a evolução do gerador de radioisótopo, especificamente do gerador de tecnécio-99m.
+
+
+== Tipos de radiofármacos ==
+Os radiofármacos podem ser divididos de acordo com seu uso: 
+
+Uso diagnóstico: utilizam elementos radioativos que emitem fótons com energia suficiente para atravessar o corpo do paciente e chegar aos detectores, devendo possuir meias-vidas física e biológica curtas, para serem eliminadas do corpo pouco tempo após o exame. Dentre os vários elementos usados, pode-se destacar o tecnécio-99m, que é usado para marcar várias moléculas de acordo com o órgão a ser estudado, como por exemplo quando ligado a exametazima se acumula no cérebro, quando ligado ao metilenodifosfonato é absorvido nos ossos, quando ligado a 6 moléculas de metoxiisobutilnitrila é absorvido pelo coração e quando utilizado junto a um macroagregado de albumina é usado para diagnósticos de perfusão pulmonar. Outro elemento utilizado é o flúor-18, um emissor de pósitrons, que posteriormente são convertidos em dois fótons gama de mesma energia e sentidos opostos, utilizado com a técnica da tomografia por emissão de pósitrons ou PET (sigla em inglês para Positron Emission Tomography). O flúor-18 se liga ao fármaco deoxiglicose e segue o metabolismo da glicose no corpo, se concentrando nos órgãos e tecidos que mais consomem glicose.Uso terapêutico: neste caso, os radiofármacos possuem maior atividade e são usados para tratar um órgão específico. O elemento mais usado é o iodo-131 (que emite radiação gama e beta), na forma de iodeto de sódio, que é usado para tratar tumores da tireóide. Também pode-se citar o fósforo-32, usado para o tratamento de doenças malignas do sangue, ossos e ovários, o samário-153 (emissor beta) e o rádio-223 (emissor alfa), ambos para tratamento de tumores ósseos.
+
+
+== No Brasil ==
+A legislação brasileira divide os radiofármacos em duas categorias: aqueles com meia vida igual ou inferior a duas horas e aqueles com meia vida superior a duas horas. Os com meia vida superior a duas horas tem a produção como monopólio da União sendo fornecidos pela Comissão Nacional de Energia Nuclear (CNEN), sendo que a principal unidade produtora é o Instituto de Pesquisas Energéticas e Nucleares (IPEN), que atualmente produz 38 radiofármacos diferentes.Aqueles com meia vida menor ou igual a duas horas tiveram o monopólio da União para produção e comercialização quebrado pela Emenda Constitucional n. 49 de 2006, permitindo a entrada no mercado de produtores privados, uma vez que, devido a meia vida curta, estes radiofármacos devem ser produzidos próximos ao local de utilização.
+
+
+== Referências ==

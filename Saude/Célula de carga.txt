@@ -1,0 +1,26 @@
+Célula de carga é um transdutor de força. A força é medida de forma indireta, normalmente relacionando-a com a resposta de algum material à aplicação de carga (mudança de pressão, deformação, etc.). É muito utilizada por ser muito precisa e ser muito versátil em relação ao tamanho das cargas aplicadas. Por exemplo, podem ser usadas tanto para medir o estresse em estruturas como pilares e cabos como para balanças de precisão.
+Células de carga variam muito dependendo de suas aplicações. Características importantes em uma célula de carga são o modo de operação (tensão e/ou compressão), o ambiente no qual ela pode operar, o intervalo de forças que ela mede, a precisão e a sobrecarga. A sobrecarga (comumente referida como overload) é a carga necessária para que a célula não funcione mais corretamente. O intervalo de forças normalmente é dado em kN. Uma forma de expressar unidades comumente usada é % F.S. (percent full scale), a porcentagem do valor máximo que a escala da célula indica, o que não deixa de ser uma unidade de força.
+Células de carga podem medir forças da ordem de dezenas a dezenas de milhares de newtons. Isso porque a força é, na maioria dos casos, medida através da deformação de um material, o qual pode ser escolhido dependendo da aplicação para que sejam suportadas as cargas necessárias.       
+
+
+== Exemplos de células de carga ==
+
+
+=== Célula de carga com extensômetro de folha ===
+É o tipo mais comum de célula de carga. Utiliza um ou mais  extensômetros de folha, ou extensômetro de resistência, acoplados em um circuito de  ponte de Wheatstone. Os extensômetros são acoplados num material que deformará com a força aplicada. Com a deformação, a resistência dos extensômetros muda e pode-se calcular a deformação do material. A partir desta deformação e conhecendo as propriedades do material (módulo de Young, coeficiente de Poisson, etc.), calcula-se a força aplicada. O material utilizado sempre trabalha na sua região de deformação elástica. Caso seja aplicada uma carga maior que a sobrecarga especificada, a célula de carga pode deformar plasticamente e deve ser recalibrada ou substituída.  
+
+
+=== Célula de carga de corda vibrante ===
+Esta célula utiliza um extensômetro de corda vibrante. O aparelho possui um cabo de aço com as pontas presas ao material que deforma. Uma breve aplicação de um campo magnético faz o cabo vibrar em sua frequência de ressonância. Quando o material da célula é deformado, a corda é tensionada.  Como a frequência de ressonância é proporcional à raiz quadrada da tensão, ela muda. A detecção dessa frequência é feita de modo muito parecido como em uma guitarra elétrica. Este é o sinal que é relacionado à força. Podem ser utilizados mais de um extensômetro numa célula para aumentar a precisão. 
+
+
+=== Célula de carga hidráulica ===
+A célula consiste em duas placas soldadas de modo a selar um fluido hidráulico. Quando a célula é pressionada, a pressão no fluido aumenta. Essa pressão pode ser medida por um tubo Bourdon ou algum outro transdutor que converta pressão em um sinal. As vantagens da célula hidráulica são que ela pode funcionar sem alimentação elétrica e também o seu preço. Porém, ela tem uma precisão menor em comparação com as células que medem força com extensômetros.  
+
+
+== Padrões ==
+A American Society for Testing and Materials (ASTM) possui práticas padrões relacionados à calibração  e à verificação desta calibração .
+No Inmetro, existe o Laboratório de Força, Torque e Dureza que realiza calibração de transdutores de força, como células de carga. 
+
+
+== Referências ==

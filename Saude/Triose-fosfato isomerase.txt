@@ -1,0 +1,12 @@
+A triose-fosfato isomerase é uma enzima que catalisa a interconversão reversível de diidroxiacetona fosfato e D-Gliceraldeído-3-fosfato
+Esta enzima desempenha um papel importante na glicólise, sendo essencial para uma produção eficiente de energia. Tem sido encontrada em todos os organismos em que se fez rastreio de enzimas, incluindo mamíferos, insectos, e também em fungos, plantas e bactérias.
+Em humanos, a deficiência nesta enzima está associada a uma grave enfermidade neurológica, progressiva, denominada deficiência de triose-fosfato isomerase.
+
+
+== Estrutura ==
+
+A enzima é um dímero composto de duas subunidades idênticas, cada uma com cerca de 250 aminoácidos. A estrutura tridimensional de cada subunidade é composta por oito hélices-alfa (azul e vermelho) do lado exterior e oito folhas-beta paralelas no interior (violeta e amarelo). Este motivo estrutural é denominado barril-αβ, ou barril-TIM. O sítio activo da enzima localiza-se no centro do barril. Um resíduo de ácido glutâmico está envolvido no mecanismo catalítico. A sequência de aminoácidos em volta do sítio activo encontra-se preservado em todas as triose-fosfato isomerases conhecidas.
+
+
+== Referências ==
+http://pdbdev.sdsc.edu:48346/pdb/molecules/pdb50_6.html

@@ -1,0 +1,103 @@
+A psicologia cognitiva estuda a cognição, os processos mentais que estão por detrás do comportamento. É uma das disciplinas da ciência cognitiva. Esta área de investigação cobre diversos domínios, examinando questões sobre a memória, atenção, percepção, representação de conhecimento, raciocínio, criatividade e resolução de problemas. Pode-se definir cognição como a capacidade para armazenar, transformar e aplicar o conhecimento, sendo um amplo leque de processos mentais.Ao longo da história, filósofos, matemáticos, biólogos e outros pesquisadores se interessaram pelas capacidades mentais que os seres humanos possuem, constituindo várias teorias a respeito de porquê elas existem e como elas funcionam. Platão e Aristóteles, por exemplo, já teorizavam sobre o pensamento e a memória, partindo de sua base empírica. Assim, o problema do conhecimento humano sempre esteve intimamente relacionado com os temas estudados pela psicologia cognitiva.
+A psicologia cognitiva é um dos mais recentes ramos da investigação em psicologia, tendo se desenvolvido como uma área separada desde os fins dos anos 1950 e princípios dos anos 1960. Pode-se dizer, entretanto, que foi desde a segunda metade do século XIX que as funções mentais humanas deixaram o terreno da filosofia e começaram a se tornar objeto legítimo de investigação científica. O termo começou a ser usado com a publicação do livro Cognitive Psychology de Ulrich Neisser em 1967. No entanto a abordagem cognitiva foi divulgada por Donald Broadbent no seu livro Perception and Communication em 1958. Desde então o paradigma dominante na área foi o do processamento de informação, modelo defendido por Broadbent. Neste quadro de pensamento, considera-se que os processos mentais são comparáveis a software a ser executado num computador que neste caso seria o cérebro. As teorias do processamento de informação têm como base noções como: entrada; representação; computação ou processamento e saídas.
+Uma das mais relevantes correntes em termos de estruturação da psicologia enquanto ciência, a psicologia cognitiva ascendeu em oposição à teoria comportamental e sua lógica de naturalização da ciência psicológica. Desse modo, a abordagem passou a conter novas perspectivas de estudo do comportamento, avançando paulatinamente em direção à subjetividade e discutindo questões relacionadas à percepção, memória, inteligência, emoção e cognição.
+Nesse contexto, os conceitos passaram a buscar estabelecer conexões entre o comportamento e os aspectos por ele desencadeados, sendo a singularidade cognitiva do indivíduo não só amplamente considerada, como também concebida como a causa pela qual um ser estrutura o mundo à sua maneira. Em outras palavras, a teoria cognitiva passou a legitimar que a forma como cada indivíduo estrutura e percebe o mundo está totalmente arraigada a seus processos mentais e cognitivos. Na psicologia cognitiva, o conceito behaviorista do S-R (estímulo-resposta) agora tem um novo elemento: as crenças do individuo. Fatores externos ainda causam uma resposta no individuo, mas, antes, passam por variáveis ligadas a como ele interpreta e vê a si mesmo, o outro e o mundo em que vive, seguindo um modelo S-O-R, onde O são as crenças.
+O estudo dos processos mentais tinha já sido abordado de uma forma geral pela psicologia, especialmente pelos pioneiros Wilhelm Wundt, Gustav Teodor Fechner, Ernst Heinrich Weber e Francis Galton. Encontramos teorias cognitivas na psicologia social, personalidade, psicopatologia e na psicologia do desenvolvimento. Aplicações de teorias cognitivas na psicologia comparada conduziram a muito estudos recentes sobre a cognição animal.
+No século XX, a psicologia cognitiva recebeu um grande impulso através de estudos sobre inteligência artificial, que permite relacionar e comparar, em certa medida, o processamento humano e animal da informação com processos eletrônicos, como o computador. Como teoria do comportamento humano, a psicologia cognitiva surgiu como uma alternativa. A fisiologia não alcançava os níveis superiores do comportamento, e o behaviorismo não colocava sob foco de sua análise os processos cognitivos, visto que estes eram apenas um comportamento dentre vários.
+
+
+== Grandes áreas de investigação em psicologia cognitiva ==
+
+
+=== Percepção ===
+A percepção refere-se às funções que permitem captar os estímulos do ambiente, para posterior processamento de informação.
+Os órgãos dos sentidos são responsáveis pela captação das informações do ambiente, que podem ser de natureza visual, olfativa, tátil, gustativa, auditiva e cinestésica (equilíbrio e movimento do corpo). O processamento cerebral depende bastante das informações fornecidas pelas estruturas sensoriais, sendo estas a base de nossa compreensão do mundo.
+Existe uma grande quantidade de pesquisas sobre os processos perceptivos na psicologia cognitiva que são utilizadas para compreender o comportamento. Um exemplo disso são os estudos sobre as ilusões, especialmente as ilusões de óptica.
+A atenção também é tópico de estudo relacionado ao processo cognitivo, embora vários autores a considerem função derivada da consciência. Através da atenção é possível que a mente selecione os estímulos recebidos, dando prioridade a uns enquanto outros são minimizados ou mesmo excluídos do processamento. Exemplos de estudos sobre a atenção incluem alguns controversos, como os de estímulos subliminares. Portanto, embora a atenção possa ser estudada no tópico da percepção, ela seria considerada um nível inicial de processamento dos estímulos.
+Da mesma forma, o reconhecimento de padrões depende de um nível básico de processamento de informação. Os vários estímulos sensoriais recebidos do ambiente são organizados de maneira ativa por vários sistemas perceptivos do cérebro, de maneira a constituir um "padrão que faça sentido". Assim, muitas vezes aquilo que chamamos de percepção não é o que os órgãos sensoriais identificaram inicialmente, mas é uma organização, um arranjo que passa a fazer um sentido para o cérebro.
+Por exemplo, no desenho abaixo
+
+                                                     ...
+                                                     ...
+
+identificamos "dois conjuntos de três pontos" distribuídos de forma horizontal. Mas se o arranjo de pontos fosse modificado
+
+                                                 .    .    .
+                                                 .    .    .
+
+diríamos que são "três conjuntos de dois pontos". Mesmo que o estímulo sensorial seja o mesmo (seis pontos), a distância entre eles acaba gerando uma organização perceptiva diferente, e isto dá um novo significado àquilo que está sendo percebido.
+Mais do que estudar a maneira como captamos os estímulos visuais, a psicologia cognitiva se interessa em conhecer como o cérebro organiza as informações captadas pela visão e permite que reconheçamos o ambiente. Existem vários modelos explicativos para este processo. David Marr coloca três fases no processo de interpretação dos estímulos visuais:1. Esboço primário: é o primeiro nível de organização perceptiva visual. Aqui são organizados os estímulos como luz e sombra, que permitem identificar dados como textura e as bordas da figura, que são os elementos que dão as características básicas do objeto percebido. O esboço primário contém, segundo este modelo, somente informações bidimensionais.
+2. Esboço 2½D (bi-e meio-dimensional): segundo nível de organização. Aqui é "montada" uma imagem que contém dados referentes à profundidade do objeto ou cena, e dados mais complexos, como concavidades e saliências, através da combinação de dados do esboço primário.
+3. Modelo em 3D (tridimensional): consiste na construção de um modelo estável, que permite "rotações mentais" da figura. Nestas rotações, as informações do objeto percebido não variam conforme o observador vai se deslocando, porque é construída a imagem mental do objeto percebido, que pode ser manipulada mentalmente.
+Como exemplo, a percepção de um cubo poderia ser dada da seguinte maneira: primeiro, são captadas e organizadas as informações sobre a direção da luz e a sombra que o cubo projeta, bem como a textura de sua superfície (esboço primário). Em seguida, são observadas como as bordas, ângulos e outros elementos estão posicionados, dando a forma da figura (esboço 2½D). Finalmente, há a elaboração da representação do cubo, que pode ser visualizada e rodada mentalmente (modelo em 3D).
+
+
+=== Memória ===
+A memória é a capacidade de registrar, armazenar e evocar as informações recebidas e processadas pelo organismo. Ela é provavelmente uma das funções mentais mais estudadas pela psicologia cognitiva, juntamente com a linguagem e a inteligência. Talvez isso se deva ao fato de que é relativamente simples solicitar a memorização e recordação de informações através das experiências. Contudo, existe um número expressivo de modelos de memória, categorizando-as de várias formas.
+Resumidamente, a memória pode ser dividida em três processos:Codificação: processo de entrada e registro inicial da informação. A codificação diz respeito à capacidade que o aparato cognitivo possui de captar a informação e mantê-la ativa por tempo suficiente para que ocorra o processo de armazenamento, segunda etapa da memória.
+Armazenamento: capacidade de manter a informação pelo tempo necessário para que, posteriormente, ela possa ser recuperada e utilizada
+Evocação ou reprodução: capacidade de recuperar a informação registrada e armazenada, para posterior utilização por outros processos cognitivos (pensamento, linguagem, afeto, etc.).
+Abaixo estão algumas das possibilidades de classificação da memória:
+
+Memória de curto prazo e memória de longo prazo
+Memória autobiográfica
+Memória episódica
+Memória sensorialA perda ou dificuldade de armazenar e/ou recuperar a informação é chamada de amnésia. É uma situação clínica relativamente comum em casos de lesão cerebral, seja por patologias ou por traumas de diversas espécies.
+
+
+=== Representação de conhecimento ===
+Imagem Mental
+Codificação preposicional
+Modelos mentais
+
+
+=== Linguagem ===
+A linguagem refere-se à capacidade de receber, interpretar e emitir informações para o ambiente. Dentre os temas estudados pela psicologia cognitiva, a linguagem é um dos mais pesquisados, junto com a memória e a inteligência, porque é área de interesse de várias ciências, como a antropologia, a sociologia, a filosofia e a comunicação.
+Dentre as habilidades que caracterizam a espécie humana, a linguagem tem sido aquela mais apontada pela maioria dos autores. Através da linguagem, conseguimos manipular de forma abstrata os símbolos linguísticos, permitindo desta forma a troca de informações entre as pessoas. A linguagem reflete, em boa medida, a capacidade de pensamento e abstração, embora seja uma função mental distinta do pensamento: uma pessoa pode ter transtornos na linguagem (por exemplo, uma afasia) e manter a função do pensamento preservada, mas se tiver um transtorno de pensamento (como pode ocorrer, por exemplo na esquizofrenia), a linguagem será mais ou menos prejudicada.
+A habilidade linguística é desenvolvida de forma integrada com os processos cognitivos. À medida que as funções mentais vão se desenvolvendo e tornando-se mais complexas, a linguagem vai ampliando seus recursos.
+
+Gramática e Linguística
+fonética e fonologia
+aquisição de linguagem
+
+
+=== Pensamento ===
+O pensamento é a capacidade de compreender, formar e organizar conceitos, representando-os na mente. Diz respeito à habilidade em manipular conceitos mentalmente, estabelecendo relações entre eles ligando-os e confrontando-os com elementos oriundos de outras funções mentais (percepção, memória, linguagem, afeto, atenção, etc.) e criando outras representações (novos pensamentos).
+Ao contrário do que muitas pessoas acreditam, o pensamento não é uma habilidade cognitiva exclusiva da espécie humana. Pode-se dizer que os animais, como um todo (exceção feita aos que não possuem sistema nervoso como as esponjas e, talvez, dos cnidários), possuem algum tipo de estruturação de pensamento (compreendido no sentido lato, ou seja, a capacidade de processar informação através de um sistema nervoso organizado), mas obviamente sem ter o nível de complexidade alcançado pelos seres humanos.
+O pensamento está geralmente associado com a resolução de problemas, tomadas de decisões e julgamentos.
+Lógica e raciocínio formal ou natural
+Formação de conceitos
+Resolução de problemas
+Julgamento e tomada de decisão
+
+
+== Terapia Cognitiva ==
+
+A Terapia Cognitiva foi fundada por Aaron Beck, psiquiatra estadunidense, na década de 60. O professor da Universidade da Pensilvânia propôs, inicialmente, um “modelo cognitivo da depressão” e que posteriormente evoluiu para a compreensão e tratamento de outros transtornos.
+Embasada nos conceitos da psicologia cognitiva, a terapia cognitiva tem por princípio fundamental que a maneira como os indivíduos percebem e processam a realidade influencia a maneira como eles se sentem e se comportam. Como, segundo Beck, os pensamentos, sentimentos e comportamento estão conectados, os indivíduos podem superar certas dificuldades identificando e alterando fatores indesejáveis ou prejudiciais, buscando produzir uma forma mais realista de percepção do ambiente e gerando esquemas de comportamento que sejam mais bem adaptados.
+É muito comum o uso de técnicas derivadas de outras áreas do conhecimento, como a dialética, técnica da seta descendente, registro de pensamentos disfuncionais e outras técnicas psicológicas especialmente desenvolvidas para esse fim.
+A Terapia cognitiva se destina tanto ao tratamento dos diferentes transtornos psicológicos e emocionais como a depressão, ansiedade, transtornos psicossomáticos, transtornos alimentares, fobias, traumas, dependência química, entre outros.
+Além disso, a Terapia Cognitiva comportamental auxilia nas diversas questões que envolvem nossa vida como um todo, como: dificuldades nos relacionamentos, escolhas profissionais, luto, separações, perdas, estresse, dificuldades de aprendizagem, desenvolvimento pessoal e muitos outros.
+Sabendo que o objetivo principal da Terapia Cognitivo Comportamental é mudar os sistemas de significados dos pacientes para alterar suas emoções e comportamentos com relação às situações, o primeiro passo da terapia é entender esses sistemas. Para isso, durante as sessões, o psicólogo vai identificando sentimentos, pensamentos e comportamentos de determinadas situações descritas pelo paciente. A partir disso, alguns padrões vão sendo identificados. São esses padrões que determinam crenças e percepções para cada experiência vivida. Diante dos padrões mal adaptativos ou disfuncionais de pensamentos, cabe ao terapeuta auxiliar o paciente a encontrar novas possibilidades de pensamentos alternativos e mais funcionais que possibilitem uma boa adaptação à sua realidade social. Isso é feito a partir da determinação de um foco e de metas para que, com o tempo, o paciente adquira sua autonomia e possa lidar com as questões por conta própria. Esta é a reestruturação cognitiva e comportamental que dá nome à abordagem.
+
+
+== Psicólogos cognitivos famosos ==
+
+
+== Ver também ==
+Cognição Animal
+Cognição
+Ciência cognitiva ou Cognitivismo
+Terapia cognitivo-comportamental
+Conecionismo
+Neurociência cognitiva
+Neurociência Computacional
+Neuropsicologia
+
+
+== Ligações externas ==
+Artigos famosos sobre a história da cognição
+Portalpsicologia.org
+
+
+== Referências ==

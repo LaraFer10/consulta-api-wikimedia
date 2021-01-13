@@ -1,0 +1,60 @@
+A Engenharia Biomédica é uma área que integra princípios das ciências exatas e ciências da saúde, desenvolvendo abordagens inovadoras aplicadas na prevenção, diagnóstico e terapia de doenças. Esta área da Engenharia está em grande expansão e se dedica ao desenvolvimento e produção de próteses, instrumentos médicos, equipamentos de diagnóstico.,  e ao estudo dos organismos vivos do ponto de vista da engenharia. Além disso, os Engenheiros Biomédicos estão aptos a ocupar cargos em hospitais e clínicas (administração hospitalar e engenharia clínica), indústrias e empresas da área médica (elaboração e desenvolvimento de novos equipamentos) e universidades (pesquisa).  A Engenharia Biomédica é uma área multidisciplinar que conjuga conhecimentos de química, física, biologia e medicina bem como as técnicas de engenharia elétrica, engenharia mecânica, engenharia química, engenharia dos materiais, bioinformática, bioengenharia e engenharia física.
+
+
+== Funcionamento do corpo humano ==
+As técnicas de engenharia podem ser aplicadas ao estudo do corpo humano. Nesta óptica, um engenheiro está interessado no transporte e na transformação de alimentos, sangue e oxigénio no corpo humano, com as propriedades dos materiais que o constituem, com a distribuição de elementos químicos e com as propriedades dos tecidos. Estas informações são utilizadas para produzir modelos do corpo humano com os quais é possível prever os efeitos das terapêuticas a efectuar.
+
+
+== Biomateriais e desenvolvimento de próteses ==
+Determinadas pessoas, que devido a acidentes, doenças degenerativas ou a deficiências físicas, podem precisar de próteses. Estas próteses têm que ser adequadas à função a que se destinam. Para isso são desenvolvidos novos materiais mais compatíveis com o corpo humano. Estes materiais têm de obedecer a um vasto número de parâmetros de modo a serem biocompatíveis. A biocompatibilidade é essencial para a implementação in-vivo dos biomateriais, de modo a minimizar quaisquer possíveis reações de rejeição. A título de exemplo, é de referir a esterilidade do biomaterial, que é uma propriedade extremamente importante na àrea dos biomateriais.
+
+
+== Imagiologia ==
+As técnicas de imagiologia são utilizadas no diagnóstico. Entre estas técnicas encontram-se:
+
+Radiografia
+Tomografia axial computorizada
+Ultra-sonografia
+Fluoroscopia
+Ressonância magnética
+Tomografia por emissão de positrões (PET)
+Tomografia por emissão de fóton único (SPECT)
+
+
+== Kits de diagnóstico ==
+Os kits de diagnóstico são elaborados pelos engenheiros biomédicos por meio de estudos e pesquisas na área, de modo que estes possam fazer parte do cotidiano da medicina, no seu uso geral, bem como trazer novos benefícios na prevenção e no tratamento de doenças.Em 1998, Richard Flemmerson foi um dos poucos engenheiros biomédicos a elaborarem equipamentos isolados para o tratamento do câncer de bacia. Seu kit era composto por uma série de componentes, provindos das mais diversas áreas da engenharia, e o tratamento para esse tipo de câncer sofreu significativa melhora após a introdução de novas ferramentas, todas elas patenteadas pela Flemmerson Health & Care Inc.
+Ao elaborar um kit de diagnóstico, o engenheiro biomédico deve se basear na área em que se encontra e por meio de estudos e pesquisas obter as peças-chave para a elaboração da mesma, tendo em vista a junção motora das engenharias biomédica e mecatrônica. Também utilizada na engenharia de reabilitação, os kits biomédicos podem ser adquiridos pelas empresas que financiam os estudos e pesquisas sobre novas formas de obter os sinais vitais que precisam o corpo humano
+
+
+== Bioinformática ==
+
+A quantidade de informação biológica tem aumentado exponencialmente nos últimos anos, quer por causa do aumento da produção científica quer, especificamente, por causa do projecto genoma humano. Esta informação tem que ser tratada e processada através de programas de computador e esse é o papel da bioinformática. Actualmente estão a ser desenvolvidos códigos numéricos para analisar o genoma humano, pesquisar publicações científicas e prever a estrutura de proteínas.
+
+
+== Segurança ==
+As restrições de segurança são muito importantes. Alguns intrumentos médicos não são completamente seguros. Normalmente, foi necessário adicionar sistemas de segurança. O próprio instrumento é capaz de diagnosticar as suas próprias falhas, desligando-se e impedindo dessa forma o seu uso indevido. Normalmente, as normas de segurança exigem que, ao longo do tempo de vida do instrumento, não deve ocorrer nenhuma falha de segurança que ponha em risco a saúde de um paciente.
+Alguns intrumentos médicos têm que ser esterilizados. Este facto coloca vários problemas de engenharia, dado que os materiais usados e o próprio instrumento têm que resistir ao calor.
+Os testes dos instrumentos médicos têm que ser exaustivos. Por exemplo, o software tem que ser sujeito a todas as situações possíveis antes de poder ser utilizado. Isto obriga a que os instrumentos sejam tão simples quanto possível para prevenir efeitos inesperados.
+As normas reguladoras impostas pelos governos deverão estar sempre presentes na mente de um engenheiro biomédico. A fim de se satisfazerem as medidas reguladoras, muitos sistemas biomédicos devem possuir uma documentação, em que se apresente o modo de manuseamento, design, construção, testes e entrega. Isto é pensado para incrementar a qualidade e a segurança da terapia reduzindo possíveis falhas que poderiam ser acidentalmente omitidas.
+Os engenheiros biomédicos trabalham essencialmente tendo por base dois pontos de vista regulamentares. Esses parâmetros afectam diretamente a saúde dos cidadãos, pois os instrumentos médicos, são construídos com base nesses parâmetros.
+Nos Estados Unidos, a Food and Drug Administration adota uma posição adversária. Actualmente regula instrumentação bem como fármacos, e avalia a fiabilidade de novas terapias  e novos instrumentos.
+
+
+== Ver também ==
+
+Engenharia de tecidos
+Engenharia biológica
+Imagiologia
+Biomecânica
+Bioinformática
+Bioengenharia
+Engenharia dos materiais
+Biomedicina
+
+
+== Referências ==
+
+
+== Ligações externas ==
+O que é engenharia biomédica
+Definindo Engenharia Biomédica

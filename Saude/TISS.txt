@@ -1,0 +1,148 @@
+A TISS - Troca de Informação em Saúde Suplementar é um padrão para registro e intercâmbio de dados entre operadoras de planos privados de assistência à saúde e prestadores de serviços médico-hospitalares da Agência Nacional de Saúde Suplementar – ANS.
+
+
+== História ==
+A proposta da ANS utiliza padrões já existentes e disponíveis em outros bancos de dados e sistemas de informações, permitindo uma compatibilização com os diversos sistemas de saúde hoje em operação, possibilitando melhorias na utilização das informações coletadas.
+O padrão TISS define o padrão para troca de informações sobre o atendimento prestado aos beneficiários, entre operadoras de plano privado e prestadores, além do envio destes dados para a ANS. O objetivo da padronização é atingir a compatibilidade e interoperabilidade funcional e semântica entre os diversos sistemas independentes para fins de avaliação da assistência à saúde (caráter clínico, epidemiológico ou administrativo) e seus resultados, orientando o planejamento do setor.
+Este trabalho se iniciou em maio de 2003 com um trabalho de pesquisa e elaboração do padrão a partir de convênio com o Banco Interamericano de Desenvolvimento – BID. O grupo de trabalho criado na Agência analisou os padrões e informações já trocados no mercado, com o objetivo de propor um modelo único de troca de informações em saúde suplementar.
+Várias guias trocadas entre os diversos atores do mercado foram analisadas, além de visitas feitas a prestadores e operadoras com o intuito de identificar as dificuldades enfrentadas no processo de troca de informação. Foram também estudados diversos padrões internacionais de troca de informações em saúde utilizados no mercado, além de vários sistemas nacionais como o SIP da ANS; o SIM, SINAM, CNS; CNES e CIH, do Ministério da Saúde.
+A partir de 2004 a Agência concentrou-se na realização de diversos eventos para divulgação do padrão e aproximação do mercado como um todo, com apoio do Banco Interamericano de Desenvolvimento.
+Estes eventos, realizados no Rio de Janeiro, Fortaleza, Curitiba, São Paulo e Porto Alegre representam um importante momento de integração da ANS com o mercado de saúde suplementar a fim de discutir os problemas e soluções relacionados à informação e a troca dela entre a cadeia.
+Em fevereiro de 2005, dentro da prática de transparência adotada pela ANS, foi elaborada uma minuta de Resolução Normativa e adotou-se a Consulta Pública nº 21, com o objetivo de discutir amplamente e aprimorar o padrão TISS.
+A minuta apresentada versava sobre o estabelecimento de um padrão essencial e obrigatório para as informações trocadas entre operadoras de planos de saúde e prestadores de serviços médico-hospitalares e teve seu prazo de divulgação ampliado devido ao grande interesse e participação do mercado, que apresentou criticas, sugestões e dúvidas.
+A participação do setor foi expressiva. Hospitais, laboratórios e profissionais liberais, conselhos profissionais, operadoras, entidades de defesa do consumidor e entidades representativas enviaram suas contribuições, dúvidas e sugestões.
+Esta iniciativa visa a diminuição da burocracia dentro das diversas entidades envolvidas diretamente no mercado de saúde suplementar, aprimorar a comunicação entre os atores da cadeia, reduzir a utilização do papel, agilizando o acesso do beneficiário aos serviços médico-hospitalares, facilitar a obtenção de informações para estudos epidemiológicos e definição de novas políticas de saúde, favorecer a realização de análise de custos e benefícios de investimentos na área de saúde, reduzir os altos e desnecessários custos administrativos que decorrem do excesso de formulário e de falhas de preenchimento e utilização dos mesmos, melhorar a qualidade da assistência à saúde e possibilitar comparações e análises de desempenho institucional implicando a otimização de recursos e aumento da qualidade de gestão.
+No processo de padronização foram consideradas as principais categorias de padrões na área de Informática em Saúde utilizadas internacionalmente. Estas categorias são: padrão de comunicação; de vocabulário; de conteúdo e estrutura e de privacidade; confidencialidade e segurança. O padrão TISS para a troca de informação entre operadoras e prestadores desenvolveu e definiu o seguinte:
+
+Padrão de comunicação: a linguagem de marcação XML/Schema;
+Padrão de vocabulário: o CID 10, por exemplo, é um dos padrões adotados na área públicos e privados para a descrição dos diagnósticos do paciente;
+Padrão de conteúdo e estrutura: são os padrões definidos nas guias e demonstrativos;
+Padrão de privacidade, confidencialidade e segurança: foram adotadas as normas editadas pelo Conselho Federal de Medicina.A padronização e a troca eletrônica de informações em saúde suplementar trazem inúmeros benefícios, entre os quais:
+
+aprimoram a comunicação entre os atores do setor
+reduzem o uso de papel, agilizando o acesso do beneficiário aos serviços de saúde
+facilitam a obtenção de informações para estudos epidemiológicos e definição de políticas em saúde
+favorecem a realização de análise de custos e benefícios de investimentos na área de saúde
+reduzem custos administrativos
+melhoram a qualidade da assistência à saúde
+possibilitam comparações e análises de desempenho institucional implicando a otimização de recursos e aumento da qualidade de gestão.
+
+
+== Padrão de Comunicação ==
+O Padrão de Comunicação define os métodos para se estabelecer comunicação entre os sistemas de informação das operadoras de plano privado e os sistemas de informação dos prestadores através de mensagens eletrônicas.
+Uma mensagem ou transação eletrônica é um conjunto estruturado de informações trocado entre atores de diversos setores com a finalidade de solicitar uma operação ou informar um resultado.
+Buscando a adoção de um padrão flexível e reconhecido internacionalmente, a ANS, com a contribuição das operadoras e dos prestadores de serviços, optou por adotar o XML (extensible MarkUp Language) como padrão para troca de mensagens eletrônicas.A Resolução Normativa definiu a estrutura lógica das mensagens e a Instrução Normativa publicou seus formatos físicos. Foram definidas as seguintes mensagens eletrônicas:
+Solicita Elegibilidade- Mensagem eletrônica enviada pelo prestador à operadora solicitando a confirmação de elegibilidade do beneficiário.
+Solicita Autorização- Mensagem eletrônica enviada pelo prestador à operadora solicitando autorização para realização de serviços médico-hospitalares em beneficiário.
+Envio de Lotes de Guias- Mensagem eletrônica enviada pelo prestador à operadora com as informações sobre a assistência realizada ao beneficiário, para fins de pagamento.
+Envio de Lote de Guias de revisão de glosa- Mensagem eletrônica emitida pelo prestador à operadora com as guias para reapresentação, solicitando a revisão de glosa das mesmas com a devida justificativa.
+Solicitação de Demonstrativo de Pagamento- Mensagem eletrônica enviada pelo prestador à operadora, solicitando o envio do demonstrativo de pagamento por período ou número de protocolo de recebimento. Em resposta, a operadora enviará o demonstrativo de retorno solicitado.
+Solicitação do Status do Protocolo- Mensagem eletrônica enviada pelo prestador à operadora, solicitando a situação dos lotes enviados, a partir do número dos respectivos protocolos
+Cancela Guia- Mensagem eletrônica enviada pelo prestador à operadora solicitando o cancelamento do processamento de determinada guia de faturamento.
+Confirmação de Elegibilidade- Mensagem eletrônica emitida pela operadora e enviada ao prestador confirmando ou não a elegibilidade do beneficiário.
+Protocolo de Recebimento- Mensagem eletrônica emitida pela operadora e enviado ao prestador com a comprovação do recebimento dos lotes de guias enviados pelo prestador.
+Autorização de Procedimentos- Mensagem eletrônica emitida pela operadora ao prestador em resposta à solicitação de procedimento informando os detalhes da autorização dos procedimentos solicitados
+Status do Protocolo- Documento eletrônico emitido pela operadora em resposta à mensagem de Solicitação de Status do Protocolo.
+Para validação da estrutura de uma mensagem XML, são necessários os arquivos Schema-XML Schema Definition (XSD) que serão descritos a seguir.
+O padrão TISS é definido através da "Mensagem TISS" que é composta de:
+*Cabeçalho - descreve a origem e destino da mensagem
+*Corpo – contém as transações específicas do padrão TISS
+*Epílogo – contém o fechamento da mensagem com o cálculo do hash
+
+
+== Premissas ==
+Na construção do schema que define o padrão TISS, algumas premissas foram adotadas:
+Adoção dos padrões já utilizados pela ANS, Ministério da Saúde e das sugestões da consulta pública nº 21/2005 sobre o padrão TISS;
+Inclusão do maior número possível de domínios no schema-XML para aumentar a capacidade de expressão do modelo;
+Incorporação de diferentes alternativas de fornecimento da mesma informação para aumentar a flexibilidade;
+Construção de tipos de dados simples e, a partir deles, criação de elementos de maior complexidade que correspondem à agregação dos tipos simples para, finalmente, se definir a Mensagem TISS;
+a. Padrões de notação
+Os seguintes padrões de notação foram adotados:
+
+namespace "http://www.ans.gov.br/padroes/tiss/schemas" foi criado para identificar os elementos do schema do padrão TISS
+elementos que descrevem tipos simples de dados foram identificados com o prefixo "st_". Exemplo: st_tipoAtendimento, st_tipoConsulta. Tipos simples que foram utilizados em vários guias estão descritos no schema TissSimpleTypesV2_01_02.xsd;
+elementos que descrevem tipos complexos de dados foram identificados com o prefixo "ct_". Os tipos complexos foram construídos a partir dos tipos simples. Tipos complexos que foram utilizados em vários guias estão descritos no schema TissComplexTypesV2_01_02.xsd;
+nome dos elementos foi definido por extenso para manter a expressividade do padrão e facilitar o seu entendimento.Exemplo:
+
+<complexType name="ct_Diagnostico">
+        <sequence>
+             <element name="nomeTabela"
+                type="ans:st_tabelasDiagnostico"/>
+             <element name="codigoDiagnostico"
+                type="ans:st_codigoDiagnostico"/>
+             <element name="descricaoDiagnostico" type="ans:st_nome" minOccurs="0" nillable="true"/>
+        </sequence>
+</complexType>
+
+O elemento ct_Diagnostico é um elemento composto que consta do schema tissComplexTypes.xsd uma vez que é referenciado em várias guias. Este elemento é composto de uma sequência de elementos baseados em tipo simples, como o elemento nomeTabela baseado no tipo simples "ans:st_tabelasDiagnostico".
+b. Versionamento e download
+Os schemas que compõem o padrão TISS são versionados. O número da versão é identificado pelo nome do arquivo que contém o schema. Acrescentou-se ao nome do arquivo que contém o schema o ano (AAAA), o mês (MM) e número da versão do padrão, conforme abaixo:
+
+TissSimpleTypesV2_01_02.xsd
+TissComplexTypesV2_01_02.xsd
+TissGuiasV2_01_02.xsd
+TissV2_01_02.xsdO sítio oficial para download das versões atualizadas do padrão TISS é http://www.ans.gov.br/padroes/tiss/schemas
+
+
+== Formas de comunicação ==
+As operadoras são obrigadas a estar preparadas para receber de sua rede credenciada os arquivos XML através de upload em sua página web, independente de outras formas de comunicação disponibilizadas opcionalmente.
+Nenhum tipo de tecnologia está proibida pela Norma. Qualquer tecnologia legada poderá ser utilizada desde que consiga atender na integra a norma e o padrão de comunicação e segurança determinado, e que não-proprietária, a fim de facilitar a utilização da mesma por todos os atores envolvidos.
+É considerada a utilização de serviços terceirizados para envio mensagens TISS através de servidores certificados. Um certificado digital poderá ter várias entidades cadastradas. Os serviços terceirizados pelas entidades (call center, URA, conectividade, etc.) são de responsabilidade da empresa contratante, sendo a contratada considerada parte da contratante para o cumprimento de legislações e responsabilidade. As informações padronizadas devem ser aplicadas no fluxo entre Prestadores e Operadoras. Não há necessidade de padronização entre Contratada e contratante.
+As Operadoras poderão manter seus portais para preenchimento de guias e processo de autorização desde que estes estejam adequados ao padrão de Conteúdo e Estrutura. Todos os campos obrigatórios definidos para a guia devem estar contemplados nas interfaces, obedecendo a nomenclatura e a sequência estabelecida no padrão. Mesmo para operadoras que disponibilizem este portal fica mantida a obrigatoriedade de estarem preparadas para receber os arquivos no formato XML através de webservices ou qualquer outra tecnologia que atenda a necessidade da operação.
+
+WebservicesA utilização de webservices para a troca de mensagens entre Operadoras e Prestadores de serviços médico-hospitalares não é obrigatório, mas caso a entidade opte pela utilização deste modelo, deverá seguir integralmente o padrão definido a seguir, além de todos os requisitos de segurança definidos pelo manual de referência desenvolvido pelo CFM e pela Sociedade Brasileira de Informática em Saúde, mencionado na Resolução Normativa nº 114, de 26 de outubro de 2005, que institui o padrão TISS, descritos no item "Segurança e Privacidade".
+O padrão de comunicação para arquitetura Webservice (wsdl) está disponível para download em http://www.ans.gov.br/padroes/tiss/schemas, seguindo as mesmas regras de versionamento.
+Gerenciador de Fila de Mensagens
+As aplicações de prestadores e operadoras devem poder se comunicar através de caixas de entrada e de saída. Para evitar que os prestadores tenham de lidar com diversas organizações de arquivos e nomenclaturas, oriundos de diferentes operadoras, o sub-comitê de comunicação e segurança propôs uma estrutura padrão.
+Pasta Raíz
+Todas as caixas, tanto as de entrada quanto as de saída, para todas as operadoras e prestadores, devem ser subpastas de uma pasta raíz única. Esta pasta raíz deve poder ser definida por cada prestador e operadora, devendo ser um parâmetro aceito por todas as aplicações que usem a estrutura.
+Caixas de Entrada
+As caixas de entrada devem permitir o processamento das mensagens recebidas na mesma ordem em que foram compostas pelo remetente, ou seja: em ordem de sequencial de mensagem TISS.
+Assim, a partir da raíz, as pastas devem se organizar por:
+
+A palavra "recepção".
+Data de recepção, no formato AAAAMMDD – mensagens recebidas em 10/09/2006 iriam para o pasta 20060910, por exemplo.
+Código do destinatário – o código do prestador na operadora, se a caixa for do prestador, ou o registro ANS da operadora, se a caixa for da operadora.
+Código do remetente – o registro ANS da operadora, se o caixa for do prestador, ou o código do prestador na operadora, se o caixa estiver na operadora.Dentro deste último nível, cada arquivo deve ser gravado com o nome:
+<seqüencial de mensagem TISS>_<hash MD5 da mensagem>.xml
+O sequencial de mensagem TISS deve ser formatado com zeros à esquerda em 20 posições.
+Assim, se a pasta base para recepção for a /home/tiss, os arquivos recebidos no dia 26/02/2006, vindos do prestador ABC123 e destinados à operadora 999999 serão gravados, na operadora, na pasta: /home/tiss/recepcao/20060226/999999/ABC123.
+O nome será algo como: 00000000000000000025_35b2ed93b6c0d07b96bfdfd6cbef4d.xml, dependendo do hash da mensagem.
+Caixas de Saída
+As caixas de saída terão uma organização mais simples, já que serão geradas pelo sistema local. Os seguintes níveis serão observados, a partir da pasta raíz:
+1. A palavra "transmissão".
+2. Código do destinatário – o registro ANS da operadora, se o caixa for do prestador, ou o código do prestador na operadora, se o caixa estiver na operadora.
+Dentro deste último nível, cada arquivo deve ser gravado com o nome:
+<seqüencial de mensagem TISS>_<hash MD5 da mensagem>.xml
+As caixas de saída podem ser mais simples porque, ao receber cada mensagem, o processo no destino a colocará em caixas de entrada com a estrutura acima, separando os diferentes remetentes, se for o caso.
+
+
+== Certificação digital ==
+Certificado digital é um documento eletrônico assinado digitalmente e cumpre a função de associar uma pessoa ou entidade a uma chave pública. As informações públicas contidas num certificado digital são o que possibilita colocá-lo em repositórios públicos.
+Um Certificado Digital normalmente apresenta as seguintes informações:
+Nome da pessoa ou entidade a ser associada à chave pública
+Período de validade do certificado
+Chave pública
+Nome e assinatura da entidade que assinou o certificado
+Número de série
+Considerando a resolução do CFM nº 1.639/2002 que aprovou as "Normas Técnicas para o Uso de Sistemas Informatizados para a Guarda e Manuseio do Prontuário Médico" que estabelece entre outras providências de segurança o que segue:
+Transmissão de Dados – Para a transmissão remota de dados identificados do prontuário, os sistemas deverão possuir um certificado digital de aplicação única emitido por uma AC (Autoridade Certificadora) credenciada pelo ITI responsável pela AC Raiz da estrutura do ICP-Brasil, a fim de garantir a identidade do sistema.
+Para grandes prestadores:
+O uso de certificado digital emitido por autoridade certificadora credenciada pelo ITI, para o servidor do prestador, considerando que o certificado tenha como um de seus atributos o CPF ou CNPJ do prestador.
+Para pequenos prestadores:
+Qualquer certificado válido abaixo do ITI Brasil, porém recomendamos o uso do A3, a fim de preservar a segurança do profissional (médico, odontólogo etc.), considerando que o certificado tenha como um de seus atributos o CPF ou CNPJ do prestador.
+No caso de pessoa jurídica, onde trabalhem vários prestadores pessoa física, todos os dados poderão trafegar sob o certificado da pessoa jurídica, devendo as operadoras manter registro do vínculo entre estes prestadores.
+No caso de pessoas físicas associadas, haverá necessidade, para uso do A3, de dotar o computador da secretária de hub USB, para abrigar vários smart cards ou token.
+
+
+== COPISS ==
+A Agência Nacional de Saúde Suplementar - ANS - criou, através da Diretoria de Desenvolvimento Setorial - DIDES - o Comitê de Padronização das Informações em Saúde Suplementar - COPISS - que tem por finalidade promover o desenvolvimento e o aperfeiçoamento do padrão TISS e da troca eletrônica de informações entre as operadoras de planos de saúde, os prestadores de serviços de saúde e a ANS, através de processo participativo e democrático de construção e busca de consenso entre os diversos atores envolvidos na saúde suplementar.
+O COPISS é composto por representantes das operadoras de planos de saúde, dos prestadores de serviços e da ANS, além de representante do Departamento de Informação e Informática do SUS - DATASUS - e terá, como uma de suas atribuições, propor modificações e melhorias no padrão TISS. Para o desenvolvimento de suas atividades, o COPISS poderá contar com a participação de convidados, escolhidos entre entidades, cientistas e técnicos com conhecimentos na área, e poderá ainda constituir Grupos Técnicos para a elaboração de estudos e pareceres temáticos.
+
+
+== Validação do XML ==
+Os arquivos XML devem seguir os schemas (XSD) definido pela ANS. Esses schemas servem como um modelo de como deve ser a estrutura e conteúdo dos arquivos XML.
+Para verificar se um arquivo XML é válido, basta apenas verificá-lo com base nesses schemas.
+
+
+== Referências ==

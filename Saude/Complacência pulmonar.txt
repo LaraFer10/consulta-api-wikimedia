@@ -1,0 +1,41 @@
+A complacência dos pulmões é o grau de extensão dos pulmões para cada aumento da pressão transpulmonar (diferença entre pressão intra-alveolar e a pressão pleural). Em um adulto a complacência total é cerca de 200 mililitros de ar para cada centímetro de pressão de água.
+fibrose está associada com uma diminuição da complacência pulmonar.
+enfisema/DPOC estão associados com um aumento da complacência pulmonar.Surfactante pulmonar aumenta a complacência.
+A complacência é maxima em volumes pulmonares moderados, e muito baixa em volumes que são muito baixos ou muito altos.
+
+
+== Cálculo ==
+A complacência pulmonar é calculada usando a seguinte equação, onde ΔV é a mudança no volume e ΔP é a mudança na pressão:
+
+  
+    
+      
+        C
+        =
+        
+          
+            
+              Δ
+              V
+            
+            
+              Δ
+              P
+            
+          
+        
+      
+    
+    {\displaystyle C={\frac {\Delta V}{\Delta P}}}
+  
+
+
+== Ver também ==
+Complacência
+
+
+== Referências ==
+
+
+== Ligações externas ==
+Fisiologia respiratória - MedMap/UFF

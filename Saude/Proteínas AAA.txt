@@ -1,0 +1,21 @@
+As proteínas AAA ou ATPases associadas a diversas atividades celulares são uma família de proteínas que compartilha um módulo conservado comum de aproximadamente 230 resíduos de aminoácidos. Elas estão envolvidos em processos como replicação de DNA, degradação de proteínas, fusão de membranas, separação de microtúbulos, biogênese de peroxissomos, transdução de sinal e regulação da expressão gênica.As proteínas AAA são funcional e organizacionalmente diversas e variam em atividade, estabilidade e mecanismo. Os membros da família AAA são encontrados em todos os organismos e são essenciais para muitas funções celulares. Esta é uma família de proteínas grande e funcionalmente diversa, pertencente à superfamília de proteínas AAA + das NTPases de loop P em forma de anel, que exercem sua atividade através da remodelação ou translocação dependente de energia de macromoléculas.As proteínas AAA acoplam a energia química fornecida pela hidrólise de ATP a alterações conformacionais que são transduzidas em força mecânica exercida em um substrato macromolecular.
+
+
+=== Outras funções ===
+As proteases AAA usam a energia da hidrólise de ATP para translocar uma proteína dentro do proteassoma para degradação.
+
+
+== Proteínas humanas que contêm este domínio ==
+AFG3L1;    AFG3L2;    AK6;       ATAD1;     ATAD2;     ATAD2B;    ATAD3A;    ATAD3B;
+ATAD3C;    BCS1L;     CDC6;      CHTF18;    CINAP;     FIGN;      FIGNL1;    FTSH;
+IQCA;      KATNA1;    KATNAL1;   KATNAL2;   LONP1;     LONP2;     NSF;       NVL;
+Nbla10058; ORC1L;     PEX1;      PEX6;      PSMC1;     PSMC2;     PSMC3;     PSMC4;
+PSMC5;     PSMC6;     RFC1;      RFC2;      RFC4;      RFC5;      RUVBL1;    RUVBL2;
+SPAF;      SPAST;     SPATA5L1;  SPG7;      TOR1A; TRIP13;    VCP;       VPS4A;     VPS4B;
+WRNIP1;    YME1L1;
+
+
+== Referências ==
+
+
+== Leitura adicional ==

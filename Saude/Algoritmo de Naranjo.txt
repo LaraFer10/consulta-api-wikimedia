@@ -1,0 +1,12 @@
+Algoritmo de Naranjo, escala de probabilidade de Reação Adversa a Medicamento ou escala de Naranjo é um questionário desenvolvido por Naranjo et al na década de 80. As questões forneciam ao pesquisador informações sobre o grau de probabilidade de uma reação adversa a medicamento. Pode dar como resultado, dependendo da pontuação obtida, definitiva, provável, possível e duvidosa.O algoritmo foi desenvolvida por uma equipe composta de quatro farmacêuticos e dois médicos que avaliou publicações de 1978 envolvendo reações adversas a medicamentos.As vantagens de sua utilização são a facilidade de resolver e a interpretação de seu resultado. Tem como limitação desconsiderar a presença de dois fármacos no evento e algumas de suas perguntas difíceis de contextualizar no universo das interações farmacológicas além de não responder claramente se o efeito deve-se a uma interação farmacológica.
+
+
+== Referências ==
+
+
+== Ver também ==
+Algoritmo de Horn
+
+
+== Ligações externas ==
+Calculadora on-line

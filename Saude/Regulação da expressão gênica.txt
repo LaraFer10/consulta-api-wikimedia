@@ -1,0 +1,209 @@
+Regulação da expressão gênica (português brasileiro) ou regulação da expressão génica (português europeu) é a regulagem da informação codificada no gene para resultar em um produto génico ou uma função, ou ainda, um sistema em que o DNA determina quais os genes, seu número e o momento em que irão funcionar dentro da célula, produzindo proteínas que realizam várias funções.
+
+
+== Modificação do DNA ==
+Em eucariotas, a acessibilidade de grandes regiões de DNA pode depender da sua estrutura da cromatina, o qual pode ser alterada, como resultado de modificações de histonas dirigidas por metilação do DNA, RNA não codificante, ou proteína de ligação a DNA. Por isso, estas modificações podem aumentar ou diminuir a expressão de um gene. Algumas dessas modificações que regulam a expressão de genes podem ser herdadas e são referidos como regulação epigenética.
+
+
+=== Estrutura ===
+A transcrição do DNA é ditada por sua estrutura. Em geral, a densidade de seu invólucro é indicativo da frequência de transcrição. Complexos de proteínas octaméricas chamados de nucleossomas são responsáveis ​​pela quantidade ADN superenrolado, e estes complexos podem ser temporariamente modificados por processos tais como a fosforilação ou modificados de forma mais permanente por meio de processos tais como a metilação. Tais modificações são consideradas como responsáveis ​​por variações mais ou menos permanente, a níveis de expressão de genes.
+Apesar de um produto de um gene poder ser um ARN ou uma proteína, a maioria dos mecanismos conhecidos regula a expressão de genes produtores de proteínas. Qualquer passo da expressão de um gene pode ser modulada, da transcrição ADN-ARN até à modificação pós-translacional de uma proteína. A regulação genética dá à célula o controle sobre a sua estrutura e função, e é a base da diferenciação celular, da morfogênese e da versatilidade e adaptabilidade de qualquer organismo.
+As propriedades biológicas de cada célula são amplamente determinada pelas proteínas ativas expressas nela. Esta constelação de proteínas expressas determina grande parte da arquitetura celular, suas interações com seu ambiente e muitas outras propriedades fisiológicas. Entretanto, em qualquer momento  na história da vida de uma célula, são expressas apenas uma pequena quantidade de RNA e proteína codificadas em seu genoma. Em momentos diferentes, o perfil de produtos gênicos expressos pode diferir marcantemente, tanto com relação a que proteínas são expressas quanto a em níveis.
+A regulação desenvolveu-se para permitir que uma célula enfrente as variações em um tipo particular de circunstância tal como disponibilidade de nutrientes, invasão de agentes infecciosos, mudança de temperatura ou outros estresses, e mudanças no estado de desenvolvimento da célula. Assim, algumas moléculas regulatórias, tipicamente proteína, devem ter um domínio sensor que interage com fatores apropriados no ambiente celular, de modo que seu papel regulador possa responder às necessidades da célula em um determinado momento.
+
+
+=== Regulação em procariontes e eucariontes ===
+Embora os procariontes e eucariontes tenham muitos dos mecanismos de regulação gênica em comum, existem algumas diferenças fundamentais na lógica subjacente. Ambas usam proteínas regulatórias que se ligam perto da região codificante de proteínas para modular o nível de transcrição. Entretanto, como os genomas eucarióticos são maiores e sua gama de propriedades é maior, inevitavelmente sua regulação é mais complexa, requerendo mais tipos de proteínas regulatórias e mais tipos de interações com as regiões regulatórias adjacentes. A diferença mais importante é que o DNA eucariótico é compactado em nucleossomos, formando a cromatina, enquanto o DNA procariótico não tem nucleossomos.Nos eucariontes, a estrutura da cromatina é dinâmica e é um ingrediente essencial na regulação gênica.
+
+
+== Procariótica ==
+A respeito da simplicidade de sua forma, as bactérias têm uma necessidade fundamental de regular a expressão de seus genes. Um dos principais motivos é que elas são oportunistas nutricionais. Considere como uma bactéria obtém muitos compostos importantes, tais com açucares, aminoácidos e nucleotídeos, necessários ao metabolismo. As bactérias nadam em um mar de nutrientes potenciais. Elas podem obter estes compostos do ambiente ou produzir-los por vias enzimáticas. A síntese de enzimas necessária para estas vias gasta energia e recursos celulares. Assim, tendo escolha, as bactérias irão produzir enzimas necessárias para obter compostos do ambiente. Para serem econômicas, elas irão produzir estes compostos apenas quando não houver outra opção. Em outras palavras, quando estes compostos não estão disponíveis em seu ambiente local.
+As bactérias desenvolveram sistemas regulatórios que acoplam a expressão dos produtos gênicos a sistemas de sensores que detectam o composto relevante em um ambiente local da bactéria. A regulação de enzimas que tomam parte no metabolismo de açúcar podem ser oxidadas para dar energia ou podem ser usadas como blocos estruturais para uma grande gama de compostos orgânicos. Entretanto existem muitos tipos diferentes de açúcar que as bactérias podem usar, incluindo a lactose, glicose, galactose e xilitol. Primeiro, é necessária uma proteína diferente importante para permitir que cada um destes açúcares entre na célula. Além disso, é necessário um conjunto diferente de enzimas para processar cada m dos açúcares. Se uma célula produz simultaneamente todas as enzimas que ela possivelmente possa precisar, ela gastaria muito mais energia e materiais do que obteria pela degradação das prospectivas fontes de carbono.
+
+
+=== Base de regulação transcricional procariótica ===
+São necessários dois tipos de interações DNA-proteína para uma transcrição regulada. Ambas ocorrem perto do sítio no qual começa a transcrição do gene.
+Uma desta interações DNA-proteína determina onde começa a transcrição. O DNA que participa desta interação é um segmento de DNA chamado de promotor, e a proteína que se liga este sítio é a RNA polimerase. Quando a RNA polimerase liga-se ao DNA do promotor, a transcrição pode se iniciar algumas bases distantes do sítio promotor. Cada gene deve ter um promotor ou ele não poderá ser transcrito.
+O outro tipo de interação DNA-proteína decide se a transcrição iniciada pelo promotor irá ocorrer. OS segmentos de DNA próximos ao promotor servem como sítios de ligação para proteínas regulatórias chamadas ativadores e repressores. Nas bactérias, a maioria destes sítio alvo no DNA como um pré-requisito necessário para começar a transcrição. Tais casos são às vezes chamados de regulação positiva, pois a presença da proteína ligada á necessária para a transcrição. Para outros genes , uma proteína repressora deve ser impedida de se ligar a seu sítio alvo como um pré-requisito necessário para que comece a transcrição. Tais casos são às vezes chamados de regulação negativa, pois a ausência de repressor ligado permite que comece a transcrição. Como os ativadores e repressores regulam a transcrição? Em geral, uma proteína ativadora ligada ao DNA ajuda fisicamente a ligação da RNA polimerase possa começar a transcrever. Uma proteína repressora ligada ao DNA atua tipicamente seja interferindo fisicamente na ligação da RNA polimerase a seu promotor (bloqueando o início da transcrição) ou impedindo o movimento da RNA polimerase ao longo da cadeia do DNA (bloqueando a transcrição).
+
+Os genes devem conter dois tipos de sítios de ligação para permitir a transcrição
+regulada. Primeiro, os sítios de ligação para a RNA polimerase devem estar
+presentes. Segundo, os sítios de ligação para as proteínas ativadora ou repressora
+podem estar presentes na vizinhança do promotor.
+
+Tanto as proteínas ativadora e repressora devem ser capazes de reconhecer quando as condições ambientais são apropriadas por suas ações e agir de acordo. Assim, para que as proteínas ativadora ou repressora façam seu trabalho, cada uma deve ser capaz de existir em dois estados: um que pode se ligar a seu DNA alvo e outro que não pode. O estado de ligação deve ser apropriado ao conjunto de condições fisiológicas presentes na célula e seu ambiente. Para muitas proteínas regulatórias, a ligação do DNA é feita pela interação de dois sítios diferentes na estrutura tridimensional da proteína. Uma sítio é o domínio de ligação ao DNA. O outro sítio, o sítio alostérico, atua como um interruptor funcional que controla o domínio de ligação do DNA de dois modos: funcional ou não funcional. O sítio alostérico interage com pequenas moléculas chamadas efetores alostérico. No metabolismo de lactose, o açúcar lactose é um efetor alostérico. Um efetor alostérico liga-se ao sítio ao sítio alostérico da proteína regulatória de tal modo que muda a estrutura do domínio de ligação ao DNA. Alguma proteína ativadoras ou repressoras devem se ligar a seus efetores alostéricos antes que possam se ligar ao DNA. Outras podem se ligar ao DNA apenas na ausência de seus efetores alostéricos.
+
+Os efetores alostéricos controlam a habilidade das proteínas ativadoras ou repressora
+em se ligar a seus sítios alvo no DNA.
+
+
+=== Um primeiro exame do circuito regulador lac ===
+O trabalho de François Jacob e Jacques Monod nos anos 1950 mostrou como o metabolismo da lactose é regulada geneticamente. Examinemos o sistema sob duas condições: a presença e a ausência de lactose. As características para a regulação de lac incluem genes codificantes de proteínas de ligação ao DNA.
+
+
+==== Genes estruturais lac ====
+O metabolismo da lactose requer duas enzimas: uma permease para transportar lactose para a célula e a β-galatosidase para quebrar a molécula de lactose produzindo glicose e galactose. As estruturas da β-galatosidase e proteína permease são codificadas por duas sequências adjacentes, Z, e Y, respectivamente. Uma terceira sequência contínua codifica uma enzima adicional, chamada transacetilase, que não é necessária para o metabolismo da lactose. Chamaremos Z, Y e A de genes estruturais, em outras palavras, segmentos que codificam a estrutura da proteína, e julgaremos esta designação posteriormente. A regulação da produção deste mRNA coordena a síntese de todas as três enzimas. Isto é, são produzidas todas ou nenhuma.
+
+Se os genes codificantes de proteínas constituem uma única unidade de transcrição, a
+expressão de todos estes genes será regulada coordenadamente.
+
+
+==== Componentes regulatórios do sistema lac ====
+Os principais componentes regulatórios do sistema metabólico da lactose incluem a proteína regulatória da transcrição e dois sítios de ancoragem, um sítio para a proteína regulatória e outro sítio par a RNA polimerase.
+
+O gene para o repressor Lac. Um quarto gene, o gene I, codifica a proteína repressora Lac, assim chamada porque bloqueia a expressão dos genes Z,Y e A. O gene I fica mapeado perto dos genes Z,Ye A, mas esta proximidade não parece ser importante para seu funcionamento.
+O sítio promotor lac. O promotor (P) é o sítio no DNA ao qual se liga a RNA polimerase para iniciar a transcrição dos genes estruturais lac (Z,Y e A).
+O sítio operador lac. O operador (O) é o sítio no DNA no qual se liga o repressor Lac. Ele está situado entre o promotor e o gene Z perto do ponto no qual começa a transcrição do mRNA multigênico.
+
+
+==== A indução do sistema lac ====
+Os segmentos P, O, Z,Y e A constituem juntos um óperon, definido como um segmento de DNA que codifica um mRNA multigênico bem como um promotor adjacente comum e uma reguladora. O gene lacI, codificante do repressor Lac, não é considerado parte do próprio óperon lac, mas a interação do repressor lacI e o sítio operador lac é crucial para a regulação apropriada do óperon lac. O repressor Lac tem um sítio de ligação ao DNA que pode reconhecer a sequência do DNA do operador e um sítio alostérico que se liga a lactose ou análogos de lactose que são experimentalmente úteis. O repressor irá se ligar apenas ao sítio no DNA perto dos genes que ele está controlando, e não a outros sítios distribuídos pelo cromossomo. Ligando-se ao operador, o repressor impede a transcrição pela RNA polimerase que se ligou ao sítio promotor adjacente.
+
+
+=== Descoberta do sistema do sistema lac de controle negativo ===
+Para estudar a regulação gênica, idealmente precisamos de três coisas: uma dosagem bioquímica que nos permita dosar a quantidade de mRNA ou de proteína expressa, ou ambos,  condições confiáveis nas quais as diferenças nos níveis de expressão ocorrem em um genótipo tipo selvagem, e mutações que perturbam os níveis de expressão.
+
+
+==== Genes controlados juntos ====
+
+
+==== Mutações polares ====
+
+
+=== Repressão catabólica do óperon lac: controle positivo ===
+O sistema lac existente, é que, por um longo processo evolutivo, foi selecionado para operar de modo ótimo para eficiência energética da célula bacteriana, duas condições ambientais tinham que ser satisfeitas para que as enzimas metabólicas sejam expressas.
+Uma condição é que a lactose deve estar presente no ambiente.Esta condição faz sentido, pois ela seria ineficiente para a célula produzir as enzimas para o metabolismo de lactose se não houvesse substrato para ser metabolizado.
+A outra condição é que a glicose não pode estar presente no ambiente da célula. Como a célula pode captar mais energia da degradação de glicose do que ela pode da degradação de outros açúcares, é mais eficiente para a célula usar glicose do que a lactose. Assim foram  desenvolvidos mecanismos que evitam que a célula produza as enzimas para o metabolismo de lactose quando a lactose e glicose estão juntas. A repressão da transição dos genes do metabolismo de lactose na presença de glicose é um exemplo de repressão catabólica. A transcrição das proteínas necessárias para o metabolismo de muitos açúcares diferentes é similarmente reprimida na presença de glicose.
+
+
+=== Controle duplo, positivo e negativo: o óperon de arabinose ===
+Como o sistema lac, o controle procariótico da transcrição em geral não é puramente positivo negativo. Ele parece misturar e ajustar aspectos diferentes de regulação positiva e negativa de modo diferentes. A regulação do óperon de arabinose fornece um exemplo no qual uma única proteína de ligação ao DNA atua como ou um repressor ou um ativador.
+Os genes estruturais (araB, araA, araD) codificante as enzimas metabólicas que degradam o açúcar arabinose. Os três genes transcritos em uma única unidade como um único mRNA. A transcrição é ativada em aral, a região iniciadora, que contém tanto um sítio operador quanto um promotor. O gene araC, que fica próximo, codifica uma proteína ativadora. Quando ligada à arabinose, esta proteína ativa a transcrição do óperon ara, talvez ajudando a RNA polimerase a se ligar ao promotor. Em adição, o mesmo sistema de repressão catabólica CAP-cAMP que regula a expressão do óperon ara.
+
+Na presença da arabinose, tanto o complexo CAP-cAMP quanto o complexo AraC-arabinose deve ligar à região operadora de araI de modo a que RNA polimerase se ligue ao promotor e transcreve o óperon ara. Na ausência de arabiose, a proteína AraC adota uma conformação diferente e reprime o óperon ara ligando-se tanto a araI quanto a uma segunda região operadora, araO, formando assim uma alça que impede a transcrição. Assim, a proteína AraC tem duas conformações, uma que atua como um ativador e outra que atua como um repressor. As duas conformações, dependendo de se o efetor alostérico arabinose tiver se ligado à proteína, diferem em suas habilidades de ligação a um sítio alvo específico na região araO do óperon.
+
+
+=== Vias metabólicas ===
+O controle coordenado de genes em bactérias e bacteriófagos é muito generalizado. A maioria das funções coordenadas dos genes em procariontes atua por meio de mecanismos de óperon. Em muitas vias que produzem moléculas essenciais a partir de blocos estruturais inorgânicos simples, os genes que codificam enzimas são organizados em óperon, completados com mRNA  multigênicos. Além disso, nos casos em que a sequência de atividade catalítica é conhecida, há uma marcante congruência entre a sequência dos genes de óperon no cromossomo e a sequência na qual qual seus produtos atuam na via metabólica. Esta congruência é bem ilustrada pela organização do óperon de triptofano em E. coli. No geral, os temas na regulação gênica procariótica são similares, embora existam variações específicas em cada sistema.
+Vale a pena refletir sobre como a existência de óperons afeta nossa definição de um gene. Até agora, vimos o gene sob perspectiva eucariótica como uma sequência de DNA capaz de produzir um transcrito no tempo e local desenvolvimentalmente correto. Entretanto esta visão iguala um óperon a um gene, porque é a unidade transcrita. O que então seriam as regiões que codificam proteínas tais como Z, Y, A? De fato não há resposta para esta pergunta. Palavras isoladas na linguagem humana nunca descrevem adequadamente a disposição das variantes de um tema encontradas na natureza.
+
+Nos procariontes, os genes que codificam enzimas que estão nas mesmas vias
+metabólicas são em geral organizadas em óperons.
+
+
+== Eucariótica ==
+Na superfície, a transcrição e sua regulação têm muitas características que são comuns tanto a procariontes quanto eucariontes. Como os genes procarióticos, a maioria dos genes eucarióticos são controlados ao nível transcricional são muitos similares aos encontrados em bactérias. Por exemplo, os eucariontes também são baseados em proteínas regulatórias de ação trans que se ligam a sequências alvo regulatórias de ação cis na molécula de DNA. Como nos genes procarióticos, estas proteínas regulatórias determinam o nível de transcrição de um gene.
+Entretanto a regulação de genes eucarióticos é uma área muito ativa de pesquisa, e os cientistas continuam a descobrir novos mecanismos. Algumas diferenças:
+
+Em procariontes, todos os genes são transcritos em RNA pela mesma RNA polimerase, enquanto três RNA polimerases funcionam nos eucariontes. A RNA polimerase II participa do processo de transcrição do RNAm.
+Os transcritos de RNA são amplamente processados durante a transcrição em eucariontes. As pontas 5' e 3' são modificadas e os íntrons são removidos.
+A RNA polimerase II é muito maior e mais complexa do que sua contraparte procariótica.
+
+
+=== Visão geral ===
+Os eucariontes tipicamente têm dezenas de milhares de genes, uma ou duas de ordens  de magnitudes a mais do que a média dos procariontes. Além disso, os padrões de expressão de genes eucarióticos podem se extraordinariamente complexos. Isto é, pode haver uma grande variação em quando um gene é ativado (transcrito) ou não (não transcrito) e como muitos transcritos precisam ser feitos. Por exemplo, um gene pode ser transcrito apenas durante o início do desenvolvimento e outro apenas na presença de uma infecção viral. Finalmente, a grande maioria dos genes em uma célula eucariótica está desligada em qualquer momento. Com base apenas nestas considerações, a regulação gênica eucariótica pode ser capaz de:
+
+desligar a expressão da maioria dos genes no genoma.
+gerar milhares de padrões de expressão gênica com um número limitado de proteínas reguladoras.Veremos que foi desenvolvido mecanismos complexos e engenhosos para garantir que a maioria dos genes em uma célula eucariótica não são transcritos (chamados silenciados). Antes de considerar o silenciamento transcricional, voltaremos a nossa atenção para a segunda pergunta: Como os genes eucarióticos são capazes de exibir um número enorme e diversidade de padrões de expressão? A chave para gerar tantos padrões é dupla. Primeira, quando ligado ao próprio promotor, o grande complexo RNA polimerase II pode catalisar a transcrição apenas em um nível muito baixo (basal). Por este motivo, o complexo RNA polimerase II é também chamado de aparelho aparelho basal de transcrição. Em contraste, a transcrição ativada, em taxas mais altas, requer a ligação de proteínas regulatórias chamadas de fatores de transcrição, ou ativadores, aos elementos de ação cis no DNA ao redor do gene. O segundo componente importante para gerar muitos padrões diversos de expressão gênica é a modularidade e cooperatividade: padrões complexos requerem muitos sítios de ligação para diferentes proteínas regulatórias que interajam umas com as outras e com o aparelho basal de transcrição. Este componente da diversidade de expressão gênica é chamado de interação combinatória porque diferentes combinações de fatores de transcritos podem apresentar interações únicas que resultam em padrões distintos de expressão gênica. Para acomodar todos estes sítios de ligação para todos estes fatores de transcritos são em geral maiores que o próprio gene. O segundo componente importante para gerar muitos padrões diversos de expressão gênica é chamado de interação combinatória porque diferentes combinações de fatores de transcrição podem apresentar interação únicas que resultam em padrões distintos de expressão gênica. Para acomodar todos estes sítios de ligação para todos estes fatores de transcrição, as regiões regulatórias de muitos genes eucarióticos são em geral maiores que o próprio gene.
+
+
+=== Elementos regulatórios de ação cis ===
+Para que a RNA polimerase II transcreve DNA em RNA na velocidade  máxima, vários elementos regulatórios de ação cis devem agir cooperativamente podemos distinguir três classes de elementos com bases em suas localizações relativas:
+
+perto do sítio de início de transcrição está o promotor, a região que se liga à RNA polimerase II ao promotor;
+perto do promotor estão as sequências de ação cis proximais ao promotor que se ligam a proteínas que por sua vez ajudam a ligação da RNA polimerase II seu promotor;
+elementos adicionais de sequências de ação cis podem agir a uma distância considerável, e estes elemento, e estes elementos, que são independentes de distância, são chamados de acentuadores silenciadores.Em geral, um elemento acentuador ou silenciador irá atuar apenas em um ou alguns tipos de células em um eucariontes multicelular. Os promotores,elementos proximais do promotor, e elementos independentes de distancias para a ligação de diferentes proteínas de ação trans de ligação ao DNA.
+
+
+=== O promotor e os elementos proximais ao promotor ===
+     Boxe rico
+      em GC                      mRNA→
+——————GGGCGG———CCAAT———————TATA————————
+-200pb               ~100pb      -30pb
+     |_____________________|   |_______|
+       Elementos proximais      Promotor
+           do promotor
+
+No boxe o esquema do promotor e elementos de sequência proximal ao promotor. Como já mencionado, a ligação da RNA polimerase a este promotor não produz uma transcrição eficiente por si só. A transcrição é acentuada de algum modo quando os fatores de transcrição ligam-se aos elementos proximais ao promotor (também chamados elementos antecedentes ao promotor ou UPE) que são encontrados dentro de 100 a 200 pb do sítio de início da transcrição. Um destes UPE é o CCAAT boxe, e geralmente outro é um segmento rico em GC mais antecedente. Os fatores de transcrição que se ligam aos elementos proximais ao promotor são expressos constitutivamente, em todas as células em todos os tempos, de modo que eles podem ativar a transcrição em todos os tipos de células. As mutações nestes sítios podem ter um efeito marcante na transcrição, demonstrando como eles são importantes .
+
+
+=== Papel da cromatina ===
+Neste ponto você deve estar pensando que os mecanismos de regulação eucariótica parecem muito similares à procariótica. Há menos de uma década, muitos cientistas também pensavam que a regulação eucariótica era uma versão complicada do que havia descoberto em procariontes, exceto em que havia mais proteínas reguladoras ligadas a mais elementos de ação cis para gerar um número maior de padrões diversos de expressão gênica.
+Na última década, esta visão mudou acentuadamente, à medida que os cientistas começaram a considerar o efeito de organização do DNA genômico em eucariontes. O DNA dos procariontes está essencialmente "nu", tornando-o prontamente acessível à RNA polimerase. Por outro lado, os cromossomos eucarióticos são organizados em cromatina, que é composta de DNA e proteína (principalmente histonas). A unidade básica da cromatina é o nucleossomo, contendo cerca de 150 pb de DNA enrolado duas voltas ao redor de um octâmero de histomas. O octâmero de histomas é composto de duas subunidades cada uma com quatro histonas: histona 2A, 2B, 3, e 4. Os nucleossomos podem se associar em estruturas de maior ordem que condensam ainda mais DNA. A cromatina altamente condensada é chamada de heterocromatina, e a cromatina menos condensada é chamada de eucromatina. A condensação de cromatina também muda no curso do ciclo celular. A cromatina das células que entram em mitose torna-se altamente condensada à medida que os cromossomos se alinham na preparação para a divisão celular. Apos a divisão celular, as regiões que formam a heterocromatina permanecem condensada especialmente ao redor dos centrômeros e telômeros enquanto as regiões que formam a eucromatina tornam-se menos condensados.
+Os geneticistas suspeitaram de um papel limitado para influência da estrutura da cromatina na regulação gênica no início da história da genética. Naquela época foi observado que o DNA heterocromático continha poucos genes, enquanto a eucromatina era rica em genes. Mas o que é a heterocromatína senão genes? A maior parte do genoma eucariótico é composto de sequência repetidas que não fazem proteínas ou RNA estrutural, Às vezes chamado de DNA sucata. Assim, os nucleossomos densamente compactados da heterocromatina foram ditos formando um estrutura "fechada" que era inacessível a proteínas reguladoras e inóspitas a atividade gênica. Já a eucromatina, com seus nucleossomos mais espaçados, foi proposta como tendo uma estrutura "aberta" que permite a transcrição. A existência de regiões abertas e fechadas de cromatina também foi sugerida como o motivo para a diferença de 100 a 1000 vezes nas frequências de recombinação na eucromatina comparada a heterocromatina. A eucromatina, com sua conformação mais aberta, foi suposta como sendo acessível às proteínas necessárias para a recombinação do DNA. Note que, nestes casos, a cromatina tem um papel passivo: as regiões do genoma são ou abertas ou fechadas, e transcrição e recombinação são amplamente restritas a regiões de cromatina aberta. Entretanto as observações de três fenômenos começam a mudar esta visão. Estes fenômenos demostraram que cromatina eucariótica podia ser alterada e, mais importante, que os genes ativos nestas regiões podiam ficar inativos.
+Os três fenômenos são a inativação do X, imprinting e variegação do efeito de posição.
+
+
+==== Inativação do X ====
+
+
+==== Imprinting ====
+
+
+==== Variegação ====
+
+
+=== Remodelagem da cromatina ===
+O imprinting, inativação do X, e a variegação do efeito de posição demostraram que a expressão gênica pode ser reduzida ou silenciada sem mudar a sequência de DNA do gene. Além disso, a existência deste fenômeno significa que a organização do nucleossomo é dinâmica, ela pode responder a mudanças no metabolismo celular ou programas de desenvolvimento condensado e descondensado e, deste modo contribuir para ligar e desligar genes.
+Nossa compreensão da estrutura da cromatina e seu efeito na expressão gênica continuamente evoluindo à medida que novos achados no laboratório levam a modificações dos conceitos e definições existentes. Por exemplo, embora exista uma clara diferença entre eucromatina e heterocromatina constitutiva (as regiões genômicas extremamente condensadas  perto dos centrômeros e telômeros), o estado exato da cromatina necessário para silenciar os genes não estar totalmente claro. Quando um gene é silenciado, a eucromatina torna-se heterocromatina? Provavelmente não. Na verdade provavelmente exitem muitos estados estágios intermediário de condensação de cromatina e a heterocromatina constitutiva. O termo heterocromatina facultativa tem sido usado para descrever as regiões eucromáticas que podem uma estrutura mais condensada de cromatina. Aqui nós iremos usar o termo cromatina silenciosa para descrever estas regiões dinâmicas da eucromatina no estado condensado que leva ao silenciamento genético.
+Podemos imaginar vários modos de alterar a estrutura da cromatina. Por exemplo, um mecanismo pode ser simplesmente mover os nucleossomos ao longo do DNA. Nos anos 1980 foram desenvolvidos técnicas bioquímicas que permitiram aos pesquisadores determinar a posição dos nucleossomos no e ao redor dos genes. Nestes estudos, a cromatina foi isolada do tecido onde estava e comparada com a cromatina do tecido onde o mesmo gene estava desligado. O resultado para a maioria dos genes analisados foi que as posições do nucleossomo mudaram, especificamente em suas regiões regulatórias. Assim, os nucleossomos são dinâmicos: suas posições podem mudar durante a vida de um organismo. A transcrição pode ser reprimida quando o TATA boxe e as sequências flanqueadoras estão enroladas em um nucleossomo e incapazes de se ligar ao complexo da RNA polimerase II. Ativação da transcrição iria requerer que o nucleossomo bloqueador fosse removido ou movido para outro local. Esta mudança na posição do nucleossomo tornou-se conhecida como remodelagem da cromatina. Uma vez que a remodelagem da cromatina seja conhecida como sendo uma parte integral da expressão gênico eucariótica, a corrida foi para determinar o(s) mecanismo(s) subjacente(s) e as proteínas reguladoras responsáveis.
+
+
+==== Triagens genéticas proteínas de remodelagem ====
+A análise genética do organismo modelo levedura foi essencial na dissecação dos componentes da regulação gênica eucariótica. Como um organismo unicelular eucariótico com um tempo de geração muito curto, a levedura é ideal para o isolamento e análise de mutantes.
+
+
+===== Histonas e remodelagem da cromatina =====
+Os complexos proteicos tais como SWI-SNF que remodelam a cromatina reposicionando os nucleossomos constituem uma parte da maquinaria necessária para mudar a organização da cromatina.
+
+
+==== A depleção de histonas em leveduras altera a expressão gênica ====
+
+Em adição a seus outros atributos como um organismo genético modelo, as leveduras têm apenas duas cópias cada dos genes que codificam o cerne de histonas, tornando-os adequados para análise mutacional. Já os eucariontes superiores podem ter centenas de cópias dos genes de histona
+
+
+=== O gene de β-interferon revisado ===
+Por simplificação, o promotor de β-interferon foi mostrado sem os nucleossomos de modo a enfocar as interações cooperativas e sinérgicas entre os fatores de transcrição. Hoje sabemos que o acentuassomo é livre se nucleossomo mas circundado por dosi nucleossomos, chamados nuc I e nuc II. Um deles, nuc II, está estrategicamente posicionado no TATA boxe e sítio de início da transcrição. Conforme já foi discutido, os fatores de transcrição interagem para formar um sítio de ligação de afinidade pelo coativador, CBP. Entretanto a ligação de GCN5 é hoje conhecida como de fato precendedo a ligação de CBP. Como já dissemos, GCN5codifaca a atividade de histona acetilase, que acetila as histonas em nuc II. Esta acetilação é seguida do recrutamento do coativador CBP, holoenzima de RNA pol II, e o complexo de remodelamento da cromatina SWI-SNF agora é posicionada para descolar o nucleossomo 37 pb do TATA boxe, tornando a TATA boxe acessível à proteína de ligação a TATA e permitindo que a transcrição seja iniciada.
+
+
+=== A herança de estados da cromatina ===
+A herança epigenética agora pode ser definida operacionalmente como a herança dos domínios da cromatina de uma geração celular para a seguinte. O que esta herança significa é que durante a replicação do DNA, tanto a sequência do DNA e a estrutura da cromatina são fielmente passadas adiante para a próxima geração celular. Entretanto, ao contrario da sequência de DNA, a estrutura da cromatina pode mudar no curso do ciclo celular quando, por exemplo, os fatores de transcrição modificam o código de histona, causando mudanças locais na posição do nucleossomo.
+O replissomo não só copia os filamentos parentais como também desmonta os nucleossomos nos filamentos parental como no filho. Isto é tido como sendo feito pela distribuição aleatória das histonas antigas de nucleossomo existência para os filamentos filhos e o encaminhamento de novas histonas para o replissomo. Deste modo, as histonas antigas com suas caudas modificadas e histonas novas com caudas não modificadas são montadas em nucleossomo que se tornam associadas a ambos os filamentos filhos. O código levado pelas histonas antigas mais provavelmente guia a modificação de novas histonas e a reconstituição de estrutura local de cromatina que existia antes de síntese de DNA e a mitose.
+
+
+=== Variegação do efeito de posição revisitada ===
+Lembremos que o fenótipo variegado de cor de olho em Drosophila foi demostrado como sendo devido a rearranjos cromossômicos que movem o gene white em seguida para o DNA heterocromático. Evidentemente, a heterocromatina pode se espalhar para regiões eucromáticas adjacentes e silenciar a expressão do gene white. Para descobrir que as proteínas podem estar implicadas no espalhamento da heterocromatina, os geneticistas isolaram mutações em um segundo sítio que ou suprimiam ou acentuavam o padrão variegado. Os supressores de variegação [chamados Su(var)] são genes que, quando mutados, reduzem o espalhamento da heterocromatina,significando que o produto tipo selvagem destes genes é, necessário para o espalhamento. Dentre mais de 50 produtos gênicos de Drosophilaidentificados por estas triagens estava a proteína-I de heterocromatina (HP-1), que tinha sido previamente encontrada associada aos telômeros e centrômeros heterocromáticos. Assim, faz sentido que uma mutação no gene HP-1 se apresente como um alelo Su(var), porque a proteína de algum modo necessária para manter a heterocromatina. Proteínas similares a HP-1 foram isoladas em diversos táxons, sugerindo a conservação de uma importante função eucariótica.
+
+
+== Estágios regulados ==
+De seguida, uma lista dos estágios onde a expressão genética é regulada:
+
+Modificações químicas e estruturais do ADN ou da cromatina
+Transcrição
+Modificação pós-transcricional
+Transporte de ARN
+Degradação de ARN
+Modificação pós-translacional
+
+
+== Referências ==
+
+
+== Bibliografia ==
+Introdução à genética, Riffiths, Wessler, Lewontin, Gesbart, suzuki, Miller, 8º Edição, Guanabara Koogan, 2006.
+
+
+== Ver também ==
+Acentuassomo
+Corpúsculo de Barr
+Enhancer
+Epigenética
+Histonas
+Imprinting genômico
+Mutação
+Operão
+
+
+== Ligações externas ==
+MeSH Regulation+of+Gene+Expression
+fam.br

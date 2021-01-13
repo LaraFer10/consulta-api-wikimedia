@@ -1,0 +1,32 @@
+O Edema Pulmonar é uma síndrome em que ocorre o acúmulo de fluidos no interior dos espaços alveolares e do interstício pulmonar, dificultando o processo de troca gasosa, redução da complacência pulmonar e levando à hipoxemia. Nos casos em que essa condição ocorre de forma secundária à falência ou a afecções na bomba cardíaca que levam ao comprometimento do ventrículo esquerdo, ocorre o chamado Edema Pulmonar Cardiogênico.
+Cerca de 13,2% dos indivíduos hospitalizados por insuficiência cardíaca apresentam edema pulmonar cardiogênico, segundo um registro europeu desta década (CHIONCEL et al., 2017). É comum a piora do quanto maior é a idade do indivíduo, sendo a Insuficiência cardíaca a principal causa de internação entre idosos acima de 65 anos (KING e GOLDSTEIN, 2020). 
+
+
+== Etiologia ==
+A etiologia do edema pulmonar cardiogênico ocorre devido à falência na bomba cardíaca, gerando altas pressões no ventrículo esquerdo. Devido a essas mudanças hemodinâmicas, a estase e altas pressões nos vasos pulmonares ocasionam a saída de fluidos para os sacos alveolares, gerando o edema pulmonar (DOBBE et al., 2019).
+Algumas condições podem ser predisponentes ou precipitantes da ocorrência dessa afecção. Dentre as principais, temos: crise hipertensiva,Insuficiência aórtica, infarto agudo do miocárdio e disfunção ou estenose valvar.
+
+
+== Manifestações Clínicas ==
+Em geral, as manifestações clínicas mais prevalentes são dispneia intensa, inquietação, palidez, sensação de sufocação e ansiedade. É comum notar também a ocorrência de tosse produtiva com expectoração sanguinolenta, cianose, sudorese e extremidades frias. Comumente, os pacientes apresentam pulso rápido e de baixo volume, além da pressão arterial apresentar-se baixa, normal ou elevada. Podem estar presentes sinais de insuficiência cardíaca direita, como distensão das veias jugulares e/ou edema periférico (DANESI et al., 2016; “Edema pulmonar - Doenças cardiovasculares”, 2017).
+
+
+== Fisiopatologia ==
+Se o ventrículo esquerdo for incapaz de bombear o sangue que recebe dos pulmões, consequentemente há um aumento no volume diastólico final e pressão, causando o aumento da pressão geralmente baixa do sistema respiratório e a pressão hidrostática excedendo a pressão oncótica. O transudato, portanto, preenche os alvéolos e o interstício, prejudicando a capacidade de realizar hematose e provocando hipóxia. A hipóxia estimula a liberação de catecolaminas, as quais causam vasoconstrição e aumento da resistência vascular sistêmica, piorando a habilidade do ventrículo esquerdo de esvaziar. O sistema Renina-Angiotensina-Aldosterona é ativado, ocasionando a retenção de água e sal, aumento do tônus simpático e subsequente aumento na pré-carga e pós-carga. A escalação da demanda de oxigênio e consumo graças ao aumento da carga cardíaca e respiratória não conseguem se balancear conforme a troca gasosa nos pulmões falha e ocorre hipóxia de tecidos.
+
+
+== Diagnóstico ==
+O diagnóstico do edema pulmonar deve ser voltado a definir a natureza cardiogênica e/ou não cardiogênica do acúmulo de líquidos extravasculares e seus fatores desencadeantes específicos, uma vez que esta abordagem pode implicar em condutas terapêuticas modificadoras de desfechos, incluindo mortalidade. Devem ser realizados: anamnese e exame físico, exames de bioquímica, eletrocardiograma, radiografia de tórax, ecocardiografia transtorácica e cateterização de artéria pulmonar (Cateter de Swan-Ganz).
+
+
+== Diagnóstico Diferencial ==
+Quando o indivíduo apresenta falha cardíaca descompensada ou apresenta evidências de edema pulmonar agudo cardiogênico, é necessário fazer a avaliação de forma a afastar outras hipóteses. Estão descritas a seguir algumas possibilidades a serem consideradas como diagnósticos diferenciais, ou causas primárias que acarretarão o edema pulmonar cardiogênico (KING e GOLDSTEIN, 2020). Sendo eles: sepse, Síndrome do Desconforto Respiratório Agudo, causas neurológicas e embolia pulmonar.
+
+
+== Referências Bibliográficas ==
+Chioncel O, Mebazaa A, Harjola VP, et al. Clinical phenotypes and outcome of patients hospitalized for acute heart failure: the ESC Heart Failure Long-Term Registry. Eur J Heart Fail. 2017;19(10):1242-1254. doi:10.1002/ejhf.890
+Dobbe, Logan; Rahman, Rubayat; Elmassry, Mohamed; Paz, Pablo; Nugent, Kenneth (2019). Cardiogenic Pulmonary Edema. The American Journal of the Medical Sciences, (), S0002962919303490–.doi:10.1016/j.amjms.2019.09.011
+DANESI, Giuliano Machado e colab. EDEMA AGUDO DE PULMÃO. p. 6, 2016.
+Edema pulmonar - Doenças cardiovasculares, 2017. Disponível em: <https://www.msdmanuals.com/pt-pt/profissional/doen%C3%A7as-cardiovasculares/insufici%C3%AAncia-card%C3%ADaca/edema-pulmonar?query=Insufici%C3%AAncia%20card%C3%ADaca>. Acesso em: 27 nov 2020.
+King KC, Goldstein S. Congestive Heart Failure And Pulmonary Edema. In: StatPearls. Treasure Island (FL): StatPearls Publishing; 2020.
+KASPER, Dennis L.. Medicina interna de Harrison. 19 ed. Porto Alegre: AMGH Editora, 2017. 1 v, .ISBN: 978-85-8055-582-0

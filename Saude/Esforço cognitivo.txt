@@ -1,0 +1,132 @@
+Esforço cognitivo, ou carga cognitiva se refere ao nível de utilização de recursos psicológicos como memórias, atenção, percepção, representação de conhecimento, raciocínio e criatividade na resolução de problemas. Os principais fatores associados ao esforço cognitivo são: experiência com problemas semelhantes, nível de abstração, tempo necessário para resolução, estimulação perceptiva, número de atividades realizadas simultaneamente, ansiedade, idade, horas de sono, alimentação, transtornos psicológicos, problemas físicos, inteligência, fadiga, apoio social e suporte instrumental. Enquanto a resolução de um problema sem nenhuma experiência prévia é considerado como muito desgastante, a resolução de um problema ao qual já foi desenvolvido um padrão de respostas usuais (esquema) envolve apenas um mínimo de esforço cognitivo que facilmente passa despercebido pelo sujeito cotidianamente.Essa mudança no esforço cognitivo ocorre pela formação de memórias de procedimentos no cerebelo para substituir o uso das estruturas corticais, temporais e límbicas pelas memórias explícitas.Paas e colaboradores desenvolveram um teste para medir o esforço cognitivo. Utilizando este teste ele compara o esforço feito para realizar o mesmo problema onde uma instrução incluía exemplos, a outra incluía problemas para serem resolvidos e um terceiro incluía descobertas práticas guiadas. A exemplificação se mostrou a mais eficiente e envolveu menor esforço cognitivo, seguida da resolução de problemas e em último ficou descobertas práticas. 
+
+
+== Princípios da Aprendizagem Multimédia ==
+Há um consenso relativamente amplo quanto a vários princípios da aprendizagem multimédia sintetizados na imagem ao lado.
+
+
+=== Princípio da Representação múltipla ===
+Os alunos aprendem melhor a partir de palavras e imagens, do que só de palavras.
+
+
+=== Princípio de Contiguidade Espacial ===
+Os alunos aprendem melhor quando palavras e imagens correspondentes são apresentadas próximas, em vez de longe umas das outras na página ou no ecrã.
+
+
+=== Princípio da Contiguidade Temporal ===
+Os estudantes aprendem melhor quando as palavras e imagens correspondentes são apresentadas simultaneamente, ao invés de sucessivamente.
+
+
+=== Princípio da Coerência ===
+Os alunos aprendem melhor quando palavras estranhas, imagens e sons, são excluídos.
+
+
+=== Princípio da Modalidade ===
+Os alunos aprendem melhor a partir de animação com narração, do que de animação com texto no ecrã.
+
+
+=== Princípio da Redundância ===
+Os alunos aprendem melhor a partir de uma animação com narração do que com uma animação e narração e texto no ecrã.
+
+
+=== Princípio das diferenças individuais ===
+Os efeitos do desenho são mais fortes para os alunos com conhecimentos mais baixos do que para os de conhecimentos mais elevados e para os alunos com maior nível espacial do que para os alunos com um nível espacial baixo.
+
+
+== A teoria da carga cognitiva ==
+"A teoria da carga cognitiva foi projectada para fornecer orientações destinadas a ajudar na apresentação de informações de uma maneira que incentive as do actividades aluno e optimize o seu desempenho intelectual". A teoria de John Sweller emprega aspectos da teoria do processamento da informação para enfatizar as limitações decorrentes da sobrecarga da memória de trabalho sobre a aprendizagem durante a instrução. Ele faz uso de esquemas como unidade de análise para o projecto de materiais instrucionais.
+
+
+== A história da teoria da carga cognitiva ==
+A história da teoria da carga cognitiva pode investigar-se desde o início de Ciência Cognitiva e do trabalho de en:GA Miller. Miller foi talvez o primeiro a sugerir limites à capacidade da memória de trabalho, na sua obra clássica. Seus resultados experimentais sugerem que os seres humanos só são capazes de reter sete mais ou menos dois dígitos de informações na sua memória de curto prazo. Simon e Chase usaram o "pedaço" do termo para descrever como as pessoas podem organizar as informações na sua memória de curto prazo, segmentação de componentes da memória que tem sido descrita como esquema construção.
+John Sweller desenvolveu a teoria da carga cognitiva, enquanto estudava alunos e como estes resolvem os problemas. Com os seus colaboradores descobriu que os alunos costumam usar uma estratégia de resolução de problemas designada análise de meios-fins. Ele sugere que a resolução de problemas por análise de meios-fins requer uma quantidade relativamente grande de capacidade de processamento cognitivo, que não pode ser dedicado à construção do esquema. Em vez de resolverem problemas, Sweller sugere  que os designers instrucionais devem limitar a carga cognitiva através da concepção de materiais didáticos como exemplos resolvidos, ou problemas de objectivo-livre.
+Na década de 1990, a teoria carga cognitiva foi aplicada em vários contextos e os resultados empíricos a partir desses estudos levou à demonstração de vários efeitos de aprendizagem: o efeito de conclusão de problemas; o efeito modalidade; o efeito da divisão da atenção; o efeito do exemplo trabalhado e o efeito de reversão das indicações.
+
+
+== Três tipos de carga cognitiva ==
+A teoria da carga cognitiva tem amplas implicações para o design instrucional. Esta teoria fornece um quadro geral aos designers instrucionais que lhes permite controlar as condições de aprendizagem, dentro de um ambiente, ou, mais geralmente na maioria dos materiais instrucionais. Especificamente, prevê com base empírica directrizes que ajudam os designers instrucionais a diminuir a carga cognitiva estranha durante a aprendizagem, e a reorientar a atenção do aluno para que os materiais pertinentes, aumentando a carga cognitiva pertinente (relacionado com o esquema). Essa teoria diferencia entre três tipos de carga cognitiva:. Carga cognitiva intrínseca, carga cognitiva pertinente e carga cognitiva estranha.
+
+
+=== Carga intrínseca ===
+A carga cognitiva intrínseca resulta do nível de complexidade inerente aos materiais instrucionais. O termo foi usado pela primeira vez por Chandler e Sweller. Para eles, toda a instrução tem uma dificuldade inerente associada à mesma (por exemplo, o cálculo de 2 + 2, versus resolver uma equação diferencial). Esta dificuldade inerente não pode ser alterada pelo instrutor. No entanto muitos esquemas podem ser divididos em "sub-esquemas" individuais e ensinados isoladamente, para serem posteriormente retomados e descritos combinadamente como um todo.
+
+
+=== Carga estranha ===
+A carga cognitiva estranha é gerada pela forma como a informação é apresentada aos alunos e está sob o controle dos designers instrucionais. Esta carga pode ser atribuída ao design dos materiais instrucionais. Porque há um único, recurso cognitivo limitado, utilizando múltiplos recursos para processar a carga estranha reduz a quantidade de recursos disponíveis para processar a carga intrínseca e a carga pertinente (ie, a aprendizagem). Assim, especialmente quando a carga intrínseca e/ou pertinente é alta (ie, quando um problema é difícil), os materiais devem ser concebidos de modo a reduzir a carga estranha.
+Um exemplo de carga cognitiva estranha ocorre quando se equacionam duas maneiras possíveis de descrever um quadrado a um estudante. Um quadrado é uma figura e pode ser descrito usando um meio figural. Certamente um professor também pode descrever um quadrado por um meio verbal, levando apenas um segundo, e exigindo muito menos esforço para o seguirem do que quando aos alunos é mostrada uma praça. Neste caso, o meio visual é contraproducente. Isto acontece porque as imagens carregam indevidamente o aluno com informações desnecessárias. Esta carga cognitiva desnecessária é descrita como carga estranha.
+Chandler e Sweller introduziram o conceito de carga cognitiva estranha. Este artigo foi escrito para relatar os resultados de seis pesquisas por eles conduzidas para investigar esta (sobre)carga da memória de trabalho. Muitas dessas pesquisas envolveram materiais demonstrando o efeito da atenção dividida.  Eles descobriram que o formato dos materiais de instrução tanto pode promover como limitar as aprendizagens. Eles propuseram que as diferenças de desempenho devem atribuir-se a níveis mais elevados da carga cognitiva imposta pelo formato de instrução.  "Carga cognitiva estranha" é o termo para esta carga (artificialmente induzida) cognitiva desnecessária.
+
+
+=== Carga pertinente ===
+A  carga cognitiva pertinente é a que é dedicada ao processamento, construção e automatização de esquemas.  “Pode ser pensada como as coisas que um designer pode fazer para facilitar a carga ideal, como como agrupamento de conteúdos, sequenciação e oferta de analogias que podem ajudar as pessoas a entender as novas informações mais rapidamente”(GALL & LOHR). Foi descrita pela primeira vez por Sweller, van Merrienboer & Paas em 1998. Enquanto a carga cognitiva intrínseca se supõe geralmente  imutável (embora técnicas possam ser aplicadas para reduzir a sua complexidade através da segmentação e reordenação do material complexo), os designers instrucionais podem manipular carga estranha e a pertinente. Sugere-se que limite de carga estranha e promova a carga pertinente
+Até ao artigo 1998 por Sweller, van Merrienboer & Paas, a teoria da carga cognitiva concentrava-se principalmente na redução das cargas cognitivas estranhas. Com este artigo, os pesquisadores da carga cognitiva começaram a procurar formas de redesenhar a instrução para redireccionar o que seria a carga estranha, concentrando-se agora na construção do esquema (carga pertinente). Isto é muito importante para os designers instrucionais, para "reduzir a carga cognitiva estranha e redireccionar a atenção dos alunos para os processos cognitivos que são directamente relevantes para a construção de esquemas".
+
+
+== Princípios da Teoria da carga cognitiva ==
+A Teoria da carga cognitiva decorre do estudo da arquitectura cognitiva da memória humana. Não se pode desenvolver este aspecto aqui, mas apresenta-se uma imagem sugestiva ao lado.
+
+A teoria da carga cognitiva baseia-se explicitamente nos pressupostos da cognição: (a) O objectivo da instrução é a construção do conhecimento na memória de longo prazo; (b) Existem mecanismos para assegurar que as alterações nas quantidades de informação armazenadas (na memória de longo prazo) são pequenas e niveladas. Na arquitectura cognitiva humana, esse mecanismo é uma memória de trabalho de capacidade limitada quando lida com nova informação; (c) Alterações ao armazenamento da informação devem ser reduzidas, porque falhando a aquisição de informação já organizada, as alterações são aleatórias, e alterações enormes e aleatórias podem não ser funcionais; (d) Alterações aleatórias, em vez de ordenadas, são inevitáveis na ausência de uma função do executivo central que determine a natureza das alterações.
+A instrução devidamente estruturada tem estes factores em conta. Esta pode dotar uma função do executivo central, eliminar a necessidade de criação aleatória, e assim facilitar alterações à memória de longo prazo. A instrução pode permitir que a memória de longo prazo de outras pessoas aja como um substituto para a criação aleatória e para testes de eficácia. A teoria da carga cognitiva fornece os princípios para estruturar a instrução de uma forma que facilite o uso de uma função instrucional do executivo central. Grande parte destes princípios tem sido concebida por investigadores de todo o mundo, que Sweller sintetiza no texto Instructional Design Consequences of an Analogy between Evolution by Natural Selection and Human Cognitive Architecture, Instructional Science 32: 9–31, 2004.
+
+
+=== Efeito de exemplo trabalhado ===
+Se é dado um problema para resolver a principiantes de uma área, é provável que aprendam alguma coisa com o exercício de criar movimentos aleatoriamente e testar a eficácia desses movimentos. No entanto, as pessoas deveriam aprender mais em menos tempo, se pudessem utilizar o conhecimento previamente adquirido de alguém sendo apresentados os movimentos adequados; por outras palavras, apresentando-lhes um exemplo trabalhado. É esperado que os exemplos trabalhados reduzam a carga cognitiva estranha, agindo como um executivo central instrucional e reduzindo, assim, a carga na memória de trabalho, deixando mais capacidade desta livre para adquirir conhecimento e armazená-lo na memória de longo prazo.
+
+
+=== Efeito de conclusão ===
+Ao invés de apresentar aos alunos exemplos concluídos, podem ser usados exemplos parcialmente concluídos que estes devem completar. Este procedimento utiliza parcialmente o conhecimento de outra pessoa como um executivo central para reduzir a produção aleatória de movimentos e é tão eficaz como a utilização de exemplos plenamente trabalhados.
+
+
+=== Efeito de atenção dividida ===
+Para que a função instrucional do executivo central seja eficaz, a informação contida não deve exigir a utilização de processamento desnecessário.
+Estão documentadas muitas condições sob as quais os exemplos trabalhados são ineficazes. Uma dessas condições ocorre quando o exemplo trabalhado consiste em múltiplas fontes de informação indecifráveis isoladamente e que, por isso, exigem a sua integração mental antes que possam ser compreendidas. Um diagrama geométrico e respectivas demonstrações servem de exemplo. A necessidade de integrar mentalmente as duas fontes de informação impõe uma carga cognitiva que interfere com a aprendizagem. Integrar fisicamente o esquema e as demonstrações numa única entidade, colocando as demonstrações em locais apropriados reduz a carga cognitiva. 
+
+
+=== Efeito de modalidade ===
+Informações idênticas, genéticas ou psicológicas, podem normalmente ser apresentadas de formas variadas. Algumas formas são mais fáceis de integrar e processar do que outras. Em vez de integrar fisicamente duas fontes de informação isoladamente ininteligíveis, como ocorre ao demonstrar o efeito de atenção dividida, se uma das fontes for verbal, esta pode ser apresentada de forma oral. Deve-se ressalvar que um efeito de modalidade só é obtido sob condições de atenção dividida, i.e., condições em que as duas fontes de informação são isoladamente incompreensíveis e devem ser integradas mentalmente antes que possam ser entendidas.
+
+
+=== Efeito de redundância ===
+Os efeitos de atenção dividida e de modalidade requerem material com diferentes fontes de informação, isoladamente incompreensíveis, que devem ser integradas mentalmente antes que possam ser compreendidas. Se forem apresentadas versões diferentes do mesmo material, isso pode conduzir ao efeito de redundância. Existem vários tipos de redundância (vide Sweller 2003), mas baseiam-se todos na apresentação de material adicional aos alunos que devem, desnecessariamente, processá-lo na memória de trabalho. Um diagrama e um texto, que descreve o diagrama, é um exemplo óbvio de apresentação do mesmo material nas formas oral e escrita.
+
+
+=== Efeito de imaginação ===
+Uma função ou procedimento desenvolvido há muitas gerações é provável que esteja aperfeiçoado e, por isso, seja mais eficaz num determinado meio do que aquele que se desenvolveu recentemente. Similarmente, se os alunos aprenderam o suficiente que lhes possibilite processar o material na memória de trabalho, devem fazê-lo, pedindo-lhes para "imaginar" ou praticar mentalmente o material, facilitará as aprendizagens adicionais mais do que simplesmente envolvê-los em mais "estudos". O efeito inverso é obtido com instruções de "estudo", superiores às instruções "imaginar" se os alunos não tiverem aprendido o material suficientemente bem para poder processá-lo na memória de trabalho.
+
+
+=== Efeito de isolamento dos elementos interactivos ===
+Os procedimentos e os conceitos muito sofisticados precisam de ser aprendidos através de séries de pequenos passos, mesmo com a vantagem de um executivo central de suporte instrucional. 
+Algum material é complexo porque é composto por muitos elementos interactivos de informação que devem ser processados simultaneamente na memória de trabalho, antes que possa ser compreendido. Este material tem um elemento de interactividade bastante significativo (Sweller 1994). Se a natureza deste inclui um número excessivo de elementos em interacção que deve ser processado pela memória de trabalho, a compreensão não pode ocorrer. Pelo menos, alguns dos elementos devem ser processados de forma isolada na memória de trabalho e, só depois, agrupados e armazenados como elementos de nível superior na memória de longo prazo, antes de serem agrupados com outros elementos. Pela sucessiva repetição deste processo, a compreensão total pode ocorrer.
+
+
+=== Efeito de interactividade do elemento ===
+Os designs instrucionais que derivam da teoria da carga cognitiva têm maior interesse para materiais com muitos elementos de interactividade. Uma instrução do executivo central é mais importante se muitos elementos tiverem de ser simultaneamente coordenados do que apenas alguns.
+Os efeitos anteriores presumem que algum design instrucional é inapropriado ou imperfeito porque impõe uma carga cognitiva pesada e irrelevante, que sobrecarrega as funções da memória de trabalho. Se o elemento de interactividade é reduzido, a carga cognitiva intrínseca associada ao material é diminuta, e a memória de trabalho pode ser capaz de funcionar satisfatoriamente, independentemente das questões acima colocadas sobre o design instrucional. Assim sendo, os efeitos acima referidos devem desaparecer ao usar materiais com poucos elementos de interactividade e reaparecer com material rico em elementos de interactividade.
+
+
+=== Efeito de reversão de especialização ===
+A necessidade de um executivo de suporte instrucional depende, até certo ponto, do executivo central suportado pelo conhecimento já disponível na informação armazenada. Se um executivo central suportado pelo conhecimento já está disponível, uma versão de suporte instrucional será redundante e pode interferir com a aprendizagem adicional.
+Enquanto que o efeito de interactividade do elemento centra as suas preocupações nas características do material a ser apresentado aos alunos, o efeito de reversão de especialização foca-se nas características do aluno.
+É fácil supor que o mesmo design instrucional permanecerá válido à medida que o conhecimento dos alunos aumenta. Na verdade, a informação, em qualquer formato, apresentada a novos alunos, embora inicialmente essencial, pode tornar-se menos essencial com o aumento do conhecimento. Como consequência, um design instrucional susceptível de originar um dos efeitos acima descritos pode, inicialmente, perder a sua vantagem sobre um design convencional e, com novos aumentos nos níveis de especialização, pode tornar-se menos eficaz relativamente a um grupo de controlo. À medida que a especialização aumenta, o material essencial para os novos alunos pode tornar-se redundante e, desta forma, impor uma carga cognitiva irrelevante em comparação com a instrução que não inclui o material, resultando no efeito de reversão de especialização.
+
+
+=== Efeito de diminuição de orientação ===
+Em vez de eliminar um executivo central de suporte instrucional quando o executivo central sustentado pelo conhecimento se torna disponível, poderá ser mais eficaz fazer desaparecer lentamente as instruções no executivo central à medida que o conhecimento neste é desenvolvido. O efeito de diminuição da orientação testa esta possibilidade. O efeito é uma amálgama lógica dos efeitos de exemplo trabalhado, de conclusão e de reversão de especialização. Assume que, à medida que os níveis de especialização aumentam, os exemplos totalmente trabalhados associados ao efeito de exemplo trabalhado podem diminuir, sendo substituídos pelos exemplos parcialmente trabalhados associados ao efeito de conclusão. Estes problemas de conclusão, por sua vez, podem ser substituídos por problemas completos sempre que o conhecimento acumulado foi suficiente.
+
+
+=== Efeito sem objectivo ===
+Resolver problemas convencionais durante a aprendizagem impõe uma pesada carga cognitiva. Para resolver um problema, aquele que o tenta resolver deve considerar o estado actual do mesmo, o estado do objectivo, as diferenças entre os dois estados, encontrar operadores para a solução de problemas que podem reduzir estas diferenças e monitorizar quaisquer sub-objectivos que foram estabelecidos. Estas actividades podem facilmente sobrecarregar a memória de trabalho. Os problemas sem objectivo, em vez de exigir àquele que o tenta solucionar que encontre um valor para um objectivo específico ("encontra a amplitude do ângulo ABC", "calcula a velocidade final do carro"), substitui estes objectivos específicos por objectivos não específicos, tais como "encontra a amplitude dos ângulos que conseguires" ou "calcula o valor das variáveis que encontrares". Estes problemas sem objectivo específico reduzem a carga da memória de trabalho, porque o complexo procedimento acima descrito para resolver um problema convencional é substituído por um procedimento que envolve simplesmente encontrar um conjunto de dados que permita que algo seja calculado.
+
+
+== Medição ==
+Paas e van Merrienboer desenvolveram um constructo  (conhecido como condição de eficiência relativa), que ajuda os pesquisadores a medir o esforço mental percebido, um índice de carga cognitiva. Esta construção proporciona um meio relativamente simples de comparar as condições de ensino Ele combina avaliações do esforço mental com pontuações de desempenho São representados graficamente grupos com média de z-pontos e estes podem comparar-se através da análise de variância (ANOVA).
+Paas e van Merrienboer utilizaram a condição de eficiência relativa para comparar três condições instrucionais (exemplos de trabalho, problemas de conclusão, e a prática da descoberta). Eles descobriram que os alunos que estudaram exemplos trabalhados foram os mais eficientes, seguidos por aqueles que usaram a estratégia de conclusão de problemas. Depois deste estudo inicial muitos outros pesquisadores têm utilizado este e outros constructos para medir a carga cognitiva relativamente à aprendizagem e instrução.
+A abordagem ergonómica procura uma expressão quantitativa neurofisiológica da carga cognitiva que pode ser medida utilizando instrumentos comuns, por exemplo, usando a taxa de  pressão arterial no  coração (TPA) para medir simultaneamente a sobrecarga cognitiva e de trabalho físico ocupacional.  Eles acreditam na possibilidade de usar medidas como a TPA para definir limites de sobrecarga de trabalho e para o estabelecimento de subsídios de trabalho.
+
+
+== Diferenças individuais na capacidade de processamento ==
+Foram encontradas evidências de que os indivíduos sistematicamente diferem em sua capacidade de processamento. Uma série de pesquisas apoia a suposição de que cada indivíduo tem uma capacidade fixa de processamento de informação, independentemente da tarefa em questão, ou mais precisamente, independentemente dos processos que o indivíduo utiliza para resolver uma dada tarefa. As tarefas variaram de lembrar listas simples, listas completadas com uma constante fixa e aritmética simples.
+Identificar a capacidade de processamento dos indivíduos poderia ser extremamente útil na adaptação da instrução (ou prever o seu comportamento) aos indivíduos. .Assim, novas pesquisas seriam claramente desejáveis. Em primeiro lugar, é essencial para calcular a carga de memória imposta pela análise detalhada dos processos a serem utilizados. Em segundo lugar, é essencial para garantir que os sujeitos individuais estão realmente usando esses processos. Este último exige uma formação pré-intensiva.
+
+
+== Referências ==

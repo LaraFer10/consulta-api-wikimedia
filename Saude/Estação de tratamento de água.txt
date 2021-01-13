@@ -1,0 +1,29 @@
+Estação de tratamento de água ou também abreviado como ETA é um local em que realiza a purificação da água captada de alguma fonte para torná-la própria para o consumo e assim utilizá-la para abastecer uma determinada população. A captação da água bruta é feita em rios ou represas que possam suprir a demanda por água da população e das indústrias abastecidas levando em conta o ritmo de crescimento. Antes que vá para o sistema de distribuição de água através de adutoras, passa por um processo de tratamento com várias etapas.
+
+
+== Processo de tratamento convencional ==
+
+O processo de tratamento utiliza processos físicos e químicos para que a água adquira as propriedades desejadas que a tornem própria para o consumo humano. A primeira etapa do tratamento é o gradeamento, que se utiliza de grades para deter impurezas maiores como vegetais sobrenadantes, depois disso a água segue para uma etapa de floculação quando através de agentes químicos (coagulantes), como o cal ou o sulfato de alumínio,sais de ferro III ou policloreto de alumínio(PAC), as partículas de sujeira se aglomerarem para em seguida decantarem no fundo de um tanque de decantação .
+Em seguida a água passa por uma etapa de filtração, passando através de filtros compostos por carvão, areia e cascalho. Por final, recebe aditivos químicos a qual corrige a acidez da água como a cal hidratada. Em seguida é adicionado o cloro que age como desinfetante e o flúor que é adicionado para reduzir o problema com cáries na população.
+
+
+== Processo de tratamento por filtração direta (Micro floculação) ==
+Neste processo, todas as etapas do tratamento convencional se repetem, exceto a etapa de decantação, pois esta é realizada diretamente dentro dos filtros de areia. Portanto, na planta de tratamento não existem decantadores.
+
+
+== Processo de Flotação ==
+A flotação é utilizada em águas de alta turbidez ou ainda em águas provenientes de mananciais estáticos como lagos e represas. 
+O processo também possui diversas etapas parecidas com o processo de filtração direta, porém ao invés de tanques de decantação (nos quais os flocos são depositados no fundo do decantador por possuírem maior densidade), aqui ocorre o processo inverso, ou seja, os flocos flotam graças à adição de microbolhas de ar comprimido no fundo do flotador, que ao aderirem aos flocos os conduzem para cima, e estes são separados da água pela parte de cima e recolhidos nas laterais do flotador. 
+A razão para a utilização deste processo em águas de alta turbidez é explicada pela maior eficácia na remoção dos flocos, e menor índice de flocos restantes para o próximo processo, a filtração, tornando o conjunto do tratamento ainda mais eficiente.
+No caso da utilização em águas provenientes de mananciais estáticos como lagos e represas, é muito interessante a utilização da flotação pois esta é altamente eficiente na remoção de algas cianofíceas que pela natureza destes mananciais são muito abundantes, e por produzirem neurotoxinas (especificamente cianotoxinas), são indesejáveis em águas para o abastecimento humano. A importância da flotação neste aspecto é ligada ao fato de que o tratamento convencional é incapaz de remover algas e ciano toxinas.
+
+
+== No Brasil ==
+Segundo dados da Pesquisa Nacional de Saneamento Básico realizada pelo IBGE em 2008 a água tratada não chega a 21,4% das residências no país. Em São Paulo está localizada uma das maiores estações de tratamento do mundo, a de Guaraú, parte do Sistema Cantareira, que produz cerca de 33,0 m³/s. Desde 1975 há obrigatoriedade da fluoretação da água tratada no país.
+
+
+== Ver também ==
+Estação de tratamento de águas residuais
+
+
+== Referências ==

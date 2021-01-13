@@ -1,0 +1,82 @@
+O Programa de Apoio à Nutrição - NutWin visa auxiliar o trabalho do profissional da área de Nutrição e Alimentação, tanto na execução de cálculos para a Avaliação Nutricional, como na organização de informações armazenadas. Auxilia também na quantificação dos nutrientes ingeridos e no processo de tomada de decisão, durante a elaboração dos Planos Alimentares. Este sistema é voltado para nutricionistas clínicas e ligadas a pesquisa, facilitando seu trabalho quanto a avaliação nutricional, armazenamento e pesquisa dos avaliados.
+
+
+== NutWin ==
+NutWin trabalha com o conceito de Arquivos e Fichas, com todos os dados do indivíduo ou do alimento na tela. A interface gráfica facilita o uso do programa, permitindo ao usuário escolher a tarefa a ser realizada de maneira rápida e precisa.
+
+Ao cadastrar um novo indivíduo será gerada uma ficha com 7 guias para navegação: Dados Pessoais, Endereço, Anamnese Nutricional, Exames, Antropometria, Inquérito e Plano Alimentar;
+Gerar Avaliações Antropométricas, contemplando crianças, adolescentes, adultos, gestantes, nutrizes, idosos e portadores de deficiência física;
+Alertas em cor diferenciada quando os limites das variáveis antropométricas forem ultrapassados;
+Elaborar Planos Alimentares com Equivalentes Protéicos e de Energia e calcular inquéritos alimentares recordatórios;
+Acompanhar até 77 nutrientes ou itens disponíveis na tabela, durante a elaboração dos cálculos alimentáres;
+Trabalhar com alimentos quantificados em medidas caseiras;
+Buscar, incluir, modificar e excluir os alimentos cadastrados, os indivíduos e as tabelas auxiliares do programa;
+Incluir uma receita (preparação), utilizando os alimentos cadastrados e armazená-la na tabela de composição de alimentos do programa;
+Gerar diversos relatórios dos cadastros, das consultas, dos inquéritos e dos planos alimentares como: listagem dos alimentos, grupo alimentar, medidas caseiras, nutrientes, % de gordura, IMC-adulto, IMC-adolescente, circunferência do braço, gráfico de recomendação nutricional, % de energia, itens alimentares, macronutrientes, relações nutricionais, etc.
+Configurar a tela do programa, senha, ordem dos nutrientes, padronização da naturalidade, nacionalidade, cor, sexo, cidade, entre outras opções;
+Cadastrar Modelos para Anamnese e Exames Bioquímicos, facilitando e agilizando o trabalho do profissional;
+Permite a organização através de Pastas, dos dados dos indivíduos cadastrados para uso posterior;
+Possibilita a exportação de dados para outros aplicativos, tais como Excel, Word e Access.
+A Calculadora Nutricional pode ser usada independente do Organizador, para efetuar rapidamente um cálculo.
+
+
+== Versões ==
+O Programa NutWin está em fase de reavaliação de projeto. A nova versão deverá ter suporte a Windows Vista, Windows 7 e usará o banco de dados MySQL
+
+
+=== Versão 1.5.2.51 ===
+Lançada em 25 de julho de 2005
+
+
+=== Versão 1.5.2.50 ===
+Lançada em 1 de junho de 2005
+
+
+=== Versão 1.5.2.45 ===
+Lançada em 5 de março de 2004
+
+
+=== Versão 1.5.2.44 ===
+Lançada em 5 de março de 2004
+
+
+=== Versão 1.5.2.43 ===
+Lançada em 9 de setembro de 2003
+
+
+== Interface com Usuário ==
+Na janela principal temos a representação gráfica de um consultório. Ao passar com a seta do mouse sobre alguns dos elementos do consultório, eles se destacam, e é mostrada uma descrição da função. Essas funções também encontram-se disponíveis na barra superior. O NutWin é composto por dois módulos que operam de forma integrada e transparente para o usuário: o Organizador e a Calculadora
+
+
+=== Organizador ===
+O Organizador é o módulo que gerencia as informações administrativas do usuário, dos cadastros de indivíduos, das tabelas e dos relatórios.
+Suas funcionalidades podem ser ativada por três maneiras:
+
+Acesso ao programa pela sala
+Acesso ao Programa pelo menu
+Acesso ao Programa pelos Ícones rápidos
+
+
+=== Calculadora ===
+A calculadora funciona como um gerenciador de documentos (.NUT), cujo conteúdo consiste de um ou mais tipos de cálculos para um determinado indivíduo, ou seja, um documento corresponde a um único indivíduo. Os dados do indivíduo são apenas os necessários para os cálculos, sendo os demais solicitados pelo organizador quando no armazenamento. A Calculadora pode ser ativada pelo desenho da calculadora sobre a mesa ou diretamete
+
+
+== Requisitos do programa ==
+Requisitos da 1.5.2.51
+
+IBM-PC ou compatível
+Pentium 300 MHz
+64 MB de memória RAM
+80 MB de espaço disponível no disco rígido
+resolução de 800X600
+Windows 9x, Me, 2000 ou NT*.
+Configurações regionais (Painel de Controle) ajustadas para Português-Brasil;
+vírgula como separador de casa decimal
+"dd/mm/aaaa" para data abreviada.Além dos componentes do programa NutWin, são instalados:
+
+BDE 5.01;
+InterBase 6.0.
+
+
+== Ligações externas ==
+Conheça o NutWin

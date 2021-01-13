@@ -1,0 +1,69 @@
+A microgravidade ou ausência de peso é uma experiência (de pessoas e objetos) com origem na queda livre, onde não se possui um peso aparente.A ausência de peso sentida nas maioria das naves espaciais não é ocasionada devido à maior distância da Terra: a aceleração de um corpo sob ação da gravidade em um altitude de 100 km é apenas 3% menor que na superfície de Terra. A ausência de peso significa uma Força G igual a zero ou um peso aparente igual a zero: a aceleração ocorre apenas devido à gravidade, em oposição aos casos onde outras forças estão atuando, incluindo as seguintes situações:
+
+Uma pessoa em pé no chão, ou sentada em uma cadeira ou piso (a gravidade é cancelada devido à reação proveniente do chão);
+Voo em um avião (a gravidade é cancelada pela sustentação que as asas provêm) - veja abaixo as trajetórias especiais que são uma exceção a este caso;
+Reentrada atmosférica, aterrissagem em um paraquedas: a gravidade é eliminada pela resistência do ar;
+Durante uma manobra orbital em uma nave espacial. O foguete provê propulsão.A diferença é que a gravidade atua diretamente em uma pessoa e outras massas, enquanto forças como a resistência do ar e a propulsão atuam primeiro no veículo, e o veículo atua então na pessoa. No primeiro caso a pessoa e o veículo são puxados mutuamente, enquanto no outro caso o veículo recebe a força e a transmite para a pessoa.
+
+
+== Visão geral ==
+O que os seres humanos sentem como peso não é realmente a força proveniente da gravidade (apesar de esta ser a definição de peso). O que no sentimos realmente é a força normal de reação vinda do solo (ou da superfície em que estejamos em contato) que nos empurra para cima para eliminar a força da gravidade, este é o peso aparente.
+Por exemplo, um bloco de madeira em um contêiner em uma experiência de queda livre experimenta a ausência de peso. Isto ocorre pois não há reação ao peso do bloco pelo contêiner, visto que o contêiner está sendo puxado para baixo com a mesma aceleração. A aceleração do contêiner é igual à aceleração do bloco, que é igual à aceleração causada pela gravidade. Quando o contêiner está em repouso no solo, entretanto, a força em cada peça do bloco não é uniforme. Pois o bloco não está acelerando, existem também uma força com sentido para cima que ocorre devido ao bloco ser sólido. Cada secção horizontal do bloco não sofre apenas ação da força da gravidade, mas também o peso de qualquer porção do bloco que esteja acima dela. Parte do sentimento de peso ocorre devido a este aumento gradiente de pressão em nosso corpo.
+Existe outro aspecto do sentimento de peso que não é coberto pelo efeito da pressão gradiente, um exemplo deste é a forma como nossos braços são puxados para baixo com relação a nosso corpo. Este efeito vem do fato de que algo suspenso não é suportado diretamente através de uma pressão vinda do solo. De fato este efeito é exatamente o oposto de uma pressão gradiente. Ele ocorreu pois cada secção transversal  de um objeto suspenso, como o nosso braço, tem que suportar o peso de todas as partes que estiverem abaixo do mesmo.
+Deste modo, resumidamente, a ausência de peso não tem relação com o fato de estarmos sob influência de um campo gravitacional, mas sim com o fato de existirem forças gradientes através de nosso corpo. Em queda livre, todas as partes de um objeto aceleram uniformemente (assumindo que não existam forças tidais, o que é verdadeiro para uma aproximação de objetos na escala humana em órbita terrestre), e desta forma uma pessoa não sentiria nenhum peso.
+
+
+== Microgravidade ==
+
+O termo microgravidade é também utilizado, pois a ausência de peso em uma nave espacial ou em um contêiner não é perfeita. As causas disto incluem:
+
+A redução da gravidade em 1 ppm para cada aumento de 3 metros na altura;
+Em uma nave espacial, a força centrípeta necessária é maior no lado superior;
+Apesar de muito fina, existe uma pequena camada de ar no nível orbital, o que causa uma desaceleração devido à fricção.O "peso" causado pelos dois primeiros itens não tem a (força tidal) é direcionado para fora da nave espacial, sendo este proveniente do aumento da distância com relação à Terra, Os pontos mais distantes da Terra dentro da nave sofrem uma maior ação desta força que o seu centro de gravidade, que está mais próximo da Terra.
+O símbolo da microgravidade, µg, foi utilizado na insígnia da fatídica missão espacial STS-107, pois esta missão foi dedicada a pesquisas sobre a microgravidade.
+
+
+== Aeronave KC-135 de Gravidade Reduzida da NASA ==
+A aeronave de gravidade reduzida KC-135 da NASA tem sua base no Centro Espacial Lyndon Johnson e é comumente chamada de o "cometa do vômito". Esta é um avião que a NASA voa em arcos parabólicos de seis milhas de comprimento, primeiro subindo em altitude, e então caindo, de tal forma que o percurso e a velocidade correspondem ao de um objeto sem propulsão e que não sinta a fricção do ar. Isto é feito através da propulsão e direção de modo que a fricção do ar seja compensada. O resultado disto é que as pessoas no interior do veículo não são puxadas para o chão ou qualquer outro lado da aeronave, elas passam temporariamente pela sensação de ausência de peso, durante períodos de 25 segundos. Tipicamente um voo dura cerca de duas horas, tempo durante o qual cerca de 40 parábolas são executadas.
+
+
+== Corporação Zero Gravity ==
+
+A Zero Gravity Corporation opera um Boeing 727 modificado que voa em arcos parabólicos similares aos da percorridos pela aeronave de gravidade reduzida da NASA. Os voos podem ser adquiridos para propósitos de pesquisa e turismo.
+
+
+== Ausência de peso em uma nave espacial ==
+
+A ausência de peso em períodos mais prolongado ocorre nas naves espaciais que estejam no exterior da atmosfera terrestre, contanto que nenhuma propulsão seja aplicada nas naves, e que elas não estejam girando em seu eixo. A orbitação da Terra é uma exceção na qual os foguetes são utilizados para manobras orbitais, até a reentrada atmosférica.
+Uma nave propulsionada por foguetes que esteja acelerando pelo seus disparo possui um comportamento diferente. Mesmo que o foguete esteja acelerando uniformemente, a força é aplicada ao final posterior do foguete pelo gás que escapa por sua saída. Esta força deve ser transferida para cada parte da nave seja através da tensão ou pressão, e desta maneira não é sentida a ausência de peso.
+
+
+== Ausência de peso no centro de um planeta ==
+No centro de um planeta uma pessoa iria sentir ausência de peso, pois a atração da massa externa iria se cancelar. Genericamente, a força gravitacional é igual a zero em qualquer lugar de um planeta esférico simétrico e oco, de acordo com o Teorema de Shell.
+
+
+== Efeitos na saúde ==
+Seguindo o estabelecimento das estações que podem ser habitadas por longa duração pelos humanos, foi demonstrado que a exposição à microgravidade pode apresentar alguns efeitos negativos à saúde. Os seres humanos estão adaptados para a vida na superfície da Terra. Quando o efeito da gravidade é removido, certos sistemas fisiológicos começam a funcionar de maneira deficiente, influenciando todo o organismo.
+A condição inicial mais comum sentida pelos seres humanos em condições de ausência de peso é comumente conhecida como o mal-estar espacial. Os sintomas incluem enjoos gerais, náuseas, Vertigens, dores de cabeça, letargia, vômitos, e um mal-estar geral. Seu primeiro caso foi reportado pelo cosmonauta Gherman Titov em 1961. Cerca de 45% de todas as pessoas que passaram por uma experiência de flutuação livre sob condições de microgravidade sofreram destas condições. A duração do mal-estar espacial varia, porém em nenhum caso ela durou mais de 72 horas. Por volta deste tempo os astronautas já se acostumam ao novo ambiente.
+Os efeitos adversos mais significativos da exposição prolongada à microgravidade são o atrofiamento muscular e a deterioração do esqueleto: esses efeitos podem ser minimizados através de um regime de exercícios. Outros efeitos significativos incluem e redistribuição dos fluidos, um atraso no sistema cardiovascular, produção reduzida de células vermelhas no sangue, desordens de orientação, e um enfraquecimento do sistema imunológico. Os sintomas menores incluem perda de peso, congestão nasal, distúrbios no sono, flatulências excessivas, e enchimento da face. Estes efeitos são reversíveis com o retorno à Terra.
+Muitas das condições causadas pela exposição à microgravidade são similares àquelas resultantes do envelhecimento. Os cientistas acreditam que o estudos dos efeitos detrimentais da ausência de peso podem ter benefícios médicos, tais como um possível tratamento para a osteoporose e um tratamento médico melhor para os internados e os idosos.
+
+
+== Ver também ==
+Antigravidade
+Adaptação humana ao espaço
+Força centrípeta
+Gravidade
+Gravidade artificial
+Imponderabilidade
+μFluids@Home, um projeto de computação distribuída para a simulação do comportamento de fluidos de duas fases sob microgravidade.
+
+
+== Referências ==
+
+
+== Ligações externas ==
+
+
+=== Em português ===
+Centro de Microgravidade

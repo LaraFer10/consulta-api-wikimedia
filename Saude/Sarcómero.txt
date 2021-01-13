@@ -1,0 +1,59 @@
+Sarcómero (português europeu) ou sarcômero (português brasileiro), designado miómero ou miômero, é um dos componentes básicos do músculo estriado que permite a contração muscular. Cada sarcómero é constituído por um complexo de proteínas, entre as quais actina e miosina, alinhados em série para formar uma estrutura cilíndrica designada miofibrila, no interior das células musculares.
+As proteínas dos sarcómeros organizam-se em bandas com características particulares, que ao microscópio dão um aspecto estriado ao músculo esquelético e ao músculo cardíaco, visível na imagem ao lado. O músculo liso organiza-se de uma forma diferente, e não possui sarcómeros
+
+
+== Bandas ==
+
+A observação de fibras musculares estriadas ao microscópio electrónico permitiu identificar um padrão repetitivo de bandas e linhas. Estas correspondem a múltiplos sarcómeros, alinhados em série.
+A zona em que um sarcómero se liga ao seguinte traduz-se por uma linha mais escura, designada linha (ou disco) Z (do alemão Zwischenscheibe - disco entre algo, no caso entre um sarcômero e outro ). Um sarcómero corresponde ao espaço que separa duas linhas Z consecutivas.
+De cada lado da linha Z encontra-se uma banda clara, denominada banda I (de isotrópico, quando observada sob luz polarizada), composta por filamentos finos de actina. Entre as bandas I encontra-se a banda A (de anisotrópico), mais escura, onde ocorre uma sobreposição de filamentos finos com filamentos espessos de miosina. No centro da banda A está a linha M (do alemão, Mittelscheibe -  disco do meio) , e a circundá-la encontra-se uma faixa estreita, mais clara, designada banda H (do alemão  heller - mais clara), onde se encontram filamentos de miosina.A titina estende-se da linha Z, onde esta ligada ao filamento fino, para a linha M, onde acredita-se que haja interação com o filamento grosso.Quando é feito um corte transversal na banda A, na região onde há sobreposição dos filamentos finos e grossos, observa-se que um filamento grosso encontra-se envolvido por seis filamentos finos. É nesta zona que se vai iniciar a contração muscular, através da interação entre filamentos finos e grossos.
+
+
+== Filamentos ==
+
+Os sarcómeros são constituidos principalmente por dois tipos de filamentos:
+Filamento espesso
+É composto pela proteína miosina (mais especificamente miosina II).
+Filamento fino
+É formado por monómeros de actina, nebulina, tropomiosina e troponina.Além destes filamentos, está presente uma proteína gigante denominada titina, que possui um alto grau de elasticidade. A sua função é a de evitar que ocorra um estiramento excessivo do músculo. Fixa a miosina ao disco Z.
+
+
+== Contração muscular ==
+A contração muscular refere-se ao deslizamento da actina sobre a miosina.
+
+
+=== Ativação ===
+
+Para entender a contração do sarcômero é necessário primeiro compreender alguns aspectos da estrutura do filamento de actina. A proteína tropomiosina que está presente do filamento fino cobre o sitio de ligação da miosina presente na molécula de actina (figura 5). Para permitir a contração da célula muscular, a tropomiosina deve ser movida para “descobrir” os sítios de ligação com a miosina presentes ao longo do filamento fino. Os íons cálcio ligam-se com as moléculas de troponinas (que estão espalhadas ao longo da proteína tropomiosina - veja na figura 5) que, por conseguinte, altera a "posição" da tropomiosina em relação a actina, forçando a revelação dos sítios de ligação na mesma. Portanto o cálcio é fundamental para o inicio de uma contração muscular, sua concentração no sarcoplasma é controlada pelo retículo sarcoplasmático (uma forma especializada do retículo endoplasmático).  Conseqüentemente a contração muscular termina quando o cálcio é bombeado de volta para o retículo sarcoplasmático.
+O músculo estriado só se contrai quando um impulso nervoso é recebido de um neurônio motor. Durante a estimulação da célula muscular, o neurônio motor libera um neurotransmissor chamado acetilcolina na junção neuromuscular (a sinapse entre o botão terminal do neurônio e a célula muscular). O potencial de ação dissipa-se ao longo do túbulo T (Transverso) até que alcance o retículo sarcoplasmático; o potencial de ação gerado na célula muscular muda a permeabilidade do retículo sarcoplasmático, permitindo o fluxo de íons cálcio para o sarcômero. Como foi abordado no parágrafo anterior, altas concentrações de cálcio no sarcômero permite que a cabeça da miosina tenha acesso ao sitio de ligação correspondente na actina, desencadeando a contração muscular que é o deslizamento da actina sobre a miosina causando encurtamento dos sarcômeros, e conseqüentemente, o encurtamento do músculo. É importante ressaltar que no músculo cardíaco boa parte do cálcio necessário para a contração provem do liquido extra celular (LEC) enquanto que no músculo esquelético é quase que exclusivamente fornecido pelo retículo sarcoplasmático.
+
+
+=== Nível molecular da contração ===
+A banda A, banda I, linha Z e a linha H (em músculo relaxado) são os únicos componentes visíveis ao microscópio óptico. Na contração muscular, a banda A mantém seu comprimento (1,6micrômetros no músculo esquelético de mamíferos) enquanto que a banda I é contraída.
+Deve-se ter em mente que a cabeça da miosina tem dois sítios principais: um que interage com a actina e outro que se liga com um ATP, este último é uma ATPase.
+As quatro fases do processo de contração muscular são:
+
+		
+		
+		
+Cada ciclo causa um encurtamento no sarcômero de aproximadamente 10 nm que ocorrem em torno de 5 vezes por segundo (se for uma contração rápida), deve-se ter em mente que este ciclo se refere a apenas uma cabeça de miosina e cada filamento grosso possui cerca de 500 cabeças.
+O rigor mortis deve-se a perturbação na quarta etapa que é causada pela falta de ATP, este tem duas implicações: sem ATP não é possível retirar o cálcio do sarcoplasma, com isso os sítios de ligação da actina vão estar expostos; e sem ATP o complexo actomiosina não pode ser desfeito. Em outras palavras o ciclo da contração para na 3º etapa fazendo com que o músculo fique enrijecido.
+
+
+== Armazenamento de energia ==
+A maioria das células musculares só armazena ATP para um número reduzido de contração muscular. Quando em repouso sob boas condições nutricionais, as células musculares armazenam glicogênio e creatina fosfato, assim em exercícios intensos e de curta duração a renovação de ATP fica por conta da glicólise anaeróbica e creatina fosfato. Por outro lado, quando a célula muscular é submetida a exercícios prolongados, quase todo ATP provem de fontes aeróbicas.
+
+
+== Referências ==
+
+
+== Ver também ==
+Músculo
+Potencial de ação
+Músculo esquelético
+Músculo cardíaco
+
+
+== Ligações externas ==
+
+https://web.archive.org/web/20070125011124/http://www.sciencemag.org/feature/data/1049155s1.mov ((en))

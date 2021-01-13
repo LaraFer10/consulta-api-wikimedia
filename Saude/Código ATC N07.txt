@@ -1,0 +1,93 @@
+O Código ATC N07 (Outros medicamentos do sistema nervoso) é um subgrupo terapêutico da classificação ATC (Anatomical Therapeutic Chemical Classification System), um sistema de códigos alfanuméricos desenvolvido pela Organização Mundial da Saúde (OMS) para classificar medicamentos e outros produtos médicos. O subgrupo N07 faz parte do grupo anatômico N (sistema nervoso).Os códigos para uso veterinário (códigos ATCvet) podem ser criados colocando a letra Q antes do código ATC para uso humano: por exemplo, QN07. Os códigos ATCvet sem os códigos ATC humanos correspondentes são citados com a letra Q inicial nessa lista.
+
+
+== N07A Parassimpaticomiméticos ==
+
+
+=== N07AA Anticolinesterases ===
+N07AA01 Neostigmina
+N07AA02 Piridostigmina
+N07AA03 Distigmina
+N07AA30 Ambenônio
+N07AA51 Neostigmina, associações
+
+
+=== N07AB Ésteres de colina ===
+N07AB01 Carbacol
+N07AB02 Betanecol
+
+
+=== N07AX Outros parassimpaticomiméticos ===
+N07AX01 Pilocarpina
+N07AX02 Alfoscerato de colina
+N07AX03 Cevimelina
+
+
+== N07B Drogas usadas em transtornos de dependência ==
+
+
+=== N07BA Drogas usadas na dependência de nicotina ===
+N07BA01 Nicotina
+N07BA03 Vareniclina
+N07BA04 Cistisina
+
+
+=== N07BB Drogas usadas na dependência de álcool ===
+N07BB01 Disulfiram
+N07BB02 Carbimida de cálcio
+N07BB03 Acamprosato
+N07BB04 Naltrexona
+N07BB05 Nalmefeno
+
+
+=== N07BC Drogas usadas na dependência de opióides ===
+N07BC01 Buprenorfina
+N07BC02 Metadona
+N07BC03 Levacetilmetadol
+N07BC04 Lofexidina
+N07BC05 Levometadona
+N07BC06 Diamorfina
+N07BC51 Buprenorfina, associações
+
+
+== N07C Preparações antivertiginosas ==
+
+
+=== N07CA Preparações antivertiginosas ===
+N07CA01 Betaistina
+N07CA02 Cinarizina
+N07CA03 Flunarizina
+N07CA04 Acetileucina
+N07CA52 Cinarizina, associações
+
+
+== N07X Outros medicamentos para o sistema nervoso ==
+
+
+=== N07XA Gangliósidos e derivados de gangliósidos ===
+
+
+=== N07XX Outros medicamentos para o sistema nervoso ===
+N07XX01 Tirilazade
+N07XX02 Riluzol
+N07XX03 Xaliprodeno
+N07XX04 Oxibato de sódio
+N07XX05 Amifampridina
+N07XX06 Tetrabenazina
+N07XX07 Fampridina
+N07XX08 Tafamidis
+N07XX10 Laquinimodo
+N07XX11 Pitolisante
+N07XX12 Patisiran
+N07XX13 Valbenazina
+N07XX14 Edaravona
+N07XX15 Inotersena
+N07XX59 Dextrometorfano, associações
+
+
+== Ver também ==
+Classificação ATC
+Código ATC N: Sistema Nervoso
+
+
+== Referências ==

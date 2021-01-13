@@ -1,0 +1,47 @@
+Um ensaio de viabilidade celular ou ensaio de citotoxicidade é um teste que analisa células metabolicamente ativas em uma cultura celular, a fim de avaliar sua atividade qualitativa e quantitativamente. Ensaios de viabilidade celular são frequentemente usados para triar moléculas que possuem efeitos na proliferação celular ou efeitos tóxicos que eventualmente podem conduzi-las a morte; muitos desses ensaios são conduzidos em placas de titulação de 96 "poços", de forma que vários compostos possam ser triados ao mesmo tempo.
+Vários ensaios de viabilidade celular ou de citotoxicidade estão disponíveis atualmente, cada um deles usando uma abordagem específica para detectar diferentes aspectos da viabilidade celular, como integridade celular, proliferação de células e funções metabólicas. Tais métodos podem ser divididos em quatro tipos:
+Exclusão de corante: azul de tripano, eosina, vermelho Congo, ensaios de eritrosina B.
+Ensaios colorimétricos: ensaio de MTT, ensaio de MTS, ensaio de XTT, ensaio de WST-1, ensaio de WST-8, ensaio de LDH, ensaio de SRB, ensaio de NRU, ensaio de cristal violeta.
+Ensaios fluorimétricos: ensaio por redução de resazurina e de viabilidade da protease (GF-AFC).
+Ensaios luminométricos: ensaio de ATP e ensaio de viabilidade em tempo real.
+
+
+== Ensaios colorimétricos ==
+Os métodos colorimétricos utilizam uma variedade de sais de tetrazólio, que agem tipicamente como um aceptor intermediário de elétrons para permitir a redução do tetrazólio em formazan. Os sais de tetrazólio utilizados podem ser divididos de acordo com a carga: o MTT é carregado positivamente e penetra prontamente em células viáveis, já o MTS, XTT e WST-1 são carregados negativamente, o que dificulta sua penetração nas células.
+
+
+=== Ensaio de MTT ===
+
+O ensaio de redução do MTT (brometo de 3-4,5-dimetil-tiazol-2-il-2,5-difeniltetrazólio) é um método rápido, frequentemente usado para medir proliferação celular e a citotoxicidade. O teste é baseado na redução do MTT, um sal amarelo solúvel em água, pelo efeito da atividade metabólica celular ligada ao NADH e NADPH, formando cristais insolúveis de formazan, de coloração azul ou roxa. A coloração azul ou roxa é, portanto, um quantificador da viabilidade das células. A intensidade do sinal gerado é dependente de muitos parâmetros: concentração de MTT, o tempo de incubação, o número de células viáveis e sua atividade metabólica.
+Esse mecanismo envolve a atividade da enzima desidrogenase mitocondrial, e assim o ensaio pode ser uma forma de mensuração de atividade mitocondrial. Basicamente, as células metabolicamente ativas irão converter o MTT, enquanto que células mortas não serão capazes de realizar essa conversão. A redução do MTT está associada não apenas às mitocôndrias, mas também ao citoplasma e às membranas não-mitocondriais, incluindo o compartimento lisossoma-endossoma e a membrana plasmática.
+
+
+=== Ensaios de MTS, XTT e WST-1 ===
+Mais recentemente, foram desenvolvidos reagentes de tetrazólio que permitem a formação direta de produtos solúveis, eliminando a etapa de adição de compostos que solubilizem os precipitados intracelulares produzidos pela conversão do MTT. O uso de reagentes deste tipo também permite a leitura contínua da absorbância, desde estágios iniciais do experimento. Os compostos de tetrazólio que se enquadram nesta categoria incluem o MTS, XTT e a série WST, todos de carga negativa. Acredita-se que a carga negativa contribua para a solubilidade no meio de cultura celular, mas limita a permeabilidade celular do tetrazólio. Dessa forma, esses corantes requerem um aceptor de elétrons intermediário para redução, como metilsulfato de fenazina (PMS) ou sulfato de etilfenazina (PES).No ensaio de MTS (3-(4,5-dimetiltiazol-2-il)-5-(3-carboximetoxifenil)-2-(4-sulfofenil)-2H-tetrazólio), composto é reduzido pela enzima desidrogenase mitocondrial, da mesma forma que o MTT, formando cristais de formazan. Porém, em contraste ao MTT, que produz um composto insolúvel em água, os cristais formados pela redução do MTS são solúveis. A quantidade de MTS, o marcador da viabilidade celular incorporada pela população de células, é diretamente proporcional ao número de células vivas na cultura.O ensaio de XTT (2,3-bis-(2-metoxi-4-nitro-5-sulfofenil)-2H-tetrazólio-5-carboxanilida) permite a estimativa do metabolismo ativo por redução das enzimas desidrogenase presentes no sistema de transporte de elétrons. Assim como o MTS, o XTT produz um corante solúvel em água, mas de cor laranja.O ensaio de WST-1 (2-(4-iodofenil)-3-(4-nitrofenil)-5-(2,4-disulfofenil)-2H-tetrazólio) é um método simples usado para medir a proliferação celular relativa, através da produção de um corante formazan altamente solúvel em água e não-citotóxico. A conversão de WST-1 é feita pelas enzimas desidrogenase mitocondriais, na presença de um aceptor intermediário de elétrons, como o mPMS.
+
+
+== Ensaios fluorimétricos ==
+
+
+=== Ensaio de redução de resazurina ===
+Os ensaios de redução de resazurina têm um desempenho muito semelhante ao de um ensaio de tetrazólio, exceto que usam o poder do redox para alimentar sua capacidade de representar a viabilidade celular.A resazurina possui cor azul. Após penetrar a célula, em resposta à atividade metabólica de células viáveis, a resazurina é convertida a resorufina, de coloração rosa e fluorescente. As células viáveis convertem continuamente a resazurina em resofurina, aumentando a fluorescência geral e a cor do meio de cultura celular. A vantagem deste método em relação aos anteriores está na sua maior sensibilidade e na possibilidade de acoplá-lo a outros (multiplexing), embora também exiba atividade citotóxica e necessite de períodos de incubação com os reagentes podendo dar origem a artefatos no experimento, como por exemplo, uma interação química entre o ativo testado e o reagente do ensaio.
+
+
+=== Ensaio de viabilidade da protease ===
+A medição da atividade da protease em células vivas serve como um marcador de viabilidade celular. Logo após a morte celular, as proteases cessam as atividades e, portanto, uma linha bem definida é traçada para determinar a viabilidade celular ao usar esta técnica.Um peptídeo fluorogênico (glicilfenilalanil-aminofluorocumarina; GF-AFC) foi desenvolvido para detectar seletivamente a atividade da protease que é restrita a células viáveis. Esse subtrato penetra nas células, sofrendo reações que liberam fluorescência junto ao produto formado, proporcionalmente ao número de células viáveis. Esse ensaio tem se mostrado bem correlacionado com outros, como ensaios baseados em ATP, e sua vantagem está na baixa toxicidade celular em relação aos ensaios de tetrazólio ou resazurina, tornando-o um bom candidato para ensaios acoplados.
+
+
+== Ensaios luminométricos ==
+Ensaios luminométricos proporcionam a determinação rápida e simples da proliferação celular e citotoxicidade em células de mamíferos.
+
+
+=== Ensaio de ATP ===
+O trifosfato de adenosina (ATP) representa a mais importante molécula para armazenamento de energia nos seres vivos, estando diretamente envolvido nos processos energéticos celulares; assim, a mensuração do ATP é um dos métodos mais precisos para avaliar a viabilidade celular. O ensaio de ATP se baseia na conversão da luciferina em oxiluciferina, catalizada pela enzima luciferase junto ao ATP celular, produzindo luminescência.
+O reagente de detecção de ATP contém detergente para lisar as células, inibidores de ATPase para estabilizar o ATP que é liberado das células lisadas, luciferina como substrato e a forma estável de luciferase para catalisar a reação que gera fótons de luz. O sinal atinge a estabilidade 10 minutos após a adição dos reagentes, e dessa forma, não necessita de um período de incubação como nos ensaios de tetrazólio e resazurina, e a luz emitida pelo ensaio possui meia vida maior que 5 horas.
+
+
+=== Ensaio em tempo real ===
+Recentemente, uma nova abordagem foi desenvolvida para medir a viabilidade celular em tempo real, utilizando uma luciferase modificada derivada de um camarão e uma pequena molécula pró-substrato. Basicamente, o pró-substrato e a luciferase são adicionados diretamente ao meio de cultura celular, como um reagente. Células viáveis com um metabolismo ativo reduzem o pró-substrato em um substrato, que é usado pela luciferase, para gerar um sinal luminescente. O reagente é bem tolerado pelas células (não depende da lise celular) e é estável. O ensaio pode ser realizado em dois formatos: leitura contínua e medição de ponto final (end-point). No formato de leitura contínua, o sinal luminescente pode ser repetidamente gravado durante um período prolongado para medir o número de células em "tempo real".
+
+
+== Referências ==

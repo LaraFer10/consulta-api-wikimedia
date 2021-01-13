@@ -1,0 +1,8 @@
+As nitrato redutases são um grupo de enzimas que reduzem o nitrato a nitrito.
+
+Nitrato redutase (1) - é uma grande e complexa enzima com múltiplas subunidades e uma massa de ~800 kDa. Contém FAD ligado, molibdênio e citocromo 557, e possui um centro tipo ferredoxina, Fe4S4. É dependente de NADH/NADPH, dependendo do organismo. O molibdênio está ligado a um co-fator que contém um anel de pteridina, formando molibdopterina.Nitrito redutase (2, 3, 4) catalisa os três últimos passos na redução do nitrato a NH3. Contém um centro tipo ferredoxina, Fe2S2 e uma molécula de siroheme (porfirina contendo ferro parcialmente reduzido) e o dador de electrões para cada passo é a ferredoxina.As bactérias podem ser diferenciadas com base na presença de nitrato redutase.
+
+
+== Ligações externas ==
+UMich Orientation of Proteins in Membranes protein/pdbid-1q16
+MeSH Nitrate+reductases

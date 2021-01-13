@@ -1,0 +1,24 @@
+A região de codificação de um gene, também conhecida e abreviada na literatura em inglês como CDS (de coding sequence), é uma porção de DNA de um gene ou RNA que codifica para proteína. A região geralmente começa na extremidade 5' por um codão de início e termina na extremidade 3' com um codão de parada.
+A soma total das regiões de codificação de um genoma de um organismo é chamado seu exoma.
+
+
+== Estrutura ==
+A região de codificação em um mRNA é ladeado pela região 5' não traduzida (5'-UTR) e a região 3' não traduzida (3'-UTR). O CDS é a porção de uma transcrição de mRNA que é traduzido por uma ribossoma. CDS é uma palavra-chave (chave de recurso) usada para denotar a 'sequência de codificação de proteínas' em uma tabela de recursos de um gene pelos principais bancos de dados INSDC de sequências. Eles também lêem CDS como sequência de codificação e região de codificação.
+
+
+== Diferença com cDNA ==
+Uma sequência cDNA (DNA complementar) é derivado do transcrito por transcrição reversa, mas neste caso também contém as UTRs 5' e 3', as quais não são parte do CDS (são transcritas, mas não traduzidas). Um CDS irá quase sempre começar com um codon de iniciação AUG em eucariotas e parar em um dos três códons de parada (UAA, UGA, UAG).
+
+
+== Anotação de sequência de codificação ==
+Enquanto a identificação de fases de leitura aberta dentro de uma sequência de DNA é direta, não identificando sequências de codificação, porque a célula traduz apenas um subconjunto de todos as fases de leitura aberta para proteínas. Atualmente a previsão de CDS usa amostragem e sequenciamento de mRNA das células, embora ainda exista o problema de determinar quais partes de um determinado mRNA são realmente traduzidas para proteína. A previsão do CDS é um subconjunto de predição de genes, este último inclui também a previsão de sequências de DNA que codificam não só proteínas, mas também outros elementos funcionais, como genes de RNA e sequências reguladoras.
+
+
+== Ver também ==
+Cadeia codogênica - A cadeia que codifica uma proteína;
+Estrutura do gene - Os outros elementos que compõem um gene;
+DNA não codificante - Partes de genomas que não codificam genes;
+RNA não codificante - Genes que não codificam proteínas, não possuem CDS.
+
+
+== Referências ==

@@ -1,0 +1,58 @@
+Hemoglobinúria paroxística noturna (HPN) é uma anemia hemolítica crônica causada por um defeito na membrana das hemácias. Caracterizada pela presença de componentes das hemácias na urina (hemoglobinúria). Paroxística significa recorrente, com início e final brusco, sem aviso. O médico alemão, Paul Strübing, que a nomeou em 1881 pensou que a hemólise era causada pela acidose durante o sono, mas muitos anos depois se descobriu que a hemólise ocorre continuamente. Esta doença rara atinge entre 1 e 2 em cada milhões de habitantes e é igualmente prevalente em ambos os sexos.
+
+
+== Sinais e sintomas ==
+A forma mais clássica apresenta uma anemia hemolítica e presença dos produtos da hemólise na urina (hemoglobina e hemossiderina) faz com que ela fique com cor escura (cor de coca-cola) e às vezes o paciente apresenta icterícia(pele amarelada) e esplenomegalia (baço aumentado). A anemia é acompanhada de um sinal de regeneração moderada (reticulocitose) e de um certo grau de insuficiência medular. Os sintomas clássicos da anemia que podem estar presentes são:
+
+Fadiga,
+Falta de ar,
+Palidez,
+Cefaleia.O problema maior que agrava uma evolução de um paciente com HPN é a trombose. As duas localizações mais frequentes destas tromboses são nas veias supra-hepáticas (síndrome de Budd-Chiari) e no sistema nervoso central (ACV isquêmico). Duas outras complicações são também frequentemente encontradas: as crises dolorosas abdominais (a etiologia é incerta, mas pode ser por microtrombose mesentéricas) e as infecções recorrentes (diversas viroses). As infecções são resultado da baixa no número de leucócitos (ou leucopenia). E os problemas de coagulação como hematomas, hemorragias e petéquias podem ser agravados com a baixa no número de plaquetas (ou plaquetopenia). 
+Muitos pacientes com anemia aplásica desenvolvem HPN. Esta anemia pode ser um resultado de um ataque do sistema imune à medula óssea, podendo ser desencadeada por uma falha no processo de hematopoese.
+
+
+== Fisiopatologia ==
+No final do século XIX, Gull depois Strübing descreveram o caso de pacientes que apresentavam uma hemoglobinúria intermitente acompanhada de hemólise intravascular. Marchiafava e Nazani em 1911, depois Michelli em 1931, estabeleceram o quadro clínico clássico da doença.
+A hemoglobinúria paroxística noturna (HPN), ou doença de Marchiafava & Michelli, é hoje em dia considerada como uma doença da célula-tronco hematopoiética. Desde o início dos anos 80 com o progresso da citometria de fluxo depois, mais recentemente, da biologia molecular conduziram a um avanço do conhecimento da fisiopatologia desta doença rara.
+Das primeiras descrições da doença, até o início do século, a sensibilidade anormal dos glóbulos vermelhos (ou hemácias) e a ação lítica do complemento (proteínas do sistema imunitário) foram considerados como as características principais da doença.
+No início dos anos 80, vários pesquisadores demonstraram que 2 proteínas inibem a ação do complemento, não estando expressas a superfície dos glóbulos vermelhos dos pacientes com HPN. Estas 2 moléculas são a DAF (decay accelerating factor) ou CD55 e a MIRL (membrane inhibitor of reactive lysis) ou CD59.
+Em seguida aos trabalhos que mostraram a deficiência da expressão do CD55 e do CD59, outras deficiências moleculares foram identificadas em pacientes com HPN. Todas estas moléculas tem um elemento estrutural comum : eles são ligados à membrana por uma glicosil fosfatidil inositol (GPI).
+Mesmo que as proteínas sejam expressas fisiologicamente à membrana das células sanguíneas, são normalmente sintetizadas, eles não são expressas na HPN pelo defeito da síntese do sistema de ligação à GPI.
+Recentemente, uma etapa fundamental na compreensão da doença foi descoberta graças ao grupo do Dr. Kinoshita que demonstrou que a HPN estava ligada a anomalias de um gêne chamado PIG-A. O gêne PIG-A fica situado no cromossomo X.
+Estas descobertas fundamentais abriram uma série de estudos moleculares da HPN. Várias equipes demonstraram que as alterações moleculares do gêne PIG-A estão presentes entre todos os pacientes de HPN.
+
+
+== Diagnóstico ==
+Testes não específicos:
+Hemograma: presença de uma anemia microcítica. O paciente pode apresentar pancitopenia ou seja baixa na três linhas celulares, isto é, além de uma baixa quantidade de glóbulos vermelhos, o paciente apresenta baixa na quantidade de glóbulos brancos ou leucócitos (leucopenia) e no número de plaquetas (plaquetopenia).
+Reticulócitos: aumentado pela presença de hemólise.
+Hemoglobina, bilirrubina total e livre, HDL aumentadas em caso de hemólise.
+Haptoglobina: baixa ou ausente.
+Testes Específicos:
+Teste de Ham: hemólise provocada em meio ácido. Quando o teste for positivo indica HPN positivo.
+Teste da Sacarose
+Citometria de fluxo: Ausência ou redução da CD59 e CD55.
+Testes de diferenciação em relação a outras doenças:
+Eletroforese de Hemoglobina: para descartar uma hemoglobinopatia.
+Teste de G6PD: para descartar deficiência de G6PD.
+Teste de Coombs direto: para descartar doença auto-imune.
+
+
+== Tratamento ==
+Transfusão de sangue inteiro pode ser necessária para corrigir a anemia, além de suprimir a produção de células HPN pela medula óssea e, indiretamente, reduzir a gravidade da hemólise. A deficiência de ferro se desenvolve com o tempo, devido a perdas na urina e pode ter que ser tratada com dieta e suplementos como sulfato ferroso. Suplementos de ferro por via intravenosa pode resultar em mais hemólise à medida que mais células PNH são produzidas. As evidências que corticoesteroides são úteis são contraditórias.HPN é uma doença crônica portanto exige longo monitoramento. Em pacientes com poucos sintomas e poucos clones, basta um monitoramento da citometria de fluxo a cada seis meses para fornecer informações sobre a evolução e prevenir complicações potenciais. Dado o elevado risco de trombose, o tratamento preventivo com a anticoagulantes (como warfarina) é recomendado naqueles com muitos clones anormais (50% dos glóbulos brancos do tipo III). Casos de trombose são tratados como seriam em outros pacientes.O eculizumab é um anticorpo monoclonal que melhora a qualidade de vida e diminui a necessidade de transfusões de sangue, mas é um dos fármacos mais caros do mundo (US$440,000 por pessoa por ano). E causa um elevado risco de meningite meningocócica invasiva mesmo com vacina.
+
+
+== Prognóstico ==
+SEM tratamento a sobrevida após o aparecimento dos sintomas era de cerca de 10 a 20 anos dependendo da gravidade. A morte frequentemente é por trombose causando infarto do miocárdio, tromboembolismo pulmonar ou AVC isquêmico. É comum estar associada a outras doenças graves do sangue como anemia aplásica, leucemia e síndrome mielodisplásica. A gravidez é de alto risco para feto e para a mãe por aumentar o risco de transtornos da coagulação (mortalidade materna de 20%).
+
+
+== Personalidades diagnosticadas com o HPN ==
+No Brasil, o atacante Alex Alves faleceu, em 2012, em decorrência da Hemoglobinúria paroxística noturna.
+
+
+== Ligações externas ==
+e-medicine
+Artigo Fleury
+
+
+== Referências ==

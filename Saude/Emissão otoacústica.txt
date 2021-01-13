@@ -1,0 +1,175 @@
+Uma emissão otoacústica (EOA) é um som gerado a partir da orelha interna. Tendo sido prevista por Thomas Gold em 1948, sua existência foi comprovada experimentalmente por David Kemp em 1978  e, desde então, as emissões otoacústicas tem demonstrado surgir por meio de diferentes atividades celulares e mecânicas na orelha interna.   Estudos apontam que as EOA desaparecem após a orelha interna ser danificada; portanto, as EOAs são frequentemente usadas no laboratório e na clínica como uma medida da saúde da orelha interna. 
+De um modo geral, existem dois tipos de emissões otoacústicas: emissões otoacústicas espontâneas, que podem ocorrer sem estímulo externo e emissões otoacústicas evocadas, que requerem estímulo evocativo. 
+
+
+== Mecanismo de ocorrência ==
+Os EOAs são relacionadas à função de amplificação da cóclea. Na ausência de estimulação externa, a atividade do amplificador coclear aumenta, levando à produção de um som. Várias linhas de evidência sugerem que, em mamíferos, as células ciliadas externas são os elementos que aumentam a sensibilidade coclear e a seletividade de frequência e, portanto, agem como fontes de energia para amplificação. Uma teoria é que eles agem para aumentar a discriminabilidade das variações de sinal no ruído contínuo, diminuindo o efeito de mascaramento de sua amplificação coclear. 
+
+
+== Tipos ==
+
+
+=== Espontânea ===
+As emissões otoacústicas espontâneas são sons emitidos pelo ouvido sem estimulação externa e mensuráveis com microfones sensíveis no meato acústico externo. As emissões otoacústicas espontâneas podem ser detectadas em aproximadamente 35 - 50% da população. Os sons são estáveis em frequência entre 500 Hz e 4500 Hz para ter volumes instáveis entre -30 dB NPS e +10 dB NPS. A maioria das pessoas não tem conhecimento de suas emissões otoacústicas espontâneas; porções de 1 - 9%, no entanto, a percebem como um zumbido irritante.
+
+
+=== Evocada ===
+Atualmente, as emissões otoacústicas evocadas (EOE)são evocadas usando três metodologias diferentes. 
+
+As EOAs estímulo por frequência (EOAEF) - são medidas durante a aplicação de um estímulo de tom puro e são detectadas pela diferença vetorial entre a forma de onda do estímulo e a forma de onda registrada (que consiste na soma do estímulo e das EOA).
+As EOAs evocados transientes (EOAT) - são evocadas usando um estímulo clique (ampla faixa de frequência) ou tone burst (tom puro de curta duração). A resposta evocada de um clique cobre a faixa de frequência de até 4 kHz, enquanto um tone burst provocará uma resposta da região com a mesma frequência que o tom puro.
+As EOAs produto de distorção (EOAPD) - são evocadas usando um par de tons primários 
+  
+    
+      
+        
+          f
+          
+            1
+          
+        
+      
+    
+    {\displaystyle f_{1}}
+   e 
+  
+    
+      
+        
+          f
+          
+            2
+          
+        
+      
+    
+    {\displaystyle f_{2}}
+   com intensidade particular (geralmente 65 - 55 dB NPS ou 65 para ambos) e proporção ( 
+  
+    
+      
+        
+          f
+          
+            1
+          
+        
+        
+          
+             
+          
+        
+        :
+        
+          
+             
+          
+        
+        
+          f
+          
+            2
+          
+        
+      
+    
+    {\displaystyle f_{1}{\mbox{ }}:{\mbox{ }}f_{2}}
+  )As respostas evocadas desses estímulos ocorrem em frequências (
+  
+    
+      
+        
+          f
+          
+            d
+            p
+          
+        
+      
+    
+    {\displaystyle f_{dp}}
+  ) matematicamente relacionadas às frequências primárias, sendo as duas mais proeminentes 
+  
+    
+      
+        
+          f
+          
+            d
+            p
+          
+        
+        =
+        2
+        
+          f
+          
+            1
+          
+        
+        −
+        
+          f
+          
+            2
+          
+        
+      
+    
+    {\displaystyle f_{dp}=2f_{1}-f_{2}}
+   (o tom de distorção "cúbico", mais comumente usado para triagem auditiva) porque produzem a emissão mais robusta e 
+  
+    
+      
+        
+          f
+          
+            d
+            p
+          
+        
+        =
+        
+          f
+          
+            2
+          
+        
+        −
+        
+          f
+          
+            1
+          
+        
+      
+    
+    {\displaystyle f_{dp}=f_{2}-f_{1}}
+   (o tom de distorção "quadrático" ou tom de diferença simples). 
+
+
+== Importância clínica ==
+As emissões otoacústicas são clinicamente importantes porque são a base de um teste simples e não invasivo detecção de perda auditiva coclear em bebês recém-nascidos e em crianças ou adultos que não conseguem ou não desejam cooperar durante os testes auditivos convencionais. Muitos países ocidentais agora têm programas nacionais para a triagem auditiva universal de bebês recém-nascidos. A realização da triagem auditiva neonatal é preconizada pelo Brasil antes da alta da maternidade. O programa periódico de exames auditivos na primeira infância também utiliza a tecnologia EOA. Um excelente exemplo foi demonstrado pela Iniciativa de Extensão na Audição na Primeira Infância, do Centro Nacional de Avaliação e Gerenciamento Auditivo (NCHAM) da Universidade Estadual de Utah (EUA), que ajudou centenas de programas detecção precoce nos Estados Unidos a implementar a triagem e acompanhamento de EOA em ambientes educacionais da primeira infância.    A ferramenta de triagem primária é um teste para a presença de uma EOA evocada por clique. As emissões otoacústicas também auxiliam no diagnóstico diferencial de perdas auditivas cocleares e de nível superior (por exemplo, neuropatia auditiva). 
+As relações entre emissões otoacústicas e zumbido foram exploradas. Vários estudos sugerem que em cerca de 6% a 12% das pessoas com audição normal com zumbido e emissões otoacústicas evocadas espontâneas, as emissões seriam pelo menos parcialmente responsáveis pelo zumbido.  Estudos descobriram que alguns indivíduos com zumbido exibem emissões espontâneas oscilantes ou vibrantes e, nesses casos, é hipotético que as emissões oscilantes e o zumbido estejam relacionados a uma patologia subjacente comum, em vez de as emissões serem a fonte do zumbido.  
+Em conjunto com o teste audiométrico, o teste de EOA pode ser complementar para determinar as alterações nas respostas. Estudos descobriram que a exposição a ruído pode causar um declínio nas respostas das EOA. As EOAs são uma medida da atividade das células ciliadas externas na cóclea, e a perda auditiva induzida pelo ruído (PAIR) ocorre como resultado de danos às células ciliadas externas na cóclea.   Portanto, o dano ou a perda de algumas células ciliadas externas provavelmente aparecerão nas EOAs antes de aparecer no audiograma.  Estudos demonstraram que, para alguns indivíduos com audição normal que foram expostos a níveis sonoros excessivos, apresentaram menores, reduzidas ou ausentes EOAs.  Em um estudo, um grupo de indivíduos com exposição a ruído foi comparado a um grupo de indivíduos com audiogramas normais e com histórico de exposição ao ruído, bem como a um grupo de recrutas militares sem histórico de exposição a ruído e audiograma normal.  Eles descobriram que um aumento na severidade da PAIR resultou em EOAs com uma faixa menor de emissões e amplitude reduzida. Verificou-se que a perda de emissões devido à exposição a ruído ocorreu principalmente nas altas frequências, sendo mais proeminente nos grupos que apresentaram exposição a ruído em comparação ao grupo não exposto. Verificou-se que as EOAs eram mais sensíveis à identificação de dano coclear induzido por ruído do que a audiometria tonal liminar.  Em conclusão, o estudo identificou as EOAs como um método para ajudar na detecção do início precoce da PAIR. 
+Tem sido demonstrado que as emissões otoacústicas produto de distorção (EOAPD) fornecem o máximo de informações para a detecção de perda auditiva em altas frequências, quando comparadas às emissões otoacústicas evocadas transientes (EOAT).  Isso é uma indicação de que as EOAPD podem ajudar na detecção precoce de PAIR. Um estudo que mediu limiares audiométricos e EOAPDs entre indivíduos nas forças armadas mostrou que houve uma diminuição nos EOAPDs após a exposição a ruído, mas não mostrou uma alteração no limiar audiométrico. Isso suporta as EOAs como preditora de sinais precoces de danos causados pelo ruído. 
+
+
+== Importância biométrica ==
+Em 2009, Stephen Beeby, da Universidade de Southampton, liderou pesquisas sobre a utilização de emissões otoacústicas para identificação biométrica. Os dispositivos equipados com um microfone podem detectar essas emissões subsônicas e potencialmente identificar um indivíduo, fornecendo acesso ao dispositivo, sem a necessidade de uma senha tradicional.  Especula-se, no entanto, que resfriados, medicamentos, aparar os pelos da orelha ou gravar e reproduzir um sinal no microfone podem subverter o processo de identificação. 
+
+
+== Ver também ==
+Resposta auditiva do tronco cerebral
+Fenômeno entoptico
+Maryanne Amacher, compositora que usou esse fenômeno em sua música
+Audiometria de tom puro
+
+
+== Referências ==
+
+
+== Leitura adicional ==
+MS Robinette e TJ Glattke (orgs., 2007). Emissões Otoacústicas: Aplicações Clínicas, terceira edição (Thieme).
+GA Manley, RR Fay e AN Popper (eds., 2008). Processos ativos e emissões otoacústicas (Springer Handbook of Auditory Research, vol. 30).
+S. Dhar e JW Hall, III (2011). Emissões Otoacústicas: Princípios, Procedimentos e Protocolos (Publicação Plural).

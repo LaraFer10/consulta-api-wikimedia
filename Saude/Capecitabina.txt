@@ -1,0 +1,82 @@
+Capecitabina (nome comercial: Xeloda®, Roche) é um agente citotóxico, derivado do carbamato de fluoropirimidina, tumor-ativado e tumor-seletivo, que foi planejado para administração oral.
+
+
+== História ==
+A capecitabina é atóxica in vitro, porém, in vivo, a mesma é seqüencialmente convertida para a fração citotóxica 5-fluorouracil (5-FU) que, por sua vez, é metabolizada adicionalmente. A formação de 5-FU é catalisada preferencialmente no tumor por um fator angiogênico associado ao tumor, denominado timidina fosforilase (ThyPase), minimizando assim a exposição dos tecidos sadios do organismo ao 5-FU sistêmico. A biotransformação enzimática seqüencial da capecitabina para 5-FU leva a maiores concentrações dentro dos tecidos do tumor. Após a administração oral de capecitabina para pacientes com câncer colorretal (N = 8), a relação entre a concentração nos tumores colorretais e nos tecidos adjacentes foi de 3,2 (variação de 0,9 a 8,0). A relação entre a concentração de 5-FU no tumor e no plasma foi de 21,4 (variação de 3,9 a 59,9), enquanto a relação entre os tecidos saudáveis e o plasma foi de 8,9 (variação de 3,0 a 25,8). Foi medida a atividade da timidina fosforilase, sendo encontrado que a mesma é 4 vezes maior no tumor colorretal primário do que no tecido adjacente normal.
+Outras pesquisas demonstraram que diversos tumores humanos, como câncer de mama, gástrico, colorretal, câncer de colo de útero e ovariano, apresentam nível aumentado de timidina fosforilase (capaz de converter 5'-DFUR [5'-deoxi-5-fluorouridina] em 5-FU) do que os tecidos normais correspondentes.
+Ambas as células normais e tumorais, metabolizam o 5-FU para monofosfato de 5-fluoro-2-desoxiuridina (FdUMP) e trifosfato de 5-fluorouridina (FUTP). Estes metabólitos causam dano à célula através de dois mecanismos diferentes. Inicialmente, FdUMP e o cofator folato N5-10-metileno-tetraidrofolato ligam-se à timidilato sintetase (TS) para formar um complexo ternário covalente. Esta ligação inibe a formação de timidilato a partir do uracil. O timidilato é o precursor necessário do trifosfato de timidina, que por sua vez, é essencial para a síntese de DNA, de forma que uma deficiência deste composto possa inibir a divisão celular. Em segundo lugar, as enzimas nucleares de transcrição podem incorporar FUTP erroneamente, no lugar do trifosfato de uridina (UTP) durante a síntese de RNA. Esse erro metabólico pode interferir com o processamento do RNA e com a síntese protéica.
+
+
+== Indicações ==
+No tratamento de cânceres de mama ou cólon, avançado e metastizado, cujo tumor progrediu após tratamento com trastuzumab (Herceptin®).
+
+
+=== Terapêuticas ===
+Carcinoma colorretal
+Os dados de dois estudos clínicos com desenho idêntico, multicêntricos, randomizados, controlados, fase III, proporcionam suporte para o uso de capecitabina como tratamento de primeira escolha do câncer colorretal metastático. Nestes estudos, 603 pacientes foram randomizados para o tratamento com capecitabina (1250 mg/m² duas vezes ao dia durante 2 semanas, seguido de um período de descanso de uma semana e sendo administrado como ciclo de 3 semanas). Outros 604 pacientes foram randomizados para o tratamento com 5-FU e leucovorina (Regime Mayo: 20 mg/m² de leucovorina EV seguido de 425 mg/m² EV de 5-FU em bolus, nos dias 1 a 5, a cada 28 dias).
+As taxas de resposta objetiva global em toda a população randomizada (avaliação do investigador) foi 25,7% [capecitabina] vs. 16,7% (Regime Mayo); p < 0,0002. A mediana do tempo para progressão foi de 140 dias [capecitabina] vs. 144 dias (Regime Mayo). A mediana da sobrevida foi 392 dias [capecitabina] vs. 391 dias (Regime Mayo).
+Carcinoma de mama
+Os dados de um estudo clínico multicêntrico, randomizado, controlado, fase III proporcionam suporte à utilização de capecitabina para o tratamento de pacientes com câncer de mama metastático ou localmente avançado, em combinação com docetaxel, após insucesso de quimioterapia citotóxica incluindo uma antraciclina. Neste estudo, 255 pacientes foram randomizados para tratamento com capecitabina (1250 mg/m² duas vezes ao dia durante 2 semanas seguido de um período de descanso de 1 semana) e docetaxel (75 mg/m² como infusão venosa de 1 hora a cada 3 semanas). Outros 256 pacientes foram randomizados para tratamento com docetaxel somente (100 mg/m² como infusão intravenosa de 1 hora a cada 3 semanas). A sobrevida foi superior no braço da combinação capecitabina + docetaxel (p = 0,0126). A mediana da sobrevida foi de 442 dias [capecitabina + docetaxel] vs. 352 dias (docetaxel somente). As taxas de resposta objetiva global em toda a população randomizada (avaliação do pesquisador) foram 41,6% [capecitabina + docetaxel] vs. 29,7% (docetaxel somente); p = 0,0058. O tempo para a progressão da doença ou morte foi superior no braço da combinação capecitabina + docetaxel (p < 0,0001). A mediana do tempo até a progressão foi de 186 dias [capecitabina + docetaxel] vs. 128 dias (docetaxel somente).
+Os dados de dois estudos clínicos multicêntricos, fase ll proporcionam suporte ao uso de capecitabina em monoterapia para o tratamento de pacientes com câncer de mama metastático ou localmente avançado após insucesso de um taxano e de regime quimioterápico contendo antraciclina ou para aqueles nos quais a terapia adicional com antraciclina não está indicada. Nestes estudos, um total de 236 pacientes foram tratados com capecitabina (1250 mg/m² duas vezes ao dia durante 2 semanas seguido de um período de descanso de 1 semana). As taxas de resposta objetiva global (avaliação do pesquisador) foram 20% (primeiro estudo) e 25% (segundo estudo). A mediana do tempo até a progressão foi de 93 e de 98 dias. A mediana da sobrevida foi de 384 e de 373 dias.
+
+
+=== Outras utilizações ===
+A Capecitabina vem sendo testada  de forma associada ao lapatinib em carcinomas agressivos de mama ou cólon, HER2 positivos que apresentaram progressão depois de tratamentos com Trastuzumab, antraciclina e taxano.
+
+
+== Efeitos laterais ==
+De acordo com a tabela expressa na bula e em estudo Fase III, os efeitos colaterais mais reportados foram diarréia, a síndrome mão-pé, náusea, vômito, fatiga e rash (distinto da síndrome mão-pé).
+
+
+== Interacções ==
+
+
+== Contra-indicações ==
+
+
+== Intoxicação ==
+
+
+== Farmacocinética ==
+
+
+=== Absorção ===
+Após administração oral, a capecitabina é rápida e extensivamente absorvida, seguida de extensa conversão para os metabólitos, 5’-deoóxi-5-fluorocitidina (5’-DFCR) e 5’-DFUR. A administração com alimentos diminui a taxa de absorção da capecitabina, porém com mínimo efeito sobre as áreas sob a curva (AUCs) do 5’-DFUR e de seu metabólito subseqüente 5-FU. Com a dose de 1250 mg/m² no décimo-quarto dia de administração após a ingestão de alimentos, as concentrações plasmáticas de pico (Cmáx em mcg/ml) para a capecitabina, 5´-DFCR, 5´DFUR, 5-FU e
+FBAL foram 4,47; 3,05; 12,1; 0,95 e 5,46, respectivamente. Os tempos para as concentrações plasmáticas de pico (Tmáx em horas) foram 1,50; 2,00; 2,00; 2,00 e 3,34. Os valores da AUC0-∝ em mcg x h/mL foram 7,75; 7,24; 24,6; 2,03 e 36,3.
+
+
+=== Ligação protéica ===
+Estudos realizados com plasma humano in vitro, determinaram que as ligações da capecitabina, 5´-DFCR, 5´-DFUR e 5-FU às proteínas, principalmente à albumina, foram de 54%, 10%, 62% e 10% respectivamente.
+
+
+=== Metabolismo ===
+A capecitabina é metabolizada inicialmente, através da carboxilesterase hepática, para 5’-DFCR, a qual é convertida a seguir em 5’-DFUR através da citidina desaminase, localizada principalmente no fígado e nos tecidos tumorais.
+A formação de 5-FU ocorre preferencialmente no tumor pelo fator angiogênico associado ao tumor, dThdPase (Timidina fosforilase), minimizando assim a exposição sistêmica dos tecidos sadios do organismo ao 5-FU sistêmico.
+A AUC plasmática do 5-FU é 6 a 22 vezes menor do que aquela observada após a administração intravenosa em bolus de 5-FU (dose de 600 mg/m²). Os metabólitos da capecitabina tornam-se citotóxicos somente após sua conversão para 5-FU e para anabólitos do 5-FU. (vide “Propriedades e efeitos”).
+O 5-FU é catabolizado adicionalmente para os metabólitos inativos diidro-5-fluoruracil (FUH2), ácido 5-fluoro-ureidopropiônico (FUPA) e α-fluoro-β-alanina (FBAL), via diidropirimidina desidrogenase (DPD), a qual é limitante da taxa.
+
+
+=== Eliminação ===
+As meias-vidas de eliminação (t1/2 em horas) da capecitabina, 5´-DFCR, 5´-DFUR, 5-FU e FBAL foram de 0,85; 1,11; 0,66; 0,76 e 3,23 respectivamente. A farmacocinética da capecitabina foi avaliada em uma faixa de dose de 502 – 3514 mg/m²/dia. Os parâmetros da capecitabina, 5´-DFCR e 5´-DFUR medidos nos dias 1 e 14 foram similares. A AUC de 5-FU foi 30% - 35% maior no dia 14, mas não aumentou subseqüentemente (dia 22). Com doses terapêuticas, a farmacocinética da capecitabina e de seus metabólitos foi proporcional à dose, exceto para 5-FU.
+Após sua administração oral, os metabólitos da capecitabina são recuperados principalmente na urina. 95,5% da dose de capecitabina administrada são recuperados na urina. A excreção fecal é mínima (2,6%). O principal metabólito excretado na urina é FBAL, que representa 57% da dose administrada. Aproximadamente 3% da dose administrada são excretados na urina como droga não modificada.
+
+
+=== Terapia combinada ===
+Os estudos fase I para avaliação dos efeitos de  capecitabina sobre a farmacocinética, tanto do docetaxel como do paclitaxel e vice-versa, não demonstraram efeitos do  capecitabina sobre a farmacocinética do docetaxel ou do paclitaxel (Cmáx e AUC), assim como nenhum efeito do docetaxel ou do paclitaxel sobre a farmacocinética do 5´-DFUR (o metabólito mais importante da capecitabina).
+
+
+=== Farmacocinética em situações clínicas especiais ===
+A análise farmacocinética da população foi realizada após o tratamento de 505 pacientes, portadores de câncer colorretal, com  capecitabina, na dose de 1250 mg/m² duas vezes ao dia. Sexo, presença ou ausência de metástases hepáticas ao diagnóstico, performance status de Karnofsky, bilirrubina total, albumina sérica, TGO e TGP, não tiveram efeito estatístico significante na farmacocinética do 5’-DFUR, 5-FU e FBAL.
+Pacientes com insuficiência hepática em decorrência de metástases hepáticas
+Nenhum efeito clinicamente significante foi observado na bioativação e farmacocinética da capecitabina em pacientes portadores de câncer com insuficiência hepática leve a moderada devido a metástases hepáticas (vide “Instruções especiais de dosagem”).
+Não há dados farmacocinéticos de pacientes com insuficiência hepática grave.
+
+
+== Referências ==
+
+
+== Ver também ==
+Oncologia
+Quimioterapia
+Lapatinib
+Trastuzumab

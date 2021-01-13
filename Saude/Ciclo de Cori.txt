@@ -1,0 +1,38 @@
+O ciclo de Cori, ciclo dos ori ou via glicose-lactato-glicose consiste na conversão                                                                                         da glicose em lactato, produzido em tecidos musculares durante um período de privação de oxigênio, seguida da conversão do lactato em glicose, no fígado. 
+
+
+== Descrição geral ==
+O ciclo de Cori é uma cooperação metabólica entre músculos e fígado. Com um trabalho muscular intenso, o músculo usa o glicogénio de reserva como fonte de energia, via glicólise. Ao contrario do que muitos pensam não é o acumulo de lactato no músculo que causa dor e fadiga muscular. Os músculos são capazes de manter a carga de trabalho na presença de lactato se o pH for mantido constante.
+
+Para obtenção de energia sob a forma de trifosfato de adenosina (ATP), a glicose é convertida a piruvato através da glicólise. Durante o metabolismo aeróbio normal, o piruvato é então oxidado pelo oxigénio molecular a CO2 e H2O.
+Durante um curto período de intenso esforço físico, a distribuição de oxigénio aos tecidos musculares pode não ser suficiente para oxidar totalmente o piruvato. Nestes casos, a glicose é convertida a piruvato e depois a lactato, através da via da fermentação láctica, obtendo os músculos ATP, sem recorrer ao oxigénio.
+Este lactato acumula-se no tecido muscular e difunde-se posteriormente para a corrente sanguínea. Quando o esforço físico termina, o lactato é convertido a glicose através da gliconeogénese, no fígado. O indivíduo continua a ter uma respiração acelerada por algum tempo: o O2 extra consumido neste período promove a fosforilação oxidativa no fígado e, consequentemente, uma produção elevada de ATP. O ATP é necessário para a gliconeogénese, formando-se então a glicose a partir do lactato, e esta glicose é transportada de volta aos músculos para armazenamento sob a forma de glicogénio.
+
+O ciclo evita que o lactato se acumule na corrente sanguínea, mas, por ser um sal, o lactato não poderia provocar acidose. Embora o sangue se comporte como uma solução tampão, o seu pH poderia diminuir (tornar-se-ia mais ácido) com um excesso de hidrogênio, que também é liberado pela dissociação do ácido lático. O ciclo é muito importante para manter a glicemia constante durante o período de elevada atividade física.
+
+
+== Ocorrência ==
+O ciclo de Cori ocorre em animais vertebrados de médio a grande porte, pois a capacidade de distribuição do oxigénio pela circulação sanguínea pode ser ultrapassada pela necessidade energética dos tecidos. Os sistemas circulatórios de pequenos vertebrados são suficientes para haver uma distribuição suficiente de oxigénio pelo corpo. Um exemplo desta situação é a possibilidade de muitas aves poderem migrar grandes distâncias sem ter falta de oxigénio ou precisar de descanso. Por outro lado, animais de maior porte necessitam de descanso após um intenso esforço físico. O esforço físico gasta rapidamente a glicose armazenada (sob a forma de glicogênio) no tecido muscular. Como explicado acima, o descanso é uma forma de o organismo consumir oxigénio extra, de forma a permitir a absorção e conversão do lactato no fígado, e a regeneração do glicogénio nos músculos.
+
+
+== História ==
+O nome do ciclo advém do casal de bioquímicos Carl e Gerty Cori, que estudaram o ciclo e reacções relacionadas desde os anos 20 do século XX até às suas mortes. Os Cori demonstraram a conversão de glicogénio a lactato em tecidos, o movimento do lactato do sangue para o fígado e a reconversão do lactato a glicogénio no fígado, estabelecendo a ligação entre o metabolismo do lactato no músculo e no fígado.
+Os Cori demonstraram também que a adrenalina induz a formação de glicogênio fosforilase, a enzima responsável pela conversão do glicogênio a 1-fosfato de glicose (ou glicose-1-fosfato), uma forma ativada da glicose; e que a insulina causa a remoção da glicose da corrente sanguínea, ao promover a sua fosforilação a 1-fosfato de glucose, precursor do glicogênio.
+
+
+== Importância ==
+A importância do ciclo baseia-se na prevenção da acidose láctica no músculo sob condições anaeróbias. No entanto, normalmente, antes disso acontecer o ácido láctico é transferida para fora dos músculos e ao fígado.
+O ciclo é também importante para a produção de ATP, a fonte de energia, durante a atividade muscular. O ciclo de Cori funciona de forma mais eficiente quando a atividade muscular cessou. Isso permite que o débito de oxigênio a ser reembolsado de tal forma que o ciclo de Krebs e da cadeia de transporte de elétrons possa produzir energia com a máxima eficiência.
+A droga metformina pode precipitar acidose láctica em pacientes com insuficiência renal, porque a metformina inibe o ciclo de Cori. Normalmente, o excesso de lactato, afastada pelos rins, mas em doentes com insuficiência renal, os rins não podem lidar com o excesso de ácido láctico. 
+
+
+== Referências ==
+
+
+== Bibliografia ==
+David L. Nelson, Michael M. Cox, "Lehninger Principles of Biochemistry", 4th ed., W.H.Freeman, 2004
+Donald voet.judith g VOET CHARLOT W. PRATT- FUNDAMENTOS DE BIOQUIMICA 2000
+
+
+== Ligações externas ==
+«Mecanismo molecular do ciclo de Cori.» (em inglês)

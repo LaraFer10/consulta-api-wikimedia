@@ -1,0 +1,12 @@
+GenBank é um banco de dados de anotações de sequências de nucleotídeos publicamente disponíveis e suas traduções de proteínas. Esse banco de dados é produzido e mantido pelo National Center for Biotechnology Information (NCBI).
+
+
+== História ==
+Em 1979, o pesquisador Walter Goad e colaboradores do Laboratório Nacional de Los Alamos (LANL) estabeleceram a Base de Dados de Sequências de Los Alamos, que culminou em 1982 na criação do banco de dados públicos GenBank.  O projeto foi financiado pelo National Institutes of Health,  National Science Foundation, Departamento de Energia e pelo Departamento de Defesa dos Estados Unidos. Contando com a colaboração entre LANL e a firma Bolt, Beranek, and Newman, o GenBank já possuía mais de 2000 sequências armazenadas no final de 1983.
+
+
+== Organismos armazenados no GenBank ==
+Com o advento das novas tecnologias de sequenciamento de DNA, o banco de dados do GenBank passou a armazenar um número cada vez maior de sequências e anotações de genomas de organismos.
+
+
+== Referências ==

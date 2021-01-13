@@ -1,0 +1,9 @@
+MotA é uma proteína. É um componente do motor flagelar. Mais especificamente, MotA e MotB formam o estator do flagelo e rodeiam o rotor, como um anel de 8-10 partículas. MotA e MotB são proteínas integrais de membrana. MotA possui quatro domínios transmembranares.
+Ambas as proteínas fazem parte de canal de H+ que torna possível o fluxo de protões e a rotação do motor.
+Em mutantes motA, a função do motor é restabelecida se a proteína MotA for expressa.
+
+
+== Referências ==
+
+Michael Eisenbach, Joseph W. Lengeler. Chemotaxis. Imperial College Press, 2004
+Martin Dworkin, Stanley Falkow. The Prokaryotes: a handbook on the biology of bacteria. Springer, 2006

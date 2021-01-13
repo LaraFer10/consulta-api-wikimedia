@@ -1,0 +1,28 @@
+Poxviridae é uma família que têm como principal característica a capacidade de infectar tanto os animais vertebrados como também os invertebrados. Partículas viróticas de poxvirus são geralmente envelopados. Eles variam em forma dependendo da espécie, mas geralmente têm forma de tijolo ou uma forma mais oval.  O viríon (o virús que ainda não parasitou uma célula) tem um tamanho de aproximadamente 200 nm de diâmetro e 300 nm de comprimento e leva o seu genoma num simples e linear segmento de DNA (1). Em comparação, o Rhinovirus possui 1/10 do tamanho dum virião Poxviridae típico(2).  A Microscopia electrónica dos gêneros Orthopoxvirus e Parapoxvirus, incluindo o vírus da varíola, foi coligida pelo International Committee on Taxonomy of Viruses no site  Poxviridae picture gallery.
+O protótipo da família poxvírus é o vírus vaccinia, o qual tem sido usado com sucesso como vacina para erradicar o vírus da varíola. O vírus vaccinia também tem sido utilizado como uma ferramenta eficaz capaz de provocar uma forte resposta imunitária por parte de um hospedeiro. O vírus vaccinia penetra nas células principalmente por fusão celular, apesar de actualmente ainda não se conhecer qual o receptor responsável pela ligação do vírus à célula. 
+O nome da família Poxviridae é uma herança do agrupamento original dos vírus associados com doenças que produzem vesículas (pox em inglês). A moderna classificação viral é baseada na forma e características moleculares dos vírus, sendo que o vírus da varíola permanece como o mais notável desta família. 
+O outro poxvirus conhecido por especificamente infectar humanos é o responsável pelo  molluscum contagiosum virus (MCV).(3)Os seguintes géneros são atualmente incluídos aqui:
+
+Subfamília Chordopoxvirinae
+Gênero Orthopoxvirus; espécies: Vaccinia virus; diseases: cowpox, vaccinia, smallpox
+Gênero Parapoxvirus; espécies: Orf virus
+Gênero Avipoxvirus; espécies: Fowlpox virus
+Gênero Capripoxvirus; espécies: Sheeppox virus
+Gênero Leporipoxvirus; espécies: Myxoma virus
+Gênero Suipoxvirus; espécies: Swinepox virus
+Gênero Molluscipoxvirus; espécies: Molluscum contagiosum virus
+Gênero Yatapoxvirus; espécies: Yaba monkey tumor virus
+Subfamília Entomopoxvirinae
+Gênero Entomopoxvirus A; espécies: Melolontha melolontha entomopoxvirus
+Gênero Entomopoxvirus B; espécies: Amsacta moorei entomopoxvirus
+Gênero Entomopoxvirus C; espécies: Chironomus luridus entomopoxvirus
+
+
+== Referências ==
+International Committee on Taxonomy of Viruses.  ICTVdb Descriptions: 58. Poxviridae.  Retrieved 2005-02-26.
+How Big is a ... ? at Cells Alive!.  Retrieved 2005-02-26.
+
+
+== Ligações externas ==
+Buller, R.M.; Palumbo, G.J. (1991). Poxvirus pathogenesis. Microbiological Reviews 55 (1), 80-122. Link para o texto integral em PubMed Central. Obtido em 27/02/2005.
+Informações genômicas e de bioinformática no Banco de Dados mantido pela NIH.

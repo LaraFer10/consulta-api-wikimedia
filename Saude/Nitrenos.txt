@@ -1,0 +1,45 @@
+Nitrenos são uma classe de intermediários altamente reativos que possuem um átomo de nitrogênio monovalente e neutro com uma estrutura HN ou RN. Também podem ser chamados de aminilenos e já receberam nomes como imidogenos e azenos. Podem existir na forma de singleto, contendo 4 elétrons de spins antiparalelos (pareados), ou como tripleto, contendo 2 elétrons de spins pareados e 2 de spins paralelos. Até o final da década de 60, o termo nitreno teve outro significado: era utilizado para descrever o análogo da nitrona cujo átomo de oxigênio ligado por ligação dupla é substituído por carbono ligado da mesma forma.
+
+A história dos nitrenos começou do final do século XIX, quando em 1891 Tiemann os propôs como intermediários no rearranjo de Lossen. Porém somente começaram a ser mais estudados a partir das décadas de 40 e 50.
+
+
+== Estrutura ==
+Os nitrenos assemelham-se estruturalmente aos carbenos, porém contêm um átomo de nitrogênio no lugar do carbono. Possuem duas ligações a menos que as aminas normais e dois pares de elétrons não-ligantes, totalizando seis elétrons de valência. Assim como os carbenos, os nitrenos são eletrófilos. Apesar de serem muito reativos, cálculos ab initio mostram que nitrenos são mais estáveis que carbenos por uma diferença de entalpia de 25-26 kcal.mol-1 (104,7-108,8 kJ.mol-1). Nitrenos ligados a grupos alquila já foram isolados por aprisionamento em matriz a 4 K, ao passo que quando ligados a grupos aromáticos, que são mais estáveis, foi possível isolá-los a 77 K. O estado fundamental do nitrogênio apresenta energia 140 kcal inferior ao estado menos energético dos nitrenos, o que explica sua reatividade elevada.O tripleto é o estado fundamental para o composto HN e para a maioria dos nitrenos, porém podem ser gerados também singletos. Os 4 elétrons pareados dos singletos resultam em sistema com spin igual a S = ½ + (-½) + ½ + (-½) = 0, sendo a multiplicidade mS = 2S + 1 = 1. Já no caso dos tripletos, há 2 elétrons pareados e 2 paralelos, gerando spin S = ½ + (-½) + ½ + ½ = 1 e multiplicidade mS = 2S + 1 = 3. A hibridação dos orbitais do nitreno aproxima-se de sp, sendo que um par de elétrons ocupa o orbital sp enquanto que os outros ocupam os outros dois orbitais p (Figura 1).
+
+A energia envolvida na conversão singleto-tripleto (ΔHST) costuma ser maior nos nitrenos do que nos carbenos. Por exemplo, enquanto o fenilnitreno apresenta ΔHST de 17-18 kcal.mol−1, a conversão singleto-tripleto do fenilcarbeno a temperatura ambiente envolve menos de 2 kcal.mol−1. Esta diferença pode ser explicada com base na teoria dos orbitais moleculares. O estado singleto do fenilcarbeno, de energia maior que o tripleto, é estabilizado por apresentar os dois elétrons não-ligantes no orbital molecular menos energético σ, reminiscente do orbital hibridado sp2, ao passo que a forma tripleto apresenta seus elétrons nos orbitais p e σ. Já o fenilnitreno não recebe este tipo de estabilização, pois ambos estados possuem seus elétrons em orbitais moleculares σ e π (Figura 2).
+
+A estrutura eletrônica dos nitrenos influencia a estereoquímica das reações em que participam. Por exemplo, observa-se que adições de compostos EtOOC–N a duplas ligações C=C ocorrem de forma estereosseletiva somente quando singletos são utilizados.
+
+
+== Formação ==
+Nitrenos podem ser obtidos a partir de diversos compostos, em reações análogas às de formação dos carbenos.a)	Quebra de ligações duplas:  o principal método de formação de nitrenos é a decomposição térmica ou fotolítica de azidas ou de isocianatos.
+
+A fotólise direta de uma azida orgânica leva inicialmente à formação de um singleto, que muitas vezes é o estado excitado do tripleto. Alternativamente, nitrenos tripletos podem ser obtidos a partir de fotólise sensibilizada de azidas ou fotólise convencional em presença de iodeto de metila.b)	O nitreno não-substituído  HN pode ser obtido por fotólise ou eletrólise de NH3, N2H4 ou HN3.c)	Eliminação: nitrenos podem ser obtidos por eliminação a partir de sulfonamidas em meio alcalino, bem como por fotólise de iminodibenzotiofenos N-substituídos.
+
+d)	Processos eletroquímicos: intermediários reativos para transferência de nitrenos podem ser formados sob condições brandas utilizando-se anodo de platina.
+
+e)	Catálise por metais: azidas podem interagir com metais e formar adutos M–N3R, que posteriormente eliminam N2 para formar complexos metal-imido/nitreno. Foi demonstrado que a forma bipiramidal é mais estável que a pseudo-tetraédrica para este complexo (Figura 3).
+
+
+== Reações ==
+O nitrogênio está presente em grande parte das moléculas essenciais aos processos biológicos, como DNA e proteínas, além de muitos medicamentos. Por essa razão, métodos sintéticos que introduzem o nitrogênio nas moléculas são de grande importância. Por muito tempo, os nitrenos foram considerados espécies muito reativas, porém pouco seletivas. Entretanto, avanços recentes na química de nitrenos tornaram-nos ferramentas úteis para a formação de ligações C–N graças a sua alta capacidade de rearranjo e sua grande capacidade de se inserir em várias ligações.Os trabalhos pioneiros abordaram a capacidade de inserção de nitrenos a ligações C-H e C=C, gerando C-H aminados e aziridenos, como abordado por Lwowski (1971) e Barton (1965). Em virtude da alta reatividade dos intermediários de nitrenos, as primeiras reações envolvendo essas moléculas apresentaram baixa seletividade e rendimento.  Porém, com utilização de complexos metálicos como catalisadores em reações envolvendo nitrenos, uma grande quantidade de metodologias mais eficientes for introduzida como apresentado por Evans (1994) e Müller (1996).a)	Adição: Nitrenos, em especial, nitrenos acilo e sulfonilo, podem facilmente se inserir em outras ligações C-H, como o exemplo apresentado abaixo (Figura 4).
+
+Devido à onipresença de grupos amino em fármacos, mecanismos, muitos dos quais envolvendo metais catalíticos, vem sendo propostos. Ru, Rh e Pd tem demostrando resultados promissores na catálise de reações de amidação e aminação em uma série de reações que envolvem a formação de nitrenos intermediários.b)	Inserção a ligações C=C: Grande atenção tem sido dada ao desenvolvimento de metodologias para a desfuncionalização seletiva de alcanos por via catalítica. Nessas transformações sintéticas duas ligações C-X são formadas em uma reação, originando uma variedade de produtos.O mecanismo de adição de nitrenos a olefinas foi sugerido por Skell e Woodworth em 1956 e 1959. A hipótese por eles desenvolvida pode ser resumida da seguinte forma: (a) as espécies singleto podem reagir em uma única etapa gerando um anel de três membros (aziridina) de forma estéreo-específica, enquanto que, (b) as espécies tripleto necessariamente formam um intermediário dirradical, o qual possui barreiras energéticas de rotação menores sobre uma única ligação (Figura 5).
+
+c)	Rearranjos: Em virtude de rápidos rearranjos, nitrenos contendo grupos alquila em geral não dão origem às reações mencionadas acima (Figura 5). Tais rearranjos conformacionais são tão rápidos que é alta a possibilidade da reação se desenvolver sem a formação de nitrenos livres (Figura 6).
+
+d)	Abstração: segue abaixo um exemplo de reação de abstração (Figura 7):
+
+e)	Dimerização: a dimerização da diamida N2H2 é um importante exemplo de reação de dimerização realizada por nitrenos. Nitrenos aril estão envolvidos, por exemplo, na formação de azobenzenos, como apresentado na Figura 8.
+
+
+== Íon nitrênio ==
+Íons nitrênio são moléculas com nitrogênio divalente, positivamente carregado. Os nitrênios são isoeletrônicos ao metileno, e assim como os nitrenos são análagos aos carbenos, os ións nitrênio são análogos aos carbocátions. Os íons nitrênio podem ser encontrados ligados a dois radicais ou a um único átomo. São caracterizados pela presença de um sexto elétron e um orbital p vacante. Da mesma forma que carbenos e nitrenos, os ións nitrênio também podem existir no estado singleto ou tripleto (Figura 9).
+
+
+== Ver também ==
+Radical livre
+Carbenos
+
+
+== Referências ==

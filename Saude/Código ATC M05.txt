@@ -1,0 +1,50 @@
+O Código ATC M05 (Medicamentos para tratamento de doenças ósseas) é um subgrupo terapêutico da classificação ATC (Anatomical Therapeutic Chemical Classification System), um sistema de códigos alfanuméricos desenvolvido pela Organização Mundial da Saúde (OMS) para classificar medicamentos e outros produtos médicos. O subgrupo M05 faz parte do grupo anatômico M (sistema musculoesquelético).Os códigos para uso veterinário (códigos ATCvet) podem ser criados colocando a letra Q antes do código ATC para uso humano: por exemplo, QM05. Os códigos ATCvet sem os códigos ATC humanos correspondentes são citados com a letra Q inicial nessa lista. 
+
+
+== M05B Drogas que afetam a estrutura e mineralização óssea ==
+
+
+=== M05BA Bisfosfonatos ===
+M05BA01 Ácido etidrônico
+M05BA02 Ácido clodrônico
+M05BA03 Ácido pamidrônico
+M05BA04 Ácido alendrônico
+M05BA05 Ácido tiludrônico
+M05BA06 Ácido ibandrônico
+M05BA07 Ácido risedrônico
+M05BA08 Ácido zoledrônico
+
+
+=== M05BB Bisfosfonatos , associações ===
+M05BB01 Ácido etidrônico e cálcio, sequencial
+M05BB02 Ácido risedrônico e cálcio, sequencial
+M05BB03 Ácido alendrônico e colecalciferol
+M05BB04 Ácido risedrônico, cálcio e colecalciferol, sequencial
+M05BB05 Ácido alendrônico, cálcio e colecalciferol, sequencial
+M05BB06 Ácido alendrônico e alfacalcidol, sequencial
+M05BB07 Ácido risedrônico e colecalciferol
+M05BB08 Ácido zoledrônico, cálcio e colecalciferol, sequencial
+M05BB09 Ácido ibandrônico e colecalciferol
+
+
+=== M05BC Proteínas morfogenéticas ósseas ===
+M05BC01 Dibotermina alfa
+M05BC02 Eptotermina alfa
+
+
+=== M05BX Outras drogas que afetam a estrutura e mineralização óssea ===
+M05BX01 Ipriflavona
+M05BX02 Cloridrato de alumínio
+M05BX03 Ranelato de estrôncio
+M05BX04 Denosumabe
+M05BX05 Burosumabe
+M05BX06 Romosozumabe
+M05BX53 Ranelato de estrôncio e colecalciferol
+
+
+== Ver também ==
+Classificação ATC
+Código ATC M: Sistema musculo-esquelético
+
+
+== Referências ==

@@ -1,0 +1,7 @@
+Anticódon é a denominação dada a cada trinca de nucleotídeos complementares às tríades de nucleotídeos encontrados no RNAm (códons ou codão).No processo de transcrição do DNA, obtém-se o pré RNAm (a partir da fita molde), que contém seqüências de nucleotídeos codificadores (éxons) e não codificadores (íntrons). Após processamento deste pré-RNAm (splicing), obtém-se o RNAm propriamente dito, cujas seqüências contidas são apenas de éxons. A cada três nucleotídeos então, determina-se um códon, que vai corresponder a um aminoácido (código genético). Os ribossomos, responsáveis pela tradução, em seus sítios de ligação, vão permitir o acoplamento do RNAt, que traz em sua estrutura, uma região complementar que reconhece o códon, chamada de anticódon. Cada RNAt correspondem a um aminoácido diferente, e durante o processo de tradução, o deslocamento do ribossomo por sobre a fita de RNAm vai determinar a alocação seqüencial de RNAt com anticódons complementares aos códons, e por fim, a formação de peptídeos que originarão o produto da expressão do DNA.
+Veja o exemplo a seguir:
+DNA fita molde           AAT TCG GGA ACC
+DNA fita sense        TTA AGC CCT TGG
+RNA m (códons)     UUA AGC CCU UGG
+RNA t (anticódons)  AAU UCG GGA ACC
+aminoácidos            Leu- Ser - Pro -  Trp

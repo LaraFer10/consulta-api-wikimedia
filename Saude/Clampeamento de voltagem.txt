@@ -1,0 +1,22 @@
+Clampeamento de voltagem ou (voltage clamp) é a técnica utilizada pelos pesquisadores Alan_Lloyd_Hodgkin e Andrew_Huxley quando decidiram estudar as propriedades da membrana do axônio.
+Nesta técnica é utilizado pulsos de voltagem em vez de pulsos de correntes para controlar o mecanismo explosivo envolvido na geração do potencial de ação nos neurônios.
+Esta técnica era muito utilizada na eletrofisiologia
+
+
+== Variações da Técnica Clampeamento de Voltagem ==
+Uma explicação mais detalhada pode ser encontrada nos links:
+Guia de Axonios {en}.
+PDF do Axon Instruments.
+
+
+== Ver também ==
+Eletrofisiologia
+Andrew_Huxley
+Alan_Lloyd_Hodgkin
+
+
+== Ligações externas ==
+Canais dependentes de voltagem UFMG
+
+
+== References ==

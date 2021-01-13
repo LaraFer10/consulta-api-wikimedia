@@ -1,0 +1,16 @@
+Em biologia celular, um gradiente eletroquímico refere-se às propriedades elétricas e químicas que ocorrem através das membranas. Os gradientes são muitas vezes resultado de gradientes iónicos, nomeadamente protonicos, e podem representar um tipo de energia potencial que está disponível para executar trabalho em processos celulares. Isto pode ser calculado como uma medida termodinâmica, denominada potencial eletroquímico, que combina os conceitos de potencial químico, que se refere ao gradiente de concentração de íons entre o lado externo e interno da membrana celular, e de eletrostática, que se refere à tendência dos íons em se moverem relativamente ao potencial de membrana.
+
+
+== Visão geral ==
+O potencial eletroquímico é um conceito importante na química eletroanalítica e em aplicações industriais tais como baterias e pilhas. Representa uma das várias formas interconversíveis de energia potencial, através das quais a energia pode ser conservada.
+Em processos biológicos, a direção que um íon tomará, por difusão ou transporte ativo, através da membrana, é determinado pelo gradiente eletroquímico. Nas mitocôndrias e cloroplastos, os gradientes protonicos são usados para gerar em potencial quimiosmotico. Esta energia potencial é usada na síntese de ATP através do processo de fosforilação oxidativa.
+Um gradiente electroquímico possui dois componentes. Primeiro, o componente eléctrico, que é causado pela diferença de carga elétrica existente na membrana lipídica. Segundo, o componente químico, que é causado pela existência de diferentes concentrações de íons do lado interior e exterior da membrana. A combinação destes dois fatores determina a direção termodinamicamente favorável à movimentação de íons através da membrana.
+Os gradientes eletroquímicos são análogos às barragens hidroeléctricas e equivalentes à pressão que a água exerce nestas. Proteínas transportadoras membranares, como a bomba de sódio, são equivalentes a turbinas, que convertem a energia potencial da água em outras formas de energia química ou física, e os ions que passam atavés da membrana são equivalentes à água que se encontra no fundo da barragem. Alternativamente, a energia pode ser utilizada para bombear a água para o lago a montante da barragem.
+
+
+== Ver também ==
+Potencial de membrana
+Potencial de acção
+Potencial de repouso
+Difusão molecular
+Célula electroquímica

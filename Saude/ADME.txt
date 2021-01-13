@@ -1,0 +1,57 @@
+ADME é um acrônimo utilizado na farmacocinética e na  farmacologia para  "absorção, distribuição, metabolismo e excreção", e descreve a disposição de um composto farmacêutico em um organismo. Todos os 4 critérios influenciam os níveis e a cinética da exposição dos tecidos à droga e, sendo assim, influenciam a performance e a atividade farmacológica dos compostos.
+
+
+== Componentes ==
+
+
+=== Absorção/administração ===
+Para um composto alcançar um tecido, ele normalmente precisa atingir a corrente sanguínea - frequentemente através de superfícies mucosas como as presentes no aparelho digestivo (absorção intestinal ) - antes de atingirem as células-alvo. Fatores como baixa solubilidade, tempo de esvaziamento gástrico, tempo de trânsito intestinal, instabilidade química no estômago e dificuldade de permear a parede intestinal podem todos reduzir a amplitude da absorção da droga depois da administração oral. A absorção também é um fator determinante da biodisponibilidade de um composto. Drogas que são absorvidas com dificuldade pela via oral devem ser administradas de maneiras diferentes, como intravenosamente ou por inalação (ex. zanamivir). 
+
+
+=== Distribuição ===
+O composto precisa ser carregado até o seu local de ação, normalmente pela corrente sanguínea. A partir dela, o composto pode ser distribuído em músculos e órgãos, normalmente de forma heterogênea. Após entrar na circulação sistêmica, tanto pela via intravascular quanto por absorção de outros locais a droga passa por diversos processos de distribuição que tendem a diminuir sua concentração plasmática.
+Distribuição é definida como a transferência reversível de uma droga entre um compartimento e outro. Alguns fatores podem afetar a distribuição, como as taxas de fluxo sanguíneo regionais, o tamanho molecular, polaridade, ligação à proteínas séricas formando complexos. A distribuição é especialmente problemática quando é preciso ultrapassar uma barreira natural, como a hematoencefálica.
+
+
+=== Metabolismo ===
+Compostos começam a ser degradados assim que entram no corpo. A maior parte do metabolismo de fármacos constituídos por moléculas pequenas acontece no fígado e é levado a cabo por enzimas redox chamadas de citocromo P450 . Ao longo do processo de metabolização, o composto inicial (parental) é convertido em novos compostos chamados de metabólitos. Quando os metabólitos são farmacologicamente inertes, o metabolismo desativa a dose administrada da droga parental, reduzindo os efeitos no corpo. Metabólitos, entretanto, podem também ser farmacologicamente ativos, algumas vezes até mais que a droga parental.
+
+
+=== Excreção ===
+Compostos e seus metabólitos precisam ser removidos do corpo através de excreção, geralmente pelos rins (urina) ou nas fezes. A menos que a excreção ocorra completamente, o acúmulo de compostos exógenos pode produzir efeitos adversos no metabolismo normal.
+Há 3 locais principais onde ocorre a excreção de drogas. O rim é o mais importante e é onde os produtos são excretados pela urina. A excreção biliar ( ou fecal ) é o processo que inicia do fígado e passa pelo trato gastrointestinal até o produto ser eliminado junto com as fezes. O último local fundamental de excreção é o pulmão (onde ocorre a excreção de gases inalatórios anestésicos, por exemplo)
+A excreção de drogas pelo rim envole 2 mecanismos fundamentais:
+
+Filtração glomerular de droga livre.
+Secreção ativa de droga (livre ou ligada a proteínas) por transportadores de ânions (como urato, penicillina, glucuronídeo e sulfato ou conjugados com esses) ou de  cátions (como colina e histamina).
+
+
+== Toxicidade ==
+Em alguns casos, a toxicidade do composto é levada em consideração (ADME-Tox ou ADMET). Quando a liberação da substância (de algum tipo de cobertura protetora ou outros excipientes) é considerada, usa-se o termo LADME.
+Químicos computacionais tentam prever as características de  ADME-Tox de compostos através de métodos como QSPR ou QSAR.
+A via de administração influencia criticamente a determinação não só da ADMET, como da ADME.
+
+
+== Ver também ==
+Biodisponibilidade
+Caco-2
+Quimioinformática
+Química combinatória
+Regra de Cinco de Lipinski
+PAMPA ((ensaio de permeabilidade de membrana paralela artificial))
+Farmacocinética
+Farmacologia
+Plasma
+Simcyp Simulator
+Simulations Plus
+Solubilidade
+
+
+== Referências ==
+
+
+== Ligações externas ==
+«Everything You Needed to Know About ADME, but Were too Afraid to Ask». www.cyprotex.com 
+«Open Access ADME/PK Database». www.cloegateway.com. Consultado em 4 de maio de 2015. Arquivado do original em 5 de março de 2016 
+«OCHEM.eu – Free online database of ADME measurements integrated with a QSAR modeling environment». www.ochem.eu 
+«The Emerging Role of A.D.M.E. in Optimizing Drug Discovery and Design». www.netsci.org. Consultado em 13 de janeiro de 2009. Arquivado do original em 31 de janeiro de 2009

@@ -1,0 +1,27 @@
+PHYLIP (PHYLogeny Inference Package) é um pacote de programas de filogenética computacional, de licença livre, para inferência de árvores evolucionárias (filogenias). O nome é um acrônimo para PHYLogeny Inference Package. É constituído por 35 programas portáveis, ou seja, o código-fonte é escrito em C e executáveis pré-compilados estão disponíveis para Windows(95/98/NT/2000/me/XP), Mac OS 8 and 9, Mac OS X, e sistemas Linux.A documentação completa é escrito para todos os programas do pacote e faz parte do pacote. O autor deste pacote é Joseph Felsenstein, Professor no Departamento de Ciências Genômicas e do Departamento de Biologia da Universidade de Washington, Seattle.Métodos (implementados para cada programa) que estão disponíveis no pacote incluem máxima parcimônia, matriz de distâncias e da máxima verossimilhança, incluindo calcular apoio estatístico para clados (bootstrapping) e árvores de consenso. Os tipos de dados que podem ser manuseados incluem seqüencias moleculares, freqüências gênicas, sítios de restrição e fragmentos, matrizes de distância, e caracteres discretos.O PHYLIP é um programa a partir de linha de comando e não tem uma interface do tipo aponte-clique.  Cada programa é controlado através de um menu, que pede aos usuários quais as opções que deseja definir, e permite-lhes iniciar o cálculo. Os dados são lidos no programa a partir de um arquivo de texto, que o usuário pode preparar utilizando qualquer processador de texto ou editor de texto (mas é importante que este arquivo de texto não esteja em um formato especial do processador de texto— ele deve ser em vez disso estar em Flat ASCII ou Formato somente texto). Alguns programas de análise de sequência, como o programa de alinhamento ClustalW podem gravar arquivos de dados no formato PHYLIP. A maioria dos programas procuram os dados em um arquivo chamado infile— se eles não encontram esse arquivo, pedem então que o usuário digite o nome do arquivo de dados.A saída é escrita em arquivos com nomes como outfile e outtree. Árvores gravadas em outtree estão no formato Newick, um padrão informal acordado em 1986 por autores dos principais pacotes de filogenia.
+
+
+== Programas Phylip ==
+| treedist
+| Calcula a distância diferencial simétrica Robinson-Foulds entre árvores, que permite a existência de diferenças de topologia entre árvores.
+|----
+| retree
+| programa de rearranjo interactivo de árvores que lê uma árvore (com os comprimentos dos ramos, se necessário) e permite que se coloque uma nova raiz na árvore, rodar ramos, mudar os nomes das espécies e tamanhos dos ramos, e depois escrever os resultados num ficheiro. Pode ser usado para converter ente árvores com e sem raiz.
+|}
+
+
+== Ver também ==
+PAUP
+MEGA, Molecular Evolutionary Genetics Analysis
+Clustal
+Filogenética computacional
+Árvore filogenética
+Filogenética
+
+
+== Ligações externas ==
+Phylogeny Programs List: Uma grande lista de pacotes de filogenia com detalhes sobre cada software.
+Felsenstein J (1981). «Evolutionary trees from DNA sequences: a maximum likelihood approach». J Mol Evol. 17 (6). p. 368–376. PMID 7288891. doi:10.1007/BF01734359 
+
+
+== Referências ==

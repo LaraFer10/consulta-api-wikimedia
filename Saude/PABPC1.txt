@@ -1,0 +1,23 @@
+PABPC1 (proteína de ligação a poliadenilato 1, do inglês, polyadenylate-binding protein 1) uma proteína que, em humanos, é codificado pelo gene  PABPC1 . A proteína PABP1 se liga ao RNA mensageiro (mRNA)e participa de diversas atividades, como exportação do RNA núcleo para o citoplasma, degradação, tradução e estabilidade. Há duas proteínas PABP1, localizadas no núcleo (PABPN1) e citoplasma (PABPC1).  A localização de PABP1 afeta a função dessa proteína e a sua interação com RNA. 
+
+
+== Função ==
+A proteína de ligação a poli(A) (PAB ou PABP), em complexo com a cauda 3'-poli(A) de mRNAs eucarióticosm, é necessário para a redução do tamanho da cauda poli(A) e o início da tradução. Em humanos, as PAPBS possuem uma isoforma nuclear e uma família de genes conservados com, ao menos, 3 membros funcionaisː  PABP1 (PABPC1), PABP indutível (iPABP, ou PABPC4; MIM 603407), e PABP3 (PABPC3; MIM 604680). Além disso, há pelo menos 4 pseudogenes, PABPCP1 para PABPCP4.[fornecidos pelo OMIM]A proteína PABPC1 encontra-se no citoplasma e enriquecida  em locais de alta concentração de mRNA, como granulos de estress, corpúsculos de processamento e regiões de alta atividade translacional. PABPC1 também associa-se com o decaimento do mRNA mediado por mutações "non-sense" (NMD, nonsens mediated decay). PABPC1 liga-se à cauda poli(A) e interage com eIF4G, estabilizando a circularização de mRNAs. Esta estrutura é necessária para a prevenção da degradação do mRNA através de NMD.No núcleo, PABP1 liga-se para a caudas poli(A) da pré-mRNAs. PABPC1 contém quatro RNA-reconhecimento de motivos (RRMs). Os dois primeiros, RRM1 e RRM2, ligam se à α-importina e a cauda poli(A) e mRNA processado. Esse recurso impede o retorno de mRNA processao de volta ao núcleo.
+
+
+== Interações ==
+PABPC1 interage com:
+
+ANAPC5,
+CNOT7,
+EIF4G3,
+EIF4G1,
+GSPT2,
+PAIP1, e
+PAIP2.
+
+
+== Referências ==
+
+
+== Leitura complementar ==

@@ -1,0 +1,41 @@
+Trombina (fator II ativado) ou fibrinofermento é uma proteína do tipo das serinas protease¹ (EC 3.4.21.5)² e portanto age clivando proteínas em determinados sítios. A sua principal função é converter fibrinogênio em fibrina (proteína filamentar), desempenhando um papel fundamental no processo de coagulação. Serina protease: tipo de enzima chave nos processos de hemostase e trombose.
+
+
+== Geração ==
+A trombina é produzida da protrombina, que é essencialmente o estado inativo desta proteína. A protrombina é produzida no fígado.
+Fatores ativados de coagulação Xa e Va formam um complexo que é responsável pela conversão da protrombina em trombina. Deficiência de vitamina K ou administração de warfarin¹ afetam negativamente o funcionamento da trombina.
+(¹Warfarin: 3-(alfa-acetonilbenzilo) 4– hidróxi cumarina: um anticoagulante sintético usado terapeuticamente em medicina clínica e como agente para roedor, em doses letais.
+
+
+== Genética ==
+O gene da protrombina tem seu locus (localização) no décimo-primeiro cromossomo (11p11-q12).
+
+
+== Ação ==
+
+
+=== Coagulação ===
+Em uma pessoa normal, o processo de coagulação inicia-se segundos após uma ferida atingir o vaso sanguíneo endotélio; quando plaquetas formam uma parede hemostática no lado da ferida. Isto é chamado hemostasia primária (não confundir com hematose). A hemostasia secundária segue quando os componentes do plasma chamados fatores de coagulação¹ respondem (em uma cascata complexa), para formar fibras de fibrina que fortalecem a tampa de plaquetas. Ao contrário do que a crença popular diz, a coagulação de um corte na pele não é iniciado pelo ar ou por secagem, mas porque as plaquetas aderem ao lado de fora dos vasos sanguíneos e pele, e são ativadas pelo colágeno. As plaquetas ativadas, então, liberam grânulos que contém proteínas pro-coagulantes, que realizam coagulação posterior.
+O uso de produtos químicos adsorventes, como o Zeolite, e de outros agentes hemostáticos, está também sendo explorado para tampar ferimentos graves rapidamente. ¹A Trombina é o fator de coagulação II ativado.
+
+
+=== Cascata de Coagulação ===
+A Cascata de Coagulação é um processo complexo no qual vários fatores de coagulação e substâncias atuam para obter uma tampa que fecha uma ferida em um vaso sanguíneo. Ocorre na hemostasia secundária.
+A forma ativa do fator II, trombina, tem um número de efeitos em outras proteínas coagulantes. Seu efeito principal é a conversão de fibrinogênio em fibrina, mas também age sobre:
+os fatores XI (plasma trombomplastina antecente) e VIII (uma glicoproteína produzida no fígado), aumentando o fluxo dentre os caminhos intrinseco da coagulação; ativa o fator V (proacelerina) o que aumenta a produção de protrombina; e ativa o fator XIII que liga moléculas de fibrina, estabilizando o coágulo.
+
+
+=== Plaquetas ===
+A trombina promove o agregamento das plaquetas.
+
+
+=== Inibidores e fibrinólise ===
+Interessantemente, a trombina ativa a proteína C, que inibe a coagulação. Isso acontece na superfície do endotélio, em uma proteína chamada trombomodulina. A formação da proteína C ativada é importante para a digestão dos fatores de coagulação Va e VIIIa. Portanto, a trombina além de transformar o fibrinogênio em fibrina, ele também retarda o processo de coagulação (provavelmente, de modo que este não ocorra descontroladamente). Fatores genéticos como o Fator V de Leiden podem interferir diretamente nesse sistema de autocontrole. Nesses casos a ineficiência desse autocontrole da coagulação (via proteína C) pode ocasionar uma hipercoabilidade do sangue, favorecendo a formação de trombos (coágulos) nas veias, cuja condição clínica é a trombose.
+A trombina, também inicia a fibrinólise (junto com o fator XII).
+
+
+== Referências ==
+Poort SR, Rosendaal FR, Reitsma PH, Bertina RM. A common genetic variation in the 3' untranslated region of the prothrombin gene is associated with elevated plasma prothrombin levels and an increase in venous thrombosis. Blood 1996;88:3698-703. PMID 8916933.
+²EC: Enzyme Commission numbers - número para identificar enzimas. O site expasy.org possui informações sobre esta enzima.)
+Este artigo foi traduzido e adaptado do artigo em inglês, Thrombin.
+Retirado do Dicionário Rossetti)

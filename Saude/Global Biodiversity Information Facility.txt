@@ -1,0 +1,12 @@
+O Sistema Global de Informação sobre Biodiversidade (GBIF) é uma organização internacional dedicada à disponibilização de dados científicos de biodiversidade por intermédio da Internet utilizando web services. Os dados são disponibilizados por muitas instituições de todo o mundo; a arquitectura de informação do GBIF torna estes dados acessíveis e pesquisáveis por meio de um único portal. Os dados disponíveis por meio do portal do GBIF são dados de distribuição primários de plantas, animais, fungos e micróbios, e dados de nomes científicos.
+A missão da Global Biodiversity Information Facility (GBIF) é facilitar o acesso livre e livre a dados de biodiversidade mundiais, para promover o desenvolvimento sustentável. As prioridades, com ênfase na promoção do trabalho e participação mediante parcerias, inclui a mobilização de dados de biodiversidade, desenvolvimento de protocolos e padrões de forma a garantir a integridade científica e interoperabilidade, construir uma arquitectura informática para permitir a interligação de diversos tipos de dados de diferentes fontes, promover a capacitação e catalisar o desenvolvimento de ferramentas analíticas para melhorar a tomada de decisão.
+A GBIF empenha-se em criar ligações informáticas entre recursos de dados digitais de todos os níveis da organização biológica (dos genes aos ecossistemas), e em ligar estes a questões importantes para a ciência, sociedade e sustentabilidade, utilizando ferramentas de georreferenciação e SIG. Trabalha em parceria com outras organizações internacionais, tais como o Catalogue of Life, a Biodiversity Information Standards (TDWG), Consortium for the Barcode of Life (CBOL), a Encyclopedia of Life (EOL), e GEOSS.
+
+
+== Referências ==
+
+GBIF.org
+
+
+== Ligações externas ==
+Global Biodiversity Information Facility

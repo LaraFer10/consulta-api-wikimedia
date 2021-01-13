@@ -1,0 +1,40 @@
+Íntrões (português europeu) ou Íntrons (português brasileiro) são secções de DNA localizadas em um gene que são removidas por splicing de RNA durante a produção do mRNA ou de outro RNA funcional. São também chamados de sequências intervenientes (IVS) ou sequências interpostas. Em outras palavras, os íntrões são regiões não-codificantes que são eliminadas por splicing antes da tradução. A palavra íntrão é derivada do termo região intragênica (do inglês, "intragenic regions"), ou seja, corresponde a uma região dentro de um gene. O termo íntrão refere-se tanto à sequência de DNA dentro de um gene, quanto à sequência correspondente em transcritos de RNA. As sequências que são unidas no RNA maduro final após o splicing do RNA são exões.Inicialmente, os intrões eram considerados parte do DNA-lixo, por serem regiões não-codificantes de proteínas; no entanto, pesquisas posteriores demonstraram o papel dos intrões na regulação da expressão gênica e também em um processo chamado splicing alternativo. Os intrões são encontrados nos genes da maioria dos organismos e de muitos vírus, e podem estar localizados em uma ampla gama de genes, incluindo aqueles que produzem proteínas, RNA ribossômico (RNAr) e RNA de transferência (RNAt). Quando as proteínas são geradas a partir de genes contendo intrões, o splicing do RNA ocorre como parte da via de processamento do RNA que segue a transcrição e precede a tradução.
+
+
+== Descoberta ==
+Em 1977, Richard Roberts e Philip Sharp, trabalhando de forma independente, durante os estudos de replicação de adenovírus em cultura de células humanas, demonstraram que os genes poderiam ser descontínuos. Em 1978, o bioquímico estadunidense Walter Gilbert cunhou o termo intron para se referir às sequências não codificantes do DNA.
+
+
+== Distribuição ==
+A frequência de intrões em diferentes genomas varia consideravelmente em todo o espectro de organismos biológicos. Por exemplo, intrões são muito comuns dentro do genoma nuclear de vertebrados com mandíbula (como humanos e ratos), onde os genes codificadores de proteínas quase sempre contêm vários intrões. Por outro lado, os intrões são raros dentro dos genes nucleares de alguns microrganismos eucarióticos, por exemplo, a levedura (Saccharomyces cerevisiae). Em contraste, os genomas mitocondriais de vertebrados são totalmente desprovidos de intrões, enquanto os de microrganismos eucarióticos podem conter muitos intrões.O gene Drosophila Dhc7 contém um intrão de mais de 3,6 Mb, que leva três dias para ser transcrito. Em contraste, o menor comprimento de um intrão eucariótico conhecido possui 30 pares de bases, pertencendo ao gene humano MST1L.
+
+
+== Classificação ==
+Existem pelo menos quatro classes principais de intrões:
+Íntrões auto-splicing do grupo I que são removidos por catálise de RNA
+Íntrões auto-splicing do grupo II que são removidos por catálise de RNA
+Íntrões em genes de RNA de transferência nuclear e de arqueias que são removidos por proteínas (intrões de RNAt)
+Íntrões em genes que codificam proteínas nucleares que são removidos por spliceossomos (intrões spliceossômicos)Os intrões do grupo III são propostos como uma quinta família, mas pouco se sabe sobre o aparato bioquímico que medeia seu splicing. Eles parecem estar relacionados aos intrões do grupo II e, possivelmente, aos intrões spliceossômicos.
+
+
+=== Íntrões do grupo I e II ===
+intrões do grupo I e II são encontrados em genes codificadores de proteínas (RNA mensageiro), RNA de transferência e RNA ribossômico, em uma gama muito ampla entre os organismos vivos. Após a transcrição em RNA, os íntrons do grupo I e do grupo II também realizam extensas interações internas que permitem que eles se dobrem em uma arquitetura tridimensional complexa e específica. Essas arquiteturas complexas permitem que alguns intrões do grupo I e do grupo II sejam auto-splicing, ou seja, a molécula de RNA que contém o intrões pode reorganizar sua própria estrutura covalente de modo a remover com precisão o intrões e ligar os exons na ordem correta. Em alguns casos, proteínas de ligação a intrões específicas estão envolvidas no splicing, auxiliando o intron a dobrar-se na estrutura tridimensional necessária para a atividade de self-splicing. Os intrões do grupo I e do grupo II são diferenciados por diferentes conjuntos de sequências conservadas internas e estruturas dobradas, e pelo fato de que o splicing de moléculas de RNA contendo íntrons do grupo II gera íntrons ramificados (como aqueles de RNAs spliceossômicos), enquanto os íntrons do grupo I usam um nucleotídeo de guanosina não codificado (tipicamente GTP) para iniciar o splicing, adicionando-o à extremidade 5' do intrões excisado.
+
+
+=== Íntrões de RNAt ===
+Os intrões de RNA de transferência que dependem de proteínas para remoção ocorrem em um local específico dentro da alça anticódon de precursores de tRNA não duplicados e são removidos por uma endonuclease de splicing de tRNA. Os exons são então ligados por uma segunda proteína, a ligase de splicing do tRNA. Observe que os intrões autossplicáveis às vezes também são encontrados nos genes de RNAt.
+
+
+=== Íntrões spliceossômicos ===
+Os intrões do pré-RNAm nuclear (intrões spliceossômicos) são caracterizados por sequências de intrões específicas localizadas nos limites entre os intrões e os exons. Essas sequências são reconhecidas por moléculas de RNA spliceosomal quando as reações de splicing são iniciadas. Além disso, eles contêm um ponto de ramificação, uma sequência de nucleotídeos particular perto da extremidade 3' do intrão, que se liga covalentemente à extremidade 5' do intrão durante o processo de splicing, gerando um intron ramificado (lariat). Além desses três elementos curtos conservados, as sequências do intrão do pré-RNAm nuclear são altamente variáveis. Os íntrons pré-RNAm nucleares são frequentemente muito mais longos do que os exons circundantes.
+
+
+== Funções biológicas e evolução ==
+Embora os intrões não codifiquem produtos proteicos, eles são essenciais para a regulação da expressão gênica. Alguns intrões codificam RNAs funcionais por meio de processamento posterior após o splicing para gerar moléculas de RNA não-codificante. O splicing alternativo é amplamente usado para gerar várias proteínas de um único gene. Além disso, alguns intrões desempenham papéis essenciais em uma ampla gama de funções regulatórias de expressão gênica.As origens biológicas dos intrões são obscuras. Após a descoberta inicial de intrões em genes codificadores de proteínas do núcleo eucariótico, houve um debate significativo sobre a origem dos intrões. A primeira hipótese afirma que os intrões foram herdados de um ancestral em comum entre os eucariotos e procariotos, e teria sido posteriormente perdido em procariotos. A segunda hipótese assume que os intrões teriam surgido recentemente no processo evolutivo. Outra teoria é que o spliceossomo e a estrutura íntron-exon dos genes é uma relíquia do mundo de RNA. Ainda há um debate considerável sobre até que ponto essas hipóteses são mais corretas. O consenso popular no momento é que os intrões surgiram dentro da linhagem dos eucariotos como elementos egoístas.
+
+
+== Referências ==
+
+
+== Ver também ==
+Exão

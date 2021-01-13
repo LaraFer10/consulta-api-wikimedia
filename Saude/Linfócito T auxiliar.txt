@@ -1,0 +1,23 @@
+Linfócito T auxiliar, célula T colaboradora, LT helper (LTh) ou LT CD4+ é um leucócito que atua ativando e estimulando outros leucócitos a se multiplicarem e atacarem antígenos. Assim, coordenam a resposta imune pela liberação de citocinas. Eles são essenciais na mudança de classe dos anticorpos das células B, na ativação e crescimento das células T citotóxicas e na maximização da ação bactericida dos fagócitos. 
+Linfócitos T
+Os linfócitos T são originados a partir de células progenitoras linfoides encontradas na medula óssea. 
+Essas células saem da medula em direção ao timo. É nesse órgão que as células sofrem o processo de maturação e diferenciam-se em células T helper, T supressora e T citotóxica.
+Os linfócitos T helper garantem a diferenciação dos linfócitos B em plasmócitos, sendo, portanto, importantes para a produção de anticorpos. Os linfócitos T supressores finalizam a resposta humoral, ou seja, a produção de anticorpos. Já os linfócitos citotóxicos garantem a morte das células estranhas. Para isso, os linfócitos citotóxicos produzem proteínas que abrem a membrana plasmática ou induzem a célula a entrar em apoptose.
+Estima-se que os linfócitos T representem 65% a 75% dos linfócitos presentes no sangue de uma pessoa.
+
+
+== Tipos ==
+Os LT auxiliares podem ser classificados dependendo do tipo de resposta que possuem:
+
+Tipo 0: Imaturo/ingênuo, se torna algum outro tipo dependendo da interleucina que o estimula. O IL-12 estimula a especialização em tipo 1, a IL-4 em tipo 2 e a IL-6 e TGF beta em tipo 17.
+Tipo 1 (LTh1): Produzem Interferon-gama (IFN-γ) e IL-2 para estimular linfócitos T citotóxicos e macrófagos a destruírem células infectadas por vírus ou bactérias intracelulares.
+Tipo 2 (LTh2): Produzem IL-4, IL-5, IL-6, IL-13 estimulando linfócitos B a produzirem anticorpos e recrutando eosinófilos no combate contra helmintos.
+Tipo 3: Suprimem a resposta imune, prevenindo excessos (autoimunidade) e desperdício de energia.
+Tipo 17: Secretam IL-6 e IL-17 estimulando outras células a produzirem uma resposta inflamatória. Útil contra bactérias extracelulares e fungos. Seu excesso de atividade produz artrite reumatoide.
+
+
+== HIV ==
+Os Linfócitos T CD4+ são as células atingidas pelo vírus HIV, causador da AIDS, por isso a doença torna o organismo vulnerável à infecções oportunistas. O vírus HIV invade essas células pois possuem à sua superfície CD4, que se vai ligar à GP-120 deste vírus.
+
+
+== Referências ==

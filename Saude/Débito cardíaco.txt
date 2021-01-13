@@ -1,0 +1,606 @@
+Débito cardíaco ou Gasto cardíaco é o volume de sangue sendo bombeado pelo coração em um minuto. É igual à frequência cardíaca multiplicada pelo volume sistólico.
+Portanto, se o coração está batendo 70 vezes por minuto e a cada batimento 70 mililitros de sangue são ejetados, o débito cardíaco é de 4900 ml/minuto. Este valor é típico para um adulto médio em repouso, embora o débito cardíaco possa atingir 12 litros/minuto durante exercícios extremos.
+Quando o débito cardíaco aumenta em um indivíduo saudável, mas não treinado, a maior parte do aumento pode ser atribuída à elevação da freqüência cardíaca. Mudanças de postura, aumento da atividade do sistema nervoso simpático e diminuição de atividade do sistema nervoso parassimpático também podem aumentar o débito cardíaco. A freqüência cardíaca pode variar por um fator de aproximadamente 3, entre 60 e 180 batimentos por minuto, enquanto que o volume sistólico pode variar entre 70 e 120 ml, um fator de apenas 1,5.
+
+
+== Medindo o débito cardíaco ==
+Existem muitos métodos invasivos e não invasivos de medir o débito cardíaco em mamíferos.
+Um método não invasivo extremamente grosseiro, geralmente usado para o ensino de Fisiologia a estudantes de graduação, segue os princípios abaixo:
+
+A pressão no coração aumenta para forçar o sangue para dentro da aorta.
+Quanto maior a distensão da aorta, maior a pressão de pulso.
+Em indivíduos jovens e saudáveis, cada 2 ml adicionais de sangue geram um aumento de 1 mmHG na pressão (esta é a suposição grosseira, porque mesmo que o indivíduo tenha uma “aorta modelo”, as propriedades elásticas da aorta fazem com que ocorram resistência crescente a expansão para pressões crescentes).
+Desta maneira o volume sistólico = 2 ml x Pressão de Pulso
+O débito cardíaco é portanto 2 ml x Pressão de Pulso x Freqüência Cardíaca.
+
+
+=== O Princípio de Fick ===
+Desenvolvido por Adolf Eugen Fick (1829 - 1921), ele envolve a medida:
+
+Consumo de oxigênio por minuto (VO2) , usando um espirômetro (com o indivíduo respirando ar) e absorção de CO2.
+O conteúdo de oxigênio do sangue retirado da artéria pulmonar (representando o sangue venoso).
+O conteúdo de oxigênio do sangue colhido de uma cânula em uma artéria periférica (representando o sangue arterial).A partir deste valores, sabe-se que:
+
+  
+    
+      
+        V
+        
+          O
+          
+            2
+          
+        
+        =
+        (
+        C
+        O
+        ×
+         
+        
+          C
+          
+            A
+          
+        
+        )
+        −
+        (
+        C
+        O
+        ×
+         
+        
+          C
+          
+            V
+          
+        
+        )
+      
+    
+    {\displaystyle VO_{2}=(CO\times \ C_{A})-(CO\times \ C_{V})}
+  onde CO = Débito Cardíaco (Cardiac Output), CA = Concentração de Oxigênio no sangue arterial e   CV = Concentração de Oxigênio no sangue venoso.
+Isto nos permite dizer que
+
+  
+    
+      
+        C
+        O
+        =
+        
+          
+            
+              V
+              
+                O
+                
+                  2
+                
+              
+            
+            
+              
+                C
+                
+                  A
+                
+              
+              −
+              
+                C
+                
+                  V
+                
+              
+            
+          
+        
+      
+    
+    {\displaystyle CO={\frac {VO_{2}}{C_{A}-C_{V}}}}
+  e desta maneira calcular o débito cardíaco. Na realidade, este método é raramente usado em nossos dias, devido à dificuldade de coleta e de análise das concentrações gasosas.
+O princípio de Fick baseia-se na observação que a retirada total de (ou a liberação de) uma substância pelos tecidos periféricos é igual ao produto do fluxo sangüíneo para estes tecidos periféricos e a diferença de concentração artério-venosa (gradiente) da substância.  Na determinação do débito cardíaco, a substância mais comumente medida é o oxigênio do sangue, e o fluxo calculado é o fluxo através da circulação pulmonar. Isto nos dá uma maneira simplificada de calcular o débito cardíaco:
+
+  
+    
+      
+        D
+        e
+        b
+        i
+        t
+        o
+         
+        C
+        a
+        r
+        d
+        i
+        a
+        c
+        o
+        =
+        
+          
+            
+              C
+              o
+              n
+              s
+              u
+              m
+              o
+               
+              d
+              e
+               
+              o
+              x
+              i
+              g
+              e
+              n
+              i
+              o
+            
+            
+              D
+              i
+              f
+              e
+              r
+              e
+              n
+              c
+              a
+               
+              a
+              r
+              t
+              e
+              r
+              i
+              o
+              v
+              e
+              n
+              o
+              s
+              a
+               
+              d
+              e
+               
+              o
+              x
+              i
+              g
+              e
+              n
+              i
+              o
+            
+          
+        
+      
+    
+    {\displaystyle Debito\ Cardiaco={\frac {Consumo\ de\ oxigenio}{Diferenca\ arteriovenosa\ de\ oxigenio}}}
+  Assumindo que não há nenhum desvio sangüíneo (shunt) através da circulação pulmonar, o fluxo pulmonar é igual ao fluxo sistêmico. A medida do conteúdo de oxigênio venoso e arterial envolve a retirada de amostras da arteira pulmonar (baixo conteúdo de oxigênio) e da veia pulmonar (alto conteúdo de oxigênio). Na prática a coleta do sangue arterial é um substituto para o sangue da veia pulmonar. A determinação do consumo de oxigênio nos tecidos periféricos é mais complexa.
+O cálculo do conteúdo de oxigênio arterial e venoso é um processo simples. A maior parte do oxigênio do sangue está ligado à molécula de hemoglobina, nas células vermelhas. A medida do conteúdo de hemoglobina do sangue e o percentual de saturação de hemoglobina (a saturação de oxigênio do sangue) é um processo simples e de fácil disponibilidade para os médicos. Usando o fato de que cada grama de hemoglobina carreia 1,36 ml de O2, o conteúdo de oxigênio do sangue (seja venoso, seja arterial) pode ser estimado pela seguinte fórmula:
+
+  
+    
+      
+        C
+        o
+        n
+        t
+        e
+        u
+        d
+        o
+         
+        s
+        a
+        n
+        g
+        u
+        i
+        n
+        e
+        o
+         
+        d
+        e
+         
+        o
+        x
+        i
+        g
+        e
+        n
+        i
+        o
+        =
+        
+          [
+          
+            H
+            e
+            m
+            o
+            g
+            l
+            o
+            b
+            i
+            n
+            a
+          
+          ]
+        
+        
+          (
+          
+            g
+            
+              /
+            
+            d
+            l
+          
+          )
+        
+         
+        ×
+         
+        1.36
+        
+          (
+          
+            m
+            l
+             
+            
+              O
+              
+                2
+              
+            
+            
+              /
+            
+            g
+             
+            d
+            e
+             
+            h
+            e
+            m
+            o
+            g
+            l
+            o
+            b
+            i
+            n
+            a
+          
+          )
+        
+        ×
+         
+        10
+         
+        ×
+         
+        s
+        a
+        t
+        u
+        r
+        a
+        c
+        a
+        o
+         
+        p
+        e
+        r
+        c
+        e
+        n
+        t
+        u
+        a
+        l
+         
+        d
+        o
+         
+        s
+        a
+        n
+        g
+        u
+        e
+      
+    
+    {\displaystyle Conteudo\ sanguineo\ de\ oxigenio=\left[Hemoglobina\right]\left(g/dl\right)\ \times \ 1.36\left(ml\ O_{2}/g\ de\ hemoglobina\right)\times \ 10\ \times \ saturacao\ percentual\ do\ sangue}
+  
+
+
+=== Métodos de Diluição ===
+Este método mede quão rápido o fluxo de sangue dilui uma substância marcadora introduzida no sistema circulatório, usualmente usando um cateter na artéria pulmonar. Métodos iniciais utilizavam um corante, sendo o débito cardíaco inversamente proporcional à concentração do corante colhida na amostra a jusante. Uma técnica mais moderna é a introdução de água fria ou a temperatura ambiente e então medir a mudança na temperatura a jusante. Este método pode, no entanto, ser afetado pela fase da respiração, especialmente sob ventilação mecânica, devendo desta maneira ser realizado na mesma fase do ciclo respiratório (tipicamente ao fim da expiração).
+
+
+=== Método Doppler ===
+Esta técnica utiliza ultra-som e o efeito Doppler para medir o débito cardíaco. A velocidade do sangue através da aorta causa um “desvio Doppler” na freqüência de retorno das ondas de ultra-som.
+A medida pela ecocardiografia da superfície de corte do arco aórtico (ou, alternativamente, dá área da aorta descendente), combinada com a velocidade de fluxo, permite o cálculo do débito cardíaco.
+
+
+=== Pletismografia por Impedância ===
+Esta técnica avançada foi desenvolvida pela NASA. Ela mede as mudanças na resistência elétrica, à medida que o coração bate, para calcular o débito cardíaco.
+
+
+== Equações ==
+Por simplificação da Lei de D'arcy, tem-se a seguinte equação:
+
+  
+    
+      
+        F
+        l
+        u
+        x
+        o
+        =
+        
+          
+            
+              P
+              r
+              e
+              s
+              s
+              a
+              o
+            
+            
+              R
+              e
+              s
+              i
+              s
+              t
+              e
+              n
+              c
+              i
+              a
+            
+          
+        
+      
+    
+    {\displaystyle Fluxo={\frac {Pressao}{Resistencia}}}
+  Quando aplicada ao sistema circulatório, nos temos que:
+
+  
+    
+      
+        D
+        e
+        b
+        i
+        t
+        o
+         
+        C
+        a
+        r
+        d
+        i
+        a
+        c
+        o
+        =
+        
+          
+            
+              A
+              B
+              P
+              −
+              R
+              A
+              P
+            
+            
+              T
+              P
+              R
+            
+          
+        
+      
+    
+    {\displaystyle Debito\ Cardiaco={\frac {ABP-RAP}{TPR}}}
+  Onde ABP = Pressão arterial na Aorta, RAP = Pressão no Átrio Direito e TPR = Resistência Periférica Total.
+No entretanto, na medida em que ABP>>RAP, e RAP é aproximadamente 0, a equação pode ser simplificada para:
+
+  
+    
+      
+        D
+        e
+        b
+        i
+        t
+        o
+         
+        C
+        a
+        r
+        d
+        i
+        a
+        c
+        o
+        ≈
+        
+          
+            
+              P
+              r
+              e
+              s
+              s
+              a
+              o
+               
+              A
+              r
+              t
+              e
+              r
+              i
+              a
+              l
+               
+              A
+              o
+              r
+              t
+              i
+              c
+              a
+            
+            
+              R
+              e
+              s
+              i
+              t
+              e
+              n
+              c
+              i
+              a
+               
+              P
+              e
+              r
+              i
+              f
+              e
+              r
+              i
+              c
+              a
+               
+              T
+              o
+              t
+              a
+              l
+            
+          
+        
+      
+    
+    {\displaystyle Debito\ Cardiaco\approx {\frac {Pressao\ Arterial\ Aortica}{Resitencia\ Periferica\ Total}}}
+  Os fisiologistas comumente rearranjam esta equação, focando na pressão aórtica, para estudar as resposta corporais.
+Como previamente definido, o débito cardíaco é também o produto da freqüência cardíaca pelo volume sistólico, o que nos permite dizer que:
+
+  
+    
+      
+        F
+        r
+        e
+        q
+        u
+        e
+        n
+        c
+        i
+        a
+         
+        C
+        a
+        r
+        d
+        i
+        a
+        c
+        a
+        ×
+        V
+        o
+        l
+        u
+        m
+        e
+         
+        S
+        i
+        s
+        t
+        o
+        l
+        i
+        c
+        o
+        ≈
+        
+          
+            
+              A
+              B
+              P
+            
+            
+              T
+              P
+              R
+            
+          
+        
+      
+    
+    {\displaystyle Frequencia\ Cardiaca\times Volume\ Sistolico\approx {\frac {ABP}{TPR}}}
+  
+
+
+== Determinantes do Débito Cardíaco ==
+O DC é representado pelo produto do débito sistólico e da frequência cardíaca. Então os dois são os principais determinantes no número do DC. O aumento da FC é diretamente proporcional ao aumento do DC, pelo menos até chegar em um valor máximo de FC, quanto o volume diastólica final se torna quase zero, fato que faz o DC diminuir progressivamente, junto do débito sistólico. 
+No débito sistólico, há três variáveis que influenciam no DC, são eles: a pré-carga, a contratilidade cardíaca e o pós-carga. 
+A pré-carga ou retorno venoso, é definido como o estiramento dos cardiomiócitos, associado ao comprimento dos sarcômeros, antes da sístole (KLABUNDE, 2015). Como é inviável medir esse estiramento, o retorno venoso é estabelecido pela sua relação com contratilidade cardíaca, pressão de enchimento e volume sistólico por meio da “relação de Frank-Starling”. Em um coração isolado, essa relação constata que a força exercida por uma câmara cardíaca durante a contração é proporcional ao estiramento das fibras miocárdicas. O retorno venoso é um importante determinante do DC pois ele estabelece o volume sanguíneo presente no ventrículo ao fim da diástole.Já a contratilidade está associada ao volume de sangue bombeado pelo ventrículo na contração, sendo ela a capacidade da própria fibra muscular cardíaca de se contrair em qualquer comprimento da mesma.
+O pós-carga ou resistência de ejeção é a pressão que o ventrículo sofre ao ejetar o sangue. Segundo o mecanismo de Frank-Starling, o aumento brusco da pós-carga implica em uma redução do volume sistólico e, consequentemente, diminuição do DC.
+
+
+== Regulação Nervosa ==
+A inervação simpática e parassimpática determina o débito cardíaco a partir de vias vindas do centro de controle cardiovascular. O transmissor parassimpático acetilcolina (Ach) diminui a FC enquanto as Catecolaminas (adrenalinas e noradrenalina) da inervação simpática aceleram a FC. Sendo a porção parassimpática, a mais predominante no controle da FC.
+
+
+== Efeitos do Sistema Nervoso durante o Exercício ==
+O intenso aumento do metabolismo, nos músculos esqueléticos ativos, age sobre as arteríolas musculares para relaxá-las e para permitir o acesso do O2 adequado para manter a contração muscular. A resistência periférica total diminui , junto com a pressão arterial, todavia o sistema nervoso compensa-a de imediato, ele enviará sinais nervosos que provocaram a constrição de veias maiores, aumentando a FC e a contratilidade do coração.
+
+
+== Determinantes da Disfunção Cardíaca ==
+Aumentos patológicos do DC são, de uma maneira geral, resultantes de uma redução crônica da resistência periférica, com aumento simultâneo do débito. Que pode ser ocasionado por doenças como Beribéri, fístula arteriovenosa, hipertireoidismo, anemia ou qualquer outro fator que reduza a resistência periférica total. Por outro lado, a redução patológica do DC, pode ser ocasionada tanto por distúrbios que causam redução da eficácia do bombeamento, quanto por doenças que reduzem acentuadamente o retorno venoso.
+
+
+== Referências ==
+GUYTON, A.C. e Hall J.E.– Tratado de Fisiologia Médica. Editora Elsevier. 13ª ed., 2017.
+SILVERTHORN, D. Fisiologia Humana: Uma Abordagem Integrada, 7ª Edição, Artmed, 2017.
+AIRES, M.M. - Fisiologia. Ed. Guanabara Koogan. 4ª edição, Rio de Janeiro, 2017.
+Starling’s law of the heart is explained by an intimate interaction of muscle length and myofilament calcium activation. Journal of the American College of Cardiology, 10(5), 1157–1164 | 10.1016/s0735-1097(87)80361-3. Disponível em: <https://sci-hub.se/10.1016/S0735-1097(87)80361-3>. Acesso em: 15 Nov. 2020.
+CV Physiology | Frank-Starling Mechanism. Cvphysiology.com. Disponível em: <https://www.cvphysiology.com/Cardiac%20Function/CF003>. Acesso em: 20 Nov. 2020.
+GORDAN, R.; GWATHMEY J. K.; XIE L H; Autonomic and endocrine control of cardiovascular function; World J Cardiol. 2015 Apr 26; Disponível em: <https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4404375/>. Acesso em: 30 Nov. 2020.
+GLOWER, D D; SPRATT, J A; SNOW, N D; et al. Linearity of the Frank-Starling relationship in the intact heart: the concept of preload recruitable stroke work. Circulation, v. 71, n. 5, p. 994–1009, 1985.
+TUCCI, Paulo. CONTRAÇÃO CARDÍACA. II -AS BASES FISIOLÓGICAS DO MECANISMO DE FRANK-STARLING. [s.l.: s.n., s.d.]. Disponível em: <http://www.arquivosonline.com.br/pesquisartigos/Pdfs/1982/v39n5/39050010.pdf>. Acesso em: 15 Nov. 2020.

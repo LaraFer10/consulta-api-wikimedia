@@ -1,0 +1,4 @@
+O canal de cálcio do tipo N é um tipo de canal de cálcio dependente de voltagem. tal como em outros da mesma classe, a subunidade α1 é a que determina a maioria das propriedades do canal.
+Os canais de cálcio do tipo N ('N' para "tipo neural") são encontrados principalmente nos terminais pré-sinápticos e estão envolvidos na libertação de neurotransmissores. Uma forte despolarização devido a um potencial de acção causa a abertura destes canais e permitem o influxo de Ca2+, iniciando a fusão de vesículas e a libertação dos neurotransmissores acumulados.
+Os canais de tipo N são bloqueados pela ω-conotoxina.
+A droga analgésica ziconotide inibe este tipo de canais.

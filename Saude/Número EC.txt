@@ -1,0 +1,19 @@
+Os números EC (no inglês Enzyme Commission Numbers) são um esquema de classificação numérica para as enzimas, baseado nas reações químicas que catalisam.
+Como sistema de nomenclatura de enzimas, cada número EC está associado a um nome recomendado para a referida enzima. Na realidade os números EC codificam reações catalisadas por enzimas. Enzimas diferentes (por exemplo que procedam de organismos diferentes) que catalisem a mesma reação receberiam o mesmo número EC.
+O nível superior desta classificação é:
+
+EC 1 Oxirredutases: catalisam as reações de oxidação-redução.
+EC 2 Transferases: transferem um grupamento funcional (por exemplo, um grupo metila ou fosfato), transferem um grupo doador para um receptor.
+EC 3 Hidrolases: catalisam as hidrólises, a quebra de ligações e estruturas com participação neste processo da ação da água.
+EC 4 Liases: clivagem de ligações em a ação da água.
+EC 5 Isomerases: catalisam as reações de isomerização de moléculas simples.
+EC 6 Ligases: Formação de ligações, por condensação de substâncias.
+EC 7 Translocases: catalisam o processo de translocação de entidades químicas (tais como iões, metabolitos ou até mesmo péptidos e proteínas) entre diferentes regiões espaciais fisicamente separadas (por exemplo, de uma face da membrana plasmática para a outra).
+Cada código de enzimas consiste nas duas letras EC seguidas por 4 números separados por pontos. Estes números representam uma classificação progressivamente mais específica. Por exemplo, a enzima tripéptido aminopeptidase tem o código EC 3.4.11.4, construído: 3 por hidrolase (enzima que usa a água para catalisar algumas moléculas), 3.4 por hidrolase, que atua sobre as ligações peptídicas, 3.4.11 por aquelas que atuam sobre o amino-terminal de aminoácidos de um polipeptídeo, e 3.4.11.4 por aquelas que atuam sobre o amino-terminal final de um tripeptídeo.
+
+
+== Referências ==
+
+
+== Ligações externas ==
+«Nomenclature Committee of the International Union of Biochemistry and Molecular Biology (NC-IUBMB) - Enzyme Nomenclature - www.chem.qmul.ac.uk»

@@ -1,0 +1,50 @@
+Uma lectina tipo C (CLEC) é um tipo de domínio proteico de ligação a carboidratos de proteínas lectinas. A designação tipo C refere-se ao seu requisito de cálcio para ligar-se. As proteínas que contêm domínios de lectina tipo C apresentam uma gama diversificada de funções incluindo a adesão célula a célula, resposta imune a patógenos e apoptose.
+
+
+== Clasificação ==
+Drickamer et al. classificaram as lectinas tipo C em 7 subgrupos (do I ao VII) baseando-se na ordem de vários domínios proteicos em cada proteína. Esta classificação foi posteriormente actualizada em 2002, juntando-se a ela sete subgrupos adicionais (do VIII ao XIV). Mais recentemente, juntaram-se mais três subgrupos (do XV ao XVII).
+Entre os CLEC estão os seguintes:
+
+CLEC1A, CLEC1B
+CLEC2A, CLEC2B, CD69 (CLEC2C), CLEC2D, CLEC2L
+CLEC3A, CLEC3B
+CLEC4A, CLEC4C, CLEC4D, CLEC4E, CLEC4F, CLEC4G, ASGR1 (CLEC4H1), ASGR2 (CLEC4H2), FCER2 (CLEC4J), CD207 (CLEC4K), CD209 (CLEC4L), CLEC4M
+CLEC5A
+CLEC6A
+CLEC7A
+OLR1 (CLEC8A)
+CLEC9A
+CLEC10A
+CLEC11A
+CLEC12A, CLEC12B
+CD302 (CLEC13A), LY75 (CLEC13B), PLA2R1 (CLEC13C), MRC1 (CLEC13D), MRC2 (CLEC13E)
+CLEC14A
+CLEC16A
+CLEC17AOs "receptores de tipo lectina da célula NK" estão muito estreitamente relacionados com este grupo:
+KLRA1
+KLRB1 (CLEC5B)
+KLRC1, KLRC2, KLRC3, KLRC4
+KLRD1
+KLRF1 (CLEC5C)
+KLRG1 (CLEC15A), KLRG2 (CLEC15B)
+KLRK1Outras proteínas que contêm este domínio são:
+
+AGC1; ATRNL1
+BCAN
+CD248; CD72; CD93; CHODL; CL-K1-Ia; CL-K1-Ib; CL-K1-Ic; CLECSF5; COLEC10; COLEC11; COLEC12; CSPG3
+FCER2; FREM1; HBXBP;
+LAYN; LOC348174; LOC728276
+MAFA; MBL2; MGC34761; MICL; MRC1L1
+OLR1
+PAP; PKD1; PKD1L2; PLA2R1; PRG2; PRG3
+REG1A; REG1B; REG3A; REG3G; REG4
+SELE; SELL; SELP; SFTPA1; SFTPA2; SFTPA2B; SFTPD; SRCL
+THBD
+VCAN
+
+
+== Referências ==
+
+
+=== Ligações externas ===
+Functional Glycomics Gateway, uma colaboração entre o Consortium for Functional Glycomics e o Nature Publishing Group

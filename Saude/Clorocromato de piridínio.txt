@@ -1,0 +1,30 @@
+Clorocromato de piridínio é um reagente sólido laranja avermelhado usado para oxidar álcoois primários à aldeídos e álcoois secundários à cetonas. Clorocromato de piridínio, ou PCC, do inglês pyridinium chlorochromate, não irá oxidar completamente o álcool ao ácido carboxílico correspondente como o faz o reagente de Jones. Uma desvantagem no uso de PCC é sua toxicidade.  PCC foi desenvolvido por Elias James Corey e William Suggs em 1975.Dicromato de piridínio é um agente oxidante similar, o qual tem a vantagem de ser menos ácido.
+
+
+== Preparação ==
+A preparação original por Corey envolve a adição de um equivalente de piridina a uma solução de um equivalente de trióxido de cromo (VI) e ácido clorídrico concentrado:
+
+C5H5N  +  HCl  +  CrO3 → [C5H5NH][CrO3Cl]Agarwal et al. apresentaram uma síntese alternativa que envolve o nocivo produto lateral cloreto de cromilo (CrO2Cl2).Óxido de cromo (VI) é tratado com cloreto de piridínio:
+
+[C5H5NH+]Cl−  +  CrO3  →  [C5H5NH][CrO3Cl]
+
+
+== Propriedades e usos ==
+
+
+=== Oxidação de álcoois ===
+PCC é primariamente usado como um oxidante. Em particular, ele tem provado ser altamente efetivo em oxidar álcoois primários e secundários a aldeídos e cetonas, respectivamente.  Raramente uma sobre-oxidação ocorre (seja intencionalmente ou acidentalmente) formando ácido carboxílico. Um típica oxidação pelo PCC envolve adição do álcool a uma suspensão de PCC em diclorometano.  Uma amostra de reação seria:
+
+C5H5NHCrO3Cl + R2CHOH → C5H5NHCl + H2CrO3 + R2C=ONa pática o subproduto de cromo deposita-se com piridina como um pegajoso óleo negro, o qual pode completar o procedimento. Adição de um absorvente inerte tal como pedaços de porcelana porosa ou sílica gel permite que o pegajoso subproduto seja adsorvido à superfície, e faça op trabalho mais fácil.
+
+
+=== Outras reações ===
+PCC é também notável por sua alta seletividade. Por exemplo, quando oxidando alil álcoois terciários, aldeídos insaturados são observados como os únicos produtos. A reação é conhecida como oxidação de Babler. Portanto tais oxidações têm recursos para geralmente produzir dienos como subprodutos resultantes da desidratação.
+Outra notável reação oxidativa de PCC é sua eficiente conversão de álcoois ou aldeídos insaturados a cicloexenonas. Esta marcha em particular é conhecida como ciclização oxidativa catiônica.
+
+
+== Reagentes relacionados ==
+Outros reagentes usados para oxidar mais convenientes Oou menos tóxicos incluem oxidações baseadas em DMSO (oxidação de Swern, oxidação de Moffatt) e oxidação baseada em iodo hipervalente (tal como a periodinano de Dess-Martin)
+
+
+== Referências ==

@@ -1,0 +1,43 @@
+Quitinases (EC 3.2.1.14) são endoglicosil-hidrolases que clivam as  ligações glicosídicas da  quitina, que é um polissacarídeo linear, formado por unidades de N-acetil-glicosamina unidas por ligações do tipo β-[1-4]. Quitinases de insetos participam na degradação da cutícula na muda, no turnover da membrana peritrófica e na digestão de fungos. 
+
+
+== Descrição e função ==
+Quitinases constituem parte da família 18 das glicosídeo hidrolases (COUTINHO & HENRISSAT, 1999). As proteínas dessa família possuem uma estrutura modular (ARAKANE et al., 2003), podendo ser constituídas de um peptídio sinal (aminoácidos 1 a 19 da seqüência da quitinase de Manduca sexta), um domínio catalítico (resíduos 20 a 395), um domínio conector rico em serinas e treoninas (resíduos 396 a 496) e um domínio de ligação a quitina rico em cisteínas (resíduos 497 a 554).
+A presença de um peptídio sinal indica que essas enzimas são secretadas para o espaço extracelular - esse peptídio, entretanto, não é conservado, sendo característico do táxon considerado. Em insetos, parece haver certa conservação dentro de uma mesma ordem.
+O domínio catalítico das quitinases de insetos possui uma série de resíduos conservados. Entre eles encontram-se os resíduos de aspartato e tirosina envolvidos diretamente em catálise (AALTEN et al., 2001).
+O domínio conector rico em serinas e treoninas parece ser importante para o dobramento adequado dessas proteínas durante a secreção e para a estabilidade dessa enzima frente a proteases (ARAKANE et al., 2003).
+O domínio C-terminal rico em cisteínas é importante para o reconhecimento e atividade sobre quitina. A retirada desse domínio na quitinase de M. sexta reduz drasticamente a atividade dessa enzima sobre o substrato natural, mas não afeta a atividade sobre oligossacarídeos ou substratos sintéticos como metil-umbelliferil-b-D-quitotriosídeo  (ARAKANE, 2003).
+Diversas funções têm sido propostas para as quitinases de insetos. Grande parte delas estão claramente envolvidas no processo da muda, participando na digestão do exoesqueleto a ser substituído. Nesses casos, a quitinase é secretada para o espaço entre a cutícula velha e a cutícula nova. Outra função seria a de regular o processo de síntese e degradação da membrana peritrófica.
+
+
+== Reação ==
+Random hydrolysis of N-acetyl-β-D-glucosaminide (1→4)-β-linkages in chitin and chitodextrins
+
+
+== Outros nomes ==
+chitodextrinase; 1,4-β-poly-N-acetylglucosaminidase; poly-β-glucosaminidase; β-1,4-poly-N-acetyl glucosamidinase; poly[1,4-(N-acetyl-β-D-glucosaminide)] glycanohydrolase
+
+
+== Substratos ==
+4-methylumbelliferyl beta-D-N,N',N''-triacetylchitotrioside
+3,4-dinitrophenyltetra-N-acetyl-beta-D-chitotetraoside
+4-methylumbelliferyl GlcNAcbeta(1-4)GlcNAcbeta(1-4)GlcNAc
+4-methylumbelliferyl-N,N'-diacetylchitobiose
+4-nitrophenyl beta-N,N',N''-triacetylchitotrioside
+2-acetamido-2-deoxy-4-O-(2-acetamido-2-deoxy-4-O-methyl-beta-D-glucopyranosyl)-1-O-4-methylumbelliferyl-beta-D-glucopyranoside
+
+
+== Banco de Dados ==
+Para mais informações acesse:
+
+
+== Ver também ==
+Quitina
+
+
+== Referências ==
+Faria, M.V. Quitinases de Rhodnius prolixus: padrão tecidual e temporal da atividade enzimática e caracterização da atividade quitinolítica intestinal. 2013. Monografia apresentada a Universidade do Grande Rio, Duque de Caxias.
+Taylor EJ, Dennis RJ, Macdonald JM, Tarling CA, Knapp S, Withers SG, Davies GJ. Angew. Chem. Int. Ed. Engl. (2010)
+Zechmeister, L. and Tóth, G. Chromatographic adsorption of the enzymes of emulsin which act on chitins. Enzymologia 7 (1939) 165-169.
+Tracey, M.V. Chitinase in some basidiomycetes. Biochem. J. 61 (1955) 579-586.
+Fischer, E.H. and Stein, E.A. Cleavage of O- and S-glycosidic bonds (survey), in Boyer, P.D., Lardy, H. and Myrbäck, K. (Eds.), The Enzymes, 2nd edn., vol. 4, Academic Press, New York , 1960, pp. 301-312

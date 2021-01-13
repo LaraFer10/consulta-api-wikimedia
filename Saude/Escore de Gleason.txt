@@ -1,0 +1,25 @@
+Escore de Gleason (também conhecido como escala ou pontuação de Gleason) é uma pontuação dada a um câncer de próstata baseada em sua aparência microscópica. O escore de Gleason é importante porque escores maiores estão associados a piores prognósticos, já que são dados a cânceres mais agressivos. Para determinar o escore de Gleason, uma peça de tecido prostático deve ser obtida por meio de biópsia. Isto é realizado através da remoção da glândula (prostatectomia) ou retirando-se uma amostra da glândula através de uma agulha introduzida pelo reto.
+
+
+== Cálculo ==
+O escore de Gleason varia de 2 a 10. Um escore de 2 está associado com o melhor prognóstico, enquanto o escore de 10 com o pior. O escore final é uma combinação de dois escores diferentes, que variam cada um de 1 a 5. Os escores de Gleason estão associados com as seguintes características:
+
+Grau 1 - A próstata cancerosa se parece muito com o tecido normal. As glândulas são pequenas, bem-formadas e muito próximas.
+Grau 2 - O tecido ainda possui glândulas bem formadas, mas elas são maiores e possuem mais tecido entre cada uma.
+Grau 3 - O tecido ainda possui glândulas reconhecíveis, mas as células são mais escuras. Em uma magnificação maior, algumas destas células deixaram as glândulas e estão começando a invadir o tecido circundante.
+Grau 4 - O tecido possui poucas glândulas reconhecíveis. Muitas células estão invadindo o tecido circundante.
+Grau 5 - O tecido não possui glândulas reconhecíveis.Um patologista examina a amostra da biópsia e fornece um escore baseado em dois padrões. O primeiro chamado de grau primário, representa a maior parte do tumor (deve ser maior que 50% do padrão total observado). O segundo - grau secundário - está relacionado com a minoria do tumor (deve ser menos que 50%, mas no mínimo 5% do padrão total do câncer observado). Estes escores são então somados para se obter o escore final de Gleason. Por exemplo, uma amostra de próstata pode exibir dois padrões diferentes, a um é atribuído o número 2 e ao outro é atribuído o número 3. O escore final de Gleason neste caso seria 5.
+Dessa forma se pode classificar em:
+
+Pontuação 4 ou menor (G1): Células bem diferenciadas, bom prognóstico, pouco risco de complicações. Pode ser um achado acidental em uma cirurgia para remover parte da hiperplasia benigna de próstata. Acompanhar anualmente.
+Pontuação 5 a 7 (G2): Células moderadamente diferenciadas, prognóstico menos previsível. O paciente pode-se decidir se quer remover a próstata para evitar complicações ou não.
+Pontuação 8 ou maior (G3): Células muito irregulares, invasor, câncer de alto grau. Mau prognóstico por maior risco de complicações e metástases, a próstata deve ser removida.O escore de Gleason é usado para ajudar a avaliar o prognóstico de homens com câncer de próstata. Junto com outros parâmetros, o escore de Gleason é incorporado a uma estratégia de estadiamento do câncer de próstata que proporciona um prognóstico e ajuda a guiar a terapia.
+
+
+== História ==
+Este sistema de pontuação é nomeado em homenagem a Donald F. Gleason, M.D., um patologista do Minneapolis Veterans Affairs Hospital que o desenvolveu com outros colegas na década de 1960s.
+
+
+== Referências ==
+
+Gleason DF. The Veteran's Administration Cooperative Urologic Research Group: histologic grading and clinical staging of prostatic carcinoma. In Tannenbaum M (ed.) Urologic Pathology: The Prostate. Lea and Febiger, Philadelphia, 1977; 171-198.

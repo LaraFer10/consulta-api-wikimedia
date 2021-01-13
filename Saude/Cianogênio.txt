@@ -1,0 +1,579 @@
+Cianogênio, ou CC (código militar) é o composto químico com a fórmula (CN)2. É uma molécula pseudo-halogênia. As moléculas de cianogênio consistem em dois grupos CN- análogos às moléculas halógenas diatômicas, como Cl2, mas muito menos oxidantes. Os dois grupos ciano estão ligados entre si pelos átomos de carbono: N≡C-C≡N, embora outros isômeros tenham sido detectados. Certos derivados do cianogênio também são chamados de "cianogênio", embora contenham apenas um grupo CN. Por exemplo, o brometo de cianogênio tem a fórmula NCBr. O cianogênio é o anidrido da oxamida, obtido perante desidratação desta a altas temperaturas, embora a oxamida seja fabricada a partir de cianogênio por hidrólise. 
+O cianogênio é um gás incolor com odor irritante de amêndoas. Congela a -28 °C e ferve a -20,7 °C. Enviado como um líquido confinado sob sua pressão de vapor. O gás é mais pesado que o ar e uma chama pode viajar de volta para a fonte de vazamento com muita facilidade. A exposição prolongada ao fogo ou ao calor intenso pode fazer com que os recipientes se rompam violentamente e vazam como foguetes. Usado para fazer outros produtos químicos, como fumegante e como propulsor de foguete.
+Usado como arma química da classe dos agentes sanguíneos. É um potente veneno a vários seres vivos, em especial, aos humanos, neste caso, devido à habilidade dos íons Cianeto em se combinar com o ferro da hemoglobina, bloqueando a recepção do oxigênio pelo sangue, matando a pessoa exposta por sufocamento.
+É pouco persistente em ambiente aberto, por se decompor com a umidade, produzindo Oxamida, porém, é muito persistente em ambientes fechados podendo ficar semanas no local. Cianogênio polimeriza para o paracianogênio, quando aquecido a 500 graus Celsius, em recipiente que suporte altas pressões. Cianogênio é utilizado em mistura com Cianeto de hidrogênio para obter um agente mais ativo. Ambos são utilizados para produzir um agente também de sangue.   
+É decomposto em reação com enxofre, produzindo Sulfeto de dicianeto, tóxico, porém, não volátil. É neutralizado em reação com a água, produzindo um agente pouco tóxico, a oxamida. É neutralizado, de forma pouco segura, por meio de sua combustão ( tende a explodir). É modernamente solúvel em água, absorvido por ela para gerar oxamida, oxamida é hidrolisada em amônia e ácido oxalico, com posterior reação de ambos para obtenção de oxalato de amônio. Em certos ambientes, oxalato de amônio tende a reagir com amônia para gerar novamente Cianogênio e Hidróxido de amônio. 
+É obtido na lavagem de Tabun, usando Peróxido. 
+
+
+== Preparação ==
+O cianogênio é obtido perante desidratação da oxamida a altas temperaturas na presença de desidratantes.
+  
+  
+    
+      
+        
+          OHC
+          
+            (
+            O
+            )
+          
+          C
+          
+            (
+            O
+            )
+          
+          OH
+          +
+          2
+          
+          
+            NH
+            
+              3
+            
+            
+              
+            
+          
+          ⟶
+          NCCN
+          +
+          4
+          
+          
+            H
+            
+              2
+            
+            
+              
+            
+          
+          O
+        
+      
+    
+    {\displaystyle {\ce {OHC(O)C(O)OH + 2 NH3-> NCCN + 4 H2O}}}
+  
+Cianogênio é historicamente obtido perante oxidação parcial do AC pelo ar atmosférico ou algum oxidante.
+
+  
+    
+      
+        
+          2
+          
+          
+            H
+            
+              +
+            
+          
+          +
+          2
+          
+          
+            CN
+            
+              −
+            
+          
+          +
+          
+            [
+            O
+            ]
+          
+          ⟶
+          
+            H
+            
+              2
+            
+            
+              
+            
+          
+          O
+          +
+          
+            
+              1
+              2
+            
+          
+          NCCN
+        
+      
+    
+    {\displaystyle {\ce {2 H+ + 2 CN- + [O] -> H2O + 1/2 NCCN}}}
+  
+Cianogênio é geralmente obtido perante reação de sais de Cianeto com certas quantidades de Halogênios, como a reação de Cianeto de sódio misturado em uma solução alcoólica de Etanol perante borbulho de Cloro gasoso. 
+
+  
+    
+      
+        
+          0
+          
+          ,
+          5
+          
+          
+            Cl
+            
+              2
+            
+            
+              
+            
+          
+          +
+          2
+          
+          NaCN
+          ⟶
+          2
+          
+          NaCl
+          +
+          0
+          
+          ,
+          5
+          
+          NCCN
+        
+      
+    
+    {\displaystyle {\ce {0,5 Cl2 + 2 NaCN -> 2 NaCl + 0,5 NCCN}}}
+  
+É obtido para uso militar perante reação de Nitrato de cobre com Cianeto de hidrogênio com direta destilação do Cianogênio aéreo.
+
+  
+    
+      
+        
+          Cu
+          
+            
+              (
+              
+                NO
+                
+                  3
+                
+                
+                  
+                
+              
+              )
+            
+            
+              2
+            
+            
+              
+            
+          
+          +
+          
+            
+              1
+              2
+            
+          
+          
+            O
+            
+              2
+            
+            
+              
+            
+          
+          +
+          2
+          
+          HCN
+          ⟶
+          Cu
+          
+            
+              (
+              
+                NO
+                
+                  3
+                
+                
+                  
+                
+              
+              )
+            
+            
+              2
+            
+            
+              
+            
+          
+          +
+          
+            H
+            
+              2
+            
+            
+              
+            
+          
+          O
+          +
+          NCCN
+        
+      
+    
+    {\displaystyle {\ce {Cu(NO3)2 + 1/2 O2 + 2 HCN -> Cu(NO3)2 + H2O + NCCN}}}
+  
+Não é obrigatório o uso de Cianeto de hidrogênio, sendo usado Cianeto de sódio ou Potássio.
+
+  
+    
+      
+        
+          2
+          
+          
+            CuSO
+            
+              4
+            
+            
+              
+            
+          
+          +
+          4
+          
+          KCN
+          ⟶
+          
+            
+              (
+              CN
+              )
+            
+            
+              2
+            
+            
+              
+            
+          
+          +
+          2
+          
+          CuCN
+          +
+          2
+          
+          
+            K
+            
+              2
+            
+            
+              
+            
+          
+          
+            SO
+            
+              4
+            
+            
+              
+            
+          
+        
+      
+    
+    {\displaystyle {\ce {2 CuSO4 + 4 KCN -> (CN)2 + 2 CuCN + 2 K2SO4}}}
+  
+A equação sem uso do AC é igual para o Nitrato de cobre (II).
+
+  
+    
+      
+        
+          2
+          
+          Cu
+          
+            
+              (
+              
+                NO
+                
+                  3
+                
+                
+                  
+                
+              
+              )
+            
+            
+              2
+            
+            
+              
+            
+          
+          +
+          4
+          
+          KCN
+          ⟶
+          
+            
+              (
+              CN
+              )
+            
+            
+              2
+            
+            
+              
+            
+          
+          +
+          2
+          
+          CuCN
+          +
+          4
+          
+          
+            KNO
+            
+              3
+            
+            
+              
+            
+          
+        
+      
+    
+    {\displaystyle {\ce {2 Cu(NO3)2 + 4 KCN -> (CN)2 + 2 CuCN + 4 KNO3}}}
+  
+É preparado perante decomposição termal de sais de Cianeto bivalentes, como o Cianeto de mercúrio.
+
+  
+    
+      
+        
+          2
+          
+          Hg
+          
+            
+              (
+              CN
+              )
+            
+            
+              2
+            
+            
+              
+            
+          
+          ⟶
+          
+            
+              (
+              CN
+              )
+            
+            
+              2
+            
+            
+              
+            
+          
+          +
+          
+            Hg
+            
+              2
+            
+            
+              
+            
+          
+          
+            
+              (
+              CN
+              )
+            
+            
+              2
+            
+            
+              
+            
+          
+        
+      
+    
+    {\displaystyle {\ce {2 Hg(CN)2 -> (CN)2 + Hg2(CN)2}}}
+    
+Um dos processos mais simples e notórios para a síntese e disseminação de CA é por meio da preparação da serpente de faraó, reação na qual consiste na combustão do Tiocianato de mercúrio e derivados perante atmosfera sem Oxigênio para originar o Nitreto de carbono (C3N4), Sulfeto de mercúrio e Disulfeto de carbono. 
+
+  
+    
+      
+        
+          4
+          
+          Hg
+          
+            
+              (
+              SCN
+              )
+            
+            
+              2
+            
+            
+              
+            
+          
+          ⟶
+          4
+          
+          HgS
+          +
+          2
+          
+          
+            CS
+            
+              2
+            
+            
+              
+            
+          
+          +
+          2
+          
+          
+            C
+            
+              3
+            
+            
+              
+            
+          
+          
+            N
+            
+              4
+            
+            
+              
+            
+          
+        
+      
+    
+    {\displaystyle {\ce {4Hg(SCN)2 -> 4HgS + 2CS2 + 2C3N4}}}
+  
+A Serpente é diretamente colocada em propelentes térmicos para ser decomposta e originar Cianogênio e Gás nitrogênio. Este processo de obtenção é simples e tende a ser seguro pois origina gás inerte não deixando o Cianogênio reagir com o Oxigênio do ar.
+
+  
+    
+      
+        
+          2
+          
+          
+            C
+            
+              3
+            
+            
+              
+            
+          
+          
+            N
+            
+              4
+            
+            
+              
+            
+          
+          ⟶
+          3
+          
+          
+            
+              (
+              CN
+              )
+            
+            
+              2
+            
+            
+              
+            
+          
+          +
+          
+            N
+            
+              2
+            
+            
+              
+            
+          
+        
+      
+    
+    {\displaystyle {\ce {2C3N4 -> 3(CN)2 + N2}}}
+  
+
+
+== Exposição e sintomas ==
+A exposição ao CC é similar a outros agentes de Cianeto e causa principalmente dor de cabeça, confusão, ansiedade, tonturas, fraqueza, mal-estar e perda de consciência. Efeitos cardiovasculares: palpitações. Efeitos respiratórios: irritação do tracto respiratório, dificuldade em respirar ou falta de ar (dispnéia) e aumento transitório na taxa e profundidade da respiração (hiperpneia), náuseas e ânsias de vômitos (emese) pupilas dilatadas, inflamação da superfície do olho e cegueira temporária, os efeitos mais graves pela exposição são, coma, convulsões e pupilas dilatadas (midríase). Efeitos cardiovasculares: choque, ritmos cardíacos anormais ou desordenados (arritmias), pressão arterial extremamente baixa e parada cardíaca. Efeitos respiratórios: anormalmente rápido seguido de respirações anormalmente lentas; acumulação de líquido nos pulmões (edema pulmonar); e parada respiratória. Os órgãos mais suscetíveis ao cianeto são o sistema nervoso central (SNC) e o coração. A maioria dos efeitos clínicos são de origem CNS e não são específicos.  
+Aproximadamente 15 segundos após a inalação de uma alta concentração de cianeto, há uma hiperpneia transitória, seguida dentro de 15 a 30 segundos pelo aparecimento de convulsões. A atividade respiratória para dois a três minutos depois, e a atividade cardíaca cessa alguns minutos depois, ou aproximadamente seis a oito minutos após a exposição. 
+O início e a progressão dos sinais e sintomas após a ingestão de cianeto ou após a inalação de uma menor concentração de vapor são mais lentos. Os primeiros efeitos podem não ocorrer até vários minutos após a exposição, e o curso do tempo desses efeitos depende da quantidade absorvida e da taxa de absorção. A hiperpneia transitória inicial pode ser seguida por sentimentos de ansiedade ou apreensão, agitação, vertigem, sensação de fraqueza, náuseas com ou sem vômitos e tremores musculares. Mais tarde, a consciência é perdida, a diminuição da respiração na taxa e profundidade, e convêm convulsões, apnéias e disritmias cardíacas e paralisação. Como esta cascata de eventos é prolongada, é possível o diagnóstico e o tratamento bem-sucedido.  
+Os efeitos do cloreto de cianogénio incluem os descritos para o cianeto de hidrogênio. O cloreto de cianogênio também é semelhante aos agentes anti-motim causando irritação nos olhos, nariz e vias aéreas, além de lacrimejamento marcado, rinorréia e broncosecreções, Brometo de cianogênio possui uma ação irritante muito mais potente e pode ser facilmente interpretado como agente antimotim. O agente em contato com os sais presentes na água dos tecidos tende a reagir rapidamente para formar sais tóxicos como Cianeto de sódio e Cianeto de ureia, os efeitos, metabolismo e toxicidade são similares entre agentes de Cianeto.  O agente em contato com os sais presentes na água dos tecidos tende a reagir rapidamente para formar sais tóxicos como Cianeto de sódio e Cianeto de ureia. 
+
+
+== Toxicidade ==
+Cianogênio mata com 1200 miligramas por reações alérgicas em 10 minutos por meio da inalação. 140 miligramas é a dose letal por inalação, podendo matar já com 50 miligramas. 5 miligramas inaladas, ou em contato com os tecidos, já causam irritação e reações alérgicas no local atingido. 25 miligramas já causam efeitos sistêmicos e possível morte.
+
+
+== Uso em combate ==
+Utilizam-se misturas de agentes sanguíneos com Cianogênio e Brometo de cianogênio dando origem a um liquido volátil (10% de CC e 90% BC), é disseminado por explosivos, granadas pirotécnicas, aquecedores, pulverizadores, umidificadores e são dissolvidos em Hidrocarbonetos di-halogenado como o Diclorometano, clorofórmio e Tetracloreto de carbono, em hidrocarbonetos como a mistura GLP, Pentanos, Hexanos e etc. Em operações militares não se utiliza solventes, pois CA tende a ficar gasoso facilmente, mas CA é utilizado também solução com solventes para aumentar seu ponto de ebulição, comumente com seu solvente de síntese, Tetracloreto de carbono, Etanol e Éter etílico,  é disseminado de forma térmica perante aquecimento do Nitreto de carbono (Serpente de faraó).
+
+
+== Referências ==

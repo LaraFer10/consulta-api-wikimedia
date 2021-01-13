@@ -1,0 +1,5 @@
+ExPASy (acrónimo de Expert Protein Analysis System) é um portal de recursos bioinformáticos mantido pelo Instituto Suiço de Bioinformática. O portal compreende vários recursos científicos, bases de dados e ferramentas informáticas, em diferentes áreas científicas, como a genómica, proteómica, filogenia, biologia sistémica e genética populacional. O armazenamento dos recursos individuais (bases de dados e ferramentas de software) encontra-se descentralizado por vários grupos do Instituto e instituições associadas. Um portal único oferece um ponto de acesso comum a todos os recursos.
+
+
+== Ligações externas ==
+Portal ExPASy

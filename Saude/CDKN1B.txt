@@ -1,0 +1,25 @@
+O inibidor de quinase dependente de ciclina 1B (p27Kip1) é um inibidor de enzima que em humanos é codificado pelo gene CDKN1B. Codifica uma proteína que pertence à família Cip/Kip de proteínas inibidoras da quinase dependente de ciclina (Cdk). A proteína codificada liga-se e previne a activação dos complexos ciclina E - CDK2 ou ciclina D - CDK4 e, assim, controla a progressão do ciclo celular em G1. É frequentemente referida como uma proteína inibidora do ciclo celular porque a sua principal função é interromper ou desacelerar o ciclo de divisão celular.
+
+
+== Interacções ==
+Está observado que o CDKN1B interage com:
+
+AKT1,
+CKS1B,
+Cyclin D3,
+Cyclin E1,
+Quinase dependente de ciclina 2,
+Quinase dependente de ciclina 4,
+Grb2,
+NUP50
+SKP2,
+SPDYA, e
+XPO1.
+
+
+== Ver também ==
+P21 (outro inibidor de CDK)
+Hialuronidase
+
+
+== 35em ==

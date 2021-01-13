@@ -1,0 +1,20 @@
+A ativação dCas9 (CRISPRa) é um tipo de ferramenta CRISPR que usa versões modificadas de dCas9, uma mutação de Cas9 sem atividade de endonuclease, com ativadores de transcrição adicionados em dCas9 ou RNAs guia (gRNAs).  Como um sistema CRISPR-Cas9 padrão, os sistemas de ativação dCas9 dependem de componentes similares, como variantes Cas9 para modulação ou modificação de genes, gRNAs para guiar Cas9 para alvos pretendidos e vetores para introdução em células. No entanto, enquanto um sistema CRISPR-Cas9 padrão baseia-se em criar intervalos no DNA através da atividade endonuclease de Cas9 e depois manipular mecanismos de reparo de DNA para edição de genes, os sistemas de ativação dCas9 são modificados e empregam ativadores transcricionais para aumentar a expressão de genes de interesse.
+
+
+== Sistemas de Ativação Específicos ==
+
+
+=== VP64-p65-Rta ===
+O ativador VP64-p65-Rta, ou VPR, dCas9 foi criado pela modificação de um ativador dCas9 existente, no qual um ativador de transcrição Vp64 é unido ao terminal C de dCas9. Na proteína dCas9-VPR, os fatores de transcrição p65 e Rta são adicionados ao terminal C de dCas9-Vp64.
+
+
+=== Mediador de ativação sinérgica ===
+Para superar a limitação do sistema de ativação do gene dCas9-VP64, o sistema dCas9-SAM foi desenvolvido para incorporar múltiplos fatores transcricionais.  Assim, o sistema dCas9-SAM pode ainda ser empregado para ativar genes latentes, desenvolver terapias gênicas e descobrir novos genes.
+
+
+=== Sistema ativador SunTag ===
+O sistema ativador SunTag usa a proteína dCas9, que é modificada para ser vinculada ao SunTag. O SunTag é um array de polipeptídeos de repetição que pode recrutar várias cópias de anticorpos. Através da anexação de fatores transcricionais nos anticorpos, o complexo ativador SunTag dCas9 amplifica seu recrutamento de fatores transcricionais. Para guiar a proteína dCas9 ao seu gene alvo, o sistema dCas9 SunTag usa sgRNA.
+Comparando com o complexo de ativação dCas9-VP64, eles foram capazes de aumentar a expressão do gene CXCR4 de 5 a 25 vezes maior nas linhas celulares K562. Não apenas houve uma maior superexpressão da proteína CXCR4, mas também as proteínas CXCR4 foram ativas para continuar viajando no ensaio de migração de "transwell". Assim, o sistema dCas9-SunTag pode ser usado para ativar genes que estão presentes latentemente, como genes de vírus.
+
+
+== Referências ==

@@ -1,0 +1,50 @@
+A biodisponibilidade depende da absorção de um fármaco e da entrada na circulação geral na forma inalterada e subsequentes medidas do fármaco absorvido ou seus metabólitos bio transformados. O termo biodisponibilidade é usado para descrever a quantidade e a velocidade de absorção do fármaco a partir de uma forma farmacêutica.A biodisponibilidade é avaliada in vitro através de testes de dissolução/permeação e in vivo pela determinação de curvas de concentração do fármaco versus tempo em tecidos ou líquidos biológicos (ex.: sangue ou urina).Os estudos de biodisponibilidade são usados para determinar : 
+
+A quantidade ou proporção de fármaco absorvido a partir da formulação farmacêutica;
+Velocidade na qual o fármaco foi absorvido;
+A duração da presença do fármaco nos líquidos biológicos (sangue e linfa) ou tecido, correlacionada com as respostas do paciente;
+A relação entre níveis sanguíneos do fármaco e eficácia clínica ou efeitos tóxicos.
+
+
+== Biodisponibilidade in vivo ==
+Parâmetros farmacocinéticos para avaliação ou comparação da biodisponibilidade, na avaliação comparativa de duas formulações diferentes, que possuem o mesmo princípio ativo:
+Concentração sanguínea (plasmática ou sérica) máxima ( Cmáx);
+Tempo de concentração máxima (Tmáx);
+Área sob a curva de concentração sanguínea em função do tempo (ASC).
+A concentração plasmática do fármaco aumenta com a extensão da absorção; a máxima (pico) é alcançada quando a taxa de eliminação do fármaco iguala-se à taxa de absorção. As determinações de biodisponibilidade com base na concentração plasmática máxima podem ser errôneas, porque a eliminação do fármaco inicia-se assim que este entra na corrente sanguínea. O tempo de pico (quando o fármaco atinge concentração plasmática máxima) constitui o índice geral mais utilizado para a avaliação da absorção; quanto mais lenta a absorção, mais tardio é o tempo de pico.
+
+
+== Biodisponibilidade in vitro ==
+Antes dos ensaios in vivo, iniciam-se os estudos de biodisponibilidade in vitro através de testes de equivalência farmacêutica entre um determinado produto farmacêutico quando comparado a um medicamento referência (fixado pelo Ministério da Saúde).  Os produtos são considerados equivalentes quando atendem aos parâmetros farmacopeicos e apresentam resultados dentro de um limite de variação específico em relação ao medicamento de referência.
+
+
+== Absorção do fármaco ==
+A interpretação quantitativa dos valores obtidos nos ensaios de dissolução é facilitada pela utilização de uma equação genérica, que traduz matematicamente a curva de dissolução em função de alguns parâmetros relacionados com a forma farmacêutica.
+
+
+== Volume de distribuição ==
+O volume de distribuição é um parâmetro farmacocinético que ilustra a distribuição de um fármaco no organismo. Uma droga altamente lipofílica mostra uma alta distribuição porque o fármaco pode passar as membranas lipofílicas em uma extensão elevada e vai principalmente para os compartimentos do tecido. Um medicamento com alta lipofilia entra nos tecidos em grande extensão, mas o tempo de retenção do fármaco no tecido depende do equilíbrio que se desenvolve entre o tecido e a circulação sistêmica. O volume de distribuição é, portanto, calculado pela razão entre a fração não ligada no plasma (fu) e no compartimento dos tecidos (fuT) e o volume do plasma.
+
+
+== Meia Vida ==
+A meia-vida de eliminação sistêmica é um parâmetro importante que expressa o tempo necessário para reduzir a concentração de um fármaco na circulação sistêmica pela metade. É calculado a partir da depuração sistêmica e do volume de distribuição.
+
+
+== Sistema de classificação biofarmacêutica ==
+Através da correlação da dissolução in vitro com a biodisponibilidade in vivo e reconhecendo que a dissolução do fármaco e a sua permeabilidade gastrointestinal são os parâmetros fundamentais que controlam a velocidade e a extensão da absorção do fármaco, Amidon e colaboradores (1995) propuseram recentemente o Sistema de Classificação Biofarmacêutica (SCB) dos fármacos. Baseada nas propriedades de solubilidade do fármaco no trato gastrointestinal (TGI).Classe I - Alta solubilidade - fármacos de alta permeabilidade: compostos com elevada solubilidade e permeabilidade, devem ser rapidamente solubilizados quando incluídos em formas farmacêuticas de liberação imediata e, também, ser rapidamente transportados através da parede do TGI. Portanto, espera-se que estes fármacos sejam bem absorvidos a menos que sejam instáveis, formem complexos insolúveis, sejam segregados diretamente a partir da parede do TGI, ou sofram metabolismo de primeira passagem. Portanto, os ensaios de dissolução para as formulações de liberação imediata de fármacos pertencentes à Classe I necessitam apenas da verificação de que o fármaco é de fato rapidamente liberado da sua forma farmacêutica num meio aquoso (Dressman et al., 1998; Dressman, Fleisher,1986).Classe II - Baixa solubilidade - fármacos de alta permeabilidade: a taxa de dissolução do fármaco é quase certamente o principal fator limitante da sua absorção oral. Esta limitação pode ser de natureza do equilíbrio ou cinética. No caso de um problema de equilíbrio, não há suficiente fluido disponível no TGI para dissolver a dose administrada. Isto pode ser verificado através do cálculo da relação dose/solubilidade. No caso de um problema cinético, o fármaco dissolve-se muito lentamente para que a totalidade da dose se dissolva antes de passar pelos locais de absorção. Para os fármacos de Classe II deve ser possível, portanto, estabelecer forte correlação entre os resultados dos ensaios de dissolução e a taxa de absorção in vivo. O estabelecimento de uma correlação in vitro/in vivo e a resultante capacidade para discriminar entre formulações com diferentes biodisponibilidades dependerá da qualidade de concepção dos ensaios in vitro. Para que o sistema tenha sucesso, é necessário reproduzir tão próximo quanto possível as condições existentes no TGI após a administração da forma farmacêutica. A adequada comparação das formulações contendo fármacos pertencentes à Classe II requer ensaios de dissolução com múltiplas amostragens de modo a caracterizar o perfil de liberação e, em alguns casos, é necessária a utilização de mais do que um meio de dissolução (Dressman et al., 1998; Dressman, Fleisher, 1986;FDA-CDER, 1995).Classe III - Alta solubilidade - fármacos de baixa permeabilidade: são rapidamente dissolvidos e o critério do ensaio deve ser a liberação do fármaco num meio aquoso dentro de um intervalo de tempo pré-determinado. É particularmente desejável a rápida dissolução dos fármacos de Classe III para maximizar o tempo de contato entre o fármaco dissolvido e a mucosa de absorção e, conseqüentemente, a biodisponibilidade do fármaco. Portanto, a duração do ensaio de dissolução deve ser pelo menos tão exigente para os fármacos de Classe III como para os de Classe I (Dressman et al., 1998; FDA-CDER,1995).Classe IV - Baixa solubilidade - fármacos de baixa permeabilidade: têm uma fraca absorção em geral, mas considera-se que, tal como no caso dos fármacos de Classe II, uma pobre ou má formulação pode ter uma influência adicional negativa tanto na taxa como na extensão da absorção do fármaco. Portanto, para as quatro categorias, considera-se que ensaios de dissolução bem concebidos podem ser a chave para o prognóstico na determinação da absorção oral e da bioequivalência dos fármacos a partir da sua forma farmacêutica (Dressman et al., 1998).
+
+
+== Definição ==
+Biodisponibilidade é uma medida da extensão de uma droga terapeuticamente ativa que atinge a circulação sistêmica e está disponível no local de ação.
+
+
+== Referências ==
+
+12. ATKINSON, A.J. Jr. Drug absorption and bioavailability. In: ATKINSON, A.J. Jr et al. (Eds). Principles of clinical pharmacology. San Diego: Academic Press, 2001, p.31-41.
+13. Manadas, R., Pina, M., & Veiga, F. (2002). A dissolução in vitro na previsão da absorção oral de fármacos em formas farmacêuticas de liberação modificada. Revista Brasileira De Ciências Farmacêuticas, 38(4), 375-399. 
+14. Jennifer Le, PharmD, MAS, BCPS-ID, FIDSA, FCCP, FCSHP, Professor of Clinical Pharmacy and Director of Experiential Education in Los Angeles, Skaggs School of Pharmacy and Pharmaceutical Sciences, University of California San Diego
+15. Castro. J, A.Ibuprofen-loaded chitosan hydrogels for controlled drug release in nerve injuries, UFABC, 2017.
+16. Ryrfeldt A, Andersson P, Edsbacker S, et al. Pharmacokinetics and metabolism of budesonide, a selective glucocorticoid. Eur J Respir Dis Suppl 1982;122:86 – 95
+17. Derendorf H. Pharmacokinetic and pharmacodynamic properties of inhaled corticosteroids in relation to efficacy and safety. Respir Med 1997;91(Suppl A):22 – 8
+
+18. Rowland M, Tozer T. Clinical pharmacokinetics: concepts and applications. Philadelphia7 Williams and Wilkins; 1995.

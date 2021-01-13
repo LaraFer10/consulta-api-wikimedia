@@ -1,0 +1,19 @@
+Em medicina (oncologia, hematologia e áreas relacionadas), o performance status é uma medida relacionada à tentativa de quantificar o bem-estar geral dos pacientes. Pode ser utilizada para determinação da possibilidade de receber quimioterapia, da necessidade de ajuste de doses destas medicações, entre outras finalidades.
+
+
+== Performance Status de Karnofsky ==
+O performance status de Karnofsky é um sistema de escore que, dentre outros, classifica os pacientes em uma escala de 0 a 100, onde 100 corresponderia à "saúde perfeita" e 0 à morte. Embora o escore original varie numa escala de 10, estados intermediários podem ser aceitos. Recebe este nome em homenagem à David A. Karnofsky, que, conjuntamente com Joseph H. Burchenal , descreveram o sistema em 1949.
+100% - normal, sem queixas, sem sinais de doença
+90% - capaz de atividade normal, poucos sinais ou sintomas de doença
+80% - atividade normal com alguma dificuldade, alguns sinais e sintomas
+70% - capaz de cuidar de si próprio, incapaz de atividade normal ou trabalho
+60% - necessidade de alguma ajuda, capaz de cuidar da maioria das necessidades próprias
+50% - frequentemente necessita de ajuda, necessita de atenção médica frequente
+40% - incapaz, necessita de cuidado especial e ajuda
+30% - gravemente incapaz, admissão hospitalar indicada mas sem risco de morte
+20% - muito doente, necessidade de admissão imediata e medidas de suporte ou tratamento
+10% - moribundo, rápida progressão para doença fatal
+0% - morte.
+
+
+== Referências ==

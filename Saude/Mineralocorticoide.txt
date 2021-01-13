@@ -1,0 +1,24 @@
+Mineralocorticóides são uma classe de hormonas esteróides, sendo a aldosterona o principal, que são produzidos na Zona Glomerulosa da Glândula Adrenal (Supra-renal). Possuí  influência no equilíbrio electrolítico (balanço de íons e água) do corpo.
+
+
+== Fisiologia ==
+O principal mineralocorticóide endógeno é a aldosterona, embora outras hormonas endógenas (incluindo a progesterona) também tenham algum efeito mineralocorticóide.
+A aldosterona actua nos rins aumentando a reabsorção de sódio e consequentemente de água, que acompanha a gradiente osmótico que se forma. A reabsorção de sódio é feita graças à excreção de potássio nas células dos túbulo colector, e secreção activa de protões através de uma ATPase na membrana luminal. Destes mecanismos resulta um aumento da pressão e do volume sanguíneo.
+A aldosterona é produzida no córtex da glândula supra-renal (zona glomerulosa), e a sua secreção é mediada sobretudo pela angiotensina II, mas também pela hormona adrenocorticotrófica (ACTH), e níveis locais de potássio.
+
+
+== Modo de acção ==
+Os mineralocorticóides ligam-se ao Receptor mineralocorticoide citosólico. Após a ligação da hormonal ao receptor, o complexo ligando-receptor é translocado até ao núcleo celular, onde se liga a elementos de resposta hormonal na região promotora do gene-alvo no DNA, estimulando a transcrição. 
+O mecanismo oposto é chamado transrepressão. O receptor sem ligando interage com proteínas do choque térmico e inibe a transcrição de determinados genes.
+A aldosterona e o cortisol têm afinidade semelhante para o receptor dos mineralocorticóides, mas os glicocorticóides circulam em concentrações cerca de 100 vezes superiores. Existe uma enzima nos tecidos com receptores mineralocorticóides com o fim de evitar sobre-estimulação desses receptores pelos glicocorticóides. Esta enzima, 11-beta hidroxisteroide desidrogenase tipo II, metaboliza os glicocorticóides em metabolitos 11-desidrogenados. Sabe-se que o alcaçuz é um inibidor desta enzima, e que consumo crónico desta planta pode levar a uma forma de hiperaldosteronismo.
+
+
+== Patofisiologia ==
+O hiperaldosteronismo, a síndrome causada por excesso de aldosterona, é geralmente consequência de neoplasias supra-renais. As principais complicações incluem:
+
+Hipertensão e edema devido a excessiva retenção de sódio e água
+Hipocaliémia devida a perda considerável de potássio, que leva a fraqueza muscular e eventualmente paralisia.Sub-produção ou hipoaldosteronismo leva a uma situação de perda salina associada à doença de Addison, embora hiperplasia adrenal congênita ou outras doenças também possam levar a esta situação.
+
+
+== Farmacologia ==
+Um exemplo de mineralocorticóides sintéticos é a fludrocortisona. Inibidores importante dos mineralocorticóides (usados por vezes como antihipertensores) incluem a espironolactona e a epleronona.

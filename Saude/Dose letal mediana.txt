@@ -1,0 +1,22 @@
+Em toxicologia, dose letal mediana (DL50 ou LD50, do inglês Lethal Dose) é a dose necessária de uma dada substância ou tipo de radiação para matar 50% de uma população em teste (normalmente medida em miligramas de substância por quilograma de massa corporal dos indivíduos testados). A sua determinação é feita expondo cobaias a diferentes doses da substância a ser testada por um determinado período de tempo até se determinar aquela que mata apenas metade da população testada. O DL50 é frequentemente usado como um indicador da toxicidade aguda de uma substância; quanto maior a dose que será letal, menos tóxica é considerada. O teste foi criado por J.W. Trevan em 1927, mas está a ser preterido em algumas jurisdições em detrimento de testes como o procedimento de dose fixa; no entanto, o conceito e o cálculo da DL50 para efeitos de comparação ainda são largamente utilizados, apesar de ser considerado fraco como uma medida útil de toxicidade.
+
+
+== Direitos animais ==
+
+Grupos de defesa dos direitos animais, como a Animal Rights International, tem feito campanha contra testes em animais para determinar o LD50, principalmente porque algumas destas substâncias testadas fazem os animais sofrerem mortes lentas e dolorosas. Vários países, inclusive o Reino Unido, estão tentando banir o LD50 oral, e a Organização para a Cooperação e Desenvolvimento Económico aboliu a obrigatoriedade para o teste oral em 2001 (ver Test Guideline 401, Trends in Pharmacological Sciences Vol 22, February 22, 2001).
+
+
+== Tabelas de DL50 ==
+Parâmetros na classificação de toxicidade da União EuropeiaValor da DL50 de algumas substâncias
+Para representar 10 casas de grandeza se oferece uma escala logarítmica, e como todas as quantidades pesammenos do que nosso corpo nós invertemos o sinal para tratar com valores positivos, enfim: -log LD  50 . Este procedimento é bem comparável com outras escalas que abrangemmuitas casas decimais, a serem mencionados o pH para a concentração do íon H+na solução, a escala de Richterpara terremotos ou o comprimento de ondas da radiação eletromagnética. Este procedimento é bem comparável com outras escalas que abrangemmuitas casas decimais, a serem mencionados o pH para a concentração do íon H+na solução, a escala de Richterpara terremotos ou o comprimento de ondas da radiação eletromagnética.  
+
+
+== Ver também ==
+Índice terapêutico
+Dose efetiva
+Dose letal
+
+
+== Referências ==
+
+Este artigo foi inicialmente traduzido do artigo da Wikipédia em inglês, cujo título é «Median lethal dose», especificamente desta versão.

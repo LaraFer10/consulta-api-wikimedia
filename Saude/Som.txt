@@ -1,0 +1,638 @@
+Som é a propagação de uma frente de compressão mecânica ou onda mecânica; é uma onda longitudinal, que se propaga de forma circuncêntrica, apenas em meios materiais, como os sólidos, líquidos ou gasosos.Os sons naturais são, na sua maior parte, combinações de sinais, mas um som puro monotónico, representado por uma senóide pura, possui uma velocidade de oscilação ou frequência que se mede em hertz (Hz) e uma amplitude ou energia que se mede em decibéis. Os sons audíveis pelo ouvido humano têm uma frequência entre 20 Hz e 20 000 Hz. Abaixo e acima desta faixa estão infrassom e ultrassom, respectivamente.Seres humanos e vários animais percebem sons com o sentido da audição, com seus dois ouvidos, o que permite saber a distância e posição da fonte sonora: a chamada audição estereofônica. Muitos sons de baixa frequência também podem ser sentidos por outras partes do corpo e pesquisas revelam que elefantes se comunicam através de infrassons.
+Os sons são usados de várias maneiras, muito especialmente para comunicação por meio da fala ou, por exemplo, música. A percepção do som também pode ser usada para adquirir informações sobre o ambiente em propriedades como características espaciais (forma, topografia) e presença de outros animais ou objetos. Por exemplo, morcegos, baleias e golfinhos usam a ecolocalização para voar e nadar por entre obstáculos e caçar suas presas. Navios e submarinos usam o sonar; seres humanos recebem e usam informações espaciais percebidas em sons. Outra aplicação importante das ondas sonoras é a visualização de tecidos do corpo: ultrassonografia. Através do eco produzido pelas ondas nos órgãos, é possível analisar as propriedades mecânicas dos tecidos e reproduzi-las em imagens em escala de cinza. A sonoquímica é um método que usa ultrassons a fim de gerar cavitação acústica para iniciar ou acelerar reações químicas.
+
+
+== Física do som ==
+
+
+=== Percepção dos sons ===
+
+O som é provocado pela percepção do sistema auditivo da variação da pressão atmosférica ambiente. A menor variação que o sistema auditivo humano pode detectar é da ordem de 2 x 10-5 Pa, a qual denomina-se limiar de audibilidade. O limiar da dor, por outro lado, corresponde à variação da pressão em 60 Pa. No entanto, esta variação deve ocorrer em forma de ciclos para que seja percebida.O sistema auditivo humano é capaz de determinar variações de pressão que duram entre 50 microssegundos e 50 milissegundos. Desta forma, se o período das oscilações estiver neste intervalo e a variação de pressão estiver acima do limiar de audibilidade, perceber-se-á o som. Sendo assim, a frequência mínima audível é de 20 Hz, enquanto a frequência máxima chega a 20 000 Hz. Sons cuja frequência situa-se acima de 20 kHz são denominados ultrassons, enquanto que aqueles abaixo de 20 Hz são infrassons.Para os humanos, a audição é normalmente limitada por frequências entre 20 Hz e 20 000 Hz (20 kHz), embora estes limites não sejam absolutos. O limite maior normalmente decresce com a idade. Outras espécies têm diferentes níveis de audição. Por exemplo, os cães conseguem perceber vibrações mais altas que 20 000 Hz. Como um sinal percebido por um dos sentidos, o som é usado por muitas espécies para detectar o perigo, orientação, caça e comunicação. A atmosfera da Terra, a água e virtualmente todos os fenômenos físicos, como o fogo, a chuva, o vento, as ondas ou os terremotos produzem sons únicos. Muitas espécies, como os sapos, os pássaros, mamíferos terrestres e aquáticos foram, também, desenvolvendo órgãos especiais para produzir som. Em algumas espécies, estes evoluíram para produzir o canto e a fala.
+
+
+=== Propagação do som ===
+
+
+==== Onda sonora ====
+
+Onda sonora pode ser definida genericamente como qualquer onda longitudinal.. A onda sonora se propaga em todas as direções.
+
+O som é resultante de uma vibração, que se transmite ao meio de propagação. É necessário que o som produzido pelas fontes sonoras seja detectado. Para isso, há os detectores ou receptores de som. Para haver detecção, entre as fontes e os receptores de som têm que existir meios materiais, sólidos, líquidos ou gasosos.
+O som propaga-se em qualquer meio material elástico. Quando uma fonte sonora produz uma vibração, esta é transmitida a todo o meio material que a envolve e em todas as direções. Esta vibração é comunicada aos constituintes mais próximos da matéria, que sucessivamente a transmite aos constituintes seguintes através de choques entre eles.
+A vibração de uma fonte sonora causa uma onda. Há um movimento ondulatório que se propaga no ar em todas as direções, partindo da fonte. 
+O som propaga-se por ondas invisíveis: as ondas sonoras ou acústicas. São também chamadas ondas de pressão, porque transferem energia por variações de pressão no meio de propagação. O som não se propaga no vazio, como por exemplo, no espaço.Logo o som pode ser descrito através de uma sequência de ondas sonoras, que são ondas de deslocamento, densidade e pressão que se propagam pelos meios compressíveis. Quando uma onda sonora se propaga através de qualquer gás, ocorrem várias compressões e rarefações de pequenos volumes do gás.
+
+
+==== Ruído ====
+
+Diversas fontes sonoras podem emitir ao mesmo tempo muitas vibrações de frequências e amplitudes diferentes. O ruído é baseado em vários sons de frequências aleatórias.
+
+
+==== Eco e reverberação ====
+
+Quando uma pessoa emite um som em direção a um obstáculo, este som é ouvido no momento da emissão e no momento em que o som refletido pelo obstáculo retorna a ele, assim temos o eco. A reverberação acontece quando o som refletido atinge o observador no momento em que o som direito está se extinguindo, causando o prolongamento da sensação auditiva. 
+
+
+=== Velocidade do som ===
+
+Qualquer onda mecânica, transversal ou longitudinal tem sua velocidade dependendo das propriedades inerciais e elásticas. No caso das ondas sonoras, a propriedade inercial é a massa específica 
+  
+    
+      
+        ρ
+      
+    
+    {\displaystyle \rho }
+   e a elástica está relacionada à compressão e expansão do volume do ar. A propriedade utilizada nesse caso é o módulo de elasticidade volumétrico 
+  
+    
+      
+        B
+      
+    
+    {\displaystyle B}
+  , sendo ele a relação entre a variação relativa de volume e a variação de pressão, que é definido como:
+
+  
+    
+      
+        B
+        =
+        −
+        
+          
+            
+              Δ
+              
+                ρ
+              
+            
+            
+              Δ
+              
+                V
+              
+              
+                /
+              
+              V
+            
+          
+        
+        ,
+      
+    
+    {\textstyle B=-{\frac {\Delta {\rho }}{\Delta {V}/V}},}
+  Os sinais de 
+  
+    
+      
+        Δ
+        
+          ρ
+        
+      
+    
+    {\displaystyle \Delta {\rho }}
+   e 
+  
+    
+      
+        Δ
+        
+          V
+        
+      
+    
+    {\displaystyle \Delta {V}}
+   são sempre opostos, incluímos um sinal negativo para que 
+  
+    
+      
+        B
+      
+    
+    {\displaystyle B}
+   seja um número positivo.  Através da análise de quanto um elemento do gás modifica o seu volume e sua densidade, é possível determinar a velocidade da onda sonora naquele meio:
+
+  
+    
+      
+        v
+        =
+        
+          
+            
+              B
+              ρ
+            
+          
+        
+        ,
+      
+    
+    {\textstyle v={\sqrt {\frac {B}{\rho }}},}
+  onde 
+  
+    
+      
+        B
+      
+    
+    {\displaystyle B}
+   é o módulo de elasticidade volumétrico e 
+  
+    
+      
+        ρ
+      
+    
+    {\displaystyle \rho }
+   é a massa específica do meio.
+Essas variações de pressão e massa específica dão origem ao transporte de energia característico de uma onda.
+
+
+=== Ondas sonoras progressivas ===
+Uma onda progressiva é um dos casos mais simples, visto que, se estuda a propagação somente ao longo de uma direção. Para este caso, há uma equação que descreve o formato seguido por essas ondas que se deslocam para a direita:
+
+  
+    
+      
+        y
+        (
+        x
+        ,
+        t
+        )
+        =
+        f
+        (
+        x
+        −
+        v
+        t
+        )
+      
+    
+    {\textstyle y(x,t)=f(x-vt)}
+  A função só depende de 
+  
+    
+      
+        x
+      
+    
+    {\displaystyle x}
+   e 
+  
+    
+      
+        t
+      
+    
+    {\displaystyle t}
+   através da relação:
+
+  
+    
+      
+        
+          x
+          ′
+        
+        =
+        x
+        −
+        v
+        t
+      
+    
+    {\textstyle x'=x-vt}
+  em que 
+  
+    
+      
+        
+          x
+          ′
+        
+      
+    
+    {\displaystyle x'}
+   pode assumir qualquer função, como por exemplo:
+
+  
+    
+      
+        cos
+        ⁡
+        (
+        k
+        
+          x
+          ′
+        
+        )
+        =
+        cos
+        ⁡
+        [
+        k
+        (
+        x
+        −
+        v
+        t
+        )
+        ]
+      
+    
+    {\displaystyle \cos(kx')=\cos[k(x-vt)]}
+  em que 
+  
+    
+      
+        k
+      
+    
+    {\displaystyle k}
+   é uma constante qualquer. Considerando uma variação 
+  
+    
+      
+        Δ
+        
+          x
+        
+      
+    
+    {\displaystyle \Delta {x}}
+   e 
+  
+    
+      
+        Δ
+        
+          t
+        
+      
+    
+    {\displaystyle \Delta {t}}
+  , através da equação 
+  
+    
+      
+        y
+        (
+        x
+        ,
+        t
+        )
+        =
+        f
+        (
+        x
+        −
+        v
+        t
+        )
+      
+    
+    {\displaystyle y(x,t)=f(x-vt)}
+   podemos chegar em:
+
+  
+    
+      
+        y
+        (
+        x
+        ,
+        t
+        )
+        =
+        y
+        (
+        x
+        +
+        Δ
+        
+          x
+        
+        ,
+        t
+        +
+        Δ
+        
+          t
+        
+        )
+      
+    
+    {\textstyle y(x,t)=y(x+\Delta {x},t+\Delta {t})}
+  em que o deslocamento em 
+  
+    
+      
+        x
+      
+    
+    {\displaystyle x}
+   é descrito com 
+  
+    
+      
+        Δ
+        
+          x
+        
+        =
+        v
+        Δ
+        
+          t
+        
+      
+    
+    {\displaystyle \Delta {x}=v\Delta {t}}
+   para a direita.
+Uma onda que se propaga para a esquerda pode ser descrita assim como a equação 
+  
+    
+      
+        y
+        (
+        x
+        ,
+        t
+        )
+        =
+        f
+        (
+        x
+        −
+        v
+        t
+        )
+      
+    
+    {\displaystyle y(x,t)=f(x-vt)}
+   somente alterando 
+  
+    
+      
+        v
+      
+    
+    {\displaystyle v}
+   para 
+  
+    
+      
+        −
+        v
+      
+    
+    {\displaystyle -v}
+  . Assim temos:
+
+  
+    
+      
+        y
+        (
+        x
+        ,
+        t
+        )
+        =
+        g
+        (
+        x
+        +
+        v
+        t
+        )
+      
+    
+    {\textstyle y(x,t)=g(x+vt)}
+  em que 
+  
+    
+      
+        g
+        (
+        
+          x
+          ″
+        
+        )
+      
+    
+    {\displaystyle g(x'')}
+   é uma função aleatória em que 
+  
+    
+      
+        
+          x
+          ″
+        
+        =
+        x
+        +
+        v
+        t
+      
+    
+    {\displaystyle x''=x+vt}
+   descreve o perfil da onda.Sendo assim, cada elemento do ar, quando recebe uma onda sonora, oscila para a esquerda e para a direita, executando um movimento harmônico simples em todo de sua posição de equilíbrio. Pode-se expressar o deslocamento como uma função senoidal, como, por exemplo, cosseno:
+
+  
+    
+      
+        s
+        =
+        
+          s
+          
+            m
+          
+        
+        cos
+        ⁡
+        (
+        k
+        x
+        −
+        
+          ω
+        
+        t
+        )
+      
+    
+    {\displaystyle s=s_{m}\cos(kx-{\omega }t)}
+  em que 
+  
+    
+      
+        
+          s
+          
+            m
+          
+        
+      
+    
+    {\displaystyle s_{m}}
+   é  amplitude de deslocamento (deslocamento máximo da partícula de ar), 
+  
+    
+      
+        k
+      
+    
+    {\displaystyle k}
+   é o número de onda angular e 
+  
+    
+      
+        ω
+      
+    
+    {\displaystyle \omega }
+   é a frequência angular.
+Conforme a onda se propaga, a pressão do ar diminui em cada ponto com o tempo e essa variação é dada pela equação
+
+  
+    
+      
+        
+          Δ
+        
+        p
+        =
+        
+          Δ
+        
+        
+          p
+          
+            m
+          
+        
+        
+        
+          s
+          e
+          n
+        
+        (
+        k
+        x
+        −
+        
+          ω
+        
+        t
+        )
+        ,
+      
+    
+    {\textstyle {\Delta }p={\Delta }p_{m}\,\mathrm {sen} (kx-{\omega }t),}
+  em que 
+  
+    
+      
+        
+          Δ
+        
+        
+          p
+          
+            m
+          
+        
+      
+    
+    {\displaystyle {\Delta }p_{m}}
+   é:
+
+  
+    
+      
+        
+          Δ
+        
+        
+          p
+          
+            m
+          
+        
+        =
+        v
+        
+          ρ
+        
+        
+          ω
+        
+        
+          s
+          
+            m
+          
+        
+        ,
+      
+    
+    {\displaystyle {\Delta }p_{m}=v{\rho }{\omega }s_{m},}
+  sendo 
+  
+    
+      
+        v
+      
+    
+    {\displaystyle v}
+  =velocidade do som e 
+  
+    
+      
+        
+          ρ
+        
+        =
+      
+    
+    {\displaystyle {\rho }=}
+   massa específica do meio
+
+
+== Tecnologia sonora ==
+
+O advento da tecnologia e principalmente da eletrônica permitiu o desenvolvimento de armazenamento de áudio e aparelhos de som para gravação e reprodução de áudio, principalmente música.
+São exemplos de fontes ou mídias o MP3, CD, o LP ou Disco de vinil e a cassete. Alguns dos aparelhos que reproduzem essas mídias, são o toca-discos e o gravador cassete.
+Desde seus primórdios, com a invenção do fonógrafo, essa reprodução eletrônica do áudio evoluiu até atingir seu auge na alta fidelidade, que faz uso da estereofonia.
+Instrumentos musicais: Cada instrumento produz as notas com timbres diferentes. As vibrações são criadas por toque ou sopro e cada instrumento tem o seu ressoador que amplifica os sons audíveis. A produção de notas variadas se dá devido à formação e intensificação de diferentes harmônicos. Em alguns instrumentos, os harmônicos que se formam são os mesmos, porém, com amplitudes diferentes. Ex: no piano quem gera o som é a corda e quem ressoa é a caixa de ressonância.
+Em navios e submarinos são utilizados equipamentos de localização através do som (sonar). É possível detectar obstáculos submersos, ou outros submarinos através dos ruídos produzidos pelo sistema de propulsão.
+
+
+== Ver também ==
+
+
+== Referências ==
+
+
+== Bibliografia ==
+Bistafa, Sylvio R. (2006). Acústica aplicada ao controle de ruído. São Paulo: Edgard Blücher. ISBN 978-85-212-0376-6 
+
+
+== Ligações externas ==
+
+Buscasons - Biblioteca de sons
+HyperPhysics: Sound and Hearing
+Chrome Music Lab
+Simulação Ondas Sonoras
