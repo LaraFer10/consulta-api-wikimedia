@@ -1,0 +1,14 @@
+Bullrun Programa de decriptografia é um programa secreto da NSA cujo objetivo é decriptografar qualquer mensagem burlando a segurança e quebrando as diversas tecnologias de criptografia usadas em redes de comunicaçãoFoi autorizado pelo Executivo do governo americano através de Ordem Executiva sem passar pelo CongressoSeu correspondente britânico é o programa Edgehill do Serviço Britânico GCHQ O GCHQ e a NSA trabalham em conjunto em diversas áreas para atingir seus objetivos e obter o domínio das chaves de usadas pelos diversos sistemas de segurança de comunicações
+
+
+ Revelação do programa 
+A existência do Bullrun foi revelada em em 5 de setembro de 2013 com base nos documentos da NSA expostos por Edward Snowden
+Uma série de detalhes técnicos sobre o programa encontrado nos documentos do Snowden foram censurados pela imprensa americana a pedido de funcionários da inteligência dos Estados UnidosA EFF em 9 de setembro de 2013 publicou detalhada análise técnica do Bullrun bem como questões que ao ver dos especialistas em criptografia precisam ser esclarecidos uma vez que o Bullrun compromete a internet como um todo afetando a todos os usúarios sem permitir que qualquer proteção seja efetivamente funcional
+No Brasil o Technet publicou detalhes do programa em 6 de setembro de 2013 Em 7 de setembro de 2013Também o Carta Maior publicou artigo detalhado sobre o Bullrun em 7 de setembro de 2013
+
+
+ Métodos 
+Temendo a ampla adoção de criptografia o NSA tomou a atitude de influenciar furtivamente e enfraquecer os padrões de criptografia junto as organizações responsáveis pelos padrões Obteve ainda chaves-mestras quer por acordo por força de lei ou por exploração das rede de computadores hacking as redes A NSA também se utiliza de hardware para decriptografia acelerado para efetuar ataques de força brutaEm 2013 seguindo as revelações de Edward Snowden o The Guardian e o The New York Timesrevelaram que o National Institute of Standards and Technology NIST permitiu que a NSA acrescentasse ao padrão NIST SP 80090 um gerador de números pseudo-aleatórios chamado Dual EC DRBG que cria uma backdoor que permite que a NSA possa decifrar secretamente material que foi criptografado com a ajuda deste gerador de números pseudo-aleatórios inserido no padrão NIST SP 80090Os relatórios revelados mostram que NSA trabalhou secretamente para obter a sua própria versão de SP 80090 aprovado para uso em todo o mundo em 2006 Os documentos afirma Eventualmente  a NSA se tornou o único editor do padrão aprovado pelo NIST  Os relatórios confirmam as suspeitas levantadas por criptógrafos em 2007de que a NSA tinha secretamente colocado uma backdoor na norma
+De acordo com o New York Times Em 2006 a NSA havia quebrado a segurança das comunicações de três companhias aéreas estrangeiras um sistema de reserva de viagens um departamento nuclear de governo estrangeiro e de outro serviço de Internet cracking as redes privadas virtuais que os protegiam
+
+

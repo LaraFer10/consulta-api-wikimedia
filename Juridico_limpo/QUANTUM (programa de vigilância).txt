@@ -1,0 +1,50 @@
+QUANTUM programa de vigilância é o codinome de um programa secreto da NSA que invade e monitora computadores off-line em todo o mundo via ondas de rádio Foi revelado pelo The New York Times em 14 de janeiro de 2014 com base em documentos fornecidos por Edward SnowdenA tecnologia secreta permite à NSA inserir e alterar dados em computadores mesmo que eles não estão conectados à Internet Quantum também ataca efetivamente iPhones e servidores de redes Com o tempo a NSA atualizou a tecnologia para tornálo mais fácil de acessar os sistemas de computador sem a necessidade de acesso físico
+A partir do estabelecimento do contato com o computador uma estacão portátil da NSA a Nightstand pode então inserir os pacotes de dados mais rapidamente do que usando métodos tradicionais em que a o software é inserido no computador atacado por exemplo através do acesso a redes de computadores O QUANTUM permite que a NSA envie falsas informações mais rápido do que downloads autênticos
+Além de espionagem Quantum ajuda a NSA a transmitir malwares para computadores e redes e lançar ataques cibernéticos coordenadosEnquanto no caso de softwares a maioria deles é inserida através do acesso a redes de computadores o fato desta tecnologia usar ondas de rádio permite que a NSA tenha acesso aos computadores mesmo que estejam off-lineO QUANTUM substituiu o outro software usado anteriormente para contaminar computadores  o Sistema FOXACID também parte dos itens disponibilizados para a NSA pela divisão chamada Operações de acesso adaptado TAO NSA sigla TAO
+
+
+ Como é feito o ataque usando o QUANTUM 
+Com QUANTUM a NSA acessa computadores através de ondas de rádio  emitidas a partir de uma variedade de dispositivos personalizados colocados  à disposição da NSA pela pela Unidade da NSA chamada Operações de acesso adaptado TAO Uma estacão receptora e transmissora de ondas de rádio também colocada à disposição da NSA pela TAO pode acessar o computaodr atacado e captar os sinais que se destinam aos sistemas de análise e armazenamento de dados da NSA
+O QUANTUM se utiliza de um destes dispositivos o de codinome Cottonmouth I que é uma USB na qual foi inserida de maneira não perceptível uma placa de circuito impresso que é na verdade um  transmissor-receptor de ondas de rádio usado para transmitir e receber dados do computador que esta sendo alvo de ataque pela NSAEstes circuitos impressos secretamente colocados dentro da USBs se comunicam com uma estacão receptora/transmissora da NSA portátil do tamanho de uma pasta que a NSA chama de Nightstand NSA mesa de cabeceira em português A Nightstand NSA pode atacar um computador à cerca de 13 km de distancia entre ele e o computador atacadoA NSA também usou pequenas placa de circuito impresso instalados em laptops que transmitem dados para a agência mesmo quando o computador está completamente isolado da Internet
+
+
+ Dispositivos de ataque usados pela NSA 
+Os dispositivos disponíveis estão listados no Catálogo ANT NSA uma listagem de documentos de 50 páginas classificadas de itens colocados à disposição da1 NSA  pela divisão de coleta de inteligência para Ciberguerra TAO para serem usados sub-repticiamente e camufladamente nos ataques dos programas de vigilância da NSA
+O pesquisador de segurança Jacob Appelbaum fez uma palestra em 31 de dezembro de 2013 no Congresso de Comunicação Chaos em Hamburgo Alemanha na qual com base nos documentos revelados por Edward Snowden sobre o Catálogo ANT NSA ele detalhou as funções de alguns dos dispositivos utilizados pela NSA nos seus programas de vigilância global e em massaO Catálogo ANT NSA foi parcialmente publicado pelo Der Spiegel e publicado na íntegra pela LeakSource
+
+
+ Ataques efetuados conhecidos 
+A NSA ja implantou software em cerca de 100000 computadores em todo o mundo fazendo uso do QUANTUM Isto permite aos Estados Unidos realizar vigilância nessas máquinas bem como pode criar uma auto-estrada digital para o lançamento de ataques cibernéticosSnowden também revelou que os EUA estabeleceram dois centros de dados na China encarregados de contaminar computadores com MalwareA apresentação feita para gerentes da NSA datada de 2012 explica como a NSA coleta informações em todo o mundo Além disso a apresentação mostra que o serviço de inteligência usa Exploração de Redes de Computadores  em mais de 50000 locais Exploração de Redes de Computadores  CNE para Computer Network Exploitation em ingles é a infiltração secreta de sistemas computacionais obtidos com a instalação de Malware um Software malicioso
+
+
+ Custo de dispositivos 
+Conforme mostra o slide referente ao produto ANT chamado COTTONMOUTHI ver imagem ao lado uma USB contendo uma placa capaz de receber e transmitir sinais de radio o custo por 50 unidades é de US 101500000 um milhao e quinze mil dolares por cada 50 unidadesve fim da pagina do slide  lado direito
+Também consta do mesmo Catálogo ANT NSA uma chamada de CTX 4000 que é uma unidade de radar móvel de onda contínua CW que pode ser direcionada para o computador a ser atacado e assim captar dados mesmo se o computador estiver off-line ou seja não conectado à uma rede como a internet por exemplo O uso principal deste radar portátil é para as coleta de dados chamadas pela NSA de VAGRANT sistema de vigilância E DROPMIRE sistema de vigilância que são meios de coleta usados pela NSA Ccomo descrito no slide para o caso de coletas que seriam extremamente dificeis de coletar e processar ou nao seriam coletados Conforme mostra o slide esta unidade seria substituida em 2008 por outra unidade chamada PHOTOANGLO
+O preço dos dispositivos vão desde grátis normalmente para os softwares até US  250000 duzentos e cinquenta mil dólares americanos
+
+
+ Imagens de Produtos oferecidos no Catálogo 
+
+		
+		
+		
+		
+
+
+ Ver Também 
+Catálogo ANT NSA
+Operações de acesso adaptado TAO NSA
+PRISM
+Revelações da Vigilância global 1970–2013
+Revelações da Vigilância global 2013Presente
+Cinco Olhos
+Echelon
+NSA
+Communications Security Establishment Canada
+GCHQ
+Vigilância de Computadores e Redes
+Operações de Fonte EspecialSSO
+Lista de programas de vigilância em massa do governo
+Vigilância de Computadores e Redes
+
+

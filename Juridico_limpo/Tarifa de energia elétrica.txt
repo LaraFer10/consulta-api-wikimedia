@@ -1,0 +1,110 @@
+No Brasil a tarifa de energia elétrica é o preço definido pela Agência Nacional de Energia Elétrica que deve ser pago pelos consumidores finais de energia elétrica As tarifas podem ser calculadas para uma concessionária de distribuição distribuidora ou para uma concessionária de transmissão transmissora A tarifa calculada para as distribuidoras primeiras são as tarifas de distribuição que é o preço cobrado ao consumidor final e as tarifas de uso dos sistema elétricos de distribuição  TUSD Já a tarifa calculada para as transmissoras é a  tarifa de uso dos sistema elétricos de transmissão  TUST
+
+
+ Tarifa de distribuição 
+A tarifa de distribuição é dividida em duas partes denominadas “Parcela A” e “Parcela B”
+
+
+ Parcela “A” 
+A Parcela A é  composta pelos custos não-gerenciáveis em que a empresa concessionária apenas cobra do consumidor final os valores necessários para ressarcir o valor gasto
+Os componentes da Parcela A podem ser agrupados em Compra de Energia Encargos Setoriais e Encargos de Transmissão
+A Compra de Energia é a energia elétrica adquirida das empresas geradoras através de leilões organizados pela ANEEL e operacionalizados pela CCEE de contratos de compra e venda de energia elétrica firmados diretamente com os geradores
+Para atender os consumidores localizados na sua área de concessão a distribuidora efetua compras de energia de empresas geradoras distintas e sob diferentes condições em função do crescimento do mercado e dependendo da região em que está localizada
+Os dispêndios com compra de energia para revenda constituem o item de custo não-gerenciável de significativo peso relativo para as concessionárias distribuidoras
+A energia pode ser adquirida pela empresa distribuidora basicamente de duas formas
+Através dos leilões de energia mencionados acima ou de Contratos Bilaterais de Longo ou Curto Prazo que são compras de energia realizadas pelas empresas de distribuição para eventualmente complementar a energia necessária para o total atendimento do seu mercado consumidor efetivada por meio de contratos bilaterais de longo ou curto prazo com base nos mecanismos legais de comercialização vigentes
+Uma exceção são as  empresas distribuidoras localizadas nas Regiões Sul Sudeste e CentroOeste do Brasil que por imposição legal pagam uma quota-parte dos custos referentes à energia elétrica produzida por Itaipu e destinada ao País
+Os Encargos Setoriais são valores pagos pelos consumidores na conta de energia elétrica e cobrados por determinação legal para financiar o desenvolvimento do Setor Elétrico Brasileiro e as políticas energéticas do Governo Federal
+Os Encargos Setoriais são
+
+Cotas da Reserva Global de Reversão RGR
+Cotas da Conta de Consumo de Combustível CCC
+Taxa de Fiscalização de Serviços de Energia Elétrica TFSEE
+Rateio de custos do Proinfa
+Conta de Desenvolvimento Energético CDEOs Encargos de Transmissão são
+
+Uso das Instalações da Rede Básica de Transmissão de Energia Elétrica
+Uso das Instalações de Conexão
+Uso das Instalações de Distribuição
+Transporte da Energia Elétrica Proveniente de Itaipu
+Operador Nacional do Sistema ONSO Uso das Instalações da Rede Básica de Transmissão é a receita devida a todas as  empresas de transmissão de energia elétrica que compõem a Rede Básica sistema interligado nacional composto pelas linhas de transmissão que transportam energia elétrica em tensão igual ou superior a 230 kV e que é paga por todas as empresas de geração e de distribuição bem como pelos grandes consumidores consumidores livres que se utilizam diretamente da Rede Básica mediante tarifa de uso dos sistemas de transmissão – TUST
+O Uso das Instalações de Conexão são valores devidos pelas empresas de distribuição de energia elétrica que utilizam linhas de transmissão que têm conexão com a Rede Básica
+O Uso das Instalações de Distribuição é o preço pago por aqueles que utilizem as redes elétricas de propriedade das empresas concessionárias de distribuição Normalmente se trata de uma empresa geradora conectada diretamente à empresa distribuidora ou de um grande consumidor de energia como por exemplo empresas siderúrgicas Arcelor mineradoras Companhia Vale do Rio Doce ou petro-químicas Petrobrás O preço é determinado pela ANEEL mediante Tarifa de Uso dos Sistemas Elétricos de Distribuição  TUSD
+O Transporte de Energia Elétrica de Itaipu é o custo pago pelas empresas de distribuição de energia elétrica que adquirem cotas de energia elétrica produzida pela Usina Hidrelétrica de Itaipu para ressarcir as despesas de Operação e Manutenção das redes de transmissão em corrente contínua utilizadas para levar a energia da usina para o mercado consumidor
+O encargo de transmissão denominado Operador Nacional do Sistema refere-se ao ressarcimento de parte dos custos de administração e operação do ONS entidade responsável pela operação e coordenação da Rede Básica por todas as empresas de geração transmissão e de distribuição bem como os grandes consumidores consumidores livres conectados à Rede Básica
+
+
+ Parcela “B” 
+A Parcela B são os valores necessários à cobertura dos custos de pessoal de material e
+outras atividades vinculadas diretamente à operação e manutenção dos serviços de distribuição bem como dos custos de depreciação e remuneração dos investimentos realizados pela empresa para o atendimento do serviço Esses custos são identificados como custos gerenciáveis porque a concessionária tem plena capacidade em administrálos diretamente e foram convencionados como componentes da “Parcela B” da Receita Anual Requerida da Empresa
+A Parcela “B” também pode ser divida em três grupos
+
+Despesas de Operação e Manutenção
+Despesas de Capital
+Outras DespesasAs Despesas de Operação e Manutenção é a parcela da receita destinada à cobertura dos custos vinculados diretamente à prestação do serviço de distribuição de energia elétrica como pessoal material serviços de terceiros e outras despesas Não são reconhecidos pela ANEEL nas tarifas da empresa aqueles custos que não estejam relacionados à prestação do serviço ou que não sejam pertinentes à sua área geográfica de concessão A ANEEL determina que o preço cobrado do consumidor seja suficiente para garantir todo o funcionamento da empresa concessionária ou seja estipula uma receita suficiente para pagar desde o presidente da empresa até os técnicos encarregados da manutenção dos postes na rua passando pela estrutura administrativa contábil e judicial necessária para manter a empresa prestando um serviço adequado
+As Despesas de Capital envolvem basicamente a Cota de Depreciação e a Remuneração do Capital
+A Cota de Depreciação é a parcela da receita necessária à formação dos recursos financeiros destinados à recomposição dos investimentos realizados com prudência para a prestação do serviço de energia elétrica ao final da sua vida útil A função desta Cota é garantir por exemplo que no fim da vida útil de um poste medidor de energia elétrica ou transformador a concessionária tenha receita para trocar o equipamento por um novo mantendo a qualidade do serviço prestado
+A Remuneração do Capital é a parcela da receita necessária para promover um adequado rendimento do capital investido na prestação do serviço de energia elétrica ou seja a taxa de retorno calculada como uma alíquota sobre uma Base de Remuneração Regulatória
+Na prática a ANEEL calcula uma taxa de retorno lucro de aproximadamente quatro por cento 4 dos investimentos feitos pela empresa concessionária de distribuição e aceitos pela ANEEL como prudentes e necessários à prestação do serviço
+A “Parcela B” inclui ainda os investimentos em Pesquisa e Desenvolvimento PD e Eficiência Energética e as despesas com o PIS/COFINS
+Os Investimentos em Pesquisa e Desenvolvimento e Eficiência Energética são investimentos anuais obrigatórios de no mínimo 075 setenta e cinco centésimos por cento da receita operacional líquida da empresa em pesquisa e desenvolvimento do setor elétrico e no  mínimo 025 vinte e cinco centésimos por cento em programas de eficiência energética voltados para o uso final da energia em razão de obrigação determinação pela Lei nº 9991 de julho de 2000
+A função dos gastos com Pesquisa e Desenvolvimento é buscar aumentar a qualidade do serviço prestado pelas empresas de distribuição de energia elétrica garantindo maior confiabilidade nos sistemas elétricos menos interrupções no fornecimento menos furto de energia elétrica etc
+A intenção de se gastar em Eficiência Energética é tentar obter economia de energia elétrica por exemplo trocando eletrodomésticos velhos que consumem muita energia por equipamentos novos mais econômicos
+
+
+ Modelos do setor elétrico brasileiro 
+
+
+ Do Regime de Tarifa pelo Custo – Modelo anterior à Lei nº 8631 de 04031993 
+Até 1993 havia uma única tarifa de energia elétrica em todo o Brasil Os consumidores dos diversos estados pagavam a mesma tarifa pela energia consumida ou seja não importava se o consumidor estava situado no centro da cidade de São Paulo ou no interior o Maranhão uma conta de 100 cem kWh kilowatt-hora custaria exatamente a mesma coisa não se levando em consideração se a despesa para levar esta energia era maior para um do que para o outro
+O art 1º da Lei nº 5655 DE 20 DE MAIO DE 1971 determinava que a remuneração lucro das empresas concessionárias de serviços públicos de energia elétrica era de dez a doze por cento a critério do Governo Federal Como só havia uma única tarifa ou seja todos pagavam exatamente o mesmo preço pela energia elétrica independentemente se o preço pago efetivamente cobria os custos da concessionária o §1º do art 1º da Lei nº 5655/1971 criou a Conta de Resultados a Compensar CRC para fins de compensação dos excessos e insuficiências de remuneração lucro
+Isto significava que esse valor garantia a remuneração das concessionárias independentemente de sua eficiência e as empresas não lucrativas eram mantidas por aquelas que davam lucro e pelo Governo Federal
+Nessa época além de ser a mesma em todo o país a tarifa era calculada a partir do “custo do serviço” o que garantia às concessionárias uma remuneração mínima O Ministério de Minas e Energia através do Departamento Nacional de Águas e Energia Elétrica – DNAEE calculava o que a concessionária havia investido para levar a energia elétrica até o consumidor acrescentava a taxa de remuneração e rateava esse custo entre os diversos consumidores Essa modalidade de tarifa não incentivava as empresas à eficiência pois todo o custo era pago pelo consumidor Por diversas razões como o controle da inflação a remuneração mínima não era atingida o que gerou uma despesa da União da ordem de US 26 bilhões que acabou sendo paga pelos contribuintes de todo o país
+
+
+ Cálculo da tarifa pelo regime do custo 
+Como dito acima a remuneração era determinada pelo Poder Concedente União Federal e o percentual de dez a doze por cento incidia sobre o montante do Investimento Remunerável
+O valor da tarifa era calculado de acordo com o art 2º da Lei nº 5655/1971 e para se obter o valor somavam-se
+
+Bens e instalações em efetiva operação ou utilização no serviço
+Os materiais em almoxarifado indispensáveis ao funcionamento ou à expansão do sistema elétrico e à administração da empresa equivalentes ao valor médio dos saldos mensais da respectiva conta e
+O capital de giro necessário à movimentação da empresa constituído do resultado acaso positivo das operações indicadas na seguinte fórmulaCG  DNV  RCP – ECP
+onde CG significa capital de giro DNV o valor médio dos saldos mensais das contas do Disponível não Vinculado RCP o valor médio dos saldos mensais das contas do Realizável a Curto Prazo exceto as aplicações financeiras no mercado de títulos e valores e ECP o valor médio dos saldos mensais das contas de Exigível a Curto Prazo excluídas as parcelas de empréstimos a longo prazo vencidas no exercício
+O Investimento Remunerável era a diferença entre a soma dos valores listados acima e a soma das seguintes deduções
+
+Reserva para Depreciação
+Reserva de Amortização se houvesse
+Adiantamentos contribuições e doações referentes aos bens e instalações em efetiva operação ou utilização no serviço
+Valor das obras pioneiras a que se refere o parágrafo único do artigo 10 da Lei nº 4156 de 28 de novembro de 1962 introduzido pelo Decreto-lei nº 644 de 23 de junho de 1969 dos bens e instalações para uso futuro e das propriedades da União em regime especial de utilização
+O valor de todos os bens e instalações que direta ou indiretamente concorram exclusiva e  permanentemente para a produção transmissão transformação ou distribuição de energia elétrica
+O montante do ativo disponível não vinculada a 31 de dezembro até a importância do saldo da Reserva para Depreciação à mesma data depois do lançamento da quota de depreciação correspondente ao exercício
+Os materiais em almoxarifado a 31 de dezembro indispensáveis ao funcionamento da empresa no que se refere à prestação dos serviços dentro dos limites aprovados pela fiscalização e
+O capital de movimento assim entendido a importância em dinheiro necessária à exploração dos serviços até o máximo do montante de dois meses de faturamento médio da empresa
+
+
+ Regime tarifário pelo preço 
+Também nesse contexto surgiu a Lei nº 8631/93 pela qual a tarifa passou a ser fixada por concessionária conforme características específicas de cada empresa Ainda em 1995 foi aprovada a Lei 8987 que garantiu o equilíbrio econômico-financeiro às concessões
+Desde então estabeleceu-se uma tarifa por área de concessão território geográfico onde cada empresa é contratualmente obrigada a fornecer energia elétrica Se essa área coincide com a de um estado a tarifa é única naquela unidade federativa Caso contrário tarifas diferentes coexistem dentro do mesmo estado
+Dessa maneira as tarifas de energia refletem peculiaridades de cada região como número de consumidores quilômetros de rede e tamanho do mercado quantidade de energia atendida por uma determinada infra-estrutura custo da energia comprada tributos estaduais e outros
+É obrigação das concessionárias de distribuição levar a energia elétrica aos seus consumidores
+Para cumprir esse compromisso a empresa tem custos que devem ser cobertos pela tarifa de energia De modo geral a conta de energia elétrica inclui o ressarcimento de três custos distintos
+
+Geração de Energia Elétrica
+Transporte da energia até as casas fio tanto da Transmissão quanto da Distribuição e
+Encargos e TributosA partir da edição da Lei 10848/2004 o valor da geração da energia comprada pelas distribuidoras para revender a seus consumidores passou a ser determinado em leilões públicos O objetivo é garantir além da transparência no custo da compra de energia a competição e melhores preços Antes dessa lei as distribuidoras podiam comprar livremente a energia a ser revendida mas o limite de preço era fixado pela ANEEL
+O transporte da energia do ponto de geração à casa do consumidor é um monopólio natural pois a competição nesse segmento não traz benefícios econômicos Por essa razão a ANEEL atua para que as tarifas sejam compostas apenas pelos custos que efetivamente se relacionam com os serviços prestados de forma a tornálas justas
+
+
+ Encargos setoriais 
+Os encargos setoriais que incidem nas tarifas de energia elétrica são
+
+CCC  Conta de Consumo de Combustíveis
+RGR  Reserva Global de Reversão
+TFSEE  Taxa de Fiscalização de Serviços de Energia Elétrica
+CDE  Conta de Desenvolvimento Energético
+ESS – Encargos de Serviços do Sistema
+Proinfa – Programa de Incentivo às Fontes Alternativas
+PD – Pesquisa e Desenvolvimento
+ONS  Operador Nacional do Sistema Elétrico
+
+

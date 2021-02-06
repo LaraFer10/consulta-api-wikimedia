@@ -1,0 +1,1 @@
+Na matemática ciência da computação e na teoria dos grafos uma matriz de distâncias é uma matriz array bidimensional contendo as distâncias tomadas em pares de um conjunto de pontos Esta matriz terá um tamanho de N×N onde N é o número de pontos nós ou vértices muitas vezes em um grafo

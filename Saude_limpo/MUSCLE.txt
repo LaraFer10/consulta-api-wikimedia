@@ -1,0 +1,1 @@
+MUSCLE é frequentemente utilizado como um substituto para o Clustal uma vez que normalmente mas não sempre dá melhor alinhamentos de seqüência e além disso o MUSCLE é significativamente mais rápido do que o Clustal especialmente para alinhamentos maiores Edgar 2004

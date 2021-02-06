@@ -1,0 +1,157 @@
+O LexML é uma iniciativa conjunta de países do sistema jurídico romano-germânico que buscam o estabelecimento de padrões abertos para intercâmbio identificação e estruturação de informações legislativas e jurídicas principalmente documentos oficiais
+Participam atualmente dessa iniciativa Alemanha Brasil Espanha Itália através das instituições locais tendo como meta a convergência de padrões nacionais e a padronização internacional de alguns instrumentos tais como URN LEX e o uso de XML na formatação de normas e no intercâmbio de seus metadados
+Uma das metas iniciais na iniciativa posteriormente abandonada era a padronização de uma linguagem única denominada LexML para a marcação de documentos normativos jurídicos de todos os países participantes 
+O nome LexML deriva o prefixo lex lei em latim e do acrônimo ML do inglês Markup Language utilizado como sufixo nos esquemas de linguagens de marcação XML  Atualmente apenas a iniciativa LexML Brasil denomina LexML ao seu esquema XML 
+
+
+ Objetos e objetivos 
+As iniciativas LexML têm como objeto
+
+documentos legislativos Leis Decretos  Portarias e outros
+documentos jurídicos decisoes judiciais ex acórdãos súmulas orientacoes e outros
+bancos de dados descrevendo os documentos repositórios de metadados
+repositórios dos documentos em meio digitalElas buscam criar metodologias e convenções incluindo padrões consistentes para
+
+formatação dos documentos
+identificação dos documentos
+distribuição dos documentos e seus metadados na Internet
+
+
+ Histórico 
+Na década de 1990 houve um grande crescimento no interesse por padrões de informações legislativas 
+Segundo Lundblad o LexML foi uma resposta ao Legal XML para satisfazer as necessidades  européias manifestas no XML European conference in Berlin 01 Neste evento foi então anunciada a missão do LexML
+
+foi estabelecido para servir ao crescente interesse pela troca de informações legais É um fórum aberto para a troca de ideias e experiências associadas a XML e padrões relacionados
+é um ponto de coordenação e uma força-tarefa para o desenvolvimento de estruturas padronizadas vocabulários e ferramentas de troca de dados bem como um modelo de dados global
+é uma rede de comunidades organizadas independentemente É descentralizado com uma abordagem peer-to-peer
+pode também ser descrito como uma rede de websites interligadosAtualmente nos países-membro o termo LexML identifica a comunidade de interesse no assunto LegislaçãoXML Exceto pelo Brasil 
+as iniciativas propriamente ditas recebem outros nomes na Itália por exemplo NIR Nesse sentido não existe uma iniciativa conjunta de países… e sim iniciativas se inspiram de forma diversa nas propostas do LexML
+A partir da Conferência Law via Internet em 2008 foram 
+lançadas bases mais sólidas para a formação de uma aliança internacional em torno do LexML Em outubro de 2009 foi submetido ao IETF o padrão URNLEX
+
+
+ Motivações jurídicas 
+Os fundamentos jurídicos para que as normas sejam amplamente distribuídas em meio digital podem ser sumarizados como se segue 
+
+Lei escrita e lei digital a forma jus scriptum escrita predomina nos dias de hoje sobre a jus non scriptum não escrita Acredita-se que em breve a distribuição e leitura em meio digital predomine sobre o meio impresso
+Exclusão da ignorância da Lei princípio geral do Direito Romano conhecido pela expressão latina Ignorantia legis neminem excusat determina que a ignorância da lei é hipótese excluída não exime de pena Em contra-partida o Estado oferece
+Obrigatoriedade da publicação a administração pública obedece ao princípio da publicidade ou seja todos os seus atos devem ser publicados
+Direito de acesso ao cidadão o Estado assegura a todo cidadão o acesso à informação na forma de direito fundamental
+Obrigatoriedade da franquia ao acesso a administração pública deve franquear a consulta às suas publicações
+Transparência princípio fundamental tido como meta da administração pública no combate à corrupção  Reforça a obrigatoriedade de publicação dos atos públicos criminalizando a prática dos atos secretos injustificados
+Direito à defesa o custo da representação jus representationis e mais ainda da auto-defesa jus postulandi será tão mais elevado ou dificultado quanto maior for a dificuldade de acesso às normas Ambos reforçam portanto a responsabilidade do Estado no acesso às normasOutros fundamentos indiretos também devem ser lembrados
+
+Acesso livre o livre acesso das pessoas aos atos do governo  é um dos princípios republicanos básicos na construção de uma nação O documento e a informação produzida pelo agente público  não pertence a ele nem ao Estado mas sim ao cidadão Essa posição é reforçada pelas instituições signatárias do FALM Free Access to Law Movement as quais defendem o acesso gratuito e universal ao Direito declarando os princípios  que regem a informação legislativa e jurídica pública de todos os países Tal informação segundo o FALM
+forma parte do patrimônio comum da humanidade
+é propriedade digital coletiva
+e deve ser accesível a todos livremente e sem fins lucrativosInclusão digital as normas são um patrimônio da sociedade da informação o acesso às normas deve crescer junto com o acesso às tecnologias da informação
+inclusão do sistema normativo para participar e tirar vantagem do mundo digital os recursos jurídicos devem encontrar-se digitalizados
+inclusão do cidadão a distribuição de normas em meio digital em particular via Web além de elevar o potencial da distribuição usual impressão remota oferece ao cidadão novos recursos para simplificar a busca triagem e a leitura de normasVolume crescente de normas inerentemente cumulativas diversos são os fatores que apontam para o crescimento contínuo do volume de normas Simplificação do processo de produção de novas normas o aumento da população alargamento do escopo das normas aumento da complexidade das relações entre pessoas e entre empresas etc
+Demanda por organização quanto maior o volume maior a dificuldade de se organizar a informação
+Demanda ambiental por redução no uso da forma impressa Diários Oficiais de grande tiragem fotocópias de normas de processos etc consomem desnecessariamente grandes volumes de papel Operadores do Direito têm se empenhado e aprovado iniciativas concretas para a redução do consumo de papel
+
+
+ Motivações coordenativas 
+A comunidade LexML reconheceu a existência de uma série de problemas comuns aos diversos países tais como a ausência de um formato único e intercambiável para as normas ausência mecanismos para reconhecer nomes de normas e outros 
+Conhecidos como problemas de coordenação ou de uniformização a sua solução é o consenso em torno do padrão a ser adotado
+
+
+ Necessidade de metadados padronizados 
+Uma vez em meio digital as normas em si são tidas como dados passíveis de serem armazenados em bancos de dados  Descritores das normas tais como data de publicação ementa código da norma etc são ditos metadados
+Os metadados são utilizados nas ferramentas computacionais de busca recuperação e organização das normas e apresentados em sumarizações
+A extração de metadados a partir das normas — através de softwares de reconhecimento e extração de trechos das normas — ou obtenção dos metadados por pessoas especializadas interpretação e digitação é um processo que exige investimento 
+A demanda por uniformização centralização e confiabilidade dos metadados sem os quais os investimentos se perdem foi uma das motivações do LexML
+
+
+ Necessidade de identificadores únicos e persistentes 
+Com o advento da Web a maior parte das normas dispostas em meio digital passou a estar também disponível em um endereço URL O acesso efetivo à norma todavia só pode ser assegurada quando a persistência do URL é também assegurada Um CD por exemplo contendo um link para uma norma deve permitir que usuário percorra o  web link tanto no dia do lançamento do CD como em consultas posteriores anos depois  
+É um problema técnico não existe como garantir a persistência de URLs A solução  adotada pelo LexML passa por duas implementações importantes
+
+definição de um identificador único e não-ambíguo nome uniforme para todas as normas através de um padrão Web conhecido como URN
+concentrar  a demanda por persistência em apenas um único URL onde o serviço de conversão de nomes uniformes em URLs é realizado URL persistente para o Resolvedor URN podendo ainda agregar nas mesma URLbase o buscador de normas Portal LexMLO CD de normas exemplifica a importância de um URL único e persistente com links apontando não diretamente para o URL da norma mas para o URL do Resolvedor URN podemos garantir que haverá acesso à norma esperada mesmo uma década depois de gravado o CD
+
+
+ Demandas práticas 
+As iniciativas do LexML possuem diversas motivações que se justificam principalmente pelas demandas práticas  As ênfases nas diferentes motivações variam conforme o local
+
+
+ Disposição das normas em meio digital 
+O vasto conjunto de normas jurídicas existentes em cada país é constituído por uma grande parcela de documentos oficiais originados em meio impresso e muitas das normas em vigor são de uma época anterior à máquina de escrever eletrônica 
+Os processos de produção em meio digital redação e revisão dos documentos no computador estão ainda em muitos locais em construção A demanda por assinaturas e registros em papel exige que o processo digital seja interrompido em diversos pontos o documento digital não é válido como documento oficial e surgem dificuldades para se comprovar que é uma cópia válida do oficial impresso
+A conversão através de OCR ou digitação dos documentos oficiais impressos para meio digital é também um processo parcialmente adotado e em geral disperso e sem padronização
+Processos não-padronizados criam produtos com formato e confiabilidade diversas dificultando a uniformização A disposição em meio digital requer portanto incentivo e padronização
+
+
+ Distribuição na Web e outros meios 
+Normas em meio digital tornam muito mais simples a manipulação dos textos normativos ainda assim o potencial de cópia de impressão distribuída e de uso de meios tais como distribuição via CDs e DVDs não garantem a difusão necessária das normas jurídicas 
+Há consenso na comunidade LexML de que o principal meio de distribuição é a Web toda norma deve estar permanentemente acessível como recurso de um endereço URL 
+
+
+ Recuperação da informação 
+Recuperar normas para ler ou copiar os documentos desejados ou recuperar metadados para verificar se uma norma está vigente ou se citações a ela são consistentes São diversos os exemplos
+Normas e seus metadados podem ser obtidos através de sistemas de recuperação de informação gerais utilizados pelo cidadão ou especializados utilizados por operadores do Direito Estes sistemas proporcionam o arcabouço prático e teórico que estabelece metas e funcionalidades nas iniciativas LexML
+As principais medidas objetivas para aferição da qualidade de um sistema de recuperação da informação são os índices conhecidos como precisão e abrangência A seleção das melhores estratégias e tecnologias em buscadores de normas portais LexML se dá através da maximização destes índices Entre as estratégias assim obtidas estão a uniformização e a centralização de metadados conseguidas através das iniciativas de padronização na comunidade LexML
+
+
+ Conversão de textos em hipertextos 
+O texto normativo jurídico é por excelência um texto repleto de remissões intra-documentais e extra-documentais Exemplos
+
+intra este Decreto o artigo acima conforme alínea a do item III
+extra o Decreto 234 de 2004 o artigo  6º da Lei Federal 11705 conforme alínea b do item LXXII do artigo  5º da ConstituiçãoEstas remissões podem ser convertidas em links por exemplo conforme alínea b do item LXXII do artigo  5º da Constituição 
+Efetuando-se sistematicamente estas operações de adição de links ao texto comum ele se torna um hipertexto O conteúdo normativo pode ser melhor lido e mais rapidamente compreendido através do hipertexto
+O processo de conversão automática e/ou assistida de textos estruturados para hipertextos já é explorado desde a década de 1990 
+No Brasil o primeiro software de conversão de texto em hipertexto foi apresentado em 1997
+A conversão de normas estatutárias é factível e apresenta alto grau de automação é uma das metas nas iniciativas LexML
+
+
+ Principais soluções e resultados esperados 
+As iniciativas LexML têm como meta solucionar ou minimizar diversos dos problemas apresentados nas motivações acima assim como criar novas ferramentas e novas demandas 
+
+Portal de busca centralizada portais LexML no papel de Google das normas dos respectivos países
+Padronização dos esquemas URN LexML regras para a representação de nomes uniformes para as normas baseados apenas em um conjunto mímimo de metadados portanto independentes de verificação externa Atualmente já se encontra padronizado o prefixo urnlex do qual são signatários os participantes do LexML
+Uso do XML como formato-base dos textos normativos representação full-text das normas
+Padronização da expressão de metadados em XML presente nos esquemas para OAIPMH e full-text das normas
+Padronização dos identificadores de fragmentos possibilidade de extensão das URNs na citação de trechos seções capíputos anexos artigos itens parágrafos etcAlém destes através da troca de experiências discussão e união de esforços são desenvolvidos softwares parsers resolvers etc dedicados aos padrões fixados
+Resultados esperados com a adoção dos padrões e convenções LexML de cada país
+
+Interoperabilidade efetividade na troca entre documentos e seus metadados XML e nas referências a documentos URN
+Acessibilidade normas e metadados padronizados em meio digital tornam viáveis e mais eficazes as ferramentas de busca e recuperação de normas
+Organização bancos de dados e outros recursos se tornam mais eficazes e seus itens relacionáveis através dos padrões LexML
+Menor dispersão da cadeia produtiva desde a redação de projetos de normas à publicação das normas ferramentas e procedimentos podem ser unificados através dos padrões LexML
+
+
+ Principais iniciativas 
+Além das iniciativas de consenso a serem realizadas conjuntamente diversas convenções dependem das peculiaridades de cada país sendo fixadas  como padrões e soluções locais Projetos pontuais tais como Boer et al
+ também têm feito uso ou contribuído para o LexML
+
+
+ Brasil 
+
+O Projeto LexMLBR iniciado em 2006 teve o LexMLIT como referência Em 30 de junho de 2009 teve o seu lançamento oficialTrata-se de uma iniciativa conjunta de diversos órgãos da administração pública federal a partir de representantes institucionais de órgãos dos poderes Legislativo Executivo e Judiciário do Brasil integrantes da Comunidade TI Controle
+A iniciativa já implantou 
+
+Padronizações e recomendações
+padronização do XMLSchema de full-text das normas
+padrão URN lex para referência e identificação de normas
+protocolo OAIPMH para alimentação do portal
+Portal para a busca de normas base com mais de 1 milhão de registros
+Endereço persistente PURL para o resolvedor de URNs
+Soluções de apoio à digitalização e organização mais específicas
+
+
+ Itália 
+
+É uma inciativa do CIRSFID Research Centre of History of Law Philosophy and Sociology of Law and Computer Science and Law da Universidade de Bolonia que inclui também 
+
+CNIPA National Center of Information Technology for the Public Administration  wwwcnipait
+FTI Forum of Information Technology  wwwforumtiit e
+ITTIG Institute of Legal Information Theory and Techniques  wwwittigcnritos quais são institutos líderes na aplição de XML no âmbito legal e participam do projeto NormeInRete 
+A iniciativa já implantou
+
+wwwnormeInReteit antigo wwwnirit
+Portal para a busca de normas
+Endereço persistente PURL para o resolvedor de URNs
+padrão URN lex para referência e nomenclatura de normas
+protocolo para alimentação do portal
+
+

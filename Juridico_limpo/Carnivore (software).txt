@@ -1,0 +1,7 @@
+Carnivore foi um sistema implementado pelo Federal Bureau of Investigation  FBI projetado para monitorar as comunicações de e-mail e eletrônicos É utilizado um packet sniffer personalizável que pode monitorar todo o tráfego de um usuário na Internet Carnivore foi implementado em outubro de 1997 Por volta de 2005 tinha sido substituído por um software comercial melhorado denominado NarusInsight
+
+
+ Configuração 
+O sistema Carnivore foi uma estação de trabalho baseado no Microsoft Windows com o pacote sniffing software e uma unidade de disco removível Este computador deve ser instalado fisicamente em um provedor de serviços de Internet ISP ou outro local onde ele pode farejar o tráfego em uma LAN segmento para procurar por mensagens de e-mail A tecnologia em si não era muito avançada  é usado um pacote sniffer padrão e filtragem simples Os componentes críticos da operação foram os critérios de filtragem Para coincidir com precisão o assunto por exemplo foi desenvolvido um elaborado um modelo de conteúdo
+
+

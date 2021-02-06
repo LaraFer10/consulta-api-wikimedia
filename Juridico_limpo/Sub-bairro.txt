@@ -1,0 +1,2 @@
+Sub-bairro é uma divisão menor do que um bairro em alguns casos ele é independente de seu bairro matriz e em outros ele é considerado parte do bairro
+Exemplo de um município que adota o sistema de sub-bairros é o município de Feira de Santana na Bahia

@@ -1,0 +1,24 @@
+LiquidFeedback é um software livre de apoio ao debate e à tomada de decisões em processo políticos Sua característica mais importante é a implementação da abordagem da Democracia líquida que visa estabelecer uma nova forma de representação e participação política O modelo demonstra uma notável diferença entre democracias representativa e direta Além da funções de busca para decisão e opinião também é possível agrupar as especialidades técnicas dos participantes de forma eficiente
+
+
+ A ideia básica 
+Liquid Feedback é destinado a ajudar partidos associações e iniciativas públicas a utilizar a Internet para reunir opiniões especialmente quando o número de participantes é muito grande de forma a substituir um fórum real Dessa forma é assegurada aos participantes a oportunidade de promover suas próprias iniciativas diminuindo a influência de hierarquia O software pretende transmitir as opiniões de forma democrática amenizando a distorção causada pelo desequilíbrio na distribuição de poder conhecimento ou por outras restrições O Liquid Feedback permite também identificar obstáculos e determinar prazos para realização das ideias discutidas
+
+
+ Aplicação 
+Uma característica essencial de Liquid Feedback a incorporação de propostas/projetos a serem votadas mais tarde Nessa função o usuário escolhe o tema e depois decide se essa proposta de texto Iniciativa/Projeto deve formar um novo tópico ou deve ser associada como solução alternativa a um tema já existente Caso seja aberto um novo tópico há um regulamento de acordo com objetivos do criador do tópico a ser aplicado que irá então  orientar o limite de tempo quóruns e a continuação das respectivas ações
+As regras são predefinidas pelo operador que instala o software Por exemplo
+
+Emendas
+Pedidos à Assembleia Geral
+Pareceres de conselhos deliberativos
+Votação rápidaTemas e iniciativas/propostas em competição seguem os seguintes passos
+
+novo
+em discussão
+congelado/em verificação
+votar
+concluído ou canceladoEnquanto um tema estiver nas fases novo em discussão ou congelado/em verificação os participantes do sistema podem apoiar uma ou mais iniciativas/propostas sobre o tema Se um tema está em estado novo é necessário que uma iniciativa/proposta tenha um determinado percentual de apoio de acordo com o regulamento de quórum e tempo limite Depois disso caso o regulamento tenha sido cumprido o assunto/tema/tópico passa para em discussão Caso contrário a questão será anulada
+Enquanto um tema está nas fases novo ou em discussão é possível que os propositores da iniciativa melhorem suas propostas alterando os textos Os apoiadores da iniciativa podem marcar sugestões sobre a iniciativa ou apoiar determinadas melhorias na proposta Após um determinado período a questão passa para a fase de discussão para o congelado/em verificação assim por diante Esta fase é utilizada para evitar alterações no texto pouco antes da votação já que o congelamento evita mudanças de texto Após passado o próximo limite de tempo a questão passa para a votação
+Somente iniciativas que alcançariam um segundo quórum passam para votação O tamanho deste segundo quórum também resulta do regulamento A votação é feita usando um método de voto de preferências baseado no Método de Schulze
+Basicamente em todos estes processos é possível delegar o seu próprio poder de voto a outro participante mas somente no caso do participante não estar ativo nesse tema As delegações concedidas podem ser revogadas a qualquer momento

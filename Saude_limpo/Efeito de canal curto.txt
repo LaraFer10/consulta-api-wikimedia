@@ -1,0 +1,1 @@
+Em eletrônica efeito de canal curto ocorre em transistores MOSFETs quando o tamanho do canal do transistor tem dimensões comparáveis a região de depleção do terminal Fonte e Dreno Esse efeito implica particularmente na drain-induced barrier lowering velocidade de saturação Confinamento Quantico e hot carrier degradation

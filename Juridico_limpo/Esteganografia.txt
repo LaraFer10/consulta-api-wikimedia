@@ -1,0 +1,54 @@
+Esteganografia do grego escrita escondida é o estudo e uso das técnicas para ocultar a existência de uma mensagem dentro de outra uma forma de segurança por obscurantismo O primeiro uso registrado da palavra data do ano de 1499 no livro Steganographia de Johannes Trithemius
+Esteganografia é o ramo particular da criptologia que consiste em fazer com que uma forma escrita seja camuflada em outra a fim de mascarar o seu verdadeiro sentido É importante frisar a diferença entre criptografia e esteganografia Enquanto a primeira oculta o significado da mensagem a segunda oculta a existência da mensagemUm exemplo básico de técnica moderna de esteganografia é a alteração do bit menos significativo de cada pixel de uma imagem colorida de forma a que ele corresponda a um bit da mensagem Essa técnica apesar de não ser ideal pouco afeta o resultado final de visualização da imagem
+
+
+ Utilização 
+A esteganografia inclui um vasto conjunto de métodos para comunicações secretas desenvolvidos ao longo da história Dentre tais métodos estão tintas “invisíveis” micropontos arranjo de caracteres character arrangement assinaturas digitais canais escondidos covert channels comunicações por espalhamento de espectro spread spectrum communications entre outras
+A esteganografia possui algumas aplicações práticas interessantes Ela é uma das técnicas utilizadas para implementar mecanismos de verificação de direitos autorais em imagens e outras mídias Além disso pode ser utilizada para a divulgação de mensagens sem o conhecimento da existência dessas mensagens por parte de outros interessados
+Técnicas de esteganografias podem ser empregadas em diversos meios digitais ou não tais como textos imagens áudios vídeos e espalhamento de espectro
+
+
+ Imagens 
+ 
+
+Muitas técnicas modernas possibilitam esconder informações dentro de imagens A forma mais utilizada emprega a técnica denominada LSB Least Significant Bit que consiste em utilizar o bit menos significativo de uma determinada informação para armazenar um bit de uma nova informação No caso de uma imagem com profundidade de cor de 24 bits um bit de uma nova informação pode ser armazenado no bit menos significativo de cor dos pixels ou seja o bit menos significativo dos 24
+Considere o valor dos caracteres ASCII em binário da palavra Wikipedia 
+
+W        i        k        i        p        e        d        i        a
+01110111 01101001 01101011 01101001 01110000 01100101 01100100 01101001 01100001
+
+Na forma apresentada a palavra Wikipedia é representada utilizando 72 bits Sendo assim precisaremos de uma imagem com no mínimo 72 pixels Para armazenar a letra W podemos utilizar o bit menos significativo de cor dos 8 primeiros pixels O primeiro bit do caractere W é 1 se o bit menos significativo do primeiro pixel for 1 o valor é mantido caso contrário é trocado para 1 Caso o bit a ser armazenado tenha valor 0 por exemplo o quarto bit do caractere W a mesma regra é usada se o bit menos significativo do quarto pixel for 0 o valor é mantido caso contrário é trocado Este procedimento deve ser repetido por todos os bits de cada caractere No fim teremos uma imagem armazenando a palavra Wikipedia com ruído de 1 bit por pixel Para extrair a informação da imagem basta fazer o processo reverso Leia o valor de cor cada pixel e armazene apenas o bit menos significativo Provavelmente será necessário armazenar o pixel que termina a informação
+É possível armazenar mais que um bit por pixel porém isto aumentará o ruído da imagem Uma maneira de armazenar mais informação por exemplo é armazenar um bit da nova informação no bit menos significativo de cada cor do pixel Numa imagem RGB de 24 bit as cores vermelho verde e azul são representadas utilizando 8 bit cada uma O mesmo processo apresentado anteriormente pode ser realizado para cada cor do pixel Assim serão armazenados 3 bits por pixel
+
+
+ Textos 
+
+
+ Código Bacon 
+Um método de esteganografia para textos é o Código Bacon desenvolvido em 1605 por Francis Bacon  Nela cada caractere da mensagem é substituído por dois caracteres binários representados por A e B de acordo com uma tabela Por exemplo Wikipedia seria traduzido para
+Assim é preciso escolher um texto falso para injetar a mensagem por exemplo zebras caolhas de java querem mandar fax para moça gigante de new york e uma regra por exemplo uma letra minúscula representa o A e maiúscula o B Com isso o texto cifrado se dá pela seguinte formaAssim a mensagem resultante é um texto legível mas com um texto escondido
+
+
+ Outros métodos 
+Um exemplo trivial que fica na fronteira entre esteganografia e criptografia Windsurf Isso Kyrie Ideal Para Este Dia Insuportavelmente Alegre ou Windows inova Kernel Inovação pode expor dados incautos armazenados Lendo apenas as iniciais de cada palavra acima teremos Wikipedia Com a utilização de um programa de computador é possível criar implementações mais sofisticados utilizando fórmulas com valor binário ou ASCII dos caracteres
+
+
+ Música 
+
+É possível ainda esconder um mensagem em música usando o seu espectrograma Como é o caso da trilha sonora do jogo Doom jogo eletrônico de 2016 
+
+
+ Detecção e ataques 
+
+
+ Imagens 
+A detecção de mensagens escondidas em imagens são feitas majoritariamente através de inspeção visual e análise estatística Elas são feitas verificando anormalidades das cores na imagem e analisando a frequência de seus bits menos significativos
+
+
+ Aplicações 
+
+
+ Marca dágua digital 
+Técnicas de esteganografia também são usadas para realizar uma Marca de água digital escondendo a mensagem nos bits de uma mídia digital como imagens vídeos e áudios que  contém informações usadas para identificar seu autor ou proprietário intelectual Várias das técnicas consistem em inserir essa mensagens nos bits da mídia de forma que um Rastreador web consiga identificar cópias não autorizadas
+
+

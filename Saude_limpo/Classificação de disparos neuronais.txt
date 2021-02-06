@@ -1,0 +1,1 @@
+Classificação de disparos neuronais ou Spike sorting é uma classe de técnicas utilizadas na análise de dados eletrofisiológicos Algoritmos de spike sorting utilizam a forma dos registros com um ou mais eletrodos Seu objetivo é identificar a atividade de um ou mais neurônios separando-a do ruído de fundo

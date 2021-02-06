@@ -1,0 +1,1 @@
+O modelo de HodgkinHuxley ou modelo baseado em condutância é um modelo matemático que descreve como potenciais de ação nos neurônios são iniciados e propagados É um conjunto de equações diferenciais não-lineares que se aproxima das características elétricas das células excitáveis tais como neurônios e miócitos cardíacos e portanto é um modelo de tempo contínuo

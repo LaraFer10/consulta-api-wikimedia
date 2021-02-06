@@ -1,0 +1,88 @@
+Lex é um tipo de URN fixado pela iniciativa LexML que permite a identificação precisa de normas jurídicas Definido atualmente pelo Internet Draft A Uniform Resource Name URN Namespace for Sources of Law LEX
+Brasil e Itália já fazem uso oficial do padrão
+
+
+ Principios básicos 
+A URN lex determina um espaço de identificação de nomes do inglês Namespace Identification NID prescrevendo convenções em conformidade com o W3C para identificar nomear assinalar referenciar e gerenciar  recursos persistentes de domínio legislativo
+O nome uniforme deve identificar um e somente um documento Acórdão Lei Decreto Portaria etc e cada nome é criado de forma a ser
+
+auto-explicativo
+identificável através de regras simples e claras
+compatível com as praticas comumente utilizadas para a referência citação ou remissão de documentos jurídicos
+capaz de ser criado a partir do texto de remissão automaticamente por parser ou manualmente
+ser representativo de ambos aspectos formais e substantivos do documento
+
+
+ Traduzindo nomes oficiais 
+O nome oficial grafado logo no início do texto de uma norma juridica epígrafe pode ser colocado sob um formato simplificado que é justamente o formato adotado para a grafia formal das URNs tipo LEX
+Exemplo a Lei Seca do Brasil tem como epígrafe LEI Nº 11705 DE 19 DE JUNHO DE 2008 podendo então ser traduzido em URN LEX seguindo um procedimento simples e consiste
+
+Reformatar letras minúsculas e remover pontuação lei 11705 de 19 de junho de 2008
+Transcrever data formato numérico ISO ano-mes-dia lei 11705 de 20080619
+Colocação dos elementos na ordem padrão LexML removendo preposições lei2008061911705
+Inclusão do contexto norma da esfera Federal brfederallei2008061911705Chegamos à URN urnlexbrfederallei2008061911705 que identifica de forma única e internacionalmente a Lei Seca do Brasil 
+Sistemas de resolução de URNs com algum poder adicional de busca podem aceitar URNs ainda mais simples ditas não-canônicas mas que pelo contexto ou pelas restrições impostas à numeração das normas são ainda URNs únicas Exemplos
+
+urnlexbrfederallei11705 é única pois as leis federais são contadas continuamente não zeram ano a ano como os decretos
+urnlexlei11705 pode ainda ser resolvida se o contexto for o Brasil
+urnlexbrfederallei200811705 é ainda válida pois na maioria das normas basta o ano para se caracterizar a data
+
+
+ Identificadores transparentes 
+URNs são utilizados como identificadores únicos UIDs como por exemplo para identificar um livro pelo ISBN – assim o URN também é indicado como ID público único 
+Neste tipo de utilização pública a necessidade de uma autoridade central na Agência Internacional do ISBN no exemplo como URNresolver único e necessário é um problema 
+Nesse contexto o usuário do identificador deve consultar a autoridade sobre a identificação correta a partir de metadados de algum objeto como no ano ou o título 
+IDs como ISBN que precisam de uma autoridade central são também denominados IDs opacos
+Um uso comum do URN Lex por outro lado é a de expressar identificadores transparentes que podem ser construídos por regras simples ou inferências a partir de metadados básicos 
+Exemplo o URN Lex brasileiro é usado para ambos lei legislativo e caso identificador único e universal usando regras de formatação e abreviatura nome da autoridade a data de publicação e o identificador local presente no título do documento
+URN schemas em que cada URN é também um identificador transparente pode ser utilizado em sistemas de resolução de URN distribuídos não centrais e as urnas pode ser criado na ausência destes sistemas mesmo antes da gravação nestes sistemas
+
+
+ Sintaxe formal 
+O identificador tem a estrutura hierárquica tal como se segue
+
+ urnlexNSS
+
+onde NSS é a string do espaço de nomes específico do inglês Namespace Specific String composta como se segue
+
+NSSjurisdicaonome-local
+
+onde
+
+jurisdicao é a parte que prove a identificação da jurisdição geralmente um código de pais onde a norma foi fixada
+nome-local é o nome uniforme estabelecido pela autoridade local da normaO elemento jurisdicao é composto de dois campos especificos
+
+jurisdicaojurisdicao-codigojurisdicao-unidade
+
+onde
+
+jurisdicao-codigo é usualmente o código de identificação do país onde a lei foi formulada sendo expresso por um código do padrão ISO 3166 Alpha2 brBrasil itItalia frFrança etcjurisdicao-unidade são as possíveis subdivisões hierarquicas do país tipocamente estado e cidade Por exemplo br refere-se ao país inteiro brsaopaulo refere-se ao governo de São Paulo e brsaopaulocampinas ao município de CampinasExemplos de fontes de lei identificadas são
+
+urnlexitstatolegge20030921456 Italian act 
+urnlexfretatlois20041206321 French act
+urnlexesestadoley20020712123 Spanish act
+urnlexchglarusregiereerlass20071015963 Glarus Swiss Canton decree
+urnlexeucouncildirective20100309201019UE EU Council Directive
+urnlexusfederalsupremecourtdecision19630318372us335 US FSC decision
+
+
+ Exemplos concretos 
+urnlexbrfederalconstituicao198810051988 Constituição da República Federativa do Brasil de 1988
+urnlexbrfederallei2008061911705 	Lei nº 11705 de 19 de Junho de 2008 conhecida também como Lei Seca do Brasil
+urnlexitstatolegge20030921456 Lei italiana
+
+
+ Uso no Brasil 
+Conforme norma LexML Parte 2
+A atribuição de um nome uniforme tem como objetivo associar a cada documento jurídico legislativo ou parte dele um identificador unívoco em um formato padronizado que dependa apenas das características do próprio documento metadados e que por isso seja independente da disponibilidade em rede da sua localização física e das modalidades de acessoTal identificador é utilizado como instrumento para representar as referências — e mais genericamente qualquer tipo de relação — entre os documentos O seu emprego facilita em um ambiente de rede com recursos documentos distribuídos entre diversas fontes eletrônicas de informação a construção de um hipertexto global entre os documentos jurídicos legislativos e de bases de conhecimento contendo as relações entre os mesmosHá um vocabulário controlado fixado pela norma LexML Parte 6 que estabelece os termos que podem ser empregados como nome de jurisdição nome de autoridade e nome de tipo de documento
+
+
+ Relação com o modelo FRBR 
+
+A ilustração ao lado mostra o caso mais geral onde não apenas a obra conceitual é identificada mas também outras obras derivadas e ainda consistentes com a obra original  Exemplos
+
+urnlexbrfederallei2006072411326 é a ficha catalográfica da obra conhecida como Lei nº 11326 de 24 de Julho de 2006 O objeto descrito é uma  abstração intelectual do tipo CreativeWork especialidada como Legislation No modelo FRBR a URN LEX está identificando uma obra de forma abrangente sem restringir formato língua ou outro variação de expressão ou manifestaçãournlexabntnorma1994093090502015pdf  é uma URN LEX referenciando um arquivo formato PDF portanto uma manifestação específica e além disso a URN LEX está designando também uma versão específica da obraA sintaxe geral das URNs LEX pode ser assim resumida
+
+urnlexETC designa uma obra FRBR ou seja um CreativeWork no jargão SchemaOrg Exemplos  urnlexbrfederallei2006072411326 e urnlexabntnorma199409309050urnlexETC~forma urnlexETCversao ou urnlexETC~formaversao designam expressões da obra FRBR ExemplosurnlexETCEXT urnlexETCversaoEXT urnlexETC~formaEXT ou urnlexETC~formaversaoEXT designam extensões de arquivo identificam arquivos concretos com formatos específicos portanto manifestações da obra FRBR Exemplos  urnlexbrfederallei2006072411326html urnlexabntnorma1994093090502015pdfA partir destes dois exemplos de alvo da identificação URN LEX podemos listar várias outras possibilidades com suas respectivas URNs LEX
+
+

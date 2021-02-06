@@ -1,0 +1,333 @@
+O Cadastro de Pessoas Físicas CPF ou CPFMF é o registro mantido pela Receita Federal do Brasil no qual podem se inscrever uma única vez quaisquer pessoas naturais independentemente de idade ou nacionalidade inclusive falecidas Cada inscrito é unicamente identificado por um número de inscrição no CPF composto por 11 dígitos decimais Esse número jamais muda senão por decisão judicial ou administrativa
+
+
+ Histórico 
+
+Por meio da Lei 4862 de 29 de novembro de 1965 foi instituído o Registro das Pessoas Físicas para que a administração tributária nacional pudesse coletar as informações das Pessoas Físicas que eram obrigadas a apresentar a declaração de rendimentos e bens Em 1968 pelo DecretoLei 401 de 30 de dezembro de 1968 esse Registro das Pessoas Físicas foi transformado no cadastro de pessoas físicas
+O contribuinte que apresentou Declaração de Rendimentos do exercício de 1969 ano-calendário de 1968 recebeu da Receita Federal no início de 1970 juntamente com o Manual de Orientação e formulários duas vias do cartão de identificação do contribuinte CIC emitidas eletronicamente e com prazo de validade A Declaração de Rendimentos do IRPF passou a ter um campo para indicação do número de inscrição no cadastro das pessoas físicas carece de fontesCom o passar do tempo o CPF ultrapassou os limites do imposto de renda e tornou-se um documento de suma importância no cotidiano do brasileiro pelo fato de a identidade no Brasil ser atribuída de forma descentralizada pela União pelos Estados e pelo Distrito Federal sendo tal cadastro um importante complemento por ter unicidade a nível nacional e por ser até recentemente o único cadastro nacional a conter os dados de brasileiros natos naturalizados e estrangeiros residentes no país
+A partir de 1º de dezembro de 2015 o CPF passou a ser emitido juntamente com a certidão de nascimento para evitar fraudes e problemas causados por homônimos Para tanto os cartórios de registro civil informam os dados do recém-nascido ou da pessoa a ser registrada por um sistema on-line e imediatamente o número do CPF será repassado e impresso na certidão
+
+
+ Consulta 
+A consulta pelo CPF tem por objetivo identificar a situação do Cadastro de Pessoa Física Este tipo de consulta é feita junto ao site oficial da Receita Federal e tem por objetivo verificar se o titular do CPF esta em situação Regular ou se de alguma forma seu CPF tem pendências relacionadas à Receita Federal como por exemplo ausência de Declaração do Imposto de Renda Para isso é necessário informar além do número de inscrição a data de nascimento e confirmar digitando corretamente o CAPTCHA que aparecer na tela
+
+
+ Comprovante de inscrição 
+
+Até junho de 2011 a Receita Federal emitia o cartão do CPF em formato plástico sem foto para fins de comprovação de inscrição no CPF A perda do cartão não enseja mudança de número de inscriçãoConforme a legislação atual a comprovação da inscrição no CPF poderá ser feita mediante a menção do número do CPF nos documentos de identidade na carteira nacional de habilitação na certidão de nascimento na carteira de trabalho na carteira de identidade profissional nas carteiras profissionais emitidas por órgãos públicos
+Além disso o Comprovante de Inscrição no CPF impresso a partir do sítio da RFB emitido por entidade conveniada ou acessado pelo aplicativo APP Pessoa Física e o cartão CPF também são válidos desde que acompanhados de documento de identificação do titular
+
+
+ Obrigatoriedade de inscrição 
+Estão obrigadas a inscrever-se no CPF as pessoas físicas que
+
+residam no Brasil e integrem o polo passivo de relação tributária principal ou acessória seja na condição de contribuinte ou responsável bem como os respectivos representantes legais
+praticarem operações imobiliárias de quaisquer espécies no Brasil
+possuírem no Brasil contas bancárias de poupança ou de investimentos ou operarem no mercado financeiro ou de capitais no país
+operarem no mercado financeiro ou de capitais no Brasil inclusive em bolsas de valores de mercadorias de futuros e assemelhados
+possuírem no Brasil bens e direitos sujeitos a registro público ou cadastro específico incluídos imóveis veículos embarcações aeronaves instrumentos financeiros e participações societárias ou no mercado de capitais
+sendo maiores de 14 anos constem como dependentes em Declaração de IRPF
+por exigência de órgãos ou entidades da administração pública federal estadual distrital ou municipal nos termos da legislação própria afeta aos negócios desses órgãos e entidades ou
+tenham requerido benefícios de qualquer espécie no INSSMesmo as pessoas desobrigadas a inscreverem-se podem fazêlo voluntariamente
+
+
+ Situação cadastral 
+O CPF poderá assumir as seguintes situações cadastrais
+Regular quando não houver inconsistência cadastral e não constar omissão de DIRPF
+Pendente de regularização quando houver omissão de DIRPF
+Suspensa quando houver inconsistência cadastral
+Cancelada por multiplicidade quando houver mais de uma inscrição no CPF para a mesma pessoa
+Cancelada por óbito sem espólio
+Cancelada por encerramento de espólio ou
+Nula nos casos em que for constatada fraudeO cancelamento da inscrição no CPF ocorre a pedido ou de ofício A simples falta de entrega de DIRPF não enseja o cancelamento do CPFcarece de fontes
+
+
+ Consultar a situação cadastral 
+Sabe-se que hoje em dia devido à globalização e à melhor forma de utilizar a internet muitas pessoas podem fazer vários serviços sem sair de casa E isto é excelente tendo em vista que muitas pessoas não podem sair de casa ou outras que com os afazeres do dia a dia não possuem tempo sobrando para tal
+Em alguns sites na internet inclusive no próprio site da receita federal é possível solicitar a sua situação cadastral conferir se está tudo correto ou mesmo regularizar o seu cadastro Em outros casos é possível consultar a sua situação em órgãos de proteção ao crédito famosos que frequentemente tornam inaptos CPFs de pessoas devedoras É importante estar sempre de olho no seu CPF e quando possível consultar a situação cadastral para evitar dores de cabeça
+
+
+ Número de inscrição 
+
+O número de inscrição no CPF é composto de onze dígitos decimais sendo os oito primeiros aleatoriamente designados no momento da inscrição Já o nono antepenúltimo dígito indica a região fiscal responsável pela inscrição Por fim o décimo e o décimo-primeiro são dígitos verificadores calculados de acordo com um algoritmo definido pela Receita Federal e publicamente conhecido
+No caso da 10ª Região Fiscal o algarismo zero é utilizado como nono dígito As regiões fiscais são estas
+
+1ª DF GO MT MS e TO
+2ª AC AP AM PA RO e RR
+3ª CE MA e PI
+4ª AL PB PE e RN
+5ª BA e SE
+6ª MG
+7ª ES e RJ
+8ª SP
+9ª PR e SC
+10ª RS
+
+
+ Formato 
+Formata-se o número de inscrição no CPF da seguinte maneira os nove primeiros dígitos são agrupados em três grupos de três dígitos separados por um ponto seguidos de um hífen e dos dois últimos dígitos
+Assim o CPF de número 12345678909 é formatado como 12345678909
+
+
+ Dígitos verificadores 
+Os dígitos verificadores são calculados através de um algoritmo que soma o produto de cada dígito que compõe o CPF por um peso e calcula o resto da divisão dessa soma por 11 Pela característica esse algoritmo é conhecido como módulo 11
+Por 11 ser um número primo o dígito de verificação produzido por esse algoritmo tem a capacidade de identificar erros tanto na substituição de dígitos quanto na transposição deles Porém como resultado o dígito verificador calculado pode eventualmente ser igual a 10 dez Embora usualmente opte-se por considerar o número que produziu o 10 como inválido ou substituir o 10 pela letra X na representação do dígito verificador por determinação da Receita Federal estabeleceu-se que o número 10 fosse substituído pelo dígito 0 zero o que a princípio introduz uma falha na verificação do algoritmo Contudo para minimizar o erro gerado por essa substituição dois dígitos verificadores são necessários para compor um CPF sendo que o segundo dígito utiliza o primeiro como parte de seu cálculo
+
+
+ Cálculo do dígito verificador 
+Seja D um número de CPF qualquer representado pelos nove primeiros dígitos visitados da direita para a esquerda na forma
+
+  
+    
+      
+        D
+        
+        
+          
+          
+            
+              d
+              
+                0
+              
+            
+            
+            
+              d
+              
+                1
+              
+            
+            
+            
+              d
+              
+                2
+              
+            
+            
+            …
+            
+            
+              d
+              
+                n
+                −
+                1
+              
+            
+          
+          
+        
+      
+    
+    \displaystyle D\leftd_0d_1d_2\dots d_n1\right
+  
+onde di representa o dígito do CPF na posição i e d0 representa a posição mais a direita deste CPF Ou seja o CPF 123456789 é representado por D  9 8 7 6 5 4 3 2 1
+Dadas tais condições os dígitos verificadores v1 e v2 podem ser calculados pelas expressões carece de fontes
+  
+    
+      
+        
+          v
+          
+            1
+          
+        
+        
+        
+          
+          
+            
+              
+              
+                
+                  ∑
+                  
+                    i
+                    
+                    0
+                  
+                  
+                    n
+                    −
+                    1
+                  
+                
+                
+                  d
+                  
+                    i
+                  
+                
+                ×
+                
+                  
+                  
+                    9
+                    −
+                    
+                      
+                      
+                        i
+                        
+                           mod 
+                        
+                        10
+                      
+                      
+                    
+                  
+                  
+                
+              
+              
+            
+            
+               mod 
+            
+            11
+          
+          
+        
+        
+           mod 
+        
+        10
+      
+    
+    \displaystyle v_1\left\left\sum _i0^n1d_i\times \left9\lefti\text mod 10\right\right\right\text mod 11\right\text mod 10
+  
+
+  
+    
+      
+        
+          v
+          
+            2
+          
+        
+        
+        
+          
+          
+            
+              
+              
+                
+                  
+                  
+                    
+                      ∑
+                      
+                        i
+                        
+                        0
+                      
+                      
+                        n
+                        −
+                        1
+                      
+                    
+                    
+                      d
+                      
+                        i
+                      
+                    
+                    ×
+                    
+                      
+                      
+                        9
+                        −
+                        
+                          
+                          
+                            
+                              
+                              
+                                i
+                                
+                                1
+                              
+                              
+                            
+                            
+                               mod 
+                            
+                            10
+                          
+                          
+                        
+                      
+                      
+                    
+                  
+                  
+                
+                
+                
+                  
+                  
+                    
+                      v
+                      
+                        1
+                      
+                    
+                    ×
+                    9
+                  
+                  
+                
+              
+              
+            
+            
+               mod 
+            
+            11
+          
+          
+        
+        
+           mod 
+        
+        10
+      
+    
+    \displaystyle v_2\left\\left\left\sum _i0^n1d_i\times \left\9\left\lefti1\right\text mod 10\right\right\\right\leftv_1\times 9\right\right\text mod 11\right\\text mod 10
+  
+Nessas expressões o dígito verificador é o resultado obtido pelo resto da divisão por 10 Isso garante que o dígito verificador esteja sempre no intervalo entre 0 e 9
+Devido às características do cálculo diversos algoritmos e expressões diferentes podem ser utilizados para calcular os mesmos dígitos verificadores para o CPF Alguns deles inclusive podem ser utilizados para calcular o dígito verificador do CNPJ visto que ambos fazem uso do mesmo cálculo sobre um número diferente de dígitos
+
+
+ Algoritmo 
+A computação das expressões acima para o cálculo do dígito verificador podem ser escritas de forma algorítmica tendo como base o seguinte pseudocódigo
+
+variáveis
+  cpf vetor08 de Inteiro
+  v1 v2 Inteiro
+início
+
+popula a variável cpf de forma inversa o menor índice deve conter o dígito mais à direita do CPF
+  para i  0 até tamanhocpf1 faça
+    v1  v1  cpfi  9  i mod 10
+    v2  v2  cpfi  9  i  1 mod 10
+  fim-para
+  v1  v1 mod 11 mod 10
+  v2  v2  v1  9
+  v2  v2 mod 11 mod 10
+
+  escrevav1
+  escrevav2
+fim
+
+
+ PF 
+eCPF é o Cadastro de Pessoa Física CPF digital que garante a autenticidade e a integridade na comunicação eletrônica entre pessoas físicas e a Receita Federal no Brasilcarece de fontesO documento funciona vinculado ao CPF mesmo número do contribuinte O eCPF serve entre outras aplicações para entregar declarações de renda e demais documentos eletrônicos com aposição de assinatura digital Além disso está sendo difundido seu uso na assinatura digital de contratos de câmbio e futuramente em outros contratos bancárioscarece de fontesO eCPF é fornecido na forma um cartão de tecnologia Smart card de tamanho regular como um token conectado diretamente na porta USB de um computador de aparência semelhante a de um pendrive ou ainda simplesmente fornecido como um arquivo de computador do tipo PFX para ser importado no PC dentro da carteira de Certificados Digitais Sua certificação pode ter duração de um ano ou de três anos podendo ser renovadocarece de fontes
+
+

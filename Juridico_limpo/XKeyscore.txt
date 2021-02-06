@@ -1,0 +1,55 @@
+XKeyscore Programa de Vigilância XKEYSCORE ou XKS é um programa da NSA usado no sistema de vigilância mundial que permite que aos seus analistas façam pesquisas em imensos bancos de dados que contêm os e-mails conversas online e buscas de internet de milhões de pessoas ao redor do mundo Os documentos revelam que qualquer pessoa com acesso aos bancos de dados pode fazer tais pesquisas incluindo funcionários das empresas contratadas Não é necessária qualquer autorização especial nem justificativas específica para acessar os dados de quem quer que seja Conforme a explicação de Edward Snowden
+Você pode ler os e-mails de qualquer pessoa em todo o mundo de qualquer pessoa que você tenha o endereço de e-mail Qualquer website Você pode ver o tráfico entrando e saindo do Site Qualquer computador em que uma pessoa se senta Você pode ver Qualquer laptop que você estiver seguindo você pode seguílo enquanto ele se movimenta de um local para outro em qualquer parte do mundo É uma fonte que serve para todas as informações que NSA buscaO programa é compartilhado com outras agências incluindo as agências do Canadá UK Austrália Nova Zelândia e da AlemanhaA existência do XKeyscore foi revelada em julho de 2013 pelo Jornal O Globo e pelo The Sydney Morning Herald australiano com base nos documentos da NSA expostos por Edward Snowden Quando da revelação de sua existência o codinome do programa e alguns outros codinomes já eram encontrado em alguns anúncios de empregos e em curriculum vitae de funcionáriosO XKeyscore dá aos analistas americanos acesso à basicamente tudo o que o usuário típico faz na internet
+
+
+ Documentos Originais Publicados 
+Detalhes do XKeyscore e de como funcionam as pesquisas de dados bem como da capacidade do sistema foram revelados através de uma série de slides fornecidos por Edward Snowden e publicados pelo The Guardian em 31 de julho de 2013
+
+
+ Como Funciona 
+O sistema funciona em uma infraestrutura com cerca de 500 servidores espalhados pelo mundo Os servidores foram instalados em diversos países sem conhecimento dos mesmos inclusive no Brasil conforme é mostrado em uma apresentação da NSA exposta por Snowden De acordo com as revelações em janeiro de 2013 apenas a NSA tinha recolhido 23 bilhões de dados de usuários brasileiros
+Comentando sobre o programa o Jornal The Guardian que teve acesso aos documentos do programa afirmou que a quantidade de comunicações a que a NSA tem acesso por meio de programas como o XKeyscore é assustadoramente grande
+
+
+ Escopo do XKeyscore 
+O XKeyscore pode ver as caixas de entrada e saída de e-mails de qualquer pessoa em todas as partes do mundo bastando apenas ter em mãos um endereço de correio eletrônico Permite também que os analistas da NSA leiam o conteúdo que os usuários produzem nas redes sociais como Facebook Orkut Twitter Flickr e outras As revelações contidas em um dos documentos da NSA expostos por Edward Snowden mostram que entre outras coisas o software permite a intervenção em tempo real na navegação de milhões de usuários na Internet para descobrir o que cada internauta está fazendo na Web a cada instante O programa consegue mapear as pessoas a partir de localidades enquanto elas usam o Google Maps por exemplo Os documentos mostram as imagens de como funciona a interceptação e coleta de comunicações mundialmente sejam comunicações telefônicas e-mails ou por quaisquer outros meios Os dados coletados mundialmente são então enviados para armazenamento no gigantesco Centro de Processamento de Dados Utah sob administração da NSA
+
+
+ Capacidades 
+Em 26 de Janeiro de 2014 Edward Snowden foi entrevistado na televisão alemã por Norddeutscher Rundfunk Ele perguntou a Snowden o que ele poderia fazer usando o XKeyscore Snowden respondeu Você pode ler os e-mails de qualquer pessoa em todo o mundo de qualquer pessoa que você tenha o endereço de e-mail Qualquer website Você pode ver o tráfego entrando e saindo do Site Qualquer computador em que uma pessoa se senta Você pode ver Qualquer laptop que você estiver seguindo você pode seguílo enquanto ele se movimenta de um local para outro em qualquer parte do mundo É uma fonte que serve para todas as informações que NSA busca
+Sentado em meu escritório eu tinha a capacidade de analisar qualquer um desde um contador até um juiz federal incluindo o presidente desde que eu tenha o seu email pessoal palavras do ex-técnico da CIA Edward Snowden em 10 de junho de 2013 quando revelou pela primeira vez ao mundo os documentos que detalhavam o programa de espionagem online dos Estados Unidos Snowden falou ainda dos motivos pelos quais tais programas de Vigilância em massa precisam ser revelados ao mundo
+Uma apresentação da NSA sobre XKeyscore datada de 2008 diz que o sistema é um DNI” ou seja uma Rede de Inteligência Digital Isto diz respeito aos diversos tipos de inteligência derivada do tráfego de internet como por exemplo inteligência
+Quanto à capacidade do XKeyscore Snowden que tem familiaridade com o XKeyscore disse ainda
+
+Você pode marcar indivíduos Vamos dizer que você trabalhe para uma importante Corporação Alemã e eu quero ter acesso a sua Rede de computadores Eu posso descobrir seu nome de usuário em um website qualquer descobrir seu nome real e começar a seguir seus contatos amigos e a partir dai criar o que e chamada sua “impressão digital” que é a atividade única relacionada a você na Internet e então eu posso seguir você onde quer que você vá no mundo qualquer lugar em que você tente esconder sua presença online
+De acordo com os documentos vistos pelo The Guardian qualquer analista de nível inferior pode usando o Xkeyscore “ouvir qualquer ligação que ele queira ler qualquer e-mail ver qualquer historia de pesquisas na Internet ver documentos Microsoft E tudo isto é feito sem precisar obter uma ordem judicial e nem mesmo autorização de um superior A informação de Edward Snowden é de que o Xkeyscore É um motor de busca front-end
+
+
+ Fontes de Dados para o Xkeyscore 
+Os dados que são utilizados pelo XKeyscore têm origem em diversas maneiras de interceptação Até a presente data Abril de 2014 as conhecidas são
+
+Serviço de Coleta Especial SCS
+Echelon
+Operações de Fonte Especial SSO
+“Overhead” se referindo a inteligência derivada de aviões espiões americanos drones e Satélites de comunicação
+Operações de acesso adaptado TAO NSA
+Lei da Vigilância de Estrangeira
+Acordos de Cooperação em Vigilância  parceiros estrangeiros da NSA tais como as agências de inteligência dos Cinco Olhos da Bélgica Dinamarca França Alemanha Itália Japão Holanda Noruega Suécia etcAtravés destas fontes o XKeyscore obtém cobertura total das comunicações mundiais
+
+
+ Ver Também 
+NSA
+Catálogo ANT NSA
+Communications Security Establishment
+Echelon
+GCHQ
+Lista de programas de vigilância em massa do governo
+Operações de acesso adaptado TAO NSA
+Operações de Fonte EspecialSSO
+PRISM
+Revelações da Vigilância global 1970–2013
+Revelações da Vigilância Global 2013–presente
+Cinco Olhos
+Vigilância de Computadores e Redes
+
+

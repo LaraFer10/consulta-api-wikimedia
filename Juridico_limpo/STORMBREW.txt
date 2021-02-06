@@ -1,0 +1,37 @@
+STORMBREW Programa de Vigilância é um programa de vigilância da Agência de Segurança Nacional NSA dos Estados Unidos usado para coletar os dados da Internet Foi divulgado  no verão de 2013 no âmbito das revelaçōes de Edward Snowden
+STORMBREW é um programa que engloba vários programas usados para a vigilância das telecomunicações Ele cai na categoria de coleta de fluxo o que significa que os dados são puxados diretamente dos cabos de fibra óptica e da infra-estrutura de comunicações
+Há também um Identificador da Atividade de SIGINT o SIGAD que leva o mesmo nome  e refere-se à uma empresa que é um parceiro corporativo DA NSA
+Esse parceiro foi identificado em 23 de outubro de 2013 como sendo a Verizon a empresa holding da empresa norte-americana que em 29 de julho de 1998 no processo das privatizaçōes das telecomunicaçōes no Brasil comprou a Embratel Parte dos serviços privatizados vieram a ser oferecidos pela Claro
+Este parceiro corporativo tem servidores em Washington Califórnia Texas Flórida e Nova York Virgínia e PensilvâniaOs programas de coleta Upstream dāo acesso à volumes gigantescos de dados e a maior parte da préseleção dos dados é feita pelos próprios prestadores de serviços antes dos dados serem repassados para a NSA
+A NSA paga às compahias parceiras na coleta de dados e o orçamento para o STORMBREW no ano fiscal de 2013 é de 465 milhōes de dólares americanosSTORMBREW consiste nos seguintes SIGADs
+
+
+ Glossário 
+Contagem de acesso nenhuma explicação foi fornecida no material de origem
+Diretório ONMR nenhuma explicação tenha sido fornecido no material de origem
+DNI  Inteligência Digital da rede
+DNR  Reconhecimento do Número discado
+MARINA  um banco de dados da NSA dos metadados da Internet
+Transit Authority  A autoridade legal americana que determina que as comunicações em trânsito nos Estados Unidos podem ser coletadas desde que os terminais envolvidos sejam estrangeiros
+
+
+ Mídia STORMBREW e Upstream Coleção 
+
+		
+		
+		
+		
+		
+		
+
+
+ Ver Também 
+Tratado de Segurança UKUSA Cinco Olhos ou Five Eyes
+Echelon
+Revelações da Vigilância global 2013Presente
+Communications Security Establishment Canada
+Vigilância de Computadores e Redes
+Operações de acesso adaptado TAO NSA
+Operações de Fonte EspecialSSO
+
+

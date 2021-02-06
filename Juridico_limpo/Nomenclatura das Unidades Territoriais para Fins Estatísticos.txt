@@ -1,0 +1,43 @@
+A Nomenclatura Comum das Unidades Territoriais para Fins Estatísticos ou Nomenclatura das Unidades Territoriais para Fins Estatísticos NUTS na sigla em francês é um padrão de geocódigo para referenciar as subdivisões de países para fins estatísticos O padrão é desenvolvido e regulado pela União Europeia A Nomenclatura foi inicialmente elaborada pelo Eurostat Serviço de Estatística das Comunidades Europeias em cooperação com os institutos nacionais de estatística europeus A publicação do Regulamento CE nº 1059/2003 do Parlamento Europeu e do Conselho de 26 de Maio de 2003 deu enquadramento jurídico a esta nomenclatura
+As sub-regiões estatísticas estão subdivididas em 3 níveis
+
+NUTS I
+NUTS II e
+NUTS IIIEstas sub-regiões devem ser obrigatoriamente utilizadas pelos EstadosMembros e pela Comissão Europeia para a recolha compilação e divulgação a nível comunitário de dados estatísticos
+A Nomenclaturas de Unidades Territoriais para fins Estatísticos Nomenclatura das Unidades Territoriais de Estatística ou Nomenclatura das Unidades de Estatística Territorial NUTS é uma norma de geocódigo padrão para referenciar as subdivisões de países para fins estatísticos A norma é desenvolvida e regulamentada pela União Europeia e portanto abrange apenas os Estados-membros da UE em pormenor A Nomenclatura das Unidades Territoriais Estatísticas desempenha um papel fundamental nos mecanismos de execução dos Fundos Estruturais da União Europeia
+Para cada país membro da UE o Eurostat estabelece uma hierarquia de três níveis NUTS As subdivisões em alguns níveis não correspondem necessariamente a divisões administrativas dentro do país Um código NUTS começa com um código de duas letras referenciando o país que é idêntico ao código ISO 31661 alfa2 exceto UK em vez de GB para o Reino Unido e EL em vez de GR para a Grécia A subdivisão do país é então referida com um número Um segundo ou terceiro nível de subdivisão é referido com outro número cada Cada numeração começa com 1 como 0 é usado para o nível superior Quando a subdivisão tem mais de nove entidades letras maiúsculas são usadas para continuar a numeração Um sistema estatístico semelhante é definido para os países candidatos e membros da Associação Europeia de Comércio Livre mas não fazem parte tecnicamente das NUTS regidas pelos regulamentos
+A atual nomenclatura NUTS válida a partir de 1 de Janeiro de 2015 enumera 98 regiões na região NUTS 1 e 276 nas regiões NUTS 2 e 1342 ao nível NUTS 3Para além dos três níveis completos para os países da União Europeia todos os outros países têm um código NUTS com um código de duas letras para um continente e dois números para o país e para os EUA Canadá e Austrália os estados províncias e Territórios são numerados separadamente Existem algumas anomalias por exemplo Gibraltar está listado fora da UE com o código EO21 Enquanto a Guiana Francesa é listada duas vezes uma vez na França como FR930 e uma vez na América do Sul como AS13 NUTS é assim em alguma medida semelhante ao padrão ISO 31662 bem como o padrão FIPS 104 dos Estados Unidos
+
+
+ Níveis 
+
+Existem três níveis de NUTS definido com dois níveis de Unidade administrativa local LAUs abaixo 
+Estes foram chamados NUTS níveis 4 e 5 até julho de 2003 mas foram oficialmente abolidos pela regulamentação embora às vezes ainda são descritos como tais Note que nem todos os países tenham cada nível de divisão em função do seu tamanho Um dos casos mais extremos é Luxemburgo que tem apenas LAUs as três NUTS divisões correspondem a todo o país em si
+
+
+ Correspondência entre os níveis NUTS e as unidades administrativas nacionais 
+
+
+ Critérios de classificação 
+As unidades territoriais estatísticas baseia-se em princípio nas unidades administrativas já existentes em cada um dos EstadosMembros entendendo-se por unidade territorial uma região geográfica com uma autoridade administrativa estabelecida e com competências institucional e legal
+Os níveis NUTS das unidades administrativas dependem de valores-limite para a população residente
+
+Os códigos NUTS começam com as duas letras do código ISO 31661 de país com a exceção do Reino Unido que utiliza UK e não GB às quais de juntam um dois ou três algarismos para os códigos NUTS de nível 1 2 ou 3
+Em Portugal e noutros EstadosMembros houve que criar novas unidades territoriais que se sobrepõem às unidades territoriais clássicas para obtenção unidades mais facilmente equiparáveis às dos restantes EstadosMembros
+
+
+ Estabelecimento 
+As NUTSregião são baseadas na subdivisões administrativas nacionais já existentes Nos países em que existem apenas uma ou duas subdivisões regionais ou onde o tamanho das subdivisões existentes é muito pequeno um segundo e/ou terceiro nível é criado Isto pode ser no primeiro nível por exemplo França Itália Grécia e Espanha no segundo ex Alemanha e/ou terceiro nível ex BélgicaEm países menores onde todo o país seria colocado no mesmo nível NUTS 2 ou NUTS 3 ex Luxemburgo Chipre Irlanda níveis 1 2 e/ou 3 são idênticas ao nível superior e/ou à totalidade do país
+Estes percentuais mínimos e máximos são utilizados para determinar as regiões
+
+
+ Exemplos 
+DE Alemanha
+DE7 Hesse  Os Bundesland como o nível mais alto de subdivisão da Alemanha
+DE71 região de Darmstadt  Regierungsbezirk como segundo nível
+DE71E Wetteraukreis  Kreis como o terceiro nível
+AA Ásia
+AA25 Tailândia
+US16 Kansas
+
+

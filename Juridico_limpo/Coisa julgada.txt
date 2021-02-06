@@ -1,0 +1,32 @@
+Coisa julgada é a qualidade conferida à sentença judicial contra a qual não cabem mais recursos tornando-a imutável e indiscutível Sua origem remonta ao direito romano res judicata onde era justificada principalmente por razões de ordem prática pacificação social e certeza do final do processo Atualmente tem por objetivos a segurança jurídica e impedir a perpetuação dos litígios O instituto da coisa julgada está presente em praticamente todos os sistemas jurídicos ocidentais principalmente aqueles que têm seus fundamentos no direito romano
+Entretanto a coisa julgada é um dos institutos jurídicos com maior variabilidade de modalidades do sistema brasileiro além de muitas controvérsias isso porque a coisa julgada comporta muitas nuancias como pode ser visto no tópico exceções  
+
+
+ Coisa julgada no Processo Civil 
+
+
+ Coisa julgada formal 
+Coisa julgada formal é a impossibilidade de modificação da sentença no mesmo processo como consequência da preclusão dos recursos Depois de formada a coisa julgada o juiz não pode mais modificar sua decisão ainda que se convença de posição contrária a que tinha anteriormente adotado Só tem eficácia dentro do processo em que surgiu e por isso não impede que o tema volte a ser agitado em nova relação processual É o que se denomina princípio da inalterabilidade do julgamento dentro da disciplina de Processo Civil Todas as sentenças fazem coisa julgada formal mesmo que não tenham decidido a disputa existente entre as partes
+Por exemplo “A” cobra indenização de “B” mas o advogado de “A” não apresenta ao juiz procuração para representálo no processo O juiz profere sentença extinguindo o processo “sem resolução do mérito” “A” não recorre no prazo previsto pela lei e a sentença transita em julgado A coisa julgada formal impede que o juiz modifique a sentença naquele mesmo processo se descobrir que a procuração havia sido apresentada ou se o advogado vier a apresentála posteriormente No entanto providenciada a procuração “A” pode iniciar um novo processo para cobrar indenização de “B”
+
+
+ Coisa julgada material 
+Coisa julgada material é a impossibilidade de modificação da sentença naquele mesmo processo ou em qualquer outro posto que a matéria em análise cumpriu todos os trâmites procedimentais que permitem ao Judiciário decidir a questão em definitivo Depois de formada a coisa julgada nenhum juiz poderá concluir de forma diversa por qualquer motivo Em princípio apenas as sentenças que tenham decidido a disputa existente entre as partes mérito fazem coisa julgada material Estas sentenças não podem ser modificadas nem se pode iniciar um novo processo com o mesmo objetivo em virtude da necessidade de promover a segurança jurídica para que não se possa discutir eternamente questões que já foram suficientemente analisadas
+Por exemplo “A” cobra indenização de “B” por acidente de trânsito mas no curso do processo não consegue apresentar qualquer prova de que “B” seja culpado O juiz julga o pedido improcedente nega a indenização pedida “A” não recorre no prazo previsto pela lei e a sentença transita em julgado Assim tem-se a coisa julgada material
+Nesse caso a coisa julgada material será derivada da sentença definitiva ou de mérito conforme previsto no Artigo 487 do novo Código de Processo Civil
+Em outras palavras ocorre coisa julgada material quando a decisão judicial fixa-se no tempo e no espaço não havendo mais a possibilidade de recorrer contra ela tendo o magistrado apreciado o mérito do pedido A coisa julgada material não deverá ser objeto de nova apreciação do judiciário enquanto a coisa julgada formal poderá sêlo
+
+
+ Exceções à coisa julgada 
+A mais importante exceção à coisa julgada no processo civil é a ação rescisória que permite a modificação da sentença no prazo de dois anos após o trânsito em julgado na hipótese de ocorrência de problemas graves que possam ter impedido uma decisão adequada como a corrupção do juiz ou a ofensa à lei
+Os casos em que não fazem coisas julgadas como as decisões judicias terminativas quer dizer não decidem o mérito da controvérsia Nas ações penais em relação as sentenças condenatórias não ocorre a coisa julgada visto que a qualquer momento poderá a sentença ser revista 
+A coisa julgada também pode ser erga omnes ou seja contra todos não apenas as partes envolvidas no processo como nos casos das ações civis públicas que instrumentam interesses difusos Lei 7347/85 art 16
+Também é tratada como exceção à coisa julgada a possibilidade de modificar sentenças que tratam de relações continuativas como o pagamento de pensão alimentícia artigo 505 inciso I do Código de Processo Civil brasileiro Se houver modificação na riqueza de quem paga ou na necessidade de quem recebe é possível um novo processo para modificar a determinação da sentença original modificando o valor da pensão por exemplo No entanto embora tratada como exceção pela lei a situação não é na verdade excepcional De acordo com os limites objetivos da coisa julgada é sempre possível um novo processo e uma nova decisão quando se alteram os fatos que fundamentam o pedido causa de pedir independente de se tratar de relação continuativa ou não
+Recentemente criou-se no Brasil nova exceção à coisa julgada possibilitando-se a modificação de sentenças sobre investigação de paternidade em processos de época anterior à existência do exame de DNA A exceção não foi criada através de lei mas sim de entendimento do Superior Tribunal de Justiça de que o exame de DNA constituiria “documento novo” para os fins de ação rescisória nos termos do artigo 485 inciso VII do Código de Processo Civil brasileiro
+Por fim os erros materiais ou de cálculo existentes nas decisões também não são alcançados pela coisa julgada podendo ser corrigido de ofício ou a requerimento da parte interessada como por exemplo no caso de um equívoco quanto ao nome das partes ou omissão de um litisconsorte
+Segundo o professor Marcelo Novelino rede LFG Os instrumentos processuais cabíveis para o reconhecimento da coisa julgada inconstitucional seriam
+
+I  alegação incidenter tantum em algum outro processo inclusive em peças defensivas ou a propositura de nova demanda igual à primeira desconsiderada a coisa julgada
+II  ação declaratória de nulidade
+III  ação rescisória STF  AI 460277/DF rel Min Gilmar Mendes 19092003
+IV  embargos à execução para arguir a inexigibilidade do título executivo judicial CPC art 741 paragrafo único STF  RE AgR 328812/AM Rel Min Gilmar Mendes

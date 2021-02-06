@@ -1,0 +1,19 @@
+De uma forma geral é considerado sistema criptográfico qualquer sistema que dada uma mensagem e uma chave consiga gerar uma nova mensagem ilegível que possa ser transmitida por canais desprotegidos sem correr o risco de poder ser compreendida por terceiros sem conhecimento da chave O sistema só será completo se a mensagem cifrada puder ser recuperada através de geralmente essa mesma ou de outra chave
+Até se instituirem os conceitos de criptografia e criptoanálise os sistemas foram baseados em transformações elementares como o caso da soma permutação de valores etc Por exemplo um dos sistemas mais básico pode ser descrito com uma única permutação que considerando a ordem das letras no alfabeto a cada letra P da mensagem faz corresponder outra letra CPK sendo K a chave deste sistema A recuperação seria baseada também em K PCK Este é um exemplo básico de um algoritmo criptográfico
+Com os actuais sistemas de criptoanálise é possível simultaneamente quebrar e inventar novos algoritmos cada vez mais seguros Entenda-se por “algoritmo seguro” aquele que cifra uma mensagem de tal maneira que ela só possa ser na prática decifrada com o conhecimento da chave ou através de métodos cujo tempo estimado seja próximo do infinito
+Os sistemas actuais podem ser baseados na codificação por blocos – em que a mensagem original é dividida em pequenos blocos – ou por fluxo stream – em que a codificação é feita em tempo real Os primeiros são geralmente mais morosos e exigentes a nível de recursos e os segundos muito flexíveis e rápidos
+
+
+ NSA e comprometimento do sistema de criptografia da Internet 
+
+Em 2013 foi revelado que como parte do programa de vigilância global dos Estados Unidos e aliados no programa os chamados Cinco Olhos Austrália Canadá Nova Zelândia e Reino Unido
+a NSA e o GCHQ o serviço de inteligência britânico inseriram vulnerabilidades em grande parte das comunicações transmitidas pela internet comprometendo a estrutura do sistema de criptografia da rede mundialUm dos esforços mais intensos se concentraram em comprometer a Segurança da Camada de Transporte comprometendo o Protocolo de Camada de Sockets SeguraA empresa multinacional americana Microsoft revelam os documentos colaborando com o PRISM programa de vigilância ajudou a NSA a contornar as garantias de criptografia de seus softwares permitindo também que o governo americano pudesse monitorar chats no portal Outlookcom Em 2013 a Microsoft trabalhou com o FBI para permitir que a NSA obtivesse acesso ao serviço de armazenamento em nuvem da empresa SkyDrive e ao SkypeA informação está em documentos vazados ao jornal The Guardian por Edward SnowdenAlém do The Guardian o jornal The New York Times e o site ProPublica também publicaram artigos sobre as revelações contidas nos documentos De acordo com o The Guardian oficiais de inteligência pediram aos jornais que o artigo não fosse publicado Em resposta alguns trechos teriam sido removidos das reportagensO Complexo Dagger em Darmstadt na Alemanha é operado pelo Exército dos Estados Unidos em nome da NSA Semelhante ao Centro de Processamento de Dados Utah da NSA o Complexo Dagger é capaz de processar armazenar e decriptografar milhões de pacotes de dados
+
+
+ Ver Também 
+Revelações da Vigilância global 2013Presente
+Edward Snowden
+Vigilância de Computadores e Redes
+Operações de Fonte Especial SSO
+
+

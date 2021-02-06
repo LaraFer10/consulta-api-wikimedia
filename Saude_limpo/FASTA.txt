@@ -1,0 +1,1 @@
+FASTA é um pacote de software para alinhamento de seqüências de ADN e proteínas descrito primeiramente como FASTP por David J Lipman e William R Pearson em 1985 O formato de arquivo definido pelo FASTA é um dos principais formatos utilizados para armazenamento de sequências biológicas

@@ -1,0 +1,35 @@
+Substituição tributária é um mecanismo de arrecadação de tributos utilizado pelos governos federais e estaduais O substituto tributário é o terceiro que a lei obriga a apurar o montante devido e cumprir a obrigação de pagamento do tributo “em lugar” do contribuinte Assim desde a ocorrência do fato gerador a sujeição passiva recai sobre uma pessoa diferente daquela que possui relação pessoal e direta com a situação descrita em lei como fato gerador do tributo
+Esse procedimento é notadamente utilizado na cobrança do ICMS sendo conhecido como ICMS/ST caso também esteja previsto na regulamentação do IPI substituição tributária é definida a depender do produto
+A substituição tributária é utilizada para facilitar a fiscalização dos tributos polifásicos ou seja os tributos que incidem mais de uma vez no decorrer da cadeia de circulação de uma determinada mercadoria ou serviço Existe para atender a princípios de racionalização e efetividade da tributação ora simplificando os procedimentos diminuindo as possibilidades de inadimplemento
+Pelo sistema de substituição tributária o tributo plurifásico passa a ser recolhido de uma só vez como se fosse monofásico
+
+
+ Espécies 
+Há várias espécies de substituição tributária a substituição para frente a substituição para trás ou diferimento e a substituição propriamente dita
+Na primeira hipótese substituição para frente o tributo relativo a fatos geradores que deverão ocorrer posteriormente é arrecadado de maneira antecipada sobre uma base de cálculo presumida Assim à guia de exemplo o estabelecimento industrial que vende certo produto recolhe o tributo devido por ele mesmo e também o imposto que seria devido pelo distribuidor e pelo varejista Para proceder ao cálculo o Estado deve divulgar uma base de cálculo presumida segundo critérios definidos em lei Essa base de cálculo deve observar a realidade de cada mercado para fins de determinar o preço final praticado em cada operação
+Na substituição pretérita ou diferimento o que ocorre é justamente o contrário Apenas a última pessoa que participa da cadeia de circulação da mercadoria é que paga o tributo de maneira integral inclusive relativamente às operações anteriormente praticadas e/ou seus resultados
+Já na substituição pura e simples o contribuinte em determinada operação ou prestação é substituído por outro que participa do mesmo negócio jurídico Este é o caso por exemplo do industrial que paga o tributo devido pelo prestador que lhe provém o serviço de transporte
+Os valores recolhidos a título de substituição tributária são considerados definitivos a não ser que o fato gerador presumido não se realize hipótese em que o contribuinte poderá pedir restituição do tributo
+
+
+ Críticas 
+Críticos dizem que a substituição tributária é uma mera técnica de arrecadação que se estabelece pelo deslocamento da responsabilidade pelo pagamento do tributo O tributário paga o tributo devido pela operação do substituído A hipótese de incidência do tributo porém permanece a mesma Tanto é assim que a Constituição menciona um fato gerador presumido a ser realizado pelo substituído A substituição tributária facilita também a fiscalização pois centraliza a responsabilidade
+Boa parte da doutrina considera que a previsão na lei da antecipação do pagamento de tributo cujo fato gerador ainda não se verificou substituição tributária para frente viola princípios tributários entre eles o da tipicidade o da capacidade contributiva e o do não confisco A ofensa à tipicidade decorreria do fato de que a situação abstratamente prevista em lei como fato gerador do tributo hipótese de incidência ou em analogia com o direito penal tipo tributário não teria se verificado no mundo daí decorrendo a impossibilidade da cobrança
+Em todo caso o C STJ já firmou entendimento no sentido de que “com o pagamento antecipado não ocorre recolhimento do imposto antes da ocorrência do fato gerador O momento da incidência do tributo fixado por lei não se confunde com a cobrança do tributo pelo que o sistema de substituição tributária não agride o ordenamento jurídico tributário” STJ 2ª T REsp 89630/PR Rel Min Ari Pargendler j 08061999 DJ 01071999 p 161 O Supremo Tribunal Federal também já reconheceu a constitucionalidade da substituição tributária para frente RE 213396
+A responsabilidade poderá ser atribuída em relação ao imposto incidente sobre uma ou mais operações ou prestações sejam antecedentes concomitantes ou subsequentes inclusive ao valor decorrente da diferença entre alíquotas interna e interestadual nas operações e prestações que destinem bens e serviços a consumidor final localizado em outro Estado que seja contribuinte do imposto
+A atribuição de responsabilidade dáse em relação a mercadorias ou serviços previstos em lei de cada Estado
+É assegurado ao contribuinte substituído o direito à restituição do valor do imposto pago por força da substituição tributária correspondente ao fato gerador presumido que não se realizar Essa garantia está hoje prevista no §7º do art 150 da Constituição da República A lei poderá atribuir a sujeito passivo de obrigação tributária a condição de responsável pelo pagamento de imposto ou contribuição cujo fato gerador deva ocorrer posteriormente assegurada a imediata e preferencial restituição da quantia paga caso não se realize o fato gerador presumidoIncluído pela Emenda Constitucional nº 3 de 1993
+
+
+ Cálculo 
+Supondo por exemplo uma mercadoria com valor de R 100 com origem no estado do Rio de Janeiro e que vá ser vendida em São Paulo Se sob essa operação incidir substituição tributária na cobrança do ICMS o governo estipulará uma pauta isto é um valor presumido de revenda  por exemplo R 200 Supondo que sob a operação interestadual entre SP e RJ incida uma alíquota de ICMS de 12 e a alíquota interna seja de 18 o total de ICMS será calculado da seguinte maneira
+
+TotalICMS  Valor-de-vendaICMS interestadual  Valor-da-pautaICMS internoNo nosso exemplo os números seriam os seguintes
+
+TotalICMS Normal  R100  12  012
+TotalICMS Substituição R200  18  036Como o ICMS é calculado como um debito e credito ficaria assim o valor recolhido
+
+036  012  R 024O ICMS substituído se deduz do ICMS pago normalmente Esse valor seria lançado na Nota Fiscal e cobrado do cliente por duplicata
+Caso o emissor da Nota Fiscal não pague o ICMS R 012 no prazo ela será tachado de inadimplente Caso ela não pague o ICMS substitutivo R 024 no prazo além de inadimplente ele será processado como depositário infiel estando seus responsáveis sujeitos até à prisão hoje em dia não estão mais sujeitos a prisão devido o Pacto de San Jose da Costa Rica  adotado pelo Brasil e que manteve como única forma de prisão civil para o devedor de pensão alimentícia A responsabilidade do emissor independe da solvência do seu cliente ou seja ele será considerado depositário infiel ainda que seu cliente não tenha pago a nota emitida
+
+

@@ -1,0 +1,32 @@
+Coleta Upstream Programa de Vigilância em inglês Upstream collection Coleta Upstream é o termo usado pela NSA dos Estados Unidos para se referir a interceptação do tráfego de telefônico e da Internet através de acesso direto aos cabos  e comutadores que compõem as redes locais de computadores tanto fora dos Estados Unidos como dentroAlém da coleta Upstream a NSA também desvia para armazenação em seus computadores as informações de comunicações recebidas diretamente das empresas de Internet que fornecem a NSA dados de seus usuários através de acordos assinados com a NSA através da divisão da NSA chamada Operações de Fonte Especial SSO que é responsável pela coleta de dados com a cooperação com parceiros corporativos
+O programa de Espionagem e Vigilância PRISM se utiliza destes acordos Os programas foram revelados em 2013 através de documentos fornecidos por Edward Snowden
+
+
+ Relação com o PRISM 
+A interceptação pode se feita diretamente pela NSA na chamada coleta Upstream ou como no caso do programa PRISM a Agência de Segurança Nacional NSA coleta os dados de comunicações através de acordos com as empresas provedoras de serviços de Internet Como explicado na apresentação revelada o Upstream deve ser usado com o PRISM Você deve usar ambos diz a instrução na nuvem amarela da esquerda Isso se explica uma vez que cada um dos programas recebe dados de fontes diferentes Apesar dos documentos revelados apontarem para a colaboração das empresas de telecomunicações provedores de serviços e outros apos as denuncias a mesma resposta da Microsoft foi dada pelas outras empresas envolvidas Elas alegam também que apenas fornecem informação de seus usuários através de ordem judicialUm dos slides de uma apresentação sobre o programa de vigilância PRISM descreve Upstream como sendo a coleta dos dados de comunicações enquanto eles passam pelos cabos de fibra e pela infra-estrutura das redes  E diz que coleta de dados upstream é realizada sob os quatro seguintes programas de vigilância principais  Fairview BLARNEY STORMBREW OAKSTAR
+
+
+ Pesquisa de dados 
+O Programa OAKSTAR abrange oito programas diferentes usados para a coleta de dados fora os EUA Em todas os quatro programas a coleta de dados e envio dos mesmos para o repositórios da NSA no Centro de Processamento de Dados Utah Utah Data Center nos Estados Unidos ocorre em cooperação com empresas de telecomunicações comerciais locais ou localizadas nos Estados UnidosDados da Internet coletados pelos programas de Coleta Upstream podem ser processados e pesquisados atraves do Xkeyscore indexing and analysing system
+
+
+ Mídia  Upstream  e FAIRVIEW 
+
+		
+		
+		
+
+
+ Ver Também 
+Revelações da Vigilância global 1970–2013
+Tratado de Segurança UKUSA Cinco Olhos ou Five Eyes
+Echelon
+Revelações da Vigilância global 2013Presente
+Communications Security Establishment Canada
+GCHQ
+Vigilância de Computadores e Redes
+Operações de acesso adaptado TAO NSA
+Operações de Fonte EspecialSSO
+Vigilância de Computadores e Redes
+
+

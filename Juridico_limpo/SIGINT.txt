@@ -1,0 +1,29 @@
+SIGINT acrônimo de signals intelligence é o termo inglês usado para descrever a atividade da coleta de informações ou inteligência através da interceptação de sinais de comunicação entre pessoas ou máquinas
+O nascimento da SIGINT em um senso moderno data da Guerra RussoJaponesa de 1904~1905 Conforme a esquadra russa preparava-se para o conflito com o Japão em 1904 o navio britânico HMS Diana estacionado no Canal de Suez interceptou signais sem-fio da marinha russa destinados para a mobilização dos navios da esquadra esta foi a primeira vez que algo do tipo ocorreu
+
+
+ Subdisciplinas 
+SIGINT tem as seguintes sub-categorias
+
+COMINT abreviatura de communications intelligence focado nas comunicações humanas
+ELINT  abreviatura de electronic intelligence focado no uso de sensores para obter dados principalmente sobre a rede de defesa inimiga como alcance de radares
+FISINT sigla para foreign instrumentation intelligence focado em comunicações não humanas como telemetria de mísseisMuitas vezes as atividades de COMINT são descritas como SIGINT o que pode causar confusão
+
+
+ Contexto 
+Cada vez mais a SIGINT vem se tornado central para os militares e também para o corpo diplomático desde o desenvolvimento das telecomunicações e sua aplicação militar além da mecanização que aumentou a velocidade e raio de atuação das forças como a blitzkrieg e o uso do submarino e da aviação militar todos fortes usuários do rádio
+Vários fatos podem comprovar a importância das SIGINT na guerra moderna
+
+A falha dos russos de proteger adequadamente as suas comunicações levou à desastrosa derrota na Batalha de Tannenberg
+A captura do Telegrama Zimmermann foi fator importante na decisão dos Estados Unidos de entrarem na Primeira Guerra Mundial
+A quebra do código alemão Enigma é considerada um dos fatores mais importantes para a vitória aliada na Segunda Guerra Mundial
+A quebra do código japonês PURPLE é considerada um dos fatores mais importantes para a vitória americana no Pacífico que terminou com a Segunda Guerra Mundial influenciando decisivamente a Batalha de Midway
+
+
+ Atividades passadas e atuais 
+Projeto Ultra e Máquina Enigma
+Project VENONA
+PURPLE e Magic criptografia
+ECHELON
+
+

@@ -1,0 +1,77 @@
+Cadeia de custódia no contexto legal refere-se à documentação cronológica ou histórica que registra a sequência de custódia controle transferência análise e disposição de evidências físicas ou eletrônicas De particular importância em casos criminais o conceito também é aplicado em litígio civil  e algumas vezes mais amplamente no teste antidoping de atletas e em gerenciamento de cadeia de suprimentos eg para melhorar a rastreabilidade de produtos alimentícios ou para fornecer garantias que produtos de madeira se originaram de florestas gerenciadas sustentavelmente
+O termo às vezes também é usado nos campos de história história da arte e arquivos como um sinônimo para procedência significando a cronologia da propriedade custódia ou localização de um objeto histórico documento ou grupo de documentos que podem ser um fator importante na determinação de autenticidade
+
+A perícia criminal publicada pela SENASP em 2013 diz  que  CADEIA DE CUSTÓDIA sistemática de procedimentos que visa à preservação do valor probatório da prova pericial caracterizada
+
+
+ Cadeia de Custódia em um processo penal 
+
+No que diz respeito à preservação das informações coletadas a cadeia de custódia possibilita documentar a cronologia das evidências quem foram os responsáveis por seu manuseio etc Procedimentos como colocar lacres em evidências restringir o acesso apenas aos profissionais responsáveis pela custódia etc minimizam a possibilidade de manipulação indevida tornando as evidências mais confiáveis O Brasil não tem uma normativa geral sobre cadeia de custódia e o mesmo ocorre na grande maioria dos Estados que ainda encontram fragilidades na gestão da atividade pericial
+
+
+ Diagnóstico da Perícia Criminal no Brasil 
+A ausência de uma normatização específica não quer dizer que as evidências coletadas prescindam de preservação O Ministério da Justiça por meio da Secretaria Nacional de Segurança Pública realizou uma pesquisa sobre a situação da perícia no Brasil trabalho intitulado Diagnóstico da Perícia Criminal no Brasil e que foi publicado em 2012
+O documento Diagnóstico da Perícia Criminal no Brasil foi escrito após uma análise dos órgãos periciais presentes em todos os estados brasileiros este documento é escrito com capítulos sobre sete tópicos principais
+
+Estrutura Organizacional
+Gestão da Informação
+Recursos Materiais
+Recursos Humanos
+Funcionamento
+Processo de Trabalho
+ProdutividadeA construção de cada um dos pontos do documento é feita por meio de uma análise inicial seguida por várias tabelas de dados que embasam a análise anteriormente exposta
+A lei 12735/2012 traz a necessidade de estruturação de equipes especializadas voltadas para o combate ao Cibercrime
+
+Art 4o  Os órgãos da polícia judiciária estruturarão nos termos de regulamento setores e equipes  especializadas no combate à ação delituosa em rede de computadores dispositivo de comunicação ou sistema informatizadoNos diversos tópicos há críticas às condições do trabalho pericial no que diz respeito a condições necessárias metodologias padronização de procedimentos capacitação para que os órgãos periciais oficiais desenvolvam um trabalho a altura de sua importância e possam com isto melhor embasar a investigação policial e dar aos magistrados mais elementos para formar sua decisão
+Em 2013 foi publicado um documento intitulado Procedimento Operacional Padrão para a Perícia Criminal ele procura criar um roteiro capaz de nortear o trabalho da perícia São sugeridos procedimentos padronizados para
+
+Balística Forense
+Genética Forense
+Informática Forense ou Forense computacional
+Local de Crime
+Medicina Legal
+Papiloscopia
+Química forenseOs procedimentos devem ser adotados para atender tanto requisitos impostos pelo Código de Processo Penal quanto para obedecer metodologias investigativas pertinentes a cada área pericial de atuação
+
+
+ Cadeia de Custódia e a Forense Computacional 
+A evidência digital é complexa volátil e pode ser modificada acidentalmente ou propositadamente depois de coletada para que se consiga determinar se essa evidência sofreu modificações torna-se necessário o estabelecimento de uma cadeia de custódia O US National Institute of Justice define cadeia de custódia como um processo usado para manter e documentar cronologicamente a evidência Os documentos devem incluir nome ou iniciais dos indivíduos que coletaram as evidências cada pessoa ou entidade que após a coleta teve acesso a evidência data que os itens foram coletados ou transferidos órgão e número do caso nome das vítimas ou suspeitos e uma rápida descrição do caso
+No Brasil o tema “cadeia de custódia” é pouco conhecido ou mal compreendido em muitas ocasiões os trâmites complexos da cadeia são descumpridos ou tratados inadequadamente devido ao desinteresse de ser cientificamente rigoroso e outras vezes por simples ignorância acerca de sua importânciaNão há na legislação brasileira referência específica à cadeia de custódia do material O Código de Processo Penal Brasileiro CPP  determina que a autoridade policial deverá providenciar para que não se alterem o estado das coisas e deverá apreender os objetos que tenham relação com o fato estas condutas compõem a cadeia de custódia No entanto não é mencionada diretamente a necessidade de manter uma cadeia de custódia nem mesmo este termo está presente no CPP
+Giova afirma que o ciclo de vida da evidência digital está se tornando mais complexo e cada estágio aumenta a probabilidade de uma brecha violar a cadeia de custódia O resultado é um cenário de dificuldade crescente para que o judiciário avalie a evidência e a considere genuína e confiável
+
+
+ Modelos de Cadeia de Custódia em Forense Computacional 
+Alguns modelos foram propostos para manter uma cadeia de custódia Carrier e Spafford 2004 Köhn et al 2008Cosic e Baca 2010 softwares especificamente criados para procedimentos de forense computacional podem adicionalmente fornecer melhor descrição das evidências auditoria automática e gerar hashes criptográficos para verificação da integridade
+Na aplicação dos modelos para manter uma cadeia de custódia pode haver variação por conta do país da legislação da organização da justiça do tipo do caso dentre outros fatores o importante é que esses modelos são capazes de conhecer melhor os personagens envolvidos e suas atividades no processo forense
+Procedimentos que permitam ao investigador recuperar dados de computadores envolvidos em atos ilegais e usar estes dados como evidências em uma investigação criminal estão se tornando fundamentais para as agências de aplicação da lei Tais procedimentos devem ser robustos tecnologicamente para assegurar que todas as informações probatórias foram recuperadas Além disso as evidências digitais devem ser tratadas de forma tal que se possa garantir que nada na evidência original foi alterado
+Para a área forense um caso em que os procedimentos e a possível contaminação das provas foram usados para absolver um indivíduo ocorreu no julgamento do jogador de futebol americano O J Simpson
+Quando se fala de forense computacional a falta de boas práticas e procedimentos confiáveis são problemas sérios é uma ciência nova e que trabalha com evidências voláteis que existem apenas em circuitos eletrônicos
+
+
+ Padronização da Forense Computacional 
+O trabalho na direção da padronização originou uma lista de princípios que foram aprovados pela International Organisation on Computer Evidence  IOCE e que formam um guia de boas práticas de procedimentos em forense computacional
+
+
+ Casos de Trabalho Pericial de Grande Repercussão no Brasil 
+
+
+ Caso Isabella Nardoni 
+
+A morte da menina Isabella Nardoni comoveu o Brasil em 2008 a perícia da Polícia Civil de São Paulo foi fundamental para a condenação do casal Anna Carolina Jatobá e Alexandre Nardoni madrasta e pai da menina respectivamente A menina Isabella foi lançada pela janela do sexto andar do Edifício London em São Paulo na noite de 29 de março de 2008 Há uma controvérsia quanto ao laudo pericial mas o casal permanece preso Segundo o resultado pericial a menina foi jogada pela janela do quarto dos irmãos ainda segundo a perícia ela foi cuidadosamente introduzida no buraco da rede de proteção que estava instalada na janela e foi solta caiu no gramado que fica logo abaixo da janela do quarto Entre as qualificados do homicídio foi colocada a alteração do local do crime atitude que visa dificultar o trabalho pericial
+
+
+ Perícia na Operação Satiagraha 
+
+Em 2008 durante uma grande operação da Polícia Federal denominada Operação Satiagraha foram encontrados e apreendidos  no apartamento do banqueiro Daniel Dantas  discos rígidos que estavam com seu conteúdo criptografado Após tentar desvendar o conteúdo armazenado nos discos e não obter sucesso a Polícia Federal Brasileira solicitou ajuda da polícia federal americana o FBI que também não obteve sucesso após mais de um ano de tentativasRevelações do delegado da Polícia Federal Carlos Eduardo Pellegrini que atuou na Operação Satiagraha juntamente com o delegado Protógenes Queiroz atualmente licenciado e exercendo mandato partidário indicam que a PF apreendeu no apartamento do banqueiro Daniel Dantas documentos que comprovam o pagamento de propinas a políticos juízes jornalistas no valor de R 18 milhões
+
+
+ Caso PC Farias 
+
+O tesoureiro da campanha para presidente de Fernando Collor de Mello em 1989 Paulo César Farias conhecido como PC Farias foi encontrado morto junto com sua namorada Suzana Marcolino em uma casa de praia em 1996 Houve muita controvérsia e reviravolta em torno do caso O legista Badan Palhares deu como resultado de seu laudo que Suzana Marcolino matou PC Farias e suicidou-se em seguida O médico-legista alagoano George Sanguinetti o perito criminal Ricardo Molina de Figueiredo e mais recentemente o perito Domingos Tochetto afirmam que o casal foi assassinado
+
+
+ Caso Celso Daniel 
+
+A morte do ex-prefeito de Santo André Celso Daniel foi outro caso em que houve grande repercussão e houve forte envolvimento do trabalho pericial Várias pessoas que estavam ligadas de alguma forma com o crime ou com o prefeito morreram sob circunstâncias misteriosas inclusive o perito responsável pelo caso Carlos Delmonte Printes
+
+

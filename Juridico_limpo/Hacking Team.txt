@@ -1,0 +1,24 @@
+Hacking Team é uma empresa de TI com sede em Milão que vende ferramentas para ataques de acesso e vigilância Seu sistema de controle remoto permite a seus clientes monitorar comunicações de internautas decifrar arquivos e emails criptografados gravar ligações VOIP como Skype e ativar à distância o funcionamento de microfones e câmeras de computadores e celularesA empresa emprega cerca de 40 pessoas no seu escritório italiano e em suas subsidiárias nos EUA e em Singapura Seus produtos estão em uso em dezenas de países em seis continentesCriticada por oferecer suas ferramentas para governos que violam direitos humanos a Hacking Team afirma que pode desabilitar o uso de seus programas se eles foram utilizados de modo antiéticoEm julho de 2015 o Wikileaks divulgou uma série de e-mails demonstrando como o lobby da empresa atua No Brasil a agência de notícias Agência pública revelou que Polícia Federal do Brasil Exército Brasileiro e as polícias estaduais foram contactados pela Hacking Team e também solicitaram informações sobre os produtos que ela oferece
+
+
+ História de empresa 
+Em junho de 2014 uma relatório da Universidade de Toronto detalhou o funcionamento e a arquitetura do Sistema Remoto de Controle RCS da Hacking TeamA Hacking Team foi fundada pelos programadores italianos Alberto Ornaghi e Marco Valleri Antes da formalização eles criaram um conjunto de ferramentas que poderias ser usado para monitorar e manipular remotamente computadores chamado Ettercap que foi adotado tanto por hackers espiões quanto por empresas que queriam testar a segurança de suas próprias redes
+Ao saber da ferramenta o departamento de polícia de Milão entrou em contato com a dupla a fim de poder adaptar o Ettercap e poder espionar cidadãos e ouvir suas ligações Skype Assim nasceu a Hacking Team tornando-se a primeira fornecedora de programas hackers para a polícia
+
+
+ Vazamento de 2015 
+Em 5 de julho de 2015 o perfil da empresa no Twitter foi comprometido e por meio de um link BitTorrent  foram vazados mais de 400 GB de dados incluindo emails internos faturas comerciais e códigos fonte O anúncio do ataque foi retuitado por diversas contas na rede social incluindo o WikiLeaksEmbora o material fosse volumoso análises prévias pareceram revelar que a Hacking Team tinham negociado com os exércitos do Libano e do Sudão bem como que as ferramentas espiãs tinham sido vendidas para o Bahrein e o Cazaquistão Anteriormente a empresa havia negado que tivesse vendido seus produtos para o SudãoA responsibilidade pelo ataque foi reivindicada via Twitter pelo hacker conhecido como Phineas Fisher que anteriormente já havia atacado a produtora de spyware GammaO repórter Ryan Gallagher do The Intercept tuitou que a Polícia Federal brasileira estava entre os 5 clientes top da Hacking Team em 2015 No material disponibilizado também há referência às PMs de SP e do RJ
+
+
+ Ferramentas 
+A Hacking Team permite a seus clientes funções de monitoramento à distância contra pessoas por meio de seu Sistema de Controle Remoto RCS incluindo Da Vinci
+
+Coleção disfarçada de e-mails mensagens de texto histórico de ligações telefônicas e lista de contatos
+Registrar as teclas presionadas em um teclado
+Revelar dados de histórico de buscas e capturar imagens da tela
+Gravar áudio de ligações telefônicas
+Utilizar telefones para coletar sons ambientes e conversas
+Ativar e câmeras de computadores e celulares
+Acessar sistema de GPS do celular para monitorar a localizaçãoA Hacking team usa técnicas avançadas para despistar sua atuação tais como  evitar o consumo da bateria dos celulares o que poderia levantar suspeita
+
+

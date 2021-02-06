@@ -1,0 +1,66 @@
+O número oficial de comunidade é uma sequência numérica para identificar municípios Outras nomenclaturas usadas para este fim são os códigos NUTS FIPS e o código postal
+
+
+ Alemanha 
+Na Alemanha o número oficial de comunidade é usado para fins estatísticos e é determinado por cada um dos escritórios de estatística dos diferentes estados
+
+
+ Estrutura 
+O número oficial de comunidade é formado por oito dígitos que se constituem da seguinte maneira
+
+os primeiros dois dígitos designam o estado alemão
+o terceiro dígito designa a região administrativa em áreas sem região administrativa se usa um zero em seu lugar
+o quarto e quinto dígito designam o número do distrito ou de uma cidade independente
+o sexto sétimo e oitavo dígitos indicam o município ou cidade Para as cidades independentes são usados três zeros
+
+
+ Exemplos 
+08 1 11 000 Stuttgart
+
+08 BadenWürttemberg
+1 Região Administrativa de Stuttgart
+11 Stuttgart
+000 Stuttgart é uma cidade independente03 2 54 021  Hildesheim
+
+03 BaixaSaxônia
+2 Região Administrativa de Hanôver vigorou até 31 de dezembro de 2004
+54 Distrito de Hildesheim
+021 Hildesheim12 0 64 340  Neuhardenberg
+
+12 Brandemburgo
+0 em Brandemburgo não há regiões administrativas
+64 distrito de MärkischOderland
+340 Neuhardenberg
+
+
+ Estados Federais 
+01 SchleswigHolstein
+02 Hamburgo
+03 BaixaSaxônia
+04 Bremen
+05 Renânia do NorteVestfália
+06 Hesse
+07 RenâniaPalatinado
+08 BadenWürttemberg
+09 Baviera
+10 Saarland
+11 Berlim
+12 Brandemburgo
+13 MecklemburgoPomerânia Ocidental
+14 Saxônia
+15 SaxôniaAnhalt
+16 Turíngia
+
+
+ Base de dados 
+Procura de uma localidade na base de dados alemã  «Número oficial de comunidade» 
+
+
+ Suíça 
+
+
+ Estrutura 
+O Escritório Federal de Estatística da Suíça atribui códigos numéricos de até quatro dígitos aos municípios Estes códigos são formados sequencialmente de acordo com a ordem oficial dos Cantões da Suíça distritos e municípios
+
+
+ Cantões 

@@ -1,0 +1,1 @@
+CRISPRGold é um sistema de entrega da tecnologia CRISPRCas9 no interior das células CRISPRGold é composto de nanopartículas de ouro de 15 nanômetros que são conjugadas com oligonucleotídeos modificados com tiol DNATiol que são hibridizados com DNA doador de fita única e posteriormente complexados com Cas9 e encapsulados por um polímero que perturba o endossomo da célula

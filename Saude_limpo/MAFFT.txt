@@ -1,0 +1,1 @@
+MAFFT é um software para Alinhamento múltiplo de sequências para sequências de aminoácidos ou nucleótidos MAFFT foi desenvolvida com maior velocidade para obter alinhamento múltiplo de sequências e para tal transformadas rápidas de Fourier foram usadas no procedimento MAFFT está disponível gratuitamente para uso acadêmico sem qualquer garantia

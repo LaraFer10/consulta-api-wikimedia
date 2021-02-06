@@ -1,0 +1,15 @@
+A Van Eck phreaking é uma técnica de ataque de violação de segurança do tipo phreaking  também conhecido como ataque tempest  que tem o objetivo de realizar interceptações eletrônicas através do reconhecimento de padrões de Radiação electromagnética rastreadas via receptores de rádio Uma vez gravadas em áudio estes sinais podem ser decodificados quebrando assim o sigilo da informação
+
+
+ Eponímia 
+Quem primeiro divulgou esta técnica publicamente foi o pesquisador holandês Win van Eck em 1985 em um artigo que incluía uma simples prova de conceito
+
+
+ LCDs 
+Durante alguns anos foi divulgado que telas de LCD eram imunes a este tipo de ataque mas em Abril de 2004 pesquisas acadêmicas revelaram que alguns tipos de telas de LCD como a de laptops também são vulneráveis ao ataque tempest porém empregando uma técnica diferente onde o equipamento de espionagem que foi construído para a prova de conceito no laboratório da universidade custou menos que US 200000 desta forma o ferramental necessário tem um custo mais elevado do que um clássico Van Eck phreaking porém mesmo assim ainda tem um baixo custo
+
+
+ Contramedidas 
+Contramedidas para estes ataques são detalhados em um artigo da NSA que é uma norma de prevenção de espionagem de equipamentos digitais Uma contramedida envolve a blindagem do equipamento para minimizar a emissão de radiação eletromagnética Outro método especificamente para video informações é a utilização de uma técnica que embaralhamento os sinais eletromagnéticos deixando a imagem perceptível visualmente intacta porém esta técnica apenas dificulta a engenharia reversa mitigando o risco mas não impede o ataque Um exemplo de contramedida é a utilização de fonte de alimentação com filtro passa-baixo e randomização do bit menos significativo dos dados das informações de processamento de vídeo
+
+

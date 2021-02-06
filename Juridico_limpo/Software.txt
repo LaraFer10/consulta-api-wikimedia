@@ -1,0 +1,66 @@
+Software pronúncia em inglês sɔftwɛəɹ é um termo técnico e anglicismo de tecnologia da informação que foi traduzido para a língua portuguesa como logiciário ou suporte lógico é uma sequência de instruções a serem seguidas e/ou executadas na manipulação redirecionamento ou modificação de um dado informação ou acontecimento
+Software também é o nome dado ao comportamento exibido por essa sequência de instruções quando executada em um computador ou máquina semelhante além de um produto desenvolvido pela engenharia de software e inclui não só o programa de computador propriamente dito mas também manuais e especificações Para fins contábeis e financeiros o software é considerado um bem de capitalUm software normalmente é composto por diversas funções bibliotecas e módulos que gera um programa executável ao final do processo de desenvolvimento e este quando executado recebe algum tipo de “entrada” de dados input processa as informações segundo uma série de algoritmos ou sequências de instruções lógicas e libera uma saída output como resultado deste processamento Um software bem desenvolvido é normalmente criado pela área engenharia de software e inclui não apenas o programa de computador em si mas também manuais especificações e configurações
+Este produto passa por várias etapas como análise econômica análise de requisitos especificação codificação teste documentação Treinamento manutenção e implantação nos ambientes
+
+
+ Software como programa de computador 
+Um programa de computador é composto por uma sequência de instruções que é interpretada e executada por um processador ou por uma máquina virtual Em um programa correto e funcional essa sequência segue padrões específicos que resultam em um comportamento desejadoO termo software foi criado na década de 1940 e é um trocadilho com o termo hardware Hardware em inglês significa ferramenta física Software seria tudo o que faz o computador funcionar excetuando-se a parte física dele
+Um programa pode ser executado por qualquer dispositivo capaz de interpretar e executar as instruções de que é formado
+Quando um software está representado como instruções que podem ser executadas diretamente por um processador dizemos que está escrito em linguagem de máquina A execução de um software também pode ser intermediada por um programa interpretador responsável por interpretar e executar cada uma de suas instruções Uma categoria especial e o notável de interpretadores são as máquinas virtuais como a máquina virtual Java JVM que simulam um computador inteiro real ou imaginado
+O dispositivo mais conhecido que dispõe de um processador é o computador Atualmente com o barateamento dos microprocessadores existem outras máquinas programáveis como telefone celular máquinas de automação industrial calculadora etc
+
+
+ A construção de um programa de computador 
+Um programa é um conjunto de instruções para o processador linguagem de máquina Entretanto pode-se utilizar linguagens de programação que traduza comandos em instruções para o processador
+Normalmente programas de computador são escritos em linguagens de programação pois estas foram projetadas para aproximar-se das linguagens usadas por seres humanos Raramente a linguagem de máquina é usada para desenvolver um programa Atualmente existe uma quantidade muito grande de linguagens de programação dentre elas as mais populares no momento são Java Visual Basic C C PHP dentre outrasAlguns programas feitos para usos específicos como por exemplo software embarcado ou software embutido ainda são feitos em linguagem de máquina para aumentar a velocidade ou diminuir o espaço consumido Em todo caso a melhoria dos processadores dedicados também vem diminuindo essa prática sendo a C uma linguagem típica para esse tipo de projeto Essa prática porém vem caindo em desuso principalmente devido à grande complexidade dos processadores atuais dos sistemas operacionais e dos problemas tratados Muito raramente realmente apenas em casos excepcionais é utilizado o código de máquina a representação numérica utilizada diretamente pelo processadorO programa é inicialmente carregado na memória principal Após carregar o programa o computador encontra o Entry Point ou ponto inicial de entrada do programa que carregou e lê as instruções sucessivamente byte por byte As instruções do programa são passadas para o sistema ou processador onde são traduzidas da linguagens de programação para a linguagem de máquina sendo em seguida executadas ou diretamente para o hardware que recebe as instruções na forma de linguagem de máquina
+
+
+ Tipos de programas de computador 
+Qualquer computador moderno tem uma variedade de programas que fazem diversas tarefas
+Eles podem ser classificados em duas grandes categorias
+Software de sistema que incluiu o firmware A BIOS dos computadores pessoais por exemplo drivers de dispositivos o sistema operacional e tipicamente uma interface gráfica que em conjunto permitem ao usuário interagir com o computador e seus periféricos
+Software aplicativo que permite ao usuário fazer uma ou mais tarefas específicas Aplicativos podem ter uma abrangência de uso de larga escala muitas vezes em âmbito mundial nestes casos os programas tendem a ser mais robustos e mais padronizados Programas escritos para um pequeno mercado têm um nível de padronização menorAinda é possível usar a categoria Software embutido ou software embarcado indicando software destinado a funcionar dentro de uma máquina que não é um computador de uso geral e normalmente com um destino muito específico
+
+Software aplicativo é aquele que permite aos usuários executar uma ou mais tarefas específicas em qualquer campo de atividade que pode ser automatizado no computador especialmente no campo dos negócios Inclui entre outros
+Aplicações de controle e sistemas de automação industrial
+aplicações de informática para o escritório
+Software educacional
+Software de negócios
+Banco de dados
+Telecomunicações
+vídeo games
+Software médico
+Software de calculo numérico e simbólicoAtualmente temos um novo tipo de software O software como serviço que é um tipo de software armazenado num computador que se acessa pela internet não sendo necessário instalálo no computador do usuário Geralmente esse tipo de software é gratuito e tem as mesmas funcionalidades das versões armazenadas localmente
+Outra classificação possível é
+
+Software de sistema Seu objetivo é separar usuário e programador de detalhes do computador específico que está sendo usado O software do sistema lhe dá ao usuário interfaces de alto nível e ferramentas que permitem a manutenção do sistema Inclui entre outros
+Sistemas operacionais
+Drivers
+ferramentas de diagnóstico
+ferramentas de correção e otimização
+Servidores
+Software de programação O conjunto de ferramentas que permitem ao programador desenvolver programas de computador usando diferentes alternativas e linguagens de programação de forma prática Inclui entre outros
+Editores de texto
+Compiladores
+Intérpretes
+Linkers
+Depuradores
+Ambientes de Desenvolvimento Integrado  agrupamento das ferramentas anteriores geralmente em um ambiente visual de modo que o programador não precisa digitar vários comandos para a compilação interpretação depuração etc Geralmente equipados com uma interface de usuário gráfica avançada
+
+
+ Licenças 
+A maioria dos softwares é publicada sob uma licença de software Essa licença define e até restringe qual a forma que se pode utilizar o software definido números de licenças modificações entre outros Exemplos de licenças
+
+GNU General Public License
+Licença BSD
+Licença Apache
+Licença comercial
+Licença de software
+Licença de software livre
+Software livre
+Freeware
+Shareware
+Demo
+Trial
+
+

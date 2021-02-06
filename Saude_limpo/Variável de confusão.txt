@@ -1,0 +1,1 @@
+Em estatística uma variável de confusão também chamada de fator de confusão ou confundidor é uma variável que influencia tanto a variável dependente quanto a variável independente causando uma associação espúria A variável de confusão é um conceito causal e como tal não pode ser descrita em termos de correlações ou associações

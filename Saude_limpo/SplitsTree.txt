@@ -1,0 +1,1 @@
+SplitsTree é um programa popular para inferir árvores filogenéticas ou mais genericamente redes filogenéticas de vários tipos de dados tais como a alinhamento de sequências uma matriz de distâncias ou um conjunto de árvores

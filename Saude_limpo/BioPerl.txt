@@ -1,0 +1,1 @@
+BioPerl é uma coleção de módulos Perl que facilitam o desenvolvimentode scripts Perl para aplcações de bioinformática Ele desempenhou um papel integral no Projeto Genoma Humano O projeto fornece kits de ferramentas com múltiplas funções que tornam mais fácil a criação de análises ou pipelines customizados
